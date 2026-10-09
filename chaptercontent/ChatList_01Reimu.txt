@@ -1,0 +1,609 @@
+﻿○霊夢第一話「楽園の素敵な巫女
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: 3PP
+ 3: Reimu first battle
+ 4: Keine first battle
+ 5: omake
+ 6: clear
+ 7: ADVB
+
+<ChatID:0>--------------------------------------
+//ADVA
+
+<BG=bg_talk_Road.png,fade=0,color=1,title=*bg_RoadtoShrine,bgm=bgm_talk_aoki>
+
+<hide=all>
+
+Keine0b:Phew, there we go.
+
+Keine3a:It's been a while since I've visited, and I can see the road conditions are no better than before.
+
+Keine0b:That storm passed a few days ago, but...
+
+Keine0a:Rather than clear up, this mysterious mist is actually getting thicker.
+
+Keine0a:I need to find its cause before the humans start getting hurt...
+
+Keine2b:Wait, what's that?
+
+<SE=se_move_bania02.ogg,wait=1>
+
+Keine1a:A group of... fairies? And I can guess where they're headed.
+
+Keine0a:I'd better hurry and pass the word on...
+
+Keine1a:To the Hakurei Shrine Maiden, the incident-solver whose shrine I'm visiting.
+
+</hide>
+
+<end>
+
+<ChatID:1>--------------------------------------
+//1PP
+
+Reimu0d:Geez, what's going on?
+
+Reimu1b:Why's it so noisy out there? Can't they tell when someone's taking a nap?
+
+Reimu2b:What are all these fairies doing here, so close to the shrine?
+
+Yousei10a:Tee hee!
+
+Yousei21a:Hee hee hee!
+
+Reimu1b:...Something's not right here.
+
+Reimu4a:Hey, fairies. This isn't a playground. Go home already.
+
+Yousei10a:Ready, set...
+
+Yousei11a:Hey, you poor, penniless shrine maiden!
+
+Yousei21a:Your donation box is always empty and your shrine's haunted!
+
+Reimu5a:...
+
+Reimu4a:They've got a lot of nerve for fairies. Do they really want to be exterminated that badly?
+
+<pause>
+
+Reimu0d:Go on, get out of here! If you come any closer, you're gonna regret it.
+
+Yousei11a:Yes! She finally came out!
+
+Yousei21a:Everyone! Now!
+
+<pause>
+
+Reimu3c:...! Even more of them?!
+
+Yousei10a:Ahaha! She fell for our taunt! What a stupid shrine maiden!
+
+Yousei21a:She can't even fly on her own. We'll pound her from the air!
+
+Reimu0f:Hm... Guess my lack of sleep dulled my judgment there.
+
+Reimu0a:Let me just say one thing, though.
+
+Reimu1a:The shrine maiden who can't fly is a girl of the past. This shrine maiden can fly!
+
+<pause>
+
+Yousei12b:No way!
+
+Yousei22a:Everyone said she couldn't fly without riding a turtle!
+
+Reimu0a:I can fly on my own, easy. If you're wondering about the turtle, I released him in the lake out back.
+
+Reimu1a:I hope you're ready, 'cuz here I come!
+
+<end>
+
+<ChatID:2>-------------------------------------------------
+//3PP（慧音増援）
+
+Reimu2b:Huh... They're pretty strong for fairies.
+
+Reimu0a:I didn't want to use a spellcard on a bunch of fairies, but fine. I'll just have to punish you all at once.
+
+Reimu1a:Get ready for this! Spirit Sign [Fantasy...
+
+<pause>
+
+Keine3b:Well, that took longer than I thought. So this is the Hakurei Shrine that lies on the eastern border of Gensokyo.
+
+Keine0c:Which means she must be the Hakurei Shrine Maiden, Reimu Hakurei.
+
+Reimu0f:Another fairy?! No... it's a human.
+
+Keine2a:The battle's already started. Looks like those fairies I saw earlier were heading for the shrine after all.
+
+Keine0c:It seems exposure to the youkai energy of this mist is causing the fairies to become aggressive.
+
+Reimu1b:Hey, you! It's dangerous to be here right now!
+
+Reimu0d:The fairies are acting weird today. Don't blame me if you get hurt.
+
+Keine0b:You're one to talk, surrounded in danmaku like that. It seems to me you're the one that's about to get hurt.
+
+Reimu2b:...
+
+Reimu3a:Where'd you come from, anyway? And who are you?
+
+Keine3a:What, you don't remember me? I'm―
+
+Yousei20a:Another human showed up. What should we do?
+
+Yousei11a:It doesn't matter if one or two more show up. They're not scary if we attack together!
+
+Keine1a:I don't think they'll give us time to chat. Let's put a pin in this until we deal with them.
+
+Reimu0f:Hey, are you familiar with danmaku?
+
+Keine0a:I know a modest amount.
+
+Reimu0g:Then I've got a question. What do I do when they're filling the field with danmaku like this?
+
+Keine3b:It's simple. Entering those fairies' danmaku will lower your movement, evasion, and defense.
+
+Keine0a:To avoid that, either fight from outside it or switch to focused mode.
+
+Reimu0c:Huh. What a detailed explanation.
+
+Keine0b:Now let me ask YOU a question. What do you know about focused mode?
+
+Reimu1b:It's a way of fighting with slow, careful movement. One of the basics of danmaku battling.
+
+Reimu0a:It lowers your movement in exchange for ignoring the negative effects of danmaku fields.
+
+Keine0a:Indeed, but dodging attacks also becomes "Grazing," meaning you take Graze damage.
+
+Keine0b:Graze damage is proportional to the enemy's hit rate, so don't get careless.
+
+Reimu0g:Gotcha. Unfocused outside of danmaku, focused inside it.
+
+Reimu1a:Well, it'll disappear anyway if we defeat the fairies though. Time to show you how it's done.
+
+Keine6c:My, someone's confident. Then show me the power of the Hakurei Shrine Maiden.
+
+<end>
+
+<ChatID:3>---------------------------------------------
+//霊夢戦闘前
+
+Reimu1a:Let me show you the power of the Hakurei Shrine Maiden!
+
+<end>
+
+<ChatID:4>---------------------------------------------
+//慧音戦闘前
+
+Keine2a:It must be getting pretty bad, if the fairies are acting up to this degree.
+
+<end>
+
+<ChatID:5>---------------------------------------------
+//池到達時会話
+
+Reimu0e:This is where I released Genji.
+
+Reimu0f:I don't see him right now. I wonder how he's doing...
+
+Reimu5c:Well, I can always look for him later if I feel like it.
+
+<end>
+
+<ChatID:6>---------------------------------------------
+//クリア時
+
+Reimu0e:Well, that settles that.
+
+<Code=(icon_set_direction,Keine,Reimu,0)>
+
+Keine0a:Looks like that's all of them. I'd expect no less of a youkai exterminator. You're quite skilled.
+
+<Code=(icon_set_direction,Reimu,Keine,0)>
+
+Reimu0b:Thanks. So, what brings you to the shrine at a time like this? Come to pay your respects?
+
+Keine0c:No, not quite. I'm actually here to put in a request for an incident investigation.
+
+Reimu0e:What kind of incident?
+
+Reimu0a:Nothing out of the ordinary's been happening lately.
+
+Keine0b:Can you really say that after getting attacked by fairies?
+
+Keine0a:Let's not just stand around talking. Why don't we continue this talk over some tea?
+
+Reimu0g:...Okay, sure. No pressure or anything, but just as a reminder, I have a wonderful donation box right over there.
+
+<end>
+
+<ChatID:7>---------------------------------------------
+//ADVB
+
+<BG=bg_talk_Shrine.png,fade=1,color=1,title=bg_Shrine,bgm=bgm_talk_aoki>
+
+Reimu0b:Here's your tea.
+
+Keine0a:Thanks. Good work back there.
+
+Reimu0c:That was nothing. If it's just fairies, it doesn't matter how many show up. I'll just smack 'em down one after another.
+
+Keine0c:You're certainly capable, though rumor has it you don't do your job.
+
+Reimu2b:Who told you that? I'm busy every day. I sweep the grounds, polish my donation box...
+
+Keine3a:I don't think the rumors were referring to everyday chores...
+
+Keine0a:But no matter. I haven't seen you since the SCNG, but it seems you're doing well.
+
+Reimu0f:Huh? SCNG...?
+
+Reimu0a:You've been hinting at it for a while, but have we met somewhere before?
+
+Keine0c:Yes, at a meeting of the Society for the Creation of a New Gensokyo. I've sat in on explanations of spellcard rules several times.
+
+Reimu3b:Oh, that tedious get-together? I'm not gonna remember every person who attended that.
+
+Keine3a:...I figured as much. Despite being the shrine maiden, you were well-known at our meetings for having an appallingly low attendance rate.
+
+Reimu0e:Hey, my guide never showed up... I think.
+
+Keine0b:...
+
+Keine0a:Well, how about I at least introduce myself? I'm Keine Kamishirasawa, a teacher in the human village.
+
+Keine6c:Though I say I'm a teacher, our facilities at the local temple are rather small. It's a pleasure to meet you.
+
+Reimu0b:I'm Reimu. Nice to meet you, Keine.
+
+Reimu0f:I've actually heard that there's someone who teaches history in the human village.
+
+Keine0a:Right. That's because my main job is compiling history. The teaching is more like a steady side job.
+
+Reimu0e:So, what does a teacher want with me? You mentioned something about investigating an incident?
+
+Keine3b:Oh, that's right. Allow me to explain why I'm here.
+
+Keine0a:Just to be clear first—the Hakurei Shrine Maiden IS a professional incident-solver, yes?
+
+Reimu0g:Yup. It's my job to beat up anyone that causes an incident.
+
+Keine0c:Then I'd like to talk to you about this mist.
+
+Reimu0d:Are you talking about the scarlet mist? What's wrong with it?
+
+Keine3b:What do you mean what's wrong with it? It's been several days since it first appeared. There's no way you haven't noticed.
+
+Reimu0e:Well, yeah. It hasn't really gotten to the shrine yet and I figured it'd clear up eventually.
+
+Keine0b:About that. The mist has been growing steadily thicker in the village.
+
+Keine4a:This area is fine since the elevation is high, but at this rate the humans are going to start being affected by it.
+
+Reimu0d:Can't I just deal with that when it happens?
+
+Reimu0c:My job isn't to prevent incidents. It's to resolve them.
+
+Keine3a:...I guess the rumors about your work ethic were true after all.
+
+Reimu4a:Did you say something?
+
+Keine0b:Just talking to myself. However, you must have noticed that something was strange with those fairies just now.
+
+Keine0c:Fairies are normally powerless, yet you saw how much power they hold now.
+
+Reimu1b:...And you're saying that's proof that the scarlet mist is throwing nature out of balance?
+
+Reimu0a:Fairies are incarnations of nature itself, after all.
+
+Keine0a:Good, we're on the same page. That should make this simpler. Would you assist in investigating the scarlet mist?
+
+Keine0c:I consider it imperative to get to the bottom of this before the mist spreads any further.
+
+Reimu2b:C'mon, it's not THAT bad yet...
+
+Keine1a:I'm worried about the villagers, okay?!
+
+<SE=se_talk_touch01.ogg,wait=0>
+
+<Code=(map_shake,1,20,4)>
+
+<Code=(demo_wait,30)>
+
+Reimu3c:Okay, okay, I get it! Don't get all up in my face!
+
+Reimu3d:Fine, whatever, have it your way. I'll identify the cause of the mist sometime soon. Are you happy now?
+
+Keine0c:Excellent, now we're getting somewhere. Let's both proceed with the investigation and report our findings, then.
+
+Reimu3c:Wait, both?!
+
+Keine0a:I wouldn't trust you to handle this alone, so I'll lend you a hand.
+
+Reimu2b:You'll just get in the way...
+
+Keine6c:Yes, that settles that. Now, where do we meet...?
+
+Keine0a:Ah, I've got it. How about in front of Daimonji in the village, three days from now?
+
+Reimu2b:Hey, are you listening?
+
+Reimu0g:Wait, Daimonji? You mean that one sweets shop?
+
+Keine0a:I have a soft spot for their taiyaki. Specifically, the Taiyaki Maryuu Azking advertised on their sign.
+
+Reimu1b:(...!)
+
+Reimu0a:(Taiyaki Maryuu Azking... that's that one famously-delicious taiyaki, right?)
+
+Reimu0b:(...I want some.)
+
+Keine4a:Um... Will three days from now pose any scheduling issues?
+
+Reimu0b:Probably not. I'll do a little digging in the meantime.
+
+Keine0a:Understood. I'll be counting on you.
+
+Keine0c:Ah... When did it get to be so late? I need to prepare for tomorrow's class, so I think I'll take my leave for today.
+
+Reimu0b:Alright. It gets dangerous around here at night anyway.
+
+Keine0a:I'm counting on you to investigate this. Now if you'll excuse me, I'll be heading off.
+
+<single>
+
+Reimu0a:...What am I getting myself into? Sure, the fairies were acting kinda strange, but it's not like it's a huge problem.
+
+Reimu4a:Well, I'll just get Keine to treat me to some taiyaki and call it a service fee.
+
+Reimu0b:Looks like things are gonna get busy!
+
+</single>
+
+<BG=bg_talk_Black.png,fade=1,color=1,title=bg_Yukari,bgm=bgm_talk_unknown>
+
+<hide=name>
+
+Ran6c:I'm back, Lady Yukari.
+
+</hide>
+
+<hide=face>
+
+Yukari0a:Welcome back. So, how was it?
+
+</hide>
+
+<hide=name>
+
+Ran6e:Youkai Mountain has been silent ever since the turmoil a few days ago.
+
+Ran6c:Considering the scale of the situation, it's surprising how little chaos there's been.
+
+</hide>
+
+<hide=face>
+
+Yukari0a:Oh, they're good. It's no coincidence that they've kept the mountain society firmly under their thumb since the oni left.
+
+</hide>
+
+<hide=name>
+
+Ran0b:Yes, it was very smart to step in and stop the fighting early.
+
+Ran6c:The entire mountain is under martial law, and aside from certain youkai like the crow tengu, entering or leaving the mountain is strictly forbidden.
+
+Ran6b:Tengu have been posted around the perimeter, and their defenses are tight. Most information has been locked down tight.
+
+</hide>
+
+<hide=face>
+
+Yukari0a:I see they're as insular as ever. It must have been tricky reconnoitering with such tight defenses in place.
+
+</hide>
+
+<hide=name>
+
+Ran6a:Your concern is unwarranted, Mistress. Who do you take me for?
+
+</hide>
+
+<hide=face>
+
+Yukari1a:Oho, that's true. You are a nine-tailed fox... My strongest shikigami.
+
+</hide>
+
+<hide=name>
+
+Ran6a:Indeed. As long as I abide by your shiki formulas, the eyes of the tengu might as well be a net that lets a giant fish slip away.
+
+Ran6c:Without further ado, allow me to inform you of their movements.
+
+</hide>
+
+<hide=face>
+
+Yukari1a:I'm counting on you to continue your surveillance of the mountain, Ran.
+
+</hide>
+
+Ran6c:Please leave it to me, Lady Yukari.
+
+Ran6b:By the way, have you taken any measures regarding the mist?
+
+<hide=face>
+
+Yukari0a:No, but the shrine maiden has mobilized. It's a bit faster than I predicted—it seems the half-beast from the village lit a fire under her.
+
+</hide>
+
+Ran6b:So even you can't predict everything, Mistress?
+
+<hide=face>
+
+Yukari0a:All things exist in a state of fluctuation. There's always a margin of error.
+
+Yukari0d:What matters is the fact that the shrine maiden is at the heart of that fluctuation...
+
+Yukari0a:After all, she is expected to be the border of Gensokyo's equilibrium.
+
+</hide>
+
+Ran6c:Yes. And I'm aware that's the reason why she created the Spellcard Rules.
+
+<hide=face>
+
+Yukari0a:Heh heh...
+
+Yukari1a:Oh, look, Ran. She's jumping for joy. Is she really looking forward to taiyaki that much?
+
+</hide>
+
+Ran4a:...Lady Yukari, this is rather poor taste.
+
+<hide=face>
+
+Yukari0a:(This will be the first major incident since the establishment of the Spellcard Rules.)
+
+Yukari0d:(This incident is different from the previous ones. But even then, it's just a precursor of bigger waves yet to come.)
+
+Yukari1b:(Gensokyo's incidents are resolved by the Hakurei Shrine Maiden.)
+
+Yukari0a:(How will you go about resolving this incident, Reimu...?)
+
+</hide>
+
+<end>
+
+<ChatID:8>---------------------------------------------
+//EX条件達成（ver.3.0.1追加）
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Reimu)>
+
+Reimu0b:That was nothing.
+
+Keine0a:You move well. So what did you think of focused mode?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Keine)>
+
+Keine0a:Is that all, then? So what do you think after seeing focused mode?
+
+</Cond>
+
+Reimu0a:Not a fan of getting scratched up, but it's less risky than taking a direct hit.
+
+Reimu0a:Plus, you never find yourself unable to move around because of danmaku.
+
+Keine0a:I see you've hit on the key points. It's one of the basic tactics in danmaku battles.
+
+Keine0a:Remember it, because it'll be on the test.
+
+Reimu0a:So, are you some kind of danmaku teacher or what...?
+
+<end>
+
+<ChatID:9>---------------------------------------------
+//周回時、初戦闘後（メーまく増援）
+
+Makura1c:So we've arrived.
+
+Meko1a:Lady Makura, this is...
+
+Makura1c:Indeed, a dream world constructed from Reimu and Marisa's memories.
+
+Makura0a:This is the 118th summer, right after the mist incident began.
+
+Meko4c:Which means everyone over there is from the past.
+
+Meko0a:Seems like they haven't noticed us though?
+
+Makura0a:Unlike the trip to the moon, this seems to be a faithful recreation of past events.
+
+Makura3a:As long as we don't interfere, they won't react to us at all.
+
+Meko4a:I see, so it's like we're ghosts.
+
+Makura0a:I'll save a full explanation for when things settle down.
+
+Makura1a:For now, let's finish this danmaku battle.
+
+Meko1f:Right!
+
+<end>
+
+<ChatID:10>---------------------------------------------
+//まくら初戦闘
+
+Makura0b:This journey to Reimu and Marisa's past is just beginning.
+
+Makura3c:No doubt it will be a long road. But with Mehko at my side, we'll take it one step at a time.
+
+<end>
+
+<ChatID:11>---------------------------------------------
+//メーコ初戦闘
+
+Meko4c:So this is Reimu and Marisa's past, huh?
+
+Meko0e:I'm getting kind of excited, but I can't start slacking now.
+
+Meko1f:Our journey is just beginning, after all!
+
+<end>
+
+<ChatID:12>---------------------------------------------
+//周回霊夢初戦闘
+
+Reimu1b:So that's me from a few years back?
+
+Reimu3a:I don't remember being that sloppy about everything.
+
+Reimu1a:Well, the past is the past. Time to go wild with my current power!
+
+<end>
+
+<ChatID:13>---------------------------------------------
+//メーコ、またはまくら初戦闘（個別会話に優先）
+
+Meko4b:Straight to battle, huh? That's the Gensokyo I know.
+
+Makura0f:Please be careful. This may be a dream, but wounds will still hurt.
+
+Meko4c:What about you, Lady Makura? Do you have enough energy?
+
+Makura3a:This is my own manifested world. I'll manage, one way or another.
+
+Makura3b:As my willpower increases, the power of dream manifestation will be released.
+
+Meko4b:Knew I could count on you! I wish I could use my sleep powers like that too...
+
+Makura3c:I thought you might say that, so I've already thought of a way.
+
+Meko4c:Really?!
+
+Makura0h:When you lull an opponent to sleep, you become filled with the power of dreams.
+
+Makura0b:That converts into dream manifestation power, and in turn your own.
+
+Meko4c:So I'll be able to do more stuff the more enemies I defeat and put to sleep?
+
+Makura3a:In short, yes. I'm sure you'll be able to handle it. Muster your strength and give it your all.
+
+Meko1d:Right!
+
+<TIPS=SHEEP>
+
+<end>

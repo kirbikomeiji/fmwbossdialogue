@@ -1,0 +1,952 @@
+﻿○共通第六十七話「千年の時の楔（前編）
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: 2PP
+ 3: 2EP
+ 4: 3EP
+ 5: 6PP-1
+ 6: 6PP-2
+ 7: 7PP
+ 8: clear
+ 9: first battle (NazSho)
+10: first battle (RanChen)
+11: first battle (Youmu, Momiji)
+12: first battle (Udonge, Kaguya)
+13: lose
+14-23: first battle (Group)(unused)
+24: Goal berfore 6PP
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<BG=bg_talk_Black.png,fade=0,color=1,title=*bg_Recollection,bgm=bgm_talk_fire>
+
+Sho4b:...
+
+<update>
+
+Human0a:Lord Bishamonten, the nun is trapped up ahead.
+
+Human0a:She's behaving herself for now, so this is our best chance to exterminate her!
+
+</update>
+
+Sho1b:...I understand. Stand back, everyone.
+
+Human0a:Ooh, I knew we could count on you! Surely that fiend will feel the wrath of justice!
+
+Sho4a:The wrath of justice...
+
+Human0a:We'll leave you to it then. We'll be waiting over there.
+
+Sho4b:...
+
+<nowindow>
+
+<SE=se_talk_walk_indoor03.ogg,wait=1>
+
+<single>
+
+</nowindow>
+
+Byakuren0a:Who's there...?!
+
+</single>
+
+Sho4b:Hijiri...
+
+Byakuren0a:...Shou. So you came after me after all.
+
+Sho4b:...Yes, the humans are relying on me to exorcise you.
+
+Byakuren0a:Then, both Murasa and Ichirin are already...
+
+Sho4b:...It seems they'd been fighting back, but they were already captured by the time I arrived.
+
+Sho4b:I told the men to hold their punishment until I give the order.
+
+Byakuren0b:I see. So you're arranging this to avoid as much bloodshed as possible.
+
+Sho4a:"Arranging"?! I couldn't even speak to them in front of the humans!
+
+Sho4b:I'm just...acting a part! Playing the role of Bishamonten! I'm scared to even make eye contact!
+
+Byakuren0b:...But if the humans learned your identity, they'd tear down this entire temple.
+
+Byakuren0a:If you want to earn the humans' trust, you'll have to steel yourself...
+
+Byakuren0a:It's already too late for me.
+
+Sho1c:How can you say that?!
+
+Byakuren0a:You must have already realized that there's no way out of this situation.
+
+Byakuren0b:Please, seal me away with the power of the artifacts Bishamonten left us.
+
+Sho1b:Don't say that, Hijiri!
+
+Sho2a:I've sent the people elsewhere. You can get away if you move now...
+
+Byakuren0a:I appreciate the thought, I do. But... If they begin to doubt even you, then no one will be saved.
+
+Sho1b:But...
+
+Byakuren0b:...I've already recieved enough mercy. This is the punishment I deserve.
+
+Sho0c:Why?
+
+Byakuren0a:Despite the ideals I preach today, in the past I was ugly.
+
+Byakuren0a:Scared of death, I abandoned my humanity, and I've used both humans and youkai alike.
+
+Sho1b:None of that matters! You saved us and showed us the way!
+
+Byakuren2a:...But I am no longer able to help any of you.
+
+Sho4b:Hijiri...
+
+Byakuren0a:All that's left is for those left behind, both you and the humans, to find the path to peace.
+
+Byakuren0b:Please. Please show them the path so that someday, this conflict with youkai can come to an end.
+
+Sho1b:Even now, you want to save the humans...?
+
+Byakuren0a:I'm the one who deceived them. The humans are without sin.
+
+Sho2a:But how can I let you die, Hijiri? How can I be the only one to survive...?
+
+<SE=se_talk_knock03.ogg,wait=1>
+
+<update>
+
+<hide=face>
+
+Human0a:Is something giving you cause for delay, Lord Bishamonten?
+
+Human0a:If the nun is acting up, we can gather the men to shut her up.
+
+</hide>
+
+</update>
+
+Sho1b:...!
+
+Byakuren2a:There's no need for that, I won't resist.
+
+Byakuren0a:...Shou, please seal me. If we talk too long, they may begin to suspect you.
+
+Sho4b:...
+
+Byakuren0a:...Just having you all care for me so much was enough to save my sinful self.
+
+Byakuren0b:I'm glad I met you... All of you.
+
+Sho4b:Hijiri...
+
+Sho2a:I... I...
+
+<Code=(transition_out,c_black,80,1)>
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP
+
+Sho2a:I...
+
+Nazrin4a:Master! Hey, Master!
+
+Sho4a:Urgh... Where am I?
+
+Ran0a:Thank goodness, she woke up.
+
+Chen3c:She doesn't have any major injuries, so we don't need to worry anymore.
+
+<Code=(icon_set_direction,Sho,FD_RIGHT,0)>
+
+Sho0c:Nazrin... Ran... Where are we?
+
+Nazrin4a:This is Hokkai. Looks like we made it, somehow.
+
+Ran0a:There's no miasma here, so we were able to rest a little.
+
+Ran6b:We're the only ones nearby though.
+
+Sho0c:Just us? You're right, I don't see the ship...
+
+Sho1b:What happened to everyone else?!
+
+Nazrin6a:Who knows? We tried searching, but there's no one else in the area.
+
+Ran4a:Most likely, we were all scattered by the impact of entering Hokkai.
+
+Sho4a:Oh, no...
+
+Chen3a:But if Miss Yukari's with them, then I'm sure they're fine!
+
+Nazrin0b:All we can do is trust in them. Not to mention...
+
+Nazrin4a:Could you take a look over there, Master?
+
+Sho0c:What...?
+
+<pause>
+
+Sho1b:That's the barrier sealing Hijiri!
+
+Ran6a:I thought so. I could sense a peculiar spiritual energy coming from it.
+
+Sho0a:We couldn't ask for better luck! Let's unseal her right away!
+
+<pause>
+
+Sho1b:...!
+
+Nazrin0b:The monsters of Hokkai, huh? At least they aren't huge like that other one.
+
+Chen4a:So what do we do? Run away and find the others?
+
+Ran6c:It's a tricky decision. We may be in an unfavorable position here, but there's no guarantee we'd find them anytime soon.
+
+Sho0b:...In that case, let's just believe in them and push forward.
+
+Sho1b:I can't turn my back on Hijiri when she's right in front of me.
+
+Nazrin0a:Master...
+
+Ran6a:Clear a path through sheer willpower, is it? Well, given all the unknown variables involved, perhaps that's the best plan.
+
+Nazrin6b:I'm ready for this too. I mean, what else have I been spending the last thousand years for?
+
+Nazrin0b:Let's go, and finish this once and for all.
+
+Sho1c:Right!
+
+<end>
+
+<ChatID:2>---------------------------------------
+//2PP
+
+Nazrin4a:...They just keep coming and coming. It's just driving home how outnumbered we are.
+
+Sho1b:But beast youkai show their true strength when cornered.
+
+Sho0a:Isn't that right, Ran?
+
+Ran1a:You have a good memory, Shou. And as I recall, the last time that topic came up was when it was the four of us.
+
+Sho1a:I've never forgotten. That cold spring day, when I met you and Youmu and the others, and was finally able to pick myself up again.
+
+Ran6a:...True, when we first met you had the air of a defeated youkai.
+
+Ran6e:But since then, your heart has gotten stronger.
+
+Sho0c:How so?
+
+Ran0a:You've never lost that unwavering determination. To a youkai, that sort of strength is more important than anything.
+
+Ran6a:Even in this situation, I'm happy to be able to fight by your side.
+
+Chen3a:I also feel kinda better since you're here, Shou!
+
+Sho1a:...Thank you. Now I suppose I'll just have to live up to your expectations.
+
+Nazrin0b:Hold on, Master. This presence...
+
+<pause>
+
+Youmu1a:How's it looking behind us, Momiji?!
+
+Momiji1a:No sign of pursuit! I think we got away!
+
+<pause>
+
+Udonge1c:Princess, I'm detecting people over here!
+
+Kaguya2c:You're going too fast, Inaba. This isn't a matter of life and death.
+
+Udonge3a:Maybe not to you it isn't!
+
+Sho3b:Youmu! Reisen!
+
+Nazrin0a:And is that Momiji and Kaguya with them?
+
+Kaguya3b:Oh, so we weren't the only ones to reach Hokkai then?
+
+Youmu4a:Thank goodness! Although it looks like you're having your own battle over here too.
+
+Sho3c:It seems we're all in a similar situation.
+
+Udonge0a:Yeah. When I came to, it was just me and the princess. We've been looking for the ship while avoiding monsters.
+
+Udonge4d:Still haven't found its wavelength though.
+
+Momiji0a:I've been looking too. It must have been sent quite a distance.
+
+Nazrin0a:...So not much has changed then. But I sure wouldn't mind if you all lent us a hand here.
+
+Udonge3b:What are you talking about? Shouldn't we be looking for everyone else instead of fighting monsters for no reason?
+
+Ran0c:We can't leave. Byakuren's seal is right in front of us.
+
+Youmu2b:You think so...?
+
+Kaguya2e:Is it that thing over there then? Its light was certainly appreciated.
+
+Kaguya2c:In which case, rather than moving about clumsily, why don't we use it as a landmark to gather everyone?
+
+Momiji3c:Yumeko still isn't here, so this might be our only chance to break the seal.
+
+Sho1c:Then I'll be counting on all of you!
+
+Udonge4a:Got it! Guess we'll just have to grit and bear it!
+
+Youmu1a:Our blades will cut open a path for you!
+
+<end>
+
+<ChatID:3>---------------------------------------
+//2EP
+
+Udonge4a:Fighting like this is fine and all, but I wonder if the ship's okay.
+
+Youmu1a:We've been trying to contact them for a while now, but...
+
+<SE=se_talk_noise01.ogg,wait=0>
+
+<hide=video>
+
+Noise0a:...
+
+</hide>
+
+<Code=(sound_is_stopped,SE)>
+
+Momiji2a:We're not getting anything. Is our device broken?
+
+Kaguya2d:We're in Hokkai, so there might be some kind of special power at play here.
+
+<pause>
+
+Sho1b:Look out, there are more monsters!
+
+Nazrin4a:Guess this isn't the best time to chat.
+
+Ran1e:It's not over until you lose hope. We have to keep advancing, little by little, while having faith that the ship will arrive.
+
+<end>
+
+<ChatID:4>---------------------------------------
+//3EP
+
+Nazrin4a:...Even more monsters. Great.
+
+Momiji3c:It doesn't seem like there's any end to them...
+
+Momiji2a:Could we have woken them all up when we arrived in Hokkai?
+
+Youmu1a:All the more reason to hurry!
+
+Kaguya2c:Not that I mind your enthusiasm, but don't forget to keep an eye on your surroundings.
+
+Kaguya3c:If we're defeated here, then the dream of rescuing their savior dies with us.
+
+Chen1b:Right! I'll do my best!
+
+<end>
+
+<ChatID:5>---------------------------------------
+//6PP
+
+Momiji2a:...Unsurprisingly, this is getting tough.
+
+Chen4a:Miss Ran, I'm getting tired...
+
+Ran6b:...I suppose there's a limit to how long we can tarry here. There hasn't been any response to the distress signal, has there?
+
+Udonge3b:I'm still sending it out, but nothing. Maybe the Palanquin Ship is also...
+
+Kaguya2e:You're too pessimistic, Inaba.
+
+Udonge3a:Well, you're too optimistic, Princess! We're trying to fight off a whole army by ourselves here!
+
+<pause>
+
+Youmu2b:There are still so many...?!
+
+Nazrin6b:I think we might be done for...
+
+Sho1c:Please prepare to retreat, everyone. I'll hold them off myself!
+
+Udonge1b:You idiot! This isn't the time for stupid plans like that!
+
+Udonge1c:No one would blame you for running! If you die, then you lose everything! It's over!
+
+Sho1b:But if I lose my chance to save Hijiri, then I might as well be dead.
+
+Chen4b:Shou...
+
+Sho1b:More importantly, I still believe in Murasa and the others! Their desire to save Hijiri will never fold.
+
+Kaguya2e:I don't expect believing in them to change anything, but I can respect that way of thinking.
+
+Kaguya3e:Surprisingly, wishes do sometimes come true.
+
+Nazrin0b:What's that supposed to mean...?
+
+Momiji1a:Everyone, look over there!
+
+<pause>
+
+Murasa1b:All hands, emergency deployment!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//6PP（増援後）
+
+Akyu0a:Thank goodness. That's everyone together!
+
+Ichirin1c:We couldn't receive any transmissions, but we managed to find them by following the light of their danmaku battles.
+
+Youmu4b:You came for us!
+
+Sho1a:Murasa, Ichirin! I knew you'd come!
+
+Kaguya1c:You're late, Eirin. What were you thinking, making me wait like that?
+
+Eirin3c:My apologies. But I'm glad to see you're safe, Princess.
+
+Udonge3a:Um, what about me...?
+
+Yukari4c:Don't worry, she was worried beneath the surface. Also, well done Ran, Chen. I see you've been hard at work.
+
+Ran4b:Did we worry you, Lady Yukari?
+
+Yukari1a:Hardly. You're my strongest shikigami, after all.
+
+Sanae0c:I'm glad to see you're safe, Momiji.
+
+Yuyuko1c:My goodness, Youmu! How could you get lost like that?
+
+Youmu2b:I-I wasn't LOST, exactly...
+
+Momiji4c:Sorry for making you worry, Sanae. And Aya, sorry for arriving first and stealing the glory.
+
+Aya7b:Hmph, and here I was thinking I should show you some appreciation for once. Cheeky.
+
+Hatate3d:It's your fault for never being honest, Aya. You can't have it both ways.
+
+Reimu0e:Wait, you said you arrived first? So then, that light must be...
+
+Chen3d:Yeah, it's supposed to be Hijiri's seal.
+
+Ichirin1a:Really?! So then, you were enduring all this until we arrived?
+
+Murasa3b:That was a lot of opposition, and you still didn't buckle.
+
+Murasa3c:I knew you'd keep your promise not to run away.
+
+Sho3c:Right! We have to do this!
+
+Marisa0a:Can we unseal Byakuren by getting Shou over there with the pagoda, then?
+
+Nazrin0b:Yeah, but that's easier said than done with all these monsters in the way.
+
+Suika3d:Sounds fun! Why don't we play with them too?
+
+Kanako1c:We'll all cover you. Clear a path, everyone!
+
+<end>
+
+<ChatID:7>---------------------------------------
+//7PP
+
+Sho1a:Nothing could be more reassuring than having you all at my side.
+
+Komachi1c:Whoa now, don't tell me you just now realized that?
+
+Sho4a:O-Of course not. But it's something I never considered until a little while ago.
+
+Sho0a:Maybe now I can reward Byakuren's decision to leave me on the surface, if only a little.
+
+Yamame3c:You're way overthinking this. Let's just rescue her already so you can brag about it later.
+
+Kisume3b:What do you think you'll say when you meet her again?
+
+Sho0c:Oh no, I hadn't dared to think that far ahead... but I supposed I'd start by apologizing.
+
+Chen4b:Apologize? You mean for sealing her?
+
+Sho0b:Of course, but not only for that.
+
+Sho0c:I also later lost the temple she entrusted to me, and wasted my time in idleness.
+
+Sho4a:I betrayed her noble sacrifice.
+
+Nazrin6a:Master...
+
+Kaguya0a:So that's your sin.
+
+Sho2a:I don't believe this can atone for that. That's why, after I've met her, I...
+
+Mima0d:Okay, stop right there. Save that for when we get to her.
+
+Yuyuko3a:She's close by, so you can tell her directly once we've rescued her.
+
+Marisa7c:And we're here to set the stage for that!
+
+Reimu1a:Yeah, if you want these things exterminated, we're the ones for the job!
+
+<end>
+
+<ChatID:8>---------------------------------------
+//星が特定地点に到達
+
+Sho1c:With this...!
+
+Chen3b:We did it! Shou got there!
+
+Ichirin1a:Now we should be able to break the Chief's seal!
+
+Nazrin3a:It's all you, Master.
+
+Sho0a:Right!
+
+<pause>
+
+<Code=(icon_set_direction,All,Sho,0)>
+
+Sho1c:O great pagoda granted by Bishamonten. Shine your light once again!
+
+Sho1b:Please, break Lady Hijiri's seal!
+
+<pause>
+
+Keine0c:...There's so much light. Will this finally save Byakuren?
+
+Korin1b:It's been a rough trip, but our voyage to Makai is almost over.
+
+Akyu0b:Hopefully we can quietly make our escape without falling into anymore trouble.
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_enemies,==,0)>
+
+Akyu0a:Luckily we've dealt with all the nearby monsters, so... huh?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_enemies,>,0)>
+
+Akyu0a:The remaining monsters are behaving themselves, so... huh?
+
+</Cond>
+
+Rumia1a:What now?
+
+Akyu2b:Something's wrong! Get away from there, Shou!
+
+Sho0c:What...?
+
+<pause>
+
+Sho2a:Hrk...!
+
+Nazrin2a:Master, are you okay?!
+
+Tenshi1b:Did anyone see where that attack came from?!
+
+Eirin2a:This phase disturbance...! Someone's teleporting in!
+
+Alice1a:The only one capable of that is...
+
+<pause>
+
+Yumeko0a:...As impressive as ever, Lady Shinki. They'd very nearly undone the seal.
+
+Yumeko0a:I never imagined they'd arrive before us, though.
+
+Shinki5c:...I'm sure that just shows how determined they are.
+
+Reimu1a:Yumeko. And next to her is...
+
+Alice1a:Mom...!
+
+Nitori2a:Wait, what? That's the god of Makai?!
+
+Marisa2b:Yeah! I can't believe they followed us in here, of all places!
+
+Yumeko1b:Even we haven't opened the door to Hokkai for close to a thousand years.
+
+Shinki0a:Your actions exceeded our expectations. However, I can't allow you to break that seal.
+
+Sho1b:But we—
+
+Shinki5a:Don't move.
+
+<pause>
+
+Sho1b:...!
+
+Youmu2b:Did Shinki summon all those monsters?!
+
+Patchouli0c:That wasn't summoning magic. It's as if she created them from nothing.
+
+Ran1e:The god of Makai is powerful indeed...
+
+Alice0a:Mom...
+
+Shinki5b:...Alice. In any other circumstance, I'd love to welcome you and your friends.
+
+Alice1a:Then listen to us! We're not here to hurt anyone.
+
+Shinki5b:They're here to rescue their savior, yes, I heard from Yumeko.
+
+Alice1a:Then why?
+
+Yumeko0a:If you really must know, Byakuren's seal is already a piece of the barrier ensuring Makai's stability.
+
+Yumeko4a:If you break the seal, that balance will crumble, and powerful monsters who've been inactive until now will awaken.
+
+Daiyosei3b:That means...
+
+Wriggle1h:There'll be more like that one we saw outside?!
+
+Sho1c:But Hijiri is so close I could touch her!
+
+<pause>
+
+Sho2a:Rgh...!
+
+Shinki5a:I told you not to move. Why would you do that?
+
+Yumeko1d:You won't make it another step. Or perhaps you'd like to throw your life away?
+
+Sho2a:This pain is nothing... compared to the punishment I deserve!
+
+Shinki5a:What...?
+
+Sho2a:I left Hijiri to die. That's a sin I can never take back.
+
+Sho2a:But what I deserve is to be judged by Hijiri's own hand!
+
+Sho4b:How could I die here, without even being able to save her?!
+
+Udonge2b:Is that how you've seen this...?
+
+Shinki5b:...I understand your feelings toward Byakuren. But no words can change my mind.
+
+Shinki5c:Regardless of your motives, I have to protect the people of Makai.
+
+Yumeko1g:I will be your blade, Lady Shinki.
+
+<pause>
+
+Sho1b:...!
+
+Yumeko1g:You were all stronger than I imagined, and I have nothing but respect for your determination.
+
+Yumeko1e:I'm sure even Lady Byakuren would be proud of you.
+
+<Code=(icon_set_direction,Yumeko_en,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Sho,FD_LEFT,0)>
+
+<pause>
+
+Sho2a:...!
+
+Meiling6a:Ah! The pagoda fell into the darkness!
+
+Yumeko0a:Hokkai is a bottomless abyss. I'm sure you understand what that means.
+
+Sho4a:But then...
+
+Shinki5c:I'm sorry. I understand your desire to save her so well that it hurts.
+
+Shinki5c:Hate me if you must. I will accept the blame.
+
+Alice4b:Mom...
+
+Sho4a:To accomplish nothing, after making it so far...
+
+Sho2a:Will... Will I betray everyone once again? Murasa, Ichirin, and everyone else? And the companions who lent us their strength?
+
+Sho2a:And Hijiri, will I betray you too?!
+
+Nazrin6a:Master...
+
+Sho2a:Pagoda, shine your light...
+
+Murasa0b:Shou...
+
+Yumeko0a:Stop this. That path is already closed off to you.
+
+Sho2a:No. I won't give up.
+
+Sho2a:Bishamonten's Pagoda! If you recognize my will, then return to my hand! Please!
+
+Sho2a:I still haven't done anything! Please shine the light of dharma one more time!
+
+Sho1b:This time, be the light of justice!
+
+<pause>
+
+Yumeko5a:...?!
+
+Nazrin2a:That's the pagoda's light...
+
+Youmu1a:The pagoda came back! Did it respond to Shou's feelings...?
+
+<pause>
+
+<Code=(cursor_jump,352,304,1)>
+
+<nomove>
+
+<hide=face>
+
+Byakuren0b:...In the eternal darkness, I saw a light.
+
+Byakuren0b:One that I've seen long ago, and one that will illuminate the future. The light of dharma.
+
+Byakuren0b:...Once again, you've saved my heart.
+
+</hide>
+
+</nomove>
+
+Sho1c:That voice...
+
+<pause>
+
+<hide=face>
+
+Byakuren0b:O, the world of dharma is filled with light!
+
+</hide>
+
+<Code=(transition_out,c_white,80,1) && (sound_fadeout,SE,80,0)>
+
+<end>
+
+<ChatID:9>---------------------------------------
+//初戦闘：ナズ星
+
+Sho0c:There's too many of them. We'll have to be careful how we move.
+
+Nazrin0a:Don't push yourself, remember that you were knocked out just a little while ago.
+
+Nazrin0b:Speaking of which, it looked like you were having a long nightmare...
+
+Sho4a:...Yes. I dreamt of what happened back then.
+
+Nazrin6a:Ah...
+
+Sho0b:But it's different now. I'm not holed up in the temple wasting centuries.
+
+Sho0c:We WILL save Hijiri. I picked myself up in order to see that justice is done.
+
+Nazrin0a:...Justice, huh? I'm still not sure what exactly that means to you, but I'm with you to the end.
+
+Nazrin0a:The remaining light of a ruined temple... My job is to watch over it and see where the future takes it.
+
+Sho0a:Thank you, Nazrin. I know I'll show you the end of this road.
+
+Sho1a:Please, keep watching over me.
+
+Nazrin3d:Consider it a promise, Master.
+
+<end>
+
+<ChatID:10>---------------------------------------
+//初戦闘：藍橙
+
+Ran6b:I never wanted to put you in danger like this, Chen. Are you nervous?
+
+Chen0b:Why would I be? You're here, Miss Ran!
+
+Chen0a:I'm your shikigami, so I need to work even harder so you won't worry about me!
+
+Ran0a:I'm glad to hear that. But I'm a shikigami too, so I need to set a good example.
+
+Chen2b:Oh, right... Are you nervous without Miss Yukari?
+
+Ran0a:Of course not. How could I call myself the ultimate shikigami if I couldn't handle myself on my own?
+
+Ran0a:And I doubt Lady Yukari is worried about me either.
+
+Chen3c:Wow, you're both so amazing. I need to be better too!
+
+Ran0a:There's no need to rush. Just try to be what you should be, as a shikigami and as a beast.
+
+Ran6a:Noble and strong.
+
+<end>
+
+<ChatID:11>---------------------------------------
+//初戦闘：妖夢、椛
+
+Youmu0b:I'm glad to see you're all safe. I just hope Lady Yuyuko is as well...
+
+Momiji0a:She's always on your mind, isn't she Youmu?
+
+Youmu0a:I'm her sword, after all. I have to protect her. Aren't you worried about everyone from the mountain too?
+
+Youmu0a:You must be worried about Aya and Sanae, right Momiji?
+
+Momiji6a:Sanae, well, sure. Aya though...
+
+Momiji5a:She'd probably just tell me "If you're a watchdog then get back on the ship and do your job already!"
+
+Youmu2b:I... can see that happening.
+
+Momiji4a:I'd hate that, so I'd rather get to the seal before her so I can throw that in her face.
+
+Youmu4d:I'd like to see her expression when she hears that...
+
+Youmu1a:Now I'm looking forward to it a little. But to do that, first we need to cut a path through the enemy!
+
+Momiji3c:Indeed! With my shield and your sword!
+
+<end>
+
+<ChatID:12>---------------------------------------
+//初戦闘：鈴仙、輝夜
+
+Udonge3b:I was hoping we'd be able to meet up with everyone right away, but it isn't looking so good.
+
+Kaguya3f:Have a little patience. Eirin will find us soon enough.
+
+Kaguya3e:And until then, going on a quiet little stroll together isn't so bad, is it, Inaba?
+
+Udonge2b:That's really, REALLY not how I'm seeing this right now...
+
+Udonge4b:Actually, you seem unusually motivated to fight despite being so badly outnumbered.
+
+Kaguya0a:Indeed. Shou wants to see that human she loves so much, Byakuren.
+
+Kaguya2c:A great sin, and a thousand years of confinement. These are heavy, yet familiar words. Don't you want to hear her feelings?
+
+Udonge3a:I see. And as your pet, I suppose I'll be the bullet clearing a path for you, princess?
+
+Kaguya6a:What are you talking about? Right now, you're the only one at my side.
+
+Kaguya3c:So be sure to protect me, Reisen.
+
+Udonge1b:Ah... Yes, Princess!
+
+<end>
+
+<ChatID:13>---------------------------------------
+//敗北時
+
+<Cond=(CHECK_BEATEN,Seirensen,==,1)>
+
+Murasa2c:No! The Palanquin Ship!
+
+Sho2a:And we were so close to Hijiri...
+
+Nazrin2a:So this is where the light finally dies out?
+
+</Cond>
+
+<Cond=(CHECK_BEATEN,Seirensen,==,0)>
+
+<nomove>
+
+Sho2a:We were defeated now, of all times...?
+
+Nazrin2a:So this is where the light finally dies out?
+
+</nomove>
+
+</Cond>
+
+<end>
+
+<ChatID:14>---------------------------------------
+//初戦闘：霊夢、魔理沙、咲夜さん（没）
+
+<end>
+
+<ChatID:15>---------------------------------------
+//初戦闘：早苗さん、文、はたて（没）
+
+<end>
+
+<ChatID:16>---------------------------------------
+//初戦闘：アリス、魅魔、エリー、くるみ（没）
+
+<end>
+
+<ChatID:17>---------------------------------------
+//初戦闘：天子、衣玖（没）
+
+<end>
+
+<ChatID:18>---------------------------------------
+//初戦闘：秋姉妹、リリカ、メルラン、ルナサ（没）
+
+<end>
+
+<ChatID:19>---------------------------------------
+//初戦闘：永琳、てゐ、妹紅、慧音（没）
+
+<end>
+
+<ChatID:20>---------------------------------------
+//初戦闘：サニー、ルナ、スター（没）
+
+<end>
+
+<ChatID:21>---------------------------------------
+//初戦闘：未使用枠
+
+<end>
+
+<ChatID:22>---------------------------------------
+//初戦闘：ゆゆ様、紫、萃香（没）
+
+<end>
+
+<ChatID:23>---------------------------------------
+//初戦闘：パルスィ、勇儀（没）
+
+<end>
+
+<ChatID:24>---------------------------------------
+//味方増援前に目的地に到達
+
+<Cond=(CHECK_ODD_TURN,==,0)>
+
+Sho2a:Rgh, an ambush!
+
+</Cond>
+
+<Cond=(CHECK_ODD_TURN,!=,0)>
+
+Nazrin2a:Really? Here?!
+
+</Cond>
+
+<end>
+
+<ChatID:25>---------------------------------------
+//初戦闘：メーコ、まくら
+
+Meko0b:This is some crazy place we ended up!
+
+Makura1b:Yes, be extremely careful.
+
+Makura1c:...
+
+Makura2b:(I've yet to be able to talk to anyone about her, the one I should call my shadow.)
+
+Makura1c:(We're in the middle of a battle, though. I'll consult with them once we return to Makai and everything's calmed down.)
+
+<end>
+

@@ -1,0 +1,901 @@
+﻿//魔理沙第一話「門出
+
+<ChatID:0>-------------------------------------------------------
+//ADVA
+
+<BG=bg_talk_Marisa.png,fade=1,color=1,title=bg_Marisa,bgm=bgm_talk_aoki>
+
+<SE=se_talk_rooster.ogg,wait=1>
+
+Marisa2a:*yawn*
+
+Marisa0a:Boy, I was out for a while there. I really burned that midnight oil in my magic research yesterday.
+
+Marisa0a:At least I've finally finished the catalyst for my new spell. It ain't gonna be long now before people start calling me a great magician.
+
+Marisa6a:And on that day, I'll become a magnificent hero known throughout Gensokyo.
+
+Marisa0a:But in order to get there, I gotta deal with this scarlet mist first.
+
+Marisa0b:It's been getting thicker and thicker since the storm that night. Maybe it's some sorta incident...
+
+Marisa6a:It's only been a few days since the mist appeared. She's probably still lazing around at the shrine. This is my chance to steal a march on her.
+
+Marisa0b:Alright, time to go on my first outing in a while.
+
+Marisa0a:This is the first step of magician Marisa Kirisame's path to greatness!
+
+<BG=bg_talk_Road.png,fade=1,color=1,title=bg_Forest,bgm=bgm_talk_gag>
+
+<hide=name>
+
+Nitori3b:Hm... To eat, or not to eat? That is the question.
+
+Nitori3c:It's been so many days since I ran off from the mountain, and I haven't eaten a real meal since...
+
+Nitori3b:I'm all out of cucumbers, and I have no idea where I am...
+
+Nitori3a:But this mushroom looks the least suspicious of all those I've seen. It kind of smells like a maitake too.
+
+Nitori1a:Besides, if I collapse here, that would defeat the whole point of slipping out in the first place.
+
+Nitori3b:I have to do this to return home safely and complete my invention...
+
+Nitori1b:Okay... One, two...!
+
+<hide=all>
+
+Marisa2b:Wait!
+
+<SE=se_hit_dageki_S01.ogg,wait=0>
+
+<Code=(map_shake,1,30,8)>
+
+<Code=(demo_wait,30)>
+
+<hide=name>
+
+Nitori2a:Ow!
+
+</hide>
+
+Marisa4b:Whew, that was close.
+
+<hide=name>
+
+Nitori2b:What was that for?! Hey, give that mushroom back!
+
+</hide>
+
+Marisa3d:You were really gonna eat this, huh? Give it up. It may look like a maitake, but it's actually real poisonous.
+
+Marisa0b:Look closely. The tip has a faint purple tint to it, right? Real maitakes ain't ever that color.
+
+<hide=name>
+
+Nitori3a:...You're right. I was so hungry I couldn't think straight.
+
+Nitori0a:Thanks a lot. I didn't think I'd be saved by a human in a place like...
+
+Nitori2a:...Wait, a human?!
+
+</hide>
+
+Marisa6b:Whoa, don't suddenly shout like that!
+
+<hide=name>
+
+Nitori2a:How could this be?! I gotta hide! Um, let's see...
+
+</hide>
+
+Marisa0b:What's wrong? Is there something real scary behind me?
+
+<hide=name>
+
+Nitori2a:My optical camouflage!
+
+Nitori3c:My optical camouflage! ...Is out of order.
+
+Nitori2a:My optical camouflage! ...Is out of order. A river!
+
+Nitori3c:My optical camouflage! ...Is out of order. A river! ...There's none around!
+
+</hide>
+
+Marisa1a:Shaddup!
+
+<SE=se_hit_dageki_S01.ogg,wait=0>
+
+<Code=(map_shake,1,30,8)>
+
+<Code=(demo_wait,30)>
+
+<hide=name>
+
+Nitori2a:Mrrf?!
+
+</hide>
+
+Marisa0b:How's my broomstick taste?
+
+<hide=name>
+
+Nitori3c:Ow, tastes like pain... Why would you stuff that in someone's mouth?
+
+</hide>
+
+Marisa0a:Cuz you looked like you were gonna leg it. So what if I'm a human?
+
+Marisa0b:Ohh, maybe you've got something to do with this scarlet mist?
+
+<hide=name>
+
+Nitori3a:What are you talking about? I mean, there's lots of mist here... But I'm just lost, that's all.
+
+</hide>
+
+Marisa3d:Don't play dumb. You tried to run from me, that means you hafta be involved with the incident somehow.
+
+<hide=name>
+
+Nitori2a:Wait, no... I wasn't trying to run away. It's just been such a long time since I've seen a human stranger.
+
+</hide>
+
+Marisa0c:You're talking pretty normally to said human right now though.
+
+<hide=name>
+
+Nitori0a:...Ahaha, you're right. I'm Nitori Kawashiro, a kappa. Nice to meet you.
+
+</hide>
+
+Marisa0a:I'm Marisa Kirisame, a magician.
+
+Marisa0b:You're a kappa, huh? I thought you guys don't come out much from Youkai Mountain. You wanna stay hidden or something.
+
+Nitori0a:Yep yep, we don't see many humans in the mountain either. That's why you scared me.
+
+Marisa0c:So, if you're supposed to be at the mountain normally, whatcha doing here now?
+
+Nitori1a:There's somewhere I need to go, so I left the mountain to go there.
+
+Nitori0a:But it's been so long since last time that I lost my bearings, and... Eh heh heh.
+
+Marisa4a:Taking a walk alone in the Forest of Magic is a pretty tall hurdle for a beginner.
+
+Nitori3a:It really is. My optical camouflage broke down, a weird human tried to stuff a broomstick down my throat... today's been awful.
+
+Marisa0b:It's pretty much all your own fault though.
+
+Marisa0a:Oh yeah, you kappa are always carrying nifty inventions around, aren't you? Got anything cool?
+
+Nitori0a:Hmm, I do, but it's all at the mountain...
+
+Marisa6b:Ohh, so I can take a look if I go to the mountain? I'll pay you a visit there next time.
+
+Nitori2a:What? No, you can't!
+
+Marisa0b:Why not? I don't care if your place is messy.
+
+Nitori2a:That's not it. Humans are just asking for trouble if they dare enter Youkai Mountain.
+
+Nitori3a:And there's already some kinda fuss happening there now, I think...
+
+Marisa0b:Hm? Something's happening at Youkai Mountain?
+
+Nitori2a:Ah, uh, never mind that! Anyway, there's someplace I really need to get to right now.
+
+Marisa0b:Ahh right, you did mention that.
+
+Nitori1a:Yeah, I was looking for a secondhand shop called Kourindou. Do you happen to know where that is?
+
+Nitori0a:I read from a newspaper that it carries items and magic from the Outside World.
+
+Marisa0a:Kourindou, eh? There's definitely lots of weird things there.
+
+Nitori0a:Huh? You know about it?
+
+Marisa6a:Know about it? I'm a regular there. How about I show you the way?
+
+Nitori0a:Really?! Thank goodness! I thought Halley's Comet would come again before I found that shop.
+
+Nitori1a:Ah, do you have the time for that, though? If you're busy, then...
+
+Marisa0b:Well, I sorta am. I'm trying to figure out where all this mist is coming from... But I was on my way to do something else first.
+
+Marisa0a:I asked Kourindou's owner to do a tune-up on something. I think it's gonna come in real handy for this investigation if it's ready.
+
+Nitori0a:Oh, okay. In that case, lead the way, Marisa!
+
+Marisa0a:Sure thing. Try to keep up.
+
+<BG=bg_talk_Road.png,fade=1,color=1,title=bg_Forest,bgm=bgm_talk_kaikidan>
+
+<hide=name>
+
+Momiji0a:Please wait, Aya.
+
+</hide>
+
+Aya1a:Momiji, why are you being so slow? I can wait, but all the exclusive stories won't.
+
+Momiji5a:I'm not being particularly slow... But your tendency to fly ahead is taxing the limits of my thousand-li vision.
+
+Aya0b:What a disappointment. I wanted to hurry and find that shrine maiden and write an article about her.
+
+Momiji0a:Our responsibility is to watch over her, not to write an article about her.
+
+Momiji0a:Youkai Mountain has been invaded. I think you could stand to take your mission more seriously.
+
+Aya0b:No no, it's the other way around, Momiji. If you think like that, you'll never get ahead in the world.
+
+Aya0a:Youkai are all about finding the humor in any situation.
+
+Aya0a:This is the first major event since the oni left... In other words, the first major event since the tengu society was formed.
+
+Momiji0a:*huff* Is that how it works?
+
+Momiji5a:You make a point, though. I've never heard of our group struggling so hard against just two opponents before.
+
+Aya0b:Well, they ARE gods. Of course they're going to know what they're doing.
+
+Aya0b:The problem is that shrine maiden. She's been prowling around outside the mountain. We need to figure out what her goal is.
+
+Momiji0a:Right. That's what this whole mission is about.
+
+Aya3a:And an article about that will make me the champion of this year's newspaper competition, guaranteed!
+
+Momiji6a:Of course that's your real angle...
+
+Momiji0a:But we're forbidden from reporting anything about this to outside parties. Will you be able to manage an article like that?
+
+Aya5b:Wait, what?
+
+Momiji0a:The Greater Tengu issued a notice, remember? It said this was such a big deal, we shouldn't tell anyone outside the mountain about it.
+
+Aya5a:Oh, come on... That's suppression of speech! That's not cool at all.
+
+Momiji4a:If intel about this leaked outside, that would defeat the purpose of having martial law imposed over the whole mountain.
+
+Aya5a:Well, yeah, but still. Maaan. There goes my motivation.
+
+Momiji5a:Come on, now. You were given a job, so do it.
+
+Aya5b:You're quite the obedient dog, aren't you?
+
+Momiji1a:I'm a wolf! Seriously, could you please at least TRY to—
+
+Momiji3a:Hm? What's this?
+
+Aya0b:What's up? Did you find the shrine maiden?
+
+Momiji0a:No, it's not her. A human and a kappa are flying a little ahead of us.
+
+Momiji0a:And I think that kappa might be...
+
+Aya0b:A human and a kappa...?
+
+Aya5b:That's strange. If martial law has been declared, the kappa shouldn't be leaving the mountain.
+
+Momiji0a:That's right, they shouldn't. And a kappa being with a human is even stranger.
+
+Aya0b:Let's go see what's up. They might know something about the shrine maiden. Even if they don't, that's an intriguing pairing.
+
+Momiji0a:Understood. Just keep on moving, they're dead ahead.
+
+<single>
+
+Momiji5a:Nitori, what are you doing here...?
+
+</single>
+
+<end>
+
+<ChatID:1>-------------------------------------------------------
+//1PP
+
+Nitori0a:Hey, are we at Kourindou yet?
+
+Marisa0b:Don't get so impatient. We're almost there.
+
+Nitori1a:Look, I'm excited, okay? I haven't gotten out of the woods in days.
+
+Marisa0b:Oh yeah, you never told me why you wanted to go to Kourindou.
+
+Nitori0a:My current invention needs some special parts, so I figured I'd search for them at a secondhand store.
+
+Nitori1a:If they have what I want in stock, then my invention is complete... And the thought of it excites me too much to calm down!
+
+Marisa6a:I know how that feels. You always wanna borrow things that you want.
+
+Nitori3b:Borrow...? Um, sure.
+
+<pause>
+
+Marisa0b:Hm? Who's that?
+
+Nitori2a:Ack, don't tell me...
+
+Momiji0a:I was ready to doubt it until I saw it with my own eyes. It really is you, Nitori.
+
+Nitori2a:Momiji, why are you here?!
+
+Momiji5a:That's what I want to ask. What are you doing here during such a major event?
+
+Momiji0a:Surely you're aware the entire mountain is in a state of martial law? The kappa are currently barred from leaving the mountain.
+
+Nitori2a:Wait, what?! Martial law?!
+
+Marisa6b:Say what? So when you said you couldn't return to the mountain...
+
+Nitori2a:Okay, yeah, I didn't get permission before leaving, but I had no idea the situation was so serious...
+
+Aya1a:You know her, Momiji?
+
+Momiji0a:Yes. She's a friend of mine, Nitori Kawashiro. I have no idea what she's doing here or why she snuck off the mountain, though.
+
+Marisa0b:Who are you people, anyway? Things seem pretty hectic today all around.
+
+Aya3a:Ah yes, you would be... the ordinary human magician that resides in this forest, correct?
+
+Marisa0a:Got it in one. I'm the great human magician that dwells in the Forest of Magic.
+
+Marisa6a:Heh heh heh. At long last, my name has reached as far as the youkai.
+
+Aya3a:I don't know your name, but I believe I saw you before, at a previous incident.
+
+Aya0a:A kappa fleeing the mountain and a human from the forest having a secret meeting, though? I could make a great article out of this.
+
+Marisa0b:Whaddya mean, an article?
+
+Aya3a:Ah, I should have mentioned earlier. I am Aya Shameimaru, a reporter and a crow tengu.
+
+Aya0a:I'm the presiding editor of the Bunbunmaru Newspaper, Gensokyo's fastest and finest fountain of facts.
+
+<pause>
+
+<Code=(icon_set_direction,Aya_en,Marisa,0)>
+
+Aya3b:Ahh, I'm getting some great shots here!
+
+Nitori2a:Look, this isn't some clandestine meeting! I just happened to run into Marisa...
+
+Marisa0a:That's right. If you want an article, there's lots more interesting things to cover.
+
+Aya3a:Ohh, such as? I'm all ears.
+
+Marisa0a:Such as this scarlet mist all over Gensokyo. You saw it while you were flying, right?
+
+Aya3b:Haha, I get you. That's definitely another critical incident.
+
+Marisa0b:What do you mean, "another"?
+
+Aya5a:Ayaya, whoopsie, just picked the wrong word there.
+
+Marisa0b:...?
+
+Marisa0a:Well, whatever. I'll be resolving the mist incident, so if you want a prior interview, now's the time.
+
+Aya5a:Hm... I totally forgot about this mist incident.
+
+Aya0a:I'll be back, Momiji. Gonna get some aerial shots of the mist real quick.
+
+Momiji3a:What?! Are you okay with just ignoring our orders to watch over the shrine maiden?
+
+Aya0b:Obviously not. You find her and watch over her. This mission's practically tailor-made for you anyway.
+
+Momiji6a:You're just dumping it all on me...?!
+
+Aya3a:Yup, it's all yours! Later.
+
+<pause>
+
+Momiji5a:*sigh* This always happens when I'm paired with her...
+
+Nitori0a:Heh. At least I avoided getting an article written about me in all that chaos.
+
+Momiji0a:I assume she discreetly let the matter drop since you were a friend of mine.
+
+Momiji0a:Okay, let's get back to the mountain, Nitori. As I said earlier, martial law's been declared.
+
+Nitori2a:Erk. Uhh...
+
+Marisa0b:Wait, back up. What was all that about "watching over the shrine maiden"?
+
+Marisa6b:What did Reimu do this time?
+
+Momiji0a:Is that what you're concerned with? You pick up on the oddest things, human.
+
+Momiji4b:Speaking of which, Nitori—if you've been gone this long, have you seen a suspicious shrine maiden at all?
+
+Momiji0a:A non-Hakurei shrine maiden, to be more specific.
+
+Nitori0a:I haven't seen any shrine maidens. I've been lost and alone, wandering the Forest of Magic the whole time.
+
+Momiji5a:...That's to be expected when you run off by yourself.
+
+Momiji0a:Either way, that's fine. Finding her is part of my job.
+
+Momiji0a:I'm done asking questions. Now come along, Nitori.
+
+Marisa4a:Wait! Don't just end the conversation like that!
+
+Marisa0b:A shrine maiden that ain't Reimu? I'm pretty lost here. Does this have something to do with the scarlet mist?
+
+Momiji1a:That's enough questions and answers! If you're going to keep on obstructing me, I'll have to escalate to force.
+
+<pause>
+
+Marisa2b:If it's a danmaku battle you want, that's exactly what you're gonna get! Nitori, you know about danmaku battles, right?
+
+Nitori0a:Yeah, I'm familiar. Why?
+
+Marisa0b:Whaddya mean, why? You're gonna be helping me out, obviously.
+
+Nitori2a:What?! Why do I have to fight Momiji?
+
+Marisa0a:Because if I go down here, I can't take you to Kourindou.
+
+Nitori3a:Mm, but still...
+
+Momiji1a:You know what, I'm tired of this. I'll just quiet you both.
+
+Marisa1a:Bold words. Try me!
+
+Nitori3c:This isn't how it was supposed to go...
+
+Nitori1b:Oh, to heck with it!
+
+<end>
+
+<ChatID:2>-------------------------------------------------------
+//2PP（弾幕説明）
+
+Marisa1b:Watch out, Nitori. The crows are spitting out danmaku.
+
+Nitori2a:Uh, right. So that means I should, um...
+
+Marisa1b:If you enter their danmaku field, your movement, evasion, and defense all go down.
+
+Marisa0a:So if you don't wanna deal with that, you gotta either stay out of it or switch to focused mode.
+
+Nitori1d:A slow and careful way of fighting, right. One of the basics of danmaku battling.
+
+Nitori1a:Focused mode slows your movement speed in exchange for ignoring the negative effects of being in danmaku.
+
+Marisa1b:But it also means that even if you dodge, you still take Graze damage.
+
+Marisa0a:The higher the hit rate, the more Graze damage you take, so watch yourself.
+
+Nitori4a:Staying unfocused outside of danmaku, but focused inside it is the basics of the basics!
+
+Marisa7a:Don't forget that it'll go away if you beat the crows. Time to show you how it's done.
+
+Nitori4c:I'll follow your lead, Marisa!
+
+<end>
+
+<ChatID:3>-------------------------------------------------------
+//魔理沙vs椛
+
+Momiji0a:Who are you, and why are you tricking Nitori into helping you?
+
+Marisa0b:Nitori's got nothin' to do with this. You're the one who wouldn't answer my question.
+
+Marisa0a:What did this "non-Hakurei shrine maiden" do to get the tengu chasing after her?
+
+Momiji1a:Again, it's none of your business. If you won't take no for an answer, we'll do this the hard way!
+
+<end>
+
+<ChatID:4>-------------------------------------------------------
+//にとりvs椛
+
+Momiji5a:Nitori, I'll say it again—Join me and go back to the mountain. Now.
+
+Nitori3b:I know I was wrong to leave the mountain... But I'm so close to Kourindou now.
+
+Nitori2b:So please, just let me go!
+
+Momiji1a:Petty excuses mean nothing to me.
+
+Nitori1b:Petty?! Look, I've got an important invention riding on this! No offense, but I'm pushing my way through!
+
+<end>
+
+
+<ChatID:5>-------------------------------------------------------
+//椛撃破時
+
+Momiji2a:You're not half bad.
+
+Nitori3a:Sorry about this, Momiji!
+
+Marisa0a:Okay, time for you to talk. Gimme the deets on that shrine maiden.
+
+Momiji2a:I'll do no such thing. I'll retreat for now, but let me give you a warning. Do not pry any further into this matter.
+
+Marisa1a:Hey! Get back here!
+
+<pause>
+
+Marisa0a:Bah... She got away. The danmaku battle's settled, but still...
+
+Nitori2a:Hoo boy, I've really done it now. What am I gonna do...
+
+Marisa0b:Is this about you leaving the mountain?
+
+Nitori0a:Yeah. Youkai Mountain is a very orderly place, but the tradeoff is that it's a lot stricter than what it's like in human society.
+
+Nitori3a:Leaving the mountain was bad enough, but now that I've fought and beaten Momiji, I'm really gonna be in for it when I go back.
+
+Marisa0b:Hey, no use crying over spilled milk, right?
+
+Marisa0a:Don't you still need to find that stuff for your invention? First things first, let's head for Kourindou.
+
+<end>
+
+<ChatID:6>---------------------------------------------
+//不要
+
+<end>
+
+<ChatID:7>-------------------------------------------------------
+//ADVB
+
+<MAP=0,FROM=魔法の森,TO=香霖堂,name=Kourindou,icon=2>
+
+<BG=*bg_talk_Korindo.png,fade=1,color=1,title=*bg_Korindo,bgm=bgm_talk_aoki>
+
+Marisa0a:We're here. This is Kourindou.
+
+Nitori3e:Whoa... Kourindou is in a place like this?
+
+Marisa0b:Yep, at the entrance to the Forest of Magic. It ain't too easy to lose your way here.
+
+Nitori3b:...I should have known that tengu map wasn't accurate enough to go on.
+
+Marisa0a:Either way, you got here. Let's head on in.
+
+<SE=se_talk_door_open01.ogg,wait=1>
+
+Marisa7c:Yo Kourin, I'm here.
+
+Korin0d:Ah, Marisa. And a new face, I believe?
+
+Nitori2a:Um, hi there. I'm Nitori Kawashiro, a kappa.
+
+Korin0a:A kappa? That's a rare type of customer around these parts. Is this a friend of yours, Marisa?
+
+Marisa0c:Yeah, basically.
+
+Nitori3e:A friend...?
+
+Marisa0b:Hm? Something wrong?
+
+Nitori2a:N-No! Humans and kappa are sworn friends after all!
+
+Korin3b:(Interesting... I've heard a fair bit about them, but this is the first time I've seen a real live kappa.)
+
+Korin3c:(I imagined them more classically, having a shell on their backs and a dent on top of their heads... This one seems just like a sweet kid.)
+
+Korin0a:So, what brings a kappa here?
+
+Nitori1a:I'm looking for something. Would you mind letting me browse your wares?
+
+Korin1b:By all means. Feel free to look around.
+
+Marisa0a:Ahh, make two helpings of snacks as well. You've still got those rice cookies you bought before, right?
+
+Korin2d:...Always so demanding. They're on the table over there, so help yourself.
+
+Marisa0d:Anyways, I'm here to pick up the goods. The adjustments should be complete by now, right?
+
+Korin0b:The goods? Ah...
+
+Korin2c:*sigh* I told you three days ago to come back in a week. Of course it's not ready yet.
+
+Marisa3b:Seriously? I need to get to the bottom of this scarlet mist, and you're over here taking your sweet time?
+
+Korin2d:I told you a week because it would take a week to do. You can't expect me to get it done any faster.
+
+Marisa4b:Great. Now Reimu's gonna get ahead of me.
+
+Marisa4a:And here I'd just worked out a new spell...
+
+Korin4a:...
+
+Korin2c:Good grief, some things never change. I actually have been pushing to get it done faster—I had a feeling you'd need it.
+
+Korin0a:Come back in two days. I'll have it done by then.
+
+Marisa7c:Really?! I knew I could count on you, Kourin!
+
+Marisa0a:This wasn't the trip I was expecting to take, but it was definitely worth it. That's why you should help out kappa, I guess.
+
+Nitori1a:Marisa, Marisa! It's a cell phone! They look so different when you see them up close.
+
+Marisa0b:A cell phone? What's that?
+
+Korin0d:It's an item for communicating with someone who's far away.
+
+Korin0a:I hear it lets you telepathically speak with someone, and you don't have to have psychic powers for it to work.
+
+Korin0d:Admittedly, I have no idea how to use one.
+
+Nitori4b:It transforms air vibrations into signals, and then the receiver transforms the signals back.
+
+Nitori1a:It's basically the digital version of having two cans and a piece of string.
+
+Marisa4a:Digital? Huh?
+
+Korin2c:Well, you seem to understand how it works.
+
+Nitori1d:Ooh, a Virtual Girl! This was so shocking to me when I first saw it... in more ways than one.
+
+Korin4b:That's a magical pair of glasses that shows the wearer a pseudo-world.
+
+Korin0a:I've tried them on, but all I saw was pitch darkness.
+
+Nitori1a:Eh, that's close enough. Pitch black isn't that far off from dark red.
+
+Marisa0b:I have no idea what you're on about. Have you found what you were looking for?
+
+Nitori4c:Don't be in such a rush. There's so much neat stuff here!
+
+Nitori2a:Hey, menko cards! A whole bunch of 'em!
+
+Marisa7a:Okay, I know what THAT is. Lemme borrow those for a few!
+
+<MAP=3,FROM=香霖堂,TO=香霖堂,name=Kourindou,icon=2>
+
+<BG=*bg_talk_Korindo_Night.png,fade=1,color=1,title=*bg_Korindo,bgm=bgm_talk_insect>
+
+Marisa4c:Ahh, we played a lot. You sure find some fun things, Nitori.
+
+Nitori1a:Yeah, you two are lots of fun! I won't ever get bored like this.
+
+Korin0a:It's an honor to hear that from a kappa. Feel free to visit again whenever you like.
+
+Korin3b:(Though honestly, I wish they'd just leave already.)
+
+Marisa0b:Alright, I'd better be heading back.
+
+Nitori3e:You're going home already, Marisa?
+
+Marisa0d:It's getting dark outside. What are you gonna do?
+
+Nitori3b:I don't know. I'll be punished once I return to the mountain, and I still haven't found the parts I was looking for...
+
+Marisa0e:That's still no reason to NOT go home.
+
+Korin4a:(Yeah, just go away already. I want some quiet time...)
+
+Marisa0d:Hey Kourin, let Nitori stay here for the night. She seems to like it here.
+
+Korin2d:Wait, what?!
+
+Korin3a:(Letting that kappa stay here is no joke.)
+
+Korin2a:(If she keeps up her scavenging all night long, it's going to take forever to clean up after her.)
+
+Marisa0c:Well, Kourin? If we're done here, then I'm heading back home.
+
+Korin3c:(Aha, I think I've got it.)
+
+Korin0a:Hmm, I don't mind letting her stay here, but I don't know if it would be more suited to a kappa than the alternative.
+
+Nitori1d:What alternative?
+
+Korin0a:Marisa's house is full of junk that even I haven't seen before.
+
+Korin1b:She trades it with me every once in a while, and sometimes I can find some real gems in that stuff.
+
+Marisa1c:You do not. You call all of it junk.
+
+Korin2a:(Whoops, gotta be careful. Can't let Marisa know how valuable her junk really is.)
+
+Korin0a:The point is, there's a chance you could find the parts you're looking for there.
+
+Nitori4b:Ah, makes sense. I certainly haven't turned anything up here.
+
+Korin4b:Then it sounds like the matter's settled. Marisa, let her stay over at your house tonight.
+
+Marisa1d:What? When did this get settled?
+
+Korin1b:Just now. Besides, she's your friend to begin with.
+
+Marisa0e:When did I call her my friend?
+
+Nitori2a:Hey, you called me a friend when we came in!
+
+Marisa2a:Come on, don't cling to my skirt like that!
+
+Marisa4b:...Eh, alright. I don't really care about other people looking at my stuff anyway. C'mon and stay at my place tonight, Nitori.
+
+Nitori4a:Really?! You're cool with me coming over?
+
+Marisa1b:Yes, as long as you don't make a bunch of noise tonight. I'm getting up early to make a visit tomorrow.
+
+Korin0b:Another incident investigation?
+
+Marisa0b:Close enough. I'm visiting a magician I know to ask her about the mist.
+
+Nitori3e:Oh, okay. I'm not sure where I should go next anyway, so mind if I tag along?
+
+Marisa0b:Suit yourself. She's a pretty cool magician. She can control multiple dolls at once.
+
+Nitori1a:Interesting. Are they RC dolls?
+
+Marisa4a:RC...? Well, let's save that for tomorrow. We should head on back and get to sleep.
+
+Nitori4b:Actually, now that I don't have to worry about going home, I was thinking of doing a little more scavenging...
+
+Marisa2a:Zip it! I said I'm going home, so I'm going home.
+
+Nitori2a:Aww, come on!
+
+Marisa0c:See you, Kourin. I'll be back for the goods later.
+
+Nitori4c:Thank you very much, Mr. Kourindou!
+
+Korin1b:Sure thing. See you soon.
+
+<SE=se_talk_door_close01.ogg,wait=1>
+
+<single>
+
+Korin2a:...Whew, they left. Finally, some peace and quiet.
+
+Korin0a:Marisa brought yet another noisy youkai here.
+
+Korin0d:It's like friends keep falling into her lap. She's an odd one, alright.
+
+Korin3b:...
+
+Korin4a:It's been a while since she vanished. Marisa looked up to her so much...
+
+Korin4a:This is probably going to be the start of a new adventure for her.
+
+Korin1b:I run a secondhand shop. I may have no interest in danmaku battles, but I can still lend my support to her.
+
+Korin0a:Which is why I've got one more job to do, no matter how much I'd rather go to sleep right now.
+
+Korin4b:To celebrate new beginnings... It's time to give the mini-hakkero a full tune-up for Marisa Kirisame.
+
+<end>
+
+<ChatID:8>---------------------------------------------
+//EX条件達成（ver.3.0.1追加）
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Marisa)>
+
+Marisa0a:What, is that all?
+
+Nitori1a:Nice one, Marisa! How was focused mode?
+
+Marisa0a:Getting grazed sucks, but it's less risky than taking a direct hit.
+
+Marisa0a:Plus, that way danmaku isn't gonna stop you from moving around.
+
+Nitori0a:Staying focused in danmaku really is the basic game plan, huh? Let's add that to my research notes.
+
+Marisa0a:Good attitude.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Nitori)>
+
+Nitori1a:Alright!
+
+Marisa0a:Not half bad. Seems like there are rules to danmaku battles.
+
+Nitori1a:In focused mode, you take Graze damage, but it's less risky than taking a direct hit.
+
+Nitori1a:Plus, danmaku blocking your way becomes no big deal.
+
+Marisa0a:So staying focused in danmaku is the basic strat, huh? This should go in my research notes.
+
+Nitori1a:Ooh, so eager to learn!
+
+</Cond>
+
+<end>
+
+<ChatID:9>---------------------------------------------
+//周回時、初戦闘後（メーまく増援；R01を使用するのでコピー不要）
+
+<end>
+
+<ChatID:10>---------------------------------------------
+//まくら初戦闘
+
+Makura0b:This journey to Reimu and Marisa's past is just beginning.
+
+Makura3c:No doubt it will be a long road. But with Mehko at my side, we'll take it one step at a time.
+
+<end>
+
+<ChatID:11>---------------------------------------------
+//メーコ初戦闘
+
+Meko4c:So this is Reimu and Marisa's past, huh?
+
+Meko0e:I'm getting kind of excited, but I can't start slacking now.
+
+Meko1f:Our journey is just beginning, after all!
+
+<end>
+
+<ChatID:12>---------------------------------------------
+//周回魔理沙初戦闘
+
+Marisa0a:So we're facing off against ourselves from a few years back...
+
+Marisa0a:Kinda funny seeing Nitori acting all stiff again.
+
+Marisa0a:Anyway, time to enjoy this New Game Plus!
+
+<end>
+
+<ChatID:13>---------------------------------------------
+//椛vs.椛★発生しない
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Momiji0a:A tengu who looks just like me?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Momiji0a:Er, it's a little difficult to explain, but—
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Momiji0a:Then spare me. I'll listen to your excuses after I take control of the sitation.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Momiji0a:That's the only appropriate stance for a patrol tengu.
+
+</nomove>
+
+<end>
+
+<ChatID:14>---------------------------------------------
+//メーコ、またはまくら初戦闘（個別会話に優先）
+
+Meko0a:Straight to battle, huh? That's the Gensokyo I know.
+
+Makura0a:Please be careful. This may be a dream, but wounds will still hurt.
+
+Meko0a:What about you, Lady Makura? Do you have enough energy?
+
+Makura0a:This is my own manifested world. I'll manage, one way or another.
+
+Makura0a:As my willpower increases, the power of dream manifestation will be released.
+
+Meko0a:Knew I could count on you! I wish I could use my sleep powers like that too...
+
+Makura0a:I thought you might say that, so I've already thought of a way.
+
+Meko0a:Really?!
+
+Makura0a:When you lull an opponent to sleep, you become filled with the power of dreams.
+
+Makura0a:That converts into dream manifestation power, and in turn your own.
+
+Meko0a:So I'll be able to do more stuff the more enemies I defeat and put to sleep?
+
+Makura0a:In short, yes.
+
+Makura0a:I'm sure you'll be able to handle it. Muster your strength and give it your all.
+
+Meko0a:Yes, Lady Makura!
+
+<TIPS=SHEEP>
+
+<end>

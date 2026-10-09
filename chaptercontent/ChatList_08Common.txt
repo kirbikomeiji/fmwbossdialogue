@@ -1,0 +1,1596 @@
+﻿○共通第八話「紅色の境
+
+========================================
+ChatID:内容
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: 2PP
+ 3: tile bullet(noused)
+ 4: 3EP (enemy ally)
+ 5: Meiling spell start
+ 6: beat Elliy
+ 7: beat Meiling (w/o Elliy)
+ 8: beat Meiling (w/ Elliy)
+ 9: ADVB
+10-18: battle vs. Meiling
+19-27: battle vs. Elliy
+28-29: battle vs. Maid
+30:
+31:tile bullet
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<MAP=1,FROM=紅魔館,TO=紅魔館,name=Scarlet Devil Mansion,icon=5>
+
+<BG=*bg_talk_Koumakan_Gate.png,fade=0,color=1,title=*bg_Koumakan_Gate,bgm=bgm_talk_aoki>
+
+Meiling2a:*yaaawn* Mmm...
+
+Meiling4a:...I thought I was going to nod off to an afternoon nap, but the sun's going down already. I can't see the sun well through this mist.
+
+Meiling0b:...
+
+Meiling1d:(The mist really thickened overnight. With this much mist, the human village must be in a panic by now.)
+
+Meiling3a:(I wonder if that little old lady is okay. I hope she didn't breathe in too much of this mist...)
+
+</single>
+
+<hide=all>
+
+Elliy0a:I see you're as well-endowed as always.
+
+</hide>
+
+Meiling2a:BWHA?!
+
+Meiling6a:*sputter* What are you doing?! Attacking me from behind like this, there's an order to go about things you...
+
+Elliy3b:Hi Meiling, you look bored.
+
+Meiling0d:...Oh, it's you, Elly. Yeesh, don't scare me like that.
+
+Elliy3a:Ahaha, you looked so defenseless. Not exactly befitting of a gatekeeper.
+
+Meiling0c:I was just relaxing a bit. Doing nothing but standing weakens the body.
+
+Meiling0a:...Anyway, what brings you here? I don't think it's time to switch yet.
+
+Elliy0a:Patchouli's orders. We're to wait for those humans and intercept them when they come.
+
+Meiling0b:...!
+
+Meiling1d:The humans are finally coming to attack us, huh?
+
+Elliy4a:Yeah. The shrine maiden and the magician, as well as a mish-mash of youkai and ghosts.
+
+Elliy0b:Actually, didn't you meet them before?
+
+Meiling0c:Yeah, I met them yesterday when I went out shopping with Sakuya.
+
+Meiling0a:Sakuya handled them then, but they were a pretty capable group.
+
+Meiling3f:After all, they figured out that we were connected to the mist and...
+
+Meiling3b:(...Ah, wait wait. The skirmish there was my fault, wasn't it?)
+
+Elliy4b:...And?
+
+Meiling5a:Um, never mind.
+
+Elliy0b:I fought them earlier too. They were pretty strong. They used all kinds of strange techniques too.
+
+Meiling1b:Yeah, they fought Sakuya before, yet they're still coming. We can't take them lightly.
+
+Meiling0a:But in the end, they are still humans. So...
+
+Elliy0a:...That's right, the sun will be setting soon. Then it will be night, where we youkai are in our element.
+
+Elliy3a:And I'll be fighting with you on top of that. With our powers combined, we definitely won't lose!
+
+Elliy1a:We'll show those humans the meaning of pain!
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+<MAP=1,FROM=博麗神社,TO=博麗神社,name=Hakurei Shrine,icon=5>
+
+<BG=*bg_talk_Shrine.png,fade=1,color=1,title=*bg_Shrine,bgm=bgm_talk_gag>
+
+Akyu2a:One, two, and...
+
+Akyu4a:One, two, and... It's hopeless. I can't reach it at all.
+
+Akyu3e:Reimu said to eat whatever I like from the cupboard, but I don't see anything but tea cakes.
+
+Akyu3c:If anything was further back behind them, forget about me. Not even Reimu would be able to reach it...
+
+Akyu2c:...Unless she levitates to get to it?
+
+Akyu3c:No, that's just silly. Surely Reimu wouldn't use her power for such frivolous purposes...
+
+Sunny0b:...
+
+Luna0b:...
+
+Sunny3a:Who's that?
+
+Luna6b:Don't ask me. How should I know?
+
+Sunny1c:This isn't what we heard. I thought there'd be no one at the shrine since the shrine maiden's away.
+
+Star0c:Looks like that human is the caretaker. No idea what she's doing here though.
+
+Sunny1c:...Now what? We could keep playing pranks while we're hidden, but that kinda lacks excitement.
+
+Sunny3a:Maaan, I thought we'd have free run of the shrine while no one was around...
+
+Luna0a:You know, that human may be the shrine maiden's friend, but she seems kinda weak.
+
+Luna0c:She's been hopping up and down on that footstool for ages now. She seems even weaker than a normal human...
+
+Star1b:...
+
+Star3c:Hey, you two. Why don't we change our goal? Doesn't playing pranks on that human sound fun to you?
+
+Star3b:It'd be boring if we just kept hiding here, and I doubt this one would even punish us.
+
+Sunny1a:Hmm, that does sound nice. You're always full of good ideas, Star!
+
+Sunny5a:Alright, let's scare that human!
+
+<single>
+
+Akyu4a:Hmm, I can't reach up there... Not even with this back-scratcher.
+
+Akyu3b:*sigh* I wouldn't dare complain about this body that the Yama gave me, but if only I was a little taller...
+
+Akyu3a:It's times like these that I yearn for a more mature body like Keine's...
+
+Akyu3c:It's times like these that I yearn for a more mature body like Keine's... In height, of course.
+
+</single>
+
+Star1c:(See? She's defenseless with her arms raised on that footstool like that.)
+
+Sunny3c:(Heheheh, this is a great chance for a prank. You'll feel the power of the Three Fairies of Light!)
+
+Sunny1a:(Now! *poke poke poke*)
+
+Akyu2b:Huh?! ...W-Wait, wha?!
+
+Akyu2a:Huh?! ...W-Wait, wha?! ...Eeep!
+
+<SE=se_talk_hit01.ogg,wait=0>
+
+<Code=(map_shake,1,20,6)>
+
+<Code=(demo_wait,20)>
+
+Akyu4b:Ooh, oww... Who was that? Who came up behind me and...
+
+Akyu2b:!
+
+Sunny0c:...
+
+Akyu2b:A-A floating rice cracker...?
+
+Akyu1a:What is going on? This must be some youkai tri...
+
+Sunny1c:(It ain't over yet. You're up, Star!)
+
+Star1a:(Got it. There!)
+
+Akyu2b:Eek! The seaweed is coming off?!
+
+Akyu2a:What's going on?! The rice cracker couldn't have been treated so well that it became a tsukumogami, could it...?
+
+Akyu2b:Oh, of course. It was jealous because I was rummaging around for other kinds of snacks...
+
+Akyu3d:Which means that this is...
+
+Sunny4b:Yes, the curse of the shrine maiden!!
+
+Akyu4a:*gasp*
+
+Akyu2a:AIEEE!
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+<nowindow>
+
+<Code=(demo_wait,30)>
+
+</nowindow>
+
+Luna1c:...
+
+</single>
+
+Sunny0b:...
+
+Sunny5b:*snrk*
+
+Sunny5a:Ahahahahaha! Did you two see that? She squealed at the end there!
+
+Star3d:I sure did! Her spooked face was hilarious. Her hair was even standing on its end!
+
+Sunny1a:Your timing in removing your power was perfect too, Luna.
+
+Luna5a:I wanted to be the one to peel off the seaweed. You should thank me for letting Star do it.
+
+Sunny1b:Oh man, that was great. Good workout, too. Let's go home now.
+
+Star3d:Yeah, we'll have a drink when we get back.
+
+Sunny3c:Maaan, I sure wish an incident was going on. Then we could go wherever that's happening and play.
+
+Sunny0a:Okay, I'm setting the agenda for our chat tonight: How to start an incident!
+
+Luna4a:Didn't we already talk about that three days ago...?
+
+<single>
+
+<nowindow>
+
+<Code=(demo_wait,30)>
+
+</nowindow>
+
+Akyu2a:*huff, huff*
+
+Akyu3e:Goodness, what a fright. What WAS that?
+
+Akyu3d:First, I felt something touching my back, then I saw floating rice crackers, with the seaweed being torn off...
+
+Akyu3b:Yes, the curse of the shrine maiden...
+
+Akyu1a:Yes, the curse of the shrine maiden... wouldn't explain any of this! I must think about this using common sense!
+
+Akyu3b:I have to conclude it was a fairy prank. I must still be under the weather if I fell for such a cheap prank... Yes, that's it.
+
+Akyu2a:...Reimu, Keine, Youmu! Please resolve the incident and come back soon!
+
+Akyu2a:Then beat up those fairies for meee!
+
+</single>
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+<MAP=4,FROM=香霖堂,TO=香霖堂,name=Kourindou,icon=5>
+
+<BG=*bg_talk_Korindo.png,fade=1,color=1,title=*bg_Korindo,bgm=bgm_talk_gag>
+
+Korin0b:...As the night approaches, the mist grows more and more dense.
+
+Korin2d:It was good to see Marisa all fired up when she got her hakkero, but I hope she isn't being too reckless.
+
+Korin0d:Then again, if she shrank in the face of a little adversity, she wouldn't be Marisa.
+
+Korin0b:...
+
+Korin3b:What exactly is this mist, though? With the way it completely hides the sun, it's as if the world is ruled by the night.
+
+Korin4a:If it's a youkai ploy, I can only wonder what their motive is.
+
+Korin0a:Perhaps the culprit hates Amaterasu Omikami and wants to hide the sun out of spite? But that doesn't explain the scarlet color of this mist.
+
+Korin0d:Which means the key to solving the mystery is perhaps not the sun, but the vivid scarlet hues.
+
+Korin4a:But if it's about color... crimson, scarlet, red, red-and-white...
+
+Korin3d:Aha! I've got it!
+
+Korin1b:Allow me to voice my conclusion. In my view, the culprit's aim is to get rid of the boundary between red and white.
+
+Korin3b:As red and white are Reimu's colors, if that boundary is lost, it is the same as her disappearing altogether.
+
+Korin0a:Hence, the culprit is one who holds a grudge against Reimu, and doubtlessly started this incident as retribution.
+
+Korin4a:...In which case, I wonder just who is this youkai that holds such resentment for Reimu.
+
+Korin2c:Reimu treats everyone completely equally, which doesn't lend itself well to inviting hatred...
+
+Korin3c:It'd be much more understandable if it was Marisa. She'd gladly take any chance to start a rivalry.
+
+Korin0a:By now, those two should be challenging each other to see who resolves the incident first.
+
+Korin0d:The one who resolves it would always return full of pride, and the one who didn't who come back all sulky.
+
+Korin4b:Until that day comes, I should enjoy having some time to myself.
+
+</Cond>
+
+<MAP=4,FROM=霧の湖,TO=霧の湖,name=Misty Lake,icon=0>
+
+<BG=*bg_talk_Lake.png,fade=1,color=1,title=*bg_Lake_sky,bgm=bgm_talk_aoki>
+
+Marisa2a:...Achoo!
+
+Keine0c:What's wrong, Marisa? Did you catch a cold?
+
+Marisa0d:...Nah, it ain't a cold. Someone must've been talking about me.
+
+Marisa7c:Being a hero's tough. You feel the weight of people's expectations on you.
+
+Nitori3e:What would anyone expect of you? Selectively breeding mushrooms or something?
+
+Marisa1b:What, you think I'm the hero of some mushroom kingdom or something?
+
+Alice0c:You probably sneezed because of this ice fairy here. Chills come naturally with her around.
+
+Alice0a:If you're cold, you should just be honest and say so. Right, Shanghai?
+
+Shanghai0a:Shanghai.
+
+Marisa3d:Pah. This would actually feel pretty good if the coldness were a little milder though.
+
+Marisa0e:Hey Cirno, can't you turn down your coldness a bit?
+
+Cirno6a:Hm? Sure I can.
+
+Marisa1d:You can?! Then do it!
+
+Cirno5b:But this is comfy for me. I don't care what's comfy for you.
+
+Keine0b:That's enough chitchat. We used up quite a bit of time to rest, so we're going to need to get focused now.
+
+Youmu1b:The sun's very low now. Things are only going to get worse from here.
+
+Daiyosei5f:What do you mean, worse?
+
+Reimu3b:Nighttime is when youkai are in their element. They'll be in top condition then.
+
+Rumia3a:Mmhm!
+
+Youmu2b:It's easy to tell when you look at Rumia. She's much more lively now compared to in the morning.
+
+Rumia3a:Totally. I'm right at home when it's cool and dark!
+
+Nitori3e:Not all of us are in better shape at night, though.
+
+Nitori1a:For me, the most benefit I get is that sometimes I make a lot of research progress at night.
+
+Keine0c:So basically, beware of the certain types of youkai that get empowered at night.
+
+Youmu0b:Does the opposite apply? Are there people whose condition worsens at night?
+
+Marisa0b:I'm sure we're fine as far as that goes. The worst that happens for us is that Reimu can't see in the dark.
+
+Reimu1a:I'm not night-blind!
+
+Alice2c:Moving on—are we getting closer to our destination?
+
+Alice0a:Yes, though Reimu had flown ahead of our guiding fairy...
+
+Reimu0e:Ahh, maybe I did. It's hard to see in the dark, so I was just flying around.
+
+Cirno3a:Well, you're more or less in the right direction. It's all thanks to my guidance!
+
+Marisa1b:Liar, you've been chatting with us the whole time.
+
+Reimu1a:Ah, I can see it. The red house is there!
+
+<MAP=4,FROM=霧の湖,TO=紅魔館,name=Scarlet Devil Mansion Gate,icon=0>
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP
+
+Cirno1a:We're here, it's that red house!
+
+Marisa0d:Well, I'll be. It really is red.
+
+Keine0c:And it's more of a mansion than a house. For a structure like this to be built here...
+
+Rumia0a:There's an entrance over there. And people standing there too.
+
+Reimu1b:!
+
+Marisa2b:You're...!
+
+Meiling1a:You've done well to make it this far, humans!
+
+Elliy1a:I totally knew all along that you were coming here!
+
+Nitori2a:That red-haired youkai was the one with the maid!
+
+Marisa2b:And the one in the red dress is Elly!
+
+Youmu1a:I see, so the scythe youkai is indeed connected to the source of the incident.
+
+Keine1a:Now two youkai we considered suspicious are standing side by side.
+
+Reimu1a:Looks like this is definitely the culprit's stronghold, alright.
+
+Meiling1e:This is the mansion of a devil! The Scarlet Devil Mansion! You may have had it easy on the way here, but you will go no further!
+
+Meiling1a:I am the gatekeeper of the Scarlet Devil Mansion, Hong Meiling!
+
+Elliy1a:And I'm the other hired gatekeeper, Elly!
+
+Meiling1d:As long as we stand here together, no one shall set foot past the scarlet devil gates!
+
+Marisa1b:What's with the cheesy intro? I don't care who you are. We'll just bust our way through and—
+
+Youmu1b:They respect the tradition of warriors offering their names before a battle!
+
+Youmu1a:Then I'll respond in kind! I am Youmu Konpaku, the gardener of the Netherworld!
+
+Cirno1a:I'm Cirno! The strongest!
+
+Alice4a:...You all don't really have to introduce yourselves, you know.
+
+Reimu0a:...
+
+Daiyosei5e:Is something the matter, Reimu?
+
+Reimu0d:Yeah. Something's bugging me about the red-haired lady.
+
+Reimu2b:I feel like I've seen her before, but I don't remember where exactly.
+
+Nitori3e:She was with that maid from yesterday. Don't you mean then?
+
+Reimu2b:I know that already, I'm talking about something else... What was it?
+
+Alice2c:From what I'm seeing, she doesn't have anything distinctive about her as a youkai, and I can't sense any special powers.
+
+Marisa0b:Yeah, seems it won't be as rough as it was with the maid.
+
+Elliy4a:...Meiling, they're talking about you.
+
+Meiling1d:You clearly have no idea why we were assigned this duty.
+
+Meiling1b:It is true that we're lacking in magical gifts. Instead, we have trained our bodies and mastered techniques.
+
+Elliy0b:Exactly! No matter our opponent, there is no blind spot that they can find...
+
+Elliy1a:You won't find it easy to breach this double all-rounder youkai guard!
+
+Youmu1c:I see. Being able to fight at your fullest against any opponent does sound ideal for a gatekeeper.
+
+Keine4a:They make it sound flattering, but all they're really saying is that they have no particular strengths or weaknesses.
+
+Marisa4c:...So basically, they're totally ordinary.
+
+Elliy1b:Erk.
+
+Meiling7a:Oof.
+
+Alice0c:I see. Their average stats may be high, but their overall balance is still ordinary.
+
+Nitori4b:Yeah. Ordinary youkai would ordinarily be suited to be gatekeepers.
+
+Rumia0a:And they ARE gatekeepers, so that's nothing out of the ordinary!
+
+Meiling2a:Would you stop repeating that word so much?!
+
+Meiling1a:I would've overlooked this if you'd retreated without a fuss, but now I'm not going to hold back!
+
+Reimu1a:You actually thought we'd retreat? This danmaku battle starts now!
+
+Keine0a:Our opponents may not seem very bright, but don't underestimate them.
+
+Keine1a:They've said it themselves, gatekeepers pride themselves on protecting a single point. Direct battles are their forte!
+
+Youmu1a:Got it. If they want a full-on fight, we'll just have to give it to them!
+
+Elliy1a:Now!
+
+Meiling1a:Come at us with whatever you've got!
+
+<Cond=(GLOBAL_VAR,is_NG0,==,0)>
+
+<TIPS=BOMB>
+
+</Cond>
+
+<end>
+
+<ChatID:2>----------------------------------------
+//2PP会話（夜の説明）
+
+Rumia3a:I'm feeling pretty good!
+
+Reimu3a:Hmm... I feel pretty normal, myself.
+
+Keine0c:It's because it's [Night]. Rumia is a youkai strengthened by the night, increasing her physical abilities.
+
+Keine6a:Compared to day, her body should be quicker and more durable.
+
+Daiyosei0d:Wow, that's amazing, Rumia. I'm just getting kinda sleepy...
+
+Marisa0a:But it's not like we're any worse at danmaku fights.
+
+Alice0d:The important takeaway is that some youkai increase in power at [Night].
+
+<Cond=(GLOBAL_VAR,is_NG0,==,0)>
+
+<TIPS=NIGHT>
+
+</Cond>
+
+<end>
+
+<ChatID:3>----------------------------------------
+//床弾幕使用時会話ChatID:.
+
+<end>
+
+<ChatID:4>----------------------------------------
+//敵増援時会話
+
+Nitori2a:They've got reinforcements from the building?!
+
+Cirno0a:Hm... Those are fairies.
+
+Daiyosei0a:I've never seen these fairies before. I wonder what they're doing there?
+
+Meiling0a:Why are you here?
+
+Maid0a:Ah, the head maid told us to go check up on you.
+
+Maid0a:She said we should pitch in with the danmaku battle if you were struggling.
+
+<Cond=(FIND_UNIT,Elliy_en,enemy,!=,-1)>
+
+Elliy0a:Sakuya's always such a worrywart. We're more than enough for these people.
+
+Meiling0a:She's being nice to us, you know. I'll do my best, Sakuya!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Elliy_en,enemy,==,-1)>
+
+Meiling0a:I'll do my best, Sakuya!
+
+</Cond>
+
+Keine0a:Those fairies are wearing maid outfits... They couldn't be residents of this mansion, could they?
+
+Rumia0a:That would make sense, wouldn't it? I think they're gonna attack us.
+
+<end>
+
+<ChatID:5>----------------------------------------
+//美鈴スペカ使用時会話
+
+Meiling1a:Ugh, they really are tough...
+
+<Code=(icon_set_direction,Marisa,Meiling_en,0)>
+
+Marisa0a:She's still ready for another round? She must be tough stuff.
+
+<Code=(icon_set_direction,Keine,Meiling_en,0)>
+
+Keine2a:This is taking too much time. Even as we fight, the human village is...
+
+Keine1a:Ah, yes! Hey, youkai! You went to the human village yesterday, didn't you?
+
+Keine0a:Nobody can go out right now with the mist pervading the village. Many people have collapsed because of it.
+
+Meiling7a:People have collapsed...?
+
+Keine1a:Yes. So please let us through to speak with the one behind this. All we want is for the mist to stop!
+
+Reimu5d:Keine's still trying diplomacy at a time like this. Amazing.
+
+Meiling0b:...
+
+Meiling0a:I refuse.
+
+Keine2a:!
+
+Alice0a:Well, that was predictable.
+
+Meiling0b:Whatever your reasons may be, the mistress entrusted me with protecting this gate. I will never neglect my duties!
+
+Youmu0a:Looks like there's no reasoning with her. We have no other choice but to fight.
+
+Cirno0a:I was never planning on anything else anyway. We'll just take her down and force our way in!
+
+Meiling0b:My mission is to protect the gate of the scarlet devil from insolent invaders!
+
+Meiling1a:Here comes my spellcard!
+
+<end>
+
+<ChatID:6>----------------------------------------
+//エリー撃破時会話
+
+Elliy2a:I... I give!
+
+<nomove>
+
+TileA0a:There is nothing more of our stile we can teach you...
+
+TileB0a:Elly... It was a short time on the floor, but it was fun...
+
+</nomove>
+
+Elliy2a:Ahh, my floor tiles!
+
+Elliy0a:Ahh, my floor tiles! ...Although to be honest, they probably needed to be destroyed.
+
+<Code=(icon_set_direction,Meiling_en,Elliy_en,0)>
+
+Meiling7b:Elly!
+
+<Code=(icon_set_direction,Elliy_en,Meiling_en,0)>
+
+Elliy1a:...I'm okay, I'll keep on fighting with you. I'm a gatekeeper too!
+
+Meiling1a:No, I'll handle this. You go on ahead and inform Sakuya!
+
+Elliy0a:...Alright. Be careful, Meiling.
+
+<end>
+
+<ChatID:7>----------------------------------------
+//美鈴撃破時会話（エリーなし）
+
+Cirno0a:Awesome! We did it!
+
+Youmu0a:It's only fitting for the gatekeepers of the enemy stronghold to be so formidable...
+
+<pause>
+
+Nitori0a:Looks like we can move on now.
+
+Meiling2a:Ooh... How could I have been beaten...
+
+<Code=(icon_set_direction,Marisa,Meiling_en,0)>
+
+<Code=(icon_set_direction,Alice,Meiling_en,0)>
+
+Marisa0a:Oh hey, you look healthy enough to stand up.
+
+Alice0a:She's quite the tough customer.
+
+Marisa0a:Let's blow her up!
+
+<Code=(icon_set_direction,Meiling_en,Marisa,0)>
+
+Meiling7b:WHAT?!
+
+Marisa0a:...Just kidding. Alright, let's get going.
+
+Keine0a:Yes, we don't have time to waste.
+
+Meiling7a:...Huh? You're leaving, just like that?
+
+<Code=(icon_set_direction,Reimu,Meiling_en,0)>
+
+Reimu3b:You're already beaten up. There's no point in keeping the fight going.
+
+Reimu0a:So we'll be heading for the culprit now.
+
+Nitori0a:Yeah. The enemy stronghold stands before us!
+
+<end>
+
+<ChatID:8>----------------------------------------
+//美鈴撃破時会話（エリー生存）
+
+<Code=(icon_set_direction,Elliy_en,Meiling_en,0)>
+
+Elliy1a:...How dare you all. I'll get revenge for you, Meiling!
+
+<Code=(icon_set_direction,Meiling_en,Elliy_en,0)>
+
+Meiling1a:Wait, I'm alright. You go on ahead and inform Sakuya!
+
+Elliy1a:No way, I can't leave you alone!
+
+Meiling0b:They're not going to kick me while I'm down. I'll be fine, so you go on ahead.
+
+Elliy0a:...Alright, be careful.
+
+<pause>
+
+Meiling0b:...Good, she got away.
+
+<Code=(icon_set_direction,Marisa,Meiling_en,0)>
+
+Marisa0a:Alright, time to kick you while you're down.
+
+<Code=(icon_set_direction,Meiling_en,Marisa,0)>
+
+Meiling7b:WHAT?!
+
+Marisa0a:...Just kidding. Alright, let's get going.
+
+Keine0a:Yes, we don't have time to waste.
+
+Meiling7a:...Huh? You're leaving, just like that?
+
+<Code=(icon_set_direction,Reimu,Meiling_en,0)>
+
+Reimu3b:You're already beaten up. There's no point in keeping the fight going.
+
+Reimu0a:So we'll be heading for the culprit now.
+
+Nitori1a:Yeah, the enemy's stronghold is right before our eyes.
+
+<end>
+
+<ChatID:9>----------------------------------------
+//ADVB
+
+<MAP=4,FROM=紅魔館,TO=紅魔館,name=Scarlet Devil Mansion,icon=0>
+
+<BG=*bg_talk_Koumakan_Gate_Night.png,fade=0,color=1,title=*bg_Koumakan_Gate,bgm=bgm_talk_aoki>
+
+Nitori0a:Looking at it again, it really is an imposing gate.
+
+Youmu0a:Yes, the mansion beyond is exquisitely designed too.
+
+Keine0a:We're in enemy territory now. Stay sharp.
+
+Marisa0a:Yeah, the main event starts now.
+
+Marisa0a:(...So there really is a scarlet mansion. What I heard in my dream was true.)
+
+Marisa3a:(Speaking of dreams...)
+
+Shiro0a:...
+
+Reimu0f:Oh, what's that? A bottled kedama?
+
+Nitori1a:Ah, it's Shiro! You brought him with you?
+
+Marisa0a:Yeah, just felt like toting him along.
+
+Youmu0a:Is Shiro that white kedama inside?
+
+Marisa0a:Shiro means white. Intuitive enough name, right? It liked me a lot, so I captured it.
+
+Alice0a:...It liked you a lot, so you captured it? How does that work?
+
+Nitori0a:It's an odd kedama, though. It followed after us, and it understands what we say... It's not normal for sure.
+
+Keine0a:That does sound strange.
+
+Marisa0a:Right? That's why I made it my pet.
+
+Rumia0a:What does it eat?
+
+Marisa0a:Hm, I never actually thought about what to feed it. It's a kedama after all. I wonder what it eats.
+
+Nitori0a:Yikes, what a horrible pet owner... Just give it some sweets or something.
+
+Reimu0d:Why let kedama eat something that fancy? Sweets are for humans.
+
+Reimu0a:Wait, eating sweets...
+
+Keine0b:What about it?
+
+Reimu1a:That's right, I remember now! I thought I recognized her. That gatekeeper youkai ate up all my taiyaki!
+
+<Code=(sound_fadeout,BGM,30,0)>
+
+<BGM=bgm_talk_gag,0>
+
+Daiyosei2c:Huh?
+
+Youmu0a:...Um, she ate up all your taiyaki? What do you mean?
+
+Reimu1a:Well, you know that sweets shop in the village, Daimonji? Keine and I decided to meet up there yesterday.
+
+Alice0a:Ahh, we went there too. The taiyaki was sold out, though.
+
+Nitori0a:The obanyaki was great. Marisa bought us some, I think.
+
+Alice0a:...No, I did.
+
+Reimu0d:I was expecting us to eat together, but Keine completely failed to pick up on basic social cues and ate hers by herself.
+
+Reimu0d:That got me annoyed, so I was gonna buy enough to fill up on.
+
+Reimu1a:Then that red-haired youkai walked up and bought out everything!
+
+Keine0a:Ahh, that day. You remember it rather well.
+
+Reimu1a:A food grudge helps a lot there!
+
+Alice0a:A... food grudge. One that sounds completely misplaced, I might add.
+
+Marisa0a:That's Reimu for you. Once she starts grumbling, that's all she's gonna talk about for a while.
+
+Youmu0a:Haha, I can imagine how frustrating it would be seeing something get sold out right before you can buy any.
+
+Youmu0a:Why, just the other day I went to a sweets shop to buy taiyaki for...
+
+Youmu2b:!
+
+Youmu0a:(What if the store Reimu's referring to is the same one where I bought out their taiyaki to bring back as gift snacks?)
+
+Youmu2a:(Oh no, I can't let her find out!)
+
+Rumia0a:Say, you did have a nice taiyaki smell on you earlier. Did you not eat them yourself?
+
+Youmu2b:Erk! New topic, please!
+
+Rumia4a:?
+
+Reimu1a:And so, I ended up being so sore about it then it even appeared in my dreams... Hey Marisa, are you listening?
+
+Marisa0a:Yeah, I ain't listening at all.
+
+Keine3a:Good grief, you're hopeless. I'll treat you to taiyaki once this incident is resolved, okay?
+
+Daiyosei0a:So, um, what does that leave for feeding the kedama?
+
+Shiro0a:...
+
+Alice0c:*sigh* This complete lack of urgency does not bode well.
+
+Alice0a:We're in the enemy base, you know. We could step into a trap at any moment.
+
+Marisa0a:It's fine. Whatever enemy comes, we'll just power through 'em like we did just now.
+
+Alice0a:You're being too carefree. We're going to be in trouble if the enemy has a proper plan.
+
+Alice0c:Plus...
+
+Alice0a:(Those floor tile familiars. They looked forgettable enough, but they were high-ranked spirits capable of understanding speech.)
+
+Alice0a:(Which means someone here is capable of making spirits possess things... In other words, a magician proficient in spirit sorcery.)
+
+Alice0a:(An abundance of caution seems prudent here.)
+
+Shanghai0a:Shanghai.
+
+Alice0a:(Shanghai. I might need to borrow your strength soon.)
+
+<MAP=4,FROM=紅魔館,TO=紅魔館,name=Scarlet Devil Mansion,icon=5>
+
+<BG=*bg_talk_Koumakan_Int_Night.png,fade=1,color=1,title=*bg_Koumakan_int,bgm=bgm_talk_kaikidan>
+
+Remilia0a:...Good morning.
+
+Sakuya0b:Good morning, Mistress. You were a bit late to rise today.
+
+Remilia0a:That's because of the power I used to create the mist last night. Is my meal ready yet? I'm hungry.
+
+Sakuya0b:It's ready, but... There is one thing that I need to inform you of first.
+
+Remilia0a:My, what would that be?
+
+Sakuya0b:I received a report just now that the mansion's gate has been broken through.
+
+Sakuya0b:According to Lady Elly, it appears to be that one group of humans.
+
+Remilia0a:Oh, that's sooner than I thought. Those two prided themselves on their toughness so much too.
+
+Patchouli0a:Conversely, they had no means of defending against things that overpowered that toughness.
+
+Sakuya0b:Lady Patchouli.
+
+Patchouli0a:I've heard from Koakuma. They seem to have added to their fighting strength since the time they fought you, Sakuya.
+
+Sakuya0b:...Yes, they have around three or four additions to their ranks.
+
+Patchouli0a:That makes the reason they lost even clearer. Their unstoppable force broke through our immovable guards.
+
+Remilia0a:It's not surprising, indeed. Did you know this would happen?
+
+Patchouli0a:From the start, yes. All I expected out of them was stalling for time.
+
+Remilia0a:I take it you have a better plan in mind, then?
+
+Patchouli0a:Of course. From what I've heard, the enemy is made up of 3.5 humans, 3 youkai, 2 fairies and 0.5 ghosts.
+
+Patchouli0a:With such a muddled composition, it's not remotely clear what kind of group it is. I strongly doubt they have proper leadership.
+
+Remilia0a:Which means?
+
+Patchouli1a:A troop with no leader is merely a ragtag band. Shake them up a bit and they'll fall apart.
+
+Patchouli1a:Since I have a defense system in place, I might as well use it for once.
+
+Remilia0a:I see, it seems you're fully prepared. Very well, you'll fight them next. Sakuya, lead them to the library.
+
+Sakuya0b:As you wish.
+
+Patchouli0a:I'll be going ahead. Call in the demon. I'll need her for our next operation.
+
+<single>
+
+<Code=(demo_wait,15)>
+
+Sakuya0b:I could join you, if you wish... Ah, but she's gone. I suppose I won't be needed there.
+
+</single>
+
+Remilia0a:I wonder. Patchy has times where she's rather useless too.
+
+Remilia1a:It's clear that these opponents can't just be overpowered, like the gatekeepers tried to do. I can't wait to see how this unfolds.
+
+Sakuya0b:You seem to be enjoying this, Mistress.
+
+Remilia0a:Of course, it's a fun game. In fact, call her over too.
+
+Sakuya0b:I think she'll be back soon whether we summon for her or not. She'll have to pick up Lady Elly.
+
+Sakuya0b:Still, our gatekeepers are a disgrace if they're making Lady Patchouli step in personally.
+
+Remilia0a:Actually, they've fulfilled their role in the best possible way.
+
+Sakuya0b:...What do you mean?
+
+Remilia0b:Someone forcing their way into our domain is the worst possible insult for my kind.
+
+Remilia0a:But that doesn't mean I want my gatekeeper to send every intruder packing. Where's the fun in that?
+
+Remilia0a:Hence, letting intruders in right as I wake up is the best way that our gatekeepers could carry out their duty.
+
+Sakuya0b:So, in your view, they've set the stage for your own amusement.
+
+Remilia0a:Yes. I've lost a rook and a pawn, but that's an acceptable sacrifice.
+
+Remilia1a:The knights are all lined up on the board. Now for them to amuse me...
+
+<end>
+
+<ChatID:10>----------------------------------------
+//霊夢
+
+Reimu2b:It's on the tip of my tongue... What was it? I can't remember...
+
+Meiling0b:Um, no offense, but I have no idea what you're talking about.
+
+Reimu0a:...Well, whatever. I'm sure I'll remember after I kick you to the ground.
+
+Reimu1a:I hope you're ready for this!
+
+<end>
+
+<ChatID:11>----------------------------------------
+//魔理沙
+
+Marisa0a:Hello, ordinary lady.
+
+Meiling0b:You're on about that again?! What's wrong with being ordinary, anyway?
+
+Marisa0a:Ohh, you've accepted your ordinary-ness now. It's time for the punishment then.
+
+Meiling0a:Who taught you any of these ideas?
+
+<end>
+
+<ChatID:12>----------------------------------------
+//慧音vs美鈴
+
+Keine2a:A gatekeeper that protects the enemy's stronghold... You certainly look tough.
+
+Meiling1a:Of course I am. I'm called the Guard of the Scarlet Devil Mansion, and I will repel you by force!
+
+Keine1a:Just try it. You'll never out-power me!
+
+Youmu0a:...
+
+Rumia0a:What's up, Youmu?
+
+Youmu2b:Um, nothing! I was just thinking about how both of them are pretty bulky.
+
+<end>
+
+<ChatID:13>----------------------------------------
+//にとり
+
+Meiling1a:Behold my techniques!
+
+Nitori1a:You've trained your body and polished your techniques, even though you're a youkai... That's amazing.
+
+Nitori0a:There aren't many youkai on the mountain like you nowadays.
+
+Meiling0a:Yeah, so I hear. You don't seem like the type to engage in intensive training either.
+
+Nitori1b:That's because I train myself in technology. Behold my awesome weapons!
+
+<end>
+
+<ChatID:14>----------------------------------------
+//アリス
+
+Meiling0a:Challenging me to a brawl with those slender arms is just silly.
+
+Alice0c:No one said it was going to be a brawl. I'm not fond of close-range battles, so I'll be keeping my distance.
+
+Meiling0b:Ah, so you're familiar with your own fighting strengths and weaknesses.
+
+Meiling1a:But I'm the exact same! I'll make sure to close the distance 'til I can reach you with my fists!
+
+Alice0b:(...What a pain. These confident sturdy types are the worst possible matchup for me.)
+
+<end>
+
+<ChatID:15>----------------------------------------
+//妖夢
+
+Meiling0a:I'm guessing you don't expect your weapon to give you any special advantage over me.
+
+Youmu0a:A true expert specializes in nothing. The intensity of your fists and techniques feels like opposing a wild beast.
+
+Youmu0a:Lumbering yet precise, sluggish yet sure. You remind me of...
+
+Meiling1a:A tiger, I'm guessing? My supple motions and piercing fists will take you out in one shot!
+
+Youmu1a:...Yes, you remind me of a panda!
+
+Meiling7b:A PANDA?!
+
+<end>
+
+<ChatID:16>----------------------------------------
+//ルーミア
+
+Rumia0a:You look like you'd hurt a lot if I let you hit me.
+
+Meiling0a:If you're scared, then leave. I won't pursue you if you do.
+
+Rumia0a:I'm not really scared, though! Your attacks can't hit me if I blend into the darkness.
+
+Meiling1a:That's arrogant of you. As long as you give off that eerie presence, my fists will never lose their mark!
+
+<end>
+
+<ChatID:17>----------------------------------------
+//大妖精vs美鈴
+
+Meiling0a:I'd really rather not go all out against a fairy like you...
+
+Daiyosei3b:Um... Yes, I'm not very good with pain.
+
+Meiling0a:Then you shouldn't pop up in front of me like that. You're more suited to rear support.
+
+Daiyosei3b:That's true... But my friend keeps advancing, so I don't have much choice but to keep pace.
+
+Meiling0a:(Ah, a long-suffering fairy. I can kind of identify with that.)
+
+<end>
+
+<ChatID:18>----------------------------------------
+//チルノvs美鈴
+
+Cirno1a:Mm!
+
+Meiling0a:What's wrong? Why are you staring at me?
+
+Cirno0a:That badge on your hat is cool.
+
+Meiling5a:Ooh, you think? That's actually my trademark, it's—
+
+Cirno1a:Once I win, I'm taking that badge!
+
+Meiling7b:Wait, what?!
+
+<end>
+
+<ChatID:19>----------------------------------------
+//霊夢
+
+Elliy1a:We meet again, Hakurei Shrine Maiden!
+
+Reimu3b:Huh? Do I know you?
+
+<SE=se_talk_zuko01.ogg,wait=0>
+
+Elliy2a:Augh!
+
+Reimu0b:I'm kidding, of course I remember you. Not that there was much to remember...
+
+Elliy1a:Geez, quit it with the bad jokes. I have my floor tiles this time, so I'll teach you a lesson in respect!
+
+<end>
+
+<ChatID:20>----------------------------------------
+//魔理沙
+
+Marisa0a:I never would've thought you'd switch jobs to work here. What happened to your last one? Laid off?
+
+Elliy0a:That's none of your business. I've got a lot of stuff going on, I'll have you know.
+
+Marisa0a:But you're right back to being a youkai gatekeeper somewhere else. You must've been really hard-up for job options.
+
+Elliy0a:Grr! Don't insult the job of a gatekeeper!
+
+Elliy1a:Protecting a gate is the same as safeguarding a warm and friendly household. It's a job to be proud of!
+
+Marisa0a:This mansion leaks out scarlet mist instead of smoke from cooking. If that's your idea of warm and friendly, that's kinda messed up.
+
+<end>
+
+<ChatID:21>----------------------------------------
+//慧音
+
+Keine0a:It's not surprising you were connected to this mist.
+
+Elliy0a:What do you mean by that?
+
+Keine0a:After you ran away the last time, we got suspicious and followed after you. That's how we ended up at the lake.
+
+Elliy2a:Oof... You mean I'm the reason you're here?
+
+Elliy1a:Then there's no other choice, I'll defeat all of you to remove the evidence!
+
+<end>
+
+<ChatID:22>----------------------------------------
+//にとり
+
+Nitori1a:You know, you two seem like hard-luck characters.
+
+Elliy0a:Huh? What's that supposed to mean?
+
+Nitori0a:That's just the kind of aura you give off.
+
+Nitori0a:Like even when you win, you end up tripping over your feet as you give your victory line. Stuff like that.
+
+Elliy1a:Don't make snap judgments about people based on their appearance. We're doing the best we can!
+
+<end>
+
+<ChatID:23>----------------------------------------
+//アリス
+
+Alice0a:Did you summon those familiars yourself?
+
+Elliy0a:Why does that matter?
+
+Alice0a:It doesn't, really. I just thought that they were rather complex familiars for you to be summoning.
+
+Elliy0a:Grr! That's just great. Yet another cheeky blonde. And this one's all prim and proper, ugh.
+
+Elliy1a:Fine, you like these tiles so much? You can have them! Study them all you like while they're hammering into you!
+
+<end>
+
+<ChatID:24>----------------------------------------
+//妖夢
+
+Elliy1a:There you are, bowlcut swordswoman!
+
+Youmu1a:We meet again, scythe lady!
+
+Youmu0a:While you might fool others at a glance, I can tell you've got extensive training with that scythe.
+
+Elliy0a:Well, yeah? I'm not a gatekeeper for nothing.
+
+Elliy1a:And this time I have my floor tiles, too. I'll beat you before you can get close!
+
+Youmu1a:I could say the same, once I get in close. I won't be letting my guard down.
+
+<end>
+
+<ChatID:25>----------------------------------------
+//ルーミア
+
+Rumia0a:You make floor tiles fly? That's a neat trick.
+
+Elliy0a:Yeah, isn't it great? Feel free to admit it if you're jealous.
+
+Rumia0a:Nah. I wouldn't wanna do that. It's kinda creepy.
+
+Elliy2a:Oof, kids say the darnedest things... Have some thought when you're speaking to adults!
+
+<end>
+
+<ChatID:26>----------------------------------------
+//大妖精
+
+Elliy0a:There weren't fairies like you around the last time I fought them.
+
+Daiyosei0a:The last time? Is this your second battle with everyone else?
+
+Elliy0a:Yeah, I was real close to defeating them too.
+
+Daiyosei2c:(...Ah, so she lost in the end.)
+
+<end>
+
+<ChatID:27>----------------------------------------
+//チルノ
+
+Cirno0a:Ohh, your hairstyle's pretty neat.
+
+Elliy0a:My hairstyle? You mean these rolled curls?
+
+Elliy0a:Ehehe, isn't it lovely? It's been my trademark ever since I was called cute.
+
+Cirno0a:Hmm, then once I win, I'm gonna make my hair like that too.
+
+Elliy0a:Your hair's too short for that, so the most you could do is put it up in buns, I'm afraid. Though actually, those might be cute on you.
+
+Cirno0a:Yeah, yours are more like chocolate cornets. How did you make 'em?
+
+Elliy1a:I didn't "make" my hair! Clearly fairies don't get what's so charming about rolled curls!
+
+<end>
+
+<ChatID:28>----------------------------------------
+//大妖精
+
+Daiyosei0a:Ah... That uniform is kind of cute.
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Maid0a:Isn't it? We wear this while working here.
+
+</nomove>
+
+Daiyosei0b:I wish I could get one. Do you think I could?
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Maid0a:It's easy enough to get one. If you sneak into the mansion and start wearing them, you'll end up working here.
+
+</nomove>
+
+Daiyosei2c:Wow, really? Does that mean it's okay if I just take the uniform and leave?
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Maid0a:Probably not. The head maid would catch you before you could.
+
+Maid0a:She's a scary lady! There's no breaking rules once she sets them.
+
+<end>
+
+<ChatID:29>----------------------------------------
+//チルノ
+
+Cirno0a:Aren't you fairies? Why're you wearing those funny outfits?
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Maid0a:This is a uniform. We wear these while working.
+
+</nomove>
+
+Cirno0a:Working? Wow. You sound like an ant right now.
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Maid0a:Don't knock it until you try it. It's pretty nice living here.
+
+Maid0a:As long as you do what you're told, you get meals without even having to ask, and it's basically okay if you just laze around too.
+
+</nomove>
+
+Cirno0a:Ooh, the food may be something to be jealous about...
+
+Cirno1a:But that just isn't my style. I'm a free fairy!
+
+<end>
+
+<ChatID:30>----------------------------------------
+//不具合対策用
+
+<end>
+
+<ChatID:-1>----------------------------------------
+//不具合対策用
+
+<end>
+
+<ChatID:31>----------------------------------------
+//床弾幕使用時会話
+
+Elliy1a:I hope you didn't forget about this technique of mine!
+
+Nitori2a:Geh, she's using those floor tiles again!
+
+Youmu0a:Floor... tiles? What do you mean?
+
+Marisa3a:It's her secret weapon: floor tile danmaku.
+
+Marisa3a:I dunno if they're familiars or what, but she's able to manipulate floor tiles to completely lock down your movement.
+
+Marisa2b:Basically, if you're caught in that danmaku, you won't be able to move around.
+
+Keine2b:Really? Those are much stronger familiars than I'd expect from someone like her.
+
+Meiling7b:Wow! I never knew you had that power!
+
+Elliy0a:Sure I do. Even gatekeepers have to keep up with the times.
+
+Elliy0a:(Technically these were given to me, but they don't need to know that.)
+
+Elliy1a:Okay, floor tiles! Get 'em!
+
+<nomove>
+
+TileA0a:Underfoot!
+
+TileB0a:We'll floor 'em!
+
+Elliy0a:I'm counting on you!
+
+Elliy0a:...
+
+Elliy0a:...Huh?
+
+TileA0a:Geez, Elly's always so unreliable.
+
+TileB0a:She'd say "I give" in no time without us.
+
+Elliy2a:Eeep! The floor tiles are speaking?!
+
+TileA0a:You're too floored by it! Lady Patchouli just thought you were beneath this job, so she put her foot down and helped you out!
+
+TileB0a:Believe me, we didn't ask to possess floor tiles of all things!
+
+</nomove>
+
+Elliy2a:I thought that was strange. She could barely remember my name, yet she suddenly gave me these familiars...
+
+Elliy2a:Patchouli's definitely having fun at my expense. She never told me about any talking floor tiles!
+
+<Code=(icon_set_direction,Meiling_en,Elliy_en,0)>
+
+Meiling3a:Wow... It's nice that you have so many friends, Elly.
+
+<Code=(icon_set_direction,Elliy_en,Meiling_en,0)>
+
+Elliy2a:Wait, Meiling! You've got it wrong! This is a mistake!
+
+Reimu3a:...Really? You guys struggled against THAT?
+
+Marisa0a:No, they weren't talking last time we saw 'em.
+
+Marisa0a:Well, whether they talk or not, they're still floor tiles in the end. Being familiars doesn't change that.
+
+Alice0a:That's true... But giving familiars such a high degree of self-awareness...
+
+Keine0a:Is something wrong, Alice?
+
+Alice0c:No, never mind. Let's just be careful not to get caught by those floor tiles.
+
+<end>
+
+<ChatID:32>----------------------------------------
+//エリー撃破時会話床無し版
+
+Elliy2a:I... I give!
+
+<Code=(icon_set_direction,Meiling_en,Elliy_en,0)>
+
+Meiling7b:Elly!
+
+<Code=(icon_set_direction,Elliy_en,Meiling_en,0)>
+
+Elliy1a:...I'm okay, I'll keep on fighting with you. I'm a gatekeeper too!
+
+Meiling1a:No, I'll handle this. You go on ahead and inform Sakuya!
+
+Elliy0a:...Alright. Be careful, Meiling.
+
+<end>
+
+<ChatID:33>----------------------------------------
+//美鈴vs.まくら
+
+Meiling1a:You shall not pass!
+
+Makura0a:How impressive. The Scarlet Devil Mansion's gatekeeper has quite the fighting spirit.
+
+Makura1a:Unfortunately, no matter how sturdy your body may be, it's powerless against dreams.
+
+Meiling1e:The power of dreams?! True, I'm weak to mental attacks...
+
+<end>
+
+<ChatID:34>----------------------------------------
+//美鈴vs.メーコ
+
+Meko0c:Heh heh heh...
+
+Meiling1d:What's with that cocky chuckle?
+
+Meko4e:I know your weakness, Meiling. I'll make you take a nap with my power over sleep!
+
+Meiling7a:Gah, my natural enemy!
+
+<end>
+
+<ChatID:35>----------------------------------------
+//美鈴vs.美鈴
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Meiling1e:Your resolve to guard that gate is inspiring!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Meiling6b:Wha— Who're you?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Meiling4a:With the motherland's 4000 years of history, disguising myself is trivial.
+
+Meiling1a:Now, what will you do when up against a villain with your own face?!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Meiling7a:Gah, what are you after?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Meiling3b:(...Good question. I just suddenly got into a weird mood.)
+
+</nomove>
+
+<end>
+
+<ChatID:36>----------------------------------------
+//エリーvs.まくら
+
+Elliy1a:Here she is! The futon youkai!
+
+Makura0f:Calling me that is a little...
+
+Elliy0a:You're wearing a futon, aren't you? You must've come from an old worn-out futon!
+
+Makura0g:...No, the futon is not my real body. I'm not even a futon youkai at all.
+
+Elliy5c:Wha...?
+
+<end>
+
+<ChatID:37>----------------------------------------
+//エリーvs.メーコ
+
+Elliy0b:Oh, I haven't seen you before.
+
+Meko4a:I'm Mehko. And these sheep are—
+
+Elliy1a:Stop stop stop, lemme guess!
+
+Elliy3b:Starting from the left, Gym, Giru, Gan, Go, Gufo!
+
+Meko1b:Those sound kinda cool, actually...
+
+<end>
+
+<ChatID:38>----------------------------------------
+//エリーvs.エリー
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Elliy1a:Even pretty girls like you can't pass!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Elliy4a:Ugh, if a pretty girl like you says so...
+
+Elliy4b:Is being so pretty a sin?
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Elliy5a:Yes, one we can never atone for.
+
+</nomove>
+
+<end>
+
+<ChatID:39>----------------------------------------
+//エリーvs.くるみ
+
+Kurumi3b:Found you, Elly!
+
+Elliy1b:Bwuh? Kurumi?!
+
+Elliy0b:This is a bad time for a walk. Get back to Patchouli, hurry!
+
+Kurumi2a:But you look like you're having trouble!
+
+Elliy1a:Just get inside! Or else no snacks!
+
+<end>
+
+<ChatID:40>----------------------------------------
+//美鈴vs.咲夜さん
+
+Sakuya1c:Are you doing your job properly, Meiling?
+
+Meiling0c:Sakuya?!
+
+Meiling1b:Were you patrolling outside? I'll be sure to take care of these intruders, so—
+
+Sakuya1b:Are you sure about that? Why don't I test your skills?
+
+Meiling6a:O-Okay!
+
+Sakuya5c:(...Was that a little mean of me?)
+
+<end>
+
+<ChatID:41>----------------------------------------
+//美鈴vs.パチュリー
+
+Patchouli0c:So this is how the tile familiars were being used.
+
+Meiling1b:Lady Patchouli?
+
+Meiling1d:What brings you outside?
+
+Patchouli0b:Is it really so surprising that I'd take a walk?
+
+Meiling6a:Well, um... Not that I think it's a bad thing!
+
+Patchouli4e:(Good grief. I suppose I was like that back then.)
+
+<end>
+
+<ChatID:42>----------------------------------------
+//美鈴vs.レミリア
+
+Remilia3d:I see you're really doing your job. How admirable.
+
+Meiling6a:Lady Remilia?!
+
+Meiling0c:It's still a little early to be called night. Are you sure you can walk around outside?
+
+Remilia1e:This much sunlight is hardly worth mentioning.
+
+Meiling3a:But didn't you release the mist to block the sun...?
+
+Remilia4a:How dare you talk back to me! If you have a complaint, then show me in danmaku!
+
+Meiling2a:Eh?!
+
+<end>
+
+<ChatID:43>----------------------------------------
+//美鈴vs.フラン
+
+Flan3f:Meiling! Let's play!
+
+Meiling7b:Lady Flan?!
+
+Meiling7a:Wh-What are you doing outside?! And you want to play with me?
+
+Flan3b:Who cares? Anyway, are you playing or not?
+
+Meiling6b:O-Of course I'm willing to, but what exactly would we be doing...?
+
+Flan3f:Tee hee hee, we're gonna play horsie!
+
+<end>
+
+<ChatID:44>----------------------------------------
+//美鈴vs.非想天則
+
+Meiling1a:Come at me! No matter the opponent, I, Hong Meiling...
+
+Tensoku0a:...
+
+Meiling7b:Wait, whaaa?!
+
+Meiling3c:I did say "no matter the opponent", but isn't this cheating?
+
+Meiling1e:...No, I don't go back on my word. I, Hong Meiling, will be your opponent!
+
+<end>

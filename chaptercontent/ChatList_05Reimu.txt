@@ -1,0 +1,1209 @@
+﻿○霊夢第五話「疾風!旋風!射命丸!
+
+
+<ChatID:0>--------------------------------------------------
+//ADVA
+
+<MAP=1,FROM=神社に続く小道,TO=神社に続く小道,name=Path to the Shrine,icon=5>
+
+<BG=*bg_talk_Road.png,fade=0,color=1,title=*bg_RoadtoShrine,bgm=bgm_talk_gag>
+
+<hide=all>
+
+Luna0a:*th-thump, th-thump*
+
+</hide>
+
+<hide=name>
+
+Sunny3a:Hmm, where did Luna go? I can't find her anywhere...
+
+<hide=face>
+
+Luna0a:(...You're not going to, either. My hiding spot is perfect this time.)
+
+Luna0a:(I dug this hole specifically for today. There's no way someone as unresourceful as you will spot it, Sunny.)
+
+</hide>
+
+Sunny3a:Gosh, I just don't see her! Maybe I'll go check back at the lake...
+
+<hide=face>
+
+Luna1a:(There, you see? I totally win!)
+
+</hide>
+
+Sunny1a:...Or not. Hyah!
+
+<SE=se_talk_mugyu.ogg,wait=1>
+
+Luna2a:Gwah!
+
+Sunny0a:Found you, Luna! Heheh, I bet you were thinking that I'd never find you, right?
+
+Luna1a:Wait... How did you find me? I thought I hid myself perfectly...
+
+Luna1a:I even used my power to hide my sounds to make sure!
+
+Sunny0a:Stupid, hiding your sounds means nothing if you stick this here for everyone to see.
+
+Luna0a:What do you mean...?
+
+Luna0a:Ah, you mean that flag I used to mark the hole?
+
+Luna0a:I was just worried that the hiding spot was so perfect, I wouldn't be able to find it myself.
+
+Sunny0a:Uh-huh. And seeing your face on that flag made it obvious that you were here.
+
+Luna0a:......
+
+<hide=name>
+
+Star0a:Why, what are you two doing there?
+
+Star0a:That hole would be a tight fit for both of you.
+
+</hide>
+
+Sunny0a:Silly Star, you're not supposed to reveal yourself!
+
+Sunny0a:I'm it today. You're supposed to hide until I find you!
+
+Star0a:I'm tired of hide-and-seek. My power lets me find the "it" easily, and the other "it" has already gone off somewhere...
+
+Star0a:And didn't you take an afternoon nap when you were supposed to be finding us, Sunny?
+
+Sunny3a:Erk, how'd you know?
+
+Star0a:I can sense the presence of anything that moves. I observed you when I got bored.
+
+Sunny0a:...I always thought you were a cheater, but I guess this confirms it, huh.
+
+Star0a:But anyway, enough about that. I've found something way more interesting!
+
+Star0a:I saw the shrine maiden and a whole group of people flying toward the mountain.
+
+Sunny0a:The shrine maiden? You mean the one that stays at the shrine?
+
+Star0a:Yup. Flying through this mist is just asking to be pranked, right?
+
+Sunny0a:Sure is. Okay, hide-and-seek's gotten boring. Let's go prank the shrine maiden!
+
+Sunny0a:...Oh, where'd Luna go?
+
+Luna0a:Urgh... Ooh...
+
+Luna1a:Geez, I'm down here! You're sitting right on top of me!
+
+Sunny0a:Ah, there you are. I was wondering where you went.
+
+Luna1a:Oh, come on! You sat on top of me, then I couldn't get out from under your big patoot!
+
+Sunny1a:Maybe you wouldn't be on the ground to start with if you weren't so clumsy!
+
+Star0a:Come on, you two. We're gonna miss the shrine maiden if we don't get a move on.
+
+Sunny0a:Oh yeah, you're right. Okay, Star, lead the way.
+
+<MAP=1,FROM=博麗神社,TO=神社に続く小道,name=Animal Trail,icon=0>
+
+<BG=*bg_talk_Road.png,fade=1,color=1,title=*bg_Road,bgm=bgm_talk_aoki>
+
+Keine0a:...And that's why the essence of each youkai lies in either what they signify, or how others interpret them.
+
+Keine0a:In short, youkai are essentially a logical existence, and the ultimate effect of the Boundary of Illusion and Substance was to...
+
+Rumia0a:Ooh, uh-huh!
+
+Keine0b:Hey, are you listening? I'm far from finished.
+
+Rumia0a:Uh-huh!
+
+Sunny0a:You're right, it's the shrine maiden and some other humans.
+
+Luna0a:Isn't that blonde a youkai? I thought the shrine maiden was really tough on youkai. What's she doing with one of them?
+
+Star0a:I can't hear them very well. Sunny, let's get a bit closer to them.
+
+Sunny0a:Sure. Don't go too far from me, though. I won't be able to hide you two otherwise.
+
+<single>
+
+Youmu0a:I wasn't actually expecting her to go through with a lecture while we traveled.
+
+</single>
+
+Reimu0f:She's pretty much got it right, but she just won't stop talking.
+
+Reimu2b:If it's going in one ear and out the other for ME, there's no way a youkai would get anything out of it.
+
+Youmu0a:You know what they say—steady rain wears rock down. If you hammer something in enough, you'd be surprised how well it can stick around.
+
+Reimu3b:Not with this target audience. Youkai aren't going to change their ways no matter how much you implore them to.
+
+Reimu0b:I get wanting to educate them, but it's better to just let 'em do their thing.
+
+Youmu0a:But wouldn't that mean they'd keep harming humans?
+
+Reimu0a:Well, yeah. That's what youkai do.
+
+Reimu0c:Even Keine knows better than to get them to stop attacking humans altogether. What matters is striking a harmonious balance.
+
+Youmu3a:...Am I too uneducated? I fail to see what's "harmonious" about any of that.
+
+Reimu4a:It's not exactly intuitive, to be fair. You haven't talked with many youkai before, have you?
+
+Youmu0a:No. I hardly ever visit the realm of the living.
+
+Youmu0a:Everyone I have to talk with is a ghost. I don't exactly have many brushes with living youkai.
+
+Reimu0g:Then consider this a learning opportunity. Watch.
+
+Rumia2b:Save me, I don't wanna be lectured anymore!
+
+<Code=(map_shake,1,15,4)>
+
+<SE=se_talk_hit02.ogg,wait=1>
+
+Rumia2a:OW!
+
+Youmu0a:Wha...!
+
+Rumia1a:Hey, those humans are just loafing around. Go do something about them instead!
+
+Keine1a:Why would I do anything with them? Naughty children are the ones who need to be punished hundredfold!
+
+Rumia2b:Aieee! Nooo!
+
+Reimu0g:Well? Not quite what you imagined, right?
+
+Youmu0a:Heh, maybe not. Talking with you like this is showing me they're not all dangerous.
+
+Rumia1a:Hey, don't ignore me!
+
+Reimu4a:You should be grateful that Keine is taking the time to lecture you. If you follow her teachings, you could become a true youkai.
+
+Rumia0a:So dismissive...
+
+Youmu0a:We should probably start being more careful, though.
+
+Youmu0a:When our vision's this limited, we've got no way of knowing what's around us.
+
+Keine0a:...Hm, that's true. I got a bit too engrossed in my lecture.
+
+Keine0a:Alright, I'll save the lecture for later.
+
+Rumia3a:Whew...
+
+Keine0a:I know your intuition is good, but I still feel bad making you lead the way.
+
+Reimu0g:Hey, it's what I signed up for. Just stick with me.
+
+Keine0a:So, where are we headed today?
+
+Keine0a:I'm guessing from our heading that it's either the Misty Lake or Youkai Mountain?
+
+Reimu0b:Whichever direction is suspicious. We'll know when we get there.
+
+Keine3a:You're like a compass without a needle.
+
+Rumia0a:Hey, hey, why are you all flying around like this anyway?
+
+Youmu0a:Oh, yes. We never did tell Rumia.
+
+Youmu0a:Our objective is to find the source of this scarlet mist and put an end to it.
+
+Youmu1a:You saw Akyu, didn't you? You youkai may be fine in this mist, but it's toxic to humans.
+
+Rumia0a:Aww, but it's so nice when it blocks out all the sunlight.
+
+Rumia0a:So, what do I do here?
+
+Youmu2b:Huh?
+
+Rumia0a:You'd yell at me if I ran away, but I'd get bored doing nothing.
+
+Youmu0a:True. You wouldn't exactly be an ace sleuth, either...
+
+Youmu0a:Just help with defeating the bad guys.
+
+Rumia3a:Ooh, I getcha. You want me to help when you play danmaku!
+
+Youmu0a:Exactly. If you find anybody that seems bad, let us know.
+
+<single>
+
+Star0a:I'm not entirely sure, but they seem to have tamed that youkai.
+
+</single>
+
+Luna0a:Whoa. It's hard to imagine she's a shrine maiden.
+
+Sunny0a:You never know! Maybe shrine maidens capture and eat youkai when they're running low on food...
+
+Sunny0a:I bet she's fattening her up to eat her. Maybe her next target will be us.
+
+Luna0a:Geez, stop that. You're giving me the shivers.
+
+Luna0a:I've been feeling eyes on me for awhile now. Maybe I've been cursed by the shrine maiden...
+
+Star0a:You two are exaggerating. There's no one better than us at hide-and-seek.
+
+Luna0a:But I sense it even now. My spine feels all chilly and...
+
+Luna2a:...Eeeep?!
+
+Sunny0a:?
+
+Star2a:!!
+
+Star2a:S... Sunny, behind you...
+
+Sunny0a:What's wrong with you two? What's behind...
+
+<hide=name>
+
+Evileye0a:......
+
+</hide>
+
+<Code=(map_shake,1,20,6)>
+
+Sunny2a:...GYAAAH!
+
+Keine1a:...What? I just heard a scream!
+
+Sunny0a:(Wait, Luna! Didn't I tell you to hide our sounds?!)
+
+Luna0a:(I was so frightened, I stopped! That eyeball was flying right at us!)
+
+Star0a:(Let's run away for now!)
+
+Reimu0a:What's all that noise...?
+
+Reimu3b:?!
+
+<hide=name>
+
+Evileye0a:......
+
+</hide>
+
+Youmu1a:These youkai aren't familiar to me, Reimu. And we're surrounded by them!
+
+Keine1a:What's going on here? Could this be related to the scarlet mist...?
+
+Reimu3c:What are THEY doing here?
+
+Keine1a:Reimu, you know these youkai?
+
+Reimu0d:Yes, they were fodder that I dealt with during a previous incident. It's strange for them to appear by themselves, though.
+
+Rumia0a:Hey, there's a youkai over there too. She's wearing a red dress and holding a scythe.
+
+Keine4a:A red dress, and a scythe...?
+
+Youmu1a:It's true, Reimu!
+
+Reimu1a:That one's probably the boss. Let's chase 'em down!
+
+<single>
+
+<hide=all>
+
+<nowindow>
+
+<Code=(demo_wait,30)>
+
+</nowindow>
+
+Aya0a:...Heh, now there's a danmaku battle brewing. I'm gonna get some great material outta this.
+
+</hide>
+
+<end>
+
+<ChatID:1>--------------------------------------------------
+//1PP-1
+
+<hide=name>
+
+Elliy0a:*huff* That was awful.
+
+Elliy0a:I got the parasol back safely, but I bet I'm going to be ordered right back to work once I get back...
+
+Elliy0a:Hmm, I kinda want to take a detour, but I'd probably better not. I'll go straight home, I've got to do my best!
+
+Elliy0a:Hm? Hey, it's...
+
+</hide>
+
+<end>
+
+<ChatID:1.5>--------------------------------------------------
+//1PP-2
+
+<hide=name>
+
+Elliy2a:Eep!
+
+</hide>
+
+Youmu1a:There she is! It's the youkai in a dress with a scythe!
+
+Keine1a:So she's the boss of these beasts!
+
+Reimu1a:We'll get rid of you, no questions asked!
+
+Rumia0a:This sure reminds me of how they treated me.
+
+<hide=name>
+
+Elliy1a:What? Boss? Who the heck are you all?
+
+Elliy0a:No, wait...
+
+</hide>
+
+Reimu2b:Hm... I feel like I've seen her somewhere before.
+
+Keine0a:I've heard nothing about a youkai like that from the villagers...
+
+<hide=name>
+
+Elliy0a:Aren't you that shrine maiden from a while back? I didn't think I'd meet you again.
+
+Elliy0a:Both you and that magician look like normal humans, yet... Geez, this is the second time already...
+
+</hide>
+
+Reimu1a:Oh yeah, you're...
+
+Reimu0a:......
+
+<hide=name>
+
+Elliy0a:......
+
+</hide>
+
+Reimu1a:Uh, you're toast!
+
+<hide=name>
+
+<SE=se_talk_zuko01.ogg,wait=0>
+
+Elliy2a:Gahhh!
+
+</hide>
+
+Elliy1a:Geez, my name is Elly!
+
+Elliy0a:Just be honest and say you forgot who I am instead of trying to finish a sentence with your foot in your mouth!
+
+Reimu4a:Elly. Riiight. I think I remember that now.
+
+Reimu1a:But seriously, literally who? You can't expect me to remember every random youkai's name.
+
+Youmu0a:Wow, they just met and Reimu's already passing the blame for her own shortcomings.
+
+Keine0a:They're both being antagonistic to me. Is this a youkai you exterminated before, Reimu?
+
+Reimu0a:Yes, back before the spellcard rules became popular.
+
+Reimu0d:But the world you were in was a little different from Gensokyo. What are you doing here?
+
+Elliy0a:I WAS going to head straight back, but this changes things.
+
+Elliy1a:I was wondering when I'd have the chance to get revenge on you and that magician!
+
+Reimu0f:Magician? I'm guessing you're referring to Marisa.
+
+Reimu0a:Did you get revenge on her?
+
+Elliy0a:Um, well...
+
+Reimu4a:You got your butt kicked, huh.
+
+Elliy2a:What do you expect?! It's been so long since I last fought!
+
+Elliy1a:A-Anyway, I won't lose this time!
+
+Reimu1a:Sure, whatever you say. I'll send you packing!
+
+<end>
+
+<ChatID:2>--------------------------------------------------
+//2PP（三月精会話）
+
+<nomove>
+
+<Code=(cursor_jump,224,128,1)>
+
+Luna0a:Hey, the danmaku battle's begun.
+
+Star0a:There's a lot of weird ghosts along with those eyeballs.
+
+Star0a:What should we do? Hide until the danmaku battle is over?
+
+Sunny0a:That's kind of annoying. But I guess this isn't the right atmosphere for pranks...
+
+Star0a:...Oh?
+
+<pause>
+
+Star0a:......
+
+Sunny0a:What's up, Star?
+
+Star0a:There's someone hiding in that grove of trees. Maybe it's a fairy who didn't get away in time?
+
+Luna0a:What if someone got lost while playing hide-and-seek?
+
+Sunny0a:Well, now I gotta see what's up. Let's go take a look!
+
+</nomove>
+
+<end>
+
+<ChatID:3>--------------------------------------------------
+//3PP文・三月精出撃
+
+<nomove>
+
+<Code=(cursor_jump,176,144,1)>
+
+<hide=all>
+
+Aya0a:Hmm, they seem to be distracted by a strange youkai.
+
+Aya0a:"Shrine Maiden Encounters Suspicious Youkai, Eyeballs; Struggles in Battle. Is The Future of Gensokyo in Peril?!"
+
+Aya0a:The article and the danmaku are both too plain. This won't even make page 3.
+
+Aya0a:I'm sure they won't lose, but I guess I'll watch a bit longer.
+
+</hide>
+
+<Code=(cursor_jump,192,128,0)>
+
+Luna0a:(...There she is, on the second highest branch.)
+
+Star0a:(I can't see clearly, but the shape looks nothing like a fairy.)
+
+Sunny0a:(She's muttering to herself and jotting something in her notebook... What's she up to?)
+
+Sunny0a:(I guess the best way is to ask her directly!)
+
+<hide=all>
+
+<Code=(cursor_jump,176,144,1)>
+
+Aya0a:That shrine maiden doesn't seem to differentiate between youkai and humans. She addresses both normally, huh.
+
+</hide>
+
+<Code=(cursor_jump,176,128,0)>
+
+Sunny0a:Hellooo! Whatcha doin' up there?
+
+<hide=all>
+
+<Code=(cursor_jump,176,144,1)>
+
+Aya2a:Wah! Who are you people?!
+
+</hide>
+
+</nomove>
+
+<Code=(icon_set_direction,Reimu,FD_LEFT,0)>
+
+Reimu0f:Hm? I hear a commotion over there.
+
+<Code=(icon_set_direction,Keine,FD_LEFT,0)>
+
+<Code=(icon_set_direction,Youmu,FD_LEFT,0)>
+
+<Code=(icon_set_direction,Rumia,FD_LEFT,0)>
+
+Keine0a:Looks like someone's in the trees. Is that a human?
+
+<nomove>
+
+<Code=(cursor_jump,176,144,1)>
+
+<hide=all>
+
+Aya0a:Ayayayaya... Oh, great. You got me spotted, thanks.
+
+Aya0a:So what drove you to pop up on me outta nowhere like that?
+
+</hide>
+
+<Code=(cursor_jump,176,128,0)>
+
+Luna0a:Well, nothing DROVE us, really...
+
+Star0a:We were just wondering what you were hiding there for.
+
+<Code=(cursor_jump,176,144,1)>
+
+<hide=all>
+
+Aya0a:C'mon, haven't you ever heard of context clues? Fairies can be so inconsiderate.
+
+</hide>
+
+</nomove>
+
+<Code=(icon_set_direction,Elliy_en,FD_LEFT,0)>
+
+Elliy1a:Who's there? Show yourself!
+
+Youmu1a:It might be youkai reinforcements. We'd better be cautious.
+
+Reimu5c:If it is, we'll just exterminate them too.
+
+<nomove>
+
+<Code=(cursor_jump,176,144,1)>
+
+<hide=all>
+
+Aya0a:Welp, nothing for it now that they know I'm here.
+
+Aya0a:Might as well go say hello while I'm in the neighborhood.
+
+</hide>
+
+</nomove>
+
+<pause>
+
+<Code=(icon_set_direction,Aya,1,0)>
+
+Elliy1a:!
+
+Reimu1a:There you are, youkai!
+
+<hide=name>
+
+Aya0a:Hey, guys, allow me to introduce myself!
+
+</hide>
+
+Aya0a:I'm Aya Shameimaru, a crow tengu and newspaper reporter. I am honored to have caught your attention.
+
+Aya0a:You can find my work in the Bunbunmaru Newspaper, Gensokyo's fastest and most fantastic fountain of truth.
+
+Youmu0a:Ah, a crow tengu...
+
+Keine0b:...And a newspaper reporter?
+
+Reimu2b:Yeesh, that sounds like a really bad combination.
+
+<nomove>
+
+Aya0a:I'm not the only surprise visitor, either. You've got three more.
+
+<Code=(cursor_jump,176,128,0)>
+
+Luna6a:Wait, is she talking about...?
+
+Aya1a:I mean you three, of course. Get on out here.
+
+Luna0a:Are you doing this because you're mad at us...?
+
+Aya1a:Not in the least! I just want some entertainment in compensation for blowing my reporting cover.
+
+Aya1a:Which brings me to... this.
+
+Sunny2a:Waaah!
+
+<pause>
+
+Youmu0a:Those are fairies, it appears. What a strange combination.
+
+Reimu0a:That's a famous prankster trio around these parts. They were probably hiding to play a trick on me again.
+
+Luna0a:N-No, you've got it all wrong! We're innocent!
+
+Keine0a:Those fairies are pretty daring to join forces with a tengu.
+
+Aya0a:Oh, please. Those fairies have nothing to do with me.
+
+Aya0a:I'm just a reporter who puts her heart and soul into collecting information.
+
+<pause>
+
+<Code=(icon_set_direction,Aya,1,0)>
+
+Youmu1a:S-So fast...!
+
+Aya0a:A reporter should have both sincerity and modesty. I make it a point to always treat my reporting subjects with sincerity.
+
+Rumia0a:Huh, if that's the case, then write an article about these people. They abduct youkai and force them into servitude!
+
+Aya0a:Oh dear, that sounds just awful. You should probably talk to the police about that if it's a criminal affair.
+
+Rumia2a:Y-You demon!
+
+Aya0a:Nope, I'm a tengu.
+
+Elliy0a:What's your deal, anyway? Whose side are you on?
+
+Aya0a:Nobody's. But if I had to pick a side, I'm on the side of the truth.
+
+Elliy0a:Then could you stay out of this? This battle has nothing to do with you.
+
+Aya0a:It sure doesn't. I'm here to cover the scarlet mist.
+
+Aya0a:But I wouldn't pass up a nice shot of you lying on the ground, defeated.
+
+Elliy1a:Grr.
+
+Elliy1a:What does a pigeon tengu like you know? You think you're so great? I'll take you out along with the rest of this trash!
+
+<pause>
+
+Luna2a:Eek, she's going after us too!
+
+Star2a:Hold on, we're innocent bystanders here!
+
+Elliy0a:You were with the tengu, so I'll punish all of you together.
+
+Star0a:That's not fair...
+
+Reimu0a:Hey, stop giving us extra enemies to fight.
+
+Aya3a:I'm just giving you more opportunities for screentime! Put up a good fight, and you'll make page 1 easy.
+
+Elliy1a:Hah, as if. Your newspaper will be on hiatus tomorrow due to a workplace accident!
+
+Aya5a:Oh yeah? You're challenging me? You must not have been in Gensokyo for very long.
+
+Aya1a:In that case, here's a little lesson on how powerful tengu are.
+
+<end>
+
+<ChatID:4>--------------------------------------------------
+//三妖精が登場した次のEP
+
+<Code=(icon_set_direction,Luna_en,Sunny_en,0)>
+
+Luna2a:Can we please just get out of here instead of sticking around for this?
+
+<Code=(icon_set_direction,Star_en,Sunny_en,0)>
+
+Star2b:I'd like to, but that scythe youkai is waiting at the bottom of the mountain...
+
+<Code=(icon_set_direction,Sunny_en,FD_RIGHT,0)>
+
+Sunny1c:Then let's go to the shrine! The shrine maiden won't be there, so we can do as much pranking as we want!
+
+Star3d:That's brilliant, Sunny!
+
+Sunny1b:Then we've got a plan. To the shrine!
+
+<pause>
+
+Youmu2b:What? Those fairies certainly left in a hurry.
+
+Keine1a:It has nothing to do with us though, so focus on the task at hand.
+
+<end>
+
+<ChatID:5>--------------------------------------------------
+//4PP会話（文について）
+
+<Code=(icon_set_direction,Youmu,Aya,0)>
+
+Youmu0a:What incredible speed. My eyes can barely keep up with her.
+
+<Code=(icon_set_direction,Keine,Aya,0)>
+
+Keine2a:For sure. Those tengu are certainly something.
+
+<Code=(icon_set_direction,Reimu,Rumia,0)>
+
+Reimu4a:Youkai pretty much run the full spectrum. And you're on the other end.
+
+<Code=(icon_set_direction,Rumia,Reimu,0)>
+
+Rumia1a:What's that supposed to mean?
+
+Youmu0a:It seems that she'll defeat all of the enemies first if we dilly-dally.
+
+Reimu0c:Anything that makes our job easier sounds good to me. Maybe we should just go on ahead and let her handle this.
+
+Keine1a:Of course we can't. Keep saying things like that and your main character position will eventually be stolen.
+
+Reimu3a:Oof, wouldn't want that.
+
+<Code=(icon_set_direction,Reimu,FD_LEFT,0)>
+
+Reimu1a:Fine, let's head on in! We aren't going to lose to her!
+
+<end>
+
+<ChatID:6>--------------------------------------------------
+//エリーvs.霊夢
+
+Reimu0d:You make no sense. Why would you purposely show yourself just so we can defeat you?
+
+Elliy0a:Huh...
+
+Reimu0f:What? Why are you staying?
+
+Elliy0a:You're wearing a skirt now. And you're showing off your armpits. When did shrine maidens start getting racy?
+
+Reimu2a:WHAT.
+
+Elliy0a:You've grown a bit, too. I guess that's adolescence for you, huh?
+
+Reimu1a:This is the uniform of the Hakurei Shrine Maiden! It has nothing to do with any preferences of mine!
+
+Elliy0a:My, is that so? Whose preferences is it designed for, then?
+
+<end>
+
+<ChatID:7>--------------------------------------------------
+//エリーvs.慧音
+
+Keine1a:Hey, stop carrying that dangerous object around. You could put an eye out with that thing!
+
+Elliy0a:But this scythe is my trademark.
+
+Keine0a:That doesn't justify it. What do you do when you go to the market or wade through crowds of people?
+
+Elliy0a:Huh? Well, my scythe is actually a folding type...
+
+Elliy1a:Huh? Well, my scythe is actually a folding type... Hah, as if!
+
+Elliy1a:Seriously, who lectures someone they've just met?
+
+Keine0a:Well, at least you're a youkai with a sense of humor.
+
+<end>
+
+<ChatID:8>--------------------------------------------------
+//エリーvs.妖夢
+
+Youmu1b:A scythe with a reverse edge... I've never crossed blades with such a weapon before.
+
+Elliy1a:Your blades are pretty long, you know. Can you even handle those?
+
+Youmu0b:I practically eat and sleep with my blades. They're an extension of me.
+
+Youmu1b:What about you? Are you sure it's not the scythe swinging you?
+
+Elliy5a:I resent that. I sleep with my arms around this scythe every night.
+
+Youmu3a:Wait, you actually go to sleep with it...?
+
+<end>
+
+<ChatID:9>--------------------------------------------------
+//エリーvs.ルーミア
+
+Rumia1a:You're a bad guy, huh? I'll punish you.
+
+Elliy4a:Wait, aren't you a youkai? Why are you working as a minion for a shrine maiden?
+
+Rumia3a:Well, doesn't it sound kinda fun to take a bite at exterminating youkai?
+
+Elliy1a:No, not in the least!
+
+<end>
+
+<ChatID:10>--------------------------------------------------
+//エリーvs.文
+
+Elliy4b:You're more than just quick, you're on a whole other level.
+
+Aya1a:Took you long enough to notice.
+
+Aya0a:Here's a lesson from yours truly: the tengu are the fastest species of youkai in Gensokyo.
+
+Aya6a:They rule Youkai Mountain and are one of the main players in the balance of power in Gensokyo.
+
+Elliy2b:Hey, hold on! I don't care about Gensokyo's youkai politics, okay?
+
+Elliy4a:Work runs me ragged, I get lousy pay, I barely ever get to do any decent shopping...
+
+Aya3a:I don't need your life story, either. ...Though I do sympathize with you, work-wise.
+
+<end>
+
+<ChatID:15>--------------------------------------------------
+//エリー撃破
+
+Elliy2a:Eep! I give!
+
+Reimu0c:Yeah, I figured you weren't gonna put up much of a fight.
+
+Elliy2a:Look, what do you want from me?! My floor tiles got blown away, okay?!
+
+Youmu0a:Wait, floor tiles...?
+
+Elliy2a:I'm gonna restock them and show you who's boss next time! You haven't seen the last of me!
+
+<pause>
+
+Aya0a:Now then, all the unwelcome guests appear to be gone.
+
+Reimu1a:Yup, there we go. I've successfully defended my title of main character!
+
+Youmu3a:...What are you talking about?
+
+Keine0a:Thank you. You helped us get that done a lot faster.
+
+Aya0a:Oh, no need to thank me. It was what I wanted to do anyway.
+
+Aya0a:But if you REALLY want to show your appreciation, you could always buy my newspaper.
+
+Aya1a:Act now and I'll throw in some free detergent.
+
+Reimu0e:Actually, could I ask you something?
+
+Aya0a:Sure, how can I help you?
+
+Reimu0a:I heard from Marisa yesterday that a tengu was searching for a shrine maiden that isn't me...
+
+Aya2a:What?!
+
+Reimu0d:That has to be you, right? She mentioned that Buzz Buzz Maru Newspaper too.
+
+Aya0a:It's Bunbunmaru. Totally different. You made it sound like an insect there.
+
+Reimu0f:Who cares about the name? What's this shrine maiden business all about?
+
+Aya0a:Oh, look at the time. I'd better be getting back before I get chewed out.
+
+Reimu1a:Could you be anymore blatant about dodging the question?!
+
+Keine0b:It's like you're not even trying to hide it.
+
+Aya0a:Look, I dunno what to tell you. I've got nothing for you there.
+
+Aya0a:See you around.
+
+<pause>
+
+Rumia0a:Whoa, she's super fast. She's already out of sight.
+
+Keine3a:She comes like the wind and goes like a tempest... You could call that a force of nature.
+
+Youmu0a:But judging from how she was acting, she must have some idea of who this shrine maiden is.
+
+Reimu0a:A shrine maiden that isn't me, huh...
+
+Reimu0a:...
+
+Reimu0b:Well, whatever. That's nowhere near enough to go on by itself, so let's just continue the investigation.
+
+Keine0a:Yes, let's hurry on.
+
+<Cond=(FIND_UNIT,Sunny_en,enemy,!=,-1)>
+
+Rumia0a:Huh...
+
+Youmu0a:Something wrong?
+
+Rumia0a:Yeah, I was wondering where those fairies from before went. Did they get beaten up?
+
+Reimu0e:Maybe? They didn't do anything to us, so who cares?
+
+Keine0a:Agreed. We should get going.
+
+</Cond>
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,176,128,0)>
+
+<Code=(demo_wait,30)>
+
+Star0b:...I think they're gone.
+
+Sunny1b:Hee hee, I made it look like we ran away, while we're actually hiding!
+
+Luna0a:I wasn't sure how it'd turn out, but seems like we're all okay.
+
+Luna0a:So what now? I think the shrine maiden's going somewhere?
+
+Sunny1a:Then let's go to the shrine! The shrine maiden won't be there, so we can do as much pranking as we want!
+
+Star1a:That's brilliant, Sunny!
+
+Sunny5a:Then we've got a plan. To the shrine!
+
+Sunny1b:What should we do while no one's at the shrine? How about painting all those daruma doll eyes white?
+
+Star3d:We could poke holes in the all the sliding doors.
+
+Luna6a:I think that might be going a little too far...
+
+</nomove>
+
+<pause>
+
+Aya0a:Sheesh, those fairies never learn. At least they're a steady source of material.
+
+Aya1a:...
+
+Aya0a:That was too close, though. I wasn't expecting the Hakurei Shrine Maiden to already know about the other shrine maiden.
+
+Aya0a:There's a lot about that shrine maiden's conduct that makes her hard for me to trust.
+
+Aya0a:I can't have outsiders learning too much before we figure out her motives.
+
+Aya0a:I can only hope Momiji's doing a good job of tailing her, wherever she is...
+
+Aya1a:In the meantime, I'll keep tracking the Hakurei Shrine Maiden.
+
+<end>
+
+<ChatID:16>--------------------------------------------------
+//ADVB
+
+<MAP=1,FROM=神社に続く小道,TO=湖への道,name=Animal Trail,icon=0>
+
+<BG=*bg_talk_Road.png,fade=0,color=1,title=*bg_Road,bgm=bgm_talk_ningyo>
+
+Youmu0a:I know we're just following wherever Reimu takes us...
+
+Youmu0a:But the mist is gradually growing thicker. We might be actually approaching its point of origin.
+
+Keine0a:Maybe. For all that Reimu seemingly flies around at random, her intuition still shines through.
+
+Reimu0d:Excuse you. I've got a basis for this, more or less.
+
+Keine0b:More like intuition's your answer to everything.
+
+Youmu0a:In any case, that was a very strange youkai encounter.
+
+Keine0a:Which youkai do you mean? The scythe-wielder or the newspaper reporter?
+
+Youmu0a:Both. Gensokyo really is home to a wide range of youkai, huh?
+
+Youmu0a:The tengu was especially cool, with that line about being on the "side of truth".
+
+Keine0a:That was quite an admirable claim, yes.
+
+Youmu0a:I should try saying a cool one-liner myself.
+
+Youmu1a:Something like... "I am Youmu Konpaku! The Sword That Cleaves Falsehoods!"
+
+Keine0a:I like it! It's like something out of an adventure novel.
+
+Reimu0g:You two like that kind of stuff, huh?
+
+Keine0a:...Anyway, that's enough joking around. The tengu was strange, but the scythe youkai's goal was a complete mystery.
+
+Youmu0a:Agreed. We might be able to discern something if we follow her...
+
+Youmu2b:...Wait.
+
+Keine1a:Oh, of course... We're already going in the direction the scythe youkai ran off in!
+
+Reimu0g:We sure are. I had a feeling about this direction anyway.
+
+Keine0a:Is that youkai really connected to this mist, though?
+
+Youmu0a:It seems farfetched, but that might actually be the case.
+
+Keine0a:How do you figure?
+
+Youmu0a:The scythe youkai mentioned something about restocking as she escaped.
+
+Youmu0a:Wouldn't that imply she has a base of operations nearby where she can restock?
+
+Keine0a:Makes sense. You might come off as absentminded, but you have a keen wit about you sometimes, Youmu.
+
+Keine0a:And here I thought you reminded me of a kid at my school that has a habit of forgetting their things.
+
+Youmu2b:Forgetting their things...?!
+
+Keine0a:Is something wrong?
+
+Youmu2a:No! Not at all. I definitely haven't forgotten any of my things!
+
+Youmu2b:(Argh, I left the notes I took at Akyu's house at the shrine this time...)
+
+Keine0a:Anyway, the mist is getting thicker. Let's keep pushing on.
+
+<single>
+
+Rumia0a:......
+
+</single>
+
+Reimu0f:Hm? Why are you staring at me?
+
+Rumia0a:Hey, what's your name?
+
+Reimu0e:I never told you? It's Reimu.
+
+Rumia0a:Hmm... Reimu, huh. Okay, I'll remember it.
+
+Rumia1a:Reimu, the food you made earlier was really good. Can I come by to eat it again?
+
+Reimu0c:Oh, you appreciate my fine cooking? You've got taste.
+
+Rumia0a:I prefer humans, but I don't mind helping out if I can keep eating food like that.
+
+Reimu2b:You think I'll become a cook for youkai just because you asked me to?
+
+Rumia0a:Aww, lame.
+
+Reimu0a:The forest is opening up. Looks like we're about to come out at the lake.
+
+<end>
+
+<ChatID:17>--------------------------------------------------
+//三妖精のいずれかを撃墜
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Sunny_en)>
+
+Sunny2a:Ow ow ow...
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Luna_en)>
+
+Luna2a:Ouchie...
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Star_en)>
+
+Star2a:That hurts...
+
+</Cond>
+
+<Code=(icon_set_direction,Luna_en,Sunny_en,0)>
+
+Luna1b:Can we please just get out of here instead of sticking around for this?
+
+<Code=(icon_set_direction,Star_en,Sunny_en,0)>
+
+Star0a:We'd better flee, quick.
+
+<Code=(icon_set_direction,Sunny_en,FD_RIGHT,0)>
+
+Sunny2a:Alright, time to run!
+
+<pause>
+
+Youmu2b:What? Those fairies certainly left in a hurry.
+
+Rumia0a:They're pretty good at running away!
+
+Keine1a:We don't have time to deal with them. Focus on the task at hand.
+
+<end>
+
+<ChatID:18>----------------------------------------
+//エリーvs.まくら
+
+Elliy0b:I've never seen you around. What's your name?
+
+Makura3a:I am Makura Muwatari.
+
+Elliy3a:I can't really explain it, but you've got kind of a motherly aura...
+
+Elliy1a:Whoops, if we keep chatting I'll lose my edge! Time to fight!
+
+Makura0h:Sure, I'd love to study your danmaku too, Elly.
+
+<end>
+
+<ChatID:19>----------------------------------------
+//エリーvs.メーコ
+
+Elliy0b:Oh, you're...
+
+Meko4c:What?
+
+Elliy3a:There's so much fluff in your head, you seem like you'd get along with Kurumi.
+
+Meko4f:Yay! I've always wanted to get along with her!
+
+Elliy4a:(This is what I mean by a head full of fluff...)
+
+<end>
+
+<ChatID:20>----------------------------------------
+//エリーvs.エリー（M04流用）
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Elliy1a:Ooh, found a pretty girl!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Elliy1b:So just who are you, pretty?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Elliy5a:I can't tell my name, but this is all I can say.
+
+Elliy3b:You're so pretty!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Elliy5a:Yeah, you too!
+
+</nomove>
+
+<end>
+
+<ChatID:21>----------------------------------------
+//エリーvs.幽香（M04流用）
+
+Elliy1b:Eh? Yuuka?!
+
+Elliy4a:...No, it can't be. I must be hallucinating from wanting to see her too much.
+
+Yuka1a:I don't quite understand, but if you're satisfied, than shall I tear you to pieces?
+
+Elliy2b:That's my Yuuka! Even my hallucination's merciless!
+
+<end>
+
+<ChatID:22>----------------------------------------
+//エリーvs.くるみ（M04流用）
+
+Elliy0a:Oh, it's Kurumi. What're you doing here?
+
+Kurumi1c:Um, uh, taking a walk!
+
+Elliy3a:Oh, you. Just don't slack off on the job Patchouli gave you.
+
+Kurumi6a:'Kaaay! ...Whoops, I answered automatically.
+
+<end>
+
+<ChatID:23>----------------------------------------
+//R05：エリーvs.非想天則
+
+Elliy1a:Sheesh, how could everyone forget me?
+
+Elliy5a:I'll just have to stand out so much they'll never forget me again!
+
+Tensoku0a:......
+
+Elliy1b:Whoa, wait!
+
+Elliy2b:What's this?! How can I stand around with THIS here?!
+
+Elliy1a:Unforgivable! I'm supposed to be lead actress here!
+
+<end>

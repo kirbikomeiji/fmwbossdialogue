@@ -1,0 +1,1088 @@
+﻿○霊夢第二十八話「四季交々
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: 2PP
+ 3: clear
+ 4: ADVB
+ 5-17: battle vs. Lunasa
+18: LilyW beaten
+19: battle vs. Kappa
+20-32: omake
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<MAP=10,FROM=人里への森,TO=人里への森,name=Animal Trail,icon=0>
+
+<BG=*bg_talk_Road_Winter2.png,fade=0,color=1,title=*bg_Road,bgm=bgm_talk_aoki>
+
+Aya0a:So, uh, our news team has joined up with the Hakurei Shrine Maiden and is continuing our investigation.
+
+Aya0a:Claiming to be following her intuition, she leads us in circles―
+
+Rumia0a:Whatcha writing?
+
+Aya1a:This is my reporter's notebook. All this is going into an article. 
+
+Mokou3b:You talk big game about reporting, but I bet you just make everything up.
+
+Aya5a:How rude. Here, here's a sneak preview of my article. 
+
+Keine0b:Let's see here... "Upon leaving the mountain, we were contacted by an apparent Incident Investigator, one Miss K.Y. ..."
+
+Keine3a:"...Having fallen into a predicament, the Hakurei Shrine Maiden needed our help to thwart troublemakers left and right―"
+
+Reimu4a:So what predicament would that be? A lot of the rest of this seems off to me too...
+
+Aya3a:A reporter never lets the little details get in the way of a good story.
+
+Aya0a:And speaking of reporting, would you care to comment on this incident, Miss Letty? 
+
+Letty0a:I'm afraid I'm going to give you the cold shoulder. No comment.
+
+Aya3b:But surely, as a winter youkai, you're reaping the advantages of this long winter? 
+
+Momiji0a:Sheesh, she's always like this when she interviews people. 
+
+Shizuha0a:You're always so serious, Momiji. You were here as Sanae's bodyguard, right? 
+
+Momiji4a:Indeed, Lady Yasaka was quite worried about her.
+
+Momiji4b:Worried that she might forget her way home or talk with strangers, that is. 
+
+Minoriko3a:Ah, I see, it's that kind of worry...
+
+Sanae4a:But I really do appreciate having you two escorting me.
+
+Sanae0a:Who knows where I'd be now if it weren't for you helping me find Reimu?
+
+Momiji4a:It was nothing. More importantly, the winds have been picking up, so tell me if you get cold. 
+
+Sanae0a:Still, thanks a ton, Miss Inubashiri.
+
+Reimu0b:You two get along well...
+
+Reimu0e:Oh yeah, how're your gods? I haven't seen them for a while. 
+
+Sanae4a:Apparently they're being kept pretty busy. Just recently they had to build an embankment in case of an avalanche.
+
+Sanae5c:At home they just like to relax under the kotatsu though.
+
+Reimu0g:Oh, the one you bought from Rinnosuke the other day. Surprised to see him actually selling stuff for a change.
+
+Sanae3c:Yes, that one. I haven't thanked you for helping me out with that, so maybe you could come visit us some time? 
+
+Shizuha1c:You two are fast friends now. That's great. 
+
+Reimu0f:Not really, all I did was show her around a bit...
+
+Keine0a:Nevertheless, I'm glad we're getting help from the Moriya Shrine at a time like this.
+
+Keine0a:While I don't doubt Reimu's intuition, I really hope we find some sort of clue soon. 
+
+Daiyosei0a:Suspicious or not, all we have is these flower petals to go on...
+
+Aya0b:Momiji, keep an eye out with your thousand-li vision. 
+
+Momiji2a:Understood. The visibility is poor in this weather though.
+
+Momiji0a:...Wait, what's that?
+
+Minoriko0a:You found something already? 
+
+Momiji0a:Yes, there's someone ahead of us. They appear to be looking for something. 
+
+Cirno5b:Looking for something in a place like this? Sounds fishy. 
+
+Mokou0a:Okay, let's go check it out. 
+
+<MAP=10,FROM=人里への森,TO=湖への道,name=Animal Trail,icon=0>
+
+<BG=*bg_talk_Road_Winter2.png,fade=1,color=1,title=*bg_Road,bgm=bgm_talk_ningyo>
+
+<hide=name>
+
+LilyW3a:It's not here either...
+
+LilyW0b:I've been looking for it everywhere, why can't I find it?
+
+</hide>
+
+Cirno1a:Hey, you! 
+
+<hide=name>
+
+LilyW2a:Eek!
+
+</hide>
+
+Reimu2b:If you try to hide like that out here, someone's gonna end up tripping over you.
+
+Daiyosei0b:So what are you doing? Did you drop something? 
+
+<hide=name>
+
+LilyW0b:Um, no, I'm... Well, I'm out looking for spring.
+
+</hide>
+
+Shizuha0b:Out here? 
+
+<hide=name>
+
+LilyW0b:Yeah. I've even tried digging through the snow and dirt, but I can't find it anywhere.
+
+LilyW3a:Honestly, it should be spring already... 
+
+</hide>
+
+Keine0a:If you're searching for spring... You wouldn't be one of Youmu's allies, would you? 
+
+<hide=name>
+
+LilyW3a:Youmu? I don't know anyone by that name.
+
+</hide>
+
+LilyW0b:I'm Lily White, the fairy who announces spring.
+
+Letty0a:Ah, the herald of spring. 
+
+Rumia0a:You know her, Letty? 
+
+Letty0a:When winter gives way to spring, she shows up to announce it. Or so I hear.
+
+Letty0a:Since I'm a winter youkai, we've never actually had the chance to meet before. 
+
+LilyW3a:A winter youkai?!
+
+Letty1a:No need to be so cautious. I have no intention of getting in your way. 
+
+Aya5b:So the herald of spring is digging through the snow looking for it. What a tearjerker.
+
+Sanae3b:Your hands must be freezing... 
+
+Reimu0f:If you're still looking for it, does that mean there's no cherry blossom petals around here? 
+
+LilyW0b:Cherry blossom petals?
+
+Momiji0a:Look up. They've been drifting by every so often. 
+
+LilyW3a:That's...! 
+
+Mokou0a:You've been staring at the ground all this time so you didn't notice.
+
+Mokou1a:We don't know where they're coming from, but we've been looking for those too. 
+
+LilyW2a:Cherry blossoms... A sign of spring's arrival!
+
+LilyW3a:If I head that way, maybe I'll find more of them!
+
+Minoriko1b:Hey, hold on―
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+Rumia0a:And there she goes!
+
+</single>
+
+Reimu2b:Blindly charging off like that.. Well, not my problem if she slams right into something. 
+
+Momiji0a:Should we follow? We should be able to catch up with her if we leave now. 
+
+Keine0a:I suppose we shouldn't leave her on her own.
+
+<MAP=10,FROM=湖への道,TO=霧の湖,name=Misty Lake,icon=0>
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP
+
+Lunasa0a:Well, this place will do nicely.
+
+Lunasa0b:The air is calm, so the sound won't be distorted. I can practice here.
+
+Lunasa0a:Oh? Who's this?
+
+<pause>
+
+LilyW3a:*pant* *pant*
+
+LilyW0b:There really are cherry blossom petals over here. So where's spring then?
+
+Lunasa1a:A pure white fairy on a pure white landscape. This would make for a good painting.
+
+LilyW0b:Is that a person?
+
+LilyW3a:Um, have you seen any spring around here? I'm looking for spring.
+
+Lunasa0b:Hmm, well, is spring really something you SEE?
+
+<end>
+
+<ChatID:2>----------------------------------------
+//1PP-2
+
+Cirno0a:There she is, over there!
+
+Momiji0a:She's faster than she looks. There's someone else too.
+
+Lunasa0a:Wow, they just keep coming one after another. I thought this place was supposed to be out of the way.
+
+Shizuha0a:Well, what about you? Why would you be practicing your music here?
+
+Sanae0a:There's nothing but snow here. It looks so cold.
+
+Aya3b:My my, it's been a while, hasn't it? Lunasa of the Phantom Ensemble.
+
+Lunasa1a:Corretto. And grazie for the article back then.
+
+Daiyosei2c:Aya, you know who she is?
+
+Aya0a:Yeah, I did a report on them a while ago.
+
+Aya3a:She's the leader of the famous Phantom Ensemble, Lunasa Prismriver. See page 4 for details.
+
+Keine0a:Prismriver? Where have I heard that name before...? 
+
+Lunasa0a:Well, we did distribute fliers for our concert.
+
+Lunasa1a:The Phantom Ensemble's Third Live Performance "Rainbow Concerto". Tickets are on sale and going fast, so don't wait!
+
+Sanae0a:Wow, so there are concerts in Gensokyo too?
+
+Lunasa0b:It's not just any concert, it's a live concert. That "live" feeling is important to us.
+
+Keine0a:So, this is changing the subject, but do you happen to know anything about this incident?
+
+Keine0a:We're here to investigate how to stop this long winter.
+
+Lunasa0a:Ah, that makes sense, that fairy over there was saying something about winter or spring too.
+
+Shizuha1c:Yeah. So does the phrase "gathering spring" ring any bells?
+
+Lunasa0b:To tell the truth, I can't deny that it does.
+
+Daiyosei2c:What?!
+
+Minoriko1b:I just thought it couldn't hurt to ask, but she really knows something?
+
+Lunasa0a:That said, I can't exactly tell you what I know.
+
+Lunasa0b:As the leader of a band, I can't go around spilling my employer's secrets.
+
+Momiji0a:So you know something about who's behind all this...
+
+Reimu1a:Then let's drag the answer out of her by force, like we always do!
+
+LilyW0b:...
+
+Letty0a:Don't just space out there. Doesn't this concern you too?
+
+<Code=(icon_set_direction,LilyW,FD_RIGHT,0)>
+
+LilyW0b:Me?
+
+Letty0a:That's right. This is a lead on the spring you've been searching for.
+
+LilyW0b:Oh... I see...
+
+LilyW3a:I may not be very useful, but I want to do everything I can to help you out.
+
+Lunasa0a:Well, I guess I can stay and practice my chords a bit longer.
+
+<Code=(icon_set_direction,LilyW,FD_LEFT,0)>
+
+<end>
+
+<ChatID:3>----------------------------------------
+//クリア時
+
+Lunasa0a:That should be enough for a warm-up.
+
+Reimu0a:You're all bark and no bite. I'm not impressed.
+
+Lunasa0a:That was just me getting into the groove. Wait until you hear our main performance.
+
+Cirno0a:"Our performance"? There's one of you.
+
+Lunasa0a:The Phantom Ensemble is a three-piece band. The show doesn't start until we're all assembled.
+
+<Code=(cursor_jump,176,192,1)>
+
+<nomove>
+
+<hide=all>
+
+Merlin0a:You showed up early, sis.
+
+<pause>
+
+<hide=name>
+
+Merlin0a:You're always running off ahead by yourself.
+
+Lyrica0a:Yeah, like you always enter the dressing room first.
+
+</hide>
+
+<Code=(icon_set_direction,All,Merlin_en,0)>
+
+Minoriko0a:Well, speak of the devil, here are her friends.
+
+Aya0a:Lyrica Prismriver and Merlin Prismriver, the other members of the Phantom Ensemble.
+
+Lyrica0a:Lunasa, who are these people? Were you putting on a street performance?
+
+<Code=(icon_set_direction,Lunasa_en,Merlin_en,0)>
+
+Lunasa0a:Just some people gawking while I practice. As you can see, they haven't given me even a single tip.
+
+Rumia0a:That's mean, at least we're listening to you play!
+
+Lyrica0a:C'mon, we don't have time for this. We'll be late for our set.
+
+Merlin0a:We managed to book that sweet gig at the flower viewing, so I am HYPED!
+
+Momiji0a:*sigh* Just when I thought we were done, more noisy people show up...
+
+Mokou0a:Wait, did you just say flower viewing?
+
+Lunasa0a:Merlin, shh.
+
+Lyrica0a:Huh? Was this event supposed to be a guerilla gig?
+
+Reimu0a:What do you mean you're going to a flower viewing? In this weather?
+
+Keine1a:So you do have some connection to the person gathering spring?
+
+Lyrica0a:Hehe, that's a trade secret.
+
+<Code=(icon_set_direction,Lunasa_en,FD_RIGHT,0)>
+
+Lunasa0a:And there you have it. Anyway, we don't have any reason to stick around.
+
+Sanae0a:Hold on a minute, we need to ask you some―
+
+Merlin0a:Later everyone! Ciao!
+
+<pause>
+
+Keine2a:Ugh, we didn't get a single lead to follow up on, did we?
+
+Letty0a:Who would hold a flower viewing at a time like this?
+
+Reimu0a:The direction they ran away in is the one I was saying felt suspicious.
+
+Reimu0a:So all we need to do is keep on―
+
+LilyW0b:...!
+
+LilyW0b:No, please wait!
+
+<Code=(icon_set_direction,All,FD_RIGHT,0)>
+
+<pause>
+
+Cirno0a:What's with you? It's like you suddenly came to life.
+
+LilyW0b:It's faint, but I can feel a trace of spring. Underneath the snow over here.
+
+Minoriko0a:Are you sure?
+
+<Code=(icon_set_direction,LilyW,FD_LEFT,0)>
+
+LilyW0b:Absolutely. Everyone, please come over here.
+
+<end>
+
+<ChatID:4>----------------------------------------
+//ADVB
+
+<MAP=10,FROM=霧の湖,TO=霧の湖,name=Misty Lake,icon=0>
+
+<BG=*bg_talk_Road_Winter2.png,fade=0,color=1,title=*bg_Lake,bgm=bgm_talk_aoki>
+
+LilyW2a:Thank goodness, there really was spring here. 
+
+Keine0a:Lily, what exactly is this spring you found? 
+
+LilyW0b:Look, it's this!
+
+Cirno5a:Whoa!
+
+Sanae5a:A... A frog?!
+
+Minoriko3a:How cute. It's so chubby. 
+
+Momiji4a:That's rare for this time of year. Wouldn't Lady Moriya be delighted?
+
+Sanae5c:I―I suppose so. Just, uh, keep it away from me, please.
+
+Reimu2b:Wait, you worship a frog god but you can't handle frogs?
+
+Sanae5c:W-well, obviously I love them, I just... prefer to observe them from a distance.
+
+Mokou0a:So why is this frog so important? 
+
+LilyW0b:Living beings emerge from the ground together with the overflowing power of spring.
+
+LilyW0b:In other words, this frog waking up from hibernation is a sign of spring.
+
+Daiyosei0a:What's "the power of spring"?
+
+LilyW0b:It's the power of the life energy that builds up in the earth. It's not much, but there's a tiny bit left.
+
+Keine4a:The power of spring is running low because Youmu has been stealing it. 
+
+Mokou0a:And that weird marching band we just met mentioned going to a flower viewing. 
+
+Mokou1a:Is that where all the stolen spring is being taken to?
+
+Sanae0b:How can they cause all this suffering just to hold a flower viewing party? 
+
+Reimu0f:And of all the seasons, why'd we have to get stuck with winter? I don't think anyone would mind eternal autumn. 
+
+Shizuha4a:That sounds wonderful... 
+
+Minoriko4a:But if it actually happened it would be a problem. 
+
+Mokou4a:Really? I thought you of all people would welcome that with open arms. 
+
+Minoriko3a:All jokes aside, the cycle of the four seasons is the cycle of life. You can't just stop it. You shouldn't, anyway.
+
+Momiji0a:"The cycle of life"?
+
+Shizuha1c:A full turn of the seasons mirrors the life of a single creature. 
+
+LilyW0b:Spring is birth, summer is growth...
+
+Shizuha1a:Autumn is both the reaping of one's labors and the start of the decline, 
+
+Letty1a:And, finally, winter is death. 
+
+Sanae0a:So just like the cycle of life, the flow of the seasons must continue? 
+
+Minoriko4a:Exactly. So no matter how much I may loathe winter, autumn must always come to an end.
+
+Minoriko3a:As a member of the four seasons, even if it pains me to do so, even if it fills me with anguish, even if I'd rather anything else, we must always pass on the torch.
+
+Momiji6a:...Not exactly a wholehearted endorsement there.
+
+Daiyosei0a:So, is that why you're helping us, Letty? 
+
+Letty1a:Indeed. When a season's time has passed, it needs to depart properly. 
+
+Aya0a:Oh, I see. I was sure you were benefiting from this incident, but I guess you're just another victim. 
+
+LilyW0b:In that sense, all four of us are in this together.
+
+Shizuha1c:Then how about we form the Season Alliance to welcome in the next autumn? 
+
+Minoriko3a:I'll be the King of Autumn, and Shizuha can be the Queen of Fall!
+
+Letty2a:You do realize you're both the same season, right? We're missing a summer. 
+
+Rumia0a:So what do we do with the frog? 
+
+Momiji0a:Well, it'd be a waste to throw it away, but we could probably prepare it somehow. 
+
+Mokou1a:Not a bad idea. I bet it would be pretty good grilled.
+
+LilyW2a:You shouldn't make a snack out of the one rare sign of spring I found...
+
+<Code=(map_shake,1,15,2)>
+
+<SE=se_talk_gashi01.ogg,wait=1>
+
+Momiji2a:Ack, let go! Look, it was just a little joke! 
+
+Reimu3c:If that's your idea of a joke, your delivery needs some work.
+
+Keine3a:And of course you were joking too, right Mokou? 
+
+Mokou5a:Of course I was. They're not that good grilled. 
+
+Cirno5a:Heeeey, could you let me have it then? 
+
+Shizuha0a:I don't mind, but what for?
+
+Cirno3b:I wanna freeze it and give it to Letty. To show we're friends. 
+
+LilyW2a:Again, you shouldn't do that...!
+
+Cirno1a:C'mon, frogs are at their best when frozen! 
+
+Rumia4a:If you're gonna fight over it then I want it too! 
+
+<nowindow>
+
+<Code=(demo_wait,45)>
+
+<single>
+
+</nowindow>
+
+Letty0a:Goodness but are they exhausting...
+
+</single>
+
+Daiyosei3b:Um, Miss Letty? 
+
+Letty0a:What is it? 
+
+Daiyosei0a:Maybe it's weird for me to ask you for this...
+
+Daiyosei3b:...but could you accept Cirno's frog? 
+
+Letty0a:Why would I want something like that?
+
+Letty0a:And why would you be asking this of me? 
+
+Daiyosei3b:I think she mentioned this earlier, but it's a sign of Cirno's friendship.
+
+Daiyosei3b:Cirno is, well, she can be a lot sometimes, and because of her ice powers a lot of people started to dislike her...
+
+Daiyosei0a:So I had her promise not to use her powers recklessly―
+
+Letty0a:Get to the point, fairy. What does this have to do with me? 
+
+Daiyosei3b:Cirno was... I think she was really happy to meet you.
+
+Daiyosei0a:Someone else who can really understand her ice powers.
+
+Letty0a:...
+
+Reimu0f:Hey, you two, stop wasting time and let's go. 
+
+Aya1a:So what were you talking about? Perhaps an exclusive scoop?
+
+Daiyosei2c:Ah, no, nothing like that. I've got to be going now... 
+
+Aya3a:No problem, I'll just collect material along the way.
+
+Letty0a:You're collecting materials?
+
+Aya0a:Yes, for my article. You turned me down earlier, but once it becomes spring you'll have missed your chance for the interview.
+
+Aya3b:Could you just talk about the dangers of a prolonged winter, or something like that?
+
+Letty0a:Is that all you want? Well, first of all it's cold. 
+
+Aya3a:"It's cold", okay, got it noted down.
+
+Letty1a:And... it snows, and the days are shorter so it's dark. 
+
+Aya1a:"Dark", okay, got it...
+
+Reimu2b:Can we just go already? 
+
+<end>
+
+<ChatID:5>----------------------------------------
+//ルナサvs.霊夢
+
+Lunasa0a:I've seen a sound like yours before.
+
+Lunasa0b:There's no distortion... it's a very straightforward sound.
+
+Reimu0b:Oh? I guess that just goes to show that I'm a first-class shrine maiden.
+
+Lunasa0b:...I feel I should clarify that it being a clear note doesn't mean it's a pleasant one.
+
+<end>
+
+<ChatID:6>----------------------------------------
+//ルナサvs.慧音
+
+Lunasa0a:Your sound is... a bit stiff.
+
+Lunasa0b:I could probably get a reasonably good sound by smacking your forehead.
+
+Keine1a:...Would you care to test that?
+
+<end>
+
+<ChatID:7>----------------------------------------
+//ルナサvs.ルーミア
+
+Lunasa0a:Your sound is... the sound of darkness.
+
+Lunasa0b:Because you can't see, you've sharpened many other things.
+
+Rumia4a:Like my sense of smell!
+
+<end>
+
+<ChatID:8>----------------------------------------
+//ルナサvs.大妖精
+
+Lunasa0a:Your sound is... rejuvenating.
+
+Lunasa0b:It's too bad that you're surrounded by louder sounds that drown you out.
+
+Daiyosei3b:That's true, I just get lost in the crowd when I'm around the others...
+
+<end>
+
+<ChatID:9>----------------------------------------
+//ルナサvs.チルノ
+
+Lunasa0a:Your sound is a cold sound. Its transparency lends it a pleasant reverberation.
+
+Cirno0a:Yeah, the sound it makes when I freeze flowers and roll around in 'em is so cool.
+
+Lunasa0b:...A good performance needs a bit more order than that.
+
+<end>
+
+<ChatID:10>----------------------------------------
+//ルナサvs.妹紅
+
+Lunasa0a:Your sound... has a long wavelength.
+
+Mokou4a:Yeah?
+
+Lunasa0a:Yes, it's so long that an ordinary human wouldn't even recognize it as sound.
+
+Lunasa0b:Only someone special who's lived on the same timescale as it would be able to hear it.
+
+Mokou3b:I have no clue what you mean by any of this.
+
+<end>
+
+<ChatID:11>----------------------------------------
+//ルナサvs.穣子
+
+Lunasa0a:Even food can be used as an instrument if you put your mind to it.
+
+Lunasa0b:Personally though, I don't find it very tasteful.
+
+Minoriko0a:I agree. Instruments are instruments, and food is food.
+
+<end>
+
+<ChatID:12>----------------------------------------
+//ルナサvs.静葉
+
+Lunasa0a:Your sound is... a lonely sound.
+
+Lunasa0b:But it's never sorrowful. That's because it's a sound that always will loop back.
+
+Shizuha1d:...Now that you mention it, that song you were playing earlier had the same sort of feeling to it.
+
+<end>
+
+<ChatID:13>----------------------------------------
+//ルナサvs.早苗さん
+
+Lunasa0a:There are all sorts of sounds coming from you.
+
+Lunasa0b:The sound of a person, the sound of the wind, the sound of water... It all comes together into one sound.
+
+Sanae5c:*sigh* Sometimes I don't really understand all this artsy talk.
+
+<end>
+
+<ChatID:14>----------------------------------------
+//ルナサvs.文
+
+Lunasa0a:Your sound is... complicated.
+
+Lunasa0b:It's free, yet bound. Straightforward, yet roundabout.
+
+Aya3a:When an artist calls you complicated, I'm assuming that's a compliment.
+
+Lunasa0a:If you were just a bit more humble, your articles could be so much more credible.
+
+Aya5b:Who ever heard of a humble tengu? What a joke.
+
+<end>
+
+<ChatID:15>----------------------------------------
+//ルナサvs.椛
+
+Lunasa0a:Your sound is... a hard sound.
+
+Lunasa0b:Difficult to approach from the outside, but once you draw near it, you can feel secure.
+
+Momiji4a:If that's an evaluation of me, it's surprisingly gratifying.
+
+<end>
+
+<ChatID:16>----------------------------------------
+//ルナサvs.レティ
+
+Lunasa0a:From you... I hear the sound of winter.
+
+Lunasa0b:It's quiet yet merciless... On the other hand, you yourself aren't quite like that.
+
+Letty1a:Uh-huh, so you've got me all figured out, have you?
+
+<end>
+
+<ChatID:17>----------------------------------------
+//ルナサvs.リリー
+
+Lunasa0a:Your sound... isn't here.
+
+Lunasa0b:You're still thinking about the absent spring.
+
+LilyW3a:Yeah, I'm still looking for it...
+
+<end>
+
+<ChatID:18>----------------------------------------
+//リリー撃墜時
+
+LilyW3a:Aah, spring... Spring is fading away...
+
+Lunasa1a:...Sorry, but you weren't strong enough. Try starting again from the beginning.
+
+Lunasa0b:I think I'll play a requiem in honor of your valiant efforts.
+
+<end>
+
+<ChatID:19>----------------------------------------
+//河童と初戦闘時
+
+Kappa2a:Yowch! So this is the power of a tengu?
+
+Momiji0a:A kappa? What are you doing all the way out here?
+
+Kappa1a:Funny story, the river is frozen over, so I had to come all the way down here to find a way out.
+
+Kappa0a:And since there weren't any humans around, I thought it was a good chance to go for a stroll.
+
+Momiji5a:Is that so? I was under the impression we asked you all to build a new levee, though.
+
+Aya3b:Ayaya, is she skipping work? That's no good, doing that right in front of us hard workers who're still on the clock.
+
+Aya6b:Now that we've seen you though, we can't very well let you go unpunished.
+
+Kappa2a:Eek! Well, I've got nothing to lose now, might as well fight back!
+
+<end>
+
+<ChatID:20>----------------------------------------
+//おまけ会話：霊夢
+
+Reimu0e:What are these? Snowmen...?
+
+Cirno3b:Yup, I made 'em with Dai.
+
+Cirno3a:These two are you and Marisa. I think they came out pretty good.
+
+Reimu2b:Well, maybe, but... It kinda bugs me that you put us next to each other like that.
+
+<end>
+
+<ChatID:21>----------------------------------------
+//おまけ会話：慧音
+
+Keine0a:Oh, so you made snowmen?
+
+Daiyosei0a:It just keeps snowing, and there's nothing else to do...
+
+Daiyosei0b:We were going to make you and Mokou next to us.
+
+Keine0a:I'm glad your group's warming up to Mokou too.
+
+Rumia4a:We're not gonna melt, though!
+
+<end>
+
+<ChatID:22>----------------------------------------
+//おまけ会話：ルーミア
+
+Rumia0a:My snowman is pretty awesome too!
+
+Rumia1a:And when you take off the ribbon...
+
+Cirno5d:You take it off?!
+
+Rumia3a:A bunch of hidden food comes out!
+
+Keine3a:So it's to help you remember where you stored it... I don't think you need to worry about that though.
+
+<end>
+
+<ChatID:23>----------------------------------------
+//おまけ会話：チルノ
+
+Cirno5b:The more I look, the more I'm blown away by how awesome these snowmen are...
+
+Daiyosei0a:We worked real hard to make them, us and Sunny's gang.
+
+Daiyosei0b:If you look closely, mine is just a bit taller.
+
+Cirno5a:Hey, you're right! No fair, Dai!
+
+<end>
+
+<ChatID:24>----------------------------------------
+//おまけ会話：大妖精
+
+Daiyosei0a:These are the snowmen we made with Cirno, because the winter just kept going...
+
+Daiyosei0b:It was really fun, but next time I want to make them when it's really winter.
+
+<end>
+
+<ChatID:25>----------------------------------------
+//おまけ会話：穣子
+
+Minoriko3a:Oh, so you made snowmen? Me and my big sister used to do that.
+
+Daiyosei0a:But I thought you two hated winter...
+
+Minoriko0a:Of course we do. That's why we made snowmen like our lives depended on it, to use up all the snow!
+
+Minoriko3a:We would make these giant mounds of snow and roll them right down the mountainside...
+
+Daiyosei3b:Um... I don't think those are snowmen.
+
+<end>
+
+<ChatID:26>----------------------------------------
+//おまけ会話：静葉
+
+Shizuha1c:Oh, look at all these adorable snowmen. Are my sister and I in there too?
+
+Rumia0a:Well, we could've made you, but wouldn't that just make you sad?
+
+Shizuha4a:Now that you mention it, yeah, it would have. I'm already feeling down just looking at these.
+
+<end>
+
+<ChatID:27>----------------------------------------
+//おまけ会話：妹紅
+
+Mokou4a:I guess you guys made these snowmen?
+
+Daiyosei0b:Yeah, we did. I'm kind of proud of them.
+
+Cirno5b:Don't get too close though, or you'll melt 'em!
+
+Mokou3c:...Please don't treat me like a human bonfire.
+
+<end>
+
+<ChatID:28>----------------------------------------
+//おまけ会話：リリー
+
+LilyW0b:Snowmen...
+
+Daiyosei2c:Lily, don't touch them without mittens! They're cold!
+
+LilyW3a:...Spring isn't in here either. Where did it go...?
+
+<end>
+
+<ChatID:29>----------------------------------------
+//おまけ会話：レティ
+
+Letty0a:Snowmen... one of winter's traditions.
+
+Cirno3b:You wanna help make 'em too, Letty?
+
+Letty0a:I'm neither a child nor a fairy. I don't make snowmen.
+
+Cirno3a:Then, what kind of games do you like to play, Letty? Tell me, tell me!
+
+Letty0a:...
+
+<end>
+
+<ChatID:30>----------------------------------------
+//おまけ会話：文
+
+Aya1a:Oho, I didn't think I'd find such cute snowmen in a place like this.
+
+Cirno5a:Me and Dai made them. But if you're going to write something about them, then do something on our winter home first!
+
+Aya3a:Good idea, I'd better take some pictures before it melts...
+
+Aya7a:Unless I wait until it's melting, then I could do it as a disaster piece.
+
+Cirno4c:That'd be in poor taste...
+
+<end>
+
+<ChatID:31>----------------------------------------
+//おまけ会話：椛
+
+Momiji4a:Snowmen, huh... You're still in good spirits despite that we're in the midst on an incident.
+
+Cirno5b:If you want, I don't mind making one for you too.
+
+Cirno3b:Your ears and tail are both white though, so it might be kinda bland.
+
+Momiji6a:So you aren't even going to try making my sword and shield...?
+
+<end>
+
+<ChatID:32>----------------------------------------
+//おまけ会話：早苗さん
+
+Sanae4a:Oh, these snowmen are cute.
+
+Cirno3b:Right? Reimu and Marisa are my best work.
+
+Cirno3a:How about I make your snowman standing right behind them?
+
+Sanae5a:N-No, don't! I don't want to intrude between them...
+
+<end>
+
+<ChatID:33>----------------------------------------
+//リリー初戦闘（ver.2.7.8追加）
+
+LilyW0b:I'll do my best...
+
+Minoriko0a:Wait, are you seriously gonna fight when you're in this state?
+
+Letty0a:They leapt out right in front of us, so there's no avoiding it. Show us that you can at least shoot down a few fairies.
+
+LilyW0b:I'll... I'll give it my best.
+
+<end>
+
+<ChatID:34>----------------------------------------
+//リリーで敵を撃墜（ver.2.7.8追加）
+
+LilyW0b:...I did it.
+
+Shizuha1a:Whoa, she really did it!
+
+Aya1a:So she can fight even while depressed. Quite the scoop!
+
+Aya0a:Honestly, it's possible she might even be MORE powerful when cut off from the world.
+
+Sanae0a:You make it sound like she's fallen to darkness. That's bad luck to talk like that, Shameimaru.
+
+Lunasa0b:The pure white spring stained black... That could be interesting too.
+
+Momiji0a:Not you too.
+
+Minoriko0a:You're all just joking around, but I'm surprisingly worried about it too.
+
+LilyW0b:...I'll be careful.
+
+<end>
+
+<ChatID:35>----------------------------------------
+//ルナサvs.メーコ
+
+Lunasa0b:Your sound is... hmm.
+
+Meko4c:Aren't you gonna tell me?
+
+Lunasa1a:A clever sound, like smacking somebody on the forehead!
+
+Meko1d:You're just making fun of me, aren't you?!
+
+<end>
+
+<ChatID:36>----------------------------------------
+//ルナサvs.まくら
+
+Lunasa0b:Your sound is, the sound of dreams.
+
+Lunasa0a:They can be gentle or terrifying, wandering without form.
+
+Makura0g:Do you mean to say I've lost my way...?
+
+Lunasa0a:I wouldn't know. Who said your destination is fixed, for that matter?
+
+<end>
+
+<ChatID:37>----------------------------------------
+//ルナサvs.ルナサ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Lunasa1a:Your sound is... huh?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Lunasa0b:Did you hear something weird?
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Lunasa1a:You look the same as me, but your sound is slightly off.
+
+Lunasa0a:Your sound has some sort of foundation to it.
+
+</nomove>
+
+<end>
+
+<ChatID:38>----------------------------------------
+//ルナサvs.メルラン
+
+Merlin1b:Hey, no fair practicing on your own to steal a march on us, Lunasa!
+
+Lunasa3a:Oh, Merlin. Are you practicing too?
+
+Merlin3c:I'd love to, but I'm actually on tour right now.
+
+Lunasa1b:By yourself? You're the one trying to steal a march.
+
+<end>
+
+<ChatID:39>----------------------------------------
+//ルナサvs.リリカ
+
+Lyrica0c:Wow, Lunasa, I admire the part of you that keeps putting in the daily effort.
+
+Lunasa3a:Oh, Lyrica. What about that one time? When you went off in secret to—
+
+Lyrica1a:Let's pretend that never happened, thank you very much!
+
+<end>
+
+<ChatID:40>----------------------------------------
+//ルナサvs.ゆゆ様
+
+Lunasa1b:Yuyuko? Wasn't there that thing happening later?
+
+Yuyuko1a:Oh? What thing?
+
+Lunasa0b:The flower viewing concert in the Netherworld. That's today, isn't it?
+
+Yuyuko1c:Oh, it was, wasn't it? Then you must be rehearsing.
+
+Lunasa3c:Exactly. It'd be great if you could assist me with the tuning.
+
+<end>
+
+<ChatID:41>----------------------------------------
+//おまけ会話：めーまく
+
+Meko4c:Wow, look at the snowmen Cirno and the others made.
+
+Meko0e:Let's make our own next to them, Lady Makura!
+
+Makura3c:Then I'll manifest them with the power of dreams.
+
+Meko0b:Not with the snow?!
+
+Makura0f:But snow is so cold...
+
+Meko1d:Sheesh, then I'll make you some warm mittens out of my wool!
+
+Meko0e:Okay, make the body please!
+
+Makura6b:A-Alright then...
+
+<end>

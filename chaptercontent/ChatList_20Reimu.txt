@@ -1,0 +1,967 @@
+﻿○霊夢ルート第二十話「厄神様の災難
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: enely ally
+ 3: spell start
+ 4: win
+ 5: ADVB
+ 6-15: battle vs. Hina
+16: first attack to Bakebake/Evileye
+
+<ChatID:0a>----------------------------------------
+//ADVA-1
+
+<MAP=5,FROM=河童の谷,TO=河童の谷,name=Youkai Mountain,icon=5>
+
+<BG=bg_talk_Mountain_River.png,fade=0,color=1,title=*bg_Mountain,bgm=bgm_talk_aoki>
+
+<Code=(demo_wait,30)>
+
+Sanae3b:...
+
+<update>
+
+Kappa3d:Ahaha, you're such a dummy. Of course it wouldn't work if you did that!
+
+Kappa3b:Hey, invention is all about trial and error, right?
+
+</update>
+
+Sanae0a:Hello there, kappa. Good morning.
+
+Kappa5a:Ah, Lady Kochiya! Good morning.
+
+Sanae4a:You seem to be having fun. May I ask what you're doing?
+
+<update>
+
+Kappa5a:Oh, uh, nothing special. Don't worry about it!
+
+Kappa2a:If it turns out to be useful, we'll give it as an offering! Okay, gotta go!
+
+</update>
+
+Sanae3a:Oh... Alright.
+
+<Code=(chat_set_single,)>
+
+Sanae3b:...
+
+Momiji0a:Lady Kochiya.
+
+Sanae0a:Ah, good morning, Inubashiri.
+
+Momiji0a:Here are this week's offerings. It should be sufficient, but please let me know if you find any issues with it.
+
+Sanae0a:Your efforts are appreciated. I'll inform Lady Yasaka that these are hers to do with as she pleases.
+
+Sanae4b:Also, um, I'd just like to say thank you for all that you—
+
+Momiji4c:I'll be on my way then.
+
+<SE=se_talk_walk.ogg,wait=1>
+
+<single>
+
+Sanae5e:Oh... She's gone.
+
+</single>
+
+<Code=(check_special,20ReimuA)>
+
+<Code=(demo_wait,15)>
+
+Noname0a:...e. ...nae... ya...
+
+Sanae1d:!
+
+Noname0a:...Sanae Kochiya, can you hear my voice?
+
+Sanae1a:Who are you? ...And where am I?
+
+Noname0a:We're within your dream. I was called here.
+
+Sanae1a:I'm dreaming...?
+
+Noname0a:There's a shapeless anxiety inside of you, one that I can sympathize with.
+
+Noname0a:You've come to a strange land, and you're surrounded by strangers. Of course you would be anxious deep down.
+
+Sanae3b:Th... That's not true. For Lady Yasaka, I would gladly...
+
+Noname0a:It's clear that you hold great faith in your god.
+
+Noname0a:But you're also a child of man. Doesn't it make you lonely?
+
+Sanae5e:...
+
+Sanae5f:...Please stop.
+
+Noname0a:Open your heart more, and you'll—
+
+Sanae5g:No, I believe in Lady Yasaka. I'm not anxious in the least.
+
+Sanae2a:Lady Yasaka, Lady Moriya...!
+
+<hide=all>
+
+Kanako1b:...Begone!
+
+</hide>
+
+Noname0a:!
+
+<BG=bg_talk_Moriya.png,fade=1,color=0,title=bg_Moriya,bgm=bgm_talk_ningyo>
+
+Kanako3c:Sanae, are you alright?
+
+Sanae2a:...Lady Yasaka!
+
+<SE=se_talk_hishi01.ogg,wait=0>
+
+<Code=(map_shake,1,15,2)>
+
+<Code=(demo_wait,30)>
+
+Kanako0d:I came to check on you, and you were tossing and turning. Did something happen?
+
+Sanae3b:No, not really. Just a strange dream.
+
+Kanako0c:I see. I came to check because I sensed a strange presence...
+
+<SE=se_talk_knock02.ogg,wait=1>
+
+HTengu1a:Lady Kochiya, Lady Kochiya!
+
+Sanae3a:Is that a tengu?
+
+Kanako1c:How dare you enter the shrine grounds without permission. This is Sanae Kochiya's bedroom.
+
+HTengu0a:Oh my, Lady Yasaka! I do beg your pardon, but it's time for our regular check-in.
+
+Sanae0a:Oh, it's that time already? Has anything out of the ordinary happened?
+
+HTengu0a:Yes, the tengu patrolling the south haven't returned.
+
+Sanae0b:They haven't?
+
+HTengu0a:They're late reporting in. They're probably just running a bit behind, but still...
+
+Sanae0b:I see why you'd inform me. Tell everyone to stay on alert, just to be on the safe side.
+
+Sanae0b:If anything arises, I'll show up to give more directions in person.
+
+HTengu0a:Understood. I'll see to it.
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+Sanae0b:It might be Reimu's group. I'll go make some preparations.
+
+</single>
+
+Kanako4e:Are you sure you don't want to get a little more sleep, Sanae?
+
+Sanae0a:I'm positive. It won't be long now until our plan comes to fruition.
+
+Sanae6e:Please watch me, Lady Yasaka. I, Sanae, shall ensure your wish is fulfilled.
+
+Kanako0c:...Alright. But be careful not to push yourself too hard.
+
+Sanae4a:Yes, ma'am. Excuse me, I need to go get dressed.
+
+<SE=se_talk_walk.ogg,wait=1>
+
+<single>
+
+Kanako0b:Sleeping this late... Sanae must be exhausted.
+
+Kanako1d:I'm still concerned about that presence, though. I didn't sense any evil in it, so I let it escape, but...
+
+</single>
+
+<end>
+
+<ChatID:0b>----------------------------------------
+//ADVA-2
+
+<MAP=5,FROM=妖怪の山下部3,TO=妖怪の山下部3,name=Youkai Mountain,icon=5>
+
+<BG=*bg_talk_Mountain_River.png,fade=1,color=1,title=*bg_Mountain,bgm=bgm_talk_gag>
+
+Cirno1a:Over here, over here! My fairy sense is tingling!
+
+Sunny0a:Okay, okay, we can hear you, you don't have to shout.
+
+Luna0a:Hey, should we really be here? The youkai here are really strong. We'll be in big trouble if they catch us.
+
+Cirno0a:What are you talking about? If we wanna go to the shrine at the top of the mountain, we gotta go up the mountain, duh.
+
+Sunny0a:Oh, that's true.
+
+Star0a:But I still don't get why we're meeting up at the destination.
+
+Star0a:The journey there is supposed to be the adventure, right? What's the point of everyone getting together after we already made it there?
+
+Cirno0a:Beats me. Keine said to meet up at the shrine, so that's where we're going.
+
+Luna0a:That's kinda concerning.
+
+Sunny0a:In that case, I'll take the lead!
+
+Sunny1a:As the smartest, most decisive, and most capable fairy here, I'm obviously the most fit to be leader.
+
+Cirno1a:Oh yeah?! Well I'm way stronger than you, so I'm the leader!
+
+Sunny0a:Please. You're just a regular ol' dummy when the green girl isn't with you.
+
+Star0a:Speaking of which, I note that she's not with us.
+
+Cirno0a:Are you talking about Dai?
+
+Star0a:I think so, yes. I don't actually remember her name...
+
+Star0a:Anyways, you're always together, so I was expecting her to come along.
+
+Cirno0a:Look, it could be dangerous here, you know?
+
+Cirno0a:I sensed a huge amount of power from the ones I saw here last time.
+
+Luna0a:Ah, I get it...
+
+Luna1a:Ah, I get it... Wait, then why bring us?!
+
+Cirno0a:You're all my hide-and-seek teachers. You'll manage.
+
+Sunny0a:Are you STILL talking about that? The hide-and-seek boom's already over.
+
+Star0a:Oh it's fine, lately we haven't had the chance to do much of anything anyways.
+
+Star0a:So let's just stay positive and keep on going.
+
+Luna0a:You'd better not get us lost.
+
+Cirno0a:Don't worry! Just follow my lead!
+
+<MAP=5,FROM=妖怪の山下部2,TO=妖怪の樹海,name=Youkai Mountain,icon=0>
+
+<BG=*bg_talk_Pond_Hina.png,fade=1,color=1,title=*bg_Mountain_Jukai,bgm=bgm_talk_aoki>
+
+Reimu2b:I know this was the plan and all, but we're really not seeing any enemies, huh.
+
+Keine0a:Yeah, we made the right call taking the side path. It's a little gloomy, though...
+
+Komachi1c:No kidding. This place is called the Great Youkai Forest or something, and it's THE undisputed creepiest spot on the foot of mountain.
+
+Reimu0f:This is a forest?
+
+Komachi0a:Yup. Well, they call it that but it's really more of a swamp.
+
+Komachi0b:And it's as creepy as it looks. The souls of people who died in despair gather here and lure in humans passing by.
+
+Rumia0a:Ooh, so it's a famous suicide spot! Then I bet there's all sorts of cool stuff here.
+
+Daiyosei3b:Rumia, please don't say such creepy things.
+
+Reimu3b:You sure know a lot about it. Have you been here before?
+
+Komachi0a:I sometimes take strolls through the area. Partly for work, and partly 'cuz I like it.
+
+Keine0a:It's good to have someone familiar with the lay of the land. Hopefully you can help with what lies ahead too...
+
+Keine0b:...Wait. Were you familiar with all the ground we've been covering so far?
+
+Komachi1c:Pretty much. Security's light here, so it's a nice shortcut.
+
+Mokou3c:You could've mentioned that to start with.
+
+Komachi5a:Hey, you know what they say. Haste makes waste. You can't just rush straight to the finish line.
+
+Reimu4a:It's all the same to me as long as we don't get caught.
+
+Reimu3b:Anyway, you can guide us through here.
+
+Komachi4b:I'm not a huge expert on this place or anything. They don't call it "great" for nothing, it's easy to get lost in.
+
+Daiyosei3b:I feel strange. It's like I can't identify any landmarks, or my head is spinning...
+
+Keine0a:So it even throws off a fairy's intuition. We'll have to proceed with caution.
+
+Reimu0f:Our schedule isn't exactly strictly laid out to start with. Let's just keep going.
+
+<MAP=5,FROM=妖怪の樹海,TO=妖怪の樹海,name=Great Youkai Forest,icon=5>
+
+<BG=bg_talk_Pond_Hina.png,fade=1,color=1,title=*bg_Mountain_Jukai,bgm=bgm_talk_interlude01>
+
+Sunny4a:...
+
+Luna2a:Wh... Where ARE we? I think we've been going in circles and coming back around to the same spot!
+
+Star2a:...We're completely lost. And with this heavy atmosphere and all of this darkness, I'm feeling worse and worse.
+
+Cirno0a:Hmm. I've been leaving a trail in case something like this came up...
+
+Star0a:Wow, Cirno, that's clever of you. What kind of trail did you leave?
+
+Cirno0a:Ice chunks. I've been dropping them as we go.
+
+Luna0a:Oh. But don't those melt in seconds...?
+
+Star2a:...That's what I get for expecting literally anything out of Cirno.
+
+Sunny3a:Hmm, this is a problem. I guess we can change our plans and do something else for...
+
+Sunny0a:...Wait.
+
+Luna0a:What is it, Sunny?
+
+<hide=name>
+
+Onryo0a:...
+
+</hide>
+
+Sunny0a:Isn't that a ghost floating over there? What's it doing out here?
+
+Star0a:Maybe there's a ruins or a graveyard or something nearby. Wanna try nabbing it?
+
+Cirno0a:Hold on, we don't have time for that!
+
+Sunny0a:Oh come on, we try to nab a ghost every year and it never works. Maybe today's our day...
+
+Onryo0a:...
+
+<Code=(map_shake,1,15,4)>
+
+<SE=se_hit_bullet_M01.ogg,wait=1>
+
+Sunny2a:AAAH!
+
+Sunny1a:What's wrong with this ghost? It just attacked me!
+
+Star0a:What's going on? I thought ghosts were more docile...
+
+Luna1a:Everyone, look around! There's a whole bunch more popping out!
+
+<update>
+
+Onryo0a:...
+
+Onryo0a:...
+
+</update>
+
+Cirno0a:What's going on? I've got a bad feeling about this...
+
+Sunny2a:Welp, only one thing to do: RUUUN!
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+Rumia0a:...Hm?
+
+</single>
+
+Keine0a:What is it, Rumia?
+
+Rumia0a:I heard a voice from that way. A scream, maybe?
+
+Reimu2b:A scream, out here? Are you sure you didn't hear something else?
+
+Rumia1a:Totally. I know what I heard.
+
+Mokou0a:We should probably steer clear of that area. The last thing we need is for trouble to find us.
+
+Komachi3b:Now, come on. I know we're in a hurry, but we can't just ignore it.
+
+Komachi0a:Don't you feel a LITTLE concerned?
+
+Keine0a:I certainly am. Reimu, I trust you won't mind if we go check up on this real quick?
+
+Reimu0e:I'm not surprised you'd ask. Sure, I'll go along for a bit.
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP-1
+
+Sunny4a:Whew, those ghosts shouldn't catch us here.
+
+Luna0a:That's good and all, but... Aren't we in an even creepier place now?
+
+Luna0a:What if we went so far in we never make it back out again...?
+
+Sunny0a:We can't exactly turn around when we don't know the way we came in.
+
+Star0a:...Wait, there's someone over there.
+
+<pause>
+
+Hina0b:...
+
+Luna0a:Whoever she is, she's pretty.
+
+Cirno0a:This is great, we can ask her for directions.
+
+Star0a:Hey, wait! What if she's a dangerous youkai, or—
+
+<pause>
+
+Cirno1a:Hey, you! Tell us how to get to the shrine!
+
+Hina1a:...?
+
+Hina0a:Who are all of you? A group of fairies that wandered in here by mistake?
+
+Star0a:Yes, that's right. We were trying to reach the shrine on the top of the mountain.
+
+Hina1a:The mountain shrine? What business would fairies have there?
+
+Hina0a:Well, it doesn't matter either way. It's way too dangerous for you up ahead. Go home, now.
+
+Cirno0a:What if I don't wanna? If you don't wanna help us, I'll make you!
+
+Sunny4a:Why are you so quick to jump to violence?
+
+Hina1b:You should listen when someone's trying to warn you. I hate to get rough, but I insist that you need to leave.
+
+<pause>
+
+Luna0a:Wait, now she's getting violent too.
+
+Star0a:Well, this is a mess. Maybe we should leave Cirno and find a place to...
+
+Star0a:...Hm?
+
+<end>
+
+<ChatID:1.5>---------------------------------------
+//1PP-2
+
+Mokou0b:What's with this place? It's ominous as hell.
+
+Komachi2b:With the miasma this thick, it's probably visible even to humans with no spiritual sensitivity.
+
+Daiyosei2c:Wait... Is that Cirno?!
+
+Cirno5f:Dai?! Why are you on Youkai Mountain?
+
+Keine0b:We should ask you that. I was wondering what we'd find here, but I certainly wasn't expecting a group of prankster fairies.
+
+Hina0a:Now humans are here as well? Are you friends of these fairies?
+
+Reimu4a:There you are. I take it this whole ominous atmosphere is your doing?
+
+Hina0a:Yes, I'm Hina, a misfortune god. I'm gathering up the misfortune flowing here from upstream.
+
+Luna0a:Misfortune? Is that what all that eerie stuff around here is?
+
+Keine0a:Yes, which is why you should really avoid getting close to it.
+
+Rumia3a:I bet just hearing the term "misfortune god" is enough to ruin your luck.
+
+Hina0b:My duty is to draw in human misfortune and send back any humans who wander into this place.
+
+Hina1b:If you're heading for the shrine, then I'm sending all of you home.
+
+Keine2b:How did you know where we're going?
+
+Cirno5b:I asked her how to get there. I wasn't sure which way to go.
+
+Mokou0b:This is a covert operation! You can't just go around blabbing it to people.
+
+Mokou0a:I say we use the fairies to keep her occupied and pull back. We don't have all day.
+
+Daiyosei2c:Wait, you can't use us as bait!
+
+Komachi0a:We're already here, so we might as well save 'em.
+
+Komachi1a:It's not like she'd let us walk away anyway.
+
+Reimu1a:Okay, let's beat up this grubby god and move on!
+
+<end>
+
+<ChatID:2>---------------------------------------
+//3EP
+
+Luna1a:Hey, it's the weird ghosts from earlier!
+
+Sunny3a:Ugh. Did they follow us here?
+
+Komachi0c:Wow, I didn't know there were any vengeful spirits still lurking around here.
+
+Star0c:Vengeful...? Wait, are these spirits different from normal ones?
+
+Komachi0a:Yep. They never crossed the Sanzu River, and now their grudges have taken on lives of their own.
+
+Komachi2b:If you're not careful, they'll draw you in. Stay sharp around them.
+
+Rumia0a:If they're still this mad after dying, they must've really not liked whatever happened to them, huh?
+
+Mokou3a:...Real grudges are something you don't forget no matter how many times you die.
+
+Komachi0c:...
+
+<end>
+
+<ChatID:3>---------------------------------------
+//雛撃破→ペインフロー発動
+
+Cirno0a:How's that? We're winning!
+
+Rumia3a:She's not very threatening for a god. Is it 'cuz she's got cooties?
+
+Hina2a:Humans live in peace because I gather all their "cooties".
+
+Sunny0d:A god that collects cooties? This mountain's got all kinds of crazy types.
+
+Komachi5a:The Yaoyorozu no Kami have eight million gods, you know. Of course there's gonna be some odd ones in there.
+
+Keine0c:Say, if you're a god yourself, you must be knowledgeable about this mountain.
+
+Keine1a:Would you be willing to share what you know about the Moriya Shrine?
+
+Hina0b:I would not, no. Beyond this place lies a realm where gods dwell. It's far too dangerous for humans.
+
+Hina1a:I'm a friend to humans, which is why I'm trying to send you home, for your own—
+
+Reimu1a:Oh, shut up. You're a youkai, and youkai are my enemy! If you keep whining, I'm gonna exterminate you like one!
+
+Hina1b:Oh, is that a fact?
+
+Hina1c:Then you leave me no choice. See if you can take the misfortune that's accumulated around me!
+
+<end>
+
+<ChatID:4>---------------------------------------
+//雛撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Sunny1b:Alright, we won!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Sunny0a:Alright, we got away!
+
+</Cond>
+
+Hina2a:I was trying to help you, you know...
+
+Reimu4a:Trying to kick us out isn't exactly helpful.
+
+Komachi1a:Hey, she meant well. We should be thankful for that.
+
+Hina4a:*sigh* I suppose you're all heading to the mountain's shrine now.
+
+Keine0a:That's the plan. Will you answer our questions now?
+
+Hina4a:For goodness' sake. After your brazen behavior, still you have no shame...
+
+Hina0a:...But if you absolutely must insist on proceeding deeper in, I suppose I could share what I know.
+
+Sunny0a:Wow, she's actually pretty nice.
+
+Luna0a:Kinda makes you wonder which of us are the baddies.
+
+<end>
+
+<ChatID:5>---------------------------------------
+//ADVB
+
+<BG=bg_talk_Pond.png,fade=0,color=1,title=bg_Mountain_Jukai,bgm=bgm_talk_aoki>
+
+Sunny0a:Whew, that god sure was strong.
+
+Star0a:I'm so glad you all showed up to help.
+
+Keine0b:You're all shameless. I'm guessing you're the ones who started this whole mess.
+
+Rumia0a:At least we found Cirno, right? Dai was worried about her!
+
+Cirno1a:Oh yeah! Why'd you bring Dai out here to Youkai Mountain?
+
+Daiyosei3a:*sniffle*
+
+Cirno0a:Erk... Dai?
+
+Daiyosei3a:I was so worried about you! I was scared that maybe you were doing something dangerous...
+
+Daiyosei3a:Why didn't you say a word to me about this? I thought we were...
+
+Komachi5a:Oh dear, you made her cry.
+
+Star0a:Wow, Cirno's a big meanie!
+
+Cirno0a:Look, I figured there would be dangerous youkai where we were going...
+
+Keine0a:Fairies should have an intuitive sense of the sheer difference in power between them and others.
+
+Mokou0a:In that case, why even come here to start with? What good would any of them do?
+
+Sunny4a:Oof, you don't pull any punches...
+
+Cirno0a:Hey, I'm the strongest around. I can't leave Reimu and Keine to fend for themselves.
+
+Komachi1c:Guess it's a fairy's way of showing friendship. That's precious.
+
+Hina0b:I hate to interrupt your lively chatter, but could we please get down to business?
+
+Keine0a:Good idea. We don't have time to dawdle. Should we move to a more relaxing place?
+
+Hina0a:No, that won't be necessary.
+
+<pause>
+
+Hina3a:...There, is that better?
+
+Sunny0a:Ooh, the area's all cleared up.
+
+Luna0a:You dispelled the misfortune in the area just for us? That's very kind of you...
+
+Luna2a:Wait a minute! There's a whole ton of it around you now!
+
+Hina0a:Of course. I didn't dispel it. I just gathered it closer to me.
+
+Hina3a:Being inside it doesn't hurt me, so don't worry.
+
+Sunny0a:That's easier said than done! Just look at you...
+
+Cirno0a:It can't be easy being so immersed in misfortune. Do people shun you because of that?
+
+Hina3a:It's my job. And hey, I've still got friends. I don't curse fate that I'm a misfortune god.
+
+Hina0a:So, what was it you wanted to know?
+
+Keine0a:Right, back on topic. Could you tell us where on the mountain we might find the Moriya Shrine?
+
+Hina0b:I know where it is, but why do you want to go there?
+
+Reimu4a:I need to talk with them. They're trying to take over my shrine.
+
+Hina4a:That certainly sounds like them. When they first appeared, they were poised to lay claim to the whole mountain.
+
+Keine1a:Aha. So when there was conflict between the shrine maiden and the tengu, and the mountain was under martial law over the summer...
+
+Hina0a:Yes, that was because of tensions running high between the Moriya Shrine and the mountain youkai.
+
+Hina0b:Of course, thanks to the conference between the head tengu and the god of the Moriya Shrine, there wasn't too much chaos.
+
+Mokou0a:So they took the peaceful approach and went from bickering to palling around, huh?
+
+Hina4a:I wouldn't say that. If anything, I think both sides come off as trying to be too clever.
+
+Daiyosei3b:Too... clever?
+
+Hina0b:If the youkai have faith in the god, then the god grants them divine benefits. It's a relationship of mutual interests, as I understand it.
+
+Hina0a:With both sides' goals so obvious, it strikes me as a purely transactional arrangement.
+
+Rumia0a:Huh, that sounds tiring...
+
+Keine0a:Then, you're saying that there's no deep bond of trust between the mountain and the shrine?
+
+Hina4a:That's my read, anyway. The shrine god doesn't talk with the other gods, so I don't know more particulars than that.
+
+Star0a:It's a little odd that they don't chat with their neighbors.
+
+Komachi0b:That god's a real stranger, huh?
+
+Hina0a:That said, I think it's clear that Miss Kochiya has been working hard up there.
+
+Hina4a:Though I do worry about her constant solitude, standing between the mountain and the shrine...
+
+Komachi1c:Interesting. Thanks for sharing all that.
+
+Komachi0a:Any chance you could give us a good route for reaching the Moriya Shrine too?
+
+Hina3b:The fastest route would be to follow this river upstream. It should take you to the Waterfall of Nine Heavens.
+
+Hina0b:But that's such a critical place for the mountain. Security there will be way too tight.
+
+Mokou0a:Then that's out. Especially with the extra dead weight we just picked up.
+
+Cirno1a:Hey, why are you looking at us? We could easily slip through that place!
+
+Keine1a:Cirno, we're trying to think of a serious strategy here.
+
+Cirno0a:No, seriously! Just use the Light Fairies' powers to conceal yourselves, and nobody will spot you.
+
+Sunny3a:Buh?!
+
+Star2a:Hold on, you can't just put us on the spot like that!
+
+Mokou0a:...Their powers?
+
+Sunny0a:I, uh, I can refract light to hide things...
+
+Luna0a:I can erase sounds...
+
+Star0a:And I can sense movement...
+
+Keine2b:Wow. If we use that, it won't matter how tight their security is.
+
+Komachi1c:Hey, nice! See, sometimes it's worth heading off the beaten path.
+
+Reimu0a:Okay, we know where we're going. So let's get moving.
+
+Komachi0b:Good call. Preferably before the fairies change their minds.
+
+Komachi1a:Ah, but first... Hey, I've got a question for you.
+
+Mokou0a:Yeah? Let's hear it.
+
+Komachi4a:Are you really human?
+
+Mokou4a:!
+
+Komachi0b:Your buddies might not have noticed, but it's clear as day to me.
+
+Komachi4b:You're dead. Well... You're not alive.
+
+Keine2a:!
+
+Sunny0a:What? But she's clearly alive and kicking.
+
+Komachi0a:This is between us. The rest of you don't need to sweat it.
+
+Komachi1a:That said, I'm guessing Teach over here knows quite a bit.
+
+Mokou3a:Hey, I'm the one you're talking to. Don't drag Keine into this.
+
+Komachi1c:Look, don't worry, I'm not gonna pry into whatever your deal is.
+
+Komachi0a:I've never met anyone like you before, and frankly, this is baffling to me.
+
+Komachi0b:So I'll just keep on watching you and figure it out myself.
+
+Mokou3c:...Whatever.
+
+<end>
+
+<ChatID:6>---------------------------------------
+//雛vs.霊夢
+
+Hina0a:I definitely wouldn't recommend any humans go plunging into a spring of misfortune.
+
+Reimu0a:Yeah, well, I'm a shrine maiden. A little impurity is nothing to me.
+
+Hina0a:Interesting. For all your lack of self-awareness, you certainly have power.
+
+<end>
+
+<ChatID:7>---------------------------------------
+//雛vs.慧音
+
+Keine0a:I've heard rumors of a god that takes on misfortune for others, but this is the first time I've seen you in person.
+
+Keine0a:I get that it's your duty, but I feel bad seeing you stuck out here all by yourself.
+
+Hina0a:Spare me your sympathy. I'm just doing my job as a god.
+
+<end>
+
+<ChatID:8>---------------------------------------
+//雛vs.ルーミア
+
+Rumia0a:Hey, is all that goopy stuff around you edible?
+
+Hina0a:You're free to try it, but it's got three strikes against it—it tastes bad, it's not healthy, and it's not filling at all.
+
+Rumia0a:That sounds awful. It's weird that you're even collecting it.
+
+<end>
+
+<ChatID:9>---------------------------------------
+//雛vs.大妖精
+
+Daiyosei0a:Oh, that ribbon is really cute...
+
+Hina0a:Why, thank you. Do you like this sort of dress?
+
+Daiyosei0a:Y-Yes, I do. I'm sure I'd look silly in it, though...
+
+<end>
+
+<ChatID:10>---------------------------------------
+//雛vs.チルノ
+
+Cirno0a:If you back down and let us through, I'll let you off easy!
+
+Hina0a:If you back down and go home, I'll let YOU off easy.
+
+Cirno0a:Rrr... I guess this is what they call a conflict of interest.
+
+<end>
+
+<ChatID:11>---------------------------------------
+//雛vs.小町
+
+Hina0a:Are you the shinigami I've heard about? The one who occasionally comes here to carry off vengeful spirits?
+
+Komachi4b:Aww, man. I was so sure nobody caught me doing it... Sorry for intruding on your turf.
+
+Hina1b:I'm actually grateful for your work, but that doesn't mean I'll go easy on you here.
+
+<end>
+
+<ChatID:12>---------------------------------------
+//雛vs.妹紅
+
+Mokou0a:I don't know about all this misfortune gunk. I'll just burn it away along with you.
+
+Hina2a:Humans always turn to fire in the end. Is it because they view it as a power that can return all to nothingness?
+
+Mokou1a:What? You got a problem with my techniques?
+
+Hina0b:Not at all. It's just, the sins and misfortunes that emerge from the body always linger on, even through the worst hellfire.
+
+Hina0a:If you're going to use fire, I suggest you keep that in mind.
+
+Mokou0a:...
+
+<end>
+
+<ChatID:13>---------------------------------------
+//雛vs.サニー
+
+Sunny0a:You keep spinning around. Don't you get dizzy?
+
+Hina0a:Dizzy? I don't pay much attention to that, but I've never lost my balance.
+
+Sunny0a:Oh, really? I was sure you did special training like spinning around with a bat...
+
+<end>
+
+<ChatID:14>---------------------------------------
+//雛vs.ルナ
+
+Luna0a:I can't believe there's a swamp of misfortune. Even just touching it would be really bad news, right?
+
+Hina0a:Yes, to say nothing of falling into it.
+
+Hina3a:That said, I doubt there's anyone clumsy enough to trip and dive head-first into a swamp...
+
+Luna0a:...I'd better be careful, just in case.
+
+<end>
+
+<ChatID:15>---------------------------------------
+//雛vs.スター
+
+Star0a:If you absorb my bad luck, does that mean something good will happen to me?
+
+Hina0a:It could. Your luck should certainly improve with no misfortune around.
+
+Star0a:Really?! So I'm going to find a four-leaf clover, or a wishbone, or...
+
+Hina2a:I'm sorry, but cleansing misfortune and granting good luck are two entirely different things. That part's someone else's job.
+
+<end>
+
+<ChatID:16>---------------------------------------
+//ばけばけ、またはイビルアイと初戦闘時
+
+Keine0a:These eyeballs and ghosts... I don't think Gensokyo has any youkai like them. Why are they here?
+
+Hina0a:I don't know either. I assume someone brought them in at some point, but they must've gone back to the wild.
+
+Rumia0a:I could see it! Like someone pulls off a summoning, but then they're not strong enough to actually control what they summon...
+
+Sunny0a:Huh, that sounds kinda familiar to me...
+
+<end>
+
+<ChatID:17>---------------------------------------
+//全滅時
+
+Hina0b:The misfortune accumulated here is gathering around you...
+
+Hina1b:Sorry, but I'm afraid you're going to have to leave this mountain.
+
+Daiyosei3a:But I finally got to meet Cirno...
+
+Cirno2a:Dai?! DAAAIII!
+
+<end>
+
+<ChatID:18>---------------------------------------
+//雛vs.まくら
+
+Makura0e:So this is what happens to a land that gather misfortune.
+
+Hina0c:Are you surprised? I wouldn't recommend getting any closer.
+
+Makura3a:Hina, I really admire your determination and sense of responsibility.
+
+Hina4a:...You're making me blush, but if you really think so then please go home.
+
+<end>
+
+<ChatID:19>---------------------------------------
+//雛vs.メーコ
+
+Meko0b:Aaack! Macenas turned pitch black!
+
+Hina0c:Macenas? You mean that black sheep?
+
+Hina3a:I'll remove the misfortune covering him, so could you hand him over?
+
+Meko1f:You say that, but you're just gonna barbecue and eat him, aren't you?!
+
+Hina3b:Oh, it looks like he wants to come to me.
+
+Meko2b:Are you betraying me, Macenas?!
+
+<end>
+
+<ChatID:20>---------------------------------------
+//雛vs.雛
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Hina0c:Oh dear, you're...
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Hina3a:Would you accept it if I said I was your duplicate?
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Hina0c:Well, at the very least we seem cut from the same cloth.
+
+Hina0a:No matter how close you get, you can't avoid my precious hands-on experience.
+
+</nomove>
+
+<end>
+
+<ChatID:21>---------------------------------------
+//雛vs.にとり
+
+Hina0c:Nitori? What are you doing here?
+
+Hina1a:Weren't you defending the river under the mountain orders?
+
+Nitori3b:Um, well, how do I put this? A lot of stuff happened...
+
+Nitori4a:Oh, right, I came to see you, Hina!
+
+Hina3b:Really?
+
+Nitori3b:Sorry, am I being a bother?
+
+Hina2a:O-Of course not. I just hope you don't get covered in misfortune for disobeying orders.
+
+<end>

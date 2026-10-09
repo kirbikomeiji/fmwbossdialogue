@@ -1,0 +1,2034 @@
+﻿○霊夢第三十九話「博麗の結界
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: 2EP
+ 4: 4PP
+ 5: ReimuR first battle
+ 6: danmaku_Reimu
+ 7: clear
+ 8: ADVB
+ 9-27: battle vs. Udonge
+28: lose (before ReimuR)
+29: lose (after  ReimuR)
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=3,FROM=永遠亭,TO=永遠亭,name=Eientei,icon=5>
+
+<BG=*bg_talk_Eientei_Night.png,fade=0,color=1,title=*bg_Eientei,bgm=bgm_talk_kaikidan>
+
+Udonge5b:...
+
+Eirin0d:There you are, Udonge.
+
+Udonge1c:I've been keeping an eye on the sky.
+
+Udonge0b:I can't sense any waves from the moon. The spell must be working.
+
+Eirin0d:Indeed. But not everything is going to plan. 
+
+Udonge5b:You mean this night? 
+
+Eirin1c:I don't know who's behind it, but they must have realized that we hid the true moon.
+
+Eirin1d:I would imagine that their next step would be to come looking for us.
+
+Udonge5b:Could it be Lunar Emissaries who've already landed? 
+
+Eirin0d:Doubtful. Even among the Lunarians, very few possess the power to manipulate spacetime like this.
+
+Eirin1a:Most likely, it's some kind of cheap trick being played by the surface youkai.
+
+Udonge5b:I can't believe they can do something like that...
+
+Udonge2b:But what should we do, Master? We still haven't found that lunar rabbit yet either.
+
+Eirin1c:We track down the person getting in our way and deal with them, naturally.
+
+Eirin0a:I already told Tewi to have the rabbits keep an eye on the bamboo thicket, so―
+
+<SE=se_talk_run.ogg,wait=1>
+
+Usagi1a:Lady Eirin! Lady Eirin! 
+
+Eirin0e:Perfect timing. What's the situation in the thicket?
+
+<update>
+
+Usagi1a:There's a big problem! North of the thicket there's this huge ship we've never seen before!
+
+Usagi2a:If it keeps coming this way, it might even end up here...
+
+</update>
+
+Udonge2b:A flying ship? Is it those humans from before?! 
+
+Eirin0d:...If they're humans, they're almost certainly the youkai extermination specialists Tewi mentioned.
+
+Eirin1c:They may very well be allies of whoever stopped the night.
+
+Usagi0a:What do you want us to do? I don't think they'll be able to find this place that easily, but... 
+
+Eirin1d:I'd rather not leave anything to chance at this point. Udonge, take some rabbits and dispose of them. 
+
+Udonge2b:What?! No way, I can't do that! 
+
+Eirin1a:It should be simple enough. We know they're on a ship heading straight towards us.
+
+Eirin0e:Setting up an ambush with your power should be eminently possible.
+
+Udonge1c:I see, and while they're still disordered from the ambush... 
+
+Eirin1a:First, snipe the ship to throw them off balance.
+
+Eirin0a:Then, after they've deployed, aim straight for the head. Take out their leader.
+
+Udonge4a:Ah, and the rest will scatter once we've taken out that shrine maiden. She's their group's linchpin.
+
+Udonge1c:Understood. I'll give it my best shot!
+
+<Code=(transition_out,c_black,30,1)>
+
+<BG=bg_talk_Black.png,fade=1,color=1,title=*bg_Unknown>
+
+<Code=(demo_wait,15)>
+
+Sanae5e:...
+
+Noname0a:...nae... Sanae Kochiya... 
+
+Sanae1d:...!
+
+<BGM=bgm_talk_interlude02,0>
+
+Noname0a:It's been a while since we last spoke, Sanae Kochiya.
+
+Sanae1d:...Am I dreaming?
+
+Noname0a:Thank goodness you went to sleep.
+
+Noname0a:I want to talk to you about the present strangeness involving the moon.
+
+Sanae0b:Strangeness? You mean the incident? 
+
+Noname0a:Exactly. The people have barred their doors, frightened of this unending night.
+
+Noname0a:I would have you resolve this situation as soon as possible, to end their plight.
+
+Sanae3b:Well, that's why I'm here investigating in the first place...
+
+Sanae0b:So, are you that same voice who talks to Marisa in her dreams?
+
+Noname0a:I am.
+
+Sanae3b:So why are you talking to me instead of her? 
+
+Noname0a:I tried looking for her, but she doesn't appear to be among you.
+
+Noname0a:Rather than do nothing, I thought it best to reach out to someone else.
+
+Sanae0a:...I see. So, do you know anything about this incident? 
+
+Noname0a:Unfortunately, I am not privy to the details either.
+
+Noname0a:At this time I can only offer you moral support. My apologies.
+
+Sanae0g:No, it's okay. Actually, I have a few questions I'd like to ask―
+
+Noname0a:You have quite a few powerful youkai helping out this time.
+
+Noname0a:And if we're lucky, one of my few acquaintances should be lending Marisa a hand, too.
+
+Sanae0b:You know who's accompanying us? 
+
+Sanae1a:I'm sorry if this is rude, but just who are you? And how do you know so much about what we're doing?
+
+Noname0a:...I'm gratified to see that someone from the Outside World has adapted so well to this land.
+
+Noname0a:I pray you will forget the turmoils of that place, and devote yourself to ensuring the tranquility of this paradise.
+
+Sanae1c:That seems like a biased perspective―
+
+Noname0a:Farewell. I look forward to seeing your accomplishments.
+
+<Code=(transition_out,c_white,30,1)>
+
+<Code=(demo_wait,13)>
+
+<BG=bg_talk_Seirensen_Hall_Night.png,fade=0,color=0,title=bg_Seirensen_Hall,bgm=bgm_talk_aoki>
+
+Youmu1a:HI-AAAAH!
+
+Momiji2a:Guh!
+
+<Code=(map_shake,1,10,3)>
+
+<SE=se_talk_metal01.ogg,wait=1>
+
+Nazrin3b:And that's the match. Victory goes to Youmu this time. 
+
+Youmu3b:You almost got me there. If I hadn't gotten inside your guard then...
+
+Sho3b:Splendid job, both of you. That was a close match.
+
+Aya1a:Eh, I felt like Momiji's stubbornness was losing to Youmu's youthful vigor. 
+
+<SE=se_talk_walk.ogg,wait=1>
+
+Chen3d:Hey, they're fighting in here! 
+
+Ran3b:Practicing even while off-duty, are you? How admirable. 
+
+Sho3a:Hello, you two.
+
+Nazrin0a:What brings you two here?
+
+Chen3c:Miss Ran said she wants to give us lessons, so we're looking for Cirno and her friends.
+
+Chen4b:We can't find 'em anywhere though...
+
+Hatate0a:This is just a hunch, but maybe they're off playing somewhere?
+
+Nazrin3c:I guess everybody's got their own different things to do on board.
+
+Youmu4a:I usually practice by myself, so this is pretty exciting for me.
+
+Youmu4c:I don't get much practice against someone with a shield either.
+
+Momiji4b:For my own part, I find seeing other styles of swordsmanship interesting. 
+
+Ran0a:Now that you mention it, you do use completely different weapons...
+
+Ran3a:Are you going to join in too, Shou? Or are you content to watch from the sidelines?
+
+Sho2a:Oh, I couldn't possibly―I don't know how to use this thing properly, I just swing it around... 
+
+Hatate0a:Then how about we switch things up and start some mental training instead.
+
+Hatate0a:After all, aren't there some shogi pieces scattered around the room?
+
+Aya3b:That'd be Momiji's specialty. Show us what you've got, champ. 
+
+Momiji5a:Sure. Who'll be my opponent?
+
+Chen3b:You should play a match with Miss Ran! 
+
+Momiji2a:Wh―
+
+Ran3a:I have some time to kill, so I don't mind.
+
+Ran3d:All I need to do is calculate the moves necessary to derive an advantageous board state. This shouldn't be too difficult to solve.
+
+Momiji2a:...I see that someone has completely underestimated the depth of shogi.
+
+Momiji1a:You'll be eating those words by the end of the match!
+
+Sho4a:Shogi seems to turn her into a completely different person...
+
+Aya3b:Eh, don't worry about it, this looks like it'll be interesting. Maybe I'll print the move records in a column...
+
+Chen0b:Go Go Miss Ran! You can do it! 
+
+Aya7a:Momiji Inubashiri vs Ran Yakumo. Which will prevail―the foresight of a thousand-li vision, or the calculations of a shiki?
+
+Aya7a:A match to determine the Canine King of Shogi!
+
+Youmu1a:Everybody's putting so much spirit into this!
+
+<MAP=3,FROM=人里近くの田んぼ,TO=迷いの竹林R39,name=Bamboo Thicket,icon=4>
+
+<BG=*bg_talk_Seirensen_Bridge_Night.png,fade=1,color=1,title=*bg_Seirensen_Bridge,bgm=bgm_talk_ningyo>
+
+Akyu0a:...
+
+Kosuzu6b:Ohhh, so that's how you operate this part.
+
+Akyu0b:...
+
+Kosuzu3c:I see, I see, and this screen shows what direction we're going and stuff.
+
+Akyu3b:Agh, I can't concentrate! Kosuzu, didn't we agree that you'd go to your room?
+
+Kosuzu3a:But I looked through the whole ship and right here is definitely the most interesting.
+
+Kosuzu3c:It's so impressive how can keep track of how all these complicated things work, Akyu.
+
+Akyu3a:...Well, I suppose so. I'm glad you recognize that.
+
+Ichirin0a:There's nothing wrong with a little curiosity, but you really shouldn't touch anything when you don't know what you're doing, Kosuzu.
+
+Kosuzu5a:I knooow. I'll behave myself and stick to watching.
+
+Reimu4a:...Hey, Akyu. Anything happen yet? 
+
+Akyu0a:No. It's been smooth sailing ever since we entered the bamboo thicket. 
+
+Reimu3a:By smooth sailing you mean it's been boring.
+
+Minoriko0b:C'mon Reimu, aren't you a bit TOO disappointed?
+
+Minoriko3a:Although I think I get it. You've had no one to talk to ever since Yukari left the bridge.
+
+Reimu2b:What does she have to do with anything? 
+
+Shizuha0a:Doesn't she chat with you all the time?
+
+Shizuha1c:She's making that new gear for you too. I thought she was kinda like your patron or something?
+
+Reimu4a:...Not really.
+
+Reimu5c:I've known Yukari for a while, but she's not someone I'd ever really count on.
+
+Ichirin0a:Oh? That's a surprise. I thought you two were closer than that.
+
+Murasa0a:Yeah, she's the administrator of Gensokyo and you're the administrator of the Great Barrier, after all.
+
+Reimu5d:Well, she does support me in my work as a shrine maiden.
+
+Reimu5f:But she's just... weird. She's always watching over me, but when she looks at me it's like she's looking right through me...
+
+Akyu0a:...
+
+Reimu3d:Anyway, enough about Yukari. Let's talk investigation.
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+Sanae3b:Good morning, everyone. 
+
+Murasa0a:You're up, Sanae? It's not time to change shifts yet, is it?
+
+Sanae0b:No, not yet, but I had a weird dream... 
+
+Reimu4a:Oh no, a weird dream. Are you a little kid? Was it scaaary?
+
+Reimu0g:Save that stuff for Kanako or Suwako.
+
+Sanae5a:N-No! It wasn't a nightmare or anything.
+
+Sanae0b:In the dream, I was talking to someone I've never met.
+
+Shizuha4a:That sounds just like... 
+
+Akyu3a:Marisa's certainly mentioned having similar dreams.
+
+Akyu0a:She said she got advice from them during the Scarlet Mist and Spring Snow incidents.
+
+Sanae0a:Yes, I've heard. And it was definitely the same person in my dream too.
+
+Murasa0a:So, did they tell you anything important? 
+
+Sanae3b:No, it seems she doesn't know much about what's going on either.
+
+Sanae0a:But she knew we were investigating and wanted to wish us luck.
+
+Reimu3a:So she's just leaving it all to us? Pretty pathetic. 
+
+Ichirin0a:But still, the fact that she knew what we were doing at all bugs me.
+
+Ichirin2a:Is she somehow spying on us?
+
+Shiro0a:...
+
+Akyu3a:Possibly it has something to do with Shiro being here.
+
+Akyu0a:After all, this time Sanae had the dream, not Marisa.
+
+Sanae3b:Come to think of it, I had another dream like that back before I fought Reimu.
+
+Sanae0a:I can't remember much about it, but I remember it made me quite worried at the time.
+
+Reimu0f:But wasn't Shiro back at the shrine when we went to Youkai Mountain? 
+
+Akyu0a:It's not as though you'd put it on a leash or anything.
+
+Akyu3c:Who knows what it gets up to when we're not looking?
+
+Minoriko0a:...Hmm. I don't think it really matters all that much since it's harmless, but that makes me just a bit curious.
+
+Minoriko3a:C'mere Shiro, mommy wants to give you a hug!
+
+Shizuha4a:Hey, don't smother it.
+
+<Code=(map_shake,1,60,6)>
+
+<SE=se_hit_bullet_L03.ogg,wait=1>
+
+Kosuzu1a:Eeek!
+
+Murasa2b:What was that rocking?
+
+<Code=(sound_fadeout,BGM,30,0)>
+
+<SE=se_talk_siren01.ogg,wait=1>
+
+<BGM=bgm_talk_emergency,0>
+
+<SE=se_talk_console01.ogg,wait=1>
+
+<hide=video>
+
+Rumia0a:Hey! Hey! Is this thing on?
+
+Cirno1b:Big trouble, everyone! 
+
+</hide>
+
+Ichirin1a:Rumia? Cirno? What's going on? 
+
+<hide=video>
+
+Daiyosei1a:We're up on the deck, and there's danmaku flying all over the place!
+
+Mystia1c:Something's smoking too. Isn't that bad?
+
+</hide>
+
+Akyu1a:She's right! The starboard side is under fire.
+
+Ichirin1a:What?! But weren't we scanning for enemies?! 
+
+Akyu1a:Of course we were, but I don't see anything that looks like―
+
+<SE=se_talk_noise01.ogg,wait=0>
+
+<Code=(demo_wait,20)>
+
+Akyu1a:No, wait, the wave patterns are in complete disarray! It's not functioning at all!
+
+Murasa1b:What's going on? This was supposed to be the latest in kappa techn―
+
+<Code=(map_shake,1,60,4)>
+
+<SE=se_hit_bullet_L03.ogg,wait=1>
+
+Murasa2a:Ack!
+
+<SE=se_talk_console01.ogg,wait=1>
+
+<hide=video>
+
+Aya2a:Ugh, what's with all this turbulence?! 
+
+Momiji1a:Our match was ruined! The pieces were thrown all over the board! 
+
+</hide>
+
+Shizuha3a:Your board game got ruined? This is the bridge, not a cruise ship complaint hotline!
+
+Sanae1a:What do we do, Reimu? The Palanquin Ship is in danger!
+
+Reimu1a:It's not like we have a choice! Let's go out and face them head on! 
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP-1
+
+<nomove>
+
+<Code=(cursor_jump,544,480,1)>
+
+Udonge0a:Hit confirmed... The damage was minimal though.
+
+Udonge1c:Prepare yourselves, Wave 1. They should be deploying any moment now.
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP-2
+
+Suika2a:Hey, what's goin' on? I was trying to enjoy an evening drink here.
+
+Yuyuko2a:And I spilled my miso soup...
+
+Youmu1a:Just who are these enemies?
+
+Akyu1a:Looks like they managed to set up an ambush right under our noses. We're surrounded!
+
+Akyu1a:The radar's going crazy too. What's going on?
+
+<Code=(cursor_jump,544,480,1)>
+
+<nomove>
+
+Udonge1c:...And now they're nonchalantly popping out one by one, just like Master said they would.
+
+Udonge0a:I just have to wait for the shrine maiden to show herself...
+
+<pause>
+
+<Code=(cursor_jump,544,480,1)>
+
+<nomove>
+
+Udonge1a:Bingo!
+
+</nomove>
+
+Reimu1a:So these are the losers playing pranks on us?
+
+Ran0b:Something's odd about this. Feral youkai like these would never be able to plan this kind of ambush.
+
+Suika1b:The boss must still be hiding themselves!
+
+Reimu4a:Then I'll just have to go look for them―
+
+<Code=(cursor_jump,544,480,1)>
+
+<nomove>
+
+Udonge1c:Now!
+
+<Code=(icon_set_direction,Reimu,FD_RIGHT,0)>
+
+<pause>
+
+Reimu3b:...?!
+
+<pause>
+
+Reimu2a:Ngh...
+
+Daiyosei1a:Reimu, are you okay?!
+
+Reimu2a:I'm fine, but...
+
+Sanae1a:Oh no, your gohei broke!
+
+Udonge1c:...She blocked with her weapon at the last second. She's got good instincts.
+
+Udonge0a:But that trick only works once. It's over.
+
+Reimu2a:Ugh, this bites. Now I can't―
+
+Udonge1b:I have you now!
+
+<pause>
+
+Udonge5c:...!
+
+Yukari4a:...Whatever am I going to do with you, Reimu? You can't let yourself panic like that in the middle of battle.
+
+Reimu1a:Yukari!
+
+Aya0b:Nice, Yukari! Is Reimu okay?
+
+Yukari0b:She's uninjured, but she won't be able to fight like this.
+
+Yukari4a:You'll have to sit this one out, Reimu.
+
+Kosuzu4b:Poor Reimu...
+
+Reimu2a:Hey! I didn't get hit that bad―
+
+Yukari2a:Reimu, calm down and think before you speak.
+
+Yukari0b:How exactly do you plan on fighting without a weapon?
+
+Reimu1a:But―
+
+Udonge1c:That woman's weird power meant she got out alive. For now.
+
+Udonge0a:Still, the group's lost its head. It's just a matter of time until they're forced to retreat.
+
+<pause>
+
+Momiji1a:It's that youkai rabbit from the other day! So she was an enemy after all!
+
+Daiyosei1a:But what do we do?! Reimu's down...
+
+Akyu1a:Everyone, I know the enemy managed to catch us with an ambush.
+
+Akyu1a:But please, keep calm and begin a counterattack!
+
+<end>
+
+<ChatID:3>----------------------------------------
+//2EP
+
+Sanae3b:...Will Reimu really be okay?
+
+Hatate0a:Yukari said she'd be, so I wouldn't worry about it. More importantly...
+
+Sho4a:We have to focus on the battle right now.
+
+Sho0b:If they bothered setting up this elaborate ambush, we must be playing right into their han―
+
+<pause>
+
+Daiyosei2c:...!
+
+Mystia2a:Come on, you jinxed it!
+
+Suika1c:Well, this is a pain. Without Yukari this is gonna be a real uphill fight.
+
+Shizuha4a:And Reimu's out of the fight too...
+
+Youmu1a:No, we can't give in like this. That's just what the enemy wants!
+
+Sanae1a:You're right. We'll just have to step up in her absence!
+
+Reimu5f:I never realized that having to sit back and watch would be so frustrating...
+
+Reimu4a:Hey, Yukari! You're done with my new stuff, right? Even if you're still fussing with it, it still works, right?
+
+Yukari0b:You wouldn't be planning to―
+
+Reimu1a:Hand it over! I'm heading out!
+
+Yukari4a:...I don't like to tell you this, but no. They're simply not ready yet.
+
+Yukari0b:As it stands now, it's far too dangerous to take them into actual combat.
+
+Reimu1a:You never know until you try!
+
+Yukari2a:I understand your feelings, but please show a little sense.
+
+Yukari2a:You are the Hakurei Shrine Maiden, a totally irreplaceable being. I cannot allow you to risk your life here.
+
+Reimu0a:...!
+
+<end>
+
+<ChatID:4>----------------------------------------
+//4PP
+
+Yuyuko2a:Everyone's getting tired already, aren't they? Are you alright, Youmu?
+
+Youmu3b:Yes, but I have my hands full just defending myself.
+
+Aya4b:You're panting for breath a little, Momiji. Are you sure you're okay?
+
+Momiji2a:I could ask the same about you, Aya. You haven't even had the time to take any pictures.
+
+<Code=(cursor_jump_variable,ppos_xa,0,ppos_ya,0,0,0,1)>
+
+<nomove>
+
+Udonge0a:...They still haven't given up? Even with their leader taken out?
+
+Udonge1c:Fine, I'll just have to finish them off myself.
+
+<pause>
+
+Mystia1c:Everybody, look, it's that rabbit from earlier!
+
+Udonge0a:I don't know or care who you people are, but stay out of our way.
+
+Udonge1c:Face it, you're exhausted. Do you think you can resist the madness of the moon in that state?!
+
+Sho1b:That youkai rabbit's coming in for an attack!
+
+Udonge1b:Visionary Tuning!
+
+<pause>
+
+Youmu2a:Agh, what IS this attack?!
+
+Sanae2a:This horrible sensation is so much worse than what she did before!
+
+Udonge1c:Painful, isn't it? The sharper your senses, the more it will hurt.
+
+Udonge1b:Just how many do you think have been driven mad by it?
+
+Ran2a:What a blunder... we've been completely outmaneuvered!
+
+Udonge1c:Let's start with you!
+
+<pause>
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_players,>,1)>
+
+Udonge1a:And you're up next!
+
+<pause>
+
+Akyu1a:Aah! Is everyone okay?!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_players,==,1)>
+
+Udonge1b:And another shot!
+
+<pause>
+
+Kosuzu1a:Aaaaaah!
+
+Akyu2a:We're taking fire from the Starboard! The ship's hull is failing!
+
+</Cond>
+
+Reimu1a:Hey, isn't this looking kind of bad?
+
+Reimu1a:Yukari, just give me the gear already!
+
+Yukari2a:No. I already told you the risks are too high.
+
+Yukari4a:We can't afford to lose you.
+
+Reimu1a:Enough already!
+
+Reimu5a:You're always like this... You act like you're worried about me, but you're never thinking about me!
+
+Reimu1a:Your mind's always off somewhere else, worrying about something else! How about you take a step back and consider MY feelings for once?!
+
+Yukari4a:...
+
+Yukari0b:Fine. If you're really going to insist...
+
+Yukari0a:The key to utilizing your new equipment is to understand the true nature of a barrier.
+
+Yukari0a:Take care not to just use brute force.
+
+Reimu0g:That's fine by me!
+
+Udonge1c:...I have nothing against you people, but―
+
+<pause>
+
+<Cond=(LOCAL_VAR,Char6,char_code,==,Sanae)>
+
+Sanae1d:...!
+
+Udonge1b:But this is what'll happen if you don't surrender immediately!
+
+Sanae1a:Please, stop it! Why are you even doing this?
+
+Udonge5b:We, too, are desperately fighting for our own survival.
+
+Udonge1b:I'll make no apologies. This is what you get for missing your chance to escape!
+
+Sanae3a:I can't dodge at this range...
+
+Sanae2a:Lady Kanako, Lady Suwako!
+
+<Code=(cursor_jump_variable,ppos_xa,1,ppos_ya,1,0,0,0)>
+
+<nomove>
+
+<hide=face>
+
+Reimu1a:Sorry for the wait!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char6,char_code,==,Youmu)>
+
+</hide>
+
+Youmu2b:...!
+
+Udonge1c:But this is what'll happen if you don't surrender immediately!
+
+Youmu3b:How could I have fallen into this trap...?
+
+Udonge0a:We, too, are desperately fighting for our own survival.
+
+Udonge1a:I'll make no apologies. This is what you get for missing your chance to escape!
+
+Youmu1a:...I have offered no surrender! Even if my sword should break, I will contin―
+
+Udonge1b:Cut that noble sacrifice nonsense!
+
+<Code=(cursor_jump_variable,ppos_xa,1,ppos_ya,1,0,0,0)>
+
+<nomove>
+
+<hide=face>
+
+Reimu1a:Agreed!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char6,char_code,==,Rumia)>
+
+</hide>
+
+Rumia2a:...!
+
+Udonge1c:But this is what'll happen if you don't surrender immediately!
+
+Rumia2b:Ganging up on someone is mean!
+
+Udonge0a:We, too, are desperately fighting for our own survival.
+
+Udonge1a:I'll make no apologies. This is what you get for missing your chance to escape!
+
+Rumia1a:I'm done for, huh...
+
+Mystia2a:Look out, Rumia!
+
+<Code=(cursor_jump_variable,ppos_xa,1,ppos_ya,1,0,0,0)>
+
+<nomove>
+
+<hide=face>
+
+Reimu1a:Sorry for the wait!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char6,char_code,==,Daiyosei)>
+
+</hide>
+
+Daiyosei2c:...!
+
+Udonge1c:But this is what'll happen if you don't surrender immediately!
+
+Daiyosei3a:...U-Um, are you going to do something awful to everyone?
+
+Udonge0a:We, too, are desperately fighting for our own survival.
+
+Udonge1a:I'll make no apologies. This is what you get for missing your chance to escape!
+
+Daiyosei3a:Oh no, you are...
+
+Daiyosei2b:Somebody, please...
+
+Daiyosei2b:Cirno! Help!
+
+<Code=(cursor_jump_variable,ppos_xa,1,ppos_ya,1,0,0,0)>
+
+<nomove>
+
+<hide=face>
+
+Reimu1a:Sorry for the wait!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char6,char_code,==,Cirno)>
+
+</hide>
+
+Cirno0b:...!
+
+Udonge1c:But this is what'll happen if you don't surrender immediately!
+
+Cirno1a:...I know exactly what you are. The way you fight? You're a total coward!
+
+Udonge0a:We, too, are desperately fighting for our own survival.
+
+Udonge1a:I'll make no apologies. This is what you get for missing your chance to escape!
+
+Cirno2a:No matter what, I'll still be the strongest!
+
+Daiyosei2b:Cirno, run!
+
+<Code=(cursor_jump_variable,ppos_xa,1,ppos_ya,1,0,0,0)>
+
+<nomove>
+
+<hide=face>
+
+Reimu1a:Sorry for the wait!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char6,char_code,==,Mystia)>
+
+</hide>
+
+Mystia5a:...!
+
+Udonge1c:But this is what'll happen if you don't surrender immediately!
+
+Mystia2a:Hold on! Say no to animal abuse!
+
+Udonge0a:We, too, are desperately fighting for our own survival.
+
+Udonge1a:I'll make no apologies. This is what you get for missing your chance to escape!
+
+Mystia1c:Hey, listen to me! Listen to my song!
+
+Cirno2a:Watch out, Mystia!
+
+<Code=(cursor_jump_variable,ppos_xa,1,ppos_ya,1,0,0,0)>
+
+<nomove>
+
+<hide=face>
+
+Reimu1a:Sorry for the wait!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char6,char_code,==,Minoriko)>
+
+</hide>
+
+Minoriko2a:...!
+
+Udonge1c:But this is what'll happen if you don't surrender immediately!
+
+Minoriko1b:Your actions are wrong. Do you really think you won't reap what you sow?
+
+Udonge0a:We, too, are desperately fighting for our own survival.
+
+Udonge1a:I'll make no apologies. This is what you get for missing your chance to escape!
+
+Minoriko2a:Guh, I wanted to at least see autumn come back...!
+
+Shizuha3a:Minoriko, run away!
+
+<Code=(cursor_jump_variable,ppos_xa,1,ppos_ya,1,0,0,0)>
+
+<nomove>
+
+<hide=face>
+
+Reimu1a:Sorry for the wait!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char6,char_code,==,Shizuha)>
+
+</hide>
+
+Shizuha3a:...!
+
+Udonge1c:But this is what'll happen if you don't surrender immediately!
+
+Shizuha3a:...It seems like there's no level you wouldn't sink to, if it'll accomplish your goals.
+
+Udonge0a:We, too, are desperately fighting for our own survival.
+
+Udonge1a:I'll make no apologies. This is what you get for missing your chance to escape!
+
+Shizuha4a:I can't believe I'll fall before the autumn leaves do...
+
+Minoriko1b:Shizuha! Run!
+
+<Code=(cursor_jump_variable,ppos_xa,1,ppos_ya,1,0,0,0)>
+
+<nomove>
+
+<hide=face>
+
+Reimu1a:Sorry for the wait!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char6,char_code,==,Aya)>
+
+</hide>
+
+Aya2a:...!
+
+Udonge1c:But this is what'll happen if you don't surrender immediately!
+
+Aya4b:Desperation's always a bad look, if you ask me.
+
+Udonge0a:We, too, are desperately fighting for our own survival.
+
+Udonge1a:I'll make no apologies. This is what you get for missing your chance to escape!
+
+Aya6b:...But I can respect the hustle.
+
+Momiji1a:Get out of there, Aya!
+
+<Code=(cursor_jump_variable,ppos_xa,1,ppos_ya,1,0,0,0)>
+
+<nomove>
+
+<hide=face>
+
+Reimu1a:Sorry for the wait!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char6,char_code,==,Hatate)>
+
+</hide>
+
+Hatate2a:...!
+
+Udonge1c:But this is what'll happen if you don't surrender immediately!
+
+Hatate0a:Hey, hold up, are you seriously okay with doing anything to save your own skin?
+
+Udonge0a:We, too, are desperately fighting for our own survival.
+
+Udonge1a:I'll make no apologies. This is what you get for missing your chance to escape!
+
+Hatate2a:W-wait just a sec, about that chance―
+
+Aya2a:Run, Hatate!
+
+<Code=(cursor_jump_variable,ppos_xa,1,ppos_ya,1,0,0,0)>
+
+<nomove>
+
+<hide=face>
+
+Reimu1a:Sorry for the wait!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char6,char_code,==,Momiji)>
+
+</hide>
+
+Momiji2a:...!
+
+Udonge1c:But this is what'll happen if you don't surrender immediately!
+
+Momiji1a:Impossible, how could I lose to a shoddy plan like this...?!
+
+Udonge0a:We, too, are desperately fighting for our own survival.
+
+Udonge1a:I'll make no apologies. This is what you get for missing your chance to escape!
+
+Momiji2a:I'm done for... The rest is up to everyone else!
+
+Aya2a:Stay strong, Momiji!
+
+<Code=(cursor_jump_variable,ppos_xa,1,ppos_ya,1,0,0,0)>
+
+<nomove>
+
+<hide=face>
+
+Reimu1a:Sorry for the wait!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char6,char_code,==,Suika)>
+
+</hide>
+
+Suika2a:Whoa-ho?!
+
+Udonge1c:But this is what'll happen if you don't surrender immediately!
+
+Suika1c:...You know, there were better ways you could have gone about this.
+
+Udonge0a:We, too, are desperately fighting for our own survival.
+
+Udonge1a:I'll make no apologies. This is what you get for missing your chance to escape!
+
+Suika1d:Alright, now you're pissing me off!
+
+Akyu1a:Watch out, Suika!
+
+<Code=(cursor_jump_variable,ppos_xa,1,ppos_ya,1,0,0,0)>
+
+<nomove>
+
+<hide=face>
+
+Reimu0a:Sorry for the wait!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char6,char_code,==,Yuyuko)>
+
+</hide>
+
+Yuyuko2a:Oh dear.
+
+Udonge1c:But this is what'll happen if you don't surrender immediately!
+
+Yuyuko5a:Making excuses to yourself? Poor thing, you must have a lot on your plate.
+
+Udonge0a:We, too, are desperately fighting for our own survival.
+
+Udonge1a:I'll make no apologies. This is what you get for missing your chance to escape!
+
+Yuyuko5b:See, more excuses.
+
+Youmu1a:Lady Yuyuko, watch out!
+
+<Code=(cursor_jump_variable,ppos_xa,1,ppos_ya,1,0,0,0)>
+
+<nomove>
+
+<hide=face>
+
+Reimu1a:Sorry for the wait!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char6,char_code,==,Ran)>
+
+</hide>
+
+Ran1b:...!
+
+Udonge1c:But this is what'll happen if you don't surrender immediately!
+
+Ran4b:You had to resort to this kind of plan, then...
+
+Udonge0a:We, too, are desperately fighting for our own survival.
+
+Udonge1a:I'll make no apologies. This is what you get for missing your chance to escape!
+
+Ran2a:I'm can't believe I'll be letting Lady Yukari this shameful sight.
+
+Ran1b:But a Youkai as weak as you will never escape her after this!
+
+<Code=(cursor_jump_variable,ppos_xa,1,ppos_ya,1,0,0,0)>
+
+<nomove>
+
+<hide=face>
+
+Reimu1a:It's my turn, not hers!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char6,char_code,==,Chen)>
+
+</hide>
+
+Chen2a:...!
+
+Udonge1c:But this is what'll happen if you don't surrender immediately!
+
+Chen4b:H-Huh?! I'm surrounded?!
+
+Udonge0a:We, too, are desperately fighting for our own survival.
+
+Udonge1a:I'll make no apologies. This is what you get for missing your chance to escape!
+
+Chen2a:Help me! Miss Ran! Help!
+
+Ran1b:Chen, I'm coming!
+
+<Code=(cursor_jump_variable,ppos_xa,1,ppos_ya,1,0,0,0)>
+
+<nomove>
+
+<hide=face>
+
+Reimu1a:Sorry for the wait!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char6,char_code,==,Nazrin)>
+
+</hide>
+
+Nazrin2a:...!
+
+Udonge1c:But this is what'll happen if you don't surrender immediately!
+
+Nazrin6a:...Damn. Fell right for this one.
+
+Udonge0a:We, too, are desperately fighting for our own survival.
+
+Udonge1a:I'll make no apologies. This is what you get for missing your chance to escape!
+
+Nazrin4b:Look, I get it, but...
+
+Sho1b:I'll save you, Nazrin!
+
+<Code=(cursor_jump_variable,ppos_xa,1,ppos_ya,1,0,0,0)>
+
+<hide=face>
+
+<nomove>
+
+Reimu1a:Sorry for the wait!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char6,char_code,==,Sho)>
+
+</hide>
+
+Sho1b:...!
+
+Udonge1c:But this is what'll happen if you don't surrender immediately!
+
+Sho1b:Aren't you ashamed to rely on cowardly tactics like this?!
+
+Udonge0a:We, too, are desperately fighting for our own survival.
+
+Udonge1a:I'll make no apologies. This is what you get for missing your chance to escape!
+
+Sho1b:If you think like that, then you'll only―
+
+Nazrin2a:It's no use, Master! Get outta there!
+
+<Code=(cursor_jump_variable,ppos_xa,1,ppos_ya,1,0,0,0)>
+
+<hide=face>
+
+<nomove>
+
+Reimu0a:Sorry for the wait!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char6,char_code,==,Seirensen)>
+
+</hide>
+
+Akyu2b:...!
+
+Udonge1c:But this is what'll happen if you don't surrender immediately!
+
+Murasa2b:This is bad, she's got a clear line of fire on the bridge!
+
+Udonge0a:We, too, are desperately fighting for our own survival.
+
+Udonge1a:I'll make no apologies. This is what you get for missing your chance to escape!
+
+Ichirin2a:I can't believe it, we're going to sink...
+
+Murasa1b:Emergency evasion! Hard to starboard!
+
+<Code=(cursor_jump_variable,ppos_xa,1,ppos_ya,1,0,0,0)>
+
+<hide=face>
+
+<nomove>
+
+Reimu0a:Sorry for the wait!
+
+</hide>
+
+</Cond>
+
+<pause>
+
+Udonge2a:...!
+
+Reimu0b:The hero always shows up in the nick of time!
+
+Sanae0a:Reimu!
+
+Aya0a:Wait, are those the clothes and weapons Yukari was making?
+
+Reimu0g:Yeah, I yelled at her until she let me try them out. I'm not cut out for warming the bench.
+
+Udonge1c:Do you really think you can get through this on stubbornness alone, human shrine maiden?!
+
+Udonge1a:So you threw together a spare set of gear? So what?! You're just going to lose all over again!
+
+Momiji1a:She's right, those are still being adjusted! They shouldn't be ready for battle!
+
+Reimu1a:You never know until you try!
+
+<pause>
+
+Udonge2b:What? When did she―
+
+<pause>
+
+Youmu1a:Amazing...
+
+Udonge3a:Wh-What was that?! Did you just tear through spacetime...?!
+
+<pause>
+
+<Code=(icon_set_direction,Yukari,Reimu,0)>
+
+Yukari1a:I never imagined she'd demonstrate such proficiency.
+
+Yuyuko0a:You're late, Yukari.
+
+Yukari0a:And here I thought I was moving too quickly.
+
+Ran4b:Lady Yukari, why did you give her those weapons?
+
+Ran0b:They should be totally unusable without your fine tuning!
+
+Yukari0a:I'm surprised as well. I suppose I've been underestimating her.
+
+Udonge2b:What's going on here? She's nothing like she was before.
+
+Udonge1c:Wh-whatever. You still have to get through all these rabbits!
+
+<pause>
+
+Minoriko1b:There's even more of them... It's all over!
+
+Yukari1a:Surely you've already heard enough from me, Reimu. You know what to do.
+
+Reimu0a:It's obvious, anyway. I'll clean up both this incident and any youkai who gets in my way.
+
+Reimu1a:So get ready, because I'm going to show you the Hakurei Shrine Maiden's latest and greatest powers!
+
+<end>
+
+<ChatID:5>----------------------------------------
+//霊夢Rで初戦闘時
+
+Reimu0c:...So that's how that works. I think I'm getting the hang of it.
+
+Reimu0b:It's like the weapons themselves are telling me how I should attack.
+
+Udonge1c:All I have to do is shoot her down again, and the rest should DEFINITELY retreat this time...
+
+Udonge1b:Everyone, focus your attacks on her!
+
+Reimu1a:If you want a fight, then bring it on!
+
+<end>
+
+<ChatID:6>----------------------------------------
+//「博麗弾幕結界初使用時（コンプリで没）
+
+<end>
+
+<ChatID:7>----------------------------------------
+//鈴仙のHPを○％以下にする
+
+Udonge3a:How can she be this strong?!
+
+Reimu1a:Don't get cocky, you're just another youkai to me!
+
+Akyu3a:The entire course of the battle changed after Reimu showed up!
+
+Udonge1b:But―
+
+<pause>
+
+Youmu1a:Looks like she still intends on fighting!
+
+Ran0b:Impressive, in that condition. The rest of us can finish her off together.
+
+Reimu1a:No, let me handle it!
+
+<pause>
+
+Sanae0b:Reimu?
+
+Reimu0d:I've got more than a few scores to settle with her.
+
+Reimu0a:Besides, there's a spell I wanna try out.
+
+Yukari0a:And what new spell would this be?
+
+Reimu4a:I never really thought it fit you, Yukari. It's too straightforward.
+
+Reimu0b:But now that I can move like this, I figured I can use that spell from back then.
+
+Yukari1a:Ah, of course.
+
+Udonge1b:Stopping to chat will be your fatal mistake!
+
+Reimu0d:Shut up. How about I knock some sense into you with this?!
+
+Reimu1a:The Hakurei Shrine Maiden's danmaku!
+
+<pause>
+
+Sanae1d:Th-That was—!
+
+Youmu1a:Danmaku! No, a barrier?
+
+Yukari0b:...Both. That spell is both danmaku and a barrier.
+
+Yukari1a:In short...
+
+Ran1a:[Danmaku Barrier]! Yukari's arcanum?!
+
+Aya1a:Did you learn it from her when we weren't looking?!
+
+Reimu5c:Nah, it's my own spin on it. Yukari's not the only one who uses barriers.
+
+Reimu0g:So basically it's the Hakurei Shrine Maiden's danmaku barrier.
+
+Reimu0c:I guess I could call it the [Hakurei Danmaku Barrier]?
+
+Yukari5a:...
+
+Udonge2b:...Th-This is bad. She's basically cheating now.
+
+Suika1a:Do you finally get it? Now come quietly and tell us who you are.
+
+Momiji1a:If we can learn where the mastermind is hiding, the investigation will already be practically over.
+
+Hatate0a:It can't come soon enough. Not even Yukari can hold back the sunrise forever.
+
+Udonge1c:...!
+
+Udonge0a:(So that youkai is the one behind this long night...)
+
+Udonge0a:(Master should be satisfied if I can escape with this intel.)
+
+Reimu0a:Looks like you've stopped mouthing off. Ready to throw in the towel?
+
+Udonge0a:Yes, you've got me down...
+
+Udonge1a:Yes, you've got me down... to my last trick!
+
+<pause>
+
+Momiji2a:Ugh, she had another?!
+
+Udonge1a:Too bad for you! That was one of Master's flashbangs!
+
+Udonge1c:Just give up, and stay out of our way. You're in for a world of hurt if you keep pushing into our territory.
+
+Reimu1a:Big talk from somebody who just lost!
+
+<pause>
+
+Mystia4a:...She's already gone. That was a really clean getaway, huh?
+
+Ran4a:If only we'd tied her up as soon as we won.
+
+Aya0b:But still, that whole attack was meticulously planned out.
+
+Aya5a:She sounded like she was taking orders from someone too.
+
+Cirno4c:Maybe it's this time's bad guy?
+
+Akyu1a:Well, if they bothered setting up an ambush, there must be something deeper in the thicket they're protecting.
+
+Akyu0a:And if we keep following the rabbits, we'll know what it is.
+
+Murasa2b:Then everyone should come back aboard. We need to do a damage inspection on the ship.
+
+<end>
+
+<ChatID:8>----------------------------------------
+//ADVB
+
+<MAP=3,FROM=迷いの竹林R39,TO=迷いの竹林R39,name=Bamboo Thicket,icon=4>
+
+<BG=*bg_talk_Seirensen_Bridge_Night.png,fade=0,color=1,title=*bg_Seirensen_Bridge,bgm=bgm_talk_aoki>
+
+Akyu0a:I've compiled a damage report.
+
+Ichirin0a:Thanks. Hmm, looks like the ship should still be operable. 
+
+Murasa2b:We're pretty lucky that they didn't hit the reactor. Well, as lucky as you can be in the middle of an ambush...
+
+Akyu3e:I'd love to say that this shows how sturdy the ship is, but frankly this just reveals one of our weaknesses.
+
+Akyu0a:We're such a big target that there's not much we can do about surprise attacks.
+
+Ichirin0a:If only we had just a bit more power, we could create a shield of Buddhism that'd cover the whole ship.
+
+Ichirin2a:The Flying Granary is incomplete, though, so it can't reach that level of power output.
+
+Murasa5a:Man, dumb Nue... Why'd she have to take all the fragments? 
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+Youmu3b:Phew, that was quite a battle. I'm exhausted. 
+
+Reimu4a:And after all that, she STILL got away... 
+
+Akyu0a:Thank you everyone for your hard work.
+
+Ichirin0a:It was looking pretty bad for a while there. I never thought we'd get caught in an ambush like that.
+
+Aya5a:No joke, I thought we were goners when they took out Reimu so easily.
+
+Aya5b:Also, the ground still feels wobbly after that weird power she used.
+
+Hatate0a:On the other hand, we got a cool power-up reveal scene out of it. It was like something out of a story. 
+
+Kosuzu3d:It was amazing! Reimu's so strong.
+
+Sanae4a:The way Reimu was flying through space was just like Lady Kanako. 
+
+Yuyuko1a:And she was using barriers like Yukari!
+
+Reimu2b:...Okay, who else am I getting compared to next?
+
+Momiji0a:Speaking of Yukari, where'd she go?
+
+Reimu0g:Who knows? She took my new gohei and yin-yang orbs and went off somewhere.
+
+Reimu0f:I think she said something about wanting to do a bit of maintenance on them, just in case. 
+
+Yuyuko0a:Which means they're now officially yours?
+
+Reimu5c:It's too late for her to change her mind now, after I made it look so easy.
+
+Reimu0b:Actually, I was kinda hoping it'd be tougher than that. What a let-down after all that hype.
+
+Youmu0a:So if we have any questions about them, we should ask Lady Yukari then? 
+
+Yuyuko1a:That sounds like a good idea, I think I will.
+
+<single>
+
+Mystia0b:...And there she goes. Do you think she noticed something funny about them? 
+
+</single>
+
+Reimu4a:Wouldn't surprise me. I trust Yukari about as far as I can throw her. 
+
+Ran0a:...I still can't believe you managed to use those at all.
+
+Ran0b:Those tools involved very intricately layered spells. They shouldn't have been something you could adapt to "on the fly."
+
+Sanae3c:Yet Reimu picked them up and used them without so much as a warm-up. 
+
+Reimu0g:Maybe it's the results of my training or something.
+
+Reimu4a:I pretty much got the gist of it the moment I touched them.
+
+Youmu3a:I don't know if she's just glossing over it or if she's just that inhumanly talented...
+
+Suika3d:Well, both of those are Reimu's thing, to be fair.
+
+Rumia0a:However it happened, Reimu's sure stronger now!
+
+Mystia3d:So if we beat her someday, it'll make us look even better!
+
+Hatate0a:"Hakurei Shrine Maiden Gets New Gear! A Challenge For All Youkai!"
+
+Hatate1a:Hey, that sounds like it'd be a pretty good article...
+
+Akyu3c:Good for you, Reimu. Looks like more and more youkai are coming to appreciate you. 
+
+Reimu2b:When you put it that way it gives me mixed feelings about it...
+
+Reimu0g:Well, whatever. Getting a chance to set my worries aside and go wild once in a while isn't bad at all.
+
+Reimu0b:I'd like to get more familiar with this barrier stuff too. I've gotten the hang of it, but there's room for improvement. 
+
+Minoriko3a:It already feels like you're already the ultimate in youkai extermination, though.
+
+<BG=bg_talk_Seirensen_Hall_Night.png,fade=1,color=1,title=bg_Seirensen_Hall,bgm=bgm_talk_ningyo>
+
+Yukari1a:Goodness, to think the day would come when Reimu would have to tell me I'm being unreasonable. I must be losing my touch.
+
+Yukari0a:...But I never imagined she'd use them so well, so quickly.
+
+Yukari0b:I should adjust this barrier a bit more, just in case... 
+
+Yuyuko1a:Found you!
+
+Yukari0a:Oh, Yuyuko. This isn't the dining hall, you know. 
+
+Yuyuko2b:I know, I just came to see her new gear.
+
+Yuyuko0a:So this is it, huh? They're lovely.
+
+Yukari0a:Since I was making them from scratch, I wanted them to be as high quality as possible.
+
+Yukari1a:I even worked with Ran to come up with the design for the clothes.
+
+Yuyuko1b:She's really important to you, isn't she?
+
+Yuyuko1a:That must be why you're keeping her locked away in this fancy new cage of dresses and weapons. 
+
+Yukari0a:...Oh, so you noticed? 
+
+Yuyuko1b:Of course I noticed! Using it must take an absurd amount of precision and concentration.
+
+Yuyuko0a:It's hard enough that if she tried something you'd rather she not, it'd seem perfectly natural to her when she fails.
+
+Yuyuko1a:Both the training and the new gear were planned with that in mind, right? 
+
+Yukari1a:You can see through me so easily that I'm not sure why I even bothered trying to keep it a secret.
+
+Yukari0a:This new equipment has a double-edged spell applied to it. On one hand, it aids her in manifesting the fullness of her power as the Hakurei Shrine Maiden.
+
+Yukari0b:Yet at the same time, it will prevent Reimu from tapping into her original powers. 
+
+Yuyuko0a:So you don't want her to get serious? 
+
+Yukari0a:It would be a problem for me if she were TOO effective.
+
+Yukari0b:If she unleashed her real power, it would destroy the current balance of Gensokyo.
+
+Yuyuko0a:For the time being I don't think there's any worry of that...
+
+Yuyuko1a:...that said, her Danmaku Barrier did throw your calculations for a loop, didn't it?
+
+Yukari1a:...Giving shape to fantasy as fantasy, the uttermost limits of danmaku.
+
+Yukari0a:That is the barrier for Gensokyo, and for Reimu it is the barrier that shapes her.
+
+Yuyuko0a:So you lock her in the barrier known as the Hakurei Shrine Maiden.
+
+Yukari0b:A Danmaku Barrier is a barrier which must never be crossed.
+
+Yukari0b:I do it all for her benefit―and by extension, the benefit of Gensokyo as well.
+
+Yukari0a:After all, we need Reimu to continue being the Hakurei Shrine Maiden that serves as Gensokyo's barrier.
+
+<end>
+
+<ChatID:9>----------------------------------------
+//鈴仙vs.霊夢
+
+Reimu1a:It's payback time for what you did earlier!
+
+Udonge4a:Something's definitely different about this human!
+
+Reimu0a:I needed that gohei! It's one of the tools of my trade!
+
+Reimu1a:I'll sue you for damages, reparations, donations, everything you've got. I'll make you pay out the ears!
+
+Udonge1c:How can somebody who's spending time messing around with puns be so strong?!
+
+<end>
+
+<ChatID:10>----------------------------------------
+//鈴仙vs.早苗さん
+
+Sanae1a:If Reimu can do it, I can too!
+
+Udonge1c:And suddenly you're all full of yourselves just because your friend showed up...
+
+Udonge1c:You were supposed to scatter once I took her out of the fight!
+
+Sanae1a:Well too bad for you, because now we're all full of determination!
+
+Udonge1b:What, are you gonna give me some stupid speech about the power of friendship now? Don't make me sick!
+
+<end>
+
+<ChatID:11>----------------------------------------
+//鈴仙vs.大妖精
+
+Daiyosei1a:If you're going to try do awful things to my friends, then I have to stop you!
+
+Udonge4a:...I haven't seen this type of fairy in the bamboo thicket before.
+
+Udonge4a:I doubt she's a threat, but you can never be too careful, right?
+
+<end>
+
+<ChatID:12>----------------------------------------
+//鈴仙vs.ルーミア
+
+Udonge0a:No matter how deep the darkness, a bit of light always shines through.
+
+Udonge0a:By grasping those light waves, I should be able to make you see my illusions.
+
+Rumia0a:But that's not scary at all.
+
+Udonge4c:What?!
+
+Rumia3a:I mean, I can't see anything in the dark anyway.
+
+Udonge3a:I guess I didn't need to take you so seriously, then.
+
+<end>
+
+<ChatID:13>----------------------------------------
+//鈴仙vs.チルノ
+
+Cirno2b:I still need to pay you back for earlier!
+
+Cirno2b:I'll freeze you so solid they'll wonder why there's an ice statue in a bamboo thicket!
+
+Udonge4b:Huh, never thought I'd see a fairy allied with the humans.
+
+Udonge4a:She seems like a half-wit, but I shouldn't let my guard down.
+
+<end>
+
+<ChatID:14>----------------------------------------
+//鈴仙vs.ミスティア
+
+Udonge1a:If you're using soundwaves as a weapon, then I'll just shift their wavelengths to―
+
+Mystia3d:Ababababababa...
+
+Udonge5c:W-what's this dissonance?!
+
+Mystia1b:You were the one distorting the sound when I was singing earlier, weren't you?
+
+Mystia1d:I'll never forgive anyone who interrupts my song!
+
+Udonge2a:I listened to all of it on reflex... My ears hurt.
+
+<end>
+
+<ChatID:15>----------------------------------------
+//鈴仙vs.穣子
+
+Minoriko1b:You really roughed us up earlier, but now it's time for payback!
+
+Shizuha3a:Minoriko! Let's combine the power of the two Akis!
+
+Udonge4c:What's with these two? I can't stop them from being on the same wavelength...
+
+Shizuha5a:Minoriko and I share an unbreakable bond!
+
+Minoriko1a:That's right, we're united by autumn! Prepare yourself for defeat, rabbit youkai!
+
+Udonge3a:What the―? I have no idea what you two are on about...
+
+<end>
+
+<ChatID:16>----------------------------------------
+//鈴仙vs.静葉
+
+Shizuha0a:Raising a hand against the gods of autumn is going a step too far!
+
+Udonge4c:You two are gods?
+
+Shizuha0a:My sister Minoriko and I govern autumn as two of the Yaoyorozu no Kami.
+
+Shizuha0a:You're currently making an enemy out of all the gods of Gensokyo.
+
+Udonge4a:(This is all just too much for me... I bet Master would know what to do, though.)
+
+<end>
+
+<ChatID:17>----------------------------------------
+//鈴仙vs.文
+
+Aya0a:Boy, I've gotta thank you for showing me such an interesting technique.
+
+Udonge1b:You're fast! Wait, was that a camera?!
+
+Aya0a:I'm Aya Shameimaru, a newspaper reporter.
+
+Aya1a:And I'd love to have an interview with you about all your schemes.
+
+Udonge2b:What's with you? Are you just messing with me?!
+
+<end>
+
+<ChatID:18>----------------------------------------
+//鈴仙vs.椛
+
+Momiji0a:You seem like the type to keep your distance in a fight!
+
+Udonge0a:...A sword and shield. What remarkably primitive technology.
+
+Momiji5a:No matter how I look at it, your trick from before was a weak strategy.
+
+Momiji0a:The way you should checkmate the king is to advance your pieces, one move at a time.
+
+Udonge4c:Oh no, she's the boring but hard-to-defeat type...
+
+<end>
+
+<ChatID:19>----------------------------------------
+//鈴仙vs.萃香
+
+Suika1a:You must be the one who caught us in that trap earlier.
+
+Udonge1c:And I almost had you... it was real close.
+
+Suika1a:I bet your plan was to take out the head of our group to ruin our morale...
+
+Suika0a:But when I meet you head-on, I bet you're the one who's gonna give up.
+
+Udonge1b:Keep talking while you still can!
+
+<end>
+
+<ChatID:20>----------------------------------------
+//鈴仙vs.妖夢
+
+Youmu1a:I've caught you, rabbit youkai!
+
+Udonge5c:Holy crap, she's got a sword!
+
+Youmu2b:...? Did her spirit just weaken for a moment there?
+
+Youmu1a:Fine by me, I'll use this moment to get in measure!
+
+Udonge5b:(Oh no... I have so many bad memories of swords!)
+
+<end>
+
+<ChatID:21>----------------------------------------
+//鈴仙vs.幽々子
+
+Yuyuko0a:How dirty of you to attack us from the rear.
+
+Udonge1c:All's fair in love and war. Don't blame me for trying to win.
+
+Yuyuko0a:You know, you've been making these excuses this whole time.
+
+Yuyuko1a:It's not healthy to repress your guilt, you know.
+
+Udonge4a:How condescending. Are you mocking me?!
+
+<end>
+
+<ChatID:22>----------------------------------------
+//鈴仙vs.紫
+
+Yukari4c:Thank you for bullying Reimu for me.
+
+Udonge1b:You're that youkai with the weird power to tear space! Why are you deploying now?
+
+Udonge4a:Don't tell me you're here for revenge...
+
+Yukari1a:Hardly. I just stepped out to offer you my thanks.
+
+Udonge2b:Your thanks?!
+
+Yukari0a:Yes. Thanks to you, I was able to see Reimu make some huge steps forward.
+
+Yukari0a:(For better or for worse...)
+
+<end>
+
+<ChatID:23>----------------------------------------
+//鈴仙vs.藍
+
+Ran6e:You surprised me earlier, with that strange technique of yours.
+
+Ran6c:I wasn't quite able to ascertain how it's accomplished, but...
+
+Udonge0a:It's science; you'd never understand it.
+
+Udonge1a:A classical youkai like you is too primitive to even know where to begin.
+
+Ran6a:...'Science', hm? That alone should be enough of a hint for me.
+
+<end>
+
+<ChatID:24>----------------------------------------
+//鈴仙vs.橙
+
+Chen1a:You're the one who did that weird thing earlier!
+
+Udonge1a:Youjuu are among the simplest of youkai. A beast like you is no match for me.
+
+Chen5b:Says the rabbit youkai!
+
+Udonge0a:(...She's got a point. At least that's how they would classify me here.)
+
+<end>
+
+<ChatID:25>----------------------------------------
+//鈴仙vs.ナズーリン
+
+Nazrin0a:The tables have turned, but you still haven't made a run for it.
+
+Nazrin1b:Oh dear, I hope you didn't miss your chance to retreat.
+
+Udonge1c:I don't recall doing anything to warrant pity from my enemies.
+
+Udonge1a:You should be thinking about your own escape route.
+
+Nazrin4a:...You're way too calm. I take it you're not bluffing, then.
+
+<end>
+
+<ChatID:26>----------------------------------------
+//鈴仙vs.星
+
+Sho1c:Did you want to defeat us so much that you came up with this whole plan?
+
+Udonge0a:That's just what it means to be somebody's enemy.
+
+Udonge1a:And if you realize what trouble you're in, you might wanna get started on begging for your life!
+
+Sho0c:So you have no intention of hiding your hostility!
+
+<end>
+
+<ChatID:27>----------------------------------------
+//鈴仙vs.聖輦船
+
+Ichirin1a:This is the youkai who made the first attack!
+
+Murasa1b:It's payback time for blowing holes in my ship!
+
+Kosuzu1a:Yeah, let's get her!
+
+Udonge4c:It's your fault for rolling up in something so huge then leaving it defenseless.
+
+Udonge1a:How about you go brush up on your modern military tactics?
+
+Murasa1b:I never knew any in the first place! All cannons, fire!
+
+<end>
+
+<ChatID:28>----------------------------------------
+//鈴仙vs.はたて
+
+Udonge0a:You must be one of those tengu youkai, then.
+
+Udonge0a:I'm not gonna take you head on, I'd come out of it more tired than you.
+
+Hatate1a:Sorry, but you're not getting away that easily!
+
+Hatate0a:I have my pride as a crow tengu!
+
+<end>
+
+<ChatID:29>----------------------------------------
+//敗北時（霊夢R登場前）
+
+Akyu2a:How could we lose?
+
+Suika2a:Without Yukari and Reimu, we just don't have enough fighting spirit?!
+
+Sanae5b:I'm sorry, Reimu. We need to withdraw too...
+
+<end>
+
+<ChatID:30>----------------------------------------
+//敗北時（霊夢R登場後）
+
+<Cond=(CHECK_BEATEN,Reimu,==,1)>
+
+Shizuha2b:Reimu got defeated again?!
+
+Yukari4a:As I suspected, she wasn't able to handle the new equipment in real combat.
+
+</Cond>
+
+<Cond=(CHECK_BEATEN,Reimu,==,0)>
+
+Akyu2a:I can't believe we still got beaten!
+
+Yukari4a:As I suspected, it was too much to expect her to suddenly take control of the entire battlefield.
+
+</Cond>
+
+Yukari4b:Do it again, Reimu Hakurei. I'd like you not to embarrass yourself in front of me.
+
+<end>
+
+<ChatID:31>----------------------------------------
+//鈴仙vs.メーコ
+
+Meko0e:With Reimu back, I don't think we're gonna lose!
+
+Udonge1c:That's called getting careless!
+
+Udonge1b:I'm not so hopeless that I'd lose to a runt like you!
+
+Meko1d:Don't call me a runt!
+
+<end>
+
+<ChatID:32>----------------------------------------
+//鈴仙vs.まくら
+
+Makura3a:An ambush from behind―and what splendid execution.
+
+Udonge1b:Praising your enemy? Or are you just mocking me?
+
+Makura3a:I mean no mockery. You seem to have a knack for this sort of thing.
+
+Makura3c:That said, Reimu overcoming it through pure talent was a marvel of its own.
+
+Udonge1c:Pretending like you've already won will get you killed!
+
+<end>
+
+<ChatID:33>----------------------------------------
+//鈴仙vs.鈴仙
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Udonge5c:Who're you?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Udonge4a:I doubt you're really that shocked.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Udonge4d:You're right. Anyone who can mess with wavelengths could manage this...
+
+Udonge1c:But who are you, and what're you up to?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Udonge1b:Like I'd ever reveal that myself!
+
+</nomove>
+
+<end>
+
+<ChatID:34>----------------------------------------
+//鈴仙vs.依姫
+
+Udonge2b:...?!
+
+Udonge1b:No way, is that...?
+
+Yorihime0b:Let us refrain from the many, many things we have to speak about.
+
+Yorihime0d:But eventually, we will fight.
+
+Udonge2c:No, no no no...
+
+<end>
+
+<ChatID:35>----------------------------------------
+//鈴仙vs.豊姫
+
+Toyohime0b:It's been a while, Reisen.
+
+Udonge2b:...!
+
+Udonge1b:Wh-What's going on? Why are you here?
+
+Toyohime2d:You were afraid of the Lunar Emissaries coming.
+
+Toyohime1a:And here we are. Shouldn't it be obvious?
+
+Udonge2c:But... But...
+
+Toyohime5c:(Just kidding. But if you completely broke down like that, maybe that was a little too mean-spirited...)
+
+<end>
+
+<ChatID:36>----------------------------------------
+//鈴仙vs.レイセン
+
+Udonge1c:You?! What are you doing here?
+
+Udonge1b:Just what are you up to?! This was all your fault!
+
+Reisen2c:Now, now, calm down, ma'am!
+
+Udonge5c:Ma'am?! Are you just messing with me now?!
+
+Udonge1c:I'll capture you and hand you over to my master!
+
+Reisen2a:Of couse it'd turn out like this...
+
+<end>
+
+<ChatID:37>----------------------------------------
+//鈴仙vs.永琳
+
+Eirin1a:It seems you're doing well, Udonge.
+
+Udonge2b:Master! What are you doing here?!
+
+Udonge3b:I'm sorry, it was all going to plan until... I'm sorry.
+
+Eirin0d:Just calm down. This much resistance is within expectations.
+
+Eirin3c:Hide inside my danmaku and find your chance to escape.
+
+Udonge2b:Y-Yes, ma'am! Understood!
+
+<end>
+
+<ChatID:38>----------------------------------------
+//鈴仙vs.輝夜
+
+Kaguya3c:Good work, Inaba.
+
+Udonge2b:Princess?! You know you can't just hop onto the front lines, right?!
+
+Kaguya1b:No need to worry. The Earthlings wouldn't recognize me anyway.
+
+Udonge3a:That's not what I meant... Consider our situation, please.
+
+Kaguya2c:Not a bad idea. That's what I was doing at this time.
+
+Udonge2b:Huh...?
+
+<end>

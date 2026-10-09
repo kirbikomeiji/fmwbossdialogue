@@ -1,0 +1,1949 @@
+﻿○共通第三十五話「浮上
+
+========================================
+ChatID: Contents
+========================================
+0: OP
+1: ADVA
+2: 1PP
+3: 1EP
+4: 2PP
+5: clear
+6: ADVB
+7-19: battle after paring
+20-32: omake talk
+33: lose
+34: first hyper mega
+35: first hyper mega (friendly fire)
+
+<ChatID:0>---------------------------------------
+//オープニング
+
+Yukari0a:You've improved a bit, but I do wish you'd try a little harder.
+
+Suika1a:If you get tired of fighting Yukari, I'm always game.
+
+Reimu2b:I don't appreciate you all barging in and mouthing off.
+
+Marisa0a:Reimu, you're like, ten thousand years behind on your training. You should thank her.
+
+Alice0b:And it can't hurt to perform for a crowd, just to add some pressure.
+
+Reimu2b:Whatever. I bet you're both just here because you're bored.
+
+Reimu5c:Besides, I'm strong enough that I don't even need more training.
+
+Yukari0a:Is that right? There's no telling what future incidents lie in store.
+
+Yukari1a:If you can't rise to the occasion, you'll set a bad example for all your lovely followers.
+
+Reimu2b:Who asked for YOUR opinion?
+
+<pause>
+
+Sanae0a:Hello, Reimu, are you here?
+
+Marisa6b:Oh, hey. Speak of the somebody or other!
+
+Sanae4a:Ah, hello to you too. What are you all up to?
+
+Yukari0a:Reimu is hard at work training with me and Suika.
+
+Sanae0a:Reimu is...?
+
+Marisa0a:Not something you'd see every day, right? Wanna join the audience?
+
+Sanae5c:Um, actually, I came here with something in mind...
+
+Sanae4a:And actually, having you and Alice here works out perfectly!
+
+Alice0a:What do you need us for?
+
+Sanae3c:The repairs on Murasa's ship are finally finished!
+
+<end>
+
+<ChatID:1>---------------------------------------
+//ADVA
+
+<MAP=0,FROM=守矢神社,TO=守矢神社,name=Palanquin Ship Hangar,icon=5>
+
+<BG=*bg_talk_Road.png,fade=0,color=1,title=*bg_Kakunoko,bgm=bgm_talk_aoki>
+
+Kappa1a:Final checks, all green! 
+
+KappaC0a:Miss Kawashiro, all preparations are complete.
+
+Nitori1a:Great. All that's left is to wait for the flight test.
+
+Nitori0a:How's the Buddhist reactor holding up, Patchouli?
+
+Patchouli3b:It's running stably. We should be able to activate it any time. 
+
+Koakuma0a:It should have enough output to maintain floating indefinitely. 
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+Sho0a:Nice work, everyone. 
+
+Nazrin0a:Guess we're all set then.
+
+Koakuma0a:Oh, Shou and Nazrin. I was just about to go find you. 
+
+Nitori1a:Check it out! She makes such an awesome sight, doesn't she?
+
+Sho1b:Wow... 
+
+Nazrin2a:Nicely done. You really fixed it up. I'd take my hat off to you if I had one.
+
+Sho0a:The impact when we ascended to the surface was pretty bad. The ship was roughed up inside and out.
+
+Sho4a:When it made that emergency landing on Youkai Mountain, I was afraid it might never fly again.
+
+Nitori1a:We didn't throw every kappa we had at this ship for months on end for nothing, you know.
+
+Nitori0a:The drive was an especially nasty challenge, but luckily Patchouli chipped in with that!
+
+Patchouli0a:It was worth it, just for the opportunity to see a ship that runs on Buddhism.
+
+Sho3b:I don't know how I could even begin to repay you all... 
+
+Koakuma0a:Don't worry about us. Anything that gets Lady Patchouli out of the house for an extended period of time is its own reward. 
+
+Nitori0a:Yeah, I should be thanking you. I got to tinker with a flying ship! 
+
+KappaC0a:Yeah, we got to go nuts with―
+
+KappaC2a:Yeah, we got to go nuts with― Oopsie, don't mind me.
+
+Nazrin4a:Wait a minute, what did you do? 
+
+KappaC1a:Sorry, mousie. Can't tell outsiders that, NDA. 
+
+Nazrin6a:I'm pretty sure I'm the literal opposite of an outside―
+
+Nitori0a:Easy, there. You'll get to see it for yourself at the ceremony, when the Palanquin Ship flies.
+
+Nitori1a:All the people and gods of the mountain are going to gather together for the big takeoff ceremony!
+
+Koakuma0a:Sanae should be bringing Reimu's group any time now. 
+
+Nazrin3a:It's been a while since we've celebrated anything. You must be looking forward to this one, Master.
+
+Nazrin3b:I'm betting nobody's gonna wanna miss this.
+
+<SE=se_talk_kasakasa03.ogg,wait=1>
+
+<hide=all>
+
+Hatate0a:...
+
+</hide>
+
+Nazrin0b:Huh, was that...
+
+Sho0b:Something wrong, Nazrin? 
+
+Nazrin0a:Nah, nothing. Shouldn't you be off talking with the visitors? 
+
+Sho0a:That's a good idea, but I think I'll stay here a little longer to take it all in.
+
+Sho3b:After all, today's a major step forward for us.
+
+<MAP=0,FROM=守矢神社,TO=守矢神社,name=Moriya Shrine,icon=0>
+
+<BG=*bg_talk_Moriya.png,fade=1,color=1,title=*bg_Moriya,bgm=bgm_talk_gag>
+
+Kanako0a:...And the youkai of the mountains, whose efforts allowed this ship to once more wind its way through the air.
+
+Kanako1a:And in turn, I too bestowed divine virtue upon it. Know that it was Kanako Yasaka who made this possible.
+
+<SE=se_talk_cheer01.ogg,wait=0>
+
+<Code=(demo_wait,60)>
+
+<single>
+
+Suwako5b:There she goes taking credit for everything again.
+
+</single>
+
+Aya0a:I wouldn't worry too much about fact-checking. And at least she's making the ceremony feel more ceremonious.
+
+Aya3a:I never would've imagined a year ago that you'd be hosting visitors on these grounds.
+
+Momiji4a:No kidding. It means I have to do more work guiding people here now... 
+
+Suwako0a:Watch it, or Kanako will yell at you.
+
+Suwako5a:"How dare you speak ill of a divine decree!"
+
+Momiji6a:I could see it. 
+
+Aya5a:Tengu will always be low on the totem pole.
+
+<single>
+
+KTengu0a:Thank you for your wonderful speech, Lady Yasaka.
+
+KTengu0a:And now, let's hear a word from the captain of the ship.
+
+</single>
+
+Murasa0a:Hello. I've worked with many of you, but I'll introduce myself again here.
+
+Murasa0a:I'm Minamitsu Murasa, captain of the Palanquin Ship.
+
+KTengu0a:So, as a ship captain yourself, how do you explain that time you sank a kappa ship?
+
+Murasa1a:Well, as a ship PHANTOM, how about we just call it my way of saying hello?
+
+<single>
+
+Ichirin0a:Hmph. Even up on stage, she's acting like this.
+
+</single>
+
+Keine0a:I think it's fine for the situation. She's very lively and cheerful―It's perking me up just listening to her.
+
+Akyu0a:I was expecting something much more gloomy from a ship phantom.
+
+Akyu0a:Now that I've seen her up close, she seems like she'd be easy to get along with. 
+
+Unzan0a:...
+
+Akyu4a:Eeek!
+
+Ichirin0a:"That's also thanks to Hijiri's teachings." ...He says.
+
+Ichirin0a:Sorry, Unzan's size must have startled you there.
+
+Unzan0a:...
+
+Akyu3c:Er, it's alright. He's just showed up so silently that it was kind of startling...
+
+Keine0a:Aren't you going to go up on stage and introduce yourself too, Ichirin?
+
+Ichirin0a:Not my style, really. I leave that to the chief. 
+
+Keine0a:The chief? Are you referring to Byakuren Hijiri, the sealed monk? 
+
+Ichirin0a:Yes, that's what I call her.
+
+Akyu0a:I understand that the Palanquin Ship's crew all originally gathered together to follow her?
+
+Ichirin0a:Yes, a very long time ago Shou and the Chief led an effort to build a temple.
+
+Ichirin0a:But after we got sealed away, it fell into an awful state of disrepair...
+
+Keine0a:And that's all the more reason you're banding together to save her, right?
+
+Murasa0a:What's this, Ichirin? Are we talking Hijiri with them?
+
+Ichirin0a:I am. Now please don't talk to us from up on stage. 
+
+Murasa0a:No, I will! This is a good opportunity to bring it up.
+
+Murasa0a:So Hijiri and I go back, gosh, over a thousand years now...
+
+KTengu0a:I see...
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+<single>
+
+Reimu4a:I think I've heard this story before.
+
+</single>
+
+Akyu0a:Oh, Reimu and Marisa. My apologies for not staying in touch.
+
+Marisa0a:If it isn't Akyu! Must have been quite the challenge getting all the way up the mountain.
+
+Akyu0a:Actually, I asked Keine to bring me.
+
+Akyu3a:Somehow we ended up getting here before everyone else.
+
+Marisa0a:So Kosuzu isn't with you today, huh?
+
+Akyu0a:Yes, she couldn't leave the shop unattended.
+
+Reimu5c:That's fine by me. Kosuzu's been getting a little too buddy-buddy with youkai lately for my tastes.
+
+Sanae0a:Aw, you're worrying about her.
+
+Reimu4a:Look, you and Marisa aside, humans shouldn't be getting mixed up with youkai.
+
+Keine0a:Speaking of people showing up, I never would have expected Suika to pay a visit.
+
+Suika0a:I was at the shrine anyway, so I got an invite.
+
+Suika0a:A ship flyin' through the air? I wouldn't wanna miss the party for THAT.
+
+Sanae0a:Yes, of course. Still, I wish Yukari could have joined us... 
+
+Ichirin0a:Yukari? Was the Youkai Sage with you too?
+
+Suika0a:Yeah. She skipped out, though. Something about mountain climbing being too tiring.
+
+Reimu4a:I'm sure she's around here somewhere, eavesdropping. 
+
+Alice0a:So, when do we get to see the maiden flight?
+
+Ichirin0a:Now that I look we're running late for that already...
+
+Ichirin0a:Emcee, could you wrap things up soon?
+
+KTengu0a:Sure thing!
+
+KTengu0a:Okay, let's all give Murasa a big round of applause for that great story!
+
+Murasa0a:Wait a minute, I'm not done yet!
+
+Reimu4a:The ship's ready to go. Should the captain really be dragging her feet?
+
+Murasa0a:Mm... Good point. The Palanquin Ship is the real star of the show today.
+
+Sanae0a:Let's get going right away!
+
+Sanae0a:The best seats will be right in the front of hall. 
+
+Akyu0a:I'm starting to get excited about this.
+
+Marisa0a:Step it up, everyone! Dibs on a front row seat! 
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP
+
+<nomove>
+
+<Code=(cursor_jump,384,336,1)>
+
+Lunasa0a:Merlin, Lyrica. 
+
+<SE=se_talk_fanfale01.ogg,wait=0>
+
+<Code=(demo_wait,210)>
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,304,320,1)>
+
+Kanako3a:Humans and youkai gathered here at the shrine, the time is nigh...
+
+Kanako1a:The time for a ship which was sealed away within the depths of the earth to once again rise into the skies!
+
+<SE=se_talk_cheer01.ogg,wait=0>
+
+<Code=(cursor_jump,192,352,1)>
+
+Minoriko0a:Ooh, they're making a real big production out of this.
+
+<Code=(cursor_jump,208,336,0)>
+
+Shizuha1c:Yes, they brought in the Phantom Ensemble and everything. They're pulling out all the stops!
+
+Hina3a:I guess Miss Yasaka believes in going big or going home.
+
+<Code=(cursor_jump,368,368,1)>
+
+Patchouli0a:Koakuma, how's the Buddhist reactor's output?
+
+Koakuma0a:Steadily increasing. It just passed 50%... 60%...
+
+Koakuma1a:Output is 80% and climbing. Releasing the safeties!
+
+<Code=(cursor_jump,304,400,1)>
+
+Murasa0a:Ahh, nothing's more relaxing for me than being aboard a ship.
+
+Ichirin0a:From under the earth to above it, and soon, into the sky. We've come far.
+
+Nazrin0a:Six months ago I never would have dreamed I'd get to see this.
+
+Sho0a:Let us be grateful for the twists of fate that brought us here. 
+
+Sho1a:Today, we set out upon the next step of our journey, aboard the Palanquin Ship!
+
+<Code=(cursor_jump,368,368,0)>
+
+Koakuma1a:Buddhist reactor output at holding at maximum. We're ready!
+
+<Code=(cursor_jump,304,400,0)>
+
+Ichirin1a:Alright, Murasa, you do the honors!
+
+Murasa2a:Time to fly!
+
+Murasa1b:Rise, Palanquin Ship!
+
+<pause>
+
+<SE=se_talk_cheer01.ogg,wait=0>
+
+<nomove>
+
+<Code=(cursor_jump,288,320,1)>
+
+Sanae3c:It's flying! It's really flying!
+
+<Code=(cursor_jump,256,320,0)>
+
+KappaC1a:Bravo! Our experiment was a great success!
+
+<Code=(cursor_jump,368,368,1)>
+
+Nitori1a:We did it, Patchouli! Our research won the day!
+
+Patchouli4c:...If it was just going to fly without a hitch, we should have gotten to be on board.
+
+Koakuma0a:Oh, Lady Patchouli. You don't need to pretend you aren't happy it worked.
+
+<Code=(cursor_jump,320,320,0)>
+
+Aya1a:So, Murasa, how's it feel to fly?
+
+<Code=(cursor_jump,304,400,1)>
+
+Murasa0a:The control authority is... passable. She's flying pretty well.
+
+Murasa1b:This is but the first step on our quest to save Hijiri. Our battle has now officially begun!
+
+Sho1b:Let's go!
+
+<Code=(cursor_jump,288,320,0)>
+
+Reimu4a:Go where, exactly?
+
+<Code=(cursor_jump,304,400,0)>
+
+Sho4a:Um... hmm. Well...
+
+<Code=(cursor_jump,320,320,0)>
+
+Keine3a:I take it that was a spur of the moment shout.
+
+<Code=(cursor_jump,304,400,0)>
+
+Sho4a:Well, um, we should... let's start with a test run. Perhaps a lap around the area...
+
+Murasa0a:Good call. It sure beats sitting around.
+
+<Code=(cursor_jump,304,320,1)>
+
+Suika0a:If you're gonna throw a ceremony this big, you need some excitement along the way!
+
+Suika1a:Say no more, I've got you covered!
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,288,320,1)>
+
+Reimu0f:...
+
+</nomove>
+
+Suika1a:You need somebody to help test your ship against, right? I'm your girl.
+
+<nomove>
+
+<Code=(cursor_jump,304,400,1)>
+
+Nazrin2a:Uh, that's not what we meant by a trial run.
+
+<Code=(cursor_jump,320,320,0)>
+
+Aya5a:Please don't go wrecking Youkai Mountain.
+
+</nomove>
+
+Suika2a:There's no way I'm gonna turn down the chance to liven up a party!
+
+<nomove>
+
+<Code=(cursor_jump,304,320,1)>
+
+Suwako3b:Suika knows the score. This'll be a great side event to add to the day.
+
+Suwako0a:Hey, all of you watching on the sidelines! Join in!
+
+<Code=(cursor_jump,320,320,0)>
+
+Marisa6b:Wait, you mean US?!
+
+<Code=(cursor_jump,304,320,0)>
+
+Kanako1a:You're already this close. Fly alongside the ship, and you can see it even closer.
+
+<Code=(cursor_jump,288,320,0)>
+
+Reimu3a:Fine, fine, we'll play along.
+
+</nomove>
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,368,368,1)>
+
+Nitori0a:Huh, Marisa, you haven't got your hakkero for once?
+
+</nomove>
+
+Marisa0b:Yeah, I left it with Kourin for some maintenance.
+
+Marisa0a:He said he'd be done with it by tomorrow night, so I might stop by later today to pick it up.
+
+Sanae0a:Make sure to back off if it gets too hard for you without it.
+
+Sanae0a:I see you'll be sitting this one out, Keine?
+
+<nomove>
+
+<Code=(cursor_jump,320,320,0)>
+
+Keine0a:Yes, I'd rather be here in case I need to protect Akyu from stray bullets.
+
+<Code=(cursor_jump,384,336,1)>
+
+Lyrica1b:Do we have rivals?! They're raising their own racket up there!
+
+Merlin1a:In that case, we just have to make sure our music keeps the hype train going!
+
+<Code=(cursor_jump,304,400,1)>
+
+Ichirin2a:Oh, dear. This is going to turn into a brawl, isn't it?
+
+Murasa2b:This ship isn't exactly meant for combat...
+
+<Code=(cursor_jump,256,320,1)>
+
+KappaC0a:Heh, heh, heh. Or is it?
+
+<Code=(cursor_jump,304,400,1)>
+
+Nazrin6a:...?
+
+</nomove>
+
+Suika0a:Okay, let's do this! Here's our kind of welcoming bash...
+
+Suika1a:A danmaku battle!
+
+<Cond=(GLOBAL_VAR,is_NG0,==,0)>
+
+<TIPS=SHIP>
+
+</Cond>
+
+<end>
+
+<ChatID:3>---------------------------------------
+//1EP：妖精が弾幕を出す（没）
+
+Marisa0a:There they go, danmaku-ing away...
+
+Alice0d:Palanquin Ship crew, do you know what to do at times like this?
+
+Murasa0a:When you go into a danmaku field, your evasiveness and defensive capabilities drop, right?
+
+Murasa2b:And so you should.... uh, what were we supposed to do about that, again?
+
+Ichirin0a:Just switch to Focused mode and proceed with caution.
+
+Ichirin0a:It'll slow us down, but it'll also cancel out the negative effects of the danmaku field.
+
+Sho0a:And if you defeat the enemy unit in the center, you can get rid of the field entirely.
+
+Nazrin3b:You can always get rid of the field with a bomb or something in a pinch. Just use them wisely.
+
+Murasa0a:Ah, okay. You girls are pretty well versed in this...
+
+Ichirin2a:Stop acting impressed and start getting versed yourself.
+
+Ichirin0a:I'll write all of the details down in the manual. Try to find some time to read up on it.
+
+Murasa5a:Ugh, homework...
+
+<end>
+
+<ChatID:4>---------------------------------------
+//2PP
+
+Meiling0a:Aiyaa... The ship's already airborne!
+
+Sakuya5b:I blame Komachi for dragging her feet.
+
+Komachi0a:Normally these things have speeches that take all day. I figured we could afford to be late.
+
+<nomove>
+
+<Code=(check_special,35Common,=,1)>
+
+<Code=(cursor_jump,368,368,0)>
+
+Koakuma0a:Lady Patchouli, others from the mansion have come.
+
+Koakuma0a:Though, you're a little late. Oh, I see you brought Cirno and Daiyousei with you?
+
+</nomove>
+
+Sakuya0a:Yes, we ran into them en route, and they asked to join us.
+
+Daiyosei0b:Isn't this neat, Cirno? The ship is really flying!
+
+Cirno5b:Yeah, it's kinda cool.
+
+Alice0d:You came at the perfect time. Would you mind joining us?
+
+Meiling0a:Let me guess...
+
+Sakuya5b:It's not very hard to. A danmaku battle, right?
+
+<nomove>
+
+<Code=(check_special,35Common,=,1)>
+
+<Code=(cursor_jump,192,352,1)>
+
+Minoriko0a:Shizuha, there are more people joining in.
+
+<Code=(cursor_jump,208,336,0)>
+
+Shizuha1d:Then we should get in on this, too.
+
+</nomove>
+
+<pause>
+
+Hina2a:Wait, why am I being―
+
+Minoriko3a:Try to live a little, Hina! It's more fun to join in than watch from the sidelines!
+
+Hina4a:I'm not so sure about us doing this on the spur of the moment...
+
+Suika0a:Hey, the party's getting bigger. How about we try out something neat?
+
+Suika1a:Reimu and Marisa, why don't you try pairing up?
+
+Reimu3c:Uh, what?
+
+Marisa0a:What, you want to take some couples' shots with the ship in the background or something?
+
+Suika0a:Nah. I meant you should put your danmaku together and take a couple of shots at people!
+
+Reimu2b:I'm more of a lone wolf type, though.
+
+Suika0a:Come on, stop whining and try it!
+
+Marisa0b:Okay, then...
+
+<pause>
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Marisa6b:Hey! Why're YOU out front, Reimu?
+
+Reimu5c:Because it'd be harder for me to do anything if I was flying behind someone.
+
+Reimu4a:Just try not to crash into me, okay?
+
+Marisa4a:*sigh* Guess this is just how it is now...
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Marisa0a:Dibs on the front!
+
+Reimu0d:Hey! Why're YOU out front, Marisa?
+
+Marisa0a:You know what they say, first come, first served.
+
+Marisa0c:It feels pretty good to be ahead of you.
+
+Reimu5c:Yeah, whatever...
+
+</Cond>
+
+Suika0a:There, now you're divided into a front unit and a back unit.
+
+Suika0a:Could we get more teams in here, while we're at it?
+
+Meiling0b:What do you say, Sakuya?
+
+Sakuya0a:I suppose we must. Just take care not to slow me down.
+
+<pause>
+
+Cirno0a:Wanna go for it, Dai?
+
+Cirno5a:We could try out that trick we practiced together!
+
+Daiyosei0b:Sure, I'd love to join you!
+
+<pause>
+
+Reimu0f:Okay, we're teamed up. What now?
+
+Suika2a:Oops, didn't think that far ahead.
+
+Reimu2b:Seriously?
+
+Suika1a:Won't two person teams just be, y'know, funner?
+
+Suika0a:Your girls can figure out how to use it in battle on your own.
+
+Marisa0a:In that case, we just decide who's in front and do the rest the same as always.
+
+Meiling0a:Whether I'm vanguard or rear guard, I want to support you however I can!
+
+Sakuya0a:A trial run, is it? Then there's nothing for it but to give it a try.
+
+<Cond=(GLOBAL_VAR,is_NG0,==,0)>
+
+<TIPS=PAIR>
+
+</Cond>
+
+<end>
+
+<ChatID:5>---------------------------------------
+//萃香のHPを40％以下にする
+
+Suika0a:Eh, not too shabby.
+
+Ichirin0a:We've gotten the hang of flying this. I'd say that's a good stopping point.
+
+Murasa0a:We got to use some great weapons there. That was a good shakedown cruise!
+
+<nomove>
+
+<Code=(cursor_jump,320,320,1)>
+
+Keine6a:How was it, girls? That was your first battle in pairs, right?
+
+</nomove>
+
+Reimu2b:It feels a little crowded, but I guess that's something you get used to.
+
+Alice0d:We can think of some other possible teams when we have a break later.
+
+<nomove>
+
+<Code=(cursor_jump,304,320,1)>
+
+Suwako3b:The sun's starting to set, so how about we move on to the next event?
+
+<Code=(cursor_jump,384,336,1)>
+
+Merlin0a:The next event? Let me guess...
+
+<Code=(cursor_jump,304,320,1)>
+
+Kanako0a:We'll be opening some bottles, of course. It's in celebration of the Palanquin Ship's flight.
+
+</nomove>
+
+Murasa1a:Sweet! Let's hold it in the ship's banquet hall!
+
+<nomove>
+
+<Code=(cursor_jump,368,368,1)>
+
+Patchouli0c:No, I'd rather the ship return to where it took off from.
+
+Nitori0a:Yeah, we'll need to inspect its parts after that big battle it just had.
+
+</nomove>
+
+Nazrin3a:Sorry, Skipper. Maybe next time.
+
+Ichirin0a:It's not over until we're moored. Let's make sure we land this safely.
+
+Marisa0a:Okay, well, how about we head back and drain a few glasses together?
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,448,512,1)>
+
+<hide=all>
+
+Hatate0a:...
+
+Hatate0a:So that's the flying ship everyone's been talking about.
+
+Hatate0a:It feels 100% different seeing it in person versus through a picture.
+
+Hatate0a:They were talking about a party. I wonder if Aya and Momiji are on board...
+
+Hatate0a:I wish I could join them, but I barely know any of those youkai...
+
+Hatate2a:No, I can't lose my nerve! If I pass this up, I'll never get another shot!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//ADVB
+
+<MAP=0,FROM=守矢神社,TO=守矢神社,name=Moriya Shrine,icon=0>
+
+<BG=*bg_talk_Moriya.png,fade=0,color=1,title=*bg_Moriya,bgm=bgm_talk_aoki>
+
+Komachi1c:Whew, nothing beats having your sake on a mountaintop! 
+
+Meiling4a:The party had such a good mood that I ended up stuffing myself...
+
+Shizuha5a:If you're all just lying around, would you mind gathering some of the dishes? 
+
+Minoriko3b:Everyone here eats and drinks so much, and yet...
+
+Momiji4a:The autumn gods are such hard workers. 
+
+Lyrica0a:Unlike the Moriya gods, who're just hard drinkers.
+
+Lunasa0b:Keep it down. They hired us for this gig. 
+
+Merlin1a:I notice you didn't drink a drop of sake, sis. 
+
+Lunasa0b:I'm a bit of a lightweight.
+
+<SE=se_talk_walk_outdoor01.ogg,wait=1>
+
+<single>
+
+Akyu3a:Hello, Reimu. I brought you some tea. 
+
+</single>
+
+Reimu0b:Thanks, Akyu. You can leave it there.
+
+Reimu2b:Mmm...
+
+Keine4a:Something wrong? You look down. 
+
+Reimu2b:Nah, not really. I'm just feeling a bit worn out.
+
+Sanae5c:Well, I feel like you did just as good as you always do, Reimu...
+
+Reimu2b:Really? Because I felt like I just didn't have it at all.
+
+<SE=se_sys_sukima01.ogg,wait=1>
+
+Yukari5a:It's because your power is rising faster than your equipment can keep up with, Reimu. 
+
+Suika1a:Heya, Yukari! Glad you could make it all the way up the mountain!
+
+Keine1a:Yukari Yakumo! You were watching the danmaku battle, weren't you?
+
+Yukari0a:Of course. I was rather curious to see how that ship would move.
+
+Yukari0b:They did quite a bit of repair work on that buried antique. 
+
+Akyu4a:Do you disapprove of Murasa and her crew coming to the surface?
+
+Yukari0a:Hardly. I have nothing against the girls themselves, and I see no reason to raise objections to a fait accompli.
+
+Yukari0b:But as far as people who crossed the Underworld's border without permission go―
+
+Reimu5c:Skip the lectures. You've already talked the ears off the group that went there that time.
+
+Reimu4a:Now what was that you were saying about my equipment? 
+
+Yukari0a:Oh, yes. They look... "heavily used" indeed.
+
+Yukari1a:You'll never demonstrate your full power using those things.
+
+Aya0a:Now that you mention it, your gohei does give off kind of a weak vibe.
+
+Suika0a:Just like the Hakurei Shrine's tea. 
+
+Reimu3a:Don't complain when you're mooching off of me. 
+
+Yukari0a:At any rate, I'm just glad we caught this now, instead of in the middle of an incident.
+
+Yukari1a:I could pick out some better things for you, if you ask me extra nicely.
+
+Reimu0b:...Sure, but there better not be any strings attached. 
+
+<single>
+
+Marisa6b:Reimu's gotten herself cornered by Yukari again...
+
+</single>
+
+Sakuya0a:It's an interesting scene, seeing such a great youkai and a shrine maiden sitting together. 
+
+Alice0d:Weren't you helping to serve the banquet, Sakuya? 
+
+Sakuya5b:It's calmed down enough that I left the matter to the others.
+
+Sakuya0a:Are you jealous that Reimu's the only one getting new equipment, Marisa? 
+
+Marisa0c:...Hehe, well, I was gonna save the bragging for later, but what the hey.
+
+Marisa0a:Truth is, I'm actually getting Kourin to power up my hakkero. 
+
+Alice2b:You are? 
+
+Marisa0a:I've been using it a bunch, and my power's been on the rise, too.
+
+Marisa0c:So I'm putting it in for some maintenance so I can be ready for the battles to come.
+
+Sakuya0a:I see. I HAVE been noticing some rust on it, lately.
+
+Sakuya6a:Perhaps this will help you show off for that teacher you keep mentioning.
+
+Alice0a:Speaking of Mima, we saw her during the winter incident, but... 
+
+Marisa4a:Yeah, she's been missing ever since. But there's no way she'd let some Underworlders beat her.
+
+Marisa0a:I'm sure she's still watching me from somewhere, even now.
+
+<single>
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+Murasa0b:Phew, we're finally done with all the checks! 
+
+</single>
+
+Ichirin0a:Now we can join the festivities...
+
+Ichirin2a:Or... not? It seems like everything's died down...
+
+Patchouli0c:Did no one here have enough manners to wait for the guests of honor? 
+
+Marisa0c:Oops, sorry. We only meant to have one little drink, but... you know how it goes.
+
+Akyu3a:So, how was your first voyage in a millennium? 
+
+Nazrin3b:In a word? Incredible. I can't believe I got to see the Palanquin Ship soar again. 
+
+Nitori1a:If it makes you that happy, then all our hard work was worth it. 
+
+Ichirin0a:It would have been nice if you'd asked our permission before installing dangerous weaponry, though. 
+
+Nitori2a:Oh, uh, that wasn't me. That was the other kappa. 
+
+Murasa0a:It's okay. If we get in anymore danmaku battles, it'll be handy to have around.
+
+Murasa1a:We'll be able to blow any pests bothering Hijiri out of the water.
+
+Ichirin0a:But unfortunately, the ship still isn't what she used to be.
+
+Ichirin0a:We're not getting the reactor outputs I'd prefer, and there's no autopilot system.
+
+Akyu4a:Autopilot?
+
+Ichirin0a:It's something that lets a ship move without anyone at the helm.
+
+Ichirin0a:If we had that, Murasa and I would be able to act independently of the ship.
+
+Murasa0a:It's probably because the ol' Flying Granary isn't complete.
+
+Murasa2b:We lost some chunks here and there when we were fleeing the Underworld.
+
+Marisa0b:Oh yeah, I remember bits flying off everywhere when you hit the rock walls. 
+
+Sakuya5b:Couldn't you track those pieces down with your specialty in dowsing, Nazrin? 
+
+Nazrin6a:If only. I've tried, but so far, no dice.
+
+Nazrin6b:The Flying Granary moved around a lot. Who knows where the pieces might have flown off to?
+
+Sho0b:But Hijiri deserves better from us. We must do something to find them. 
+
+Alice0a:Oh, yes. I remember you mentioning that the "Flying Granary" was a key to bringing her back. 
+
+Sho4a:Yes. Now all we need is to track down the Jeweled Pagoda, the other Buddhist implement.
+
+Sho0b:We must find it, even if it means travelling across all of Gensokyo.
+
+Marisa0b:Relax, don't be in such a hurry.
+
+Marisa0a:It's a small world here in Gensokyo. It'll turn up eventually.
+
+Ichirin0a:Then why don't we take a flight around Gensokyo for a change of pace?
+
+Ichirin0a:I haven't flown enough yet, and I'm sure the kappa would love more data.
+
+Murasa1a:I second that motion! Since we're out of food anyway, let's hop to it! 
+
+Nitori1a:Might as well give a ride to anyone who wants one, too!
+
+Patchouli3a:Not a bad idea. I do want to see it flying up close.
+
+Koakuma0a:Are you sure, Lady Patchouli? You haven't eaten yet. 
+
+Patchouli0d:Sakuya can pack a lunchbox for me out of the leftovers. I prefer to take my time with meals anyway.
+
+Sakuya0a:Always so demanding of the staff...
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+Komachi1c:Ooh, taking a stroll around the sky. How can I say no to that?
+
+Akyu3a:I would like to join you, if it's not a problem.
+
+Aya0a:I'm in, of course. I want to write some about the interior. 
+
+Minoriko0a:Aww, is everyone getting ready to leave so soon? 
+
+Shizuha1c:Or are you having an after-party behind our backs? We won't let you have one without us! 
+
+Daiyosei0a:If I'd known this would happen, I would've invited Rumia and the others. 
+
+Cirno0a:Yeah, we didn't get to play together today. 
+
+<single>
+
+Sanae0a:Umm... well...
+
+</single>
+
+Kanako0a:Don't mind us, Sanae. Go on now. 
+
+Sanae0a:Lady Kanako? You two won't be coming? 
+
+Suwako3a:We DO kinda have to mind the house. You go have some fun with Reimu and the girls. 
+
+Reimu0f:I figured you'd be out on the prow posing dramatically. 
+
+Kanako0a:Even gods must know some discretion. I trust you'll be joining her as usual, Aya, Momiji? 
+
+Momiji0a:That was the plan. It wouldn't be safe to leave her to travel alone at night. 
+
+Aya0a:And I don't wanna miss my chance to write about the interior. 
+
+Reimu0b:Okay, then. Everybody get ready to―
+
+<hide=all>
+
+Hatate2a:Wait a minute!
+
+</hide>
+
+Suika0a:...!
+
+<hide=name>
+
+Hatate0a:Um, uh... May I join you? 
+
+</hide>
+
+Reimu0f:Who're you? You're some crow tengu, of course, but I've never met you. 
+
+Aya0a:Oh, it's Hatate! Fancy meeting you here. 
+
+Reimu0f:Hatate?
+
+Sanae0a:This is Hatate Himekaido, a crow tengu and a friend of Aya's.
+
+Sanae4b:We met after the spring incident.
+
+Hatate0a:Nice to see you, Sanae. You too, Aya, Momiji. 
+
+Momiji0a:Did you come to the takeoff ceremony?
+
+Momiji4a:I didn't see you there. Were you hiding or something?
+
+Hatate0a:Uh, sort of? It's not exactly easy to just dive in to these kind of things head first... 
+
+Reimu0f:You're free to tag along if you want. Are you a reporter like Aya? 
+
+Aya1a:We don't work the same beats, but we're both reporters, sure.
+
+Aya0a:It's not every day I see you outside getting a story, Hatate. 
+
+Hatate0a:You did chide me about that before. I figured I'd try to make an effort... 
+
+Kanako0c:Perhaps you could continue this conversation below deck.
+
+Kanako0d:The others are already preparing to depart.
+
+Marisa0b:Hey, get a move on before you get left behind!
+
+Alice0a:It looks like the captain's eager to set out. 
+
+Reimu3a:No kidding. Everyone's so impatient. 
+
+Suwako0a:Well, come home before it gets too late. You know how Kanako worries. 
+
+Sanae4a:Don't worry, I will!
+
+Kanako1a:Meanwhile, shall we share some drinks with our guests? The opportunities are so few and far between.
+
+Suika0a:This is your first time joining us, isn't it, Yukari? 
+
+Yukari4c:Yes. I would be glad to further our friendship.
+
+Yukari0a:...Soon Reimu and her group will depart with the flying ship.
+
+Yukari6c:I look forward to seeing what awaits them on their new journey. 
+
+<end>
+
+<ChatID:7>---------------------------------------
+//編成後、霊夢初戦闘
+
+Marisa0a:Alright, time to beat up some fairies before Reimu gets to!
+
+Reimu2b:...
+
+Marisa0a:Something wrong?
+
+Reimu2b:It's fine. My gohei is just giving me a bad feeling for some reason.
+
+<nomove>
+
+<Code=(cursor_jump,320,320,1)>
+
+Aya0a:Is that so? I can't see anything different about it.
+
+</nomove>
+
+Marisa0a:(No way, is she nervous? That's not like her.)
+
+Reimu4a:We can all tell you've got something to say. Out with it.
+
+Marisa0a:Nah, it's nothing. Let's just keep things nice and easy this time.
+
+<end>
+
+<ChatID:8>---------------------------------------
+//早苗さん初戦闘時
+
+Sanae0a:Reimu and Marisa make quite the combination.
+
+Sanae0a:I wonder if Lady Kanako and Lady Suwako would be like that if they teamed up to fight.
+
+<nomove>
+
+<Code=(cursor_jump,304,320,1)>
+
+Kanako0a:Is something amiss, Sanae? You seem distracted.
+
+Suwako1a:You've got a lot of youkai watching, but try not to let it make you self-conscious!
+
+</nomove>
+
+Sanae3c:Y-Yes, of course!
+
+Sanae0a:(I can't let myself feel jealous. I need to get a hold of myself.)
+
+<end>
+
+<ChatID:9>---------------------------------------
+//魔理沙初戦闘時
+
+Marisa0b:Sheesh, figures. Without the mini-hakkero, my magic's just not the same.
+
+Marisa0a:But I gotta be patient while it's getting tuned up.
+
+<nomove>
+
+<Code=(cursor_jump,320,320,1)>
+
+Keine4a:Marisa, keep your eyes on the battle, please.
+
+</nomove>
+
+Marisa0b:Oh, right. First things first, this danmaku battle!
+
+<end>
+
+<ChatID:10>---------------------------------------
+//アリス初戦闘時
+
+Alice0a:Having a danmaku battle in public like this reminds me of running a show.
+
+Alice0d:Perhaps I should let these little ones out as well.
+
+<nomove>
+
+<Code=(cursor_jump,304,320,1)>
+
+Kanako0a:My, you have quite a few more dolls than before.
+
+</nomove>
+
+Alice0d:I have a lot more magical power to spare than I used to. Now I can call out a doll whenever I want.
+
+<end>
+
+<ChatID:11>---------------------------------------
+//咲夜初戦闘時
+
+Sakuya5b:Now that we've teamed up, can we still use Support Defend?
+
+Suika0a:Yup, as long as the back unit has the skill, then they can cover the front unit.
+
+Meiling0a:Until now I've had to be careful about where I'm standing, but in a team it's easy.
+
+Meiling1a:Look, I can watch Sakuya's back just like tha―
+
+Sakuya5b:It's quite alright, I'll just defeat them with a counterattack first.
+
+Meiling3c:Aw. Rely on me a little, please...
+
+<end>
+
+<ChatID:12>---------------------------------------
+//美鈴
+
+Meiling0a:Lady Patchouli, you've done an amazing job.
+
+Meiling5a:You've been out of the mansion so much lately that the mistresses were getting worried.
+
+<nomove>
+
+<Code=(cursor_jump,368,368,1)>
+
+Patchouli4c:This was a special case. I'll be withdrawing to the library afterwards.
+
+Koakuma0a:Oh. That's too bad, I thought I would finally get more chances to go out.
+
+Koakuma0a:But what if we brought some books into that ship instead?
+
+Patchouli3a:...That could work. There are already bookshelves there.
+
+</nomove>
+
+<end>
+
+<ChatID:13>---------------------------------------
+//ﾁﾙﾉでの初戦闘時
+
+Cirno3a:I bet we can do a combined attack together too!
+
+Suika0a:Oh, like Reimu and Marisa or the Aki Sisters?
+
+Suika1a:When you're teamed up you can use those without worrying about positioning and stuff.
+
+Suika0a:Power and MP are still just as important as always, so you've gotta keep an eye on those.
+
+Daiyosei0a:...So I can stay closer to Cirno like this?
+
+Cirno3b:Well duh! You and I are always gonna be together!
+
+Cirno0a:We've been practicing this combination attack a whole bunch. Let's try it out!
+
+Daiyosei0b:Sure! Let's give it our best, Cirno!
+
+<end>
+
+<ChatID:14>---------------------------------------
+//大妖精初戦闘時
+
+Cirno4c:Dai, are you scared? Should I take your place and fight for you?
+
+Daiyosei0b:No, I'm fine. I've been practicing danmaku too.
+
+Daiyosei1a:Look! These are my special fire bullets!
+
+Cirno5f:?!
+
+Cirno2a:D-Dai―Agh, hot! I'm meltiiiing!
+
+<end>
+
+<ChatID:15>---------------------------------------
+//穣子初戦闘時
+
+Minoriko2a:Okay, let's do this! We'll show them the power of the harvest!
+
+<nomove>
+
+<Code=(cursor_jump,320,320,1)>
+
+Momiji0a:Autumn is getting closer, so those sisters are getting remarkably hyped up.
+
+Aya0a:They were such an awful sight back during the winter... though to be honest, they get on my nerves a bit either way.
+
+</nomove>
+
+<end>
+
+<ChatID:16>---------------------------------------
+//静葉初戦闘時
+
+Shizuha4a:I've been getting sucked into danmaku battles more and more it seems...
+
+Shizuha0a:I'm starting to think they're not all that bad.
+
+Minoriko0a:Oh, you were thinking about that too?
+
+Shizuha1c:No matter how it might happen, interacting with humans always keeps things fresh.
+
+<end>
+
+<ChatID:17>---------------------------------------
+//小町
+
+Komachi0a:With a fight this rowdy, do we even need the Phantom Ensemble?
+
+<nomove>
+
+<Code=(cursor_jump,384,336,1)>
+
+Lunasa0a:We can do more than just put on concerts by ourselves.
+
+Lyrica1a:It's been a while since we've had a sponsor this big, so it wasn't just my music that was melancholic, our wallets were too.
+
+Merlin1a:You girls are our backup, so you all better get pumped too!
+
+</nomove>
+
+<end>
+
+<ChatID:18>---------------------------------------
+//雛
+
+Hina0b:First I ended up fighting, and now I need to team up with someone...
+
+Hina2a:I suppose whoever I end up with will be quite unfortunate.
+
+Komachi1c:You'll be fine. Ever since that last incident, you've been worrying too much.
+
+<nomove>
+
+<Code=(cursor_jump,368,368,1)>
+
+Nitori1a:Yeah, I think this is your chance to get more friendly with everyone!
+
+</nomove>
+
+Hina0a:Everyone here's always looking on the bright side, aren't they? If you insist, then I suppose I'll take you up on the offer.
+
+<end>
+
+<ChatID:19>---------------------------------------
+//聖輦船初戦闘時
+
+Ichirin0a:Never thought we'd end up using the Chief's boat in a fight.
+
+Murasa0a:Well, I really don't want the ship to get wrecked again, so we better push our way thr―
+
+Murasa0a:Wait, what? I don't remember seeing this button before.
+
+<nomove>
+
+<Code=(cursor_jump,256,320,1)>
+
+KappaC0a:She's got pretty sharp eyes, finding that so quickly.
+
+<Code=(cursor_jump,368,368,1)>
+
+Nitori1a:The latest and greatest weapon we kappa installed!
+
+</nomove>
+
+Ichirin2a:Wait, don't go pressing buttons we don't—
+
+Murasa1a:Wow, that thing is so cool! Okay, let's give this a test, right away!
+
+Murasa1b:Palanquin Ship, prepare to fire!
+
+Ichirin2a:Give me a break...
+
+<end>
+
+<ChatID:20>---------------------------------------
+//おまけ会話：霊夢
+
+Reimu0b:People are buying ema tablets to hang up, huh? You're doing pretty brisk business here.
+
+Sanae0a:I'm very grateful for how often people from the mountain come by.
+
+Sanae4a:Since you're here, why not write a wish of your own, Reimu?
+
+Reimu0c:"Make... more... people... come to... my shrine." There we go.
+
+Sanae5d:I'm not sure what to think about asking another shrine for that...
+
+<end>
+
+<ChatID:21>---------------------------------------
+//おまけ会話：早苗さん
+
+Sanae0a:Even though this is our own shrine, I've always hung up ema tablets here since I was a kid.
+
+Sanae0a:My wish was already granted though, so it should be okay.
+
+<nomove>
+
+<Code=(cursor_jump,304,320,1)>
+
+Kanako0a:Sanae, what's wrong? Did you find an ema tablet with a questionable wish we need to take down?
+
+</nomove>
+
+Sanae3c:Oh, no, it's nothing! Just thinking about how far we've come.
+
+<end>
+
+<ChatID:22>---------------------------------------
+//おまけ会話：魔理沙
+
+Marisa0a:Ema tablets, huh? Everyone's just writing all their desires all over 'em.
+
+Alice0d:Why not make a wish yourself? You seem like you'd like this sort of thing.
+
+Marisa0b:Sure, I like this kind of stuff, but between this and working on my magic? Magic, every time, no hesitation.
+
+Marisa0a:Improving your magic is more something you can do on your own back home, y'know?
+
+Alice0a:...You find the weirdest things to quibble about.
+
+<end>
+
+<ChatID:23>---------------------------------------
+//おまけ会話：アリス
+
+Alice0d:There are quite a few ema tablets hung here. Your shrine must be doing well.
+
+Sanae0a:Yes. Would you like to make a wish yourself, Alice?
+
+Alice0d:Hmm, would something like, "I want a doll from the Outside World" work?
+
+Sanae0a:...I see. A doll from Outside would be quite valuable here, wouldn't it?
+
+Sanae4a:I wouldn't mind lending you one sometime though.
+
+Alice0d:Why, thank you―
+
+Alice1a:Why, thank you― Wait, are you granting the wishes directly now?
+
+<end>
+
+<ChatID:24>---------------------------------------
+//おまけ会話：咲夜さん
+
+Meiling0a:Ema tablets? Well, since we're here, let's make our own wishes.
+
+Sakuya5b:Hmm, let's see...
+
+Meiling5a:Did you write something? Wait, you drew a picture?
+
+Sakuya5b:On an ema tablet, it's fine to draw your wish in picture form.
+
+Meiling0a:Ahh, makes sense. You're pretty good at drawing, what a cute raccoon!
+
+Sakuya5c:...That's the mistress.
+
+Meiling7a:...
+
+<end>
+
+<ChatID:25>---------------------------------------
+//おまけ会話：美鈴
+
+Meiling0a:Alright, time to write my own wish!
+
+Meiling5a:"Please, may Lady Remilia and Lady Flan get along better.
+
+Meiling5a:Also, I'd like a raise. Like, a lot more money.
+
+Meiling4a:Oh, and if possible, I'd like my nap time to―"
+
+Sakuya4a:...Meiling, did you forget that I'm right behind you?
+
+Meiling7b:W-w-wah! So you are!
+
+<end>
+
+<ChatID:26>---------------------------------------
+//おまけ会話：チルノ
+
+Daiyosei0b:Oh, they're hanging ema tablets...
+
+Cirno5d:Ema tablets? What're those? Some kind of food?
+
+Daiyosei0a:They're not food. You write down your wishes on this piece of wood and ask the gods to grant them.
+
+Cirno3b:Hmm. Why don't we do it too then?
+
+Cirno3a:"I'm Cirmo, the strongest fairy"... Done!
+
+Daiyosei1a:...Cirno, you spelled your name wrong.
+
+<end>
+
+<ChatID:27>---------------------------------------
+//おまけ会話：大妖精
+
+Daiyosei0a:...Maybe I should try writing an ema tablet too.
+
+Daiyosei0b:Cirno wouldn't ever say this herself, so...
+
+Cirno0a:What'd you wish for, Dai?
+
+Daiyosei2c:Not telling, it's a secret!
+
+Daiyosei0b:("May Cirno and Letty meet up again next winter...")
+
+<end>
+
+<ChatID:28>---------------------------------------
+//おまけ会話：穣子
+
+Minoriko0a:Look, Shizuha, they're hanging up Ema tablets!
+
+Shizuha0a:Since we're here why don't we make a wish on them too?
+
+Minoriko3a:Okay, but no peeking at mine!
+
+Shizuha1b:Haha, you're such a child, Minoriko.
+
+Minoriko3b:(...)
+
+Minoriko3a:("May autumn come sooner...")
+
+<end>
+
+<ChatID:29>---------------------------------------
+//おまけ会話：静葉
+
+Shizuha0a:Oh, they have ema tablets here?
+
+Shizuha1c:Maybe we should write a wish on one...
+
+Minoriko0a:Whoa there Shizuha, a god asking for something from other gods?
+
+Shizuha4a:Shush, you. I'm not going to show you mine.
+
+Shizuha1c:("May autumn come sooner...")
+
+<end>
+
+<ChatID:30>---------------------------------------
+//おまけ会話：小町
+
+Komachi1a:Oh, they have ema tablets in a place like this? How about we write a wish or two for ourselves?
+
+Hina2a:As gods, should we really be doing that?
+
+Komachi1c:Oh, c'mon, it can't hurt. Doesn't cost us anything to ask 'em, does it?
+
+Hina4a:...As a god, should you really be saying that?
+
+<end>
+
+<ChatID:31>---------------------------------------
+//おまけ会話：雛
+
+Hina0a:...That was close, my misfortune almost got onto the ema tablets.
+
+<nomove>
+
+<Code=(cursor_jump,320,320,1)>
+
+Momiji0a:What would happen if it did?
+
+</nomove>
+
+Hina2a:I'm not sure, but it might grant the reverse of the wish.
+
+<nomove>
+
+<Code=(cursor_jump,320,320,1)>
+
+Aya1a:Oh, hey, then why don't we write down the opposite wish?
+
+Aya3b:"Give me more work to do", "Make my pictures come out bad". You get the drift.
+
+Momiji6a:Aya, you're trying to game this too much. What if it just granted it normally?
+
+Aya5a:Darn, I guess that could happen...
+
+</nomove>
+
+<end>
+
+<ChatID:32>---------------------------------------
+//おまけ会話：聖輦船
+
+Ichirin0a:Oh, they have ema tablets. Shall we go write down wishes?
+
+Murasa0a:Well, we're Buddhists, but a little bit of Shinto can't hurt.
+
+Sho4a:Umm... "Help me find the Jeweled Pagoda soon"...
+
+Nazrin6a:Master, aren't you supposed to not supposed to say your wish out loud, or it'll not work?
+
+Sho2a:Oh no, you're right!
+
+Nazrin6b:Sheesh.
+
+<end>
+
+<ChatID:33>---------------------------------------
+//全滅時
+
+<Cond=(CHECK_BEATEN,Seirensen,==,1)>
+
+Murasa5a:Shucks, our ship just....
+
+Ichirin2a:I can't believe we crashed on the test flight. I guess it needs more tuning?
+
+</Cond>
+
+<Cond=(CHECK_BEATEN,Seirensen,==,0)>
+
+Murasa5a:Aww, is everyone leaving so soon? 
+
+Ichirin2a:I can't believe we crashed on the test flight. I guess it needs more tuning?
+
+</Cond>
+
+<nomove>
+
+<Code=(cursor_jump,368,368,1)>
+
+Nitori3d:Hmm, that's odd. I'm sure I didn't cut any corners...
+
+<Code=(cursor_jump,256,320,1)>
+
+KappaC1a:...! I've got it, I know what happened! 
+
+KappaC2a:Okay, so promise you won't get mad, but I forgot to tighten five bolts.
+
+</nomove>
+
+Nazrin2a:What?! You forgot to tighten some bolts?
+
+Sho4b:What a headache you caused... we should make you into one of the bolts.
+
+Murasa0b:H-Hey Shou! Calm down! We just need to redo the ceremony.
+
+<nomove>
+
+<Code=(cursor_jump,384,336,1)>
+
+Lunasa0b:...If we're having a do-over, let's liven things up with the usual jingle.
+
+</nomove>
+
+<end>
+
+<ChatID:34>----------------------------------------
+//ハイパーメガ霊力砲初使用時
+
+<Cond=(CHECK_FLAG,C35_MEGAHYPER,==,0)>
+
+<nomove>
+
+<Code=(cursor_jump,320,320,1)>
+
+Akyu4a:Eek! What was that light?!
+
+Keine1a:Was that the Palanquin Ship's main cannon?!
+
+</nomove>
+
+Murasa0a:I was surprised too, it's got way more firepower than I figured it'd have.
+
+<nomove>
+
+<Code=(cursor_jump,256,320,1)>
+
+KappaC0a:The main cannon's linked directly to the heart of the Buddhist reactor.
+
+KappaC0a:With every hot beat, energy just gushes out!
+
+</nomove>
+
+Nazrin0a:I have no idea what that means, but there's no doubt this thing packs a punch. Thanks, we'll get a lot of use out of it.
+
+Ichirin0a:It doesn't seem to know friend from foe, though, so our allies will have to be careful with where they stand.
+
+</Cond>
+
+<end>
+
+<ChatID:35>----------------------------------------
+//ハイパーメガ霊力砲初使用時（味方を巻き込んだ場合）
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Reimu)>
+
+Reimu2a:Ack! 
+
+<nomove>
+
+<Code=(cursor_jump,320,320,1)>
+
+Keine1a:Reimu!
+
+</nomove>
+
+<Code=(check_flag_add,C35_MEGAHYPER)>
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Alice)>
+
+Alice2a:Eeek!
+
+<nomove>
+
+<Code=(cursor_jump,368,368,1)>
+
+Patchouli5a:Did that attack just target Alice...?
+
+</nomove>
+
+<Code=(check_flag_add,C35_MEGAHYPER)>
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Marisa)>
+
+Marisa2a:Gwah!
+
+<nomove>
+
+<Code=(cursor_jump,368,368,1)>
+
+Nitori2a:Whoa, Marisa!
+
+</nomove>
+
+<Code=(check_flag_add,C35_MEGAHYPER)>
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Sanae)>
+
+Sanae2a:Eek!
+
+<nomove>
+
+<Code=(cursor_jump,304,320,1)>
+
+Kanako1b:Cursed fools, what did you just do to Sanae?!
+
+</nomove>
+
+<Code=(check_flag_add,C35_MEGAHYPER)>
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Sakuya)>
+
+Sakuya2a:What was―
+
+<nomove>
+
+<Code=(cursor_jump,368,368,1)>
+
+Koakuma2a:Oh no, Sakuya just got―
+
+</nomove>
+
+<Code=(check_flag_add,C35_MEGAHYPER)>
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Meiling)>
+
+Meiling2a:Dwuh?!
+
+<nomove>
+
+<Code=(cursor_jump,320,320,1)>
+
+Akyu4a:Oh no! Meiling took a direct hit!
+
+</nomove>
+
+<Code=(check_flag_add,C35_MEGAHYPER)>
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Minoriko)>
+
+Minoriko5a:Bwah?!
+
+<nomove>
+
+<Code=(cursor_jump,256,320,1)>
+
+KappaC1a:Whoa, it hit one of the gods of autumn!
+
+</nomove>
+
+<Code=(check_flag_add,C35_MEGAHYPER)>
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Shizuha)>
+
+Shizuha2a:Eek!
+
+<nomove>
+
+<Code=(cursor_jump,320,320,1)>
+
+Momiji3a:Shizuha, are you alright?!
+
+</nomove>
+
+<Code=(check_flag_add,C35_MEGAHYPER)>
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Hina)>
+
+Hina2a:Just what are they doing?!
+
+<nomove>
+
+<Code=(cursor_jump,304,320,1)>
+
+Suwako1b:Ayiyiyi, are you okay?
+
+</nomove>
+
+<Code=(check_flag_add,C35_MEGAHYPER)>
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Komachi)>
+
+Komachi2a:Kyan!
+
+<nomove>
+
+<Code=(cursor_jump,320,320,1)>
+
+Aya5b:Komachi, are you okay?
+
+</nomove>
+
+<Code=(check_flag_add,C35_MEGAHYPER)>
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Daiyosei)>
+
+Daiyosei2a:Eeek!
+
+Cirno1a:Daaaaaai!
+
+<Code=(check_flag_add,C35_MEGAHYPER)>
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Cirno)>
+
+Cirno2a:Gwaaaaah!
+
+Daiyosei1a:Cirnooooo!
+
+<Code=(check_flag_add,C35_MEGAHYPER)>
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Suika_en)>
+
+<end>
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Yousei1_en)>
+
+<end>
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Yousei2_en)>
+
+<end>
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Kedama_en)>
+
+<end>
+
+</Cond>
+
+<end>
+
+<ChatID:36>----------------------------------------
+//ハイパーメガ霊力砲初使用時（味方を巻き込んだ場合）
+
+<Cond=(CHECK_FLAG,C35_MEGAHYPER,==,1)>
+
+Reimu1a:Hey, watch where you're shooting that!
+
+Murasa2b:Sorry, thing's a bit stronger than I figured it'd be.
+
+Marisa0b:The more oomph it's got, the more careful you gotta be when you're aiming it.
+
+<nomove>
+
+<Code=(cursor_jump,320,320,1)>
+
+Aya1a:But hey, that was a great action shot.
+
+Aya0a:And I totally caught it on camera. Wanna take another shot at someone?
+
+<Code=(cursor_jump,256,320,0)>
+
+KTenguA3a:This is so cool.
+
+<Code=(cursor_jump,320,320,0)>
+
+Aya7a:This is so cool.
+
+</nomove>
+
+Ichirin2a:Good grief. If people are watching us, we really can't afford to mess up.
+
+Ichirin0a:Murasa, take care to aim your next shot better.
+
+Murasa1b:Y-You got it! Let's do this!
+
+</Cond>
+
+<end>
+
+<ChatID:37>----------------------------------------
+//おまけ会話：メーコ、まくら
+
+Meko4b:Wow, there are so many ema tablets here.
+
+Makura3a:No doubt that just shows how many humans visit the shrine.
+
+Meko0c:Writing down your wishes and hanging them up is so easy to understand too.
+
+Meko4a:Lady Makura, wouldn't your popularity go up if you did something like this too?
+
+Makura0h:True enough. There used to be something called a baku amulets, to ward off nightmares.
+
+Makura3a:As I recall, those were quite helpful in gathering faith.
+
+Meko0e:Perfect! Then we just need to do that again!
+
+Makura2b:We could, but...
+
+Meko0b:Huh? What's wrong, I thought it was a good idea.
+
+Makura0g:I'm sorry, it's certainly not a bad strategy.
+
+Makura0f:It's just, I'd rather worry about that after I've found my new way of life.
+
+Meko0b:Oh...
+
+<end>

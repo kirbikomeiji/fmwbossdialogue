@@ -1,0 +1,2488 @@
+﻿○共通第五十八話「Dream of the Stray Dreamer
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA (just in case)
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: Capture Shiro
+ 4: 2PP
+ 5: Add Orin and Utsuho
+ 6: first battle (Tenshi)
+ 7: first battle vs. Sheep
+ 8: first battle vs. Meko
+ 9: first battle (Orin)
+10: first battle (Utsuho)
+11: clear
+12: ADVB
+13: lose (Seirensen beaten)
+14: lose (Utsuho beaten)
+15: lose (Shiro escape)
+16-71: battle vs. Meko
+72: after attack to Shiro
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP（出撃前）
+
+Koakuma1a:The sounds are coming from over here!
+
+Cirno2b:Look, everyone!
+
+<pause>
+
+Kurumi1a:The bridge has collapsed! Was that the big noise we heard?
+
+Marisa2b:And here we have...
+
+Shiro0a:...
+
+Keine1a:So it was Shiro after all! I don't think she's noticed us yet though.
+
+Shiro0a:...
+
+<pause>
+
+Nitori2a:Nooo! Hisoutensoku!
+
+Suwako2a:How could they? That was a symbol of peace and progress!
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,400,224,1)>
+
+Kappa2a:Waaah! Our inventions!
+
+<Code=(cursor_jump,256,336,1)>
+
+Kappa2a:Stop it! Stop!
+
+</nomove>
+
+Sanae2a:H-How awful... The bazaar grounds are a wreck!
+
+Alice1a:It seems they're aiming for the kappa machines.
+
+Reimu1a:Let's put a stop to this right now. Get out there, everyone!
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP（出撃後）
+
+Reimu1a:Stop this, Shiro!
+
+Shiro0a:...!
+
+Youmu1a:What do you hope to accomplish by attacking the bazaar?!
+
+Shiro0a:...
+
+<pause>
+
+Cirno1a:It's running away!
+
+Mokou1c:I see it's still too much of a coward to face us head-on.
+
+Patchouli1c:This is bad. If it reaches the other side we'll never catch up.
+
+Marisa2b:Yeah, let's rush it down and grab it fast!
+
+Aya5b:But all the minions putting up danmaku are going to be trouble.
+
+Aya1a:Would our visiting celestial mind lending a hand?
+
+Tenshi6a:*SIGH* Fiiine.
+
+<pause>
+
+Tenshi0e:What kind of celestial would I be if I didn't listen to your prayers?
+
+Iku3a:This seems rather urgent for you. I'll assist as well.
+
+Kanako1c:Everyone, our target is Shiro! Capture it at all costs!
+
+Yukari2a:We still don't know our enemy's true identity. So hurry, but exercise caution.
+
+<end>
+
+<ChatID:3>---------------------------------------
+//シロと初戦闘後、または隣接時
+
+<Code=(icon_set_direction,All,Shiro_en,0)>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Reimu)>
+
+Reimu1a:You won't get away, Shiro!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Marisa)>
+
+Marisa1a:That's as far as you go, Shiro!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Sanae)>
+
+Sanae1a:Please stop, Shiro!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Alice)>
+
+Alice1a:You can't run, Shiro.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Rumia)>
+
+Rumia3a:Okay, caught ya!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Daiyosei)>
+
+Daiyosei4d:I-I caught up!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Cirno)>
+
+Cirno1a:Caught ya, Shiro!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Meiling)>
+
+Meiling1a:You won't escape, Shiro!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Koakuma)>
+
+Koakuma1a:I managed to catch Shiro, Lady Patchouli!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Patchouli)>
+
+Patchouli4d:I'm... *huff* so out of breath... Why am I doing this...?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Sakuya)>
+
+Sakuya0b:Catch and release—or rather, the first half of that.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Remilia)>
+
+Remilia1d:Hmph. That was underwhelming.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Flan)>
+
+Flan0a:Tee hee hee, caught you!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Letty)>
+
+Letty4a:That was quite a workout for the start of spring.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Chen)>
+
+Chen0b:I caught her, Miss Ran!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,LilyW)>
+
+LilyW1d:It's spring! I'm in top form!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Lunasa)>
+
+Lunasa0b:...And this is why I'm the leader.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Merlin)>
+
+Merlin3d:Merlin's signature Happiness Hold!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Lyrica)>
+
+Lyrica1a:Woo, it's my turn in the spotlight!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Prism)>
+
+Merlin3d:Merlin's signature Happiness Hold!
+
+Lunasa0b:Managed to grab her...
+
+Lyrica1a:We're the stars today!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Youmu)>
+
+Youmu1a:That's as far as you go, Shiro!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Yuyuko)>
+
+Yuyuko1c:It's time to pay the piper! ...I've always wanted to say that.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Ran)>
+
+Ran6a:Too slow.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Yukari)>
+
+Yukari1a:My goodness, that was tiring.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Wriggle)>
+
+Wriggle1a:Okay, got her!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Mystia)>
+
+Mystia1b:Caught a kedama! ♪
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Keine)>
+
+Keine1a:You stay right there, Shiro!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Tewi)>
+
+Tewi4a:If this were the bamboo forest, I would've just set up a pitfall...
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Udonge)>
+
+Udonge1c:Don't expect any sympathy from me. You don't know your place.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Eirin)>
+
+Eirin5c:Your fate is sealed.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Kaguya)>
+
+Kaguya1c:*huff* I'm ready... to fall over...
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Mokou)>
+
+Mokou1c:Give it up, Shiro.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Minoriko)>
+
+Minoriko1a:I didn't train my legs just for show!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Shizuha)>
+
+Shizuha5a:Phew! Caught up to her, somehow.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Hina)>
+
+Hina1b:There's no way we'd let you escape.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Nitori)>
+
+Nitori1b:This is Nitori, I've captured the target!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Momiji)>
+
+Momiji1a:Inubashiri reporting in—Mission complete!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Aya)>
+
+Aya7b:Boy, were you ever outmatched.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Hatate)>
+
+Hatate1c:Caught her! Take that, Aya!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Kanako)>
+
+Kanako1d:Don't underestimate the power of the gods.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Suwako)>
+
+Suwako1b:Hold it! Froggy's getting mad!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Kisume)>
+
+Kisume2b:Uh, can I trap her under the bucket?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Yamame)>
+
+Yamame5b:Give up, Shiro.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Parsee)>
+
+Parsee2a:How dare you act like the center of attention, kedama!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Yugi)>
+
+Yugi1c:Hup! Got there first.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Nazrin)>
+
+Nazrin4b:You made the right choice to run, you just weren't good enough.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Ichirin)>
+
+Ichirin1b:Now, Unzan!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Murasa)>
+
+Murasa1b:You're not getting away, Shiro!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Sho)>
+
+Sho1b:Surrender, Shiro!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Akyu)>
+
+Akyu1a:Target reached!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Seirensen)>
+
+Korin1a:Target reached, now capturing!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Suika)>
+
+Suika1a:Ahh, I'm seeing a bunch of kedama!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Komachi)>
+
+Komachi3c:I'm off the clock, but I'm still putting in the work.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Elliy)>
+
+Elliy1a:Elly's special move: Flying Catch!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Kurumi)>
+
+Kurumi3b:Yay, score one for me!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Sunny)>
+
+Sunny1a:Alright! I'm number one!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Star)>
+
+Star0c:Goodness, we actually caught you.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Luna)>
+
+Luna6c:Wait, what? Why am I here first? Was anyone else trying?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Faries)>
+
+Sunny1a:Alright! We're number one!
+
+Star0c:Goodness, we actually caught you.
+
+Luna3c:Did I actually carry us there?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Tenshi)>
+
+Tenshi6a:Hmph, how do you like that?!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Iku)>
+
+Iku1a:Please excuse me.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Akyu)>
+
+Akyu1a:I've got you now!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Medicine)>
+
+Medicine0a:Look, I caught them!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Kogasa)>
+
+Kogasa1a:And a surprise save by Kogasa!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Nue)>
+
+Nue1a:I caught them, Minamitsu!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Eiki)>
+
+Eiki1a:Resign yourself.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Satori)>
+
+Satori0c:I could read your movements.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Koishi)>
+
+Koishi0a:Tag, you're it!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Mima)>
+
+Mima1a:I could do that in my sleep.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Byakuren)>
+
+Byakuren1a:Prepare yourself!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Shinki)>
+
+Shinki0a:Please stop running.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Yumeko)>
+
+Yumeko0a:Capture complete.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Reisen)>
+
+Reisen0a:Alright! I did it!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Yorihime)>
+
+Yorihime0b:Behave yourself.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Toyohime)>
+
+Toyohime0b:Nice try.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Yuka)>
+
+Yuka0a:What did you expect?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Makura)>
+
+Makura0a:...This, too, is fate.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Meko)>
+
+Meko0b:I, uh, caught myself...
+
+</Cond>
+
+Shiro0a:...!
+
+Korin1a:Great, she's caught!
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Kosuzu2a:Now don't let go. We just have to seal her in a strong barrier, and...
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Akyu1a:Now don't let go. We just have to seal her in a strong barrier, and...
+
+</Cond>
+
+Shiro0a:...!
+
+<pause>
+
+Reimu1b:Struggling won't help. You're just a kedama.
+
+Marisa2b:You may have been my pet, but don't expect any pity from me.
+
+Marisa1a:Now that we've caught you, you're gonna tell us where your master is!
+
+Shiro0a:...!
+
+<pause>
+
+Nazrin2a:What? Its form is...
+
+<pause>
+
+<hide=name>
+
+Meko1a:Y-You haven't caught me yet!
+
+</hide>
+
+Keine1a:What?!
+
+Minoriko1b:I-It took on a human form?!
+
+Nitori2a:Wh-What's going on? Is that Shiro's true form?
+
+<hide=name>
+
+Meko0b:Ooh, I accidentally released the transformation... But I can't let myself get caught either...
+
+Meko1b:And stop calling me Shiro! I'm not your pet anymore, Marisa!
+
+</hide>
+
+Marisa3b:Th-That's what you really look like? Wait, so you're—
+
+Meko0c:That's right! I'm the counting sheep, Mehko. And I'm a proper sheep youkai!
+
+Sanae0g:Mehko, the sheep youkai...
+
+Patchouli0a:I never imaged the kedama would be someone like this, just transformed.
+
+Alice1c:If you can talk, then answer us. Why did you attack the bazaar?
+
+Alice1a:I've heard you work for that person who's been appearing in dreams. Is this her order too?
+
+Meko1a:You know, now that I'm out I might as well make this clear.
+
+Meko1b:I came today because the youkai here are doing something inappropriate.
+
+Suwako0d:What do you mean?
+
+Meko1e:All these kappa tools and useful machines and other new stuff like they have in the Outside World. You can't spread these to humans.
+
+Meko1b:So she told me to come here and stop them.
+
+Marisa2b:"She," huh. You mean the mastermind then.
+
+Meko0c:That's right. I work for her!
+
+Reimu1a:Then tell her to get out here so we can beat her up already.
+
+Sakuya0b:Or we can keep you tied up and continue the interrogation if you like.
+
+Meko0b:Ooh... I-I'm not going to give in to your threats!
+
+Meko1a:In this form, I can use my power!
+
+<pause>
+
+Tewi2c:Geh! A whole flock of 'em out of nowhere!
+
+Youmu1a:And these aren't ordinary kedama either! Just what are they?
+
+Meko0c:See? You can't say you've caught me yet!
+
+Yamame0d:I'd love to tell you to get off your high horse... but controlling this many minions is harder than you'd think.
+
+Yugi1c:But if it's a fight you want, then bring it on! We still need to get you back for that thing with Utsuho!
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Reimu0a:Shiro—no wait, uh... Mehko? You definitely aren't any pet of ours.
+
+Reimu1a:You're a youkai, and youkai are my enemies! It's extermination time!
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Marisa2b:Shiro—no, you said your name was Mehko. You definitely aren't any pet of mine.
+
+Marisa1a:You're a youkai up to no good, so it's time to do my job!
+
+</Cond>
+
+<end>
+
+<ChatID:4>---------------------------------------
+//2PP
+
+Hatate4a:This is awful, Hisoutensoku's been blown to pieces.
+
+Sanae3b:It really is. I was sure it was going to make people so happy...
+
+Aya0a:Don't feel too bad, I did manage to get a lot of pictures of it.
+
+Momiji0a:It's hard not to feel down when there's been so much damage, though.
+
+Momiji5a:Looks like most of the kappa's inventions have been smashed too.
+
+Nitori3b:They even set fire to the containers where we put our newest creations.
+
+Nitori3c:We'll have to start our research over from scratch...
+
+Yamame4b:I hate this, just one more thing they've ruined.
+
+<nomove>
+
+<Code=(cursor_jump,128,416,1)>
+
+KappaC1a:No, it's too early to give up!
+
+</nomove>
+
+Hina0c:Oh? The kappa?
+
+Nitori2a:Everyone! I thought you all evacuated?!
+
+<nomove>
+
+<Code=(cursor_jump,128,400,1)>
+
+Kappa3b:We found this in one of the surviving containers!
+
+<Code=(cursor_jump,128,416,0)>
+
+KappaC2b:Take it, Kawashiro!
+
+</nomove>
+
+Nitori2a:Wait, is this...?
+
+<nomove>
+
+<Code=(cursor_jump,128,400,1)>
+
+Kappa1a:Our pride and passion won't break THAT easily!
+
+<Code=(cursor_jump,128,416,0)>
+
+KappaC1a:We haven't tested this yet, but are you ready for AERIAL DOCKING?!
+
+</nomove>
+
+Nitori1b:You bet I am! Let's do this! Live the dream!
+
+<end>
+
+<ChatID:5>---------------------------------------
+//メーコ増援直後のPP、またはその前にメーコを撃破時
+
+<Cond=(INSTANCE_EXISTS,ObjUnit,==,1) || (INSTANCE_EXISTS,ObjUnitEn),==,1)>
+
+Meko1c:Not bad, but not good enough!
+
+<pause>
+
+Tewi0a:Oh great, she healed.
+
+Udonge0a:And these youkai are harder to deal with than I thought.
+
+</Cond>
+
+<Cond=(INSTANCE_EXISTS,ObjUnit,==,0) && (INSTANCE_EXISTS,ObjUnitEn),==,0)>
+
+Udonge0a:These youkai are harder to deal with than I thought.
+
+</Cond>
+
+Eirin0a:They make up for their weakness in numbers. Is this how she fights?
+
+Meko0a:The more sheep you count, the deeper you fall into my trap.
+
+Meko0a:That's why...
+
+<pause>
+
+Meiling1a:Uh oh, they're coming from over there too!
+
+Hatate0a:She's trying to find a chance to escape while we're busy dealing with them all!
+
+Nazrin0a:What a pain. At this point, I'd take any help we can get, even a cat.
+
+Chen0a:Hey, what's that?
+
+<pause>
+
+Utsuho0a:Unyu? A danmaku battle?
+
+Orin0a:I thought it seemed noisy over here... and I couldn't find anyone on the way over either.
+
+Kanako0a:Why, if it isn't Utsuho and Orin. You have impeccable timing.
+
+Utsuho0a:Hello, Miss Kanako. Uh, what timing?
+
+Orin0a:What's going on here? We were just looking for someone.
+
+Orin1b:Wait, are those kedama the ones who...?!
+
+Meko1b:The nuclear crow and that cat from before! So you came to the surface!
+
+Meko1c:You got away last time, but I never thought you'd come to me.
+
+Utsuho0a:Uh, who are you? I've got a bad feeling about this...
+
+Sho0a:She's changed forms, so it's no surprise you don't recognize her. She's the kedama who attacked you!
+
+Orin0a:You're right, she has the same aura as she did back then!
+
+Yugi0a:She came after the bazaar this time! Watch out you two!
+
+Meko1c:I would've let you go if you just threw away that disgusting power, you know.
+
+Meko1b:Everyone, get the crow!
+
+Orin0a:Not this time!
+
+<pause>
+
+Orin1a:We're not gonna fall for the same trick twice! I'll protect Okuu!
+
+Meko1c:What?! But still, there's just one of you!
+
+<pause>
+
+Utsuho0a:I won't forgive you if you hurt Orin!
+
+Meiling0a:Good work you two!
+
+Tewi0a:Looks like they've both recovered from their injuries.
+
+Orin0a:Sorry for making you do that Utsuho. I hoped I could handle this on my own.
+
+Utsuho0a:But aren't you the one who told me not to do everything on my own?
+
+Utsuho0a:So don't say that. I want to help you!
+
+Orin0a:...You're right. Neither of us are alone. Let's do this together from here on out.
+
+Orin1a:Watch my back, Okuu!
+
+Utsuho1a:Right back at you, Orin!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//天子初戦闘
+
+Tenshi0a:I have no idea who these guys are, but I hate them already. What a pain in the patoot.
+
+Iku0e:Indeed. Although they seem to have some connection to the surface dwellers we've met.
+
+Tenshi0b:It doesn't sound like they're anything special though, so let's just clear them out.
+
+Tenshi3c:Even a thousand of these nitwits couldn't scratch me!
+
+Iku1a:You're certainly in good spirits, even after your rampage just now.
+
+Tenshi0e:I came all the way down to the surface, so I do what I want.
+
+Tenshi1b:Allow me to show you peasants the power of a celestial!
+
+<end>
+
+<ChatID:7>---------------------------------------
+//羊初撃墜時
+
+Lyrica1a:Heeyy, got one!
+
+Merlin1c:Keep it up and we'll get more and more amped!
+
+Meko1b:Heh heh, Yes, by all means keep it up. You're playing right into my hands.
+
+Lunasa0a:What do you mean?
+
+Meko0c:Every time you beat one of my little babies, you lose a little power.
+
+Meko0a:In the end, everyone succumbs to sleep.
+
+Sunny0d:Wait, is this the thing where you count sheep and then fall asleep?
+
+Luna4a:Now that you mention it, I'm not feeling that rush we normally get by now...
+
+Patchouli0c:Be careful everyone. Approach carelessly and you'll fall into her trap.
+
+<end>
+
+<ChatID:8>---------------------------------------
+//メーコ初戦闘
+
+Marisa2b:I can still hardly believe that you're Shiro.
+
+Meko1a:Gosh, didn't I tell you to stop calling me that?
+
+Meko1a:I'm not turning back either, so you're not getting anymore convenient dreams!
+
+Keine0b:So you were behind Marisa's strange dreams.
+
+Keine0c:And I heard your master would speak in those dreams.
+
+Meko1b:So you already know that much? That's right, I was using my body as a conduit for her power to control dreams.
+
+Meko1e:At first we thought we'd borrow the strength of Marisa's team, but then she stopped listening to us...
+
+Sakuya5b:So you got impatient and started acting on your own?
+
+Alice1c:Were we ever anything more than pawns to you?
+
+Meko0a:...We do owe you for all that, but you're the ones who stopped listening!
+
+Meko1f:Now behave yourselves! My power can even put crying children to sleep!
+
+<end>
+
+<ChatID:9>---------------------------------------
+//お燐初戦闘
+
+Orin1b:Time to pay these girls back for what they did!
+
+Wriggle1b:Watch out, if you get too close to the sheep...
+
+Orin0a:Don't worry, they won't catch me so easily in my other form.
+
+Chen3d:What other form?
+
+Ran6b:Are you referring to that cat transformation you used earlier? Your body would certainly be nimbler.
+
+Orin1a:The drawback is not being able to talk. But I'll run circles around them!
+
+<end>
+
+<ChatID:10>---------------------------------------
+//空初戦闘
+
+Utsuho0e:Against these sheep, I should lower the output a bit... There we go.
+
+Kanako0a:Mm. Yatagarasu's power seems stabilized.
+
+Suwako3a:That's what all the training was for, right? She should be fine, even fighting danmaku battles on the surface.
+
+Eirin0e:You're in perfect health, but still, try not to push yourself.
+
+Utsuho0e:Roger that, Miss Kanako, Doctor Eirin!
+
+Utsuho4a:The power of fusion is the ultimate power! See how I use it!
+
+<end>
+
+<ChatID:11>---------------------------------------
+//クリア時
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_turns,<,10)>
+
+Meko0b:Ooh, they're strong, I knew it...
+
+Ichirin1d:We're finally facing you head on! Not everything's going to go how you want it!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_turns,>=,10)>
+
+Meko0b:Ooh... I still haven't found a chance to escape?!
+
+Murasa1b:We're serious about this! You're not getting away!
+
+</Cond>
+
+Patchouli0c:If you realize you've lost, then surrender and tell us who you're working for.
+
+Meko1d:No way, I can't do that!
+
+Meko1c:Anyway, we can't just leave this place to people like you!
+
+Yukari0b:You can't?
+
+Meko1a:You heard me! How could we trust people who let the power of nuclear fusion go free?
+
+Utsuho0e:...!
+
+Meko1a:Last time your power went berserk, you vaporized that entire forest.
+
+Meko1c:You can still see the scars from here. You want that to happen again?
+
+Parsee0d:That was your fault, dumbass.
+
+Komachi3a:Seriously. None of that would've happened if not for you agitating Yatagarasu.
+
+Utsuho2c:...No, she's right.
+
+Orin5a:Okuu...
+
+Utsuho2c:On the way here, we passed by the place I fought everyone.
+
+Utsuho2d:When I thought about what me and Lord Yatagarasu did, I got scared. But...
+
+Meko1f:If that's how you think of your power, then just give it up already!
+
+<pause>
+
+Elliy1a:What? There were still more?!
+
+Meko1b:C'mon girls, you can do it!
+
+<pause>
+
+Utsuho2a:Waaah!
+
+Kanako1c:Utsuho!
+
+Meko1f:Just abandon that power already.
+
+Meko1a:Once you do, we'll be that much closer to her dream!
+
+Utsuho7b:No... I have this power to help people...
+
+Meko1c:You're still saying that?! Why do you cling to this power so much?!
+
+Meko0g:It's just waiting for someone else with a twisted heart to abuse it.
+
+Meko1f:It'd be better if it were just gone! That way everyone will be happy!
+
+Utsuho7a:I can't just give up like that!
+
+<pause>
+
+Meko3b:...!
+
+Utsuho7b:When I think about what happened, I get scared.
+
+Utsuho7b:But the place I burned has been cleaned up. Plants are growing there now.
+
+Utsuho7b:When everyone works together, we can protect life.
+
+Utsuho7c:That's why I still believe in possibility. You don't get to decide what we can and can't do!
+
+<pause>
+
+<Code=(chat_set_auto,1,60)>
+
+Youmu1a:Those flames!
+
+<Code=(chat_set_auto,1,90)>
+
+Meko1d:See! Even after saying all that, your power's still running wild!
+
+Lunasa1b:No, it's different this time. It's warmer, gentler...
+
+Tenshi5a:The light of the sun!
+
+<pause>
+
+<Code=(chat_set_auto,0,0)>
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Kosuzu2a:The caloric value is increased, but it's stable!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Akyu1a:The caloric value is increased, but it's stable!
+
+</Cond>
+
+Meko3b:What's going on? You can't possibly control nuclear fusion...
+
+Utsuho0a:Maybe not on my own. But it's different now!
+
+Orin1a:That's right! We're in this together! We'll support each other, and correct each other's mistakes!
+
+Suwako1b:With that support, Utsuho's heart won't be swallowed by her own power.
+
+Kanako1a:By facing Yatagarasu head on, she's been able to make all that energy her own.
+
+Meko1d:You're just bluffing! You have to be!
+
+Utsuho1b:Why don't you see for yourself if it's a bluff?
+
+Utsuho1g:Limiter disengaged!
+
+<pause>
+
+Meko0b:What is she?! She can really control fusion?!
+
+Kisume0a:Wow, you're awesome, Utsuho!
+
+Meko1c:But even if you can control it, it's still bad! We need to get rid of it!
+
+Yugi1a:I get that you have a problem with it, but the battle's been decided.
+
+Orin1a:Admit your defeat. We won!
+
+Meko0b:Ooh...!
+
+<pause>
+
+Sunny1c:Ack, she's in top shape again?!
+
+<Code=(icon_set_direction,Meko_en,FD_RIGHT,0)>
+
+Meko0d:Hmph. I'm just making a tactical retreat.
+
+Meko1e:If Lady Makura were here, you wouldn't stand a chance!
+
+Marisa1b:Makura?
+
+Meko0d:That's right, Makura Muwatari! A great youkai who controls dreams!
+
+Meko0c:No one cares about the people who live here more than her!
+
+Reimu0a:Makura Muwatari? Never heard of her.
+
+Meko0e:Well, even if you know her name, you still can't touch her.
+
+<pause>
+
+Murasa1b:She's using the remaining sheep as a shield!
+
+Meko1c:You're definitely going to regret not obeying Lady Makura someday!
+
+Meko1b:Until then, sweet dreams! No wait, bad dreams! Have nightmares!
+
+<pause>
+
+Momiji2a:Ugh, can't we chase her?!
+
+Star4b:I can't sense her anymore, she must have shrunk as she was running.
+
+Mokou1b:What do we do? Keep after her?
+
+Ichirin1d:We can't chase too far; who knows how manymore of these sheep she has waiting to ambush us?
+
+Yuyuko0a:Let's check on the bazaar grounds and then think about what to do next.
+
+Korin1c:Understood. Return to the ship everyone, but cautiously.
+
+<end>
+
+<ChatID:12>---------------------------------------
+//ADVB
+
+<MAP=11,FROM=バザー,TO=バザー,name=Bazaar Grounds,icon=4>
+
+<BG=*bg_talk_Mountain_Spring.png,fade=0,color=1,title=*bg_Bazaar,bgm=bgm_talk_ningyo>
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+Iku1c:We looked around a bit, and all the kedama are gone.
+
+Udonge0a:None of the humans or youkai have any significant injuries.
+
+Hina0a:That's a silver lining, at least. I suppose we can thank the tengu for guiding people to safety?
+
+Tewi3c:Just the sort of decisive leadership you'd expect of the mountain youkai.
+
+Meiling0a:But still, I was surprised to see Utsuho fight. Your control over your power is perfect.
+
+Utsuho6a:Yeah, thanks to Miss Kanako and Miss Suwako's special training!
+
+Utsuho0a:I should also thank Doctor Eirin, and everyone else from the surface.
+
+Shizuha2b:You're thanking us?
+
+Kanako0a:In order to use her power at maximum capacity, it was necessary for her to confront her memories of going berserk.
+
+Kanako2c:It was her desire to repay her debt to us that pushed her to overcome the training.
+
+Orin4c:That's for sure. I should be thanking you too.
+
+Orin5a:Even after all that happened, you were still willing to help us...
+
+Minoriko0a:No need to get all formal on us. We'll be relying on you too, from here on out.
+
+Eirin3c:I suppose helping each other when we're in trouble is what friends are for.
+
+Orin4a:So we're... friends? Even though you're from the surface?
+
+Komachi4b:Now that we're all buddies, why don't we mark the occasion with some tea? Then again, I guess we have other things to take care of first.
+
+Ran0b:That's true. We've finally gotten a hint at our mastermind.
+
+Patchouli0c:Makura Muwatari. A great youkai who controls dreams.
+
+Yukari0b:And her familiar, the sheep youkai.
+
+Yuyuko1d:After this, I'm sure they'll stop playing hide-and-seek and start something soon.
+
+Tenshi2e:Hold on, I'm getting lost here.
+
+Tenshi0c:Who was that just now? I have no idea what's going on.
+
+Aya0b:That was Shiro. No... was it Mehko? Anyway she used to be Marisa's pet.
+
+Aya0c:Before this, she'd been following us around in kedama form.
+
+Marisa0b:I only picked her up for fun, but after that I started seeing this strange person in my dreams.
+
+Iku0b:And that would be Mehko's master? The one she called Makura?
+
+Keine0b:Yes, apparently she's been interfering with our dreams with Mehko's help.
+
+Sanae0b:She used to only give advice for resolving incidents, but her views gradually become more and more extreme.
+
+Sanae3b:She hates new forms of technology and culture, and tells us to get rid of them.
+
+Sakuya5b:And when it became clear we wouldn't listen, she took matters into her own hands.
+
+Reimu0d:First it was Utsuho's fusion, and now the kappa bazaar.
+
+Tenshi0c:I see. I think I've got the gist of it now.
+
+Iku1c:But why is she doing this?
+
+Iku0a:Just now, Mehko spoke as if it was for the sake of Gensokyo's residents.
+
+Alice0c:We don't know the details either. But she seems to be from the Outside World, and doesn't have good memories of it.
+
+Alice0a:So she might be reminded of it whenever she catches a whiff of something from outside Gensokyo.
+
+Iku1c:So they're holding onto some sort of beliefs or ideals then?
+
+Suika1b:Nothing wrong with having convictions, but there's a wrong way to do things.
+
+Letty4b:Indeed. What can we expect from her next?
+
+Rumia0a:So... what do we do now? Try looking for the sheep?
+
+Yukari0b:Hmm, that might be difficult now that she's hidden her form.
+
+Yukari0a:Perhaps we should make a show of something as a feint to draw her out?
+
+Parsee0a:That's fine with us. Either way, we've got to keep searching for Koishi.
+
+Utsuho0e:Wait, Miss Koishi?
+
+Yamame0d:We haven't seen her for a while, and it's been bothering us. So we went looking for her.
+
+Yamame1d:I mean, isn't that why you two are up here?
+
+Utsuho4e:Uh, what do we do Orin? Miss Satori told us not to talk about it...
+
+Orin1e:No, I think we can trust them. It'll be fine.
+
+Orin0a:It's like you said. Miss Koishi hasn't been coming home, so we went out to look for her.
+
+Yugi1c:Crap, I was hoping we were wrong about that.
+
+Luna0a:So, how long has it been since you've seen her?
+
+Orin5a:...She hasn't come home since the Yatagarasu incident. Not once.
+
+Nitori2a:What?! That long ago?!
+
+Flan2c:Didn't you say she would always come home at night no matter how far she wandered? What happened...?
+
+Orin5a:To be honest, we do have some idea.
+
+Orin5a:After the thing with Utsuho, Miss Satori had a talk with her that got kinda awkward... We haven't seen her since then.
+
+Parsee0d:Then why didn't you tell anyone?
+
+Utsuho0c:Miss Satori didn't really want anyone to know.
+
+Utsuho2c:She said it's a Palace of the Earth Spirits problem, so we should handle it on our own...
+
+Remilia1d:Didn't she learn anything from last time? That's a bad habit of hers.
+
+Orin5a:Don't say that, she's the one who's most feeling the weight of all this.
+
+Orin5a:Lately she's been deep in thought, and doesn't want to see anyone...
+
+Akyu0a:I understand. We're all worried about Satori, so we'll help you.
+
+Utsuho4d:Whoa, really?
+
+Murasa3c:We were already helping Yuugi with it anyway, so don't worry about it.
+
+Kanako0a:We'll come too. I want to keep an eye on how Utsuho's doing.
+
+Momiji4c:I'll have the other tengu assist as well, once they're done with guard duty at the bazaar.
+
+Marisa0d:Is adding more people to the group really going to help though? Shouldn't we try splitting up instead?
+
+Ichirin3a:Not a bad idea. But who's going where?
+
+Yugi0a:For now, I think the human village is our best bet.
+
+Suwako3a:In that case, Utsuho's group should head there. And of course we'll guide them.
+
+Meiling1b:How about places where no one goes? Maybe she's hiding somewhere like that?
+
+Alice1c:Places without people... Maybe the Nameless Hill?
+
+Flan3b:I've been there with Remi on a walk once. We could take you there.
+
+Youmu4a:That's still a big group though. We can probably search one more place.
+
+Youmu3b:Somewhere not many people know of...
+
+Korin1b:Maybe Muenzuka? It's on the outskirts of Gensokyo, so all sorts of rare items wash up there.
+
+Nazrin0a:A place where junk turns up, huh? Maybe we could find the pagoda there, Master.
+
+Sho0c:In that case, please allow us to join you.
+
+Akyu3a:So our three destinations are the human village, the Nameless Hill, and Muenzuka.
+
+Akyu0a:Everyone can divide themselves into groups as they like, but let's all meet up at my estate tomorrow at noon.
+
+Komachi4a:Tomorrow? That's not a good time for me...
+
+Sakuya5b:This is rare. Work?
+
+Komachi4b:Actually, I got a call from my boss. I'll be accompanying her all day.
+
+Komachi0c:And come to think of it, I've got night shift tonight too.
+
+Iku5c:Nice to hear you're hard at work. Not that my own job is looking to be over anytime soon...
+
+Tenshi1d:What, you're talking about me?
+
+Iku0d:Somehow I doubt you'll be heading home after hearing all this. I assume you plan to get mixed up in it.
+
+Tenshi3d:Of course I am! What better chance to take a look around the terrestrial world?
+
+Tenshi3a:If you have a problem with it, then go home without me.
+
+Iku1c:I'm afraid that's not an option. Who knows what you'll do when I take my eyes off you?
+
+Iku1a:I'm worried that you won't be able to temper your speech and conduct to match your surroundings.
+
+Tenshi4a:I'd be more worried about how YOU speak.
+
+Keine0c:Anyway, let's all proceed carefully.
+
+<end>
+
+<ChatID:13>---------------------------------------
+//聖輦船被撃墜
+
+<Cond=(CHECK_BEATEN,Seirensen,==,0)>
+
+Kosuzu0b:We can catch her, but it'll be close.
+
+Korin0b:Right, if only we were a little further up...
+
+<SE=se_talk_alarm01.ogg,wait=0>
+
+<Code=(demo_wait,15)>
+
+Korin0c:Wait, what's the warning sound?!
+
+Kosuzu6a:We're losing output from the Buddhist reactor! We can't stay airborne!
+
+Korin2a:At this point, we don't have the luxury of pursuing her.
+
+Nitori2a:No no no, this isn't right! Next time rush her down and grab her!
+
+<end>
+
+</Cond>
+
+Akyu2a:Augh, no...!
+
+<Cond=(FIND_UNIT,Meko_en,enemy,!=,-1)>
+
+Meko0b:W-Wait, did I win...?
+
+Meko0e:...I did! Now she'll have to praise me! I was useful!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Meko_en,enemy,==,-1)>
+
+Korin2a:At this point, we don't have the luxury of pursuing her.
+
+Nitori2a:No no no, this isn't right! Fix the ship and try again!
+
+</Cond>
+
+<end>
+
+<ChatID:14>---------------------------------------
+//空被撃墜
+
+Utsuho2b:H-Huh? My output's going down...
+
+Eirin1d:I thought you'd healed, but it seems you're not back in top condition yet.
+
+Orin1b:Do this right, Okuu! If you lose here it'll go right to her head!
+
+<end>
+
+<ChatID:15>---------------------------------------
+//全滅（シロのマプ端への到達）
+
+Shiro0a:...
+
+Akyu2b:Ah! She's already over there!
+
+Korin2a:I thought we'd finally catch her, but it looks like she got away.
+
+Aya5a:Well, so much for the pride of Youkai Mountain. Try again, but this time go faster or clear the danmaku.
+
+Parsee2a:If it comes down to it, we can just overpower those things!
+
+<end>
+
+<ChatID:16>---------------------------------------
+//メーコvs.霊夢
+
+Reimu0a:Who'd have thought you were a youkai the whole time?
+
+Reimu1a:I'm putting an end to your mischief right here, right now!
+
+Meko1b:Mischief? What? She put a lot of thought into this!
+
+Meko1b:This is all for the preserving the peace of Gensokyo...
+
+Reimu0a:I can't believe you're saying that to the SHRINE MAIDEN. And all my instincts are telling me you're the bad guy here.
+
+Reimu1a:It's time you learned exactly what it means to go up against the Hakurei Shrine Maiden!
+
+<end>
+
+<ChatID:17>---------------------------------------
+//メーコvs.魔理沙
+
+Marisa2b:Shiro... No, Mehko. I can't believe you and your master were trying to make me an accomplice.
+
+Meko1c:We just wanted your cooperation, Marisa. And you just had to stop listening...
+
+Meko1b:But if you won't help us anymore, then this is our only choice!
+
+Marisa2b:Who'd listen to paranoid ramblings like that? And it's not like you ever bothered to listen to MY side of the-
+
+Meko1d:It's too late for that! We've already taken things into our own hands!
+
+Marisa4c:If that's how you feel, then that's that. But as the first human you recruited, I've got a duty to stop you.
+
+Marisa2b:Maybe getting fried by my magicannon will make you question your life choices!
+
+<end>
+
+<ChatID:18>---------------------------------------
+//メーコvs.早苗さん
+
+Sanae0g:I can't believe that cute little Shiro could be behind all this cruelty...
+
+Meko0g:You were always okay in my book, Sanae. I mean, you were even nice to me.
+
+Meko1e:But she was very disappointed in you for making that weird balloon and trying to bring in the Outside World.
+
+Sanae0f:But... We were just trying to use our knowledge for the good of Gensokyo...
+
+Meko1b:And she says that right there is the whole problem!
+
+<end>
+
+<ChatID:19>---------------------------------------
+//メーコvs.アリス
+
+Alice1a:So this is the true form of the familiar.
+
+Meko0b:Alice...!
+
+Meko0g:...I owe you a lot, really. You were always nice to me.
+
+Alice1c:But even back then, you were keeping an eye on us, weren't you?
+
+Alice4a:We should've taken measures as soon as we heard about you from Yuuka...
+
+Meko1c:Yeah, if you'd all listened to us back then, we'd have never had that nuclear fusion problem.
+
+Alice1b:...You're showing no remorse at all. Brace yourself, Mehko, this is going to hurt.
+
+<end>
+
+<ChatID:20>---------------------------------------
+//メーコvs.レティ
+
+Letty0a:I'm glad you showed up before spring started in earnest.
+
+Meko1e:You're a winter youkai, right? Shouldn't you be off hibernating somewhere by now?
+
+Letty0d:I plan to see this through to the end.
+
+Letty1a:We'll need to wrap this up before the seasons change.
+
+<end>
+
+<ChatID:21>---------------------------------------
+//メーコvs.橙
+
+Chen0a:So you're not a kedama anymore...? That would've been way easier to fight.
+
+Meko1b:Don't think I've forgotten you toying with me, you low-ranking cat!
+
+Meko1d:I was just minding my own business being fluffy, and you pounced with no hesitation...!
+
+Chen5b:Well it's your fault for being so fluffy in front of me!
+
+Meko1d:This is why I hate animals!
+
+<end>
+
+<ChatID:22>---------------------------------------
+//メーコvs.リリー
+
+LilyW0d:So your real name is Mehko, not Shiro?
+
+LilyW5c:I'm so disappointed. I thought we were both named White.
+
+Meko0b:Come on, don't make that face... Shiro was just the name Marisa came up with.
+
+LilyW0a:But I think Black could be nice too. Like an image change.
+
+LilyW0a:And then you could put on black clothes and call yourself Kuro...
+
+Meko1b:Don't go around naming me like a cat! Anyway, my name is Mehko!
+
+<end>
+
+<ChatID:23>---------------------------------------
+//メーコvs.空
+
+Utsuho0e:So this is the kedama who attacked me back then...
+
+Meko0a:We could've avoided all that if you'd just stayed quiet in the Underworld.
+
+Meko1e:But by the looks of you, you haven't learned a thing.
+
+Utsuho0e:I have! I know I caused Miss Satori and the others a lot of trouble.
+
+Utsuho4c:But that's why I'm gonna be useful now! I won't lose to you!
+
+Meko1d:Talk big all you want, you'll just go berserk again! I'll make you see that!
+
+<end>
+
+<ChatID:24>---------------------------------------
+//メーコvs.お燐
+
+Orin5c:Oh, I've been wanting to meet you again...
+
+Orin1b:I'm gonna tear your guts out and feed 'em to the crows.
+
+Meko1b:Y-You're threatening me?! But YOU'RE the bad guys for wanting new stuff like nuclear fusion!
+
+Orin1b:And what's wrong with that? You can't tell people how they should feel or think.
+
+Orin1b:Time to pay you back! Miss Satori's share too!
+
+<end>
+
+<ChatID:25>---------------------------------------
+//メーコvs.神奈子
+
+Kanako1d:If you're willing to listen to words, then allow me to reassert something.
+
+Kanako1c:How dare you. Utsuho had been calmed, and the incident was resolved before you stepped in.
+
+Meko1e:I told you, the power of nuclear fusion can't be allowed here.
+
+Meko1e:As long as that power is still around, nothing's been resolved.
+
+Kanako1d:I take it back, you don't listen at all. All you can do is repeat what your master told you.
+
+Kanako1c:In which case it's time I teach you a divine lesson!
+
+<end>
+
+<ChatID:26>---------------------------------------
+//メーコvs.諏訪子
+
+Suwako4b:So after Yatagarasu, you're targeting the kappa bazaar?
+
+Suwako4a:And you even smashed our crowning achievement, Hisoutensoku...
+
+Meko0a:If people saw that, they'd start getting curious about new stuff!
+
+Meko1b:And that's bad! So that puppet is a bad guy too!
+
+Suwako0d:A bad guy?! We designed him to be a champion of justice!
+
+Suwako1b:Not even an eternal curse is enough to pay for the crime of not seeing his charm!
+
+Meko1d:I... I'm not afraid of any divine curse!
+
+<end>
+
+<ChatID:27>---------------------------------------
+//メーコvs.咲夜
+
+Sakuya1d:So it sounds like you're less of a familiar and more of a servant.
+
+Meko1e:That's right. I choose to work for her of my own volition.
+
+Sakuya1d:Even so, you should at least consider how you conduct yourself.
+
+Sakuya1b:If you keep forcibly insisting on having everything your way, it's not going to end well for you.
+
+Meko1a:Hmph! As long as SHE's around, you girls are nothing!
+
+<end>
+
+<ChatID:28>---------------------------------------
+//メーコvs.レミリア
+
+Remilia0b:How nice of the culprit to show up right when we're searching for her.
+
+Remilia0a:But it'd be pretty boring if you just turned yourself in, so try to make this an entertaining fight, alright?
+
+Meko0b:Ooh... Even against a strong youkai, as long as I use my power...
+
+Remilia1e:Yeah, that! That's the spirit! Keep resisting right to the very end!
+
+Remilia1a:You're cornered! There's nowhere to run!
+
+<end>
+
+<ChatID:29>---------------------------------------
+//メーコvs.フラン
+
+Flan0a:Tee hee, I've always wanted to play with you!
+
+Meko1b:You want to PLAY?
+
+Flan0c:Yeah! Remi and Sakuya and everyone are always out looking for you, so I was getting bored.
+
+Flan1a:That's why I'm with them today. Don't worry, I'll try not to break you!
+
+Meko0b:Whoa, hey, don't play rough!
+
+<end>
+
+<ChatID:30>---------------------------------------
+//メーコvs.慧音
+
+Keine0c:You called yourself Mehko? So you were a youkai with a human form.
+
+Keine1a:If you can understand speech, then surrender and turn yourself in.
+
+Meko0b:Surrender?!
+
+Keine1a:We can't so easily forgive your misdeeds. But if you cooperate with us, we'll hear you out and—
+
+Meko0a:You're always like this, Keine. You always think we can all just talk it out.
+
+Meko1b:But it's too late for that. You're the ones who ignored her warning!
+
+Keine2a:Ugh, I guess that was too much to hope for.
+
+<end>
+
+<ChatID:31>---------------------------------------
+//メーコvs.エリー
+
+Elliy4b:I can't believe Shiro was a youkai the whole time! I never noticed!
+
+Meko1e:You're Yuuka Kazami's minion, right? So I guess she never told you about us then.
+
+Elliy1a:That's just how much she trusts us! Yuuka never tells us anything we don't need to know!
+
+Elliy2a:Like where she is, or what she's doing...
+
+Meko1c:...I thought maybe you were fighting, but I guess that's just how she is.
+
+<end>
+
+<ChatID:32>---------------------------------------
+//メーコvs.くるみ
+
+Kurumi4a:Aw... I can't believe we have to fight Shiro.
+
+Kurumi4b:What happened to the days we used to watch ants together while you were in the bottle?
+
+Meko0b:Um, I only did that because I couldn't move...
+
+Kurumi2a:Ouch. How come you never told me?!
+
+Meko1b:Because I couldn't talk in that form! Duh!
+
+Meko0c:Besides, I'll show you how much more fun it is to count sheep than ants.
+
+<end>
+
+<ChatID:33>---------------------------------------
+//メーコvs.藍
+
+Ran0b:A sheep youkai with the power to put people to sleep. As far as I know, there is no such youkai in Gensokyo.
+
+Meko1e:Yeah, because I was keeping it a secret! I won't be done in that easy.
+
+Ran6b:If you expect to stay hidden from us with those skills, you'd better broaden your skillset.
+
+Ran6a:It's time someone taught you the consequences of your conceited actions.
+
+<end>
+
+<ChatID:34>---------------------------------------
+//メーコvs.文
+
+Aya5b:And so the kappa bazaar ends on a sour note.
+
+Aya5a:It pains me to say this, but it seems I won't be able to write that light-hearted fluff piece after all.
+
+Meko1b:Fine with me. If that means more people will hate new stuff, then that's just what she wants!
+
+Aya5b:Using the media to manipulate public opinion? Hardly a praiseworthy act.
+
+Aya0c:Maybe I'll cheer myself up by taking it out on you!
+
+<end>
+
+<ChatID:35>---------------------------------------
+//メーコvs.はたて
+
+Hatate4b:I wanted to go around the bazaar more for my article... Looks like that's not happening.
+
+Meko0e:Yup, and you definitely can't encourage people to come to it.
+
+Hatate0a:But still, I did get a lot of good pictures of the stalls and Hisoutensoku.
+
+Hatate3d:If I put them in my paper, even the people who didn't come will be able to experience it!
+
+Meko1c:How can you miss my point so hard?!
+
+<end>
+
+<ChatID:36>---------------------------------------
+//メーコvs.椛
+
+Momiji1a:Us patrol tengu can't let this chaos slide!
+
+Meko0b:Ooh no, a mountain tengu!
+
+Momiji3c:You'll be surrounded soon. There's nowhere to escape.
+
+Momiji1a:Turn yourself in, and no one has to get hurt.
+
+Meko1d:Why would I surrender? I still have so much more to do!
+
+<end>
+
+<ChatID:37>---------------------------------------
+//メーコvs.秋姉妹
+
+Shizuha2b:You said your name was Mehko? Sit down right now and listen to me.
+
+Meko0b:Wait, what?
+
+Minoriko1b:Don't play dumb. Thanks to you, the soil in that whole wilderness region is totally messed up.
+
+Minoriko1b:If it weren't for my well finely-toned legs and everyone helping out, who knows what couldn't happened?
+
+Meko0f:Sh-She never wanted the surface to take damage either...
+
+Shizuha3a:Stop making excuses. You're in the wrong, so apologize.
+
+Minoriko1b:Otherwise we'll catch you and make fertilizer out of you!
+
+<end>
+
+<ChatID:38>---------------------------------------
+//メーコvs.三月精
+
+Sunny0d:I can't believe Shiro was a youkai the whole time. Star, did you notice?
+
+Star6a:Of course not. How about you, Luna?
+
+Luna1b:I was so sure she was just a fairy even lower than us...
+
+Meko0e:Heh. I'll have you know I'm a fully-fledged youkai. Just look how many sheep I have.
+
+Meko0e:Just look at them! And they all listen to everything I say!
+
+Star1a:Watch out you two! She's pretty confident!
+
+Luna1c:Right, we can't let our guards down around a youkai!
+
+Sunny1a:Let's show her that fairies are no pushovers!
+
+<end>
+
+<ChatID:39>---------------------------------------
+//メーコvs.鈴仙
+
+Udonge4b:You're quite the spy, infiltrating us while pretending to be harmless.
+
+Meko1e:Come on, spy? We just wanted you to cooperate with us.
+
+Udonge1c:But didn't you betray us the moment things didn't go your way?
+
+Udonge1c:After what you've done, we can't just brush this off.
+
+Meko1a:I don't care what you think anymore! All we can do is keep moving forward!
+
+<end>
+
+<ChatID:40>---------------------------------------
+//メーコvs.パルスィ
+
+Parsee1a:This isn't what we're here for, but good thing we ran into you.
+
+Meko0b:Ooh... I can't believe even the Underworlders are here. What a pain...
+
+Parsee2a:How dare you call me a pain!
+
+Meko1d:That attitude right there is exactly why people call you that!
+
+Parsee0a:I don't feel like debating, we have a debt to pay.
+
+Parsee0d:Say your prayers, and regret your life choices!
+
+<end>
+
+<ChatID:41>---------------------------------------
+//メーコvs.勇儀
+
+Yugi1d:Alright! Let's see if I can take her out in one punch.
+
+Meko1a:Y-You don't scare me!
+
+Yugi1c:If ya didn't want to be punched, you shoulda stayed hidden!
+
+Yugi1c:Didja really expect to get away from us in one piece?
+
+Meko1c:I'm not afraid of some drunk! I can always just put you to sleep!
+
+Yugi1c:Seein' your face makes it hard to be happy drunk, y'know.
+
+<end>
+
+<ChatID:42>---------------------------------------
+//メーコvs.萃香
+
+Suika6a:Looks like you can use your power now that you've revealed yourself, but...
+
+Suika6c:Somethin' like that's no big deal. You gonna ask you master to save ya?
+
+Meko1e:No way! She trusted me to do this, so I'll figure something out!
+
+Meko1f:I'm sure even now she's waiting patiently for me, believing in me...
+
+Suika6b:Oh well, if that's how it's gotta be. Would've been way easier if she came though.
+
+<end>
+
+<ChatID:43>---------------------------------------
+//メーコvs.大妖精
+
+Daiyosei3b:I can't believe we're fighting Shiro like this.
+
+Daiyosei3b:A little part of me was hoping it was all a misunderstanding...
+
+Meko1b:...You're the ones misunderstanding. This is all because you wouldn't listen!
+
+Daiyosei2a:I really have to do this...!
+
+<end>
+
+<ChatID:44>---------------------------------------
+//メーコvs.天子
+
+Tenshi0a:I'm not following all the details, but it looks like you're connected to these surface dwellers somehow.
+
+Tenshi0b:If you're up to no good, maybe I should have a word with you?
+
+Meko1b:If you're not involved, then stay out of this. This is our issue to—
+
+Tenshi0e:I didn't ask for your life story. When a celestial talks to you, just shut up and acknowledge them!
+
+<end>
+
+<ChatID:45>---------------------------------------
+//メーコvs.衣玖
+
+Iku4a:I suppose this is the flow too, but I've certainly gotten wrapped up in something strange.
+
+Iku4c:If only I'd taken the eldest daughter home just a bit sooner, I could've avoided all this...
+
+Meko1b:If you'd rather avoid this, could you just leave me alone?
+
+Iku0a:That's not an option. When misfortune and disaster make an appearance, one must always prepare a countermeasure.
+
+Iku1a:And more importantly, the eldest daughter seems very much on board with this.
+
+<end>
+
+<ChatID:46>---------------------------------------
+//メーコvs.ヤマキス
+
+Kisume0a:We're here for something else, but this is perfect timing.
+
+Meko1e:You were... Underworld youkai, I think?
+
+Yamame0b:You made quite a mess of someone else's nest during the vengeful spirit ruckus.
+
+Yamame5g:I'm thinking it's time we paid you back for that.
+
+Meko1b:It wasn't MY fault. The gods were the ones who came up with nuclear fusion, and the crow's the one who wanted it...
+
+Yamame5g:Utsuho and the surface dwellers have all shown remorse about what happened—unlike your side.
+
+Kisume1b:Apologize for being mean to Utsuho!
+
+<end>
+
+<ChatID:47>---------------------------------------
+//メーコvs.バカルテト
+
+Mystia5a:So you're Shiro? Who'd have thought!
+
+Cirno2c:Yeah, you don't look like that kedama we played with at all.
+
+Meko0b:You all... Freezing me is not playing!
+
+Wriggle6a:What? Then what about all those times we flew around with the bugs?
+
+Rumia0a:You didn't taste very good.
+
+Meko1c:Ooh... Now look here. Now that I'm in this form, you can't just do whatever you—
+
+Mystia1c:That's our line! Your misbehavior's caused all kinds of problems.
+
+Cirno1b:When we beat you, everyone can go back to having fun!
+
+<end>
+
+<ChatID:48>---------------------------------------
+//メーコvs.パチェこぁ
+
+Koakuma1a:Miss Patchouli! I think the enemy is trying to put us to sleep!
+
+Patchouli0b:So it would seem. I didn't bring any books that would help deal with that though.
+
+Patchouli0c:Luckily, magicians don't require sleep. In that sense, this is a good match-up.
+
+Meko0e:Hmph! It doesn't matter what you are! The power of sleep works on anyone!
+
+Koakuma1c:Would you like me to pour you some coffee, just in case?
+
+Patchouli1d:We're right in front of the enemy. Forget about the coffee and back me up.
+
+<end>
+
+<ChatID:49>---------------------------------------
+//メーコvs.ナズーリン
+
+Nazrin4a:You're pretty careless, to get yourself cornered in a place like this.
+
+Nazrin4a:So with both this and the Utsuho thing, you're just dancing to the mastermind's tune?
+
+Meko1b:That's right. I follow her orders!
+
+Nazrin0a:Guess that explains everything so far. Okay, now sit still and let me capture you.
+
+<end>
+
+<ChatID:50>---------------------------------------
+//メーコvs.美鈴
+
+Meiling1b:Counting sheep to fall asleep, huh? I've heard of it, but never tried it myself.
+
+Meko1b:I mean, not like you'd need to, given how soundly you sleep.
+
+Meko0e:But that just make you an easier target for my power!
+
+Meiling1a:I don't know about that... I am Hong Meiling, a woman who can fight even in her dreams!
+
+Meko0b:...Is that something to brag about?
+
+<end>
+
+<ChatID:51>---------------------------------------
+//メーコvs.にとり
+
+Nitori1c:We worked so hard setting up this bazaar...
+
+Nitori1b:You're gonna pay big time for ruining all our hard work!
+
+Meko1b:It's your fault for inventing and spreading new technologies!
+
+Meko1b:We might've let it slide if you'd just kept them to yourselves.
+
+Nitori1b:Who died and made you queen?! Once we beat you, you're going to apologize to everyone!
+
+<end>
+
+<ChatID:52>---------------------------------------
+//メーコvs.村紗
+
+Murasa0a:So the kedama was a youkai all along? Well, it's actually easier this way.
+
+Meko1f:It is?
+
+Murasa1a:If you've got legs, we can tie you up, right?
+
+Murasa1b:The Palanquin Ship got damaged before because of you. It's time to pay you back for that!
+
+<end>
+
+<ChatID:53>---------------------------------------
+//メーコvs.紫
+
+Yukari0a:I did sense a strange presence, but to think it was a youkai with a sense of self.
+
+Yukari0a:Then allow me to introduce myself. I am Yukari Yakumo, Gensokyo's administrator.
+
+Meko1b:You don't have to introduce yourself. I've heard all this before in kedama form.
+
+Yukari0a:If you wish to be treated as a youkai, isn't it common sense to begin with a greeting?
+
+Yukari4c:I'd love to have a nice, LONG chat with you and your master.
+
+Meko1c:Ooh... This ominous feeling... Is that a declaration of war?!
+
+<end>
+
+<ChatID:54>---------------------------------------
+//メーコvs.幽々子
+
+Yuyuko1a:So the youkai's true form was a kedama? What a shocking twist!
+
+Meko1d:No, that's backwards! I'm a sheep, the kedama was a transformation!
+
+Yuyuko5b:Oh? Is that so? But it hardly matters.
+
+Yuyuko5a:Either way you've been causing more than your fair share of trouble.
+
+Meko0b:Ooh, don't tell me you're going to use your power over death on me?!
+
+Yuyuko3b:The thought didn't even cross my mind! Now stay still so I can catch you.
+
+<end>
+
+<ChatID:55>---------------------------------------
+//メーコvs.小町
+
+Komachi3c:I've really gotta get back to work... but I'm glad I stuck around.
+
+Komachi3b:Even the Yama of Hell has an eye on you after what you've done, you know.
+
+Meko0b:H-Hell?! Hell has nothing to do with this, right?
+
+Komachi0c:Excuses like that won't cut it after you set the surface ablaze.
+
+Meko0b:But I had to do that to get rid of the nuclear fusion...
+
+Komachi3c:I've LOVE to see you try that on the Yama. Seriously, I'd pay to watch that.
+
+<end>
+
+<ChatID:56>---------------------------------------
+//メーコvs.てゐ
+
+Tewi0a:There's more people nowadays counting sheep to fall asleep, huh?
+
+Meko0e:That right, the humans here believe in the power of sheep.
+
+Meko0c:I'm sure you'll be relying on me too, soon enough!
+
+Tewi3f:Dunno about that... I have my own ways of getting to sleep, so stick to humans, okay?
+
+<end>
+
+<ChatID:57>---------------------------------------
+//メーコvs.妹紅
+
+Mokou0a:So that's the form you'll be fighting in? Perfect.
+
+Meko0b:Ooh... You're that fire-wielder...
+
+Mokou0b:I hear wool is extremely flammable. I think Akyu said something like that.
+
+Mokou3d:Keine would kill me if I didn't take this chance to test out that theory.
+
+Meko1c:Threatening me won't get you anywhere, you know.
+
+Mokou0d:Fine by me, I've never expected it to in the first place!
+
+<end>
+
+<ChatID:58>---------------------------------------
+//メーコvs.プリバ
+
+Merlin0a:I knew you had good fuzz, but you were a sheep, huh?
+
+Lyrica0c:Looks like they shoot lightning too. Wouldn't it be nice to have one around?
+
+Merlin1c:Can I keep one, Sis? Can I??
+
+Lunasa0b:No. It'd fill our whole room with static.
+
+Lyrica3d:But isn't a good zap every now and then a nice kind of noise?
+
+Merlin3d:I really think it could liven things up!
+
+Lunasa0b:Fine, fine, as long as you promise to take care of it yourselves.
+
+Meko1d:Hey, you can't just decide that on your own! We're not going to be your pets!
+
+<end>
+
+<ChatID:59>---------------------------------------
+//メーコvs.永琳
+
+Eirin0d:You seem like an awfully young youkai to be doing what you've done.
+
+Meko1d:Are you making fun of me?!
+
+Eirin0e:I can't imagine you've planned such cold-blooded attacks on your own.
+
+Eirin0d:So I'm guessing you're merely following orders?
+
+Meko1b:That's right. As long as I do what she says, everything works out perfectly!
+
+Eirin0e:Blind devotion then. But that might be exactly what allows you to be so bold.
+
+<end>
+
+<ChatID:60>---------------------------------------
+//メーコvs.妖夢
+
+Youmu1b:I'd heard you were a familiar, but who'd have thought you were a free-willed youkai...?
+
+Youmu1a:And you truly betrayed Marisa with zero hesitation?
+
+Meko1b:Of course I did. I only have one master, and it's not Marisa.
+
+Meko1b:I'd do anything for her sake!
+
+Youmu1a:I can tell you're resolved. I can't let my guard down either!
+
+<end>
+
+<ChatID:61>---------------------------------------
+//メーコvs.雛
+
+Hina0a:I never imagined I'd be able to talk to Shiro like this.
+
+Hina0a:Not that I owe you anything, of course.
+
+Meko0a:You don't scare me. I know you're careful not to spread your misfortune.
+
+Hina1b:True, but remember this—the misfortune you've created will someday find its way back to you.
+
+Meko1a:...I'm ready for that!
+
+<end>
+
+<ChatID:62>---------------------------------------
+//メーコvs.聖輦船（阿求）
+
+Kosuzu0a:I'm reading way more power from her than when she was a kedama!
+
+Korin1a:So by releasing your shapeshifting, you and your minions have unlocked your full power too?
+
+Meko0e:That's right. My power can reach you even inside the boat.
+
+Meko0e:The bigger they are, the harder they fall! I can make anyone sleep!
+
+Akyu2b:We wouldn't survive a fall! Mr. Kourindou, no falling asleep at the wheel!
+
+Korin1a:G-Got it! If I start drifting off, just give me a smack!
+
+<end>
+
+<ChatID:63>---------------------------------------
+//メーコvs.聖輦船（香霖）
+
+Korin0a:I still can't believe that little kedama was a youkai girl.
+
+Akyu0a:You owe a lot to both Mr. Kourindou and Marisa for taking care of you, you know.
+
+Meko1b:Oh yeah, I've always wanted to tell you something.
+
+Korin1a:Who, me?
+
+Meko1b:You should fix that habit of spouting nonsense theories when explaining how something works.
+
+Korin0a:Good grief. My erudite wisdom sounds like nonsense to you? I suppose you still have all the brains of a pet.
+
+Akyu3c:And for that matter, you talk the same way when you're alone.
+
+<end>
+
+<ChatID:64>---------------------------------------
+//メーコvs.星
+
+Sho0b:So this is Shiro's true form...
+
+Sho0b:I like to believe that any opponent can be reasoned with, but...
+
+Meko1c:That's my line. It's not like we hate you girls.
+
+Meko1b:But if you won't listen to us, then we have no choice!
+
+Sho1c:If that's the position you're taking, then we have no choice either!
+
+<end>
+
+<ChatID:65>---------------------------------------
+//メーコvs.輝夜
+
+Kaguya1c:You, a mere pet, betrayed your owner? I've never seen such an impudent Inaba, even back on the moon.
+
+Meko1f:I never betrayed anyone... I've only ever worked for one master.
+
+Kaguya6a:Bold words. Then you'll share that master's fate.
+
+Kaguya2e:You can both share a punishment befitting your sins together.
+
+<end>
+
+<ChatID:66>---------------------------------------
+//メーコvs.一輪
+
+Ichirin1b:So this is Shiro's true form... I guess she's not an old youkai like Unzan then.
+
+Unzan0a:...
+
+Meko0b:Ooh... Why is he glaring at me like that?!
+
+Ichirin1d:He's saying "She really is young. Who would make a child do such cruel things?"
+
+Ichirin1d:Yeah, your boss must be one cold-hearted lady.
+
+Meko1b:Don't you dare insult her! I'm doing this because I want to!
+
+<end>
+
+<ChatID:67>---------------------------------------
+//メーコvs.メーコ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Meko1c:Finally, my old self...
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Meko0b:Bwuh? Me?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Meko1b:Do you really think it was alright to mess up the kappa's bazaar?
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Meko0e:Of course, it was dangerous.
+
+Meko1f:I have to get rid of everything, for her sake!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Meko0g:I get where you're coming from, but...!
+
+Meko1b:Both Lady Makura and I don't think that anymore, so I have to stop you!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Meko0b:Who are you anyway?!
+
+</nomove>
+
+<end>
+
+<ChatID:68>---------------------------------------
+//メーコvs.まくら
+
+Makura2b:...Mehko.
+
+Meko3a:Bwuh? Lady Makura?!
+
+Meko0b:What are you doing here?! You're supposed to be—
+
+Meko1b:No, wait, you can't get up so soon!
+
+Makura2a:...I'm sorry. I was worried about you.
+
+Makura1c:I know you've been working hard, but please, don't push yourself.
+
+Meko1a:Just leave this to me! I can do anything if it's for you!
+
+Makura1a:Then could you exchange danmaku with me?
+
+Meko3a:Huh?! But... Well, I guess? Sure, lemme give it a shot!
+
+Makura1c:(What a pure and honest girl. To think I made her wreck the bazaar...)
+
+Makura2a:(The cause of all this was my past self, and my old ideals.)
+
+Makura2b:(I wonder... is my old self still inside me, to this day?)
+
+<end>
+
+<ChatID:69>---------------------------------------
+//メーコvs.幽香
+
+Yuka0d:It seems the cat's finally out of the bag.
+
+Meko1d:You too, Yuuka Kazami?!
+
+Meko1a:You're acting like it just got revealed, but I bet you've talked about us before.
+
+Yuka1b:Was I not supposed to? I was hardly sworn to secrecy. Or are you implying we were on the same side?
+
+Meko0f:W-Well, um, no...
+
+Meko1a:But don't blame me if she gets mad at you for getting in our way!
+
+Yuka1a:Tee hee, I'd love nothing more.
+
+<end>
+
+<ChatID:70>---------------------------------------
+//メーコvs.神綺
+
+Shinki5a:...The bazaar's a complete mess. I wonder if they can fix it?
+
+Meko4c:Fix it?
+
+Shinki1a:The kappa gave it their all to build that, all the while anticipating how much others would enjoy it.
+
+Shinki2a:And by trampling on all of that, you've only brought yourself sorrow.
+
+Meko0g:I...
+
+Meko1f:We shouldn't have any machines like those! Why can't you all understand that?!
+
+Shinki0e:...It's you who can't understand.
+
+<end>
+
+<ChatID:71>---------------------------------------
+//メーコvs.
+
+<end>
+
+<ChatID:72>---------------------------------------
+//シロに攻撃後
+
+Shiro0a:...
+
+<pause>
+
+Nitori2a:Aaah, she healed!
+
+Keine1a:You can't just attack her! You've got to get close and grab her!
+
+<end>
+
+<ChatID:73>----------------------------------------
+//メーコvs.依姫
+
+Yorihime0b:I've heard the stories, but it seems you were quite the villain.
+
+Meko0b:Bwuh?!
+
+Yorihime1a:I'm not interested in blaming you, but you do need to reap your just deserts.
+
+Meko3a:Y-You don't scare me! My knees aren't shaking!
+
+<end>
+
+<ChatID:74>----------------------------------------
+//メーコvs.豊姫
+
+Toyohime2b:Oh dear, those poor youkai...
+
+Meko1a:It's... It's their fault for making those machines!
+
+Toyohime1a:I can understand that you have your own sense of justice.
+
+Toyohime0c:But so do we. Do you understand what I mean?
+
+Meko1e:Well...
+
+Toyohime0b:An eye for an eye is so... barbaric, but perhaps a little chastisement is in order.
+
+<end>
+
+<ChatID:75>----------------------------------------
+//メーコvs.白蓮
+
+Byakuren2d:Please, stop this destruction at once!
+
+Meko1d:What the heck? Who're you?!
+
+Byakuren0d:The more sins you pile on, the heavier your karma will be.
+
+Byakuren5b:So please, before you hurt both yourself and others.
+
+Meko1c:You girls should be the ones regretting making all those machines!
+
+Meko1f:I should be the one telling you to stop!
+
+Byakuren2c:...If you won't listen to reason, then you leave me no choice.
+
+Byakuren0d:In order to ease your future burden by even a little, I can't hold back.
+
+Byakuren2d:Namusan!
+
+<end>
+
+<ChatID:76>----------------------------------------
+//メーコvs.非想天則
+
+Tensoku0a:...!
+
+Meko0b:Huh? This is that thing from earlier!
+
+Meko1d:I thought I broke it! Wait, wasn't it a balloon?
+
+Tensoku0a:...
+
+Meko1a:Oh well, I guess I gotta do it again.
+
+Meko1f:Just know that it's your fault for coming after me!
+
+Tensoku0a:...!
+
+<end>
+
+<ChatID:77>----------------------------------------
+//メーコvs.さとり
+
+Satori0b:So what drove you back then were loyalty and duty.
+
+Meko3a:Huh? Have I seen you before...?
+
+Satori0a:And a touch of unease at having attacked the bazaar...
+
+Satori0b:Of course, it's only natural for someone as straightforward as you to lose their way after witnessing something like that.
+
+Meko1d:Wh-What are you talking about? Stop acting like you know me!
+
+Satori0c:You should give up on hiding anything from me.
+
+<end>
+
+<ChatID:78>----------------------------------------
+//C58：メーコvs.非想天則
+
+Tensoku0a:...
+
+Meko3a:No way, that balloon from before? I thought I broke it...
+
+Meko1a:And this time it's moving? Can it transform?!
+
+Tensoku0a:...
+
+Meko1e:Oh well, I guess I gotta do it again.
+
+Meko1d:Just know that it's your fault for coming after me!
+
+<end>

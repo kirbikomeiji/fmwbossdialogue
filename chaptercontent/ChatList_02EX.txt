@@ -1,0 +1,705 @@
+﻿○幕間「新たなる結界
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: 2PP
+ 4: first battle vs. Reimu
+ 5: Reimu spell 1 start
+ 6: clear
+ 7: lose
+ 8: ADVB
+
+<ChatID:0>---------------------------------------
+//ADVA（未使用）
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP-1（出撃前）
+
+Akyu3e:Phew, will this place do?
+
+Kosuzu3b:Let's get closer, Akyu!
+
+Mokou1c:Whoa there, any closer and you'll get crushed by the Palanquin Ship.
+
+Momiji0a:We already saw it coming through the clouds, so it should be landing any minute now.
+
+Aya1a:It's already been a month since the ship left the surface... and now it's finally back.
+
+Aya0a:I guess it's time to say goodbye to our shrine maidenless Gensokyo.
+
+Yukari1a:...Indeed.
+
+Kanako3a:They entered communicator range just a little while ago, and I was contacted by Sanae.
+
+Kanako0a:From what I could glean from our brief conversation, it was quite an eventful trip.
+
+Minoriko1a:Yeah, like they got into trouble with the Lunar Defense Corp and stuff!
+
+Hatate6a:With THEM? I'm amazed they're coming back at all then.
+
+Tewi4b:Reisen just wouldn't shut up about whatever it was. Something about a Watatsuki? I couldn't catch it.
+
+Eirin4a:I would've expected that my letter would prevent any conflict though...
+
+Yuyuko1c:Then obviously something unexpected happened.
+
+Kaguya0a:Well, if they're returning safe and sound, it must have worked out somehow.
+
+Kaguya3c:I can't wait for them to regale us with their tales once they're back.
+
+Suwako3b:Well, based on what they said, we won't have to wait long.
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,304,400,1)>
+
+Marisa7c:*stretch* Finally, back on Earth!
+
+Elliy3b:Ooh, the Hakurei Shrine, I remember that!
+
+Nazrin3c:Looks like they brought out the welcome party too. A word from the captain, then?
+
+Murasa3c:Sure, lemme turn on the megaphone.
+
+Murasa1b:The Palanquin Ship has safely returned to port!
+
+<SE=se_talk_cheer01.ogg,wait=0>
+
+</nomove>
+
+Mokou0b:Yo, Keine, welcome back.
+
+Hina0a:I'm just glad you're all okay.
+
+<nomove>
+
+<Code=(cursor_jump,304,400,1)>
+
+Alice0d:...It really is comforting seeing everyone again.
+
+Keine6c:Let's head down to go greet everyone.
+
+</nomove>
+
+<pause>
+
+Chen3a:Miss Ran!
+
+Ran3d:Chen! You made it back!
+
+Ran4b:Were you lonely? Have you grown a little taller? Did you eat your meals without being picky?
+
+Chen0b:Yeah, and I counted to 100 in the bath too!
+
+Kanako2b:Welcome home, Sanae. You look well.
+
+<Code=(icon_set_direction,Sanae,Kanako,0)>
+
+Sanae4b:Yup, and I see you two haven't changed at all.
+
+Suwako4a:Kanako was being a real pain when you were gone. Like, saying we should've given you a cellphone and stuff.
+
+Kanako4c:I-I think that's enough of that!
+
+Yuyuko2a:Aww... Youmu!
+
+<nomove>
+
+<Code=(cursor_jump,304,464,1)>
+
+Youmu2b:Lady Yuyuko...
+
+Youmu4d:Could you have been feeling lonely without me...?
+
+</nomove>
+
+Yuyuko3b:Right, the mansion's been such a mess without you.
+
+Yuyuko2a:There's nowhere to walk, and nothing to eat!
+
+<nomove>
+
+<Code=(cursor_jump,304,464,1)>
+
+Youmu3b:...
+
+</nomove>
+
+Reimu0g:...Sheesh, looks like everyone with a guardian will be busy for a while.
+
+Remilia2a:It's been so long, I just feel like walking on the ground for a bit.
+
+<Code=(icon_set_direction,Cirno,Sanae,0)>
+
+Cirno3a:Hey, can we go play over there?
+
+Sakuya0a:Sure, I don't see why not.
+
+<Code=(icon_set_direction,Mystia,Cirno,0)>
+
+Mystia3d:Yay!
+
+<pause>
+
+Hina3a:It's such a relief seeing everyone act the same as ever. I was worried when I heard you ran into some trouble on the moon.
+
+Nitori4b:Nah, we just had a little unfortunate misunderstanding.
+
+Sho1a:While a lot happened, it ended without incident once we handed over Eirin's letter.
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Eirin0b:I see. So the Watatsuki sisters accepted it then...
+
+Eirin3c:...Udonge, tell me what happened in more detail later.
+
+</nomove>
+
+<nomove>
+
+<Code=(cursor_jump,304,464,1)>
+
+Udonge2b:Y-Yes, ma'am!
+
+</nomove>
+
+Yukari0a:Getting into a fight with the Lunarians of all things... While I'm glad it worked out, I really wish you wouldn't be so reckless.
+
+Yukari1a:Especially you, Reimu. If you hadn't made it back, then—
+
+Reimu3a:I-I know! Sheesh, a lecture as soon as I get back?
+
+Sunny5a:Then how about we have a danmaku battle here?!
+
+Wriggle3b:Good idea, it's been a while since we played outdoors!
+
+Reimu0e:Ooh, perfect timing. Well, you heard them, Yukari.
+
+Yukari0b:Hold it right there, Reimu!
+
+<pause>
+
+<Code=(icon_set_direction,All,ReimuR_en,0)>
+
+Yukari1a:...Oh dear, whatever am I going to do with her?
+
+Aya3b:Now now, it's a good chance to make sure she hasn't gotten rusty.
+
+Kanako3a:If her movement have dulled, then she'll need more training, or perhaps a better handle on her tools.
+
+Yukari0a:...True. Then I suppose I'll keep a close eye on this battle.
+
+Alice0a:Then we'll be resting on the sidelines.
+
+<pause>
+
+Reimu1a:C'mon, bring it on!
+
+<end>
+
+<ChatID:2>---------------------------------------
+//2PP（予備）
+
+Yukari0a:2PP Conversation
+
+<end>
+
+<ChatID:3>---------------------------------------
+//霊夢と初戦闘
+
+<Code=(icon_set_direction,All,ReimuR_en,0)>
+
+Cirno1a:Go get her, girls!
+
+Luna1a:Yeah!
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Suwako0a:They're pretty energetic for people who've been stuck in a ship for a month.
+
+Meiling0a:Well, they did have danmaku battles in that room. What was it called again? Not trombone...
+
+Patchouli1d:TROMPE!
+
+Flan0f:Tromp?
+
+Patchouli3e:TROMPE!
+
+Marisa0d:Especially Cirno. She challenged Reimu like a hundred times on the way back alone.
+
+Hatate6a:A hundred?!
+
+</nomove>
+
+Reimu0c:Well, I pretty much always win.
+
+Rumia3a:That's why we're not losing today!
+
+Reimu0b:You've got guts, I'll give you that. But do you have the skills to back it up?
+
+<end>
+
+<ChatID:4>---------------------------------------
+//霊夢と初戦闘後
+
+Reimu0b:Alright, and that's that.
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Yukari0b:...?
+
+Mokou0d:What, so she DIDN'T get rusty?
+
+Aya1a:If anything, she's in top condition.
+
+</nomove>
+
+Reimu0g:Yeah, well, if I get too carried away I'll break my purification rod, so...
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Akyu5a:Oh, I wouldn't worry about that, it's made by Yukari herself.
+
+Yukari0b:...
+
+Akyu2b:Wait, what's wrong?
+
+Yukari1a:Oh, nothing. Something just caught my eye about Reimu's movements.
+
+Momiji0a:It does feel like she's nimbler than usual...
+
+Yukari0b:...And that's what bothers me. That's not how I made it.
+
+Momiji6a:Ha...
+
+Yukari4b:(Hopefully it's just my imagination. But did something happen on the moon...?)
+
+</nomove>
+
+<end>
+
+<ChatID:5>---------------------------------------
+//霊夢通常撃破
+
+Reimu2b:Mrgh...
+
+<Code=(icon_set_direction,All,ReimuR_en,0)>
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Aya5b:Now Reimu's being cornered.
+
+Kanako0c:Is she truly out of practice then?
+
+Suwako4b:I can't believe she took on the Lunarians like that.
+
+</nomove>
+
+Reimu0d:Hey, I can pull through when it counts! Sort of.
+
+Wriggle1a:But at this rate, maybe we can beat her even if she uses that technique!
+
+Mystia3d:Yeah, we can do this!
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Yukari2a:And what technique is that...?
+
+</nomove>
+
+Reimu0g:Ah, yeah, I came up with a new danmaku while we were fighting the people from the moon.
+
+Reimu2b:I really don't feel like showing it in front of YOU though...
+
+Rumia1a:Do you wanna lose in front of her then?
+
+Reimu1b:Grr... Fine, I'll do it!
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Ran0c:What is she...?
+
+</nomove>
+
+Reimu1a:Here goes! Ultimate Technique!
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Yukari2a:...!
+
+Kanako2a:Reimu's aura changed?!
+
+</nomove>
+
+Mystia1c:Hey girls, she did the thing!
+
+Sunny1c:Alright, get her!
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Hatate2b:Whoa, brutal! That, like, hurt to watch...
+
+</nomove>
+
+Reimu5a:...
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Momiji1a:Wha? She didn't even flinch?!
+
+</nomove>
+
+Wriggle5b:No good after all, huh? Back into position, everyone!
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Kanako2a:What WAS that just now?
+
+Ran6e:Did the bullets pass right through her?! Don't tell me she...?
+
+Yukari2a:...
+
+Yuyuko1d:Oh dear. She loosened Yukari's barrier, didn't she?
+
+Eirin2a:What is this? To reject any and all interference...
+
+Eirin1d:Are you telling me she's holding herself apart from our spacetime?
+
+Yukari0b:What's going on here? Since when did you...?
+
+Yukari2a:You said you "came up with it" in space, but what exactly happened to cause you to—
+
+Marisa4c:Whoa there, they'll still in the middle of battle. Just shut up and watch.
+
+Marisa7a:I mean, she hasn't even declared it yet.
+
+Suwako0d:Declared what?
+
+</nomove>
+
+Reimu1b:Now, I hope you're ready...
+
+Reimu1a:[Natural Fantasy]!
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Ran1b:...!
+
+Yukari0b:Did she just... name it?
+
+</nomove>
+
+<end>
+
+<ChatID:6>---------------------------------------
+//クリア
+
+<Code=(icon_set_direction,All,ReimuR_en,0)>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Reimu2b:Grah...
+
+Kurumi0a:We did it! We hit her!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Reimu2b:Grah...
+
+Kurumi0a:Hehe, we got away!
+
+</Cond>
+
+Star3d:We're already starting to get used to that technique of hers!
+
+Reimu0d:No you aren't, I just got careless! I wasn't feeling well today!
+
+Rumia3a:Sounds like a sore loser!
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Suwako0b:...So Cirno's side won. Huh.
+
+Kanako2a:Reimu's spell looked like deviated danmaku, freed from all forms of interference...
+
+Kanako3c:Even so, was she putting on an act of giving them a fair fight?
+
+Yukari0b:...Indeed, that was certainly a danmaku battle.
+
+Yukari2a:Now, will you tell us the full story?
+
+</nomove>
+
+Reimu3c:Huh? About what...?
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Aya4a:It's no use playing dumb. About how you learned that technique!
+
+Akyu3c:There's enough tea for everyone, so how about we discuss this in the shrine?
+
+</nomove>
+
+<end>
+
+<ChatID:7>---------------------------------------
+//全滅
+
+Rumia2b:We're done for!
+
+Reimu0c:What, all bark and not bite?
+
+Luna3b:Can't you at least let us win once in a hundred times?!
+
+Sunny1a:Who cares about a little thing like that? We just have to try again!
+
+<end>
+
+<ChatID:8>---------------------------------------
+//ADVB
+
+<BG=bg_talk_Shrine_Winter.png,fade=1,color=1,title=bg_Shrine,bgm=bgm_talk_ningyo>
+
+Reimu2b:Phew, I'm beat.
+
+Marisa7c:Yeah, you sure were!
+
+Sakuya0a:To have victory stolen from you in your very first battle since returning...
+
+Reimu0g:Oh, you two. Where were you until now?
+
+Reimu0d:Wait, that thing in your hand!
+
+Keine6b:You mean this taiyaki? Akyu and the others brought them.
+
+Akyu5a:We lined up early in the morning to buy them for your return.
+
+Youmu4d:And they're always sold out too... I can't believe we get to eat so many. I'm touched!
+
+Reimu2b:Oh... So that's why it was so quiet...
+
+Reimu0g:Wait, is there any for me?!
+
+Sanae5c:Ah... about that...
+
+Alice4a:We tried to leave some for you, but it was hard to stop them...
+
+Meiling3a:Cirno and her friends took everything that was left.
+
+Reimu5f:No way... My taiyaki...
+
+Sakuya5b:More importantly, you've been a big topic of discussion down here.
+
+Reimu0e:Me? Why?
+
+Minoriko0a:I mean, who ever heard of a shrine maiden who leaves the Earth for a whole month?
+
+Minoriko3a:It'd have been kinda a huge deal if you never came back.
+
+Reimu2b:You mean about who will maintain the barrier and all that.
+
+Shizuha4a:Yeah, we figured you'd be fully aware of that much, but...
+
+Hatate3d:Oh, and also that spell just now! What's up with that?!
+
+Yukari0b:I'm quite curious to know myself.
+
+Reimu0f:...!
+
+Marisa0d:Yukari, and the rest of the big-shots!
+
+Eirin3b:How could we NOT be interested after seeing that?
+
+Yuyuko1a:It was such a shock when you suddenly used a power like that.
+
+Suwako0d:You kinda mentioned this, but you came up with it while fighting on the moon?
+
+Reimu0f:...I guess? We were having some trouble, and it looked like Yorihime was going to capture us.
+
+Reimu5a:So to shake them off, I just kind of...
+
+Yukari2a:You "kind of" what? And so you broke my barrier?
+
+Reimu3b:No, that was—
+
+Yukari2a:...The power behind that spell you showed us could easily destroy the balance of Gensokyo. It's that dangerous.
+
+Yukari4a:And to think you'd release it, just like that.
+
+Alice1c:...I know this sounds like an excuse, but we were desperate back there.
+
+Alice4a:Especially Reimu, she wanted to get back to Gensokyo no matter what.
+
+Yukari4a:...
+
+Eirin1d:Are you saying you awakened to a new power on the spot?
+
+Keine0c:I don't know the details, but it's true that she saved us.
+
+Kaguya2e:But surely even the slightest mistake with that technique would have been dangerous.
+
+Alice4b:You're right... It's such a one-sided power...
+
+Sanae1e:Some of the kids were even scared when we first saw it.
+
+Yukari2a:...Of course they were. Such power isn't fit for a mediator.
+
+Yukari4a:I applied that barrier specifically to prevent this, but...
+
+Minoriko0b:But didn't she handle it pretty well just now?
+
+Shizuha2b:Yeah, what was up with that?
+
+Reimu0g:Oh, that's 'cause we gave it a name.
+
+Eirin2a:A name...?
+
+Kanako4e:Come to think of it, you did call it [Natural Fantasy].
+
+Ran6c:No matter what sort of power it is, once it's named a spellcard it's nothing more than a game...
+
+Ran6b:Don't tell me that's the barrier you established for your power?
+
+Yukari0b:You could call it the very essence of the spellcard rules. Did you...?
+
+Reimu3a:Ah, let me stop you right there. I'm not the one who thought of it.
+
+Marisa6a:Mhm. I'm pretty good at coming up with names, if I do say so myself.
+
+Suwako0c:Huh? So Marisa did it?
+
+Kanako0a:Even upon witnessing such a violent power? Your quick thinking may have saved us all.
+
+Minoriko3a:Yeah, who'd see something like that and think to make it a game?
+
+Marisa4a:I mean, it's not like I really thought about it that much.
+
+Marisa4c:I just thought it'd be boring if her real power had to be sealed up like that.
+
+Marisa0a:Nothing feels better than letting it all out, yeah? Figured it'd be the same for Reimu.
+
+Yukari5a:...
+
+Eirin0a:...A deviation can't be the core of an equilibrium.
+
+Eirin3c:In that sense, I suppose you preserved the position of the Hakurei Shrine Maiden.
+
+Marisa7c:And all's well that ends well. Maybe you can't tell, but she gets real hung up on that job of hers.
+
+Reimu3a:Hey, that's—
+
+Yukari0a:But if that's the case, then I need to state my appreciation.
+
+Yukari1a:Thank you, Marisa Kirisame. It seems my assessment of you was lacking.
+
+Marisa7c:Heh, now you're making me blush!
+
+Yukari0a:And you too, Reimu.
+
+Reimu3c:Huh? Me?
+
+Yukari1a:Once again, congratulations on a safe voyage. You did well making it back.
+
+Reimu0g:...I mean, I DID make that promise. It's nothing worth mentioning.
+
+Reimu5f:If anything, I thought you'd be angry...
+
+Yukari4c:Even so, I'm glad you came back after venturing so far.
+
+Yukari5a:I was afraid my voice might no longer reach you.
+
+Reimu0b:...
+
+Reimu0g:Then is it okay if I keep being the Hakurei Shrine Maiden?
+
+Yukari1a:Of course. I expect you to be back hard at work after a short break.
+
+Reimu3a:...I guess that's fine, but sheesh, you work people to the bone.
+
+Yukari0a:Also, one more thing.
+
+Reimu0e:What, there's more?
+
+Yukari4c:Welcome home, Reimu.
+
+Reimu0f:...
+
+Reimu0c:I'm back, Yukari.
+
+<single>
+
+Yukari5a:(...To think she'd overcome my barrier. Her talent is frightening.)
+
+Yukari0a:(But with but a single name, Reimu's place in Gensokyo is preserved, and she can exist as a human...)
+
+Yukari1a:(She can even express herself without being bound by the Hakurei Barrier.)
+
+Yukari0a:(I must adjust my evaluation of you, Marisa Kirisame.)
+
+Yukari4c:(And, Reimu...)
+
+Yukari0a:(You will mold yourself a new barrier. Treasure it.)
+
+<end>
+
+<ChatID:9>---------------------------------------
+//
+
+<end>
+
+<ChatID:10>---------------------------------------
+//
+
+<end>
+
+<ChatID:11>---------------------------------------
+//
+
+<end>
+

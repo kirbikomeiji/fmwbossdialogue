@@ -1,0 +1,1186 @@
+﻿〇メーコ篇第三話「紅白弾合戦
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: beat Mokou (clear)
+ 4: defeat
+ 5: ADVB
+ 6-19: battle vs. ...
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<MAP=9,FROM=マーガトロイド邸,TO=マーガトロイド邸,name=Margatroid Residence,icon=6>
+
+<BG=*bg_talk_Alice_Winter.png,fade=1,color=1,title=*bg_Alice,bgm=bgm_talk_aoki>
+
+Alice0d:Are you ready to go, Medi?
+
+Medicine3d:Uh-huh, I'll be right there!
+
+Shinki0a:Oh, that bag is ADORABLE. Did you make it, Alice?
+
+Alice0d:I just thought she'd need something sturdier now that she's going out more.
+
+Medicine0e:Look, Sue fits inside too!
+
+Yumeko3d:That's nice. Take good care of it.
+
+Yumeko3c:...This reminds me of when Alice was little.
+
+Shinki0d:Yeah. She used to love that little pouch I made her, even though it was so crude.
+
+Alice5b:Sheesh, it's been nothing but childhood stories since yesterday.
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+Meko0b:Um... Good morning...?
+
+Medicine2e:Oh, morning!
+
+Alice2b:Right on time. Sorry for the short notice, but we're right about to leave.
+
+Alice0d:You two take care on your way home too, Mom.
+
+Shinki0a:Okay, okay. You have fun too, Medi and Mehko.
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+<single>
+
+Meko4c:...Um, is Shinki not coming with us?
+
+</single>
+
+Alice4c:Seems she has a busy schedule. She must have taken yesterday off.
+
+Medicine3c:I wanna sit down and have a long chat with her next time.
+
+Meko4b:Yeah, she seems nice. I'd like to talk to her too.
+
+Meko0a:By the way, what are you doing at Eientei today anyway?
+
+Medicine0a:Helping make medicine.
+
+Meko4c:Huh? How? I thought your ability controlled poison...
+
+Medicine3a:Poison's bad for the body, but if you use it right it can be medicine too. That's what Eirin said.
+
+Medicine5e:So I can help out just by being there.
+
+Meko4c:Huh... So you can use poison like that too?
+
+Alice0d:Medi's been saying how much she'd like to be helpful to everyone.
+
+Medicine2a:N-Not everyone! I just don't want you or Yuuka catching a cold or something...
+
+Meko4a:Still, it sounds nice. Here in Gensokyo, everyone's using their powers to help everyone else.
+
+Alice4c:That's taking it a bit far, but something like that.
+
+Alice0d:Even Medi had to learn step by step before she got to where she is now.
+
+Meko4c:Learn what...?
+
+Medicine4a:...At first, I really hated humans and puppeteers.
+
+Medicine3a:But after I met Alice and Hina, and we all had a danmaku battle, I figured out I was overthinking it.
+
+Meko0a:Danmaku again, huh...
+
+Meko4b:So it's not just good for getting closer, but it can help you realize that sort of thing too?
+
+Alice0d:Whenever you put something to words, you're filling them with your thoughts and feelings.
+
+Alice4c:And in the same way, danmaku carries a part of ourselves.
+
+Alice3b:And if you're aware of that when you look back on it, you can even find your own feelings in your danmaku.
+
+Meko1a:Uh-huh, uh-huh...
+
+Alice0d:And reconfirming your feelings can be a step towards self-confidence too.
+
+Meko1a:Uh-huh, self-confidence...
+
+Meko0c:I see, I see...
+
+Medicine3d:...If you don't get it, you can just say so.
+
+Meko0b:Huh, was it that obvious?!
+
+Alice4c:It IS a little complicated. It's fine not to get it at first.
+
+Alice0d:Just take it at your own pace, and learn a little bit here and there.
+
+Meko2b:You're so nice, Alice...
+
+Alice0a:...And while we've been absorbed in conservation, we really do need to get headed to Eientei.
+
+Alice2c:I want to ask if Makura really has been hiding herself from the humans.
+
+Meko1a:Yeah!
+
+<MAP=9,FROM=永遠亭,TO=永遠亭,name=Eientei,icon=5>
+
+<BG=*bg_talk_Eientei_Hallway.png,fade=1,color=1,title=*bg_Eientei,bgm=bgm_talk_gag>
+
+Tewi3c:Here ya go, have some tea.
+
+Udonge4b:You're late, Tewi! How long do you think you made these two wait?
+
+Toyohime0b:Oh, don't worry about it.
+
+Eirin0a:You must be tired from your investigation. Please make yourselves at home.
+
+Yorihime0d:Thank you for showing us such hospitality each and every time we impose on you.
+
+Yukari0a:It seems the follow-up report on the Dream Changing Incident has been going well.
+
+Toyohime0a:Yes, I appreciate how you've arranged things to make it easier for us to move around here on Earth.
+
+Ran6a:But of course. The problem arose here, after all. We're always willing to show you around.
+
+Kaguya3c:I never imagined the bigwigs of the surface and the moon would get along so smoothly.
+
+Yuyuko1c:Dragging around the past does nothing but make the present harder.
+
+Yuyuko1a:We need to approach this with fresh feelings to improve our relationship. Isn't that right, Yukari?
+
+Yukari1a:...Yes, I agree completely.
+
+Youmu0c:So are you just about done dealing with the aftermath of the incident?
+
+Reisen0a:Yeah, even the Dreamscape is pretty much back to normal.
+
+Yorihime0a:The higher ups do keep asking how much longer we'll need to keep up this fieldwork though.
+
+Toyohime1a:Well, we did get a good recommendation from a renowned dream expert.
+
+Tewi3a:So basically you're using the investigation as a pretext to hang out on Earth.
+
+Udonge4a:The power of someone good at dealing with politics...
+
+LilyW4e:Who cares why, I'm just happy I get to see Miss Rabbit!
+
+LilyW5c:Please don't mind that I sometimes get depressed.
+
+Reisen3e:Whoa, talk about a mood swing.
+
+Eirin3c:Regardless, I doubt even you can fool them forever, Toyohime.
+
+Toyohime2a:Yes, we're already out of new things to report.
+
+Toyohime5a:I'm afraid we'll soon have to reduce the frequency of our visits.
+
+Yukari0a:In that case, I'm sure you all have a lot to talk about. We'll be taking our leave.
+
+Yukari1a:I really shouldn't be working in the winter in the first place...
+
+Chen0b:Miss Yukari's going out with Miss Yuyuko!
+
+Youmu4c:I was told she wouldn't need dinner either... They must be planning to take their time.
+
+Yukari0e:Hey, don't just go babbling about other people's plans!
+
+Yorihime0b:...Ahem. While we certainly wouldn't be adverse to spending more time with Lady Yagokoro...
+
+Yorihime0d:First I'd like to share a bit more intel on the situation of the mastermind behind the incident.
+
+Toyohime0a:True, we really do need a precise report on that.
+
+Ran0a:Makura Muwatari's situation, is it? That concerns us as well, but...
+
+Ran4a:To be perfectly blunt, we don't know. Not even rumors.
+
+Yorihime3a:How can there not even be any rumors?
+
+Udonge3b:It seems like she's still in Gensokyo, but she hardly ever shows herself.
+
+Tewi4a:And even if you do happen to catch a glimpse of her, it's not like she's eager to talk about herself.
+
+Toyohime2b:Well, that's a problem. If only SOMEONE knew...
+
+Eirin1a:We do have some visitors coming today, so you could try asking them.
+
+Eirin0a:Medicine and Alice are scheduled to come help with the medicine.
+
+Reisen0b:Huh. That poison girl?
+
+Toyohime1a:Medicine and poison are two sides of the same coin. Of course her ability could be used like that.
+
+Medicine3d:Hello!
+
+Kaguya0a:Speak of the doll...
+
+Medicine3b:Excuse us! I'm here to help with the medicine, Eirin!
+
+Alice0d:Good afternoon. I brought some cookies I baked yesterday.
+
+Alice2b:Oh, you're here too, Yorihime and Toyohime?
+
+Yorihime0d:Yes, we're doing a follow-up investigation on—
+
+Yorihime0a:Wait, is the one hiding behind you...?
+
+Meko2b:Hawawa, why are the Lunarians here...?
+
+Toyohime0b:If it isn't the sheep girl! It's been a while, hasn't it?
+
+Meko5d:Ngh... No, not the fan!
+
+Toyohime2c:Isn't that a bit much, just for seeing my face?
+
+Udonge3a:You've completely traumatized her, Lady Toyohime.
+
+Eirin1a:Excellent timing, Mehko. We'd like to ask you something.
+
+Meko0b:Huh? Me?
+
+Yorihime0c:We came to Earth to do a follow-up on the Dream-Exchanging Incident.
+
+Yorihime0d:So as Makura Muwatari's attendant, could you tell us anything about her current situation?
+
+Meko4c:You wanna know about Lady Makura?
+
+Meko0a:...Um, actually, there's something I wanna ask about that first.
+
+Reisen0b:What? You, ask us?
+
+Toyohime0a:I must admit I'm curious as well.
+
+Meko0g:...Have the humans who come here said anything about their dreams?
+
+LilyW0d:Hm?
+
+Tewi0b:You mean like whether they've been seeing good or bad dreams?
+
+Meko1e:Yeah! If possible, maybe what kind of dreams they've been having?
+
+Udonge4b:They do sometimes talk about that stuff between examinations.
+
+Udonge0a:Seems like they've been having strangely nice dreams.
+
+Alice0a:I see. And what are they about?
+
+Udonge0a:They've talked about having nightmares which suddenly get replaced with a good dreams.
+
+Udonge0b:Like, when they're struggling with their axe, suddenly firewood falls from the sky.
+
+Meko4c:Have any of them mentioned someone showing up?
+
+Udonge3b:Uh, no, I haven't heard anything like that.
+
+Tewi4b:So what's this all about?
+
+Meko0a:...Lately, Sanae and Sakuya have been having good dreams too.
+
+Meko1e:And that's actually because Lady Makura is switching out the bad dreams for good ones...
+
+Meko0g:But Sanae said she had no idea that was happening, so I came to check how other humans thought about it.
+
+Reisen0a:Huh, so that was it.
+
+Udonge0b:So our patients have been having good dreams thanks to Makura's influence then?
+
+Udonge4b:I don't think anyone realizes that.
+
+Medicine2a:Just like we thought!
+
+Eirin1c:The actions themselves are perfectly befitting a baku, but for no one to even realize...
+
+Alice2c:Don't you agree it's unnatural? If what she's doing isn't acknowledged, how could anyone thank her for it?
+
+Youmu1b:Are we sure she's not just being especially modest?
+
+Yukari0d:This isn't an issue of her personality. Bakus are sacred beasts who earn faith by becoming close to humans in their dreams.
+
+Yukari0b:To hide from humans is to go against their original purpose.
+
+Ran0b:And unlike before, she should have no reason to hide her identity this time.
+
+Toyohime2d:...Hmm. It seems something strange is going on then.
+
+Yorihime0b:Somehow I doubt she's scheming something at this point though.
+
+Meko0g:...Actually, she's been kind of down lately.
+
+Meko0a:Could that be connected somehow?
+
+Eirin1d:Could you elaborate? I'd need to—
+
+<Code=(map_shake,1,60,2)>
+
+<SE=se_hit_bullet_L03.ogg,wait=1>
+
+Meko0b:Bwuh?
+
+Youmu2b:That sound... danmaku?!
+
+<Code=(sound_fadeout,BGM,30,0)>
+
+<BGM=bgm_talk_emergency,0>
+
+LilyW1b:That's a lot of shaking! It must've hit the building!
+
+Medicine1b:Sheesh! And we were finally getting somewhere!
+
+Reisen0b:Could it have just been a stray bullet?
+
+<Code=(map_shake,1,60,2)>
+
+<SE=se_hit_bullet_L03.ogg,wait=1>
+
+Chen2a:Wah! Another one!
+
+Tewi1c:Aw crap, they must be aiming straight for Eientei!
+
+Yorihime1b:We're under attack, Lady Yagokoro!
+
+Eirin1b:Calm down. I have a good idea who the culprit could be.
+
+Kaguya2c:Is it already time for that then?
+
+Meko0b:Time for what...?
+
+Toyohime2b:Lady Kaguya, you seem to have have an idea too.
+
+Kaguya2e:Just an educated guess, but this sort of unnecessary violence IS her style.
+
+Youmu1a:So you mean...
+
+<Code=(map_shake,1,60,2)>
+
+<SE=se_hit_bullet_L03.ogg,wait=1>
+
+Chen2a:Wah, Miss Ran!
+
+Ran1b:We can't ignore this any longer! Let's head out to deal with it!
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP-1（出撃前）
+
+Mokou1c:Get out here, Kaguyaaa!
+
+Mokou3a:...Tch. No response. I'll have to hit 'em for real next...
+
+Keine0b:I'd leave it at that if I were you. Don't blame me if they send you the repair bill.
+
+Mokou4a:Yeah, that'd be a pain. I guess that was noisy enough.
+
+Medicine1b:Hey! Who's doing that?!
+
+Alice1a:Who in the world would attack Eientei...?
+
+Meko0b:Wait, you two?!
+
+Mokou0d:Huh. Not who I expected to see pop out.
+
+Keine0b:Were you guests? Please excuse us.
+
+Youmu2b:Keine and Mokou? Were you the ones attacking just now?
+
+Yorihime1b:Scoundrels! What grudge do you have against Lady Yagokoro?
+
+Mokou0a:I couldn't care less about Eirin. I'm here for Kaguya.
+
+Kaguya1b:Ah, of course, you're here for our duel.
+
+Reisen3c:Duel...?
+
+Udonge3b:Oh right, you never saw this, did you?
+
+Keine0b:Sorry about this, as always. I've given up trying to stop her.
+
+Youmu3a:...Could this be one of Mokou and Kaguya's famous... you know.
+
+Meko4c:Uh, sorry, I don't know.
+
+Mokou1a:Deathmatches.
+
+Meko2b:Deathmatch?!
+
+Udonge3a:Uh, well, since they're both immortal they don't actually die when they're killed?
+
+Tewi3f:It's more like a game for them.
+
+Meko5b:They kill each other for fun?!
+
+Kaguya4b:While normally I'd simply love to take you on alone...
+
+Kaguya1a:We have quite the crowd today. Would anyone care to join us?
+
+Reisen3e:No no no, what the heck kind of invitation is that?!
+
+Kaguya3c:Naturally, we'd be keeping it in moderation. I can almost guarantee you won't die.
+
+Mokou1c:Hey. This is OUR duel.
+
+Kaguya1b:And these are OUR guests. Do you know how rude it is for the host to enjoy herself on her own?
+
+Kaguya0a:Even Keine must be getting bored of simply watching, don't you think?
+
+Mokou1e:Ugh, now that you mention it...
+
+Keine0b:Ah, no, feel free to leave me out of this.
+
+Alice4a:...Yet somehow I get the feeling that we're getting dragged in anyway.
+
+Yuyuko1c:I suppose we should deploy for now, then.
+
+<end>
+
+<ChatID:2>----------------------------------------
+//1PP-2（出撃後）
+
+Mokou1c:Alright, everyone ready...?
+
+<pause>
+
+Mokou4a:Hold up, there's a crapload of you. I'm supposed to go up against ALL of you?
+
+Yorihime0b:You're the one who started this. I trust you have no objections?
+
+Mokou3b:Well, sure, but Keine's here too, so...
+
+Toyohime2b:True, a battle that's too one-sided can hardly be considered honorable.
+
+Toyohime0b:Why don't we split into teams?
+
+Meko1a:Huh...?
+
+Kaguya3e:Fascinating. Feel free to choose whichever side you like.
+
+Eirin3c:Then naturally we will be in the princess's retinue.
+
+Udonge3a:Wait, who would want to be on the other side?
+
+<Code=(icon_set_direction,Yuyuko,FD_LEFT,0)>
+
+Yuyuko1c:Over here, Youmu!
+
+Youmu2b:What? Oh, right away!
+
+Yukari1a:So Yuyuko joined Mokou. Interesting. Then I'll be following suit—
+
+Yuyuko2b:Oh, no you don't, Yukari.
+
+Yukari0e:Huh?!
+
+Yuyuko3a:Why not spice things up once in a while?
+
+Yukari0e:And this is what you consider spicing it up...?
+
+Toyohime0b:Oh, I hadn't considered that. Then maybe I should join them as well.
+
+Yorihime1b:Are you really alright with abandoning our master in her time of need, Toyohime?!
+
+<Code=(icon_set_direction,Toyohime,FD_LEFT,0)>
+
+Toyohime0a:It's just a game, Yorihime. If anything, it's a valuable opportunity to test my skills against her.
+
+Yorihime1c:I-I see!
+
+Yorihime5b:Still, I can't imagine pointing my sword at her...
+
+Toyohime0b:As inflexible as ever. Then come join me, Udonge.
+
+Udonge2b:What?! I mean, I guess I don't really mind...
+
+Yukari1b:Then Chen will be on this side, and Ran on the other.
+
+<Code=(icon_set_direction,Ran,FD_LEFT,0)>
+
+Ran0c:Ha?! Please don't take your anger out on me.
+
+Yukari5a:It's a good opportunity to see how far Chen has come. And she will be fighting with me, after all.
+
+Ran4a:...If you insist.
+
+Alice0a:...Sounds like it's settled then. Let's join Kaguya's team.
+
+Meko1a:Okay, got it!
+
+Youmu1c:Then...
+
+<pause>
+
+Mokou1a:Okay, NOW we're ready. This may just be a team match, but don't you dare hold back on me.
+
+Kaguya3f:Indeed, "bring it on," as they say.
+
+<end>
+
+<ChatID:3>----------------------------------------
+//妹紅を撃破（クリア）
+
+<Code=(icon_set_direction,All,Mokou_en,0)>
+
+Mokou3c:Grr...
+
+Yorihime0b:We've taken their general. That's our victory.
+
+Eirin3c:With this, the princess's record this season is 21 wins, 20 losses, and 10 draws.
+
+Kaguya3d:How exhilarating, I've taken the lead.
+
+<Code=(icon_set_direction,Mokou_en,Kaguya,0)>
+
+<Code=(icon_set_direction,Mokou_en,Eirin,0)>
+
+Mokou1c:It'll be neck and neck when I win next time!
+
+Reisen3e:It's barely even over and they're already at it again...?
+
+Keine3a:Don't mind them, it's always like this.
+
+Meko4c:...So, it's actually over though, right? We can stop now?
+
+Alice0d:For now, let's regroup with the other side and take a break at least.
+
+Tewi3c:Yup yup, we're serving tea so get your butts inside.
+
+<end>
+
+<ChatID:4>----------------------------------------
+//全滅
+
+Meko2a:I can't believe we lost!
+
+Mokou1c:Alright! I've taken the lead!
+
+Mokou5b:Make red rice for dinner tonight, Keine, to mark the occasion.
+
+<Code=(icon_set_direction,Keine_en,Mokou_en,0)>
+
+Keine3a:Is it really worth making a fuss over? It's not like Kaguya's going to take this lying down.
+
+<Code=(icon_set_direction,Eirin,Mokou_en,0)>
+
+<Code=(icon_set_direction,Kaguya,Mokou_en,0)>
+
+Kaguya2e:I most certainly will not. One more round, Mokou!
+
+<end>
+
+<ChatID:5>----------------------------------------
+//ADVB
+
+<MAP=9,FROM=永遠亭,TO=永遠亭,name=Eientei,icon=6>
+
+<BG=*bg_talk_Eientei_Hallway.png,fade=1,color=1,title=*bg_Eientei,bgm=bgm_talk_ningyo>
+
+Tewi0a:Here ya go, tea.
+
+Udonge3a:At least put some effort into it... we have guests, you know.
+
+Mokou2b:Ow ow ow... Go easy on me, Keine.
+
+Keine0b:If I don't properly bandage your wounds now, you'll be feeling it in the morning.
+
+Meko0a:Mokou's the one who charged in, but you're always on her side, huh Keine?
+
+Reisen0a:Well, you know how it is. It's because it's her.
+
+Keine5b:Hey, don't make fun of me!
+
+Alice0a:Still, are Kaguya and Mokou always at each other's throats like this?
+
+Udonge3b:If anything, I'd say they were being pretty laid back today.
+
+Medicine0c:But doesn't it hurt?
+
+Yukari1a:Sometimes an exchange that comes with pain can still be important.
+
+Ran0a:Perhaps it's precisely because of their eternal lives that there's meaning in confirming that they're alive.
+
+Kaguya3c:Oh, I wouldn't say it's as grandiose as all that.
+
+Meko4a:...Come to think of it, we saw some people earlier who were always snipping at each other but were actually close.
+
+Meko4b:So does that mean Mokou and Kaguya are secretly best friends too?
+
+Mokou3e:No freaking way!
+
+Chen0b:But that team battle was a lot of a fun!
+
+Alice0d:To us, it felt less like a duel and more like a sports match.
+
+Eirin3a:It was certainly novel, exchanging danmaku with people we'd normally have no reason to.
+
+Toyohime0b:Split between the moon and the Earth, master and servant, and even friends... That was quite a valuable experience.
+
+Meko4c:You all already get along so well, and it still felt fresh?
+
+Ran0a:Even the closest of relationships have things they can't normally say to each other.
+
+Yuyuko1c:So a danmaku battle is the perfect chance to express things that are hard to say.
+
+Kaguya2c:You could even call it a secret trick to learn each other's innermost feelings.
+
+Meko1a:Our innermost feelings, huh...
+
+Meko0g:...I wonder what Lady Makura is thinking.
+
+Keine0a:Hm? Is something going on with Makura?
+
+Youmu0c:Now that you mention it, we were talking to Mehko about her when we got interrupted.
+
+Mokou4a:What's this all about, then?
+
+Meko0a:...Actually, I came to Eientei because I wanted to consult with you about her.
+
+Meko0f:It's a long story, but...
+
+<BG=bg_talk_Eientei_Hallway.png,fade=0,color=1,title=*bg_Eientei>
+
+Keine4a:...So she's giving humans pleasant dreams, but not letting anyone know?
+
+Mokou3b:That IS kinda weird...
+
+Keine0c:Baku on Earth survive by switching nightmares for dreams and gaining faith from humans.
+
+Keine4a:One-sidedly giving them dreams does nothing but wear away her own power.
+
+Toyohime2d:To a spiritual being like a youkai, you could even call it a form of suicide.
+
+Meko3a:S-Suicide?! It's really that bad?!
+
+Eirin1d:It may not reach that point for a while, but it should gradually weaken her.
+
+Youmu1b:And you really haven't heard anything about this from her, Mehko?
+
+Meko0f:Uh-uh, not a word...
+
+Tewi4a:I mean, it's not like she'd do it for no reason.
+
+LilyW5a:Hmm, a reason, huh?
+
+Chen4a:Miss Ran, my head's spinning!
+
+Reisen3c:Lady Yagokoro, I think it's time for some of your sagely wisdom!
+
+Eirin4a:...Well, I can more of less imagine the reason.
+
+Meko0b:Huh?!
+
+Medicine2a:So you know what Makura's thinking, Eirin?!
+
+Eirin1c:I think it's safe to say that devoting herself to humanity might be her way of atoning to Gensokyo.
+
+Eirin0a:But I find it hard to believe that she did so intending to drive herself into a corner.
+
+Youmu2b:...Meaning, what?
+
+Eirin1d:Most likely, she is unable to fully affirm herself as belonging in Gensokyo.
+
+Eirin0a:My guess would be that this leads her to unconsciously distance herself from the humans here.
+
+Meko1c:...!
+
+Udonge4a:Unconsciously...?
+
+Youmu1b:True, right after we beat her, she DID say that she needed to remove herself.
+
+Youmu0a:But I thought she'd opened up to living here after that.
+
+Alice4a:...So did I, but she must still not be able to accept it, deep down.
+
+Meko1f:Then, what do we do?!
+
+Meko0f:If Lady Makura's just gonna get weaker and weaker, I—!
+
+Yuyuko0b:Now that it's come to this, what else can we do but ask her directly?
+
+Meko4c:What...?
+
+Alice0a:We've already got a good idea of what she's doing and why.
+
+Ran0b:So all that's left is to confirm it with her and discuss what to do about it.
+
+Meko0g:But, what if she hasn't said anything because she doesn't wanna talk about it?
+
+Udonge6c:Sounds plausible. In which case...
+
+LilyW1d:You just have to talk it out with danmaku, Mehko!
+
+Meko4c:Huh...?
+
+Yorihime0d:Exchanging danmaku draws out your innermost feelings. That's precisely what we did here today.
+
+Meko1a:I get it, so I invite her to—!
+
+Meko2c:Invite her to...
+
+Toyohime0b:You don't sound very confident.
+
+Meko0g:I mean, I still don't really get this stuff about danmaku showing your heart or whatever.
+
+Meko0f:I can kinda tell that Lady Makura is holding back her feelings too...
+
+Youmu3a:Mehko...
+
+Yukari0b:....
+
+Yukari0a:I see. In that case, isn't that all the more reason for you to practice?
+
+Meko0a:Practice what...?
+
+Yukari1a:Speaking in danmaku, of course. And through danmaku, your true self will be revealed.
+
+Yukari0a:Before you can help her, you must first be able to do it yourself.
+
+Meko4c:Do it myself...
+
+Eirin3a:At the very least, it should give you the confidence to invite her to a danmaku battle.
+
+Yuyuko1c:Haven't you already been going around all over the place? Just keep it up, and good luck!
+
+Meko1a:...Yeah, you're right! I just need to practice!
+
+Yorihime0d:Then you have a plan. All that's left is to find a suitable opponent.
+
+Yorihime1a:Of course, if you need practice, then my sister and I would be happy to oblige.
+
+Reisen3e:No, that's way too high a hurdle, for a lot of reasons!
+
+Eirin1a:Then I suppose I'll have to provide you both an opponent and a guide.
+
+Eirin0a:Tomorrow, Udonge will be visiting the Palace of Earth Spirits. Would you care to join her?
+
+Meko4c:Huh, down there...?
+
+Tewi4b:Isn't that a pretty high hurdle in its own right?
+
+Yukari1a:...No, it's absolutely perfect. That should make for excellent training.
+
+Yuyuko1a:If you're feeling lonely, I could send Youmu with you.
+
+Yuyuko1c:Don't worry about my sword lessons, go forth and spread your wings.
+
+Youmu2b:So you just want to slack off, huh...
+
+Meko1a:A danmaku battle in the Underworld, huh?
+
+Eirin0a:In the end, it's just a suggestion. Only you can decide for yourself.
+
+Meko0f:I...
+
+Meko3b:(...If I go down there, I'll definitely have to face Utsuho and Rin.)
+
+Meko2c:(A danmaku battle with them? That's just...)
+
+Meko6a:(But...)
+
+Alice1c:Mehko?
+
+Meko1c:...I'll do it. I'll go.
+
+Meko1a:This isn't about my feelings. It's about saving Lady Makura...
+
+<end>
+
+<ChatID:6>----------------------------------------
+//初戦闘（キャラ指定なし）
+
+<Code=(icon_set_direction,Mokou_en,Kaguya,0)>
+
+<Code=(icon_set_direction,Mokou_en,Eirin,0)>
+
+Mokou1b:This is the thousandth year since we met here. I'll burn you to ash!
+
+<Code=(icon_set_direction,All,Mokou_en,0)>
+
+Kaguya4b:I'll make sure you're comfortable laid out beneath my treasures.
+
+Tewi3f:Still with the taunting? Don't these two ever get tired of it?
+
+Meko0b:I knew they were on bad terms, but Mokou is especially into this.
+
+Keine0a:They've been connected by fate since before she even became immortal, after all.
+
+Keine3b:Ever since then, she's considered Kaguya her arch-nemesis.
+
+Medicine0d:Wow, an arch-nemesis... That's kind of incredible, actually.
+
+Keine0b:Apparently they've been having these duels for centuries too.
+
+Meko0b:Fighting for hundreds of years? That must be some grudge.
+
+Eirin0a:Maybe at first, but I wouldn't be so sure about that anymore.
+
+Eirin1a:Perhaps the repetition itself has given rise to its own meaning.
+
+Meko4c:Er... what?
+
+Yukari0a:We can discuss this later, focus on the battle for now.
+
+Yukari1a:No doubt there is plenty you can learn from an unusual lineup like this.
+
+Meko1a:G-Got it!
+
+<end>
+
+<ChatID:7>----------------------------------------
+//初戦闘：メーコ
+
+Meko0b:I lost my chance to ask about Lady Makura...
+
+<Code=(icon_set_direction,Alice,Meko,0)>
+
+<Code=(icon_set_direction,Medicine,Meko,0)>
+
+Alice0a:I'm sure we'll have plenty of time to talk it out once this match is over.
+
+Medicine0e:Get distracted and you'll get burnt to a crisp.
+
+Meko0b:Anything but that!
+
+Meko0a:...I-I don't really get why we're having this danmaku battle.
+
+Meko0a:All this stuff about destined rivals, and friendly battles.
+
+Alice0d:All the more reason to try getting into all sorts of different fights.
+
+Alice0d:You should realize by now that everyone puts their own unique feelings into their danmaku.
+
+Meko0a:The feelings in the danmaku, huh...?
+
+Meko0a:(...If I become friends with everyone someday, will I be able to do that too?)
+
+Meko0g:(I don't have the right to put my feelings in anything, though...)
+
+Meko1a:...As if! I can't space out here, gotta focus!
+
+<end>
+
+<ChatID:8>----------------------------------------
+//輝夜vs.妹紅
+
+Mokou3e:Got you, Kaguya. Burn in my flames!
+
+Kaguya4d:Who's caught who? I hope you realize you'll never even singe the 2nd generation treasures I've gathered.
+
+Mokou3a:Now you've said it. My grudge is an inexhaustible flame...
+
+Mokou3e:Even eternal volcanic ash will reach the moon someday!
+
+Kaguya0a:...Huh.
+
+Mokou1c:...What's the matter? Cat got your tongue?
+
+Kaguya2c:I was simply distracted by how even the same back-and-forth as ever can feel so different.
+
+Kaguya0a:Your "someday" used to be so somber, yet when you say it now it's positively bright.
+
+Mokou4a:This isn't like you. Missing the good ol' days?
+
+Kaguya0a:No, just looking forward to the eternal future.
+
+Kaguya3e:I certainly hope this inexhaustible flame of yours won't bore me to death.
+
+Mokou3d:Answer that one yourself. Freed from this gloomy fate, witness my beautiful danmaku!
+
+<end>
+
+<ChatID:9>----------------------------------------
+//初戦闘：豊姫
+
+Toyohime0b:Then shall we get started?
+
+<Code=(icon_set_direction,Yorihime,Toyohime_en,0)>
+
+<Code=(icon_set_direction,Kaguya,Toyohime_en,0)>
+
+<Code=(icon_set_direction,Eirin,Toyohime_en,0)>
+
+Yorihime1c:Even if we treat this as a practice match, to go up against my own sister...
+
+Toyohime0a:Isn't it an excellent opportunity? Please show me your danmaku, both of you.
+
+Eirin0a:...Even a little while ago, I could never have imagined facing you like this.
+
+Eirin1a:I wonder if this too is the result of releasing the spell of eternity.
+
+Toyohime0b:I have to say I'm grateful for this strange twist of fate too.
+
+Eirin1d:Hold nothing back, Toyohime. Show me your danmaku.
+
+Toyohime0c:Of course, it would be my honor!
+
+<end>
+
+<ChatID:10>----------------------------------------
+//初戦闘：藍
+
+Chen5b:Here we go, Miss Ran!
+
+Ran4a:Chen! Whatever you do, don't push yourself.
+
+<Code=(icon_set_direction,Alice,Ran_en,0)>
+
+<Code=(icon_set_direction,Medicine,Ran_en,0)>
+
+Alice0d:I understand that you're worried, but given how excited she is, shouldn't you be encouraging her?
+
+Medicine0c:I think even Chen's doing her best to become a real grown-up.
+
+Ran2a:Gah, you're right...
+
+Yukari5a:You're an excellent caregiver, but have a bad habit of being overprotective.
+
+Yukari0a:Besides, Chen isn't your only opponent.
+
+Ran4a:...True. It's been a long time since I exchanged danmaku with you, Lady Yukari.
+
+Ran1b:So allow me to make the most of this opportunity.
+
+<end>
+
+<ChatID:11>----------------------------------------
+//初戦闘：リリー、レイセン
+
+LilyW4d:I'm so glad we're on the same team, Miss Rabbit!
+
+Reisen0c:Yeah, me too Lily!
+
+Reisen3a:Ah, "Miss Rabbit", huh...
+
+LilyW0d:Is something wrong with that?
+
+Reisen0a:Nah, it's just that I haven't heard it for so long. Kind of a relief, actually.
+
+Reisen0a:The people on Earth are the only ones who used that name for me.
+
+LilyW0a:Then let's get the moon people to start using it too!
+
+Reisen0d:Ah, there are so many rabbits up there that we'd have no idea who was talking to who.
+
+<end>
+
+<ChatID:12>----------------------------------------
+//初戦闘：アリス
+
+Alice0d:It's been a while since I fought Yuyuko or Ran.
+
+Medicine3c:You look like you're having fun, Alice.
+
+Reisen2c:You also look so gentle, but part of you's a battle maniac too, huh?
+
+Alice2b:That's not really what I meant...
+
+Kaguya0a:You don't need to enjoy fighting to approach this with curiosity.
+
+Kaguya2c:She's looking forward to learning something from her opponent's danmaku.
+
+Toyohime0b:How seeking after truth. Then allow me provide a test of skill.
+
+Alice3c:Yes, please do!
+
+<end>
+
+<ChatID:13>----------------------------------------
+//初戦闘：メディ
+
+Medicine2c:Um, we're up against Keine too, so...
+
+Meko4c:Is it really okay to use your poison against a human, Medicine?
+
+Alice0d:She's a nice girl, so she'll be sure to keep things safe.
+
+Eirin0a:Why don't you show me you can put all the ways of handling poison I taught you into practice?
+
+Medicine3d:Okay, I will!
+
+<end>
+
+<ChatID:14>----------------------------------------
+//初戦闘：妖夢
+
+Youmu1a:En garde!
+
+Yuyuko5a:Youmu, cut down everyone on the white team.
+
+Youmu0a:So we're the red team then?
+
+Youmu3a:Come to think of it, thank goodness I don't have to fight my master like Ran does.
+
+Yuyuko1b:Having you point your sword at me once is enough, thank you very much.
+
+Yuyuko0a:Today I want you protecting me by my side.
+
+Youmu1a:As you wish! I will be your blade!
+
+<end>
+
+<ChatID:15>----------------------------------------
+//初戦闘：幽々子
+
+Yuyuko1c:If you wish to pass, you must first defeat ME!
+
+Yukari0a:You seem to be enjoying this, Yuyuko.
+
+Yuyuko1a:It's been so long since we've done danmaku with so many people, after all.
+
+Yuyuko2b:And without this opportunity, I'd never be able to face you, Yukari.
+
+Yukari1a:Oh, when you put it like that...
+
+Yuyuko2a:We just lack communication. I wonder, are we in a rut?
+
+Yukari1a:Fine, I understand. I promise to do this right.
+
+Yuyuko1a:Heh, that's all I ask.
+
+Yuyuko1c:Then please keep me company until evening.
+
+Yukari5a:Yes, yes, that was the plan.
+
+<end>
+
+<ChatID:16>----------------------------------------
+//初戦闘：鈴仙（鈴仙vs.依姫?）
+
+Udonge3b:*sigh* To go up against my master and Lady Yorihime, of all people...
+
+Yorihime0b:Are you getting cold feet, Udonge?
+
+Udonge2b:Eek!
+
+Yorihime0a:You must take root in the soil of this Earth and protect Lady Yagokoro.
+
+Yorihime0b:For that is the duty of the one given the name Udongein.
+
+Udonge3a:What does my name have to do with anything...?
+
+Yorihime0a:...Good grief, have you not given the slightest thought to your master's intentions?
+
+Yorihime1b:Well, it's time we corrected that! We'll make a soldier out of you yet!
+
+Udonge2b:Eep! What are you even talking about?!
+
+<end>
+
+<ChatID:17>----------------------------------------
+//藍vs.紫
+
+Ran1a:I think I'll enjoy this, Lady Yukari.
+
+Yukari1b:Oh, Ran, has Mokou rubbed off on you already?
+
+Yukari0a:I do appreciate that fire in your eyes, though. Reminds me of old times.
+
+Chen0c:What happened back then...?
+
+Ran3a:An awful lot, but you're still too young to hear it, Chen.
+
+Ran0a:Now then, shall we hold nothing back?
+
+Yukari1a:Heh, by all means.
+
+<end>
+
+<ChatID:18>----------------------------------------
+//鈴仙vs.永琳
+
+Eirin1d:Shoot me, Udonge.
+
+Udonge2b:No no no, how could I point my gun at my master...?
+
+Eirin3c:I'm not so weak that I could be felled by your bullets.
+
+Eirin5e:So what's the matter? A hole or two in my stomach is nothing serious.
+
+Udonge3a:Sometimes I just can't keep up with you, you know...
+
+Udonge1b:Fine, I'll shoot! Just don't shoot back too much!
+
+<end>
+
+<ChatID:19>----------------------------------------
+//妖夢vs.紫
+
+Youmu1c:I challenge you, Lady Yukari!
+
+Yukari1a:By all means, show me everything you've got.
+
+Yukari0a:I do need to you grow up to be someone I can entrust Yuyuko to, after all.
+
+Youmu2b:What? You...
+
+Youmu3a:...I appreciate the thought, but I could never understand her wisdom like you do.
+
+Yukari5a:And that's fine. If anything, Youki and I understood her all too well.
+
+Yukari0a:No matter how close people like us get to her, she'll never truly be free.
+
+Youmu0a:...?
+
+Yukari1a:Perhaps I've said too much. Now, let's begin.
+
+<end>
+
+<ChatID:20>----------------------------------------
+//豊姫vs.メーコ
+
+Toyohime0b:Ah, sheep girl. Care to do this with me?
+
+Meko5d:Gwah!
+
+Toyohime2c:Ever since earlier, you've made such a big deal of simply seeing my face.
+
+Toyohime0b:Don't worry, I won't be using that fan today.
+
+Meko5b:You say that, but I bet you're hiding it somewhere...
+
+Eirin0a:It's not the same as back then. You needn't be so unnecessarily frightened.
+
+Kaguya1a:Why not think of this as an opportunity to overcome your trauma?
+
+Meko0b:Ooh...
+
+Toyohime0a:If that's how it's going to be, then I can't be unrestrained either.
+
+Toyohime0b:I'll give you some leeway, so come at me.
+
+<end>
+
+<ChatID:21>----------------------------------------
+//EX条件達成時
+
+Mokou4a:...Huh.
+
+Keine6a:To go up against Toyohime so many times, you have some guts, Mehko.
+
+Meko0b:Really? I mean, I guess it's better than before...
+
+Toyohime0a:From my perspective, you're definitely fighting a lot better than earlier.
+
+Toyohime0b:In that case, it should be fine for me to use a little more power.
+
+Meko5b:Bwuh?!
+
+Toyohime0b:It's my way of showing respect for your determination in challenging me so many times.
+
+Meko5d:Don't tell me you're gonna bring out the fan now...
+
+<Cond=(GLOBAL_VAR,level,<,1)>
+
+Toyohime2c:Hardly. Although if you wish to do this the hard way, I could oblige.
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,level,>=,1)>
+
+Toyohime0b:It seems you like doing things the hard way, so I'll gladly oblige.
+
+</Cond>
+
+Udonge3a:...Somehow I don't think she's getting over her trauma today.
+
+<end>

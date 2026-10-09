@@ -1,0 +1,881 @@
+﻿○共通第二十七話「昨日の敵と今日の敵
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: Youmu vs. Yousei
+ 3: first attack to Youmu
+ 4: Sanae-san ally
+ 5: clear
+ 6: ADVB
+ 7-: battle vs. Youmu
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<MAP=10,FROM=紅魔館,TO=紅魔館,name=Scarlet Devil Mansion,icon=5>
+
+<BG=*bg_talk_Koumakan_Int.png,fade=0,color=1,title=*bg_Koumakan,bgm=bgm_talk_aoki>
+
+Flan0b:Meiling! Sakuyaaa!
+
+Flan0b:They're not coming when I call them, what's going on? 
+
+Maid0a:Lady Flan, are you looking for something? 
+
+Flan0b:Yeah, where are Meiling and Sakuya? Did whoever had them last leave them around somewhere?
+
+Maid0a:Leave them... what? Lady Flan, I don't quite understand, but if―
+
+Remilia0b:What's going on over here? You're making a fine racket. 
+
+Flan0b:Oh, Remilia. How's it going on this fine day?
+
+Remilia6a:You're supposed to say "How do you do on this fine day", remember?
+
+Maid0a:Good morning, Mistress. You're up early tonight. 
+
+Remilia0a:My bedtime tea has been all wrong. It's just not the same without Sakuya. 
+
+Flan0b:Sakuya isn't here? 
+
+Remilia0b:Apparently she's out investigating the incident. Patchy was keen on the idea too, so they left along with Koakuma and Meiling.
+
+Flan0b:So it's just you today? That sucks. 
+
+Remilia1b:Wh-why you little...
+
+Remilia6a:...Nevermind, it doesn't matter. Ahem. Anyway, knowing them, I'm sure they'll fix everything and be back by tomorrow.
+
+Remilia0a:Until then, if you need something, you can just ask your big sister for help.
+
+Flan0b:Then bake me a cake. If you can, anyway.
+
+Remilia1b:Huh? W-well... of course I can! Something simple like that is child's play for me.
+
+Maid1a:Mistress! The kitchen is in the other direction!
+
+Flan0b:Hmph. If she can't do it then she should just say so...
+
+<MAP=10,FROM=神社に続く小道,TO=神社に続く小道,name=Animal Trail,icon=0>
+
+<BG=*bg_talk_Road_Winter2.png,fade=0,color=1,title=*bg_Road,bgm=bgm_talk_aoki>
+
+Sakuya5a:...I wonder what the mistresses are up to now.
+
+Meiling0a:It's still midday, so shouldn't they be asleep? 
+
+Nitori0a:You mean Remilia and Flandre? They hadn't seen each other for so long―are they getting along now? 
+
+Koakuma0a:Yes, they are. Lately they've been speaking with one another more often.
+
+Patchouli0b:...which invariably ends with them fighting.
+
+Marisa0a:Well, I think a brawl or two could be just what they need.
+
+Elliy3b:Sometimes friendships form from fights, after all. 
+
+Meiling3a:Maybe, but it's a real problem when they want you to pick sides...
+
+Koakuma0a:Now that I think of it, Lady Yuuka hasn't been around lately. How is she?
+
+Marisa3a:Grr...
+
+Kurumi3b:She's doing as great as ever! Just the other day she bought me a new book.
+
+Elliy3b:Yuuka has been going out a lot recently, so we've had a lot of free time to kill.
+
+Marisa4a:That so? She always thinks she can just do whatever she wants.
+
+Patchouli4c:You're one to talk.
+
+Marisa3a:I'm not the same as her! She talks down to people and sneers at them. That's all she ever does!
+
+Sakuya5a:...?
+
+Meiling3a:You seem oddly bent out of shape. Did something happen between you and Yuuka?
+
+Alice0b:...Yes, there was a small incident.
+
+Komachi0a:Well, I'm sure everyone's just grumpy because of the weather.
+
+Komachi1c:We need to hurry up and resolve this incident. We can't let winter go on forever.
+
+Sakuya0a:You seem unusually motivated this time, Komachi. 
+
+Komachi1a:Well, people are gonna die, so we don't have time to take it easy.
+
+Nitori0a:As a shinigami, wouldn't you be okay with people dying?
+
+Elliy5b:Could it be that you don't want the extra workload?
+
+Komachi5a:Well, that too, but that's not the only reason.
+
+Komachi0b:The cycle of death and rebirth normally has the amount of ghosts stay at a steady equilibrium.
+
+Komachi0a:So if there's a sudden surge of deaths, the process can end up thrown out of balance. 
+
+Hina0b:...It really has been doing a number on Gensokyo.
+
+Hina4a:Both that and a disruption in the flow of misfortune are bringing the humans' lives to a screeching halt.
+
+Meiling0b:So you're doing this for the humans of the village too.
+
+<nowindow>
+
+<Code=(demo_wait,30)>
+
+<single>
+
+</nowindow>
+
+Star4b:Looks like they're all fired up over there...
+
+</single>
+
+Sunny3b:I don't know how they do it, when it's so cold.
+
+Letty0a:...
+
+Luna6a:Um, she doesn't mean that it's your fault or anything, though...
+
+Letty0a:It's quite alright. Winter being cold should be no great surprise to anyone.
+
+Cirno0a:Hey, hey!
+
+Letty0a:...What is it now?
+
+Cirno3b:You're a winter youkai, right? So you don't feel cold when I'm nearby?
+
+Letty0a:Feel cold...?
+
+Letty1a:Of course not. That meager chill of yours has no effect on me at all.
+
+Cirno5b:Hehehe, I see, I see. Just what I thought.
+
+Cirno1a:Letty, if anyone ever picks on us for making them cold, remember―don't let it get to you!
+
+Letty0a:...Since when am I one of your little friends, fairy? I hardly know you.
+
+Rumia0a:That's 'cause Cirno's always super friendly!
+
+Daiyosei0b:That, and she's a little bothered by everyone complaining about the cold earlier...
+
+Letty1a:While we may both have control over the cold, I'd rather you not compare me to a mere fairy.
+
+Letty1a:Your power is but a small distortion of nature. How impudent of you to try to approach a youkai like myself.
+
+Cirno5f:Wha? I'm a fairy, not an imp...
+
+<single>
+
+Mokou0a:"Yesterday's enemy may be today's ally..." This group fits that old saying like a glove, doesn't it?
+
+</single>
+
+Keine0a:I suppose. Although it looks like she's getting along with everyone much faster than expected.
+
+Minoriko1b:How can you all talk so warmly about someone so very cold?!
+
+Shizuha4a:Just looking at her calls to mind the terrors of winter.
+
+Reimu2b:Wow, when you two hate something, you don't mess around.
+
+Keine3a:A true case of hate by association.
+
+Shizuha0a:Granted, she's a lot better behaved than I was expecting. We could probably handle a normal conversation with her.
+
+Mokou1a:So, Reimu. You're leading the way, but have you actually found any clues yet?
+
+Reimu4a:Don't sweat it. If we keep going, we'll find one eventually.
+
+Minoriko4a:It would be nice if it worked like that, but―
+
+Minoriko0b:Huh?
+
+Shizuha0b:You found something, Minoriko?
+
+Minoriko0a:Yeah. These are... cherry blossom petals?
+
+Keine4a:Really? That can't be right.
+
+Mokou0a:They look real enough to me. But there's no way a tree's blooming in this weather. 
+
+Keine0a:Reimu, let's try following the petals. It might give us some kind of clue.
+
+Reimu1a:That's the same direction I've been leading us anyway. Let's see what we find!
+
+<MAP=10,FROM=神社に続く小道,TO=人里への森,name=Animal Trail,icon=0>
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP
+
+Yousei12a:Brr, another chilly day.
+
+Yousei22a:Who wants to be out in this weather? We should go home and play games indoors.
+
+Yousei20a:...Huh.
+
+<pause>
+
+Yousei11a:Are these... cherry blossoms?
+
+Yousei20a:Ooh, if cherry blossom petals are fluttering around, maybe spring is just around the corner.
+
+Yousei10a:Let's see if we can find a sneak peek at spring!
+
+Yousei10a:Maybe there's some shoots or buds underneath the snow...
+
+<pause>
+
+Youmu0a:I see there's still some spring lingering around here.
+
+<Code=(icon_set_direction,Yousei1_en,FD_LEFT,0)>
+
+Yousei11a:Hey, someone's coming.
+
+<Code=(icon_set_direction,Yousei2_en,FD_LEFT,0)>
+
+Yousei20a:Must be a pain to fly around all over the place in this weather.
+
+Youmu0a:Fairies, turn over all the spring you have.
+
+Youmu1a:If you resist, I'll show no mercy.
+
+Yousei21a:"Turn over the spring"? What are you talking about?
+
+Youmu1a:The time for talk is over!
+
+<pause>
+
+<Code=(icon_set_direction,Yousei1_en,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Yousei2_en,FD_RIGHT,0)>
+
+Yousei22a:Hey! What's the big idea?!
+
+Youmu1a:I told you. I'm taking all the spring that's here.
+
+Youmu1a:Okay, that should be all the spring in the ar—
+
+Youmu2b:...!
+
+<end>
+
+<ChatID:2>----------------------------------------
+//妖夢が妖精に攻撃
+
+<end>
+
+<ChatID:3>---------------------------------------
+//妖夢と初戦闘
+
+Reimu1a:Youmu! Hold it right there!
+
+Youmu1a:Please, everybody... Stay out of this.
+
+Marisa2b:Not happening. You know something, don't you?
+
+Sakuya5b:The sooner you start talking, the less this will hurt.
+
+Youmu1a:Ugh. If you refuse to back down, then we have no choice but to cross swords!
+
+<end>
+
+<ChatID:4>---------------------------------------
+//3PP
+
+Komachi0b:Youmu, right? Don't tell me we're fighting.
+
+Keine2a:...
+
+Mokou0a:Keep it together, Keine. I know you don't want to fight her.
+
+Mokou0a:But if she knows something about this incident, we have to capture her.
+
+Reimu0a:Yeah. Less whining, more―
+
+Reimu0f:Hm?
+
+<pause>
+
+Sanae4b:Reimu, there you are!
+
+Reimu3b:Sanae?!
+
+Aya1a:Nice work, Momiji. Your nose is nothing to sniff at.
+
+Momiji5a:Don't talk about me like I'm some dog. That was my thousand-li vision.
+
+Youmu2b:Is that the shrine maiden that tried to steal the Hakurei Shrine?
+
+Reimu0f:What are you doing all the way out here?
+
+Sanae0a:As the Moriya Shrine's wind priestess, I thought I should try to help investigate this incident.
+
+Sanae4a:Lady Yasaka is deeply troubled over this, so if there's anything I can do to assist...
+
+Sakuya0a:First youkai extermination, now incident resolution? You're really broadening your horizons.
+
+Sanae0a:Yeah. I was a little worried about it at first, but Lady Moriya gave me the push I needed.
+
+Aya3b:"Mountain Shrine Maiden Sanae Makes Incident Resolution Debut!"
+
+Aya0a:Yeah, that's a good headline. I should write that one down.
+
+Momiji6a:Easy on the scoop-chasing, Aya. We're supposed to be here as Lady Kochiya's guards.
+
+Shizuha1c:They sent bodyguards? The tengu are just as overprotective of you as I heard.
+
+Reimu0b:Fine. If you wanna join up, you'd better keep up.
+
+Sanae3c:Thank you! I'll do just that!
+
+Aya0b:Incidentally, I'm sensing some tension in the air. Isn't that...?
+
+Momiji0a:We've met her, remember? She was the swordswoman with the humans last summer.
+
+Aya5b:Can't say that rings a bell... So why are you fighting?
+
+Sakuya5b:She seems to know something about this incident, so we're questioning her.
+
+Sanae3b:Oh no... Are you sure friends should be fighting?
+
+Marisa2b:We can talk about that later. For now, we can't let her get away.
+
+Youmu3a:So I see you've reconciled with the other shrine maiden and Youkai Mountain.
+
+Youmu1a:That's all well and good, but I can't stay and chat. I have my own duties to fulfill!
+
+<end>
+
+<ChatID:5>---------------------------------------
+//ステージクリア
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Youmu_en) || (LOCAL_VAR,ObjControl,prev_phase_id,==,1)>
+
+Youmu2a:Tch, just as I expected.
+
+Alice1b:...First things first, let's tie her down.
+
+Reimu1a:Okay, you better tell us everything you know!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,!=,Youmu_en)>
+
+Youmu0a:Looks like we've run out of fairies holding spring.
+
+Youmu0a:In that case, I have no reason to stay.
+
+Patchouli0a:...She's planning an escape.
+
+Marisa2b:First, you'd better tell us everything you know!
+
+</Cond>
+
+Youmu1a:No matter how many times you ask, I will always refuse.
+
+Youmu1a:I still haven't gathered enough spring to discharge my duty!
+
+Mokou0a:Your duty?
+
+Youmu2a:I'll retreat for now. But should you continue to stand in my way...
+
+Youmu1a:I will not stay my blade, even for any of you!
+
+Keine1a:Youmu, wait!
+
+<pause>
+
+Keine4a:Youmu...
+
+Nitori3b:There she goes...
+
+Meiling3a:I think it's safe to assume that she knows something.
+
+Sakuya5b:Then our only option is to follow her and get it from her.
+
+Sanae0b:Um, would you mind explaining what's going on before we head off?
+
+Sanae0b:Why are you all so suspicious of her?
+
+Alice0a:We can talk on the way. There's no time to stand around.
+
+<end>
+
+<ChatID:6>---------------------------------------
+//ADVB
+
+<MAP=10,FROM=人里への森,TO=人里への森,name=Animal Trail,icon=0>
+
+<BG=*bg_talk_Road_Winter2.png,fade=0,color=1,title=*bg_Road,bgm=bgm_talk_ningyo>
+
+Momiji0a:Gathering spring, you say?
+
+Nitori1a:Yep, that's what she said.
+
+Aya0b:In the middle of an unending winter, somebody shows up saying something like THAT?
+
+Aya5a:My reporter's instincts find that pretty hard to write off.
+
+Sanae0b:So the long winter is caused by someone hoarding the spring? That sounds like something out of a fairy tale.
+
+Marisa0b:Sounds wild to me too, but if that's what's happening then that's what's happening.
+
+Koakuma0a:What does it even mean to gather spring, anyway?
+
+Koakuma0a:From what I could tell, it was just Youmu randomly attacking people.
+
+Letty0a:She was stealing the spring the fairies had stumbled on.
+
+Luna0a:Stealing a fairy's spring?
+
+Letty0a:The four seasons are in a constant state of flux. When winter gives way to spring, heaven and earth overflow with vital energy.
+
+Letty0a:I'm sure that energy is what she's been collecting and calling "spring."
+
+Sakuya5b:But, to what end?
+
+Meiling0b:She said... "something something my duty". So she's acting on someone else's orders. 
+
+Keine4a:I can still hardly believe Youmu of all people would be an accomplice to an incident.
+
+Nitori3a:This must be hard for you in particular, Keine. I know you were really fond of her.
+
+Mokou0a:But now that we've got a solid lead, we can't let it go.
+
+Marisa0b:Yeah, and we know what direction she went. Let's head after her, quick.
+
+Reimu0f:Why, though?
+
+Marisa6b:Whaddaya mean, "Why"?
+
+Reimu5c:Who cares where she's going? That direction over there feels way more suspicious to me.
+
+Minoriko4a:Isn't that what people say right before they get a whole group lost?
+
+Daiyosei0a:To be fair, the petals are definitely coming from that way.
+
+Sunny6a:I dunno, I'm pretty sure we're supposed to be chasing the bad guy in times like these.
+
+Kurumi3a:And Elly once told me it's best to search the scene of the crime first.
+
+Reimu4a:I just don't like going where I don't feel like going.
+
+Marisa0b:Yeah, well, neither do I! You're just gonna let Youmu get away?
+
+Keine0b:Marisa makes a good point. But Reimu's intuition is pointing her in a different direction...
+
+Keine0a:Hmm. Maybe it would be best for us to split into two groups. 
+
+Momiji0a:Very well. What will you do, Lady Kochiya?
+
+Sanae0a:Well, I do owe Reimu for helping me out all the time...
+
+Sanae4a:I'd like to go with her group, if I may. What do you think? 
+
+Momiji5a:That's no problem. We'll accompany you.
+
+Aya1a:That means I get to carry out my guard duty and get some up-close coverage of Reimu investigating. Two birds with one stone!
+
+Letty0a:I'll join her. I'm curious about where the cherry blossoms are coming from.
+
+Nitori1a:Alice and I are with Marisa, obviously!
+
+Alice0b:I'm not sure about how you phrased that, but fine.
+
+Komachi0b:...You said that swordswoman was from the Netherworld?
+
+Meiling0a:That's right. What about it?
+
+Komachi0a:Then I have to go with Marisa.
+
+Komachi1a:If a human of the Netherworld is involved with an incident like this, I need to get some answers out of her.
+
+Keine0a:Understood. I'll come up with some rosters, if you'll give me a moment.
+
+<BG=bg_talk_Road_Winter2.png,fade=0,color=1,title=*bg_Road>
+
+Keine0a:Okay, here's the list.
+
+Keine0a:Reimu's group will have myself, Mokou, Sanae, Aya, Momiji, and Letty, plus Rumia along with Cirno, Daiyousei, and the Aki Sisters.
+
+Keine0a:Marisa's group will have Alice, Nitori, Hina, the Scarlet Devil Mansion staff, Elly and Kurumi, the three fairy pranksters, and Komachi.
+
+Keine0a:Is that satisfactory to everyone?
+
+Reimu0g:I'm good.
+
+Marisa0a:No problem here.
+
+Meiling0a:The real problem is, how do we meet up again once we separate?
+
+Meiling3a:If only we had communicators like we did in the fall... 
+
+Reimu3a:Those things were never useful.
+
+Marisa0b:Oh yeah, Nitori. I asked you to fix those up a while back. How'd that turn out?
+
+Nitori0a:Well, I'm able to fix them, and I figured I might as well throw in some upgrades while I do.
+
+Nitori1a:I got the parts from Mr. Kourindou, so I should be able to get them in working shape by this summer. 
+
+Elliy4a:Which doesn't help us right now even a bit...
+
+Sakuya5b:If we have trouble meeting up, we can cross that bridge when we come to it.
+
+Sakuya0a:With any luck, one of our groups will resolve the incident and the whole thing will be moot.
+
+Marisa0aGood point. I'll try to get this done before Reimu ends up lost in a blizzard somewhere.
+
+Reimu5c:You'd better watch out for that, yourself.
+
+Keine3a:...Some things never change, do they?
+
+Alice0c:Let's set out before this conversation gets derailed any further.
+
+Sanae0a:Right. Take care of yourselves, everybody!
+
+<end>
+
+<ChatID:7>---------------------------------------
+//妖夢vs.霊夢
+
+Youmu1a:Reimu, stay of this. Please.
+
+Reimu0a:Oh, I'll interfere all I want. My intuition's telling me you're being pretty shady.
+
+Youmu1a:...Ugh, you're really overstaying your welcome.
+
+<end>
+
+<ChatID:8>---------------------------------------
+//妖夢vs.魔理沙
+
+Marisa1a:Hold it, Youmu!
+
+Youmu1a:I will not! Marisa, please, leave me be!
+
+Marisa2b:...Man, you're pretty slippery when we're on opposite sides!
+
+<end>
+
+<ChatID:9>---------------------------------------
+//妖夢vs.慧音
+
+Keine1a:Youmu, this is all some kind of misunderstanding, right?
+
+Keine1a:An upstanding person like you couldn't possibly be complicit in an incident like this...
+
+Youmu0a:...Unfortunately, I can't answer your questions.
+
+Keine2a:Why are you doing this, Youmu?!
+
+<end>
+
+<ChatID:10>---------------------------------------
+//妖夢vs.アリス
+
+Alice1a:Youmu!
+
+Youmu0a:Ah, Alice. I figured you'd be here, since Marisa is.
+
+Alice0a:Something tells me we won't have time for a leisurely chat.
+
+Alice1a:What is your goal, and why pursue it even to the point of fighting with us?
+
+Youmu1a:If you're trying to appeal to my emotions, it won't work!
+
+<end>
+
+<ChatID:11>---------------------------------------
+//妖夢vs.にとり
+
+Nitori2a:What happened, Youmu? Why are you bullying fairies?!
+
+Youmu0a:There's no need for us to talk. Nitori, please just go home.
+
+Nitori2a:I can't do that, I need to resolve this incident! Youmu, don't you want to too?
+
+<end>
+
+<ChatID:12>---------------------------------------
+//妖夢vs.咲夜さん
+
+Sakuya0a:We're both using bladed weapons. If we're not careful this could get ugly, you know.
+
+Youmu0a:I'm aware, yes. If you're afraid, you're welcome to back down.
+
+Sakuya0b:I see you've come prepared to fight, so I'll give you just that.
+
+<end>
+
+<ChatID:13>---------------------------------------
+//妖夢vs.早苗さん
+
+Youmu0a:So when exactly did the notorious shrine maiden make friends with everyone else?
+
+Sanae0b:I'm still kind of lost, actually. Why are you fighting them?
+
+Sanae0a:If you're their friend, surely talking should be your first option!
+
+Youmu0a:Unfortunately, talking isn't much of an option for me.
+
+Youmu1a:And it's even less of one when facing an old foe!
+
+Sanae2a:I can't deny our past, but things are different now!
+
+<end>
+
+<ChatID:14>---------------------------------------
+//妖夢vs.文
+
+Aya3a:The Netherworld's gardener cutting down random passersby? Quite the scoop.
+
+Youmu2b:You're that newspaper reporter...!
+
+Aya3a:I don't have all the details at the moment, but isn't this oddly similar to a some other recent cases?
+
+Aya6a:After we're done here, how about you and I sit down for a nice, long chat!
+
+<end>
+
+<ChatID:15>---------------------------------------
+//妖夢vs.椛
+
+Momiji0a:I remember that swordsmanship.
+
+Youmu2b:You're that mountain tengu... Weren't you supposed to be enemies with that other shrine maiden?
+
+Momiji4a:A lot's been happening on the mountain recently. Now I'm her bodyguard.
+
+Momiji1a:My shield and my fangs, both are to be put in service of my mission!
+
+<end>
+
+<ChatID:16>---------------------------------------
+//早苗さん増援前に妖夢を撃墜
+
+<Cond=(LOCAL_VAR,Char0,sort,==,player)>
+
+Youmu3a:You're quite skilled... I'd expect no less of Reimu and her allies.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,sort,!=,player)>
+
+Youmu3a:To think you'd manage to injure me this much...
+
+</Cond>
+
+Youmu1a:Even so, I cannot allow myself to fall until I've gathered all of the spring here!
+
+<end>
+
+<ChatID:17>---------------------------------------
+//妖夢と妖精が戦闘（後半）
+
+Mokou0a:Looks like she's ignoring us. Gives us plenty of breathing room, I guess.
+
+Keine4a:Youmu, why in the world would you...
+
+<end>
+
+<ChatID:18>---------------------------------------
+//1PP-2（出撃後）
+
+Marisa0b:Looks like this is where the petals are coming from.
+
+Reimu0f:Hey, isn't that...?
+
+Youmu2b:Reimu? And everyone else?!
+
+Keine2b:Youmu! Is that you?
+
+Shizuha0b:You know her? Who is she?
+
+Keine0a:That's Youmu Konpaku, a gardener from the Netherworld.
+
+Keine0a:She's a friend who helped us with the summer incident.
+
+Marisa0a:Long time no see, Youmu. What're you fighting fairies for?
+
+Youmu3a:Well, it's a bit of a long story...
+
+Yousei11a:She came out of nowhere and rushed us! She said something like "hand over all your spring"!
+
+Yousei21a:We were just looking around for a sneak peek at spring!
+
+Mokou0a:And she's doing the same, which means...
+
+Alice0a:You've also been investigating the incident?
+
+Youmu0a:What incident? What's happening?
+
+Reimu1a:Oh, come on. Don't play dumb. The long winter, duh!
+
+Youmu2b:...!
+
+Keine0a:This is a particularly dangerous incident. Knowing you, I thought you'd be working on this, too.
+
+Keine0a:You'd be welcome to join us, if you like.
+
+Youmu0a:...
+
+Youmu1a:No. Please leave, all of you. Go home.
+
+Keine2a:...?!
+
+Nitori2a:Wha?
+
+Youmu1a:Even if you do nothing, this long winter will soon come to an end.
+
+Youmu1a:And I will return spring once I have achieved my goal.
+
+Marisa1a:The heck are you saying? You'll return the spring?
+
+Reimu1a:...You know something about this incident, don't you?
+
+Youmu1a:Unfortunately, that is all I can say on the matter. Please leave.
+
+Sakuya5b:It'll take more than that to convince us to leave this alone.
+
+Youmu1a:Then you leave me no choice. I must gather the spring from this area and withdraw.
+
+<end>
+
+<ChatID:19>---------------------------------------
+//妖夢vs.まくら
+
+Makura0g:It's only slight, but I can sense a trace of spring on you.
+
+Youmu2b:You saw through me in an instant!
+
+Makura0f:I already knew the answer. You might consider that unfair though.
+
+Makura1c:Regardless, allow me to recover that paltry sum of spring.
+
+<end>
+
+<ChatID:20>---------------------------------------
+//妖夢vs.メーコ
+
+Meko4c:You're fighting everyone else now, but aren't you of two minds about it?
+
+Youmu1b:Why would I be?
+
+Meko0g:You know, like Nitori...
+
+Youmu1b:I have a duty to follow my mistress's orders. There is no room for hesitation.
+
+Youmu1c:Which is why I'll be talking your spring!
+
+Meko1a:Wow, she's really serious!
+
+<end>
+
+<ChatID:21>---------------------------------------
+//妖夢vs.妖夢
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Youmu3b:It hurts to think about what happens next.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Youmu1b:Who are you?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Youmu1b:I'll be taking back the spring, for your sake as well.
+
+Youmu1c:My name is Youmu Konpaku! I am Lady Yuyuko's guardian blade!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Youmu3a:Well... so am I.
+
+</nomove>
+
+<end>
+
+<ChatID:22>---------------------------------------
+//妖夢vs.幽々子
+
+Yuyuko1a:You sure are working hard today, Youmu.
+
+Youmu2b:Lady Yuyuko! Why would you come all this way?
+
+Youmu1b:I will bring back enough spring without fail, so feel free to relax and await my return.
+
+Yuyuko1b:Alright, I'm counting on you.
+
+Yuyuko3c:...Kidding. But how can I tell you to stop, when you're wearing such an eager expression?
+
+<end>
+
+<ChatID:23>---------------------------------------
+//妖夢vs.鈴仙
+
+Udonge4d:Even when playing at being a bandit, Youmu knows how to get things done.
+
+Youmu1a:Are you calling me a thief?!
+
+Udonge6a:Well, the way you alway stick to your guns is part of your charm.
+
+Udonge1c:But don't blame anyone but yourself if you're defeated! You knew the risks!
+
+<end>
+
+<ChatID:24>---------------------------------------
+//妖夢vs.藍
+
+Ran6b:Hey there, Youmu.
+
+Youmu0c:It's been a while, Ran. What brings you here?
+
+Ran6a:I'm on patrol under Lady Yukari's orders. Incidentally, you seem to be searching for spring?
+
+Youmu1b:Lady Yuyuko's orders. I'll try not to be a bother.
+
+Ran4a:Hmm...
+
+<end>
+
+<ChatID:25>---------------------------------------
+//妖夢vs.紫
+
+Yukari0c:I see you're in good health.
+
+Youmu2b:Lady Yukari? But I was told you rested through winter.
+
+Yukari0d:Today is an exception. But more importantly, how has Yuyuko been lately?
+
+Youmu0d:She's been quite passionate about this one particular thing lately. Will you be visiting us at Hakugyokuro today?
+
+Yukari1a:No thank you. I'd like a little time to prepare myself mentally.
+
+Youmu0b:Uh, I see...
+
+<end>
+
+<ChatID:26>----------------------------------------
+//C27：vs.非想天則
+
+Tensoku0a:...
+
+Youmu2b:Wha? What is this giant?!
+
+Youmu1b:It seems to be their ally. In which case, there is but one thing to do.
+
+Youmu1c:Giant, you will hand over what meager spring you carry!
+
+<end>
+

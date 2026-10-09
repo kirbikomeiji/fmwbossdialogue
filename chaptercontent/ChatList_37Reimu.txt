@@ -1,0 +1,1359 @@
+﻿○霊夢第三十七話「夜闇に誘う歌声
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: 3PP (player ally)
+ 3: Mystia spell start
+ 4: after spell start
+ 5: clear
+ 6: ADVB
+ 7: lose
+ 8: 2PP (Daichiru)
+ 9-27: battle vs. Mystia
+28: common ADVA
+29-32: omake
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<BG=bg_talk_Black.png,fade=1,color=1,title=*bg_Shrine,bgm=bgm_talk_aoki>
+
+Reimu5a:...
+
+<hide=all>
+
+Sanae0a:...mu, wake up!
+
+</hide>
+
+Reimu5a:...
+
+<hide=all>
+
+Sanae5a:REIMU!
+
+</hide>
+
+Reimu5f:...Sanae?
+
+Sanae0a:Reimu, wake up! It's already morning.
+
+Reimu5d:Bring...
+
+Reimu0c:Break... fast...
+
+Sanae5c:Come on, Reimu. I've been trying to wake you up for a while now.
+
+Cirno0a:She's sure good at sleeping. We're poking her and everything, but nope.
+
+Aya5a:Quit going easy on her and just shake her awake, would you?
+
+Sanae5b:Sorry...
+
+Reimu2b:Cirno and Aya are here too? Gah, it's too early for all this noise...
+
+<Code=(transition_out,c_black,30,1)>
+
+<BG=bg_talk_Shrine_Night.png,fade=0,color=1,title=*bg_Shrine>
+
+<BGM=bgm_talk_inishie,0>
+
+Reimu1a:Whoa, it's dark! Come on, it's still the middle of the night!
+
+Minoriko2a:Exactly. Even though it's morning, it's still night.
+
+Daiyosei3b:Good morning. Or... good evening?
+
+Reimu0d:Huh? What are you all sitting around here for?
+
+Momiji0a:We're here to investigate the incident. Everyone who noticed the endless night has gathered here.
+
+Hatate0a:It's actually already time for it to be morning, but as you can see it's still pitch-black outside.
+
+Rumia3a:And the moon and the stars have been in the same place the whole time!
+
+Reimu4a:So you're telling me this is some kind of incident where the night never ends?
+
+Minoriko4a:Most people seem to think so.
+
+Aya0b:The shadows born from the night are a great source of power for youkai.
+
+Aya5a:If this keeps up, Gensokyo might begin to go wild. But if―
+
+Reimu3b:Yeah, yeah, we just need to find the culprit and beat them up, right?
+
+Reimu0f:How many times do you think I've done this already?
+
+Sanae3b:Well, things may be a bit more complicated this time...
+
+Yukari0a:Perhaps I should explain the details myself.
+
+Reimu0e:Yukari?!
+
+Ran4a:Good grief. I can't believe you've been sleeping through an incident of this caliber.
+
+Chen4b:What did you call it again...? Lack a daisy call, or something?
+
+Reimu3b:What the heck, I can't believe even you girls are here too...
+
+Suika0c:Let's cut to the chase: Yukari's the one stopping the night from ending.
+
+Reimu1a:Excuse me?!
+
+Yukari5a:By widening the border between day and night, I'm preventing the morning from arriving.
+
+Yukari0b:As long as my power holds, that moon will never sink from the sky.
+
+Reimu2b:H-Hold on. This is a lot to take in at the moment.
+
+Hatate0a:Honestly we were pretty surprised too when we heard about it at first!
+
+Aya5b:Stopping the night is itself an extraordinarily dangerous act, but...
+
+Aya0b:It's actually a way of opposing an even larger threat.
+
+Suika3c:Which would be that moon up there.
+
+Suika1b:It might look like a perfect circle, but it's not. That ugly, warped thing up there is a fake.
+
+Reimu0f:It does look a bit off, I guess...
+
+Sanae0b:We don't know why, but apparently someone's hidden away the moon.
+
+Sanae3b:I still don't really understand why that's supposed to be so dangerous though...
+
+Yukari1a:I will be explaining that shortly.
+
+Yukari0a:After all, the other youkai have just arrived.
+
+<SE=se_talk_Seirensen_landing01.ogg,wait=1>
+
+<Code=(map_shake,1,60,3)>
+
+<SE=se_bomb04.ogg,wait=0>
+
+<Code=(demo_wait,65)>
+
+Murasa1b:Evening, everyone!
+
+Ichirin0a:Looks like we're all gathering here, just like Shou said.
+
+Reimu0f:The crew of the Palanquin Ship? You're here to investigate too?
+
+Sho0a:For an incident as big as this, we thought we might want to lend you a hand.
+
+Nazrin0b:First we went to see Keine in the human village, but she wasn't home.
+
+Nazrin0a:So, instead of her, we got...
+
+Akyu3a:They're letting me ride the ship too. I look forward to working with you.
+
+Daiyosei2c:Huh? You're investigating too, Akyu?
+
+Akyu0a:I asked if I could come with them, and they graciously allowed me to.
+
+Akyu3a:It should be safe enough inside the ship, and I can watch everyone from nearby this way.
+
+Ichirin0a:It's handy for us too, having Akyu around to help out on the ship.
+
+Sanae0b:...Okay, allow me to ask you again.
+
+Sanae1a:What exactly is dangerous about that full moon being a fake?
+
+Yukari0b:Within the shadows born of the full moon, there exists a power. One that cannot be easily replaced.
+
+Yukari0a:The full moon is a mirror. As such, it creates darkness just as profound as the sunlight it reflects.
+
+Yukari5a:This deep darkness is itself the source of power for all night-dwelling youkai.
+
+Daiyosei3b:So, if we don't return the moon to normal...
+
+Ran0b:For some youkai, this is a matter of life and death.
+
+Ran4a:And because it will affect the balance of power between youkai, the entirety of Gensokyo may well be thrown into chaos.
+
+Suika1a:Powerful youkai are sensitive to this sorta thing. So no surprise you haven't noticed.
+
+Cirno0b:Hmm.
+
+Rumia1a:...
+
+Nazrin0b:If even you two are keeping quiet, you must understand how serious this situation really is.
+
+Cirno5d:Nah, I just don't know what's going on. It sounds super complicated.
+
+Rumia2b:Listening quietly makes me hungry...
+
+Nazrin6b:Alright, then.
+
+Suika1b:To sum it up, somebody just picked a fight with every last youkai on the surface.
+
+Suika1a:And so we're gonna give 'em one, no holds barred.
+
+Murasa1b:Does that mean you're coming too?
+
+Suika3d:What, did you think I popped by just to see you off? 
+
+Ran3b:To assist in this investigation, we will allow you to make use of the full power of the Yakumo family.
+
+Ichirin0a:...It's certainly reassuring to have the power of the Sage on our side. 
+
+Reimu0f:Okay, I pretty much get it, but could you confirm one last thing for me?
+
+Reimu3b:Extending the night like this is pretty dangerous too, you said.
+
+Reimu0a:But you're doing this because we wouldn't be able to resolve this incident otherwise?
+
+Yukari4a:Exactly. You could say it's a double-edged sword.
+
+Yukari0b:We will only be able to find the culprit while their technique is still interfering with the moon. In other words, while this moon is still out.
+
+Yukari6c:No matter what, we must absolutely resolve this in a single night.
+
+Akyu1a:Even if we have to make that night last indefinitely, you mean.
+
+Nazrin0b:Fighting incidents with incidents... That's the sorta call the Sage gets to make, huh?
+
+Sho1b:I guess it means we need to do whatever it takes...
+
+Ran0a:If we're done talking, why don't we head out at once?
+
+Suika1a:Hmm... Well, how 'bout we let Reimu decide where we're heading?
+
+Reimu2b:Wait, you all barge in here, bombard me with exposition, and then make ME decide?
+
+Yukari1a:I have yet to locate the party behind this. Please employ that intuition you're so proud of.
+
+Reimu2b:...Fine. This isn't much of a plan, but...
+
+Reimu1a:First we charge forward, straight out into the night. And then, we'll make it up as we go!
+
+Ichirin0a:Roger that! All aboard!
+
+Minoriko1b:It's going to be smooth sailing to victory now that we've got the Palanquin Ship!
+
+Murasa1b:Set course for Night-Time Gensokyo. Palanquin Ship, full speed ahead!
+
+<MAP=3,FROM=博麗神社,TO=ミスティアの屋台,name=Animal Trail,icon=4>
+
+<end>
+
+<ChatID:1>---------------------------------------
+//出撃後
+
+Yukari0a:As always, the cloak of night envelops youkai so comfortably.
+
+Ran0b:I'm not sensing any strong youkai auras in the area.
+
+Sanae3b:Moving straight through a forest at night like this is kind of frightening...
+
+Momiji4c:If you're scared, I don't think anyone would mind you staying in the back.
+
+Chen3d:Are humans such scaredy cats cause their eyes don't work at ni―
+
+Chen0c:Are humans such scaredy cats cause their eyes don't work at ni― Hey, what's that?
+
+<pause>
+
+Momiji4a:Is that a food cart? This is an odd place for one...
+
+Rumia3a:If she's following the smell of food, Reimu must be hungry too.
+
+Reimu2b:No, I'm not. But...
+
+<nomove>
+
+<Code=(cursor_jump,336,224,1)>
+
+<hide=all>
+
+Mystia1b:...sure to... with me... ...to the dogwood trees...
+
+</hide>
+
+</nomove>
+
+Chen0a:...? I just heard somebody singing.
+
+Akyu1a:Someone is singing near a food cart? Could it be?!
+
+<nomove>
+
+<Code=(cursor_jump,336,224,1)>
+
+<hide=all>
+
+Mystia0a:Oh, customers? Or are you easy prey...?
+
+</nomove>
+
+<pause>
+
+<hide=name>
+
+Mystia5a:...!
+
+</hide>
+
+Reimu3b:...!
+
+<hide=name>
+
+Mystia1b:They're not here to eat... That's okay, they'd probably be walkouts...
+
+</hide>
+
+Reimu1a:Hey, we're not here to dine and dash!
+
+Sanae0a:Um... Who might you be? You appear to be a youkai, but...
+
+Aya3a:That's Mystia, a night sparrow. But Akyu probably knows more about her than I do.
+
+Akyu0b:Yes. As you said, she's a youkai named Mystia Lorelei.
+
+Akyu0a:And a night sparrow is a kind of youkai that leads people astray at night with their songs.
+
+Akyu3a:I'd heard she started running a food stall a while ago, but...
+
+Mystia4a:Just who are you all? I was hoping I'd found some easy prey, but it seems not...
+
+Nazrin4a:Sorry, but we're neither customers nor food.
+
+Sho0a:We're here investigating the current incident. Do you know anything about it?
+
+Mystia0a:Incident? You mean the long night?
+
+Mystia3a:Well, it IS a bit annoying to have so few humans around, but...
+
+Mystia3d:In exchange, I get to sing all I want!
+
+Momiji6a:*sigh* I can't tell if she's listening to us or not.
+
+Reimu0d:This is annoying. Let's just exterminate her already.
+
+Cirno4c:Huh? I don't really think she has anything to do with the incident.
+
+Reimu1a:And that has nothing to do with why I'm exterminating her. She's a youkai, I found her, that's good enough for me!
+
+Suika3c:Well, I think we all saw this coming. Will ya at least sing us a song that'll get us fired up?
+
+Mystia1a:I don't take requests. It's been a while since I've seen a human, so I'm not letting any get away.
+
+Mystia1b:Bird of the night, song of the night... Take away these people's sight...
+
+<end>
+
+<ChatID:2>---------------------------------------
+//3PP、またはそれ以前にミスティア通常撃破
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_turns,<,3)>
+
+Mystia1b:Vigor, Vigor, Guuuuts!
+
+<pause>
+
+Hatate0a:Wait, Guts, not Vigor?!
+
+Sanae5c:It's just like the songs Lady Suwako hums to herself...
+
+</Cond>
+
+Rumia1a:She's got a lot of guts for somebody I expected to be a chicken!
+
+Aya5a:Could you please not make bird jokes when I'm standing right here?
+
+Aya0a:...Oh, what's this now?
+
+<pause>
+
+Youmu1a:Lady Yuyuko, there seems to be some sort of commotion over here!
+
+Yuyuko2a:Wait up, Youmu!
+
+Ran3b:Lady Yukari, isn't that...
+
+Yukari0a:Well, if it isn't Yuyuko. How unusual, to see you out and about this late at night.
+
+Yuyuko1a:And if it isn't Yukari. How rare to see you awake so early.
+
+Murasa0a:Who're they? I've never seen them before...
+
+Sanae0a:This is Yuyuko Saigyouji and her gardener, Youmu Konpaku.
+
+Sanae4a:The two of them reside in the Netherworld. Apparently she's in charge of managing the ghosts there.
+
+Murasa0a:Wow, what's an important ghost like her doing out here on the surface?
+
+Sho3c:Nice to see you again, Youmu. Are you two here to investigate the incident?
+
+Youmu4a:Yes. As Lady Yuyuko herself is presently investigating, I am serving as her bodyguard.
+
+Youmu1b:Both the moon and the night incidents are quite serious matters for all of Gensokyo.
+
+Yuyuko0a:Is that giant box the flying ship Yukari mentioned?
+
+Nazrin0a:We completed our repairs the other day, so we're working with the investigation team now.
+
+Youmu1c:So, do you have any clues as to who our opponent is?
+
+Minoriko3b:Well, it isn't really clear yet, but we'll figure it out on the way.
+
+Yuyuko1a:Shall we go with them, Youmu?
+
+Youmu0a:I don't see why not, but please be careful.
+
+Youmu1a:The cry of a night sparrow youkai is an ominous sound indeed.
+
+Yuyuko1b:Oh my, but isn't the sound of a ghost showing up far more ominous?
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char6,0,0,0)>
+
+<Code=(icon_set_direction,Youmu,FD_RIGHT,0)>
+
+Yuyuko1a:"OoOOOoo... Boo!"
+
+Youmu3b:...Please take this more seriously. We need to resolve this incident as soon as possible.
+
+</nomove>
+
+<end>
+
+<ChatID:3>---------------------------------------
+//ミスティア通常撃破
+
+Mystia2a:Hold on a moment!
+
+Nazrin4a:Good grief, she's trying to sing in the middle of a danmaku battle.
+
+Aya1a:I feel sorry for her, but this ends here.
+
+Mystia1a:What are you talking about? The fun's just beginning for this youkai festival!
+
+Mystia1b:A good girl like me sleeps all day... But night time is the time to play... Human hunting all night long, oh yay...
+
+Akyu1a:Be careful, everyone. The song of a night sparrow causes you to lose your way!
+
+Mystia1b:The birdsong in the dead of night... Making them all lose their sight...
+
+Mystia1a:Let my entrancing song steal away your night vision!
+
+<end>
+
+<ChatID:4>---------------------------------------
+//スペカ発動の次のPP（コンプリでは没）
+
+<end>
+
+<ChatID:5>---------------------------------------
+//「夜雀の歌撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Mystia4a:Aww, whyyyy?
+
+Daiyosei0a:It was scary when it suddenly got all dark, but we pulled through somehow.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Mystia4b:Not fair! You aren't allowed to run from my song!
+
+Sanae5b:When I couldn't even see my hand in front of my face I was so scared...
+
+</Cond>
+
+Murasa2b:If I hadn't paid careful attention, I could've taken the ship in the wrong direction.
+
+Yuyuko0a:So, Youmu, did you cut through to the truth?
+
+Youmu4c:I think so. The truth is, she's probably unrelated to the incident.
+
+Mystia4b:Couldn't you have guessed that without swinging a sword at me?!
+
+Ran0b:For now, let's take her back with us for questioning.
+
+Hatate0a:It doesn't look like she'd know much, though.
+
+Ran0a:We can't rule it out though. And because we have the ship, questioning her won't cause any delay.
+
+Nazrin0a:Let's get going then. I'll grab the bird.
+
+Sho3b:Youmu and Yuyuko, the entrance is over here, if you please.
+
+Mystia1b:Donna donna donna don... But whoever treasures freedom, like the sparrow....
+
+Murasa0b:Please don't sing such a depressing song.
+
+<end>
+
+<ChatID:6>---------------------------------------
+//ADVB
+
+<MAP=3,FROM=ミスティアの屋台,TO=ミスティアの屋台,name=Animal Trail,icon=4>
+
+<BG=*bg_talk_Seirensen_Bridge_Night.png,fade=0,color=1,title=*bg_Seirensen_Bridge,bgm=bgm_talk_ningyo>
+
+Sho3c:Youmu, Yuyuko, this way please.
+
+Youmu4b:Wow, so this is what it's like inside?
+
+Suika0a:This your first time riding on a ship like this, Yuyuko?
+
+Yukari1a:This kind is pretty rare even in the lands of the living, after all. Be careful not to get too dizzy.
+
+Yuyuko2b:Oh, you don't have to worry so much. I'll be fine!
+
+Nazrin0b:...Come on, right this way.
+
+Mystia4a:Hey, stop it! This is animal abuse...
+
+Mystia4b:Wait, isn't the audience smaller now? Wasn't there a red and white shrine maiden...?
+
+Sanae5c:She hasn't had her breakfast yet, so she went to the dining room.
+
+Nazrin6b:I bet she lost interest the moment she finished the extermination.
+
+Mystia4a:How mean...
+
+Ran0a:Now, your name was Mystia, right? Why don't you tell us what you know about the incident?
+
+Mystia4b:It doesn't matter how many times you ask, I still don't know anything!
+
+Ichirin0a:So have you noticed anything unusual then? For instance, have you seen anyone suspicious lately?
+
+Mystia0b:How would I know? I don't even remember how much I sold yester―
+
+Mystia5a:How would I know? I don't even remember how much I sold yester― OH NO!
+
+Sanae1a:What's wrong?
+
+Mystia4a:My food cart! I just left it there!
+
+Minoriko1a:I-Is this going to be okay?! All your tools of the trade are in there...
+
+Mystia3c:...Well, no one really comes by, so I don't think anyone's gonna steal it.
+
+Nazrin6a:Guess you're the go-with-the-flow type.
+
+Youmu3b:...How disappointing. So we still have no clues then?
+
+Youmu1b:If only we had just a little more information about this long night...
+
+Yuyuko1b:Oh? But the moon is the far more important of the two. The long night isn't really a problem at all.
+
+Yuyuko1a:It's probably just Yukari trying to delay the sunrise, after all.
+
+Youmu2b:What?
+
+Yukari1a:Ah, you found me out already? That's our clever Yuyuko for you.
+
+Youmu2b:W-Wait a second. If you knew this already, why didn't you just tell me?
+
+Yuyuko1a:Didn't I tell you from the start? That we were going out to investigate the strange incident?
+
+Youmu3b:That didn't narrow it down at all!
+
+Sho3d:Now, now, you all must be tired after the fight, please let me show you around the ship.
+
+Sho0a:Reimu and the others probably want to talk to you too.
+
+Youmu4a:...Now that you mention it, it HAS been a while since I've spoken to everyone.
+
+Youmu4b:Lady Yuyuko, would you mind if I went to see them for a bit?
+
+Yuyuko1b:I'm not going anywhere, so don't worry―go have fun.
+
+Shizuha1c:Why don't you come with us, Mystia? It must be uncomfortable in here.
+
+Mystia3a:I guess. I'm kinda thirsty after all that.
+
+Sanae4a:In that case, let's head to the dining hall and make some tea.
+
+<SE=se_talk_walk.ogg,wait=1>
+
+<nowindow>
+
+<Code=(demo_wait,30)>
+
+<single>
+
+</nowindow>
+
+Suika1a:Okay, now that's its calmed down in here, it's time for a drink or thre―
+
+</single>
+
+Murasa0b:...Um, we don't allow alcohol on the bridge.
+
+Yukari1a:But Yuyuko, you're awfully overprotective, aren't you? Coming all this way just to keep her safe.
+
+Yuyuko0a:I just feel uneasy about leaving it to Youmu when she'd be up against someone who can hide the full moon.
+
+Yuyuko1b:If the old moon was an apple, this one's an orange. It seems whoever switched them reached for the moon, but fell quite short.
+
+Yukari0a:Honestly, this incident lacks any elegance.
+
+Yukari0b:I don't know yet what they're planning, but this isn't the work of an upstanding youkai.
+
+Ran0b:So even you two have no idea who could be behind this?
+
+Yukari1a:Of course not.
+
+Yuyuko1b:Not the slightest!
+
+Suika3c:Eh, let's not worry our heads over that. We just need to do what we always need to do.
+
+Suika3d:We flush out the mastermind, show her some pain, and...
+
+Yukari1a:And then drink our fill under the moonlit night?
+
+Yuyuko1b:Oh, if that's the plan, then this place would be nice...
+
+Suika3b:Yeah, and I brought some pretty good sake.
+
+Yukari1a:Who knows where we'll be by the time this is over? Perhaps we should do this in advance.
+
+Unzan0a:...
+
+Ichirin0a:Um, please do that somewhere else. It's a bad influence.
+
+<BG=bg_talk_Seirensen_Dining_Night.png,fade=1,color=1,title=bg_Seirensen_Dining,bgm=bgm_talk_aoki>
+
+Cirno0b:...Do you think they're grilling that girl from earlier for answers?
+
+Chen3c:Miss Ran is always nice, unless you've done something wrong.
+
+Daiyosei0b:Mystia... Right? She was so brave.
+
+Daiyosei3b:I could never sing in front of everyone like that...
+
+Reimu0g:It really IS impressive of her to sing and dance in public.
+
+Reimu0f:Although I guess I do it sometimes too, for rituals and stuff.
+
+Akyu3a:Well, she's really good at it, so I'm sure that's why she's so confident.
+
+Cirno5b:Her passion reminds me of being the strongest...
+
+Cirno0a:If she comes with us, I'll ask her to be our friend.
+
+Chen0c:You think she'd come with us right after we exterminated her?
+
+Rumia0a:It's happened before!
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+Nazrin0a:And sure enough, everybody's in here...
+
+Mystia3c:Woooow! There's a place to eat, too!
+
+Cirno0b:Speak of the whoever! It's that youkai and―
+
+Youmu4b:Hello, everyone. It's been quite a while, hasn't it?
+
+Reimu0g:Oh, Youmu. I hope Yuyuko's doing okay?
+
+Sho0a:Umm, we'll need a seat for Youmu, and some tea...
+
+Sanae4a:I'll handle it, so please have a seat yourself, Shou.
+
+Aya0a:If you're all here, then you must be done interrogating her?
+
+Shizuha0a:Well, it wasn't really that intense of a conversation. We are done though.
+
+Momiji5a:So, in the end, are we taking her along?
+
+Momiji0a:But it'd be a big problem if we all suddenly lost our night vision.
+
+Mystia3d:If that happens, just eat this and you'll be fine.
+
+<SE=se_talk_dosa01.ogg,wait=1>
+
+Hatate0a:What's this? Grilled... chicken? No, it's...
+
+Aya1a:This is grilled lamprey. Rumor has it that it improves your night vision.
+
+Daiyosei2c:Why would you grill lamprey?
+
+Mystia3c:I thought I'd rid the world of grilled chicken, so I started selling grilled eels at my stand.
+
+Mystia1b:I weaken humans' vision with my power, and then sell them grilled lamprey to cure it. The perfect plan!
+
+Momiji6a:Uh-huh. So in other words, she's running a racket―
+
+<SE=se_talk_muscle02.ogg,wait=0>
+
+<Code=(demo_wait,8)>
+
+Momiji2a:Uh-huh. So in other words, she's running a racket― Ow ow ow!
+
+Aya3b:What a splendid understanding of supply and demand. Everyone, let's all eat grilled lamprey instead of chicken.
+
+Cirno4c:You have a soft spot for birds, huh...
+
+Hatate1a:I agree with Aya!
+
+<nowindow>
+
+<SE=se_talk_walk.ogg,wait=1>
+
+<single>
+
+</nowindow>
+
+Sanae0a:Here's your tea. Watch out, it's hot.
+
+</single>
+
+Reimu0g:Thanks. Just leave it there.
+
+Youmu4c:Thank you very much. It's much appreciated.
+
+Akyu3a:Nice to see you again, Youmu. I hope everything is still well at Hakugyokuro?
+
+Youmu4a:Yes, everything is. Thanks to that, I've been able to continue my job as a gardener in high spirits.
+
+Youmu4b:Haven't you gotten a bit taller since last time, Akyu?
+
+Akyu3a:You noticed! When I mentioned it to Reimu and company, they couldn't tell at all.
+
+Youmu3b:I'm half ghost, so I'm a bit jealous of people who grow so fast.
+
+Youmu4d:And if you're here too, Akyu, then we need to protect this ship at all costs.
+
+Sho3d:Yes, we'll do our best. It's quite reassuring to have you along with us.
+
+Youmu4b:Oh, no, it should be me saying that, I'm very glad we ended up joining together.
+
+Youmu0a:Though now that I've had a look around, it doesn't seem like Keine or Marisa are here...
+
+Nazrin6a:They never showed up at the shrine before we left.
+
+Sanae0b:I'm a little surprised that Keine wasn't there.
+
+Sanae3b:I'd heard that whenever there's an incident, she's always the first one at the shrine.
+
+Reimu0e:Eh, I bet those two are just off doing their own thing.
+
+Reimu0b:Even besides the moon, they'd have to think there was something strange about an endless night.
+
+Youmu4c:You're right. I'm sure we'll meet up with them eventually.
+
+<MAP=3,FROM=妹紅の家,TO=妹紅の家,name=Bamboo Thicket,icon=5>
+
+<BG=*bg_talk_Bamboo_Night.png,fade=1,color=1,title=*bg_Mokou,bgm=bgm_talk_inishie>
+
+Mokou0a:...
+
+Mokou3c:(That distorted moon, this unending night...)
+
+Mokou3a:(I don't know what she's after, but it's got to be her.)
+
+Keine6a:Mokou, are you getting ready to leave?
+
+Mokou0a:...Keine.
+
+Keine4a:Looks like you noticed the incident without me this time.
+
+Keine0c:The mastermind is certain to be someone extremely capabl―
+
+Mokou0a:I know. She has to be the one pulling the strings.
+
+Keine4a:...You think it's her?
+
+Mokou0a:Usually there are rabbits lurking around here, and they're all gone now. Something's happened.
+
+Mokou3a:I'm heading to her place to see for myself.
+
+Keine0a:...If that's your goal, I see nothing wrong with that.
+
+Keine6c:I'll let Reimu and the rest of the investigators know. We can look into this together.
+
+Mokou0a:No, I'm going alone.
+
+Keine5a:...!
+
+Keine7b:Mokou, don't tell me―
+
+Mokou3b:You're probably going over to the rest of them, right? Tell them to keep their noses out of this.
+
+Keine0b:...Please actually think this over before giving me an answer.
+
+Keine0c:I'd like to think that I understand how things work with you and her. Couldn't you open up to the others too?
+
+Mokou4a:...Are you saying I should tell them about me and her?
+
+Keine0a:Yes. You've been getting closer to them, slowly but surely.
+
+Keine0b:We can do this hand in han―
+
+Mokou3b:Sorry. I can't go with you or them, Keine.
+
+Mokou3c:What ties me to her is mine alone, and no one else's.
+
+Keine1a:Mokou...
+
+<end>
+
+<ChatID:7>----------------------------------------
+//敗北時
+
+Suika2a:What the heck happened? She's even got US on her side...
+
+Yukari6b:It appears I should have been stricter with my training.
+
+Mystia1b:A hundred tries, a hundred deaths... Even I'm getting sick of it...
+
+<end>
+
+<ChatID:8>----------------------------------------
+//2PP（没）
+
+<end>
+
+<ChatID:9>----------------------------------------
+//ミスティアvs.霊夢
+
+Mystia4a:I thought some foolishly-tasty humans had finally shown up, but there aren't many humans among you, huh?
+
+Mystia3d:Well, whatever. Thanks to my ability, at least you can't―
+
+Reimu1a:Oh for crying out loud, I keep telling people this!
+
+Mystia3b:...?
+
+Reimu1a:My night vision is fine!
+
+<end>
+
+<ChatID:10>----------------------------------------
+//ミスティアvs.早苗さん
+
+Mystia1d:Yay, easy prey!
+
+Sanae1d:I'm easy prey...?
+
+Mystia0a:I mean, the other human isn't scared at all. 
+
+Mystia1a:I think you're like the only one not used to this yet.
+
+Sanae1a:Oh no... I'm sorry, Lady Kanako, I ended up going down a dark alley by myself...
+
+<end>
+
+<ChatID:11>----------------------------------------
+//ミスティアvs.ルーミア
+
+Rumia3a:That's a nice smell.
+
+Mystia0c:...? Are you talking about the grilled lamprey?
+
+Mystia1b:If you can't see a thing, an eel helps you deal... If you do your best, you'll have lots of dreams...
+
+Rumia4b:*drool*
+
+<end>
+
+<ChatID:12>----------------------------------------
+//ミスティアvs.大妖精
+
+Mystia1b:The lake fairy is their healer...
+
+Daiyosei0a:...? I'm not sure I understand your lyrics, but...
+
+Daiyosei0a:It's really impressive that you're singing in front of all of these people.
+
+<end>
+
+<ChatID:13>----------------------------------------
+//ミスティアvs.チルノ
+
+Cirno1a:So you're the one making everyone's eyes bad with your song!
+
+Mystia5a:Hm? My song has nothing to do with it.
+
+Mystia1b:I give humans night-blindness because it's hilarious, and I sing because I want to.
+
+Cirno5b:Oh, okay. Then hey, I really like your song!
+
+<end>
+
+<ChatID:14>----------------------------------------
+//ミスティアvs.穣子
+
+Minoriko0a:Besides being a singer, are you also the proprietor of this food cart?
+
+Mystia0a:That's right, this is Mystia's Singing Food Cart!
+
+Minoriko2a:Hmph, could this finally be the appearance of our rival?
+
+Minoriko2a:With Shizuha's songs and my entrepreneurial spirit... Together, we'll be unstoppable!
+
+Shizuha2b:Hey, hold on a minute Minoriko! When did we agree I'd sing?
+
+<end>
+
+<ChatID:15>----------------------------------------
+//ミスティアvs.静葉
+
+Shizuha0a:A food cart, huh? I suppose it has its own appeal.
+
+Mystia0c:Appeal?
+
+Shizuha0a:I've been talking with Minoriko about how we can remind people of the appeal of autumn.
+
+Shizuha1c:Like, she sells baked sweet potatoes while I self-publish a book of poems?
+
+Mystia1b:Those who self-publish, when all is told... End up with piles of copies, unsold...
+
+<end>
+
+<ChatID:16>----------------------------------------
+//ミスティアvs.文
+
+Aya1a:I've been hearing about you for some time now, Miss Mystia Lorelei.
+
+Aya3a:I'm Aya Shameimaru, a crow tengu. I'd like to write about you in the Bunbunmaru Newspaper, if you'd―
+
+Mystia1b:Bird of the night! Song of the night!
+
+Aya5a:So you're not interested?
+
+Mystia4a:C'mon, you're interrupting my song! We can talk later.
+
+Aya5b:...You're the first person to be completely uninterested in seeing her name in the papers.
+
+Aya7b:Don't tell me―You're not illiterate, are you?
+
+Mystia1c:I-I'm not THAT bad at reading! Fine, you can leave your paper over there!
+
+<end>
+
+<ChatID:17>----------------------------------------
+//ミスティアvs.椛
+
+Momiji7a:A youkai that makes humans night-blind... What a hassle.
+
+Mystia0c:You say that, but aren't you a youkai?
+
+Momiji5a:That's true, but we also have quite a few humans among―
+
+Momiji6a:Wait a minute. Now that I think about it, there are only two? That's surprisingly few.
+
+<end>
+
+<ChatID:18>----------------------------------------
+//ミスティアvs.萃香
+
+Suika1a:It'd be nice if I had a cup of sake to go with this song.
+
+Mystia3d:Ah, well, my cart has some in stock too!
+
+Mystia3c:I even sing to drinking customers, free of charge.
+
+Suika1a:Oooh, nice. But it might be a bad influence on the humans.
+
+<end>
+
+<ChatID:19>----------------------------------------
+//ミスティアvs.妖夢
+
+Youmu1b:This time I'm here as Lady Yuyuko's attendant. I can't let my guard down for a second.
+
+Mystia5a:Whoa, swinging swords around like that... You're a dangerous customer!
+
+Youmu0c:This is the Roukanken, forged by youkai. And this is the Hakurouken, handed down through the Konpaku family.
+
+Youmu1a:And lastly, there's me, the blade that will protect Lady Yuyuko!
+
+<end>
+
+<ChatID:20>----------------------------------------
+//ミスティアvs.幽々子
+
+Yuyuko0a:Hey Youmu, why is there a sparrow singing in the middle of the night?
+
+Youmu0a:I'm sure we already discussed this... That's a night sparrow, a kind of youkai.
+
+Youmu0a:Don't get too involved with her. Let's just cut her down and move on.
+
+Yuyuko1b:You're right, they have too many little bones to bother with.
+
+Mystia1c:Wh-wh-what the heck are you imagining doing to me?!
+
+<end>
+
+<ChatID:21>----------------------------------------
+//ミスティアvs.紫
+
+Mystia1c:I thought some foolishly-tasty humans had finally shown up... but you're not that. Just what are you?
+
+Yukari1a:Yes, I'm far from human indeed.
+
+Mystia0c:What do you mean?
+
+Yukari0a:It means that you've gotten far ahead of yourself while playing at being the queen of the gnats, little night sparrow.
+
+Yukari2b:Why don't I give you just the slightest glimpse of the true face of a youkai of the night?
+
+<end>
+
+<ChatID:22>----------------------------------------
+//ミスティアvs.藍
+
+Mystia1b:Chirp, chirp, the sparrow loves to play...
+
+Chen3b:Miss Ran, it's a singing youkai!
+
+Ran0a:She has a nice singing voice. And the lyrics are quite cute.
+
+Ran3d:Chen, how about we practice something ourselves for the next festi―
+
+Mystia3d:Then the chasing stray dog found the tables were turned... Rip and tear, rip and tear, nothing left but bones...
+
+Ran6b:...?!
+
+Ran6e:Chen, no! Don't listen to this song!
+
+<end>
+
+<ChatID:23>----------------------------------------
+//ミスティアvs.橙
+
+<end>
+
+<ChatID:24>----------------------------------------
+//ミスティアvs.ナズーリン
+
+Nazrin6a:A youkai sparrow, huh. I've got complicated feelings about sparrows.
+
+Mystia1c:What the heck, we've just met! Why the hate-on-first-sight?!
+
+Nazrin4a:Well, people put out food for your kind to enjoy in the sunlight.
+
+Nazrin6b:My mice don't get that kind of opportunity.
+
+<end>
+
+<ChatID:25>----------------------------------------
+//ミスティアvs.星
+
+Mystia5a:Oh no, a cat!
+
+Sho0c:What? There's no need to be so scared.
+
+Mystia4a:But you're a cat. Doesn't your kind hunt birds just for sport?
+
+Mystia1c:I've gotta mess with you, here and now! This is for everyone!
+
+Sho4a:...I wonder when the best time would be to point out that I'm actually a tiger.
+
+<end>
+
+<ChatID:26>----------------------------------------
+//ミスティアvs.聖輦船★
+
+Murasa0a:A bird flying out of the darkness, huh? That caught me off guard.
+
+Ichirin0a:Reminds you of her, doesn't it?
+
+Murasa0b:Well, y'know, we didn't have time to talk before we left.
+
+Mystia1c:What are you talking about?
+
+Ichirin0a:Sorry, that was just between us. So how's it going, Akyu?
+
+Akyu1a:Main cannon charged!
+
+Mystia2a:Hey, hold on a minute, I barely got a word in edgewise!
+
+<end>
+
+<ChatID:27>----------------------------------------
+//ミスティアvs.はたて★
+
+Hatate0a:Aya seems to know all about you.
+
+Mystia3d:Does that make me a celebrity?
+
+Hatate0a:No, I think it's more that her reach is just that wide...
+
+Hatate0a:Still, it's amazing how many people she knows. That's her reporting style for you.
+
+<end>
+
+<ChatID:28>---------------------------------------
+//共通ルートADVA
+
+<BG=bg_talk_Koumakan_Gate_Night.png,fade=0,color=1,title=bg_NextMorning>
+
+<Code=(demo_wait,50)>
+
+<Code=(transition_out,c_black,30,0)>
+
+<BG=bg_talk_Koumakan_Int_Night.png,fade=1,color=1,title=bg_Koumakan,bgm=bgm_talk_inishie>
+
+Remilia1d:...
+
+Remilia0b:(It's the same as before outside...)
+
+Sakuya0a:Mistress, I have your morning tea.
+
+Sakuya0a:Of course, we must take the clock's word for it that it's morning at all.
+
+Remilia6a:You have some nerve, chattering away in these circumstances. It must be human nature.
+
+Patchouli0b:She's showing her concern in her own way, as you well know.
+
+Patchouli0c:Meiling, how is the young mistress?
+
+Meiling0b:She's resting right now. She's doing better than she was before.
+
+Meiling3a:Sometimes she lashes out, though, and I'm not sure why. Maybe she's afraid?
+
+Koakuma1c:I wonder if she's fallen so ill because of this unending night...
+
+Remilia1d:That's almost certainly part of it, but the real problem is that distorted moon.
+
+Remilia1d:Flan's probably feeling the same thing I do.
+
+Meiling0b:Then we should all go out and resolve this incident together.
+
+Meiling0b:If it's going to be night the whole time, then we'll be able to make full use of the mistress's strength.
+
+Patchouli0b:It's a good idea, but I'm unsure about leaving the young mistress alone, even for a matter of hours.
+
+Remilia1d:...
+
+Remilia0b:No, I'll stay here. You all will go out and investigate.
+
+Patchouli0c:You're staying, Remi?
+
+Remilia0b:I can't just leave Flan alone, much less leave with all of you.
+
+Remilia0a:I'll look after her. You all can handle the incident.
+
+Patchouli0b:I don't mind leaving her in your hands, but...
+
+Patchouli4e:I think it might be time to start trusting her more. 
+
+Remilia1b:Trusting HER?
+
+Patchouli0b:Yes. You don't really believe you can keep things as they are forever, do you?
+
+Remilia5a:Let's assume you're right. Even so, leaving her like this doesn't sit right with me...
+
+Sakuya0a:It's alright, we'll handle the investigation.
+
+Sakuya0a:Mistress, please keep an eye on the young mistress in our absence.
+
+Remilia0a:...I appreciate it, Sakuya.
+
+Remilia0c:Now go resolve this incident. The sooner, the better.
+
+Sakuya0b:As you wish.
+
+<Code=(transition_out,c_black,30,1)>
+
+<end>
+
+<ChatID:29>----------------------------------------
+//おまけ会話：霊夢、阿求、村紗、早苗さん、一輪
+
+Reimu0b:That youkai runs the food stand over there?
+
+Akyu0a:Correct. It's not just for youkai either, I hear she even serves human customers.
+
+Akyu3a:She's living proof that youkai have been diversifying their ways of life.
+
+Murasa3c:So why don't we drop by later?
+
+Sanae5d:Sounds nice, although I don't drink alcohol...
+
+Sanae0g:Come to think of it, Buddhists aren't allowed to drink either, right?
+
+Ichirin0c:Well, a glass here or there should be fine...
+
+Sho3d:Even just the skewers look delicious, and we'll see where things go from there...
+
+Nazrin6b:So even you're on board with this, Master...
+
+<end>
+
+<ChatID:30>----------------------------------------
+//おまけ会話：ルーミア、チルノ、大妖精
+
+Rumia0a:So that Mystia chick runs this food cart?
+
+Rumia4b:*gulp*
+
+Daiyosei2c:No stealing food, Rumia. We need to ask permission from the owner.
+
+Cirno0a:She sure must be clever to run something like this.
+
+Cirno5b:Maybe I should get into the business of selling frozen frogs...
+
+Daiyosei2a:Um, well... I think you're the only one who wants those, Cirno.
+
+<end>
+
+<ChatID:31>----------------------------------------
+//おまけ会話：秋姉妹、文、椛、はたて
+
+Aya1a:Hmm, so this is Mystia's food cart...
+
+Minoriko3a:Seems legit. I'll have three skewers with extra salt, please.
+
+Shizuha5a:And two cups of hot sake to wash them down.
+
+Momiji6a:You two sound like you know what you're doing. Do gods frequent these sorts of places?
+
+Aya1a:These places are just the thing for dropping by on the way home from work.
+
+Aya3b:Why don't we pay a visit later? I could get my interview while we're at it.
+
+Momiji4a:Oh, that sounds nice.
+
+Hatate0a:Get an interview "while you're at it"? Shouldn't you take that more seriously?
+
+Aya0a:Actually, if you keep your reporter's pad at the ready at all times, you'll find that your whole life can be chasing the stories.
+
+Momiji5a:Well, that and that way she can probably list it as a business expense.
+
+Hatate1a:Is this one of those secret tricks for how to survive in our harsh and uncaring modern society? Wow, you're so savvy, Aya!
+
+<end>
+
+<ChatID:32>----------------------------------------
+//おまけ会話：紫、ゆゆ様、萃香、藍、橙
+
+Chen3c:Something smells good, Miss Ran!
+
+Youmu0c:Is that a food stand? How odd, why would someone set up in a place like this?
+
+Yuyuko1a:I love the atmosphere. Why don't we drop by later?
+
+Yukari0c:I don't mind, but it seems like a bit seedy. It might not suit you, Yuyuko.
+
+Suika3b:What are you talkin' about? This kinda hole in the wall is the whole point of coming all the way to the world of the living.
+
+Suika1a:Let's all go together sometime. Heck, why don't you bring Ran and Chen along too?
+
+Ran6b:Wha?! Excuse me, but I think Chen's a bit young for a place like this.
+
+Suika1a:Come on, think of it as a learning experience. You wanna come too, Youmu?
+
+Youmu1b:If Lady Yuyuko is going, I cannot very well leave her unattended.
+
+Yuyuko1b:Then there we have it. I'll be looking forward to it.
+
+Yukari5a:...Well, I suppose it's better than letting her stay bored in the Netherworld.
+
+<end>
+
+<ChatID:33>----------------------------------------
+//おまけ会話：メーコ、まくら
+
+Meko0e:Look, Lady Makura, it's a food stall!
+
+Meko4b:...Just seeing it gets me a little excited.
+
+Makura3a:I think you'd be good at running a business, Mehko.
+
+Meko0e:I could say the same to you.
+
+Meko4e:Like you could open a shop selling people stuff that happens in dreams.
+
+Makura6f:Oh, no, I could never do something so shameless...
+
+Meko5c:(Wait, what exactly is she thinking of?)
+
+<end>
+
+<ChatID:34>----------------------------------------
+//ミスティアvs.メーコ
+
+Meko4c:So is that food stall yours?
+
+Mystia1a:Today's special is grilled lamprey.
+
+Meko0f:Running a business, huh? Must be hard to deal with customers.
+
+Meko4a:Especially when it comes to the bills.
+
+Mystia3d:Actually, I just do whatever and it works out!
+
+Meko0b:Is your stall going to be okay, Mystia?!
+
+<end>
+
+<ChatID:35>----------------------------------------
+//ミスティアvs.まくら
+
+Mystia1b:When the bough breaks, the cradle goes boom... The baby explodes, and falls to her doom...
+
+Makura0f:...Where in the world did you learn such gruesome lyrics?
+
+Mystia3a:I just make it up as I go.
+
+Makura3a:It's supposed to be: And down will come baby, cradle and all...
+
+Mystia0c:Wow, you sound like you've practiced this song a lot before!
+
+Makura3d:I used to sing at humans' bedsides, long ago. It was a time dear to my heart.
+
+<end>
+
+<ChatID:36>----------------------------------------
+//ミスティアvs.ミスティア
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Mystia1b:The night swallow's song...
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Mystia3d:Attacking humans all night long...
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Mystia0c:Who're you? I was singing...
+
+Mystia3a:But it sounded pretty good together.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Mystia3c:Then how about a duet?
+
+Mystia1b:Guwa, guwa, guwa, guwa....
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Mystia1d:Dero dero dero, guwa guwa...
+
+</nomove>
+
+<end>
+
+<ChatID:37>----------------------------------------
+//R37：ミスティアvs.非想天則
+
+Tensoku0a:...
+
+Mystia5a:Wah, what is that?! You scared me.
+
+Mystia3b:But now that I get a good look at you, it makes me wanna sing.
+
+Mystia1b:Flying in the sky... Pitch black castle...
+
+<end>

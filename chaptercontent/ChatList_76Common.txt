@@ -1,0 +1,1734 @@
+﻿○共通第七十六話「羊の見る夢
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: Yuka first battle (unused)
+ 4: first battle vs. Meko
+ 5: Meko spell 1 start
+ 6: Meko spell 2 start
+ 7: Meko spell 3 start
+ 8: Meko spell 4 start
+ 9: Meko spell 5 start
+10: Meko final attack
+11: final 1 (unused)
+12: final 2 (unused)
+13: final 3 (unused)
+14: final 4 (extra) (unused)
+15: clear
+16: ADVB
+17: lose
+18: extra
+19: extra
+20-88: battle vs. Meko
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<BG=bg_talk_Mugen_Deep,fade=0,color=1,title=bg_Mugen_Deep,bgm=bgm_talk_dream>
+
+<Code=(map_shake,1,90,1)>
+
+<SE=se_hit_bullet_L03.ogg,wait=0>
+
+<Code=(demo_wait,90)>
+
+Meko0b:Lady Makura, what was that shaking...?
+
+Makura5a:...If the shockwave reached this far, it was probably Yuuka Kazami.
+
+Meko0a:Do you think she fought the humans?
+
+Makura5a:I certainly can't imagine anything else. However, I can still sense their spiritual energy.
+
+Makura5a:No doubt they even beat Yuuka Kazami.
+
+Meko0b:...What do we do? Does that mean they're almost here?
+
+Makura5a:No need to worry, Mehko. I'm here with you.
+
+Meko0f:Yes, Lady Makura...
+
+Meko0g:...
+
+Makura5a:This reminds me of when we were wandering together.
+
+Makura5a:It was only because you were there that we arrived in this land, and I was able to dream again.
+
+Meko0f:And without you, I'd probably be gone by now...
+
+Makura5a:...I've exposed you to so much danger, so many times. You must think terribly of me by now.
+
+Meko0b:No way! That's all someone like me is good for.
+
+Meko0g:I'll do anything, as long as I can fulfill your dream.
+
+Makura5a:Mehko...
+
+Makura5a:Eventually the day will come when I can help you live in peace. Once we've achieved our dream.
+
+Makura5a:But until then, could you please lend me your strength just a little longer?
+
+Meko0g:Of course...
+
+Makura5a:Still, to think they'd thwart all of our designs and come this far.
+
+Makura5a:I've been gathering dream energy in preparation for the final battle, just to be completely sure, but it's still possible I won't be ready in time.
+
+Meko1a:...
+
+Meko1f:Then I'll go!
+
+Makura5a:Mehko...?
+
+Meko0f:As long as you have that all that power, you'll win no matter what, right?
+
+Meko1b:Then please keep gathering it while I fight them!
+
+Makura5a:...You want to buy me time? But it's too dangerous to go alone.
+
+Makura5a:I'm the only one left who can fight them. You can help me by my side instead.
+
+Meko1c:Don't worry, I also have that power you shared with me.
+
+Meko1f:Even I can slow them down if I give it my all!
+
+Makura5a:...
+
+Makura5a:Very well then. I'll leave that task to you.
+
+Makura5a:But you need to retreat as soon as you find yourself at a disadvantage.
+
+Makura5a:There are dangers associated with using another's power. Please don't risk your life just to buy a little more time.
+
+Meko0e:Yes, Lady Makura!
+
+Makura5a:...
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+Meko1a:...After saying all that, I HAVE to slow them down at least a little.
+
+Meko1a:No... With this power I'm borrowing, maybe I could be even more useful?
+
+Meko1b:In that case, I...
+
+</single>
+
+<MAP=19,FROM=夢幻世界5,TO=夢幻世界6,name=Dreamscape,icon=4>
+
+<BG=*bg_talk_Seirensen_Bridge_Mugen,fade=1,color=1,title=*bg_Seirensen_Bridge,bgm=bgm_talk_ningyo>
+
+Yuka2d:Hey Alice, I don't see MY cup.
+
+Alice0b:Why would I get a cup for you? Ask Elly or Kurumi.
+
+Elliy1a:My time has come! Yuuka, I'll be your bowl!
+
+Medicine3d:Here you go, Yuuka, you can have mine!
+
+Yuka3c:Thank you, Medi. This old bowl looks like it'd be better off shattered.
+
+Kurumi2a:Oh no, stop! Elly's about to get chopped up!
+
+Akyu3c:...She's finally traveling with us, but they're acting the same as always.
+
+Korin3a:Yeah, even though this is the final stage of the investigation...
+
+Ichirin2a:Not that we know where we're going yet.
+
+Reimu5c:Well, all that's left is to find the mastermind. Nice and simple, really.
+
+Reimu5c:For now, let's just keep heading down.
+
+Kosuzu0a:*sigh* Down?
+
+Toyohime2c:Space is warped here, so the idea of "down" is a little ambiguous right now.
+
+Reimu3a:What are you talking about? Down is down.
+
+Keine0a:We can trust Reimu's intuition when it comes to incidents. There's a specific direction you want to go, right?
+
+Reimu0b:Yeah. I can point the way.
+
+Byakuren0a:Alright Murasa, please steer us in the direction Reimu's pointing.
+
+Yukari0a:If you see anything, I'll work with the others to reconnoiter.
+
+Murasa1b:Aye-aye!
+
+Yuka0a:They really are incident resolution specialists, aren't they? They've got this down to an art.
+
+Yuka0b:In which case, I may as well just sit back and sip tea.
+
+Eiki0c:What are you talking about? You're the only one who's met the mastermind.
+
+Keine0a:And while we have this chance, you're going to tell us everything you know.
+
+Yuka2d:I'm afraid that "everything" may not be as much as you're hoping.
+
+Yuka0a:You'd probably find Makura faster on your own.
+
+Marisa0e:So you don't know where she is either?
+
+Yuka0c:I haven't seen her for a while, so yes.
+
+Eirin1c:Even so, any information you could provide might be useful for the final battle.
+
+Alice0d:Could you share anything you know about Makura or Mehko?
+
+Yuka0c:Well, if that's what you're looking for...
+
+Reimu0e:When and how did you first meet Makura anyway?
+
+Yuka2d:Let's see... We first met when the Field of the Sun was changing color in autumn.
+
+Yuka0a:I think it was a little before Remilia's mist incident.
+
+Youmu2b:What? That long ago?!
+
+Yuka2d:It was really more like we bumped into each other.
+
+Yuka0c:The two of them were so dirty. It was like they'd just escaped from something.
+
+Yukari0a:I see. But if they'd done anything to stand out, then Ran should have noticed.
+
+Ran4b:I was preoccupied with Youkai Mountain at the time, so I may not have been as vigilant as I could have been.
+
+Kanako0b:Meaning they arrived at about the same time we did. They're newcomers too.
+
+Yuka0a:Yes. I hear that's why Mehko was mimicking a kedama, to go scope out Gensokyo.
+
+Yuka2d:They never expected her to be found by Marisa and turned into a pet though.
+
+Sakuya5b:But it was a good opportunity to get close to a human, so they went along with it?
+
+Yuka3a:Apparently. Maybe this was because she was fascinated by what you'd done, but she said something interesting after the incident was over.
+
+Yuka0b:She'd just arrived from outside, but she told me they wanted to support Gensokyo.
+
+Yuka0a:That piqued my interest, so I did them a few favors.
+
+Utsuho0e:Like what?
+
+Yuka0a:You must have passed through Mugenkan on the way here. I lent that to them.
+
+Kurumi1a:Without telling us?!
+
+Elliy4b:Now that you mention it, I feel like we didn't spend much time with you that year...
+
+Eirin0d:As the place in Gensokyo closest to dreams, it might have been comfortable for her.
+
+Yuka2d:Probably. And after that, she helped your incident investigations while at the same time slowly storing up strength.
+
+Yuka0a:Whenever I paid a visit, it seemed like she'd never left her bed, whether sleeping or awake.
+
+Alice2c:...Sounds like you know her even better than we expected.
+
+Yuka3a:She seemed well-behaved, so I let her be.
+
+Marisa1b:I mean, when we first met she seemed trustworthy enough to me too. Gave good advice.
+
+Marisa0b:She must've been learning about the incidents by peeking into people's dreams.
+
+Sanae1e:But then she seemed to slowly change.
+
+Keine2a:Until finally they were trying to tear out Yatagarasu by force.
+
+Utsuho2c:...
+
+Orin1b:...Did you ever speak with them after that?
+
+Yuka3a:I did. They seemed pretty beat up about it, but they weren't going to change their minds.
+
+Yuka0a:They have no doubt whatsoever that they're doing what's best for Gensokyo.
+
+Kanako3a:I can't understand them at all. Do they think any means are acceptable if it's for a good cause?
+
+Suwako4a:Not that their cause makes anymore sense.
+
+Yuka0a:After that, my patience with them ran out. The rest, I know nothing about.
+
+Yuka2d:You probably know more about what they did next than I do.
+
+Reimu4a:Yeah. We fought Mehko a few times after she revealed her identity.
+
+Reimu4a:Frankly, even after talking to her I still don't know what they're thinking.
+
+Udonge3b:I mean, she's not the brightest bulb...
+
+Satori0c:Either way, we know she's desperate, and that she doesn't doubt her master in the slightest.
+
+Satori0b:But that's why she'll do anything if she's ordered to.
+
+Nitori3b:But we used to get along so well. I was really shocked when she betrayed us.
+
+Alice0b:I don't know what she was thinking at the time, but we know now that she's only ever served one master from the very beginning.
+
+Alice1c:If we fight her up ahead, she'll do everything she can to defeat us.
+
+Orin1b:It doesn't matter what their circumstances are, we have to stop them.
+
+Orin1b:If we leave them alone, there'll just be more victims like Okuu.
+
+Parsee0d:Yeah, next time we meet we're paying her back double for that.
+
+Utsuho0c:...
+
+Utsuho2d:Mm...
+
+Koishi2b:...Okuu?
+
+Yugi0d:What's wrong? Shouldn't you be more fired up about this than anyone else?
+
+Utsuho4d:No, um, it's like... I've never really thought about taking revenge.
+
+Utsuho0c:And when you put it like that, um, is that really okay?
+
+Yamame1d:What, don't tell me you want to forgive and forget?
+
+Parsee0a:Just how goody-two-shoes can you get? You're one who's suffered most from this.
+
+Parsee2a:When you talk like that, you make me sound like a petty, narrow-minded woman!
+
+Elliy0a:...
+
+Parsee2a:Why isn't anyone trying to tell me I'm not?!
+
+Satori0c:I think it's a good thing that your heart is still so pure after all that, Okuu.
+
+Satori0c:But the fact remains that she hurt you. You're allowed to say something, the next time you meet.
+
+Utsuho0c:Say something, huh...?
+
+Utsuho0a:Okay, I understand, Miss Satori.
+
+Aya0a:Alright, I think we've said all we can about them for now.
+
+Yukari0a:Indeed. All that's left is to hear the rest straight from Makura herself.
+
+Suika1a:If there's nothing else to do, I guess we have free time until we deploy?
+
+Udonge3a:We're approaching the final battle. How carefree can you get?
+
+Komachi1a:They say that the wise know when to fight and when to rest. Maybe being this relaxed is the ultimate form of that?
+
+Komachi1c:Why don't we all spend this time however we want?
+
+Akyu0a:Alright, then the meeting is adjourned. We'll contact you if anything happens.
+
+<BG=bg_talk_Seirensen_Hall_Night,fade=1,color=1,title=bg_Seirensen_Hall,bgm=bgm_talk_potion>
+
+Korin1b:Mm, that smells nice. Having my coffee down here once in a while isn't too bad.
+
+Mima0e:I'll never get used to the way you and Marisa make a mess of the table like that.
+
+Marisa0a:Even though we're all on the ship together, Kourin's always holed up on the bridge, so we don't get this chance too often.
+
+Alice0d:We have plenty of food, so if you want more just ask.
+
+Shanghai0a:Shanghai!
+
+Patchouli0c:I don't mind you having tea, but are you going to be okay like that, Marisa?
+
+Marisa0d:What do you mean?
+
+Nitori3e:With your tools all over the place like that, won't you be in trouble if there's a surprise attack?
+
+Marisa7a:Eh, it's nothing to worry about. If it comes down to it, I'll just stuff 'em all in my hat.
+
+Kurumi3b:You can fit all that in your hat?!
+
+Yuka2d:Come to think of it, you're spending your precious free time sorting out your equipment? That's so you, Marisa.
+
+Yuka0a:A certain shrine maiden I know just leaves things out when she can't be bothered to clean them up.
+
+Alice0c:Maybe you and Reimu do, but normal people tend to go in at least a little prepared.
+
+Mima0c:It doesn't look like Marisa's simply preparing for battle, either.
+
+Marisa0c:Not really. I'm reviewing everything I've done so far.
+
+Elliy0b:Reviewing? With... an old book and a glass vial and this other junk? Do those help?
+
+Marisa0c:Sure, it may look like trash to you, but to me it's all treasure.
+
+Marisa0a:Normally I'd leave this all at home, but this battle is special.
+
+Mima3a:You want to fight with all your history at your side. That's just the sort of thing I'd expect from you, Marisa.
+
+Yuka3c:Heh heh, indeed. You really are a hard worker.
+
+Yuka0a:Are these books the sequel to that grimoire of yours?
+
+Marisa1a:Whoa, no touching! Those are my secret danmaku research notebooks!
+
+Alice2b:You have secret notebooks...?
+
+Nitori1d:There sure are a lot of 'em. Is this where you write down new special moves?
+
+Marisa0a:Nah, that's not it. They're more like... danmaku goals.
+
+Marisa6a:Spellcards I think are worth living up to. No, surpassing.
+
+Yuka1b:Ah, I see, your goals.
+
+Yuka0b:Heh heh heh, how touching. You really think an ordinary magician like yourself can live up to these?
+
+Mima0d:Don't make fun of it, that's her way of life.
+
+Mima0a:Don't you want to see how far Marisa's magic will take her?
+
+Yuka0d:Yes, yes, we all know you're quite fond of your pupil.
+
+Yuka3f:But if that's how confident you are in her, then I suppose I'm looking forward to seeing our next battles.
+
+Yuka3b:By all means, show us the path your danmaku's taken.
+
+Marisa7c:I was gonna anyway!
+
+<BG=bg_talk_Seirensen_Dining_Night,fade=0,color=1,title=bg_Seirensen_Dining>
+
+Reimu0b:Ah, here it is. My hidden daifuku mochi is still there.
+
+Reimu0c:I'll probably be resting after this, so I need to finish this while I can.
+
+<SE=se_talk_door_open06b.ogg,wait=1>
+
+Yorihime0b:Can't she get her own tea cakes? My word...
+
+Reimu3b:Oh, it's you...
+
+Yorihime0a:The shrine maiden of Earth. I thought you were on the bridge, guiding the ship.
+
+Reimu5c:Yeah, and now I'm taking a break. It's right before the final battle so don't you think I deserve one?
+
+Yorihime0b:Well... I suppose. So even you need time to focus your mind?
+
+Reimu5c:Not really. But anyway, you needed something from the cupboard, right? Go ahead.
+
+Yorihime0a:Right...
+
+Yorihime0a:...
+
+Reimu5a:...
+
+Reimu4a:What? You have something to say to me?
+
+Yorihime0d:I do, actually. And this might be my last chance to find you alone before the final battle.
+
+Yorihime0a:I'd like to give you a warning about that power of yours.
+
+Reimu4a:Wait, which power are we talking about here?
+
+Yorihime0b:...The power to free yourself from all interference. That violent power that detaches you from reality.
+
+Reimu5d:...
+
+Yorihime0a:Back in the sea of stars your friend stopped you, but you must have been aware of its dangers.
+
+Yorihime0a:But even so, you bound it in the chains of a name and still use it, even today.
+
+Yorihime0c:And I'm sure you're prepared to release it from those chains in an emergency.
+
+Reimu5a:...You're right. I know that if I misuse it, I'll end up all alone.
+
+Reimu0g:But I'm not worried.
+
+Yorihime0a:Why not?
+
+Reimu0c:That technique, Natural Fantasy, wasn't named by me, but by someone else.
+
+Reimu0c:Thanks to that, I know that I'll never be isolated. That I'll be fine as I am.
+
+Reimu0c:That no matter what, there's a line I'll never cross.
+
+Yorihime0a:So you can keep being you...
+
+Yorihime0b:I see. So they aren't chains to bind your power, but a barrier you've created.
+
+Yorihime1a:That's an interesting way of thinking—that just by having a name, a thing has a place in the world.
+
+Reimu0g:I think that's just what a spellcard is. A danmaku barrier we all construct, piece by piece.
+
+Reimu0g:That's how even your divine invocations can be the same as a fairy's danmaku.
+
+Reimu0g:Weak or strong, they're all just as important.
+
+Yorihime0a:...
+
+Reimu5c:Not that I came up with any of this. That's just what my friend told me.
+
+Reimu0g:But anyway, you don't need to worry. I won't do anything crazy in the final battle.
+
+Yorihime0b:Yes. While everything about you is ambiguous, there's certainly a barrier in place.
+
+Yorihime0d:It looks like my fear was groundless.
+
+Reimu0g:But don't just take my word for it, see for yourself in the battle to come.
+
+Yorihime0d:I'll be counting on your strength, Reimu.
+
+Reimu0g:And I'll be counting on yours, Yorihime.
+
+<Code=(transition_out,c_black,60,1)>
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP（出撃前）
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP（出撃後）
+
+Yumeko0a:We've entered a peculiar place.
+
+Shinki0a:The dream energy here is much stronger than everywhere else we've been.
+
+Yuka2d:The dreams must be gathered nearby.
+
+Yuka0a:Meaning Makura's probably close.
+
+Sunny0a:Ooh! Bingo!
+
+Sanae0a:I thought this would be harder to find. I'm surprised you managed it.
+
+Reimu0c:Well, I'm just that good.
+
+Minoriko3b:We all helped scout, so don't take ALL the credit, Reimu.
+
+Keine0a:Then let's hurry up and continue the investigation. Makura Muwatari should be just ahead.
+
+<nomove>
+
+<hide=face>
+
+<Code=(cursor_jump,336,384,1)>
+
+Meko1d:Oh no you don't!
+
+</hide>
+
+</nomove>
+
+<pause>
+
+Orin1b:...!
+
+Marisa2b:There you are, Mehko!
+
+Meko1b:I can't believe you came all the way here... You really don't know when to quit!
+
+Meko1a:But you're not getting any farther!
+
+Sakuya0b:Thank you for coming out to greet us, but you won't be in our way for long.
+
+Rumia1a:You're the one who doesn't know when to quit! How many times have we beaten you again?
+
+Youmu1a:If you intend to block our path, then we'll cut one right through you!
+
+Meko1d:Hmph! People like you could never—
+
+Yuka0b:Never what? Defeat you? If so, I'm looking forward to this.
+
+Meko0b:Yuuka Kazami...!
+
+Yuka0a:It's been a while, hasn't it? Is Makura doing well?
+
+Yuka2d:It seems you've left Mugenkan. You could've said something if you were moving.
+
+Meko1d:Don't play dumb! You always said you weren't taking sides, but now you're with the humans!
+
+Yuka1a:Unfortunately for you, I do what I want.
+
+Yuka0a:But more importantly, she must be feeling quite cornered if she sent you out alone.
+
+Meko1e:...!
+
+Alice1a:We know you're trying to gather the power of all the dreams in the Dreamscape.
+
+Udonge1c:I bet you're just here to stall for time.
+
+Meko1a:I guess the jig's up, but it doesn't matter.
+
+Meko1d:If I beat you here, then we win!
+
+Orin1b:Now you've said it! This time we're settling this!
+
+Keine1a:Fate brought us together numerous times, but that all ends today.
+
+Keine1a:This is where you'll pay for all your crimes!
+
+Meko1e:I can't lose either, you know. I have to stop you, no matter what!
+
+Meko1d:For Lady Makura's—no, for MY dream!
+
+<end>
+
+<ChatID:3>---------------------------------------
+//幽香初戦闘（没）
+
+<end>
+
+Yuka0a:unused
+
+<end>
+
+<ChatID:4>---------------------------------------
+//メーコ初戦闘
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Reimu1a:We're coming through!
+
+Marisa1a:We already beat the boss sheep, so a bunch of fodder sheep sure ain't stopping us!
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Marisa1a:We're coming through!
+
+Reimu1a:We already beat the boss sheep, so a bunch of fodder sheep sure aren't stopping us.
+
+</Cond>
+
+Meko1b:I know that! That's why you're fighting ME!
+
+Orin1b:It's great that you're determined and all, but that just makes it even easier!
+
+Nitori1b:We have a lot things to say to you too! Don't we, Utsuho?
+
+Utsuho0c:...
+
+Meko1e:...The Yatagarasu girl. I'm gonna settle things with you, too.
+
+Meko1f:You beat me before, but this time I'll finish you off!
+
+Mokou1a:If you can say that knowing how strong she is, at least you've got guts!
+
+Toyohime0b:But did you forget that we've gathered even more talent since then too?
+
+Meko0b:Ooh! But I'm not the same as I was then either!
+
+Remilia1b:Say what you like, we're turning you into roast mutton.
+
+Meko5c:You're making fun of me again! But I'll show you! The third time's the charm!
+
+<end>
+
+<ChatID:5>---------------------------------------
+//メーコ通常撃破
+
+Meko0b:Ooh...!
+
+Komachi1a:So far it doesn't seem any different from before.
+
+Yuka0b:Have you said your farewells to your beloved Makura yet?
+
+Meko1d:Sh-Shut up! I still haven't used my real power!
+
+Toyohime0a:Your real power though... Wasn't it just to manipulate sleep?
+
+Meiling1a:Sure, it's a little annoying, but the same trick won't work twice!
+
+Sanae0a:Yeah, actually counting sheep makes it even harder to fall asleep.
+
+Reisen2b:Wait, what's this about counting sheep?
+
+Suwako0c:In the Outside World, they say it's supposed to help you fall asleep. But by our time, it was mostly just a superstition.
+
+Meko1c:Right... The humans over there stopped believing in sheep.
+
+Meko1b:But when we crossed over into here, my power went up too!
+
+Marisa0b:You two really are from the Outside World, huh.
+
+Akyu0a:So both you and Makura are youkai who passed into fantasy from outside.
+
+Yukari2a:In that case, I'd love to welcome you two, but unfortunately the circumstances won't allow for that.
+
+Meko1c:I knew you'd say that. But that's why, in order to beat you...
+
+Meko0e:Behold!
+
+Nazrin2a:Is that a spellcard...?
+
+Eiki0c:Then you intend to use the language of Gensokyo?
+
+Meko0e:That's right! I did special training with everyone just for a time like this!
+
+Meko0c:Feast your eyes on my special move!
+
+Reimu5d:A spellcard is your special move, huh...
+
+Marisa0a:Sounds fun. So what are you gonna show us?
+
+Meko0e:Everyone who's left, help me defeat them!
+
+Meko0c:ASSEMBLE!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//メーコスペル１通過
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Sunny0a:Alright, we broke it!
+
+Meko2b:Aah! Gaiya! Orteiga! Mush!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Luna4a:Augh, we're being herded...
+
+Meko0c:Good work! Galamitiy! Dah! Nyeit!
+
+</Cond>
+
+Ran6a:So she's coordinating with her minions. Looks like they've been tamed better than before.
+
+Udonge3a:Did Mehko give them all weird names?
+
+Ichirin0a:You actually went through special training just to oppose us. You're pretty tenacious.
+
+Ichirin1c:And for this difference in power, just a little training wouldn't suffice.
+
+Meko1c:Yeah, I know my limits.
+
+Meko1b:But if it'll help Lady Makura, then it's fine by me!
+
+Yumeko0a:What impressive loyalty, and she even knows her station.
+
+Sho0c:But why? Why are you so devoted to Makura?
+
+Meko1b:What do you mean, why?
+
+Patchouli0c:You must know that humans are suffering because of this incident.
+
+Patchouli0a:And yet you're still so desperate to help her.
+
+Meko1b:That one's easy! It's because I believe in her ideals!
+
+Tenshi2d:Then could you explain those ideals for us?
+
+Meko0b:Ooh...
+
+Mystia3d:Oh I know, Makura must've fed her and she followed her home.
+
+Rumia0a:Makes sense to me.
+
+Meko1d:N-No! I mean...
+
+Meko0g:Lady Makura was kind to me.
+
+Nitori2a:Huh?
+
+Utsuho2c:Kind?
+
+Meko1b:Like I said, the humans outside never count sheep anymore!
+
+Meko1b:Lady Makura helped me when I had nowhere left to go.
+
+Meko0g:She cheered me on, supported me!
+
+Shinki5a:So you want to repay her for her kindness.
+
+Meko1b:Yeah, that's right! I would've disappeared by now if it weren't for her!
+
+Ichirin4a:So you devoted yourself to your savior. I can understand that feeling. But...
+
+Tewi4b:She still made you an accomplice in this incident. Doesn't that make you more like a lost lamb?
+
+Toyohime2c:Taking advantage of someone in a moment of weakness is the oldest trick in the book.
+
+Meko1e:Don't talk about her like that! I mean, if that's what she wanted she could've chosen a way better youkai than me...
+
+Meko1f:Lady Makura was against me fighting like this anyway...
+
+Meko1d:She's so kind that she picked up someone useless like me!
+
+Utsuho2c:Um...
+
+Meko1a:...I'm going all out for this one! A super move that'll put even crying children to sleep!
+
+Meko1f:These countless sheep will put you into a sleep you'll never wake up from!
+
+<end>
+
+<ChatID:7>---------------------------------------
+//メーコスペル２通過
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Meko0b:Th-They didn't fall asleep?!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Meko0b:Th-They were supposed to be asleep!
+
+</Cond>
+
+Mima0c:Not half bad, but you chose the wrong opponents.
+
+Meiling1a:This is why I always take extra naps when I can!
+
+Sakuya5a:Isn't that a strange boast to try to sneak in during the confusion?
+
+Lunasa0b:That must have exhausted your repertoire. Give up quietly and let us through.
+
+Meko1d:N-No way! I may be out of spells, but I'm still standing!
+
+Meko0f:If I can't stop you here, then I'll never be useful to her!
+
+Utsuho2c:...
+
+Utsuho2c:No, don't push yourself. You should go back to her.
+
+Meko0b:...!
+
+Orin1b:What are you saying, Okuu?!
+
+Yugi1c:Don't tell me you sympathize with her?
+
+Utsuho2c:No, but... I don't wanna fight her after hearing that.
+
+Utsuho2d:I mean, doesn't it sound like she has a master too, someone like Miss Satori?
+
+Orin5a:Um...
+
+Utsuho2c:...When I was all beat up, Miss Satori looked so hurt.
+
+Utsuho2c:So you shouldn't make your master worry.
+
+Satori2b:Okuu...
+
+Meko3a:I can't believe Utsuho of all people is telling me this...
+
+Meko0b:Why? Why are you worrying about me?
+
+Meko3b:I'm the one who hurt you...
+
+Eirin1c:The way you said that... Does this mean you're aware of your crimes?
+
+Eirin1d:I'd assumed you were just blindly devoted, but it seems you do have a conscience.
+
+Meko0b:Um...
+
+Kisume0b:Then you aren't just a mindless sheep, Mehko.
+
+Yamame1b:And yet you're still going through with all this. That takes moxie too, I guess.
+
+Meko0b:Hey...!
+
+Meko0g:If you think that makes me an idiot, then fine! This is all I can do!
+
+Utsuho2c:All you can do...?
+
+Meko0f:You all have it easy! You can support the people you care about.
+
+Meko0g:I'm different. I'm not strong. Whenever I try to do something I screw it up.
+
+Meko0g:So if there's ANYTHING someone like me can do to be useful, I'll do it!
+
+Byakuren0c:Then that's your resolve.
+
+Meko1d:That's right! I don't care if you think I'm cruel, I don't need you to forgive me!
+
+Meko1d:As long as it's for Lady Makura!
+
+<pause>
+
+Orin1b:...!
+
+Hatate1c:What's this light?
+
+Yuka2a:The power of dreams. That's supposed to appear from Makura's power.
+
+Yuka2c:How does Mehko have it...?
+
+Meko1c:Even if my spells didn't work, I still have another trick up my sleeve.
+
+Meko1d:I can use this to defeat you!
+
+<pause>
+
+Reimu1b:...!
+
+Marisa1a:What's this? Sheep are coming out?
+
+Alice1a:It's more like they were created out of thin air.
+
+MekoM0a:*huff, huff*
+
+Utsuho4b:...!
+
+Cirno2c:Wait, was that you just now?!
+
+MekoM0a:That's right! This is the power to manifest dreams that Lady Makura shared with me!
+
+MekoM0b:With this power, even I can do something!
+
+<pause>
+
+Youmu2b:Mehko's aura increased! And the character of her spiritual power is changing!
+
+Hatate1c:What's going on? She said this was Makura's power?
+
+Satori0d:I can feel another youkai inside her heart.
+
+Satori2b:Don't tell me she's keeping Makura's energy inside her body, giving her the same power?
+
+Luna1a:Isn't that just like Yatagarasu being inside Utsuho?!
+
+Kanako1c:It's not quite the same, but the similarities are there.
+
+MekoM0a:How do like THEM apples?! See Utsuho, I won't lose to you anymore!
+
+MekoM0c:Now that I have power, I can finally be someone else!
+
+Utsuho2c:You don't want to be yourself...?
+
+MekoM0a:That's right! I can do what I couldn't do before! I don't have to be me anymore!
+
+MekoM0b:My dream will melt into Lady Makura's!
+
+<end>
+
+<ChatID:8>---------------------------------------
+//メーコスペル３通過
+
+Nue2a:Is that all the sheep?!
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Murasa0d:With those numbers, that took a pretty long time.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Murasa0d:We got through that, but we've wasted a lot of time.
+
+</Cond>
+
+Star4a:If her goal is to slow us down, does that mean she's winning?
+
+Shinki5a:But this is borrowed danmaku, made using Makura's power.
+
+Shinki5a:After making all those youkai, she can't possibly keep going.
+
+MekoM0d:*huff, huff*
+
+Kaguya2e:Looks like her body can't keep up with the power inside her.
+
+MekoM0d:...!
+
+Marisa2b:That's a nice trick, but it sounds like you can't keep it up for long.
+
+Reimu1b:At least fight us with your own danmaku, instead of relying on someone else's.
+
+MekoM0e:Sh-Shut up! If that wasn't enough I just need more power!
+
+<pause>
+
+Nitori2a:Ack, she powered up again!
+
+Satori0c:This feeling... It looks like she's accepted Makura's power deeper into her heart.
+
+Kanako1d:That's dangerous! Is she so desperate that she's lost sight of herself?!
+
+Suwako1b:Properly housing another being's power takes time, even for a youkai with the right nature like Okuu.
+
+Suwako1c:If she rushes it, I wouldn't be surprised if it erodes her mind.
+
+Udonge1b:So she's sacrificing herself to use that power?
+
+Youmu1a:No way! What do you think you're doing, throwing yourself away like that?!
+
+Hina1b:Weren't you just supposed to stall us? Why would you fight like this?!
+
+MekoM0d:Because when I defeat you, I'll finally be useful!
+
+Yuyuko2a:She's not listening. It'll be hard to talk her down.
+
+MekoM0e:Not everyone's allowed to want a bunch of different things, like you people do!
+
+MekoM0f:That's why I...!
+
+<end>
+
+<ChatID:9>---------------------------------------
+//メーコスペル４通過
+
+MekoM0d:*huff, pant*
+
+Mokou1c:She's using some major magic there...
+
+LilyW1c:It's amazing, but it's not Mehko...
+
+Daiyosei3b:Yeah. And she looks like she's struggling so much...
+
+Byakuren5a:Her strong feelings towards her master must be allowing her to keep her form.
+
+Byakuren2a:But if she goes any further...
+
+MekoM1b:I-If that's not enough, then...
+
+<pause>
+
+Utsuho1d:...!
+
+Ran1e:Impossible! Her power increased even further?!
+
+Yorihime2a:This spiritual pressure, is she trying to match a great youkai?!
+
+Shinki5a:Stop this! Do you realize what you're doing?
+
+MekoM1d:What do you mean?
+
+Alice1a:You must be able to feel something happening inside you, Mehko.
+
+Alice1a:The more you accept Makura, the more your own self gets whittled away!
+
+Shinki5a:If you keep this up, you won't be you anymore!
+
+MekoM1d:I won't be me...
+
+MekoM0f:...Yeah, I'm okay with that!
+
+Utsuho2c:You are...?
+
+MekoM1c:I mean, why would I want to be me? I'm useless!
+
+MekoM1d:Then I might as well just be someone else—anyone else...!
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Marisa2b:Do you even hear yourself?
+
+Reimu1a:Then what is your danmaku even for?
+
+Reimu1a:What can you say with someone else's danmaku?
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Reimu1b:Do you even hear yourself?
+
+Marisa2b:Then what is your danmaku even for?
+
+Marisa1a:What can you say with someone else's danmaku? Those words don't come from you!
+
+</Cond>
+
+MekoM1b:Who cares?! As long as I can defeat you, nothing else matters!
+
+MekoM1d:I'm only allowed to have one wish. I want nothing other than Lady Makura's dream.
+
+MekoM1c:That's right, Lady Makura's dream is my dream!
+
+<end>
+
+<ChatID:10>---------------------------------------
+//メーコスペル５通過
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+MekoD0b:No way...
+
+</nomove>
+
+<pause>
+
+Shizuha4a:The aura she had is gone now. Looks like she used up all of Makura's power.
+
+Eirin1c:You're lucky. Any more than that would have merely put additional strain on your body.
+
+MekoD0d:B-But why...?
+
+MekoD0b:Why can't I do anything? Even though I've only got the one dream...
+
+MekoD0c:Even when I'm not me anymore...
+
+Daiyosei3b:Mehko...
+
+Shinki5a:You did your best, dear. Please, you need to rest.
+
+Momiji1b:We broke through both your power and Makura's. This is where you should retreat.
+
+MekoD0b:Retreat? After all that...?
+
+MekoD0a:You think I can just give up, after everything I've done?!
+
+<pause>
+
+Reimu1a:You still want to fight?
+
+Sanae1c:But you've exhausted all your options...
+
+MekoD0c:Oooh...!
+
+<end>
+
+<ChatID:15>---------------------------------------
+//クリア
+
+Murasa0b:Phew, NOW it's over, right?
+
+Ichirin1a:Don't tell me she's going to keep coming after us even when the battle's over...
+
+Nazrin6b:If we'd taken that head-on, it might've been dangerous even for us.
+
+Wriggle1d:But surely now, Mehko should be done...
+
+MekoD0c:...
+
+<pause>
+
+Kogasa2b:Whoa, you're still standing?!
+
+Suika2a:What the heck?! You should've gone past your limits a long time ago!
+
+Yumeko4b:That's the power of conviction. I'll acknowledge her strength of will, but...
+
+Utsuho2c:Isn't there any way we can stop her?
+
+Sanae3b:Okuu...
+
+Utsuho2c:If she keeps fighting, she's definitely gonna get hurt.
+
+Utsuho2d:Plus, seeing her do all that is just...
+
+Satori0c:You can't bear to look, can you, Okuu?
+
+Utsuho2c:Would her master really want this?
+
+Utsuho2c:Like, her being okay with not being herself, or her throwing away her own danmaku...
+
+Reimu0a:...
+
+Eiki4b:Danmaku represents the self. Right now she's so desperate that she's lost sight of that. Instead, she's throwing herself away.
+
+Komachi0c:So she won't stop as long as she has those strong feelings?
+
+Orin1b:Geez, and she's even got Okuu worrying about her now. Is this only gonna end when her body's broken?!
+
+Orin1f:Is there any way out of this? With all her blood rushing to her head like that, she's not gonna listen to reason.
+
+Reimu0a:...Okay, I'll handle this.
+
+<pause>
+
+Sanae0g:Reimu?
+
+Reimu1a:If normal words won't work, then let's do this our way.
+
+Reimu1a:That'll finish this fight nice and neat!
+
+<pause>
+
+Yorihime1c:That's...
+
+Yukari0b:The danmaku that represents Reimu. You're saying you're going to settle this in the language of Gensokyo.
+
+Yukari0a:Do it, Reimu. As the Hakurei Shrine Maiden, this is your duty.
+
+Marisa2b:Oh no, you're not gonna beat me to the punch!
+
+<pause>
+
+Reimu5a:Marisa?
+
+Marisa2b:I'm the one who met her first. I'm not gonna pass up this shot.
+
+Marisa7a:I've never liked letting you do all the work anyway.
+
+Ran0c:But Reimu's technique is special. No other human could possibly keep up.
+
+Marisa1c:You're saying I can't do it? Where's your sense of adventure? That'd make Gensokyo's language pretty lopsided.
+
+Marisa7a:I've studied her danmaku more than anyone! If anyone can do this, I can!
+
+Reimu4a:Sheesh, you never change...
+
+Reimu1a:Fine, then try to keep up!
+
+Marisa1a:Right back at you!
+
+<pause>
+
+<Code=(icon_set_direction,MekoD_en,FD_RIGHT,0)>
+
+<Code=(chat_set_auto,1,90)>
+
+MekoD0b:...!
+
+Marisa2b:Mehko, you fought well. And I'll grant that you made a good stand.
+
+Marisa1a:But danmaku that ain't fun just ain't danmaku!
+
+MekoD0b:Wait, fun...?
+
+Reimu1a:Right, danmaku isn't something that breaks you. It's something you create!
+
+Reimu1a:We're going to show you that now, and put an end to this stubbornness.
+
+Marisa2b:I'm gonna do my thing, Reimu!
+
+Reimu1a:I'm not holding back either, Marisa!
+
+MekoD0b:Wh-What are you doing? It's like you're playing around...
+
+<Code=(chat_set_auto,1,110)>
+
+Marisa2b:We're dead serious! If you're betting everything on this battle, then so are we! All of our fantasy!
+
+<Code=(chat_set_auto,1,60)>
+
+Reimu1a:What we're about to show you is the universal language of Gensokyo...
+
+<Code=(chat_set_auto,1,90)>
+
+<double>
+
+Reimu1a:Spellcards!
+
+Marisa1a:Spellcards!
+
+<pause>
+
+<Code=(chat_set_auto,0,0)>
+
+Keine1a:That was...
+
+Alice1a:Reimu's spells and Marisa's spells lined up perfectly into one danmaku!
+
+Reimu1a:The ultimate three colors. I call it [True Trichromatic Lotus Butterfly]!
+
+Marisa4b:Wait, back up, why do you get to name it?
+
+Reimu1a:Because you picked it last time. Anyway...
+
+MekoD0c:...
+
+Ran4a:This fight is finished. Surely she can't stand now.
+
+Yukari0b:Danmaku you could call the essence of the spellcard system, performed by two incident resolution specialists.
+
+Yukari4a:There could be no greater form of communication for us. And I doubt she has the words to surpass theirs.
+
+MekoD0c:Ooh...
+
+MekoD0b:Ooh... Waaah...!
+
+<end>
+
+<ChatID:16>---------------------------------------
+//ADVB
+
+<BG=bg_talk_Mugen.png,fade=1,color=1,title=bg_Mugen,bgm=bgm_talk_hiroshige>
+
+Koakuma4b:It's finally over.
+
+Patchouli4a:I never imagined Mehko of all people would be putting up such a fight.
+
+Remilia1d:It would've been over faster if she hadn't borrowed Makura's power.
+
+Meiling3d:And the way she used it so recklessly too...
+
+Sakuya5a:But it's over. She won't be doing anything untoward now, surely.
+
+Meko5a:...
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+Marisa0c:There there. Be good now, okay?
+
+Reimu4a:If she were still standing after that, then even I'd have to throw in the towel.
+
+Meko5a:...!
+
+Meko5b:Ooh, Reimu, Marisa...
+
+Reimu3a:You can stop cowering now. It's not like we're gonna eat you.
+
+Marisa4c:The winner's been decided, so just sit tight right there.
+
+Meko5a:...
+
+Keine0b:There's a lot I want to say to you right now, but I think you've been through enough already.
+
+Keine3b:Once this is all over, we're having a nice long chat about everything you've done.
+
+Patchouli0a:There is something you should hear now, though.
+
+Alice0b:Right. The way you fought back there, eating away at your own self...
+
+Alice2c:Don't ever do something so foolish again.
+
+Meko5b:How was that foolish...?
+
+Marisa0b:Look, we get how stubborn you are, we REALLY get it, but if you kept that up your body wouldn't be able to handle it.
+
+Marisa4b:And on top of that, you threw away your own danmaku.
+
+Reimu0a:Yeah. That's like throwing away part of yourself.
+
+Meko2b:It is...?
+
+Marisa0b:To us, danmaku is more than a battle.
+
+Marisa0d:It might be a way to kill time, to investigate an incident, or a quarrel between sisters.
+
+Marisa0a:But there's always something you want to tell someone, or a self you want to express.
+
+Reimu5d:That's why danmaku is a piece of yourself, a barrier that forms us.
+
+Meko2c:...
+
+Sanae3b:You've probably never thought about this before, Mehko.
+
+Sanae3b:But it's painful to watch you demean yourself.
+
+Meko0g:...Why do you worry about stuff like that?
+
+Meko0g:If I didn't throw away everything, I couldn't do ANYTHING.
+
+Meko0f:You people would never understand.
+
+Utsuho2c:...I do understand.
+
+Meko0b:...!
+
+Orin5a:Okuu...
+
+Utsuho2c:I know how much it hurts when you can't do what everyone else can do.
+
+Utsuho2c:And the feeling of still wanting to be useful to the one you love...
+
+Meko0b:Why would you say that, Utsuho...?
+
+Orin1d:You may not know this, but Okuu used to think just like you.
+
+Orin5a:She wanted to help Miss Satori and Miss Koishi, but she couldn't do anything right.
+
+Orin5b:That's why she wanted power. Because it frustrated her.
+
+Meko2b:Wait, don't tell me that's why you used Yatagarasu?
+
+Satori0b:...She's certainly made mistakes, but she overcame all that to become who she is today.
+
+Satori0c:That's why she couldn't stay quiet when she saw you going through the same thing.
+
+Kanako3b:It's ironic that even though you hate Yatagarasu so much, you did the exact same thing Utsuho did.
+
+Meko0b:Erk...
+
+Shizuha0a:But looking at it another way, that means you can kind of relate to Utsuho now, right?
+
+Meko0g:That's not true...
+
+Meko0g:Utsuho's different. She got to keep her amazing power. Isn't that why she's so confident now?
+
+Meko0g:But me? I'm just back where I started.
+
+Utsuho0c:...
+
+Meko0g:...I didn't need a lot of dreams. As long as I could fulfill Lady Makura's dream, nothing else mattered.
+
+Meko0g:But even though I threw everything away, in the end I still couldn't do anything...
+
+Meko0g:If only... If only I wasn't me...
+
+Utsuho1b:Never, ever say that!
+
+Meko3b:...!
+
+Utsuho2c:...Even if there are things you hate, even if there are things you can't do, you can't deny yourself like that!
+
+Utsuho2c:Yeah, I'm more confident than I used to be, but it's not because of the power.
+
+Utsuho2d:It's because I learned that everyone cares about me.
+
+Meko0b:Because they care...?
+
+Shinki5a:Utsuho is right. Isn't Makura someone like that for you?
+
+Aya5a:She hasn't made the best impression on us, but you said she was nice to you, didn't you?
+
+Meko0b:Well...
+
+Utsuho2c:...So I think you should value yourself more.
+
+Utsuho2c:If you got yourself hurt, I bet she'd be sad.
+
+Yuka0a:And I doubt she ordered you to come out here and die in a blaze of glory.
+
+Meko5a:...!
+
+Meko5b:But I want to be useful to her...
+
+Tenshi1a:If anything, you're incredibly bold to go to such lengths just for that one wish.
+
+Udonge0a:If you look at it another way, that's a virtue that sets you apart.
+
+Iku0a:The virtues you possess aren't so easily thrown away.
+
+Meko0f:Does that mean I was wrong...?
+
+Reimu4a:Who knows? It's not like we're here to lecture you.
+
+Reimu4a:But the people with the strongest danmaku I know got that way without throwing away a single thing.
+
+Meko0a:You mean...?
+
+Marisa4c:Well, plenty of people here started with nothing too. But if you hang in there, you'll end up with something to hold onto.
+
+Marisa0a:But all this stuff about having only a single desire, and throwing everything else away, that's boring.
+
+Marisa7c:You made it to Gensokyo, so why not dream your own dream?
+
+Meko0b:My own dream...
+
+Meko0g:...
+
+Reimu5c:Anyway, I think we've covered the immediate stuff.
+
+Reimu4a:But once we've resolved this incident, you're getting the chewing out of a lifetime. I hope you're ready.
+
+Meko5d:*sniffle*
+
+Reimu3a:Hmm?
+
+Meko5f:Waah! Waaaah!
+
+Meko5f:*sniffle* WAAAH!
+
+Reimu3c:Wha-?! Wait, you're crying?!
+
+Reimu3d:Wh-What's going on?! Did I say something wrong?!
+
+Rumia0a:Ooh, you made her cry!
+
+Mystia1b:Meanie, meanie!
+
+Yukari5a:It's not every day I get to see you flustered, Reimu.
+
+Reimu3d:This isn't about me! No, wait, is it? Is this my fault?!
+
+Satori0c:Don't worry, it's not because anyone's come down on her too hard.
+
+Satori0b:It's just that this is all too much for her to take in, and there's no other outlet for her emotions.
+
+Alice4a:Somewhere along the way, Mehko must have unconsciously cursed herself with the idea that she was powerless.
+
+Alice0d:If she's free of that and can pursue her own dreams now, that's what counts.
+
+Utsuho0c:Mehko's dreams, huh...?
+
+Utsuho3c:Yeah! When you figure out what they are, you have to come tell us.
+
+Utsuho5d:And you can get your revenge match while you're at it!
+
+Meko5d:...
+
+Yugi1g:Somehow I doubt she's gonna be coming back for vengeance.
+
+Mokou1c:Yeah, her flame's been quenched, in more ways than one. Let's sort the rest of this out after we beat Makura.
+
+Mokou0a:Mehko probably won't try to stop us anymore, even if we leave her alone.
+
+Yukari0a:Then let's leave her here, and continue onward.
+
+Kosuzu0a:Um, should we set our course straight for the rocky area?
+
+Yuka2d:Yes. Thanks to Mehko's delays, I'm sure she's already finished gathering all of this world's dreams.
+
+Mima0c:So not only does she have her dream manipulation power, she can use all of Gensokyo's dreams?
+
+Ran4a:And even if it was borrowed , we all saw just now what her power can do. The real thing must be unfathomable.
+
+Lunasa0b:We've done what we could. All that's left is to start the show.
+
+Cirno2b:Yeah, I'm ready too!
+
+Meiling1a:If we're talking mentally, I'm ready for anything!
+
+Nue1a:Come what may...
+
+Flan0a:Hee hee, this is gonna be fun.
+
+Udonge4a:This next battle will settle everything.
+
+Marisa0b:Yeah. It's been almost two years since I met Makura in my dreams.
+
+Marisa0a:Never thought it'd turn into something like this.
+
+Keine0a:On that note, even gathering this eclectic group was itself a strange twist of fate.
+
+Sakuya5b:A sight the likes of which you've never seen, not even in a dream, hm?
+
+Sanae4a:Maybe you could even call it a miracle.
+
+Alice0d:But one thing's for certain, our bonds are giving us strength.
+
+Youmu1a:And with all that, we'll defeat Makura!
+
+Reimu1a:We've been through a lot with her, but that all ends today.
+
+Eirin1d:Her aim is to change people's values by manipulating their dreams.
+
+Yorihime0a:All to realize her ideal of rejecting change.
+
+Kaguya1c:She'll be hearing what we have to say to that soon enough.
+
+Yuyuko1b:We won't let her meddle with Gensokyo's future.
+
+Suika1a:And after we win, I want to drink the best sake we've got!
+
+Elliy3b:Yeah! The real reason we do this incident investigation thing!
+
+Eiki0a:All of Gensokyo has interwoven, and come together as one.
+
+Yuka1a:Let's make it bloom spectacularly on the final stage.
+
+Murasa1b:Sounds like we're all ready. Back to the ship, everyone!
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Marisa1a:Wait right there, Makura. You're getting a taste of Gensokyo's danmaku!
+
+Reimu1a:Let's go. It's time to fight for our fantasy!
+
+Reimu1a:This will be our final battle.
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Reimu1a:Just you wait, Makura. You're getting a taste of Gensokyo's danmaku!
+
+Marisa1a:Let's go. It's time to fight for our fantasy!
+
+Marisa1a:This is the real deal, the final battle!
+
+</Cond>
+
+<Code=(transition_out,c_black,100,1)>
+
+<end>
+
+<ChatID:17>---------------------------------------
+//全滅時
+
+<Cond=(CHECK_BEATEN,Seirensen,==,1)>
+
+Korin2a:Augh, not like this...!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Meko_en,enemy,!=,-1)>
+
+Meko0e:I did it... I won!
+
+Meko7c:I did it, Lady Makura! I actually won!
+
+Meko7c:Kattz, Mafti, Totoh! I've avenged you!
+
+</Cond>
+
+<Cond=(FIND_UNIT,MekoM_en,enemy,!=,-1)>
+
+MekoM0e:*pant, pant*
+
+MekoM0d:I did it... I won...!
+
+MekoM0d:Lady Makura's dream is my dream! No one will stand in our way!
+
+</Cond>
+
+<Cond=(FIND_UNIT,MekoD_en,enemy,!=,-1)>
+
+MekoD0c:...
+
+MekoD0b:Huh...?
+
+MekoD0d:I... actually won?
+
+</Cond>
+
+<end>
+
+<ChatID:18>---------------------------------------
+//予備枠
+
+<end>
+
+<ChatID:19>---------------------------------------
+//予備枠
+
+<end>
+
+<ChatID:20>----------------------------------------
+//メーコvs.霊夢R
+
+Reimu4a:Makura's just a stone's throw away. Which makes you the opening act.
+
+MekoM0a:Well, maybe you should think about retiring after you lose to this opening act, shrine maiden!
+
+Reimu0a:I'm not gonna lose.
+
+MekoM0c:...!
+
+Reimu0a:I have to protect Gensokyo's barrier. Do you even realize how much resolve that takes?
+
+MekoM0a:This power... you aren't scared of dreams? Wait, is your aura pushing me back...?
+
+Reimu0a:I am Reimu Hakurei, shrine maiden of the Hakurei Shrine. And I WILL exterminate you.
+
+Reimu1a:Accept your fate, sheep youkai Mehko!
+
+<end>
+
+<ChatID:21>----------------------------------------
+//メーコvs.魔理沙R
+
+MekoM0a:Now that I have Lady Makura's power, things won't go your way, Marisa!
+
+Marisa1b:Do you actually think you're a match for us like that?
+
+MekoM0c:...!
+
+Marisa1d:Dreams are a portrait of what you desire.
+
+Marisa1d:I'm not gonna lose to someone who claims someone else's dream is her own.
+
+MekoM0a:Talk is cheap! If this is about the strength of our feelings, then I'm not losing to you either!
+
+MekoM0a:I'm definitely making Lady Makura's dream come true! And I'll do anything to do it!
+
+Marisa2b:If you insist. Let's see who comes out on top, Mehko!
+
+<end>
+
+<ChatID:22>----------------------------------------
+//メーコvs.早苗さん
+
+Sanae3b:I kind of get why you're so intent on doing this, Mehko.
+
+MekoM0a:Sanae...!
+
+Sanae3b:You're just anxious, right? And throwing yourself into this fight is a good distraction from it.
+
+Sanae1a:But if you isolate yourself from others, you won't be able to sustain your efforts for long.
+
+MekoM0a:I'm not isolated. I have Lady Makura!
+
+Sanae1a:That doesn't make you any less lonely. Don't you realize that you're only driving yourself into a corner?
+
+Sanae1a:We won't lose to your dream. Our victory here will prove that!
+
+<end>
+
+<ChatID:23>----------------------------------------
+//メーコvs.アリス
+
+Alice4a:I finally understand why you idolize Makura Muwatari so much.
+
+Alice0a:She was the one who supported you when you lost your way.
+
+MekoM0c:That's right!
+
+Alice1a:I won't tell you how to feel. But there's a line that mustn't be crossed.
+
+Alice1a:If you delve into this power too deeply...
+
+MekoM0a:But I need to be useful!
+
+MekoM0c:Lady Makura took me in, even though I'm... I'm...
+
+Alice2c:I suppose you're not in any condition to be reasoned with. Your feelings are driving you so hard...
+
+<end>
+
+<ChatID:24>----------------------------------------
+//メーコvs.メーコ（夢顕前）
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Meko0b:Huh?! Me?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Meko1a:Yeah, I'm you from the future.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Meko3a:Time travel?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Meko0g:Sorry, I know how shocking it must be for you.
+
+Meko0a:But in order to reflect on my past, I just had to meet you.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Meko1b:What's going on? Even if this is the Dreamscape, this kinda thing doesn't just happen.
+
+Meko1f:You must be some kinda spell the humans used! I won't let you get in Lady Makura's way!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Meko1e:I figured you'd say that. Now let's get this danmaku battle started!
+
+Meko1d:Talk to me, and show me the difference between my past and present!
+
+</nomove>
+
+<end>
+
+<ChatID:25>----------------------------------------
+//メーコvs.まくら（夢顕前）
+
+Meko0b:Lady Makura?! Weren't you supposed to be back there gathering power?
+
+Makura0g:I'm sorry, I came to see how you were doing.
+
+Makura0a:On consideration, I lent you far too much power.
+
+Makura2a:It may have been to protect you, but if you misuse it...
+
+Meko1b:Don't worry, I won't let these people through no matter what!
+
+Meko1d:Because your dream is my dream!
+
+Makura2b:Mehko...
+
+Makura1c:(She was so devoted to me, so willing to give of herself, that I in turn was desperate to live up to her image of me.)
+
+Makura2a:(But because of that, I ended up forcing her into this madness...)
+
+Makura2b:(To be honest, I'm scared to directly witness what happens next.)
+
+Makura1c:(But I mustn't avert my eyes. I may not be able to change our past, but I can at least connect it to our future.)
+
+<end>

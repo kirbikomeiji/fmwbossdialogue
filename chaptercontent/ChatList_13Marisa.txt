@@ -1,0 +1,876 @@
+﻿○魔理沙第十三話「シスター・オブ・スカーレト
+
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: after first attack of Flan
+ 3: after first beat by Marisa
+ 4: stage end (Flan)
+ 5: stage end (Marisa)
+ 6: after either of the above
+ 7: ADVB
+ 8: Marisa dialog
+ 9: Flan dialog
+10: resume
+11: Flan
+
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<MAP=0,FROM=香霖堂,TO=香霖堂,name=Kourindou,icon=5>
+
+<BG=*bg_talk_Korindo.png,fade=0,color=1,title=*bg_Korindo,bgm=bgm_talk_gag>
+
+Alice4a:No sooner do we get rid of that pesky mist than we get a dry spell. It's always something.
+
+Alice0a:Let's see. I thought it was around here...
+
+Alice0d:Ah, here it is. Kourindou. Let's see if Marisa is here.
+
+<SE=se_talk_door_open03.ogg,wait=1>
+
+Alice2b:Hello there...
+
+Alice0a:...Hm?
+
+<single>
+
+Korin0a:...
+
+</single>
+
+Nitori1a:Ooh, this one's different from the machine we have on Youkai Mountain. There's no batteries in it. I wonder what it runs on.
+
+Nitori4d:Oh hey, this gadget here looks neat! Hey, is it cool if I take it apart and—
+
+Korin1a:No.
+
+Nitori2a:Aww, why not?
+
+Alice0a:(Isn't that... Nitori?)
+
+Alice0a:(Didn't she say that she wouldn't be allowed to leave the mountain? When did she get here?)
+
+Korin1a:Don't give me that. You'd take apart everything in this shop if you could. What if you break something?
+
+Nitori4c:C'mon, taking stuff apart is harmless. I put it all back together again. That's all anything needs, in theory.
+
+Korin2a:Yeah, it's the "in theory" part that gets me.
+
+Korin1a:I don't even know how that thing's supposed to be used. The last thing I need is someone breaking it.
+
+Nitori3d:If you don't know how to use it anyway, what's the difference?
+
+Alice0c:Erm, sorry for interrupting, but...
+
+Korin0b:...Ah, a customer.
+
+Korin0a:Welcome. Sorry, I had my hands full with a strange customer.
+
+Nitori3c:Hey, I resent that. How do you know this other person isn't even stranger...?
+
+Nitori0a:Wait, Alice? Long time no see! How've you been?
+
+Alice0d:It's nice to see you too, Nitori. Did you get through your punishment alright?
+
+Nitori3b:Uh, about that...
+
+Korin0a:Alice? The one who was with Marisa during the incident?
+
+Alice0d:Oh yes, where are my manners? I'm Alice Margatroid, a magician.
+
+Alice0a:I've heard about you from Marisa. Kourin, was it? No, that can't be your name...
+
+Korin0a:It's Rinnosuke Morichika. Nice to meet you.
+
+Alice0d:Ah, Rinnosuke. Nice to meet you too.
+
+Korin0b:...
+
+Korin0b:(...This is rather surprising. I couldn't tell from afar, but she gives off different, calmer vibe for a magician.)
+
+Korin0a:(When I heard she was a friend of Marisa's, I was imagining someone more like Reimu or Nitori...)
+
+Korin0b:(Blue eyes and porcelain skin. Marisa was right. She really does look like a doll.)
+
+Alice0a:...Why are you staring at me like that?
+
+Korin0a:Oh, my apologies. It's just that I don't get many customers like you.
+
+Korin0a:So, how may I help you? If there's an item you're looking for, I'd be happy to point you in the right direction.
+
+Nitori3b:...Why's your attitude so different with her?
+
+Alice0d:Well, there are all sorts of things I'd love to shop for... But for today, I'm just here to look for Marisa.
+
+Korin0b:Marisa?
+
+Alice0b:Yes. She hasn't returned a book I lent her a while ago.
+
+Alice0a:I wanted to get it back, since it's become necessary for my research, but I haven't been able to find her at her house.
+
+Nitori3a:Yeah. I was searching for her too, but she wasn't at home.
+
+Korin0a:Ahh, so that's why you came here, Nitori.
+
+Alice0d:That'll make things quicker then. Rinnosuke, do you know where Marisa could be?
+
+Korin0a:Well, I haven't seen her around here recently. Honestly, I'm not sure myself...
+
+Korin0b:But there are two places Marisa generally likes to hang out at—here, and the shrine. So if she's not here, she's probably there.
+
+Nitori0a:Ahh, yeah. It's kinda far from here, so I was saving that for last.
+
+Alice0d:...Reimu's place, huh? That's plausible.
+
+Korin0b:And if she's not there, I've got nothing.
+
+Alice0d:Thank you. I'll head to the shrine right now, then.
+
+Nitori1b:Hey, let me join you!
+
+<SE=se_talk_door_close03.ogg,wait=1>
+
+<single>
+
+Korin0b:Marisa sure is Miss Popular lately. She's a pain when she's here, and when she's gone I just get more useless foot traffic.
+
+Korin0a:It's strange for her to be away from her house for so long, though...
+
+Korin0a:Oh well. The incident's resolved, so there's nothing to worry about. She'll turn up sooner or later.
+
+</single>
+
+<MAP=0,FROM=紅魔館,TO=紅魔館,name=Great Library,icon=2>
+
+<BG=*bg_talk_Koumakan_Library.png,fade=1,color=1,title=*bg_Koumakan_Library,bgm=bgm_talk_aoki>
+
+Youmu1b:Hmm. In order for cherry blossoms to bloom for a prolonged period of time, the tree itself must be maintained, not just the soil...
+
+Youmu0a:...Tengu nest disease? That's a strange name. Do you know what this means, Patchouli?
+
+Patchouli6d:...Didn't I tell you not to talk to me?
+
+Youmu2a:Erk, sorry!
+
+Patchouli4b:You were allowed in on a whim. If you make too much noise, you'll be sent right back out again.
+
+Patchouli0a:...My asthma isn't acting up today, so perhaps I'll teleport you above the lake.
+
+Youmu3b:I'll be more careful. It's just that there were many terms I didn't recognize...
+
+Marisa0b:Yeah Youmu, be quiet. The only ones allowed to talk in a library are couples off in their own little world.
+
+Patchouli4d:...
+
+Patchouli4d:Why are you here?
+
+Marisa6b:Huh? I came in through the gate and nobody stopped me.
+
+Patchouli4a:I told her to keep out the rats... That gatekeeper really is useless...
+
+Marisa0b:You're researching the usual subject again, Youmu? You sure are dedicated about it.
+
+Youmu4c:Yes. I've wanted to come back here ever since the first time we intruded.
+
+Youmu0a:There are many types of literature from the Outside World stored here. It's all very interesting to me.
+
+Marisa0b:Oh? Lessee here...
+
+Marisa0a:Using medicine to make near-dead cherry blossoms bloom again? Gotta say, this doesn't inspire much confidence in the cherry blossom medical field.
+
+Youmu3a:Yeah, it's not going to be directly useful. Since the tree is in the Netherworld, it's already dead to begin with.
+
+Marisa0b:Ah right, everything in the Netherwold is dead. It's kinda hard to imagine, honestly.
+
+Patchouli4a:I can't continue my research with all this chitchat. My concentration is shot now... I suppose I could take a...
+
+Patchouli0c:...Hm?
+
+Koakuma5b:Is something the matter, Lady Patchouli?
+
+Patchouli4c:Yes, Sakuya hasn't shown up, and it's already past teatime.
+
+Koakuma3b:Ah, Sakuya is currently out with the lady of the house.
+
+Koakuma3d:I believe they were planning to visit the Hakurei Shrine...
+
+Patchouli3a:...I see. Remi's taken quite a shine to the red-and-white girl.
+
+Marisa6b:Ugh, Remilia's at the shrine again? Glad I didn't visit.
+
+Patchouli4a:That doesn't justify your presence here.
+
+Patchouli0a:Anyway, prepare the tea in Sakuya's stead, Koakuma.
+
+Koakuma3d:Understood!
+
+Koakuma3b:Um, you prefer it with three lumps of sugar and two slices of lemon, correct?
+
+Patchouli3a:Yes, please.
+
+Marisa6a:Make some for me too. I like mine with lots of milk.
+
+Koakuma3b:Okay. You don't want lemon in yours?
+
+Patchouli4c:You won't need to make any for her. Just get mine ready.
+
+Koakuma3d:Oh, okay. I'll be right back!
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+Marisa3d:Hey, is that how you treat your guests? We take major issue with that.
+
+</single>
+
+Youmu2b:Wait, we?! You don't have to go out of your way for me...
+
+Patchouli0b:What guests? You entered here without permission. I'm tired of you sneaking in here practically every day.
+
+Youmu4a:Every day? You must be a very avid researcher, Marisa.
+
+Marisa0b:Yeah, pretty much. Research is as essential to my life as eating and sleeping.
+
+Marisa0a:Anyway, I'm thirsty. How about I take half of your tea, Patchouli?
+
+Patchouli6d:...
+
+Marisa4a:...Geez, okay already. It's fine if I go get some myself, right?
+
+Marisa0a:Tell me where the kitchen is, then. I'll boil a whole pot of it.
+
+Patchouli0c:The kitchen...?
+
+Patchouli0c:...
+
+Marisa0b:...?
+
+Marisa0a:It shouldn't be a problem telling me where it is. I'll be making it myself, y'know.
+
+Patchouli4a:No, it's just... I haven't been to the kitchen for so long, I've forgotten where it is.
+
+Marisa4b:Yikes.
+
+Marisa0a:Well, whatever. A kitchen can't be that hard to find.
+
+Marisa0b:Anyways, I'll go get some tea.
+
+<SE=se_talk_walk_indoor03.ogg,wait=1>
+
+<single>
+
+Youmu4d:Ahaha, good one. Marisa took that joke completely seriously.
+
+</single>
+
+Patchouli0b:No, I really did forget. I always leave it to Sakuya and Koakuma, and Sakuya's always tampering with the space around here anyway.
+
+Youmu3b:...
+
+Youmu3a:Um... Wouldn't Marisa get lost, then?
+
+Patchouli0b:Quite possibly. And if she happened to meet with an accident on the way, maybe it'll be less noisy around here.
+
+Youmu3a:I wonder if Marisa will make it back at all...
+
+<BG=bg_talk_Koumakan_Int.png,fade=1,color=1,title=*bg_Unknown,bgm=bgm_talk_ningyo>
+
+Marisa0b:Whew... I did manage to find the kitchen, but I guess I made too much. The pot's practically overflowing.
+
+Marisa0a:I guess I can use the extra tea to give this little guy a bath.
+
+Shiro0a:...
+
+Marisa6a:You might smell pretty good after a nice red tea bath.
+
+Marisa0b:What's up with the area around here anyway? It's a whole lot creepier...
+
+Marisa0c:It's so gloomy and quiet, like some kinda catacombs.
+
+Marisa0b:...Hm?
+
+<BG=bg_talk_Koumakan_Basement.png,fade=0,color=1,title=*bg_Koumakan>
+
+Marisa0b:What's a room doing here? Is someone actually entombed here...?
+
+Shiro0a:...!
+
+<Code=(map_shake,1,20,6)>
+
+<Code=(demo_wait,25)>
+
+Marisa2a:Whoa, whoa! Why are you shaking so much?!
+
+Shiro0a:...
+
+Marisa0c:...Are you scared?
+
+Marisa0a:Well, I don't like being here either. There's something weird and unpleasant in the air, but I can't put my finger on it.
+
+Marisa6b:Let's go back and pick up my research where I left off...
+
+<hide=all>
+
+Flan3b:...Are you ready yet?
+
+</hide>
+
+Marisa0b:...
+
+Marisa3a:Did someone just say something...?
+
+<hide=all>
+
+Flan3b:Are you ready yet?
+
+</hide>
+
+Marisa0b:...
+
+Marisa3a:I'm not... hallucinating, am I? Is there really a voice coming from behind that door?
+
+Marisa0a:Maybe it's the fairies from before. Yeah, they must be playing hide-and-seek around here.
+
+<hide=all>
+
+Flan2a:...Are you ready yet?
+
+</hide>
+
+Marisa6a:Not yet.
+
+Marisa0a:And I ain't ever gonna be ready. Your punishment for scaring me is to stay hidden in there for life.
+
+<hide=all>
+
+Flan4a:...I already know that.
+
+Flan4a:No matter how many times I ask "Are you ready yet?", the only reply I ever get is "Not yet"...
+
+Flan2a:I'm the only one left behind while everyone is playing outside. I want to play outside too...
+
+</hide>
+
+Marisa0b:...?
+
+Marisa6b:Whoa, hey. That kind of dejected reply wasn't the reaction I expected. You aren't one of the fairies, are you?
+
+Marisa0a:If you wanna go out, why not just leave?
+
+<hide=all>
+
+Flan4b:...I can't. This door doesn't open from the inside.
+
+</hide>
+
+Marisa0b:It doesn't open from the inside?
+
+Marisa0a:...Ahh, I get it now. You thought you found a good hiding spot, but you locked yourself in by accident.
+
+Marisa0a:Geez, you ain't very bright, huh? Whatever, I'll get you out. Sit tight.
+
+Shiro0a:...!
+
+<Code=(map_shake,1,20,4)>
+
+<Code=(demo_wait,20)>
+
+Marisa2b:Yeesh, you need to settle down too. Relax, I'll be heading on back once I get her out.
+
+Marisa0a:Hm, I don't see a knob... Maybe if I give it a good tug around here...
+
+<SE=se_talk_door_open04.ogg,wait=1>
+
+Marisa6a:There it goes. Alright, I got you out, so go back to your frien....
+
+<hide=name>
+
+Flan3f:I'M OUT!
+
+</hide>
+
+<Code=(map_shake,1,10,6)>
+
+<SE=se_talk_hit01.ogg,wait=1>
+
+Marisa2a:Gwah?!
+
+<hide=name>
+
+Flan3d:I'm out! I'm outside! It's bright and spacious and I can play lots and lots here!
+
+Flan3a:...Wait, who are you?
+
+</hide>
+
+Marisa0b:C'mon, now. Shouldn't you ask that BEFORE you throw your arms around someone?
+
+Marisa0a:I'm Marisa. Marisa Kirisame. I'm one of the rare human guests of this mansion.
+
+<hide=name>
+
+Flan3g:Human...? Why aren't you tea or a cake?
+
+</hide>
+
+Marisa0b:...? Huh? Whaddaya mean?
+
+<hide=name>
+
+Flan3b:Wow, I'm really outside... Oh gosh, where do I even start?
+
+Flan3i:Hmm, maybe the outside of the mansion will be even brighter and more spacious...?
+
+</hide>
+
+Marisa4b:I'm kinda lost here, but hey, you do you. I've got stuff to do, so I'll be heading ba...
+
+Marisa2b:...Hey, don't drag me along! I told you I'm busy!
+
+<hide=name>
+
+Flan3f:C'mon, let's play together, Marisa! Let's play lots and lots!
+
+</hide>
+
+Flan0b:Oh yeah, I'm Flan. It's short for Flandre!
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP
+
+<Code=(icon_set_direction,Flan,FD_RIGHT,0)>
+
+Flan3f:Over here! Let's play here!
+
+Flan3b:I'd like to go further outside, but I don't know it too well, so here will do.
+
+<pause>
+
+Marisa0b:Hey, wait! Flan! Shouldn't you be going back to whoever you were playing hide-and-seek with?
+
+Marisa0a:Whoever it was, they're probably worried about you by now.
+
+Flan4b:...It's fine. I know we're not playing hide-and-seek anymore.
+
+Marisa0b:...?
+
+Flan3d:There's better things to think about anyway! Let's play together! What do you want to play?
+
+Marisa4b:Again, I've got other stuff to do.
+
+Flan3c:What do you like to play? Tag? House? Batbusters? Or maybe hopscotch?
+
+Marisa4b:Ahh, she ain't listening at all...
+
+Marisa3a:Ahh, she ain't listening at all... Wait, what? Batbusters?
+
+Flan3b:So you want to play batbusters? It's a game I thought of myself.
+
+Flan1b:It's really fun busting a lot of them at once! I wonder why?
+
+Marisa0b:Beats me... So basically, you just shoot down bats or something?
+
+Flan3b:Yeah. I've been playing it alone for a long time so I'm kinda sick of it, but it might be fun with you playing too!
+
+Marisa0b:...I've got no clue how that's fun at all.
+
+Marisa4b:Besides, there aren't even any bats around to shoot down. So let's just play it some other time and—
+
+Flan3g:Oh, don't worry about that. I've already got all the things we need to destroy right here.
+
+Flan3f:Come on out!
+
+<pause>
+
+Marisa2b:...?!
+
+Marisa3a:Huh. A bunch of fodder, right on cue. What are the odds?
+
+Marisa2b:(Yeah, right. Did she summon these...?)
+
+Flan3b:Okay so, this is a competition to see who can beat up a bunch of bats first!
+
+Marisa0b:...
+
+Flan0b:...Hey, Marisa?
+
+Marisa0c:...Hm? Oh, yeah. Sure, I guess there's no backin' out now.
+
+Marisa0a:But fair warning, I'm KINDA strong. This is gonna be a cakewalk for me.
+
+Flan3d:Ooh, I can't wait to see it! Let's do lots of playing, Marisa!
+
+<end>
+
+<ChatID:2>----------------------------------------
+//フラン初戦闘後
+
+Flan3b:That's 1 for me! Heh, what a weakling.
+
+<Code=(icon_set_direction,Marisa,Flan,0)>
+
+Marisa0b:...!
+
+<Code=(icon_set_direction,Flan,Marisa,0)>
+
+Flan3d:Hey Marisa, did you see that? I'm at 1 now.
+
+Marisa6b:Uh, yeah, I don't think there was any missing that. Guess I'd better step up my game.
+
+Marisa0b:...
+
+Marisa3a:(That strange sword is stupidly powerful. What's up with that? It's basically the same level as my Master Spark...)
+
+Marisa4a:(And she swings it around without a care in the world... Who the heck is she?)
+
+Flan3g:What's wrong, Marisa? Let's play some more. There's still lots of bats to go!
+
+Marisa1a:Ahh, whatever. This is a competition, and I'm gonna win!
+
+<end>
+
+<ChatID:3>----------------------------------------
+//魔理沙が任意の敵を撃墜後
+
+Marisa6a:Well, that's 1 for me.
+
+<Code=(icon_set_direction,Marisa,Flan,0)>
+
+Flan3d:Nice, you got one too! That's how you do it!
+
+Flan3b:Ee hee hee...
+
+<Code=(icon_set_direction,Flan,Marisa,0)>
+
+Marisa0b:What's up, Flan?
+
+Flan3i:This is SO much fun.
+
+Flan0b:I've always, always been alone, and no one would play with me like this...
+
+Flan3d:So I'm really glad that you're playing with me now, Marisa. Let's play some more!
+
+Marisa0a:If it makes you that happy, how'm I supposed to say no? I'm gonna see this game through to the end with you.
+
+<end>
+
+<ChatID:6>----------------------------------------
+//クリア
+
+<Cond=(LOCAL_VAR,ObjControl,is_Marisa_win,==,0)>
+
+Marisa0a:That's all of 'em.
+
+<Code=(icon_set_direction,Flan,Marisa,0)>
+
+Flan3b:Looks like I got more of 'em than you, huh?
+
+<Code=(icon_set_direction,Marisa,Flan,0)>
+
+Marisa2b:Ugh... I was always gonna lose against that sword of yours, but it still burns.
+
+Marisa0a:Anyhow, I guess the game's over, so I'll just be on my way...
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,is_Marisa_win,==,1)>
+
+Marisa0a:That's all of 'em.
+
+<Code=(icon_set_direction,Marisa,Flan,0)>
+
+Marisa0a:How do you like THAT, Flan? I got more than you!
+
+<Code=(icon_set_direction,Flan,Marisa,0)>
+
+Flan3b:Aww, I lost! You're pretty strong, Marisa.
+
+Marisa0a:Alright, I guess the game's over, so I'll be on my way...
+
+</Cond>
+
+Flan3d:Hey, what do you want to play next?! Tag? Kagome-kagome?
+
+Flan3i:Here Marisa, come over here!
+
+Marisa6b:Hey wait, Flan...
+
+<pause>
+
+<Code=(icon_set_direction,Marisa,Flan,0)>
+
+Marisa0a:Yeesh, she's still full of energy... Kids sure have lots of stamina.
+
+Marisa0b:Look, I'm tired. That's all I've got for today. You should go back to whoever you were playing hide-and-seek with.
+
+Flan0e:...I don't wanna. I hate them.
+
+Marisa0b:...?
+
+Flan4a:...Especially her. I really hate her. SHE gets to go outside, but she locked me up in that room.
+
+Flan0b:So since I'm outside now, I'm gonna play lots and lots to make up for it. I won't let her stop me!
+
+Marisa0b:...I'm kinda lost here, but this sounds like more than a regular quarrel.
+
+Marisa6b:Is this girl you're talking about really that bad?
+
+Flan4a:She's the worst person in the whole world. And she really hates me too.
+
+Flan0a:...Yeah, I'll put her in that room next time, that'll be fun. Ehehe, I'll shut her in there until she's a dried-up husk.
+
+Marisa0b:...
+
+<Code=(icon_set_direction,Flan,Marisa,0)>
+
+Flan3b:But you got me out of that room, so I like you, Marisa!
+
+Flan3d:So let's play some more, okay? There's so many things I still wanna do.
+
+Marisa0c:Umm... I know there's lots of games you wanna play, but...
+
+Flan0b:Ah, are you scared of the devil that lives here? You don't have to worry about her.
+
+Flan3e:If my big sister Remi shows up, I'll break her for you!
+
+Marisa0b:Your... big sister? Wait a sec, you mean...
+
+Flan3b:Yeah, I'm Flandre Scarlet. A vampire.
+
+Marisa2b:...!
+
+<hide=all>
+
+Patchouli1b:That's enough!
+
+</hide>
+
+<pause>
+
+Flan2a:AAAH!
+
+Marisa1c:Flan?!
+
+<pause>
+
+Patchouli4b:Good grief... Trouble just had to occur when Remi isn't around. Good thing I'm not dealing with any flare-ups today.
+
+Patchouli1b:Marisa. Do you understand what you've done by releasing the seal on the young mistress?!
+
+Marisa2b:What are you doing, Patchouli?! What's this seal talk all about?
+
+Patchouli4b:...Whatever. This isn't the time for questions. Re-sealing the young mistress takes precedence.
+
+Marisa3a:Sealing...? You're going to seal Flan away?
+
+Flan2a:AAAH!
+
+Flan1e:Patchouli! You know what's going to happen to you if you continue with this, right?!
+
+Flan1c:You haven't forgotten about me, have you? Maybe I should break you as a reminder!
+
+Patchouli4d:...You haven't changed at all, Flan. Thus, what I must do remains unchanged as well.
+
+Flan1b:Hehehehe... I don't know what you're talking about, but fine. Try me!
+
+Flan1a:Your eye is already in the palm of my hand—
+
+<pause>
+
+Flan2a:Hrk?!
+
+Patchouli4a:We've spent centuries perfecting our seal on you. It only requires a short time to render you immobile.
+
+Patchouli0a:Your fingers are completely locked down, so don't expect to use your power.
+
+Flan1e:...You suck. All this time, you've been focused solely on locking me up!
+
+Flan1c:I know, it must be because of her. She must've been the one who told you to catch me!
+
+Patchouli4a:Yes, this is Remi's desire. And mine as well.
+
+Patchouli0a:You're going back to your room now. Nothing personal.
+
+Flan1e:PATCHOULI!
+
+<pause>
+
+Flan2a:...!
+
+Patchouli4a:I guess there's no telling when the unexpected can happen. I should've prepared another seal in advance.
+
+Marisa6b:What's going on? That magic circle's glowing...?
+
+Patchouli0a:Now off you go, Flan.
+
+<pause>
+
+Flan4b:No...
+
+Flan4c:Noooo! Let me out! I've finally managed to get outside! I still want to play a lot more!
+
+Flan4e:Save me, Marisa... I don't wanna... go back...
+
+Marisa3b:Flan...?
+
+<pause>
+
+Flan4d:!
+
+<nomove>
+
+Marisa1e:FLAN!
+
+</nomove>
+
+<pause>
+
+<nomove>
+
+Marisa1e:...!
+
+</nomove>
+
+<Code=(icon_set_direction,Patchouli_en,Marisa,0)>
+
+Patchouli4b:That's a lot of trouble you just put me through.
+
+Patchouli0a:I will ignore your breaking of the seal for now. I have much more important things to do.
+
+Marisa3a:...Patchouli, wait. Where'd you send Flan?
+
+Patchouli4a:It's none of your business. Now would you kindly get lost?
+
+Patchouli0a:If I leave her to her own devices, she'll find a way to break out. I must address that before it happens.
+
+Marisa2b:"Address" it HOW, exactly? And what's wrong with Flan going out—
+
+<pause>
+
+Marisa2a:Whoa, an earthquake?!
+
+Patchouli2a:...!
+
+Patchouli0a:I should've known an instant barrier wouldn't hold her for long. I must return and apply a new seal at once.
+
+Marisa1e:Wait, I'm not done talking yet!
+
+Patchouli1b:This is no time for talk. Don't do anything if you know what's good for you!
+
+<pause>
+
+Marisa3b:A teleportation spell! Patchouli can use those, huh.
+
+Marisa2b:Now what? She said she was going to seal Flan. If that's the case...
+
+<pause>
+
+<Code=(icon_set_direction,Youmu,Marisa,0)>
+
+Youmu1a:Marisa!
+
+Marisa2b:Youmu?!
+
+Youmu1c:I heard the sounds of a danmaku battle. Did something happen here?
+
+Youmu1c:Patchouli rushed out in a hurry, so I came out to see what was going on, but now I'm just lost.
+
+Marisa3a:...I'll explain later, Youmu. For now, come with me.
+
+Youmu2b:...Huh?
+
+Marisa3a:There's something bothering me, and I'm not gonna let it go.
+
+<end>
+
+<ChatID:7>----------------------------------------
+//ADVB
+
+<BG=bg_talk_Koumakan_Int.png,fade=0,color=1,title=*bg_Koumakan_Int,bgm=bgm_talk_interlude01>
+
+Youmu2b:Marisa, what is going on here? I'm still completely lost.
+
+Marisa3a:Look, a lot happened at once. I barely even know where to start, but here's the deal...
+
+Marisa0b:When I went to make some tea, I happened upon a girl named Flan.
+
+Marisa3a:She's quirky and childish. She's also a vampire, and Remilia's little sister.
+
+Youmu2b:...?!
+
+Youmu0a:I never knew Remilia even HAD a sister.
+
+Marisa3a:Apparently she's been sealed in the basement for ages, so that ain't surprising.
+
+Youmu3a:So that means... You broke that seal?
+
+Marisa0b:I opened the door, anyway. There was nothing seal-like about it. It just opened like a regular ol' door.
+
+Youmu0a:So you mean all this fuss was due to...
+
+Marisa3a:Yeah, Patchouli came running out to seal Flan away again.
+
+Marisa0b:Flan wants to go out, and Remilia and her entire group are trying to prevent that from happening. Ain't that enough to make you wonder why?
+
+Youmu3a:It does sound rather disturbing.
+
+Youmu0a:But what would you do with the sister, Marisa?
+
+Youmu0a:If Remilia and the rest have sealed her for all this time, surely the situation is more complicated than it seems.
+
+Marisa0b:Yeah, probably. But I'm not gonna just abandon Flan to her fate.
+
+Marisa2b:I'm gonna go find Patchouli and get an explanation outta her. I'll decide what else to do after that.
+
+Youmu3b:Alright. I'll join you.
+
+Youmu0a:I don't know exactly what the deal is with this sister, but I'm sure it's nothing trivial.
+
+Youmu1a:And the way things are looking, I doubt this is going to end peacefully.
+
+<Code=(demo_wait,15)>
+
+<single>
+
+Marisa0b:...
+
+Marisa3a:(Flandre Scarlet, Remilia's little sister. This mansion is still filled with secrets I know nothing about...)
+
+<end>
+
+<ChatID:8>----------------------------------------
+//フランが蝙蝠を撃墜
+
+Flan3f:This puts me at <var=num_Flan>. You're at <var=num_Marisa>, Marisa.
+
+Marisa3a:Hmph... It ain't over yet!
+
+<end>
+
+<ChatID:9>----------------------------------------
+//魔理沙が蝙蝠を撃墜
+
+Marisa0a:Now I'm at <var=num_Marisa>. You're at <var=num_Flan>, Flan.
+
+Flan0b:Yeah, I'm not gonna lose!
+
+</Cond>
+
+<end>
+
+<ChatID:10>----------------------------------------
+//ロード時
+
+Marisa0a:Right now, I'm at <var=num_Marisa>. You're at <var=num_Flan>, Flan.
+
+Flan0b:Yeah, I'm not gonna lose!
+
+<end>

@@ -1,0 +1,999 @@
+﻿○特別篇第二話「追憶のスペルカード
+
+========================================
+ChatID: Contents
+========================================
+ 0: 1PP-1
+ 1: 1PP-2a (before selection)
+ 2: 1PP-2b (Select peaceful)
+ 3: 1PP-2c (Select Party)
+ 4: 1PP-2d (first selection)
+ 5: 1PP-2e (second selection)
+ 6: 1PP-2f (Yakiniku selection)
+ 7: 1EP
+ 8: first battle vs. Yorihime
+ 9: spell 1 start
+10: spell 2 start
+11: spell 3 start
+12: spell 4 start
+13: clear
+14: first battle Tensoku
+
+<ChatID:0>----------------------------------------
+//1PP-1（出撃前）
+
+YorihimeD0a:According to the reports, these are intruders from Earth.
+
+YorihimeD0a:But how did they manage to pierce the lunar barrier?
+
+<nomove>
+
+<Code=(cursor_jump,304,640,0)>
+
+GyokutoT0c:Looks like they came here on that bizarre ship over there.
+
+<Code=(cursor_jump,368,640,0)>
+
+GyokutoT0b:But if they can do something like that, then these are no ordinary Earthlings.
+
+</nomove>
+
+YorihimeD0b:True. I can feel traces of divine power...
+
+Kogasa2b:Eep! What do we do?! Yorihime found us!
+
+Hatate6a:Isn't this really bad?! She's treating us like intruders!
+
+Komachi4b:I mean, we kinda are.
+
+Yamame0d:Don't act proud of it. Just because this is a dream doesn't mean I want any trouble.
+
+Reisen0d:It's all A-OK! When we came here for real, all we had to do was hand over the letter and she let everyone go!
+
+Letty0c:What letter?
+
+Nitori4a:Oh, right! Eirin's letter! We just hand it over and we're clear!
+
+Reisen2c:Wait, where is it?!
+
+Udonge3a:Again?! Where'd you drop it this time?
+
+Reisen2c:Actually, I don't think I've seen it since this dream started...
+
+Marisa1d:Hey, Makura! Did you remember to recreate the letter?
+
+<hide=video>
+
+Makura3b:The letter, hmm....
+
+Meko0b:...?
+
+</hide>
+
+Elliy4b:Welp, we're doomed.
+
+Keine3b:It's probably because the people who went to the moon never saw what was written in the letter. She'd have nothing to recreate it from.
+
+YorihimeD0b:What are you all mumbling about over there? Who are you, anyway?
+
+<nomove>
+
+<Code=(cursor_jump,304,640,0)>
+
+GyokutoT0c:Oh right, Lady Yorihime! I have something to report!
+
+GyokutoT0c:I'm told their group includes two people pretending to be you and Lady Toyohime!
+
+</nomove>
+
+YorihimeD0a:Imposters of us...?
+
+YorihimeD0a:Strange. How would they even know what we look like?
+
+YorihimeD0b:This merits further examination. Everyone in that ship, step outside.
+
+Youmu2b:Er... Um...!
+
+Korin2d:This could have gone better. I guess this is no time for sightseeing.
+
+Sunny1c:Then it's time for desperate measures!
+
+Eirin2a:Wait, what are you doing?!
+
+<pause>
+
+YorihimeD2a:...!
+
+<nomove>
+
+<Code=(cursor_jump,368,640,0)>
+
+GyokutoT0c:Huh? Someone came out...
+
+</nomove>
+
+Eirin2a:Hold on, do you understand my position here?!
+
+Kurumi3b:Don't worry! Yoyo loves you, Eirin!
+
+Mima0e:And the rabbits probably won't recognize you anyway. You shouldn't have problems talking to her.
+
+Eirin2a:That's not the issue...
+
+YorihimeD2a:I-Impossible... Why are you here...?
+
+YorihimeD2a:Don't tell me it's an imposter...? But this feeling... There's no doubt.
+
+Toyohime2c:See? Sure enough, she's confused.
+
+Eirin4a:...Oh well, what's done is done. Yorihime, I need to speak with you.
+
+Eirin1d:Listen carefully. We're not from this universe.
+
+YorihimeD2a:What?!
+
+Eirin0d:You can think of us as strangers from a place beyond this spacetime.
+
+Eirin0a:I both am and am not the person you know. Is this making sense to you?
+
+YorihimeD2a:Strangers? You're not her...?
+
+Ran6a:I see. So her plan is to get Yorihime to understand.
+
+Tewi4a:Still, strangers, huh...?
+
+Nitori1a:I guess we're counterparts from a parallel universe!
+
+Marisa4c:I mean, that's kinda true, but why do you look so happy about that?
+
+Eirin4b:I'm sorry for springing something so shocking on you. If you let us go, I promise we'll return to our own world without causing you any trouble.
+
+YorihimeD2a:I-I can hardly believe it...
+
+YorihimeD5a:Your voice is just like like hers, not to mention the look in your eye... Even now, I find myself just wishing this were real.
+
+Eirin0b:Yorhime...
+
+YorihimeD1b:However!
+
+Tewi1c:Huh?
+
+YorihimeD0a:Isn't it far too convenient for you to show up in front of me right now?
+
+YorihimeD1b:In other words, this is an illusion! A mirage born from my immaturity!
+
+YorihimeD5a:Yes, this is because I've clung to the hope of meeting you again...
+
+<nomove>
+
+<Code=(cursor_jump,304,640,0)>
+
+GyokutoT0c:Um... Lady Yorihime?
+
+</nomove>
+
+Suwako4a:Hoo boy, I think we flipped some kinda weird switch.
+
+Toyohime5c:Of course she'd get mentally jumbled up when suddenly faced with Lady Yagokoro.
+
+Yorihime0e:Yes, of course...
+
+Hina2a:If this is a recreation of reality, then I suppose it was our fate to run into trouble here.
+
+Reimu0f:If that's how she's gonna play it, then we can't just sit back either.
+
+Akyu1a:Prepare for danmaku battle, everyone!
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP-2a（出撃後：選択肢前）
+
+<nomove>
+
+<Code=(update_view,336,672)>
+
+<Code=(cursor_jump,304,640,0)>
+
+GyokutoT1c:More of them are pouring out, Lady Yorihime!
+
+<Code=(cursor_jump,368,640,0)>
+
+GyokutoT0c:What do we do about the imposters? Are they from a parallel universe or illusions or what?
+
+</nomove>
+
+YorihimeD0e:...Ahem. Just pretend you never heard any of that.
+
+<nomove>
+
+<Code=(cursor_jump,368,640,0)>
+
+GyokutoT0c:Y-Yes, ma'am!
+
+</nomove>
+
+YorihimeD0b:We may not know their true identities, but our mission is to fight anyone who trespasses on the moon.
+
+YorihimeD0a:First, we prevent them from leaving. The investigation can come afterward.
+
+Yumeko0a:It seems she's already recovered. As expected of a leader of the Lunar Emissaries.
+
+Hatate6a:Is this really the best time to be praising her? She's completely into this now!
+
+Nazrin4a:So how do we handle this? If we face her head-on, we're in for a tough fight.
+
+Nazrin0b:We could always act cooperative and try to talk our way out of this.
+
+Byakuren0a:I agree with that approach.
+
+Shinki0d:Even if this is a dream, violence is never the answer.
+
+Yamame1b:You ladies are definitely committed to your stances.
+
+Yuka1a:That sounds dreadfully dull. If she wants a fight, why not humor her?
+
+Yugi1f:That's more like it! We're on the moon! Last time you did this, you had a pretty lean roster, right?
+
+Suwako1e:Then let's do it with everyone this time! A danmaku festival for all!
+
+Koishi6c:Yay! A mountain of corpses!
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Keine3a:It seems opinions are divided. No surprise there...
+
+Yukari5a:Reimu, you decide our course.
+
+Reimu3a:Hmm...
+
+<Question=|Let's do this peacefully.|Let's party!|,face=Reimu3a>
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Korin2c:It seems opinions are divided. No surprise there...
+
+Mima0d:Marisa, you pick something for us.
+
+Marisa3a:Hmm...
+
+<Question=|I want relaxing danmaku.|Party time!|,face=Marisa0a>
+
+</Cond>
+
+<end>
+
+<ChatID:2>----------------------------------------
+//上で「穏便～を選択
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Reimu0g:We're here to have fun today. Let's do this peacefully.
+
+Mokou1a:Huh, hard to believe this is the same Reimu I know...
+
+Rumia0a:Even though she's so merciless with us! Are you hungry?
+
+Reimu4a:You're a youkai, she's practically a god. It's not the same.
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Marisa0a:We're here to have fun. You know I love a challenge, but let's go with some relaxing danmaku this time.
+
+Nitori4a:Huh, Marisa's behaving herself.
+
+Sakuya5b:Do you wish to get back to the moon vacation, if possible?
+
+Marisa7c:Yeah, something like that.
+
+</Cond>
+
+<nomove>
+
+<Code=(update_view,336,672)>
+
+<Code=(cursor_jump,304,640,0)>
+
+GyokutoT1a:...I was expecting them to go out in a blaze of glory or something, but they're pretty well behaved.
+
+</nomove>
+
+YorihimeD0b:Resigned to their fate, perhaps? Capture them with no unnecessary bloodshed.
+
+YorihimeD0a:I don't know who you are, but you will regret trespassing on the moon.
+
+<end>
+
+<ChatID:3>----------------------------------------
+//上で「宴よ!を選択
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Reimu5c:Does it matter what I say? We'll be fighting her anyway.
+
+Reimu0c:In which case, it'd be a waste not to make our reunion as memorable as possible!
+
+Kosuzu6a:So you're saying...
+
+Reimu1a:Yeah, it's a danmaku festival!
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Marisa4c:Well, I mean, it's not like we aren't gonna be fighting her anyway.
+
+Marisa7a:In which case, it'd be a waste not to make the most of our reunion.
+
+Alice1a:Marisa, don't tell me you mean...
+
+Marisa1a:You bet I do! It's a danmaku festival!
+
+</Cond>
+
+<pause>
+
+<hide=video>
+
+Meko0b:H-Hey, hold on! What do you think you're doing?! This is HER we're talking about!
+
+</hide>
+
+YorihimeD1a:Oh...? I assumed you'd be terrified, but instead you're challenging me.
+
+YorihimeD1a:I suppose with that much power on your side, you have little to fear.
+
+Aya0a:Huh. I thought she'd get angry, but it sounds like she's calmly evaluating us.
+
+Sanae0a:Last time she was so intimidating... Is it that we've grown since then?
+
+<hide=video>
+
+Makura2b:Regardless, this is dangerous. Your image of her as a powerful opponent is just too strong.
+
+Makura1b:Meaning your feelings could potentially make her even more powerful than she was back then.
+
+</hide>
+
+Luna1a:Wait, even stronger than that?!
+
+Remilia1d:So our fate will branch based on what we say.
+
+Satori0b:Now, what will you do?
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Tenshi1e:...
+
+<Question=|You're on!|And have a taunt!|And have an even bigger taunt!|,face=Tenshi0a>
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Yuka2a:...
+
+<Question=|I'll fight you.|I'll bully you.|I'll make you into fertilizer.|,face=Yuka0b>
+
+</Cond>
+
+<end>
+
+<ChatID:4>----------------------------------------
+//選択肢1を選んだ場合
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Tenshi1b:Just what I wanted! I'll show you I can go toe to toe with you, Yorihime!
+
+Toyohime2c:Oh, my. Do you have something against Lunarians?
+
+Eiki3c:I would say it's less that and more a matter of self-confidence.
+
+Iku1d:We all feel the same. Let us test our strength against her.
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Yuka0b:This sounds fun. Care to raise a little hell?
+
+Eiki1a:More of your provocations, Yuuka Kazami?
+
+Alice0b:You just don't care who you're facing, do you? Or is this you being picky?
+
+Mima1a:How are we supposed to test ourselves if not against the best?
+
+</Cond>
+
+YorihimeD0b:I'll grant that you have drive. Very well, then I won't hold back.
+
+<pause>
+
+Yumeko1b:Her spirit's gone up a level. She must be planning to show her true strength.
+
+Korin1c:These readings... It's not just her spirit, her attack power must have gone up too!
+
+YorihimeD0b:It's high time I make you regret showing such insolence.
+
+YorihimeD2a:For the crime of trespassing on lunar soil, your atonement will be in blood!
+
+<end>
+
+<ChatID:5>----------------------------------------
+//選択肢2を選んだ場合
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Tenshi0a:Are you just stupid or what? Do you even know how many battlefields we've overcome to get this far?
+
+Tenshi1a:If we were scared off that easily, we wouldn't be [TEAM_NAME]!
+
+YorihimeD0b:I see. Even if you are intruders, I have to admit I respect your bravery.
+
+YorihimeD0a:However, that alone...
+
+Marisa0a:You know, I completely forgot we had that team name.
+
+Mystia0a:I'm amazed you remembered, Tenshi!
+
+Iku0a:I could almost believe you were really attached to it.
+
+Tenshi1b:Hey, stop ruining the mood!
+
+YorihimeD0a:It seems your bonds are strong. In that case, I may have to take this seriously.
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Yuka0b:Teehee, you seem worth bullying.
+
+Kurumi0a:Wha— Yuuka...
+
+Kogasa2b:No way, sadism ON THE MOON?!
+
+Korin0a:We're up against Yorihime Watatsuki of all people. Do you really mean that?
+
+Yuka0a:Of course I do. None of you are flinching before that line-up either, are you?
+
+Yuka0a:Besides, whatever happened to... what was it called again...?
+
+Marisa0a:You mean [TEAM_NAME]?
+
+Yuka0a:Yes, that. If you're calling yourselves that, surely your bonds are strong?
+
+YorihimeD0b:...I understand. I will be fighting you all at once then.
+
+YorihimeD0a:In that case, I may have to take this seriously.
+
+</Cond>
+
+<pause>
+
+Tensoku0a:...!
+
+Mima0a:Huh. Her spirit grew by like one or two levels.
+
+Satori0c:It's not just mental either. Her body is also brimming with spiritual energy.
+
+YorihimeD0a:Very well, show me the strength of the Earth.
+
+YorihimeD1a:Trespassers on lunar soil, atone with your blood!
+
+<end>
+
+<ChatID:6>----------------------------------------
+//選択肢3を選んだ場合
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Tenshi6a:Heh, I've been waiting for this chance.
+
+YorihimeD0a:A chance, you say...?
+
+Tenshi1e:Back when we drank in Old Hell! We came up with some things to say!
+
+Yugi0a:Ah, right, gotcha!
+
+Suika1a:Hey, you! Yeah, you! You show up in someone's face, acting all tough... you've got guts, kid!
+
+Tenshi1a:But we're not letting you off that easy!
+
+Yugi1a:I'm only gonna say this once, so doncha forget it!
+
+Suika1a:We're real famous back in Gensokyo, they call us [TEAM_NAME]!
+
+Tenshi1b:Bearing the weight of the danmaku soul, the indomitable...
+
+Suika1a:The leaders of the oni!
+
+Yugi1a:Suika Ibuki, Yuugi Hoshiguma, and Tenshi Hinanawi!
+
+YorihimeD2a:Uh...?
+
+Parsee0a:What are you all getting so worked up for?
+
+Yugi2a:It just kinda felt right.
+
+Tenshi0a:I'm not even an oni, but sure, I'll roll with it.
+
+YorihimeD0b:...I have no idea what you're on about, but YOU barge in here and dare say that to ME?
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Yuka0a:You know, I was just wishing I had more fertilizer.
+
+Yuka0b:You seem like you'd nourish flowers nicely.
+
+YorihimeD2a:What...?!
+
+Wriggle1a:Wait, Yuuka?! What are you saying to Yorihime of all people...?!
+
+Yuka0b:The scenery here is so barren. It could do with a flower bed or two.
+
+Yuka0b:But I'd need fertilizer to grow them in a place like this.
+
+Medicine2a:W-Well that's probably true...
+
+Shinki0a:Medicine, no! Don't try to understand her logic!
+
+Suika2a:She picked a fight with Yukari too, so she's just that hardcore.
+
+YorihimeD0b:...Now I understand. So this is your true nature.
+
+</Cond>
+
+YorihimeD0b:I take a moment to observe you, and all I see is excessive insolence...
+
+YorihimeD1b:Even a heart as vast as the ocean would struggle to forgive this! Know that no mercy remains for you!
+
+<pause>
+
+Momiji2a:Ugh, what is this level of spirit...?!
+
+<Code=(map_shake,1,60,1)>
+
+<SE=se_bomb03.ogg,wait=0>
+
+<Code=(demo_wait,60)>
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Kosuzu5a:The radar's broken! Is this Yorihime's true strength...?!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Akyu4a:The radar's broken! Is this Yorihime's true strength...?!
+
+</Cond>
+
+Marisa2b:No, it's even more intense than last time!
+
+<hide=video>
+
+Makura0a:...It's just as I feared. The strength of the Yorihime we see before us is not a strict reproduction of your memories.
+
+Makura0a:The image of her that you all hold is most likely what produced this level of power.
+
+</hide>
+
+Remilia1a:I don't see the problem. If anything, this is what I was waiting for.
+
+Sho1a:Today we've assembled every member of [TEAM_NAME]!
+
+Youmu1a:If Yorihime's strength has increased, then we just have to outdo it!
+
+YorihimeD0b:You've got spirit, I'll give you that. However, you will soon come to regret it.
+
+YorihimeD1b:Even if you were to prostrate yourselves before me, I would not forgive you. You shall pay in blood for the sin of invading our lunar land!
+
+<end>
+
+<ChatID:7>----------------------------------------
+//1EP、または初戦闘相手が依姫の場合の戦闘前
+
+Udonge2b:We're done for. I can't believe we're fighting Yorihime...
+
+Udonge2b:She's gonna capture us, and we'll all face some horrible punishment!
+
+Murasa0a:Even when everyone else is raring to go, you're still the same as ever, huh.
+
+Yorihime0b:This is the perfect opportunity to train for real combat. Face it without fear.
+
+Udonge2b:But Lady Yorihime...!
+
+<Cond=(LOCAL_LIST_INDEX,ObjControl,tent_ID,Yorihime,!=,-1)>
+
+YorihimeD0a:...I see, so you are my imposter.
+
+Toyohime2c:My, so we meet.
+
+YorihimeD0a:Counterparts from a parallel universe, was it? Perhaps that wasn't entirely nonsense.
+
+YorihimeD0b:The divine invocation power I sense from you couldn't belong to anyone else.
+
+</Cond>
+
+<Cond=(LOCAL_LIST_INDEX,ObjControl,tent_ID,Yorihime,==,-1)>
+
+YorihimeD0a:That voice must be my imposter.
+
+Toyohime2c:Oh dear, we've been spotted. So to speak.
+
+YorihimeD0a:Counterparts from a parallel universe, was it? Perhaps that wasn't entirely nonsense.
+
+YorihimeD0b:The presence emanating from this ship couldn't possibly belong to anyone else.
+
+</Cond>
+
+Reimu4a:You're awfully calm about this. Most people would go "Who are you?!" if they suddenly saw themselves appear.
+
+YorihimeD0a:Whoever I face, what I must do remains unchanged. I can't afford to be startled by every little thing.
+
+Yorihime0b:Yes, such is a leader's duty.
+
+Udonge2b:Please don't start agreeing with each other. Remember, Lady Yorihime, you're on OUR side...
+
+YorihimeD0a:Who's on whose side?
+
+Udonge2b:Erk, I meant the other Lady Yorihime...!
+
+Shizuha0a:This is just getting confusing. It'll only get worse the longer we stay on the moon.
+
+Yukari0a:As soon as the danmaku battle is over, we should make our exit quickly.
+
+<end>
+
+<ChatID:8>----------------------------------------
+//依姫と初戦闘
+
+YorihimeD0b:Well, have you prepared yourselves?
+
+Tewi4a:You're so calm. Almost like your outburst back there was totally fake.
+
+<Cond=(LOCAL_LIST_INDEX,ObjControl,tent_ID,Yukari,!=,-1)>
+
+Yukari0a:I'm impressed you managed to maintain your composure even after seeing us.
+
+YorihimeD1a:Do not mistake this for a welcome. No matter which world you come from, having Earthlings on the moon means nothing but trouble.
+
+</Cond>
+
+<Cond=(LOCAL_LIST_INDEX,ObjControl,tent_ID,Yukari,==,-1)>
+
+Yukari0a:I'm impressed you managed to maintain your composure even after sensing our presence.
+
+YorihimeD1a:Do not mistake this for a welcome. No matter which world you come from, having Earthlings on the moon means nothing but trouble.
+
+</Cond>
+
+YorihimeD0a:To ensure the peace of the Lunar Capital, I will make you surrender quietly.
+
+Mima1c:That's a proper guardian, right there. And that's what I want from my opponent!
+
+Flan1c:Remi, this time we'll beat her up and plant our flag here!
+
+YorihimeD0a:I've said all that needs to be said. The rest of our communication shall be via danmaku battle.
+
+YorihimeD0b:One that will not bring shame to the Watatsuki name, a battle most beautiful...
+
+<end>
+
+<ChatID:9>----------------------------------------
+//通常撃破
+
+Kogasa0b:Yay, it worked!
+
+YorihimeD0b:Looks like I really can't afford to let my guard down. Given their strength, I supppose that's only to be expected.
+
+YorihimeD0a:However, this far from all that I'm capable of.
+
+Reimu1a:Careful, she's about to use her specialty!
+
+Meiling1a:Divine invocation, right? Got it!
+
+YorihimeD0a:I'm surprised that an opponent I've never met before already knows my moves.
+
+YorihimeD1a:But if you think knowledge alone means you can handle it, you're gravely mistaken!
+
+<pause>
+
+Momiji1a:That's...! Yorihime's blade is covered in divine flame!
+
+<hide=video>
+
+Meko0b:Eek...! We're all gonna burn!
+
+</hide>
+
+Mokou1a:I'm no stranger to heat. How about we fight fire with fire?
+
+Utsuho1a:If we're talking divine flames, Yatagarasu has 'em too!
+
+YorihimeD0a:No matter how many embers you gather, it's merely a matter of blowing them all away at once!
+
+YorihimeD1b:God of Fire, Hi-no-Kagutsuchi, become a blade to exorcise evil!
+
+<end>
+
+<ChatID:10>----------------------------------------
+//「火之迦具土撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+YorihimeD0b:I see you're keeping up.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+YorihimeD0b:Preparing to flee right from the start, I see.
+
+Sunny3a:I-It's not running away, it's a tactical retreat!
+
+Luna6b:I mean, we already know that something even crazier is coming next...
+
+</Cond>
+
+Tenshi2c:I know it's a silly thing to say about an opponent, but... she's definitely a freak of nature.
+
+Toyohime0c:Possessing innate ability, blessed with a superior mentor, and unstinting in her efforts. That's Yorihime.
+
+Toyohime0a:Not to brag as her sister, but I doubt you'd ever find another girl this upstanding.
+
+Yukari5a:She's almost too much of a paragon. Our own shrine maiden could learn a thing or two from her.
+
+Reimu4a:Wait, are you serious?
+
+YorihimeD0b:It feels strange hearing an enemy praise me so openly...
+
+Satori0c:From our point of view, you're not just an enemy.
+
+Rumia3a:And we also know what tricks you've got up your sleeve!
+
+YorihimeD0b:...Very well. Let's see if simply knowing will be enough for you to counter the techniques of the Yaoyorozu no Kami.
+
+YorihimeD1a:Ame-no-Uzume-no-Mikoto. Descend unto me, and show us the dance that averts calamity!
+
+<end>
+
+<ChatID:11>----------------------------------------
+//「天宇受売命撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+YorihimeD0a:You're quite capable, to keep up with even this dance.
+
+Aya1b:Divine invocation may be powerful, but we've got gods of our own.
+
+Shizuha1d:That's right, the gods of autumn are—
+
+Sanae1c:Lady Kanako and Lady Suwako are with me!
+
+Minoriko4a:Okay, as we were saying, the gods of autumn—
+
+Kanako1a:Now that I am at your side, I shall demonstrate my might.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+YorihimeD0b:...And through the goddess's dance, calamity was averted.
+
+Momiji1b:...We somehow managed to endure that one.
+
+Aya1b:Divine invocation may be powerful, but we've got gods of our own.
+
+Shizuha1d:That's right, the gods of autumn are—
+
+Sanae1c:Lady Kanako and Lady Suwako are with me!
+
+Minoriko4a:Okay, as we were saying, the gods of autumn—
+
+Kanako1a:Now that I am at your side, I shall demonstrate my might.
+
+</Cond>
+
+YorihimeD0a:Kanako...? This sensation, could it be...?
+
+Kanako0a:I was once called a war god, but now I am a mountain god.
+
+Sanae1a:If I invoke the power of the wind, then I can even face you!
+
+YorihimeD0b:A god and her shrine maiden standing together make a formidable force indeed.
+
+YorihimeD0a:However, among the countless gods, each one is bound to have their natural foe.
+
+YorihimeD1a:Should you call upon Takeminakata, then...
+
+Youmu1a:Be careful, it's that technique from last time!
+
+YorihimeD1a:Let sky strive against sky, in a pure test of strength!
+
+YorihimeD1b:Divine Takemikazuchi, I invite thy presence!
+
+<end>
+
+<ChatID:12>----------------------------------------
+//「建御雷神撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+YorihimeD2a:How...? I should have had the advantage!
+
+Suwako1e:Guess you weren't listening when she mentioned more than one god.
+
+Suwako3b:I shore up Kanako's weaknesses.
+
+Minoriko1a:The autumn gods are here too!
+
+Shizuha1a:Your failure to summon a god of winter was your downfall!
+
+YorihimeD2a:What nonsense are you spouting?
+
+Mima0e:So, what now? We can keep this up all day.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+YorihimeD0b:...And so wind broke before thunder, and the land was given over to the Amatsukami.
+
+Suwako4b:See? That's what happens when you don't ask me for help, Kanako.
+
+Minoriko1a:The autumn gods are here too!
+
+Shizuha1a:Our side's lack of faith in us was our downfall!
+
+Hina4a:...Please stop this pointless bickering.
+
+Mima0c:So, what now? We can keep this up all day.
+
+</Cond>
+
+YorihimeD0b:Likewise, I've invoked but two of the Yaoyorozu no Kami. I can continue this for quite some time.
+
+YorihimeD0a:That said, I have no desire to drag this out. I'll finish you off with my next move.
+
+Murasa2b:And by next she means...
+
+Ichirin1a:I remember now, we need anti-flash protection!
+
+Patchouli0c:Remi, you should hide. Otherwise don't come crying to me when you get burned to a crisp.
+
+Remilia1b:Excuse me?
+
+YorihimeD1a:O gentle mother who rules the heavens, fill the moon with your overwhelming light!
+
+YorihimeD1b:Amaterasu Omikami!
+
+<end>
+
+<ChatID:13>----------------------------------------
+//「天照大御神撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+YorihimeD2a:I can't believe it! You closed the heavenly cave, and sealed away the great goddess?!
+
+Mystia4a:Phew, we made it through that.
+
+Keine1a:That was a terrifying onslaught. Is this Yorihime's true strength?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+YorihimeD0b:...And lo, the door to the heavenly cave opened, and the night was held at bay.
+
+Keine3b:That was a terrifying onslaught. Is this Yorihime's true strength?
+
+</Cond>
+
+<hide=video>
+
+Makura0a:...And yet, all that said, you've still managed to overcome every single attack.
+
+Makura3b:I've experienced it for myself but... Seeing it again like this really brings home the incredible strength of your solidarity.
+
+</hide>
+
+Ran6a:The advantages of a third-party perspective. Sometimes you can see things you'd otherwise miss.
+
+Cirno5a:Stuff like our friendship, or our bonds!
+
+<hide=video>
+
+Makura3c:Yes...
+
+</hide>
+
+Korin1a:At any rate, her attacks have stopped. Now's our chance to get away!
+
+YorihimeD1b:Trying to escape? I think not...!
+
+Yukari0a:Toyohime, could you connect us to another space?
+
+Toyohime1a:Certainly. I trust the sea of stars will suffice for now.
+
+Nitori1b:Take this! A smoke bomb that'll fog up the whole surface of the moon!
+
+Nue1a:Morons like you can just get swarmed by my minions!
+
+Koishi6c:Ooh, whee, an abduction!
+
+<pause>
+
+YorihimeD2a:...Tch, I can't believe how well-executed that was. They're like a trained unit.
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,336,688,0)>
+
+GyokutoT0a:Lady Yorihime, are you alright?!
+
+GyokutoT0a:Reinforcements have arrived as per Lady Toyohime's orders! Where's the enemy?
+
+</nomove>
+
+YorihimeD0b:They caught me off-guard. By now they've probably made it to the sea of stars.
+
+<nomove>
+
+<Code=(cursor_jump,336,688,0)>
+
+GyokutoT0a:Whoa, they actually got away from you...
+
+</nomove>
+
+YorihimeD0b:Naturally, I have no intention of allowing them to escape.
+
+YorihimeD0a:My pursuit begins now. Inform my sister.
+
+</nomove>
+
+<end>
+
+<ChatID:14>----------------------------------------
+//非想天則初戦闘
+
+Tensoku0a:...
+
+YorihimeD0a:...Now that I look at it, this is quite the strange iron giant they've brought along.
+
+YorihimeD0b:This kind of technology can't possibly be from Earth. Perhaps all that talk about a parallel universe was actually true.
+
+YorihimeD0a:A humanoid weapon is both irrational and inefficient. And yet...
+
+Shizuha2b:The other Yorihime keeps glancing over at Hisoutensoku.
+
+Shinki0b:Ooh, I get it! She's jealous.
+
+Yorihime5e:D-Don't be absurd! I'm simply concerned for the moon's public order...
+
+Nitori3e:Why is OUR Yorihime replying?
+
+Yukari5a:It's certainly an out-of-place artifact by Earth's technological standards. Now our parallel universe explanation is much more convincing.
+
+Mima0e:This is it. Let's see what this restored youkai robot is really made of.
+
+Cirno1a:You can do it, Hisoutensoku!
+
+<SE=se_talk_robot01.ogg,wait=0>
+
+Tensoku0a:...!
+
+<end>
+
+----------------------------------------

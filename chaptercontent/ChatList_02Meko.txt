@@ -1,0 +1,1067 @@
+﻿〇メーコ篇第二話「お茶会の午後に弾幕の雨
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1 (just in case)
+ 2: 1PP-2
+ 3: clear
+ 4: defeat
+ 5: ADVB
+ 6: first battle Meko
+ 7: first battle Alice
+ 8: first battle Yuka, Medicine
+ 9: Shinki, Yumeko
+10: Remilia, Sakuya, Komachi
+11: Eiki
+12: Sunny, Luna, Star
+13: 
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<MAP=9,FROM=魔法の森,TO=魔法の森,name=Forest of Magic,icon=6>
+
+<BG=bg_talk_Road_Winter.png,fade=1,color=1,title=*bg_Mountain,bgm=bgm_talk_ningyo>
+
+Sanae2b:...Achoo!
+
+Kogasa3c:Are you okay, Sanae?
+
+Sanae5b:I mean, it IS snowing. You should be careful too, Kogasa.
+
+Kogasa2c:Hech... chwoo! Darn it!
+
+Sanae5d:...What the heck kind of sneeze was that?
+
+Meko4a:Won't you two catch colds dressed like that?
+
+Sanae0a:I'm sure we'll be fine, but you look particularly toasty under all that wool, Mehko. So fluffy...
+
+Kogasa3a:But it must get stuffy in the summer.
+
+Meko1f:It does! It was even worse when I was transformed into a kedama.
+
+Kogasa3c:Oh right, I hear you used to spy on Marisa like that or something?
+
+Meko0c:I was absolutely adorable too. Everyone would pamper me.
+
+Sanae0g:Really? Reimu told me you got stuffed in a mushroom jar.
+
+Meko5b:Don't remind me of the mushrooms!
+
+Kogasa3b:Huh. I don't know much about back then.
+
+Kogasa0a:I'm kinda jealous of how close you all are.
+
+Sanae0d:Well, personally I think you managed to become one of the gang almost right away.
+
+Sanae0a:By comparison, it took quite a while after I moved before I made any friends.
+
+Meko0b:Whoa, really?!
+
+Sanae3b:I was so desperate back then. I was so caught up in my outside presumptions I even tried to chase youkai out of the shrine.
+
+Kogasa3c:Seeing how nice you are now, it's hard to picture that.
+
+Sanae5c:No no no, I wouldn't say I'm "nice" per se.
+
+Kogasa0a:But you even show interest in a youkai like me.
+
+Kogasa1a:I'm an abandoned umbrella, so I'm pretty sensitive to what humans are paying attention to.
+
+Sanae4b:Now you're just making me blush.
+
+Sanae0a:...I'll admit you ARE really fun to bully, though.
+
+Kogasa2b:No bullying!
+
+Meko0f:Um...
+
+Sanae0g:Ah, sorry. We left you out of the conversation.
+
+Meko4c:No, it's okay! You two just get along so well!
+
+Meko0a:What I wanted to ask is how you get closer to the people around you, when you don't start off as true friends?
+
+Sanae0b:What do you mean, how?
+
+Kogasa3c:So you're going around Gensokyo saying hello to everyone to try to make friends, then?
+
+Sanae0c:Hmm... Thinking about it, it is rather difficult...
+
+Sanae0a:But maybe the answer is just danmaku.
+
+Meko1b:Danmaku...
+
+Sanae0a:At first you're just fighting for your life, but as you do it again and again, you start to notice stuff around you.
+
+Sanae0d:Like how I realized that I'm not special here, unlike outside.
+
+Meko4c:Is that how you got close to everyone, then?
+
+Kogasa3b:So you relaxed your shoulders, so to speak?
+
+Sanae4a:I think danmaku battles help you see your place in Gensokyo objectively.
+
+Meko1a:I see, objectively...
+
+Meko4d:...
+
+Kogasa0c:Maybe that's a little too complicated for you!
+
+Meko0b:No it isn't! Anyway, what I got from this is that going around fighting people should help.
+
+Sanae4a:Couldn't hurt, at least. And while you're at it, it's probably a good idea to get more suggestions too.
+
+Sanae0a:I'm sure there will be people who are easy to talk to at this tea party.
+
+Kogasa3d:So let's get going! To Alice's house!
+
+Meko1e:Yeah!
+
+<MAP=9,FROM=マーガトロイド邸,TO=マーガトロイド邸,name=Margatroid Residence,icon=5>
+
+<BG=*bg_talk_Alice_Winter.png,fade=1,color=1,title=*bg_Alice,bgm=bgm_talk_aoki>
+
+Alice5a:Hmhmhm, hmm ♪
+
+Medicine3d:Alice, did I place the forks right?
+
+Alice3b:Good job, Medi. You lined them very well.
+
+Alice0d:Also, Sanae, Kogasa, and... Nitori should be showing up.
+
+Alice0a:Patchouli, Koakuma, would you mind waiting for everyone to arrive?
+
+Patchouli0c:Not particularly.
+
+Alice3b:Thanks. I'll make us some good tea in the meantime.
+
+Alice0d:Oh, maybe I should bring out what Yumeko sent me.
+
+Patchouli4c:...
+
+Koakuma5a:...
+
+Patchouli4a:(...Is it just me or is Alice in an especially good mood today?)
+
+Medicine0a:(She's been like that since earlier. She found new tableware at the store or something.)
+
+Koakuma3b:(And that was enough to get her soul burning with hospitality?)
+
+Alice2b:What are you three whispering about over there?
+
+Koakuma5b:Nothing! I mean, we were just saying how it'd be nice if the mistresses could make it.
+
+Alice2c:It sure would. I heard they had some sort of business to attend to?
+
+Koakuma3c:Lady Flan went out with Meiling, so the mistress is watching the house.
+
+Patchouli3a:No doubt pacing back and forth with anxiety wondering if Flan will break something.
+
+Medicine2c:Huh... so they're not together?
+
+Patchouli3b:Lately, she's been letting Flan go alone on short walks, or to meet with Koishi.
+
+Patchouli3a:The latter of which she gets along surprisingly well with. Unconsciously, perhaps?
+
+Alice0d:Remilia's letting her go out on her own? I can hardly believe how much she's changed.
+
+Patchouli3e:It's her way of practicing being separated from her sister.
+
+Koakuma3d:That said, she spends the entire time fidgeting with worry.
+
+Alice3b:Haha, now that's the Remilia I know.
+
+<SE=se_talk_knock02.ogg,wait=1>
+
+Koakuma5b:...Oh?
+
+Alice2c:Sounds like someone arrived. And it just had to be when my hands are full...
+
+Alice2b:Could you go greet them for me, Medi?
+
+Medicine0c:Okaaay, who is it?
+
+<SE=se_talk_walk_indoor01.ogg,wait=1>
+
+<SE=se_talk_door_open02.ogg,wait=1>
+
+Medicine5a:Huh? Whoa! You came!
+
+Patchouli0c:...?
+
+Alice2b:What's the matter? Who could be that surprising?
+
+Shinki0c:I'm here.
+
+Alice4c:...
+
+Alice1a:Wha— Mom?!
+
+Koakuma1a:It's Shinki?!
+
+<BGM=bgm_talk_gag,0>
+
+Medicine2e:W-W-Welcome!
+
+Shinki0a:Oh, if it's isn't my darling little Medi! It's been too long! I take my eyes off you for two seconds and you're acting all grown up!
+
+Shinki0d:Oh, do you see this, Yumeko?! Isn't this tableware just adorable!
+
+Yumeko0b:While your tastes are as childish as ever, it IS pretty.
+
+Alice1a:S-So why?! Why are you here, Mom...?
+
+Shinki1a:How could I not, when my daughter is hosting a lavish houseparty?
+
+Shinki0a:I just had to come running as soon as I heard.
+
+Alice4a:And who said it was "lavish"? Times like these make me wonder who's really the child...
+
+Remilia1e:You should be thanking me for spreading the word. And you're welcome.
+
+Alice2c:...!
+
+Komachi1c:Hey there, we're coming in.
+
+Sakuya6a:Is that the fragrance of high class tea I smell?
+
+Patchouli0c:Oh, Remi. And Sakuya, and Komachi.
+
+Alice4a:Care to explain? No one told me you two were coming too.
+
+Sakuya0a:We weren't, until the mistress changed her mind.
+
+Komachi1a:Sorry for crashing the party. Appreciate the hospitality.
+
+Alice0a:Well, I don't mind exactly, I just wish you'd told me ahead of time.
+
+Alice2b:Wait, so Remilia was the one who invited Mom then?
+
+Remilia1e:That I did. I was in a hurry though, so I just sent bats all over the place.
+
+Koakuma4b:Why would you suddenly decide to—
+
+Remilia0a:It's not every day you host a party, so I thought it'd be a waste not to make it as grand as possible.
+
+Alice4a:Who even said it was a party in the first place...?
+
+Sakuya5a:(She's worried about Lady Flan and looking to distract herself. Please bear with her.)
+
+Alice1b:(...Fine. I should be able to manage a few extra people.)
+
+<SE=se_talk_knock02.ogg,wait=1>
+
+Medicine3a:Hm...?
+
+Shinki0a:My oh my, so many guests have arrived.
+
+Alice2b:How many are we talking here...?
+
+<SE=se_talk_walk_indoor02.ogg,wait=1>
+
+Sunny5a:Sup! We're coming in!
+
+Luna3c:Ooh, something smells good!
+
+Star3d:C'mon girls, everyone in!
+
+Yousei11a:Wow, you're letting ANYONE in? You're so generous!
+
+HYousei0a:Doll mansion, infiltrated!
+
+<SE=se_talk_runaway01.ogg,wait=1>
+
+<Code=(map_shake,1,30,1)>
+
+Alice1a:Wait, hold on, what is this?!
+
+Patchouli4a:I suppose now you're going to tell us you invited every single fairy in the forest?
+
+Remilia1e:Obviously. The numbers of guests you can invite reflects on the host's charisma.
+
+Medicine5b:Can this many people even fit inside?!
+
+Remilia0e:It'll be fine. Sakuya can do some spacetime nonsense to make it work.
+
+Alice4a:Could you please not expand other people's homes without permission?
+
+Sakuya5c:My apologies. I'll do whatever I can to help you serve the guests.
+
+Alice4b:...Yes, please do. I just hope that was the last of them.
+
+Komachi4a:It's pretty much everyone we know about, at least.
+
+<SE=se_talk_door_open02.ogg,wait=1>
+
+Yuka1a:Hello there, Alice.
+
+Shinki2a:...?!
+
+Kurumi3b:Hey, I'm here too!
+
+Elliy1a:We were bored, so we dropped by... Wait, what?
+
+Remilia3a:Oh, if it isn't Yuuka. I didn't send you a bat. Fancy meeting you here.
+
+Yuka3c:Likewise. I don't see you at Alice's house very often.
+
+Alice4a:...You came at the worst possible time, Yuuka. Sorry, but could you come back some other day?
+
+Shinki2b:Yuuka Kazami and her posse! What are YOU doing here?!
+
+Yuka0f:Oh dear, and even Shinki? I could ask the same of you.
+
+Shinki2a:Explain this, Alice! You never told me that Yuuka would be coming!
+
+Alice4a:And you never told that you'd be coming either, Mom.
+
+Yuka3a:I can't say I fully understand the situation, but you do appear to be busy.
+
+Yuka0a:I'd rather avoid the crowds though, so an inner room will do for me.
+
+Kurumi3c:I'll go get Yuuka's cup and two guest ones!
+
+Elliy3b:Maybe we should write our names on ours too!
+
+Shinki2a:Wha— Not only do you barge in like you own the place, you even left your own cup here?!
+
+Shinki2b:I won't allow it! As your mother, I do not approve!
+
+Shinki2b:You stay away from my Alice, Yuuka Kazami! You're always buzzing around her like a bee!
+
+Elliy1a:Yuuka's a flower! Your daughter's the bee!
+
+Alice4b:...And now I've got a headache.
+
+Koakuma4a:This... isn't a tea party anymore, is it?
+
+Komachi5a:Probably easier to give up and go with the flow—
+
+<SE=se_talk_door_open02.ogg,wait=1>
+
+Eiki0a:I'm coming in.
+
+Komachi2a:Gyah!
+
+Koakuma1a:L-Lady Shiki?! Why are YOU here?
+
+Eiki4a:To fetch Komachi, of course. The flow of souls being transported dried up, so you must have clocked out early.
+
+Komachi2a:Nooo! I mean, I was invited to a party, so—
+
+Eiki0c:There's nothing wrong with taking a break, but you'll have to make up for it in the future.
+
+Sakuya0a:Now, now. Would you like some tea, Lady Shiki?
+
+Eiki3c:Hm, it DOES smell lovely. There wouldn't happen to be any baked goods to go with it?
+
+Sunny1b:Fresh out of the oven! Would the Yama care to join me?
+
+Eiki3b:...I would. I could see this notion of "tea time" catching on.
+
+Patchouli4a:Good grief. Who knows how many there will by the end of it?
+
+Medicine2a:What do we do, Alice?! We're out of cookies!
+
+Alice4a:...
+
+Medicine0b:Alice...?
+
+Alice2a:Enough already!
+
+<Code=(sound_fadeout,BGM,30,0)>
+
+Yousei12b:...!
+
+Kurumi2a:Bwuh?!
+
+Shinki5a:A-Alice...?
+
+<BGM=bgm_talk_emergency,0>
+
+Alice1b:I don't mind hosting guests. But you have to at least tell me first.
+
+Alice1a:Listen, this was supposed to be a small tea party! Not some grand, lavish, whatever-this-is!
+
+Luna6a:Huh?! But Remilia said...
+
+Remilia0e:Hey, a tea party is a party too. It's right there in the name.
+
+Alice5b:Maybe in the Scarlet Devil Mansion, but what I had in mind was just a cute little get-together!
+
+Alice5c:Eating cookies, chatting, spending a lovely afternoon together...
+
+Alice1b:This isn't the Hakurei Shrine! Show a little consideration!
+
+Sunny4c:U-Um, sorry...
+
+Elliy4b:So... that's how you see the shrine then, Blondie?
+
+Eiki4a:When emotions run wild, one's true thoughts are revealed.
+
+Medicine5b:Shinki, Yumeko, what do we do?!
+
+Yumeko5e:I'm not quite sure. She was never the type to throw tantrums.
+
+Yumeko0a:Do you happen to have a good idea, Lady Shinki?
+
+Shinki2a:...I do. Follow my lead.
+
+Koakuma1a:Ooh, that's Shinki for you!
+
+Shinki0c:For now, let's get some fresh air.
+
+Koakuma2b:So you're just running away?!
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP-1（出撃前；予備）
+
+<end>
+
+<ChatID:2>----------------------------------------
+//1PP-2（出撃後）
+
+Kogasa3d:And we're here!
+
+Meko4a:It's been a while since I've been to Alice's house.
+
+Sanae0a:It's almost time for it to start, but it seems like they've already—
+
+<pause>
+
+Sanae0g:...Huh?
+
+Kogasa3b:That's a LOT more people than I was expecting.
+
+Medicine3d:Phew, we got everyone outside.
+
+Remilia4a:Sheesh, what is the meaning of this?
+
+Yuka5a:That's what you get for ticking off the head of the household. She won't be calming down anytime soon.
+
+Patchouli1d:You weren't invited either, you know.
+
+Remilia0b:So, what now? Cancel the tea party and throw a danmaku one instead?
+
+Alice0b:...Sure. That should help me get this off my chest, at least.
+
+Alice1b:And while we're at it, whoever loses will have to clean up the mess you made inside.
+
+Sakuya0a:What an interesting event. How will we decide teams?
+
+Alice0c:As the hostess, I get to decide.
+
+Alice1b:On this side will be the original guests of the tea party. And on that side will be the party crashers.
+
+Koakuma1a:So basically we're up against all the fairies, Sakuya and the mistress, Shiki and Komachi, and...
+
+Alice1b:And my Mom.
+
+<Code=(icon_set_direction,Shinki,FD_LEFT,0)>
+
+Shinki5b:...
+
+Alice4a:...Fine, you and Yumeko can be on our side.
+
+Shinki0c:Thank you, Alice! We'll do what we can to defend your home!
+
+Medicine0d:Um, so where does that leave Yuuka's group...?
+
+Yuka0f:As much as I hate being treated as an outsider, I have to imagine being on that side would get me shot in the back.
+
+Yuka0d:In exchange, how about I get Mother dearest and our stepsister to acknowledge this as my second home?
+
+Alice0c:You'd have to get me to acknowledge it first, and that won't happen.
+
+Sanae5c:...Um, excuse me, but what exactly have we walked into?
+
+<Code=(icon_set_direction,Patchouli,Meko,0)>
+
+<Code=(icon_set_direction,Alice,Meko,0)>
+
+Patchouli3a:Sanae and Kogasa. You've arrived.
+
+Koakuma3b:Oh, and you brought Mehko with you?
+
+Meko3a:Ah, I was invited by— I mean, Nitori said she couldn't make it.
+
+Alice0d:Is that so? Well, in any other circumstances, I could've welcomed you properly.
+
+Komachi1a:Long story short, we're about to fight.
+
+Alice3b:I don't suppose you'd mind reinforcing our side?
+
+Meko0b:Huh...?
+
+Kogasa3c:Sure, why not, but what about the tea party? Is it cancelled?
+
+Alice4c:Oh, absolutely not. That's happening no matter what it takes. But before we can...
+
+<Code=(icon_set_direction,Alice,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Patchouli,FD_RIGHT,0)>
+
+Patchouli1d:We need to take care of this bothersome lot and have them clean the house.
+
+Meko0b:I feel like this is way more than I signed up for...
+
+Sanae0d:Well, it's not how we planned it, but your goal WAS to fight more danmaku battles, wasn't it?
+
+<Code=(icon_set_direction,Shinki,FD_RIGHT,0)>
+
+Alice1a:Now, let's get started, shall we? You intruders will rue the day you crashed my tea party!
+
+<end>
+
+<ChatID:3>----------------------------------------
+//レミリア撃破時（クリア）
+
+<Code=(icon_set_direction,All,Remilia_en,0)>
+
+Remilia2a:Ngh!
+
+Koakuma5b:Wow, we beat the mistress.
+
+Patchouli0c:Holding a parasol the whole time was certainly a handicap.
+
+Remilia2a:If only that umbrella youkai was on our side so I could order her to shade me!
+
+Kogasa2b:I'd actually be a top pick in the draft?!
+
+Sanae5d:Well, how about we just return her parasol for now?
+
+<pause>
+
+Alice0c:Either way, we won. So as promised, you'll have to clean up.
+
+Alice0d:I'll be using the kitchen, so just the dining and living rooms should be fine.
+
+<Code=(icon_set_direction,All_en,Alice,0)>
+
+<Code=(icon_set_direction,All_en,Medicine,0)>
+
+Sunny6a:Tch, if we gotta...
+
+<Cond=(FIND_UNIT,Yousei1_en,enemy,!=,-1)>
+
+Yousei12a:We should run while we have the chance...
+
+</Cond>
+
+Meko4c:...Phew, made it through another one, somehow.
+
+<Code=(icon_set_direction,Sanae,Meko,0)>
+
+<Code=(icon_set_direction,Kogasa,Meko,0)>
+
+Sanae4a:Good work, Mehko. At least now we get to take a breather inside.
+
+Sanae0a:And that'll be a good opportunity for you to talk to everyone.
+
+<Code=(icon_set_direction,Meko,Sanae,0)>
+
+<Code=(icon_set_direction,Meko,Kogasa,0)>
+
+Meko1a:Yeah!
+
+Koakuma3b:So I suppose we should get back to preparing the tea?
+
+Alice3b:And in the meantime, everyone attending the tea party can warm themselves by the fireplace.
+
+<end>
+
+<ChatID:4>----------------------------------------
+//全滅時
+
+Meko2a:No way, we lost?
+
+<Code=(icon_set_direction,Remilia_en,FD_LEFT,0)>
+
+Remilia1e:What a shame, I guess we're hijacking your tea party.
+
+<Code=(icon_set_direction,Yuka_en,FD_LEFT,0)>
+
+Yuka0d:And while we're at it, I'll be formally taking ownership of the house.
+
+<Code=(icon_set_direction,Shinki,Yuka_en,0)>
+
+<Code=(icon_set_direction,Yumeko,Yuka_en,0)>
+
+Shinki1c:Hey, you can't just do that!
+
+<Code=(icon_set_direction,Yuka_en,Shinki,0)>
+
+<Code=(icon_set_direction,Yuka_en,Yumeko,0)>
+
+Yuka1b:Yes, yes, now which of us is the guest again?
+
+Shinki1c:You... You... homewrecker!
+
+<Code=(icon_set_direction,Yumeko,Alice,0)>
+
+<Code=(icon_set_direction,Shinki,Alice,0)>
+
+Yumeko4a:...We'll get nowhere like this. I'd call for a do-over, Alice.
+
+Alice1a:Yes, of course!
+
+<end>
+
+<ChatID:5>----------------------------------------
+//ADVB
+
+<MAP=9,FROM=マーガトロイド邸,TO=マーガトロイド邸,name=Margatroid Residence,icon=6>
+
+<BG=*bg_talk_Alice_Winter.png,fade=1,color=1,title=*bg_Alice,bgm=bgm_talk_ningyo>
+
+Sunny4a:Phew, we're finally finished!
+
+Shinki0d:And you didn't slack off either. It's even cleaner than it was before.
+
+Remilia1e:Obviously, with my very own Sakuya on the job.
+
+Sakuya1c:Komachi did her fair share too. I suppose having her boss looking over her shoulder would—
+
+Komachi2b:Shh...!
+
+Alice0c:Well, I'm sure it wasn't easy. Which is what happens when a small army shows up uninvited.
+
+Alice0d:So if you've learned your lesson, next time make sure to set an appointment before you come.
+
+Luna4a:Kaaay...
+
+Meko0f:...It's so hard for me to sit still when someone else is doing all the cleaning, for some reason.
+
+Sakuya6a:It's not your fault it's dirty, so it's nothing you need to worry about.
+
+Elliy5a:Guess you're just the hardworking type.
+
+Star3b:Anyway, we need a break after all that.
+
+Sunny6a:Anywhere we can sit down? Even the floor's okay.
+
+Medicine2e:Oh, in that case!
+
+Star0c:...?
+
+Kurumi2a:Don't tell me she found something else for us to clean?! I'm pooped!
+
+Medicine3d:No no no, here, take these.
+
+<SE=se_talk_dish03.ogg,wait=1>
+
+Luna3c:Huh? Tea and cookies?
+
+Komachi2b:The heck, so you made enough for us too?
+
+Alice0d:Circumstances aside, you ARE my guests.
+
+Alice3b:You even cleaned up for me, so it's water under the bridge. The least I can do is serve tea.
+
+Sunny5a:Alright! Can't say no to that!
+
+Elliy3b:Whew! Thank goodness for Blondie's big heart!
+
+Patchouli3c:...And after all the trouble they caused? That's a shocking amount of generosity.
+
+Shinki0d:Well, that's because—
+
+Yuka3a:The happiness she feels from them coming to visit outweighs the inconvenience, I suppose.
+
+Yuka0d:In the end, Alice just loves everyone.
+
+Shinki2b:Hey, I was supposed to say that!
+
+Yumeko5d:...
+
+Kogasa3c:Huh... Those two get along weirdly well, don't they?
+
+Eiki3b:They may always be snapping at each other, but it seems they've bonded as supporters of Alice Margatroid.
+
+Eiki0a:No doubt this latest danmaku battle helped them become aware of that.
+
+Yuka2d:Ha...?
+
+Alice0d:Wouldn't that be nice? You two get along now, you hear?
+
+Shinki2a:Wait, Alice! We don't get along at all, honest!
+
+Medicine3c:Aw, I'm glad you two made up.
+
+Medicine3d:So now you won't be getting into arguments anymore?
+
+Shinki5a:Huh?!
+
+Shinki0a:A-Ah, yes. If I had to say, I guess we'd be leaning towards not...?
+
+Yuka0d:Teehee, you're absolutely right, Medi. We're the best of friends now, aren't we?
+
+Shinki2a:(Eek! Don't get so close to me!)
+
+Yuka2a:(Play along, you fool. Medi is watching.)
+
+Yuka3a:(Don't blame me if Alice gets mad at you for setting a poor example.)
+
+Shinki2b:(Ugh, fine...)
+
+Medicine2b:...Is something wrong?
+
+Shinki0c:N-No, of course not! As you can see, we're getting along just swimmingly!
+
+Yuka3c:No doubt about that.
+
+Kogasa2b:(...They're both secretly grinding on each other's feet.)
+
+Luna6a:(I guess you could say that's getting along, in a sense.)
+
+Meko0a:...
+
+Sanae0d:It might have been a coincidence, but it was worth coming to see something so rare.
+
+Meko0a:So is this that thing where danmaku helps people get closer?
+
+Elliy1b:Huh?
+
+Komachi0a:Where'd THAT come from?
+
+Sanae0a:Oh, sorry for the late introduction. Mehko here is going around to various places getting into danmaku battles.
+
+Sanae4a:We sort of ended up on that as the best way to get closer to everyone in Gensokyo.
+
+Alice0d:I see, so that's why she's with you today.
+
+Koakuma3b:So was that battle just now helpful?
+
+Meko4c:Um, I guess it helped Yuuka and Shinki make up or something?
+
+Patchouli4a:Somehow I doubt either of them opened their hearts back there.
+
+Patchouli3b:But I suppose at the very least, they got to let it all out and beat each other up?
+
+Yumeko3c:...True. Even after being at each other's throats like that, now they're even sitting at the same table.
+
+Meko1e:Then I guess it was helpful.
+
+Eiki0a:I'm glad to see that you're making a sincere effort to learn from this.
+
+Eiki0c:Is Makura Muwatari grappling with the same issues as you, then?
+
+Remilia0c:Now that you mention it, I never really see her around.
+
+Koakuma3b:Is she alright in her day-to-day life?
+
+Meko0c:Yup, she works while sleeping every day!
+
+Sunny3a:...
+
+Eiki4b:I see. To think she'd have an even worse work ethic than Komachi...
+
+Meko0b:Huh?
+
+Meko1f:No, not like that! Her job is to turn nightmares into good dreams!
+
+Yumeko0b:Ah, so you mean she's tending to humans in the Dream World.
+
+Shinki0a:Replacing nightmares... Something only she can do. I think it's a lovely career.
+
+Komachi4b:Man, I wish I could work while sleeping.
+
+Meko0g:...But lately she's seemed kinda low energy.
+
+Kurumi0b:How so?
+
+Yuka2d:Hasn't she always been the delicate type?
+
+Meko0g:Yeah, but I'm talking more mind than body.
+
+Elliy4a:And here I thought she'd gotten used to life in Gensokyo. What's she got to worry about?
+
+Patchouli0c:Being appreciated for showing humans good dreams... Wasn't this precisely the ideal life she sought?
+
+Sanae0b:...
+
+Sanae0g:Excuse, can we back up? Is it really true that Makura's been showing humans dreams?
+
+Sunny1c:Huh...?
+
+Meko0a:Of course it's true, why?
+
+Sanae0a:Because while I have been having more dreams lately, and wake up feeling refreshed...
+
+Sanae3b:Honestly I had no idea that Makura was responsible for it.
+
+Meko3a:What?!
+
+Sakuya5b:Me neither. I simply thought I was having a streak of good dreams.
+
+Kurumi1a:Hold on, doesn't she show up in the dream and do all kinda of stuff for you?
+
+Sakuya5a:Not as far as I know. I didn't even sense any unusual presence.
+
+Koakuma5b:Wait, huh? Isn't that weird?
+
+Koakuma1a:How are the humans supposed to thank her if they don't even know what she's doing?
+
+Komachi0c:Volunteer work, huh? Sounds nice and all, but it contradicts a baku's way of life.
+
+Eiki1a:To a youkai, it's no different from rejecting your own existence.
+
+Eiki4a:Makura Muwatari of all people should understand that.
+
+Shinki5a:What's going on here? Have you heard anything, Mehko?
+
+Meko0b:Uh-uh. I didn't even know she was hiding anything.
+
+Yumeko0a:Perhaps the reason she's seemed depressed is buried somewhere in there.
+
+Yumeko4a:All we can do from here is speculate though.
+
+Komachi0b:We should probably dig around a little before confronting her, though.
+
+Meko1e:You mean like talking to other humans about it or something?
+
+Medicine3a:Then how about we go ask Eirin at Eientei tomorrow?
+
+Meko4c:Why tomorrow?
+
+Medicine3c:'Cause I have a little errand there and Alice is taking me.
+
+Alice0a:True, Eientei must collect a lot of information on the village.
+
+Alice0d:You could come with us if you like, Mehko.
+
+Meko4c:Are you sure? You already did me a favor by letting me stay uninvited.
+
+Shinki0c:There's nothing wrong with a kid getting spoiled now and then. Isn't that right, Alice?
+
+Alice3b:Yeah. I'm also worried about Makura.
+
+Kogasa1a:Then it's settled! I've got some business of my own, so I guess I'll be passing the torch to you Alice!
+
+Sanae4a:I'm sorry, but same here. Good luck, Mehko.
+
+Meko0e:Uh-huh, thanks!
+
+Meko0g:(...Are you really that worried about something, Lady Makura?)
+
+Meko1e:(I don't know if I'll be of any help, but I gotta do what I can!)
+
+<end>
+
+<ChatID:6>----------------------------------------
+//初戦闘：メーコ
+
+Meko0g:Dragged into a danmaku battle as soon as we arrived...
+
+Meko0f:I know Sanae said they were good at bringing people closer, but does a dumb fight like this really count?
+
+Sanae5c:A fight? I mean, that's what I thought at first too.
+
+Kogasa0b:Can't hurt to give a shot, can it? That's what you're here for, after all.
+
+<Code=(icon_set_direction,Meko,Kogasa,0)>
+
+<Code=(icon_set_direction,Meko,Sanae,0)>
+
+Meko1e:Th-That's true!
+
+Meko1e:(It's different from how I imagined it, but it's now or never!)
+
+Meko1f:(This'll be my second time doing danmaku with everyone. I've gotta to get used to it someday, right?)
+
+<end>
+
+<ChatID:7>----------------------------------------
+//初戦闘：アリス
+
+Alice4a:...Sheesh, I wish they'd give me a break.
+
+<Code=(icon_set_direction,Kurumi_en,Alice,0)>
+
+Kurumi3d:You hardly ever get that angry, Alice.
+
+<Code=(icon_set_direction,Elliy_en,Alice,0)>
+
+Elliy1a:Wait, don't people power-up and turn blond when they get angry? Is Blondie gonna get even more blond?!
+
+Alice4b:I just wanted to show off my cute tableware and taste that special tea I've been saving...
+
+Elliy2a:She ignored the gag I put my whole heart into?!
+
+Patchouli0d:That sounds fun. I'm sure we'll get another chance for a quiet tea party.
+
+Alice0d:...You're right. We should focus on the battle for now.
+
+<end>
+
+<ChatID:8>----------------------------------------
+//初戦闘：幽香、メディ
+
+Medicine0c:I wish Yuuka were on our side, Sue.
+
+Yuka1b:I'm sorry Medi, but if I joined you, a certain someone would never forgive me.
+
+Medicine2b:...Shinki, do you not get along with Yuuka?
+
+<Code=(icon_set_direction,Shinki,Medicine,0)>
+
+<Code=(icon_set_direction,Yumeko,Medicine,0)>
+
+Shinki2a:Huh?! It's less that we don't get along, and more that I'm not so sure about her being friends with Alice.
+
+Yuka0d:I don't think Alice would approve of you sticking your nose into her relationships.
+
+<Code=(icon_set_direction,Shinki,Yuka_en,0)>
+
+<Code=(icon_set_direction,Yumeko,Yuka_en,0)>
+
+Shinki2b:Of course she wouldn't mind! She and I get along better than anyone!
+
+Meko4c:...Seems like those two are always fighting.
+
+Sanae0a:They both feel comfortable saying whatever they want to each other. It looks fun to me.
+
+Yuka1b:It certainly is, having someone around worth teasing.
+
+Yuka3b:But I think you'll enjoy this next danmaku just as much.
+
+<end>
+
+<ChatID:9>----------------------------------------
+//初戦闘：神綺、夢子
+
+Shinki0a:Even though it ended up like this, I was so happy to be invited to your houseparty, you know.
+
+Alice4a:...If that's how you see it, then I suppose that's fine.
+
+Koakuma4a:But I can't believe the mistress's invitation even reached Makai.
+
+Yumeko0b:That just goes to show how thorough Lady Shinki's information network is.
+
+Yumeko3a:During the brief break in my morning duties, I visit a street corner to exchange intel with—
+
+Alice1a:That's just gossip!
+
+Patchouli4a:The details of how you caught wind of it aside, I expect you to work hard now that you're on our side.
+
+Shinki2b:Of course. Kids who ruin other people's parties deserve a spanking!
+
+<end>
+
+<ChatID:10>----------------------------------------
+//初戦闘：レミリア・咲夜・小町
+
+<Code=(icon_set_direction,All,Remilia_en,0)>
+
+Remilia1a:Tea parties are nice and all, but nothing relieves boredom like a good old danmaku battle.
+
+Patchouli4a:Good grief, and not a speck of consideration for others...
+
+Patchouli0d:If you're that worried about Flan, you could've just gone to check up on her, you know.
+
+<Code=(icon_set_direction,Remilia_en,Patchouli,0)>
+
+<Code=(icon_set_direction,Remilia_en,Koakuma,0)>
+
+Remilia1c:But then she'd start sulking! That's what Komachi said!
+
+<Code=(icon_set_direction,Komachi_en,Remilia_en,0)>
+
+Komachi3c:I mean, she would. "Do you not trust me, Remi?!"
+
+<Code=(icon_set_direction,Sakuya_en,Remilia_en,0)>
+
+Sakuya5a:Being able to trust her is an important duty of an elder sister, after all.
+
+Alice4a:...And so you came to my place. If you'd just explained that, I would've welcomed you normally.
+
+Remilia5c:But then it'd look like I can't even watch the house on my own.
+
+Kogasa2b:You're such a pain!
+
+Remilia4a:Anyway, my prestige is on the line here! I've got to hijack this houseparty!
+
+<end>
+
+<ChatID:11>----------------------------------------
+//初戦闘：映姫
+
+<Code=(icon_set_direction,Meko,Eiki_en,0)>
+
+Meko4c:So why is even the Yama here...?
+
+Eiki0a:There's no cause for surprise. I'm off-duty this afternoon, so I came to give lectures, as a hobby.
+
+<Code=(icon_set_direction,Kogasa,Eiki_en,0)>
+
+<Code=(icon_set_direction,Sanae,Eiki_en,0)>
+
+Kogasa3c:It's kind of more surprising that that's your hobby...
+
+Yuka0e:Your lecture tour aside, isn't it rare of you to take part in frivolous things like this?
+
+Eiki3c:It's because after seeing all those freshly baked sweets laid out, now I have to wait?
+
+Eiki0a:But a little exercise should be a nice diversion.
+
+<end>
+
+<ChatID:12>----------------------------------------
+//初戦闘：サニー、ルナ、スター
+
+Star3a:A danmaku battle at Alice's house... Somehow I'm getting deja vu.
+
+Sunny5a:Wait, you mean our old adventure at the doll mansion?!
+
+Luna3b:Oh right, that. Back then, we lied about being youkai...
+
+Luna4b:...Come to think of it, I feel like that should never have worked.
+
+Star4b:But Alice was just too nice and believed us.
+
+<Code=(icon_set_direction,Medicine,Sunny_en,0)>
+
+<Code=(icon_set_direction,Alice,Sunny_en,0)>
+
+Alice1b:...Hey, what are you three talking about?
+
+Sunny4c:Ah, nothing! Nothing at all!
+
+Sunny2a:Fairy army! Now that it's come to this, let's win the battle and take all the cookies!
+
+<end>
+
+<ChatID:13>----------------------------------------
+//初戦闘：早苗さん、小傘
+
+Sanae0f:This battle was supposed to be a tea party...
+
+Kogasa0c:Surprise!
+
+Sanae5d:...You know, I really appreciate your positive attitude at times like these.
+
+Sanae6e:Still, she said the tea party would come later, so let's take care of things here first!
+
+Kogasa3d:You got it!
+
+<end>
+
+<ChatID:14>----------------------------------------
+//EX条件達成
+
+Meko0b:Phew...
+
+Kogasa0c:Not bad, Mehko!
+
+Meko0a:I somehow managed to help everyone...
+
+Sanae4a:That's the spirit! Why don't you surprise them with how much you've grown?
+
+<end>
+

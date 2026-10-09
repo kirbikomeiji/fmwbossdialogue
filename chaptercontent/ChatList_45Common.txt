@@ -1,0 +1,2307 @@
+﻿○共通第四十五話「見上げた先の空
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: 1EP
+ 4: 3PP
+ 5: first battle vs. Orin
+ 6: first battle vs. Oku
+ 7: beat Oku
+ 8: beat Orin
+ 9: ADVB
+10: lose
+11-25: battle vs. Orin
+26-36: battle vs. UtsuhoBB
+37: battle (Youmu)
+38-41: missing chats
+42: beat Orin (before player ally)
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<MAP=7,FROM=博麗神社,TO=博麗神社,name=Hakurei Shrine,icon=1>
+
+<BG=*bg_talk_Shrine_Fall.png,fade=1,color=1,title=*bg_Shrine,bgm=bgm_talk_gag>
+
+<SE=se_talk_run.ogg,wait=1>
+
+Cirno3a:Tag! You're it now, Luna.
+
+Luna1a:H-Hey! No fair, why are you only going after me?!
+
+Luna4c:There's no way I can catch someone like Wriggle or Chen...
+
+Sunny3b:Still, trying's the point of the game!
+
+Wriggle3c:Maybe we should play kick the can or hide-and-seek instead?
+
+Mystia3b:I'm kinda tired of all the stuff we normally do! Let's find something else.
+
+<single>
+
+Reimu3a:*sigh* The weather's gotten chilly, but they're still as energetic as ever.
+
+</single>
+
+Alice0c:Aren't children supposed to be like that? I'd be more worried if they weren't.
+
+Marisa0a:How about we follow their lead and go do something ourselves?
+
+Marisa7c:It's mid-autumn, so how about we go do some leaf-peeping on Youkai Mountain?
+
+Sanae4a:I like that idea! I could show you a nice spot for it, too.
+
+Nitori1a:You know, we'd have never been able to all meet up like this last fall. 
+
+Youmu3b:Did I ever even leave the Netherworld back then?
+
+Alice0d:Now that you mention it, it must've been a while since you've had the chance to relax like this, Youmu.
+
+Youmu4a:Yes, I don't normally get many opportunities to in the Netherworld.
+
+Youmu4b:I came here to go shopping in the village today, so I stopped by to pay a visit.
+
+Reimu0e:So how about we go see some of the others later?
+
+Reimu0g:The folks at Eientei must be pretty bored now that the exhibition's over.
+
+Youmu4a:Good idea. I don't have any plans for this afternoon.
+
+Youmu0a:By the way, how have Remilia and Flandre been doing after that whole thing?
+
+Sanae0a:I caught a glimpse of them taking a walk together near the mansion.
+
+Sanae0d:It looks like Remilia kept her promise to take her outside.
+
+Marisa7c:Before you know it, they'll be strolling up to the shrine and pestering you for tea.
+
+Reimu5c:Come on, it's broad dayligh―
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+Remilia3a:Vampires these days are active during the daylight too, you know.
+
+Sakuya6a:Only being awake at night is so last century.
+
+Reimu2b:Ugh, that'll teach us to speak of the devil.
+
+Youmu4b:And isn't that...?
+
+Flan3i:Oh, it's not just Marisa and her friends, the fairies are here too.
+
+Sunny0a:Ooh, Flandre?!
+
+Daiyosei4a:Are you going to be okay out in the middle of the day, Flan?
+
+Flan3b:Uh-huh, they said I can go out in the day since I've gotten some practice at it.
+
+Flan3d:I bet everybody's jealous of our matching parasols!
+
+Meiling0a:Don't horse around too much, Lady Flan. Be careful of the sunlight.
+
+Patchouli4c:Even a little stumble would make Remi worry.
+
+Alice0d:Remilia and Flandre seem like they've been getting along after what happened earlier.
+
+Sakuya0a:Indeed. Lately they've been doing everything together.
+
+Sakuya6b:Seeing them sleep together in the matching clothes... It's all very, VERY adorable.
+
+Marisa4c:You don't really need to put so much stress on that point.
+
+Reimu0d:So, what brings you here today? It better not be throwing a party at my place.
+
+Remilia1e:I did consider that, but that's not why we're here.
+
+Remilia3c:How would you ladies like to visit the moon?
+
+Daiyosei2c:Huh? The moon?
+
+Rumia0a:The same moon we just got back?
+
+Patchouli4a:Correct. Telling Flan about the incident piqued her curiosity.
+
+Patchouli0a:Remi's thoroughly transfixed by the idea herself, so we're looking for a method of traveling to the moon.
+
+Marisa1c:A trip to the moon? You keep coming up with these crazy ideas.
+
+Reimu4a:Just the kind of lunatic plan I'd expect out of you.
+
+Remilia1c:Oh, shut up. If the Lunarians can come and go from the moon, then I can too.
+
+Sunny5a:But if we can really go, that sounds super fun!
+
+Sunny1a:We could pick up moon rocks, or prank the bunnies doing their mochi pounding, or all sorts of things! 
+
+Star3d:The pranking scene here has gotten really stale lately. We could really shake things up with this!
+
+Remilia3b:Yeah, exactly! You girls get it! More than Reimu does anyway.
+
+Remilia3d:If you help out our investigation, I don't mind taking you along.
+
+Wriggle3d:Really? Awesome!
+
+Cirno5a:If that's all, we gotta go get ready!
+
+Sanae1d:H-Hold on here! Is it really that easy to get to the moon?
+
+Sanae3b:Even in the Outside World, you'd need cutting-edge technology and facilities...
+
+Patchouli0a:Naturally, I've already calculated what we'll need, based on various reference books.
+
+Patchouli0d:Firstly, a rocket engine, and that'll require liquid fuel.
+
+Flan3i:And what was it after that...? Armstrong?
+
+Remilia3d:Yes, strong arms. I'm sure we can find some of those around here.
+
+Alice4a:...I'm not sure how serious you're being right now.
+
+Nitori1d:Sounds interesting, but I think we'd need a bit more information.
+
+Marisa0c:It's a wild idea, but what could be more adventurous than going to the moon?
+
+Marisa0a:Heck yeah, I'm in.
+
+Flan3f:Really, Marisa?! Hooray!
+
+Sunny5a:It might go without saying, but we'll help out too!
+
+Cirno1a:So first we just have to find all that amazing stuff?
+
+Wriggle1c:I should be able to gather information with my bugs!
+
+Chen0b:Then I'll go ask the cats! 
+
+Remilia1e:...Hm, they don't seem very useful, but we can fit a few more people.
+
+Remilia0a:Alright. Flan and I will design the interior of the vessel, and we'll leave the research to you.
+
+Reimu3a:It's your idea, and you're not even helping out?
+
+Sakuya0a:It's midday, so the mistresses shouldn't push themselves.
+
+Remilia3a:In exchange, you can rely on our resident intellectual.
+
+Patchouli0a:Now that we have so many people, why don't we divide the labor and start our inquiries?
+
+Marisa0a:Sounds good. We'll head over to Kourin's and look for books from the Outside World or something.
+
+Marisa0c:Since you're already out and about, why don't you come with us, Patchouli, Sakuya? 
+
+Sakuya6a:Understood. Reimu, could you and another group see what you can find at Akyu's house?
+
+Sanae5c:Reimu, while we may have been dragged into this―
+
+Reimu3a:Okay, okay. Sheesh, not like I have a choice.
+
+Youmu4a:I have to bring the things I bought back to the Netherworld, but I'll look into it once I'm there.
+
+Patchouli0a:Very well, let's regroup at the base of Youkai Mountain right after noon.
+
+<MAP=7,FROM=妖怪の山下部,TO=妖怪の山下部,name=Youkai Mountain,icon=1>
+
+<BG=*bg_talk_Mountain_River.png,fade=1,color=1,title=*bg_Mountain_Entrance,bgm=bgm_talk_aoki>
+
+<SE=se_talk_walk_outdoor01.ogg,wait=1>
+
+Chen4b:Phew, we've been at this the whole morning...
+
+Cirno0a:So did any of you find anything cool yet?
+
+Luna3a:Yeah, I picked up some rocks that look kinda like the moon. Does that help? 
+
+Wriggle0a:My friends told me no bug has ever flown to the moon.
+
+Mystia1b:What were we looking for again...?
+
+Nazrin6b:Geez, you guys have lost the plot yet again.
+
+Daiyosei3b:Sorry for making you come here for this, Nazrin...
+
+Nazrin3b:I don't mind. Once we figure out what we're looking for, we should see smoother progress.
+
+Sho3c:Reimu and the others should be here soon, so if we just wait for them―
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+Meiling5a:Hello there!
+
+Marisa0a:Wow, you've got the Buddhists in on this? Smart move.
+
+Star3c:Greetings, everybody. Over there is...
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+Reimu0f:Oh, good, we're all here now.
+
+Keine0a:So this is the group that wants to visit the moon?
+
+Sunny5a:Ooh, everyone's showing up at once. Other than Youmu anyway.
+
+Sunny0d:Wait a minute, you're going to help us too, Keine?!
+
+Keine3a:I couldn't believe my ears when I heard what you were planning, but I doubt you'll call this off on just my advice.
+
+Keine0a:And in that case, I can't very well leave you unaccompanied. Someone's got to be your chaperone.
+
+Alice0c:How like you. Though honestly I was thinking the same thing.
+
+Luna0a:So anyway, we had no luck on our end, but how did it go for everyone else?
+
+Reimu0f:Well, the human village didn't know anything useful.
+
+Sanae3b:We could visit my place if you like, but we don't have any technical books like that.
+
+Wriggle3b:Well, what about Marisa's group then?
+
+Marisa6a:Yeah, we went to Kourin's and we got a pretty big haul there.
+
+Marisa0a:We borrowed some books about the Outside World, a model rocket, and some space food.
+
+Rumia1a:Oooh, now we're getting closer.
+
+Patchouli3a:In particular, the books contained an important hint.
+
+Patchouli1d:It seems we need to find a three-staged cylinder.
+
+Mystia0c:Three-what?
+
+Koakuma3b:Apparently, the Outside World calls it a "three-stage rocket".
+
+Koakuma3d:So, in order to reach the moon, we need the propulsion of a three-staged tube.
+
+Sanae3a:I'm pretty sure the propulsion comes from the engine...
+
+Nitori4b:Nah. It may be a rocket, but if WE'RE going to build it then it'll be a Gensokyo-style rocket.
+
+Nitori1a:So my logic goes that we should be able to supplement its propulsion with the power of fantasy.
+
+Sanae6b:Oh, wow. I wasn't thinking of it that way...
+
+Marisa0b:That said, we've got no idea how we're gonna make this tube thing go.
+
+Marisa0a:Though if we're in a hurry, we could always just ask the folks over at Eientei.
+
+Sho0c:But would it really be a good idea to talk about this idea with them?
+
+Sho4a:They're on the run from the moon, so I'm sure they'd be against this. 
+
+Mystia0c:Well, it's not like we have anything to lose if they say no, right? We've got nothing else to go on right now.
+
+Nitori4b:That's true, we might as well try.
+
+<MAP=7,FROM=永遠亭,TO=永遠亭,name=Eientei,icon=1>
+
+<BG=*bg_talk_Eientei_Hallway.png,fade=0,color=1,title=*bg_Eientei,bgm=bgm_talk_aoki>
+
+Eirin4a:...I see, so you're requesting that I lend you my wisdom.
+
+Patchouli0a:Yes. Although whether we can implement your ideas or not is another matter.
+
+UsagiR2c:We couldn't possibly tell you how to get to the moon.
+
+Udonge1c:If you provoke the Lunarians, their emissaries might really come next time.
+
+Sunny3a:Yeah, I figured it'd end up like this...
+
+Marisa0e:But couldn't we just make a quick visit and head right back home?
+
+Marisa0b:If we don't stick around, wouldn't they just let it slide? 
+
+Udonge1c:You don't know that.
+
+UsagiR0a:Plus, I wouldn't be able to help you anyway.
+
+UsagiR0b:My Lunar Veil broke when I landed on the earth.
+
+Reimu0f:What's a Lunar Veil?
+
+Eirin0a:They're devices used to travel between the Earth and the moon.
+
+Eirin0d:Hers was damaged when she arrived. It can't lift even a single person now. 
+
+Nitori3e:Well, why not let us take a look at it, just for reference?
+
+UsagiR2c:No way that's happening! You might be able to fix the thing!
+
+Eirin1c:...
+
+Sakuya5b:Regardless, we can understand your objections to this trip.
+
+Sakuya0a:However, since this is the mistress's wish, I cannot give up on it that easily.
+
+Keine3b:Considering your situation here at Eientei, I suppose this was inevitable.
+
+Reimu4a:Well that's that. I hate to cut and run, but we'll be going now.
+
+Udonge0a:Yup. Seeya. Glad we had this talk.
+
+<SE=se_talk_walk_indoor02.ogg,wait=1>
+
+<single>
+
+UsagiR0a:The humans looked so disappointed. We could have been a little nicer to them...
+
+</single>
+
+Udonge1c:We don't have a choice. If the emissaries discovered our position, it wouldn't end well.
+
+Eirin4a:Yes, it's unfortunate but our only option is to make them give up on this.
+
+Eirin1c:We can't afford even the slightest chance of them discovering our whereabouts.
+
+UsagiR0a:Right. Even if Lady Watatsuki has yet to send a punitive expedition, that doesn't mean she won't.
+
+Udonge0a:Yes, of course, Lady Watatsuki―
+
+Udonge2b:Wait, WATATSUKI?!
+
+Eirin2a:Are you saying that the current leader of the emissaries is a Watatsuki?!
+
+UsagiR0b:Um, yes? Both Lady Toyohime and Lady Yorihime are in charge now.
+
+UsagiR1a:They were appointed relatively recently though.
+
+Udonge2b:No way... I can't believe the Watatsuki sisters ended up in power...
+
+Eirin2a:This possibility never even crossed my mind.
+
+UsagiR0b:So I guess you know them then?
+
+Eirin0b:...Indeed. Both Toyohime and Yorihime were my students when I lived on the moon.
+
+Eirin0a:Before I left, I'd had my eye on them as my potential successors. 
+
+UsagiR2c:Whaaat?! That's the first us rabbits have ever heard about this!
+
+Udonge5b:No kidding. Back when I was there, all I heard was ugly gossip.
+
+Eirin1c:Well, of course they wouldn't publicize their connections to a major criminal.
+
+UsagiR0b:Ahh, so that's why...
+
+Eirin0b:Still, it's quite the surprise to hear those two ended up in charge.
+
+Eirin4a:After what happened with me, that couldn't have been an easy path for them.
+
+UsagiR1a:...I still don't know all the details, but I think I get it now.
+
+UsagiR0d:It's entirely possible they've been not sending any punishment squads on purpose!
+
+Udonge4c:You think it was intentional?
+
+UsagiR0c:Yeah. Lady Yagokoro's their teacher, right?
+
+UsagiR0d:So, I bet they're protecting her.
+
+Eirin2a:That couldn't possibly...
+
+Eirin0d:...
+
+UsagiR0b:...Um, Lady Yagokoro?
+
+Eirin4a:...I'll need to take some time to rethink matters.
+
+Eirin0a:I'd like to be alone. Go keep an eye on the humans.
+
+UsagiR0b:Why's being alone so important?
+
+Eirin0e:I'll explain later. For now, carry out my instructions.
+
+Udonge1b:U-Understood! I'll begin tailing them immediately for surveillance.
+
+UsagiR2c:Reisen, she didn't say we needed to hop to it or anything! Slow down!
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+Eirin1c:...
+
+Eirin4a:(If my current conjecture is correct, then the lack of emissaries is a favor from the Watatsuki sisters.)
+
+Eirin0d:(After all, with their powers, they'd certainly be able to find us whenever they wanted...)
+
+Eirin1c:(...It might even be possible to communicate with them.)
+
+Eirin0d:(For the method of contact...)
+
+</single>
+
+<MAP=7,FROM=永遠亭,TO=迷いの竹林,name=Bamboo Thicket,icon=1>
+
+<BG=*bg_talk_Bamboo.png,fade=1,color=1,title=*bg_Bamboo,bgm=bgm_talk_ningyo>
+
+Luna4a:We should've known that the Eientei people would say no.
+
+Sho4a:It's perfectly reasonable of them to not want us to interfere with the moon.
+
+Marisa0e:Going back emptyhanded would be kinda frustrating, so let's keep looking for something to propel the rocket.
+
+Daiyosei0a:...The power of a three-staged tube, right? That's what Patchouli said.
+
+Sunny3b:I don't think we'll ever understand that, so let's just wait for Youmu to get back and...
+
+Sunny6b:...Hm?
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+Udonge4a:Why are you people still here? 
+
+UsagiR0a:No matter what you try, you'll never get to the moon with Earth technology.
+
+Marisa1b:Oh, it's you two, huh? What, did you come here to laugh at us?
+
+Udonge0a:No, we're just here to observe you.
+
+Udonge4d:The master wanted to think about something too.
+
+Chen3d:What would she have left to think about after we already left?
+
+UsagiR0b:Hmm, I'm not sure. All she said was to give her some time alone.
+
+Udonge3b:Well, it's best to stay away from her in times like these.
+
+Udonge3a:You don't even want to know what'll happen to you if you interrupt her.
+
+Nazrin6a:I see. Well, if that's all then we don't mind, but―
+
+Nazrin0b:...Hm?
+
+Nazrin0a:...Hm?
+
+Sho0b:What is it, Nazrin?
+
+Nazrin0a:Ah, well, I'm picking up something rare. Not sure what it is, though.
+
+Nazrin0b:The readings are bouncing all over the place, so I can't quite pin down its location...
+
+Marisa0d:You think whatever's bouncing around might be what we're looking for?
+
+Udonge0a:...I'm picking up some wavelengths too. It seems to be about the size of some kind of animal.
+
+Udonge1c:It feels different from any of the youkai around there though. 
+
+Sakuya5a:A rare animal, strange wavelengths... You've piqued my curiosity.
+
+Reimu1a:Yeah, let's go check it out!
+
+<MAP=7,FROM=迷いの竹林,TO=人里への森,name=Forest,icon=1>
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP（出撃前）
+
+Onryo0a:...
+
+Orin0c:Got it, so this place is a bust too?
+
+<Code=(icon_set_direction,UtsuhoB_en,Orin_en,0)>
+
+UtsuhoB2c:No luck finding Miss Koishi, Orin?
+
+Orin5a:Yeah. I was planning to look in some more out-of-the-way places, but...
+
+Orin0c:We stand out too much, so we shouldn't stay here too long. Let's go home, Okuu.
+
+UtsuhoB0a:Aw, but there's tons more places we can look.
+
+UtsuhoB0a:Isn't it a whole new world up on the surface?
+
+Orin0b:You idiot, do you know how much trouble we'll get in if the surface dwellers find us?
+
+Orin5c:What, you want to go sightseeing or something?
+
+UtsuhoB0a:Well, this is my first time up here, so I AM a little interested.
+
+<nomove>
+
+UtsuhoB2c:...But this is the place that chased out Miss Satori and Miss Koishi.
+
+UtsuhoB2c:I could never love a place like this...
+
+</nomove>
+
+Orin5a:...Yeah, agreed.
+
+Orin0a:Let's just look a bit more and then head home. We don't want Miss Satori to hear about this eith―
+
+Orin1f:...!
+
+UtsuhoB0a:Orin, what's wrong?
+
+Orin1b:Something's coming!
+
+<Code=(icon_set_direction,All_en,FD_RIGHT,0)>
+
+<end>
+
+<ChatID:2>----------------------------------------
+//1PP（配置後）
+
+Nazrin0b:Okay, this is about where the rare readings were coming fro―
+
+Marisa1a:Hey, it's them!
+
+UtsuhoB1a:...?!
+
+Orin1b:Oh no, of all people, it had to be them?!
+
+Alice1a:Those are Underworld youkai! What are they doing here?!
+
+<nomove>
+
+<Code=(cursor_jump,400,160,1)>
+
+Udonge4b:So you know those two?
+
+</nomove>
+
+Marisa2b:Yeah, I got a dose of Underworld hospitality from those two a while back.
+
+Marisa3a:They're the minions of a real pain of a youkai named Satori.
+
+Keine1a:What are you doing on the surface?
+
+Keine1a:I thought there was an inviolable agreement between the surface and the Underworld.
+
+Orin3a:Tch, not happy to say this, but just this once, the odds are against us...
+
+Orin0a:Now, now, ladies, why don't you just pretend you never saw anything?
+
+Orin6a:I mean, didn't you sneak into the Underworld before too?
+
+Meiling1b:That may be true, but we can't just ignore what we saw.
+
+Sho1c:But what did you come up here for? Why would you violate the ban?
+
+Orin0a:...Blech. It would have been better for all of us, you included, if you'd just looked the other way.
+
+UtsuhoB1a:Orin, what are we supposed to do about them?
+
+Orin1b:Isn't it obvious? We can't leave behind any evidence!
+
+<pause>
+
+Sunny3a:Gah, are these all vengeful spirits?!
+
+Daiyosei2c:There's so many of them! Where did they come from?
+
+Orin1d:Listen up, Okuu. They look like they've got some real hotshots in that crowd.
+
+Orin0a:Me and the spirits will fight 'em, while you―
+
+UtsuhoB1a:No, I'll fight too!
+
+Orin1f:Huh? You're no match for them!
+
+UtsuhoB0a:But didn't Miss Satori look pretty stressed out back around springtime?
+
+UtsuhoB1a:I feel like it was right after these girls came to the Underworld!
+
+Orin5a:Oh for the love of―Why do you only remember the weirdest things...?
+
+Orin0a:Fine, do whatever you want, but fall back if things get too crazy out there.
+
+<end>
+
+<ChatID:3>----------------------------------------
+//2PP
+
+Chen3d:It sounds like that other bakeneko came from the Underworld.
+
+Wriggle0b:Yeah, though I have no idea what this Underworld thing IS.
+
+Patchouli0a:...Hm, as I suspected, the younger youkai don't know anything about it.
+
+Sunny3b:We three only know about it because Yukari really chewed us out over that trip.
+
+Keine0c:Listen, the Underworld is an underground world that was closed off from Gensokyo.
+
+Keine1a:There's an agreement between the surface and the Underworld that people will never travel between them.
+
+<nomove>
+
+<Code=(cursor_jump,400,160,1)>
+
+Udonge4a:Never?
+
+</nomove>
+
+Alice0c:The Underworld is a place where unmanageably dangerous youkai reside.
+
+Alice0a:The Sages determined that this segregation was the best way for us to coexist.
+
+<nomove>
+
+<Code=(cursor_jump,400,160,1)>
+
+Udonge4b:...I see, I think I get it now.
+
+Udonge0a:I thought their wavelengths felt more dangerous than yours.
+
+</nomove>
+
+Mystia0a:Hey, why don't you stop trashing us like that and just come help us out?
+
+<nomove>
+
+<Code=(cursor_jump,416,144,1)>
+
+UsagiR2c:Th-That's right, Reisen. We're surrounded too...!
+
+<Code=(cursor_jump,400,160,0)>
+
+Udonge1c:No need to be so jumpy, they're only will-o-wisps.
+
+Udonge4a:Well, there's only one thing to do.
+
+<Code=(cursor_jump,416,144,0)>
+
+UsagiR0b:Uh, what would that be?
+
+<Code=(cursor_jump,400,160,0)>
+
+Udonge1b:We fight fire with fire!
+
+<pause>
+
+UtsuhoB1a:Look over there!
+
+Orin1f:Another youkai...?! We're being ambushed!
+
+Sho0a:Oh, you're lending us a hand, Reisen?
+
+Udonge1c:Don't get me wrong, I'm not here to make friends.
+
+Udonge4a:But I'm not gonna sit back and watch you get encircled and defeated either.
+
+Udonge1b:Come at me from whatever angle you'd like, I'll still shoot you down!
+
+<end>
+
+<ChatID:4>----------------------------------------
+//3PP
+
+<Cond=(FIND_UNIT,UtsuhoB_en,enemy,!=,-1)>
+
+UtsuhoB2c:...Orin, they're pretty strong.
+
+Orin5a:Yeah. We might not be able to handle this alone...
+
+</Cond>
+
+<Cond=(FIND_UNIT,UtsuhoB_en,enemy,==,-1)>
+
+Orin5a:Yeah. I might not be able to handle this alone...
+
+</Cond>
+
+Orin0c:I need to gather a few more spirits, or this could turn ugly.
+
+<pause>
+
+Meiling1a:Wha―Even more vengeful spirits?!
+
+Sakuya0b:How odd. I had thought vengeful spirits were just animated grudges.
+
+Sakuya5b:How is it she can direct them to her own ends?
+
+Alice1a:I've no doubt that that cat youkai has the power to control spirits.
+
+Sunny3a:Gah, so there's a youkai who can do that too?
+
+Orin0c:People on the surface wouldn't know the first thing about these guys.
+
+Orin0a:You're just prejudiced. Vengefulness is an emotion like any other. They can play nice when you talk with 'em.
+
+Keine1a:Such a sinister power... Just what I'd expect from an Underworld youkai!
+
+Star1c:But we'll be fine. Our side is still way stronger―
+
+<hide=all>
+
+<Code=(cursor_jump,496,336,1)>
+
+Youmu1c:I'll cut my way through your hatred!
+
+</hide>
+
+<pause>
+
+Merlin1b:We found the source of that unhappy sound!
+
+Lunasa0b:It's not every day that we get a chance to play for vengeful spirits instead of ghosts.
+
+Orin3a:There's more of them?!
+
+Sunny0a:Nice, it's Youmu and the Prismrivers!
+
+Keine0a:Good work finding us, Youmu.
+
+Youmu4a:Yes, I did some research in Hakugyokuro and came back with the Prismrivers.
+
+Lyrica1a:We sensed some strange noise and came to take a look.
+
+Merlin2a:I see some new faces in the audience, but I get the feeling they're not new friends.
+
+Orin1f:...I should've expected this from enemy territory, huh? This is just getting worse and worse.
+
+<Cond=(FIND_UNIT,UtsuhoB_en,enemy,!=,-1)>
+
+<Code=(icon_set_direction,UtsuhoB_en,FD_RIGHT,0)>
+
+UtsuhoB2c:I wish I could help...
+
+UtsuhoB1a:Oh hey, I can! I'm gonna call on my Hell Crows!
+
+Marisa1a:Wait, you can do that?
+
+Orin1f:We're on the surface, Okuu. Is that really gonna work?
+
+UtsuhoB0a:Don't worry, even I'm pretty strong for a crow. 
+
+UtsuhoB1a:Come forth, Hell Crows!!!
+
+UtsuhoB1a:...
+
+<Code=(icon_set_direction,UtsuhoB_en,FD_LEFT,0)>
+
+<Code=(demo_wait,20)>
+
+<Code=(icon_set_direction,UtsuhoB_en,FD_RIGHT,0)>
+
+<Code=(demo_wait,10)>
+
+<Code=(icon_set_direction,UtsuhoB_en,FD_LEFT,0)>
+
+<Code=(demo_wait,5)>
+
+<Code=(icon_set_direction,UtsuhoB_en,FD_RIGHT,0)>
+
+<Code=(demo_wait,5)>
+
+<Code=(icon_set_direction,UtsuhoB_en,FD_LEFT,0)>
+
+<Code=(demo_wait,45)>
+
+Orin0a:...
+
+<Code=(icon_set_direction,UtsuhoB_en,FD_RIGHT,0)>
+
+UtsuhoB1a:I mean, uh... Come over here! I'll fight you myself!
+
+Orin2a:*sigh* What am I gonna do with her?
+
+</Cond>
+
+<end>
+
+<ChatID:5>----------------------------------------
+//お燐初戦闘
+
+Orin0c:You really aren't gonna look the other way on this, huh?
+
+Keine1a:Of course not. Coming to the surface isn't something we view charitably.
+
+Marisa0d:What exactly are you girls up here for anyway?
+
+Marisa3a:Don't tell me Satori has you up to no good.
+
+Orin3a:No! This has nothing to do with Miss Satori!
+
+Alice0a:It doesn't?
+
+Orin1d:If you'd just pretended not to recognize us, we'd be home by now.
+
+Orin5a:If we cause a scene in a place like this...
+
+Alice2c:What's going on? Are you saying you came up here independently?
+
+Orin1d:I have nothing else to say to a surface dweller.
+
+Orin1f:We'll just have to beat you up so you can't report this to the Sage!
+
+<end>
+
+<ChatID:6>----------------------------------------
+//空初戦闘
+
+Reimu0e:I feel like I've seen this girl somewhere before...
+
+Sanae0b:You're right, didn't we catch a glimpse of her when we went to dig out the Palanquin Ship?
+
+UtsuhoB0a:Unyu? But I don't know any of you.
+
+Sanae5d:Looks like she doesn't remember us though.
+
+Mystia1b:Birdbrain... Three steps away from a sparrow's favor... 
+
+Sakuya5b:But if she's an Underworld crow, then we can't let our guard down around her.
+
+Sakuya0a:I get the feeling that she's more gluttonous than a surface crow.
+
+UtsuhoB2c:You're all being so mean...
+
+UtsuhoB1a:...Oh wait, I remember! You're the ones who came to the Underworld and gave Satori a hard time!
+
+UtsuhoB1a:I'm gonna pay you back for that!
+
+<end>
+
+<ChatID:7>----------------------------------------
+//空撃破
+
+UtsuhoB2a:So much for that...
+
+Wriggle0c:Huh? Is that it? She wasn't very strong, was she?
+
+Luna0b:I guess even Underworld youkai have their weaklings.
+
+Sunny4a:It feels like even us fairies could take her on a bad day.
+
+Orin3a:Okuu! I told you you'd be no match for them...
+
+Orin1b:You head back first and leave the rest to me.
+
+UtsuhoB2a:*sniffle* I'm sorry...
+
+<end>
+
+<ChatID:8>----------------------------------------
+//お燐撃破
+
+<Cond=(CHECK_FLAG,C45_UTSUHO,==,1)>
+
+Orin2a:Ugh, you got me too?!
+
+</Cond>
+
+<Cond=(CHECK_FLAG,C45_UTSUHO,==,0)>
+
+Orin2a:Ugh, you got me?!
+
+</Cond>
+
+Reimu0g:Phew. You were a pain, but that turned out alright.
+
+Sakuya0a:Now, you'd better turn yourself in.
+
+Orin2c:...What a mess. I can't believe we got ganged up on and beaten down on the surface.
+
+Orin5a:If we cause even more trouble for Miss Satori, then what was the point of all this?
+
+Mystia1a:Is she actually giving up?
+
+<Cond=(CHECK_FLAG,C45_UTSUHO,==,1)>
+
+<nomove>
+
+<Code=(cursor_jump,288,400,1)>
+
+UtsuhoB1a:Orin!
+
+</Cond>
+
+<Cond=(CHECK_FLAG,C45_UTSUHO,==,0)>
+
+UtsuhoB1a:Orin!
+
+</Cond>
+
+<pause>
+
+<Code=(icon_set_direction,Orin_en,UtsuhoB_en,0)>
+
+<Code=(icon_set_direction,UtsuhoB_en,Orin_en,0)>
+
+Keine1a:What's she doing?!
+
+<Cond=(CHECK_FLAG,C45_UTSUHO,==,1)>
+
+Orin3a:You idiot, Okuu. I thought I told you to get out of here!
+
+</Cond>
+
+<Cond=(CHECK_FLAG,C45_UTSUHO,==,0)>
+
+Orin3a:You idiot, Okuu. You should've escaped by yourself!
+
+</Cond>
+
+<Code=(icon_set_direction,UtsuhoB_en,FD_RIGHT,0)>
+
+UtsuhoB0e:I-If you're going to capture Orin, then you'll have to take me down too.
+
+UtsuhoB2a:So please, just let us go this time!
+
+Udonge3a:We're seriously supposed to just let you go?
+
+Sanae3a:Do you understand what you're asking? Your side made a promise not to come to the surface.
+
+Sanae3a:Both of you should already know that...
+
+UtsuhoB2c:But if I just leave things as they are, aren't you going to tell Miss Satori what happened?
+
+UtsuhoB2c:Plus, I don't wanna see you take Orin away...
+
+Nazrin6a:...Well, this is a bind. Never thought we'd have anyone honestly begging us for forgiveness.
+
+Sho4a:It's hard to take a firm hand when someone shows actual remorse.
+
+Alice2c:Then can you tell us why you came to the surface?
+
+Orin3a:...!
+
+Alice4a:It's true that we were at fault when we stumbled into the Underworld earlier.
+
+Alice0a:But reprisals do nothing but escalate conflict, right?
+
+Orin5a:...Yeah. We didn't come up here for payback or anything.
+
+Orin5a:We were just trying to do something for Miss Satori.
+
+Daiyosei2c:Huh?
+
+<pause>
+
+Lyrica1c:Ack! They caught us while we were distracted!
+
+<Code=(icon_set_direction,Orin_en,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,UtsuhoB_en,FD_RIGHT,0)>
+
+Orin1d:...We'll never come up to the surface again. If you still won't forgive us, then let one of those spirits around here know.
+
+Orin1f:If you do, I'll come up and take responsibility myself. All I ask is that you don't go spreading this around.
+
+Reimu1a:Hey, you can't just decide that on your own.
+
+Orin0c:I've said what I had to say. Let's go, Okuu.
+
+UtsuhoB1e:Yeah, let's get out of here!
+
+<Code=(icon_set_direction,Orin_en,FD_LEFT,0)>
+
+<Code=(icon_set_direction,UtsuhoB_en,FD_LEFT,0)>
+
+<pause>
+
+Star4a:...Whoops, they got away.
+
+Youmu2b:They're probably limping away. Are you sure we don't want to chase them?
+
+Reimu4a:Just leave them alone. No need to go leaving a sour taste in my mouth.
+
+Reimu3a:We were supposed to be looking into the rocket thing anyway. Ugh, this just got tedious.
+
+Marisa0e:No kidding. If Yukari heard we threw down with some Underworld youkai, just imagine what she'd say...
+
+<nomove>
+
+<hide=all>
+
+<Code=(cursor_jump,352,144,1)>
+
+Yukari1a:My, you know me so well.
+
+</hide>
+
+<pause>
+
+Marisa4d:...!
+
+Sanae0f:Yukari!
+
+Yukari0a:I thought I sensed an unpleasant aura, and sure enough, there were Underworld youkai.
+
+Yukari0b:Now, why don't we have a nice relaxing chat? You can tell me all about everything that happened today.
+
+<end>
+
+<ChatID:9>----------------------------------------
+//ADVB
+
+<MAP=7,FROM=人里への森,TO=人里への森,name=Forest,icon=1>
+
+<BG=*bg_talk_Road_Fall.png,fade=0,color=1,title=*bg_Road,bgm=bgm_talk_ningyo>
+
+Sunny4a:Whew, that was an unexpected workout. 
+
+Koakuma4a:We came here for information about the moon, and ended up in a fight with Underworld youkai... 
+
+Yukari0b:My apologies if you're exhausted, but I'd like to hear about this sooner rather than later.
+
+Reimu4a:Yeah, yeah. Here's the gist of it...
+
+Reimu0f:An Underworld bakeneko and youkai crow were hanging out over there.
+
+Reimu4a:They picked a fight, so I just gave 'em the typical extermination treatment.
+
+Rumia1a:The cat was tough, but the crow was a pushover.
+
+Ran6b:Hm, so that was the scope of the disturbance. 
+
+Yukari0b:But why could they have come to the surface?
+
+Yukari0a:Given the agreement, it's difficult to imagine that it was merely an accident. 
+
+Mystia4a:They kinda tiptoed around the exact reason...
+
+Wriggle0b:We at least know that they didn't want anyone to find out about this.
+
+Ran6b:They were keeping it secret?
+
+Alice0c:Yes, it sounded like they'd been planning to head home if we hadn't met them.
+
+Alice0a:Even as they were running away, they begged us not to tell their master.... 
+
+Nitori1d:They did say it has nothing to do with Satori.
+
+Ran6c:I see. Once again this pivots around Satori Komeiji...
+
+Yukari0b:The same as ever, I see. A youkai with no shortage of disturbances.
+
+Marisa4d:So I guess you know her then?
+
+Yukari0a:Yes, she's someone I meet for diplomatic matters.
+
+Yukari1a:She's taken on the job of being an overseer in the Underworld.
+
+Sho0b:So are you going to speak with her directly about this matter?
+
+Sho0c:Because as far as I could tell, those two didn't intend any ill toward the surface...
+
+Yukari0b:Good question. Normally this would be a clear-cut decision...
+
+Yukari1a:But in this case, I'll continue to observe things a bit longer. 
+
+Sunny5a:Oh, sweet, you're letting them off the hook! That's surprisingly cool on your part!
+
+Reimu4a:This is pretty unusual for you. You're overlooking it just because they didn't mean any harm?
+
+Yukari1a:Hardly. I would never settle a matter using such a metric.
+
+Yukari0a:Matters involving the Underworld and the Komeiji sisters demand a careful touch though.
+
+Yukari0b:I can't afford to take action without careful consideration.
+
+Mystia0b:Hmm, it all sounds so complicated...
+
+Lyrica0c:I think I'll just leave politics to the responsible adults!
+
+Ran6b:Well, Lady Yukari's stated her stance. There's no need to dwell on it.
+
+Ran3c:By the way, Chen, were you out playing with everyone today? 
+
+Chen0b:Yeah, they asked me if I wanted to go to the moon with them, so we went all over the place trying to find out how to do that!
+
+Ran6e:The moon...?!
+
+Udonge3b:Uh-huh. I figured they'd have given up on it by now, but no...
+
+Cirno0a:So hey, do you have any ideas about how we could do that?
+
+Ran6e:Don't be ridiculous! I'm not letting Chen anywhere near that dangerous place―
+
+Yukari1a:Ah, the moon? Someone's gotten another strange idea, I see.
+
+Ran4b:But Lady Yukari, shouldn't we stop them?
+
+Yukari0a:Why bother? Their lives are in no real danger, so why not let them have their fun?
+
+Yukari1a:Of course, the biggest challenge is how you plan on getting there. 
+
+UsagiR0b:Right, there's no way they could get to the moon―
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+Eirin1d:About that. I have something to add to the discussion.
+
+Udonge1b:...!
+
+UsagiR2c:Lady Yagokoro?! Why would you come all the way out here?
+
+Yukari0a:Oh, good afternoon. I believe this is the first time I've seen you leave your mansion?
+
+Eirin3d:I hear you're just as much of a homebody, as it happens. It's nice to see you awake.
+
+Udonge4b:Master, what did you mean when you said you had something to say to the humans?
+
+Udonge4a:Come to think of it, you told us you were going to think about something... 
+
+Eirin0a:Correct. After learning of the current state of affairs on the moon, I've changed my mind a bit.
+
+Eirin0a:I'll impart the wisdom you'll need to safely reach the moon.
+
+Keine1a:What...?
+
+Udonge2b:You're telling them how to get to the moon?!
+
+Marisa1c:Well this is sudden. I thought you were against our little trip?
+
+Eirin0a:I was, but I've determined it could work to our benefit.
+
+Eirin1a:I want you to deliver a letter to the leaders of the emissaries on my behalf. 
+
+Alice2b:You want us to be your messenger?
+
+Eirin0d:By all accounts, the current leaders are former disciples of mine. That being the case, I have reasonable faith that I can anticipate how they'll react.
+
+Eirin0a:Furthermore, should you have this rabbit among your number, I'm certain they'll treat you hospitably.
+
+UsagiR0b:Wait, why are you looking over at me?
+
+Eirin0d:You're to go to the moon with them.
+
+UsagiR2c:What?!
+
+Eirin1c:If you can contact the Watatsuki sisters, I'm certain you'll escape serious punishment.
+
+Wriggle0c:Hold on, does that mean you're sending Miss Rabbit back to the moon?
+
+UsagiR2c:B-But why?! I've finally gotten used to life on Earth!
+
+UsagiR0a:And now I'm just supposed to go back to the moon?
+
+Eirin0a:And yet you've been carefully preserving your broken Lunar Veil, haven't you?
+
+UsagiR0b:...!
+
+Eirin0a:If you still feel any attachment to the moon, you should return home before you regret it.
+
+Eirin4a:If you pass up this chance, there's no telling when another one will come.
+
+UsagiR0b:I mean, yes, sometimes I get anxious about my future prospects, but still...
+
+Reimu4a:Alright, I get it. So you want us to find these "leaders" or whatever and then to hand her over along with the letter.
+
+Reimu1b:I don't mind, but are you sure it's a good idea?
+
+Eirin1c:I haven't the slightest doubt that this is what needs to be done.
+
+Eirin0a:Sending this letter is just another means of preserving our ability to live here on Earth.
+
+Yukari0b:Why, it's almost as if you're declaring your intent to stay and build a life here.
+
+Eirin4a:Let's just say I intend to put forth an effort.
+
+Yukari0b:...
+
+Marisa0c:Sure, "making efforts." Whatever you say, chief. We'll just be taking advantage of those efforts then.
+
+Marisa0a:And you, Rabbit. Take your time and think over whether you wanna join us or not.
+
+UsagiR0a:Yeah, I'll do that...
+
+Cirno0b:So what exactly are you gonna do for us?
+
+Eirin0d:First, we'll provide you with a fragment of the Lunar Veil.
+
+Eirin0a:As long as you have this, your course will reliably take you to the moon.
+
+Sunny0a:Wow, that sounds great!
+
+Nitori3e:But we still need to find whatever's gonna propel our rocket.
+
+Nitori1c:I don't think one of those raiments is gonna give us enough output...
+
+Eirin1c:That certainly is a problem. You wouldn't happen to have anything in mind?
+
+Patchouli0c:Well, I believe we could make the flight if we had the power of a three-staged cylinder.
+
+Patchouli0a:Or, to be more precise, we need a three-staged cylindrical container and a power source suited for it.
+
+Eirin0c:A power source suited for the container... Would, for example, faith or a spell suffice?
+
+Koakuma3b:Yes. Even enshrining some kind of spirit into the three-staged cylinder could work...
+
+Youmu2b:A spirit? Would a god work?
+
+Reimu0f:Did you think of something, Youmu?
+
+Youmu4a:Yes. Actually, I heard something from Lady Yuyuko earlier.
+
+Youmu1b:She told me "If you're going to cross the sea of stars, then you should pray for a safe voyage"...
+
+Yukari4c:Oh, so Yuyuko figured it out?
+
+Eirin2a:...I see, that could work.
+
+Rumia0a:What are you talking about? I don't get it.
+
+Reimu1a:Ah! I get it now! The three-staged cylinder!
+
+Keine1a:What does that mean?
+
+Reimu0g:The three gods.
+
+Reimu0c:Together, they're the Sumiyoshi Sanjin, the three gods of the voyage and our three-staged cylinder!
+
+Luna1a:Oh, nice! That's pretty much what we were looking for!
+
+Eirin0a:On the contrary, I'd call it precisely what you sought.
+
+Eirin1a:Now we need only make the preparations, and your rocket will reach the moon.
+
+Meiling0a:So that's the thumbs-up from the Sage of the Moon, then? We'd better get started on a three-staged rocket-shrine to house those gods.
+
+Meiling5a:It might be cutting it close, but if we start now and work our hardest, we could get it done by midwint―
+
+Cirno5b:Why do we need to do that when we've already got a boat built for the gods?
+
+Nazrin6a:Whoa, by boat do you mean...
+
+Sho0c:You want to take the Palanquin Ship to the moon?!
+
+Patchouli0a:...Interesting. It's certainly an optimal container for enshrining navigation-related deities.
+
+Sakuya5a:But it's not three-staged, it's a regular-shaped temple.
+
+Nitori1d:We just have to think of it like one of those Outside World space shuttles.
+
+Nitori1a:Two of the stages are auxiliary boosters, and the Palanquin Ship will be the third stage!
+
+Nazrin2a:...Well, that'd certainly be three stages. And it's syncretic to boot.
+
+Marisa1b:As long as the boosters are cylinder-shaped, I bet the gods would be satisfied.
+
+Sho1a:Then we should go consult with Murasa and Ichirin about this.
+
+Sho0a:If they agree to it, then we can begin fitting the ship out immediately.
+
+Nitori1a:I'm gonna go draw up blueprints with my fellow kappa!
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+<single>
+
+Sanae5d:...And they're off. We weren't even done talking.
+
+</single>
+
+Marisa0a:I can see why they're pumped. This is suddenly looking way more feasible.
+
+Marisa0c:Maybe we should head to the Scarlet Devil Mansion to let Remilia and the others know. 
+
+Alice0d:Yes, I'm sure they'll be delighted.
+
+Yukari0a:Ah, I had been wondering who came up with all this. So it was the vampires.
+
+Youmu4a:That's right. And then they got everyone else interested in it...
+
+Reimu4a:Don't tell me you're gonna worry just because they brought the idea up first?
+
+Yukari1a:Certainly not. We can even borrow the moon's power now.
+
+Yukari0a:But in order to ensure a pleasant trip, I'll have to give you more training, Reimu.
+
+Reimu4a:Yeah, sure, we can do―
+
+Reimu3c:Wait, what does that have to do with anything?!
+
+Yukari4c:Don't you need someone to provide the invocations necessary to receive the Sumiyoshi Sanjin's aid?
+
+Reimu2b:Well yeah, I guess, but you being so cooperative about this gives me the creeps...
+
+Reimu3a:Plus, why can't we just get Sanae to handle it?
+
+Yukari0a:She'd have some compatibility issues, given that she's already been cohabitating with other gods.
+
+Sanae5d:Yukari, the way you phrased that was a bit off...
+
+Sunny0c:Anyway, now there's nothing stopping this trip to the moon!
+
+Luna3d:The moon, huh? Up until now I've only admired it from afar. I'm so excited to be able to actually visit it.
+
+Star3d:We should get packed while we can.
+
+Cirno3a:Yeah! I can't wait!
+
+<BG=bg_talk_Chireiden.png,fade=1,color=1,title=bg_Chireiden,bgm=bgm_talk_kaikidan>
+
+JKarasu0a:...
+
+Satori0c:...I see, so you haven't seen Orin or Okuu either.
+
+Satori0b:It's rare for those two to be late for teatime, particularly after I've laid out snacks...
+
+JKarasu0a:...
+
+Satori0c:...Right, you haven't seen hide nor hair of Koishi either.
+
+Satori0b:Sadly, that isn't rare. But if we leave something out for her on the table, I'm sure she'll eat it when she gets back.
+
+JKarasu0a:...
+
+<SE=se_talk_bird01.ogg,wait=1>
+
+<single>
+
+UtsuhoB2c:Uh, are you sure skipping teatime is a good idea, Orin?
+
+</single>
+
+Orin3a:You idiot, we've got a lot more important things to worry about than snacks!
+
+Orin5a:If we go strolling in there, she's just gonna read our minds.
+
+UtsuhoB2c:Oh yeah, it's supposed to be a secret that we went to the surface...
+
+UtsuhoB0a:But if the surface people snitch on us, she'll just find out anyway.
+
+Orin5a:Yeah, I guess. All that trouble, and we didn't even find Miss Koishi.
+
+Orin5a:If we knew where she was, it'd be a load off Miss Satori's mind.
+
+UtsuhoB0a:Even Miss Satori can't tell what Miss Koishi is thinking, so she's always so worried about her.
+
+UtsuhoB0a:Maybe next time I'll go right for it and ask Miss Koishi where's she's been and what she's doing...
+
+Orin0c:Just asking her? Huh. I've never thought of that.
+
+Orin5a:Talking to Miss Koishi makes me nervous in a different way than Miss Satori does... 
+
+Koishi6c:Welcome home, you two.
+
+UtsuhoB2a:...?!
+
+Orin3a:M-Miss Koishi! You're back in the Palace!
+
+Koishi0a:Oh, I am? You're right, I can't see the sun from here.
+
+Koishi6a:Did you two go somewhere today? You missed teatime.
+
+Orin1a:Nah, we didn't go anywhere. We were just... hanging around.
+
+Orin0a:I mean, we were feeling full, so we figured we'd hold off on the snacks.
+
+Koishi2b:Aw, that's a shame. Satori even made us all pudding today.
+
+Koishi0a:Did you grab something to eat on the surface then?
+
+Orin3a:The... uh, the surface?!
+
+UtsuhoB1a:How did you read our minds, Miss Koishi?!
+
+Koishi0b:I can't read minds, not a bit. But you both smell like the surface.
+
+Orin3a:Th-That's funny, huh? Maybe we stepped in something surfacey?
+
+Koishi0a:And you didn't take a bath? Hygiene is important, you know!
+
+Koishi0b:Satori and I will have to wash you two later.
+
+Orin5a:No, no, we can do it ourselves!
+
+Orin0a:Actually though, there's something I wanna ask you, Miss Koishi.
+
+Koishi0a:Hm? What is it?
+
+UtsuhoB0a:...Where do you go all the time?
+
+UtsuhoB0a:If you tell us beforehand, then we could all go together.
+
+Koishi6a:Hmmm.... Where, huh?
+
+Koishi6c:Iunno!
+
+UtsuhoB0a:Uh...
+
+Koishi0a:No matter where I am, it kinda feels like I'm nowhere?
+
+Koishi0b:I probably did go somewhere, but I can't remember going anywhere...
+
+Koishi0b:But even if I'm somewhere, it's not like anyone's telling me where I am.
+
+Orin1d:You don't even remember where you've been?
+
+Orin5a:...Miss Koishi, don't tell me you've forgotten about the Palace of Earth Spirits too?
+
+Koishi1a:No, if I remember anything, it's the time we spend together.
+
+UtsuhoB0a:...
+
+Koishi0a:I'm hungry, so I'm gonna go grab some of that pudding.
+
+Koishi0b:Don't worry, I won't tell sis that you went to the surface!
+
+<SE=se_talk_walk_indoor04.ogg,wait=1>
+
+<single>
+
+UtsuhoB2c:...Orin, I think we should tell Miss Satori about this.
+
+UtsuhoB2c:We have to tell her that Miss Koishi doesn't even know what she's doin―
+
+</single>
+
+Orin5a:Let's not. I'm sure Miss Satori already knows everything.
+
+Orin5a:For now, let's just pray that she doesn't find out about anything we did today.
+
+UtsuhoB2c:Yeah, you're right...
+
+UtsuhoB2c:...But it's still bugging me.
+
+Orin1d:What, are you talking about losing the fight with the surface dwellers?
+
+Orin0a:Don't sweat it. Different people have different strengths.
+
+UtsuhoB2c:No, that's not what I found so frustrating...
+
+UtsuhoB2c:...No, nevermind. It's fine.
+
+Orin0c:...?
+
+UtsuhoB2c:(...After seeing that huge blue sky up there, I'm a bit jealous of them.)
+
+UtsuhoB2c:(It makes me wonder if Miss Satori and Miss Koishi might have a happier life there...)
+
+UtsuhoB2c:(On the surface...)
+
+<Code=(transition_out,c_black,45,1)>
+
+<end>
+
+<ChatID:10>----------------------------------------
+//全滅時
+
+<end>
+
+<ChatID:11>----------------------------------------
+//お燐vs.霊夢
+
+Orin1f:I've heard of you. You're the shrine maiden of the surface.
+
+Orin1e:Rumor has it that you resolved that snow incident from a while back.
+
+Reimu0b:Oh, so they tell tales of my heroism even in the depths of the earth?
+
+Reimu0b:If you want an incident resolved, then I'm your girl.
+
+Orin1f:Hmph. As if I'd ever turn to surface dwellers for help...
+
+<end>
+
+<ChatID:12>----------------------------------------
+//お燐vs.魔理沙
+
+Marisa0d:So there are some Underworld youkai who come up to the surface, huh?
+
+Marisa0b:Here I thought only Koishi did that.
+
+Orin1d:...!
+
+Orin1b:Wait, are you saying that Miss Koishi was with you again?
+
+Marisa0b:Well, I haven't seen her since winter. Why, something wrong?
+
+Orin3a:N-No! I wouldn't ask some surface dweller for favors!
+
+<end>
+
+<ChatID:13>----------------------------------------
+//お燐vs.アリス
+
+Orin0a:You were with the human in black and white when she snuck into the Underworld.
+
+Orin0a:Looks like this time you don't have that magician to hide behind though.
+
+Alice0a:...Yes, Mima left on another journey.
+
+Alice0b:But even without her, you'll find we're still at an advantage this time.
+
+Orin1b:Yeah, tell me something I don't know...
+
+<end>
+
+<ChatID:14>----------------------------------------
+//お燐vs.大妖精
+
+Daiyosei0a:Ah, cat ears...
+
+Orin3a:Hm? What was that?
+
+Daiyosei2c:Um, nothing! I just thought they were cute...
+
+<end>
+
+<ChatID:15>----------------------------------------
+//お燐vs.パチュリー
+
+Patchouli0c:To think the Underworld youkai would be the ones breaking the agreement.
+
+Orin5c:Ugh, why'd I have to get spotted by people who actually recognize me?
+
+Patchouli0b:But surely you knew and accepted this risk when you first set out.
+
+Patchouli0b:Does that mean you had some purpose for coming here that you thought outweighed the risks?
+
+Orin1b:And why should I tell YOU?!
+
+<end>
+
+<ChatID:16>----------------------------------------
+//お燐vs.スター
+
+Star0c:It's been a while since I've spoken to an Underworld youkai...
+
+Star0a:But when we talk like this it's surprisingly... normal?
+
+Orin0a:Well, me and Okuu are sociable types.
+
+Orin0a:Some Underworld youkai hate seeing other people so much that they lock themselves up.
+
+Star0c:That's a bit extreme, isn't it?
+
+<end>
+
+<ChatID:17>----------------------------------------
+//お燐vs.ルナサ
+
+Lunasa0b:...Meooow.
+
+Orin3a:Huh?!
+
+Lunasa0b:I was just imitating the sound I heard.
+
+Lunasa0b:You have the sound of a cat.
+
+Orin3a:Oh. I guess 'cause I am one...
+
+<end>
+
+<ChatID:18>----------------------------------------
+//お燐vs.メルラン
+
+Merlin0a:Someone looks grumpy today!
+
+Orin0c:Are you some kind of airhead or what?
+
+Orin0c:Is that just how people are up on the surface?
+
+Merlin1a:That has nothing to do with it! Making noise with a smile is just my thing!
+
+<end>
+
+<ChatID:19>----------------------------------------
+//お燐vs.リリカ
+
+Lyrica0a:I know that face, you're hiding something!
+
+Orin3a:Huh? Where do you get that idea?!
+
+Lyrica1a:To be more precise, it feels like you've done something bad and are wondering what'll happen when someone finds out.
+
+Lyrica0a:In times like these, you're supposed to 'fess up and give a heartfelt apology.
+
+Orin1f:I don't need a lecture from you!
+
+<end>
+
+<ChatID:20>----------------------------------------
+//お燐vs.ナズーリン
+
+Nazrin6b:I was wondering what this rare reading was. Turns out it was just an Underworld youkai.
+
+Nazrin6a:Frankly, it doesn't seem like it'd do me any good to have anything to do with you...
+
+Orin0a:Hey, you seem like you've got a good head on your shoulders. So how about you just keep quiet for us?
+
+Nazrin6b:I'd love to, but observing and reporting are closely related jobs.
+
+Nazrin0a:You're just gonna have to suck it up and deal with the consequences.
+
+Orin0c:Looks like I've got no choice...
+
+<end>
+
+<ChatID:21>----------------------------------------
+//お燐vs.星
+
+Sho0a:If you're an Underworld youkai, then do you know Murasa?
+
+Orin0b:Oh, are you a friend of the people who went up to the surface in that boat?
+
+Orin0c:Do you even realize how much of a pain it was to deal with the aftermath of that?
+
+Sho4a:...Please accept my apology on their behalf.
+
+Sho0a:But when Hijiri is revived, it will bring equality and harmony to the people of the Underworld as well.
+
+Orin0b:Hmph. Like ideals and platitudes could bring any real salvation.
+
+<end>
+
+<ChatID:22>----------------------------------------
+//お燐vs.橙
+
+Orin0a:A bakeneko from the surface, huh? You look about as stupid as I'd expect.
+
+Chen5b:I am not stupid!
+
+Orin0b:That remains to be seen. In the Underworld, life isn't easy even after you achieve a human form.
+
+Orin0a:I got this far with just my wits, and eating carrion.
+
+<end>
+
+<ChatID:23>----------------------------------------
+//お燐vs.リグル
+
+Wriggle0a:So this is what an Underworld youkai is like...
+
+Wriggle0a:Our fellow bugs live down there too, right?
+
+Orin3a:There are bugs, sure, but I'm not so sure I'd call them your "fellows".
+
+Wriggle0c:What? Why not?
+
+Orin1d:I mean, they're hated youkai who've been sealed in the Underworld.
+
+Orin1f:They've got nothing in common with people who've grown up enjoying the surface's blessings.
+
+Wriggle0c:Oh, I see...
+
+<end>
+
+<ChatID:24>----------------------------------------
+//お燐vs.鈴仙
+
+Udonge1b:You're the one controlling the balls of fire, right? Prepare to die!
+
+Orin1f:Ugh, the straggler who showed up late...
+
+Orin1d:You surface dwellers sure love buddying up, huh.
+
+Udonge1b:I'm nothing like them. I simply want to survive!
+
+<end>
+
+<ChatID:25>----------------------------------------
+//空vs.早苗さん
+
+Sanae0a:So Chen isn't the only girl in Gensokyo with cat ears.
+
+Orin3a:What's this about cat ears?
+
+Sanae4a:Oh right, would you mind if I asked which set of ears are the real ones?
+
+Orin3a:Look, I dunno much about the surface...
+
+Orin1e:But couldn't you just ask the rabbit or the rat over there?
+
+Sanae0g:Huh. Now that you mention it...
+
+<end>
+
+<ChatID:26>----------------------------------------
+//空vs.霊夢
+
+Reimu2b:Sigh... Yukari's never gonna let me hear the end of it when we tell her that Underworld youkai showed up.
+
+Reimu0a:Not that someone on your level counts as much of a threat, I guess.
+
+UtsuhoB1c:What was that?! You never know until you try!
+
+UtsuhoB0a:Even I can be useful to Miss Satori!
+
+<end>
+
+<ChatID:27>----------------------------------------
+//空vs.魔理沙
+
+Marisa0b:I never thought I'd run into Satori's minions on the surface.
+
+UtsuhoB0e:Unyu? Have I seen you before?
+
+Marisa1d:And she doesn't even remember me.
+
+Marisa4c:But that's fine. I'm already sick and tired of bumping into you girls.
+
+<end>
+
+<ChatID:28>----------------------------------------
+//空vs.チルノ
+
+UtsuhoB0b:Even I could beat a little kid like you!
+
+Cirno0a:Grr... sounds like you're looking down on my strength.
+
+Cirno2c:So what can YOU do?
+
+UtsuhoB0d:Huh? What do you mean?
+
+Cirno0a:Like controlling ice, or light, or something?
+
+Cirno5b:If you can't do that, then you're not even a match for a fairy!
+
+UtsuhoB1c:Wow, rude!
+
+<end>
+
+<ChatID:29>----------------------------------------
+//空vs.ルーミア
+
+Rumia3a:Something smells gooood.
+
+UtsuhoB0e:Yeah? You think so?
+
+Rumia0a:Hey, what kinda stuff do you eat in the Underworld?
+
+UtsuhoB0e:Hmm, I think it depends on the youkai...
+
+UtsuhoB0a:But we crows eat carrion. Oh, and whatever snacks Miss Satori makes for us.
+
+Rumia4b:*drool*
+
+<end>
+
+<ChatID:30>----------------------------------------
+//空vs.小悪魔
+
+Koakuma5b:So even the Underworld, youkai have distinctive styles.
+
+Koakuma0a:What's your hair care routine?
+
+UtsuhoB0e:Unyu? I dunno...
+
+UtsuhoB0a:I just leave it alone, and Orin handles it for me.
+
+Koakuma0b:It must be tough having to do the grooming of two people...
+
+<end>
+
+<ChatID:31>----------------------------------------
+//空vs.サニー
+
+Sunny4a:So we ended up fighting Underworld youkai again...
+
+Sunny1a:But that's fine with me! Because today, the sun is on my side!
+
+UtsuhoB0e:Is the "sun" that thing up in the sky?
+
+Sunny1b:Yup. It just being around makes me feel all cheerful.
+
+Sunny1b:Not that you'd know anything about that, since the Underworld doesn't have one.
+
+UtsuhoB0d:Mrrr...
+
+<end>
+
+<ChatID:32>----------------------------------------
+//空vs.ルナ
+
+Luna0a:A-Am I really gonna be okay fighting an Underworld youkai?
+
+Luna1c:If worst comes to worst, I can always try to distract her with these moon-ish rocks I picked up...
+
+UtsuhoB0b:Ooh, shiny rocks!
+
+Luna1a:Wait, it's already working?!
+
+Luna1b:Are these things actually amazing...?
+
+<end>
+
+<ChatID:33>----------------------------------------
+//空vs.ミスティア
+
+Mystia1b:Why do you sing, little crow? Because the crows are saying so... 
+
+UtsuhoB5d:Ooh, I've heard that song!
+
+Mystia3d:Really? Then sing along!
+
+Mystia3c:Mm hm-hmm hmm... 
+
+UtsuhoB5e:Hm-hm-hm-hm.... 
+
+Mystia3d:Hm-hm-hm-hm-hmm.... 
+
+UtsuhoB5e:...
+
+UtsuhoB2c:Sorry, I don't remember it too well.
+
+Mystia4a:Me either...
+
+<end>
+
+<ChatID:34>----------------------------------------
+//空vs.ルナサ
+
+Lunasa0a:Your sound is... an empty sound.
+
+UtsuhoB0e:Empty? What does that mean?
+
+Lunasa1a:It means you're devoid of clutter, and your sound echoes beautifully.
+
+Lunasa0a:You rarely encounter a sound like this, on the surface or in the Underworld.
+
+<end>
+
+<ChatID:35>----------------------------------------
+//空vs.咲夜さん
+
+Sakuya5c:*sigh* Crows are always making a mess of our garbage.
+
+UtsuhoB4b:Hey, those are surface crows, right?
+
+Sakuya3b:Still, crows are crows. Don't you have similar eating habits?
+
+UtsuhoB0e:Well, if you don't eat then your tummy starts rumbling...
+
+UtsuhoB0a:But I share with friends, and I always eat every edible part.
+
+Sakuya5c:What in the world are you eating...?
+
+<end>
+
+<ChatID:36>----------------------------------------
+//空vs.美鈴
+
+Meiling0a:You have a pretty toned body. Do you do martial arts or something?
+
+UtsuhoB0d:Ah, no! Kicking and punching is a kinda scary...
+
+UtsuhoB0a:But even getting a human form is pretty rare for us crows.
+
+Meiling0a:So despite your body you're more the childish type...? Or rather, the newly youkai type.
+
+<end>
+
+<ChatID:37>----------------------------------------
+//空、またはお燐vs.妖夢
+
+Youmu0a:Everyone went to the Underworld during the Snow Incident, right?
+
+Youmu0a:I was stuck in Hakugyokuro at the time.
+
+Luna0a:I think you were lucky not to come with us though.
+
+Luna4a:Yukari punished us so harshly, I don't even wanna talk about it...
+
+Youmu2b:She did, huh? Lady Yukari can be truly frightening when she's angry...
+
+<end>
+
+<ChatID:38>----------------------------------------
+//お燐vs.慧音
+
+Keine1a:Why have you Underworld youkai come to the surface?
+
+Orin0b:I have nothing more to say to you people.
+
+Orin0a:You weren't expecting to talk this out with us either, right?
+
+Keine2a:Ugh, is our gulf with the Underworld really this deep...?
+
+<end>
+
+<ChatID:39>----------------------------------------
+//空vs.にとり
+
+Nitori0a:A pair of Underworld youkai, huh? You get along pretty well though, is she your friend?
+
+UtsuhoB0a:Yeah, me and Orin have been together forever. Ever since we became Miss Satori's pets.
+
+Orin3a:Hey, Okuu. We're not here to chat with them.
+
+UtsuhoB0d:Oh yeah, whoops!
+
+Nitori3e:I guess I have a good idea of what kind of person you are now... Wait, this isn't the time to be patting myself on the back.
+
+<end>
+
+<ChatID:40>----------------------------------------
+//お燐vs.エリー
+
+Elliy0a:The power to control vengeful spirits sure is dangerous.
+
+Elliy0a:But compared to that, the other girl over there doesn't seem like she has much going for her.
+
+Orin1f:Hey, don't badmouth Okuu. She grew up in the Underworld too.
+
+Orin3a:Because of the intense heat, she has a tough body, and, um...
+
+Elliy1a:So she's got spirit and basically nothing else?
+
+Orin1a:A-Anyway, you don't have time to chat when you're up against me!
+
+<end>
+
+<ChatID:41>----------------------------------------
+//空vs.くるみ
+
+Kurumi5b:I'm Kurumi, the devil who guards the lake!
+
+UtsuhoB0e:You're a devil?! That sounds so strong...
+
+Kurumi3a:So as someone like that, let me give you some advice. You shouldn't eat stuff you find on the ground.
+
+UtsuhoB0e:How rude. Miss Satori already taught me that much.
+
+UtsuhoB5e:Ah, but I did find this weird bone. Isn't it neat?
+
+Kurumi3d:Ooh, I want one...!
+
+<end>
+
+<ChatID:42>----------------------------------------
+//妖夢増援前にお燐を撃破
+
+Orin1b:Mrr, you think that's enough to stop me?!
+
+<pause>
+
+Chen2b:She's still going!
+
+Nazrin4a:Guess she's not gonna make this easy...
+
+<end>
+
+<ChatID:43>----------------------------------------
+//空vs.メーコ
+
+Utsuho1c:Alright, it's on!
+
+Meko0b:...
+
+Utsuho4a:Unyu? What's wrong?
+
+Meko3b:Nothing! Just thinking this is what you were like back then.
+
+Utsuho0c:Back when?
+
+Meko0b:(...She might really be no stronger than me.)
+
+Meko0g:(But even so, she did the best she could to help Satori...)
+
+Meko2c:(So she really did worry about being useless too.)
+
+<end>
+
+<ChatID:44>----------------------------------------
+//空vs.まくら
+
+Makura0g:So this is the former Okuu. It's true, your power is still unripened.
+
+Utsuho0e:Grr... I can be useful too!
+
+Utsuho1b:I won't let Orin do everything!
+
+Makura1c:...
+
+Makura2a:(Even at a glance, she's clearly so pure and honest.)
+
+Makura2b:(If only the power she obtained wasn't nuclear in nature. Even I would have...)
+
+<end>
+
+<ChatID:45>----------------------------------------
+//空vs.空
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Utsuho0e:Unyu?! Me?!
+
+Utsuho0c:No, wait, she's a little different. Like that rod on her arm.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Utsuho2c:Oh, right, I didn't have the Lord Yatagarasu yet, did I?
+
+Utsuho0e:But if I take a little break...
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Utsuho4d:Whoa, the rod's gone!
+
+Utsuho3c:Hey, could you take it out again? I wanna see it up close!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Utsuho1b:No, it's dangerous!
+
+</nomove>
+
+<end>
+
+<ChatID:46>----------------------------------------
+//お燐vs.お燐
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Orin2b:What the— Me?!
+
+Orin1f:...No way, that's impossible. Must be a transformed tanuki or something.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Orin4d:Now now, lady, nothing wrong with one or two of the same youkai.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Orin1f:There's plenty wrong! Think of all the trouble I'd be in if you went and took a walk looking like that!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Orin5b:Ugh, I guess...
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Orin7a:Now who the hell's taking my appearance?!
+
+</nomove>
+
+<end>
+
+<ChatID:47>----------------------------------------
+//お燐vs.空
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Orin2a:Gyah, Okuu?!
+
+Orin1d:...No, not quite. What's with that arm and leg?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Utsuho0e:Oh, right, I didn't have Lord Yatagarasu back then.
+
+Orin3a:Yatagarasu...? Just what are you?
+
+Orin1b:I bet you surface dwellers are just messing with me! Don't expect any mercy!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Utsuho2b:Ugh... Do we really have to do this?
+
+</nomove>
+
+<end>
+
+<ChatID:48>----------------------------------------
+//お燐vs.白うつほ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Orin2a:Gyah, Okuu?!
+
+Orin1b:What's wrong? This is no time to be playing around.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Utsuho0e:Oh, right, yeah.
+
+Orin3a:Seriously, it's dangerous. Fighting's not exactly your strong point, so stay behind me.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Utsuho3a:Okay, thanks...
+
+Utsuho0e:No, wait! I can fight too! Just watch me, Orin!
+
+Orin3a:Huh?!
+
+</nomove>
+
+<end>
+
+<ChatID:49>----------------------------------------
+//空（敵）vs.お燐
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Utsuho0d:Eh? Orin...?
+
+Utsuho4d:Weren't you just over there? But... wha?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Orin5a:Hmm... This might be a little tough to explain.
+
+Orin1d:That said, she's always been gullible as all hell. In which case...
+
+Utsuho1b:Hey, so are you Orin? Or...?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+OrinC0a:...Meooow.
+
+Utsuho4e:Isn't that cheating?!
+
+</nomove>
+
+<end>
+
+<ChatID:50>----------------------------------------
+//お燐vs.さとり
+
+Satori0d:I was dimly aware of it, but I suppose this is what you were up to on the surface?
+
+Orin2a:Gyah, Miss Satori?!
+
+Orin1f:No! Um, I mean, the thing is...
+
+Satori0b:Don't worry, I can see what you're feeling.
+
+Satori3e:You have my appreciation for coming to search for Koishi.
+
+Orin5b:...I'm sorry.
+
+Orin5a:We knew it was wrong, but we couldn't just sit back and do nothing...
+
+Satori0d:Orin...
+
+Orin2b:No, I shouldn't make excuses. This is all our fault, so please punish us!
+
+Satori0b:I was going to let you off since I was the one who worried you in the first place.
+
+Satori0c:But if it will put you at ease, maybe a little scolding is appropriate.
+
+<end>
+
+<ChatID:51>----------------------------------------
+//お燐vs.こいし
+
+Koishi5b:Heya, Orin!
+
+Orin1f:Miss Koishi?! So this is where you were?
+
+Orin5a:Thank goodness, we had no idea where you'd gone off to.
+
+Koishi0b:Right? Where DID I go anyway?
+
+Orin3a:Huh...?
+
+Orin0b:Anyway, your sister's worried, so let's go back together!
+
+Koishi3c:Uh-uh. I'm in the middle of a journey.
+
+Koishi6a:You two should play with me on the surface!
+
+Orin1f:No no no, that's not what...!
+
+<end>
+
+<ChatID:52>----------------------------------------
+//空vs.さとり
+
+Satori0d:...So this is when you and Orin came to the surface.
+
+Utsuho4e:Unyu, Miss Satori!
+
+Utsuho2c:Ah, well, um...
+
+Satori0b:Don't worry, there's no need to speak before me.
+
+Satori3c:You were worried about me, so you came to search for Koishi.
+
+Utsuho2d:Yeah...
+
+Utsuho2a:Sorry for not letting you know! But we wanted to do something for you!
+
+Satori0b:And thank you. I appreciate your feelings.
+
+Satori0c:But I'm curious as to exactly what you were thinking... Could you tell me more with danmaku, if you don't mind?
+
+Utsuho1b:O-Okay!
+
+<end>
+
+<ChatID:53>----------------------------------------
+//空vs.こいし
+
+Koishi2b:So you two came to the surface too, huh?
+
+Utsuho0d:Eh? Miss Koishi?!
+
+Utsuho1b:We finally found you! Me and Orin were looking for you!
+
+Koishi3c:Huh? But why?
+
+Utsuho2c:Your sister is worried... I mean, we were just wondering where you went.
+
+Koishi0a:Hmm... I guess I made you worry.
+
+Koishi0b:But it's okay. There's a happy ending coming up.
+
+Utsuho0d:Huh...?
+
+Koishi6d:Nooothing! Anyway, come play with me, Okuu!
+
+Koishi1a:I always wanted to fight with the past you again!
+
+<end>
+
+<ChatID:54>----------------------------------------
+//空vs.神奈子
+
+Kanako1d:Huh. This is the first time I've seen the old Utsuho in person.
+
+Utsuho0e:Wha...? Who're you?
+
+Kanako0d:A god. And one that will appear before you soon enough.
+
+Kanako1c:But I'd like you to show me your heart and your skills, one more time!
+
+Utsuho1c:I don't really get it, but okay, I get it!
+
+<end>
+
+<ChatID:55>----------------------------------------
+//空vs.諏訪子
+
+Suwako0d:The past Utsuho's danmaku, huh? I'd heard a little about it, but you really suck.
+
+Utsuho1b:Grr... I'm trying my best too!
+
+Suwako3b:I know, I know. It's what's on the inside that counts, and that's what I'm curious about.
+
+Suwako0a:I'd like you to show me your pure and beautiful heart again.
+
+<end>
+
+<ChatID:56>----------------------------------------
+//C45：お燐vs.非想天則
+
+Tensoku0a:...
+
+Orin2b:Grah, a giant?!
+
+Orin3a:Those darned surface dwellers, did they bring this guy too?
+
+Orin1b:If we stand out too much, someone'll show up! Gotta take it out, stat!
+
+<end>
+
+<ChatID:57>----------------------------------------
+//C45：空vs.非想天則
+
+Tensoku0a:...
+
+Utsuho3d:Wow, what's this?! It's so cool!
+
+Utsuho0e:It's not fair. Why does the surface get all this awesome stuff?
+
+Utsuho1d:Wait, this isn't the time for that! I gotta fight!
+
+<end>

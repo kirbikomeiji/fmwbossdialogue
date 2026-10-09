@@ -1,0 +1,3116 @@
+﻿○共通第六十二話「楽園の審判
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: 2PP
+ 4: first battle (Satori)
+ 5: first battle (Nue)
+ 6: first battle (Medicine)
+ 7: first battle (Kogasa)
+ 8: first battle (Sho/Nazrion)
+ 9: after first battle (LilyB)
+10: first battle vs. Komachi
+11: first battle vs. Eiki
+12: Komachi spell 1 start
+13: beat Komachi
+14: Eiki spell 1 start
+15: Eiki spell 2 start
+16: Eiki spell 3 start
+17: clear
+18: Eiki vs. Satori (while spell 3)
+19: lose (Seirensen)
+20: ADVB
+21-86: battle vs. Eiki
+87: first battle (Kappa)
+88: first battle vs. Eiki (Komachi spell)
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<BG=bg_talk_Chireiden_Sepia.png,fade=1,color=1,title=bg_Chireiden,bgm=bgm_talk_heartfelt>
+
+<SE=se_talk_oven01.ogg,wait=1>
+
+SatoriS0c:(...Did I leave them in the oven a bit too long?)
+
+SatoriS0a:(Oh well, everyone loves these cookies anyway.)
+
+<SE=se_talk_walk_indoor04.ogg,wait=1>
+
+KoishiS0a:Wow, smells great!
+
+SatoriS0a:(Koishi...)
+
+KoishiS0a:Is that a pie...? No, cookies?
+
+SatoriS0a:(Yes, rose cookies. They've always been your favorite, Koishi.)
+
+SatoriS0a:(There are lots, so make sure you eat up.)
+
+KoishiS0a:...
+
+SatoriS0a:(Oh, they're a little burnt, but the taste should be fine. So dig in.)
+
+KoishiS0a:...What?
+
+SatoriS0b:Ah...
+
+KoishiS0c:Y'know Sis, I can't read minds like you can.
+
+KoishiS0c:So use words I can hear, please.
+
+SatoriS0c:R-Right... of course. Sorry about that. I...
+
+SatoriS0c:Um... What was I saying again? Anyway, there are lots, so eat up.
+
+KoishiS0d:...
+
+SatoriS0d:Sorry...
+
+KoishiS0a:You're weird these days. All you do is apologize.
+
+KoishiS0a:Did someone say something mean to you? Are you feeling down?
+
+SatoriS0e:No, it's nothing. Nothing happened to me.
+
+SatoriS0e:What about you, Koishi? How have you been feeling lately? If there's anything bothering you...
+
+KoishiS0c:Nah, I'm fine. Every day is just so fun.
+
+KoishiS0c:No matter where I go, no one hates me, and I never have to think about bad stuff.
+
+SatoriS0c:I didn't mean...
+
+KoishiS0a:Oh, these are rose cookies! But aren't they a little burnt?
+
+SatoriS0d:...
+
+KoishiS0d:...Hey, Satori. I'm happy now.
+
+KoishiS0d:I want to keep living a fun life here with everyone.
+
+SatoriS0c:It's fun...?
+
+KoishiS0d:Yeah. Because you love me.
+
+KoishiS0c:And I love you too. I love everyone!
+
+SatoriS0d:...
+
+<Code=(transition_out,c_black,45,0)>
+
+<BG=bg_talk_Black.png,fade=0,color=1,title=*bg_Unknown>
+
+Satori5b:(...Right. Both before and after she closed her eye, Koishi's always told me she loves me.)
+
+Satori5b:(Her words and appearance are both the same as before. There's no reason I should doubt them now, but...)
+
+Satori5b:(...But I can't tell what she's really feeling.)
+
+Satori5b:(...Do I even know what I'M feeling anymore?)
+
+<Code=(transition_out,c_black,60,1)>
+
+<MAP=11,FROM=人間の里,TO=人間の里,name=Hieda Manor,icon=1>
+
+<BG=*bg_talk_Hieda_Spring.png,fade=1,color=1,title=*bg_Hieda,bgm=bgm_talk_aoki>
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+Reimu0b:We're here! I still can't get over how fancy this mansion is.
+
+Marisa0b:I don't see anyone else. Are they already inside?
+
+Sakuya0a:Welcome. This is early for you two.
+
+Youmu4a:Surprisingly, everyone got here on time.
+
+Marisa0d:So what are you all doing outside then? You came out just to greet us?
+
+Sho0a:It's awfully crowded inside, so we came out for some fresh air.
+
+Sho0a:Everyone already gathered and updated each other on their findings.
+
+Youmu4a:The talking's over, so we're taking a break now.
+
+Reimu0e:C'mon, have a little patience...
+
+Marisa0c:That said, Reimu did tell me about what happened.
+
+Marisa0a:I hear you found Bishamonten's Pagoda, Shou?
+
+Sho1a:Yes, and from here on out either Nazrin or I will have it on our person at all times.
+
+Sho0a:The light it shines should also be usable in danmaku battles.
+
+Sakuya0a:Good to hear. As for us, we met with Yuuka, but didn't manage to obtain any new information.
+
+Youmu4a:And we're told your group found a clue towards Koishi's whereabouts, Marisa.
+
+Marisa6a:Well, at least SOMEONE's getting things done around here.
+
+Reimu4a:You can brag about it after we've actually found her.
+
+Reimu0g:Anyway, you aren't even the one who found the clue.
+
+Youmu2b:Now now, why don't we step inside for some tea or...
+
+<SE=se_talk_hit01.ogg,wait=0>
+
+<Code=(map_shake,1,30,2)>
+
+<hide=face>
+
+Nue5b:O-Ow?!
+
+</hide>
+
+Marisa1a:Wh-What's that racket?!
+
+Nue1c:What are you doing, Ichirin?! What'll you do if that leaves a bump?!
+
+Ichirin1b:Don't talk back to me! You were trying to mess with the Hieda family records, weren't you?
+
+Nue3c:C'mon, isn't it cheeky of her to be researching youkai? You get it, don't you Minamitsu?
+
+Murasa4a:Sorry, you're at fault here, Nue. But you need to chill too, Ichirin.
+
+Tenshi2e:Could you three take that somewhere else? Some of us are trying to eat here.
+
+Rumia3a:That taiyaki looks yummy! Gimme!
+
+Tenshi1d:Hey! Return that at once, fool!
+
+Iku4a:Your immaturity is showing, Eldest Daughter. Didn't you buy those for everybody anyway?
+
+Kurumi3b:Hey, it fell on the floor! It's mine now!
+
+Youmu3b:...It's even noisier than before.
+
+Akyu3c:It happens. I don't mind.
+
+Reimu0g:Excuse us, we're coming in. Looks like we're pretty much all here?
+
+Yukari0a:Indeed. The only ones missing are Alice, and Satori's group.
+
+Marisa0a:I'd heard about it, but I never expected you to actually show up for this, Nue.
+
+Nue1c:Don't address me so casually, human. I'm not your friend.
+
+Meiling5a:Still rude, I see. Did you all not hit her enough?
+
+Reimu0e:Tenshi too. You said you'd be back to help, right?
+
+Tenshi6a:Right. And I expect you to be extremely grateful. I hadn't heard that Iku was coming too though...
+
+Tenshi0b:Did you become friends with this rabble when I wasn't looking?
+
+Iku3a:Well, let's just go with that.
+
+Yugi1a:With Iku here, maybe you'll learn some manners.
+
+Tenshi3a:...I don't like the sound of that, but I'll forgive you for it.
+
+Hatate3a:Speaking of newcomers, I wonder if the other one's coming?
+
+Reimu0f:Hm? What other one?
+
+Yuyuko1c:The rookie everyone's placing their hopes on! The one who's guiding us to Koishi.
+
+Reimu0e:Huh, if she can track Koishi even when she's hiding from our subconscious, she must be pretty skilled. What kind of—
+
+Kogasa0b:Oogly-boogly-boo!
+
+Reimu0a:...
+
+Kogasa1a:Well? Surprised?!
+
+<SE=se_talk_hit01.ogg,wait=0>
+
+<Code=(map_shake,1,30,2)>
+
+Reimu0a:...
+
+Kogasa2b:Ow, you kicked me! What's the big idea?
+
+Sanae1a:R-Reimu! I understand your feelings, but you're hurting Kogasa.
+
+Reimu1a:Sanae, you're not supposed to stand up for the youkai. You just exterminate 'em right away. Now do it.
+
+Sanae0a:No exterminating Kogasa! She's the one who told us where Koishi is.
+
+Reimu2b:Really? This droopy old umbrella?
+
+Kogasa0b:Don't worry! I'm super useful!
+
+Patchouli4a:Good grief. SHE'S your informant?
+
+<SE=se_talk_walk_indoor01.ogg,wait=1>
+
+Udonge4d:Master made a drug that could get the truth out of her, if you want to use it.
+
+Kaguya0a:Now now, it's such a rare umbrella. It'd be a shame to damage it through reckless handling.
+
+Youmu0a:Um, I don't know how you do things in Eientei, but that's a bit...
+
+Alice0d:Stop hanging back and just come in. No one's going to bully you here.
+
+Medicine2a:R-Really? You're sure I won't be suddenly attacked by a rabid human?
+
+Koakuma3b:Oh, it's Medicine. You came together?
+
+Koakuma3d:Oh right, you said you'd go pick her up this morning.
+
+Remilia1e:And you were so resistant to the idea before. Changed your mind?
+
+Medicine1b:Of course not. I just came for the chance to see what it's like outside the suzuran field.
+
+Medicine0c:My goal is to kill all humans and free the suffering dolls!
+
+Marisa0e:Uh... Yeah. Are we really bringing her along?
+
+Eirin0a:No need to worry, Alice and I will be taking responsibility for keeping an eye on her.
+
+Keine0a:If you say so. We'll leave that to you, then.
+
+Reimu0a:...Satori and her pets are the only ones not here yet.
+
+Parsee0a:Wait, don't tell me she's never been to the surface ever since she moved to the Underworld?
+
+Sakuya5a:Well, as long as they don't get found by a human who starts throwing rocks or something.
+
+<SE=se_talk_walk_indoor01.ogg,wait=1>
+
+Satori0b:...Your worries are misplaced.
+
+Utsuho3c:Sorry we're late!
+
+Akyu0a:Oh, you made it! Was the trip alright?
+
+Satori0a:I hadn't been to the surface for quite a while, but I had Orin to guide me.
+
+Orin0c:We were avoiding humans on the way, so it took a while to get here.
+
+Yukari4a:It seems you've had a difficult time. I wouldn't have minded coming to get you, you know.
+
+Satori0b:Thank you, but no thank you. You're all here because of OUR circumstances, after all.
+
+Satori0c:Anyway, is it true you've located Koishi?
+
+Marisa0a:'Course it's true! You tell her, Kogasa.
+
+Kogasa0b:It's my turn, yay! What I've got for you will knock you socks off—
+
+Satori0b:"I hear people see her north of the village, so we should have some luck if we go that way."
+
+Satori0c:"That's everything I know, but I'm pretty sure I can wing it to guide them." Is that an accurate summary?
+
+Kogasa2b:Whoa, how'd you know?!
+
+Parsee0a:Satori can read minds. You shouldn't have held out on us so long.
+
+Sanae5c:Is that the only lead you have? That's not much to go on.
+
+Satori0e:That said, it IS a clue. Thank you, Kogasa.
+
+Kogasa0b:Yay! I was useful!
+
+Satori0a:If we find Koishi, we'll be sure to let you all know.
+
+Satori0b:Now then, we'll be off...
+
+Reimu1b:Wait, hold on. You're planning on going by yourselves?
+
+Satori0b:Of course. This has always been our problem, and our problem alone. We can't possibly impose on you any further.
+
+Keine0a:No need to be so reserved. We all came here because we wanted to help.
+
+Remilia1c:Besides, if you don't know exactly where she is, then obviously it's better to have more people searching.
+
+Remilia0a:Or what, do you have some secret plan to find her?
+
+Satori0b:Well...
+
+<SE=se_talk_gaya.ogg,wait=1>
+
+Alice0a:...? What was that noise? It came from out front.
+
+Akyu0a:Strange, what could that be? We're not expecting anyone else.
+
+<SE=se_talk_gaya.ogg,wait=1>
+
+Star1c:I'm sensing more and more of them. They're facing outside the village.
+
+Sho0c:Even if this isn't an incident, I'm a bit worried.
+
+Marisa0b:It's close by, so let's go take a peek real quick.
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP（出撃前）
+
+Mystia0c:Considering the noise, this must be the place.
+
+Wriggle1b:Look, over by the gate! There's a whole crowd of people!
+
+Cirno0a:Is there someone outside the village?
+
+<pause>
+
+<hide=all>
+
+Eiki0a:...Hm, it seems the bridge has been meticulously repaired.
+
+Eiki0c:However, this is the main road to town. They should at the very least reinforce the barrier and triple check the bridge.
+
+Komachi4b:Could you... NOT lecture the bridge? We should be heading inside.
+
+</hide>
+
+Akyu0a:I remember that voice. If I'm not mistaken, that's...
+
+Yukari0b:Ugh.
+
+Yuyuko3a:Oh, dear...
+
+Ran0c:That was awfully unrefined of you, Lady Yukari. What could be the matter?
+
+Yukari4a:...Yuyuko, there's no doubt it's her, is there?
+
+Yuyuko2a:Hm? Whoever could you be referring to? Kidding, kidding, I have a strong suspicion myself.
+
+Reimu0f:What are you two whispering about over there?
+
+<hide=all>
+
+Eiki0a:Oh, they found us.
+
+</hide>
+
+<pause>
+
+Eiki0a:Good. Having them come to us saves some time.
+
+Komachi1c:And everyone's already gathered up for us too. Guess we arrived just in time?
+
+Eiki5a:There you go again, Komachi. There's simply no excuse for tardiness.
+
+Sakuya5b:Oh, it's Komachi. Looks like there's someone with her too.
+
+Tenshi0e:Never seen her before. Who's that short yet arrogant person?
+
+Keine1a:Hey, watch your mouth around her!
+
+Keine1a:That's none other than Eiki Shiki, Yamaxanadu!
+
+Utsuho1b:Eiki... Shabba-dabba-doo?
+
+Akyu3c:Yamaxanadu. It's a managerial position in Hell. It means "Judge of Paradise".
+
+Akyu0a:Lady Shiki is the Yama in charge of judging Gensokyo's dead.
+
+Kosuzu6b:So you meet with her whenever you reincarnate...?
+
+Mystia1b:The world is hell... ♪ The meaning of life... ♪
+
+Eiki3b:You needn't mind my presence. I'm on vacation today, so I'm merely here to patrol Gensokyo.
+
+Iku0d:Huh? You're working on your day off?
+
+Komachi1a:I can hardly believe it either, but that's what makes Lady Shiki so great.
+
+Komachi3c:On her few days off, she goes around giving advice to help people get a favorable judgement in the afterlife.
+
+Kanako0a:So that's why she's so popular in the human village.
+
+Suwako3a:It sure beats dying and then immediately hearing "Okay, go to Hell."
+
+Udonge3b:Well, I can understand the reasoning, but still...
+
+Sho0a:...It's a splendid way of thinking. I fully support her.
+
+Sho3d:If you're here to visit the village, then by all means, you needn't mind us. Go ahead.
+
+Eiki0b:I have no business in the village. I'm here to meet with all of you.
+
+Shizuha2b:Wait, us?
+
+Mokou0c:Sorry, but we're kinda in the middle of something here.
+
+<pause>
+
+Tewi4a:Yeeeeah, and she's not listening.
+
+Keine0c:...Just think of it as a rare opportunity to speak with Lady Shiki.
+
+Reimu2b:Of course you'd treat this as a learning activity...
+
+Korin1c:You're all clear to deploy! Head out!
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP（出撃後）
+
+Yamame1d:Well, that certainly took a hard swerve. Right when we were about to leave too.
+
+Kaguya3c:Learn to enjoy the moment. I never imagined an immortal like me would ever be able to meet the Yama.
+
+Yukari0a:In that case, perhaps we could hold down the fort here.
+
+Yuyuko1c:Good idea! We'll be taking a little break now.
+
+Youmu1a:Hey, what are you talking about, you two? Actually, you've been acting strange since they showed up.
+
+Yukari1a:Surely the less sagacious among us deserve a chance to receive her wisdom first?
+
+Eiki1b:Sagacious, are we? Are you sure it's wise to be so rude to me when we haven't spoken for so long?
+
+Eiki3c:I've already made time for this today, so we're going to have ourselves a nice, long chat.
+
+Letty4a:So what business do you have with us that you're even willing to start a fight over?
+
+Eiki0a:I've heard of your activities from Komachi. I must admit they interest me.
+
+Eiki0b:You're a large group of both humans and youkai who face one incident after another.
+
+Eiki0a:Your interweaving of various different fantasies embodies modern Gensokyo. You represent a new way of life.
+
+Suika0a:So in short, you're here to put that embodiment to the test?
+
+Eiki3c:Exactly. I was also considering lending you my assistance for a time.
+
+Kisume3b:Ooh, really?!
+
+Komachi0a:Lady Shiki is wary of Makura's movements too.
+
+Komachi1c:She said she wanted to help, as "someone else who watches over Gensokyo."
+
+Eiki0b:This year is a critical juncture that occurs every sixty years. What happens now has incredible significance.
+
+Yukari1a:...Oh yes, so it is.
+
+Reimu0f:Hm? What's so special about this year?
+
+Nazrin3a:All I'm getting out of this is that this is a fight we can't talk our way out of. Mind lending us a hand, Orin?
+
+Orin0a:Sure thing. Please step back, Miss Satori.
+
+Satori0b:No, Orin. She's not so simple an opponent as that.
+
+Satori0c:In which case...
+
+<pause>
+
+Yugi2a:You're fighting too, Satori?
+
+Eiki3a:Satori? Satori Komeiji came to the surface?
+
+Satori0c:Hello, it's been a long time. I plan to return to the Underworld as soon as I've finished my business here.
+
+Utsuho3c:Wow, Miss Satori. You're even friends with this know-it-all lady!
+
+Hatate2b:It's kinda surprising. I mean, I get that you're both connected to Old Hell, but still.
+
+Eiki3d:I even get to meet you again? Clearly coming here today was the right choice.
+
+Eiki0a:Now, I'll be testing the strength of Gensokyo's humans and youkai.
+
+<end>
+
+<ChatID:3>---------------------------------------
+//2PP
+
+Meiling0a:So this is Komachi's boss she's always talking about?
+
+Koakuma3d:She's every bit as nitpicky as Komachi described—
+
+Komachi2a:SHH!
+
+Chen3c:It's amazing that she can even talk to Miss Yukari and Miss Yuyuko like that!
+
+Yukari1a:If only it were merely words. Anyone who lives in Gensokyo long enough will eventually find themselves in her "care".
+
+Yukari0a:Not even Satori has managed to avoid her.
+
+LilyW3b:Oh yeah, that came up earlier...
+
+Satori0b:We're not close. She simply showed up when I was entasked with managing the Ruins of Blazing Hell.
+
+Eiki0a:I was introduced to the Komeiji sisters through Yukari Yakumo.
+
+Eiki0a:Your sister isn't with you today, I note. Is she in good health? Was she able to find peace in the Underworld?
+
+Satori0b:...
+
+Komachi4b:Ah... Lady Shiki, that's a kind of sensitive topic...
+
+Eiki0c:If she's coming to the surface, then surely things have gotten better for them?
+
+Satori0b:...I appreciate your concern. We're both doing well, thank you.
+
+Satori0c:More importantly, you wished to speak with the surface dwellers, didn't you? Don't mind me.
+
+Eiki4a:...Hmm.
+
+<end>
+
+<ChatID:4>---------------------------------------
+//さとり初戦闘
+
+Satori0b:...How long has it been since I fought on the surface?
+
+Utsuho0e:Miss Satori, I still think you should sit back and let us handle this.
+
+Satori0a:You needn't worry. My opponents can't hit me when I read their minds.
+
+Satori0a:And if it comes to it, I can always awaken their traumas for them.
+
+Udonge4a:I see, so you use mental attacks. You read the memory of an attack your target received, and force them to relive it as a hallucination.
+
+Udonge4c:What an effective tactic. Naturally that would work well on youkai, but it also affects spiritually strong humans.
+
+Satori0c:Trauma sleeps in the depths of your heart. I'll help you remember it.
+
+<end>
+
+<ChatID:5>---------------------------------------
+//ぬえ初戦闘
+
+Nue4b:...Oww, augh. Dammit Ichirin, that really hit me full force.
+
+Murasa0d:Would you like me to rub in this ointment I got from Eirin when we're finished here?
+
+Nue3d:Yeah, thanks Minamitsu. Wait, would that even work on youkai?
+
+Marisa0e:...Is this really the same Nue? It's like she's a different person.
+
+Ichirin0c:It's more like she's finally back to her old self. She must have made a lot of breakthroughs.
+
+Nue0a:The way things are now, I can be with whoever I want and do whatever I feel like, right?
+
+Nue1a:Then I can be myself again!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//メディ初戦闘
+
+Medicine2c:Erk... An enemy I've never seen before...
+
+Alice2b:If you're scared, you can stay in the back Medicine.
+
+Medicine1b:Don't act so close to me, puppeteer! I'll be fine as long as I have Sue.
+
+Parsee0a:If you looked up "cheeky youkai" in the dictionary, you'd see her face printed there. Just makes you wanna smother her with affection.
+
+Eirin0a:She was just born, so she's neither good nor evil yet. Just simple and innocent.
+
+Medicine0a:...If I can't beat chumps like this, how am I supposed to save the dolls?
+
+Medicine0e:Sue's poison is going to make you all stop moving!
+
+<end>
+
+<ChatID:7>---------------------------------------
+//小傘初戦闘
+
+Kogasa3d:So many new faces! Home run! It's a surprise grand slam!
+
+Reimu2b:...More youkai who won't shut up following me around.
+
+Sanae5d:She's a hard worker at heart though. Not to mention she seems friendly enough.
+
+Sakuya0a:If you've got youkai being friendly with you, doesn't that mean you're losing your touch as a shrine maiden as well, Sanae?
+
+Reimu5c:You've got it backwards. She should be exterminating them.
+
+Kogasa2b:You kicked me! Sadism?!
+
+Hatate0c:Hey, eyes on the battle, people. At this rate, forget a home run, aren't you gonna strike out?
+
+Kogasa0b:Right, right. Surprise, everyone! It's my danmaku!
+
+<end>
+
+<ChatID:8>---------------------------------------
+//星ナズ初戦闘
+
+Sho0a:Going into battle with the pagoda... We have to proceed carefully, Nazrin.
+
+Nazrin0a:Speaking of which, do you remember where you put it, Master?
+
+Sho0c:Huh? Umm, as I recall...
+
+Nazrin6b:...Good grief. This is the same as before. I know you've changed, so show me.
+
+Nazrin0a:If your intentions are true, then the pagoda should release its light.
+
+Sho0a:Of course. And you've been with me the whole time, Nazrin, so you should be able to draw it out too.
+
+Sho0a:Shine, pagoda! Illuminate our path!
+
+<end>
+
+<ChatID:9>---------------------------------------
+//リリーB初戦闘後
+
+LilyB0a:...
+
+Star1c:Wha... Those movements! Is that really Lily? Doesn't she seem different?
+
+Sunny1c:Something's different about her spring... Well, the snow's still melting.
+
+Eirin1d:...Interesting. There must be special fibers woven into the fabric of her clothes.
+
+Eirin2a:As a result, her fighting style and moves have been modified. If my guess is correct, then even her five senses have been...
+
+Tewi4b:Oh, c'mon. She's just being goofy in a weird way.
+
+LilyB1d:Right, I just changed my clothes for a change of mood!
+
+Udonge3a:I think you've changed a bit too much for just that... I wonder what SHE'D think if she came back from the moon and saw you now.
+
+<end>
+
+<ChatID:10>---------------------------------------
+//小町初戦闘
+
+Komachi1a:Alright, show me what you've got!
+
+Remilia2b:Oh nooo. How could you betray us, Komachi?
+
+Sakuya2c:I never took you for a shinigami who'd prioritize work over your friends. I'm positively shocked.
+
+Komachi3b:C'mon, what's with that terrible acting? But still, I'd rather do this than get caught slacking off...
+
+Eiki0c:What's this about slacking off?
+
+Komachi2a:Ack! She's got Hell's own ears!
+
+Elliy1a:Must be tough for you. But no holding anything back!
+
+Komachi1c:Fine with me. I'm sure you all could learn a thing or two from Lady Shiki's lectures anyway.
+
+Komachi3a:Let this Sanzu ferry be the opening act!
+
+<end>
+
+<ChatID:11>---------------------------------------
+//映姫初戦闘
+
+Eiki0a:I've been looking forward to this meeting.
+
+Star0c:I can't believe we're fighting the Yama...
+
+Eiki0b:This year is the sixty year juncture. Perhaps this was inevitable.
+
+Reimu0a:You brought that up before. What's so special about this year?
+
+Eiki0b:You don't know, Hakurei Shrine Maiden? Then allow me to explain.
+
+<Code=(sound_fadeout,BGM,50,0)>
+
+<BGM=bgm_talk_shigan,0>
+
+Eiki0b:Sixty years. That's when countless cycles of samsara align, and all of creation momentarily becomes one.
+
+Eiki0b:Across all of existence, journeys come to an end, and new ones begin.
+
+Sanae0g:An ending and a new beginning, then?
+
+Aya0c:Now that you mention it, it's been exactly 120 years since then...
+
+Marisa0d:So what's this juncture all about then? You're not exactly making this clear.
+
+Eiki0b:You mustn't rush to understand it. Simply keeping it in mind will suffice.
+
+Eiki0a:Right now I simply want to test for myself the Gensokyo that's approaching this moment.
+
+Reimu0a:So we're fighting. Good, simple and easy to understand.
+
+Eiki0a:This is the only method by which I may know you.
+
+Eiki0c:The accumulated karma, and the interwoven fantasies. Where will this lead?
+
+Eiki0c:This is your Fate of Sixty Years. And I will be your judge.
+
+<end>
+
+<ChatID:12>---------------------------------------
+//小町撃破前に映姫と戦闘★小町通常撃破は EvID:.
+
+Komachi3b:Hey, you can't just ignore me and cross the river!
+
+Komachi3c:I won't just sit here and let you girls pass without paying the toll.
+
+Daiyosei2b:Oh no! But I don't have any money...
+
+Chen0a:I already used up all the allowance Miss Ran gave me...
+
+Komachi0a:I don't need your earthly money. Here, you're worth the weight of your virtues.
+
+Komachi0a:Those who are deemed unloved in life may never be able to cross to Higan.
+
+Marisa0a:If we can't know how much we're worth until we die, what's the point in trying?
+
+Komachi1b:Right? That's why I'm showing you here and now.
+
+Komachi1a:I'll be appraising you! What's the price of your life?
+
+<end>
+
+<ChatID:13>---------------------------------------
+//小町スペル１撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Komachi2a:Oof, who kicked me while I was down?
+
+Tenshi6a:Sorry, habit. I'm used to fighting off shinigami.
+
+Sunny1b:So, uh, I guess life is priceless or something?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Komachi4a:Hey! Are you trying to cut and run?
+
+Tenshi1d:A good retreat is better than a bad stand. I'm not taking any trips on a shinigami's boat!
+
+</Cond>
+
+Komachi4b:My bad, Lady Shiki. They forced their way through.
+
+Eiki0a:No matter. You did what you could.
+
+Eiki3c:Why don't you stand back and observe for now?
+
+Komachi4a:Ugh, observe? Guess I won't be having that drink then?
+
+<pause>
+
+Aya7b:Aren't you off-duty? The perils of accompanying your boss on a day off.
+
+Sanae4a:But if she invited you at all, she must appreciate you, right?
+
+Momiji6a:Not exactly... As a subordinate, I'd have mixed feelings about that.
+
+Hatate3b:Still, I got a good picture out of this. Next stop, the Yama!
+
+<end>
+
+<ChatID:14>---------------------------------------
+//映姫通常撃破
+
+Eiki0a:Now before we begin your judgement, you should keep your wills even stronger.
+
+Koakuma1c:She's throwing danmaku while lecturing, and doesn't miss a beat...
+
+Patchouli4c:I wonder, can she give these lectures in her sleep?
+
+Akyu0a:Lady Shiki's words are infallible. Pay close attention to what she says.
+
+Akyu3a:If you follow her advice, you should get a favorable judgement.
+
+Youmu0b:Sounds like you know a lot about this, Akyu.
+
+Akyu0a:I'm the Child of Miare. I've reincarnated repeatedly. I live at the mercy of the Yama.
+
+Eiki0b:And between incarnations, you work under us.
+
+Kosuzu0a:Yeah, that makes sense. If you ever did die, it'd just be...
+
+Akyu4a:Kosuzu...?
+
+Eiki0a:I see at least one of you harbors misgivings about this arrangement, but it is one she wishes to maintain.
+
+Eiki0a:She may be one of the few humans who truly understands the weight of life and death.
+
+Medicine1a:Hmph? The weight of death? If that's supposed to be a threat, I'm not scared at all!
+
+Cirno2b:Even if you kill me, that's just a little nap!
+
+Eiki1a:A newborn youkai and a fairy may not understand the meaning of life and death—an unfortunate state of affairs indeed.
+
+Eiki4a:Life itself is unavoidable karma. And weighing that is the judgement of Hell.
+
+Eiki1d:Repent your ignorance in the Trial of the Ten Kings!
+
+<end>
+
+<ChatID:15>---------------------------------------
+//映姫スペル１撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Mystia2a:Geez, trials in Hell take forever...
+
+Kaguya5b:So we have to stay quiet and go along with that? Who would have thought dying would be so troublesome?
+
+Eiki3b:Were you able to understand what it will be like to be weighed in the afterlife, if only a little?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Mystia2a:Geez, trials in Hell take forever...
+
+Kaguya5b:So we have to stay quiet and go along with that? Who would have thought dying would be so troublesome?
+
+Eiki0a:Were you able to understand what it will be like to be weighed in the afterlife, if only a little?
+
+</Cond>
+
+Medicine5e:H-Hmph! That was nothing. Right, Sue?
+
+Medicine0c:Anyway, if bad people deserve admonishment, then all humans should just go straight to Hell.
+
+Eiki0b:Hmm, humans to Hell, you say?
+
+Hina2a:Medicine, you can't go around saying things like that lightly...
+
+Eiki3c:I don't mind. If you're that insistent, I'm willing to listen.
+
+Eiki1a:What evil do you claim humans have committed?
+
+Medicine1c:What else? Humans torment dolls and then throw them away!
+
+Medicine1b:That's why I have to free the dolls!
+
+Eiki3b:I see. Then where are these alleged humans and dolls?
+
+Medicine2a:Huh? Well, uhh...
+
+Eiki4a:You can't answer. This is because you know only the tiny world around you.
+
+Eiki1a:Those who don't know the pain of others can never truly care for anyone, let alone save them.
+
+Eiki1a:No matter how much you shout about freeing them, you'll never bring happiness to those dolls like this.
+
+Medicine2a:But... But...
+
+Eirin1d:You're being rather harsh. Is this how a Yama admonishes children?
+
+Eiki4a:All I wish is for everyone to lead a good life. In fact, it would serve the rest of you just as well to remember this fact...
+
+Eiki1a:Human, youkai, it matters not—without leaving your small worlds, you'll never understand the hearts of others.
+
+Satori0a:...Turning everything into a sermon. You haven't changed.
+
+Eiki1a:I'll say it as many times as it takes for everyone to have a good life, and a good death.
+
+Eiki1d:Now, it's time for your judgement.
+
+<end>
+
+<ChatID:16>---------------------------------------
+//映姫スペル２撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Eiki0a:You withstood my judgement? I see you possess some pluck.
+
+Kogasa0b:You see that? That's Persistence!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Eiki0a:You must be quick on your feet, to avoid that.
+
+Kogasa0b:You see that? That's my Obake-Alert!
+
+</Cond>
+
+Yuyuko1a:Have you seen what you wanted to, Lady Shiki?
+
+Eiki3c:Yes, that should suffice for today.
+
+Elliy3b:Woo, we won!
+
+Alice1a:Stop talking nonsense. We still have to find Koishi, remember?
+
+Eiki6b:Koishi? Did something happen to the younger satori?
+
+Suika6b:Didn't we tell you? She went missing a while ago, so we're all looking for her.
+
+Eiki0a:I see. That would explain why Satori Komeiji came to the surface.
+
+Eiki4a:Forgive me, I've taken up your time without realizing.
+
+Satori0b:No matter. Now if you'll excuse me, I'll be going.
+
+Flan0f:Hold on, didn't we tell you that we're helping too? Listen to us.
+
+Satori0b:I can't ask that of you...
+
+Eiki4a:...
+
+Eiki1a:I've changed my mind. We're not done here yet.
+
+<pause>
+
+Korin2d:Hm? She pulled something out?
+
+Akyu1a:That's the Cleansed Crystal Mirror. It reveals the past deeds of those reflected in it.
+
+Satori0c:...Were you planning to peek into our business with that?
+
+Satori0b:Do as you please, but I have nothing to discuss with you.
+
+Eiki1a:That won't do. I can clearly see that you're troubled, yet you're refusing the help of these people.
+
+Eiki1b:I'll use the power of this mirror to find a hint toward a solution.
+
+Reimu1a:Are you gonna keep lecturing us...?
+
+Eiki3c:This is a good opportunity for you all as well. The deeds of your past will lay the foundation for your growth in the future.
+
+Tenshi2e:Does she never get tired of this?!
+
+Marisa1a:Just accept your fate already, I don't see us getting out of this.
+
+Eiki1f:Now, mirror! Bring these people's karma to light!
+
+<end>
+
+<ChatID:17>---------------------------------------
+//映姫スペル３撃破（クリア）
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Daiyosei3b:W-We got through it...
+
+Eiki3b:You've endured well. That will be today's final judgement.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Daiyosei3b:I-Is it over yet?
+
+Eiki3b:Did I go too far? No matter, it should be a valuable lesson either way.
+
+</Cond>
+
+Sho2a:You have my humble thanks for kindly pointing out our faults. However...
+
+Medicine4b:...
+
+Satori5b:...
+
+Letty4a:...I'm not really in the mood to celebrate.
+
+Akyu0b:Let's head back to my home for now. We can all calm down over some tea.
+
+<end>
+
+<ChatID:18>---------------------------------------
+//スペル３発動中にさとりと映姫が戦闘、他
+
+<Code=(icon_set_direction,Satori,eiki_en,0)>
+
+<pause>
+
+Satori5c:Rgh...
+
+Utsuho4d:Miss Satori!
+
+Eiki1a:...Hmm.
+
+Youmu0a:Lady Shiki seems interested in Satori for some reason.
+
+Yukari0b:You heard her, didn't you? She knows the circumstances that led to the Komeiji sisters moving to the Underworld.
+
+Ran4b:She doesn't show it, but do you think it weighs on her?
+
+Eiki4a:I see, so that's what happened after your move.
+
+Satori5b:Are you satisfied? Don't you dare start telling me my business just because you've glimpsed my past.
+
+Satori5b:What could you possibly understand about us merely by peeking into our lives?
+
+Eiki4b:But I do understand. Even without seeing your innermost thoughts, your actions clearly bespeak your uncertainty and your impatience.
+
+Satori5b:...!
+
+Eiki0b:An endless cycle of regret and self-hatred, an effort not to show anything on your face even as your attempts fail one after another.
+
+Eiki4a:Burning with anxiety and despair, you nonetheless turn away the hands reaching out to you.
+
+Eiki1b:Indeed. You've closed your heart.
+
+Satori5b:I didn't mean...
+
+Utsuho0c:Hm? What? But Miss Satori can read minds.
+
+Eiki1a:Reading minds and opening your heart are entirely different things. You should understand what that means, Satori Komeiji.
+
+Eiki0b:It seems you wish to resolve this on your own, but...
+
+Satori5b:That's right. I need to be the one to resolve the issue with Koishi.
+
+Satori5c:I can read minds, so I should've been able to help her. But instead, I...
+
+Marisa0d:...You've been trying to do everything yourself, huh.
+
+Sanae0g:Did you think Koishi's closed eye was your responsibility?
+
+Satori5b:...I've told you again and again, this is my problem.
+
+Satori5b:I have to be the one to solve it, but... But... I don't know what to do anymore...
+
+Yugi2a:That's been bothering you this whole time...?
+
+Eiki0b:...
+
+<end>
+
+<ChatID:19>---------------------------------------
+//全滅（聖輦船）
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Kosuzu1a:Ah! There's a fire starting in the neighborhood!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Akyu2a:Ah! There's a fire starting in the neighborhood!
+
+</Cond>
+
+Korin2b:We've got to deal with that! This is no time for danmaku!
+
+Reimu3a:...C'mon, are we really gonna be like this in front of the Yama?
+
+Eiki1a:I know you're capable of more than this. Go and prepare yourselves; I'll be waiting.
+
+<end>
+
+<ChatID:20>---------------------------------------
+//ADVB
+
+<MAP=11,FROM=人間の里,TO=人間の里,name=Human Village,icon=1>
+
+<BG=*bg_talk_Village_Spring.png,fade=1,color=1,title=*bg_Village,bgm=bgm_talk_hiroshige>
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+Luna6c:Aaah, I'm beat... Never thought we'd have to fight the Yama.
+
+Nue5a:Just what we needed, an official from Hell. She should just shut up and drag her butt back to Higan.
+
+Star0a:So not even a great youkai can handle getting lectured by the Yama?
+
+Nue4b:I just don't like people nagging me. Speaking of which...
+
+Ichirin1d:...
+
+<Code=(map_shake,1,30,2)>
+
+<SE=se_talk_hit01.ogg,wait=1>
+
+Nue2a:Ow! What the heck, Ichirin?! I didn't even say your name yet!
+
+Murasa0b:I'm surprised you two still have the energy for that after a battle like that...
+
+Alice2c:We're all tired, so let's head back to Akyu's mansion for now.
+
+Medicine4a:...
+
+Nitori3e:You'll get left behind if you keep walking that slow, Medicine.
+
+Medicine0a:I know...
+
+Medicine4b:...
+
+Eirin0d:Is Eiki Shiki's lecture still bothering you?
+
+Medicine2a:Well, yes. It'd be weirder if I weren't bothered, after she said all that!
+
+Medicine0d:But... Was she right? Even if I free the dolls, will that not make them happy?
+
+Medicine4b:I mean, it's true that I haven't met any of my comrades yet...
+
+Alice4a:I didn't mean...
+
+Hina4a:I wanted to wait a little longer before we talked about this, but...
+
+Hina0b:I think that you're misunderstanding the relationship between dolls and humans.
+
+Medicine2a:I am?
+
+Hina2a:It's true that dolls have all sorts of things forced on them by humans. And sometimes that involves hatred, or curses.
+
+Hina0a:But even so, that doesn't mean the dolls are necessarily unhappy.
+
+Medicine2a:Why not? They're just subject to whatever humans demand of them.
+
+Hina0a:Because dolls were made by humans. Fulfilling the purpose you were born for, even sacrificing yourself for it, is another form of happiness.
+
+Hina3a:And the humans themselves are saved by the dolls too. They both need each other.
+
+Medicine2a:So if I free all the dolls by killing the humans, then...
+
+Eirin1c:Then you won't necessarily bring those dolls happiness. In fact, they may even suffer for it.
+
+Luna4a:But if you really want to do it anyway, there's not much we can say.
+
+Medicine5a:I'm not dumb! I'm not gonna keep going even after hearing all that!
+
+Medicine4b:But... If so, then what am I even here for?
+
+Medicine4a:I finally left the field, but now what? I don't have anything anymore...
+
+Sunny0c:Why don't you find a new objective then?
+
+Medicine2a:How am I supposed to do that?! I don't know anything about anything out here!
+
+Medicine2a:I don't even know how to feel other people's pain, like she was saying...
+
+Nitori1a:That's no reason to feel down. You can learn these things little by little. Didn't we tell you that before?
+
+Eirin3d:If you want to learn about other people, then you're in luck. There are plenty of subjects to learn from right around you.
+
+Medicine2a:But...
+
+Alice0d:Everyone's anxious at first. But as long as you keep relying on other people and being relied on in turn, I'm sure you'll mature, little by little.
+
+Alice3b:We can stay with you as long as you're willing to have us.
+
+Medicine2c:...
+
+Medicine2b:Sue says that's okay.
+
+Nue3a:Oh, you're finally behaving yourself? Good, that's how kids oughta at.
+
+Unzan0a:...
+
+Ichirin4a:Unzan says, "You didn't even say anything to her, so stop acting cocky."
+
+Star3c:Anyway, we should get to Akyu's house. They've probably got the tea ready by now.
+
+<MAP=11,FROM=人間の里,TO=人間の里,name=Hieda Manor,icon=1,fade=0>
+
+<BG=*bg_talk_Hieda_Spring.png,fade=1,color=1,title=*bg_Hieda,bgm=bgm_talk_ningyo>
+
+<SE=se_talk_dish03.ogg,wait=1>
+
+Minoriko3a:Ah... This tea really hits the spot!
+
+Iku3c:It's like my whole life was just so I could drink this cup of tea.
+
+Shizuha2b:Uh, aren't you two getting a little too comfortable in someone else's house?
+
+Minoriko3b:C'mon, Shizuha, who wouldn't be exhausted after listening to a lecture that long?
+
+Minoriko0a:And while we're at it, I wouldn't mind a little massage.
+
+Kogasa0b:Leave that to me! I've always wanted to try acupuncture!
+
+Wriggle5b:No, wait, I really don't think an amateur should be doing that...
+
+<SE=se_talk_walk_indoor01.ogg,wait=1>
+
+Komachi1c:I'd be happy to give you some tips on good pressure points for stiff shoulders.
+
+Alice0d:Looks like you've all settled in quick.
+
+Daiyosei0c:Oh, Komachi. You and Alice's group sure took a while...
+
+Hina0a:We lingered a while to chat. I suppose everyone else is back now?
+
+Komachi1a:That sure took a long time. Just what I'd expect from one of Lady Shiki's lectures.
+
+Tenshi2e:She should put herself in our shoes. It's been nothing but lectures since we met! I'm sick of it!
+
+Letty3a:But only a Yama could offer so much meaningful advice.
+
+Iku3a:She was a bit pushy, but you can tell she meant well.
+
+Komachi1c:Yeah, exactly. That's why she's so popular in the village.
+
+Komachi4a:Although sometimes she can get a bit abstract, leaving them even more confused than before.
+
+Youmu3a:Yes, I can see that.
+
+<single>
+
+Lunasa4a:...
+
+</single>
+
+Merlin4a:Hmm, I wonder...
+
+Yuyuko1d:You look pensive. Did Lady Shiki bother you?
+
+Lyrica4b:Oh, Yuyuko. I wouldn't put it like that...
+
+Lunasa4b:When we were reflected in the mirror, I had the strangest feeling. Like something was filling me up.
+
+Merlin2a:It didn't show us anything about our past though.
+
+Suika0c:Your past, huh?
+
+<SE=se_talk_walk_indoor01.ogg,wait=1>
+
+Eiki0a:What's important is to take this opportunity to reflect on it for yourselves.
+
+Youmu4a:Good work, Lady Shiki.
+
+Komachi1c:Looks like they've made tea for us. Why don't we sit down with them for a bit?
+
+Eiki3c:Hm. While I do carry my own flask of water, I won't refuse such hospitality.
+
+Eiki0b:But first, where is Satori Komeiji?
+
+Suika3d:C'mon, you've got even MORE to say to her?
+
+Eiki6a:How rude. I was rather tense before, and I simply want to ensure I didn't say anything that would create cause for misunderstandings.
+
+Lyrica3c:...Don't tell me that the Yama is worried that she went too far?
+
+Yuyuko1a:Satori's sitting quietly over there.
+
+Eiki4a:Alright, then...
+
+<SE=se_talk_walk_indoor01.ogg,wait=1>
+
+<single>
+
+Satori0b:...
+
+</single>
+
+Parsee0a:...C'mon, cheer up. This tea they're serving is so expensive it's almost tacky.
+
+Reimu0e:Although I can see how it'd be hard to enjoy after getting ripped into like that.
+
+Sanae0g:But I'm sure Eiki meant all that as advice...
+
+<SE=se_talk_walk_indoor01.ogg,wait=1>
+
+Eiki4b:Indeed. I thought it might help break through your current stagnation.
+
+Satori5b:Eiki Shiki. You still have more to say to me?
+
+Satori5b:You seem worried that you may have said too much. I'm not terribly bothered.
+
+Eiki4a:Ahem. Then it seems you won't mind if I continue our conversation.
+
+Eiki0a:Speaking frankly, I think you should accept the help of these people in the Koishi Komeiji matter.
+
+Satori5b:...
+
+Eiki3a:Didn't you reveal your true feelings earlier?
+
+Eiki0c:That you don't know how you should proceed?
+
+Orin5a:Hold on, now...
+
+Kanako1a:There's no point in being evasive about this. I understood immediately as soon as I heard that.
+
+Yugi1c:This whole time, you've always been waving it off, just telling us you were fine.
+
+Suwako0a:It's because you haven't been able to say it clearly that Okuu and Orin came up here looking for Koishi, you know.
+
+Utsuho2c:Grk...
+
+Satori5b:...I understand. I have no choice but to admit it then.
+
+Satori5b:As it is, we alone aren't enough to find Koishi. That's an undeniable fact.
+
+Satori5b:It's also unclear to me what move to take next.
+
+Meiling5a:Then it's easy! All you have to do is ask us for help, and—
+
+Satori5d:But even so, I have to be the one to resolve the matter with Koishi.
+
+Remilia1d:Well, someone's stubborn. Pretty sure we already know why though.
+
+Yukari0b:...
+
+Satori5b:...And that's that. I appreciate your concern, but please leave Koishi to me.
+
+Yukari1a:...No. After seeing you bare your heart like that, there's no chance of us letting that happen.
+
+Marisa1b:She's right! We're helping you whether you like it or not!
+
+Satori5a:What are you talking about...?
+
+Yugi1a:It's not that we'd do this for any random person. We're doing this BECAUSE it's you.
+
+Yukari0a:It's because we know that you're the one most worried about Koishi, and the one who's spent the most time mulling this over.
+
+Satori5a:...
+
+Reimu0b:Yeah, pretty much. We saw how much you care about your family back in the Yatagarasu incident.
+
+Keine6b:If you think we're lying, then just read our minds.
+
+Utsuho3a:Wow...!
+
+Orin0a:I think they're serious, Miss Satori.
+
+Satori5b:Fine. I'll read their minds and...
+
+Satori5b:...And that's not the point at all, is it? I've seen what's in their minds all along.
+
+Eiki3b:Even if you can read minds, being able to accept it is another matter entirely.
+
+Eiki0a:That will be true for your next task as well. Feelings don't change that easily.
+
+Satori5b:True. I can't say anything immediately...
+
+Remilia0c:That's fine by us. Remember, we're simply offering to assist.
+
+Remilia1e:If you think there's some part you feel that you have to do yourself, then do it.
+
+Keine0c:But you should probably tell us what's going on in more detail so we can help you better.
+
+Satori5a:...
+
+Satori5b:Alright. In that case...
+
+Kanako0a:Good. If that's settled, then let us prepare to leave immediately.
+
+Akyu1a:We were heading to the northern woods. We should form a search party centered around the Palanquin Ship.
+
+Momiji3c:My thousand-li vision, Reisen's wavelengths, and Star's radar should all be useful here.
+
+Hatate5b:I can use my thoughtography too. All I need is a keyword to search for.
+
+Kogasa2b:Hey! I wanna offer some input too!
+
+Orin7b:They must be used to this. They're all on top of things already.
+
+Satori5b:Yes...
+
+Eiki3d:How reassuring. If only you could be so on top of things, Komachi.
+
+Komachi5a:I'd rather just do things at my own pace, y'know? But wait, were you serious about coming with us, Lady Shiki?
+
+Eiki0a:Of course. How could I overlook someone in need? It's a good opportunity to see how things are for everyone as well.
+
+Eiki3b:Come now, Komachi. Don't just sit there.
+
+Komachi3c:Yeah, yeah. Just lemme get a little more of that tea before we go.
+
+<end>
+
+<ChatID:21>---------------------------------------
+//映姫vs.霊夢
+
+Eiki0c:You are Reimu Hakurei, this generation's Hakurei Shrine Maiden.
+
+Eiki0c:You've exterminated youkai for no reason at all. You've even exterminated non-youkai.
+
+Eiki0b:Not only do you fail to honor the gods as a shrine maiden, you go so far as to bare your fangs at them. 
+
+Reimu0a:What else was I supposed to do? Exterminating youkai and stopping incidents is my job.
+
+Eiki0c:It being your job is no excuse for your sins. Would you raise your hand against a human if your duty demanded it?
+
+Reimu0d:I never said...
+
+Eiki1a:Indeed, your karma is a little too deep.
+
+Eiki1b:If you wish to reduce your sins, even a little, then you need to accumulate good deeds. But first you must repent for your way of life!
+
+<end>
+
+<ChatID:22>---------------------------------------
+//映姫vs.魔理沙
+
+Eiki0b:The magician from the human village, Marisa Kirisame.
+
+Eiki0c:You lie a bit too much.
+
+Marisa4c:Wow, harsh. But I've never lied in my life.
+
+Eiki0c:If you don't change your attitude, the punishment will be removal of the tongue.
+
+Marisa6a:That's why I keep spare tongues.
+
+Eiki1a:We'll remove as many tongues as necessary. We mean this advice to allow the living to be unburdened by sin.
+
+Eiki1b:But in your case, perhaps a little suffering will encourage you to change your ways!
+
+<end>
+
+<ChatID:23>---------------------------------------
+//映姫vs.大妖精
+
+Daiyosei0a:I never thought I would be talking to the Yama...
+
+Eiki0a:I visit Gensokyo often. Perhaps we just haven't met.
+
+Eiki0c:More importantly...indeed, you're a bit too timid.
+
+Daiyosei4d:But that's...
+
+Eiki1a:When times get tough, tears cannot be all you have to offer, I trust.
+
+Eiki1b:If you succumb to your weakness, you won't be able to help anyone. Even if you're a fairy, repent here and now!
+
+<end>
+
+<ChatID:24>---------------------------------------
+//映姫vs.ルーミア
+
+Rumia3a:Speaking of Hell, those Higan crackers we had earlier were pretty good...
+
+Eiki0b:You speak only of your immediate feelings, never giving anything any deeper thought.
+
+Eiki0b:Such a liberated way of life is certainly youkai-like, however...
+
+Eiki0c:Indeed, you ignore the topic a little too much.
+
+Rumia0a:Ooh, really?
+
+Eiki1a:That is precisely the attitude I speak of. If you ignore my warning, you will accumulate sins without even realizing it.
+
+Eiki1b:Repent here and now, before you fall to Hell!
+
+<end>
+
+<ChatID:25>---------------------------------------
+//映姫vs.チルノ
+
+Cirno1a:Okay, big-shot from Hell! Fight me!
+
+Eiki0b:A praiseworthy attitude. But while you may possess great power for a fairy, because of that much of your domain is ambiguous.
+
+Eiki0c:Indeed, you cause a bit too much trouble.
+
+Cirno0b:What do you mean, trouble?
+
+Eiki0c:If you don't know your own limits, your power over nature could cause you irreversible damage.
+
+Eiki0c:In other words, death. Such is the price of going too far.
+
+Cirno2c:I-I'm not a human! You can't scare me with that!
+
+Eiki1a:The murmur of a brook, the chirping of insects. There is no such thing as an eternity in the world of nature. Even nature itself will someday die.
+
+Eiki1b:You need to realize what it means to carry great power!
+
+<end>
+
+<ChatID:26>---------------------------------------
+//映姫vs.美鈴
+
+Eiki0b:The scarlet devil's gatekeeper. I've heard about your usual work habits.
+
+Meiling7a:My usual...and what would that be?!
+
+Eiki1b:Indeed, your attitude toward your work is a little too lax.
+
+Meiling2a:Yeah, that figures...
+
+Eiki0c:Napping, chatting, practicing tai chi. Without honest work, all you're doing is coasting through life.
+
+Meiling3a:But Komachi says taking things at your own pace is important!
+
+Eiki1a:So Komachi is still saying things like that...dispense with the sophistry and listen to my lecture.
+
+Eiki1b:For now, I'll hand down a harsh judgment, if only so we don't keep talking in circles.
+
+<end>
+
+<ChatID:27>---------------------------------------
+//映姫vs.小悪魔
+
+Koakuma1c:Please go easy on me, o great Yama.
+
+Koakuma3d:I know! Why don't I give you a shoulder rub?
+
+Eiki0b:I hate to disappoint you, but I'm feeling perfectly limber already.
+
+Koakuma4a:Is that right? Massage is my specialty, so I just thought you might enjoy one...
+
+Eiki0b:It's fine to be friendly. However, it can sometimes that can lead the person you converse with astray.
+
+Eiki0c:Indeed, you tempt others a bit too much.
+
+Koakuma5b:That's not true at all!
+
+Eiki1a:It's obvious from your tone and body language. If you aren't aware of it, that simply adds to your sin.
+
+Eiki1b:So that you don't continue to sin, just this once, I will deliver my judgment here!
+
+<end>
+
+<ChatID:28>---------------------------------------
+//映姫vs.パチュリー
+
+Patchouli0c:Let's see, how to avoid having my tongue removed by the Yama...
+
+Eiki0b:A thirst for knowledge is admirable. However, all books have a writer behind them. And they don't necessarily reflect reality.
+
+Eiki0c:Indeed, you rely on books a bit too much.
+
+Patchouli4e:Hmhmhm, so with two tongues both will be removed...
+
+Eiki1a:I see. It seems clear that no matter what I say, you're going to stick to your way of doing things.
+
+Eiki1b:This is a fine opportunity to give you firsthand experience with the weight of my judgment, which you won't find in any book!
+
+<end>
+
+<ChatID:29>---------------------------------------
+//映姫vs.咲夜さん
+
+Eiki0b:I've heard about you from Komachi. Someone who serves a devil while human.
+
+Eiki0c:But you've been a bit too cold towards your fellow humans.
+
+Sakuya1c:A knife has no blood to circulate.
+
+Eiki0c:You may very well never cross the Sanzu river with that attitude.
+
+Sakuya1c:I'm not concerned with what happens after I die. I prefer to treasure the present.
+
+Eiki1a:It's sad to see more and more people thinking like that. Aiming for a better afterlife is the only way to have a good life in the present.
+
+Eiki1b:Repent now, before you regret it after death!
+
+<end>
+
+<ChatID:30>---------------------------------------
+//映姫vs.レミリア
+
+Remilia4a:You're all pathetic. Cowering in fear just because it's the Yama?
+
+Remilia1e:Who cares if she sentences me to Hell? That won't work on the great Remilia.
+
+Eiki0b:I haven't come here to fight. It seems you only see what's right before your eyes.
+
+Eiki0c:Indeed, you're a little too childish.
+
+Remilia4a:Childish? Excuse me?!
+
+Eiki1a:You have a bad habit of thinking the world revolves around you.
+
+Eiki1b:I can only hope this judgment will help you grow up a little!
+
+<end>
+
+<ChatID:31>---------------------------------------
+//映姫vs.フラン
+
+Flan3c:Tee hee! The Yama came up from Hell to play with me!
+
+Eiki0b:I'm not here for amusements, but this is a fine opportunity to offer you my teachings.
+
+Eiki0c:Indeed, you're a bit too spoiled.
+
+Flan3b:So what? I've got 496 years' worth of lost time to make up for.
+
+Eiki1a:It is a good thing to get along with your family, but until you find own role, you can't be called independent.
+
+Eiki1a:I hope this judgment will be an impetus for you to change your attitude!
+
+<end>
+
+<ChatID:32>---------------------------------------
+//映姫vs.レティ
+
+Letty0c:A lecture from the Yama, huh? Are you going to tell this winter youkai to withdraw?
+
+Eiki0b:If you're aware of your situation, then I have nothing to say.
+
+Eiki0c:More importantly, yes, you're a little too cool-headed.
+
+Letty0b:I don't consider that a bad thing.
+
+Eiki1a:You lack the intrinsic motivation to do good deeds.
+
+Eiki1b:You may be a youkai, but you must repent so that your life in the world of the living can be a better one!
+
+<end>
+
+<ChatID:33>---------------------------------------
+//映姫vs.橙
+
+Eiki0b:Yukari Yakumo's shikigami's shikigami. It seems that you're leading the cats, for now.
+
+Eiki0c:However, you're a little too... unreliable.
+
+Chen4b:Oh... I'm sorry...
+
+Eiki0c:Your willingness to admit your flaws is commendable, but have you considered constructive ways to improve upon them?
+
+Eiki1a:If you correct your mistakes on your own, you won't make the same mistake twice.
+
+Chen4c:That's easy for you to say... Where would I even start?
+
+Eiki1b:When you stop thinking, you stop growing. Now's the time to accept my judgment and correct that attitude!
+
+<end>
+
+<ChatID:34>---------------------------------------
+//映姫vs.アリス
+
+Alice0a:So you're Gensokyo's Yama...
+
+Eiki0c:What exactly are you so scared of?
+
+Alice2b:...!
+
+Eiki0b:I've known of you since you arrived in Gensokyo. You aspire towards magic and offer advice to the shrine maiden, yet you also have a cowardly side.
+
+Eiki0b:Regardless of how many others acknowledge you, you are afraid of seeing your own limits. The stronger the enemy, the more you hold back.
+
+Eiki0c:Indeed, you're a little too lacking in confidence.
+
+Alice4b:I didn't mean...
+
+Eiki1a:Self-confidence is quite literally trust in oneself. Without making efforts to know oneself, you'll never earn it.
+
+Eiki1b:If you want your time here to bear fruit, accept my danmaku judgment and reflect on yourself!
+
+<end>
+
+<ChatID:35>---------------------------------------
+//映姫vs.リリー
+
+LilyW0a:It's almost spring, Yama!
+
+Eiki0b:The fairy who announces spring. I have nothing but respect for your professionalism, but...
+
+Eiki0c:You are indeed... TOO spring.
+
+LilyW0d:Huh?
+
+Eiki4a:Perhaps I wasn't very clear. You're too optimistic.
+
+LilyW3d:I mean, I got that part, but...
+
+Eiki1b:Allow me to finish. There's nothing wrong with getting excited over spring, but let my danmaku judgment cool your head for today!
+
+<end>
+
+<ChatID:36>---------------------------------------
+//映姫vs.ルナサ
+
+Eiki0b:The noisy sisters who throw concerts regardless of time or place. This mirror reflects your past.
+
+Eiki0c:However...
+
+Lyrica0c:Ooh, so she can rewatch all our old concerts! I wonder if even the Yama will be moved!
+
+Eiki0b:...No. You three lack grounding for who you are.
+
+Eiki0c:Indeed, your selves are too ambiguous.
+
+Lunasa0a:Ambiguous...?
+
+Merlin2b:Don't we live to make noise? We're, like, the last people you should be saying that too.
+
+Eiki0c:Let's assume that's true. Then why do you play concerts?
+
+Lyrica5a:But that's...
+
+Merlin5a:How are we supposed to answer that...?
+
+Lunasa0a:...
+
+Eiki1a:You've forgotten your reason for being. This is enough to lead to a miserable end, but leaving you alone would be too pitiful.
+
+Eiki1b:Allow me to give you this chance to reflect upon your pasts.
+
+<end>
+
+<ChatID:37>---------------------------------------
+//映姫vs.メルラン（不使用）
+
+<end>
+
+<ChatID:38>---------------------------------------
+//映姫vs.リリカ（不使用）
+
+<end>
+
+<ChatID:39>---------------------------------------
+//映姫vs.妖夢
+
+Youmu0a:This is the first time I've seen you, but I've heard about you from Lady Yuyuko, Lady Shiki.
+
+Eiki0b:The gardener of Hakugyokuro. I know of both you and the condition of the Netherworld.
+
+Eiki0c:In your case, hmm... You come to the living world too often.
+
+Youmu0b:That's a sin?
+
+Eiki0b:As half-human, half-ghost, you are caught between the living and the dead. That's precisely why you live in the Netherworld and can cut spirits.
+
+Eiki0c:Haven't you been ignoring that and thoughtlessly befriending the residents of this world?
+
+Youmu3a:But I had thought that because of my inexperience, I needed to know more of the living world...
+
+Eiki1b:You have a good mindset, but you need to act with more awareness of the balance. Accept my judgement, and reflect!
+
+<end>
+
+<ChatID:40>---------------------------------------
+//映姫vs.ゆゆ様
+
+Eiki0b:...How long has it been since we last spoke, Yuyuko Saigyouji?
+
+Yuyuko1c:Youmuuu! Lady Shiki is bullying meee!
+
+Eiki0c:I see you're the same as always. Both you and Yukari Yakumo.
+
+Eiki0b:But regardless, while you seem to be used to managing the Netherworld now, don't you think you've been coming to the living world too often?
+
+Eiki0b:Your soul belongs in the Netherworld. You must never forget your role.
+
+Yuyuko0a:How could I? But recently I've getting curious. How long have I been in the Netherworld anyway?
+
+Eiki0b:I see. While a ghost certainly needs to know its basis, it's hardly praiseworthy to take action behind others' backs.
+
+Eiki0c:Indeed, you're a little too sparing with your words.
+
+Yuyuko1d:...
+
+Eiki1a:Those around you take things more seriously than you know. It's no different when they see you.
+
+Eiki1b:Now repent before you become a lonely, wandering ghost!
+
+<end>
+
+<ChatID:41>---------------------------------------
+//映姫vs.紫
+
+Yukari6c:What an auspicious day it is, having been marked by your presence, Lady Shiki.
+
+Eiki0c:A baldfaced lie at this point, Yukari Yakumo. Perhaps you should have said that when I first showed up?
+
+Eiki0b:But regardless, I see you've been fulfilling your duty of managing the barrier without issue.
+
+Yukari0a:Correct, I've forgotten nothing.
+
+Eiki0b:Of that I can trust. I'm sure you've maintained the various barriers necessary to fulfill your duty.
+
+Eiki0b:However, even as you meddle in more and more lives, your core remains unaffected by others.
+
+Eiki0c:Indeed, you've taken on too much.
+
+Yukari0b:...
+
+Eiki1a:Living while holding an attachment to everything is impossible for a single youkai. All the moreso for a sage.
+
+Eiki1b:Reevaluate your position before your paradox grows too large to bear!
+
+<end>
+
+<ChatID:42>---------------------------------------
+//映姫vs.藍
+
+Ran0a:It's an honor to be in your presence, Lady Shiki.
+
+Eiki0b:You're as courteous as ever. But sometimes you can come across as looking down upon others.
+
+Eiki0c:Indeed, you think a bit too highly of yourself.
+
+Ran0b:I see...
+
+Eiki1a:No matter your strength and wisdom, you are but one youkai. If you don't change your attitude, you may find yourself beset on all sides with enemies.
+
+Eiki1b:Be grateful that there is someone in a position to chastise you!
+
+<end>
+
+<ChatID:43>---------------------------------------
+//映姫vs.リグル
+
+Wriggle0c:So are you going to lecture me now, Miss Yama?
+
+Eiki0b:If you believe you have something worth being chastised for, then you are likely correct.
+
+Eiki0c:Indeed, you're a bit too unreliable.
+
+Wriggle4a:Oof, Yamame told me the same thing...
+
+Eiki1a:In order to lead others, you must carry yourself as a great figure.
+
+Eiki1b:The timid will only be taken advantage of. Repent, before you bring misfortune to those who would follow you!
+
+<end>
+
+<ChatID:44>---------------------------------------
+//映姫vs.ミスティア
+
+Mystia1b:Sakura sakura... ♪ At the shrine and the mound, as far as the eye can see... ♪
+
+Eiki0b:Ah, a sparrow youkai. Your singing is—
+
+Mystia3d:Is it fog or a cloud... ♪ The scent of Higan... ♪
+
+Eiki0b:Listen when others speak. You are unaware of the power of your songs. Sometimes quelling the soul, sometimes exciting it.
+
+Eiki0c:Indeed, you bring a little too much chaos.
+
+Mystia0c:...Huh?
+
+Eiki1a:If you continue thoughtlessly singing, someday you will take on a great sin.
+
+Mystia1b:Are you lecturing me? But all that kinda stuff goes in one ear and out the other.
+
+Eiki1b:Are you... PROUD of being a birdbrain? Then I'll have to make this a harsh judgment, one you'll never forget.
+
+<end>
+
+<ChatID:45>---------------------------------------
+//映姫vs.慧音
+
+Keine0a:It's been quite a long time. I never imagined the Yama herself would grace us with her presence...
+
+Eiki0b:I'm here on private business, so you needn't go out of your way to show such respect.
+
+Eiki0c:More importantly... Indeed, you're a bit too supportive of humans.
+
+Keine0c:I like to think I understand them, but...
+
+Eiki0b:As a half-beast, you stand between human and youkai. Your position should allow you to understand both perspectives.
+
+Eiki0b:But by favoring one side over the other, you lose your impartiality.
+
+Keine7a:...Thank you for letting me know. I see now to my shame just how limited my perspective is.
+
+Eiki0a:That said, I do commend your lofty goal of teaching everyone, human and youkai alike.
+
+Eiki0c:Keep that spirit with you. For now, I'll be testing your strength.
+
+<end>
+
+<ChatID:46>---------------------------------------
+//映姫vs.てゐ
+
+Tewi1a:Well, well, if it isn't the Yama herself. I'm currently collecting donations for the unfortunate little bunnies at home...
+
+Eiki1a:Ah, the fast-talking rabbit youkai. Were you expecting to simply duck beneath my notice?
+
+Tewi3d:What would I have to worry about? I'm the smartest and cutest rabbit in Gensokyo, just ask anyone. Not to mention the most obedient to humans!
+
+Eiki0b:I think you mean the rabbit most prone to clever flattery. What you do goes beyond the pranks of the fairies and veers into fraud.
+
+Eiki0c:Indeed, you trick too many people.
+
+Tewi0b:...
+
+Eiki1a:At this rate, you'll find yourself skinned by someone else before you face my judgement.
+
+Tewi1c:Can't you cut me a little slack?!
+
+Eiki1b:If you have even the slightest desire to repent, then accept my judgement in good faith. Between Heaven and Hell, which would you prefer?
+
+<end>
+
+<ChatID:47>---------------------------------------
+//映姫vs.鈴仙
+
+Eiki0b:All of your past deeds are reflected in the Cleansed Crystal Mirror.
+
+Udonge2b:Wait, my past deeds?!
+
+Eiki0b:...I see. You bear a heavy sin.
+
+Eiki0b:You've betrayed your masters, killed your comrades, and now live only for yourself.
+
+Eiki0c:Indeed, you're a bit too selfish.
+
+Udonge2b:...!
+
+Eiki0b:If you fail to address your sins, you are bound for Hell without question.
+
+Udonge2b:Can't I get out of it?! I'm trying my best to live an honest life now!
+
+Eiki1a:Reflecting alone won't help, nor will regrets. You must face the sins of your past and be judged.
+
+Udonge5a:But I already apologized to my old master, and she let me off...
+
+Eiki1a:She merely overlooked it. That's not the same as forgiveness.
+
+Eiki1b:You're too quick to interpret things in your favor. A sin is not so easily forgiven. You should realize this!
+
+<end>
+
+<ChatID:48>---------------------------------------
+//映姫vs.永琳
+
+Eiki0c:The Lunarian in hiding from the moon. Your sins are innumerable.
+
+Eirin0a:True. How unfortunate, then, that you'll never get the chance to judge me for them.
+
+Eiki0b:Spare me the arrogance. Correcting people like you is precisely why I came to give my judgment today.
+
+Eiki0b:In deciding your own punishment, you took the lives of your comrades and made your escape.
+
+Eiki0b:And even in atonement, you built your own cage of eternity.
+
+Eiki0c:Indeed, you're a little too conceited.
+
+Eirin1d:Is that all you have to say?
+
+Eiki0c:I will judge all of Gensokyo's residents impartially, regardless of birthplace. You're no longer a Lunarian, correct?
+
+Eiki1b:The way to lighten your sins is to feel the weight of my words and repent even one moment sooner!
+
+<end>
+
+<ChatID:49>---------------------------------------
+//映姫vs.輝夜
+
+Kaguya5b:*sigh* I just don't see the point of a lecture.
+
+Kaguya5a:I have all the time in the world, so what's the rush? I can always improve myself later, can't I?
+
+Eiki0b:With that attitude, even an eternal life would simply be spent eternally piling on more sins.
+
+Eiki0c:Indeed, you're a little too unhurried.
+
+Kaguya3f:So what? I'm not dying anyway.
+
+Eiki1a:You exert a bad influence on others. It's not as if you don't have other long-lived people around you you could learn from.
+
+Eiki1b:I shall judge your sins and fix that attitude of yours!
+
+<end>
+
+<ChatID:50>---------------------------------------
+//映姫vs.妹紅
+
+Eiki0c:A Houraian. You know your own sins, I trust?
+
+Mokou0b:Well, I've got a pretty good guess.
+
+Eiki0b:Regardless of your circumstances, you bear the karma of having killed people and become immortal.
+
+Eiki0b:Yet you've spent long years shunning the company of humans and hating another.
+
+Eiki0c:Indeed, you're a little too selfish.
+
+Mokou0a:...
+
+Eiki1a:You can't change your past. But that's exactly why what you do from here on is even more important.
+
+Eiki1b:If you wish to change, then you'll need to make the proper effort. In order to ensure this, take today's judgement to heart!
+
+<end>
+
+<ChatID:51>---------------------------------------
+//映姫vs.穣子
+
+Minoriko1b:What do we do, Shizuha?! We're up against the Yama!
+
+Shizuha2b:I bet she'll tell us we love autumn too much or something!
+
+Eiki0c:Indeed, you're both a little too fond of autumn.
+
+Shizuha2a:See? Called it!
+
+Eiki0b:There's nothing wrong with favoring one season, but it's important that the four seasons together form a grander cycle.
+
+Eiki0b:You devalue the other seasons too much. Spring and winter are just as—
+
+Minoriko1b:Stop! I'd rather go to Hell than be forced to love winter!
+
+Shizuha3a:The chill of winter is worse than Freezing Hell!
+
+Eiki5e:...If this is how the autumn gods are, what's going to become of the sixty year juncture?
+
+Eiki1b:It's not too late. Accept my judgment and repent now!
+
+<end>
+
+<ChatID:52>---------------------------------------
+//映姫vs.静葉（不使用）
+
+<end>
+
+<ChatID:53>---------------------------------------
+//映姫vs.雛
+
+Eiki0b:A god of misfortune. It seems you've been properly fulfilling you duties for the humans.
+
+Hina0a:Yes, to the extent of my abilities.
+
+Eiki0b:However, if you concentrate too much misfortune, the results of a leak could be disastrous.
+
+Eiki0c:Indeed, you've been hoarding a bit too much.
+
+Hina0b:...
+
+Eiki1a:I recognize that you've been dutiful, but that itself can bring sorrow. Such is the fate of a god of misfortune.
+
+Eiki1b:Take my danmaku judgement and reflect on your error before you cause a calamity!
+
+<end>
+
+<ChatID:54>---------------------------------------
+//映姫vs.にとり
+
+Eiki0b:The mountain kappa. I've been aware of your tendencies ever since you left the mountain two summers ago.
+
+Eiki0b:You knew of the laws, yet you acted on your emotions and broke them. And even afterward, you treat being friends with humans as a good thing.
+
+Eiki0c:Indeed, you're a little too friendly toward humans.
+
+Nitori3a:Hey, that's not fair...!
+
+Eiki1a:There's a reason your society is structured the way it is. You can't say that your rash actions won't have lasting effects on mountain culture.
+
+Eiki1b:If you wish to have long-lasting friendly relations, you'll need to understand that and exercise discipline. Now repent!
+
+<end>
+
+<ChatID:55>---------------------------------------
+//映姫vs.椛
+
+Momiji0a:I've seen you before, from the mountain. I know you've been coming to Gensokyo.
+
+Eiki0b:What sharp eyes you have. But is that because you were doing your job, or because you were bored?
+
+Eiki0c:Regardless, hmm... You rely on your eyes a little too much.
+
+Momiji3c:What do you mean?
+
+Eiki1a:In order to live in society, it is vitally important to observe your surroundings. But trusting your eyes too much actually narrows your vision.
+
+Eiki1a:For example, in danmaku battles, haven't you found yourself captivated by the enemy's movements?
+
+Momiji0a:I admit that's happened...
+
+Eiki1b:If your don't correct this, your vision will only become narrower day by day. I'll take this chance to judge you before that happens!
+
+<end>
+
+<ChatID:56>---------------------------------------
+//映姫vs.文
+
+Aya0a:If the honorable Yama is here, then this evening's article practically writes itself.
+
+Eiki0b:The tengu are certainly enamored with novelty, aren't they? But that attitude may lead to unforeseen complications.
+
+Eiki0c:Indeed, you're a little too curious.
+
+Aya0c:Isn't that natural for a people as long-lived as us?
+
+Eiki1a:The problem is self-awareness. You write articles for your own amusement, but do you even recall the problems you've caused?
+
+Eiki1b:You distort information for your readers, causing unintended issues. If you continue being a reporter, then accept responsibility for your actions!
+
+<end>
+
+<ChatID:57>---------------------------------------
+//映姫vs.早苗さん
+
+Sanae0g:I never imagined I'd come face-to-face with the great Yama herself.
+
+Eiki0b:That's understandable, for someone who's come from the Outside World.
+
+Eiki0b:It's rare for a human to voluntarily pass into fantasy and acclimate to it. However, vestiges of when you moved linger strongly within you.
+
+Eiki0c:Indeed, you're a little too stuck.
+
+Sanae0g:I like to think I'm putting forth a proper effort to adjust to Gensokyo's standards...
+
+Eiki1a:This isn't about values. The fear of losing the gods you believe in, and the hope of moving to a new land. These feelings still intertwine in your heart.
+
+Eiki1b:If you are truly going to live in fantasy, you'll need to liberate your mentality itself. Now is the time to repent!
+
+<end>
+
+<ChatID:58>---------------------------------------
+//映姫vs.神奈子
+
+Eiki0b:I could have stood to pay you a visit much sooner.
+
+Kanako0a:Likewise. It took me some time following my arrival in Gensokyo to learn all the proper formalities.
+
+Eiki0b:It seems you've been well integrated on the mountain since then. The mountain youkai even rely on you.
+
+Eiki0b:But to put it another way, you use glib words to manipulate those around you. Sometimes even exploiting them to gather faith.
+
+Eiki0c:Indeed, you're a little too silver-tongued.
+
+Kanako0c:...Hmm.
+
+Eiki1a:Arrogance gives rise to pride, and trust always suffers for it. You must always remain repentant to avoid mistaking cooperation for your own power.
+
+Eiki1b:My danmaku of judgment shall grant you the opportunity to learn just that!
+
+<end>
+
+<ChatID:59>---------------------------------------
+//映姫vs.諏訪子
+
+Eiki0b:You don't show your face as often, but it appears you're another of the mountain gods.
+
+Suwako3b:Yeah, Kanako handles sales while I do the real work.
+
+Eiki0b:Yes, you have a special kind of fiduciary trust, one that you honor by controlling your fears and entrusting matters to others.
+
+Eiki0b:To put it another way, you enact your will without ever openly stating it.
+
+Eiki0c:Indeed, you're a bit too scheming.
+
+Suwako5b:Aww, c'mon, Froggy isn't like that at all!
+
+Eiki1a:That act won't work on me. Rather, it indicates to me that I've hit the mark.
+
+Eiki1b:If you're aware of it, then take a good look at yourself and repent. Realize that this is directly connected to the prosperity of your shrine!
+
+<end>
+
+<ChatID:60>---------------------------------------
+//映姫vs.ヤマメ
+
+Yamame0a:Just my luck to leave the Underworld for the first time and run straight into the Yama.
+
+Eiki0b:Yes, I don't visit Old Hell very often. I'm glad we had this opportunity.
+
+Eiki0b:But more importantly, you. I don't mind you openly showing yourself here, but you must be especially careful about your power.
+
+Eiki0b:Even if your coming and going has been approved of, the power of disease is still hated. One mistake and this could all come to nothing.
+
+Eiki0c:Indeed, you're a little too unrestrained.
+
+Yamame0c:I dunno about that...
+
+Eiki1a:Aren't you a bit lacking in impartiality just because you're somewhat popular underground? You don't realize the position you're in on the surface.
+
+Eiki1b:Accept my judgement and cool your head before you do irreparable damage!
+
+<end>
+
+<ChatID:61>---------------------------------------
+//映姫vs.キスメ
+
+Kisume2b:Wow, it's actually the great Yama...
+
+Eiki0b:It's not unusual to find me on the surface, but you seem to have only starting coming here recently.
+
+Eiki0c:But more importantly, why do you hide your face in your bucket when facing me?
+
+Kisume2a:I-I know I shouldn't. I'm just a little nervous...
+
+Eiki0c:Hmm. Indeed... You're a little too shy.
+
+Eiki1a:It's good that you've taken your first step outside the Underworld. But if you stop there, you'll lose the strength to take the second step.
+
+Eiki1b:Make an effort to turn your feelings outward, before you fall back into that hole!
+
+<end>
+
+<ChatID:62>---------------------------------------
+//映姫vs.パルスィ
+
+Parsee0a:Oh, you like to strut around on the surface, huh? You must have it so easy.
+
+Parsee0a:I bet everyone's super respectful and shows you lots of hospitality. And you can just walk into any fancy restaurant and get a table instantly...
+
+Parsee2a:Ooh, I'm so jealous I'm burning up!
+
+Eiki0b:...
+
+Parsee2a:What? You gonna tell me I'm too jealous?
+
+Eiki0c:No, you're a bit too unpleasant.
+
+Parsee2a:Hey! Who asked you?!
+
+Eiki1a:People are free to be as jealous as they like. But alienating yourself is a separate problem altogether.
+
+Eiki1b:Be aware that you do not and cannot exist in a vacuum.
+
+<end>
+
+<ChatID:63>---------------------------------------
+//映姫vs.勇儀
+
+Yugi3a:Yo, Yama. How're you enjoying the new Hell?
+
+Eiki0b:Quite nicely, thank you for asking. Though I can't say its finances are in the best shape...
+
+Eiki0c:But enough about that. Indeed... You're a bit too violent.
+
+Yugi3d:I think I'm pretty standard in that department.
+
+Eiki1a:By the standards of an oni, perhaps. Have you ever tried to see things from another's perspective?
+
+Eiki1b:When you stop thinking, your sins will only increase. Now accept my judgment and cool your head.
+
+<end>
+
+<ChatID:64>---------------------------------------
+//映姫vs.さとり
+
+Eiki0b:How long has it been since I've seen you on the surface?
+
+Satori0b:I couldn't say either.
+
+Eiki0b:It seems you've been managing the vengeful spirits without issue, but I haven't heard much from Old Hell.
+
+Eiki0c:It would be nice if you could report what's happened to me from time to time.
+
+Satori0b:Sorry, but there's been nothing worth reporting to you.
+
+Eiki0c:Hmm. I admit some curiosity as to how you sisters have managed to adapt...
+
+Eiki0a:This is an excellent opportunity, so why don't I have you tell me during my danmaku judgement?
+
+<end>
+
+<ChatID:65>---------------------------------------
+//映姫vs.お燐
+
+Eiki0b:Ah, you're the Komeiji sisters' pet, a kasha youkai.
+
+Eiki1a:I knew you had a habit of taking home corpses, but to think you'd come all the way to the surface...
+
+Orin3a:No no no, I've been real busy lately but not for that!
+
+Orin4d:Plus, I have standards you know!
+
+Eiki0b:Bold words to say in my presence. Or perhaps you just didn't think that hard about it.
+
+Eiki0c:Indeed, you act a bit too contrary to your own feelings.
+
+Orin3a:Grk...
+
+Eiki1a:It may be fitting for a bakeneko, but openly showing your affection or hostility could easily create friction.
+
+Eiki1b:Appreciate that you can experience my judgment before you get yourself hurt!
+
+<end>
+
+<ChatID:66>---------------------------------------
+//映姫vs.空
+
+Utsuho5d:Uh, hello there, Miss, uhh... Jabdadigdu?
+
+Eiki0b:I'm the Yama, not a demon lord. At least try to remember my name.
+
+Utsuho0d:Unyu...
+
+Eiki0c:Indeed, you're a bit too forgetful.
+
+Utsuho0e:But Miss Satori told me that forgetting things is important for living.
+
+Eiki0b:That sounds like something she'd say. But forgetting even trifling matters can cause you to overlook something important.
+
+Eiki0c:Things you've forgotten can still lead to unforeseen incidents, can't they?
+
+Utsuho4e:Okay, yeah...
+
+Eiki1b:Good, you're willing to listen. Now accept this judgment so you won't forget these words!
+
+<end>
+
+<ChatID:67>---------------------------------------
+//映姫vs.ナズーリン
+
+Nazrin4c:An interview with the Yama, huh? I'm getting a pit in my stomach.
+
+Eiki0b:I believe you were the servant of Bishamonten, correct?
+
+Eiki0b:You were under orders to observe the youkai acting as his representative.
+
+Nazrin0b:Yeah, and because of that I've been trying my best not to stand out.
+
+Eiki0b:You say that, but your actions have more than stood out. You remained in the temple even when it was unnecessary for your position.
+
+Eiki0b:It's clear that you have some complicated feelings about it under the surface.
+
+Eiki0c:Indeed, you're a bit too clever.
+
+Nazrin0b:...
+
+Eiki1a:Shrewdness has a nice ring to it, but that can also be called cowardice. Sometimes it's important to put things into words.
+
+Eiki1b:Reflect on my danmaku judgement before you find yourself regretting it!
+
+<end>
+
+<ChatID:68>---------------------------------------
+//映姫vs.小傘
+
+Kogasa3d:I don't care if you're the Yama, I'm gonna surprise you!
+
+Eiki0b:Frivolity will avail you naught with me.
+
+Kogasa2c:*sniffle* But I'm not being frivolous... I'm trying to be menacing...
+
+Eiki0b:As a youkai, you mustn't show weakness before a human so easily.
+
+Eiki0c:Indeed, you fold a bit too easily.
+
+Kogasa0c:Yeah, 'cuz I'm an umbrella!
+
+Eiki0c:You also bounce between extremes too much.
+
+Kogasa3a:Aww, really? What am I supposed to do, then?
+
+Eiki1b:I'll make it clear which attitude you should take in my presence!
+
+<end>
+
+<ChatID:69>---------------------------------------
+//映姫vs.一輪
+
+Eiki0b:You're a youkai devoted to Buddhism, accompanied by a nyudo.
+
+Ichirin0a:Yes, ma'am. I don't think I've done anything to deserve getting scolded by the Yama.
+
+Eiki0b:What a brazen thing to say right off the bat. Those nerves of steel are what made you into a nyudo-user, which has also led to people avoiding you.
+
+Eiki0b:However, that's not due to the nyudo's insight. It's because you've stubbornly refused to compromise.
+
+Eiki0c:Indeed, you're a bit too audacious.
+
+Unzan0a:...!
+
+Ichirin0c:See? Unzan begs to differ.
+
+Eiki1a:Speak so I can understand you. Anyway, there's no excuse to use another as a shield.
+
+Eiki1b:Repent here, along with the nyudo protecting you!
+
+<end>
+
+<ChatID:70>---------------------------------------
+//映姫vs.村紗
+
+Eiki0b:A ship phantom... If I had to classify it, you'd be a type of restless spirit.
+
+Murasa0a:Yeah. And I guess that makes this the first time we've met, Yama?
+
+Eiki0b:Spirits who linger in this world are outside my jurisdiction. And I'm glad to see you've devoted yourself to the teachings of Buddha.
+
+Eiki0b:However, I must balance that against your breaking of the prohibition against alcohol, as well as your inability to restrain your youkai impulses.
+
+Eiki0c:Indeed, you're a bit too weak to temptations.
+
+Murasa4a:Well...
+
+Eiki1a:I'm not asking you to deny your nature as a youkai. However, your half-hearted attitude will invite chaos upon those around you.
+
+Eiki1b:If you don't want to live that life, then repent before my danmaku judgement!
+
+<end>
+
+<ChatID:71>---------------------------------------
+//映姫vs.ぬえ
+
+Nue5b:So my first job on Team Stick-up-their-butts is to fight the Yama? Great...
+
+Eiki1a:Watch your language. Are you some kind of delinquent?
+
+Nue2a:What? Delinquent...?
+
+Eiki0b:Moving on—There's nothing wrong with having pride as a great youkai, but it seems you've been using it as a reason to distance yourself from others.
+
+Eiki0b:In regards to which, there's a striking difference in how you act towards those you are close to, and those you aren't.
+
+Eiki0c:Indeed, you're a bit too picky.
+
+Nue0c:Yeah, I won't deny that...
+
+Eiki1a:It seems you don't appreciate the gravity of this. Excessive attachment can warp a youkai's life.
+
+Eiki1b:If you wish to continue as a great youkai, then accept my danmaku judgement and repent!
+
+<end>
+
+<ChatID:72>---------------------------------------
+//映姫vs.星
+
+Eiki0b:Ah, I've heard about you. You're Bishamonten's representative.
+
+Sho0c:You know who I am...?
+
+Eiki0b:A youkai who hides their identity while acting as the object of worship for a temple tends to stand out.
+
+Eiki0b:Recently you've been taking your duties seriously, but I can't say the same for the past thousand years.
+
+Sho4a:...I'm well aware of what I've done.
+
+Sho4b:And I intend to accept your judgement.
+
+Eiki0c:Did you suppose that a lecture would be unnecessary if you admit your faults? But it's precisely that temperament that you need to reflect on.
+
+Eiki0b:It seems you're prepared to face your karma and accept any consequences, but you go further than that and torment yourself in your thoughts.
+
+Eiki0b:You take it on yourself to assign karma for your actions, and have no doubt that you deserve suffering for them.
+
+Eiki0c:Indeed, you're a bit too serious.
+
+Sho0b:...
+
+Eiki1a:Being able to face the truth is a wonderful thing. However, doing so won't always lead you to a better life.
+
+Eiki1b:Cool your head with my danmaku judgement before you close off your own paths in life!
+
+<end>
+
+<ChatID:73>---------------------------------------
+//映姫vs.霖之助
+
+Eiki0b:You're the shop owner from the Forest of Magic.
+
+Korin0a:So even the Yama's heard of my humble shop?
+
+Eiki0b:A half-youkai who studied under a human in the past. That's more than enough to draw my attention.
+
+Eiki0b:You run a shop to maintain your independence, but it appears you aren't driven by profits.
+
+Korin0a:Goodness, that's embarrassing to hear. I just can't stand to part with my precious items.
+
+Eiki1a:To do business is to exchange value. To abandon that duty to satisfy your own greed implies your shop is no shop at all.
+
+Eiki0c:Indeed, you're a bit too absorbed in your own world.
+
+Korin2c:...I can't argue with that.
+
+Eiki1b:If you're aware, then this is an excellent opportunity for you. Endure my danmaku judgement, and breathe new life into your shop!
+
+<end>
+
+<ChatID:74>---------------------------------------
+//映姫vs.阿求
+
+Eiki0b:It's been a while. I believe this is your ninth life?
+
+Akyu0a:Yes, and it's only been a little while since you kindly allowed me to be here.
+
+Eiki0b:I appreciate that you understand the depth of your own karma, and it seems you've been earnestly carrying out your duty.
+
+Eiki0b:However, despite awareness of your fate, you strive to carve out a new existence and make the most of each short life you live.
+
+Eiki0c:Indeed, you wish for a bit too much.
+
+Akyu1a:...
+
+Eiki0c:With each reincarnation, your karma deepens. Nothing will ever save you from this. A time may come when you aren't granted your next body.
+
+Akyu1a:...I am very aware of this. But I believe this latest life has shown me something I've never seen before.
+
+Eiki0b:Still you persist... You do realize that that very thought is what will cause your suffering, correct?
+
+Eiki1b:That said, perhaps it's some kind of fate that we will walk together here. Allow me to ascertain the truth of your assertion.
+
+<end>
+
+<ChatID:75>---------------------------------------
+//映姫vs.サニー
+
+Eiki0b:You're one of the fairies governing light.
+
+Sunny0a:Fairies don't go to Hell, right? So you don't have to judge me...?
+
+Eiki0b:If a fairy's life falls into disorder, so too will nature. Conversely, if you correct your attitude you can provide humans with a better environment.
+
+Eiki0c:As for you... You're a bit too mischievous.
+
+Sunny5a:Tee hee.
+
+Eiki1a:Don't even try to shrug this off with a cutesy act. Pranks are effective because there is order.
+
+Eiki1b:You mustn't allow things to fall into complete chaos. Repent here before it's too late!
+
+<end>
+
+<ChatID:76>---------------------------------------
+//映姫vs.ルナ
+
+Luna4a:Oh no, what am I gonna get judged for...?
+
+Eiki0b:You needn't cower in fear. I'm merely offering advice for your own benefit.
+
+Eiki0c:As for you... You're a bit too clumsy.
+
+Luna1a:Well excuse me!
+
+Luna1b:Hrk! Habit kicked in and I just mouthed off to the great Yama...!
+
+Eiki1a:It seems you have some awareness of your problem. But given your lack of improvement, there's no evidence that you're working on it.
+
+Eiki1b:Temper your mind and body by running from my danmaku!
+
+<end>
+
+<ChatID:77>---------------------------------------
+//映姫vs.スター
+
+Eiki0b:You're a star fairy, possessing a dignity that matches well with both the sun and the moon.
+
+Star3c:I see the great Yama appreciates me.
+
+Eiki0b:To describe you another way, you're capable of ingratiating yourself with whomever you please.
+
+Star2b:...Okay, I don't like where this is going anymore.
+
+Eiki0c:Indeed, you're a bit too crafty.
+
+Eiki1a:You merely pretend to do work while taking advantage of your two companions. But there is no fooling me.
+
+Eiki1b:On this day, you shall not escape unscathed while leaving your friends to take the fall!
+
+<end>
+
+<ChatID:78>---------------------------------------
+//映姫vs.萃香
+
+Suika3b:Yo, long time no see. How've ya been?
+
+Eiki6a:Please don't greet me like an old friend you ran into at a bar.
+
+Suika2a:Hey, don'tcha owe us oni for lookin' after old Hell?!
+
+Eiki0b:Nobody asked you to move there. You simply did that on your own. And since then, I've never once seen you sober.
+
+Eiki0c:Indeed, you're a little too fond of alcohol.
+
+Suika3d:Okay, wanna grab a drink then?
+
+Eiki5a:Please don't try to change the subject. Are you just a drunkard?
+
+Eiki0b:If you drown yourself in sake regardless of your mood, you'll lose touch with not only sound judgment but also your own feelings.
+
+Eiki1b:You may consume alcohol, but you must never let alcohol consume you. Since you can't adhere to that rule, accept my judgement!
+
+<end>
+
+<ChatID:79>---------------------------------------
+//映姫vs.メディ
+
+Medicine1d:I don't know what a Yama is supposed to be, but I won't let you get in the way of my doll liberation!
+
+Eiki0b:You said something similar earlier. While not knowing me is excusable, not knowing yourself is simply deplorable.
+
+Eiki0b:Dolls are objects upon which owners project their own emotions. There is no mutual exchange involved.
+
+Medicine0a:Yeah, and that's why I want to save the poor dolls!
+
+Eiki0b:...Hm. It seems it will be difficult to properly admonish you, but I'll tell you this.
+
+Eiki0c:You're a bit too narrow-minded.
+
+Medicine0c:Excuse me?
+
+Eiki1a:You're young. It's not surprising that you wouldn't understand what I mean.
+
+Eiki1b:But if you continue making this assertion, our conversation will not be over.
+
+Medicine1b:Well, yeah, that's obvious!
+
+<end>
+
+<ChatID:80>---------------------------------------
+//映姫vs.天子
+
+Tenshi1b:I-I'm not scared just because you're the Yama!
+
+Eiki0b:Going out to receive celestials is a shinigami's job, not mine. You needn't be on guard.
+
+Eiki0b:But enough about that. Just the other day, you dragged the surface into a mess simply for your own amusement.
+
+Eiki0b:Not only that, you fail to see the value of everything you've been gifted with, remaining entranced only by what you do not have.
+
+Eiki0c:Indeed, you're a bit too selfish.
+
+Tenshi2e:I am not—
+
+Eiki1a:Sometimes one can limit their perspective by defining themselves before they know themselves. You cannot hope to improve if you resign yourself.
+
+Eiki1b:If you wish to change your circumstances, even a little, accept my judgment in good faith and repent!
+
+<end>
+
+<ChatID:81>---------------------------------------
+//映姫vs.衣玖
+
+Eiki0c:A messenger of the dragon god, in the terrestrial realm? I don't see any indicators of an earthquake...
+
+Iku0e:Oh, no, I'm taking time off to accompany Miss Hinanawi today.
+
+Eiki0b:Ah, like I am. It's certainly nice to have a change of pace once in a while. But those who know who you are will see your presence as an ill omen.
+
+Eiki0b:And I hear you incur much antipathy by failing to sufficiently elaborate when conveying the dragon god's words.
+
+Eiki0c:Indeed, you're a little too insensitive to the atmosphere around you.
+
+Iku0c:...What.
+
+Eiki1a:That response is proof enough. If you're going to repent, you'll need to choose your words more carefully.
+
+Eiki1b:Feel free to start after today's danmaku judgment!
+
+<end>
+
+<ChatID:82>---------------------------------------
+//映姫vs.エリー
+
+Elliy5a:Everyone else is scared of you, but as you can see I'M always careful about what I do.
+
+Elliy1a:Now, what can you possibly say to bring down a surprisingly hard worker like me?
+
+Eiki0c:You're a bit too fond of yourself.
+
+Elliy2b:So that's your angle!
+
+Eiki0b:Pride gives rise to self-righteousness, and you'll hurt others without even noticing. If you call yourself a hard worker—
+
+Elliy3a:Then again, being in a redemption arc sounds kinda cool too!
+
+Eiki5a:...This is less pride and more narcissism. There is no saving you.
+
+Eiki1f:All I can offer is a brief requiem, as I send you off without suffering.
+
+Elliy2b:H-Hold on a minute! It was a joke! I was lightening the mood!
+
+<end>
+
+<ChatID:83>---------------------------------------
+//映姫vs.くるみ
+
+Eiki0c:You're a bit too incapable of getting your act together.
+
+Kurumi2a:Eep! That's what you're opening up with?!
+
+Eiki0b:I've heard about you from Komachi. How you say these nonsensical things, and how your master can't rely on you.
+
+Eiki0b:Do you even know what you're doing here and why?
+
+Kurumi6b:Well, uhh...
+
+Eiki1a:And that's not at all. You'll make yourself sick eating things off the ground. And while observing ants is one thing, it's another matter entirely to—
+
+Kurumi1a:Whoa now, stop right there! What about my privacy?!
+
+Eiki1b:There can't be a judgment without knowing your karma. Prepare for all to be brought to light before me.
+
+<end>
+
+<ChatID:84>---------------------------------------
+//映姫vs.はたて
+
+Hatate5a:Even taking photos of the Yama is no big deal with thoughtography!
+
+Eiki0c:That's an illegal use of my likeness without permission.
+
+Hatate6a:Huh?! How'd you know?!
+
+Eiki0b:Only a second-rate reporter would fear an interview. Realize that you have a responsibility if you're going to release your words to the world.
+
+Eiki0c:Indeed, you're a little too much of a shut-in.
+
+Hatate4a:Look, hear me out...
+
+Eiki1a:Make excuses AFTER you've made an effort. You'll never change if you give up before you've started.
+
+Eiki1b:Take today's judgment as an opportunity to repent!
+
+<end>
+
+<ChatID:85>---------------------------------------
+//映姫vs.お燐（猫）
+
+OrinC0a:Mew.
+
+Eiki0c:Hm...?
+
+OrinC0a:Mew, mew...
+
+Eiki0b:Your plaintive mewling will get you nowhere with me. Even if you change your form, the karma you bear remains the same.
+
+Eiki0c:If you understand, then behave yourself and listen to my...
+
+OrinC0a:Mew...
+
+Eiki5a:Mrrgh...
+
+Eiki5b:That's not fair. I can't give my lecture like this!
+
+Eiki5b:If you can understand my words then change back at once!
+
+<end>
+
+<ChatID:86>---------------------------------------
+//映姫vs.
+
+<end>
+
+<ChatID:87>---------------------------------------
+//河童初戦闘
+
+Suika6c:Huh, what's a kappa doing here?
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Kappa5a:Ack, you found us!
+
+Kappa0a:We were planning on secretly watching over the Sanpei Fighter we left with Nitori...
+
+</nomove>
+
+Parsee0a:Are we gonna have to deal with you wherever's there's water? That's pretty shameless of you.
+
+Murasa3d:Now, now, I love it in the water. Might as well make the most of this, right?
+
+Yugi3b:And that means a fight!
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Kappa1a:Well, you leave me no choice! I accept your challenge!
+
+</nomove>
+
+<end>
+
+<ChatID:88>---------------------------------------
+//小町通常撃破★EvID:.
+
+Komachi0a:Hey, nice spirit you've got there.
+
+Meiling0a:I hardly ever see you fired up like this, Komachi.
+
+Komachi1a:Seeing me in a new light? I'm the kind of woman who can pull through when it counts.
+
+Mokou1a:Talk is cheap. But looks like you won't let us pass for free, huh?
+
+Komachi1a:'Course not. Those who don't pay the toll get dumped in the river!
+
+Daiyosei4d:Oh no! But I don't have any money...
+
+Chen2b:I already used up all the allowance Miss Ran gave me...
+
+Komachi0a:I don't need your earthly money. Here, you're worth the weight of your virtues.
+
+Komachi0a:Those who are unloved in life may never be able to cross to Higan, let alone get judged by the Yama.
+
+Marisa0e:If we can't know how much we're worth until we die, what's the point in trying?
+
+Komachi0a:Right? That's why I'm showing you here and now.
+
+Komachi3a:I'll be appraising you! What's the price of your life?
+
+<end>
+
+<ChatID:89>---------------------------------------
+//映姫vs.メーコ
+
+Meko0e:I'm up against the Yama, but it's a dream so she won't get mad at me!
+
+Eiki1b:Cease your nonsense and reflect on your behavior.
+
+Meko0b:So it's a lecture after all?!
+
+Eiki4a:I haven't seen you before, but your nature is clear from your attitude.
+
+Eiki0b:You seem to be hard-working and optimstic, but put little to no thought into your actions.
+
+Eiki0c:Indeed, you're a little too brainless.
+
+Meko1d:You're just saying it straight up?!
+
+Eiki1b:This is for your benefit as well. You need to be aware of your own actions in the same way you'd control a familiar.
+
+<end>
+
+<ChatID:90>---------------------------------------
+//映姫vs.まくら
+
+Makura2a:...Eiki Shiki, the Judge of Paradise.
+
+Eiki0c:What are you so frightened of?
+
+Makura1b:...!
+
+Eiki1b:Your attitude reveals that you're aware of your own karma.
+
+Eiki1a:You must have committed some grave sin in the past.
+
+Makura1c:It's true. While I'm making an effort not to repeat my mistakes...
+
+Makura2b:I worry that even if I think I've become a better person, my true nature remains the same. 
+
+Eiki3c:As long as you're making the effort, that's what matters.
+
+Eiki0a:Atonement will come in due time. There's no need to rush.
+
+Makura1a:But what if I sin again before that happens?
+
+Makura2a:...I need to abandon my old ideals, and replace my own heart.
+
+Eiki1a:I see... I think I understand you better now.
+
+Eiki0a:Accepting the weight of your sins and striving to improve is a fine thing.
+
+Eiki0c:But too much regret and self-reproach is akin to rejecting your own self.
+
+Makura1c:...
+
+Eiki1a:Your sin is your sin, and your heart is your heart. Find out what exactly needs to be fixed, rather than throwing everything out.
+
+<end>
+
+<ChatID:91>---------------------------------------
+//映姫vs.非想天則
+
+Tensoku0a:...
+
+Eiki2a:Since when was there such a large youkai in Gensokyo?!
+
+Eiki1a:To elude my eye, you must be something unusual indeed.
+
+Tensoku0a:...
+
+Eiki4b:I see you won't respond. Or rather, you can't.
+
+Eiki0b:I don't know your circumstances, but there is nothing admirable about hiding things.
+
+Tensoku0a:...
+
+Eiki4a:I understand all too well. You're a little too large.
+
+Eiki1b:Both in body, and attitude! Accept my danmaku judgement and repent!
+
+Tensoku0a:...?!
+
+<end>
+
+<ChatID:92>---------------------------------------
+//映姫vs.映姫
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Eiki0c:Oh? You're...
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Eiki0a:I see you aren't too surprised.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Eiki4a:There are out people who like to practice danmaku agaisnt their own clones when bored.
+
+Eiki0a:I'd hardly be fit to be the Yama of Paradise if I was shaken by a little thing like this.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Eiki3b:Agreed. Just what I'd expect from myself.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Eiki0c:So... Who are you, anyway?
+
+</nomove>
+
+<end>
+
+<ChatID:93>---------------------------------------
+//映姫vs.小町
+
+Eiki0c:What are you doing on their side, Komachi?
+
+Komachi3b:Ah, well, um...!
+
+Eiki1b:This is no time to be playing around. Get back to work.
+
+Eiki1a:Or would you rather receive a lecture too?
+
+Komachi2a:No no no, let's no go THAT far!
+
+Komachi1b:It's just, well, when am I gonna get another chance to see your danmaku for myself?
+
+Eiki4a:*Sigh* Very well then.
+
+<end>
+
+<ChatID:94>---------------------------------------
+//小町vs.小町
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Komachi0c:Oh, aren't you...?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Komachi1c:Shh!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Komachi4a:...Huh?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Komachi1a:Truth is, I'm you from the future.
+
+Komachi3b:I finally got this chance to play, so I'd rather not get caught by Lady Shiki, capiche?
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Komachi4b:Yeah, sounds about right... Sure, I'll keep quiet.
+
+Komachi3a:No, wait, you really thought I'd buy that?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Komachi5a:Yeah, sounds about right...
+
+</nomove>
+
+<end>
+
+<ChatID:95>---------------------------------------
+//映姫vs.豊姫
+
+Toyohime1a:If you're Gensokyo's Yama, then I should be outside your jurisdiction, right?
+
+Eiki3c:True, but today's my day off, so I won't discriminate.
+
+Toyohime0b:Why thank you. I do look forward to receiving your wisdom.
+
+Eiki0a:Smiling and thanking me, I see. While politeness is fine in moderation...
+
+Eiki0c:Too much has the opposite effect, and makes you seem untrustworthy.
+
+Toyohime2b:Oh dear, is that how I came across? I was just trying to show my respect.
+
+Toyohime0b:It seems I'm a little nervous in front of the Yama.
+
+Eiki0b:The same smile, even after I pointed it out? It must be deeply ingrained in your body.
+
+Eiki4a:But even simply repressing your emotions throws them into disorder.
+
+Eiki0c:One can even suffer from that turmoil, no?
+
+Toyohime2c:Really now...
+
+Eiki0c:Indeed, you're a little too amiable.
+
+Eiki0a:As you gain more companions, you should rethink that if you want to lead an even better life.
+
+<end>
+
+<ChatID:96>---------------------------------------
+//映姫vs.依姫
+
+Eiki0c:I don't believe you're a resident of Gensokyo?
+
+Yorihime0d:Regardless, I would be honored to receive your wisdom.
+
+Eiki0b:Quite a bold attitude to take with me. That sort of discipline must have taken a lot of effort.
+
+Eiki0a:But don't you think you're a little biased toward strength?
+
+Yorihime0c:...Could you elaborate?
+
+Eiki4a:Iron becomes hardened with tempering, but at the same time, brittle.
+
+Eiki0a:The heart is the same. Strength and fortitude are different things.
+
+Yorihime0b:So you're saying I lack the latter.
+
+Eiki0c:Indeed, you're a little too stubborn.
+
+Eiki1b:The strength to move forward, and the endurance to perservere. Only with both will you know true strength!
+
+<end>
+
+<ChatID:97>---------------------------------------
+//映姫vs.白蓮
+
+Eiki5c:! So you're burdened with such a past?
+
+Byakuren5a:I presume you're seeing what I've done through the Cleansed Crystal Mirror?
+
+Byakuren5b:It's all true. I will accept whatever judgment you see fit.
+
+Eiki0b:I don't intend to blame someone who's making efforts to start anew.
+
+Eiki3b:You've abandoned self-interest to work solely for others, haven't you?
+
+Byakuren0d:...Yes. I must, to atone for my sins.
+
+Byakuren2c:And so even the gratitude I receive merely makes my karma cling deeper into my flesh.
+
+Eiki0a:If you're aware of that, then I suppose there's no need to urge you to repent.
+
+Eiki0c:However, I must warn you against reproaching yourself too strongly.
+
+Byakuren0c:Oh...?
+
+Eiki4a:Even an altruistic mindset can be enough to drive one into a corner.
+
+Eiki0c:You... Indeed, you love others a bit too much.
+
+Eiki0a:It will all be for nothing if you break yourself in the process. If you wish to keep up this endless atonement, then consider that very carefully.
+
+<end>
+
+<ChatID:98>----------------------------------------
+//映姫vs.レイセン
+
+Reisen2c:The Yama, huh? I bet she's gonna be real mad at me...
+
+Eiki0c:It seems you have something in mind?
+
+Reisen3e:Ah, no! I mean, I did run away from the moon, but I went back in the end, so... All's well that ends well?
+
+Eiki0b:Hm. Your words and conduct give me a general idea.
+
+Eiki0c:While anyone can lose their way, this won't always be understood by others.
+
+Eiki0b:But despite that, you've carried on as you please.
+
+Eiki0c:Indeed, you're a bit too careless.
+
+Reisen2a:Harsh!
+
+Eiki4a:That you think so is proof that you're aware of it. Pay attention to those around you if you wish to preserve your way of life.
+
+<end>
+
+<ChatID:99>---------------------------------------
+//映姫vs.
+
+<end>
+
+<ChatID:100>---------------------------------------
+//スペル３発動中にさとりと映姫が戦闘★ChatID18から分離
+
+Eiki0c:So you attacked me. Your karma is reflected in the Cleansed Crystal Mirror, you know.
+
+<end>
+
+<ChatID:101>---------------------------------------
+//スペル３発動中にさとりと映姫が戦闘★ChatID18から分離
+
+Eiki0b:So you won't attack me, Satori Komeiji.
+
+Eiki0c:The Cleansed Crystal Mirror reflects your karma regardless, you know.
+
+<end>
+

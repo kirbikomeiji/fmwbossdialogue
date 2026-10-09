@@ -1,0 +1,2607 @@
+﻿○共通第四十三話「幻想を試す五つの難題
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: 2PP
+ 3: battle vs. Eirin
+ 4: battle vs. Kaguya (before Eirin beat)
+ 5: battle vs. Kaguya (after EV 1)
+ 6: beat Eirin before 2PP
+ 7: 2PP
+ 8: beat Eirin
+ 9: Kaguya spell 1
+10: Kaguya spell 2
+11: Kaguya spell 3
+12: Kaguya spell 4
+13: Kaguya spell 5
+14: Eiya start
+15: Eiya 2nd turn
+16: Eiya 3rd turn
+17: clear
+18: ADVB
+19: lose
+20-nn: battle vs. Eirin
+nn-mm: battle vs. Kaguya
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=3,FROM=妖怪の山上部,TO=妖怪の山上部,name=Youkai Mountain,icon=5>
+
+<BG=*bg_talk_Road_Night.png,fade=0,color=1,title=*bg_Mountain,bgm=bgm_talk_inishie>
+
+KTenguA2b:Sheesh, everyone's getting so agitated...
+
+KTenguA0c:And no matter where you go, no one has any good intel. 
+
+HTenguB0a:Hey, crow! What have you learned from your reconnaissance? 
+
+KTenguA1b:Nothing, really. It's plain old chaos for youkai everywhere.
+
+KTenguA2a:Just when we thought the night was stopped, it suddenly starts moving again and no one knows why! 
+
+HTenguB1a:Quit whining about every little thing! Times like these are why we're here to preserve the peac―
+
+<SE=se_talk_run.ogg,wait=1>
+
+Kappa1a:Miss Tengu, my friend on the radar team just contacted me! 
+
+KTenguA0a:Oh, it's a kappa. Got any news? 
+
+Kappa0b:Um, well, they've picked up signs of a huge danmaku fight coming from the bamboo forest. 
+
+KappaC1b:The response perfectly matches the unique properties of the Spirit Cannon we put on the Palanquin Ship. 
+
+HTenguB1a:The Palanquin Ship?! So you're saying Lady Yasaka and those humans are fighting something? 
+
+KappaC6a:If they are, they might be getting close to the truth behind this incident. 
+
+KTenguA4a:...I see. It kind of bugs me, but I guess letting them resolve it would be faster. 
+
+HTenguB0a:We should focus our efforts on restoring order to the mountain.
+
+HTenguB1a:We're counting on you, Palanquin Ship. Resolve this incident! 
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP
+
+Akyu1a:We made it, this is the innermost region of the pocket dimension!
+
+Mystia3a:The atmosphere is so clear here... It's different from that creepy place we just came from.
+
+Kosuzu6a:Look, over there!
+
+<pause>
+
+Mima1c:...!
+
+Remilia1d:We've found the real full moon!
+
+Yukari0b:...This eerie power is itself the madness of the true moon.
+
+Yukari4a:Across the centuries and millennia, this is the light that has illuminated Gensokyo.
+
+Eirin5b:Earthlings... So you've wormed your way in here.
+
+Reimu1a:We've got you cornered, Eirin Yagokoro!
+
+Marisa2b:Surrender, and give us back the real moon!
+
+Eirin4c:Are you finished with your last words? Everything inside this barrier is under my complete control.
+
+Eirin5c:Those who wrong me shall be erased from existen―
+
+<nomove>
+
+<hide=all>
+
+<Code=(cursor_jump,352,192,1)>
+
+Kaguya1a:Eirin, wait.
+
+</hide>
+
+<pause>
+
+Eirin2a:My Lady!
+
+Kaguya3c:I've been wanting to meet them.
+
+Hatate1c:You're the moon princess, Kaguya Houraisan?
+
+Sanae0e:And THE Princess Kaguya, at that.
+
+Kaguya0b:Oh dear, you have me at a disadvantage. I don't know any of your names.
+
+Lunasa1b:We're a bit pressed for time, so can we skip the introductions?
+
+Kaguya1c:If we must. I suppose I can let a little rudeness slide.
+
+Kanako1d:We've heard about your plan. You hid the full moon to avoid pursuers from the moon.
+
+Kanako1c:We'll make you end this self-centered plot of yours here and now!
+
+Kaguya3f:...Heh, you Earthlings can be quite pushy.
+
+Kaguya1d:But I can't grant that request. I won't be giving up on the perfect strategy that Eirin created for us.
+
+Minoriko2a:Figures she wouldn't care what happens to the Earth either!
+
+Patchouli4a:Are all Lunarians like this?
+
+Eirin5a:...I had no intention of discussing this with you in the first place.
+
+Eirin0c:Please withdraw, my lady. I'll deal with these―
+
+Kaguya1b:This is the deepest level of your barrier. To where, exactly, shall I withdraw?
+
+Kaguya3a:I'll just relax over here and watch your fight.
+
+Eirin4a:...Understood. Please stand back then.
+
+Yukari0b:If we've finished the pleasantries, then why don't we begin this already?
+
+Marisa2b:You've got nowhere left to run! We're settling this, right here, right now!
+
+Reimu1a:Prepare to get beat!
+
+<end>
+
+<ChatID:2>---------------------------------------
+//2PP
+
+Youmu1a:Throwing out danmaku like that so soon? She must be planning something.
+
+Patchouli0c:Eirin Yagokoro... I see haven't learned your lesson yet about trying to stop us.
+
+Eirin5c:As I told you, those who intrude will be eliminated.
+
+Yuyuko1b:Eliminated? That's hardly a way to treat your houseguests!
+
+Yuyuko0a:It's always about brute force with you, isn't it?
+
+<nomove>
+
+<Code=(cursor_jump,544,464,1)>
+
+Mokou3d:KAGUYA!
+
+<pause>
+
+<Code=(icon_set_direction,All,Mokou,0)>
+
+<Code=(icon_set_direction,All_en,Mokou,0)>
+
+<Code=(icon_set_direction,Keine,FD_LEFT,0)>
+
+Eirin1b:...!
+
+Mokou3e:There you are! Hiding inside this barrier isn't going to save you!
+
+KeineH1a:That's the Palanquin Ship! Is everyone okay?!
+
+Akyu3a:It's Keine, and she brought Mokou!
+
+Eirin2a:You never know when to quit, do you, Fujiwara girl?!
+
+Kaguya1c:Oh, Mokou. I thought you scurried home after Eirin killed you?
+
+Mokou0b:Don't be ridiculous. Why would I die from something as pitiful as that?
+
+Mokou1a:This time you couldn't even come out to greet me. It looks like I've finally got you right where I want you.
+
+Eirin1b:I won't hear that from someone who just slipped in during the confusion.
+
+Eirin0a:But this is a good opportunity. It's time to put this to rest once and for all.
+
+<pause>
+
+Mokou2a:Ngh!
+
+Nitori2a:Wah! How do you still have so much strength left?!
+
+Eirin5c:You've been a thorn in my side for too long now. This time, I'll leave not even atoms.
+
+Eirin5d:And for that bestial friend of yours...
+
+Mokou3e:Don't you dare lay a hand on Keine!
+
+<pause>
+
+KeineH1a:Mokou!
+
+Kaguya1b:Oh, that was anticlimactic. To think she'd pretend to care about a human... that doesn't suit her at all.
+
+Eirin1a:I'm sorry you had to witness such a tawdry conclusion for her. Now to deal with the rest.
+
+<nomove>
+
+<Code=(cursor_jump,400,320,1)>
+
+Mokou3e:Graaah!
+
+</nomove>
+
+<pause>
+
+Eirin1d:Ngh!
+
+Mokou3a:I tore open your stomach earlier too. Even you have to be getting worn down by now.
+
+Eirin2a:You blew off your own arm?! Are you insane?
+
+Kaguya1b:Eirin.
+
+Eirin5a:As you command.
+
+<pause>
+
+<nomove>
+
+<Code=(update_view,352,304)>
+
+Nitori2a:Both Mokou's arm and Eirin's stomach came back like it's nothing! They're both crazy!
+
+</nomove>
+
+KeineH2a:Sorry Mokou, if you didn't have to protect me, then—
+
+Mokou1a:It doesn't hurt a bit, if it's to protect you.
+
+Akyu3a:By the looks of things you've made some kind of breakthrough.
+
+Mokou0d:Yeah, well... you know. Thanks for the help.
+
+Mokou0c:Anyway... that's Kaguya Houraisan. The mistress of this mansion.
+
+Mokou1c:She's finally cornered, so I'll help settle this together!
+
+Kaguya1b:Oh my! I never imagined you'd have so many acquaintances.
+
+Kaguya1b:And Mokou of all people, cooperating with someone? What sorcery is this?
+
+KeineH1a:It's no sorcery. We're the friends who live alongside her.
+
+KeineH1a:And in order to protect the Earth, we'll fight alongside each other, hand-in-hand!
+
+Kaguya0a:Living side-by-side? Hand-in-hand? You and Mokou?
+
+Kaguya1b:Hah, how droll. Did the humans fill your head with these crazy notions?
+
+Kaguya1b:Why, I'd almost swear you sacrificed yourself to protect someone just a moment earlier.
+
+Mokou1c:Tch, hope you enjoyed looking down on us from your high horse, 'cause we're about to knock you off it.
+
+Mokou3e:Let's go, Keine! This is OUR fight!
+
+KeineH1a:Yeah!
+
+<end>
+
+<ChatID:3>---------------------------------------
+//永琳初戦闘
+
+Momiji1a:Alright, we've got inside Eirin Yagokoro's guard!
+
+Cirno1a:Give us back the full moon! We're not taking no for an answer!
+
+Eirin2a:Even though they're trapped in here they're still so...
+
+Elliy4a:If your master is so important you, why are you locking her away in a place like this?
+
+Kurumi4b:Doesn't she ever complain about this?
+
+Eirin0c:That's irrelevant. This is what's best for her.
+
+Yuka0e:And I'm sure you're the one who decided that.
+
+Eirin2a:Where's the problem with that? Everything I do is to fulfill Kaguya's wishes.
+
+Eirin1b:No matter what happens, I will preserve this unchanging eternity.
+
+<end>
+
+<ChatID:4>---------------------------------------
+//永琳を撃破する前に輝夜と初戦闘
+
+Kaguya1a:Oh my, so you made it here without going through Eirin?
+
+Cirno0b:You look pretty scrawny, so we can probably beat you up faster.
+
+Eirin1a:...Naturally, this sort of behavior was within my expectations.
+
+Eirin5c:By all means, try your best. If you think you can reach the princess, that is.
+
+<end>
+
+<ChatID:5>---------------------------------------
+//上記のイベント後
+
+Marisa3b:What? The attack didn't reach her?!
+
+Mima1b:It seems that Eirin Yagokoro has put up a protective barrier.
+
+Kaguya1c:Sadly, it looks like I won't get to be your opponent.
+
+Eirin5b:I can't have you laying a hand on the princess right in front of me.
+
+<end>
+
+<ChatID:6>---------------------------------------
+//永琳撃墜前に輝夜と戦闘（二回目以降）
+
+Momiji2a:Ugh, the attack didn't reach her?!
+
+Nitori1d:Looks like we have to beat Eirin before we can get to the princess.
+
+<end>
+
+<ChatID:7>---------------------------------------
+//妹紅増援前（1EPまで）に永琳を撃墜
+
+Murasa1b:Alright, we got her!
+
+Eirin5d:...How optimistic of you.
+
+<pause>
+
+Sunny3a:Gwah, where's she getting all this stamina...?
+
+Sakuya1b:That's immortality for you. This isn't over yet. Don't let your guard down around her.
+
+<end>
+
+<ChatID:8>---------------------------------------
+//永琳撃墜
+
+Eirin2a:How can this be?
+
+KeineH1a:Alright, we took down Eirin Yagokoro!
+
+Mokou1b:I doubt you can fight on anymore. Just sit tight and watch.
+
+Eirin2a:...Don't be ridiculous, I could never be defeated by―
+
+Kaguya3c:You can stand down now, Eirin.
+
+Eirin2a:...! My lady―
+
+Kaguya0b:You've done well. I'll deal with the rest.
+
+Eirin2a:My lady, I could never let you suffer the―
+
+Kaguya1b:Eirin, if you exhaust yourself, the Locked Room spell will break. You don't want that, do you?
+
+Kaguya1a:I'll take care of things in here, so return to the outside.
+
+Eirin4a:...Understood. But please, stay cautious around them.
+
+<pause>
+
+Wriggle1b:S-So we really fought her off this time...?
+
+Mokou3d:You're the only one left, Kaguya!
+
+Kaguya3c:Heh heh, I am aware. There's no need to rush this.
+
+Kaguya1b:Ah, I finally get my chance to talk to some Earthlings now.
+
+Nazrin6a:...Uh, what? We just beat up your friend, and you're still taking it easy?
+
+Kaguya1c:To be honest, I've been rather bored.
+
+Kaguya1a:After Eirin built Eientei for me it's all been very peaceful and relaxing... and dreadfully dull.
+
+Kaguya1c:Now something is finally happening, yet I've been stuck inside a barrier this whole time.
+
+Sho1b:Don't tell me you're enjoying all of this...?
+
+Kaguya1a:Yes, it's fun. The Earth is just packed with all sorts of creatures, always causing commotions.
+
+Kaguya3f:Seeing it all is very pleasant.
+
+Sanae1a:So watching our struggles is pleasant to you?!
+
+Marisa3a:I'd watch that pride if I were you, or else you might be in for some divine punishment.
+
+Kaguya4b:Heh, divine punishment. I'd be fine with that too.
+
+<pause>
+
+Kaguya0a:After committing a certain grave sin, I was banished from the moon.
+
+Kaguya1b:That's when I discovered it. This beautiful gem called the Earth.
+
+Kaguya1c:I could never part with it. It's my most prized treasure, after all.
+
+Alice1a:You're speaking as if you owned it!
+
+Reimu1a:Somehow I don't think we're going to be able to reason with her.
+
+Kaguya1a:Oh, of course not. If I'm to listen to someone from Earth, they'll have to overcome my trials first.
+
+Mokou4a:Don't tell me...
+
+Kaguya0b:Indeed, the ones many Earthlings have tried and failed.
+
+Kaguya4b:The five impossible requests, passed down through the stories. How many of them can you fulfill?
+
+<end>
+
+<ChatID:9>---------------------------------------
+//輝夜通常撃破
+
+Kaguya0a:I see, you're strong. I suppose Eirin wasn't holding back.
+
+Suika1a:'Course we're strong, this pandemonium's just getting started.
+
+Kanako1a:You will know the power of humans, youkai, and the gods soon enough.
+
+Kaguya3c:Heh, so many colors, all coming together. The Earth really is a fun place.
+
+Hina1a:If you're a Lunarian, why are you so obsessed with the Earth?
+
+Hina0b:I'm sure it's uncomfortable here, compared to life on the moon.
+
+Kaguya5b:I admit that when I first fell to Earth I was somewhat taken aback at how inconvenient everything was.
+
+Kaguya0a:But then I noticed that it was full of exciting goings-on you'd never find on the moon.
+
+Lunasa0a:For instance?
+
+Kaguya0b:When I think of the moon I remember the same things, day after day, over and over again.
+
+Kaguya0a:But here every day there's a lively new commotion to be seen. There's such variety.
+
+Kaguya1a:Even simply watching it all never bores me.
+
+Youmu1a:If that's what you think, then how could you do something so awful to us?!
+
+Kaguya3c:I do feel quite bad for the people of the Earth, but there's no other way.
+
+Patchouli0c:...You put on a friendly face, but in the end you're just doing whatever you please. That's the mindset of an invader.
+
+Ran1b:You people are a dangerous element. We'll need to deal with you here!
+
+Kaguya1b:Heh heh, can you save the objections for after you've fulfilled my impossible requests?
+
+Kaguya4b:First, we have the incredibly dangerous five-colored jewel. Try to bear the unbearable!
+
+<end>
+
+<ChatID:10>---------------------------------------
+//頸の玉撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Kaguya0a:So you made it through. Let me tell you, that was splendid.
+
+Sho0c:Don't tell me you plan to fight with nothing but the power of your treasures...?!
+
+Nazrin2a:They're definitely not just simple tools. Their rarity is off the charts!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Kaguya0a:I see, so you managed to survive this trial.
+
+Sho2a:How could one item contain all that power...?
+
+Nazrin2a:They're definitely not just simple tools. Their rarity is off the charts!
+
+</Cond>
+
+Mystia1c:But if you're not going to use your own power, you're not taking us seriously.
+
+Kaguya1b:Oh, but I am. That's why I'm testing you.
+
+Kaguya0a:There aren't many on this Earth who are fit to take my challenges and play my games.
+
+Lyrica1a:Well, it's not like you're going to meet many of them if you're cooped up in a place like this.
+
+Sakuya5b:Didn't you say that you loved the Earth, though?
+
+Sakuya0b:Staying inside all the time means you have your priorities entirely backwards.
+
+Kaguya0a:Oh, it's not as bad as you're implying. I can still peek outside and see what's going on from in here.
+
+Kaguya3c:Even with just that, the Earth is more than interesting enough.
+
+Shizuha3a:Do you think our lives are a show or something...?
+
+Minoriko1b:What are you, a tourist? Try doing something other than looking in through the window!
+
+Kaguya0a:Oh, that's enough for now. We'll continue this conversation after the next request.
+
+Kaguya4b:Cast aside your pride and scatter before the bowl's radiance!
+
+<end>
+
+<ChatID:11>---------------------------------------
+//御石の鉢撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Chen0b:Yay, we did it!
+
+Kaguya1b:Not bad. I didn't think you'd overcome this challenge as well. 
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Chen4b:We got through that, somehow...
+
+Kaguya0a:You're quite nimble, if you managed to survive that trial.
+
+</Cond>
+
+Kaguya1c:I suppose even the modern youkai of Earth still have some amount of fight left in them.
+
+Rumia1a:Why do you always have to look down on us?
+
+Kaguya6a:I have good reason, don't I? You've even been coexisting with the humans recently. It's been quite the show.
+
+Kaguya4c:A thousand years ago youkai were much more savage.
+
+Aya5a:Hm... Our attitudes and interests may have changed, but we haven't gotten any weaker.
+
+Aya0a:Even in today's Gensokyo we still fight with humans, just in a different form.
+
+Kaguya6a:How so?
+
+Marisa0c:We've got our own modern way of doing things.
+
+Marisa0a:Humans and even fairies can have a fair match with a youkai.
+
+Sunny5a:And we don't even lose every time!
+
+Kaguya1b:I see. I'm sure that will be fun to watch too.
+
+Kaguya0a:Then the next challenge is this robe...
+
+Kaguya4b:Half-hearted danmaku will be as waves upon an unbreakable rock.
+
+<end>
+
+<ChatID:12>---------------------------------------
+//皮衣撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Kaguya6a:...So you overcame this challenge too. This has been quite worth my while.
+
+Youmu1a:Any shield can be split by a strong enough force!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Kaguya1a:I give up. There's nothing of interest here.
+
+Sunny4a:C'mon, we're just saving our stamina for the next one.
+
+</Cond>
+
+Mima1a:If you run home to the moon now, you might be able get out of this with your next treasure intact.
+
+Kaguya0b:Don't start with that, please. I have no desire to return.
+
+Kaguya1c:Spending my time observing Earth is far more enjoyable than staying on that dreary moon.
+
+Kanako3c:That's not the worst thing you could say about our world, I suppose.
+
+Suwako4a:But you're still kinda missing the point.
+
+Suwako0a:You keep talking like you know everything about the Earth, but frankly you don't know a dang thing.
+
+Kaguya0a:Oh, what makes you say that? I've been living here all this time, after all.
+
+Yuka1a:...Hah, do you really think that the soil where flowers don't even bloom is the same as what we have out there?
+
+Yuyuko2a:If you aren't interacting with other people around you, you might as well not exist.
+
+Suika1b:We'd never consider someone who lives like that a resident of the Earth!
+
+Kaguya1b:...I didn't ask for acceptance from you natives, nor do I need it.
+
+Kaguya0a:Moving on, the next treasure is quite appropriate for the people of Earth, who are born only to someday disappear.
+
+Kaguya1c:Show me a fight worthy of letting you view this treasure.
+
+<end>
+
+<ChatID:13>---------------------------------------
+//子安貝撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Kaguya6a:...You've fulfilled four of my requests.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Kaguya6a:So you've survived the fourth trial...
+
+</Cond>
+
+Murasa1b:Alright, only one more to go!
+
+Ichirin4b:Coming all this way sure was tiring though...
+
+Kaguya4a:It won't be that easy. Many nobles have tried and failed.
+
+Kaguya4b:In fact, no one's ever cleared all of them... Right, Mokou?
+
+Mokou1c:...!
+
+Luna0a:What's she talking about, Mokou?
+
+Kaguya1c:Oh, she never told you? Her father took on my challenges.
+
+Kaguya1d:In the end though, all he did was shame himself.
+
+Mokou3e:Shut up. Don't you dare say one more word about Father.
+
+KeineH4a:Mokou...
+
+Mokou3c:...Your humiliation of him is where this all began.
+
+Mokou3d:I became immortal to succeed where he failed and restore our family's name.
+
+Akyu3e:So that's how you ended up drinking the Hourai Elixir...
+
+Kaguya2b:Oh, it was all very dashing of her. Too bad it spelled the end of her coexistence with humans.
+
+KeineH1a:Why you... You have no idea what Mokou's been through!
+
+Mokou1b:Let it go, Keine. But I have something to say to you too, Kaguya.
+
+Mokou1a:You just don't know what it means to live.
+
+Kaguya2b:What do you mean?
+
+Mokou0a:Even with an immortal body, you can form connections. You can change. 
+
+Mokou0b:And if you can hold onto those changes, you can live alongside others.
+
+Kaguya4c:...I was wondering what was going on here. You seem to be under some passing delusion.
+
+Kaguya4d:Ridiculous. Someone with an eternal life like you, playing at fitting in on Earth?
+
+Marisa3a:Mokou fits in just fine. What about you, though?
+
+Marisa0b:You keep saying you love the Earth, but you're really just gonna watch?
+
+Reimu4a:If all you do is look, you'll never be a part of it.
+
+Kaguya4a:...
+
+Yukari0b:To live in a place is to become a part of that place.
+
+Yukari0a:If you wish to live here in Gensokyo, you can start by experiencing eating our planet's dirt, and grow from there.
+
+Mokou3e:As long as you're in this unchanging mansion, you'll never be living on Earth!
+
+Kaguya4c:Look at all of you, putting on airs... If you think you have it all figured out, then take on this final request.
+
+Kaguya4b:The most beautiful challenge of all, the one that stumped Mokou's father...
+
+Kaguya4f:A sight most rare: a rainbow of danmaku!
+
+<end>
+
+<ChatID:14>---------------------------------------
+//玉の枝撃破
+
+Kaguya6a:How in the world―How did you defeat my impossible requests?!
+
+Youmu1a:It's over. This is our true strength!
+
+Alice1a:This is the power of the fantasy that you spent the last thousand years hiding from.
+
+Kaguya5a:...Perhaps it's possible that I've not taken you Earthlings seriously enough.
+
+Kaguya0a:Fine. I'll acknowledge that you've completed all my impossible requests.
+
+Luna3c:Hey, so then―
+
+Kaguya0a:But that doesn't mean the battle is over.
+
+Kaguya1b:It wouldn't be fair to Eirin and the others if I let myself get defeated here.
+
+Reimu1a:Seriously? You don't actually wanna go another round, do you?
+
+<pause>
+
+Kaguya1c:Oh but I do. I simply must repay all you've done for us in kind. Please accept this humble gift.
+
+<pause>
+
+Momiji2a:What's going on?!
+
+Ran1b:Time's passage is accelerating... At this rate, dawn will soon break!
+
+Kaguya4e:Using my power over eternity, I'll tear apart this half-baked imperishable night.
+
+Kaguya4b:Soon, Gensokyo will greet the dawn without its true moon restored to it.
+
+Kaguya4f:Now, I will bring this battle to its finale!
+
+<end>
+
+<ChatID:15>---------------------------------------
+//永夜返し初撃目の後
+
+Kaguya4b:The dawn shall be upon us soon.
+
+<end>
+
+<ChatID:16>---------------------------------------
+//永夜返し二撃目の後
+
+Kaguya4b:How's that? With this, your spell of eternal night shall be broken, and the dawn shall come!
+
+<end>
+
+<ChatID:17>---------------------------------------
+//永夜返しブレイク時、または逃げ切り時
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Mystia2a:I can't believe it. We somehow broke through it before sunrise...
+
+Kaguya3a:Though I'd intended for that to end the night in one fell swoop, I must admit that was well done.
+
+Remilia1c:And how about now? Surely you're not going to keep fighting after that.
+
+Kaguya3c:Yes, this battle ends along with the eternal night.
+
+Kaguya3f:I suppose I'll return the true moon to you.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Kaguya0a:What a shame. Dawn had almost arrived.
+
+Mystia0c:So will you give us back the real moon?
+
+Kaguya3a:Yes, this battle ends along with the eternal night.
+
+Kaguya3f:I suppose I'll return the true moon to you.
+
+</Cond>
+
+Merlin1a:Woo, we did it!
+
+Alice0c:So, the battle is really over?
+
+Kaguya3a:Yes. Thank you for keeping me company tonight.
+
+Kaguya3c:I'll talk to Eirin about ending the Locked Room spell.
+
+Meiling3d:Oh right, she was the one hiding the moon, not you.
+
+Koakuma4a:She already left a while ago, so we need to go look for her...
+
+Kaguya3a:Why don't we first take a little break? Even I'm a bit tired after all that.
+
+Suika2a:You're pretty calm about losing.
+
+Murasa3a:Well, if that's what we've gotta do, then why don't we start by leaving here?
+
+Akyu0a:Let's retrace our steps. That should lead us back to the mansion.
+
+<end>
+
+<ChatID:18>---------------------------------------
+//ADVB
+
+<MAP=3,FROM=永遠亭,TO=永遠亭,name=Eientei,icon=4>
+
+<BG=*bg_talk_Eientei_Night.png,fade=0,color=1,title=*bg_Eientei,bgm=bgm_talk_ningyo>
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+Tewi4b:...Phew, we finally made it back to the mansion.
+
+Tewi4a:Dragging your exhausted butt back here was a real pain, Reisen. 
+
+Udonge1c:It's not my fault! I used my spellcard and it really wore me out.
+
+Udonge5b:Anyway, we may have lost, but I hope Master's doing okay.
+
+Tewi4a:Well, let's fortify our defenses. They should still be fighti―
+
+<SE=se_talk_Seirensen_landing01.ogg,wait=1>
+
+<Code=(map_shake,1,50,3)>
+
+<SE=se_bomb04.ogg,wait=0>
+
+<Code=(demo_wait,60)>
+
+Tewi1c:...!
+
+Udonge1b:That's the humans' ship! What's going on...? 
+
+<SE=se_talk_door_open06b.ogg,wait=0>
+
+<Code=(demo_wait,60)>
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+Kaguya3c:Thank you for the lift. It's been a long time since I've ridden in a flying ship.
+
+Mokou1b:...Did we HAVE to take HER too? 
+
+KeineH3a:When we said we were heading back, she climbed aboard like it was perfectly natural. 
+
+Udonge1b:The princess! And the humans! 
+
+Kaguya1c:Oh, Inaba. I look away for one minute and you come back covered in mud.
+
+Tewi4b:Forget about that, what are you doing over there? 
+
+Udonge1b:What happened to Master?! I thought you two were fighting the humans... 
+
+Marisa0a:If you're talking about the doc, we gave her a good thrashing before moving on to beating your princess here. 
+
+Reimu0d:We haven't seen her since. Just where could she be hiding? 
+
+Udonge2b:This can't be happening. How could you have beaten Master...? 
+
+Tewi2a:(W-We're in trouble, Reisen! We've gotta get ourselves out of here!) 
+
+Udonge2a:(You're right. We'll find Master then launch a counteratta―) 
+
+Unzan0a:...!
+
+Udonge2b:Eek!
+
+Tewi1c:A mikoshi-nyuudou?! They've had someone like that with them?!
+
+Suwako0d:Now now, no need to make such a fuss. It's not like we're going to eat you. 
+
+Kaguya0a:I'm thirsty, so let's have some tea first. 
+
+Udonge2b:Princess, how can you act so casually after being defeated?!
+
+Udonge1b:These people are trying to take back the moon we hid! 
+
+Yukari1a:I hate to be the bearer of bad news, but we've gotten her to promise to restore the true moon. 
+
+Udonge2b:What?!
+
+Tewi1c:You're going to give them back the moon?! 
+
+Kaguya3c:I suppose it's something like a prize, for fulfilling all of my impossible requests.
+
+Kaguya0a:I need to talk to Eirin, and have her release the spell. 
+
+Udonge2b:No, you can't do that! If you did, then the Lunar Emissaries would come after that rabbit! 
+
+Yuka0c:Come to think, you did say something about how she's the cause of all this.
+
+Yuka0d:She's actually right here, you know. 
+
+UsagiR2c:H-Hey, let go of me! 
+
+Kaguya6a:Oh, so you're the Moon Inaba that Eirin and the others were talking about. 
+
+UsagiR2a:Inaba? Whatever that means, yeah, I'm a rabbit from the moon.
+
+UsagiR2c:I just didn't think running away would end up such a big deal! 
+
+Udonge1b:Are you KIDDING me? How thoughtless can you be?
+
+Udonge2a:The reason we had to go through all this was because the Emissaries were pursuing you!
+
+UsagiR2c:Um, well, there may have been a misunderstandi―
+
+<hide=all>
+
+Eirin1b:What are you all doing there? 
+
+</hide>
+
+Reimu0d:That voice...
+
+Eirin1b:Release the princess. And hand over the rabbits too. 
+
+Udonge0a:I knew you'd be alright, Master! 
+
+Marisa3a:Man, is she tough as nails or what?
+
+Eirin4d:Your attacks may have forced me into a temporary retreat, but don't think this is over.
+
+Eirin1a:As long as dawn breaks, then our plans will―
+
+Kaguya1a:Speaking of which, Eirin. I ended up promising them I'd return the moon.
+
+Eirin2a:What?
+
+Tewi2a:It's true, Master! She says it's a reward for completing her "impossible requests."
+
+Udonge2b:Please say something to her, Master! If you can't talk some sense into her, we'll―
+
+Eirin1a:Reconsider this, Kaguya. I've had about enough of your selfishness.
+
+Eirin1b:If the emissaries come chasing after the rabbit, it could very well up end worse than being forced to find a new hiding spot.
+
+Kaguya1c:But I already gave them my word.
+
+Kaguya2b:You'll just have to come up with another way to deal with the emissaries. 
+
+UsagiR2c:Uh, hey, about that, there might have been a little miscommunication―
+
+Eirin1b:What excuses do you have for us now?
+
+UsagiR2c:The truth is I have no idea if there's anyone chasing me or not! 
+
+Tewi1c:What?!
+
+UsagiR2a:It's hard to admit it after all this, but I may have exaggerated a bit...
+
+UsagiR2c:I was panicking, so I thought that maybe if you felt sorry for me, then...
+
+Udonge2b:Wait, so back when you told me there were a bunch of people pursuing you...
+
+Udonge1b:You were just making it all up?! 
+
+UsagiR2a:But my being desperate to get help was 100% genuine!
+
+Udonge2b:But then... why are we doing all this?
+
+Udonge5b:I can't even...
+
+<Code=(map_shake,1,20,3)>
+
+<SE=se_talk_gashi01.ogg,wait=1>
+
+Tewi2a:Oh no, Reisen!
+
+Youmu3a:Poor thing. She always seemed so desperate in battle.
+
+Sanae0b:But, this doesn't actually prove they're not chasing you, right? It's still possible. 
+
+Eirin0c:Yes, the moon maintains a unit for carrying out operations on the Earth's surface.
+
+Eirin1b:If they were to use this incident as an pretext to expand the scope of their activities, then―
+
+UsagiR0b:Nah, I wouldn't really worry about that.
+
+UsagiR0a:Ever since the change in leadership, nobody ever even talks about sending a punitive expedition to Earth. 
+
+Eirin2a:They don't?
+
+Yuyuko1a:Come to think of it, I don't think I've ever met a visitor from the moon! 
+
+Ran6b:There's no record of any such intruders coming to Gensokyo over the past thousand years. 
+
+Eirin4a:...I see. If that's true, then perhaps they've lost all interest in the Earth. 
+
+Kanako0a:In any case, I doubt they care all that much about that rabbit. 
+
+Remilia1c:Plus, you two lost. You don't get a vote.
+
+Eirin4a:Let's see, with this new information...
+
+Eirin0a:As you wish, my Lady. I'll release the spell and return the moon. 
+
+Nitori4a:Yay, we did it!
+
+Eirin1b:But under one condition―I demand that you turn over the rabbit.
+
+Eirin0c:I'd like to keep her close at hand, so I can ascertain what she was thinking when she fled to Earth. 
+
+Yukari1a:Well, that's reasonable enough. We'll leave her in your care.
+
+Aya3b:Want me to go grab her luggage real quick? 
+
+UsagiR2c:Hey, don't I get a say in this? 
+
+Tewi3d:No getting out of it now, kid. Don't worry, though—I'll show you the ropes.
+
+Kaguya3f:More Inabas is always a wonderful thing. 
+
+UsagiR2c:Oh boy, what have I gotten myself into...
+
+LilyW0b:Don't worry, Miss Rabbit, I'll definitely come over to play some time.
+
+Eirin0c:...Tewi, grab Udonge and carry her with us.
+
+Eirin0a:I want to examine her once I've released the spell, just in case. 
+
+Tewi3c:Yeah, yeah. You help out too, newbie. 
+
+UsagiR2a:Y-Yes ma'am!
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+<single>
+
+LilyW0b:...Do you think Miss Rabbit's going to be okay? 
+
+</single>
+
+Wriggle0b:Well, they'll definitely be keeping a close eye on her, so I wouldn't worry.
+
+Reimu4a:In actually important news, we just resolved the incident.
+
+Daiyosei0c:Yes, Gensokyo should get its moon back soon. 
+
+Kaguya3f:How splendid. It looks like we've both safely accomplished our goals.
+
+Kaguya2b:This is a relief for me too. I'd hate to be locked up in that space each and every time there's a full moon. 
+
+Meiling3d:It feels really weird to have the mastermind celebrate this with us. 
+
+Mokou3c:Well, at least you seem to be taking my advice.
+
+Mokou1b:Mind if I get a few more things off my chest? 
+
+Kaguya1b:My, that's awfully polite for you.
+
+Mokou1c:This is a good chance for you to make a fresh start. You can undo the spell of eternity and stop hiding yourself away. 
+
+Youmu2b:There was another spell?
+
+KeineH5a:You want her to remove the spell over the mansion that rejects change?
+
+KeineH0b:But if she does that, then the people nearby will become aware of the mansion, unlike before... 
+
+Kaguya4a:Naturally. Where is this even coming from? I only promised to return the moon.
+
+Kaguya0a:I'll continue to live as I have been, the same as―
+
+Mokou3c:You're just going to stay cooped up in this mansion, same as always?
+
+Mokou0a:If I've learned anything from these people, it's that immortals CAN feel alive, by sharing in others' experiences.
+
+Mokou1a:And if you just stay in an unchanging mansion, that'll never happen to you. 
+
+Kaguya1b:Must you always be so impatient, Mokou? I have all the time in the world, you know.
+
+Sho0a:But if you're ever going to live in Gensokyo, what better time to start than now?
+
+Sunny3b:Yeah, since it turns out nobody from the moon's coming after you anyway.
+
+Kaguya0a:...
+
+Youmu0a:Kaguya, we're not telling you anything you don't already know.
+
+Youmu4a:You've already lived among people from Earth before.
+
+Kaguya0a:...That's right, the Earthling couple who first found me. They were as kind-hearted as they were poor.
+
+Kaguya0a:Come to think of it, I came to love the Earth while living with them...
+
+Kaguya6a:I wonder... is the Earth even more full of novelty now?
+
+Minoriko3b:It's much better to join a party than stand on the sidelines watching one. Once you try it, you'll see!
+
+Yukari0a:As long as you don't do anything too villainous, you won't find yourself shunned.
+
+Yukari1a:Of course, what comes next is all up to you.
+
+Kaguya0a:Hmm...
+
+Marisa0b:Hey, I can see the sky getting brighter already.
+
+Marisa0a:This calls for a dawn-greeting party! 
+
+Merlin3d:Yeah, and we should start up our Rising Sun Concert! 
+
+Suika1a:Should we do it at the Hakurei Shrine, same as always? 
+
+Reimu3a:...Ugh, after all this I just wanted to go curl up in bed.
+
+Reimu0g:Guess we have to, though. Just make sure to bring enough sake, okay?
+
+<MAP=3,FROM=博麗神社,TO=博麗神社,name=Hakurei Shrine,icon=4>
+
+<BG=*bg_talk_Shrine_Dawn.png,fade=1,color=1,title=*bg_Shrine,bgm=bgm_talk_hiroshige>
+
+Suwako4b:I don't think we're going to get much drinking done at the party before dawn breaks...
+
+Suika3c:Don't worry about it! We can get a head start on it right now. 
+
+Shizuha1c:Now then, here's to getting back the full moon!
+
+Minoriko1a:Cheers! 
+
+<SE=se_talk_glass01.ogg,wait=1>
+
+Murasa3d:Man, nothing beats drinking after a victory!
+
+Ichirin3d:That's for sure. Should we open another bottle? 
+
+Sanae4a:The feeling of accomplishment just doesn't sink in until you're celebrating with everyone else! 
+
+Reimu0b:Yeah, we've got more sake here than I expected, so even I'm satisfi―
+
+Reimu0f:Wait, is it really okay for Murasa to be doing this? I thought Buddhism forbids drinking.
+
+Sho0a:...It's fine, that's what we call "Prajna Water".
+
+Nazrin6a:Ichirin and the captain started drinking while they were sealed in the Underworld... 
+
+Kosuzu3c:Now now, it's a party, so let's not bring the mood down!
+
+Kosuzu0c:Ah, nothing beats the taste of sake after helping resolve an incident!
+
+Nazrin6a:No objections here, but... did you even do anything?
+
+Kosuzu5a:Uh... moral support?
+
+Murasa0a:Well, I for one appreciated her brightening up the bridge.
+
+Ichirin0a:You could make tea for us when we're busy.
+
+Kosuzu3d:Really?! Wow, thanks!
+
+Sanae4a:Looks like even Kosuzu's getting along with the youkai now.
+
+Sanae0g:Maybe we don't need to worry about making sure she doesn't get wrapped up in this anymore.
+
+Reimu5d:Maybe...
+
+Kanako2a:So, Prismrivers, let us have one more song before the dawn breaks.
+
+Elliy3b:Yes! Yes! Another encore for the Prisms from me! 
+
+Lunasa0b:...Of course, we intended to keep blasting until sunrise. 
+
+Merlin3d:And this time, we're throwing in a special last minute guest vocalist!
+
+Lyrica1c:The Earth! The Dawn! 
+
+Mystia1d:Listen to my song!
+
+<SE=se_talk_cheer01.ogg,wait=0>
+
+<single>
+
+<Code=(demo_wait,60)>
+
+Hina3a:...So adding music to an ordinary banquet makes it this much livelier, huh? 
+
+</single>
+
+Nitori4b:Yeah, because we have way more friends now!
+
+Nitori4c:And I'm so so glad you became part of our circle too, Hina. 
+
+Hina3c:You don't have to spell it out, Nitori. You're making me blush. 
+
+Aya0a:How was being part of the investigation, Hatate?
+
+Hatate0a:Hmm, well... The thrill of reporting live from the scene really does makes a difference.
+
+Hatate0a:And if I can enter this article into next year's newspaper contes―
+
+Momiji5a:Aya tried that last year and lost the prize anyways.
+
+Aya2b:Hey, Momiji! Nobody asked you to bring that up.
+
+Yukari0a:...Goodness. At this rate, I doubt we'll be able to wind things down even after dawn breaks.
+
+Yukari1a:Is this too noisy for you, Yuyuko? I know it's always quiet in the Netherworld. 
+
+Yuyuko1b:Oh no, not at all. We often have the Prismrivers over.
+
+Yuyuko0a:You should pay a visit next time. And bring those darling shikigami of yours. 
+
+Yukari1a:You, inviting me over? What's next, the sun rising in the west?
+
+Chen3b:You're amazing, Miss Ran! You're still okay after seeing the full moon close up... 
+
+Ran3a:That was an exceptional amount of magical power it was putting off, so why don't you lie down for a bit, Chen?
+
+Ran6b:I'm more surprised that Marisa and the other humans aren't feeling the effects. 
+
+Marisa0a:Don't worry about me, I've gotten used to going a bit crazy. 
+
+Youmu2b:If I had to say, I think I'm getting more dizzy from worrying about whether the side dishes will be ready before the drinks are gone. 
+
+Marisa0b:It would've been done by now if Sakuya were here. 
+
+Kurumi4b:...Remi's group said that Flan would be worried, and went home early.
+
+Yuka0c:They seemed so excited about it that I think we can forgive their absence. 
+
+Mima3c:If you need a maid, isn't there someone else here with the appropriate experience? 
+
+Alice4a:Not this again. Mima, please don't bring that up. 
+
+Yuka0d:Still, I must say. I never thought you'd voluntarily take a seat next to us. 
+
+Alice0c:...It's nothing special, I just thought I should thank you two for helping out.
+
+Alice0d:It was really reassuring to know you two were at our side.
+
+Mima5b:Hm, if you think you needed to thank us, then you're far too good-natured for your own good.
+
+Mima0a:Though this is the last time it'll happen. Think of it as my farewell gift.
+
+Alice0a:Are you really leaving?
+
+Mima0a:I've seen what I wanted to see, and I've never been the lingering type.
+
+Mima3d:Stick with Marisa and the rest of her pals, and keep on doing what you're doing.
+
+Alice0a:Hm. I was hoping maybe this time could be an exception...
+
+Yuka0a:I need to go take care of the flowers, so I'll be leaving too once dawn breaks.
+
+Yuka0b:I had a lovely time. Give my regards to Remilia. 
+
+Alice0d:Okay, I'll see you later then... 
+
+<nowindow>
+
+<single>
+
+<Code=(demo_wait,30)>
+
+</nowindow>
+
+Rumia4a:*munch, munch*
+
+</single>
+
+KeineH1b:Mind your table manners, Rumia. At least use chopsticks. 
+
+Rumia1a:But if I don't hurry it's all going to go away... 
+
+Luna4a:We're really hungry after all that thinking about homework. 
+
+KeineH5a:Homework...? Oh, that's right, I gave you those Summer Compan―
+
+Mokou4a:Keine, this is a party. Give the kids a break.
+
+Sunny3b:Yeah, if keep frowning at us so much your face'll stick that way! It'd be a shame to spoil your beautiful face.
+
+Star3d:C'mon, why don't you relax and have a drink? I'll go get one for you!
+
+KeineH3a:They can be little brown-nosers when they want something, huh? But I guess it's fine to let them take the day off.
+
+Wriggle3d:Anyways, good thing Gensokyo got its moon back.
+
+Wriggle3b:Looks like us bugs can get back to our normal lives. 
+
+Daiyosei3b:Now that the tension's gone, I'm a bit sleepy... 
+
+Komachi4b:After the grueling pace we kept, it's no wonder you're tired. 
+
+Cirno3a:If I fall asleep, can you carry me to bed, Mokou? 
+
+Mokou4a:Why me? Keine's in charge here, ask her. 
+
+Akyu3a:No, why don't you give it a try? You never know, you might look handsome doing it. 
+
+KeineH0a:People tell me I'm terrible at giving piggyback rides. Mokou, you can take care of this. 
+
+Mokou2a:Wait, why am I the next option? 
+
+Akyu0a:That reminds me, Mokou. When I write about this incident in the Gensokyo Chronicle, how much should I include? 
+
+Mokou0a:What do you mean?
+
+Akyu0a:The masterminds this time around were Kaguya and Eirin, who both have eternal life.
+
+Akyu0a:If I include all the details, people might start looking at you with suspicion too. 
+
+Mokou3c:You do you. Papering over it isn't gonna change my reality.
+
+Mokou5b:Best way to change that is to change myself. And I've got plenty of time for that.
+
+Komachi0a:Ah, of course. That's one way to take advantage of immortality.
+
+Star3c:You seem a little different, Mokou. 
+
+Mokou5a:Really? ...Actually, you're probably right.
+
+Mokou1a:I've been thinking, it might be nice if I could give Keine a hand and do something good for the village.
+
+KeineH6c:I'm sure you'll fit in right away, Mokou. I'll help out however I can too.
+
+KeineH0a:Let's walk this road together, one step at a time. 
+
+Mokou5b:...Yeah, counting on you.
+
+<MAP=3,FROM=紅魔館,TO=紅魔館,name=Scarlet Devil Mansion,icon=5>
+
+<BG=*bg_talk_Koumakan_Int_Night.png,fade=0,color=1,title=*bg_Koumakan,bgm=bgm_talk_hiroshige>
+
+<SE=se_talk_door_open04.ogg,wait=1>
+
+Koakuma4a:Phew, we finally made it back to the mansion.
+
+Koakuma4b:I wonder if everything went okay for Lady Flan while she was watching the house. 
+
+Meiling0a:Let's go greet her first, so she can stop worrying. 
+
+Remilia1d:...
+
+Sakuya5b:Mistress, aren't you going to go looking for Lady Flan? 
+
+Remilia0a:Of course I am. It's the first thing I'll do.
+
+Remilia0b:But I've been thinking about that Eirin lady. 
+
+Sakuya5b:You mean the doctor? 
+
+Remilia1d:She really went overboard back there, but it was all because of how much she cares about her princess. 
+
+Patchouli0a:Yes, that's why she feared change and shut her away, out of sight.
+
+Patchouli4a:Just like you two used to be, Remi. 
+
+Remilia5a:...Yeah. But not anymore.
+
+Remilia3a:I've decided that I'm going to try working things through with her.
+
+Meiling0a:So, then―
+
+<SE=se_talk_walk_indoor01.ogg,wait=1>
+
+Flan3i:Remi...
+
+Sakuya0a:Ah, there you are, Lady Flan.
+
+Remilia3a:You're still up, huh? You must be getting sleepy.
+
+Remilia0a:I brought back our full moon, just like I told you I would. 
+
+Flan3b:...Welcome home.
+
+Remilia4a:Flan...
+
+Flan0b:...Sakuya told me that that's what you're supposed to say when you're done watching the house and everybody comes back.
+
+Flan0a:Remi... You came home right away, just like you promised. 
+
+Remilia3a:Yeah, and it looks like you did a good job watching the house too.
+
+Remilia0a:Now, about that promise...
+
+Flan0b:...
+
+Remilia4a:Hey, Flan?
+
+Meiling6a:Ah, it looks like she fell asleep standing up!
+
+Meiling5a:I'll carry her to bed and tuck her in.
+
+Koakuma1a:Th-Thank you for your help!
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+Patchouli0a:...Not only did she stay indoors, but she even waited for you like that. She has her moments, doesn't she?
+
+</single>
+
+Remilia0a:Exactly. You get it.
+
+Sakuya5b:But what was that promise you mentioned, Mistress? 
+
+Remilia3a:I made two promises. First, to take back the moon and come home right away.
+
+Remilia6a:The other was that I'd take her out for a walk under the real moon once the incident was over. 
+
+Koakuma5b:You mean...?
+
+Remilia3a:I'm sure I'll get my chance next full moon.
+
+Remilia5c:Though I hope I can actually pull this off...
+
+<MAP=3,FROM=永遠亭,TO=永遠亭,name=Eientei,icon=5>
+
+<BG=*bg_talk_Eientei_Dawn.png,fade=1,color=1,title=*bg_Eientei,bgm=bgm_talk_soratoumi>
+
+Kaguya3a:...The way the night sky turns gray really is a beautiful thing.
+
+Kaguya1c:I can understand the way the old poets must have felt about it. 
+
+Eirin0a:...So this is where you went, Kaguya. 
+
+Kaguya3a:That took you longer than I expected, Eirin. 
+
+Eirin0c:Yes, I had to release the Locked Room spell, then give Udonge an examination.
+
+Eirin4a:That other rabbit left her rather shaken up, but I haven't found any abnormalities in her brainwaves. 
+
+Kaguya5b:You always make such a big deal out of everything, Eirin. Inaba was just a little shocked.
+
+Kaguya0a:A little excitement now and then would probably do her some good anyway. 
+
+Eirin0b:How can you be so cavalier about this? 
+
+Kaguya0a:Well, doesn't she seem different from how she was when she was always running away, back then?
+
+Kaguya0a:...You know, Eirin. The Earth really is a nice place. 
+
+Eirin0a:It is, my Lady?
+
+Kaguya0a:That fight made me realize that in my thousand years holed up in this mansion, I lost sight of things.
+
+Kaguya0a:Hiding here has made me forget what it means to live on the Earth. 
+
+Eirin4a:Life outside of the mansion is irrelevant to fugitives such as ourselves.
+
+Kaguya6a:But Inaba said that there was no sign that pursuers would come.
+
+Kaguya0a:Eirin, I think I want to release the spell of eternity from the mansion. 
+
+Eirin2a:What?! 
+
+Kaguya1b:Naturally, once I release it, history will begin to move, and we'll be engulfed in impurity.
+
+Kaguya0a:But it seems that if I don't expose myself to that, I'll never understand the true nature of the Earth. 
+
+Eirin2a:What do you mean by "the true nature of the Earth"?
+
+Kaguya0a:Whatever it is that you can only understand by standing on the same soil, and becoming a part of a place.
+
+Kaguya0a:By knowing that, and accepting change, I think we can live alongside the people here. 
+
+Eirin2a:...Princess, don't tell me you've been swayed by those Earthlings?
+
+Eirin1b:How could we former Lunarians expose ourselves to such impurity?
+
+Kaguya1b:We former sinners who drank the Hourai Elixir, you mean.
+
+Eirin4b:Be that as it may...
+
+Kaguya6a:"Former Lunarians"... I think as long as we're stuck with that label, we'll belong on neither the Earth nor the Moon.
+
+Kaguya3c:I want to try living life as the Earthlings do. It sounds like it could be fun.
+
+Eirin4b:Eientei was supposed to be where we belonged.
+
+Eirin4a:My lady, are you trying to tell me that setting up the spell of eternity was a mistake? 
+
+Kaguya6a:A mistake?
+
+Eirin4a:...Yes. I'd always considered it a necessary measure for us to remain on the Earth without getting caught. But now―
+
+Kaguya0b:No, far from it. The boredom we shared was fine and dandy, really.
+
+Kaguya1a:For us, the eternal, there's no need to reject anything.
+
+Kaguya3f:Everything is equally fun and equally a waste of time.
+
+Eirin0b:Kaguya...
+
+Kaguya0a:Ahh, I'm sure the Earth is even more filled to the brim with impurity than it was back then.
+
+Kaguya3c:If we start our journey again here, we can add some color to our eternity. 
+
+Eirin0a:...
+
+Eirin4b:(Personally, I don't see the appeal of the Earth or its people.)
+
+Eirin0a:(But if that's what Kaguya wants...) 
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+Udonge0a:...Princess, are you busy? 
+
+Tewi3c:We thought you might be hungry, so we made some dango. 
+
+Kaguya0a:Oh, the Inabas. How thoughtful of you.
+
+Kaguya0a:Good timing, too. Could you come over here? 
+
+Udonge0a:For what, Princess?
+
+Kaguya1a:Look, the clouds to the east are getting brighter.
+
+Kaguya3f:That's what will illuminate our lives from now on―Earth's dawn.
+
+<Code=(transition_out,c_white,120,1)>
+
+<end>
+
+<ChatID:19>---------------------------------------
+//全滅時
+
+<end>
+
+<ChatID:20>---------------------------------------
+//輝夜vs.霊夢
+
+Kaguya0a:You must be the Incident Resolution specialist that Tewi informed me of.
+
+Reimu0a:Well, that saves me the trouble of introducing myself. I'll be taking the moon back, thank you very much.
+
+Kaguya0a:That won't do at all. If you want your prayers answered, first you have to stand up to some adversity.
+
+Kaguya1b:Now, why don't you show me your power?
+
+Reimu0a:I was gonna do that anyway!
+
+Reimu1a:I don't care if you're an alien or whatever, I always resolve Gensokyo's incidents!
+
+<end>
+
+<ChatID:21>---------------------------------------
+//輝夜vs.魔理沙
+
+Marisa0a:I gotta admit, as a fellow collector I'm real jealous of all those treasures you've got.
+
+Kaguya0a:You seem like the sort who just hoards everything.
+
+Kaguya0a:If you hone your judgment, I'm sure you'll find treasures close at hand.
+
+Marisa0a:Nah, all that stuff's already mine. Who cares what's in it?
+
+Kaguya2b:For an Earthling, you aren't very discerning. Perhaps you'll make it through this without being bedazzled by my magnificent treasures?
+
+Marisa1a:The memories I've collected will never lose to a bunch of shiny junk!
+
+<end>
+
+<ChatID:22>---------------------------------------
+//輝夜vs.ルーミア
+
+Rumia3a:So if we beat her up, morning comes!
+
+Cirno0a:Whoa, Rumia's all motivated all of a sudden.
+
+Rumia0a:It's cause when it's always night, my power doesn't do anything.
+
+Daiyosei0a:I'm surprised that was bothering you...
+
+Kaguya0a:I have no interest in how the youkai of Earth "ought" to be.
+
+Kaguya1b:As living beings struggling through life, you need only adapt yourselves to a new way of living.
+
+Rumia1a:Gah, she's talking down to us. And can you really say that when you live on Earth too?
+
+<end>
+
+<ChatID:23>---------------------------------------
+//輝夜vs.大妖精
+
+Daiyosei0a:This person is Eirin's princess... she's definitely not going to just give the full moon back.
+
+Kaguya0a:And to keep it, I will display all of my power.
+
+Kaguya1b:I wonder if you can do the same?
+
+Daiyosei1a:I'm not very self-confident, but as long as everyone's here, I'll do my best!
+
+<end>
+
+<ChatID:24>---------------------------------------
+//輝夜vs.チルノ
+
+Kaguya0a:I can feel a strong chill. You must be a cold fairy.
+
+Cirno5b:I'm an ICE fairy! I can freeze anything.
+
+Kaguya0a:How convenient. I've been needing some ice to drive away the summer heat of late.
+
+Cirno1a:Hah! Well if you want that, you'll have to beat me first!
+
+Kaguya1a:What an arrogant fairy, to come pick a fight with someone like myself.
+
+<end>
+
+<ChatID:25>---------------------------------------
+//輝夜vs.美鈴
+
+Meiling1b:I can't lose here, for the sake of the mistresses.
+
+Meiling1a:Hong Meiling, the Scarlet Devil's Dragon, shall be your opponent!
+
+Kaguya0a:So you're a youkai gate guard, then? Eientei receives no visitors, so we have no need of one like you.
+
+Meiling7a:You're so cut off from the world that your mansion doesn't even need a gatekeeper?
+
+Meiling7b:Normally I'm on the defending side, but today I'll show that I can break through too!
+
+<end>
+
+<ChatID:26>---------------------------------------
+//輝夜vs.小悪魔
+
+Koakuma0a:So a princess of the moon has been living like this all this time, then?
+
+Koakuma3d:Hiding yourself from the world sounds so romantic.
+
+Kaguya0a:It's not as exciting as it sounds. Most of the time no one ever comes and I get bored.
+
+Kaguya0a:And even when they do come, they can't solve my trials. They're hardly worth my time.
+
+Koakuma5b:You wait for them only to put them to the test?
+
+Koakuma3d:So while you like to play at being a princess, you're more of a little devil, huh?
+
+Kaguya2b:Whatever could you be talking about?
+
+<end>
+
+<ChatID:27>---------------------------------------
+//輝夜vs.パチュリー
+
+Kaguya0a:You seem like the scholarly sort. I'd love it if you told me about some things.
+
+Patchouli4f:"Some things"? That's an awfully haphazard and vague request.
+
+Kaguya0a:It means that I don't care what you tell me as long as it's entertaining.
+
+Kaguya0a:Eirin and I have been living in here all this time, so I don't know all that much about the Earth.
+
+Patchouli4e:So your curiosity is strong, but you still have no desire to go out and see things for yourself.
+
+Patchouli4a:How unlike Remi you are.
+
+<end>
+
+<ChatID:28>---------------------------------------
+//輝夜vs.咲夜
+
+Kaguya0a:You can manipulate time with your power, yes?
+
+Sakuya5a:...The previous opponent noticed that too. Is my power really something to be so concerned about?
+
+Kaguya0a:It's a little surprising, but only that. To me, it's nothing exceptional at all.
+
+Sakuya5b:Is it now?
+
+Kaguya0a:But more importantly, show me more of your ability to manipulate time.
+
+Kaguya1b:I'm looking forward to seeing how many of my impossible requests you can fulfill with your power.
+
+<end>
+
+<ChatID:29>---------------------------------------
+//輝夜vs.レミリア
+
+Kaguya0a:You're the one who plunged into my residence with such dreadful force, aren't you?
+
+Remilia1c:I was and still am in a rush. Now let's hurry up and settle things so you can return the moon.
+
+Kaguya0a:I do wonder, should a youkai who's so dependent on the moon's power be acting so prideful?
+
+Remilia1e:You even lived there yourself, but you never realized the power of the moon?
+
+Remilia1a:Well allow me to show you. With the might of the full moon, I am invincible!
+
+<end>
+
+<ChatID:30>---------------------------------------
+//輝夜vs.橙
+
+Chen4a:Miss Ran, when I look at this moon I get all dizzy.
+
+Ran6b:Don't worry, Chen. Just calm down and do as I tell you.
+
+Kaguya0a:Still coaching her at this stage of the game? Did you come here to play around?
+
+Chen2b:Yeah, well what about you? You haven't done anything here but play around.
+
+Kaguya0a:Unlike you, I'm allowed to play around.
+
+Kaguya0a:I hope you can entertain me with that bestial agility of yours!
+
+<end>
+
+<ChatID:31>---------------------------------------
+//輝夜vs.アリス
+
+Kaguya2b:Oh, but you have such a charming way of fighting!
+
+Alice1b:"Charming"?
+
+Kaguya0a:I've never seen anyone use dolls as tools of war before.
+
+Kaguya0a:Are they animated by some mysterious curse?
+
+Alice0c:Sorry to disappoint you, but I'm just moving them all myself.
+
+Alice1a:What's important isn't the objects themselves, but the skill with which you use them. Maybe you could use a lesson on that.
+
+<end>
+
+<ChatID:32>---------------------------------------
+//輝夜vs.リリー
+
+Kaguya0a:It's the wrong time of the year for a spirit of spring, you know. It's absolutely gauche to be so out-of-season.
+
+LilyW0d:But it'd be bad for nature if I just left the moon missing like this.
+
+LilyW1c:Maybe you can't tell, but something's a bit off!
+
+Kaguya1a:You're so serious about this. I suppose fairies really are sensitive to the cycles of nature after all.
+
+<end>
+
+<ChatID:33>---------------------------------------
+//輝夜vs.ルナサ
+
+Lunasa0a:...A difficult-to-grasp sound. Short where it feels long, yet long where it feels short.
+
+Kaguya0a:Personally, I've always considered myself the sort who can grasp the long view.
+
+Kaguya0a:But more importantly, that's a strange sound you're making. Is that a biwa?
+
+Lunasa0b:It's not even close to a biwa. Are you just saying that because it's got strings?
+
+Kaguya1a:If we're showing off our performances, you should come listen to my koto some time.
+
+Lunasa2a:Yours isn't a biwa either? You really are a difficult-to-grasp person.
+
+<end>
+
+<ChatID:34>---------------------------------------
+//輝夜vs.メルラン
+
+Kaguya2b:Ooh, musicians. How splendid. Please, make this even livelier!
+
+Merlin2a:Hmm... You're acting kinda excited already but it seems like it'll be a tough gig.
+
+Lunasa0b:Putting on an entertained face while really just dispassionately observing. You're the worst kind of audience member.
+
+Lunasa0a:But there's only one solution to that...
+
+Merlin1a:We gotta play our hearts out until you're on board! Let's kick it!
+
+<end>
+
+<ChatID:35>---------------------------------------
+//輝夜vs.リリカ
+
+Kaguya0a:Those instruments you're holding. I've never seen anything like them, not even in the Lunar Capital.
+
+Lyrica1a:Well of course not, these are instrument phantasms! We're the only ones who can use 'em!
+
+Kaguya2b:How intriguing. Then I'll definitely need them for my treasury.
+
+Lyrica1b:We'd never hand over the tools of our trade!
+
+<end>
+
+<ChatID:36>---------------------------------------
+//輝夜vs.妖夢
+
+Kaguya0a:That's quite the precious-looking blade you bear.
+
+Youmu0a:You mean the Hakurouken? This is something that can only be used by the Konpaku clan.
+
+Kaguya0a:Oh, I never said I wanted to use it. Treasures naturally belong in a vault.
+
+Youmu1b:I feel sorry for your the tools in your vault.
+
+Youmu1a:Allow me to demonstrate their use! My Roukanken, forged by youkai, and my Hakurouken, which cuts through confusion, will strike home!
+
+<end>
+
+<ChatID:37>---------------------------------------
+//輝夜vs.幽々子
+
+Yuyuko0a:This will be over soon, and I'll be taking back the moon shortly.
+
+Kaguya0a:You people keep saying you're going to take back the moon. Are you trying to say that the moon belongs to you?
+
+Yuyuko0a:It may not belong to anyone, but we would miss it if it were gone.
+
+Yuyuko2a:This incident really is such a bother...
+
+Kaguya1a:The way you're talking, it doesn't seem like you're even trying to persuade me.
+
+Yuyuko5a:That's right, I'm telling you to hand it back over.
+
+<end>
+
+<ChatID:38>---------------------------------------
+//輝夜vs.紫
+
+Yukari0a:This is where it all ends. This incident was simply far too dangerous.
+
+Kaguya1b:So, you're the one who's interfering with Eirin's spell by stopping the passage of the night.
+
+Kaguya1b:So there are people with such talents even on the Earth!
+
+Yukari0a:That haughty attitude is exactly why you'll never be able to win against us, nor become a resident of Earth.
+
+Yukari1a:Allow me to demonstrate to you your mistake.
+
+<end>
+
+<ChatID:39>---------------------------------------
+//輝夜vs.藍
+
+Ran6c:You do whatever you like, without even considering how it will affect the Earth...
+
+Ran6e:I'll be resolving this situation momentarily.
+
+Kaguya0a:You take this so seriously. I would have expected a fox monster to be wilder.
+
+Ran0a:As I am now, I am both Lady Yukari's shiki and Chen's master. I have duties.
+
+Kaguya1a:You'll never be able to ruin a country like Tamamo-no-Mae did if you tie yourself down with rules like that, you know.
+
+<end>
+
+<ChatID:40>---------------------------------------
+//輝夜vs.萃香
+
+Kaguya0a:I've heard about the youkai called oni before.
+
+Kaguya0a:Earthlings everywhere live in fear of them.
+
+Suika1a:Ahh, now that takes me back. So, you scared of fighting me or something?
+
+Kaguya0a:No, you oni don't frighten me at all. After all no Earthling, whether human or youkai, has ever even scratched a Lunarian.
+
+Suika1a:The word for that is hubris, y'know. You're gonna learn to fear us real soon.
+
+Suika0a:First, I'll teach you how scary oni are!
+
+<end>
+
+<ChatID:41>---------------------------------------
+//輝夜vs.リグル
+
+Wriggle1a:Everyone's so excited. They say that's the real full moon!
+
+Kaguya0a:It's rare for insects to be allowed this far in.
+
+Kaguya0a:I prefer not to get bitten, nor do I find much pleasure in watching them.
+
+Wriggle2a:Bugs don't- No, NOBODY exists just for your entertainment!
+
+Wriggle1a:Everybody, let's do this! Let's get back the moon!
+
+<end>
+
+<ChatID:42>---------------------------------------
+//輝夜vs.ミスティア
+
+Mystia3d:Howling in shadows, living in a lunar spell! Bark at the moon!
+
+Kaguya1a:Is that a popular Earth song? It's nothing but noise.
+
+Mystia0c:The older youkai always tell me that too.
+
+Mystia1d:But if you think the stuff I sing is just noise, then your taste is just old-fashioned!
+
+Kaguya0a:I've recited plenty of songs in my time. Allow me to educate you on the finer points of good taste.
+
+<end>
+
+<ChatID:43>---------------------------------------
+//輝夜vs.慧音
+
+Keine1a:Kaguya! I won't let you get away with your selfishness any longer!
+
+Kaguya0a:I believe I've seen you hanging around Mokou from time to time...
+
+Keine0a:Until now, I thought this was between you and Mokou, and tried my best not to interfere.
+
+Keine1a:But not anymore! As a human who lives alongside Mokou, I'm going to settle this!
+
+Kaguya1b:Mokou, together with a human? Truly, I'd never get bored of watching THAT.
+
+Keine0a:Don't think for a second that you'll always be able to smugly talk down to us like that.
+
+Keine1a:Mokou's lived and changed so much. I'll make you feel the weight of that history!
+
+<end>
+
+<ChatID:44>---------------------------------------
+//輝夜vs.妹紅
+
+Mokou0b:Your schemes come crashing down today, Kaguya!
+
+Kaguya1b:So you made it here, Mokou. Do you really think persistence alone will bring you victory?
+
+Mokou0a:You'd have a chance if I was alone, but this time I've got this entire gang on my side.
+
+Kaguya1b:I can't believe you're letting them interfere with one of our duels. Just what is going through that head of yours?
+
+Mokou0a:Times change. I've changed too, and neither of those is gonna stop.
+
+Mokou0c:And if you don't get it yet, I'll teach you this lesson the old fashioned way!
+
+<end>
+
+<ChatID:45>---------------------------------------
+//輝夜vs.幽香
+
+Kaguya0a:All these powerful people showing up before me, one after another. The youkai of Earth sure love to band together, don't they?
+
+Yuka0c:It's a little vexing that you choose to lump me in with them. I'm here by simple coincidence.
+
+Yuka0c:I'm sure my favorite little group could have handled this even without me.
+
+Kaguya0a:I suppose youkai come in all sorts. Then why not switch sides and see if this one's more fun?
+
+Yuka0c:I'm afraid that's another matter entirely. Flowers lack a certain beauty under the light of a false moon.
+
+Yuka1b:Of course, as you are someone ignorant of the soil, it hardly matters if I try to explain.
+
+Kaguya1a:So in the end you're just another Earth youkai.
+
+<end>
+
+<ChatID:46>---------------------------------------
+//輝夜vs.小町
+
+Komachi0a:Those are some pretty gorgeous treasures you've got hoarded up there.
+
+Kaguya0a:If you share my delight in them, then it was worth taking them out of storage.
+
+Kaguya0a:Are you also interested in treasures?
+
+Komachi1c:If I had to say, I'm more of a spender than a saver.
+
+Komachi3c:Souls and goods are both meant to circulate, and I think there's a lot here that's been shut away too long.
+
+Kaguya1a:Don't tell me you're here to extract payment from me.
+
+Komachi1b:I collect from almost everybody in due time, but normally you and I are never gonna run into each other. So right now I'll be taking my fair share!
+
+<end>
+
+<ChatID:47>---------------------------------------
+//輝夜vs.静葉
+
+Shizuha0a:For the sake of the autumns to come, we'll bring back Gensokyo's real moon!
+
+Kaguya0a:Oh? I don't think hiding the moon will affect the passing of the seasons though.
+
+Shizuha1c:The moon's a part of the seasons too. A fake harvest moon would be a sad sight to see.
+
+Kaguya2b:You think the moon's a part of the seasons? That's an idea concocted by the Earthlings.
+
+Kaguya2b:The moon has been in the sky since before your seasons ever turned.
+
+<end>
+
+<ChatID:48>---------------------------------------
+//輝夜vs.穣子
+
+Minoriko0a:I get the feeling you're the sheltered type. I bet you've never even done farmwork.
+
+Kaguya0a:Oh, I used to live in the country too, you know. It looked fun.
+
+Minoriko0a:You shouldn't make light of it. It can be grueling work.
+
+Kaguya1a:Not work, play. To me, everything is play.
+
+Minoriko1a:You'll never grow good food with an attitude like that! Slow living doesn't mean easy living!
+
+<end>
+
+<ChatID:49>---------------------------------------
+//輝夜vs.雛
+
+Kaguya2b:That's amazing! How can you have so much impurity?
+
+Hina4a:You mean my misfortune? I'm sorry, but you're the cause of that.
+
+Hina0b:Actually though, this place has far too little misfortune for its own good. Or, as you'd put, impurity.
+
+Kaguya1a:Of course it wouldn't. The river of time does not flow here.
+
+Hina1a:You should try getting wrapped up in a little misfortune. Otherwise, you can't even call what you're doing living.
+
+<end>
+
+<ChatID:50>---------------------------------------
+//輝夜vs.にとり
+
+Kaguya0a:So is that a machine from Gensokyo? Even a thousand years ago, lunar technology was much more advanced.
+
+Nitori1d:I won't say that's not frustrating to hear, but why aren't you using one of those lunar weapons then?
+
+Kaguya1b:Because this wouldn't be a game if I did. I'm using trials from Earth, as befits Earthlings.
+
+Nitori1c:So you're trying to match like with like?
+
+Nitori1b:But some old challenges from a thousand years ago won't stand a chance against the latest in technology!
+
+<end>
+
+<ChatID:51>---------------------------------------
+//輝夜vs.椛
+
+Kaguya0a:You seem valiant. We don't have anyone like you among the servants here.
+
+Kaguya0a:And it looks like guard work is your specialty too. I wouldn't mind having you around, if you're for hire?
+
+Momiji3c:The very idea is nonsense. Don't mock the dedication of the tengu to the mountain!
+
+Kaguya2b:No matter, I suppose either way it wouldn't have worked out. Keeping a wolf among rabbits is just begging for someone to get eaten.
+
+Momiji0a:Make no mistake, I only bare my fangs at the proper target.
+
+<end>
+
+<ChatID:52>---------------------------------------
+//輝夜vs.文
+
+Aya0b:So there's a princess from the moon, and she shares this fateful bond with Mokou...
+
+Aya5a:I'm having trouble figuring out how I should put this all together for an article on the incident.
+
+Kaguya0a:I don't care how you write it, as long as you don't deliver to the moon.
+
+Aya0a:I never said I was worried about your opinion.
+
+Aya1a:But either way, I suppose I'll have to resolve this incident first!
+
+<end>
+
+<ChatID:53>---------------------------------------
+//輝夜vs.早苗さん
+
+Sanae0b:I'll never approve of what you're doing here, Kaguya, but...
+
+Sanae3b:I pity you for just shutting yourself up in this mansion, even after you got away from the moon.
+
+Kaguya2b:Pity? Why?
+
+Sanae0a:Whenever you move to a new place, it's best to be on the lookout for new connections.
+
+Sanae0a:It can be fun to learn about new ways of thinking and fresh ways of doing things.
+
+Kaguya2b:Are you, an Earthling human, trying to take me under your wing?
+
+Kaguya1a:I was well versed in observing the Earth since before you were born.
+
+<end>
+
+<ChatID:54>---------------------------------------
+//輝夜vs.神奈子
+
+Kanako0a:This incident is disrupting the human spirit. So if either Sanae or I bring it to an end, we'll bring in faith as well.
+
+Kaguya0a:If your goal is to win human hearts, then surely wealth or treasure would suffice.
+
+Kanako1b:What crass materialism. People mainly want two things: a better quality of life, and a pillar of spiritual support.
+
+Kaguya0a:I don't think riches would fail to provide those things for Earthlings...
+
+Kaguya0a:But very well. Let us see which shines brighter, your divinity or my treasures.
+
+<end>
+
+<ChatID:55>---------------------------------------
+//輝夜vs.諏訪子
+
+Suwako4b:If you aren't scared of youkai, then I bet you aren't afraid of a vengeful deity either.
+
+Kaguya0a:Of course not. Actually, we're quite close to gods ourselves.
+
+Suwako1c:Anyone who just sits back and watches can't call themselves a god.
+
+Suwako1b:Let me show you the power that put the fear of the gods into humanity!
+
+<end>
+
+<ChatID:56>---------------------------------------
+//輝夜vs.ナズーリン
+
+Nazrin2a:I'm getting a crazy rarity reading here. The word "valuable" doesn't even begin to cover it!
+
+Kaguya0a:It seems you have quite the discerning eye. I have plenty of other lunar items in the storehouse that I wouldn't mind showing you.
+
+Nazrin0a:Thanks, but no thanks. I look for things as part of my duty, not because I'm some connoisseur.
+
+Kaguya0a:Oh, all you do is search for things? How boring. Taking ownership of them is what makes it fun.
+
+Nazrin4a:I don't wanna hear that from someone who's satisfied with what she already has.
+
+<end>
+
+<ChatID:57>---------------------------------------
+//輝夜vs.星
+
+Sho1c:Kaguya, please return the true moon!
+
+Kaguya0a:You sound so desperate. I expected better from someone I could sense the lingering scent of treasures on.
+
+Sho0b:Life has taught me that you'll never accomplish your goals unless you're desperate for them.
+
+Sho0c:So what was your goal then, in shutting yourself away in this mansion for over a thousand years?
+
+Kaguya0a:Nothing in particular. I simply kill time by spying on the Earth from here.
+
+Kaguya0a:There is nothing in particular that I should nor need to be doing.
+
+Sho1b:And you think that's the correct course of action?! I'll never respect that!
+
+<end>
+
+<ChatID:58>---------------------------------------
+//輝夜vs.聖輦船
+
+Murasa0a:So this is the old enemy Mokou was talking about, huh?
+
+Ichirin0a:She's Eirin's master, so we'd better not let our guards down.
+
+Kosuzu0a:The enemy's boss, huh? Are we gonna be okay?
+
+Akyu1a:If we all work together, our victory is guaranteed!
+
+Kaguya1b:My, what surprising confidence from someone currently hiding inside a ship.
+
+Akyu1a:Don't underestimate what we've built in the time we've spent together.
+
+Akyu3e:I may be useless in a fight, but the others can more than make up for that...
+
+Ichirin1a:I disagree. Akyu, this ship welcomes your contributions as much as everyone else's.
+
+Murasa1b:The Palanquin Ship wouldn't be the same without everyone. Let's go crush her together!
+
+<end>
+
+<ChatID:59>---------------------------------------
+//輝夜vs.はたて
+
+Hatate1a:I can't believe I captured the moment the mastermind revealed herself! It was SO worth coming here.
+
+Kaguya0a:That's a quite a fine device, for something of Earthling make. Of course, on the moon there are film projectors that are even more convenient.
+
+Hatate0a:Huh. That doesn't really make me jealous, if that's what you're trying to do.
+
+Kaguya1a:So you aren't particular about your equipment? How strange, as there's nothing else about you worth taking pride in.
+
+Hatate0a:No matter what equipment I use, the power of thoughtography is mine!
+
+Hatate1a:And with it, I'm gonna write articles that only I can write!
+
+<end>
+
+<ChatID:60>---------------------------------------
+//輝夜vs.くるみ
+
+Kurumi3a:Yuuka read me a book about you once, Princess Kaguya.
+
+Kaguya0a:Yes, I'm aware that the Outside World has turned us into a fairy tale.
+
+Kurumi0a:But in the book, it said that Princess Kaguya went home.
+
+Kaguya0a:It was easier for us to let the Earthlings believe that.
+
+Kaguya0a:It was a necessary act so that we could live in secret as fugitives, after all.
+
+Kurumi5a:Oh, so that's what happened. It's cool getting to hear the real story behind legends.
+
+<end>
+
+<ChatID:61>---------------------------------------
+//輝夜vs.エリー
+
+Elliy1a:You'd better make your peace, because here I come!
+
+Kaguya0a:Well, someone looks like they're having fun. Is facing my trials really that enjoyable?
+
+Elliy0a:Of course it is! I finally get the chance to resolve an incident right in front of Yuuka!
+
+Elliy2a:I couldn't ask for a better opponent to brag about after I get home.
+
+Kaguya0a:True, there is no finer honor than completing my impossible requests. That is, if you can.
+
+Kaguya2b:Try not to disgrace yourself like the young noblemen from before did.
+
+<end>
+
+<ChatID:62>---------------------------------------
+//輝夜vs.魅魔
+
+Mima0a:It's about time for the curtain to fall on this incident.
+
+Kaguya0a:My, you look quite satisfied with yourself for someone who's still in the midst of my trials.
+
+Mima0a:I've already accomplished what I came here to do. So yes, this has been a satisfying trip.
+
+Mima0a:All that's left on my to-do list is to defeat you and wrap everything up cleanly.
+
+Kaguya1b:My, you make it sound like an afterthought. You should realize that will be the hardest challenge of all.
+
+<end>
+
+<ChatID:63>---------------------------------------
+//輝夜vs.サニー
+
+Sunny1a:If I can beat you, I can finally see the sun again!
+
+Kaguya0a:Yet the one prolonging this night is an Earthling.
+
+Sunny1c:Yeah, but that was because of you. I know who's really the bad guy here.
+
+Sunny1a:I'm gonna resolve this incident so I can get back to taking naps under the sun!
+
+<end>
+
+<ChatID:64>---------------------------------------
+//輝夜vs.ルナ
+
+Luna0a:If we never get the full moon back, I wonder what'll happen to me?
+
+Luna6a:Maybe without the moon's power I'll just slowly start to fade away!
+
+Kaguya0a:I think even a fake moon should be enough to empower a fairy.
+
+Luna1a:Th-This is like my personal identity we're talking about! I'm not going to give up on the real moon!
+
+<end>
+
+<ChatID:65>---------------------------------------
+//輝夜vs.スター
+
+Star4a:I think it's kind of unreasonable to expect me to fight...
+
+Kaguya0a:You have quite the lovely appearance.
+
+Star0c:I do?
+
+Kaguya0a:It's only a little, but you remind me of how I used to look all the way back then.
+
+Kaguya1a:Preserving specimens isn't at all a hobby of mine, but perhaps I should ask Eirin about this later...
+
+Star2b:E-Eek!
+
+<end>
+
+<ChatID:66>---------------------------------------
+//霊夢・紫
+
+Reimu1b:So that's the real moon, huh...
+
+Yukari0a:There's enough power here to drive a human mad, but you should be fine.
+
+Yukari0a:Reimu Hakurei. Your job is to retrieve that moon and restore harmony to Gensokyo.
+
+Reimu0a:C'mon, I'm the Hakurei Shrine Maiden. I already know that.
+
+Reimu1a:I'll resolve the moon incident here and now!
+
+Yukari0a:And I shall watch you do so.
+
+<end>
+
+<ChatID:67>---------------------------------------
+//マリアリ
+
+Marisa0a:Sure is a full moon, huh.
+
+Alice0a:Yes. You can't see it, but there's a torrent of mystical energy flooding the area.
+
+Marisa6a:Full Moon Rays, huh.
+
+Alice0b:You love giving things weird names, don't you? Though I'm glad you're not letting the energy get to you.
+
+Marisa0a:Like I'd get cold feet after coming all the way here.
+
+Marisa1a:Alright, let's take back that stolen moon!
+
+Alice1a:Of course. But let's be careful along the way.
+
+<end>
+
+<ChatID:68>---------------------------------------
+//レミリア・咲夜
+
+Sakuya0a:So we've found the real moon. Mistress, how are you feeling?
+
+Remilia0a:The night of a full moon truly is without peer. Sakuya, you should take care not to go mad.
+
+Remilia0e:Though we'd be fine if you had to sit this one out, I'm still undefeatable under this full moon.
+
+Sakuya0a:How cruel, to make light of my contributions. No matter the time or place, I'll be there to assist you.
+
+Remilia1e:...Seems like you're still your regular self. In that case, I'll be counting on your help.
+
+Remilia1a:Let's take back the real moon.
+
+Sakuya0a:Yes, for Lady Flan's sake as well.
+
+<end>
+
+<ChatID:69>---------------------------------------
+//ゆゆ様・妖夢
+
+Youmu0a:I've never seen such a terrifying full moon...
+
+Yuyuko0a:Youmu, looking into the face of that moon is a frightful thing. You must be careful.
+
+Youmu2b:What? I have to face my opponent without looking at the moon?!
+
+Yuyuko0a:Isn't that what you have that big ghost half for?
+
+Youmu3a:I don't think I could use it as my mind's eye...
+
+Youmu1a:But if it's for the sake of taking back the moon, I'll do my best!
+
+Yuyuko1a:Good, now slice open this Locked Room.
+
+<end>
+
+<ChatID:70>---------------------------------------
+//早苗さん・神奈子
+
+Sanae0b:I can see the Earth far below us... We're coming up on the final battle.
+
+Kanako0d:Are you nervous, Sanae?
+
+Sanae0a:Not at all, Lady Kanako. Because you're with me.
+
+Kanako0d:I'm gladdened to hear it. We cannot afford to lose this battle.
+
+Sanae1a:Yes! For the sake of all youkai and humans of the earth...
+
+Kanako1b:We will regain the true moon!
+
+<end>
+
+<ChatID:71>---------------------------------------
+//早苗さん・諏訪子
+
+Sanae0b:I can see the Earth far below us... We're coming up on the final battle.
+
+Suwako0a:Yup, that down there's what we're fighting to protect.
+
+Sanae0a:We're protecting something...
+
+Suwako0a:Both as gods, and as residents of Earth, we're definitely getting back that moon.
+
+Sanae1a:You're right. For the sake of all humans and youkai on Earth...
+
+Suwako0a:We'll show them the power of the gods!
+
+Sanae6e:Of course, Lady Suwako!
+
+<end>
+
+<ChatID:72>---------------------------------------
+//魔理沙・魅魔
+
+Mima1c:Marisa, do you fully understand the power of that moon?
+
+Marisa1d:Yeah, I can't see it but it's coming through load and clear. The Full Moon Rays are pouring all over us.
+
+Mima0d:Full Moon Rays? What a stylish way to put it. That's the true magic of our missing moon.
+
+Marisa0a:Guess we're near the witching hour. Good time on a good night for magic.
+
+Mima0a:Exactly. You and I are on the same page.
+
+Mima1c:Now, let's get going. It's time to take back the moon with our magic!
+
+Marisa1a:Sure thing, Lady Mima!
+
+<end>
+
+<ChatID:73>---------------------------------------
+//アリス・幽香
+
+Yuka0c:What a beautiful moon tonight.
+
+Alice0a:Yes. It's filled with an almost dangerous amount of magic.
+
+Alice1a:We absolutely must bring it back to Gensokyo.
+
+Yuka0c:You being overly serious isn't anything new, but make sure stay careful out there.
+
+Yuka0d:Of course, that's also why I'm sticking with you.
+
+Alice0d:Yuuka, allow me to rely on you for this fight.
+
+Yuka0c:I'd be glad to keep you company, Alice.
+
+<end>
+
+<ChatID:74>----------------------------------------
+//輝夜vs.メーコ
+
+Kaguya1a:Oh, what a rare youkai.
+
+Meko0b:Your eyes are scaring me a little!
+
+Kaguya0a:Oh, no need for that, I'm simply fascinated by that wool of yours.
+
+Kaguya0a:With the right treatment, we could produce quite the item out of it.
+
+Meko0a:So, you mean...?
+
+Kaguya0a:Perhaps it'd be cruel to elaborate any further.
+
+Meko0a:I won't let you treat like I'm just some rare beast!
+
+Meko0a:The people of Earth aren't just your toys, Lunarian!
+
+Kaguya0a:Toys, you say? Fascinating. My interest in you is growing by the second.
+
+<end>
+
+<ChatID:75>----------------------------------------
+//輝夜vs.まくら
+
+Kaguya2d:It seems you control the power of dreams. I've heard of such youkai.
+
+Makura3a:There are baku on the moon, after all. I wouldn't be surprised if you've met one.
+
+Kaguya2e:It must have been painful to live on the Earth.
+
+Kaguya0a:How does a creature as dignified as a baku fall into disgrace and wash ashore here? I must admit my curiosity is piqued.
+
+Makura0f:Watching the suffering of others as a form of entertainment is hardly dignified itself.
+
+Kaguya2c:Perhaps, but I would think it's a privilege afforded to the eternal.
+
+Kaguya1b:Have you never thought "if only the glory of the baku would last forever"?
+
+Makura0a:...
+
+Kaguya1b:Oh? You seem to be giving it some thought.
+
+Makura1c:...I was just thinking back on the time my thoughts did contain such arrogance.
+
+Kaguya2e:And what is that supposed to mean?
+
+Makura1a:Nothing you need to know. Let's focus on the fight.
+
+<end>
+
+<ChatID:76>----------------------------------------
+//永琳vs.依姫
+
+<end>
+
+<ChatID:77>----------------------------------------
+//永琳vs.豊姫
+
+<end>
+
+<ChatID:78>----------------------------------------
+//永琳vs.まくら
+
+Makura1c:So you'll resort to any means to achieve your objective.
+
+Makura1a:Isn't it a little twisted to call that loyalty?
+
+Eirin0e:It's only natural, if it's to protect my master.
+
+Makura1a:But to do so, you locked her in a cage, to forever reflect on your own sin.
+
+Makura1c:It's insanity. Delusion. Or something even worse.
+
+Eirin5b:Are you done yet? I'll erase you along with your tedious ramblings.
+
+<end>
+
+<ChatID:79>----------------------------------------
+//輝夜vs.輝夜
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Kaguya2e:Wow, now isn't this something. My very own reflection.
+
+Kaguya0a:Did I happen to use a mysterious artifact or the like?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Kaguya3c:Why don't you go ahead give it a guess?
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Kaguya1b:Oh, but making an impossible request of MYSELF is simply delightful.
+
+Kaguya1a:I'll play along with this game of danmaku, so please, entertain me more.
+
+</nomove>
+
+<end>
+
+<ChatID:80>----------------------------------------
+//輝夜vs.依姫
+
+Yorihime0c:It's been quite some time, Princess Kaguya.
+
+Kaguya6a:Oh, might you be...?
+
+Yorihime0b:Watatsuki no Yorihime, of the Lunar Defense Corps.
+
+Kaguya2e:To think Eirin's old student would be calling upon us now, of all times.
+
+Kaguya0a:Could we be having this meeting thanks to that rabbit, perhaps?
+
+Yorihime3a:You didn't even flinch on hearing my name.
+
+Kaguya2d:I've pictured this day in my head so many days I'm already bored of it.
+
+Kaguya3a:So despite how much we feared it, now that it's actually happening it's nothing to get excited over.
+
+Yorihime5a:I suppose it's a good thing that you have such resolve...
+
+Yorihime0d:But it's not my task here to judge you.
+
+Yorihime0a:I simply wish to know you, as a personal wish. At least allow me to fulfill it.
+
+<end>
+
+<ChatID:81>----------------------------------------
+//輝夜vs.豊姫
+
+Kaguya2e:As I recall, aren't you...?
+
+Toyohime0a:Do you remember me? I'm Watatsuki no Toyohime.
+
+Toyohime0b:As a Lunar Emissary, I apologize for the intrusion.
+
+Kaguya2d:...A Lunar Emissary on the Earth, then?
+
+Kaguya2e:I wonder, is this part of your duty, or a personal desire?
+
+Toyohime2b:What do you mean?
+
+Kaguya2e:It's difficult to imagine that anyone from the moon would have business with me after all this time.
+
+Kaguya0a:So to be here regardless, surely you've come to take back Eirin?
+
+Toyohime2d:I see your time imprisoned hasn't dulled your wit.
+
+Toyohime0a:...To be perfectly honest, some part of me does want that.
+
+Toyohime0c:But I doubt either you or her would consent to it.
+
+Kaguya2c:But even so, you wish to exchange danmaku with me?
+
+Toyohime1a:Please play along, if only to help us make peace with it.
+
+Toyohime0b:These bullets contain a thousand years of my feelings. You definitely won't be bored.
+
+<end>
+
+<ChatID:82>----------------------------------------
+//輝夜vs.永琳
+
+Kaguya2e:Oh, Eirin. What sort of joke is this?
+
+Kaguya2c:Surely you of all people would never rebel.
+
+Eirin3c:True. At most I'd give you a little scolding over the way you live your life.
+
+Kaguya0b:The way I live? This isn't like you at all. Has the impurity seeped into your thinking?
+
+Kaguya3c:Well, not that I mind, of course.
+
+Eirin1a:...So you really did think like that, even back then.
+
+Eirin0c:I never did. But that's precisely why I wanted to come back and hear your thoughts, one more time.
+
+<end>
+
+<ChatID:83>----------------------------------------
+//C43： 輝夜vs.非想天則
+
+Tensoku0a:...
+
+Kaguya0b:Oh my, so they have moving machines on the surface?
+
+Kaguya2e:How crude and unrefined. So very Earth-like.
+
+Kaguya4b:Now allow me to give you my personal assessment.
+
+<end>

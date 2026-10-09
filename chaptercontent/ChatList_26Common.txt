@@ -1,0 +1,1000 @@
+﻿○共通第二十六話「春雪
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: 1EP
+ 3: 2EP (Letty shows up)
+ 4: spell start
+ 5: clear
+ 6: ADVB
+ 7-28: battle vs. Letty
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<MAP=10,FROM=妹紅の家,TO=妹紅の家,name=Mokou's House,icon=5>
+
+<BG=bg_talk_Bamboo_Winter2.png,fade=0,color=1,title=*bg_Mokou,bgm=bgm_talk_blizzard>
+
+<Code=(demo_wait,30)>
+
+Mokou0a:...
+
+Mokou3c:Man, it's cold. Maybe I should warm myself up... Nah, too much trouble...
+
+<SE=se_talk_knock01.ogg,wait=1>
+
+<hide=all>
+
+Keine1a:―kou? Mokou?
+
+</hide>
+
+Mokou0a:...
+
+<SE=se_talk_knock01.ogg,wait=1>
+
+Mokou4a:...?
+
+Mokou1b:Did someone just knock on my door? What kind of fool would come to a place like this?
+
+<SE=se_talk_door_open03.ogg,wait=1>
+
+Keine0a:Sorry for dropping by without warning, Mokou.
+
+Mokou0c:Keine? It's been a while, hasn't it?
+
+Keine3a:Yes, I haven't been able to get a moment's―
+
+Keine4a:Yes, I haven't been able to get a moment's― Wait, you haven't even lit your fireplace?
+
+Alice4a:And you've let so much snow pile up that I wouldn't be surprised if your roof collapses.
+
+Mokou1b:Oh, it's you.
+
+Keine0a:Sorry, but Alice is with me today.
+
+Mokou3c:So you're showing strangers where I live, AGAIN?
+
+Alice0a:Don't get mad at her, I'm the one who forced her to take me along.
+
+Keine0b:Sheesh, and you told me not to worry about you...
+
+Mokou1e:...?
+
+Mokou0b:I assume there's some reason you two came all the way out here, so what's up?
+
+Alice0c:"What's up?", she says calmly in a situation like this...
+
+Mokou4a:What situation?
+
+Keine0c:Um, Mokou? Do you know what month it is?
+
+Mokou3c:Dunno. As long as I know what season it is, I don't really care about the date.
+
+Mokou0c:All that matters is that it's winter.
+
+Alice1a:No, it's spring.
+
+Mokou0b:...Wha?
+
+Keine0b:It's May. We're supposed to be in the height of cherry blossom season. Yet it's still snowing.
+
+Mokou1b:So...
+
+Keine2a:The human villagers are currently shivering from both cold AND fear. Their food supplies won't last much longer.
+
+Keine1a:This is, without a doubt, an incident.
+
+Mokou3c:Oh, so that's why you're here.
+
+Alice1a:Reimu and the others will be heading out to investigate, so we're gathering everyone together.
+
+Alice4a:Please, would you lend us your strength?
+
+Mokou3c:...Figured you'd say something like that.
+
+Mokou0c:Dealing with incidents is the shrine maiden's job, so can't we just leave it to her?
+
+Keine0c:I won't say that isn't an option, but I think we should do everything we can to resolve this before people suffer even more.
+
+Mokou3c:Still a softie, huh.
+
+Alice0d:She really is. We tried to tell her to hold the fort at the village, but she wouldn't listen.
+
+Keine1a:Of course I wouldn't! I can't be off doing nothing while everyone else is fighting.
+
+Mokou4a:Why would you even ask her to stay behind?
+
+Alice0a:Things have been looking rather grim in the human village because of this long winter.
+
+Alice4a:Keine has been working herself ragged every day trying to deal with food and fuel shortages.
+
+Mokou4a:Huh? Why didn't you tell me you were―
+
+Mokou3b:Oh, right, yeah... So that's why I haven't seen you around lately.
+
+Alice0c:You're only human, Keine. You shouldn't push yourself too hard.
+
+Mokou3c:...
+
+Keine0b:...Ugh, there you go telling her things I said she didn't need to know.
+
+Keine0b:That's enough about me. Mokou, please. We need your help to resolve this inci―
+
+Mokou0a:I'll go.
+
+Alice0a:Really? I was expecting to have to tell everyone you refused.
+
+Mokou3c:Well, compared to the last time you dragged me along... at least there's a real incident this time.
+
+Keine3a:Oh, thank you so, so much! I'm always asking favors of you.
+
+Mokou1a:Don't worry about it. I'm just doing this because I feel like it, s'all.
+
+Mokou0a:We're meeting up at the shrine, right? Let's get packed and head out.
+
+<MAP=10,FROM=博麗神社,TO=博麗神社,name=Hakurei Shrine,icon=0>
+
+<BG=*bg_talk_Shrine_Winter2.png,fade=1,color=1,title=*bg_Shrine,bgm=bgm_talk_inishie>
+
+Elliy4a:Brrrrrr, rrrr, rrr....
+
+Elliy1a:Reimu, can't you do something about this cold?!
+
+Reimu4a:Like what? I've only got the one fireplace, so deal with it.
+
+Patchouli4c:It's not much in the first place, but with this many people it's definitely useless for keeping us warm.
+
+Marisa4a:This place is just too drafty. Want me to light up my mini-hakkero?
+
+Luna1b:What's that?
+
+Rumia0a:Some kinda magical furnace thingy, I think?
+
+Komachi3b:All the complainers need to pipe down. We didn't come here to relax.
+
+Sakuya0a:Yes, we came here to investigate the incident. We don't have time to laze around.
+
+Sakuya5b:...Though we ARE still waiting for Alice and Keine to get back.
+
+Reimu4a:Ugh, guess we've got no choice.
+
+Marisa7a:By which you mean we're still just gonna wait around.
+
+Meiling5a:I feel like you've gotten nicer after the whole business with the Moriya Shrine, Reimu.
+
+Reimu5c:Just your imagination. They should be back any minute.
+
+Daiyosei5a:Alice and Keine went to get Mokou, right?
+
+Daiyosei3b:Maybe it's taking a while to convince her...
+
+Cirno5b:Sheesh, there Keine goes again, being tardy.
+
+Star4a:Weren't YOU tardy the other day?
+
+<hide=all>
+
+Nitori4d:Hey everybody!
+
+</hide>
+
+Sunny0c:Hm, isn't that―?
+
+Nitori4a:It's been ages, hasn't it? Hope everybody's doing well!
+
+Elliy3a:Oh, it's Nitori. And the misfortune god.
+
+Hina3a:...A pleasure. Please let me go with you.
+
+Marisa0a:I know I reached out to Nitori, but you showed up for us too, Hina?
+
+Hina3a:It feels nice to be needed.
+
+Nitori3e:Can't hurt to have more people on our side, right?
+
+Nitori1a:So I picked up a bunch of gods on the way!
+
+Kurumi4b:What do you mean, "a bunch"?
+
+Minoriko4a:Aaah... Shizuha... There's snow. There's snow everywhere.
+
+Shizuha4a:Uugh... Please let us go home... Back to our warm cellar, far from the cold of winter, unblemished by the whiteness of the snow...
+
+Elliy1b:Whoa, that's unexpected!
+
+Sakuya5b:If it isn't the gods of autumn. Are you going to be okay in this winter?
+
+Hina0a:Well, if they've endured it for this long, they'll probably be fine!
+
+Patchouli6d:If need be, we can put them in front to soak up some danmaku.
+
+Minoriko6a:Er... if you try to push us around I'll have to call down divine punishment...
+
+Minoriko4a:Ah, who am I kidding. Forget divine punishment, just let us go home, please.
+
+Komachi4b:I feel gloomier just talking to them.
+
+Reimu2b:They don't know when to shut up, but they DID help us out back in autumn.
+
+<SE=se_talk_snow01.ogg,wait=1>
+
+Keine2a:Sorry we're late, we brought her.
+
+Koakuma3c:Welcome back, you two.
+
+Alice0d:I hope we didn't keep you waiting too long. But we did bring Mokou along.
+
+Mokou0a:...Figures this place would be crowded.
+
+Marisa0c:Yo, it's been a while. We've been inviting you, but you never came to any parties.
+
+Mokou3c:I'm not here to make friends.
+
+Elliy4b:As hard-boiled as ever, huh...
+
+Meiling1c:Either way, you always show up when we need you. We've got everyone from last time lined up now.
+
+Hina4a:Isn't that just because we're all suffering from this long winter?
+
+Sakuya5a:That's true. For our part, the mansion is almost out of firewood, so we need spring to come soon.
+
+Cirno4c:It was real bad for us too yesterday, right Dai?
+
+Daiyosei3b:Yeah, one of our friends' houses got squashed by snow.
+
+Sunny5a:But don't worry, we're letting her stay at our place for now!
+
+Keine0c:Ahem. I'm sure everyone has realized this, but this is an incident of a scale Gensokyo hasn't seen since the Scarlet Mist.
+
+Keine1a:If we don't do something, all of Gensokyo will be in danger.
+
+Reimu0a:And that's why we'll resolve it quickly. Simple as that.
+
+Mokou1e:You really get fired up whenever there's an incident, don't you?
+
+Reimu0f:Of course I do. It's my job.
+
+Reimu5a:If it's not your cup of tea, I don't mind if you bail.
+
+Mokou3a:No way. I came here to resolve an incident.
+
+Marisa7c:Let's get going then, Reimu. It's finally time for another investigation!
+
+Reimu1a:Yeah. If you don't want to get left behind, then follow me!
+
+<MAP=10,FROM=博麗神社,TO=神社に続く小道,name=Animal Trail,icon=0>
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP
+
+Reimu0a:Well, I flew where I felt like flying, and here we are.
+
+Mokou0a:This scenery is nuts. There's so much snow, you can't even see where anything is anymore.
+
+Nitori0a:Wait, you're just noticing now? It's been like that everywhere for ages.
+
+Komachi4b:Yeah. Silent as the grave, with no signs of life.
+
+Komachi4a:It's as if our once-lively Gensokyo has come to an end.
+
+Mokou3a:...
+
+Hina0b:By the way, what brought you this direction?
+
+Reimu0e:Pure intuition.
+
+Minoriko5a:You've been leading us around on THAT?
+
+Alice0d:Reimu's intuition is sound. It came in handy during the summer incident, too.
+
+Nitori1a:Hey, don't forget Marisa's part in that! That was a stroke of inspiration when she had us head to the lake.
+
+Marisa0a:Oh, yeah, that. Guess all my daily training paid off...
+
+Marisa4b:(...and I'll just leave out the part where a weird dream gave me the idea.)
+
+<nomove>
+
+Shiro0a:...
+
+</nomove>
+
+Sakuya5b:Well, we don't have any other leads to go on. The best we can do right now is keep moving forward.
+
+Meiling3a:Yes, stopping just makes us colder.
+
+Star6a:Wait a moment. Something's coming from up ahead.
+
+<pause>
+
+Elliy0a:Looks like fairies. I'm amazed they're out in this weather at all.
+
+Daiyosei0a:They don't seem to have noticed us.
+
+Reimu0a:That makes things easier. Let's beat them up and keep going.
+
+Cirno2a:Say No to Fairy Abuse!
+
+Marisa0a:Eh, we've got no reason to go around 'em. How 'bout we go get a little warm-up?
+
+<end>
+
+<ChatID:2>----------------------------------------
+//1EP
+
+Yousei11a:Oh, someone's over there.
+
+HYousei0a:You're right. Taking a walk in such cold weather is suspicious, though...
+
+Yousei11a:Okay! I've got some rock-packed snowballs with their names on 'em! Take this!
+
+Meiling6a:Ack! They're trying to start a snowball fight!
+
+Nitori1a:Stupid fairies. They think that would faze any of us?
+
+Minoriko5a:Aieee! The snow! The snow comes for us!
+
+Shizuha5b:Minoriko, get digging. I'll lie in the hole.
+
+Komachi5a:I'd call that pretty fazed.
+
+Elliy5a:Yeah, they're already half-dead.
+
+Yousei11a:It's working, it's working! Here, join in and throw this!
+
+HYousei0a:Sure thing...
+
+Yousei10a:You're being kind of quiet lately. What's wrong?
+
+HYousei0a:Dunno. I'm just tired.
+
+HYousei2a:I haven't felt like myself lately with all this cold.
+
+Meiling3a:One of the fairies isn't looking so hot.
+
+Keine0a:Fairies are embodiments of nature. The unnatural weather might have started to affect their spirits...
+
+Marisa0b:It's so chilly the weather's throwing even THAT out of whack? That's a heck of a brain freeze...
+
+Marisa0a:Fairy or not, it's no surprise that Cirno's hasn't been affected, though.
+
+Cirno4c:...? Huh? I don't get it.
+
+Sakuya6a:I assume you mean because she has no―
+
+Marisa0c:Bzzt, wrong. I clearly meant that she's an ice fairy, so of course she's resistant to the cold!
+
+Komachi1a:I think that's enough witty banter. They're coming this way.
+
+<end>
+
+<ChatID:3>----------------------------------------
+//2EP
+
+Kurumi6b:Hey, hasn't it been a bit cold for a while now?
+
+Elliy4b:Of course it's cold. How slow can you be?
+
+Kurumi4b:That's not what I meant. I mean like it's getting colder and colder.
+
+Patchouli4c:Huh, is it?
+
+Alice0a:Could there be some sort of youkai nearby that's making it steadily colder?
+
+Sakuya5b:If so, it would be safe to assume that they're the one pulling the strings behind this incident.
+
+<Code=(cursor_jump,256,368,1)>
+
+<nomove>
+
+<hide=all>
+
+Letty2a:Pulling strings, what fun!
+
+</hide>
+
+<pause>
+
+Keine1a:...!
+
+Elliy0b:Whoever she is, she's pretty lightly dressed, for this weather.
+
+Mokou0a:And this timing... it's your fault it suddenly got so cold, right?
+
+Letty1a:Yes. My name is Letty Whiterock. An incarnation of winter, a yuki-onna.
+
+Letty0a:And who are you people? You must be quite the characters to be taking a stroll in the middle of a cold snap like this.
+
+Marisa3a:A winter youkai, huh? Well that was simple.
+
+Minoriko2a:An incarnation of winter is behind the cold wave?!
+
+Shizuha5a:...In other words, she's the cause of this long winter.
+
+Minoriko2a:We'd be patiently tolerating spring by now if it weren't for her!
+
+Komachi0b:Here they go again.
+
+Koakuma0a:Actually, something seems different this time...
+
+Shizuha3a:So if we defeat you, winter will end!
+
+<pause>
+
+Minoriko1b:And it'll go back to autumn!
+
+<pause>
+
+Letty1a:Poor things, they've lost their wits to the cold.
+
+Mokou3b:Actually, they're always like that...
+
+Mokou0a:But they're right that we need to defeat you.
+
+Reimu1a:Yeah. When a youkai appears, there's nothing to do but exterminate 'em!
+
+Letty0a:...I see, so you wish to test yourselves against the elements.
+
+Letty1a:In that case, I'll grant you the deepest and most peaceful sleep one can reach in the midst of a blizzard, under a blanket of snow.
+
+<end>
+
+<ChatID:4>----------------------------------------
+//レティ通常撃破
+
+Letty0a:Things have gotten quite heated here. I do hope we can all chill out a bit.
+
+Mokou0a:Sorry, but that's an impossible request.
+
+Meiling1a:We're just getting warmed up!
+
+Alice0a:She's a tricky opponent to face, though. It feels like you can't keep her off you, no matter where you go.
+
+Letty0a:Obviously. After all, what I control is the cold air itself.
+
+Letty1a:In other words, the entire atmosphere is your opponent!
+
+Luna6a:What?! The whole thing?
+
+Patchouli0b:She can control the surrounding sacred ground... This is too much power for one youkai.
+
+Keine1a:But if we don't find it in ourselves to stop her here, the winter will never end!
+
+Letty0a:So you're trying to end this winter?
+
+Sakuya5b:I'd prefer it if the one behind all this didn't try to play dumb.
+
+Letty0a:...I'm afraid you're laboring under a misapprehension.
+
+Letty0a:It's not―
+
+Marisa2b:You can't talk your way out of this one, the jig is up!
+
+Letty0a:If you aren't going to listen, then I'm done playing around.
+
+Letty1a:Be crushed by the power of winter, as even your senses freeze solid!
+
+<end>
+
+<ChatID:5>----------------------------------------
+//クリア時
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Reimu1a:There, we beat her!
+
+Letty2a:Goodness, but you're a rowdy bunch...
+
+Sakuya5b:This should end the winter, right?
+
+Daiyosei0a:Yeah, the snow should be stopping any minute now...
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Marisa2b:Alright, she stopped her attack!
+
+Letty0a:...I'm impressed you can dodge around like that in weather this cold.
+
+Sakuya5b:So... this should end the winter, right?
+
+Daiyosei0a:Yes, the snow should stop any moment now...
+
+</Cond>
+
+<pause>
+
+Rumia0a:It's still falling though!
+
+Elliy1a:Wait, what? But didn't we beat that winter youkai?
+
+Patchouli4a:Apparently it didn't work. The wintry essence in the air hasn't been diminished at all.
+
+Letty1b:I did tell you this was a misunderstanding, didn't I? I don't have anything to do with this incident.
+
+Letty0a:I'm only strengthened by the winter, I can't interfere with the seasons themselves.
+
+Meiling3a:Then who in the world could?
+
+Letty0a:No clue. I wish I knew.
+
+Alice0a:...Well, what she's saying does make sense.
+
+Marisa0c:Man, it figures. I knew this kind of thing would happen.
+
+Sakuya0a:Well then, we should start looking for the next mastermind.
+
+Reimu0f:Let's keep moving. There's no point in staying here.
+
+<pause>
+
+Letty0a:...
+
+<end>
+
+<ChatID:6>----------------------------------------
+//ADVB
+
+<MAP=10,FROM=神社に続く小道,TO=神社に続く小道,name=Animal Trail,icon=0>
+
+<BG=*bg_talk_Road_Winter2.png,fade=0,color=1,title=*bg_Road,bgm=bgm_talk_ningyo>
+
+Koakuma0a:...Even through we beat her, the winter didn't stop. 
+
+Keine0b:Indeed. She did say that she was only strengthened by winter, after all.
+
+Shizuha1c:Now that I think about it, the two of us are autumn gods, but that doesn't mean we can just make autumn happen either.
+
+Minoriko3a:But we can store it up at least. Just look at my sweet potatoes!
+
+Nitori0a:Hey, looks like you two are back in good spirits! 
+
+Shizuha1a:That last danmaku battle let us work through our feelings. I think now we can finally bear to face the cold truth of winter. 
+
+Hina4a:...Did we just put them through shock therapy?
+
+Komachi1c:Ehhh, if it made them feel better then it's all good, right?
+
+Cirno4c:...
+
+Daiyosei0a:What's on your mind, Cirno? 
+
+Cirno5b:Mm, well, that last enemy also had the power to make stuff cold. So I was thinking I shoulda made her one of my underlings. 
+
+Marisa0b:I don't think I'd be able to stand the cold if that happened.
+
+Marisa4b:Actually, now that I think about it, beating her didn't bring the temperature back up at all...
+
+Sakuya5b:Isn't that because Cirno is still here?
+
+Cirno0b:Ugh, everyone's being so cold towards me lately, even though I made them ice last summer. 
+
+Nitori0a:Well, seasonal appliances do often get put aside in other parts of the year.
+
+Mokou3c:Anyways, in the end she was a bust. Though personally I think she WAS acting pretty suspicious.
+
+Alice0b:It's just the beginning, though. Let's pull ourselves together and―
+
+<hide=all>
+
+Letty0a:Wait.
+
+</hide>
+
+Shizuha3a:...?!
+
+Minoriko1b:Sh-she's here! Winter is here!
+
+Letty0a:Could you two stop raising such a racket? Even I might lose my cool eventually.
+
+Komachi0a:...Don't tell me you've been following us.
+
+Reimu0f:If you want another round, I'm game.
+
+Letty0a:No, I have no desire for that.
+
+Luna0a:Then why would you go out of your way to follow us around?
+
+Letty1a:I'd like to come with you on this investigation.
+
+Marisa6b:Huh?! That came out of nowhere...
+
+Letty0a:Your group is trying to put an end to this winter, yes? I'll lend a hand.
+
+Nitori2a:Hold on a sec, aren't you a winter youkai?
+
+Nitori2a:Why would you want to help us end winter? 
+
+Letty0a:Winter is enjoyable, but even it can wear out its welcome. I'd honestly rather spring come at this point. 
+
+Mokou0a:Crazy to hear that from a youkai whose whole deal is spreading cold around.
+
+Letty0a:I'm also interested in learning who the real mastermind is. Isn't that reason enough?
+
+Star3b:She's so cool...
+
+Keine0a:If you're offering to help, I see no reason to reject you.
+
+Keine0a:How about it, Reimu? 
+
+Reimu3b:I don't really care, so I'm cool with whatever she'd like to do.
+
+Komachi3b:I was thinking we didn't have enough people for an incident like this anyways.
+
+Komachi0a:So, as a winter youkai, do you have any hunches on who the culprit might be? 
+
+Letty0a:Not at all. If I did, why would I need to come with you?
+
+Marisa0a:Yeah, that figures. We're never that lucky. 
+
+Letty0a:Still, I do know one thing. This winter has been warped unnaturally somehow. 
+
+Keine4a:...And I take it that makes it dangerous to leave alone?
+
+Alice0a:The unending winter is draining the world's vitality, its very lifeforce.
+
+Alice4a:It's not as flashy as the scarlet mist was, but it's unsettling how it gradually crept up on us.
+
+Komachi0b:Yup, which is why we gotta put a stop to it as soon as we can.
+
+Patchouli4a:Before Gensokyo is buried under deadly snow.
+
+<end>
+
+<ChatID:7>----------------------------------------
+//レティvs.霊夢
+
+Reimu4a:Sheesh, could you just cut it out already? Shouldn't you be asleep by now?
+
+Letty0a:"In spring, one sleeps a sleep that knows no dawn."
+
+Letty1a:That being the case, allow me to grant you a peaceful slumber as well.
+
+<end>
+
+<ChatID:8>----------------------------------------
+//レティvs.魔理沙
+
+Marisa0b:I really don't want to be here. I hate the cold.
+
+Letty0a:I love it. Though it's been going on for so long that I'm getting sleepy.
+
+Marisa0a:Better hold on. If you fall asleep in this cold, you're gonna die.
+
+<end>
+
+<ChatID:9>----------------------------------------
+//レティvs.慧音
+
+Keine1a:I hope you've made your peace, Letty Whiterock, Youkai of Winter!
+
+Letty0a:...From what I can see, you can barely handle the cold.
+
+Letty0a:To think you'd come surrender yourself to me, the incarnation of wint―
+
+Keine1a:Quiet, no backtalking. I'll show you that I can protect the human village!
+
+<end>
+
+<ChatID:10>----------------------------------------
+//レティvs.アリス
+
+Alice0a:Now that I'm taking another look, this scenery really is quite beautiful.
+
+Letty0a:You seem quite surprised. Do you hate the winter?
+
+Alice0c:I don't dislike it. But this is the first time I've seen winter since I've come to Gensokyo.
+
+Alice0d:I'm starting to realize how much I miss the warmth of spring...
+
+<end>
+
+<ChatID:11>----------------------------------------
+//レティvs.ルーミア
+
+Rumia2a:It's hard to find food when it's this cold.
+
+Rumia0a:I wanna eat spring foods already!
+
+Letty0a:Spring foods, hm? Come to think of it, I've never really eaten anything but what's in season for winter.
+
+Rumia0a:You're missing out on three-quarters of life.
+
+<end>
+
+<ChatID:12>----------------------------------------
+//レティvs.大妖精
+
+Daiyosei3b:It's even colder close to her...
+
+Daiyosei0a:I bet she wouldn't have to care about being cold around Cirno...
+
+Letty0a:Are you saying something?
+
+Daiyosei2c:N-No! Nothing! Just talking to myself...
+
+<end>
+
+<ChatID:13>----------------------------------------
+//レティvs.チルノ
+
+Cirno0a:So you're a youkai of winter?
+
+Letty0a:Yes, I am. Why?
+
+Cirno3a:I use ice too. We're cold buddies!
+
+Letty0a:...It seems this fairy can create ice with her own power.
+
+Letty1a:But I'd prefer it if a mere fairy didn't address me as an equal.
+
+<end>
+
+<ChatID:14>----------------------------------------
+//レティvs.咲夜さん
+
+Sakuya0a:Ahh, so you're the one? Well then, without any further delay...
+
+Letty0a:Hold on a moment. I'm a youkai, but just a normal one.
+
+Sakuya5b:We already have one self-declared "normal person", and that's more than enough. Now hurry up and give us our spring back.
+
+Letty0a:You've been in such a hurry this whole time. What's the rush?
+
+Sakuya3b:It's cold. I'd like finish this errand and get home, so I'm going to deal with you straight away.
+
+<end>
+
+<ChatID:15>----------------------------------------
+//レティvs.美鈴
+
+Meiling0b:A youkai that can manipulate the cold? Looks like we've found a troublesome enemy.
+
+Meiling1a:But I, Hong Meiling, am a specialist at becoming one with nature!
+
+Letty0a:So what's your plan on turning the cold to your advantage?
+
+Meiling0a:Hah! This much cold is... nothing...
+
+Meiling3a:Ugh, I'm getting a little drowsy...
+
+Letty0a:...Rest in peace.
+
+<end>
+
+<ChatID:16>----------------------------------------
+//レティvs.パチュリー
+
+Patchouli0c:Fire can be effective against opponents with an affinity towards water. But the fire element has been weakened by these conditions...
+
+Letty0a:Exactly. Did you really think you could summon enough fire at a time like this?
+
+Letty1a:My blizzard will snuff out those tiny flames.
+
+Patchouli4b:Conditions are unfavorable. I find myself in a disadvantageous position...
+
+<end>
+
+<ChatID:17>----------------------------------------
+//レティvs.小悪魔
+
+Koakuma2a:It's s-s-s-so cold. I should have worn more layers...
+
+Letty0a:That's right. Three or four isn't enough for weather like this.
+
+Koakuma0a:Actually, I'm wearing six layers...
+
+<end>
+
+<ChatID:18>----------------------------------------
+//レティvs.エリー
+
+Elliy0b:Brrrrr, it's cold. It really makes me wish I could be back home in my warm bed.
+
+Elliy3a:Then I could curl up and drink some of my favorite hot cocoa.
+
+Letty0a:I see. Personally, I won't drink anything that hasn't been chilled.
+
+<end>
+
+<ChatID:19>----------------------------------------
+//レティvs.くるみ
+
+Kurumi4c:So cold... I wanna go home...
+
+Letty0a:How undisciplined. If you're a devil, you should be fine with a little chill, shouldn't you?
+
+Kurumi1b:There are all kinds of devils! And I'm the kind that can't handle the cold!
+
+<end>
+
+<ChatID:20>----------------------------------------
+//レティvs.小町
+
+Komachi0b:Sorry, but we gotta end this incident quick.
+
+Komachi1a:If this winter keeps up, people's lives are gonna be in danger.
+
+Letty0a:Winter IS the season of death, after all. Still, perhaps we've had too much of a good thing.
+
+Komachi4a:If you get that, then get out of our way.
+
+<end>
+
+<ChatID:21>----------------------------------------
+//レティvs.妹紅
+
+Mokou0a:I can't believe something so horrible was happening right under my nose...
+
+Letty0a:You're surprised? It's been like this for months now.
+
+Letty1a:It's cold enough to easily snuff out a human life.
+
+Mokou3a:I know. That's why I have to burn you to ash and end this already.
+
+<end>
+
+<ChatID:22>----------------------------------------
+//レティvs.サニー
+
+Sunny4a:Now I get it. You're a winter youkai, so you're controlling this winter.
+
+Sunny0a:So that means that since I'm a sun fairy, I should be able to control the sun!
+
+Letty0a:...I feel there has been a fundamental misunderstanding somewhere, but I don't feel like trying to explain it you.
+
+<end>
+
+<ChatID:23>----------------------------------------
+//レティvs.ルナ
+
+Luna4a:Ugh, it's cold... I feel like I'm getting slower...
+
+Luna3c:Wait, I know! If I throw away this hot water bottle, I'll lighten my load!
+
+Letty0a:...Sure, have it your way.
+
+<end>
+
+<ChatID:24>----------------------------------------
+//レティvs.スター
+
+Star4b:So you manipulate the cold? We have plenty of that already with Cirno...
+
+Letty0a:Who's Cirno?
+
+Star3c:That fairy over there. She has the power of ice, so―
+
+Letty0a:...Really? I'm being compared to a fairy now?
+
+<end>
+
+<ChatID:25>----------------------------------------
+//レティvs.穣子
+
+Minoriko2a:If we defeat you, winter will end!
+
+Letty0a:Fool. As a god who governs autumn, you should know better.
+
+Minoriko0b:What?
+
+Letty0a:You should know what a youkai who administers a season is capable of, and what they aren't. Which implies that—
+
+Minoriko4a:...You're talking too much, give me some time to work it out.
+
+<end>
+
+<ChatID:26>----------------------------------------
+//レティvs.静葉
+
+Shizuha3a:Prepare to be vanquished, Winter!
+
+Letty0a:...You're still saying things like that. As a fellow embodiment of a season, does it really have to be like this?
+
+Shizuha0b:Are you offering an alliance between winter and autumn? I hadn't considered that...
+
+Letty0a:I'm not talking about us colluding.
+
+<end>
+
+<ChatID:27>----------------------------------------
+//レティvs.雛
+
+Letty0a:You seemed to be wrapped in quite a lot of something sinister.
+
+Hina0b:They're curses, the misfortune I've gathered from humans.
+
+Hina0a:Meanwhile you're wrapped in a cold that threatens the humans' lives and livelihoods.
+
+Letty0a:Must you put it like that? All I've done is gather the cold lying around. 
+
+<end>
+
+<ChatID:28>----------------------------------------
+//レティvs.にとり
+
+Nitori0a:A youkai that's always surrounded by cold, eh? In other words, a youkai refrigerator.
+
+Nitori1a:And now that I look closely, seems like she's quite the spacious one too.
+
+Letty0a:...Did you just say something horribly rude?
+
+Nitori1a:No, no, that's a compliment! When it comes to refrigerators, the bigger the better!
+
+Letty1a:...I'm going to bury you under a snowdrift.
+
+<end>
+
+<ChatID:29>----------------------------------------
+//レティvs.まくら
+
+Makura4a:It's so cold...
+
+Letty1a:It's because you're dressed so lightly other than that warm-looking coat.
+
+Makura0f:And not because your presence is adding to the power of winter?
+
+Letty4a:Sure, the winter's stronger, but please dress properly for the season in the first place.
+
+<end>
+
+<ChatID:30>----------------------------------------
+//レティvs.メーコ
+
+Meko1f:I'm just dandy with a little cold!
+
+Letty1a:You do have all those cozy-looking buddies with you, after all.
+
+Meko2c:But it gets so sweltering in the summer. We have to trim their wool, or else...
+
+Letty4a:...I didn't ask.
+
+<end>
+
+<ChatID:31>----------------------------------------
+//レティvs.レティ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Letty0c:Well, this is odd. An opponent who looks just like me?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Letty0a:You don't seem surprised.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Letty1a:I don't see the point in getting flustered. So? Who might you be?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Letty0c:Why don't you check for yourself with danmaku?
+
+</nomove>
+
+<end>
+
+<ChatID:32>----------------------------------------
+//C26：レティvs.非想天則
+
+Tensoku0a:...
+
+Letty0c:Oh my, what a large youkai.
+
+Letty0b:It must be hard to deal with the cold when you're that big.
+
+Tensoku0a:...
+
+Letty1c:Still not talking? Poor thing. Let me put you to sleep then.
+
+<end>

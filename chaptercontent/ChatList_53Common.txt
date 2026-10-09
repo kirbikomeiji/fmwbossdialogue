@@ -1,0 +1,2557 @@
+﻿○共通第五十三話「落とした視線
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: 1EP
+ 4: first battle vs. Satori
+ 5: Satori spell 1 start
+ 6: Satori spell 2 start
+ 7: beat Satori 
+ 8: first battle (Orin)
+ 9: PP after Orin shows up
+10: first battle (Yama-Kisu)
+11: first battle (Yu-Par)
+12: Orin spell 1 start
+13: Orin spell 2 start
+14: beat Orin
+15: ADVB
+16: lose (by Satori)
+17: lose (by Orin)
+18: battle vs. Tengu
+19: battle vs. Kappa
+20-XX: battle vs. Satori (before spell)
+XX-YY: battle vs. Satori (after spell)
+YY-ZZ: battle vs. Orin
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<BG=bg_talk_Chireiden_Sepia.png,fade=0,color=1,title=*bg_Chireiden,bgm=bgm_talk_heartfelt>
+
+<SE=se_talk_oven01.ogg,wait=1>
+
+SatoriS0a:...Looks like they're all done cooking.
+
+SatoriS0b:Did I make too many? I've never made this many before, so it's hard to tell...
+
+SatoriS0a:I haven't tried giving sweets to Orin or Okuu before, but maybe they'd like them?
+
+SatoriS0a:Well, they've taken on human form, so I'm sure they can eat the same foods as us.
+
+<SE=se_talk_door_open05.ogg,wait=1>
+
+KoishiS0c:Sis, are the cookies ready?
+
+SatoriS0a:Yup, they just came out of the oven. What kind do you think they are?
+
+KoishiS0b:Hmm, I dunno...
+
+KoishiS0c:Just kidding, they're rose cookies! And you're worried that you made too many.
+
+SatoriS0a:Got it in one. I guess there's no point in the two of us playing guessing games with each other, huh?
+
+SatoriS0a:I'll try that with Orin and Okuu instead.
+
+OrinS0a:...
+
+UtsuhoS0a:...
+
+SatoriS0b:Oh? What are you two doing in the corner like that?
+
+KoishiS0a:I keep telling them to come eat with us, but they never listen.
+
+OrinS0a:But c'mon, we're pets. It's just not right for us to be eating at the same table as you two.
+
+UtsuhoS0a:And we couldn't possibly eat something that nice...
+
+SatoriS0a:Don't worry yourselves over that. Think of it as a celebratory gift for being able to speak now.
+
+SatoriS0a:More to the point, we're basically family now.
+
+OrinS0a:Family...
+
+KoishiS0a:Not that we weren't always chatting in our heads back before you took those forms anyway.
+
+KoishiS0a:Welp, time to dig in!
+
+KoishiS0c:(Wow, these are great! A little bit burnt though.)
+
+SatoriS0a:(Talk with your mouth please. Orin and Okuu are here.)
+
+KoishiS0c:(Okaaay.)
+
+OrinS0a:Am I missing something between you two?
+
+SatoriS0a:It's nothing. Here, help yourselves.
+
+UtsuhoS0a:Really? Okay then...
+
+SatoriS0a:...
+
+SatoriS0a:(It's so nice to have all of us sitting around the table like this.)
+
+KoishiS0a:(Why does that stick out to you?)
+
+SatoriS0a:(Oh, I was just thinking that we never had moments like these back on the surface.)
+
+SatoriS0a:(Moving down here really was the right decision.)
+
+KoishiS0b:(...Yeah. Your feelings are a whole lot gentler than they used to be.)
+
+SatoriS0a:(What about you? Is there anything you don't like about life in the Underworld?)
+
+KoishiS0a:(Me?)
+
+SatoriS0a:(Yes, you. It's already been quite a while since we started living here, but still.) 
+
+KoishiS0b:(...Don't worry. There's nothing like that.)
+
+KoishiS0b:(You really like it down here after all...)
+
+SatoriS0c:(True, because as long as we're down here we'll never have to hear voices like those again.)
+
+KoishiS0c:(Yeah...)
+
+<single>
+
+SatoriS0a:(We've finally gotten used to life here.)
+
+SatoriS0a:(As long as the Underworld is for no one but the despised, I'm sure there's a place for us here. It'll be a shelter for our hearts.)
+
+SatoriS0a:(As long as we're here, we can live together with our pets.)
+
+SatoriS0a:(Here in the Palace of Earth Spirits, forever...)
+
+<Code=(transition_out,c_white,60,1)>
+
+<BG=bg_talk_Chireiden.png,fade=1,color=0,title=bg_Chireiden,bgm=bgm_talk_kaikidan>
+
+Satori0b:...
+
+</single>
+
+<SE=se_talk_bird02.ogg,wait=0>
+
+JKarasu0a:...!
+
+Satori2b:...!
+
+Satori0a:Whoops, lost my focus there. And I was in the middle of work...
+
+JKarasu0a:...
+
+Satori0d:I'm sorry, did I forget it was teatime?
+
+Satori0a:Orin and Okuu haven't been showing up lately, so it completely slipped my mind.
+
+JKarasu0a:...
+
+Satori2b:...What? Youkai from the surface are coming here through the back tunnels?!
+
+Satori0a:Are you sure you're not mistaken? They've gotten this deep?
+
+JKarasu0a:...
+
+Satori0e:...Understood. I'll go see for myself then.
+
+Satori0a:Invaders from the surface? What could be going on here?
+
+<SE=se_talk_walk_indoor04.ogg,wait=1>
+
+<nowindow>
+
+<Code=(demo_wait,30)>
+
+<single>
+
+</nowindow>
+
+Orin7a:(...N-No way! The surface folks are coming HERE?!)
+
+Orin5a:(But I placed some vengeful spirits to lure them to the Ruins of Blazing Hell! All they had to do was go through the front!)
+
+Orin2c:(Well, there goes my whole plan of getting the humans to fix it for me without Miss Satori catching on!)
+
+Orin0d:(I've gotta steer them toward Blazing Hell, whatever it takes...)
+
+</single>
+
+<BG=bg_talk_Seirensen_Bridge_Chitei.png,fade=1,color=1,title=bg_Seirensen_Bridge,bgm=bgm_talk_ningyo>
+
+Akyu0a:I'm still not picking up any youkai readings.
+
+Akyu0b:There are no reports from our scouts outside either. It seems to be quiet around here.
+
+Murasa0c:Ever since as we left the entrance to the Old Capital, we haven't seen a single youkai.
+
+Keine0c:Looks like it's true nobody takes this route.
+
+Sho0a:If this keeps up, we'll be at the Palace of Earth Spirits in no time.
+
+Sho4a:That said, the investigation itself may not go so smoothly...
+
+Lyrica0c:You've already met these people, right Marisa? What exactly happened back then? 
+
+Marisa4b:Well, they took me prisoner. Roughed me up pretty bad too.
+
+Marisa4a:If it weren't for Koishi, Alice, and the rest, I might not have made it back to the surface.
+
+Ichirin0d:Koishi? What'd she do?
+
+Patchouli0c:She's the one who let Marisa out of her cell.
+
+Patchouli4a:Though perhaps it was more on a whim than out of any sense of benevolence.
+
+Nitori3e:Ever since we first met, I've felt like it's been impossible to pin her down.
+
+Nitori3b:Though now I can sort of get where that weird feeling came from. I mean, after hearing what Yuugi said.
+
+Alice4a:You're right. I never even imagined that she wasn't aware of her own actions.
+
+Youmu0a:Maybe it's not our place to interfere, but should Satori really be leaving Koishi to her own devices?
+
+Youmu3b:She might be related to the incident by accident somehow.
+
+Yukari0b:Doubtful. I've been keeping an eye on her movements.
+
+Reimu0f:Oh yeah, didn't you say something about how you were interested in these sisters, even before we came down here?
+
+Reimu4a:How do you even know them? Aren't they Underworlders?
+
+Yukari1a:They're old acquaintances, from before they moved to the Underworld.
+
+Yukari0a:Though it might be a bit difficult to explain succinctly.
+
+Sanae0a:Wouldn't this be a good time to fill us in?
+
+Sanae0d:We'll be meeting them soon enough, so I'd like to know what kind of people they are.
+
+Yukari0a:Very well. The Komeiji sisters are the rulers of the Palace of Earth Spirits, from which they manage the remaining vengeful spirits of Old Hell.
+
+Yukari0a:And I was the one who gave them that job.
+
+Sho0c:You did?
+
+Yukari0a:The two of them were youkai who used to live on the surface.
+
+Yukari1a:But when the need arose to manage the spirits of Old Hell, I entrusted them with the task.
+
+Keine0a:I take it they voluntarily accepted, then.
+
+Ran3a:Moving to the Underworld was quite an attractive proposal to the Komeiji sisters.
+
+Ran6c:At the time, they were quite disliked, even on the surface.
+
+Ran0a:But the power to read minds turned out to be perfect for controlling vengeful spirits, who don't speak verbally.
+
+Yukari0a:So in exchange for offering them a safe haven, I had them seal away the dangerous spirits.
+
+Aya1a:I see, so they were just the right women for the job then.
+
+Daiyosei5f:People hated them just because they could read minds?
+
+Daiyosei3b:I feel kinda bad for them. They didn't do anything wrong...
+
+Tewi4a:I really don't think I could ever be comfortable knowing my thoughts could be overheard though.
+
+Suika0a:Well yeah, that's why they ended up without a place to belong on the surface.
+
+Suika4b:Not that they could help it. That's just what it means to be a satori.
+
+Murasa2b:There's no easy solution, huh...
+
+Yukari0a:Well, it was a long story, but that's my relation to the Komeiji sisters.
+
+Yukari0b:Staying at the Palace of Earth Spirits was part of our proposal, which is why I've been concerned about them.
+
+Eirin1c:I understand your position, but I have a hard time believing they'd set off an incident.
+
+Eirin1b:I'm leaning more toward some sort of trouble being afoot...
+
+Flan2c:Wouldn't it be disappointing if we came all the way down here and it just an accident?
+
+Reimu0a:Either way, going to the Palace of Earth Spirits should help us learn something useful.
+
+Reimu0g:Let's get ready to head out. We should be arriving shortly.
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP（出撃前）
+
+Yukari0a:We've arrived. This is the Palace of Earth Spirits.
+
+Ichirin2a:Bringing our ship along might have been going a bit overboard.
+
+Kosuzu0a:I'll just keep the anchor up so we can run fast if we have to.
+
+Udonge4d:We came right through the front door, but there hasn't been a single guard.
+
+Udonge4a:It's almost too quiet. What a lonely place.
+
+Suika0a:That's just how it is here in the palace. Almost no one lives here, and no one visits.
+
+<pause>
+
+Akyu1a:...!
+
+Satori3f:I can't believe a flying ship from the surface actually came this far in.
+
+Marisa2b:There she is. Satori Komeiji.
+
+Minoriko4a:The boss is meeting us at the front door? I thought she had minions.
+
+Sanae1e:You're right, actually. I don't see Orin or Okuu.
+
+<pause>
+
+Yukari0a:Satori Komeiji, I've come to speak with you.
+
+Satori0b:I can't say I expected YOU to step off that ship, Yukari Yakumo.
+
+Yukari5a:We came here without going through the proper channels for a very good reason.
+
+Yukari0a:If you'll allow me to explain...
+
+Satori0c:Yes, I see. So vengeful spirits are leaking out through a geyser on the surface.
+
+Reimu1b:...!
+
+Satori0b:You suspected the Underworld, so you came here, where we manage the spirits, to ask about it.
+
+Satori0c:And you brought such a large force with you because you wanted to be prepared for the possibility of hostility? How shrewd of you.
+
+Chen2b:Wow. Miss Yukari hasn't even said anything yet.
+
+Koakuma1c:I heard she was a mind-reader, but goodness. So this is what it's like.
+
+Reimu0a:That saved us some time. So let's get right to the point.
+
+Reimu1b:The vengeful spirits gushing up on the surface are your group's doing, right?
+
+Satori0b:Hardly. We'd have no reason to do something like that.
+
+Ran6b:Even so, it's possible that there's been some kind of accident.
+
+Ran0a:One of your servants, a youkai called Orin, can speak to spirits, correct? We'd like to borrow her.
+
+Satori0b:...You mean to have her assist the investigation? Unfortunately, she's busy with work and indisposed.
+
+Satori0b:Incidentally, while you're suspicious of her, she isn't the sort of girl to get up to mischief in secret.
+
+Tewi3f:Now, now, no one's seriously suspecting anyone. Why don't we all just sit down with some tea and—
+
+Satori0c:Your mouth says one thing, but your real goal is to push your way inside.
+
+Tewi2a:Whoop, she's onto me.
+
+Komachi3b:Looks like bluffing won't work on her. Not that we can just give up either.
+
+Satori0b:It appears you have no intention of backing down, but I can't remain silent either.
+
+Satori3f:Everyone, fight them.
+
+<pause>
+
+Akyu1a:Youkai showed up. She's planning to fight!
+
+Ichirin1b:The Palanquin Ship can't move from here, so you'll be on your own for this.
+
+Murasa1b:Everyone, deploy!
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP（出撃後）
+
+Minoriko4a:Since she can read minds, I was kind of hoping we could come to an understanding without words...
+
+Shizuha4a:I guess just because she can tell what we really want from her doesn't mean she's gonna listen to our excuses.
+
+Nazrin6a:Still, it seems like Satori really doesn't know anything about all this.
+
+Nazrin0b:A mastermind would actually be prepared to fight us, and this sure ain't that.
+
+Mystia4a:But she's the only lead we've got.
+
+Satori0b:...I'd prefer it if you didn't interfere with our quiet lives.
+
+Satori0c:I'll send you home before Orin or Okuu show up.
+
+<end>
+
+<ChatID:3>---------------------------------------
+//1EP
+
+<nomove>
+
+<Code=(cursor_jump,304,496,1)>
+
+Orin1b:(...So the surface folks already got into a fight with Miss Satori?!)
+
+Orin1d:(Well, so far no one's said that I'm the culprit, or revealed anything about Okuu...)
+
+Orin5c:(I've just gotta get them heading towards the Ruins of Blazing Hell before things get complicated.)
+
+Orin2c:(But how exactly am I gonna do that?)
+
+</nomove>
+
+<end>
+
+<ChatID:4>---------------------------------------
+//さとり初戦闘
+
+Wriggle0b:So a petite girl like her is the ruler of the palace, huh.
+
+Cirno5b:I thought all the Underworld big-shots would be all big and buff and stuff.
+
+Letty0b:Don't let your guards down. What makes her terrifying isn't brute strength.
+
+Letty1a:I'm guessing that eye on her chest is the key to her power.
+
+Satori0b:Ah, you've noticed. Yes, this third eye lays bare your hearts.
+
+Satori0a:It's a dangerous power, one that frightens even the Underworld youkai.
+
+Rumia0a:So even the people everyone hates hate you?
+
+Momiji1a:So in terms of being a pain, you're a cut above the rest...
+
+Satori0b:You'll learn to fear it too, soon enough.
+
+Satori0c:I shall now show you the power that my third eye holds.
+
+<end>
+
+<ChatID:5>---------------------------------------
+//さとり通常撃破
+
+Satori0b:...So that's it then.
+
+Elliy3a:Huh, didn't think that'd be so easy.
+
+Koakuma0a:She said she could read our minds, but all she did was shine us with this strange light.
+
+Patchouli0c:Perhaps you should have called for the rest of your servants?
+
+Patchouli3a:Though if they haven't come running on their own by now, maybe they're not that loyal to you.
+
+Satori0b:...While it is true that I haven't seen either Orin or Okuu recently, that's none of your concern.
+
+Satori0c:More to the point—do you really think I'm losing?
+
+Mokou0c:What...?
+
+Satori0c:I've already examined the furthest reaches of your minds.
+
+Satori3f:Why don't I help you remember, nice and slowly?
+
+Udonge2b:...Oh no, she spent that time peeking into our minds!
+
+Udonge1c:That light from earlier had an unusual wavelength. It must have been some kind of hypnotism!
+
+Satori0b:Your realization came a bit too late, I'm afraid. You've already shown me the danmaku etched into your hearts.
+
+Satori0c:I'm going to conjure up memories of your worst fears.
+
+<end>
+
+<ChatID:6>---------------------------------------
+//さとりスペル１撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1) && (GLOBAL_VAR,route,==,Reimu)>
+
+Reimu2b:Sheesh. Finally caught her.
+
+Aya3a:So is this what my speed looks like from the third person? Not bad, if I do say so myself.
+
+Momiji1a:This is no joke. Imagine if she'd kept that up!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0) && (GLOBAL_VAR,route,==,Reimu)>
+
+Reimu4a:Sheesh. Who wants to deal with that?
+
+Aya3a:So is this what my speed looks like from the third person? Not bad, if I do say so myself.
+
+Momiji1a:This is no joke. Imagine if she'd kept that up!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1) && (GLOBAL_VAR,route,==,Marisa)>
+
+Marisa0e:Phew, we made it through.
+
+Nitori2a:Wow, so this is what my danmaku looked like to everyone else...?
+
+Alice0a:She even managed to convey how desperate you were back then.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0) && (GLOBAL_VAR,route,==,Marisa)>
+
+Marisa1d:Phew, we toughed it out.
+
+Nitori2a:Wow, so this is what my danmaku looked like to everyone else...?
+
+Alice0a:She even managed to convey how desperate you were back then.
+
+</Cond>
+
+Satori0b:You're holding up well under trauma. If you want to run, now's the time.
+
+Satori0b:You won't find any of the machinations or evil plotting you suspect in this place.
+
+Youmu0b:Maybe so, but we've heard that things have been strange at the palace recently.
+
+Youmu0a:Does anything come to mind? Any kind of trouble?
+
+Satori2b:What do you mean, things have been strange?
+
+Alice1c:We heard about Koishi. About how things have changed ever since she sealed her power.
+
+Satori0c:...I see. So Hoshiguma told you.
+
+Satori0b:I'll figure out how to deal with that myself. It has nothing to do with you people.
+
+Yukari0b:I'm afraid you're mistaken about that. If there's an abnormality in the Palace of the Earth Spirits, then I need to know about it.
+
+Satori0d:Yukari Yakumo...
+
+Yukari0a:I was the one who proposed that you two sisters move to the Underworld.
+
+Yukari2a:If a problem arises, I need to hear about it in detail.
+
+Satori0c:You seem to mean those words, but we desire nothing of the sort.
+
+Satori0b:There is nothing in the Palace of Earth Spirits worthy of others' pity.
+
+Yukari4b:...
+
+Satori0d:Someone who can't read minds could never understand us.
+
+Satori0a:Would you mind leaving us alone and never bothering us again?
+
+Ran0b:So cutting off all relations is your solution as the representative of the Palace of Earth Spirits?
+
+Satori0a:Yes, it is. If you refuse to understand that, then I'll simply have to drive you out by force.
+
+Alice1a:She's planning to attack again!
+
+Satori1a:This vivid, unforgettable trauma. Face it once more!
+
+<end>
+
+<ChatID:7>---------------------------------------
+//さとりスペル２撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1) && (GLOBAL_VAR,route,==,Reimu)>
+
+Satori0b:I was not expecting you to break through that...
+
+Reimu0g:You think I'm gonna get hit by a move I've already seen?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0) && (GLOBAL_VAR,route,==,Reimu)>
+
+Satori2b:I was not expecting you to get away from that...
+
+Reimu0g:I've seen that spell before, so I already knew what to do.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1) && (GLOBAL_VAR,route,==,Marisa)>
+
+Satori3a:I was not expecting you to break through that...
+
+Marisa0a:If I've seen a move once, that counts as having done my research on it. Don't expect that to work on me.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0) && (GLOBAL_VAR,route,==,Marisa)>
+
+Satori2b:I was not expecting you to get away from that...
+
+Marisa0a:If I've seen a move once, that counts as having done my research on it. Don't expect to catch me with that.
+
+</Cond>
+
+Sakuya0a:Are you ready to give up and cooperate with our incident investigation now?
+
+Sakuya6a:We'll be investigating inside regardless of your answer, of course.
+
+Satori2b:Hold on, I still haven't said you could pass.
+
+Shizuha2b:Look, you've taken kind of a beating. You should probably take a breather.
+
+Suika3c:I'm sure it's hard to keep reading all our minds at once. Don't push yourself.
+
+<pause>
+
+Satori0c:...?
+
+Daiyosei5a:Huh, what? Some girls in weird clothes showed up...
+
+Satori2b:Are those the fairies who live nearby...? They don't normally come here...
+
+<pause>
+
+<Code=(icon_set_direction,All_en,Satori_en,0)>
+
+Zombie0a:...
+
+Satori2b:You've come to capture me? What are you...
+
+<pause>
+
+Satori2b:Hold on, where are you taking me?!
+
+<pause>
+
+Sunny1c:What was that? They grabbed Satori and ran.
+
+Kanako2a:You don't suppose they came to rescue her since she was immobile, do you?
+
+Hatate6a:Why would she be resisting then?
+
+<pause>
+
+Chen0c:Huh? Now there's a cat...
+
+Ran6e:Is it a bakeneko? No, this presence is...
+
+<pause>
+
+Orin4d:Tada!
+
+Murasa0d:Wait, now it's human?
+
+Udonge2b:Didn't we fight her on the surface?
+
+Lunasa0a:Right, that's Orin. Why did she show up now, of all times...?
+
+Orin6a:Wow, you ladies are strong! I think I'm falling in love!
+
+Orin0a:The way you were going toe to toe with Miss Satori, it wasn't really my place to barge in.
+
+Patchouli0c:You just watched while your master was in trouble...? No matter, we have some questions for you.
+
+Sanae0b:We've come to investigate the spirits appearing on the surface.
+
+Sanae0g:Satori didn't seem to know anything, but what about you, Orin?
+
+Orin4d:Welp, you caught me. I did it.
+
+Reimu1a:Wait, what?! What do you mean, you did it?
+
+Orin4b:Well, living down here is... you know how it is. We need a little excitement once in a while.
+
+Orin0a:I sent some spirits up from the Ruins of Blazing Hell, which you'll find just up ahead. It was just a little prank.
+
+Yuyuko3c:So you were simply being mischievous with no greater goal?
+
+Hina0c:And you didn't stop to consider the chaos that would cause on the surface?
+
+Orin4a:Of course I did, that was half the point. Kill some time and tick off the surface—two birds with one stone.
+
+Orin4d:Anyway, if you wanna stop them, you'd better head to Blazing Hell. It's just a short trip if you take the front door.
+
+Merlin0b:So on top of calling yourself the mastermind, you're even giving us directions? Come on.
+
+Lyrica1b:You're obviously lying. We'll catch you and make you spill the beans!
+
+Orin2c:(Oof, so much for that idea. I was really hoping they'd get going while Miss Satori's still gone...)
+
+Orin1d:(Might as well see if they've really got the power to stop Okuu though!)
+
+<end>
+
+<ChatID:8>---------------------------------------
+//お燐初戦闘
+
+Orin0c:(I wanted to leave the vengeful spirits issue as an unsolved mystery, but now my hand's been forced.)
+
+Orin1e:(I don't care what punishment I get, as long as the humans go to the Blazing Hell...)
+
+Orin0b:Come at me, ladies! I'll be your opponent!
+
+<end>
+
+<ChatID:9>---------------------------------------
+//お燐増援後のPP
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Orin2c:Rgh, not bad...!
+
+<pause>
+
+</Cond>
+
+Keine0c:I thought there was something suspicious about this, but I suppose she was telling the truth about being the culprit.
+
+Shizuha4a:And her reason was just to harass us?
+
+Sho0b:Is that really the only reason, though?
+
+Sho0c:When we met before, she didn't seem like the sort of person who would do that.
+
+Nazrin0b:We'll see if she's got some ulterior motive once we've fought—
+
+<pause>
+
+Akyu1a:...! Spirits are coming in from outside!
+
+Orin3a:Whoops, the ones outside got in too!
+
+Ichirin5a:...Wait, I'm picking up something else.
+
+Ichirin1b:Whatever it is, it's far stronger than the spirits!
+
+Luna6a:No way! If they come now, then—
+
+<nomove>
+
+<hide=all>
+
+<Code=(cursor_jump,384,624,1)>
+
+Yugi1c:Hold your horses, fellas!
+
+</hide>
+
+<pause>
+
+Yamame1d:Figures you'd end up fighting at the palace.
+
+Parsee0a:Looks like they're up against Orin and some spirits though...
+
+Kisume0b:I don't see Satori or Okuu around.
+
+Kurumi1c:Wait, isn't that...?
+
+Yugi3d:Yo, surface dwellers! Looks like you made it here in one piece!
+
+Suika2a:It's Yuugi! And Yamame, and your friends! What's the occasion?
+
+Parsee1a:What does it look like? We're here to investigate the spirits too.
+
+Parsee0c:I can't stand the thought of owing you people anything because of this mess.
+
+Yugi0a:We've got our own sense of duty, you know. We could go together or separately, either way's fine by me.
+
+Wriggle3b:So you're all here to help us, Yamame...?
+
+Yamame0d:Don't get the wrong idea, we're all just worried about what's going on too.
+
+Yamame0a:Anyway, tell us what's going on. Looks like that Orin chick brought some spirits?
+
+Udonge4a:Yeah, and she told us that she's the one behind all this too.
+
+Merlin0b:I mean, she was pretty suspicious anyway. She had spirits with her when we saw her on the surface too.
+
+Kisume2b:What? She went to the surface?!
+
+Yugi4a:That does bug me, but we have bigger things to worry about right now. Why did you release spirits on the surface?
+
+Orin3a:What can I say? I was bored and acted on impulse.
+
+Orin4a:I was just messing with the surface dwellers. Satisfied? Okay, you can go home now.
+
+Yamame0d:After you caused all this trouble to the Underworld? Not a chance.
+
+Parsee0d:This is what you do when you're bored? What has Satori been teaching you?
+
+Yugi1b:We can chat later. If she's the culprit, then let's help catch her.
+
+Yugi1c:Parsee, you come with me. Yamame, Kisume, you two join up.
+
+Yamame0e:You got it!
+
+<end>
+
+<ChatID:10>---------------------------------------
+//ヤマキス初戦闘
+
+Yamame0b:Ugh, I can't believe it really WAS the Underworld's fault.
+
+Kisume4a:Are you really alright with this, Yamame? Didn't you say you'd never get along with these surface youkai?
+
+Kisume0a:Or have your feelings changed, just a bit?
+
+Yamame0d:This is just how things ended up. I haven't really thought about it.
+
+Yamame1b:...But it's a good chance to see how they're gonna fix this. Let's see what they've got.
+
+<end>
+
+<ChatID:11>---------------------------------------
+//勇パル初戦闘
+
+Parsee0d:For the love of... Could someone tell me why I'm helping out the surface dwellers?
+
+Yugi1a:No one's forcing you to. You wanna get off here?
+
+Parsee0c:I said I'd come with you, didn't I? I'm with you to the end.
+
+Parsee0a:But try keep your eyes on the fight, Yuugi. One slip-up and we'll get surrounded.
+
+Yugi1f:That's what I'm hoping for! Where's the fun if we're not outnumbered?
+
+Parsee2a:You never listen to anyone during a fight, do you?!
+
+<end>
+
+<ChatID:12>---------------------------------------
+//お燐通常撃破
+
+Orin4b:You're all pretty good! Definitely worth messing with.
+
+Elliy1a:Oh, now you're evaluating us? You'd better not call me cheap!
+
+Lunasa0a:But your attitude back on the surface was completely different.
+
+Lunasa0b:At the time, I thought you were being especially worried, paranoid even, about causing any friction between the surface and the Underworld.
+
+Chen0c:So why are you doing things that'll get you scolded?
+
+Orin0d:Look, I just do what I feel like doing.
+
+Orin1b:If you have time to chat, maybe you should be worrying about yourselves instead.
+
+Nazrin6a:Good grief. I guess she's not gonna give us a straight answer.
+
+Tewi4a:I wish she'd at least listen to us.
+
+Orin5d:You ladies sure have a way with danmaku. Even the spirits are charmed! They're getting pretty rowdy!
+
+Orin1a:The dance of the fairies, wrapped in grudges! Enjoy it to your heart's content!
+
+<end>
+
+<ChatID:13>---------------------------------------
+//お燐スペル１撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Orin3a:Pretty impressive of you, beating them all like that!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Orin3a:Not bad, not bad at all. I can't believe you got away from them.
+
+</Cond>
+
+Sunny3a:The way they were wriggling out of the ground was really gross...
+
+LilyW1b:I'm sure that was the power of grudges, corrupting their life energy!
+
+Luna4a:I get the feeling that all they had going for them was guts though...
+
+Orin0a:...They're stronger than I expected. That's reassuring.
+
+Orin1e:Now if I could just get them to go to the Ruins of Blazing Hell already...
+
+Parsee0a:The Ruins of Blazing Hell? What are you planning?
+
+Yamame0b:Between this and your trip to the surface, you're playing one hell of a game here.
+
+Yamame4c:I never thought you were the type to play pranks behind Satori's back.
+
+Orin1f:...!
+
+Yugi1c:You and Okuu have always stayed here with the sisters as their pets, right?
+
+Yugi0d:You know exactly how complicated our relations with the surface are.
+
+Orin1f:...Of course I do. Who in the world would do all this on a whim?!
+
+Kisume2b:Orin...?
+
+Orin5a:...The surface is the place that hated Miss Satori and Miss Koishi enough to kick them out.
+
+Orin1f:If I could handle this on my own, then I WOULD have...!
+
+Parsee2a:Wait, what are you even talking about?
+
+Orin2c:I changed my mind. I'm not gonna let you through until I've taken out all my anger on you!
+
+Orin1c:Spleen Eater! Rip out these live youkai's intestines and eat them alive!
+
+<end>
+
+<ChatID:14>---------------------------------------
+//お燐スペル２撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Mokou1b:That should finish things up.
+
+Orin2c:...Well done. I hate to admit it, but you're even stronger than I was expecting.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Daiyosei3b:We managed to keep clear...
+
+Kurumi1a:No one's better than me at running away!
+
+Orin2c:...Well done. I hate to admit it, but you're even faster at fleeing than I was expecting.
+
+</Cond>
+
+Marisa0e:I'm still not sure if you were trying to annoy us or test us or what.
+
+Reimu4a:Anyway, now that you've gotten your just deserts, we're done here. Incident resolved.
+
+Reimu1b:You'd better stop sending spirits to the surface right this instant.
+
+Alice0a:Would you also mind explaining why you did it in more detail?
+
+Alice2c:You've been insisting it was just a prank this entire time...
+
+Orin1f:Y-Yeah, 'cause it was. I'll tell you where the spirits are coming from.
+
+Keine3b:You're still acting evasive. I think we'd better bring you along.
+
+Yugi1b:Yeah, we've got some questions for the culprit too.
+
+Orin5b:Why can't anything ever go smoothly for once...?
+
+<end>
+
+<ChatID:15>---------------------------------------
+//ADVB
+
+<BG=bg_talk_Chireiden.png,fade=0,color=1,title=bg_Chireiden,bgm=bgm_talk_ningyo>
+
+Orin2b:Oof, oww...
+
+Orin4a:Hey lady, carry me more gently. 
+
+Meiling0a:Sorry, we wouldn't want to risk any chance of you slipping away.
+
+Yamame1d:Make any funny movements and I'll wrap you up in my web. 
+
+Orin2a:Don't worry, I won't run or hide. 
+
+Sanae0f:Okay, then let's cut to the chase. Why were you sending vengeful spirits up to the surface?
+
+Youmu0a:You're not the kind of person to endanger the surface just because you're bored.
+
+Reimu0a:The reason's important too, but first let's just fix the problem.
+
+Reimu1b:Stop the spirits immediately. 
+
+Orin5c:Sorry, but I can't do it immediately.
+
+Keine1a:You can't?
+
+Orin0a:They're coming from even deeper down, from the Ruins of Blazing Hell.
+
+Orin6a:If you don't head there and exterminate them directly, you can't stop them from going to the surface. 
+
+Kosuzu4b:We have to go even deeper? This is making me nervous.
+
+Marisa0a:Don't worry, Kosuzu. You've got specialists here.
+
+Suika1b:I'm having trouble buying this confession at all, considering how fast you were to 'fess up.
+
+Alice0b:...True, your attitude seemed forced the whole time.
+
+Alice1c:You're hiding something important, aren't you?
+
+Orin7a:O-Of course not. Just get going and exterminate those spirits already—
+
+<SE=se_talk_walk_indoor04.ogg,wait=1>
+
+Satori3a:Orin!
+
+Orin3a:...!
+
+Satori0b:...Those fairies who took me away seemed to be following YOUR orders, Orin.
+
+Satori0d:What exactly is going on here? It looks like you fought the humans for me?
+
+Orin2c:M-Miss Satori. Can we please discuss this later...?
+
+Yugi1a:Yo, Satori. I was wondering where you were. 
+
+Satori2b:Hoshiguma? And Mizuhashi, and more of you besides? Why are you with a group of surface youkai?
+
+Parsee0a:We heard about the business with the spirits and came to look into it. 
+
+Yamame1b:Perfect timing. Could you read Orin's mind for us?
+
+Kisume4a:Orin was the one sending spirits to the surface.
+
+Satori2b:It was her...?!
+
+Ran6c:That's what she told us. However, her reasons remain unclear. 
+
+Orin5a:Miss Satori, I...
+
+Satori0b:...
+
+Satori2b:...!
+
+Satori0d:Orin, is that true?!
+
+Aya0c:Hey, mind filling the rest of us in?
+
+Hatate2b:If you've figured something out, you should share it.
+
+Satori0d:Well...
+
+Orin5a:I'll tell them, Miss Satori. I'm the one who did this, after all.
+
+Orin0c:...I said it was a prank, but that's not the real reason I sent spirits to the surface.
+
+Marisa0b:Go on?
+
+Orin1d:I wanted to lure you to the Ruins of Blazing Hell, to make you fight Okuu. 
+
+Kanako1d:...!
+
+Alice2b:You mean your friend, the hell crow? 
+
+Orin1d:Yeah. My best friend, Utsuho Reiuji. She may be an airhead, but she's a good person.
+
+Orin5a:Thing is, recently she got her hands on some incredible power I've never seen before... 
+
+Yukari0b:Power, you say?
+
+Orin1f:It was ridiculously strong. I'd be no match for it.
+
+Orin5a:Ever since then, she's been acting funny. Saying she would conquer the surface and stuff.
+
+Nitori2a:That's definitely not the kind of thing anyone in their right mind would say!
+
+Orin3a:Right? But she means it.
+
+Suwako1c:...
+
+Suwako1c:(Kanako, this "incredible power"... Do you think...?)
+
+Kanako3b:(Yes, I can't imagine this being unrelated.)
+
+Kanako1d:(But I can't fathom the reason behind it. Nothing like this should be happening at all...)
+
+Suwako1c:(I'd like to keeping thinking about this, but we should probably go someplace else first.)
+
+Suwako0b:(If we stay here, Satori could read our minds. That'd just make things more complicated all around.)
+
+Kanako3a:(I suppose we'd better see how Utsuho is faring for ourselves before bringing this to Orin and Satori.)
+
+<SE=se_talk_walk_indoor04.ogg,wait=1>
+
+<single>
+
+Sanae0g:Huh, where did Lady Suwako and Lady Kanako go?
+
+</single>
+
+Aya0a:Maybe they just went to get some water while we were talking?
+
+Yukari0b:So, how might Utsuho obtaining power lead to vengeful spirits coming to the surface?
+
+Yukari0b:You said your objective was to get us to fight her?
+
+Orin2c:She's seriously planning on attacking the surface. But I can't stop her by myself.
+
+Orin0d:So I thought I'd have you ladies chastise her for me.
+
+Flan3a:Ooh, so you sent the spirits to get our attention.
+
+Orin1d:I was sure that you'd come investigate if there were spirits coming from Blazing Hell.
+
+Orin0c:Then you'd go in and beat up Okuu, and that'd be that. That's how I figured it'd go.
+
+Marisa0e:So you were worried about her. Talk about a roundabout plan, though.
+
+Satori0c:...But what she says is the truth. 
+
+Yamame0d:I get how you feel, but wasn't that a bit drastic of you?
+
+Yamame0b:I don't care what the situation was, you went and provoked the surface dwellers. 
+
+Parsee0a:Shouldn't you have at least discussed this with Satori first? 
+
+Orin5a:...
+
+Satori0a:Orin...
+
+Orin2b:I'm sorry, it's not that I didn't trust you, Miss Satori!
+
+Orin5a:But if I talked to you about it, then it would become the whole Underworld's problem! And then Okuu would have to be disposed of...
+
+Orin5a:So I was trying to finagle a way to resolve this myself.
+
+Satori3a:I'm not mad at you, Orin.
+
+Satori0a:I can't condone your methods, but you were the first to notice something wrong with Okuu, and you tried to do something about it. 
+
+Kisume0a:Satori...
+
+Satori0d:In fact, perhaps I'm the one at fault for not noticing. 
+
+Murasa2b:I guess not even being a mind-reader means everything works out your way.
+
+Ichirin4b:It might even be BECAUSE you had that power that you let your guard down. 
+
+Satori0d:...
+
+Remilia1c:Just listen to yourself. You do nothing but mope around. Are you really the lord of this manor?
+
+Remilia0e:As the head of a household, you can't let your missteps give your followers cause for concern.
+
+Sakuya6a:Those words have a different ring when spoken by you, Mistress.
+
+Patchouli0d:That's arguably just dodging the issue.
+
+Satori0a:...Still, I can appreciate the sentiment that I should be more constructive.
+
+Satori0e:Thank you for your encouragement.
+
+Elliy3a:That was supposed to be encouragement, huh. 
+
+Keine0a:Either way, we've finally shed some light on this incident.
+
+Keine0c:All that's left is Okuu, although I'm not sure how we'll deal with her.
+
+Youmu1a:We certainly can't leave her alone. Let's head for the Ruins of Blazing Hell immediately. 
+
+Orin1f:Really? You'll fight Okuu for me?!
+
+Sanae0b:If she says she's going to conquer the surface, we can't just ignore her.
+
+Sanae0a:Plus, she's someone we've met before... 
+
+Marisa0c:Just make sure you stop those spirits.
+
+Orin3a:Sure! I'll close up the path to the surface right away.
+
+Suika3c:That's that then. What are you ladies gonna do, Yuugi? 
+
+Yugi1a:What else? We're coming too. Haven't had the chance to take a tour of Hell in a while anyway.
+
+Parsee0d:I wasn't really prepared to go that far, but whatever.
+
+Yamame0b:Uh, based on what they said, shouldn't we be hurrying?
+
+Ichirin0a:The four of you are welcome to join us on the Palanquin Ship. We'll all head there together.
+
+Kisume2b:Really? Are you sure?
+
+Sho3c:We'll need someone to guide us. Welcome aboard.
+
+Orin0d:...I'll head over as soon as I finish patching Miss Satori up.
+
+Orin5a:Honestly, I never wanted to turn to surface dwellers for help, but here we are...
+
+Reimu4a:We'd be stopping this Okuu person even if you didn't ask us to.
+
+Reimu0a:Defeating youkai who are up to no good is just my job.
+
+Yuyuko1c:Don't worry, we won't be too rough with your friend.
+
+Eirin0a:We promise to stop fighting as soon as she starts listening.
+
+Satori0b:...Consider this a request from me as well.
+
+Murasa0a:Okay, hang on a sec while I get the ship outside.
+
+Murasa0c:So, which way takes us to the Ruins of Blazing Hell?
+
+Satori0e:There's an entrance in the courtyard. Take the ship there.
+
+Marisa0e:...Man, I never thought we'd be burying the hatchet with the Underworld like THIS.
+
+Marisa0b:I guess you two have a lot to think about too, huh?
+
+Satori0a:I'm well aware that the cause of all this lies with us. I don't plan to contest that. 
+
+Yukari1a:Even so, I'm glad we could talk like this.
+
+Yukari0a:Since we have the opportunity, could we discuss one last matter?
+
+Satori3a:...You mean Koishi.
+
+Satori0b:As I said earlier, she isn't home right now. I can't make any guarantees about when she'll be back either.
+
+Youmu0a:But aren't you worried about her too?
+
+Youmu3a:We've heard that due to her power over unconsciousness, your sister isn't aware of what she's doing.
+
+Satori0d:Well...
+
+Yukari0b:It's gradually becoming common knowledge that she ventures to and from the surface.
+
+Yukari0b:What do you think about that?
+
+Satori0b:As you've probably guessed, even I don't know where she goes or what she's up to.
+
+Satori0b:However, even if she can't control her body, Koishi always comes home.
+
+Alice2c:She does?
+
+Satori0b:Yes. This is proof that something deep in her heart is still connected to the Palace of Earth Spirits.
+
+Lyrica1c:Well, makes sense. I mean, if there's anywhere she'd return too, it'd be her home.
+
+Yukari0a:...Alright. If that's how you see it, then we'll continue our monitoring.
+
+Suika1a:...This wasn't gonna be something we could solve right away anyway.
+
+Alice1c:First, we need to deal with Utsuho.
+
+Alice0d:It looks like the ship is ready, so let's move out.
+
+<BG=bg_talk_Black.png,fade=1,color=1,title=bg_Unknown>
+
+Noname0a:...It's been quite some time since the humans left on their investigation.
+
+Noname0a:Since they left my familiar behind, I doubt they plan to heed my warning.
+
+Noname0a:They simply don't understand that allowing new concepts and cultures into paradise comes at the expense of its peace and tranquility.
+
+Noname0a:If I can't obtain the cooperation of the humans, then I suppose I have no choice.
+
+Noname0a:I'll have to do this myself, and provide a firsthand demonstration...
+
+Noname0a:...That unwanted elements should be purged from paradise.
+
+<end>
+
+<ChatID:16>---------------------------------------
+//全滅時（vs.さとり）
+
+Akyu2a:Ah! The ship's compromised!
+
+Ichirin4a:If we can't move, I think our hands are tied...
+
+Satori0c:You people are... yes, you're like dogs. Dogs who ran headfirst into a pitfall.
+
+Satori0b:Such dogs shouldn't be allowed out of the house.
+
+Murasa0c:She's used to raising pets, huh...
+
+<end>
+
+<ChatID:17>---------------------------------------
+//全滅時（vs.お燐）
+
+Akyu2a:Ah! The ship's compromised!
+
+Ichirin4a:If we can't move, I think our hands are tied...
+
+Orin3a:What, you got beat by ME? Boy, did I ever misjudge you people.
+
+Orin5a:(...This is really bad, actually. Who else can I send to the Ruins of Blazing Hell?)
+
+<end>
+
+<ChatID:18>---------------------------------------
+//天狗と初戦闘
+
+Keine1a:The tengu we fought at the waterfall?! But how?
+
+Suika0a:You probably had some trauma involving them mixed up with the spellcard.
+
+Yuyuko3a:They aren't real, so feel free to destroy them.
+
+Daiyosei5e:That's a little easier said than done...
+
+<end>
+
+<ChatID:19>---------------------------------------
+//河童と初戦闘
+
+Meiling1a:Are these the kappa we fought on Youkai Mountain? What are they doing here?
+
+Suwako0a:You probably had some trauma involving them mixed up with the spellcard.
+
+Remilia1e:They're just fakes, so feel free to give them a good thrashing.
+
+Kurumi2a:That's a little easier said than done...
+
+<end>
+
+<ChatID:20>---------------------------------------
+//さとりvs.霊夢
+
+Satori0a:The Hakurei Shrine Maiden. I hear you're an incident resolution specialist.
+
+Satori0b:You seem to be thinking "This incident is a pain, but I like the hot springs."
+
+Reimu0c:Mm. Yup. Business at my shrine would be booming with those hot springs.
+
+Satori0b:...You try to be aloof, but there are some dark memories deep in your heart.
+
+Satori0c:Isolation. Never being able to touch another...
+
+Reimu1a:Sorry to disappoint you, but those worries are way behind me. The new me can devote everything to this job!
+
+<end>
+
+<ChatID:21>---------------------------------------
+//さとりvs.魔理沙
+
+Satori0b:...You have more danmaku in your mind than the others do.
+
+Marisa0a:Well, yeah, I always try to study my opponent's danmaku.
+
+Marisa7c:No matter what you copy, I've got a counter-play ready to go.
+
+Satori3d:Then forget the skills, how about I dig up some trauma?
+
+Satori3a:...Strife with your parents. A mentor disappearing without a word.
+
+Marisa4c:Yeah, I don't really care about any of that anymore.
+
+Marisa1a:Don't think you can grasp my history just by taking a peek in my mind!
+
+<end>
+
+<ChatID:22>---------------------------------------
+//さとりvs.早苗さん
+
+Satori0c:Your trauma is... extremely easy to see.
+
+Sanae0g:It is...?
+
+Satori0b:Fear that the gods you believe in will disappear. Anxiety over giving up your entire old life as the price for keeping that from happening.
+
+Satori0a:And you still hold similar sentiments deep down to this day.
+
+Sanae5e:Well, living here is the only option we have...
+
+Satori0d:...I can sympathize with such thoughts.
+
+<end>
+
+<ChatID:23>---------------------------------------
+//さとりvs.アリス
+
+Satori0b:...Your past is filled with pleasant memories.
+
+Satori0b:You were raised with love, and not a shadow falls over your heart.
+
+Alice1b:It wasn't all good. I had all those scary youkai following me around, and I was used as a maid, and...
+
+Satori0b:Even so, none of those things have left you mentally scarred. That's why you're kindhearted and filled with conviction.
+
+Satori0a:The downside is that it can make you fragile and narrow-minded.
+
+Alice1a:Are you calling me self-righteous?
+
+Satori3d:You'd be quite fortunate if it were only that.
+
+<end>
+
+<ChatID:24>---------------------------------------
+//さとりvs.チルノ
+
+Satori0b:...You aren't thinking anything at all, but deep down you do have a past incident that troubles you.
+
+Satori3d:When fighting at the lake, you mistakenly used your power against a friend.
+
+Cirno6a:...! Hey, that wasn't...
+
+Satori3e:I'm not criticizing you. I was just taking a peek in your mind.
+
+Cirno2b:What?! I don't get it but you're making me mad! I'm gonna beat you up!
+
+Satori1a:How simple-minded. I didn't even need to poke at her trauma.
+
+<end>
+
+<ChatID:25>---------------------------------------
+//さとりvs.大妖精
+
+Satori0b:Your mind shows that you've seen many incidents.
+
+Satori0a:You have happy and sad memories associated with all that you've witnessed.
+
+Daiyosei5f:Y-Yeah, I've been with Reimu and the others from the beginning... So?
+
+Satori0c:...Emotions alone aren't suited for molding into danmaku.
+
+Satori3c:But a fairy's sensitivity certainly makes reading these memories more enjoyable.
+
+Daiyosei5e:You're treating this as entertainment?!
+
+<end>
+
+<ChatID:26>---------------------------------------
+//さとりvs.ルーミア
+
+Rumia0a:...
+
+Satori3f:...I see. So you're thinking that by abandoning all thought, you'll be safe from my mindreading.
+
+Rumia3a:Good guess. This'll be easy!
+
+Satori0b:Sorry, but that won't be enough. As long as you're conscious, you can never escape my power.
+
+Rumia0a:Ooh.
+
+Satori3e:I can also tell that you were sick of trying to remain thoughtless.
+
+<end>
+
+<ChatID:27>---------------------------------------
+//さとりvs.リリー
+
+Satori0b:It seems your trauma occurred last spring.
+
+Satori0b:On your knees in the snow, searching for traces of spring...
+
+LilyW5c:...That's right. It was painful.
+
+LilyW0b:Even now, being off-season is tough...
+
+Satori0a:Then why not go hide instead of barging into someone else's house?
+
+LilyW5c:Well, I can't give up halfway through!
+
+<end>
+
+<ChatID:28>---------------------------------------
+//さとりvs.レティ
+
+Satori0b:You have a solitary personality and take pride in your youkai nature.
+
+Satori0c:But now you've experienced the joys of comfort. You've encountered the passion of others and are grateful for it.
+
+Letty0a:Do you find peeking into people's minds fun?
+
+Satori0b:All I'm doing is putting my mental image into words.
+
+Satori3e:If I happen to see a trauma along the way, that's just a fun bonus.
+
+Letty0c:I'd say that's in poor taste, but I suppose that's what it means to be a youkai.
+
+<end>
+
+<ChatID:29>---------------------------------------
+//さとりvs.リグル
+
+Satori0b:The bitter memories you carry are... of a summer night. A night with a dangerous moon.
+
+Wriggle0c:The one from before...?
+
+Satori0c:A ghost magician and a youkai with an umbrella crushed the companions you summoned, one by one.
+
+Wriggle1b:N-Noooo! Stop! I don't wanna hear anymore!
+
+Satori0a:...Based on your mental image of those two, I suppose I should count myself lucky that they aren't here today.
+
+<end>
+
+<ChatID:30>---------------------------------------
+//さとりvs.にとり
+
+Satori0a:A kappa, is it? That takes me back.
+
+Nitori1d:You know about Youkai Mountain?
+
+Satori0b:I used to live on the surface. But for a mountain youkai, you certainly are close to humans.
+
+Nitori4d:Oh, absolutely. Marisa's my friend!
+
+Satori3e:But you do hold a minor grudge against her for sticking a broom in your mouth.
+
+Nitori2a:I-I guess there are no secrets before a satori! Scary!
+
+<end>
+
+<ChatID:31>---------------------------------------
+//さとりvs.慧音
+
+Keine4a:The power to read minds... The power loathed by all...
+
+Satori3a:You're wondering what it must have been like for me back on the surface. Your imagination isn't far off the mark.
+
+Satori0b:It's an inevitability for those who possess this power.
+
+Keine0c:So you don't hold a grudge against the surface. That's good to know.
+
+Keine1a:But we still need to resolve this vengeful spirit incident!
+
+<end>
+
+<ChatID:32>---------------------------------------
+//さとりvs.レミリア
+
+Satori0b:...So you have a younger sister, one who casts quite a shadow across your heart.
+
+Remilia1b:Excuse me, did I say you could peer into my heart? That's rather gauche of you.
+
+Remilia1e:As for Flan...
+
+Satori3d:...You got through to her? Even though you'd gotten along poorly for all that time?
+
+Remilia1e:Neither of us knew each other, not really. But I decided to face her head on.
+
+Remilia0e:For that matter, isn't your sister the one that's troubled right now?
+
+Remilia1a:It's even making people outside your home concerned. As the head of the house, you should consider what to do about it.
+
+Satori0a:Your concern is unwarranted. That's between me and Koishi.
+
+Satori0a:You'll pay the price for daring to pry into the heart of a satori youkai.
+
+<end>
+
+<ChatID:33>---------------------------------------
+//さとりvs.フラン（R）
+
+Satori0a:I can see a trauma relating to your older sister.
+
+Satori0b:You've been treated so badly by her. What a pitiable relationship.
+
+Flan3b:Whatever! We made up, so I don't care anymore.
+
+Flan2b:Anyway, you've got a sister too, right? Do you get along with her?
+
+Satori0b:I know Koishi better than anyone else.
+
+Flan4b:I wish I could say that about Remi...
+
+Flan3f:But it's fine. I don't need to know everything to know she loves me.
+
+Satori3a:And what's your basis for that conviction?
+
+<end>
+
+<ChatID:34>---------------------------------------
+//さとりvs.咲夜さん
+
+Satori0b:You act sophisticated, but you're hiding some dark memories.
+
+Satori0c:Closing yourself in your own world, or having others keep you at a distance...
+
+Sakuya5c:That's all in the past. There's nothing about me that needs mending anymore.
+
+Satori0a:However, the fact that no one can enter your world remains true.
+
+Sakuya1c:Yes, but the people around me are an odd bunch themselves.
+
+Sakuya1c:You'll realize it yourself, soon enough. Who the one who really hates your power is.
+
+<end>
+
+<ChatID:35>---------------------------------------
+//さとりvs.美鈴
+
+Meiling3b:Okay, how should I fight someone who can read my movements?
+
+Satori0a:You're very straightforward. You have no fear of me reading your heart at all.
+
+Meiling0a:Well, you're gonna read it anyway, so why worry about it? Not like I could stop you.
+
+Satori0b:I see. So you want time for a nap. Not to mention snacks, and a separate break time...
+
+Meiling6a:H-Hey! Cut that out!
+
+Satori3e:All I need to do is put you mentally off-balance once, and then it's all over.
+
+<end>
+
+<ChatID:36>---------------------------------------
+//さとりvs.パチュリーあ
+
+Patchouli0b:A satori, is it? I believe this book had something written about them...
+
+Satori0b:Your heart is like a library. You see yourself as secondary to the books you've read.
+
+Satori0b:I've done some reading and writing of my own, but I wouldn't say it compares to you.
+
+Patchouli0c:I'd love to read a book or two written by a satori.
+
+Satori0c:I can tell you mean that, but I'll have to decline. I don't write them to be read.
+
+Patchouli4e:What makes books interesting is being able to share someone else's thoughts, though.
+
+<end>
+
+<ChatID:37>---------------------------------------
+//さとりvs.小悪魔
+
+Satori0b:From what I can tell, your trauma is...
+
+Satori2b:From what I can tell, your trauma is...
+...when your favorite mug broke?
+
+Koakuma1a:I know, it was awful! It was even a hand-me-down from Miss Patchouli...
+
+Koakuma1c:Ever since then, I've decided that Marisa's only getting water when she visits.
+
+Satori3a:I didn't realize people could get so hung up over such trivial things.
+
+<end>
+
+<ChatID:38>---------------------------------------
+//さとりvs.エリー
+
+Elliy1a:C'mon, read my mind! I dare you!
+
+Satori0a:You're not afraid?
+
+Elliy5a:I'll overcome any trauma with pure guts! That's my only redeeming quality!
+
+Satori0b:A trauma lurking in the subconscious can't be overcome with just a positive attitude, you know.
+
+Satori0c:Now remember. Remember getting beat up by the shrine maiden and magician no matter where you go.
+
+Elliy2b:Nooo! All my frustration's coming back!
+
+Satori3d:Well, she was surprisingly fragile.
+
+<end>
+
+<ChatID:39>---------------------------------------
+//さとりvs.くるみ
+
+Kurumi5b:Actually, I came up with a plan when I heard about your power!
+
+Kurumi5d:If you can read all our movements, we just have to think about something else!
+
+Satori0a:How so?
+
+Kurumi3b:Like, what am I gonna eat tomorrow, or when am I gonna be the strongest devil...
+
+Satori3a:That's just getting yourself distracted.
+
+<end>
+
+<ChatID:40>---------------------------------------
+//さとりvs.三月精
+
+Satori0b:A group of fairies from the surface? Let's see what's in your minds...
+
+Luna2a:Eek! She's gonna reveal our trauma!
+
+Star2b:Those bitter memories, along with the pain of—
+
+Satori0c:You know, none of this is that bad.
+
+Sunny5a:Eheh, you're onto us, huh?
+
+Sunny1c:Wait! No, no! There's gotta be something in there!
+
+Star1c:Like, getting scolded by the shrine maiden or Keine!
+
+Luna1a:Or falling into the river and getting all wet!
+
+Satori3a:You're all so carefree. Who would bring such guileless creatures into the Underworld?
+
+<end>
+
+<ChatID:41>---------------------------------------
+//さとりvs.小町
+
+Satori0b:Your trauma is very easy to discern.
+
+Satori0c:A lecture from your boss, another lecture from your boss, a lecture from your boss that went on for hours on end...
+
+Komachi3a:Hey, hold on! I'm here investigating as a shinigami. Could you not—
+
+Satori3a:I have but to say one thing, "Komachi!" And...
+
+Komachi2a:Eep!
+
+Komachi3b:...Okay, I didn't expect you to imitate her voice. Are you having fun over there?
+
+Satori3e:You're one of the rare opponents I don't need to hold back on. So I'll be enjoying this as much as I can.
+
+<end>
+
+<ChatID:42>---------------------------------------
+//さとりvs.藍
+
+Satori0b:You're a nine-tailed fox, a high ranking youkai. At the same time, you're Yukari Yakumo's shiki.
+
+Satori0c:How did a youkai of your caliber come to serve her? Let's see...
+
+Ran0a:If you can read minds, you're welcome to try prying for the answer.
+
+Ran0a:The one thing I can tell you is that I'd only ever follow someone who is both wiser and stronger than me.
+
+Satori0a:You rate Yukari Yakumo's capabilities quite highly.
+
+Ran6b:Not just that. The strength of a youkai is mental fortitude.
+
+Ran6a:She'd never lose, not even to a mindreading satori.
+
+<end>
+
+<ChatID:43>---------------------------------------
+//さとりvs.文
+
+Satori0a:You seem to lack the composure one would expect of a senior youkai.
+
+Satori0b:And looking through your memories, you have only a faint recollection of the difficult times in your life.
+
+Aya0a:Because I'd rather focus on collecting NEW information.
+
+Aya7b:Even now I'm just itching to learn more about you and the situation in the Underworld.
+
+Satori0d:If you stick your nose into our business, you're not getting away with just a dismissal.
+
+<end>
+
+<ChatID:44>---------------------------------------
+//さとりvs.椛
+
+Satori0b:I see, so humans and tengu used to be mutual enemies.
+
+Momiji3a:What? You're reading the distant past from my memories?!
+
+Satori0c:You in particular have experienced the hardships of battle countless times.
+
+Momiji5a:Yes, that happened. But it's served to train me into what I am now.
+
+Momiji3c:I don't care what illusions of the past you show me. I'll still triumph over you!
+
+<end>
+
+<ChatID:45>---------------------------------------
+//さとりvs.はたて
+
+Satori0b:I see a dark room, and a gloomy atmosphere. The thing you're trying to make isn't coming out as you hoped.
+
+Satori0c:Is this a dark memory for you?
+
+Hatate0b:Ugh, yeah. I never really left my room, and I wasn't too proud of my newspaper either.
+
+Hatate0a:But I'm glad I gave the outdoors a chance. I think my paper's gotten some of that "reporting live" feel too.
+
+Satori0b:If you think you've conquered those doubts, then allow me to dredge them back up for you.
+
+<end>
+
+<ChatID:46>---------------------------------------
+//さとりvs.ナズーリン
+
+Satori0b:Your mental scars are hard to discern... Oh, I see. You're in a rather strange position, for a youkai.
+
+Nazrin4a:So by reading my mind, you can even see my past?
+
+Satori0c:You've got a special duty to fulfill, but you've started to let your personal feelings get mixed up in it.
+
+Nazrin0a:Eh, we've come this far, might as well help these girls out to the end.
+
+Satori3d:So you say, but you're carefully measuring the distance you should be keeping, aren't you?
+
+Satori0c:That will become a mental opening to exploit.
+
+<end>
+
+<ChatID:47>---------------------------------------
+//さとりvs.星
+
+Satori0b:...You seem to be carrying quite a dark and heavy trauma.
+
+Satori0c:You deeply regret your own actions, and constantly dwell on what you should have done.
+
+Sho0b:...!
+
+Satori0a:And yet even so, you ally yourselves with your former companions. Is the purpose of your actions that you seek forgiveness?
+
+Sho4a:...No matter what I do now, I doubt I'll ever be forgiven.
+
+Sho1c:My actions must be judged. That's why...!
+
+<end>
+
+<ChatID:48>---------------------------------------
+//さとりvs.橙
+
+Satori0a:A cat youkai from the surface?
+
+Satori3a:...Let's see, I think I had a youkai bone in my pocket?
+
+Chen2b:Wait, a bone?
+
+Satori0a:Oh, excuse me. That was a bad habit of mine.
+
+Satori3c:I wonder what a normal cat would enjoy? I'll peer into your mind and see.
+
+Chen0c:Or I could just tell you...
+
+<end>
+
+<ChatID:49>---------------------------------------
+//さとりvs.ミスティア
+
+Satori0b:If I follow your memories, then...
+
+Satori2b:No, wait, there's nothing?
+
+Mystia1c:How rude! I at least know how much money I made last night!
+
+Mystia4a:Uh... after the customer left, I drank, and then... uh?
+
+Satori0b:Your forgetfulness reminds me of Okuu...
+
+<end>
+
+<ChatID:50>---------------------------------------
+//さとりvs.雛
+
+Satori0b:As a misfortune god, naturally you have memories of being shunned...
+
+Satori0c:However, you've never turned your back on humanity.
+
+Hina0b:I know my duty, and I have no intention of disappointing anyone.
+
+Hina0a:Not to mention, I now have friends who accept me as a misfortune god.
+
+Satori0c:Ah yes, just the attitude that paves way for the worst of traumas. I hope you'll keep that in mind.
+
+<end>
+
+<ChatID:51>---------------------------------------
+//さとりvs.萃香
+
+Suika3a:Been a while, Satori.
+
+Satori2b:Suika Ibuki...? I see, I didn't know you returned to the surface.
+
+Satori0a:...So you planned to reestablish a relationship with humanity, even if you might only end up with new trauma for your efforts.
+
+Suika1a:If you're afraid of getting hurt, forget humans, you won't get along with anyone.
+
+Suika3a:But more importantly, bring Orin out would ya? I'm here on an investigation after all.
+
+Satori3a:So even YOU think she's behind this... Let me assure you, Orin would never do something so dangerous.
+
+Satori3a:Even if you are originally an Underworlder, I'm going to ask you to leave.
+
+<end>
+
+<ChatID:52>---------------------------------------
+//さとりvs.秋姉妹
+
+Satori3f:I can see it. I can see your trauma.
+
+Minoriko1b:You see our troubles?!
+
+Satori0b:You fear the end of autumn and the coming of winter. Then comes the despair...
+
+Shizuha2a:Stop it! You're making me depressed all over again!
+
+Satori0c:...It happens every year, so it's not a terribly deep trauma, is it?
+
+Minoriko1b:Hey, who asked you?!
+
+<end>
+
+<ChatID:53>---------------------------------------
+//さとりvs.輝夜
+
+Satori0b:...
+
+Kaguya1c:If you're peeking into my mind, I hope you're enjoying yourself there.
+
+Satori0b:You have bored memories and sad memories, but don't seem to carry any dark emotions.
+
+Satori3a:Does nothing matter to you?
+
+Kaguya1a:I haven't forgotten them, have I? They're all simply part of my eternity.
+
+Kaguya3e:I've got all the time in the world to dwell on the past. But if I did I would be missing out on the present.
+
+<end>
+
+<ChatID:54>---------------------------------------
+//さとりvs.永琳
+
+Satori0b:You carry some very complex memories. I have no desire to sort them all out but...
+
+Satori0c:Even though you took up arms against so many of your brethren, you don't seem to carry any trauma about it at all.
+
+Eirin4c:Back then, I made a decision that I judged to be just. I have no intentions of changing my mind on that, even now.
+
+Eirin0e:There is only one thing I truly regret, and I intend to atone for that crime for eternity.
+
+Satori0c:Atonement, hm...
+
+<end>
+
+<ChatID:55>---------------------------------------
+//さとりvs.鈴仙
+
+Satori0b:I can see your memories quite vividly.
+
+Satori0c:Memories of betraying your allies, of saving only yourself...
+
+Udonge4c:...!
+
+Satori0b:Getting defensive about it won't help you forget.
+
+Udonge2b:Stop it! I got to speak with Lady Yorihime, and I was just starting to feel better about it...
+
+Udonge1b:And didn't you run away too?! We're the same!
+
+Satori0b:There were complicated circumstances. I didn't run away.
+
+Satori3a:But if you still have the cheek to be talking back, then you still have more trauma to remember!
+
+<end>
+
+<ChatID:56>---------------------------------------
+//さとりvs.てゐ
+
+Satori0b:Despite your appearance, you have quite a deep well of memories.
+
+Satori2b:And your trauma is... when you were skinned alive?
+
+Tewi4a:Yeah, not my finest moment. And to top it off, I was told that bathing is seawater would help.
+
+Tewi3d:Ouch! Moral of the story: only listen to the handsome gods.
+
+<end>
+
+<ChatID:57>---------------------------------------
+//さとりvs.妹紅
+
+Satori0b:You carry a long, dark memory.
+
+Satori0b:Shunned by humans, becoming violent, and then cutting yourself off from everything...
+
+Mokou1b:So this is the power of a satori? What a pain.
+
+Mokou1a:But say what you like. That'll just be another piece of my history.
+
+Satori0c:You may put on a brave face, but you're still human. Your mind's defenses will always have flaws I can exploit.
+
+Mokou1c:Yeah, I'm human. If I'm gonna live among people, I'm not gonna pretend I'm flawless.
+
+<end>
+
+<ChatID:58>---------------------------------------
+//さとりvs.プリバ
+
+Satori0c:I can't find any trauma within you. There's nothing to be found on the surface.
+
+Merlin1c:Duh! We're poltergeists!
+
+Lyrica0c:All noise, all the time!
+
+Satori3a:You do seem to have something nagging at you deep down, though.
+
+Merlin0a:Hm? Really? I wonder what that is.
+
+Lunasa1a:If it's a dark emotion, we'll blow it away. All we care about is performing.
+
+Satori0d:Even your minds are noisy... I don't think I'll be able to read any deeper.
+
+<end>
+
+<ChatID:59>---------------------------------------
+//さとりvs.神奈子
+
+Satori0b:You hold quite a few dark memories, for a god.
+
+Satori0c:First you lost your faith, and then you almost lost your partner deity...
+
+Kanako3a:She spouted ridiculous things like how she'd be okay with that.
+
+Kanako0d:Nonetheless, abandoning my homeland and seeking out a new land was the right call in the end.
+
+Satori0a:I'm surprised that actually worked out so well for you...
+
+<end>
+
+<ChatID:60>---------------------------------------
+//さとりvs.諏訪子
+
+Satori0b:I see you're a god with a great many memories. However, none of them are traumatic...
+
+Suwako3b:Ahaha, that's 'cause I've already given up on the Outside World.
+
+Suwako1a:So I'm pretty much treating this as a second lease on life and enjoying the ride.
+
+Satori0c:Maybe so, but there does seem to be something sleeping deep, deep within...
+
+Suwako4b:...Hm, yeah, I guess I AM worried about my descendant, and someone else.
+
+<end>
+
+<ChatID:61>---------------------------------------
+//さとりvs.村紗
+
+Satori0b:I can see a scene from the dark depths of the ocean. And I see ships passing above you...
+
+Murasa4a:You're dragging up my memories...!
+
+Satori0c:You're filled with hatred. You want nothing more than to drag those ships down with you and become a high-ranking youkai.
+
+Murasa2c:Okay, stop that. I chose to live a different life once I met Hijiri.
+
+Satori3d:So you say, but don't you find yourself drawn to your true youkai instincts even now?
+
+Satori3e:Lurking by the waterside, attacking anyone who passes by... Don't you even have a friend who'd love for you to return to that lifestyle?
+
+Murasa1b:I told you to stop that!
+
+<end>
+
+<ChatID:62>---------------------------------------
+//さとりvs.一輪（聖輦船2回目）
+
+Satori0b:You seem to have fortitude, but it wasn't an easy journey reaching that point, was it?
+
+Ichirin1b:Are you talking about me?
+
+Satori0b:It must've have been difficult living your life with a nyudo as your companion.
+
+Satori3a:Your hatred for the world, your hatred for people... Think back on those feelings.
+
+Ichirin2a:Rgh, she's more troublesome than I'd heard...
+
+Unzan0a:...!
+
+Ichirin4c:...Yes, you're right, Unzan. You protected me through it all, and I even got to meet Hijiri.
+
+Ichirin1b:Your trickery won't work on me!
+
+<end>
+
+<ChatID:63>---------------------------------------
+//さとりvs.阿求（聖輦船3回目）
+
+Satori0b:...You're a strange human. You've kept your memories through quite a few reincarnations.
+
+Akyu2b:You're looking in my mind?
+
+Satori0b:You lack combat strength, so there's no particular need for me to dig up any mental scars from you...
+
+Satori0c:But living that way while in a human body must be a hardship in its own right.
+
+Akyu1a:True, I've experienced more sorrowful partings than I'd like. But I've also experienced just as many wonderful encounters.
+
+Akyu0a:That's why as long I'm alive, I'd like to increase that number however I can, if only a little.
+
+Satori0a:It's hard for me to sympathize with a trespasser, but I respect your mentality.
+
+<end>
+
+<ChatID:64>---------------------------------------
+//さとりvs.ゆゆ様
+
+Satori0b:...I searched you for trauma, but you don't seem to have any.
+
+Satori0c:It seems you've spent your life without a single hardship.
+
+Yuyuko0a:You might be right. I certainly can't think of one off the top of my head.
+
+Yuyuko2a:But maybe I've just been living life absent-mindedly?
+
+Satori0b:I can't stand that you absent-mindedly strolled into the Underworld...
+
+Satori3d:But wouldn't a carefree life, knowing nothing of hardship, be a wonderful thing?
+
+Yuyuko3c:Lately, I've been thinking that might be its own form of hardship.
+
+<end>
+
+<ChatID:65>---------------------------------------
+//さとりvs.紫
+
+Yukari0a:I never imagined I'd fight a danmaku battle with you, Satori Komeiji.
+
+Satori0b:...You don't seem to be lying.
+
+Satori0c:But you also consider this a good opportunity.
+
+Yukari0a:Yes, well, our relationship isn't exactly one condusive to chatting outside of occasions like these.
+
+Satori3a:...I don't want to chat. I just want you to turn around and leave.
+
+<end>
+
+<ChatID:66>---------------------------------------
+//さとりvs.妖夢
+
+Satori0b:Your heart is incredibly straightforward—which makes it easy to read, all the way to its innermost depths.
+
+Satori0c:Your master disappearing without a word weighs heavily on your mind.
+
+Youmu2b:...! That was...
+
+Satori0a:He was your master and grandfather, yet he never gave you any special coaching.
+
+Youmu3a:Those feelings arise from my own lack of discipline.
+
+Youmu1a:"In cutting, the truth is known." Those were the only words he left me—his finest teachings!
+
+<end>
+
+<ChatID:67>---------------------------------------
+//さとりvs.文（風靡）
+
+Aya0c:Satoris sure are something, if they can recreate my danmaku.
+
+Aya0a:But can you truly reproduce my speed with your physical abilities?
+
+Satori0a:I don't need to. It's formed from the memories of the people who saw it.
+
+Satori3a:Why not try fighting yourself, as seen by others?
+
+<end>
+
+<ChatID:68>---------------------------------------
+//さとりvs.にとり（ポロロカ）
+
+Nitori2a:Hey, is this MY danmaku?!
+
+Satori0b:Correct. This danmaku left a strong impression in the hearts of your companions.
+
+Satori3d:And it seems to be agitating your heart as well.
+
+Nitori1b:Look, I made up with Marisa and the others! I'm not going to lose to bad memories!
+
+Satori0a:But do you have the conviction to back those words up? Let's find out.
+
+<end>
+
+<ChatID:69>---------------------------------------
+//さとりvs.紫（生と死）
+
+Yukari4b:...This is the danmaku I showed Reimu and the others in front of that cherry tree.
+
+Satori0b:I didn't quite finish reading all your memories of it, but I can tell you put some powerful feelings into it.
+
+Satori0c:To think that a Youkai Sage would betray such strong feelings for a single human...
+
+Yukari4b:I'm but a single youkai myself. I'm capable of feeling things.
+
+Yukari4a:The guilt, the regret... I'll never forget them.
+
+Satori3a:...An obsession with the past. That sort of thing can be a youkai's downfall.
+
+Satori0a:But I'm sure you're already aware of exactly how foolish you're being.
+
+<end>
+
+<ChatID:70>---------------------------------------
+//さとりvs.幽々子（生と死）
+
+Yuyuko1d:You're recreating the memories of people's danmaku, yes? Is this... Yukari's, then?
+
+Satori0b:That's right. Even the youkai governing boundaries was unable to do a thing about this border.
+
+Satori0c:You seem to be an old friend of hers, but she's never told you this story, has she?
+
+Yuyuko3c:...
+
+Satori3d:Don't worry, there's no need for you to fret over the things you don't know, or the things you weren't told.
+
+Satori3d:Those without the power to read minds can never truly understand or support each other.
+
+<end>
+
+<ChatID:71>---------------------------------------
+//さとりvs.フラン（TTWN）
+
+Flan4b:This danmaku mine, from...
+
+Satori0b:Yes, it seems to be your trauma towards your sister. The one you showed the humans previously.
+
+Satori0c:A dark basement where no one ever visits. And you, left all alone.
+
+Flan2f:It used to drive me nuts, but it doesn't bother me anymore.
+
+Flan2b:My sister said she cares about me.
+
+Satori2b:What use are words? Words alone can't overcome a trauma.
+
+Flan3b:Actually, they're super important. She had to say it, otherwise I never would've known what she thought.
+
+Flan3d:Just because you feel a certain way doesn't mean other people know you do.
+
+Satori0d:...
+
+<end>
+
+<ChatID:72>---------------------------------------
+//さとりvs.レミリア（没）
+
+<end>
+
+Remilia0a:I'm afraid you'll find this is an unused string.
+
+<end>
+
+<ChatID:73>---------------------------------------
+//お燐vs.霊夢
+
+Reimu2b:Having the mastermind just come out and confess is kind of underwhelming, to be honest...
+
+Orin1e:You got what you wanted, right? So you'd better get over to the Ruins of Blazing Hell right away.
+
+Reimu0d:Nah, that sounds like a pain. I'd rather just exterminate you and get you to stop the spirits.
+
+Orin1a:I'm telling you it won't work, lady. You've gotta go even deeper!
+
+Reimu3a:And I'M telling you that sounds like a huge pain in the rear. The name alone sounds sweltering already. Clean up your own mess.
+
+Orin3a:(She picks the weirdest things to get hung up over! But I've gotta lead them down there somehow...)
+
+<end>
+
+<ChatID:74>---------------------------------------
+//お燐vs.魔理沙
+
+Marisa2b:I didn't want to believe it, but I guess it really was you sending the spirits up.
+
+Orin0a:I just wanted to play a little prank, and boy did I get a great reaction!
+
+Orin0b:You and I know each other enough by now that you can't be surprised, right?
+
+Marisa3a:I didn't peg you as the kind of girl who'd do something like this on a whim.
+
+Marisa2b:Still, if you say you're the mastermind, then I'm not holding back!
+
+Orin0c:(That's it. And I'll be ascertaining your strength for myself.)
+
+<end>
+
+<ChatID:75>---------------------------------------
+//お燐vs.勇パル
+
+Yugi2a:I can't believe you're the source of all this commotion.
+
+Parsee0a:What part of "don't mess with the surface" do you not understand?
+
+Orin1d:I was prepared for the consequences when I did it. I didn't exactly expect you two to come down here though...
+
+Orin1f:But now that you're here, you'll just have to shut up and enjoy the ride!
+
+Yugi0b:...What are you planning?
+
+<end>
+
+<ChatID:76>---------------------------------------
+//お燐vs.ヤマキス
+
+Kisume2b:I can't believe you were the one sending spirits to the surface, Orin...
+
+Yamame0c:Where's Utsuho, anyway? Something happen to her?
+
+Orin0b:...!
+
+Yamame0c:Aren't you two always together?
+
+Orin3a:Wh-Who knows? I sure hope she's not just slacking off in the Ruins of Blazing Hell.
+
+Yamame0b:...I'm not sure what you're playing at here, but either way we'll be putting a stop to this incident.
+
+<end>
+
+<ChatID:77>---------------------------------------
+//お燐vs.（予備枠）
+
+<end>
+
+<ChatID:78>---------------------------------------
+//お燐vs.（予備枠）
+
+<end>
+
+<ChatID:79>----------------------------------------
+//さとりvs.まくら
+
+Satori0b:It seems you carry quite a lot of trauma.
+
+Makura1c:...Did you read my mind?
+
+Satori0b:You've exhausted all sorts of methods to be needed by humanity.
+
+Satori0c:But as times changed, you could not stop yourself from slipping from their minds.
+
+Makura1c:I've decided to think of it as fate.
+
+Satori0b:Reassuring words, but you can't hide the deep wounds in your heart.
+
+Satori1a:This should be a good one to have you recall.
+
+<end>
+
+<ChatID:80>----------------------------------------
+//さとりvs.メーコ
+
+Satori0c:You have a whole host of traumas of your own. The counting sheep denied by humanity.
+
+Satori0b:...Hm? What's this?
+
+Meko4c:Don't ask me.
+
+Satori0d:I can see the bamboo thicket in spring. And... a folding fan?
+
+Meko5e:*Uncontrollable sobbing*
+
+Satori0c:?
+
+Satori0d:I can't say I understand what's going on, but something happened with this fan?
+
+Meko5b:Stop! Don't wave it!
+
+Meko5f:Nooo! Kattz, Mafti, Totoh!
+
+Satori0c:Well, either way, that's quite the trauma.
+
+<end>
+
+<ChatID:81>----------------------------------------
+//お燐vs.まくら
+
+Orin1e:Hey lady! You look like the can-do type.
+
+Orin0a:Why don't you head on down to Blazing Hell and deal with all those spirits?
+
+Makura1a:...I was going to head there to check out the situation anyway.
+
+Makura3a:Although I think your own actions also merit looking into.
+
+Orin3a:Uh, what's that supposed to mean?
+
+Makura1a:I'd like to hear from your own mouth why you unleashed the vengeful spirits on the surface.
+
+Orin5a:Huh? Huh?! What're you...
+
+Makura1c:Worry not, we can discuss that later.
+
+Makura3a:For now, allow me to judge your intentions through your danmaku.
+
+<end>
+
+<ChatID:82>----------------------------------------
+//お燐vs.メーコ
+
+Orin1e:Hey, the lady over there...
+
+Orin5c:Wait, who's this loser?
+
+Meko1a:I'm not a loser! Please leave Utsuho to me!
+
+Orin1f:...?!
+
+Orin1d:Wait, back up, how'd you know about Okuu?!
+
+Meko3b:Ah, we don't know yet?
+
+Orin5c:...No idea who let the cat outta the bag, but you know too much.
+
+Orin1f:Time to sew up those loose lips of yours!
+
+Meko1c:Ooh, but I was serious about helping her!
+
+<end>
+
+<ChatID:83>----------------------------------------
+//さとりvs.さとり
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Satori0e:...
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Satori0b:...
+
+Satori0c:I see. So that's how it is.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Satori0e:I'm glad you understand. In which case...
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Satori0b:...
+
+Satori0c:Indeed, it's been a while since I've had a purely mental conversation.
+
+</nomove>
+
+<end>
+
+<ChatID:84>----------------------------------------
+//さとりvs.こいし
+
+Koishi1a:Heyo, sis.
+
+Satori2b:Koishi...? When did you get home?
+
+Koishi2b:I'm on a journey with the people from the surface. How many times was this again?
+
+Satori0d:I see. On a journey, of all things...
+
+Satori3c:I suppose that's alright once in a while, but be sure to tell me, okay?
+
+Koishi6c:Sure! If you're worried, I can tell you!
+
+Satori0d:R-Right...
+
+Satori0b:(Why does she feel so different now...?)
+
+<end>
+
+<ChatID:85>----------------------------------------
+//さとりvs.空
+
+Satori0e:Okuu? What are you doing here...
+
+Satori2b:...! Wait, what happened to your body?
+
+Utsuho0e:Oh, right. I haven't shown you Lord Yatagarasu yet.
+
+Satori0d:You borrowed the power of a god? And you did all this right under my nose...
+
+Utsuho4e:I'm sorry, Miss Satori! We'll talk later!
+
+<end>
+
+<ChatID:86>----------------------------------------
+//さとりvs.お燐
+
+Satori0e:There you are, Orin. I haven't seen you around lately.
+
+Orin3a:Um, well, I guess it has been a while, huh!
+
+Orin2c:(Crap, I can't have her read my mind. Think about something else, think about something else...)
+
+Satori0b:...
+
+Satori0c:Carrion, carrion, carrion...? Are you really that hungry?
+
+Orin1a:You bet I am! Man, I could go for some cookies!
+
+<end>
+
+<ChatID:87>----------------------------------------
+//お燐vs.お燐
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Orin3a:Nya?! Who the heck are you?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Orin5a:(Well, this is a pain. In that case...)
+
+OrinC0a:...Meow.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Orin1f:You turned into a cat?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+OrinC0a:Meow...
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Orin1b:I wasn't born yesterday, y'know! Turn back and let's talk about who you are!
+
+</nomove>
+
+<end>
+
+<ChatID:88>----------------------------------------
+//お燐vs.空
+
+Orin1f:Okuu?! But if you show up now, Miss Satori's gonna find out!
+
+Utsuho4e:Unyu? Okay...?
+
+Orin0d:?
+
+Orin1d:Oh, what's with you? Guess you're back to normal?
+
+Utsuho2d:Yeah, I'm me. Sorry for crazy and all around now.
+
+Orin4d:That's great! I was getting really worried for a sec there!
+
+Orin5a:Seriously, thank goodness.
+
+Utsuho3c:Uh, uh-huh.
+
+Utsuho2c:(...I can't believe I was making her so worried.)
+
+Utsuho0c:(Sorry, Orin.)
+
+<end>
+
+<ChatID:89>----------------------------------------
+//お燐vs.さとり
+
+Orin1f:Miss Satori?! Didn't I carry you off just now?
+
+Satori0c:...No need to panic, I understand why you did that.
+
+Orin3a:No, I mean, um...
+
+Satori3e:I'm not angry. Let's talk this out once things settle down.
+
+Orin5a:O-Okay...
+
+<end>
+
+<ChatID:90>----------------------------------------
+//お燐vs.こいし
+
+Orin1f:What're you doing here, Miss Koishi?
+
+Orin3a:More importantly, are you fighting on their side?!
+
+Koishi5b:Yup! You wanna join us too?
+
+Orin5b:No thanks, I'll pass.
+
+Orin5a:But... does Miss Satori know about this?
+
+Koishi2b:Umm... One of them does, one of them doesn't, I guess?
+
+Orin5a:Okay...
+
+Orin2c:(Yeah, I still don't get her at all.)
+
+<end>
+
+<ChatID:91>----------------------------------------
+//C53：さとりvs.非想天則
+
+Tensoku0a:...
+
+Satori2b:A mechanical doll? No, you do seem to have a mind.
+
+Satori1a:In which case, allow me to awaken your trauma.
+
+Tensoku0a:...!
+
+Satori0b:Is this... a giant catfish? And an unfamiliar location.
+
+Satori0c:I can't say I understand, but this is certainly your trauma.
+
+Satori1a:Recall your past stained in evil. You'll regret coming here.
+
+<end>

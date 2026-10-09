@@ -1,0 +1,298 @@
+﻿○共通第十六話「再訪
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 2PP
+ 2: omake
+ 3: clear
+ 4: ADVB
+ 5-8: battle vs. Cirno
+
+<ChatID:0>----------------------------------------
+//1PP
+
+Cirno0a:Are you girls all ready?! You better not slow us down!
+
+Yousei11a:Um, yeah!
+
+Reimu2b:Sheesh, they never learn. I don't have the time for this right now.
+
+Marisa0a:Well Cirno IS just a fairy. So, what're you up to today?
+
+Cirno0a:It's a game called donation-and-dash! The maid at the red house taught it to me.
+
+Marisa0a:Donation-and-dash? What, are you gonna ring the shrine's bell then ditch?
+
+Alice0a:Don't be so sure. Perhaps she intends to steal it.
+
+Keine3a:...So few people come as it is, and now THIS happens. Is your shrine always like this?
+
+Reimu0e:Pretty much. I'm practically buried in annoying fairies and youkai.
+
+Alice0a:I suppose everyone's had more free time since last summer's incident.
+
+Cirno0a:Okay everyone, go for the donation box!
+
+Cirno1a:We don't need it, but Reimu will freak out if it's gone! It'll be hilarious!
+
+Marisa0a:Hey, you might wanna hold off on going for the donation box.
+
+Marisa0a:For one thing, there's nothing in it. At least go for something valuable.
+
+Cirno0a:Nuh-uh, I put some pretty rocks in there for her once!
+
+Reimu1a:That was you?!
+
+Keine0b:*sigh* It's just like a playground here. Visitors to the shrine should worship once in a while.
+
+Reimu2b:Tell THEM that. It's not like I ask them to come.
+
+Reimu0d:Well, whatever. If you're all bored, then bring it on!
+
+<end>
+
+<ChatID:1>----------------------------------------
+//2PP（没）
+
+<end>
+
+Marisa0a:Hey, they shot out some danmaku. They're pretty pumped considering there isn't even an incident going on.
+
+Cirno1a:Mwahahaha! Shiver in fear at our danmaku!
+
+Alice0a:How troublesome. It might be best to Focus and nullify the danmaku.
+
+Keine0a:We could also use a Bomb if we had one. That would destroy all the danmaku in its range, freeing us to attack the enemy.
+
+Keine1a:But remember that it also drops the user's Power by 10, and there's a limit to how of them many you can use.
+
+Reimu3b:You could do all that, OR you could just crush the enemy who made the field in the first place and be done with it.
+
+Keine2a:...Of course that's what you'd say. But I guess you wouldn't be Reimu otherwise.
+
+<end>
+
+<ChatID:2>----------------------------------------
+//玄爺会話
+
+Reimu4a:Hmm, not here. That figures.
+
+Marisa0a:Something up?
+
+Reimu3b:I haven't seen the turtle around recently. I wonder where he went off to?
+
+Alice0a:A turtle? Are you talking about the one you used to ride?
+
+Reimu0e:Yeah, now that I think about it, you've seen him before. I hope he's doing alright, wherever he is.
+
+Marisa0a:You get tons of help from him, then just dump him out back? Boy, that's one way of repaying a favor.
+
+<end>
+
+<ChatID:3>----------------------------------------
+//チルノ撃墜時
+
+Cirno2a:Oof, so much for that.
+
+Reimu0d:There's no way I'd lose to fairies. Now scram.
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_enemies,>,1)>
+
+Yousei10a:Aah! They got Cirno!
+
+Yousei22a:We'd better not stick around. Everybody run!
+
+<pause>
+
+</Cond>
+
+Marisa0a:Well that wasn't much of a workout. Let's just start on those sweet potatoes Keine brought over.
+
+Cirno0a:Ooh, you're roasting sweet potatoes? Can I have some?
+
+Reimu4a:Didn't I tell you to scram? Besides, it's been chilly enough lately without YOU around. 
+
+Alice0a:Now, now, feeding one more person is nothing to be concerned about.
+
+Keine0a:That's right, I brought a lot so it's fine if Cirno wants to eat some.
+
+Reimu2b:Ugh, fine. But at least help make them.
+
+Marisa0a:Now that that's over with, let's light up a fire. Cirno, gather up some leaves and...
+
+Marisa3a:Wait, someone's coming.
+
+<pause>
+
+Keine1a:Reimu, that's...
+
+Sanae0a:It's been a while, Reimu.
+
+Reimu0a:Sanae Kochiya?
+
+<end>
+
+<ChatID:4>----------------------------------------
+//ADVB
+
+<MAP=5,FROM=博麗神社,TO=博麗神社,name=Hakurei Shrine,icon=0>
+
+<BG=*bg_talk_Shrine_Fall.png,fade=0,color=1,title=*bg_Shrine,bgm=bgm_talk_kaikidan>
+
+Sanae0a:Hello, everyone. I'm Sanae Kochiya, wind priestess of the Moriya Shrine.
+
+Marisa2b:Hey, you're that girl we fought at the lake. 
+
+Alice0a:Yes, the other shrine maiden. Didn't Reimu tell you about her visit to the Hakurei Shrine afterward?
+
+Marisa0a:The basics. She came to shut down the shrine, then she got her butt kicked, right?
+
+Keine0a:That's a crude way of putting it, but essentially, yes.
+
+Reimu4a:So, what brings you here on your first visit since summer?
+
+Reimu5a:Don't tell me you're here to shut down the shrine again.
+
+Sanae0a:Oh, that's exactly what I'm here for. As always, this place is filled with youkai, and its faith is stagnating.
+
+Sanae0a:So I'd like you to shut down the Hakurei Shrine and turn this place over to the Moriya Shrine.
+
+Alice1a:You're still going on about that?
+
+Cirno0a:Uh, didn't Reimu beat you silly last time?
+
+Sanae1a:You're quite the blunt child. Yes, I was defeated last time.
+
+Sanae0a:However, the Moriya Shrine has procured a powerful source of faith since then. Things are different now.
+
+Reimu0a:If you say so. You don't look any different to me.
+
+Reimu1a:But fine, let's take this outside and get the danmaku match over with. I was just in the mood for a REAL fight anyway.
+
+Sanae0a:...I would also like a rematch, but that's not the purpose of my visit today.
+
+Reimu4a:So what is? 
+
+Sanae0a:I don't think a danmaku battle is a fitting way to decide the Hakurei Shrine's future.
+
+Sanae0a:I'd much prefer a less violent method, given the option.
+
+Marisa0a:Sounds to me like a fancy way of saying you're too chicken to take your chances with Reimu in a fight.
+
+Sanae0a:You're welcome to find out for yourself whether or not I'm bluffing.
+
+Reimu0a:...
+
+Sanae0a:The Moriya Shrine is halfway up Youkai Mountain.
+
+Sanae0a:If you can make it up there, I will show you the difference in power between our shrines.
+
+Reimu0d:Go to Youkai Mountain? What kind of trick is—
+
+Sanae0a:On that note, I'll be on my way.
+
+Reimu1a:Hey, wait a second!
+
+<SE=se_talk_fly01.ogg,wait=1>
+
+<single>
+
+Cirno0a:Oh wow, she's gone.
+
+</single>
+
+Marisa3b:She wants Reimu to hand over the shrine to her group?
+
+Marisa2b:I dunno what's up with this wind priestess, but that doesn't make a lick of sense to me.
+
+Keine2a:She still doesn't get what the Hakurei Shrine represents.
+
+Keine0b:It's true there aren't many worshippers, but this is the only place in Gensokyo where humans and youkai can be so at ease around one another.
+
+Marisa0a:What was her problem with you in the first place?
+
+Marisa0a:All I heard was that she came to the shrine and got sent packing.
+
+Keine0a:Specifically, she found the usual state of the shrine improper, by shrine maiden standards.
+
+Marisa3a:What's wrong with it?
+
+Alice0c:If I had to guess, she would say having youkai around discourages humans from visiting, which is sacrilege to the enshrined deity.
+
+Alice0a:As such, she expects Reimu to either change how she runs the place, or hand it over to her group.
+
+Marisa0a:I getcha. It's true humans don't come here much, but it's kinda bonkers to expect Reimu to forfeit the place because of that.
+
+Reimu0a:No kidding. I mean, sure, this shrine's god is so minor that they probably get ignored at divine social gatherings or whatever...
+
+Reimu1a:But that doesn't mean I'm gonna let some other rando god trashtalk me!
+
+Alice0a:For all we know, they might even be a youkai in disguise or something.
+
+Marisa0a:It's not outta the question, given how shady this whole thing sounds.
+
+Keine0a:But to call Reimu to a place like Youkai Mountain? This might be a trap.
+
+Marisa1a:There's only one way to find out. You up for this, Reimu?
+
+Reimu0b:You bet I am. Why miss out on a chance to see this oh-so-fancy Moriya Shrine?
+
+Reimu1a:I'll stomp that shrine maiden AND her rando god.
+
+<end>
+
+<ChatID:5>----------------------------------------
+//霊夢vs.チルノ
+
+Reimu2b:So today it's a donation-stealing game? What is Sakuya even teaching you?
+
+Cirno0a:She said it was a "primal, thrilling game for adults that can only be played at a shrine with a donation box."
+
+Reimu3d:What nonsense is that? She just wanted you out of the Scarlet Devil Mansion.
+
+<end>
+
+<ChatID:6>----------------------------------------
+//魔理沙vs.チルノ
+
+Marisa0a:Don't you have anything better to do?
+
+Cirno0a:What about you? You're always hanging around here too.
+
+Marisa0a:Hey, I'll have you know I'm VERY busy... finding ways to kill time.
+
+<end>
+
+<ChatID:7>----------------------------------------
+//慧音vs.チルノ
+
+Keine0a:You're as lively as ever.
+
+Keine0a:You're not going too far overboard pranking humans, right?
+
+Cirno0a:Don't worry. Lately I've only been messing with Reimu and Marisa.
+
+Keine0a:Oh, that's alright then.
+
+Reimu0a:No, it isn't!
+
+<end>
+
+<ChatID:8>----------------------------------------
+//アリスvs.チルノ
+
+Alice0a:Say, what's the trio up to these days?
+
+Cirno0a:Huh? Why do you ask?
+
+Alice0a:They haven't been up to any mischief around my house lately, so I was a bit curious, is all.
+
+Cirno0a:Oh, well it's not like I'm ALWAYS with them...
+
+Cirno0a:But if you ask me, I think it's more fun to play pranks here.
+
+Alice0a:I see. I suppose Reimu IS easier to tease.
+
+<end>

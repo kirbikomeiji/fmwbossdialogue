@@ -1,0 +1,1871 @@
+﻿○魔理沙第三十八話「地上の兎、月の兎
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: 3PP-1
+ 3: 3PP-2
+ 4: 4PP
+ 5: first combine
+ 6: Tewi spell start
+ 7: clear
+ 8: ADVB
+ 9-31: battle vs. Tewi
+32-33: lose
+34-35: for duper
+36: Tewi Dokonjo
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<MAP=3,FROM=リグルの水辺,TO=リグルの水辺,name=Water's Edge,icon=2>
+
+<BG=*bg_talk_Lake_Night.png,fade=0,color=1,title=*bg_Waterside,bgm=bgm_talk_aoki>
+
+<SE=se_talk_insect01.ogg,wait=0>
+
+InsectA0a:...
+
+Wriggle3c:Ah, alright. Thank you.
+
+Suwako0a:So, get anything good?
+
+Wriggle0b:Well... the pine crickets over there are all bouncing off the walls. They thought this was just a long autumn night.
+
+Wriggle1h:Also, they said something about pesticide being sprayed at the forest entrance making their lives miserable.
+
+Hina2a:As much as I pity them, none of that's related to the incident.
+
+Sunny4a:Though for bugs, that info's about as important as it gets...
+
+Yuka2d:Useless. I'm growing tired of waiting.
+
+Wriggle4f:Hey, I'm not asking you to. You're the ones who asked me for this.
+
+Alice0d:Don't mind her, Wriggle. Just take it slow and steady.
+
+Kanako0a:There is no rush, as it seems Marisa and Mima remain engrossed in their conversation regardless.
+
+Yuka0a:Yes, yes, everyone around here is dragging their feet.
+
+Yuka2d:...Say, I notice that Marisa's pet isn't with her this time.
+
+Luna0b:Pet? Oh, do you mean Shiro?
+
+Star0a:She's left it at the shrine the past few days.
+
+Star3c:But we didn't see it there, so I guess Reimu's group must have taken it.
+
+Yuka1b:Hmm... I see...
+
+Koakuma3b:I didn't realize you knew about Shiro, Yuuka.
+
+Yuka0a:Is there some reason I wouldn't?
+
+Yuka0c:Anyway, I'm told that having it around causes some strange person to pop up in your dreams, yes?
+
+Komachi1a:I do remember it being something like that.
+
+Komachi0a:Basically somebody showing up in Marisa's dreams and giving her clues about incidents.
+
+Elliy5a:It's hard to be sure if it's really tied to Shiro, though...
+
+Elliy0b:(Wait, did I ever even mention Marisa's dreams to Yuuka?)
+
+Kanako0a:They must be someone quite eccentric to offer hints inside dreams.
+
+Yuka2d:Exactly, and that's why I wanted to look into it.
+
+Yuka0a:But I suppose there's always another time.
+
+Alice2c:I'm a bit surprised to see you interested in anyone's dreams.
+
+Alice0c:If it's got you that curious, why not just ask her directly?
+
+Yuka0b:Perhaps if the mood strikes me. Though I highly doubt she knows much of consequence.
+
+<SE=se_talk_insect02.ogg,wait=0>
+
+InsectB0a:...
+
+Wriggle3b:Mm, thank you. Good to know.
+
+Wriggle0b:There's something abuzz off in that direction!
+
+Suwako1a:Okay! Time to round everybody up and get going, then.
+
+<MAP=3,FROM=リグルの水辺,TO=迷いの竹林M38,name=Bamboo Thicket,icon=2>
+
+<BG=*bg_talk_Bamboo_Night.png,fade=0,color=1,title=*bg_Bamboo,bgm=bgm_talk_ningyo>
+
+Mima1a:I see. You've been learning quite a bit of elemental magic. And self-taught, at that...
+
+Patchouli0a:It's not a solo effort. Books are a form of dialogue, between their writers and readers.
+
+Marisa0a:Patchouli's library has an absurd amount of spellbooks.
+
+Marisa7a:And she's been more than happy to loan them out to me.
+
+Patchouli4e:If that's what you call it, when you take them without permission.
+
+Mima3c:Looks like you've been getting up to a lot while I've been gone.
+
+Mima0a:You over there. You said you're another friend of Marisa's?
+
+Nitori4b:Yeah, we've been hanging out and adventuring together for about a year now.
+
+Nitori4c:Meeting her has helped me make a lot of other friends, too.
+
+Mima0a:I see she's still as much a people person as ever.
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+Sakuya0a:Here, have a little something I put together.
+
+Mima1a:Ah, red tea? Nicely done, considering how far from civilization we are.
+
+<SE=se_talk_dish02.ogg,wait=1>
+
+Mima0d:...Not bad. It tastes of the surface. Of living free and dying free.
+
+Kurumi3b:Wow, that's a messed up way to describe a flavor!
+
+Mima3d:Yes, well, I've been out and about in the Underworld and many other places besides.
+
+Mima0a:Getting to sit myself down and enjoy something like this is a rare treat for me.
+
+Meiling0a:Figures that Marisa's teacher would be even more a wanderer than her.
+
+Sakuya0a:Yes, should we have the time, I'd love to hear more of her journeys.
+
+Marisa0d:More importantly, Lady Mima, would you like sugar or anything with your tea?
+
+Mima0c:Hm. Well, if the option's available...
+
+Marisa0a:Hey, Kurumi. You have a stash of sugar, right? Lemme borrow some.
+
+Kurumi2a:Whaaa?! But that's for my lunches!
+
+Marisa1b:Who adds extra sugar to her meals? What are you, an ant? ...C'mon, pretty please?
+
+Kurumi4c:Oh fine... Come with me, we'll go get some.
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+<single>
+
+Mima0d:...Goodness, she doesn't need to fuss over me so much.
+
+</single>
+
+Nitori4b:She's been talking you up the whole time I've known her, Mima.
+
+Nitori4c:I bet she's really just over the moon that you're here.
+
+Mima0c:She spoke that highly of me?
+
+Meiling5a:Yes, absolutely. She'd always talk about how great a magician you were.
+
+Meiling0a:You must be very happy to have such a caring pupil.
+
+Mima2b:...Well, perhaps.
+
+Patchouli0c:...?
+
+Sakuya5b:For that matter, why did you choose now of all times to turn up?
+
+Sakuya0a:Not to mention I'm curious as to why you're helping with the investigation...
+
+Mima0c:I've been on the surface lately, and something's caught my interest.
+
+Mima0a:Besides, I haven't seen Marisa in ages. It's a good opportunity for me.
+
+Koakuma5b:What's the thing you're interested in?
+
+Mima3a:The Palanquin Ship. The Buddhism-powered boat that was buried in the Underworld.
+
+Nitori2a:Huh?!
+
+Meiling6a:You know about the Palanquin Ship?!
+
+Mima1a:I'd been wanting to see it in action even back when it was buried underground.
+
+Mima0a:Not that I had any intention of meddling in the Underworld, of course.
+
+Patchouli0c:How could you know about the ship, though?
+
+Mima0d:When you travel around as much as I do, you hear about a lot of things.
+
+Mima0a:Since it's out now, I'd like to have a chat with the youkai who were on board.
+
+Nitori4a:They're all friends of ours, so I'm sure we'll run into them eventually.
+
+Sakuya0a:Allow me say once more that I'm pleased to meet you.
+
+Mima1a:Yes, likewise.
+
+Mima0b:(And as long as I'm close by, I want to get a good look...)
+
+Mima1b:(Marisa, let me see how far you've come.)
+
+<MAP=3,FROM=迷いの竹林M38,TO=迷いの竹林M38,name=Bamboo Thicket,icon=5>
+
+<BG=*bg_talk_Bamboo_Night.png,fade=1,color=1,title=*bg_Bamboo,bgm=bgm_talk_aoki>
+
+<update>
+
+Usagi0a:...and so, Tewi wants us to find her.
+
+Usagi0a:Hmm. A rabbit from the moon. I wonder what they're like...
+
+Usagi0a:How are we gonna capture her, if we don't even know what she looks like?
+
+Usagi0a:Maybe she's got a kinda moony looking face?
+
+</update>
+
+<SE=se_talk_walk.ogg,wait=1>
+
+<single>
+
+UsagiR2c:Phew, they're finally gone.
+
+UsagiR0a:I'm not so sloppy that I'd let those dumb rabbits spot me.
+
+UsagiR0a:But sheesh, now I'm a rabbit on the run...
+
+UsagiR0a:And this night isn't ending, which is... concerning...
+
+UsagiR0a:...
+
+UsagiR2a:Ugh, what a mess! All I was gonna do was take the form of an earth rabbit and get myself some food and a place to sleep.
+
+UsagiR2a:This is all because that lunar rabbit was totally unhelpful!
+
+UsagiR0a:How am I supposed to find Lady Yagokoro when I can't even catch a few Z's?
+
+UsagiR0a:...Hm?
+
+</single>
+
+<SE=se_talk_kasakasa03.ogg,wait=1>
+
+<hide=all>
+
+LilyW00a:Somebody... please...
+
+</hide>
+
+UsagiR0b:I can hear a voice... A pretty feeble sounding one.
+
+UsagiR0a:I feel bad for whoever that is, but I don't have time to―
+
+LilyW5a:Reimu... Somebody... Please help...
+
+UsagiR2b:Whoa, some weirdo's stuck in a trap.
+
+LilyW3c:Sorry if I startled you... I'm Lily White, the fairy that heralds spring.
+
+UsagiR2c:Spring? Aren't you a little out of season?
+
+LilyW0b:The night and the moon are all so unnatural, I could barely sit still.
+
+LilyW3c:So I went out to look into it, and here I am...
+
+UsagiR0a:Hrm. I've heard fairies are embodiments of nature and I guess they weren't kidding...
+
+UsagiR0a:I don't know what I can do to help, though. I have no idea about anything going on tonight.
+
+LilyW3c:...Um, so if you could open the trap that's holding my foot?
+
+UsagiR1a:Oh, yeah, sure. Just a sec.
+
+<SE=se_talk_kasakasa02.ogg,wait=1>
+
+UsagiR0d:There you go. You good now?
+
+LilyW4c:Yes, thank you so much. I feel so much better already!
+
+LilyW0a:Say, how about you tell me your name?
+
+UsagiR0b:My name? I, uh, don't have one.
+
+LilyW3b:But you saved me. I have to call you something when I thank you.
+
+UsagiR0a:(Well now I'm in a pickle. I can't risk revealing who I really am...)
+
+UsagiR0a:I'm hardly worthy of a name. You can just call me... Rabbit.
+
+LilyW4d:Well Miss Rabbit, I'm glad to meet you!
+
+UsagiR2c:...You just accepted that at face value?
+
+LilyW0a:I have friends whose names mean "Big Fairy" and "Little Devil", so why not?
+
+UsagiR2b:What weird people they must be... Wait a minute, this is no time for that!
+
+UsagiR0b:Look, I'm real busy. I've got to go.
+
+LilyW0d:Ah, wait! It seems like there's lots of traps in these parts, so―
+
+UsagiR0b:Huh? Like that thing from bef―
+
+<SE=se_talk_zuko01.ogg,wait=0>
+
+<Code=(map_shake,1,30,4)>
+
+UsagiR2c:Aieee! A hidden pitfall?!
+
+LilyW2a:Miss Rabbit?!
+
+<hide=all>
+
+Tewi0a:Looks like we've caught something.
+
+</hide>
+
+UsagiR0b:Hey, who the heck are you?!
+
+<hide=all>
+
+Tewi4a:Oh dear, and you can't guess from my voice?
+
+Tewi0a:Nobunny in the Bamboo Forest doesn't know who I am!
+
+</hide>
+
+UsagiR2c:Uh-oh, I don't like the sound of this...
+
+<hide=name>
+
+Tewi1b:I've caught a suspicious rabbit!
+
+</hide>
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP
+
+<Code=(icon_set_direction,LilyW,FD_RIGHT,0)>
+
+<hide=name>
+
+Tewi3f:This must be the rabbit they're looking for. What an easy catch!
+
+Tewi4a:But I wouldn't have had to bother at all, if Reisen had just nabbed her to start with.
+
+</hide>
+
+<nomove>
+
+<Code=(cursor_jump,464,224,1)>
+
+UsagiR2c:Why is there even a pitfall here...
+
+</nomove>
+
+LilyW1b:Miss Rabbit, are you okay?!
+
+<hide=name>
+
+Tewi0a:Oh hey. Is that Lily White I see?
+
+Tewi5a:I can't believe I spotted her in the summer. I'm one lucky rabbit!
+
+</hide>
+
+<nomove>
+
+<Code=(cursor_jump,464,224,1)>
+
+UsagiR2a:What's your problem, doing this to one of your fellow rabbits?!
+
+</nomove>
+
+<hide=name>
+
+Tewi3e:Let's not play dumb, buddy. You might be a rabbit, but you're not one of ours.
+
+</hide>
+
+<Code=(icon_set_direction,LilyW,FD_LEFT,0)>
+
+LilyW3d:A different sort of rabbit...?
+
+<nomove>
+
+<Code=(cursor_jump,464,224,1)>
+
+UsagiR0d:I-I don't know what you're talking about. I'm just―
+
+</nomove>
+
+Tewi4a:I'm Tewi Inaba, and every rabbit in this forest is my minion.
+
+Tewi0b:And I've never seen a rabbit like you before, not even once.
+
+<nomove>
+
+<Code=(cursor_jump,464,224,1)>
+
+UsagiR2c:(Uh-oh, I think she's onto me...!)
+
+UsagiR2a:No, wait! There's a very good reason for all of this...
+
+</nomove>
+
+Tewi3d:Yup, don't care. All I have to do is take you to the master.
+
+Tewi0a:Once you've been disposed of, we should be safe for a while longer.
+
+LilyW1b:Disposed of?! That's too harsh!
+
+Tewi1a:Don't go butting into other people's business, missy!
+
+<pause>
+
+LilyW2a:...!
+
+<nomove>
+
+<Code=(cursor_jump,464,224,1)>
+
+UsagiR0b:Hey, Miss Fairy, cut that out! This isn't a good situation to get involved in!
+
+</nomove>
+
+LilyW2a:But... you saved me before, Miss Rabbit...
+
+<nomove>
+
+<Code=(cursor_jump,464,224,1)>
+
+UsagiR2a:Miss Fairy!
+
+<hide=all>
+
+<Code=(cursor_jump,592,288,1)>
+
+Merlin3d:The sound of your heart has reached my ears!
+
+<pause>
+
+<Code=(icon_set_direction,LilyW,FD_RIGHT,0)>
+
+<nomove>
+
+<hide=all>
+
+<Code=(cursor_jump,592,288,0)>
+
+Merlin1a:When eeeevil laughter echoes in the shadows cast by the moon in the sky...
+
+<Code=(cursor_jump,592,320,0)>
+
+Lyrica1a:A concert is underway, to wipe away the tears of the people who got tragically pranked!
+
+<Code=(cursor_jump,576,304,0)>
+
+Lunasa1a:The Prismriver Phantom Ensemble...
+
+</hide>
+
+<pause>
+
+Lunasa0b:Will be there, whether you call for us or not!
+
+<Code=(icon_set_direction,LilyW,FD_RIGHT,0)>
+
+<nomove>
+
+<Code=(cursor_jump,464,224,1)>
+
+UsagiR2c:Whoa, what the heck is this now...
+
+</nomove>
+
+LilyW0a:Oh, hey, I know them, we've met before!
+
+Lyrica3c:Heya, spring fairy! It's been months, huh?
+
+Merlin3d:Looks like our lucky color of the day is white!
+
+Tewi2b:Wh-Whaaat? They came out of nowhere and started a CONCERT?
+
+Tewi0b:Hold it right there! You can come to people's rescue all you want, but no unauthorized concerts here!
+
+Tewi3e:This is my turf. If you wanna play, you gotta pay!
+
+Lyrica1c:Ack, what do we do, sis?! Nothing ruins a street concert faster than lacking a permit!
+
+Lunasa0b:Don't worry. We can stick the rabbit over there with the location fee.
+
+<nomove>
+
+<Code=(cursor_jump,464,224,1)>
+
+UsagiR2b:What?! I don't have any local currency!
+
+</nomove>
+
+LilyW5b:And all I have to give is an overabundance of spring...
+
+Tewi4a:And here I thought this was as good as done...
+
+Tewi1b:Fine. The Bamboo Forest of the Lost is filled with my traps. If you think you can make it out free, you've got another thing coming!
+
+Lyrica1c:Don't underestimate our concerts, or you're in for some hurt!
+
+Merlin1b:Lunasa, let's lift our ban on solo acts for this!
+
+Lunasa1a:It's time for a nighttime rescue show, starring the Prismriver Phantom Ensemble!
+
+<Code=(icon_set_direction,LilyW,FD_LEFT,0)>
+
+<end>
+
+<ChatID:2>----------------------------------------
+//3PP-1（味方増援）
+
+Lyrica0b:Hmm, there's something missing when it's just us.
+
+Merlin2a:Yeah. Our only audience is spoiling for a fight!
+
+Tewi0a:Heh, that's what you get for picking a fight on my turf.
+
+Tewi1a:I'll sic these girls on you too, just to be on the safe side!
+
+<pause>
+
+Merlin3b:Wow, now THERE'S an audience with no appreciation for music whatsoever!
+
+Lyrica0b:This is getting kinda out of hand...
+
+<nomove>
+
+<Code=(cursor_jump,464,224,1)>
+
+UsagiR0b:Come on! You're here to save me, aren't you? You can do better than that!
+
+</nomove>
+
+Lunasa0b:That sounds pretty silly coming from somebody stuck in a hole.
+
+Lyrica0a:Lily, don't you have anyone with you?
+
+LilyW0d:No, I had just started looking for Reimu's group.
+
+LilyW3c:But I got caught in birdlime before I could find them.
+
+Lyrica4a:Too bad, we could've used the back―
+
+Lyrica0a:...Hm?
+
+Merlin3d:There's something real noisy coming closer!
+
+<end>
+
+<ChatID:3>----------------------------------------
+//3PP-2味方増援後
+
+<Code=(icon_set_direction,Lunasa,Marisa,0)>
+
+<Code=(icon_set_direction,Merlin,Marisa,0)>
+
+<Code=(icon_set_direction,Lyrica,Marisa,0)>
+
+<Code=(icon_set_direction,LilyW,Marisa,0)>
+
+Meiling5a:I knew I recognized this music! It's the Prismriver Ensemble!
+
+Elliy3b:It would never escape the ears of die-hard fans like us!
+
+Lunasa1b:Hey, it's those humans again. And Miss Yasaka and Miss Moriya...
+
+LilyW0a:And Sunny, and some bug I don't know!
+
+Nitori2a:Hey, is that Lily?! I thought you only showed up for spring!
+
+LilyW0c:The night and the moon are acting all funny, so I went out to look into it.
+
+Patchouli3a:That makes sense. Fairies would be sensitive to irregularities in nature.
+
+Hina0a:It's good to see you're not out of sorts like last time.
+
+<nomove>
+
+<Code=(cursor_jump,464,224,1)>
+
+UsagiR2a:Are you friends of the fairy? If you are, then save me!
+
+</nomove>
+
+Marisa0d:What's with that pit? There's a rabbit making a fuss down there.
+
+Kanako0a:Prismriver sisters, would you kindly explain the situation?
+
+Lyrica0a:I mean, sure, but we don't know much. We're just playing some music over here.
+
+Lunasa1b:What we do know is that the rabbit over there is targeting this rabbit over here.
+
+Luna1c:Maybe this is connected to the incident, somehow?
+
+Tewi4a:(Ugh. This is turning into a real headache.)
+
+Tewi3f:(I'll have to take them for a ride...)
+
+Tewi0a:Hey, if you're looking into the night thing, I've got a tip for you.
+
+Sunny0d:The "night thing"? Who are you, anyway?
+
+Tewi3c:I'm THE senior youkai rabbit. I know more about this area than anybunny.
+
+Alice0d:I see. In that case, by all means let's ask you.
+
+Alice2b:Is there anything you know about this incident?
+
+Tewi0b:Oh yeah, tons. According to information my rabbit minions gathered...
+
+Tewi2b:The real culprit making the night last so long is in that devil's mansion way off thataway!
+
+Kurumi1c:Wait, a devil's mansion...?!
+
+Tewi3c:Yeah, this vampire lives there, and she's stretching out the night to try and conquer Gensokyo.
+
+Tewi1a:And I hear that whole brouhaha last summer was totally her fault, too. You'd better go exterminate her!
+
+Patchouli4b:...A clever lie for someone so harebrained.
+
+Sakuya5c:It might have even worked, if we weren't here.
+
+Tewi3c:Whoa, what now?
+
+Marisa1a:Nice try. That vampire's staff is right here with us!
+
+Kanako1c:Surely you don't believe you could fool us at this stage.
+
+Tewi4a:Hoo boy, I wasn't expecting you girls to be like, friends and stuff...
+
+Yuka0d:Granted, I wouldn't have been that surprised if it HAD been Remilia.
+
+Mima1b:Anyway, we at least we know this rabbit's up to no good now.
+
+Tewi4b:(Humans and fairies are one thing, but they've got some heavyweight youkai there.)
+
+Tewi0a:(Guess I'll have to give up on that weird rabbit for now and give 'em a bit of a bamboozling.)
+
+<end>
+
+<ChatID:4>----------------------------------------
+//4PP
+
+Star0a:I meant to ask you earlier. What's the Prismriver Ensemble doing here?
+
+LilyW0d:Oh yeah, I never asked that, either.
+
+Lyrica1a:Well, we're in the middle of a gig.
+
+Lunasa0b:The night was lasting a while, so we came up with a surprise concert plan.
+
+Merlin1c:We're going to have a rock music countdown festival that lasts until the sun comes up. We call it "Rising Sun"!
+
+Elliy3b:Yeah! That's the kind of spur-of-the-moment excitement you girls are known for!
+
+Nitori1d:Can you really keep it up, though? You might never get to stop playing.
+
+Lyrica1c:Wait, never?
+
+Suwako4b:There's an incident going on that's keeping the night from ending.
+
+Suwako0d:It even got Kanako out of the house for once!
+
+Kanako3c:...Quite an unnecessary side note.
+
+Lyrica0b:Uh-oh. If we keep rocking out nonstop and dawn never comes...
+
+Lunasa0b:Then we might completely wear out our audience. That could be a real drag on our careers...
+
+Sunny5a:Then how about you come help us?
+
+Merlin1a:Sure, why not? Sis, we could do the thing!
+
+Lyrica0c:Yeah, our super specialty!
+
+Lunasa1a:Okay, fine. We've worked up enough excitement for it.
+
+Lunasa0b:Merlin, Lyrica, get close. It's ensemble time.
+
+<Code=(icon_set_direction,Lunasa,FD_LEFT,0)>
+
+<Code=(icon_set_direction,Merlin,FD_LEFT,0)>
+
+<Code=(icon_set_direction,Lyrica,FD_LEFT,0)>
+
+<pause>
+
+Tewi0b:What's going on? Are you gonna make a poltergeist pyramid or something?
+
+Merlin2b:Bzzt. You're warm, but not even close!
+
+Lyrica1c:Fairy trio, watch and learn!
+
+Sunny1a:Oh man, I could never forget this!
+
+Lunasa1b:It's time for our ensemble performance!
+
+<pause>
+
+Elliy1a:Oh my gosh! This is the Prisms at their best!
+
+Elliy1a:With their three hearts beating as one, their sound and appeal are over three times as great!
+
+Alice3b:I wonder what's got Elly so over the moon?
+
+Nitori3e:Ah, I guess only we went to that...
+
+Nitori4b:Ever since she went to a recent show of theirs, she's been a huge fan.
+
+Meiling5a:We're concert buddies too.
+
+Alice0d:It's nice enough music, I suppose...
+
+Kurumi4a:She won't stop raving about them to me and Yuuka. It's gotten kind of annoying, actually.
+
+Yuka4a:She keeps giving us band merchandise...
+
+<Cond=(FIND_UNIT,Sunny,player,!=,-1) && (FIND_UNIT,Luna,player,!=,-1) && (FIND_UNIT,Star,player,!=,-1)>
+
+Star3b:Sunny, we can't let them outshine us!
+
+Sunny1a:Abso-of course-ly we can! Put some spirit into this! We can take 'em on anytime!
+
+Luna1a:Okay, then. Spirit, spirit, spirit!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Faries,player,!=,-1)>
+
+Star3b:Sunny, we can't let them outshine us!
+
+Sunny1a:Abso-of course-ly we can! Put some spirit into this! We can take 'em on anytime!
+
+Luna1a:Okay, then. Spirit, spirit, spirit!
+
+</Cond>
+
+<end>
+
+<ChatID:5>----------------------------------------
+//ver.2.8.0で没
+
+<end>
+
+<ChatID:6>----------------------------------------
+//てゐ通常撃破
+
+Tewi4a:Grr, these are some pretty tough humans.
+
+<nomove>
+
+<Code=(cursor_jump,464,224,1)>
+
+UsagiR1a:Wow, nice! Go humans! You can do it!
+
+</nomove>
+
+Wriggle5b:I don't know how I feel about our group getting cheered on by a complete stranger...
+
+Tewi2b:Yeah, exactly, this rabbit is nobody to you girls. Just leave things be.
+
+Tewi3c:If I can nab her, then I've got all I want outta this.
+
+Lunasa0a:I'm pretty sure you tried to pull a fast one on us just a moment ago.
+
+Tewi3d:That was just an unfortunate misunderstanding. How about I offer you a bargain, then?
+
+Tewi0a:Hand over the rabbit, and I'll tell you the truth about this incident.
+
+Tewi3f:That's a win-win. Both of us come out of this happy, right?
+
+<nomove>
+
+<Code=(cursor_jump,464,224,1)>
+
+UsagiR2c:Wait, you guys are going to bargain over me?!
+
+</nomove>
+
+Mima1a:...It's a fair point. I have no interest in the fate of the rabbit.
+
+<nomove>
+
+<Code=(cursor_jump,464,224,1)>
+
+UsagiR2a:S-Surely you wouldn't be so heartless!
+
+</nomove>
+
+LilyW1b:Yeah! Don't be mean to the poor rabbit.
+
+Marisa6a:Lady Mima, at a time like this you need to go big or go home.
+
+Marisa1a:How about we beat you up instead? Then we get both the rabbit AND the info. Now that's a real win-win!
+
+Tewi2a:That's both wins on only one side!
+
+Mima1b:Good thinking, Marisa.
+
+Marisa7a:Yep, that's just how I roll.
+
+Marisa0a:Keep your eyes on me, Lady Mima. I'll show you me at my very best!
+
+Mima2a:Your best, hmm...
+
+Mima0a:Very well. Show me.
+
+Tewi4a:Man, kids these days don't know how to listen to their elders.
+
+Tewi2c:Fine, then I'll dupe you with both truth and lies!
+
+<end>
+
+<ChatID:7>----------------------------------------
+//ステージクリア
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Tewi4b:Guess you can't fool all the people all the time...
+
+Suwako0a:You've got enough pluck for it. You just need to avoid getting tunnel vision.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Tewi4a:They got away? Gah, I'm exhausted now too...
+
+Lyrica1a:Piece of cake! You should learn to take it easy during a battle more!
+
+</Cond>
+
+Sakuya5b:Let's capture her now, while we can.
+
+Marisa1a:On it! I've got this!
+
+Tewi4b:Guess I'll have to use the only thing left up my sleeve.
+
+Tewi1b:Acute Lachrymal Potion, courtesy of the master!
+
+<pause>
+
+Marisa1d:What the―?!
+
+Suwako2a:Tear gas! Fall back, everybody!
+
+Tewi3e:Heh heh heh. That's what you get for assuming you've won.
+
+Tewi1b:I'll accept my loss gracefully for now, but I'm coming to get that rabbit one way or another!
+
+Meiling2a:Argh, I can't believe she had a drug that even works on youkai...!
+
+<pause>
+
+Lyrica0b:The smoke's clearing...
+
+Merlin2a:But she made a clean getaway.
+
+Patchouli4a:...Careless, on my part. I hadn't expected her to be carrying an item like that.
+
+Star4a:I guess this time the opponent was ready for us, in her own way.
+
+Marisa2c:You gotta be kidding! I was this close to capturing her!
+
+Marisa4b:Now I've made a fool out of myself in front of Lady Mima.
+
+Mima0b:...
+
+Suwako0d:They way she was acting, she has to be somehow involved in this incident.
+
+Suwako0b:And so must that rabbit she was hung up over...
+
+<nomove>
+
+<Code=(cursor_jump,464,224,1)>
+
+UsagiR2a:*cough* *cough* Hey, uh, the gas is still down in here...
+
+UsagiR0a:...Hm?
+
+</nomove>
+
+Wriggle3d:I'm gonna take a wild guess and say they're gonna bring you along for the ride.
+
+LilyW3a:Um, please don't be too rough...
+
+Nitori4b:We know. C'mon, Prismrivers, you can join us too!
+
+<end>
+
+<ChatID:8>----------------------------------------
+//ADVB
+
+<MAP=3,FROM=迷いの竹林M38,TO=迷いの竹林M38,name=Bamboo Thicket,icon=2>
+
+<BG=*bg_talk_Bamboo_Night.png,fade=0,color=1,title=*bg_Bamboo,bgm=bgm_talk_aoki>
+
+Merlin1a:Ahh, that was great! So much excitement to go around!
+
+Elliy3b:Nothing could be better for me than getting to spend time with the Prisms!
+
+Lunasa3c:We're glad you enjoyed tonight's show.
+
+Lunasa3b:We hope you'll help yourselves to these posters for our next show, and these fanclub pamphlets.
+
+Suwako3b:Ohh, thanks. Sanae loves this kinda stuff.
+
+Kanako0a:Having you along should bring some spirit to this investigation.
+
+Lyrica0c:Sure, I don't mind. But man, you've got those stupid fairies with you, as usual...
+
+Lyrica3c:Well I guess they're okay, if you just need someone to raise a racket.
+
+Sunny3b:Hey, our power is nothing to sniff at!
+
+Star3d:Looks like we'll be fellow combiner groups together.
+
+Lyrica1a:Yep, guess so. We did it first so it's our move, but we'll let you do it too. Maybe we can even give you some tips sometime!
+
+Lunasa3c:Lyrica seems to be getting into this.
+
+Merlin3c:Well, can you blame her for wanting to enjoy being the big sister for once?
+
+Sakuya5b:So, you're the rabbit that was in the pit?
+
+UsagiR2c:Er, yes, ma'am. It was awful.
+
+LilyW4d:I'll introduce you to everyone, Miss Rabbit.
+
+UsagiR2b:What?! Oh, you don't need to do that...
+
+LilyW0c:But you saved me from that trap...
+
+Meiling5a:Wow, could've fooled me. She doesn't look very reliable at all, but I guess you can't judge a book by its cover.
+
+Komachi0a:So, we've got a few things we'd like to ask you about.
+
+UsagiR2b:Uh, well, whatever could that be?!
+
+UsagiR2c:(This is bad, I wanted to just leave and start searching for Lady Yagokoro...)
+
+UsagiR2a:(But now the earth rabbits know who I am. I can't just wander around carelessly anymore...)
+
+Sakuya5b:You look a bit unhappy with the situation right now.
+
+UsagiR2c:N-Not at all, just the opposite! I'm grateful to you for saving me.
+
+Hina0c:So, what was that fight all about?
+
+Hina0b:It didn't look like a quarrel between friends.
+
+UsagiR0d:Oh, um, rabbit society is, like, super complicated.
+
+UsagiR0a:I have no clue who that rabbit was or where she's from.
+
+Komachi4b:Then I guess you wouldn't know where their hideout is, either.
+
+UsagiR0b:Their what...?
+
+UsagiR0a:Are you trying to defeat those rabbits?
+
+Kanako1b:I had intended to do as much. Do you mean to obstruct us?
+
+UsagiR2c:No, no, not in the least! They were giving me a hard time, too!
+
+UsagiR0d:Good luck, everybody! I'll be rooting for you!
+
+Meiling3d:You will?
+
+UsagiR0a:(I've got a good plan now. These people seem to be enemies with those other rabbits.)
+
+UsagiR1a:(If I can get them to pick a fight with those rabbits, then that works out perfectly!)
+
+Kanako1b:You seem fishy. Why don't we start with you explaining what you really―
+
+Suwako3b:Nah, forget about it. Let's take her in and keep her safe.
+
+Kanako2a:Suwako, what are you talking about?!
+
+Suwako4a:Who cares how she ended up here? The poor thing must've been all helpless out here by herself.
+
+Suwako5a:Don't you worry. Froggy'll take good care of you.
+
+UsagiR0c:R-Really?! I couldn't possibly ask you to go to such trouble...
+
+LilyW4d:Miss Rabbit, I'm so glad you're okay!
+
+UsagiR0d:Yes, it's all thanks to you, Miss Fairy.
+
+LilyW0a:Please, come with me, I'll introduce you to everyone!
+
+<SE=se_talk_walk.ogg,wait=1>
+
+<single>
+
+Hina0c:Miss Moriya, are you sure about this? We have no idea who that rabbit is.
+
+</single>
+
+Suwako1a:Oh, yeah, she's totally hiding something. Plain as day.
+
+Suwako0a:But since she doesn't seem like she wants to interfere with our investigation...
+
+Hina0c:You have some kind of plan for her?
+
+Sakuya5b:If we keep her close by, we can draw out information from her.
+
+Sakuya0a:And even if we can't learn anything useful, those other rabbits will be back for more. We can use a bunny in hand to catch two in the bush.
+
+Kanako3b:I thought I recognized that glint in your eye. This is just the sort of cunning plan I'd expect from you, Suwako.
+
+Komachi3c:Hiding things can go both ways.
+
+Komachi0a:And she'll feel indebted to us since we're going to stick to our word and keep her safe.
+
+Suwako3b:Yup. Remember kids, lying is bad.
+
+<BG=bg_talk_Bamboo_Night.png,fade=1,color=1,title=*bg_Bamboo,bgm=bgm_talk_ningyo>
+
+Kurumi2a:Waah, my eyes are still all teary!
+
+Alice0d:Stay still, Kurumi. I'll give you some medicine.
+
+Koakuma5b:Are you alright, Lady Patchouli? Did the tear gas make it hard to breathe?
+
+Patchouli4d:...The next time I see that rabbit, I will end her.
+
+Marisa2d:Argh, I was so close, and she slipped right through my fingers!
+
+Nitori3e:There was no way you could've know she'd bust out a chemical weapon.
+
+Koakuma4b:It's a little concerning, though.
+
+Koakuma4a:They have potions that even work on youkai.
+
+Patchouli0c:She'll probably be back in full force. It's a pity we couldn't capture her back there.
+
+Marisa1c:C'mon, I'll definitely get her next time...
+
+Mima0c:Already doing a post-mortem? I admire your commitment to self-improvement.
+
+Yuka0c:Thanks for looking after Kurumi, I know she can be a handful.
+
+Marisa0d:Lady Mima and Yuuka?
+
+Alice0d:You two seem awfully lively.
+
+Mima0d:Why wouldn't we be? It was hardly a fight.
+
+Mima0c:That weak of a youkai must be working for someone bigger.
+
+Nitori0b:Oh yeah, she said something about a master, right?
+
+Patchouli0a:That might be the one pulling the strings here.
+
+Alice2c:What do you think of our current opponents, Mima?
+
+Mima0c:My honest opinion... is that I don't know.
+
+Mima1b:They're meddling with the moon, and even the night. And they seem to be carrying out this plan in an organized fashion.
+
+Marisa0c:We've fought our fair share of powerful figures in past incidents.
+
+Marisa7c:And we won't let this one break our streak. Lady Mima, you just sit back and―
+
+Mima1b:Should I find that convincing, coming as it is from someone who let a minion-level youkai slip right through her fingers?
+
+Marisa0e:Uh... well...
+
+Yuka1a:Oh, yes. Weren't you boasting about how you've "totally got this"?
+
+Yuka0b:Looks like you were all bark and no bite.
+
+Marisa3d:Ugh, here comes Yuuka kicking me when I'm down.
+
+Nitori3e:Yeah, nobody was expecting that stunt she pulled.
+
+Marisa1d:That's right! We had her on the ropes up till the very last minute!
+
+Marisa6b:Right, Lady Mima?
+
+Mima2a:...
+
+Marisa4a:Lady Mima?
+
+Mima2b:Sorry. As much as I'd love to stand up for you...
+
+Mima0c:Yuuka is right.
+
+Marisa3b:What?!
+
+Mima0c:Marisa, you said you'd do something, and then you failed.
+
+Mima0a:That's the truth. You should try to learn from your failure.
+
+Marisa1a:I-If that's all then please don't worry. You haven't begun to see the power I've achieved!
+
+Marisa2d:I'll show you my best next time. Just watch!
+
+Mima2b:...
+
+Mima1b:No. The way you're acting, I can see that you won't understand unless I spell it out clearly.
+
+Alice1c:Mima?
+
+Mima1b:Marisa, I've been watching you with high hopes...
+
+Mima1c:But your magic is completely and utterly worthless.
+
+Marisa1d:What...?!
+
+<Code=(sound_fadeout,BGM,30,0)>
+
+<BGM=bgm_talk_inishie,0>
+
+Marisa1a:Hey, wait a minute! What did you just...?!
+
+Mima2a:Don't make me repeat myself. Your magic is unacceptably poor.
+
+Mima1b:The way you're going, you'll never get anywhere in life.
+
+Mima2b:It really makes me wonder why you even bothered to keep practicing magic in my absence.
+
+Marisa2c:But... I've been...
+
+Alice1b:Mima, there's no need to be so harsh!
+
+Nitori2a:Yeah! Marisa's been leading us all this time!
+
+Mima0d:Your skill HAS improved. I'll grant you that.
+
+Mima0c:But what I'm speaking of is your entire attitude toward magic.
+
+Marisa1d:My attitude?
+
+Mima0a:After so much time apart, I was eager to see what kind of magician you'd become.
+
+Mima2b:But all I've seen so far is someone who is insecure about what other people think of her. Someone who pries defeat from the jaws of victory.
+
+Mima1b:Yet here you sit, completely unbothered. And you'd call your magic acceptable?
+
+Marisa3b:Hey, what's that supposed to mean?! I haven't seen you in ages, why shouldn't I want to show you my best?
+
+Marisa2b:Besides, losses happen in battle. I can't get worked up over every little thing.
+
+Mima1c:That mindset is completely unacceptable.
+
+Mima2b:Nothing is more pathetic than magic with no vision of where it's going.
+
+Marisa2d:Well what am I supposed to―
+
+Patchouli4e:I hate to intrude, but may I ask what you're getting at?
+
+Patchouli0c:I would appreciate it if you could stop being negative and offer some constructive criticism.
+
+Mima0d:Yes, of course. I'm not trying to verbally abuse my pupil here.
+
+Mima1b:What I've been saying is that I know better than anyone how talented you are and how hard you've worked.
+
+Mima0a:I don't want you to let it all go to waste with this insipid way of life.
+
+Alice2c:Mima, that's...
+
+Marisa2c:I don't get why this is happening. You up and vanished on me without a word, Lady Mima!
+
+Marisa2a:That's why I swore by my hakkero that I would shine in my own way!
+
+Mima2a:...
+
+Mima2b:Yes, you're right. That hakkero is the perfect symbol of the way you do things.
+
+Mima1b:If you want to make anything more of yourself, you have a choice to make.
+
+Marisa1b:What choice?
+
+Mima1c:Marisa, cast aside your hakkero.
+
+Mima0c:And then come back to me.
+
+<Code=(transition_out,c_black,75,1)>
+
+<end>
+
+<ChatID:9>----------------------------------------
+//てゐvs.魔理沙
+
+Marisa0a:A fight among rabbits? There's gotta be more to this than meets the eye.
+
+Tewi0a:There's nothing to it at all. It's got nothing to do with any incidents.
+
+Marisa7a:Oh, come on. Even I'm not that stupid. That's an obvious lie.
+
+Marisa1a:I can tell, cause you scratch your nose when you lie.
+
+Tewi2b:I do?!
+
+Marisa1a:Hah, that was also a lie! You fell for it!
+
+<end>
+
+<ChatID:10>----------------------------------------
+//てゐvs.アリス
+
+Alice0c:If you're going to try and fool people, you'll need to be more clever than that.
+
+Tewi4b:Tch. Fine, I screwed up.
+
+Tewi1b:You saying that you'd have done any better? Since you're oh-so-clever?
+
+Alice1b:It simply wouldn't have been my choice of plan in the first place. I'm not good at lying.
+
+<end>
+
+<ChatID:11>----------------------------------------
+//てゐvs.にとり
+
+Nitori1b:It's not right to mix fact and fiction!
+
+Tewi0a:Like I'm gonna sit here listening to a lecture from some kappa who basically hatched yesterday.
+
+Tewi3e:Don't you ever cover things up when it's more convenient that way?
+
+Nitori2a:Well, I can't say I haven't... There was this one time I messed with an experimental gadget of Marisa's, and I may have, uh, blown it up a little...
+
+<end>
+
+<ChatID:12>----------------------------------------
+//てゐvs.咲夜さん
+
+Sakuya0a:How dare you try to tell such a bald-faced lie.
+
+Sakuya0a:I will literally tear out that lying tongue of yours.
+
+Tewi3d:Ha ha, very funny, lady. You're good with the deadpan jokes!
+
+Sakuya0a:Oh, but I haven't made one yet.
+
+<end>
+
+<ChatID:13>----------------------------------------
+//てゐvs.美鈴
+
+Meiling1a:Too bad for you, Rabbit! Your scheme to frame our mistress failed!
+
+Tewi0a:Lemme guess, you must be a youkai from the devil mansion.
+
+Tewi0a:I can't believe that place even has a youkai from the continent. What a mishmash.
+
+<end>
+
+<ChatID:14>----------------------------------------
+//てゐvs.パチュリー
+
+Patchouli0b:...You mentioned the scarlet devil's mansion. What else do you know about it?
+
+Tewi0b:Hmm, pretty much just what the rumors say.
+
+Tewi1d:Let's see, uh... There's this human she keeps as a pet, a shut-in witch who's never touched grass...
+
+Patchouli6d:...You might have had better success had you tried provoking us rather than lying.
+
+<end>
+
+<ChatID:15>----------------------------------------
+//てゐvs.小悪魔
+
+Tewi0a:You look like the serious type. I think I could get a lot of use out of you.
+
+Tewi0a:So how about it? Wanna try working in the bamboo thicket?
+
+Koakuma5b:What? Are you scouting me?!
+
+Tewi4a:Well, yeah. The other rabbits do listen to me, but they're a fickle bunch.
+
+Tewi3d:Anyway, c'mon, the pay's great, and the benefits are nothing to sneeze at either.
+
+Koakuma1a:I-I won't fall to temptation!
+
+<end>
+
+<ChatID:16>----------------------------------------
+//てゐvs.エリー
+
+Elliy0a:There is one thing I have to thank you for.
+
+Elliy3b:Thanks to you I got to see the Prisms in action!
+
+Tewi3c:Please, you're making me blush. I just did what I could, is all.
+
+Tewi3e:If you really wanna show your gratitude, you can pay this bill.
+
+Elliy1a:Event-hosting fees?! Yikes, it's a rough world in rabbit land!
+
+<end>
+
+<ChatID:17>----------------------------------------
+//てゐvs.くるみ
+
+Kurumi6a:Are all the rabbits around here your minions? Being the boss must be so nice...
+
+Tewi1d:You know it. It's the fruit of who knows how many years of labor.
+
+Tewi1d:You don't get to the top overnight, you know.
+
+Kurumi1a:Yep, yep! The path to becoming top devil is a real long one...
+
+<end>
+
+<ChatID:18>----------------------------------------
+//てゐvs.小町
+
+Komachi0a:The name's Komachi Onozuka. I'm a ferryman for the Sanzu river, the river of the dead.
+
+Komachi3a:And I can tell you one thing for sure―you're never gonna make it across that river.
+
+Tewi1c:Huh?! Where's this coming from?
+
+Komachi3b:The width of the Sanzu river depends upon your deeds during life.
+
+Komachi3c:A liar like you's gonna get thrown overboard before you reach the other side.
+
+Tewi2c:Oh, it was a threat? Yeah, well then I'll just need to live even longer then, won't I!
+
+<end>
+
+<ChatID:19>----------------------------------------
+//てゐvs.雛
+
+Hina1a:It's hardly admirable to tell lies to people.
+
+Tewi4b:Whoa, my luck is sinking like a rock. So you're one of those misfortune gods?
+
+Hina1b:You leave stagnation in the hearts of those you deceive.
+
+Hina1c:That will become misfortune, which will surely find its way back to you.
+
+Tewi2a:H-Hey! Stay away from me! I'm the white rabbit of good fortune, you and I don't gel!
+
+<end>
+
+<ChatID:20>----------------------------------------
+//てゐvs.サニー
+
+Tewi3f:I know you girls. You're those fairies who come to play in the bamboo thicket sometimes.
+
+Sunny5a:Whoa, are we famous?!
+
+Tewi0a:Ahh, I bet it's cause you can't find anywhere more interesting to play than there, right?
+
+Tewi3e:(Come on, take the bait and leave my turf...)
+
+<end>
+
+<ChatID:21>----------------------------------------
+//てゐvs.ルナ
+
+Luna4a:I don't have too many fond memories of rabbits.
+
+Tewi0b:And you're telling me this... why?
+
+Luna0a:You know how people compete at rabbit-catching in the bamboo forest?
+
+Luna4a:Well, my power on its own just isn't very helpful there...
+
+Tewi5a:No, I seriously don't care.
+
+<end>
+
+<ChatID:22>----------------------------------------
+//てゐvs.スター
+
+Star0a:Is it true all the rabbits around here are your minions?
+
+Tewi1a:Yep. Just look, not a single one would ever disobey me.
+
+Star0c:I've always thought you could tell how awesome a youkai is at first glance... But I guess appearances can be deceiving.
+
+<end>
+
+<ChatID:23>----------------------------------------
+//てゐvs.リリー
+
+LilyW0a:Please let Miss Rabbit out of that pitfall trap!
+
+Tewi0a:Look, like I've been tryin' to tell you, keep your nose out of this and I'll let you go.
+
+Tewi0a:Why were you even here in the first place?
+
+Tewi0a:Don't tell me you got caught in one of our bug traps?
+
+LilyW0a:That was just becuase I spaced out a little!
+
+Tewi0a:Right on the money, huh.
+
+<end>
+
+<ChatID:24>----------------------------------------
+//てゐvs.ルナサ
+
+Tewi0a:You've got some talent with that music of yours.
+
+Tewi3c:Sign me on as your manager, and I'm sure we'll make it to the big leagues.
+
+Lunasa0b:I could never trust a deceitful youkai like you.
+
+Tewi3d:Now now, it's not like I can't see where you're coming from. The duty of a leader and all that jazz.
+
+Tewi3f:But I bet that attitude of yours is a real pain for your sisters, yeah?
+
+Lunasa2a:There's no way it would―Wait... Does it?
+
+Merlin0a:Come on, sis, you know not to listen to someone like her!
+
+Lyrica0a:THIS is definitely the time where you need to stop taking everything so seriously.
+
+Lunasa2a:Sorry.
+
+<end>
+
+<ChatID:25>----------------------------------------
+//てゐvs.メルラン
+
+Tewi3c:Wow, miss, you could be a model.
+
+Merlin1a:You think? I knew it!
+
+Tewi0a:We'll start with a photoshoot, and then work on putting you on the stage.
+
+Tewi0a:Just sign right here and I'll handle everything for you right up to your debut.
+
+Merlin1a:I'm there! Let me just get my pen―
+
+Merlin0a:Like I'd fall for that!
+
+<end>
+
+<ChatID:26>----------------------------------------
+//てゐvs.リリカ
+
+Lyrica0a:I may be the youngest, but I'm actually the brains of the group!
+
+Lyrica1a:So the plan is: go get her, sisters!
+
+Tewi3f:Psh, what an amateur, thinking you're gonna get to lay back and take it easy once you push the work on someone else.
+
+Lyrica1b:Who, me?
+
+Tewi0b:Listen, kid, you've gotta make sure they never even get a chance to notice they're being manipulated.
+
+Tewi1a:If you can't manage at least that, you'll never be a match for me.
+
+Lyrica1b:But your big lie just got revealed in, like, two seconds!
+
+Tewi1c:Hey, no talking back!
+
+<end>
+
+<ChatID:27>----------------------------------------
+//てゐvs.神奈子
+
+Kanako1a:You seem to have quite a way with words for a youkai, rabbit.
+
+Tewi1d:Well, when you've been around the block for a while you pick a few things up.
+
+Kanako0c:But should you speak only in empty words and flattery, someday you will pay the price.
+
+Kanako0c:Far better would it be for you to follow a steadfast way, one which brooks no doubt.
+
+Tewi1c:A story nobody has any doubts about? Is that sort of thing even possible?
+
+Kanako0a:Would you like to know more? I speak to you of faith.
+
+<end>
+
+<ChatID:28>----------------------------------------
+//てゐvs.諏訪子
+
+Tewi0a:The god of Suwa, huh? That sure takes me back. So you ended up coming to Gensokyo too then.
+
+Suwako0d:You know something about us?
+
+Tewi0b:Yeah, there's this central god who fled to Suwa after losing to Takemikazuchi.
+
+Tewi1d:And the native god who lost to her and now lives under her thumb.
+
+Suwako3b:Haha, you're certainly a funny one. Betcha never been to Lake Suwa, eh?
+
+Suwako1a:Hey, howsabout we hang out some more? I'd love to chat about old times!
+
+<end>
+
+<ChatID:29>----------------------------------------
+//てゐvs.幽香
+
+Tewi2c:Gah, what's somebody like YOU doing with humans?!
+
+Yuka0a:What a horrid thing to say to someone you've just met.
+
+Yuka0b:And now what? Are you going to try another one of those adorable little lies on me?
+
+Tewi4b:Oh, not in the least! The less I have to do with you, the better.
+
+Yuka1a:What a good little liar you are. Alright, I'll play with you.
+
+Tewi2a:Ack, you're just the kind of headache I knew you'd be!
+
+<end>
+
+<ChatID:30>----------------------------------------
+//てゐvs.魅魔
+
+Mima0a:Maybe it's because I only just got back to Gensokyo...
+
+Mima0a:But even little youkai like you seem to pique my interest more than usual.
+
+Tewi0a:As I should! I'm pretty interesting, I'll have you know.
+
+Tewi3f:And if you wanna see something even more interesting, check out that forest over there.
+
+Mima1a:Sorry, but you've already shown your true colors.
+
+<end>
+
+<ChatID:31>----------------------------------------
+//てゐvs.リグル
+
+Tewi0a:Back in the day, bug youkai used to have more gravitas, more dignity, you know?
+
+Wriggle0a:We had dignity? That doesn't sound truthy to me.
+
+Tewi0a:Of course kids like you wouldn't remember, at your age.
+
+Tewi3d:And well, nowadays people are pretty blasé about youkai, but you can stand proud knowing it wasn't always like that.
+
+<end>
+
+<ChatID:32>----------------------------------------
+//全滅時（増援前）
+
+LilyW0b:Aaah, we lost...
+
+Lyrica2a:Will our new show be cancelled already?!
+
+Lunasa2a:We are popular with the female demographic, but..
+
+Lunasa0b:If this is the end, there's only one thing left to say...
+
+Merlin0a:SEE YOU, SPACE COWBOY
+
+<end>
+
+<ChatID:33>----------------------------------------
+//全滅時（増援後）
+
+Marisa2a:Gah! How could we lose so easily?! I'm speechless!
+
+Tewi3d:It's because you didn't make good use of your forces.
+
+Tewi3e:Or... don't tell me, were you just dazzled by this four-leaf clover?
+
+Patchouli6b:What a frustrating reason to lose. Let's try this again.
+
+<end>
+
+<ChatID:34>----------------------------------------
+//デューパー用①
+
+Tewi3f:Okay then, next time the top half's gonna be dangerous! ...Maybe!
+
+<end>
+
+<ChatID:35>----------------------------------------
+//デューパー用②
+
+Tewi3d:Okay now, could be that the bottom's in trouble next!
+
+<end>
+
+<ChatID:36>----------------------------------------
+//3PPより前にてゐを撃破
+
+Tewi1a:What, is that it? Try again!
+
+<end>
+
+<ChatID:37>----------------------------------------
+//おまけ会話（落とし穴：ver.2.7.9追加）
+
+LilyW3d:Wow, a real-life pitfall trap... I hope Miss Rabbit's okay.
+
+LilyW1b:Miss Rabbiiit! Are you hurt?
+
+<nomove>
+
+<Code=(cursor_jump,464,224,0)>
+
+UsagiR2b:I'm okay! More importantly, how's it looking out there?
+
+</nomove>
+
+LilyW3d:A lot of youkai rabbits showed up. Some fairies too!
+
+<nomove>
+
+<Code=(cursor_jump,464,224,0)>
+
+UsagiR2c:Ugh, this is bad...
+
+</nomove>
+
+LilyW1b:I'll protect you, so please just hang in there!
+
+<nomove>
+
+<Code=(cursor_jump,464,224,0)>
+
+UsagiR2c:YOU'RE going to protect me?
+
+UsagiR0a:(..To be honest, she doesn't seem reliable at all.)
+
+UsagiR0a:(We're up against an unknown enemy. Worse comes to worst, I'll escape by myself.)
+
+</nomove>
+
+<end>
+
+<ChatID:38>----------------------------------------
+//しょんぼリリーで初戦闘（ver.2.7.9追加）
+
+LilyW1b:I'll protect you, Miss Rabbit!
+
+<nomove>
+
+<Code=(cursor_jump,464,224,1)>
+
+UsagiR0b:Hold on, are you okay?! You were looking pretty downcast before.
+
+</nomove>
+
+LilyW0a:You helped me, so now it's my turn!
+
+LilyW4e:If I beat anyone, you'll be the first to know!
+
+<nomove>
+
+<Code=(cursor_jump,464,224,1)>
+
+UsagiR2c:Why do I need to know...? But if you really do manage it, I guess I'd be impressed.
+
+</nomove>
+
+LilyW1a:Really?! I'll give this my all!
+
+<end>
+
+<ChatID:39>----------------------------------------
+//しょんぼリリーで敵を撃墜（ver.2.7.9追加）
+
+LilyW4e:I did it!
+
+<nomove>
+
+<Code=(cursor_jump,464,224,1)>
+
+UsagiR2c:Huh? You really got one?!
+
+UsagiR0a:You really don't look like you could— I mean, maybe you're surprisingly good at fighting?
+
+</nomove>
+
+LilyW0d:You think so?
+
+<nomove>
+
+<Code=(cursor_jump,464,224,1)>
+
+UsagiR0c:Who knows? Maybe you'll do so well you fall to the dark side?
+
+UsagiR0d:A lily white fairy going pitch black, haha!
+
+</nomove>
+
+LilyW3c:No way, I'd never!
+
+<end>
+
+<ChatID:40>----------------------------------------
+//てゐvs.メーコ
+
+Tewi0a:Haven't seen you around these parts.
+
+Meko0a:Nope! We just came to Gensokyo.
+
+Tewi0a:A new arrival?! Oh no!
+
+Tewi0a:I bet you haven't paid the new arrivals fee to Gensokyo's landlord!
+
+Meko0b:Er... what fee?
+
+Tewi0a:Oh dear, if you haven't heard of it then it's way too late. But I can put in a good word for you.
+
+Tewi0a:By the way, the fee is this, this, and this...
+
+Meko0a:Got it, thanks. You're such a nice person, Tewi.
+
+Tewi0a:(And you're such a nice mark, stranger.)
+
+<end>
+
+<ChatID:41>----------------------------------------
+//てゐvs.まくら
+
+Tewi0a:Haven't seen you around these parts.
+
+Tewi0a:It must be fate. I've got this special Tewi-brand down quilt going for the lowest it's ever been.
+
+Makura1a:Are you trying to scam me?
+
+Tewi0a:Scam? I wish, I'm practically losing money here. If you buy it as a set with this Sound Sleep pillow, you'll be as comfy as can be!
+
+Makura0a:...This is a waste of your time.
+
+Tewi0a:Ah, it's sooo soft...
+
+Makura0a:...
+
+Makura0a:Um, could I try touching it first, at least?
+
+Tewi0a:(She's an easier mark than I thought.)
+
+<end>
+
+<ChatID:42>----------------------------------------
+//てゐvs.てゐ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Tewi0a:Gyah?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Tewi0a:Hohoho, surprised, aren't ya?
+
+Tewi0a:With this special disguise kit, you too can become anyone you want.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Tewi0a:So if we went into business together we'd be twice as persuasive.
+
+Tewi0a:How about it, can I interest you in a partnership?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Tewi0a:(That's me alright, I don't miss a beat.)
+
+</nomove>
+
+<end>
+
+<ChatID:43>----------------------------------------
+//てゐvs.鈴仙
+
+Tewi0a:Oh hey, it's Reisen. Here for something in particular?
+
+Udonge0a:Sure am. I came to see if you were slacking off.
+
+Tewi0a:Things being as they are, I'm working my butt off right now.
+
+Tewi0a:Actually, aren't you the one slacking?
+
+Udonge0a:Don't be ridiculous. Why, at this very moment I'm fighting with Reimu and...
+
+Udonge0a:(...Come to think of it, I wonder how I'm doing over there in the dream.)
+
+<end>
+
+<ChatID:44>----------------------------------------
+//てゐvs.輝夜
+
+Tewi0a:Princess?! What're you doing?!
+
+Kaguya0a:I was far too bored waiting in there, so I came for a walk.
+
+Tewi0a:Doesn't that defeat the whole point? Go on, get back home, quick!
+
+Kaguya0a:Very well, if I must. But first, could you entertain me for a moment?
+
+<end>
+
+<ChatID:45>----------------------------------------
+//てゐvs.永琳
+
+Tewi0a:What're you doing out here, Master?
+
+Eirin0a:I sensed the presence of a lunar rabbit.
+
+Eirin0a:You're performed admirably, Tewi.
+
+Tewi0a:Well, thanks. So, about my compensation...
+
+Eirin0a:That can wait until we've safely greeted the dawn.
+
+<end>
+
+<ChatID:46>----------------------------------------
+//てゐvs.レイセン
+
+Tewi0a:Dang it, how'd you get out of that hole?!
+
+Tewi0a:And wait, did you always have that gun?
+
+Reisen0a:I may have gotten careless with that pitfall, but don't underestimate a lunar rabbit!
+
+Tewi0a:Eh, guess I just have to catch you again!
+
+<end>
+
+<ChatID:47>----------------------------------------
+//てゐvs.依姫
+
+Tewi0a:Hm? This feeling must mean...
+
+Yorihime0a:It seems you're familiar with Lunarians.
+
+Tewi0a:A Lunarian?! So it wasn't just that rabbit?!
+
+Tewi0a:Ah, crap... I've gotta tell Master!
+
+Yorihime0a:Hold it right there. You won't be allowed to.
+
+<end>
+
+<ChatID:48>----------------------------------------
+//てゐvs.豊姫
+
+Tewi0a:Hm, so you're...?
+
+Toyohime0a:Watatsuki no Toyohime. Leader of the Lunar Emissaries.
+
+Tewi0a:The leader?! So you really are here to find my master?!
+
+Toyohime0a:It sounds like that master of yours is a person of interest.
+
+Toyohime0a:So if you would, could you guide us to her immediately?
+
+Toyohime0a:(...Whoops, I got a little too into character there.)
+
+<end>

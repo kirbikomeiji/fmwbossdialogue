@@ -1,0 +1,1940 @@
+﻿○共通第四十九話「無重力の巫女
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: first battle vs. Yorihime
+ 4: 1EP
+ 5: 2EP
+ 6: 4EP
+ 7: 5EP (enemy ally only)
+ 8: 6PP
+ 9: beat Yorihime (first time)
+10: beat Yorihime (thereafter)
+11: clear
+12: ADVB-1
+13: ADVB-2
+14: Seirensen beaten
+15: ReimuR beaten
+16-45: battle vs. Yorihime～
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=13,FROM=月,TO=宇宙B,name=Near the Moon,icon=4>
+
+<BG=*bg_talk_Seirensen_Bridge_Space.png,fade=0,color=1,title=*bg_Seirensen_Bridge,bgm=bgm_talk_inishie>
+
+Keine3b:Alright, we've managed to get clear of the moon.
+
+Ichirin4b:If only this meant we could rest easy. 
+
+Nitori1d:Is everyone okay after that beating we took from Yorihime?
+
+Meiling3d:Yeah, looks like no one's seriously injured.
+
+Lyrica4a:But what should we do? We left Miss Rabbit back there on the moon.
+
+Lyrica4d:If we don't do something, she's going to be charged with treason... 
+
+Patchouli4a:There's nothing we can do about that now. The gap between their forces and ours is too vast.
+
+Marisa2b:Even if we gear up and take another crack at it, there's no guarantee we'll win...
+
+Lunasa0a:Now that we're not on the moon, we should look for Eirin's missing letter.
+
+Lunasa4a:If we can't find it, then we'll just have to go back to Earth for now. 
+
+Meiling3d:But with how things were going back there, they might even be chasing us already.
+
+<SE=se_talk_siren01.ogg,wait=0>
+
+<Code=(demo_wait,39)>
+
+Ichirin1d:What's that alarm for?!
+
+<BGM=bgm_talk_emergency,0>
+
+Koakuma1a:We're picking up a huge number of readings coming from the moon!
+
+Koakuma1a:They're coming this way at very high speed!
+
+Marisa2b:Gah, so they're not letting us get away?!
+
+Mystia1c:They're so persistent! Didn't we already leave the moon?
+
+Murasa1b:We'll try to shake them off. Everybody, grab onto whatever you can!
+
+Remilia1d:Tell the others that there's a chance we'll get into a fight. 
+
+Chen2a:R-Right! I'm on my way! 
+
+<BG=bg_talk_Seirensen_Dining_Night.png,fade=0,color=1,title=bg_Seirensen_Dining>
+
+Udonge2b:...Judging by that alarm, Lady Yorihime must be coming after us.
+
+Udonge2c:It's all over. We'll never escape the moon's military.
+
+Udonge5a:Say... If I use the Lunar Veil we have attached to the ship, maybe I could escape by myself... 
+
+<SE=se_talk_run.ogg,wait=1>
+
+Sho1b:So this is where you were, Reisen!
+
+Udonge2b:You people...
+
+Youmu1a:Sorry to intrude, but please come to the bridge. The ship is being pursued by Yorihime and her army.
+
+Sho1b:At this rate, we might all be captured with the ship, or even shot down. 
+
+Udonge2a:I knew it! In that case...
+
+Sho1c:Hey, where are you going?!
+
+Udonge1b:What do you care? It's none of your business.
+
+Youmu3a:How is it not? Aren't you one of us too, Reisen?
+
+Youmu1a:Besides, with you there, Yorihime might be willing to talk—
+
+Udonge2a:Don't be stupid! There's no way I'm doing that!
+
+Udonge2c:What could I possibly say to her now, after all this time I spent running away?! 
+
+Sho4b:Reisen... 
+
+<SE=se_talk_call01.ogg,wait=1>
+
+<SE=se_talk_console01.ogg,wait=1>
+
+<hide=video>
+
+Nitori1b:Attention! All available hands should prepare for close combat!
+
+Nitori1c:They're right about to catch up to us! There are some incoming warning shots...
+
+<SE=se_talk_quake.ogg,wait=0>
+
+<Code=(map_shake,1,30,2)>
+
+Nitori2a:They're right about to catch up to us! There are some incoming warning shots... AH!
+
+</hide>
+
+<SE=se_talk_console02.ogg,wait=1>
+
+Youmu1a:That sounded like it came from the bridge!
+
+Sho4a:It's even worse than I thought. We'll have to head out.
+
+Udonge2b:...Seriously? You're going out there? Fighting back is just going to make things worse for you.
+
+Youmu1a:Maybe so, but we can't just sit back and let ourselves get captured either.
+
+Youmu0a:If anyone's going to save us, it'll have to be ourselves. 
+
+<SE=se_talk_run.ogg,wait=1>
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+<single>
+
+Udonge4a:Are they all idiots?! Why are they going out there when they know they'll lose?
+
+Udonge1c:Oh well, I'll just use this chance to escape...
+
+Udonge5b:Escape and... then what?
+
+Udonge2a:After all this, I can't go back to the way I've been living...
+
+Udonge2a:And what's going to happen to Master and the others? Where would I run TO?
+
+<SE=se_talk_paper01.ogg,wait=1>
+
+Udonge4d:Hm? What's this crumpled envelope?
+
+Udonge2b:Is this Master's letter?!
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP（出撃前）
+
+<nomove>
+
+<Code=(cursor_jump,192,288,1)>
+
+GyokutoT0a:We've spotted the Earthlings' ship, Lady Yorihime!
+
+</nomove>
+
+Yorihime0a:It's closer than I predicted. Is that their full speed?
+
+Cirno2b:Ack, they're already here!
+
+Mystia1c:Skipper, can't we go any faster?!
+
+Murasa2c:Don't ask the impossible! Any more and the Buddhist reactor will burn out!
+
+<nomove>
+
+<Code=(cursor_jump,128,320,1)>
+
+UsagiR2a:Save meeee! Wait, no, run awaaaay!
+
+</nomove>
+
+Kurumi1a:They've got Miss Rabbit trussed up!
+
+Patchouli4a:Why would they go through the trouble of bringing her? Are they planning to use her as a hostage?
+
+Elliy4b:Doesn't look like we could save her when she's so deep behind enemy lines though...
+
+Koakuma1a:Even more enemy readings!
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,320,256,1)>
+
+GyokutoS0a:Please excuse our lateness, Lady Yorihime!
+
+<Code=(cursor_jump,256,400,1)>
+
+GyokutoS1a:We've received permission from Lady Toyohime to use the anti-ship neutron cannons!
+
+</nomove>
+
+Meiling1a:They're coming at us from over there too?!
+
+Lyrica1c:And they brought some stupidly big guns! Talk about going overboard!
+
+Yorihime0b:What else did my sister say to you?
+
+<nomove>
+
+<Code=(cursor_jump,320,256,1)>
+
+GyokutoT0a:She's going to leave the pursuit of the insurgents to you, while she suppresses the confusion in the Lunar Capital.
+
+GyokutoT1a:She was saying something about wanting to seize the initiative before anyone tried to stick their nose in...
+
+</nomove>
+
+Yorihime0b:I have to hand it to her. She's always on top of things.
+
+Luna1a:Wh-What do we do? It looks like they're prepped and ready to attack!
+
+Luna4a:And even if we tried to run, we're not as fast as them...
+
+Reimu0a:Guess we'll just have to deploy who we can and give 'em a fight.
+
+Reimu1a:If we mess this up, we're never going home... Like I'd let THAT happen!
+
+Ichirin1a:Everyone's equipped for space combat, so try to clear an escape route while fighting.
+
+Murasa1b:Let's break through as soon as we find an opening!
+
+<end>
+
+<ChatID:2>----------------------------------------
+//1PP（配置後）
+
+<Code=(icon_set_direction,Sanae,FD_RIGHT,0)>
+
+Sanae3b:I can see the Earth from here... Will we make it back home?
+
+Sakuya5b:I can understand your unease, but we have no choice but to fight.
+
+Alice0a:Luckily, there's atmosphere here. Is this still inside the moon's barrier?
+
+Yorihime0b:Still resisting? You people just don't know when to give up.
+
+Reimu4a:Uh, yeah? What, are we supposed to just let you capture us?
+
+Reimu0d:You're the ones refusing to let this go and chasing us all the way out here.
+
+Yorihime0b:It's my duty to. As guardian of the moon, I must preserve the peace.
+
+Yorihime0a:I could never turn a blind eye to someone who found it so easy to trespass on lunar soil.
+
+Reimu1a:Guess we're not gonna talk our way out of this. Fine, I get it.
+
+Daiyosei3b:Reimu looks as fired up as usual. Is she going to be okay?
+
+Marisa3a:Being all gung-ho is fine and dandy, but the difference in strength is pretty obvious.
+
+Marisa2b:C'mon, Reimu! Buy us some time and think up a way out of this mess!
+
+<end>
+
+<ChatID:3>----------------------------------------
+//依姫初戦闘時
+
+<Cond=(LOCAL_VAR,ObjControl,prev_phase_id,==,1)>
+
+Yorihime1a:Even now, you would fight me?
+
+Remilia1a:We got pretty close last time, so now we're going to finish the job.
+
+Yorihime0b:You've got some nerve, but this isn't the Pure Land of the Moon.
+
+Yorihime1a:Here, I can wield my full might, holding nothing back!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,prev_phase_id,==,2)>
+
+Luna2a:Eep! She caught up to us!
+
+Yorihime0b:Even now, you think you can get away? I'm insulted.
+
+Yorihime1a:This isn't the Pure Land of the Moon. Here, I can wield my full might.
+
+</Cond>
+
+<end>
+
+<ChatID:4>----------------------------------------
+//1EP
+
+<nomove>
+
+<Code=(cursor_jump,320,256,1)>
+
+GyokutoS0a:Um, we brought them out, but how do we use these again?
+
+<Code=(cursor_jump,320,240,0)>
+
+GyokutoS0a:The manual says these things are so powerful, you can pretty much just point them in the general direction of whatever you wanna hit, right...?
+
+</nomove>
+
+<Code=(icon_set_direction,All,GyokutoS2_en,0)>
+
+Koakuma1a:It looks like they're planning to use those huge cannons!
+
+Nitori2a:Watch out, if it's a weapon from the moon then I'll bet you anything it's—
+
+<nomove>
+
+<Code=(cursor_jump,320,256,1)>
+
+GyokutoS1a:Here we go, fire!
+
+<pause>
+
+Wriggle5c:WHAAA?!
+
+Keine1a:What destructive force! Are they planning to turn us into charcoal?!
+
+Yorihime3a:You can't fire that in quick succession, so be careful not to waste any shots.
+
+<nomove>
+
+<Code=(cursor_jump,320,256,1)>
+
+GyokutoS0a:O-Oh, right. The next volley will be charged in 2 minutes.
+
+</nomove>
+
+Alice1a:...Did you hear that, everyone? Those weapons fire once every 3 minutes. Be careful to stay out of their line of fire.
+
+Ichirin1d:It's too dangerous to move up to them. Don't do anything too risky out there.
+
+Ichirin1b:Just focus on buying us time to escape!
+
+<end>
+
+<ChatID:5>----------------------------------------
+//2EP
+
+Sho0b:I never realized how deep the darkness of space was until we came out here.
+
+Nazrin6a:You must be tired. We've been fighting nonstop ever since we got here.
+
+Daiyosei3a:Will we really make it back to Earth...?
+
+Chen4b:Don't be afraid. We just have to flee over there, and...
+
+<pause>
+
+Luna1a:Ack! More enemies on that side!
+
+Star4a:Just when I thought we'd pulled ahead of them...
+
+GyokutoT1a:This is our back yard, Earthlings. You won't get away that easily.
+
+GyokutoT1a:We would've caught you earlier too, if it wasn't for that sniper support.
+
+Nitori2a:Huh? Wait, could that have been...?
+
+Yorihime0a:(...True, without that interference we would have seized their ship then and there.)
+
+Yorihime0b:(I've seen those bullet trails before, but it couldn't have been her.)
+
+Yorihime0a:(She was too much of a coward to ever rebel against the moon.)
+
+<end>
+
+<ChatID:6>----------------------------------------
+//4EP
+
+Sanae1a:We've got pursuit from the other side as well!
+
+Rumia0a:They really want to catch and punish us, huh?
+
+Yorihime1a:Did you really think we'd let a gang of brigands off the hook so easily?
+
+Mystia4b:Brigands?! Well, I mean we basically ARE, but that's totally not fair!
+
+Wriggle1h:Yeah! We're Eirin's friends.
+
+Yorihime0b:I see you're still clinging to that lie. How dare you know-nothing Earthlings usurp Lady Yagokoro's name for your schemes...
+
+Sakuya0b:Based on what you've been saying, you must have some sort of connection to Eirin.
+
+Sakuya5b:Isn't she supposed to be a major criminal on the moon? How can you put so much faith in her?
+
+Kurumi4b:Yeah, the other rabbits have been badmouthing her.
+
+Yorihime0b:...Lady Yagokoro would never make the wrong move, in any circumstance.
+
+Yorihime0a:All this time, my sister and I have sought to protect the moon as our way of carrying on her will.
+
+Yorihime1b:You'll regret treading upon her noble sentiments with your dirty feet!
+
+<end>
+
+<ChatID:7>----------------------------------------
+//5EP
+
+<end>
+
+<ChatID:8>----------------------------------------
+//6PP
+
+Alice1c:...They're still sending reinforcements. Do they have an endless reserve of troops?
+
+Elliy1a:What do we do? At this rate it's only a matter of time before we get caught!
+
+Sanae5e:What if they DO manage to capture us?
+
+Sanae3b:Even if they eventually release us, who will manage the barrier while Reimu's gone?
+
+Reimu0a:...
+
+Keine4a:...I don't like entertaining the thought, but if we did stay gone, a new shrine maiden would probably be installed.
+
+Ichirin1d:A new one?
+
+Keine0c:There was a previous Hakurei Shrine Maiden before Reimu. And one before that, and before that...
+
+Keine4a:When there's no shrine maiden and a replacement's needed, a replacement tends to get found.
+
+Youmu1a:Lady Yukari would never abandon Reimu...!
+
+Reimu5d:Nah, she absolutely would. If I'm not cutting it, she'll find a replacement.
+
+Reimu5d:That's to be expected. Comes with the territory for shrine maidens.
+
+Meiling1a:Please don't talk like you've already given up! I'm sure we can pull through this somehow...
+
+Yorihime0a:Burn with as much fighting spirit as you like, it's futile.
+
+Yorihime0b:No matter what you try, you'll never escape.
+
+<end>
+
+<ChatID:9>----------------------------------------
+//依姫を撃破（一回目）
+
+Yorihime3a:Even after that earlier fight, you managed to come out on top against me...
+
+Cirno1a:You get it now? In all of space, I'm number one!
+
+Yorihime0b:I didn't expect this much resistance. I'll acknowledge that you're capable.
+
+Yorihime1b:But it won't be enough!
+
+<pause>
+
+Meiling1a:She just healed up!
+
+Merlin2a:Really? We're back to square one?!
+
+Yorihime3a:When I'm away from the moon, there are no limits on my divine invocation abilities.
+
+Yorihime1a:Resistance is meaningless. Are you ready to accept reality now?
+
+<end>
+
+<ChatID:10>----------------------------------------
+//依姫を撃破（二回目以降）
+
+Yorihime2a:Rgh, such shallow trickery...
+
+Yorihime1b:Do you not understand that it's futile, no matter how many times you try?!
+
+<pause>
+
+Ichirin2a:Looks like trying to stop Yorihime is just going to be a waste of resources.
+
+Ichirin1a:Everyone, don't get too overextended. Just focus on keeping her busy!
+
+<end>
+
+<ChatID:11>----------------------------------------
+//勝利条件を達成
+
+<Cond=(LOCAL_VAR,ObjControl,is_move,==,1)>
+
+Ichirin1b:We're holding out so far, somehow, but I'm not sure we can last much longer...
+
+Nitori2a:Let's use this chance to get some distance!
+
+<pause>
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,is_move,==,0)>
+
+Ichirin1b:We're keeping our distance so far, but I'm not sure we can do that for much longer...
+
+Nitori2a:No matter how many we beat, more just keep coming!
+
+</Cond>
+
+Yorihime0b:I'm impressed that you've managed to evade the lunar forces this long.
+
+Yorihime0a:But it's time to end this.
+
+Marisa2b:Oh yeah? We're not down and out yet—
+
+Yorihime1b:Wrong, you're too late!
+
+<pause>
+
+<Code=(icon_set_direction,All_en,Seirensen,0)>
+
+Murasa2b:...!
+
+<Code=(icon_set_direction,All,Seirensen,0)>
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char5,0,-16,1)>
+
+GyokutoT1a:How's that, a direct hit right next to your reactor!
+
+<Code=(cursor_jump_unit,Char5,16,0,0)>
+
+GyokutoT0a:And from this range, you can't use your gun turrets or your main battery!
+
+</nomove>
+
+Ichirin5a:Oh no, they hit us from behind!
+
+Murasa2a:We've been outplayed. We can't afford to make any risky moves!
+
+Yorihime0b:Have I made it sufficiently clear that you have nowhere to run?
+
+Yorihime0a:You're coming into custody. We've got a great many questions to ask you.
+
+<nomove>
+
+<Code=(cursor_jump,128,320,1)>
+
+UsagiR2a:No way! I can't believe everyone got caught...
+
+</nomove>
+
+Elliy1a:Attacking is risky. We could hit the Palanquin Ship too!
+
+Udonge2b:(...The ship stopped moving. Lady Yorihime must have finally cornered us.)
+
+Udonge5a:(I should've just gotten out of here by now. What's wrong with me...?)
+
+Udonge2a:(Argh, what do I do?! At this rate they'll catch me too!)
+
+Yorihime0a:Now, you can start by surrendering your ship.
+
+Reimu1a:I don't think so.
+
+<pause>
+
+<Code=(icon_set_direction,All,Reimu,0)>
+
+<Code=(icon_set_direction,All_en,Yorihime_en,0)>
+
+Murasa2b:...!
+
+<Code=(icon_set_direction,Yorihime_en,Reimu,0)>
+
+Yorihime1b:Still you resist, shrine maiden of Earth?
+
+Reimu1a:Like I'd just sit back and let you win!
+
+Keine1a:Reimu, it's too dangerous to fight alone!
+
+Reimu4a:How else am I gonna chase all these girls off?
+
+Reimu1a:I'll hold them back. The rest of you do something about the ship!
+
+Marisa2b:But no matter how strong you are...
+
+Yorihime1a:The magician is right.
+
+<pause>
+
+<Code=(icon_set_direction,Reimu,Yorihime_en,0)>
+
+Reimu2a:Rgh!
+
+Daiyosei1a:Aah! Reimu!
+
+Yorihime0a:You fight well, but I'm afraid there's little that will accomplish for you now.
+
+Yorihime1a:You can't possibly compensate for the overwhelming gap between our forces!
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,128,320,1)>
+
+UsagiR2a:Nooo! Shrine maiden, run!
+
+</nomove>
+
+Keine2a:It's no use, she can't get away!
+
+Yorihime0b:Your mistake was going up against me and the army of the moon.
+
+Yorihime1b:All soldiers, bring her down with a concentrated barrage!
+
+Reimu2a:...If I lose and get myself captured, I'll get fired from my job as the Hakurei Shrine Maiden.
+
+Reimu1a:So I can't afford to lose!
+
+<pause>
+
+GyokutoT0a:All soldiers, fire!
+
+<pause>
+
+GyokutoT0a:W-We got her...!
+
+Yorihime2a:...No!
+
+<pause>
+
+GyokutoT0a:She evaded? That shouldn't be possible...
+
+Yorihime0a:I'll finish her off personally then, just to be sure.
+
+Yorihime1b:This ends here, Hakurei Shrine Maiden!
+
+<pause>
+
+<Code=(icon_set_direction,Yorihime_en,Reimu,0)>
+
+<Code=(icon_set_direction,Reimu,Yorihime_en,0)>
+
+<hide=face>
+
+Reimu5a:...
+
+<pause>
+
+Yorihime2a:Rgh... Did I just take a direct hit?!
+
+GyokutoT0a:Lady Yorihime, are you alright?!
+
+Nazrin2a:What happened? Did she dodge Yorihime's attack?
+
+Alice1a:No, it's like she went through it...
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char8,0,0,1)>
+
+GyokutoS1a:Okay, you! Take this!
+
+<pause>
+
+<Code=(icon_set_direction,All_en,Reimu,0)>
+
+<hide=face>
+
+Reimu5a:...
+
+</hide>
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char8,0,0,0)>
+
+GyokutoS1a:Huh? It's not hitting?!
+
+<pause>
+
+Sunny0a:Reimu! She did it!
+
+Yorihime2a:...This sensation is clearly different from before.
+
+Yorihime2a:I can't feel the presence of a divine invocation. Does that mean this is the girl's own power...?!
+
+<pause>
+
+<Code=(icon_set_direction,All_en,Reimu,0)>
+
+<Code=(cursor_jump_unit,Char11,0,0,1)>
+
+<nomove>
+
+GyokutoT0a:You little...
+
+<Code=(cursor_jump_unit,Char10,0,0,0)>
+
+GyokutoT0a:Buster Launcher! Eat THIS!
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char10,0,0,0)>
+
+GyokutoT2a:N-No way!
+
+<pause>
+
+GyokutoT2a:What's going on? None of our attacks are hitting!
+
+Yorihime0a:...Aha. I've figured out what sort of power this is.
+
+Yorihime0c:As she is now, that shrine maiden is a unilateral force, one not subject to any outside influence.
+
+Yorihime0a:However, that power is scarcely different from pure violence...
+
+<pause>
+
+<Code=(icon_set_direction,Yorihime_en,FD_RIGHT,0)>
+
+Yorihime2a:Rgh!
+
+Youmu1a:Reimu, don't tell me you plan to take them all on by yourself?!
+
+Kurumi1c:What do we do? Should we help her out...?
+
+Remilia0c:...No, I think we should leave it to her.
+
+Remilia0b:Even if we went out there, I don't think our words would reach her as she is now.
+
+Koakuma1a:Why would you say that, Mistress?
+
+Remilia1d:Can't you tell? She's attacking without even looking at her surroundings.
+
+Daiyosei3b:...You're right. This Reimu seems a little scary.
+
+Rumia1a:When did Reimu get so powerful?
+
+Marisa2b:...Yeesh, this isn't good.
+
+Nitori2a:Marisa...?
+
+<pause>
+
+Marisa2b:Stop this fight, Reimu! Just pull back for now!
+
+<hide=face>
+
+Reimu5a:...
+
+</hide>
+
+Marisa1a:Hey, Reimu!
+
+Reimu5b:...Marisa? Don't interrupt me. I'll be done in a minute.
+
+Marisa2b:"Done"? Do you not realize what you're doing?
+
+Marisa1a:Fighting this way isn't who you are!
+
+<pause>
+
+<Code=(icon_set_direction,Reimu,Marisa,0)>
+
+Reimu0f:...!
+
+Sanae0g:Reimu stopped moving...
+
+Reimu0f:Marisa, I...
+
+Marisa0a:I know you're desperate, but don't push yourself so much.
+
+Marisa7c:Even if we get arrested, I'll keep you company!
+
+Yorihime0a:...You stopped the shrine maiden. What a touching display of bravery and friendship.
+
+Yorihime1b:But I won't give you another chance to act!
+
+<pause>
+
+<Code=(icon_set_direction,Reimu,FD_LEFT,0)>
+
+Meiling1a:Yorihime's qi is flaring up... She's about to go all-out!
+
+Keine1a:With this much spirit energy, she must be planning to end this in one blow!
+
+Yorihime1b:This is where it ends, humans of Earth!
+
+Udonge2b:Please don't!
+
+<Code=(icon_set_direction,All,Udonge,0)>
+
+<pause>
+
+Yorihime2a:...!
+
+Udonge2b:Urgh...
+
+Yorihime2a:Are you Reysen?!
+
+Youmu4b:Reisen, you came!
+
+Lyrica0b:I thought you were hiding in the ship and weren't coming out?
+
+<nomove>
+
+<Code=(cursor_jump,128,320,1)>
+
+UsagiR2b:Wait, is that Lady Yagokoro's letter?!
+
+</nomove>
+
+Yorihime2a:...Reysen. I was skeptical, but here you are.
+
+Yorihime5a:You fled from the moon. What are you doing with humans from Earth?
+
+Udonge2b:Well, umm...
+
+Udonge5a:(I knew I'd freeze up. I'm not strong like Lady Yorihime...)
+
+Udonge5b:(But I'll never waver in my desire to go back to Earth...!)
+
+<nomove>
+
+<Code=(cursor_jump,864,416,1)>
+
+GyokutoS0a:Is that a moon rabbit? If she's a friend of the Earthlings, she can go down with them—
+
+</nomove>
+
+Udonge1b:Out of the way!
+
+<pause>
+
+<Code=(icon_set_direction,All,Udonge,0)>
+
+<Code=(icon_set_direction,GyokutoS_en,Yorihime_en,0)>
+
+Yorihime2a:Reysen's flying through the rabbits' danmaku...
+
+Udonge5c:Lady Yorihime, I have no desire to fight! Please allow me a moment to speak!
+
+Udonge2c:I have a letter from Master—I mean, from Lady Yagokoro!
+
+Yorihime2a:This seal is certainly Lady Yagokoro's...
+
+Udonge5c:Master has been living in hiding on Earth to avoid pursuers.
+
+Udonge5a:But once she heard that the Watatsukis had assumed leadership of the emissaries, she wanted to send you a letter.
+
+Yorihime2a:How would you know so much about Lady Yagokoro? Don't tell me you met her on Earth...?
+
+Udonge5b:It's a long story. Please, just take the letter.
+
+Yorihime0a:Very well. I'll verify its contents.
+
+Yorihime0b:...
+
+<nomove>
+
+<Code=(cursor_jump,128,320,1)>
+
+UsagiR0a:Lady Yorihime...
+
+</nomove>
+
+Yorihime0b:It's all covered here. Lady Yagokoro wants us to accept this rabbit...
+
+Yorihime5a:And she asks me to overlook your group's intrusion.
+
+Udonge5c:Y-Yes, ma'am! I believe that should clear everything up, right? So, um, if possible...
+
+Alice0a:We'll add our voices to Reisen's, if it helps to bring this matter to a close.
+
+Alice4a:The situation has escalated quite a bit, but we're all out of strength.
+
+Marisa4a:You're suggesting we call it a draw due to injury? Yeah, fair. I've had enough of this anyway.
+
+Yorihime0b:...
+
+<nomove>
+
+<Code=(cursor_jump,128,320,1)>
+
+UsagiR2a:...What the humans are saying is true. We mean the moon no harm at all.
+
+</nomove>
+
+Yorihime0c:I'm aware. I'm not about to question that now.
+
+Yorihime0b:In deference to Lady Yagokoro's words, I'll overlook this incident.
+
+Udonge2b:Lady Yorihime...
+
+Yorihime0b:However—you people and your spacefaring vessel. The shrine maiden in red and white. I will make note of the powerful entities on the planet's surface.
+
+Yorihime0a:If you give us reason to act, we will do so. Remain aware of that, moving forward.
+
+Reimu0a:Is that a warning? I'll keep in it mind.
+
+Star4a:Well, um, I think we've overstayed our welcome...
+
+Lyrica3b:Miss Rabbit, I know this is sudden and all, but bye-bye! Again!
+
+<nomove>
+
+<Code=(cursor_jump,128,320,1)>
+
+UsagiR1a:Yeah, thanks to you girls it looks like I'll be okay too.
+
+UsagiR0d:...Thanks for everything. Be careful on the way home.
+
+</nomove>
+
+Keine0a:Yes, you take care of yourself too.
+
+<pause>
+
+Udonge5b:...
+
+Udonge5a:Lady Yorihime, um...
+
+Yorihime0b:I didn't tell you to remain. Do you have something else to say?
+
+Udonge5c:I-I guess I might. Um, well...
+
+Udonge5b:About when I ran from the moon, and when I left your side...
+
+Yorihime0b:Lady Yagokoro chose the Earth, did she not? So I don't begrudge you for making the same choice.
+
+Yorihime0a:Or would you prefer to return to the moon and expunge your sins?
+
+Udonge2b:N-No! Definitely not that.
+
+<Code=(icon_set_direction,Yorihime_en,FD_LEFT,0)>
+
+Yorihime0b:Then the pet moon rabbit we called Reysen is no more.
+
+Yorihime0a:Be on your way.
+
+Udonge5c:Yes, Lady Yorihime... Um...
+
+<Code=(icon_set_direction,Udonge,FD_RIGHT,0)>
+
+Udonge5b:I'm sorry.
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,128,304,1)>
+
+GyokutoT0a:You actually let the humans go, Lady Yorihime?
+
+</nomove>
+
+<nomove>
+
+<Code=(cursor_jump,800,320,1)>
+
+GyokutoS0a:What's all this about? Isn't Yagokoro the name of a wanted criminal?
+
+</nomove>
+
+Yorihime0b:My sister and I will handle everything regarding this incident.
+
+Yorihime0b:We'll be taking the rabbit too. Go to my sister's estate and inform her.
+
+<nomove>
+
+<Code=(cursor_jump,128,304,1)>
+
+GyokutoT0a:Understood! I'm on my way!
+
+</nomove>
+
+<nomove>
+
+<Code=(cursor_jump,128,320,1)>
+
+UsagiR1a:I can wait, but untie me too, okay?
+
+</nomove>
+
+<pause>
+
+Yorihime0b:...Lady Yagokoro, I should have known you'd be doing perfectly well for yourself.
+
+Yorihime5a:But, this letter...
+
+Yorihime5a:...
+
+Yorihime5b:Lady Yagokoro...
+
+<end>
+
+<ChatID:12>----------------------------------------
+//ADVB
+
+<MAP=13,FROM=宇宙B,TO=宇宙C,name=Sea of Stars,icon=4>
+
+<BG=*bg_talk_Seirensen_Bridge_Space.png,fade=0,color=1,title=*bg_Seirensen_Bridge,bgm=bgm_talk_ningyo>
+
+Koakuma0a:Reimu and Marisa have landed on deck.
+
+Ichirin3a:Thanks. Then that's everyone.
+
+Ichirin4a:Looks like they aren't chasing us anymore either. They really are letting us go. 
+
+Murasa0b:Whew, we can finally have a moment to breathe.
+
+Sunny3a:When those moon rabbits caught up to us, I thought we were done for.
+
+Lunasa0b:Thank goodness we found the letter in the middle of all that. 
+
+Udonge1c:You got that right. Just how careless can she be?! How could she lose a crucial letter like that?!
+
+Youmu4a:Still, you did really well in that situation, Reisen.
+
+Youmu3b:When we talked before we sortied, it sounded like you didn't want to help at all.
+
+Udonge3b:I still don't. That was just the only way I could get back to Earth.
+
+Udonge2a:Honestly, I REALLY never wanted to see Lady Yorihime's face again... 
+
+Daiyosei0a:I think even Yorihime was shocked when you showed up.
+
+Rumia0a:Yeah, her long-lost pet suddenly came back.
+
+Lunasa0b:At least it all worked out nicely, right?
+
+Lunasa0a:Yorihime even let you go home without taking you into custody. 
+
+Sho0a:I'm sure she understood your feelings as well, Reisen.
+
+Udonge5a:...Well, I don't know about that, but at least she acknowledged that I live on the Earth now.
+
+Udonge5a:Unlike me, Lady Yorihime stayed completely unfazed to the very end.
+
+Alice0d:She seems to have a strong heart, one devoid of any self-doubt.
+
+Patchouli4c:In any case, all that's left is to return to Earth.
+
+Patchouli0c:I say we take this time to rest up after those battles.
+
+Elliy3a:Yeah, especially Reimu. She just about went overboard out there.
+
+Luna1a:O-Oh, right! We should at least make some tea for her...! 
+
+Sunny4b:Yeah, she was our MVP! We'd better be careful not to screw anything up and make her snap at us...
+
+Sanae1e:...?
+
+Keine0a:What's gotten into them?
+
+Nazrin6b:I can understand how the fairies and younger youkai must feel.
+
+Nazrin6a:That technique Reimu used back there was just too powerful. They were so taken aback that they're feeling awkward around her. 
+
+Sanae3b:Goodness...
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+Reimu5c:Phew. Boy am I exhausted.
+
+Marisa0d:There's nothing left but the trip back, so take your time and relax. 
+
+Luna1a:Ah! Reimu!
+
+Wriggle4c:G-Greetings...
+
+Marisa0a:Oh, hey girls. Coming to greet us together?
+
+Keine7b:...Yes. Everyone was waiting for you two to come back.
+
+Sunny4b:Oh, that's right! It's time to go eat snacks in the dining hall!
+
+Star4a:How could we forget? We'd better hurry or they'll be all out! 
+
+Reimu4a:Uh... If you want snacks, there are some on the shelf right over there.
+
+Luna6a:Nothing wrong with those, but we just REALLY want to go the dining hall right now...
+
+Mystia4b:Wait, I want some too!
+
+Cirno4b:I think I'll join them...
+
+Marisa1c:Geez, what's the hurry?
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+Reimu5d:...
+
+</single>
+
+Marisa2b:Yeesh, what's with them? They just bolted the moment they saw Reimu. 
+
+Alice4a:...Sorry if that offended you, Reimu. They didn't mean anything by it.
+
+Alice0a:It's just, they seem a bit shocked after seeing that technique you used. 
+
+Reimu4a:I don't blame them. Even I couldn't keep control of myself back there.
+
+Reimu4a:Lost in myself, I lost sight of my surroundings...
+
+Sho0b:It didn't seem to be deliberate on your part. May I ask what happened there?
+
+Sho0c:As far as I could tell, it looked like you were going through everyone's attacks...
+
+Nazrin6a:It was so lopsided, it was frankly offputting. It made you look real unapproachable.
+
+Reimu5f:...
+
+Marisa4a:Unapproachable, huh. So that's why they all left.
+
+Remilia1d:The weak are very sensitive to differences in strength.
+
+Remilia0a:It's only natural to distance themselves from someone they'd never, ever stand a chance of beating.
+
+Reimu5f:You're not wrong, Remilia.
+
+Reimu5f:I wasn't exactly planning on fighting like that either...
+
+Sanae3b:Um, Reimu? I'm sure you're tired. Why don't you get some rest?
+
+Reimu5f:Good idea. Give me some space for a bit.
+
+<SE=se_talk_walk_indoor01.ogg,wait=1>
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+<single>
+
+Udonge4d:...There she goes.
+
+</single>
+
+Youmu3a:Yes, she seemed oddly crestfallen...
+
+Sho4a:...It's a complicated issue. Too much strength gives rise to distance.
+
+Sho0b:I can only hope this doesn't hurt her ability to do her job...
+
+Keine0b:It's the shrine maiden's duty to maintain harmony between humans and youkai by establishing equal relationships via danmaku battles.
+
+Keine4a:If the shrine maiden strays from the rules of danmaku like she did today, all those relationships would crumble. 
+
+Remilia0c:I suppose that was Reimu's original power. She simply hasn't let anyone see it before.
+
+Alice0a:Maybe Yukari made her that new equipment out of fear of something like this happening.
+
+Alice0c:To restrict Reimu to the path of the shrine maiden, in order to avoid her power excessively overflowing.
+
+Nazrin6b:And even that wasn't enough to keep Reimu contained, huh.
+
+Sanae3b:Is there any way to ease the strains this has put on her relationships?
+
+Sanae3b:It would be terrible to leave things like this even after making it back to Earth...
+
+Marisa4b:...
+
+Marisa1c:Y'know, something occurs to me.
+
+Youmu2b:Marisa...?
+
+Marisa0b:Sure, Reimu's technique was pretty much cheating, but that's no reason to give up.
+
+Marisa0a:After all, there's a way in Gensokyo for even fairies and insects to have fun as equals.
+
+<BG=bg_talk_Seirensen_Hall_Night.png,fade=1,color=1,title=bg_Seirensen_Hall,bgm=bgm_talk_hiroshige>
+
+Reimu5f:...
+
+Reimu5f:I did what I could to get back home. I don't think that was anything unreasonable.
+
+Reimu5f:I brought this on myself, though. I can't really blame people for seeing it the way they do.
+
+<SE=se_talk_walk_indoor01.ogg,wait=1>
+
+Marisa0c:Hey, Reimu. Found you.
+
+Reimu5d:Marisa? I told you to give me some space.
+
+Marisa0a:C'mon, don't bristle. I swiped some tea and snacks from the bridge for you.
+
+Marisa0b:Besides, I wouldn't have felt right just leaving you all alone.
+
+Reimu4a:All alone? Come on, I'm a big girl.
+
+Marisa7c:Sure you are. I'll just leave the tea here for now.
+
+Reimu5d:...
+
+Marisa0d:Reimu, that technique you pulled off was amazing. You became completely transparent. You were practically invincible.
+
+Marisa0a:I knew you could be apathetic, but I never thought that you'd even no-sell danmaku.
+
+Reimu5f:So that really is how it comes across to others.
+
+Marisa0d:Thing is, you can't just bust that out as-is.
+
+Marisa0c:If you're literally invincible, then no one would ever win against you.
+
+Reimu5f:Yeah, I get that. I wouldn't do it again anyway.
+
+Reimu5f:Not that that'll be much comfort to Cirno and all the others...
+
+Marisa0a:True. If all you're doing is promising not to use it, it's still gonna put a damper on your danmaku fights.
+
+Marisa0b:And that's gonna land you alone and isolated.
+
+Reimu5f:So what should I do about it?
+
+Marisa0c:I've got an idea: give it a name and turn it into a spellcard.
+
+Marisa0a:That way, you can keep having matches with people like before.
+
+Reimu0f:Give it a name...?
+
+Marisa7c:How about [Natural Fantasy]? The fantasy that expresses your nature.
+
+Marisa7a:It's something that can't be done without the power you were born with, Reimu. Your ultimate technique, basically.
+
+Reimu3b:Why are you the one naming MY ultimate technique?
+
+Marisa0a:It's cool, right? Use that name for it next time.
+
+Marisa7c:If you do that, you'll be our equal. Then nobody will leave you out in the cold.
+
+Reimu0f:...
+
+Marisa0e:What, don't tell me you don't like it?
+
+Reimu5c:...No, I was just thinking about how you really never hold anything back.
+
+Reimu0g:[Natural Fantasy], huh. I like it.
+
+Marisa6a:That's good enough for me. I'm gonna head back now.
+
+Marisa0a:See you.
+
+<SE=se_talk_walk_indoor01.ogg,wait=1>
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+<single>
+
+Reimu5c:Sheesh. She's sharp when it comes to playing around.
+
+Reimu0c:But I can just hang out with everyone like before, huh...
+
+Reimu0b:...Thanks, Marisa.
+
+</single>
+
+<MAP=13,FROM=月,TO=月,name=Lunar Capital,icon=5>
+
+<BG=*bg_talk_MoonCapital.png,fade=1,color=1,title=*bg_MoonCapital,bgm=bgm_talk_soratoumi>
+
+<SE=se_talk_paper01.ogg,wait=1>
+
+Toyohime0c:Dearest Yorihime and Toyohime—
+
+Toyohime0a:I'm sure you're surprised to have received this letter.
+
+Toyohime0a:This is the first time I've contacted you since I betrayed the moon.
+
+Toyohime0c:You'll have to forgive my thousand years of silence. It was all to avoid pursuit from the moon.
+
+Toyohime0c:In truth, I had hoped you could forget about me, but I heard from a rabbit who fled to Earth that you two had become the leaders of the emissaries.
+
+Toyohime0a:You undoubtedly put forth great efforts to get where you are, despite the discouragement of having a criminal as your instructor.
+
+Toyohime0a:I wrote this letter both to congratulate you, and to convey my future intentions.
+
+Toyohime5c:Neither Kaguya nor I will be returning to the moon. We have decided to remain on the Earth.
+
+Toyohime0c:I promise you that henceforth, I will neither meddle with the moon nor cause any trouble for you two.
+
+Toyohime0c:If you are willing to accept my decision, then I would ask you to keep any pursuit at bay.
+
+Toyohime0a:I know I ask much already, but the medicine-pounding rabbit who delivered this letter has changed her mind and wishes to return to the moon.
+
+Toyohime0a:I believe she only came to Earth in a moment of confusion. I hope you will accommodate her.
+
+Toyohime0c:As for the Earthlings accompanying her, they are companions who helped deliver this letter. I ask you to grant them safe return to Earth.
+
+Toyohime0a:While we may be separated by a great distance, I was very pleased to hear about you two once more.
+
+Toyohime0a:I have faith that you will do great work in my stead.
+
+Toyohime5c:From the impure Earth, with prayers.
+—Eirin Yagokoro
+
+Yorihime5a:...
+
+Toyohime0a:This is a genuine, bona fide letter from Lady Yagokoro.
+
+Yorihime5a:When I first heard the Earthlings bring up her name, I dismissed it as a lie...
+
+Toyohime5c:Of course. Words alone are no different from careless remarks.
+
+Toyohime0b:Good work dealing with the intruders, by the way.
+
+Yorihime0d:No, allow me to thank YOU for the support.
+
+Toyohime0a:Well, what's most important is knowing that Lady Yagokoro is doing well.
+
+Toyohime0a:I never expected that Reysen would be with the Earthlings though...
+
+Yorihime0a:...Right, it seems she settled down on Earth after fleeing the moon.
+
+Yorihime0d:She was calling Lady Yagokoro "Master", so they must be living together.
+
+Toyohime2c:Is that a fact...?
+
+Yorihime0a:She's as cowardly as ever, but she seemed to have a strong desire to return to the Earth.
+
+Toyohime2b:Ahh, how ironic. Someone who abandoned the moon gets to be with Lady Yagokoro, while those who stayed behind are kept apart from her.
+
+Yorihime0e:That's hardly a fair thing to say, Sister...
+
+Toyohime5b:Don't you feel the same way? We came this far hoping to meet her again.
+
+Toyohime5a:Aren't you at just as much of a loss as me, not knowing what we should be doing anymore?
+
+Yorihime5a:...
+
+<SE=se_talk_knock02.ogg,wait=1>
+
+<SE=se_talk_door_open05.ogg,wait=1>
+
+GyokutoT0a:Please excuse me, Lady Watatsuki.
+
+Toyohime0b:...What is it? This isn't the time for our meeting.
+
+GyokutoT0a:This is a special message from the higher ups. It's about the incident with the intruders.
+
+GyokutoT1a:They say that this must be the a sign of an impending lunar invasion, and that we should threaten the Earth.
+
+Yorihime1c:Threaten it...?
+
+GyokutoT0a:Apparently, some of the rabbits we deployed heard the name of the fugitive Yagokoro.
+
+GyokutoT0a:They say you should dispatch the emissaries and do a thorough investigation of the Earth.
+
+Toyohime2a:But that's all just hearsay. It seems unreasonable to—
+
+Yorihime0b:Allow me to field this one, Sister.
+
+Yorihime0a:Their request is denied. We will not be carrying out an investigation of Earth.
+
+GyokutoT0a:...!
+
+Yorihime0a:I've personally verified that when the Earthlings brought up the name Yagokoro, they were lying.
+
+Yorihime0b:Moreover, they had simply gotten lost and meant no harm.
+
+Yorihime0b:Tell them that this is our decision, and so it shall remain.
+
+GyokutoT0a:But...
+
+Yorihime0a:I will not repeat myself.
+
+GyokutoT0a:Understood. If you insist, Lady Yorihime...
+
+<SE=se_talk_walk_indoor03.ogg,wait=1>
+
+<SE=se_talk_door_close02.ogg,wait=1>
+
+<single>
+
+Yorihime5a:...
+
+</single>
+
+Toyohime0c:We're sticking with our policy of "hands off the Earth", then.
+
+Toyohime0a:No matter how much we cover for her, though, Lady Yagokoro will never come back.
+
+Yorihime5a:That's fine. It doesn't change my desire to protect her.
+
+Yorihime5a:Even if we'll never set foot on the same soil again...
+
+Toyohime0a:Yorihime...
+
+Toyohime0b:You're a strong girl. In that case, let's both be strong.
+
+Toyohime0a:I'm sure Lady Yagokoro would be proud of us too.
+
+Yorihime5a:Sister, I...
+
+Toyohime0c:...You must be tired. Why don't you go to bed for now?
+
+Toyohime0a:Tomorrow, call for that rabbit who came back to the moon. I'd like to ask her about the Earth.
+
+<Code=(transition_out,c_black,60,1)>
+
+<Code=(demo_wait,30)>
+
+<end>
+
+<ChatID:13>----------------------------------------
+//ADVB-1.5 (BG)
+
+<BG=bg_talk_Earth.png,fade=1,color=1,title=bg_Earth>
+
+<Code=(transition_out,c_black,60,1)>
+
+<end>
+
+<ChatID:14>----------------------------------------
+//ADVB-2
+
+<BG=bg_talk_Chireiden.png,fade=0,color=1,title=bg_Chireiden,bgm=bgm_talk_kaikidan>
+
+Satori0b:Mngh...
+
+<SE=se_talk_cloth01.ogg,wait=1>
+
+Satori0d:...It seems I've overslept a bit. But then, lately I haven't been sleeping very well.
+
+Satori0a:I believe we're expecting guests today...
+
+Koishi5a:*yawn* Good morning, Satori.
+
+Satori2b:Koishi? When did you get back?
+
+Koishi0a:Huh? I dunno, but I'm borrowing your pajamas.
+
+Koishi0a:You looked like you were having a nightmare. Did something bad happen?
+
+Satori0d:No, it's nothing like that...
+
+<SE=se_talk_knock02.ogg,wait=1>
+
+Satori0a:...Who's there?
+
+<SE=se_talk_door_open05.ogg,wait=1>
+
+Orin1e:Miss Satori! The guests are here. You have to get ready!
+
+Koishi0b:Orin! Good morning.
+
+Orin2b:Meow?! Miss Koishi's here too?
+
+Satori0c:Thank you, Orin. I only just woke up.
+
+Satori0a:I'll be right over. Get some tea ready.
+
+Orin5b:I don't do well with hot water, but alright...
+
+<SE=se_talk_door_close02.ogg,wait=1>
+
+Satori0b:Okay, Koishi. I have to get up and get dressed now.
+
+Satori0a:I'll make breakfast shortly. You can join us for—
+
+Koishi2b:Sis, are the guests Underworlders?
+
+Satori2b:Well, yes. They wanted to discuss some things with me.
+
+Koishi0a:You're just gonna tire yourself out talking with people.
+
+Koishi5a:Deep down, nobody likes us.
+
+Satori0a:Don't worry, our guests today are better than that.
+
+Satori0d:If you're curious, you could always...
+
+<nowindow>
+
+<Code=(demo_wait,60)>
+
+<single>
+
+</nowindow>
+
+Satori0b:...Never mind, she's gone.
+
+</single>
+
+<BG=bg_talk_Chireiden.png,fade=0,color=1,title=*bg_Chireiden>
+
+Orin0a:Miss Satori should be here any minute now.
+
+Yamame3c:Sorry about makin' you serve us tea and all.
+
+<SE=se_talk_walk_indoor04.ogg,wait=1>
+
+<single>
+
+Yamame1d:...Sheesh, did we come here too early in the morning or something?
+
+</single>
+
+<hide=name>
+
+Yugi5a:C'mon, this far down there's not much difference between night and day.
+
+Yugi0a:And hey, aren't us Old Capital folks drinking all the time anyway? Both sleeping and awake.
+
+</hide>
+
+Yamame4a:Speak for yourself. You oni types, I swear...
+
+<SE=se_talk_walk_indoor04.ogg,wait=1>
+
+Satori0c:Sorry for the wait. Welcome to the Palace of Earth Spirits.
+
+<hide=name>
+
+Yugi3c:Hey, took you long enough. Hope you don't mind us poppin' in.
+
+</hide>
+
+Satori2b:Yuugi? You're here as well?
+
+Yugi0a:This isn't my kinda thing, but I guess I'm tagging along.
+
+Yugi5b:We came here for... Wait, I don't have to say it out loud, do I?
+
+Satori0c:Right, you came to talk about Koishi.
+
+Yugi1a:That makes this quick then. There's a rumor about her going around the Underworld.
+
+Yamame0d:I'll just ask. How's your little sister been doing lately?
+
+Yamame0a:I think it's about time we heard the reason why she's been acting funny.
+
+Satori0b:You say she's acting funny?
+
+Yugi0b:Yeah. I mean, you're all getting along here in the Palace of Earth Spirits, right?
+
+Yugi1g:But your sister's always wandering around all over the place.
+
+Yamame0b:One moment you think she's there, and the next she's gone. When you try to talk to her it's not exactly what I'd call a conversation.
+
+Yamame0d:And word is that she's lost her power as a satori.
+
+Satori0b:I hadn't realized the rumors had spread so far.
+
+Satori0b:Koishi has closed her third eye, which she needs to read minds.
+
+Yamame1d:You mean that eyeball on your chest?
+
+Yugi2a:So that's what's been up with her. Her eye's closed.
+
+Yamame0d:But how does that lead to what she's been doing?
+
+Yamame0b:A lot of youkai are suspicious about where she is and what she's up to.
+
+Satori0b:Where she is and what she's up to, hm...
+
+Satori0b:Neither I, nor Koishi herself, know the answer to that.
+
+Yugi5b:Huh? You don't know?
+
+Satori0b:...By closing her third eye, Koishi attained the power to control the unconscious.
+
+Satori0a:That power has made it so that nobody is cognizant of what she does.
+
+Yamame0b:...I get it, so that's how she just pops up out of nowhere.
+
+Satori0b:Unfortunately, she's no exception. Koishi isn't cognizant of what she does, either.
+
+Yugi2a:Hold on here. You said that pretty casually, but isn't that a huge deal?
+
+Yugi0b:If she can't tell what she's doing, doesn't that mean she's not in control of her body?
+
+Yamame0b:That means there's no telling where she'll go.
+
+Yamame0d:She might even be going to the surface...
+
+Satori0b:...
+
+Yugi2a:...Y'know, I don't mean to be rude, but shouldn't you have been keeping a better eye on her?
+
+Yugi0b:If something happens, won't that affect everyone in the Palace of Earth Spirits?
+
+Satori0b:It's alright. This is between the two of us.
+
+Satori0d:I know Koishi better than anyone.
+
+Yugi4b:Well, okay. If you feel that strongly about it, I won't tell you your business.
+
+Yamame0d:Just keep in mind that we're worried about this too.
+
+Yamame0a:This is something that could affect the entire Underworld, so keep us in the loop if anything comes up.
+
+<SE=se_talk_walk_indoor04.ogg,wait=1>
+
+<single>
+
+Orin1d:...
+
+</single>
+
+<BG=bg_talk_Chitei.png,fade=1,color=1,title=bg_Chitei,bgm=bgm_talk_ningyo>
+
+<SE=se_talk_drop01.ogg,wait=0>
+
+<Code=(demo_wait,12)>
+
+<Code=(map_shake,1,10,3)>
+
+<Code=(demo_wait,15)>
+
+Utsuho3c:...Phew, that should be enough fuel for today.
+
+Utsuho3a:Is there anything else I can do? Hmm, I feel like there was something...
+
+<SE=se_talk_walk_outdoor01.ogg,wait=1>
+
+Orin0a:Hey, Okuu. Good work.
+
+Utsuho0e:You too, Orin.
+
+Utsuho4e:Wait, you're so worn out! Did something happen?
+
+Orin5b:Yeah, some big-shot oni and an Underworld youkai came to the palace.
+
+Orin0a:Yuugi Hoshiguma of the Four Devas, and the tsuchigumo—
+
+Utsuho3d:Yagirl Kurodani!
+
+Orin7b:Ya-MAME. Seems like they were worried about Miss Koishi too.
+
+Utsuho2c:They were?
+
+Orin0c:Yeah. Apparently the Underworlders don't know about her power over the unconscious.
+
+Orin0a:So they came directly to ask what's been going on.
+
+Utsuho0e:Makes sense. Only Miss Satori would know much about that.
+
+Orin5a:...Honestly, I can't tell what Miss Satori's been thinking lately.
+
+Orin0d:She's been treating Miss Koishi like nothing's changed, but she can't read her mind like she used to.
+
+Orin5b:I'm sure deep down, being shut out of Miss Koishi's mind hurts Miss Satori more than anyone else...
+
+Utsuho0c:And no matter how many times we ask, she always just tells us it's fine.
+
+Utsuho2c:But ever since what happened, she hasn't smiled the way she used to.
+
+Orin5b:For someone who can't remember people's names to save your life, you have a weirdly good memory sometimes.
+
+Utsuho2c:Well, sure, whenever it relates to Miss Satori or Miss Koishi.
+
+Utsuho2c:...Hey, Orin. If I had a special power too, do you think I could be more useful to those two?
+
+Orin1f:Huh? Where do you get that idea?
+
+Utsuho2c:Don't you use your power to control spirits to help out Miss Satori?
+
+Utsuho2d:I don't have anything like that... It's frustrating not being able to do anything.
+
+Orin0a:Silly crow. Miss Satori give us both the jobs best suited for us, remember?
+
+Orin4c:You don't have to go to extra lengths to prove anything. I know how hard you work already.
+
+Utsuho2d:Mm...
+
+Orin4a:I'd better get back to work. See you.
+
+<SE=se_talk_walk_outdoor01.ogg,wait=1>
+
+<single>
+
+Utsuho2c:Orin's being nice about it, but I still hate being like this.
+
+Utsuho2d:Just a little while ago, we were all living happily together, so why...?
+
+</single>
+
+<hide=all>
+
+Kanako0a:Underworld crow...
+
+</hide>
+
+Utsuho0a:...?
+
+Utsuho0c:What's going on? I thought I just heard a voice...
+
+<hide=all>
+
+Kanako0c:Your name is Okuu, yes? I'm speaking directly to your mind.
+
+Suwako0d:We can't meet face-to-face. Hope that's okay.
+
+</hide>
+
+Utsuho1b:Huh? Is someone there?
+
+<hide=all>
+
+Kanako0a:We are gods. We have come to ask something of you.
+
+</hide>
+
+Utsuho1d:Gods? Like, in heaven? And you came to talk...?
+
+<hide=all>
+
+Suwako0a:Eh, that's the basic idea. Don't worry, though, we can keep this casual.
+
+Suwako0d:I want to ask you something. What do you think about people with powerful abilities?
+
+</hide>
+
+Utsuho0c:Powerful abilities...?
+
+<hide=all>
+
+Kanako0a:Indeed. For example, the power of the sun that shines on the surface.
+
+</hide>
+
+Utsuho2d:Hmm... I don't really get complicated stuff like that, but I guess I envy them.
+
+Utsuho0a:If I had a power that let me do cool things, I could be more useful.
+
+<hide=all>
+
+Kanako0a:You want to be useful, hm? You seem to have an altruistic heart.
+
+Kanako0a:And while you have no special powers, your spiritual capacity is quite immense.
+
+Suwako0c:A spotless mind in an empty body. You're perfectly suited to be a vessel.
+
+</hide>
+
+Utsuho1b:Hold on. Why are you asking all this?
+
+<hide=all>
+
+Kanako0a:A fair question. Let's cut to the chase and ask the most important question.
+
+Kanako1b:Okuu, do you desire power?
+
+</hide>
+
+Utsuho2c:Power, huh...
+
+<hide=all>
+
+Kanako0a:You have the potential to take on the ultimate energy, that which supports all of creation.
+
+Kanako0a:To become a subterranean sun that illuminates the world.
+
+</hide>
+
+<Code=(transition_out,c_black,90,1)>
+
+<end>
+
+<ChatID:15>----------------------------------------
+//全滅（聖輦船の撃墜）
+
+Murasa0b:No! The Palanquin Ship!
+
+Yorihime0b:Our skynet is inescapable.
+
+Yorihime0a:I wasn't going to sink your ship, but it seems the heavens have sided against you.
+
+Yorihime3a:Earthling ship, become space debris!
+
+Reimu2a:Augh, not like this...!
+
+<end>
+
+<ChatID:16>----------------------------------------
+//全滅（霊夢Rの撃墜）
+
+Reimu2a:Rgh, I actually lost...
+
+Yorihime0b:You've performed well, shrine maiden of Earth.
+
+Yorihime0a:But you cannot be allowed to return to Earth.
+
+Yorihime0c:From now on, you'll put your fighting abilities to use as one of the rabbits under my command.
+
+<end>
+
+<ChatID:17>----------------------------------------
+//初戦闘：レイマリ、アリス、早苗さん、にとり
+
+Marisa2b:We managed to make it this far, but...
+
+Sanae1d:The question is whether we can actually shake them off and make it back to Earth.
+
+Sanae3b:Lady Kanako, Lady Suwako...
+
+Alice4a:Even if we don't come up with a way out of this, all we can do is keep thinking on the move.
+
+Alice1a:If we stop now, our fate will be sealed.
+
+Nitori3a:No kidding. If we get captured and can't get back to Earth, Reimu's shrine will suffer for it too.
+
+Reimu1a:We're going back to Earth. There's no question of that!
+
+<end>
+
+<ChatID:18>----------------------------------------
+//初戦闘：紅魔館
+
+Patchouli4f:What a terrible trip this is.
+
+Sakuya0b:It's not over yet. Not until we're safely back home.
+
+Koakuma5b:B-But can we really make it back?! The pursuit from the moon is already on top of us...
+
+Meiling1a:If push comes to shove, I'll hold them back. Use that time to keep going!
+
+Flan0e:Meiling, you can't!
+
+Remilia1d:Don't be silly. If you do that, it hardly counts as making it home safely, does it?
+
+Remilia1c:We'll make it out of this and enjoy a triumphant return. Don't get any foolish ideas. Just keep pressing onward!
+
+<end>
+
+<ChatID:19>----------------------------------------
+//初戦闘：バカルテト＋橙
+
+Rumia1a:It feels like they keep on creeping up on us.
+
+Chen2b:And I think they're faster than before!
+
+Daiyosei4c:Cirno, what's going to happen to us...?
+
+Cirno2b:D... Don't worry. We're not going out like this!
+
+Wriggle2a:But what are we going to do? I don't think we can rescue Miss Rabbit anymore...
+
+Mystia1c:If we get caught, it's over. Let's just focus on running right now!
+
+<end>
+
+<ChatID:20>----------------------------------------
+//初戦闘：三月精＋プリバ
+
+Sunny3a:I was just along for the ride. I didn't think I'd end up in this mess...
+
+Luna2a:Wh-What do we do?! At this rate, we're never gonna make it back!
+
+Lyrica1b:Stop that! You'll jinx us.
+
+Merlin0a:Don't look back, just keep facing forward!
+
+Star2a:Even if we did get away, we can't be sure they'd give up...
+
+Lunasa0a:Even so, our only option left is to keep moving forward.
+
+Lunasa0a:Let's go, it's just a little bit further!
+
+<end>
+
+<ChatID:21>----------------------------------------
+//初戦闘：命蓮寺
+
+Nazrin6a:We're surrounded! How are we ever gonna break through and make our getaway back to Earth?
+
+Sho1c:Nazrin, resignation won't open any doors!
+
+Nazrin4a:I know that, but you have to admit this is looking pret-ty rough.
+
+Nazrin6a:Considering the distance from here to Earth, and the gap in power between our two sides...
+
+Murasa1b:All we can do is do what we can. We're going home together!
+
+Ichirin1a:Don't look back. Full speed ahead!
+
+<end>
+
+<ChatID:22>----------------------------------------
+//初戦闘：慧音、エリー、くるみ、妖夢
+
+Kurumi2a:Eeek! I don't think we're gonna make it!
+
+Keine7a:Getting captured would leave the people back on Earth worried sick.
+
+Keine7b:Mokou, Akyu, and all of the people in the human village...
+
+Elliy1a:Whoa, slow down, Keine! You're gonna throw me off if you start acting like that!
+
+Keine2b:Yes... You're right. I have a responsibility as the chaperone here!
+
+Youmu1a:Let's press onward, even in this bottomless darkness!
+
+<end>
+
+<ChatID:23>----------------------------------------
+//初戦闘：メーコ、まくら
+
+Meko1b:Look, Lady Makura, the Earth's still so far away!
+
+Meko2c:Not to mention all the giant guns they have behind us! What do we do?!
+
+Makura1c:To muster this much military strength, lunar culture really is quite different from ours.
+
+Makura2a:Or is it something that emerges naturally from the progress of science and technology?
+
+Meko4c:Lady Makura...?
+
+Makura1a:I'm sorry, just a little soliloquizing.
+
+Makura1c:Anyway, there's no need to panic. We simply need to escape the danger.
+
+Meko1b:...Right!
+
+<end>
+
+<ChatID:24>----------------------------------------
+//依姫vs.レイセン
+
+Yorihime0a:...! So you slipped away and made it here?
+
+Yorihime0a:Not only that, you're breaking out of our net...
+
+Reisen0a:Well, y'know, I owe it all to your training, Lady Yorihime!
+
+Yorihime0a:That's all well and good, but aren't you being awful familiar with me?
+
+Reisen0a:Oh, right, I'm not your pet yet in this timeline...
+
+Reisen0a:Better keep my mouth shut and not kick the hornet's nest. For now let's just fight our way out of here!
+
+<end>

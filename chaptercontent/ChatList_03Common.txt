@@ -1,0 +1,1555 @@
+﻿○共通第三話「白銀の従者
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: 2PP
+ 3: first battle vs. Sakuya
+ 4: fail to capture Sakuya
+ 5: after first battle
+ 6-10: battle vs. Sakuya
+11: beat Sakuya
+12: ADVB
+13: lose
+
+<ChatID:0>--------------------------------------------------
+//ADVA
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+<MAP=0,FROM=人間の里,TO=人間の里,name=Human Village,icon=0>
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+<MAP=0,FROM=人間の里,TO=人間の里,name=Human Village,icon=2>
+
+</Cond>
+
+<BG=bg_talk_Village.png,fade=0,color=1,title=bg_Village,bgm=bgm_talk_aoki>
+
+<SE=se_talk_gaya.ogg,wait=1>
+
+<update>
+
+Tenshu0a:Come on in! Our chicken's cheap today!
+
+Tenshu0a:Hey miss, we've got some freshly harvested veggies here. Wanna take a look?
+
+</update>
+
+<hide=name>
+
+Meiling4c:Boy, I just love coming to the market.
+
+Meiling5a:Everyone's so full of energy... Almost makes me wanna start helping out!
+
+Meiling0a:Don't you agree, Sakuya?
+
+</hide>
+
+Sakuya0b:...
+
+<hide=name>
+
+Meiling0c:Sakuya?
+
+</hide>
+
+Sakuya5b:I hear you. It's just a bother to have to yell in order to respond.
+
+Sakuya0b:I'm not a fan of all these noisy crowds. Let's just hurry and finish our errands so we can return.
+
+<hide=name>
+
+Meiling3a:S-Sure...
+
+</hide>
+
+Sakuya5b:I'm glad I happened to run into you here, Meiling. Sorry for asking you to help when you're off-duty.
+
+Meiling5a:Don't worry about it. Carrying bags is easy-peasy!
+
+Meiling1c:I'm good at manual labor. I'll help you out anytime!
+
+Sakuya0b:Is that so? Maybe I should buy some onions, carrots, and rice while I'm at it, then.
+
+Meiling7a:Huh? You still have more you wanna buy?! Not to mention rice...
+
+Sakuya5b:Of course. We have to stock up on daily necessities and perishables while we can.
+
+Meiling3a:I guess that's true...
+
+LadyA0a:My my, if it isn't the gatekeeper! Full of energy as usual, I see.
+
+Meiling5a:Oh, it's the old lady from the dry goods store. Hello!
+
+LadyA0a:Out for some shopping, are we? You've got quite a bit there.
+
+LadyA0a:You're very strong, aren't you? I'm afraid my back won't let me do that.
+
+Meiling5b:Now now, don't count yourself out. Why don't we do some tai chi later? It's good for you.
+
+Meiling5a:Oh, but if you're not feeling well, you might wanna avoid going outside starting tomorrow—
+
+Sakuya0b:Meiling.
+
+Meiling2a:...Yes?
+
+Sakuya0b:We don't have time for idle chatter. Our time here is limited.
+
+Meiling1a:Understood, ma'am! See you later, granny! Take care!
+
+LadyA0a:Alright. See you later.
+
+<SE=se_talk_walk.ogg,wait=0>
+
+Sakuya0b:...
+
+Meiling0b:...
+
+Meiling1d:(This is the second or third time I've gone to the human village with Sakuya, and...)
+
+HumanA0a:...Hey, check it out.
+
+HumanB0a:Oh hey, it's that lady that wears western clothes. I've been seeing her around lately.
+
+HumanC0a:I haven't seen her before. What a weird outfit.
+
+HumanA0a:The owner of the secondhand shop said it's called a maid outfit.
+
+HumanC0a:Looks like it was "maid" for her.
+
+Meiling0a:(Sakuya sure stands out, doesn't she...)
+
+Meiling5a:(However she dresses, she looks so cool from behind. Her back's straight as a board and she walks so elegantly...)
+
+Meiling3a:(It's just...)
+
+Meiling0a:...Uh, Sakuya?
+
+Sakuya0b:Yes?
+
+Meiling0c:Um... Why does it have to be tomorrow?
+
+Meiling0b:It doesn't seem like the humans are paying much attention to the mist.
+
+Meiling3a:A lot of people might take a turn for the worse if we suddenly make it thick...
+
+Sakuya5b:...Why are you worrying about that?
+
+Sakuya0b:As our mistress's servants, it's our job to carry out what she decides.
+
+Meiling3a:That's true, but still...
+
+Sakuya1b:Besides, what happens to the humans isn't our concern.
+
+Meiling1d:...
+
+Meiling3a:But Sakuya, aren't you...?
+
+Tenshu0a:Hey there, what can I get for ya?
+
+Sakuya0b:Could I get ten pounds each of carrots, potatoes, and onions?
+
+Tenshu0a:You must be pretty strong, miss. You sure you can carry all that with those thin arms?
+
+Sakuya5b:I won't be the one carrying them. Meiling, if you would.
+
+Meiling2a:Y-You want me to carry all of it?!
+
+Sakuya0b:That's why you're here, right? I have a few other things to pick up, so let's meet back up somewhere in a bit.
+
+Sakuya1b:Oh, and 30 pounds of rice for her, if you would.
+
+Meiling3c:Aww, man...
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+<BG=bg_talk_Village.png,fade=1,color=1,title=*bg_Village,bgm=bgm_talk_aoki>
+
+Marisa7c:Here, I got some obanyaki for ya. Eat it while it's hot.
+
+Nitori4a:Thanks, Marisa! Time to dig in! *chomp chomp*
+
+Alice2b:Oh, you didn't get taiyaki?
+
+Marisa0d:They were sold out. Sucks, 'cuz the taiyaki here's amazing.
+
+Nitori4c:This is delicious, though! *munch munch*
+
+Marisa6a:It's my treat, so have as much as you want.
+
+Alice0c:I think you mean MY treat. Could I have my purse back?
+
+Alice4a:*huff* I should've known better than to tag along.
+
+Nitori1a:Aww, don't be like that, Alice! Here, have some. It's gonna get cold if you don't hurry up.
+
+Alice0a:Come to think of it, why are you with Marisa? Don't kappa usually live on Youkai Mountain?
+
+Nitori3a:Yeah. I had something I needed to take care of, so I snuck away from the mountain for a bit, but then I got lost in the Forest of Magic.
+
+Nitori0a:Then Marisa came along and helped me out. But people on the mountain found out I snuck off, so it's kinda hard for me to go back now.
+
+Marisa0a:That's when I let her spend the night at my place.
+
+Alice2b:Huh. I never saw you as the charitable type.
+
+Nitori3e:Well, it's half Marisa's fault that I can't go back to the mountain.
+
+Alice0b:...I think I can connect the dots there.
+
+Nitori4b:It all worked out in the end, though. Thanks to her I got to visit the human village!
+
+Marisa3d:Says the person who's been acting all shifty this whole time.
+
+Nitori4c:It's not like I'm scared of humans. As long as they don't come up and talk to me, it's not that different from when I watch them from far away.
+
+Marisa0b:Oh really? Yeah, I guess if you look at 'em from over here...
+
+Marisa0d:Hey, isn't that...?
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+<BG=bg_talk_Village.png,fade=1,color=1,title=bg_Village,bgm=bgm_talk_aoki>
+
+Keine0a:You bought quite a bit there, Reimu.
+
+Reimu0e:I don't hit up the market very often, so I have a lot of shopping to do when I go.
+
+Keine0b:Is your idea of "a lot" just getting an armload of vegetables?
+
+Reimu0c:Heh heh. If this mist gets thicker and the sun gets blocked out, the first thing to go is gonna be the vegetables, right?
+
+Reimu0b:So before the prices go up I'm stockpiling as much as I can.
+
+Keine0b:Hey. It's your job as a shrine maiden to resolve this incident BEFORE that happens. You pick the strangest things to get calculating over...
+
+Reimu0g:I prefer to call it staying on top of things.
+
+Reimu0b:Besides, you bought quite a bit yourself, Keine.
+
+Keine6a:I made plans to eat with someone tonight, so I bought enough for two people.
+
+Reimu0e:Oh? You're gonna be cooking?
+
+Keine3a:They don't really take care of their health, so I have to make sure they eat something nutritious every now and then.
+
+Reimu0f:...
+
+Reimu0c:Yeah, uh-huh.
+
+Keine5a:...?
+
+Keine0b:What's with that look you're giving me?
+
+Reimu0g:Keine, is the person you're cooking for, say, your special someone?
+
+Keine0c:Special someone...? Just what are you getting at?
+
+Keine2a:!
+
+Keine5b:You nitwit! That's not it at all!
+
+Reimu0g:Ooh, you're getting all red! Sure you aren't hiding anything?
+
+Keine5a:Don't be ridiculous! I'm telling you it's nothing like that...
+
+Reimu0c:Ahaha, I'm just kidding. Sorry to make you tag along for my shopping.
+
+Reimu0a:It's gotten pretty late, so why don't we call it a day for now?
+
+Keine0a:Sure. Thanks for helping me out today. We weren't really able to get any information, unfortunately...
+
+Reimu0g:Well, fretting about it won't do any good.
+
+Keine0b:That's true... Since we weren't able to find any clues at the Hieda manor, I guess we'll just have to rely on old-fashioned legwork.
+
+Reimu0c:That's how it usually goes. If this really is an incident, I'll resolve it sometime soon. That was the deal, right?
+
+Keine0c:Wow, someone's sounding reliable now.
+
+Reimu4a:Is that so strange? What, you think I'd lose heart because of something like this?
+
+</Cond>
+
+Marisa0d:Heeeey! Reimuuu!
+
+Keine0c:Hm?
+
+Reimu0e:That voice... Marisa?
+
+Marisa0a:Hey, didn't expect to see you here. The tengu are looking for a shrine maiden.
+
+Reimu0e:The tengu are looking for me?
+
+Marisa0e:No, not you. They're looking for a shrine maiden that's not Reimu, they said.
+
+Keine0b:A shrine maiden... that's not Reimu?
+
+Reimu0d:...Huh? What are you talking about? How could there be another shrine maiden besides me?
+
+Marisa7a:I know, right? But that's what they're saying. Maybe you've got a rival!
+
+Reimu4a:I dunno if I buy it.
+
+Reimu0e:I mean, the tengu are the youkai that make those newspapers filled with gossip, right?
+
+Marisa0b:Oh yeah. Wasn't it called the Bunbunmaru Newspaper or something?
+
+Reimu4a:Yeah. So I wouldn't take what they said that seriously.
+
+Marisa0e:You think? It seemed pretty legit to me...
+
+Marisa0b:So, whatcha doing here? Out for a walk or something?
+
+Reimu2b:Who goes for a walk in the market? Can't you see I'm shopping?
+
+Marisa0a:Huh. Not every day I see you out shopping.
+
+Reimu0d:Hey, I know how to run errands every once in a while.
+
+Keine0c:Is this a friend of yours, Reimu?
+
+Reimu0g:Oh, let me introduce you. This is Marisa Kirisame. She's a magician, or so she claims.
+
+Keine6c:Nice to meet you. My name is Keine Kamishirasawa. I'm a teacher in the human village.
+
+Marisa7c:You're a teacher, huh? Nice to meetcha, Miss Keine.
+
+Reimu3b:So, what are you doing wandering around here all by yourself?
+
+Marisa1b:Oh, I'm not alone. Uh...
+
+Nitori4a:Wait up, Marisa!
+
+Alice0c:Hey, you forgot the obanyaki you were eating!
+
+Reimu0f:You've got a loud friend, huh? I don't think I know this youkai.
+
+Nitori2a:Wah! A human?!
+
+Alice0c:We ARE in the human village. Plus, you're hiding behind a human, you know.
+
+Nitori1a:That's okay, I'm already used to Marisa.
+
+Reimu0e:And hey, I haven't seen you in a while. Ever since, what, the time when you moved here?
+
+Alice0d:Perhaps so. I'm glad to see you're doing well.
+
+Reimu0f:You look like you've gotten a bit taller, though. Have you been growing?
+
+Alice0a:...? What are you talking about?
+
+Keine0a:I'd say you're their chaperone from the looks of it. I'm glad, though. It looks like I finally found someone I can relate to.
+
+Alice0b:I'm not trying to be their chaperone, for the record. My name's Alice. I'm a magician.
+
+Alice0d:This little kappa here is Nitori. She's on the run from Youkai Mountain.
+
+Nitori2a:I'm not on the run! It's just awkward for me to go back right now!
+
+Alice0c:There you have it.
+
+Reimu4a:Okay, and what's up with this whole eclectic group you've got going on?
+
+Marisa0e:Well, I wasn't gonna tell you yet, but I guess I've got no choice.
+
+Marisa7a:Are you ready for this, Reimu? The truth is—
+
+Reimu4a:Are you done building hype yet? You're just gonna tell me you were investigating this incident or something, right?
+
+Marisa3b:Oof.
+
+Alice0d:Sharp as always.
+
+Reimu0c:Nice try, but you're not getting the jump on me this time.
+
+Reimu0b:We started investigating a loooong time ago.
+
+Marisa2b:Man, really? I was sure you'd still be lazing around at the shrine about now...
+
+Reimu0c:Of course not. Shrine maidens are professional incident resolvers.
+
+Keine0b:Oh, really? If I hadn't dragged you out and made you start investigating, you would be snoozing back at the shrine right now.
+
+Reimu2b:Oof.
+
+Marisa7c:Heh. That's about what I figured.
+
+Reimu2b:...You're mean, Keine.
+
+Keine5a:What? It's true, isn't it?
+
+Nitori3e:So, are you two on your way back from investigating or something?
+
+Keine0c:Yes. Unfortunately, we weren't able to gather any useful information, though. What about you?
+
+Marisa0b:We're doing so-so. Looking for a suspicious maid.
+
+Reimu0f:A suspicious... maid? What does a maid have to do with this mist?
+
+Marisa4a:We dunno yet. All we heard was that some suspicious maid that no one's ever seen before came to the village.
+
+Marisa1b:If there's a suspicious maid, she's gotta have a suspicious boss, right? Maybe that's the ringleader.
+
+Reimu0g:What if it's just a stray maid with no boss?
+
+Keine4a:Ah, that IS a possibility...
+
+Nitori2a:No, it really isn't.
+
+Keine0c:In any case, where did you hear something like that?
+
+Marisa0b:I heard it from this one fairy I know. My social network's as wide as Argo Navis.
+
+Reimu0f:Can you really trust something a fairy told you?
+
+Marisa1c:I know what you mean, but we didn't have any other leads to go on. Gotta start somewhere, right?
+
+Keine0a:That's reasonable. However, the village isn't a small place. I'm not sure if you'll be able to find her...
+
+Reimu0c:You'd be surprised. These things have a way of working out.
+
+Marisa7a:Yeah! You never know. She might be drinking tea right over there.
+
+Nitori4d:Yeah, right! There's no way it'll be that easy to—
+
+<hide=name>
+
+Sakuya0b:...
+
+</hide>
+
+Nitori2a:...Uh.
+
+Marisa0d:What's up?
+
+Nitori1d:You don't think that's the maid standing right over there, do you? She looks just like the ones I've seen in books!
+
+Marisa1a:Wait, really?! Alright, let's get her!
+
+<BG=bg_talk_Village.png,fade=0,color=1,title=*bg_Village>
+
+Sakuya5c:...She's late.
+
+Sakuya0b:What in the world is Meiling doing? We need to get back to the mansion before the mistress wakes up...
+
+Marisa1c:Hey you, maid! I'm with the Gensokyo Defense Force. I need to ask you a few questions.
+
+Sakuya5b:...Huh?
+
+Marisa7a:Now, why don't you tell me everything you know about this incident?
+
+Sakuya0b:...What are you talking about? I'm rather lost.
+
+Keine1a:Really? Who just barges up and starts pointing fingers out of nowhere?!
+
+Reimu4a:She does that all the time, actually.
+
+Sakuya5b:What exactly is it you want with me?
+
+Keine2a:Look, I'm sorry about her. We're investigating this scarlet mist that's surrounding the human village.
+
+Keine0c:We're trying to gather information from the villagers. You wouldn't happen to know anything, would you?
+
+Sakuya5b:...It's hard to say. That's a very broad question.
+
+Alice2c:In that case, you haven't seen any suspicious people about, have you?
+
+Sakuya0b:"Suspicious" is a rather arbitrary description.
+
+Sakuya5b:My answer is no, regardless. If I had to name anyone suspicious around here, it would be your group.
+
+Marisa1d:Excuse me? You're clearly the most suspicious one h—mph!
+
+Alice0c:Shush. Don't make this conversation anymore tedious than it already is.
+
+Keine3a:...I understand. Thank you for your time. We'll continue our investigation.
+
+Nitori3e:You sure we shouldn't have pressed her more?
+
+Keine4a:It would have been rude. If anything, we should be doubting the credibility of our information, considering it came from a fairy.
+
+Nitori3b:I guess that's true...
+
+Sakuya5b:Is that all you needed? I am afraid I need to be meeting someone.
+
+Alice0d:...Yes, that's all. Sorry to bother you.
+
+<SE=se_talk_run.ogg,wait=1>
+
+Meiling0a:Sakuyaaaa! Sorry to keep you waiting.
+
+Sakuya0b:You're late, Meiling.
+
+Meiling5a:I'm sorry! These bags were heavier than I thought. I bet these weigh as much as five Sakuyas!
+
+Meiling0c:Oh, who are these people?
+
+Sakuya0b:Members of the Gensokyo Defense Force. They're apparently investigating the source of the scarlet mist.
+
+Meiling6b:Wait, did you say they're looking into the scarlet mist?
+
+Sakuya5b:Yes, though that conversation is over now—
+
+Meiling7b:No way! They know we're in on it? How'd our cover get blown?!
+
+<Code=(sound_fadeout,BGM,60,0)>
+
+Keine2b:...Huh?
+
+Sakuya5c:...Meiling?
+
+Meiling1c:Well, don't worry! I, Hong Meiling, the scarlet devil's dragon, will protect you!
+
+Meiling1a:Don't worry about me, Sakuya! Hurry up and get back to the mansion!
+
+Meiling0b:...Wait, huh?
+
+Marisa7a:Heh heh heh... Talk about a classic case of letting the cat out of the bag.
+
+Reimu4a:I wish it was always this easy to find out who's behind an incident.
+
+Meiling3a:Uh, Sakuya? Did I say something wrong?
+
+Sakuya5c:...Forget it. There's no point in hiding it anymore.
+
+Sakuya5b:Yes, we know everything about this mist.
+
+<BGM=bgm_talk_interlude02,0>
+
+Nitori2a:Whoa, hold up. Are you serious?!
+
+Sakuya0b:You'll never find out whether I am or not.
+
+Alice1b:...Not so fast. I'm not sure I see where this is going. Mind slowing down a bit?
+
+Keine1a:I agree! If you don't stop the mist soon, the humans will—
+
+Sakuya0b:I have no interest in what happens to the humans.
+
+Sakuya0b:For that matter, it's not my call whether or not the mist abates.
+
+Nitori2a:How can you say that? Aren't you human too?
+
+Reimu0a:Why don't we cut to the chase? If you can't stop it then take us to someone who can.
+
+Sakuya1b:I'll certainly do nothing of the sort. This conversation is over. We're leaving, Meiling.
+
+Meiling1a:Y-Yes, ma'am!
+
+<SE=se_move_bania02.ogg,wait=1>
+
+Alice1a:They're getting away!
+
+Marisa1a:I can see that! If we let them get away now, we're back to square one. Let's follow them!
+
+Nitori1d:I still can't believe the maid was actually connected to the mist.
+
+Keine0b:This is all so sudden, I can barely keep up.
+
+Reimu0g:There, you see? Like I said, these things tend to work out.
+
+<end>
+
+<ChatID:1>--------------------------------------------------
+//1PP
+
+Marisa1a:There they are! Over there!
+
+Meiling1a:They're coming, Sakuya!
+
+Sakuya0b:Ohoh. And here I figured we'd lose them if we took to the air.
+
+Reimu0d:Of course we know how to fly. Who doesn't?
+
+Keine0b:Most people, actually.
+
+Keine0a:Anyway, I'd like a proper explanation now, please.
+
+Alice0a:You're still hoping for an answer? I wouldn't hold my breath if I were you.
+
+Sakuya0b:At least someone gets it. I have nothing to discuss with any of you.
+
+Nitori0a:Looks like your plea fell on deaf ears.
+
+Reimu1a:Then I guess you'll just have to tell us after we knock you out of the air!
+
+Sakuya0b:If that's how it has to be. Go on ahead, Meiling.
+
+Meiling1a:Out of the question. I'll fight with you!
+
+Sakuya0b:Even holding all that baggage? I'll be fine. Just get going.
+
+Sakuya0b:Surely you know that stalling for time is one of my specialties.
+
+Meiling0b:...Okay. I'll be waiting for you back at the mansion.
+
+<pause>
+
+Sakuya5b:Now then, a fight, was it? I'll make this brief.
+
+Marisa0a:You've got guts taking us on all by yourself.
+
+Sakuya0b:How foolish. Take a better look.
+
+<pause>
+
+Reimu3c:What are fairies doing out here?!
+
+Alice0a:Did she actually anticipate being followed?
+
+Keine0a:She lured us to an area filled with fairies. Smart play.
+
+Sakuya0b:You won't be able to so much as lay a finger on me. But by all means, enjoy your dance with the fairies.
+
+Marisa2b:She's mocking us! I can cross this distance in a—
+
+Nitori2a:Marisa, up ahead!
+
+Marisa2b:!
+
+<pause>
+
+Marisa2b:What the heck? Do you fairies really think you can stop me?!
+
+Keine1a:These fairies have been empowered by the scarlet mist. One misstep and you could be done for.
+
+Marisa2b:But at this rate, she might get away from us.
+
+Marisa1a:Alright, time to [Accel]!
+
+Nitori2a:You've got an idea, Marisa?
+
+Marisa0a:Just from pure force of will, I should be able to bust through even faster than usual!
+
+Keine0a:I see. So by raising your Spirits, you temporarily gain a burst of speed.
+
+Alice0a:In that case, I'll [Focus] on the battle.
+
+Reimu0b:I should be able to land a hit and avoid taking any of my own with my [Sense].
+
+Nitori1a:Then I'll [Scan] the enemy and back you up!
+
+Keine1a:Together, there's no wall we can't overcome!
+
+Sakuya0b:Do you really think you can defeat me simply by joining forces?
+
+Sakuya0b:If you break past the fairies, then I'll show you the difference in power between us.
+
+Reimu1a:We'll see about that. Just you wait. Let's go, everyone!
+
+<Cond=(GLOBAL_VAR,is_NG0,==,0)>
+
+<TIPS=SPIRIT>
+
+</Cond>
+
+<end>
+
+<ChatID:2>--------------------------------------------------
+//2PP八卦炉会話
+
+Reimu0e:Oh yeah, Marisa.
+
+Marisa0a:Hm? What's up?
+
+Reimu0f:What happened to that doohickey you're always carrying around?
+
+Marisa0a:Oh, you mean my hakkero?
+
+Reimu0b:Yeah, that. Weren't you boasting about how you used it to develop some new magic or something recently?
+
+Marisa0a:Yup. I wasn't getting enough power output, though, so I left it at Kourin's so he could give it a tune-up.
+
+Marisa0a:I put a rush on the order. It should be ready tomorrow.
+
+Reimu3c:Wow, Rinnosuke's got it pretty rough.
+
+Keine1a:Hey! We don't have time for idle chatter! Our enemy won't wait for us!
+
+Reimu0d:Yeah, yeah, I'm going already.
+
+Marisa0a:She's a teacher, alright. She's got the lecturing part down pat.
+
+Reimu0b:Tell me about it. She's been scolding me all day.
+
+Reimu1a:We do need to hurry, though. Let's go!
+
+<end>
+
+<ChatID:3>--------------------------------------------------
+//咲夜さんに初攻撃
+
+Marisa1a:Alright! Gotcha!
+
+Sakuya2a:You actually made it here through all that danmaku...
+
+Reimu1a:You clearly didn't give us enough credit. We won't let you escape!
+
+<end>
+
+<ChatID:4>--------------------------------------------------
+//咲夜さんに追いつけなかった場合
+
+Reimu2a:Shoot!
+
+<Code=(icon_set_direction,Sakuya_en,FD_LEFT,0)>
+
+Sakuya5b:I guess this is all you have. Try coming two hours earlier next time.
+
+Alice0c:We could have done this if we actually used teamwork. Now we're back to square one.
+
+Marisa2b:You said it. Man, guess we gotta try again.
+
+<end>
+
+<ChatID:5>--------------------------------------------------
+//咲夜さんを初攻撃後
+
+Reimu0e:Her movements are totally off the wall.
+
+Marisa3a:It's like she can teleport or something. What is she, a youkai?
+
+Alice0a:No. I can't sense any particular sort of magic from her. She's another ordinary human.
+
+Marisa2b:What?!
+
+Reimu0f:Well, she does look like a human.
+
+Sakuya0b:...Did you say ordinary human? I would prefer if you did not lump me with humans of that caliber.
+
+Reimu2b:Look, a human's a human, okay?
+
+Sakuya1a:You still insist on saying that? Then I'll give you a small taste of my power.
+
+<pause>
+
+Nitori2a:Gyah, what's that?!
+
+Keine0a:A spellcard! Looks like she isn't your average, everyday maid.
+
+Nitori2a:What's a spellcard?
+
+Reimu0a:When danmaku is given a name, it's called a spellcard.
+
+Reimu0a:By giving it a name, it has meaning. And because it has meaning, it has power.
+
+Nitori2a:Uh...?
+
+Marisa0a:Reimu just sucks at explaining things. Basically, it's a danmaku super move.
+
+Marisa0a:They're trump cards with special effects you can't ignore even in focused mode.
+
+Nitori2a:Then what do we do?
+
+Alice1a:Simple. The only way is to cut through it and defeat the opponent.
+
+Alice1a:Or if that's impossible, she should let up if we can avoid it long enough.
+
+Keine1a:So either break the spell or avoid it! Use your own judgment!
+
+Reimu1a:We're out of time to chat, she's coming!
+
+<Cond=(GLOBAL_VAR,is_NG0,==,0)>
+
+<TIPS=SPELL>
+
+</Cond>
+
+<end>
+
+<ChatID:6>--------------------------------------------------
+//霊夢vs咲夜
+
+Sakuya0b:Your movements have been strange this whole time.
+
+Sakuya0b:You seem like you're moving slowly, yet you mysteriously manage to close in on your target.
+
+Reimu0f:Marisa said the same thing to me at some point. I'm just moving around how I normally do, though.
+
+Sakuya0b:Of course. In the end you're a mere human. You're no match for one who can control space itself!
+
+Reimu1a:We'll see about that!
+
+<end>
+
+<ChatID:7>--------------------------------------------------
+//魔理沙vs咲夜
+
+Marisa0a:If you were sent out to do the shopping, does that make you an underling?
+
+Sakuya0b:No, not at all. I'm the head maid. The other maids are simply too unreliable.
+
+Marisa0a:So if I can beat you then I get to be the head maid.
+
+Sakuya5b:The number of people who have said that only to be defeated are more numerous than the number of planets in the solar system.
+
+<end>
+
+<ChatID:8>--------------------------------------------------
+//慧音vs咲夜
+
+Keine0a:I find it hard to believe you're a human too...
+
+Sakuya0b:I did say not to lump me in with them.
+
+Sakuya0b:And for all you claim to worry about humans, you certainly don't go out of your way to protect the shrine maiden and magician.
+
+Keine1a:Don't lump them all together. I want to protect weaker humans!
+
+<end>
+
+<ChatID:9>--------------------------------------------------
+//にとりvs咲夜
+
+Nitori0a:Wow, this is the first time I've seen a real maid!
+
+Sakuya5b:Don't stare. Maids aren't spectacles for people's amusement, you know.
+
+Nitori1a:I hear they are in the Outside World.
+
+Sakuya0b:..So you intend to treat me like that as well?
+
+Sakuya0b:How amusing. In my world, you're the one that's nothing more than a spectacle.
+
+<end>
+
+<ChatID:10>--------------------------------------------------
+//アリスvs咲夜
+
+Alice0a:When I heard the word "maid", I thought it might be her, but... it seems I was just overthinking it.
+
+Sakuya5b:What are you talking about?
+
+Alice0a:An acquaintance of mine is a maid who uses knives. She's rather good with them, too.
+
+Sakuya0b:Is that so? I wonder if you'll say the same of me once we've exchanged blows.
+
+Alice0b:Hard to say. All the same, this really takes me back.
+
+<end>
+
+<ChatID:11>--------------------------------------------------
+//スペル撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Sakuya0b:...Not bad. I didn't think you'd be able to break my spell.
+
+Marisa0a:Did we get her?
+
+Nitori0a:Not yet, apparently.
+
+Sakuya0b:You're not bad for humans. That was more of a fight than I was expecting.
+
+Sakuya5b:But I've bought enough time, so I'll be leaving now.
+
+Marisa2b:The maid's trying to escape!
+
+Keine0a:Wait, there are still things we want to ask you!
+
+Sakuya0b:You're too late. Try coming two hours earlier.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0) && (LOCAL_VAR,Char1,HP_rate,<=,0.3)>
+
+Sakuya0b:...You're better than I thought.
+
+Marisa3a:Did we get her?
+
+Nitori0a:Not yet, apparently.
+
+Sakuya0b:I wish I could play with you for a bit longer, but it looks like my time is up.
+
+Marisa0a:The maid's trying to escape!
+
+Keine0a:Wait, there are still things we want to ask you!
+
+Sakuya0b:You're too late. Try coming two hours earlier.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0) && (LOCAL_VAR,Char1,HP_rate,>,0.3)>
+
+Marisa2b:Tch, we're out of time!
+
+Sakuya0b:That should be enough time. There's no further point in staying here.
+
+Marisa0a:The maid's trying to escape!
+
+Keine0a:Wait, there are still things we want to ask you!
+
+Sakuya0b:You're too late. Try coming two hours earlier.
+
+</Cond>
+
+<pause>
+
+Marisa0a:She just disappeared... Is that the same move she used before?
+
+Reimu0a:She really gave us the slip. There's no trace of her to be found anywhere.
+
+Keine2a:I can't believe we let her go!
+
+Alice0c:There's no use crying over spilled milk. For now, let's head back to the village and discuss our options.
+
+<end>
+
+<ChatID:12>--------------------------------------------------
+//ADVB
+
+<BG=bg_talk_Village.png,fade=0,color=1,title=bg_Village,bgm=bgm_talk_ningyo>
+
+Reimu2b:She got away from us.
+
+Marisa2b:Boy, she sure knows how to beat a retreat.
+
+Alice0a:Her ability to teleport was a real nuisance, and she was quite skilled.
+
+Nitori0a:You guys are pretty far beyond human yourselves, and she's on the same level.
+
+Keine1a:Could we discuss something useful for a change? Here I thought we'd finally found a clue, but we're back to square one!
+
+Alice0a:I wouldn't say that. Now we know there's some suspicious characters about.
+
+Reimu0b:Well, that's true.
+
+Nitori0a:How is that useful info?
+
+Marisa0a:It establishes that this mist ain't a natural phenomenon. Someone's behind it.
+
+Marisa0a:That red-haired lady was carrying a mountain of food. They gotta have a base somewhere.
+
+Keine0a:...I see. So we're facing an enemy with some level of organizational capacity.
+
+Alice0a:That seems likely, at least if you assume everything that maid said was true.
+
+Keine0a:And as we know there's suspicious people wandering around, that lets us narrow down our methods of investigation.
+
+Keine0a:Alright. I think we should try to find out more about that girl. Let's ask around with the villagers.
+
+Reimu0g:Good call. I'll try to look into things on my end.
+
+Reimu4a:But, how about we call it a day for now? We've been working non-stop since lunch. I'm starving.
+
+Nitori3a:Yeah, I'm pretty hungry too since I ate all the cucumbers I bought during the battle.
+
+Keine0a:No, we need to start investigating right now. There should be still quite a few people who saw the maid around, right?
+
+Nitori2a:Right now?! It's gonna get dark!
+
+Marisa0a:Yo, Miss Keine. You can't use danmaku on an empty stomach, y'know.
+
+Marisa0a:Plus, you've got quite a few bags there. Won't they go bad if you hang around too long?
+
+Keine3a:Oh, that's right. I need to go make dinner.
+
+Reimu0f:This might not be my business, but you might wanna change clothes.
+
+Reimu0g:You always attack head on, so they got pretty messed up.
+
+Keine2b:I... suppose you're right. Fine, we'll take a break for now.
+
+Alice0a:A wise decision. It's not efficient to let fatigue keep building up.
+
+Reimu0g:I'm even more worn out after debating with Keine. Let's call it a night.
+
+Marisa0a:Yeah, the sun's going down.
+
+Nitori3a:What should I do...?
+
+Marisa0a:Hm? Still too awkward to go back to the mountain?
+
+Nitori0a:I mean, I just left. And anyway, I'm super curious about this mist incident.
+
+Nitori0a:If I went back now, I wouldn't be able to leave again for a while. I wanna hang out with you a little longer, if that's cool.
+
+Marisa0a:That's a pretty tricky situation. Wanna stay at my place again tonight?
+
+Nitori0a:Really? I'd like that, thanks!
+
+Alice0a:...
+
+Keine0a:What's wrong, Alice? You're frowning.
+
+Alice0b:Nothing, really. I just think it's careless to let a youkai you barely know sleep in your house.
+
+Alice0c:Don't come crying to me if your shirikodama's gone when you wake up.
+
+Nitori3a:Ugh, Marisa tosses and turns so much, I wouldn't even have the energy to try.
+
+Marisa3d:Real cute, from the person who swiped my blanket.
+
+Reimu0e:Wow, you two are really hitting it off.
+
+Nitori1a:Oh yeah, why don't you join us, Alice? I've been wanting to ask you about your dolls.
+
+Alice0c:Sorry, but I'll pass. I'm exhausted. I think I'll go home so I can sleep on a nice soft bed.
+
+Nitori3e:Oh, okay. I guess I'll ask the next time we see each other, then.
+
+Keine0a:Well, I need to be heading out. You all should go straight home now. No side trips, okay?
+
+Reimu0b:We aren't kids, you know. We'll be fine. Anyway, good work today, Keine.
+
+<MAP=3,FROM=魔法の森,TO=魔法の森,name=Forest of Magic,icon=2>
+
+<BG=*bg_talk_Road_Night.png,fade=1,color=1,title=*bg_Forest,bgm=bgm_talk_aoki>
+
+Nitori3a:Hey, Marisa. Are we making another side trip today?
+
+Marisa6a:It's not a side trip. I'm lookin' for some rare mushrooms.
+
+Marisa0a:...That's weird. I coulda sworn they grew around here.
+
+Nitori1a:Hm, well, guess I don't mind...
+
+Nitori0a:You know, we couldn't figure out what the cause of the mist was today. Though at least we met that weird maid.
+
+Marisa0a:Yeah, and we let her slip away. Still, better than coming up empty-handed.
+
+Nitori4c:I had a lot of fun. I made some more human friends, so I guess that's what I got out of it.
+
+Nitori0a:So, did you find the mushrooms you were looking for?
+
+Marisa4c:...No. I got no clue where they went. Maybe I'm looking in the wrong place.
+
+Marisa1c:Hey Nitori, you don't see any rare mushrooms around there, do ya?
+
+Nitori2a:What? Why are you asking me? I don't know which ones are rare...
+
+Nitori0a:...Whoa. There's a huge spore floating over here, Marisa. Why don't you grow this?
+
+Marisa1d:A huge spore? What're you talking about...?
+
+KedamaW0a:...
+
+Marisa3a:...What? This ain't a spore. It's a kedama.
+
+Nitori3e:Oh yeah, you might be right. It's floating.
+
+Marisa1a:Here I go... Hup!
+
+<SE=se_move_swing01.ogg,wait=1>
+
+KedamaW0a:...!
+
+Marisa3a:Hey, don't run when I'm trying to catch you!
+
+Nitori0b:I guess that means it's alive.
+
+Marisa1a:Hyah! C'mere!
+
+<SE=se_move_swing01.ogg,wait=1>
+
+<SE=se_move_swing01.ogg,wait=1>
+
+Nitori2a:Oh man, she's getting all worked up. You better watch where you're going!
+
+Marisa1a:You don't need to tell me! Get back here!
+
+<SE=se_hit_dageki_S01.ogg,wait=0>
+
+<Code=(map_shake,1,45,6)>
+
+<Code=(demo_wait,45)>
+
+Nitori2a:There, see? What did I tell you?
+
+KedamaW0a:...
+
+Nitori0a:The kedama's gone. Let's go home.
+
+Nitori0a:Uh, Marisa?
+
+Marisa2a:...
+
+Nitori2a:Wah! The kedama got Marisa!
+
+Marisa0e:Shut it. I'm fine!
+
+Marisa0a:I found the mushrooms I was lookin' for. There're a whole bunch of 'em right where I fell!
+
+Nitori1a:Awesome! What'll you use those mushrooms for?
+
+Marisa6a:These're gonna be fuel for some new magic of mine.
+
+Marisa7c:With this many, I won't have to worry about running out of ammo for a while. I'll have to show ya sometime.
+
+Marisa0a:Boy, I sure lucked out following that kedama. My curiosity really paid off.
+
+Nitori0a:Guess sometimes it pays to get all worked up. Let's head back now.
+
+Nitori1a:Wait, those mushrooms are a weird color too. Aren't you gonna take some of those back?
+
+Marisa0d:Hey, I thought we weren't supposed to take any side trips.
+
+KedamaW0a:...
+
+<MAP=3,FROM=紅魔館,TO=紅魔館,name=???,icon=5>
+
+<BG=*bg_talk_Koumakan_Int_Night.png,fade=1,color=1,title=*bg_Unknown,bgm=bgm_talk_unknown>
+
+Sakuya0b:I have returned, Lady Remilia.
+
+Remilia0a:A bit late, aren't you? I was so tired of waiting that I went ahead and ate supper already.
+
+Sakuya0b:My apologies. I was assaulted by some odd humans.
+
+Remilia0b:Odd humans?
+
+Sakuya5b:Yes. They were able to deal with fairies and kedama quite handily.
+
+Sakuya0b:They appeared to be searching for the source of the mist. They may even arrive here.
+
+Remilia1a:Ohoh. It's not every day I see you worried, Sakuya.
+
+Sakuya0b:...Excuse me. I was out of line in saying that.
+
+Remilia0b:I'm not scolding you. If these humans are enough that you'd warn me, things just got a bit more interesting.
+
+Sakuya0b:They were... a nonsensical group. I've never seen their like before.
+
+Remilia0a:Heh heh... You want them to come here, don't you?
+
+Sakuya5b:Excuse me? I'm not sure I follow.
+
+Remilia0a:It sounded to me like you wanted to see them again.
+
+Sakuya0b:...You must be joking, Mistress. I have no interest in humans.
+
+Remilia0b:If you say so. Could you bring out dessert?
+
+Remilia0a:I think I'd like a deep red tart. One dripping with plenty of blood-colored sauce.
+
+Sakuya0b:...As you wish. I'll be right back.
+
+<Code=(demo_wait,15)>
+
+<single>
+
+Noname0a:Isn't the cranberry sauce I brought exquisite?
+
+</single>
+
+Remilia0b:Oh, I didn't know you were there.
+
+Noname0a:I finished what I needed to do, so now I have more time than I know what to do with.
+
+Noname0a:That human is such an interesting creature.
+
+Remilia0a:Heh heh. Of course. She's my Sakuya, after all.
+
+Noname0a:I'm intrigued. Not so much by the power she holds but by the color of her eyes... They're chilling, like a pair of beautiful ice crystals.
+
+Noname0a:It almost feels like they're wasted on a human. Or perhaps it's because she's human...
+
+Remilia0b:What are you getting at?
+
+Noname0a:I'm jealous. Honestly, I can't believe you're having her do housework. Truly a waste.
+
+Noname0a:She deserves better.
+
+Remilia0a:Sakuya is fine as she is. The finest jewel comes to shine naturally; it needs no polishing.
+
+Noname0a:You've really taken a liking to that girl, haven't you?
+
+Remilia1a:Of course. Sakuya's on a different level than most humans.
+
+Remilia0a:So, the fact that she warned me means she must have met some truly rare humans...
+
+Remilia0a:We've had an interesting brush with fate already.
+
+Noname0a:I have my suspicions as to who those humans are. I'm sure they'll invade here soon.
+
+Remilia0a:I'm looking forward to it. I wonder if they'll manage to make it to me.
+
+Noname0a:Heh heh... Who could say?
+
+Noname0a:In any case, didn't you say tonight you would begin spreading the mist in earnest? What happened to that?
+
+Noname0a:The full moon will come around soon. Isn't this the perfect time to start getting serious?
+
+Remilia0a:I know. Tonight, I'll dye Gensokyo in my scarlet color.
+
+Noname0a:In that case, it should be about three days until the land is completely covered by mist...
+
+Remilia0b:Indeed. In three days, the sun will disappear from Gensokyo.
+
+Remilia0a:Darkness will devour the heavens and fill the land. Soon the era of night will be upon us.
+
+Remilia0a:Once it is...
+
+Noname0a:...I do hope you make the most of it.
+
+Remilia1a:Heh heh heh... Hahahahahaha!
+
+<MAP=3,FROM=霧雨邸,TO=霧雨邸,name=Kirisame Residence,icon=2>
+
+<BG=*bg_talk_Marisa_Night.png,fade=1,color=1,title=*bg_Marisa,bgm=bgm_talk_aoki>
+
+Marisa0a:Well, here we are. Home sweet home.
+
+Nitori0a:This place really is a mess.
+
+Marisa3d:What? Last night you were running around fiddling with stuff like it was the best thing ever.
+
+Nitori0a:Ahaha. Well, I guess my workshop is just as messy.
+
+Marisa0a:So...
+
+KedamaW0a:...
+
+Nitori0a:What's with this kedama? After that whole wild goose chase, it just followed us here anyway.
+
+Marisa0a:I don't think I've done anything to get a kedama to grow attached to me...
+
+Nitori0a:All it's doing is floating there... It's suspicious. Maybe we should just get rid of it.
+
+KedamaW0a:...!
+
+Marisa0a:No way! That's a waste. Isn't it neat?
+
+Marisa0a:From the looks of it, I don't think it needs to be fed, and I don't think they snore. It's perfect for a pet.
+
+Nitori0a:I dunno about food, but you're probably right about the snoring.
+
+Marisa0a:Maybe it can learn tricks. I could use this for my danmaku...
+
+Marisa0a:Alright, I'm gonna catch it so it won't run away.
+
+Nitori0a:Didn't you fail miserably when you tried to catch it before?
+
+Marisa0a:Heh. Did you forget this is my house?
+
+Marisa0a:Just in case something like this happens, I have... ta-da! A bug-catching net!
+
+Nitori0a:Ah! A kid's best friend during summer vacation!
+
+KedamaW0a:...!
+
+Marisa1a:Hyah!
+
+<SE=se_move_swing01.ogg,wait=0>
+
+<Code=(map_shake,1,30,6)>
+
+<Code=(demo_wait,30)>
+
+KedamaW0a:...!!
+
+Marisa0a:That was easy. Hey Nitori, hand me that empty bottle.
+
+Nitori1b:Roger! Wait, what is this? It smells kinda weird.
+
+Marisa0a:Yup, I was keepin' enoki mushrooms in there.
+
+KedamaW0a:...!
+
+<Code=(map_shake,1,45,6)>
+
+<Code=(demo_wait,45)>
+
+Nitori2a:It's struggling! I guess it can understand what we say? It must really dislike enoki mushrooms!
+
+Marisa0a:Well, too bad for it. In you go, little buddy.
+
+KedamaW0a:...!!
+
+Marisa0a:There we go, all bottled up. I'll tame it once it calms down.
+
+Nitori0a:I think you're on pretty bad terms with it now, though.
+
+KedamaW0a:...
+
+Marisa0a:Enoki mushrooms are great, okay? I won't let my pet be picky about what it eats.
+
+Marisa0a:Now, what should I call it? It's white, so I guess Shiro's fine.
+
+Shiro0a:...
+
+Nitori0a:Kind of a basic name there.
+
+Marisa0a:Hard to forget, right? Anyway, I'm worn out from all this excitement. Let's get some sleep.
+
+<BG=bg_talk_Marisa_Night.png,fade=1,color=1,title=*bg_Marisa,bgm=bgm_talk_insect>
+
+Nitori0a:Let's see, what else is here...
+
+Nitori0a:Hey, with a bit of work I think this refrigerator could work again.
+
+Nitori0a:It's such a waste to leave all this cool stuff just lying around. Hey, Marisa, can I have this?
+
+<hide=face>
+
+Marisa0a:...
+
+</hide>
+
+Nitori0a:Marisa?
+
+<hide=face>
+
+Marisa0a:Zzz...
+
+</hide>
+
+Nitori0a:Oh, she fell asleep. Lame.
+
+Nitori1a:Oh well. I guess I'll just do a bit of treasure hunting on my own. Ooh, what's this...?
+
+<BG=bg_talk_Black.png,fade=1,color=1,title=*bg_Unknown>
+
+<Code=(demo_wait,15)>
+
+Noname0a:...sa, Ma...sa...ou...wake? Ma...ri...
+
+Marisa2a:Mm...
+
+Noname0a:Ma...ri...sa, Marisa.
+
+Marisa3a:Huh? Whoa. Where am I? It's so dark I can't see anything...
+
+Noname0a:Marisa, can you hear me?
+
+Marisa3a:What is this? A dream?
+
+Noname0a:Beyond the...
+
+Noname0a:Head for the scarlet mansion that lies beyond the lake.
+
+Marisa0a:I hear a voice coming from somewhere. What did you say? Could you repeat that?
+
+Noname0a:The source of the scarlet mist lies beyond the lake, in a scarlet mansion.
+
+Noname0a:Please hurry. A crisis will soon be upon the humans.
+
+Marisa0a:A scarlet mansion by the lake? That's where the ringleader behind this incident is?
+
+Marisa3a:Who the heck are you? How do you know this?
+
+Noname0a:The devil who leads them is powerful. Please be... careful...
+
+Marisa1a:Hey! Answer me!
+
+<BG=bg_talk_Marisa_Night.png,fade=1,color=0,title=*bg_Marisa,bgm=bgm_talk_insect>
+
+Marisa1a:...!
+
+Marisa3a:Just a dream...
+
+Marisa3a:That was a weird dream. I don't remember eating any strange mushrooms, though...
+
+Marisa0a:Well, won't do me any good to worry about it now. Guess I'll go back to sleep for a little while.
+
+Marisa0a:...Hm?
+
+Nitori3c:*snore*
+
+Marisa0a:...Sheesh. Look at you, passing out in a pile of junk again. I'm gonna have to carry you to bed myself.
+
+Marisa0a:...Huh.
+
+Shiro0a:...
+
+Marisa0a:The enoki mushroom bottle's by my pillow. I wonder if the smell was what made me have that dream.
+
+Marisa0a:I wonder what's up with this kedama... Kinda weird that it'd come near humans on its own.
+
+Marisa0a:Though, I did find the mushrooms I needed for the Master Spark thanks to it... Might as well be nice to it until I change my mind.
+
+Shiro0a:...
+
+Marisa0a:Oh right, I gotta get up early tomorrow. I better get back to sleep...
+
+Marisa0a:...
+
+Marisa0a:Beyond the lake, huh. Not like we have any better ideas. It can't hurt to check it out.
+
+<end>
+
+<ChatID:13>--------------------------------------------------
+//敗北時
+
+<end>
+
+<ChatID:14>----------------------------------------
+//まくら初戦闘
+
+Makura0d:So if we don't catch her, we'll lose our clue to resolve the incident.
+
+Makura0f:I'm tired from all this walking, but I can't very well leave everything to Mehko.
+
+<end>
+
+<ChatID:15>----------------------------------------
+//メーコ初戦闘
+
+Meko4c:Why does catching someone before they get away sound so familiar?
+
+Meko0a:...
+
+Meko1d:Oh, right! I was the one being chased!
+
+Meko1a:I have mixed feeling about this... Well, whatever, gotta do my best!
+
+<end>
+
+<ChatID:16>----------------------------------------
+//神綺初戦闘
+
+Shinki1a:These village shops are all so charming.
+
+Shinki0a:I should come shopping here with Yumeko sometime.
+
+<end>
+
+<ChatID:17>----------------------------------------
+//依姫初戦闘
+
+Yorihime1b:Another battle at the village?! You will rue the day you—
+
+Yorihime0d:...Hah, never mind. Just a reflex on my part.
+
+<end>
+
+<ChatID:18>----------------------------------------
+//まくらvs.咲夜さん
+
+Makura0f:I'm so tired...
+
+Sakuya1b:How weak. You aren't even fit to be my opponent.
+
+Makura1a:I see you have complete confidence in how special you are.
+
+Sakuya1d:Of course. You'll understand soon enough.
+
+<end>
+
+<ChatID:19>----------------------------------------
+//メーコvs.咲夜さん
+
+Meko1f:I won't let you get away!
+
+Sakuya0b:You think you can catch me? How naive.
+
+Sakuya1d:Your time belongs to me!
+
+<end>
+
+<ChatID:20>----------------------------------------
+//咲夜さんvs.咲夜さん
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Sakuya1b:You're—?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Sakuya0a:Would you believe me if I claimed to be from a different timeline?
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Sakuya1a:You're saying you crossed through time? If so, then you must really be...
+
+Sakuya2a:No use thinking about it. I'll have to deal with you before it creates a paradox.
+
+</nomove>
+
+<end>
+
+<ChatID:21>----------------------------------------
+//咲夜さんvs.美鈴
+
+Sakuya1b:Meiling? I thought you went back before me.
+
+Meiling5a:Ah, yeah, I dropped some potatoes and just got back from picking them up.
+
+Sakuya1b:So be it. Be sure to take back all our groceries. No exceptions.
+
+Meiling3c:Roger that. Sakuya treated people so harsh back then...
+
+<end>
+
+<ChatID:22>----------------------------------------
+//咲夜vs.神綺
+
+Shinki2a:The Sakuya from this time is a little scary.
+
+Sakuya0b:I don't know who you are, but you speak as if you know me.
+
+Sakuya1b:I'd appreciate it if humans from a different world as me stayed out of this.
+
+Shinki0c:Different world? Sounds like you're under all sorts of misunderstandings.
+
+<end>
+
+<ChatID:23>----------------------------------------
+//咲夜vs.夢子
+
+Sakuya1b:Those clothes...
+
+Yumeko0b:A maid, just like you.
+
+Sakuya5c:Please stop. We live in different worlds.
+
+Yumeko5f:If you mean in terms of skill, you should check before you speak.
+
+<end>
+
+<ChatID:24>----------------------------------------
+//咲夜さんvs.レミリア
+
+Sakuya3b:What are you doing here, Mistress?!
+
+Remilia1e:I was curious how you were doing. Let's have a little match.
+
+Sakuya1b:...Understood. I'll do my utmost not to reveal your identity.
+
+<end>
+
+<ChatID:25>----------------------------------------
+//咲夜さんvs.フラン
+
+Flan0f:Sakuya!
+
+Sakuya3a:The younger mistress?! No, impossible...
+
+Flan1b:Tee hee. What a funny reaction! I never went out back then, so everything's so fun!
+
+<end>
+
+<ChatID:26>----------------------------------------
+//ゆゆ様初戦闘
+
+Yuyuko1c:*huff* Wait up...
+
+Yuyuko0b:Youmu the runner or Yukari the cheater would be better suited for this.
+
+<end>
+
+<ChatID:27>----------------------------------------
+//咲夜さんvs.非想天則（C03）
+
+Tensoku0a:...
+
+Sakuya5b:What's this giant?!
+
+Sakuya1d:The humans' secret weapon? To think they had such technology.
+
+Tensoku0a:...
+
+Sakuya1b:...Regardless, a moving mechical puppet is nothing but a puppet before me.
+
+<end>

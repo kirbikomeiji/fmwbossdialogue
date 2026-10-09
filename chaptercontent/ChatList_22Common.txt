@@ -1,0 +1,1223 @@
+﻿○共通第二十二話「信仰は、はかなき人間のもとに
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: 1st spell
+ 3: Nitori ally
+ 4: Replacement of Nitori
+ 5: 2nd spell (Patche Koa ally)
+ 6: last spell
+ 8: ADVB
+9-27: battle vs. Sanae-san
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<MAP=5,FROM=守矢神社,TO=守矢神社,name=Moriya Shrine,icon=5>
+
+<BG=*bg_talk_Moriya.png,fade=1,color=1,title=*bg_Moriya,bgm=bgm_talk_ningyo>
+
+Sanae0b:...Understood. I'll handle the rest. Your group can withdraw.
+
+HTengu0a:Alright. We'll be going, then.
+
+<SE=se_talk_run.ogg,wait=1>
+
+<Code=(demo_wait,15)>
+
+<single>
+
+Sanae5f:...What a chilly wind. In the Outside World, people are probably starting to wear winter clothing by now.
+
+Sanae3b:It's been months since we've arrived, and we're finally nearing our goal.
+
+Sanae5f:Even if we've passed into fantasy, as long as both of them can recover enough faith...
+
+</single>
+
+Suwako0b:There you are, Sanae. 
+
+Sanae0g:Lady Moriya. Were you taking a walk? 
+
+Suwako3b:Pretty much. There's so much revelry going on all over the mountain, it's got me a little restless.
+
+Suwako0a:It looks like the tengu left. You're not posting them to guard the shrine?
+
+Sanae0b:They can't enter shrine grounds, so I have them stay on the lookout outside instead.
+
+Suwako3a:Oh yeah, Kanako said something like that. Doesn't make much difference to me who comes and goes, but hey...
+
+Suwako0b:Anyway, I hear the Hakurei Shrine Maiden's invading?
+
+Sanae0b:Yes, she should arrive soon.
+
+Sanae1e:If she refuses to listen to reason, I will handle her personally.
+
+Suwako3b:Ooh, nice. I can't wait to see how your power holds up in Gensokyo.
+
+Sanae5f:I am a wind priestess of the Moriya Shrine. I cannot afford to lose.
+
+Suwako3a:Easy there. Not everything ends in a victory or a loss, okay?
+
+Suwako1a:What you've gotta do is get out there and give the stuff we trained on a solid try!
+
+Sanae1c:Yes, ma'am. I'll be back soon.
+
+<MAP=5,FROM=九天の滝,TO=妖怪の山上部3,name=Youkai Mountain,icon=0>
+
+<BG=*bg_talk_Mountain_Waterfall.png,fade=1,color=1,title=*bg_Mountain,bgm=bgm_talk_aoki>
+
+Sunny0a:Wow, Misty Lake looks so teeny from here.
+
+Luna0a:We're really high up. Wanna grab some rocks to take back as souvenirs?
+
+Komachi5a:This is the big moment. Once we're done, how about we hit up a human village bar and party?
+
+Elliy3b:Oh, that sounds nice. Count me in. 
+
+Kurumi4b:The human village, huh... Will they get mad if I come too?
+
+Meiling5a:Don't worry. The village has places where humans and youkai can drink together. 
+
+Rumia3a:Ooh, would they have youkai food?
+
+Luna6b:Somehow I doubt they'd serve what you're picturing.
+
+Daiyosei3b:Still, it's really hard for us to go. There are so many humans... 
+
+Marisa0d:Why go to the village at all when we can just party at the shrine?
+
+Elliy3b:(Ooh, right! We can drink at home!)
+
+Keine0a:That's a great idea. The shrine's the most relaxing place for it.
+
+Reimu3a:Aren't all of you getting a little ahead of yourselves?
+
+Alice0d:They always do. And you'd be welcome to join them, you kn―
+
+Mokou3c:Not interested. You guys have fun on your own.
+
+Alice1a:Rgh...
+
+Elliy5b:Wow, blondie got shot down. I HAVE to tell this to Yuuka. 
+
+Marisa7c:Haha, you look so taken aback. You weren't expecting a flat-out no, were you?
+
+Alice5b:Oh, be quiet.
+
+Keine0c:I note that the tengu are suddenly absent.
+
+Star0c:I don't sense any youkai nearby either.
+
+Komachi2b:They're practically saying "Hey, come on in." Wish I knew what they were up to...
+
+Sakuya5b:What will you do once we reach the Moriya Shrine, Reimu?
+
+Sakuya0a:They've got more faith than you do. What's your plan then, studying how to get more for yourself?
+
+Reimu4a:Like I said earlier, I'll do what I want.
+
+Reimu5c:First I want a better idea of how they operate. Then we'll go from there.
+
+Meiling0c:But isn't the other shrine maiden really powerful? Can things really be settled that easily?
+
+Marisa3a:It'd be great if we could just talk this out... but somehow I doubt that's where this is going.
+
+Komachi1a:A shrine maiden showdown—who will come out on top, the mountain's summit or its foot? Yeah, that's a fun matchup.
+
+Mokou1a:We've come this far with you. Don't embarrass yourself now, okay?
+
+Reimu4a:You don't have to tell me. I'm finishing this here, one way or another.
+
+Reimu1a:Okay, onward to the Moriya Shrine! 
+
+<MAP=5,FROM=河童の谷,TO=河童の谷,name=Kappa Valley,icon=5>
+
+<BG=*bg_talk_Mountain_River.png,fade=1,color=1,title=*bg_Mountain_Kappa,bgm=bgm_talk_aoki>
+
+Nitori3a:*sigh* What should I do... 
+
+<hide=name>
+
+Hina0a:Is something wrong, Nitori?
+
+</hide>
+
+Nitori0a:Oh, Hina. Did you walk all the way here?
+
+Nitori2a:Whoa, you look beat up. Are you okay?!
+
+Hina2a:Don't worry about me, I just had a bit of bad luck.
+
+Hina0b:You, on the other hand, seem down. Is something troubling you? 
+
+Nitori3b:Yeah, there's stuff going on with my human friends, and I don't know what to do.
+
+Hina0b:By friends, do you mean the humans who are invading the mountain?
+
+Hina4a:I tried to send them away, but they insisted on advancing no matter what. 
+
+Nitori3c:Yeah, huh. I did the same thing on the Moriya Shrine's behalf.
+
+Nitori3d:But really, I didn't want to fight them. I barely know anything about the shrine or its god.
+
+Hina0c:Surely your friends must have understood why you fought them. 
+
+Nitori3a:Maybe... But I don't know how I can face them again after our fight.
+
+Hina0a:What do you mean, you don't know how? That's not like you at all, Nitori.
+
+Nitori3e:It's not?
+
+Hina0a:When you find something you want to do, you throw everything you have into it.
+
+Hina3a:So if you ask me, I say you should just be honest with your feelings.
+
+Nitori3e:Hina...
+
+Nitori4b:Yeah, makes sense. I'll never mend bridges with them if I just sit around moping.
+
+Hina3a:Exactly. As long as you want to see them, then meeting with them would give you the best possible outcome.
+
+Nitori4d:Alright. In that case, I'm off to visit Marisa and the others right now!
+
+Hina0a:There you go. Pop in for a visit right now and—
+
+Hina1a:Wait, NOW?! Isn't that a little hasty?!
+
+Nitori1a:Nope, I've made my decision! In times like this, it's best to be direct!
+
+Nitori4d:Thanks, Hina. We should hang out again sometime!
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+Hina4a:She really just got up and left... Well, I suppose this is for the best.
+
+Hina0a:The youkai and the Moriya Shrine are drifting apart. I'm sure whatever happens won't betray her feelings.
+
+Hina3a:Good luck out there, Nitori.
+
+</single>
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP
+
+Marisa0a:We're finally here. Pretty fancy place. 
+
+Alice0a:I wasn't sure I believed it was real before now.
+
+Reimu0a:Here it is—the other shrine.
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,304,336,1)>
+
+<hide=all>
+
+Sanae0b:Yes, this is the Moriya Shrine, a shrine from the forgotten past.
+
+Sanae1a:We brought it with us from the Outside World when we moved here.
+
+</hide>
+
+</nomove>
+
+<pause>
+
+Reimu1a:Sanae.
+
+Sanae0b:So you've come, Reimu.
+
+Keine1a:And by "brought it with us", you mean...
+
+Sanae0b:Yes. Both the shrine itself and the lake are originally from the Outside World.
+
+Meiling1b:Why would you go to such drastic lengths?
+
+Sanae0b:We have but one goal, to acquire human faith.
+
+Sanae1a:Here in Gensokyo, we can regain the faith we lost in the Outside World. 
+
+Alice1a:Now I see. You worked with Youkai Mountain in order to establish a foothold.
+
+Mokou0a:That explains why you want the Hakurei Shrine, too. It's much closer to the human village. 
+
+Sanae0b:Precisely. I don't suppose you'd be willing to cooperate with us?
+
+Reimu4a:Not a chance. What kind of shrine maiden would just hand over her shrine to someone else?
+
+Reimu1a:First, I want to see how you guys operate for myself!
+
+Sanae1c:Alright. Then I shall provide another demonstration of the power of the faith we've gained!
+
+<end>
+
+<ChatID:2>----------------------------------------
+//通常撃破（「海の割れる日発動）
+
+Elliy0a:So far so good!
+
+Meiling1a:There's no way she's putting up a serious fight yet. Stay sharp!
+
+Sanae0b:You're rather good. So you insist on refusing to entrust Gensokyo's faith to us?
+
+Keine1a:Of course. We'll never allow you to take the Hakurei Shrine! 
+
+Komachi0b:Besides, if you want faith so much can't you just work WITH Reimu? Why do you want a monopoly?
+
+Sanae0b:Why? Because the future of Gensokyo's faith worries us.
+
+Sanae1c:If Reimu keeps up her current attitude, it will eventually cause a complete erosion of faith. This state of affairs cannot be ignored.
+
+Reimu4a:I don't get it. Since when were you guys in charge of deciding what's good or bad for Gensokyo?
+
+Reimu5c:You might be a wind priestess or whatever, but don't you think you're being a little too upright?
+
+Sanae0b:Of course not. A wind priestess is a descendant of the long dead living gods of the Outside World.
+
+Sanae0b:Just as worshippers of gods can become worshipped themselves, a shrine maiden is capable of becoming a god.
+
+Sanae1c:Reimu, are you prepared to go that far in your duties?!
+
+Reimu0a:God or not, none of that matters.
+
+Reimu1a:What does is that when I say I'm gonna do something, I do a halfway decent job of it!
+
+Sanae1c:I see. Well then, behold the power of a living god—the power to work miracles! 
+
+<end>
+
+<ChatID:3>----------------------------------------
+//「海が割れる日発動後すぐのPPもしくはEP、もしくは「海が割れる日ブレイク時
+
+Elliy1b:Ooh, what a fancy spell.
+
+Cirno1b:Don't come crying to us if you run yourself out of breath busting out big spells!
+
+Sanae1c:My objective is to give Reimu a proper appreciation for the power of the faith Moriya Shrine holds.
+
+Sanae1c:I'm ready to demonstrate my miracle-working as much as it takes to get my point across.
+
+Mokou0a:She's much more of a brute-force type than she looks... We might be in for a tough fight here.
+
+Marisa2b:Kinda wish we could shore up our side. If only we had a little more manpower...
+
+<hide=all>
+
+<nomove>
+
+<Code=(cursor_jump,192,336,1)>
+
+Nitori1b:Don't worry about that! I'm here now!
+
+</hide>
+
+<pause>
+
+<Code=(icon_set_direction,Alice,Nitori,0)>
+
+<Code=(icon_set_direction,Marisa,Nitori,0)>
+
+Alice1a:It's...
+
+Marisa6b:Nitori? Is that you?
+
+Nitori1a:Nice to see you're okay, Marisa!
+
+<Code=(icon_set_direction,Sanae_en,Nitori,0)>
+
+Sanae1d:Aren't you one of the kappa who live in the valley...?
+
+Sanae3a:Why in the world would you attack me?
+
+Nitori1b:I'm here to mend bridges. So I'll be fighting on Marisa's side!
+
+Sanae1d:...!
+
+Rumia1a:If you do that, won't you get punished?
+
+Nitori3c:Yeah, I'm probably in for the third degree later.
+
+Nitori1b:But I'm going to be honest with myself anyway. There's no backing down for me now!
+
+Alice0d:I see Marisa's recklessness has rubbed off on you.
+
+Marisa0a:Silly girl. You didn't hafta come all the way out here...
+
+Sanae3a:What is this? Are you turning your back on the Moriya Shrine?
+
+Nitori3b:No, not at all. I won't enter the shrine grounds once this is over, and I'll make my proper offerings.
+
+Nitori1b:But Marisa and the others are very important friends of mine. So please let me fight alongside them!
+
+Sanae3b:Because you're friends...?
+
+Marisa0a:...I getcha. But now that you're offering, you'd better not run off!
+
+Nitori1b:No need to worry! As long as I'm with everyone, I'm not afraid!
+
+Sanae5f:...I'll let the people of the mountain decide how to address this matter. I won't raise any complaints from my end.
+
+Sanae1a:But if you intend to stand against me, I will not hold back!
+
+<end>
+
+<ChatID:4>----------------------------------------
+//にとりがいない場合（コンプリでは没）
+
+<end>
+
+Elliy4b:This sure is a flashy move...
+
+Mokou0a:She's much more of a brute-force type than she looks... We might be in for a tough fight here.
+
+Sanae0b:If you understand the power of the Moriya Shrine's faith, then you have no reason to fight.
+
+Sanae0b:Do you still insist on siding with the Hakurei Shrine?
+
+Cirno3a:Uh, yeah? Reimu's our friend!
+
+Sanae3b:Your friend...?
+
+Sunny1a:Well... Yeah! The Hakurei Shrine Maiden is there for everybody.
+
+Rumia3a:She lets me off with just an extermination when I eat her food!
+
+Sakuya6a:Good for you, Reimu. You're popular with children.
+
+Reimu2b:Flattery will get you nowhere, you know.
+
+Sanae0b:I understand. In that case, I shall face you all together.
+
+Sanae1a:If you insist on fighting me, I will not go easy on you!
+
+<end>
+
+<ChatID:5>----------------------------------------
+//「海が割れる日撃破（「サモンタケミナカタ発動）
+
+Sanae1c:You're all quite impressive. However, this is as far as you'll go against the power of miracles. 
+
+Keine1a:She throws around her power like it comes from an endless wellspring. She must have incredible reserves of faith!
+
+Sakuya5b:But for all that faith, the shrine's practically deserted.
+
+Sakuya0b:Why would you do things that narrow your pool of worshippers?
+
+Sanae0c:Lady Yasaka once said that faith is there for the sake of humans.
+
+Sanae0e:So in order to gather faith from them, it is essential that the shrine grounds remain sacred. Youkai must not be allowed in!
+
+Kurumi0b:But that's why you're always alone, right?
+
+Sanae3a:...!
+
+Sanae3b:Where did you hear that?
+
+Elliy1a:A kappa girl mentioned she's only ever seen you by yourself.
+
+Alice0b:Allowing youkai onto the grounds and pushing humans away would be an act of sacrilege.
+
+Alice0a:It makes sense in theory, but in practice it seems rather lonely.
+
+Sanae5f:...I'm willing to accept that, if it's necessary for gathering faith.
+
+Reimu5c:That's still no reason to go around making super uptight rules. I could never do that.
+
+Reimu4a:Yeah, it's not great when youkai gather, but your way just sounds like a hassle, not to mention way too constrained.
+
+Sanae1a:A HASSLE? It's that attitude of yours right there that...
+
+Sanae1a:Fine. I'll call in the youkai of the mountain once more and illustrate our difference in faith—
+
+<nomove>
+
+<hide=all>
+
+<Code=(cursor_jump,432,352,1)>
+
+Patchouli0a:Your reinforcements won't be coming.
+
+</hide>
+
+</nomove>
+
+<pause>
+
+<Code=(icon_set_direction,Sanae_en,Patchouli,0)>
+
+Sanae1d:...?!
+
+<Code=(icon_set_direction,Meiling,Patchouli,0)>
+
+<Code=(icon_set_direction,Marisa,Patchouli,0)>
+
+<Code=(icon_set_direction,Sakuya,Patchouli,0)>
+
+Meiling6a:Sakuya, it's...
+
+Marisa6b:Patchouli and Koakuma?! Didn't you pass on coming to the mountain?
+
+Patchouli0a:I changed my mind. I grew a bit curious about Youkai Mountain's status quo.
+
+Koakuma0a:We were planning on turning back if getting in was too hard... But luckily we had no trouble getting here.
+
+Sanae1d:How was it so easy? What were the guards doing?
+
+Patchouli0a:There were guards, but they let me through when I said I had business at the shrine. 
+
+Keine0a:Guess that means the tengu from earlier talked to them for us.
+
+Sanae3a:But... We and the tengu were supposed to be...
+
+Alice0a:I believe they're telling you that this is your mess to sort out now.
+
+Patchouli0a:I don't get what's going on, but my condolences. Long story short, we had a pleasant trip.
+
+Sanae5e:...
+
+Sanae5f:I knew this would happen. I don't fear being alone.
+
+Elliy1a:No need to bluff. It's okay to admit you've lost! 
+
+Sanae5g:I have not lost!
+
+Sanae2a:Lady Yasaka is with me. As long as I have her divine protection, I'll see this through alone if I have to!
+
+Marisa1a:Bold words, but what can one person do against—
+
+Reimu1a:Wait, I'm sensing something... Is she invoking a god?!
+
+Sanae1a:Come forth, Takeminakata! 
+
+<end>
+
+<ChatID:6>----------------------------------------
+//サモンタケミナカタ撃破（神の風発動）
+
+Sanae3a:I can't believe you've made it through all this...
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Cirno5b:Woo, we shot her down!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Cirno1a:Woo, we got away!
+
+</Cond>
+
+Meiling1a:You're holding your own very well for one person against so many of us.
+
+Komachi0b:That was an invocation. If she can channel a god in her body, she's definitely a capable shrine maiden.
+
+Sakuya0a:I'm willing to honor the fight you've put up and let this matter go if you stand down and let us pass.
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Keine1a:...Sanae Kochiya. We don't want to fight you. All we want is for the Hakurei Shrine to be safe.
+
+Keine1a:However, at this rate you'll end up isolated, both as a human and as a god. Wouldn't that make you terribly lonely?
+
+Sanae5e:...Loneliness is a concept that has no bearing on me.
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Nitori3a:...Lady Kochiya, we have no real problem with the Moriya Shrine.
+
+Nitori3d:But at this rate, you'll end up isolated as both a human and a god. Wouldn't that be lonely? 
+
+Sanae5e:...Loneliness is a concept that has no bearing on me.
+
+</Cond>
+
+Sanae2a:We... Lady Yasaka chose to pass into fantasy rather than cling to her bygone glory days.
+
+Sanae5g:It was all for the sake of regaining faith. My fears, my anxieties... I left all of those things outside the barrier!
+
+<pause>
+
+Komachi0c:Sheesh. She doesn't have to dig in her heels like this.
+
+Reimu0a:Well, now I see just how ready you were when you came to Gensokyo.
+
+Reimu1a:So I'll face your best, shut it down, and put an end to this fight for good!
+
+Sanae1c:Blow, winds of the sacred mountain. Strike these transient people down with guidance and faith!
+
+<end>
+
+<ChatID:7>----------------------------------------
+//「神の風撃破（ステージクリア）
+
+<Code=(icon_set_direction,All,Sanae_en,0)>
+
+Sanae2a:Agh...!
+
+Reimu1a:And that makes TWO wins. I'm in the lead!
+
+Sanae3a:...You're strong. If you're this powerful, why can't you gather any faith for the Hakurei Shrine?
+
+Reimu2b:That's what I wanna know.
+
+Marisa0a:Anyway, we won, so no more of this shrine takeover business.
+
+Keine0c:Now all that's left is to speak directly with the Moriya Shrine's god.
+
+Keine1a:Resolving this peacefully would be ideal, but...
+
+Sanae5e:...All I wanted was to help Lady Yasaka recover faith.
+
+Sanae5f:That would be the happiest outcome for both her and the humans of Gensokyo...
+
+Meiling0a:So that's why you were striving so hard—out of pure goodwill.
+
+Alice4a:Your heart was in the right place, but your methods not so much.
+
+Reimu4a:Look, I'm not about to start debating which of us has a better approach.
+
+Reimu5c:But I don't want your help. I can win back a little faith myself.
+
+Sanae5f:...Alright. If you wish to see Lady Yasaka, then proceed onward to Lake Suwa.
+
+Sanae5e:You'll find Lady Yasaka where the onbashira stand.
+
+Marisa1a:Gotcha. Reimu, let's go!
+
+Reimu1a:Right!
+
+<end>
+
+<ChatID:8>----------------------------------------
+//ADVB
+
+<BG=bg_talk_Moriya.png,fade=1,color=1,title=bg_Moriya,bgm=bgm_talk_ningyo>
+
+Meiling0b:So these are the Moriya Shrine grounds.
+
+Sakuya0a:These are much nicer structures than those of the Hakurei Shrine.
+
+Elliy0a:They look solidly made, too. I wonder when they were built? 
+
+Patchouli0a:What do you care? Are you an architect now?
+
+Rumia3a:It's so clean and well-kept! Do you think the shrine maiden just cleans nonstop when she's got free time?
+
+Marisa0a:Y'know, Reimu, you've got plenty of free time yourself. Maybe you could take a page from her book.
+
+Reimu3d:Shut it. It'd stay perfectly clean if I didn't have people dropping in all the time.
+
+Meiling5a:Anyway, Lady Patchouli, I thought you weren't coming? 
+
+Patchouli0a:I changed my mind and decided I wanted to have a look around Youkai Mountain.
+
+Patchouli0a:Though if it's this easy to enter, I could've just come another day.
+
+Marisa0a:Aww, don't be like that. We're glad to have you.
+
+Alice0d:Yes, I'd appreciate if you could continue lending your aid.
+
+Patchouli0a:...I'll think about it. Maybe if my interest is piqued.
+
+Keine0a:Still, the fact that you got here so easily must mean that the mountain youkai have changed their attitudes. 
+
+Daiyosei0a:Is that why you came, Nitori? Because you learned that?
+
+Nitori1a:Nope, I haven't heard a thing about that.
+
+Cirno0a:But you came anyway. Aren't you scared of getting punished? 
+
+Nitori3c:I knew I'd be in for something, but I wanted to see you all anyway.
+
+Nitori1a:Besides, I know Marisa will be there for me. She'll protect me, no matter what!
+
+Marisa6b:Wait, I will?
+
+Sakuya6a:My, she speaks so highly of you. 
+
+Komachi1c:So gallant! You're pretty smooth, Marisa.
+
+Marisa1a:Hold on a second. I MIGHT'VE said something to that effect, but don't lean on me too hard.
+
+Nitori2a:What?! But you were like "I want you to come with me!"
+
+Patchouli0a:...What a reckless thing to say. Did you plan on taking this kappa off the mountain? 
+
+Alice0c:I doubt she put that much forethought into it when she said it. It all works out now, of course.
+
+Elliy0b:I bet that shrine maiden wasn't expecting the tengu to turn on her. They were supposed to be her allies.
+
+Mokou0a:Smart youkai wouldn't just betray someone for the hell of it.
+
+Sakuya5b:They must have something to gain.
+
+Komachi4a:That poor girl, though. I feel kinda bad for her.
+
+Komachi4b:She told us a lot, but what stood out to me was that they came here from the Outside due to dwindling faith. That implies...
+
+Keine2b:Oh, of course. A loss of faith is the same as death for gods.
+
+Keine4a:Maybe she just wanted to protect her own god.
+
+Koakuma4b:Throwing everything you have into something for the sake of someone you hold dear...
+
+Koakuma4a:I can understand wanting to work yourself to the bone like that. 
+
+Sakuya5a:But the way she divides up humans and youkai shows that she hasn't adjusted to Gensokyo yet.
+
+Marisa0b:Still she's probably a better shrine maiden than Reimu is. How about you let her put up a branch shrine or something?
+
+Reimu4a:I'll think about it, but I'm gonna meet with this god before I make any final calls.
+
+Mokou0a:Yasaka, the god of the Moriya Shrine, huh... Wonder what she's like.
+
+Elliy1b:That shrine maiden was really devoted to her. Maybe she's super popular.
+
+Star0c:Either that, or she's just got the right kind of charm to get that kind of devotion.
+
+Patchouli1a:A devilish charm, huh.
+
+Sakuya0a:Considering she's a god, I'd assume it's the exact opposite for her. Though personally I prefer devils.
+
+Meiling0c:Not even the mountain youkai know much about her, right?
+
+Nitori3a:Yup. Youkai like me are barely ever even allowed on the shrine grounds.
+
+Alice2b:Just to confirm our standing policy: you're not handing over the shrine regardless of what she throws at you, correct?
+
+Reimu4a:Darn right. I'm not about to chicken out now.
+
+Reimu1a:I'll personally chastise the jerk who wants to take over my shrine!
+
+Marisa1a:A mysterious god? Can't wait to test my magic on an opponent like that!
+
+<end>
+
+<ChatID:9>----------------------------------------
+//早苗さんvs.霊夢
+
+Reimu1a:We can finally settle this once and for all!
+
+Sanae1a:I have the power of faith on my side. You won't defeat me, Reimu!
+
+Reimu1a:You talk big, but let's see you back it up! 
+
+<end>
+
+<ChatID:10>----------------------------------------
+//早苗さんvs.魔理沙
+
+Marisa0a:I guess the mountain youkai ditched you. Sucks to suck.
+
+Sanae3b:...It's to be expected, honestly.
+
+Sanae0b:Even if they don't accept us now, surely sooner or later they'll come to understand us.
+
+Marisa0b:But what you're doing now isn't working, right?
+
+Marisa0a:In that case, try another approach. One of the tricks to magic is not letting yourself get stuck on one particular method.
+
+<end>
+
+<ChatID:11>----------------------------------------
+//早苗さんvs.慧音
+
+Keine0a:To be honest, I was hoping you'd reconsider your views.
+
+Sanae0b:My views on what, exactly?
+
+Keine0a:The Hakurei Shrine's values. Here in Gensokyo, humans and youkai coexist.
+
+Sanae0b:So I've been informed.
+
+Sanae0b:But shouldn't the shrine grounds be devoted to the worship of its god?
+
+Keine2a:...That's common sense on the Outside, I take it.
+
+<end>
+
+<ChatID:12>----------------------------------------
+//早苗さんvs.アリス
+
+Alice0a:You know, it's rare to see a human square off against Reimu.
+
+Sanae0b:Is that so? It doesn't look that way from where I'm standing.
+
+Alice0a:Point taken, but she has an odd way of attracting followers.
+
+Alice0d:I hope you'll feel that draw yourself one day.
+
+Sanae5e:...I have a hard time imagining that happening.
+
+<end>
+
+<ChatID:13>----------------------------------------
+//早苗さんvs.ルーミア
+
+Rumia0a:Now that I think about it, that person's not here this time.
+
+Rumia0a:What was she called again, Mochi or something? 
+
+Sanae0b:Momiji. I believe you're referring to Inubashiri.
+
+Rumia0a:Yeah, her! She defended you when you ran off a while back, right?
+
+Sanae3b:She simply happened to be in the area and offered her assistance.
+
+Sanae3b:We haven't had occasion to talk since then...
+
+Rumia0a:Ooh, I getcha. You've fallen out of touch!
+
+<end>
+
+<ChatID:14>----------------------------------------
+//早苗さんvs.大妖精
+
+Daiyosei0a:This living god doesn't seem like a bad person...
+
+Daiyosei3b:But she's trying to take over the Hakurei Shrine. That's bad, right? Does that make HER bad?
+
+Sanae0a:...Hm? Did you say something?
+
+Daiyosei2c:Um, nothing at all!
+
+<end>
+
+<ChatID:15>----------------------------------------
+//早苗さんvs.チルノ
+
+Cirno0a:I can tell you're human, y'know.
+
+Cirno5a:If you leave your armpits exposed like that, my cold air's gonna freeze you!
+
+Sanae0b:I suppose I AM feeling a bit chilly, but...
+
+Cirno5d:...You and Reimu are both kinda weird.
+
+<end>
+
+<ChatID:16>----------------------------------------
+//早苗さんvs.咲夜さん
+
+Sakuya5b:Now that I take a closer look, you're still just a child.
+
+Sanae1d:You're... a maid?
+
+Sakuya5b:The kappa mentioned you're the only human living on this mountain.
+
+Sakuya0a:It can't be easy dealing with so many youkai all by yourself, can it?
+
+Sanae5e:Sometimes it can be a bit rough, but I've never found it unbearable.
+
+Sanae5f:This is what we came to Gensokyo for.
+
+Sakuya0a:Now I see. You wouldn't last long at all if you dwelled on it.
+
+<end>
+
+<ChatID:17>----------------------------------------
+//早苗さんvs.美鈴
+
+Sanae1a:I have the power of a wind god on my side. I won't lose!
+
+Meiling1a:Well, neither will I!
+
+Meiling4a:With my job, I have to stand in the wind all day and night!
+
+Sanae5c:Ouch, I feel sorry for you...
+
+<end>
+
+<ChatID:18>----------------------------------------
+//早苗さんvs.パチュリー
+
+Patchouli0a:So you're the living god who's been causing all this fuss.
+
+Patchouli0a:I had a pleasant mountain climbing experience because of you. Thanks.
+
+Sanae3b:What did the tengu say to you?
+
+Sanae5e:I suppose they don't think well of us, do they...
+
+Patchouli0a:They didn't say much of anything, really.
+
+Patchouli0a:But if you have reason to think that, then you probably brought it on yourself.
+
+Sanae2a:...
+
+<end>
+
+<ChatID:19>----------------------------------------
+//早苗さんvs.小悪魔
+
+Koakuma0a:Hey, um, I'm sorry for just jumping in uninvited.
+
+Sanae0b:I'll let it go this time, but I'm curious... Someone like you fights in danmaku battles as well?
+
+Koakuma0a:I'm not very good at it, but yes.
+
+Koakuma1a:Looking after Lady Patchouli is my job!
+
+<end>
+
+<ChatID:20>----------------------------------------
+//早苗さんvs.エリー
+
+Sanae0b:Wow, the tengu weren't kidding. There really are a lot of you.
+
+Elliy0a:I just happened to tag along 'cuz I had nothing better to do.
+
+Elliy1a:We're going out for drinks once we win, so I'm gonna go all-out for this!
+
+Sanae1c:You're clearly just here to goof off!
+
+<end>
+
+<ChatID:21>----------------------------------------
+//早苗さんvs.くるみ
+
+Kurumi5b:You've got green hair. That's +5 points!
+
+Sanae0b:Huh? How does that work?
+
+Kurumi3d:Being good at cooking is +20, and liking devils is +10.
+
+Kurumi3a:That's how you score Devil Points with Kurumi!
+
+Sanae5b:I'm not sure I follow...
+
+<end>
+
+<ChatID:22>----------------------------------------
+//早苗さんvs.小町
+
+Komachi0a:At least now I've safely ferried the others to the mountaintop shrine.
+
+Sanae0b:Wait, ferried? I don't believe we've met before.
+
+Sanae0a:You don't seem like an associate of Reimu's either...
+
+Komachi0a:I'm just lending a hand because of Sakuya over there.
+
+Komachi1c:Well, it's half help and half going out for funsies. You could stand to lighten up yourself, y'know.
+
+<end>
+
+<ChatID:23>----------------------------------------
+//早苗さんvs.妹紅
+
+Mokou0a:Good grief. It's about time this little dispute reached some kind of resolution.
+
+Sanae0b:You speak like it has nothing to do with you. Why are you here, then?
+
+Mokou3c:If you really want to know, I guess you could say I'm a bodyguard... Or something like that.
+
+Mokou0a:But don't worry. I'm not about to stick my nose in you shrine maidens' business. That'd just be tacky.
+
+<end>
+
+<ChatID:24>----------------------------------------
+//早苗さんvs.サニー
+
+Sunny0a:When I see a shrine, I start itching to play a prank...
+
+Sanae0b:A prank? What sort do you have in mind?
+
+Sunny3a:Agh, no, no! I was just talking to myself!
+
+Sunny0a:I definitely wasn't gonna make messes with fallen leaves or flip over your ema tablets!
+
+Sanae0b:...I'll have to keep an eye on you.
+
+<end>
+
+<ChatID:25>----------------------------------------
+//早苗さんvs.ルナ
+
+Luna0a:The shrine grounds are so clean. Do you clean them every day?
+
+Sanae0a:That's right. The grounds are quite extensive, so it takes a lot of time.
+
+Luna0a:There's not a single piece of trash lying around...
+
+Luna0a:But it doesn't feel like anyone comes here, either...
+
+Sanae3b:...
+
+<end>
+
+<ChatID:26>----------------------------------------
+//早苗さんvs.スター
+
+Star0a:What are all those big pillars around the shrine?
+
+Sanae0a:They're divine trees known as onbashira. They stand at the four corners of the shrine and form a barrier.
+
+Star0a:Ooh, I see. So they're not for climbing.
+
+<end>
+
+<ChatID:27>----------------------------------------
+//早苗さんvs.にとり
+
+Nitori3a:Lady Kochiya...
+
+Sanae3b:...Now that I think about it, you were with Reimu and the others last summer too.
+
+Nitori3b:Look, I'm not fighting the Moriya Shrine out of any personal dislike.
+
+Nitori3d:It's just, Marisa's an important friend of mine. And the gods of the Moriya Shrine...
+
+Sanae2a:Would you stop going on about friendship?!
+
+Sanae2a:Maybe you're okay with that, but we're...
+
+<end>
+
+<ChatID:28>----------------------------------------
+//早苗さんvs.霊夢②
+
+Sanae1a:I'm still not letting your "hassle" remark go.
+
+Sanae2a:Gods vanish once they lose faith. And yet, here you are...
+
+Reimu0a:I'm telling you, I'll handle it my own way.
+
+Reimu0d:Let's be real, if I acted as uptight as you, even the gods would just find it tedious.
+
+Sanae1c:How dare you talk that way about me.
+
+Sanae2a:Don't you dare dismiss all of my earnest, serious conduct!
+
+Reimu1a:If you're gonna live in Gensokyo, it's better you hear that now!
+
+<end>
+
+<ChatID:29>----------------------------------------
+//全滅時
+
+Sanae1c:There you have it. I win. Now hand over the Hakurei Shrine!
+
+Reimu2a:How could I let this happen...?!
+
+<end>
+
+<ChatID:30>----------------------------------------
+//おまけ会話（絵馬掛け:ver.2.7.9追加）
+
+Reimu0e:Oh, they have a place to hang up ema tablets.
+
+Marisa0a:But nothing's there.
+
+Alice0a:Humans can't make it this far, and youkai can't enter the grounds.
+
+Keine0a:A shrine where no one can bring their prayers... It's a little sad.
+
+Keine0a:But if the Moriya Shrine is fine with it, it's not our place to talk.
+
+Sanae3b:...
+
+<end>
+
+<ChatID:31>----------------------------------------
+//早苗さんvs.メーコ（タケミナカタ後）
+
+Meko1a:You can't fight on your own, Sanae, you can't!
+
+Meko1d:You'll regret it when you're all beat up and turned into barbecue!
+
+Sanae1e:Barbecue? What?
+
+Sanae1c:But I'll fight no matter what you say! For my two—
+
+Meko2a:But if you push yourself and get hurt, you'll make everyone worry!
+
+Meko1f:The Sanae I know treasures both herself and others more!
+
+Sanae1a:Your nonsensical babbling won't lead me astray!
+
+<end>
+
+<ChatID:32>----------------------------------------
+//早苗さんvs.まくら（タケミナカタ後）
+
+Makura0g:So you've chosen to isolate yourself from the mountain and fight a solitary battle.
+
+Sanae1a:I have Lady Yasaka and Lady Moriya!
+
+Makura1c:You haven't hidden your heart. I can also understand the formless anxiety within you.
+
+Makura2a:You've come to a strange land, and are surrounded by strange people. What could be more worrisome?
+
+Sanae1c:That voice! Where have I heard you...?
+
+Makura3a:I am an ally to humanity. I could help you, if you so desire.
+
+Sanae2a:I... I'm not anxious!
+
+<end>
+
+<ChatID:33>----------------------------------------
+//早苗さんvs.早苗さん（タケミナカタ前）
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Sanae3b:...I'll never forget this moment.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Sanae0g:Are you... me?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Sanae1e:I won't say much. But allow me to witness you settling things with Reimu with my own eyes.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Sanae1c:I will not hear this from an illusion, or whatever you are!
+
+</nomove>
+
+<end>
+
+<ChatID:34>----------------------------------------
+//早苗さんvs.早苗さん（タケミナカタ後）
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Sanae1e:You really are planning on fighting alone, aren't you?
+
+Sanae0c:When I see it like this, I can really feel just how anxious and desperate you are.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Sanae1c:You talk big for an illusion! I've decided to fight to the end, by myself if I have to!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Sanae0b:...That's fair. Then please, hit me and the others with those feelings of yours.
+
+Sanae1a:So that someday, I'll be able to say that I'm not alone!
+
+</nomove>
+
+<end>
+
+<ChatID:35>----------------------------------------
+//早苗さんvs.椛（パチュリー増援後）
+
+Momiji1a:Lady Kochiya!
+
+Sanae0e:Inubashiri! Why?
+
+Sanae3b:No, do I even need to ask? Even I know I'm hated here.
+
+Momiji5a:...As you are now, I don't think there's anything I could say to save you.
+
+Momiji3c:So I'll end this before you get hurt, Sana—no, Lady Kochiya.
+
+Sanae0g:What...?
+
+Momiji1b:Someday, I will stand by your side and have your back. It may be painful now, but please, have faith in me, Sanae!
+
+<end>
+
+<ChatID:36>----------------------------------------
+//早苗さんvs.文（パチュリー増援後）
+
+Sanae0e:Why are you here, Shameimaru?!
+
+Aya5a:Ah, right, yes...
+
+Aya0d:I thought I'd give you notice that we've let the humans pass.
+
+Sanae1e:...I don't need your notice. I've long since been prepared for the tengu to feel that way.
+
+Sanae1a:But please, rethink this once I've defeated Reimu and elevated the power of the Moriya Shrine!
+
+Aya5a:That rigid thinking of yours is exactly why we...
+
+Aya4a:No, let's end the discussion here. All I want is for the wind to blow in the proper direction.
+
+<end>
+
+<ChatID:37>----------------------------------------
+//早苗さんvs.神奈子
+
+Sanae0e:Lady Yasaka? Why are you here?!
+
+Sanae3b:...Is it that I couldn't be trusted with this task?
+
+Kanako3b:No, not at all. I'm just worried about you, Sanae.
+
+Kanako0d:I know very well how tenacious you are. I thought I'd do some spectating, with light participation.
+
+Sanae1a:I see! Then please leave this to me!
+
+Kanako3c:(Oh dear. Seeing that earnest look on her face made me inadvertently encourage her.)
+
+Kanako3b:(By encouraging her efforts, I left her no path to go but forward... That's something I must reflect on.)
+
+<end>
+
+<ChatID:38>----------------------------------------
+//早苗さんvs.諏訪子
+
+Suwako3b:Wow, look at you kids go.
+
+Sanae0f:Lady Moriya! What brings you here...?
+
+Suwako0a:Just taking a little field trip, and figured I might test my strength while I'm at it.
+
+Suwako1a:Be sure to show me the results of your special training, Sanae!
+
+Sanae1a:Y-Yes, ma'am!
+
+<end>
+
+<ChatID:39>----------------------------------------
+//早苗さんvs.はたて
+
+Sanae0g:Are you one of the tengu?
+
+Hatate6a:Oh yeah. You didn't know me back then... well, back now.
+
+Sanae1e:What business might you have? Youkai are not allowed within the grounds.
+
+Hatate2b:Man, that was ice cold. Actually, that's crazy how you dodged the subject just now.
+
+Hatate3c:But, well, the way you are now might be best for messing with.
+
+<end>
+
+<ChatID:40>----------------------------------------
+//C22：早苗さんvs.非想天則
+
+Tensoku0a:...
+
+Sanae1a:This is clearly a giant robot. To think Gensokyo even has something like this...
+
+Sanae3b:Ever since we moved, I could hardly keep up with everything. We really live here now, huh...
+
+Sanae1e:No, I have no reason to complain. Surely I can beat a giant robot too.
+
+Sanae1c:O undefeated eastern winds of the king, lend me your strength!
+
+<end>

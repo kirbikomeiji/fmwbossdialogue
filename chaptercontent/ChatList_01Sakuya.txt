@@ -1,0 +1,725 @@
+﻿○咲夜さんルート第一話「月と太陽と従者
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: 2PP
+ 3: Yuka HP < 50%
+ 4: Remilia HP < 50%
+ 5: After the event
+ 6: ADVB
+ 7: Yuka vs. Remy
+ 8: Yuka vs. Patche
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<BG=bg_talk_Black.png,fade=0,color=1,title=bg_Unknown>
+
+<hide=name>
+
+Sakuya5c:Where... am I?
+
+Sakuya2b:...My clothes are torn and smell like blood. My stomach is empty... and I'm not carrying anything on my person.
+
+Sakuya5a:Where do I go, when I have nowhere to go?
+
+</hide>
+
+<hide=all>
+
+Remilia0c:...Who might you be?
+
+</hide>
+
+<hide=name>
+
+Sakuya2a:!
+
+Remilia0c:Ah, a human. You don't see one of those around here often.
+
+Sakuya2a:...Who are you?
+
+Remilia0d:I'm a devil. Did you come here without knowing that?
+
+Sakuya5a:A devil...
+
+Remilia1a:You don't have to stare at me so intently. I'm not planning to eat you or anything like that.
+
+Remilia1d:You're alone, aren't you? I'm impressed you've survived this long, considering how beaten-up you look.
+
+Sakuya5c:...Is there something wrong with being alone? You don't know anything about me.
+
+Remilia1d:Oh, but I do. You're alone... because of the power you were born with. Am I right?
+
+Sakuya2a:...!
+
+Remilia1e:You look like you'd keep me entertained. Would you like to try living a little longer?
+
+Sakuya0b:...What do you mean?
+
+Remilia1a:You've piqued my interest. We may not have known each other for long, but I'll give you the honor of standing by my side.
+
+Remilia0a:Here.
+
+Sakuya0b:...?
+
+Sakuya5a:Um, what's this...?
+
+Remilia1d:...
+
+Remilia2b:Don't give me that confused stare! I'm holding my hand out to you. Just take it!
+
+Sakuya5a:Y-Yes, ma'am.
+
+Sakuya0b:...
+
+Remilia1e:...Such a dirty hand. Wash it thoroughly when we arrive at the mansion.
+
+Remilia0a:And make certain you warm it as well. After all, this will be the hand that pours my tea from now on.
+
+Sakuya5b:Mansion? Tea...?
+
+Remilia1e:Welcome to my mansion.
+
+Remilia0d:Your name is Sakuya Izayoi. You will be my maid from this day forth.
+
+</hide>
+
+Sakuya5c:Sakuya... Izayoi. I am your... maid...
+
+<Code=(transition_out,c_black,45,1)>
+
+<end>
+
+<ChatID:1>----------------------------------------
+//テロプ
+
+Fantasy Maiden Wars: Sakuya Story
+
+<end>
+
+<ChatID:2>----------------------------------------
+//ADVA-2
+
+<BG=bg_talk_Koumakan_Int.png,fade=0,color=1,title=*bg_Koumakan_Int,bgm=bgm_talk_aoki>
+
+Sakuya5b:...!
+
+Meiling5a:Ah, good morning Sakuya!
+
+Sakuya5b:Meiling? So that was a dream...?
+
+Meiling4a:You wouldn't wake up. I was shaking you a lot, you know!
+
+Meiling0a:Gosh, it's rare for you to oversleep.
+
+Sakuya0b:...
+
+Meiling0c:...Sakuya?
+
+Sakuya0b:Ahh, what are you doing here? It's bad manners to enter a person's room without...
+
+Meiling3a:I'm sorry. I just thought it was odd that you were late, so I figured something must've happened...
+
+Sakuya5b:Late...?
+
+Meiling0a:We're supposed to fix the wall at the library today, remember?
+
+Meiling5a:You didn't come to the library at the appointed time, so Lady Patchouli asked me to come get you.
+
+Sakuya3b:Ah... It's that time already? Oh dear.
+
+Meiling7b:Whoa, whoa, you don't have to rush! You're only a few minutes late.
+
+Meiling5a:Still, though... Heh heh.
+
+Sakuya5b:...What?
+
+Meiling5a:Oh, I was just wondering how long it's been since I last saw you sleeping.
+
+Meiling4a:There's no way you could know this, but you're really cute when you're asleep!
+
+Meiling0a:You know, the two of us have done so much together, huh? We've cooked Chinese food together, we've...
+
+Sakuya0b:...
+
+Sakuya5a:My apologies, but I'm not in the mood to reminisce right now.
+
+Meiling3d:Y-Yes, ma'am?
+
+Sakuya1d:Go on back without me. I'll be right there.
+
+Meiling3b:Ah, yes... Understood. I'll be going then...
+
+<BG=bg_talk_Koumakan_Library.png,fade=0,color=1,title=bg_Koumakan_Library>
+
+<SE=se_talk_door_open02.ogg,wait=1>
+
+Meiling0a:Lady Patchouli, I've brought Sakuya over.
+
+Patchouli4d:...You're late.
+
+Sakuya5c:I have no excuses for my tardiness. You have my deepest apologies.
+
+Patchouli0a:It's fine. I'm sure you're tired from the incident with Flan anyway.
+
+Patchouli0c:Getting down to business... Koakuma.
+
+Koakuma3b:Yes, ma'am. The wall that needs to be repaired is over here.
+
+Meiling1b:Ahh, let's see...
+
+Meiling3d:Yeesh, this looks really bad. Were the books okay?
+
+Koakuma4a:I had made copies of the books in this section, so we'll manage...
+
+Koakuma4b:But the current situation has become a hindrance to Lady Patchouli's experiments, so she'd like it fixed.
+
+Sakuya5b:Experiments? As in, magic experiments?
+
+Patchouli0c:To repair the danmaku defense system. A partial break in the wall is why I lost to the humans during the incident.
+
+Sakuya0b:If that was the case, shouldn't it have been repaired right after it was broken?
+
+Patchouli0c:There's the issue of materials as well. A massive hole like this can't be filled easily.
+
+Patchouli4a:Both Remi and that youkai really don't know how to hold back...
+
+Meiling3a:Ah, so this hole is from back THEN.
+
+Patchouli4a:Yes. Out of all the entrances she could have used...
+
+Sakuya5b:Back then...
+
+Sakuya0b:...Ah yes, the day SHE came to this mansion.
+
+<end>
+
+<ChatID:3>----------------------------------------
+//1PP
+
+<hide=name>
+
+Yuka0a:Such a large library. A mansion with such fine facilities must be excellent indeed.
+
+Yuka0d:This place is starting to grow on me, even if the space around here is a little distorted.
+
+</hide>
+
+Remilia2b:*cough* Where did all of this smoke come from?
+
+Remilia1c:Hey, you. What do you think you're doing, blowing holes in other people's mansions?
+
+<hide=name>
+
+<Code=(icon_set_direction,Yuka_en,Remilia,0)>
+
+Yuka1a:Good day to you. Are you the lady of the house?
+
+</hide>
+
+Remilia1d:Yes, my name is Remilia Scarlet. I am the current head of the proud Scarlet family, and the master of the Scarlet Devil Mansion.
+
+Remilia1c:And you, who dared set foot into my territory and interrupted my reading time... Who are you?
+
+Yuka0c:I'm Yuuka Kazami, the youkai who rules the flowers of the four seasons.
+
+Remilia4a:Flowers? What is such a grubby youkai doing here?
+
+Yuka0e:I moved to the sunflower field a little while ago. I could deal with it alone, but my former servants ended up chasing after me.
+
+Yuka2d:And a proper master would at least give her servants an appropriate place to stay, don't you think?
+
+Remilia1e:I see, you're quite kind to your servants. Go on?
+
+Yuka0b:...So I thought I might run you off and claim this mansion for myself.
+
+Remilia1d:...
+
+Remilia3e:Hahaha... Ahahahahaha!!
+
+Remilia1b:You were planning on kicking me out of my own mansion?! You tell the funniest jokes.
+
+Yuka0b:Yes, I've taken quite a liking to this mansion. If you were to leave quietly...
+
+<pause>
+
+Koakuma1a:Lady Patchouli, the explosion came from this direction!
+
+Patchouli1d:Remi should be in the library, as I recall...
+
+Patchouli5a:What's this?!
+
+<Code=(icon_set_direction,Yuka_en,Patchouli,0)>
+
+Remilia1c:Patchy!
+
+Yuka1a:...My, would that be your friend? Between her and the gatekeeper, you have quite the busy place here.
+
+Patchouli4c:...I had heard reports, but I didn't think it was really the work of a single person.
+
+Koakuma2b:Eek, the books are all in tatters! I imagine Meiling's not any better off...
+
+Remilia1b:Patchy, stand back. I'll handle her.
+
+Patchouli1d:You will...? Are you saying you're going to fight her alone?
+
+Patchouli4c:What's her objective anyway? She seems to be more than some random stranger.
+
+Remilia6a:Ahh, what was it again? It was something absurdly silly, that I remember.
+
+Yuka2d:My, I thought bats were known for their excellent sense of hearing... I suppose I'll have to repeat myself.
+
+Yuka1a:From this day forth, this mansion is mine. If you don't want to be hurt, pack your bags now and...
+
+Remilia1b:Silence! I'm getting tired of hearing that shrill voice of yours.
+
+Yuka0d:...My, did I make you lose your temper?
+
+Remilia6a:You're a fool for trying to take over the dominion of a vampire. I will give you a slow and painful death.
+
+Remilia1b:I'll tear your limbs off, gouge out your insides, and leave you as food for the bats!
+
+Yuka0b:Heh... If this land is so precious to you, I'll use you to fertilize it.
+
+Yuka1a:You'll give rise to a strikingly beautiful crimson flower, I'm sure!
+
+Koakuma4b:Lady Patchouli, should we...?
+
+Patchouli4d:We'll provide rear support. Don't get in the middle of their battle.
+
+Remilia1c:Come, foolish invader. I'll show you how reckless your challenge was!
+
+<end>
+
+<ChatID:4>----------------------------------------
+//2PP
+
+Koakuma2a:Eep! The mistress and that youkai are using enough power to destroy the entire mansion...
+
+Patchouli4a:I doubt Remi would actually lose, but the library can't take much more of this.
+
+Patchouli4c:Of all the times for Sakuya to be out of the house...
+
+Koakuma2a:What should we do? Wait for her to come back?
+
+Patchouli4d:Remi and that youkai might blow up the whole mansion before she makes it back.
+
+Koakuma2a:Oh, dear... In that case, I will stay by your side as we are crushed beneath the rubble—
+
+Koakuma5b:...Hey, wait.
+
+Patchouli0c:What?
+
+Koakuma5b:This reminds me of a similar situation in a book I was reading recently.
+
+Koakuma6c:A passionate love burning on the battlefield, a couple that joins forces and survives together through all their hardships...
+
+Koakuma3d:It's a common enough story trope, but it always strikes a chord with me.
+
+Patchouli4a:...
+
+Patchouli0c:So if this turns out the same way, you won't have any complaints?
+
+Koakuma3d:Yes, Lady Patchouli. I'd follow you anywhere, even through flames or danmaku.
+
+Patchouli1a:I see. That's nice to hear.
+
+Koakuma5b:...?!
+
+<pause>
+
+Koakuma3d:Um, Lady Patchouli...?!
+
+Patchouli1c:I'm teleporting you out of the mansion. Find Sakuya and bring her back here.
+
+Patchouli4a:There's probably a bunch of fodder youkai around. Good luck with that.
+
+Koakuma4a:Wait, I'm not mentally prepared...
+
+Koakuma4b:...Aww, okay okay. Stay safe, Lady Patchouli.
+
+<end>
+
+<ChatID:5a>----------------------------------------
+//勝利条件達成（幽香のHPを一定値以下）
+
+<Code=(icon_set_direction,Yuka_en,Remilia,0)>
+
+<Code=(icon_set_direction,Remilia,Yuka_en,0)>
+
+Yuka1a:You're not half bad. To be expected from a vampire, I suppose.
+
+Remilia0e:Hmph, plants are at the bottom of the food chain. You have no chance against an apex predator like me.
+
+Yuka1a:Heh. Silly little bat. I'll crush your arrogance beneath my heels.
+
+Remilia1e:At least you've got bluster in spades. Careful there, your envy of the ruler of the living is showing.
+
+Remilia1a:My next strike will illustrate the vast gulf of power between us!
+
+<end>
+
+<ChatID:5b>----------------------------------------
+//勝利条件達成（レミリアのHPが一定値以下）
+
+<Code=(icon_set_direction,Yuka_en,Remilia,0)>
+
+<Code=(icon_set_direction,Remilia,Yuka_en,0)>
+
+Remilia0c:...Hm, you're better than I thought.
+
+Yuka2d:My, I'm rather disappointed. To think that you're only this strong after everything you said earlier...
+
+Remilia1e:I was exercising restraint. After all, rulers should be secure in themselves.
+
+Yuka0b:You're a chatty little bat. I think it's about time to wrap this up.
+
+Remilia1b:Hmph, I should say the same. I'll engrave the power of my noble kind into your body!
+
+<end>
+
+<ChatID:5c>----------------------------------------
+//勝利条件達成
+
+<Code=(icon_set_direction,Remilia,Yuka_en,0)>
+
+Patchouli5a:Oh no, not that move... Remi, do you want to destroy the entire library?!
+
+<Code=(icon_set_direction,Yuka_en,Remilia,0)>
+
+Yuka2a:Ah, looks like you're getting serious now.
+
+Yuka2b:Alright, give it your best shot, and I'll take it head-on. I'll show you that you're just an emperor with no clothes!
+
+<pause>
+
+Patchouli4f:...Way to go. Using your full power inside the mansion like that... What were you thinking?!
+
+Remilia1c:What else was I supposed to do? She was way better than I was expecting.
+
+Remilia0a:But surely she's not unscathed after taking that...
+
+Yuka2a:...
+
+Patchouli5b:Remi, she's still standing!
+
+Yuka2a:My precious parasol's in tatters...
+
+Yuka0b:Oh, you've done it now.
+
+Remilia3d:Oh dear, did I break it? My deepest apologies for being too strong.
+
+Remilia0a:It's your own fault anyway. If it's so important to you, you should've left it somewhere safe.
+
+Yuka2a:I was trying to be lenient when playing with a child, but you've crossed the line.
+
+Yuka1a:It's too late to beg for mercy. I'll destroy you AND your mansion.
+
+Remilia1a:You're welcome to try. The next things I break will be your arms!
+
+Patchouli1b:...Remi, you idiot. What do you think will happen if a pair of powerful youkai clash at full strength?!
+
+Patchouli2a:We're running out of time, Koakuma. Hurry up and bring Sakuya back...!
+
+<pause>
+
+Sakuya1a:Lady Patchouli!
+
+Koakuma1b:Lady Patchouli, are you okay?!
+
+Patchouli1d:Sakuya, Koakuma, you're late!
+
+Sakuya2a:My apologies... But I've gotten the story from Koakuma.
+
+Sakuya5b:...!
+
+Sakuya1b:(The mistress has taken damage... Is her opponent that strong a youkai?)
+
+Patchouli1d:That'll make things quicker then. You should be able to get in close easily with your power.
+
+Sakuya1a:Alright, I'll try.
+
+<pause>
+
+Yuka1a:This is goodbye. Shall I say a prayer for you? Amen.
+
+Remilia1a:Hmph, are you ready to become compost?
+
+<pause>
+
+Sakuya1a:Stop that right now!
+
+Yuka2a:...?!
+
+Remilia4a:...Sakuya!
+
+<pause>
+
+Sakuya1b:...Don't move, or I'll slit your throat.
+
+Yuka2c:What did you do? I didn't sense your presence nearby at all...
+
+Remilia1c:Hmph, stay out of my business. I was going to win easily.
+
+Sakuya5c:I'm acting on Lady Patchouli's orders. We wouldn't want the mansion getting destroyed.
+
+Patchouli1c:Yes, there's nothing to be gained from any further fighting.
+
+Patchouli1d:Aren't you fighting to protect the Scarlet Devil Mansion? Destroying it would defeat the whole purpose of your fight.
+
+Remilia0b:...I suppose so. I was just having so much fun fighting at full strength.
+
+Sakuya1d:I expect you to sheathe your sword as well.
+
+Yuka2c:...You're a human, right? A human is trying to order me to do something?
+
+Remilia1e:Hmph, she's no ordinary human. Sakuya can stop time.
+
+Yuka2d:Stop time...?
+
+Remilia0a:Yes. I doubt you have a human that rare serving you.
+
+Yuka0e:I see. So you used your power for that little maneuver back there.
+
+Yuka0a:A human with such a mighty power, living together with a devil...
+
+Yuka0c:...
+
+Sakuya1d:...
+
+Patchouli0c:So, what do we do with this youkai, Remi?
+
+Remilia1c:Hmm. I don't really care. Do you still plan to fight?
+
+Yuka0a:No, I've changed my mind. Let's call it good here.
+
+Koakuma1a:Really...?!
+
+Yuka0d:This human has piqued my interest. I'll give up on taking over this mansion. Might I stay here as a guest instead?
+
+Patchouli1d:What. You want to be treated as a guest now?!
+
+Patchouli1c:...You've got to be joking. You blew your way into the mansion. In what world would we show you hospitality?
+
+Remilia3a:Actually, I'm fine with it.
+
+Sakuya5b:My lady?!
+
+Remilia0d:She has quite a discerning eye if she's trying to target my Sakuya. And I won't be bored with her around.
+
+Remilia0a:So, there you have it. She'll be a guest of the Scarlet Devil Mansion from this day forth.
+
+Koakuma4b:What?! You're inviting this dangerous youkai in as a guest? Are you serious?!
+
+Yuka0b:...Do you have a problem with that?
+
+Koakuma2a:Uhh... Nope! Not at all!
+
+Remilia3d:How many rooms will you require? Once Sakuya's done preparing them, we'll have a party tonight.
+
+Yuka3a:Thank you for your generous hospitality. I'd like one large room for me, and a couple of smaller ones, maybe doghouse-sized.
+
+Yuka3d:I expect my room to be befitting of Yuuka Kazami's status.
+
+Remilia1e:You heard her. She's apparently a flower youkai, so how about a room facing south?
+
+Sakuya5c:...Very well. I will prepare the rooms at once.
+
+Yuka2d:...Your name was Sakuya, correct? I've taken a liking to you.
+
+Yuka0a:I'm sure I'll be a bit of an imposition, but I'm glad to be here, Remilia...
+
+Yuka0d:...And Sakuya.
+
+<end>
+
+<ChatID:6>----------------------------------------
+//ADVB
+
+<BG=bg_talk_Koumakan_Library.png,fade=0,color=1,title=bg_Koumakan_Library,bgm=bgm_talk_aoki>
+
+Meiling3b:...And that's how Lady Yuuka ended up residing at the Scarlet Devil Mansion, huh?
+
+Patchouli4a:If they were going to hit it off anyway, they could've just done that from the start and saved us a whole lot of trouble.
+
+Koakuma3d:Still, I have to hand it to the mistress. Defending a mansion from Lady Yuuka is no ordinary feat.
+
+Meiling3d:I wound up on the ground in a charred heap when I tried to do that...
+
+Meiling0a:It doesn't really feel like we're all living together, though. It's been a while since that fight, but still.
+
+Patchouli0c:Yeah. Yuuka doesn't seem like the type to stay in one place either.
+
+Patchouli3b:You seem to be friendly with the other gatekeeper, though.
+
+Meiling5a:Ahaha, Elly and I get along well. Us gatekeepers gotta stick together.
+
+Meiling0a:Kurumi's been helping you out since she came too, hasn't she, Lady Patchouli?
+
+Patchouli3b:Hmm, I suppose she's made my life a little easier.
+
+Koakuma4a:Ehh? A little easier? Even before, you were only giving out orders...
+
+Patchouli3c:She's made it easier for me to give out orders.
+
+Koakuma4a:...
+
+Meiling0a:How about you, Sakuya? What do you think about life since Lady Yuuka came along?
+
+Sakuya5b:Who, me?
+
+Meiling3d:Um, yes?
+
+Meiling0c:...Is something wrong, Sakuya? You've been out of it this whole time.
+
+Sakuya5c:...You're imagining things. I was just thinking that the competition the other gatekeeper brings is a good thing.
+
+Meiling3d:Really? Well, if you say so...
+
+<SE=se_talk_door_open02.ogg,wait=1>
+
+Yuka0a:...Good day.
+
+Sakuya2a:!
+
+Yuka0d:I see everyone's having a little get-together. Is this a party?
+
+Patchouli0c:How does this look anything like a party? We're fixing up the hole you made.
+
+Yuka2d:Oh yes, I suppose that did happen. Excellent work.
+
+Koakuma5b:May I ask what brings you here?
+
+Yuka0e:Is Sakuya around?
+
+Meiling0a:Yes, she's right here.
+
+Sakuya0b:...
+
+Yuka0d:Good day to you, Sakuya. You look a little pale. Are you getting enough sleep?
+
+Sakuya5a:...I'm fine, thank you. How may I help you today?
+
+Yuka0d:Heh. I was wondering if you've given my proposal any consideration.
+
+Meiling0c:Your proposal...?
+
+Sakuya5b:Um, this isn't the best place...
+
+Yuka0a:Oh, it's fine. They'll hear about it anyway.
+
+Koakuma4b:What's this about a proposal?
+
+Yuka1b:...I proposed that Sakuya leave this place and join me.
+
+<Code=(sound_fadeout,BGM,60,0)>
+
+<BGM=bgm_talk_inishie,0>
+
+Patchouli5a:...!
+
+Meiling7b:What?!
+
+Sakuya5c:...My apologies, but I cannot deliver an answer right now.
+
+Yuka0a:Alright. There's no rush, of course. I'll be looking forward to a positive response.
+
+Yuka0d:My apologies for intruding. See you later.
+
+<SE=se_talk_door_close02.ogg,wait=1>
+
+<single>
+
+Sakuya5a:...
+
+</single>
+
+Meiling6a:S-Sakuya... What was that about?!
+
+Sakuya5c:Nothing in particular. Lady Yuuka just invited me to come with her when she leaves the mansion.
+
+Meiling1a:She "just" invited you? Are you serious?!
+
+Sakuya0b:Since repairs have been completed, I'll be taking my leave now.
+
+Meiling2a:Wait, Sakuya! Hold on!
+
+<SE=se_talk_door_close02.ogg,wait=1>
+
+<single>
+
+Koakuma4a:I certainly wasn't expecting that to come up as a topic of discussion...
+
+</single>
+
+Patchouli4b:...
+
+Meiling3a:...Lady Patchouli, were you already aware of this?
+
+Patchouli4a:No, this is the first I've heard of it.
+
+Meiling3a:Then we have to stop her, right? If the mistress hears about this...
+
+Patchouli0c:Don't even think about butting in. Let it go.
+
+Meiling6a:Does that mean you're okay with Sakuya leaving, Lady Patchouli?!
+
+Patchouli4c:I never said that. Settle down.
+
+Patchouli4a:We don't even know what she thinks about all this. If we act rashly, it will only complicate matters.
+
+Meiling3a:That's true...
+
+Meiling3b:But I can't believe Sakuya was considering leaving this place behind our backs.
+
+Koakuma4a:Meiling...
+
+Meiling3a:...Sorry. I'd better go cool my head.
+
+<SE=se_talk_door_close02.ogg,wait=1>
+
+<single>
+
+Koakuma4b:Meiling seems pained about this.
+
+Koakuma4a:Um, Lady Patchouli? What should we do...?
+
+</single>
+
+Patchouli0c:...I'm returning to my study. Put all the books back onto the repaired shelves.
+
+Koakuma5b:Huh? Lady Patchouli...?!
+
+<SE=se_talk_walk.ogg,wait=1>
+
+<single>
+
+Koakuma4b:I can't imagine Sakuya ever leaving, but...
+
+Koakuma2b:Oh, dear. What's going to happen to the mansion now?
+
+<end>
+
+<ChatID:7>----------------------------------------
+//幽香vs.レミリア
+
+Yuka2c:...You're attacking me head-on? I hope for your sake that you're not weak.
+
+Remilia1b:I should say the same to you. Be grateful that I'm giving you a fight personally!
+
+<end>
+
+<ChatID:8>----------------------------------------
+//幽香vs.パチュリー
+
+Yuka2c:Are you a friend of the bat? Mm, you do look like you belong in the shadows.
+
+Patchouli1b:...The library is dark to prevent wear and tear on the books. Anyone who damages my books will pay dearly.
+
+<end>
+
+

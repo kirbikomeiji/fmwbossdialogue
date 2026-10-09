@@ -1,0 +1,106 @@
+﻿○幻想少女大戦妖 OP
+
+<ChatID:0>----------------------------------------
+//OP
+
+<BG=bg_talk_Meikai.png,fade=0,color=1,title=bg_Unknown,bgm=bgm_talk_yozakura>
+
+<hide=all>
+
+Yuyuko2b:Autumn is twilight. Even those devoid of a body can savor such pathos.
+
+</hide>
+
+Youmu0a:Lady Yuyuko, I've brought your refreshments.
+
+Yuyuko1b:Thank you, Youmu. You can leave them there.
+
+Youmu3a:Um, are you certain you wish to begin before the sun's set?
+
+Youmu0a:It just seems to me like waxing poetic about autumn and twilight might be better done when the sun's actually setting...
+
+Yuyuko1a:Ah, but if I did that then it would get dark before I could finish.
+
+Yuyuko0a:An autumn twilight is something to be admired in silence. So any banquets to savor it are better held beforehand.
+
+Youmu2b:Are you sure you're not just hungry...?
+
+<hide=all>
+
+Yukari1a:Autumn is the season of harvest and decline. Yuyuko simply prefers to enjoy its abundance and its solitude separately.
+
+</hide>
+
+Youmu2b:!
+
+Yukari0a:Good afternoon, Yuyuko. Mind if I join you?
+
+Yuyuko0a:Why, hello, Yukari. It's rather empty here, so sit wherever you like.
+
+Youmu0a:You always come with no notice... Shall I fetch a plate for you?
+
+Yukari5a:Don't trouble yourself on my account. I'll just take a few things off Yuyuko's.
+
+Yukari0a:Anyway, it's been a long time. I trust you've been well?
+
+Yuyuko1a:Of course. And yourself? You haven't visited in so long, I started wondering if you were having back pains.
+
+Yukari0a:This summer's kept me so busy, I couldn't find the time to drop by.
+
+Youmu0a:Are you referring to the Mist Incident?
+
+Yukari0a:That's right. You were there for it, so I trust you're quite familiar already.
+
+Youmu2b:You knew that I was helping Reimu and the others? 
+
+Yukari0a:Naturally. Did you have fun resolving the incident together?
+
+Youmu0a:Yes, ma'am. It wasn't my original plan, but getting to look around the world of the living was a valuable experience.
+
+Youmu3a:Though I do feel bad for leaving the mansion untended without permission...
+
+Yuyuko0a:You wouldn't believe what a mess the garden was! Next time you go out, at least let me know beforehand.
+
+Youmu3a:My apologies. I'll be focusing on my duties here and avoiding anymore outings, moving forward.
+
+Yuyuko1a:You don't have to swear off of them entirely, you know. I'd get bored if every day played out the exact same way.
+
+Yukari0a:Do you wish for change then, Yuyuko?
+
+Yuyuko1b:What can I say? One hardly feels alive doing nothing but the same things, over and over.
+
+Yukari0a:That much is true. This is a beautiful place, but it's all too quiet.
+
+Yukari0a:Conversely, it's too noisy in the corporeal realm at the moment.
+
+Youmu0a:What do you mean by that...?
+
+Yukari0a:The newcomers on Youkai Mountain know far too little about Gensokyo.
+
+Yukari0a:They're bound to cause trouble and make Reimu come rushing out any day now.
+
+Yuyuko0a:You seem quite taken with the young lady in red and white.
+
+Yukari1a:I haven't had Ran around to dote on lately, and I've got no one to tease.
+
+Yukari0a:The girls handled the summer incident well enough, but they still have more room for improvement than I'd like.
+
+Youmu0a:So even Reimu doesn't meet your standards, Lady Yukari...?
+
+Yuyuko2b:It sounds like things are rather lively on your end. Over here, it's all so dreadfully samey. I get so bored!
+
+Yukari0a:Don't be like that. We can enjoy the latest happenings together.
+
+Yukari1a:How will Reimu handle the battles to come...?
+
+<Code=(transition_out,c_black,45,1)>
+
+<end>
+
+<ChatID:1>----------------------------------------
+//テロプ
+
+Fantasy Maiden Wars Part 2: Mystic
+
+<end>
+

@@ -1,0 +1,3420 @@
+﻿○共通第七十五話「花は幻想のままに
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: 2PP
+ 4: first battle vs. Yuka
+ 5: Yuka spell 1 start
+ 6: Yuka spell 2 start
+ 7: Yuka spell 3 start
+ 8: Yuka spell 4 start
+ 9: Kacho 1
+10: Kacho 2
+11: Kacho 3
+12: Kacho 4
+13: Yuka spell 5 start
+14: clear
+15: ADVB
+16: lose (Seirensen beaten)
+17: battle after Kacho (Reimu)
+18: battle after Kacho (Yuyuko)
+19: extra
+20-88: battle vs. Yuka
+89: lose (Yukari beaten)
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=19,FROM=夢幻世界4,TO=夢幻世界4,name=Dreamscape,icon=4>
+
+<BG=*bg_talk_Seirensen_Dining_Night,fade=0,color=1,title=*bg_Seirensen_Dining,bgm=bgm_talk_potion>
+
+Youmu4a:Looks like we're almost out of these souvenir snacks Komachi brought.
+
+Sanae0d:These Rod of Remorse crackers may look odd, but they're really tasty.
+
+Yuyuko3a:Yes, you can really taste the sin.
+
+Tenshi4c:But is it really alright to relax like this just because we beat that sheep?
+
+Tenshi4a:I mean, look, that bakeneko is buried in her master's tails.
+
+Chen5b:Hey, I'm the only one allowed into Miss Ran's fluff!
+
+Tenshi5d:No, that's not what I meant.
+
+Iku3c:Ran and Chen get along like mother and child, don't they?
+
+Ran0a:It may appear that way, but ultimately Chen is my shiki, as I am Lady Yukari's.
+
+Ran6a:Always know your place, and never cross the line between master and tool.
+
+Chen0b:Yes, Miss Ran!
+
+Reimu3a:Somehow that's less persuasive when you're feeding her crackers.
+
+Suika3b:Her relationship with Yukari is a little stricter though.
+
+Tenshi0e:Where is Yukari anyway? Wasn't she on break too?
+
+Reimu4a:Yukari's in the main hall. She said something about facilitating communications between there and the bridge.
+
+Youmu0a:Then I suppose we can take a slightly longer break.
+
+Suika1a:If anything happens, she'll let us know right away.
+
+Iku0a:Perhaps it's late to be noticing this now, but everyone here really trusts Yukari, don't they?
+
+Chen0b:I mean, Miss Yukari is a Youkai Sage.
+
+Sanae0a:She serves as the manager of Gensokyo, so a lot of people owe a lot to her.
+
+Sanae4a:Even when incidents happen, she acts as a kind of troubleshooter.
+
+Tenshi4a:Really? I always got the feeling that she had it out for me.
+
+Iku4b:I think you know the answer to why that is, deep in your heart.
+
+Reimu4a:But even with this incident, you can tell that she's always thinking about it seriously.
+
+Reimu4a:Like, just last night she came to my room to talk to me about something.
+
+Yuyuko1a:Oh, really?
+
+Reimu5c:Well, more like she talked AT me. She just said what she wanted and left.
+
+Reimu5c:Anyway, she always does that. She'll tell you stuff you never even asked, and never listens back.
+
+Youmu4a:That certainly sounds like the Yukari I know.
+
+Reimu4a:It's like, come on, think about the people you're monologuing at.
+
+Reimu3a:Then again, why even bother griping about it?
+
+Suika1a:She sure loves the sound of her own voice. Let your guard down for a second and she'll talk your ear off.
+
+Ran0a:She's mentioned that she goes out of her way to say things out loud so she can remember them more clearly.
+
+Yuyuko1b:Hmm? Is that so?
+
+Yuyuko2a:...
+
+Chen3d:Is something wrong, Miss Yuyuko?
+
+Yuyuko0a:Oh no, I'm just jealous of you all having these wonderful conversations with Yukari.
+
+Yuyuko3a:Maybe you even know her better than I do, by now.
+
+Youmu2b:What? No, of course not...
+
+Iku0c:How could we? I hear you've been close friends for a long time now.
+
+Yuyuko2a:Yes, yes, BUT... Whenever she's with me, she's always the listener. She hardly talks about herself at all.
+
+Youmu0a:Come to think of it, whenever you're with her you two only seem to talk in riddles.
+
+Reimu4a:Isn't that just how your relationship is?
+
+Yuyuko2a:Of course, and there's nothing wrong with that.
+
+Yuyuko3a:But ever since leaving the Netherworld, I've been wondering if there's a side of her I never see.
+
+Ran6b:Hmm, a side of her that not even Lady Yuyuko knows about?
+
+Iku0c:Yukari has a lot of faces she wears, so isn't that only natural?
+
+Yuyuko2a:I suppose... But I think it's more than that.
+
+Yuyuko0a:I've started to think there's a side of Yukari that she doesn't want me to see.
+
+Tenshi0c:You mean she's hiding something?
+
+Ran0b:Has she given you reason to think that, Lady Yuyuko?
+
+Yuyuko1c:No, I'm just being silly. It's all in my imagination!
+
+Reimu1b:That's pretty believable, coming from you...
+
+Ran0a:I can vouch for Lady Yukari regarding you as a special friend, at least. I don't think you need to worry.
+
+Yuyuko1a:Thank you. Anyway, we should be worrying about the investigation, not this.
+
+Yuyuko1c:Why don't we return to the bridge and help keep watch?
+
+Iku3c:Yes, good idea.
+
+<BG=bg_talk_Seirensen_Hall.png,fade=1,color=1,title=bg_Seirensen_Hall,bgm=bgm_talk_ningyo>
+
+<hide=video>
+
+Toyohime0a:And that's about all there is to report.
+
+</hide>
+
+Yukari0a:Thank you. Do continue keeping us informed.
+
+Satori0a:If something happens, we'll head up to the bridge too.
+
+<hide=video>
+
+Byakuren0a:Yes, of course. Thank you.
+
+</hide>
+
+<SE=se_talk_console02.ogg,wait=1>
+
+Mima0c:So according to the report, there's been a change in our surroundings.
+
+Yumeko0a:Yes, it sounds like the dream energy is declining.
+
+Alice2c:Could defeating the sheep be having an effect on the rest of the Dreamscape?
+
+Komachi0c:Sounds like this investigation's coming to a head.
+
+Medicine0d:We just need to beat up that Makura and bring peace back the village.
+
+Medicine3c:And then everyone can sleep well again?
+
+Eiki5e:I'm surprised. I never thought I'd hear those words from you.
+
+Eiki3d:I'm glad to hear you're learning to empathize with others so readily.
+
+Medicine2a:I-I was just copying what other people are saying!
+
+Elliy3b:Aw, don't be shy! I'm sure Yuuka's eyes would pop out if she saw you now!
+
+Shinki0d:Yes, exactly. You just need to keep learning, little by little...
+
+Shinki0a:Wait, hold on. Did I hear that right? Are you friends with Yuuka, Medicine?
+
+Medicine3a:Uh-huh. I haven't been with her as long as Alice though...
+
+Shinki5a:Sh-She's been with Alice too?! And for a long time?!
+
+Shinki2b:No! Absolutely not!
+
+Yumeko4a:Choose better friends, Alice.
+
+Alice0c:I thought I told you, I'm not a child anymore. I can make my own decisions.
+
+Medicine2b:Do you two hate Yuuka, Shinki?
+
+Yumeko4b:Well, I wouldn't say we hate her, but she's certainly nothing but trouble.
+
+Remilia0d:Eh, but without a little trouble, where's the fun?
+
+Meiling5a:That's why you and Yuuka are such a good match, mistress.
+
+Marisa0b:Oh right, you and Yuuka became friends during the mist incident.
+
+Marisa0a:We got thrown into a fight with her outta nowhere back then.
+
+Nitori4a:Since it looks like she came to the Dreamscape, what do you wanna bet it'll happen again here?
+
+Remilia1d:We've still never had an all-out battle.
+
+Remilia1a:I'd like to see who's stronger, once and for all.
+
+Sakuya0a:Considering her personality, you might get that chance.
+
+Kurumi6a:Wait, back up, what are we hoping for exactly?!
+
+Eiki4a:It's certainly not impossible that we'll end up fighting Yuuka Kazami.
+
+Eiki0b:No matter how urgent the situation, she's not one to budge on her way of life.
+
+Elliy0a:You know a lot about Yuuka, huh, Eiki?
+
+Eiki3c:She's another of the ancient youkai. I've known of her uninhibited nature for a quite a while now.
+
+Mima0c:Uninhibited, huh? To put it kindly, she's independent. To put it less kindly, she's capricious.
+
+Mima4a:I've spent my fair share of time with her, and I still don't know what she's thinking.
+
+Yumeko0a:Oh? Camaraderie among outlaws, is it?
+
+Mima0c:Hey, don't lump us together. I'm nowhere near as crazy as she is.
+
+Patchouli4a:So she's such an outlaw that she shocks even Mima.
+
+Patchouli0a:If you think of it like that, perhaps she's the exact opposite of Yukari.
+
+Yukari0a:Oh, really?
+
+Satori0b:Maybe. But while you both give off the impression of being aloof and independent, as the Sage you took on the role of running Gensokyo.
+
+Satori0b:You could say this is in sharp contrast to Yuuka, who lives leisurely, free from responsibility.
+
+Yukari0a:When you put it like that, it sounds like you're saying I've shackled myself.
+
+Eiki0c:But isn't that true, in the end?
+
+Yukari5a:...
+
+Eiki0b:There are hardly any living youkai who've taken on us much as you have.
+
+Eiki0c:While of course there's nothing wrong with zealously carrying out your duties, haven't you been doing so by ignoring your own feelings?
+
+Komachi3b:Aw geez, here she goes...
+
+Eiki1a:Actually, I'd been meaning to make this clear. There's something I need to say to you.
+
+Eiki1b:Yukari Yakumo, you—
+
+Yukari5a:Goodness gracious, giving a lecture at a time like this? Sometimes you leave me awestruck, Lady Shiki.
+
+Yukari5a:But resolving this incident is our top priority, so could you please save this for another time?
+
+Eiki2a:Hey, get back here!
+
+<SE=se_sys_sukima01.ogg,wait=1>
+
+<single>
+
+Medicine2b:And, she's gone...
+
+</single>
+
+Eiki4b:It's the same old story with her. And I was just getting started.
+
+Kurumi3a:Does that mean even the great Yukari is scared of your lectures?
+
+Nitori3c:I mean, Miss Eiki's lectures cut deep.
+
+Satori0c:I'm sure there was something she didn't want touched upon.
+
+Satori0b:I felt a tremble in her heart, but she left before I could see anything.
+
+Remilia4a:Something she doesn't want touched, huh?
+
+Satori0b:No doubt it's a sensitive topic.
+
+Eiki0b:...
+
+Eiki1a:(...With your incredible mental strength, you can subordinate your emotions to your powerful will.)
+
+Eiki4b:(However, that very strength is also a weakness for a youkai.)
+
+Eiki4a:(Indeed, Yukari Yakumo, you're a little too...)
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP（出撃前）
+
+Yuka3f:...I see, so it's like this here too.
+
+Yuka0e:With the dreams sucked up, the world is withering. Is this because Makura is gathering her power?
+
+Yuka0a:If someone as calm as her is getting impatient, those girls must be doing a remarkable job.
+
+Yuka3f:And if they're making good progress, they should be here right about...
+
+<pause>
+
+Yuka0a:...Oho.
+
+Akyu0a:We've entered a large, open area... it's almost like a wasteland.
+
+Yuyuko1d:It probably looks that way because of the decline in dream energy.
+
+Murasa0c:Is it going to be like this everywhere? It's pretty bad further ahead, too.
+
+Yuka0b:Heh heh. Welcome. You've finally arrived.
+
+Reimu1a:You...!
+
+Yuka0c:You've kept me waiting, you know.
+
+Kurumi3b:Yuuka!
+
+Elliy3b:I've missed you, Yuuka!
+
+Yuka2c:And who were you two again?
+
+Elliy2b:Ouch, that joke cuts deep... but that's the Yuuka I know and love!
+
+Alice0b:Making a tasteless joke the moment you see us... You're the same as ever.
+
+Medicine2e:Hey, I'm here too Yuuka!
+
+Yuka3f:If it isn't little Medi! I haven't seen you since I last visited the suzuran field.
+
+Yuka3c:So you've managed to leave the field and set forth outside.
+
+Medicine3d:Uh-huh, 'cause I made you a promise.
+
+Remilia1e:We sensed your aura when we came here. Guess we were right that you came here first.
+
+Sakuya5b:I see you're alone. Were you looking for flowers in this wasteland?
+
+Yuka1b:Something like that. But I've just been delivered a full bouquet of them.
+
+Yukari0b:Can we please keep this brief? We didn't come here to chat.
+
+Yuka2d:Why, if it isn't Yukari Yakumo.
+
+Yukari1a:We're in the middle of an investigation. We're searching for the mastermind, Makura Muwatari.
+
+Yukari0b:If you've been in the Dreamscape, I'm sure you've felt some of the effects.
+
+Yuka2d:Indeed. You've overcome numerous obstacles on the way here.
+
+Yuka0a:Why, just a little while ago you even defeated Makura's trump card, that huge sheep.
+
+Reimu0e:You sure know an awful lot about this... I guess it's because this place was your old haunt?
+
+Yuka0d:More or less. I've been waiting for you.
+
+Kurumi3d:Huh? Wait, does that mean...?
+
+Medicine3d:Are you coming with us, Yuuka?!
+
+Elliy2a:Finally, my years of devotion are being rewarded! Do you know how long I've waited for this?!
+
+Yuka2d:You don't seem to understand. I haven't been lying in wait just to join hands with you.
+
+Elliy4b:Huh?
+
+Yuka0a:You hardly ever see this many humans and youkai together in the same place.
+
+Yuka0b:Wouldn't it be fun to... bully them?
+
+Medicine5b:Hey, wait, bully...?
+
+Kogasa2b:Oh no, is she a sadist?!
+
+Yuka0b:...
+
+Wriggle6d:Um, that smile looks serious!
+
+Alice1a:You're the one who doesn't understand! You can't stop us!
+
+Yuka2c:I thought I told you that I'm not taking sides.
+
+Yuka0a:Surely we've known each other long enough for you understand what that means?
+
+Alice1a:Geez, you're impossible!
+
+Remilia1e:It's not like we're gonna talk her into moving. It's time for good old brute force!
+
+Yugi1f:That's our specialty! We accept your challenge!
+
+Akyu1a:Everyone, deploy!
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP（出撃後）
+
+Yuka0d:Tee hee, what a lovely line-up you've got now.
+
+Yuka0a:From the haughty residents of heaven to the detestable Underworld youkai. And... I don't recognize this nun.
+
+Byakuren3b:My name is Byakuren. But I don't suppose this is the time for introductions.
+
+Tenshi5b:Isn't she just trying to provoke us? I mean, listen to her.
+
+Yuka2d:Not to mention...
+
+Yorihime0b:An ancient youkai... and she's powerful.
+
+Toyohime2c:Oh my, what dreadful impurity.
+
+Yumeko1c:Yuuka Kazami, you left a fine mess in your wake in Makai.
+
+Shinki2b:Shoo, shoo! And stay away from my daughter!
+
+<SE=se_talk_robot01.ogg,wait=0>
+
+Tensoku0a:...!
+
+Yuka2d:The Lunarian envoys, the rulers of Makai, and... is that a dream manifestation?
+
+Yuka1a:Ah ha ha ha! Wonderful! How delightfully bizarre! That's so you!
+
+Yamame1d:She's still laughing after seeing this lineup? She's got guts, I'll give her that.
+
+Eiki4b:We've all managed to cooperate with one another, but she's the same as ever.
+
+Yuka0a:Oh. So the Yama is here too. I certainly didn't want to meet YOU here, but alas, nothing's perfect.
+
+Yuka0e:But with you here, I wonder if this is how things look in Gensokyo these days.
+
+Eiki0b:...
+
+Yuka1a:Hee hee hee. The stage is set, so why don't we get started?
+
+Yuka2a:Underestimate me, and your journey will be cut short.
+
+<end>
+
+<ChatID:3>---------------------------------------
+//2PP
+
+Patchouli4c:Well, this is going about as expected.
+
+Shizuha4a:I suppose that's just fine and dandy for the more belligerent types in our group.
+
+Suika5a:It sure is!
+
+Lunasa0b:If this is a stage, then we're got no choice but to perform, right?
+
+Meiling0c:Elly, Kurumi, are you two okay with this? That's not how I'd want my reunion to go...
+
+Elliy5a:At this point, I feel like this is pretty much standard.
+
+Kurumi3a:I'm just happy to be breathing the same air as her.
+
+Udonge3a:Those are some powerful coping mechanisms... You've been through a lot, huh?
+
+Letty4b:Their faces are frozen.... Why don't we leave them alone?
+
+Medicine4b:But Yuuka said she was gonna bully us...
+
+Medicine4a:Why doesn't she want us to beat up the bad guys?
+
+Alice4a:Medi...
+
+Nitori3e:Oh right, she's always been this way with us, but you've only seen her being nice, Medicine.
+
+Medicine4b:Well, she's been a little mean before, but she taught me so much stuff.
+
+Medicine0a:Back in the suzuran field, Sue and Yuuka were my only friends.
+
+Hina0a:Don't worry, I don't feel any misfortune from her, like the catfish or the sheep.
+
+Hina3a:Her attitude is one thing, but she doesn't mean any harm to Gensokyo.
+
+Shinki5a:But that's why you need to stay away from her, okay? She's a bad influence, so—
+
+Alice1a:Mom, shush. Don't make this more complicated!
+
+Yuka0d:Tee hee, looks like things have been going well for you since you left the flower field.
+
+Yuka0a:I suppose leaving her to you was the right choice, Alice.
+
+Alice1a:You didn't make that choice, Yuuka. And what do you think you're doing?
+
+Alice4b:Medicine was really looking forward to seeing you again, you know. She worked so hard. And now this.
+
+Yuka2c:And what, exactly, is "this"? I've always been this sort of youkai.
+
+Yuka0a:If she's been projecting her own ideal onto me, then all the more reason to open her eyes now.
+
+Alice1a:Enough already! Don't talk about her like that!
+
+Medicine2c:...
+
+Medicine1c:No, I get it now.
+
+Shinki5a:Medi...?
+
+Medicine1c:It's frustrating that I'm the only one feeling bad, even after I kept my promise...
+
+Medicine0d:So I have to let her know that, through danmaku.
+
+Medicine5c:That'll make her say "Good job, Medicine"!
+
+Hina0a:Medicine...
+
+Alice0d:I see. If that's how you want it, then I'll help.
+
+Alice1a:Let our danmaku show her what you've learned since leaving the suzuran field!
+
+Medicine3d:Yeah!
+
+Yuka0d:Heh. Fine by me. By all means, show me how much you've grown.
+
+Yuka0a:And not just Medicine, each and every one of you! I want to see what kinds of flowers you've bloomed into.
+
+Yuka2b:That's why I'm here, after all.
+
+<end>
+
+<ChatID:4>---------------------------------------
+//幽香初戦闘
+
+Yuka0b:Heheh. Now I can finally get started.
+
+Iku0d:You seem awfully happy about picking this fight.
+
+Kisume2b:But her smile is kinda scary.
+
+Korin2a:Her intensity is just like how Akyu's book describes it.
+
+Toyohime0a:What's this about a book?
+
+Akyu3d:"Danger level maximum, human friendship level minimum! Anyone who disturbs her will be destroyed with extreme force."
+
+Akyu1a:According the Gensokyo Chronicle's rating system, she's the prototypical "youkai you must never approach, under any circumstances".
+
+Elliy1a:Plus, of all the youkai who live near the shrine, she's said to be top class!
+
+Wriggle6b:What kind of standard is that...?
+
+Yumeko4a:Anyway, I understand that she's special, even for Gensokyo.
+
+Yuka4b:Oh dear, people are saying whatever they want about me. I'll have to see about getting that article revised.
+
+Yuka0a:Well, not that I mind. Are we all ready to start then?
+
+Remilia1a:I should ask the same. I finally get to fight you, Yuuka!
+
+Mima1f:She might even be a good test of strength for me.
+
+Yuka0a:It's such a bother to have all these expectations to live up to. But I will.
+
+Yuka0b:Why don't we start with a preliminary test? Let those flowers of despair bloom.
+
+<end>
+
+<ChatID:5>---------------------------------------
+//幽香通常撃破
+
+Kisume2b:This is Yuuka's power...?
+
+Koishi2b:Doesn't it feel like we woke up some sleeping terror?
+
+Daiyosei2b:I-I'm not gonna cry! Even if I'm scared!
+
+Kurumi2a:Waah! I'm scared!
+
+Wriggle1d:She's completely different from when she was with us before.
+
+Reimu4a:Reminds me of when we met her at the Scarlet Devil Mansion.
+
+Marisa2b:That takes me back. But back then she was just watching us from the back.
+
+Yuka0a:Now that we've finally gathered all the actors, we can fight to our heart's content.
+
+Yuka0b:I wonder, can you satisfy me today?
+
+Sakuya0b:That's the plan, but one thing first.
+
+Sakuya5b:Lady Yuuka. You're not working with Makura, correct?
+
+Yuka2d:Oh? Of course not.
+
+Kanako3b:Then I wish you wouldn't do things that help her.
+
+Kanako0b:While we're fighting with you, she's free to do whatever she wants in the meantime.
+
+Suwako0a:But if you gave us useful info, that'd be a different story.
+
+Yuka0d:That's fair. Then if you beat me, I'll tell you what you want to know.
+
+Yorihime0b:You want a fight so badly, you're manufacturing a reason for one.
+
+Yuka3e:And if I happen to win, I'll resolve the incident for you. How about that?
+
+Yuka0c:That said, she may be a tad bit troublesome, as she is now.
+
+Koakuma5b:How so?
+
+Yuka0e:She seems to have started gathering all the energy of the Dreamscape to prepare for the final showdown.
+
+Yuka2d:This place used to be a meadow, but just look at it now.
+
+Sho0b:I see. So all this wasteland really is because of Makura.
+
+Eirin1c:To think she's taking in enough energy to alter the landscape of a world...
+
+Eirin1d:If she finishes, we may lose all hope of stopping her.
+
+Yuka0a:Yes, yes, all the more reason to get this battle started, don't you think?
+
+Yuka2d:The real battle starts here, but... Oh, I know.
+
+Reimu4a:What, is there something else?
+
+Yuka0b:I just had an idea. I'd thought the stage was set, but isn't it lacking a certain something?
+
+Yuka0a:So let's make it into one more suitable.
+
+Meiling0c:True, I guess a wasteland doesn't really suit you, but...
+
+Remilia1c:Are you going to...?
+
+Yuka0b:Tee hee, a garden of flowers for a garden of flowers.
+
+Yuka2b:Now, awaken.
+
+<pause>
+
+Sanae1d:My goodness...!
+
+Wriggle5e:A whole field of flowers! Is this all Yuuka?!
+
+Ran0c:You overwrote a portion of the Dreamscape with your own power?
+
+Ran6e:Even for a place with no corporeal definition, that's quite a feat...
+
+Yuka0b:Tee hee hee. These are flowers from all four seasons. Isn't this stage just perfect?
+
+Yuka0a:The ideal would be to leave it to nature, but you gathered here on a critical juncture year.
+
+Reimu0e:Juncture? Didn't Eiki say something about that before?
+
+Eiki1a:This year is the time in the cycle for Gensokyo's rebirth. Every sixty years, fantasy gathers together and...
+
+Eiki2a:Yuuka Kazami! Don't tell me this was your plan?!
+
+Yuka0b:Oh? Did the Yama manage to figure out what I've been thinking?
+
+Yuka0e:At this moment in the cycle, all of fantasy is tied up as one.
+
+Yuka1a:The flowers these buds bloom into are sure to be strong and beautiful, no?
+
+Yukari4a:I see. So in order to see that for yourself, you challenged us all to this battle.
+
+Yuka0a:Exactly. I've been waiting for so, so long. And finally, the flowers are gathered.
+
+Yuka1a:Next, they'll bloom in glorious danmaku.
+
+Reimu4a:Who cares? We're still gonna fight either way.
+
+Alice4a:That's just like you. Or rather, I finally understand you.
+
+Marisa7a:In that case, there's no need to hold back!
+
+Yuka0b:Hee hee, that's just what I want to hear. Allow me to witness every last petal.
+
+Yuka2c:It's time for your fantasy to bloom!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//幽香スペル１通過
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Keine1a:So this is Yuuka's spellcard...
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Keine1a:So this is Yuuka's spellcard...
+
+</Cond>
+
+Mystia0c:Wasn't it just making flowers bloom?
+
+Yugi1c:The stronger the youkai, the less wild they go in battle.
+
+Yugi1b:This lady might still be hiding her true ability.
+
+Youmu1a:You mean, maybe when she gets serious she'll make giant flowers that go berserk?!
+
+Sunny3a:What? Yikes!
+
+Star4a:But she was listed as maximum threat level, so maybe...
+
+Yuka0a:Sorry to disappoint, but I won't be living up to THOSE expectations.
+
+Yuka0b:My "ability", if you can call it that, is similar to that of a fairy's.
+
+Cirno6a:It is?
+
+Yuka2d:Mmhm. I can point a sunflower towards the sun, or give vitality back to a withered flower...
+
+Yuka0a:All I can do is give a little nudge to what life is already there.
+
+Toyohime2b:Is that true, Akyu?
+
+Akyu1a:It is. That matches up with everything I've heard about her power.
+
+Chen4b:Then why'd you call her so dangerous?
+
+Yukari0b:Yuuka Kazami earned that status through pure physical and magical might.
+
+Reisen2c:So she's ridiculously strong through pure brute force?
+
+Satori0c:The most troublesome type to fight then.
+
+Utsuho1b:If it's a battle of pure power, then I won't lose!
+
+Shinki2b:And in pure toughness, I won't lose!
+
+Yuka0c:You sound excited. In that case, perhaps I'll do something along those lines for my next act.
+
+Luna1a:You mean that Master Spark-like thing?!
+
+Marisa2b:No, Yuuka's power goes way beyond that.
+
+Marisa3a:Back when I fought her before, both of her could shoot a magicannon at the same time.
+
+Sunny4c:Wait, both of her?
+
+Yuka0b:Mmhm. Wanna see?
+
+Star4b:See what?
+
+Yuka2d:I could turn that magicannon into danmaku for you. Into a spellcard.
+
+Yuka1a:Why, I'll declare it right now. Its name is...
+
+<end>
+
+<ChatID:7>---------------------------------------
+//幽香スペル２通過
+
+Koakuma1a:Is everyone okay?!
+
+Meiling1a:I can't believe it! Her clones were just as strong as her!
+
+Yumeko5c:Even with her aura divided between them, she could still fire off magicannons of that magnitude. As disgustingly powerful as ever.
+
+Yuka0b:Did you like that? I could split into even more.
+
+Medicine2a:So this is Yuuka's danmaku...
+
+Yuka3f:Oh? Did I scare you, Medicine?
+
+Medicine2c:Uh-uh. I'm just a little surprised, seeing it for the first time.
+
+Medicine0d:You never did anything like this when we practiced danmaku back at the suzuran field...
+
+Yuka3f:Yes, I thought it might be too stimulating for a tiny lady like you.
+
+Yuka0c:If you'd tried to imitate me, you'd never bloom into your own flower.
+
+Sakuya0a:So even when you're teaching danmaku, you're all about your aesthetics.
+
+Yuka0d:Sakuya, you of all people should know that my favorite flowers are the ones that bloom freely.
+
+Alice2c:You kept your distance so Medicine could live in peace?
+
+Yuka0d:Flowers and youkai and everything else are all the same. Most beautiful as they are.
+
+Remilia4a:You never did like to say anything straight.
+
+Reimu4a:So you won't mind if we exterminate you as long as that's "as it is", right?
+
+Yuka2d:Naturally. I'll be happy as long as I get to watch you flowers to my heart's content.
+
+Yukari2a:There's an incident affecting all of Gensokyo, and you're standing in our way just for your own twisted amusement?
+
+Yuka0a:Oh, I do sympathize with you. Really, I do.
+
+Yuka0b:Sorry, though. This is my hobby.
+
+Yukari2a:...
+
+Suika2a:Yeah, there we go! That's what we mean by uninhibited!
+
+Akyu1a:Her magical power is rising even higher! It's making what she had before look like nothing!
+
+Marisa2b:Don't tell me she's planning on using THAT?
+
+Yuka2d:Indeed. How nice of you to remember it.
+
+Yuka1a:I was just in the mood to cut loose, so why don't I show it to you one more time?!
+
+<end>
+
+<ChatID:8>---------------------------------------
+//幽香スペル３通過
+
+Nitori2a:That was Yuuka's full-power magicannon...?
+
+Yorihime0a:It's no wonder they describe her like she's some avatar of destruction.
+
+Toyohime2c:In terms of raw power, that blast might even exceed Lunarian weaponry.
+
+Ran6e:But she's using all that power for her own selfish whims.
+
+Ran6c:We can't afford to lose to an anti-social opponent like her.
+
+Yuyuko5a:Yes, how could she so completely ignore the feelings of others just for her own fun?
+
+Yuka1a:Tee hee, you say that like it's a bad thing.
+
+Yuka0a:And to think you're the ones twisted into something far more unnatural.
+
+Tenshi2e:What does that mean?
+
+Yuka0a:Live for yourself, and die by yourself. That's the original way of life for a youkai.
+
+Yuka0e:But you've gotten yourself caught up in things like "status" and "feelings" which will only weigh down your body and spirit.
+
+Yuka2d:If that's not unnatural, what is?
+
+Nue5b:She's kinda right...
+
+Byakuren0c:The fact that as long as we live in society we will have relationships with others certainly can't be called ideal.
+
+Yuka0e:Precisely. But these bonds become attachments, and we form boundaries to keep out others.
+
+Yuka0a:Don't you think it's biased to call that way of life "wise"?
+
+Yukari0b:What are you trying to say, Yuuka Kazami?
+
+Yuka0b:I'm talking about you, Yukari Yakumo.
+
+Yukari2a:...
+
+Yuka2d:You're at the forefront of the current Gensokyo. To use a metaphor, you're the flower blooming in the center of the garden.
+
+Yuka0a:And yet you're trapped, abandoning a youkai's natural way of life.
+
+Yuka2c:I have my doubts that you can truly accept everything like that.
+
+Ran1b:Yuuka Kazami, if you're just going to insult Lady Yukari...
+
+Yuka1a:I'm just curious about you, that's all. There aren't any other youkai who wear as many faces as you, who are as silver tongued as you.
+
+Yuka0a:Right now, what I most want to test is your heart.
+
+Yuyuko3c:Yukari's heart, hm...
+
+Yuka2d:Or do you all already know everything about everyone without even asking?
+
+Yukari2a:...
+
+Ran4b:Lady Yukari...
+
+Yuka0b:Hm, seems like you're not interested in chatting. In that case, let's do this by Gensokyo's rules.
+
+Yuka2b:Let's talk, Yukari Yakumo.
+
+Reimu0e:Talk? Wait, you don't mean...
+
+Yuka2d:Rules that make everyone an equal. That mixture of light and sound that you put your entire being into.
+
+Yuka0a:The spellcard rules. Isn't that the form of dialogue you invented?
+
+Suika2a:You're really into this, huh? I mean, you don't just talk to Yukari like that.
+
+Yorihime0b:We needn't to rise to her provocation. This might just be a ploy to get you to lose your composure.
+
+Eiki4a:No. Let's leave this to Yukari Yakumo. Let her have this dialogue with Yuuka Kazami.
+
+Yuyuko1d:Lady Shiki...
+
+Eiki1a:On one side we have the one who guides us as a sage, who supports this world's fantasy, Yukari Yakumo.
+
+Eiki1a:And on the other, the one restrained by nothing, watching over fantasy from the opposite shore, Yuuka Kazami.
+
+Eiki0a:The dialogue between these two should be an opportunity for all of us to reflect on how Gensokyo should be.
+
+Yukari5a:Very well, I'll play along. Say what you like, I have my honor as a sage.
+
+Yuka1a:Heh heh, a sage. Right. It'll be fun tearing off that mask.
+
+Yuka2b:Alright then, let's talk. About my fantasy, and your fantasy.
+
+Yuka0b:Show me who you are, as you are.
+
+<end>
+
+<ChatID:9>---------------------------------------
+//花鳥風月（会話１）
+
+<Code=(icon_set_direction,Yuka_en,Yukari,0)>
+
+<Code=(icon_set_direction,Yukari,Yuka_en,0)>
+
+Yuka0e:Flowers are the natural order. They're born only to wither, and wither only to bloom again.
+
+Yuka2d:No one can go against the natural order of life, and that itself is beautiful.
+
+Yuka0a:What do YOU think about life in Gensokyo?
+
+Yukari0a:It's like the seasons. As the cycles repeat, subtle difference start to appear. It's a transient and beautiful thing.
+
+Yuka2d:Then you also know the beauty of death.
+
+Yukari0b:Death...?
+
+Yuka0a:Death is a part of the order of life. For every life there is a single death. It's a beautiful thing.
+
+Yuka2c:Surely you're aware of that. So what do you think of the death of the humans who've passed you by?
+
+Yukari0b:The death of humans, hm...
+
+Yukari1a:I've lived too long, and seen too many. I don't even remember them anymore.
+
+Yuka0b:Heh. You freely admit you don't remember.
+
+Yuka0a:You, with all of your connections and who carries everything with you. Surely you remember even a human's death.
+
+Yuka2c:Or are you saying you've forgotten that "everything"? That you've forgotten that beauty?
+
+Yukari0b:...
+
+Yuka0a:That look right there—I like it. You lie without so much as batting an eye.
+
+Yuka1a:See, you're all bluff.
+
+<end>
+
+<ChatID:10>---------------------------------------
+//花鳥風月（会話２）
+
+<Code=(icon_set_direction,Yuka_en,Yukari,0)>
+
+<Code=(icon_set_direction,Yukari,Yuka_en,0)>
+
+Yuka0e:Birds are free, they fly where they please.
+
+Yuka0a:But doesn't Gensokyo's barrier make it a birdcage for its inhabitants?
+
+Yukari1a:Without the barrier, the youkai would die out. And you're no exception.
+
+Yuka2d:But now you're trying to add even more birds.
+
+Yuka0a:Oni and Lunarians and Underworlders, oh my. Doesn't that make you the self-righteous queen of the birdcage?
+
+Yukari0a:I'm simply trying to do what's best for everyone.
+
+Yukari5a:Not to mention everyone in Gensokyo is an equal. I'm no queen, and that's an insult to everyone here.
+
+Yuka0b:Tee hee, yes, of course. Maybe my teasing went little too far.
+
+Yuka2a:Let me rephrase that. You're no queen, you're the most shackled bird of all.
+
+Yukari2a:What are you getting at?
+
+Yuka2c:By becoming attached to everyone, you conversely bind yourself.
+
+Yuka0a:How could an unconditional love for an uncountable number of people be anything but a curse?
+
+Yukari0b:I'm not bound to anyone. Are you basing this on anything?
+
+Yuka0a:Oh, very much so. Like I said, show me more.
+
+Yuka2c:More of the bird who won't take flight, no matter what wind is blowing.
+
+<end>
+
+<ChatID:11>---------------------------------------
+//花鳥風月（会話３）
+
+<Code=(icon_set_direction,Yuka_en,Yukari,0)>
+
+<Code=(icon_set_direction,Yukari,Yuka_en,0)>
+
+Yuka0e:Wind is change. Something arrives, and something leaves.
+
+Yuka0a:You could say one wind in Gensokyo is the changing of the shrine maiden.
+
+Yukari0a:The state of the shrine maiden determines the state of the barrier. The history of this land is formed from their accomplishments.
+
+Yuka2d:But you've meddled in the lives of generations of shrine maidens, as an acquaintance.
+
+Yuka0a:You force the winds to blow the way you want them to, taking the reins of change.
+
+Yukari5a:Leaving everything to the shrine maidens would be a dereliction of duty on my part.
+
+Yuka2c:You're just using duty as an excuse to safeguard your own attachment.
+
+Yukari0b:Excuse me...?
+
+Yuka2c:Do you even realize it? You meddle with strangers all the time, but don't let anyone meddle with you.
+
+Yuka0a:The shrine maiden is the best example. You step into her life, but she's never allowed into yours.
+
+Yuka2d:As the one closest to you, she's the biggest victim of your distortions.
+
+Yukari0b:...
+
+Yuka2d:But why is that? You must have had a human friend in the past.
+
+Yuka1a:The Fujimi girl, was it?
+
+Yukari2a:...!
+
+Yuka0b:Oh, so you do remember her. I thought you'd forgotten all human deaths?
+
+Yukari2a:Stop this.
+
+Yuka1a:Heh, did we finally reach the core of the matter?
+
+Yuka2c:You can't create a smokescreen of words to escape this like you always do.
+
+<end>
+
+<ChatID:12>---------------------------------------
+//花鳥風月（会話４）
+
+<Code=(icon_set_direction,Yuka_en,Yukari,0)>
+
+<Code=(icon_set_direction,Yukari,Yuka_en,0)>
+
+Yuka0e:The moon is the heart. Sometimes full, sometimes waning, and sometimes hidden.
+
+Yuka2d:I've finally gotten a glimpse of your hidden heart.
+
+Yukari2a:Don't speak like you know me. I've simply been going along with your conversation.
+
+Yuka1a:Oh, but it's all there in your danmaku. Even the parts you don't want seen.
+
+Yuka2d:This human, this Fujimi girl. I hear you two were as inseparable as a layered butterfly.
+
+Yuka0a:So even the stubborn you of today was once a youkai like that.
+
+Yukari2a:What if I was?
+
+Yuka2c:What I'm thinking is this. Your distortion is because you lost her.
+
+Yuka0a:When you think of it like that, your attitude toward the shrine maiden makes sense too.
+
+Yuka1a:...No. There's still one person you're attached to.
+
+Yukari2a:Yuuka, don't you dare...
+
+Yuka2c:Right, right, could it be that...
+
+Yuka1a:Yuyuko Saigyoji is your replacement for this Fujimi girl?
+
+<Code=(icon_set_direction,Yuyuko,Yuka_en,0)>
+
+Yuyuko1d:...!
+
+Yukari2a:Wh...?!
+
+Yuka0b:Come to think of it, the way you act toward Yuyuko has never sat right with me.
+
+Yuka0a:Sure, you get along, but you treat her as something delicate. Fragile.
+
+Yuka2c:I'm sure you're hiding something. Could it be that the Fujimi girl is—
+
+Yukari2c:Not another word!
+
+<Code=(icon_set_direction,Ran,Yukari,0)>
+
+Ran2a:Lady Yukari...!
+
+Yukari2c:Take that back immediately! I...
+
+Yuka2b:You... what? By all means, finish that sentence.
+
+Yuka0a:As it happens, someone else seems rather interested in this conversation.
+
+Yukari2c:That's not...
+
+<Code=(icon_set_direction,Yuyuko,Yukari,1)>
+
+Yuyuko3c:...You're hiding something from me, Yukari.
+
+<Code=(icon_set_direction,Yukari,Yuyuko,0)>
+
+Yukari2a:No, Yuyuko! I...
+
+Yuka1a:Ha ha ha, that face! Yes! Finally! That's not the face of a sage. That's who you are, as you are!
+
+Yuka1a:With your manipulation of boundaries, you've been saying you accept everything while your own border was left unmoved, rejecting everyone.
+
+Yuka2a:Yes, that's the sort of youkai you are.
+
+<Code=(icon_set_direction,Yukari,Yuka_en,0)>
+
+Yukari2c:Yuuka Kazami...!
+
+Yuka2c:Yukari Yakumo. You're a walking contradiction.
+
+Yukari2a:...!
+
+Yuka0b:Heh. I've said what I wanted to say, and you've shown me the face I wanted to see.
+
+Yuka2d:If you have any counterarguments, then let's hear them—as you are.
+
+Yuka1a:The hidden moon finally appears after all.
+
+<end>
+
+<ChatID:13>---------------------------------------
+//幽香スペル４通過
+
+<Code=(icon_set_direction,Yuka_en,Yukari,0)>
+
+<Code=(icon_set_direction,Yukari,Yuka_en,0)>
+
+Yuka0b:Well, I'm done. Truly, an afternoon well spent.
+
+Yukari2a:...
+
+Udonge2b:That was a discourse between two great youkai...
+
+Reisen2c:What incredible intensity. She was pushing Yukari back like that...
+
+Sanae1e:It's hard to believe that a part of Yukari doesn't accept people.
+
+Suika4a:Man, I don't want to take Yuuka's side, but I can kinda see what she was saying.
+
+Satori0b:So can I.
+
+Tenshi0d:So you two have seen that side of Yukari before?
+
+Suika0b:Well, I've known her a long time.
+
+Suika4b:She was strong, but like, too strong. Strong enough to carry everything alone, and keep on living.
+
+Satori0c:Buried beneath her heart that thinks only of others is a part of her that can't even save herself.
+
+Satori0c:She had the strength to bear even that contradiction, but...
+
+Eiki1a:A sudden reversal can change strength into weakness. Even Yukari Yakumo must be aware of that.
+
+Ran6c:But Lady Yukari would never be weak. She'd always have a counterargument.
+
+<Code=(icon_set_direction,Yuyuko,Yukari,0)>
+
+Yuyuko2a:That's right, Yukari...
+
+<Code=(icon_set_direction,Yukari,Yuyuko,1)>
+
+Yukari4a:...
+
+<Code=(icon_set_direction,Yuyuko,Yukari,1)>
+
+Yuyuko1d:...
+
+Youmu2a:Lady Yuyuko, Lady Yukari...
+
+Yuka1a:Ha, you won't even face her. Not that you'll ever admit it.
+
+Yuka0a:You've always lied to her, why would that change now?
+
+Yukari4a:...
+
+Wriggle0b:How can she say all that to Yukari? Yuuka really is unrestrained.
+
+Wriggle4g:Forget "uninhibited," it's more like she has no concern for her life.
+
+Elliy5a:It's true. Yuuka's a flower, through and through!
+
+Minoriko0b:What do you mean, a flower?
+
+Elliy0b:Yuuka lives and dies as she is—liberated.
+
+Elliy0a:Even now, she can do all this because she doesn't care if it ends up destroying her.
+
+Kurumi5b:That's why every time we meet her we have to treat it like it might be the last!
+
+Yumeko4b:THAT'S how you think of her...?
+
+<Code=(icon_set_direction,Yuka_en,Elliy,0)>
+
+Yuka3b:Heh heh heh! You two say some funny things!
+
+Yuka1b:I'm a flower, am I? So what would you do if I really did wither away?
+
+Elliy4a:That's just who you are, Yuuka. It'd be tough, but I'd hold back my tears.
+
+Yuka5a:What...?
+
+Elliy3b:And I'd bury you with flowers in your favorite colors!
+
+Kurumi2c:Yeah, I'd offer up flowers in your honor too.
+
+Yuka5a:You girls...
+
+Yuka1b:...
+
+Alice0d:Are you at a loss for words? Looks like you didn't expect that.
+
+Yuka2d:Alice...
+
+Alice0c:You may be aloof, but that doesn't mean you've cut off all connections.
+
+Alice0d:You've been calling us all flowers, but you're one of those flowers too.
+
+Yuka1b:Interesting. So that, too, is part of the fantasy you've achieved.
+
+Marisa0d:Sounds like you're satisfied. Are we done here?
+
+Yuka0b:...No. I changed my mind. I'd like to add one last flower.
+
+Yuka0a:Actually, ending this was supposed to be the duty of the presiding judge, but... you don't mind, do you?
+
+Eiki0a:Of course not. You're the one who prepared the stage, after all.
+
+Yuka0d:I appreciate it. Then I'd like to add one last decoration to it.
+
+Yuka0f:My own flower, as I am.
+
+<end>
+
+<ChatID:14>---------------------------------------
+//幽香スペル５通過
+
+Keine1a:Did we get through it?!
+
+Komachi1a:The flower that represents herself, huh? What a great spellcard to mark the sixty year juncture.
+
+Yuka0b:Ah, but I should be the one complimenting you. You've left me quite satisfied. I've lost this danmaku battle.
+
+Mima2a:Selfish to the end, but if there's one thing I do respect about you it's your unwavering way of life.
+
+Mima0a:Continuing to live as you are is far easier said than done.
+
+Eirin0a:That lack of contradiction must be what gives you strength.
+
+Yorihime0b:Your form of strength is certainly etched into my mind now.
+
+Yuka3a:Then if we're all satisfied, let's call it here.
+
+Yuka0d:I had a lot of fun talking to you, Yukari Yakumo.
+
+Yukari0b:...
+
+Yuyuko3b:No, this isn't over yet.
+
+<pause>
+
+<Code=(icon_set_direction,Yuyuko,Yukari,0)>
+
+<Code=(icon_set_direction,Yukari,Yuyuko,0)>
+
+Youmu2b:Lady Yuyuko...?
+
+Yuyuko0a:...Yukari, say something. It isn't like you to stay silent.
+
+Yukari0b:Yuyuko...
+
+Yuyuko2a:I still don't know the details of what you were talking about earlier.
+
+Yuyuko0a:But I had already realized that you were hiding something from me.
+
+Yukari2c:Look, I...
+
+Yuyuko3b:Don't deny it. I was okay with there being some part of you I wasn't allowed into.
+
+Yukari2a:But then...
+
+Yukari4a:That creates an unpassable boundary between us...
+
+Yuyuko1c:That's okay. I'm not as weak as you think I am, Yukari.
+
+Yuyuko0a:There's nothing wrong with letting there be a few secrets between us.
+
+Yuyuko3b:You always seemed to hurt so much when telling those lies. I knew you were telling them for my sake.
+
+Yukari4a:...
+
+Yuyuko1b:So... be yourself, Yukari.
+
+Yukari5a:Yuyuko...
+
+Yukari2a:I...
+
+<pause>
+
+<Code=(icon_set_direction,Yuyuko,Yukari,0)>
+
+<Code=(icon_set_direction,Yukari,Yuka_en,0)>
+
+<Code=(icon_set_direction,Yuka_en,Yukari,0)>
+
+Yuka2d:...Oho.
+
+Yukari0b:I have something to say to you, Yuuka Kazami.
+
+Yuka0c:Your face is telling me you've made a breakthrough.
+
+Yukari0b:You told me that my way of life was a contradiction. And I'll acknowledge that.
+
+Yukari0a:And you're right that many of my words are lies.
+
+Yuka1a:Ha ha ha! So what will you do now?
+
+Yuka0a:Repent? Start over from scratch? Cry pure, beautiful tears and have a change of heart?
+
+Yuka1a:How exactly do you plan to settle the debts of your life, filled as it is with nothing but lies and contradictions?
+
+Yukari2b:I'll answer that through danmaku.
+
+Yuka2d:Oho...
+
+Yuka0a:I think I'd like that. I'd like that a lot. I'm sure it will be both beautiful and cruel.
+
+Yukari2c:Now you shall face my danmaku barrier.
+
+<end>
+
+<ChatID:15>---------------------------------------
+//ADVB
+
+<BG=bg_talk_Seirensen_Bridge_Flower,fade=1,color=1,title=bg_Seirensen_Bridge,bgm=bgm_talk_hiroshige>
+
+Patchouli4a:Good grief, that was one long fight.
+
+Sunny3b:Man, we really hung in there. Yukari carried us in the end, though.
+
+Remilia0a:At least that danmaku was flashy enough to end on.
+
+Youmu1b:That art Lady Yukari used, was that...?
+
+Reimu4a:Danmaku Barrier. She's been using it for a while now.
+
+Reimu0a:But this one was more profound than before. Is the boundary of danmaku her own boundary?
+
+Momiji0a:A barrier of danmaku...?
+
+Reimu4a:The border between killing and playing. The barrier that defines danmaku, made of danmaku.
+
+Reimu4a:I can't believe her answer to her way of life was the border of truth and lies. Looks like she doesn't plan on changing a thing.
+
+Kurumi6a:Buh...?
+
+Aya5a:Ah, of course, I get it now. I get that Reimu is terrible at explanations.
+
+Elliy1a:So, uh, ignoring all that gibberish, what about Yuuka?! That explosion was huge! Is she alright?!
+
+Medicine5a:Yeah! What do we do if Yukari killed her and now she's DEAD?!
+
+Medicine5c:Hey, Eirin! Can you bring her back to life?!
+
+Udonge2b:I think you're overreacting...
+
+Eirin0a:Udonge is right. First of all I don't think we need to worry about that.
+
+Yuka2d:You certainly don't. Don't go writing me off as dead.
+
+Medicine2a:...!
+
+Kurumi2a:Yuuka! You're okay!
+
+Elliy2b:I always knew you'd come back for us!
+
+<Code=(map_shake,1,45,2)>
+
+<SE=se_muscle06.ogg,wait=1>
+
+Yuka4b:Hey, I'm tired, let go of me.
+
+Yuka1b:What happened to all those dignified things you were saying earlier about leaving me flowers?
+
+Elliy2a:I take it all back! Never leave us alone again!
+
+Kurumi2a:Yuuka, read me a story!
+
+Yuka1b:You two, I swear...
+
+Alice0b:I think seeing how much they care about you has done you a lot of good.
+
+Yuka4a:Alice, if I weren't so exhausted I'd shut that saucy mouth of yours for you.
+
+Alice0c:Go right ahead. You're not exactly scary with the kids hanging off of you, you know.
+
+Marisa1c:Anyway, you lost. Weren't you gonna tell us stuff if you lost?
+
+Yuka3a:Don't worry, I remember. Unlike some people, I mean what I say and keep my promises.
+
+Yuka3c:But first, a cup of tea would be nice.
+
+Meiling3d:Huh? Tea?
+
+Yukari1a:It's hard to believe this is the same youkai who started that huge battle.
+
+Eiki0a:That's entirely in character, given her uninhibited nature.
+
+Yuka5a:Ah, Yukari Yakumo and the Yama.
+
+Youmu4a:Lady Yuyuko, you were with Lady Yukari, right?
+
+Yuyuko1a:Yes, I was watching that last danmaku attack from close up.
+
+Yukari0a:...
+
+Yuka3a:...That final danmaku was truly beautiful.
+
+Yuka1b:With words spun like that, there can be no doubt as to what your answer was.
+
+Yukari1a:Indeed. I did try to put everything into that danmaku.
+
+Yuka3d:Heh. An exquisite lie, so close to the truth and yet so far away.
+
+Yuka3a:If that's who you are, then do as you please.
+
+Yuka3c:The moment you let that answer out, you must have gotten over a lot of hang-ups.
+
+Yukari4c:Yes, I believe I have.
+
+Eiki0a:If that's the case, then I understand completely.
+
+Eiki3c:Yukari Yakumo, I expect you to give my lecture your full attention.
+
+Youmu2b:Wait, lecture?!
+
+Komachi3b:But didn't you say you'd just be watching over their dialogue?
+
+Eiki5a:That was one thing, and this is another. Just because Yuuka Kazami was satisfied with her answer doesn't mean I am.
+
+Eiki1a:This is a good opportunity. Let's talk, face to face.
+
+Yukari0b:Wait, what? I just got back...
+
+Yukari4a:Hey, that hurts! What if that leaves a mark?
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+<single>
+
+Sunny4a:Ouch, dragged away by force...
+
+</single>
+
+Youmu2b:Is the word "tired" even in Lady Shiki's vocabulary?
+
+Suika3d:But Yukari didn't run away this time, so maybe she wanted to talk too?
+
+Suika0a:And if it's like that, maybe you should follow them, Yuyuko.
+
+Yuyuko1c:...Yes, I think I will.
+
+Akyu0a:But now we missed our chance to talk about the incident.
+
+Sakuya0a:I suppose we just take a break until Yukari gets back?
+
+Alice0d:Then let's catch up with each other while we wait.
+
+Alice3b:You had a lot you wanted to say to Yuuka, right, Medicine?
+
+Medicine2a:Um, well...
+
+Yuka3e:Oh, is that right?
+
+Medicine2a:U-Um... Well...
+
+Medicine4b:It's like, so much happened, but the words aren't coming out...
+
+Yuka3c:Tee hee, when did you get so adorable?
+
+Yuka1b:And to think you said all that with such fury during the battle.
+
+Medicine5a:Yeah, but now you're the nice Yuuka again...
+
+Yuka3c:...Okay then. Tell me about all your adventures since we last met.
+
+Medicine3c:Okay... After that I went to a lot of places and met a lot people.
+
+Medicine0a:I learned a lot of things, and... it was all stuff I never knew from when I was staying in the suzuran field.
+
+Yuka1b:...
+
+Medicine2b:Oh, and lately I've been helping out Eirin, and Alice has been teaching me letters!
+
+Medicine3b:Everyone's so nice, and...
+
+Yuka1b:Does that mean you've given up on liberating the dolls?
+
+Medicine4a:...I'll think about that after I learn more stuff.
+
+Medicine2a:I-I'm not saying that I love humans now! There's just so much stuff I didn't know!
+
+Yuka3c:Tee hee, I see, I see. You were only just born, so spread your roots as you please.
+
+Yuka3a:But today has been a good day. I got to meet the you who'd been raised so well.
+
+Yuka3d:You've become a wonderful girl, Medicine.
+
+Medicine3d:Yuuka...!
+
+Alice3a:...
+
+Shinki2b:Yes yes, that's all well and good but that's enough of that!
+
+Yumeko4a:Alice and Medicine, come over here.
+
+Alice1a:Huh? Wait! Why are you stepping in?
+
+Yumeko0a:Yuuka Kazami is a bad influence, so we're drawing a defensive line.
+
+Shinki2b:Stay on that side and don't come any closer!
+
+Alice1a:A defensive line? It's more like you're locking us in.
+
+Yuka0b:So it's Alice's mommy and her stepsister. I'm pleased to see you.
+
+Yuka1a:I've always wanted to head to Makai to pay my respects, but I could never find the time.
+
+Shinki2a:No! Stop! You don't get to call me mommy, and I never want you coming to our home!
+
+Yuka0b:So, what's this about a line then?
+
+Shinki2a:No! You brute!
+
+Patchouli4a:Great. We've added yet another source of commotions.
+
+Sakuya0a:It always warms my heart to see old friends getting along so well.
+
+Remilia4a:...Do you need your eyes checked, Sakuya?
+
+Marisa0c:So anyway, with Yuuka here does that mean we've finally gathered all of Gensokyo's might?
+
+Elliy5a:Uh-huh! With her, we'll be a hundred times more excited and brave and whatever!
+
+Elliy1a:Now let's finish up this investigation on a good note!
+
+Meiling3a:I guess the words "tired" and "fatigued" aren't in Elly's vocabulary, either...
+
+<BG=bg_talk_Flower,fade=1,color=1,title=bg_Flower,bgm=bgm_talk_yozakura>
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+Eiki0b:Alright, this is far enough. And you should be calmed down enough to talk by now.
+
+Eiki0a:I'm surprised Yuuka Kazami still isn't dead. Her power really is something else.
+
+Yukari0b:If you've taken me to a place like this, then I doubt this is one of your usual lectures.
+
+Eiki4a:Indeed. I wanted to have a little talk with you about what happened on the flower stage.
+
+Yukari1a:And I'd love to talk. But about what, exactly?
+
+Eiki0b:Just as Yuuka Kazami wanted to verify the current state of fantasy, I went along with her because I had an ulterior motive.
+
+Eiki0a:And through this battle just now, I feel I've accomplished that goal.
+
+Yukari0a:The incident has yet to be resolved. Why bring this is up now?
+
+Eiki0c:Naturally, you mustn't tell anyone else of this. But if all that awaits us ahead is the mastermind, then this marked the final battle for the soul of Gensokyo.
+
+Eiki0a:I wanted to give you a full evaluation as the leader of this group.
+
+Yukari0b:...
+
+Eiki3b:Human and youkai, Underworlder and Lunarian... Just gathering all these people requires skill befitting of the title of Youkai Sage.
+
+Eiki3c:You've done splendid work over these past sixty years.
+
+Yukari1a:I came here expecting a lecture, and now you're praising me? Frankly, this is ominous.
+
+Eiki3a:I'm being serious.
+
+Yukari1a:I know. But the state of Gensokyo today is thanks to the current shrine maiden and Marisa Kirisame.
+
+Yukari0a:And all the people they've gathered around them.
+
+Eiki6c:I wonder why it is that you're only modest when you're being evaluated.
+
+Yukari1a:Because just like Yuuka Kazami said, I'm nothing more than a single narrow-minded and powerless youkai.
+
+Eiki0a:...I was hoping to expand on that conversation, actually.
+
+Eiki0b:Her complaints had some truth to them. To a youkai, contradiction can be poison.
+
+Eiki0a:I thought you might take those words to heart and change your life, even a little, but...
+
+Yukari0a:...
+
+Eiki4a:Despite all that, you doubled down on your contradiction, and elevated your boundary of danmaku into an aspiration.
+
+Eiki0a:No doubt you plan to continue carrying everything alone and acting as the leader of Gensokyo.
+
+Yukari0b:The way I see it, that's precisely the karma I'm burdened with.
+
+Eiki4b:Just so you know, you're beyond salvation.
+
+Yukari1a:I'm the one who couldn't save her. You're not telling me anything I don't already know.
+
+Eiki0b:...
+
+Eiki3c:Alright. I'll pause my lecture for now.
+
+Eiki0a:We can pick this up later, at a better time.
+
+Eiki0c:But remember one thing: if your feelings are still disrupting your life, even today, then they're nothing but a curse.
+
+Yukari0a:You're not wrong.
+
+Eiki4a:Then I'll be returning to the boat. You should cool your head out here a little longer.
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+<single>
+
+Yukari1a:Leaving me alone out here? How cold.
+
+Yukari0a:I do understand. No matter what feelings I have, using lies to toy with others is nothing but acting on my own ego.
+
+Yukari0b:But that choice is already made.
+
+</single>
+
+Yuyuko1a:Talking to yourself, Yukari?
+
+Yukari0a:Yuyuko...
+
+Yuyuko0a:You were late, so I came to look for you two. Looks like Lady Shiki already headed back though.
+
+Yuyuko3a:Did I... interrupt something?
+
+Yukari1a:The lecture was already too long for my tastes. I wish you'd arrived sooner, honestly.
+
+Yuyuko1b:I see. I thought it might have been a delicate topic.
+
+Yukari0a:Some harsh words were said in that battle just now.
+
+Yuyuko0a:Yes, they were. That was the first time I've seen you struggle so much.
+
+Yukari0a:...
+
+Yukari2a:Yuyuko, to me, you're...
+
+Yuyuko2a:Don't say it. I already told you how I feel.
+
+Yuyuko0a:If there's something you can't tell me, I trust that you have a good reason.
+
+Yukari0a:Yuyuko...
+
+Yukari5a:*sigh* I showed you my ugly side.
+
+Yuyuko1a:And is there something wrong with being ugly?
+
+Yukari0a:It's not something I wanted anyone to see. That must have been unpleasant, even for you.
+
+Yuyuko1b:No, not at all. The Yukari I know is always putting on an act, trying to show off in front of me.
+
+Yuyuko0a:So seeing all those different faces of yours today was actually a tad bit refreshing for me. I'm relieved.
+
+Yukari4c:Refreshing? Come on...
+
+Yuyuko3b:...Just because I never said anything doesn't mean I wasn't lonely.
+
+Yuyuko0a:But now I know that the Yukari who deals in lies and secrets is your true face after all.
+
+Yuyuko1c:If so, I think I'm willing to accept that Yukari. All of her.
+
+Yukari5a:You are...?
+
+Yuyuko1a:But if I do, will you try to rely on me more?
+
+Yuyuko0a:Ever since I learned of you, that's how I've been feeling.
+
+Yuyuko1c:Keep being yourself. I want to see more of you, both the good sides and the bad.
+
+Yukari0a:...
+
+Yukari1a:*sigh* There's no winning an argument with you, is there?
+
+Yuyuko3a:So I won this round?
+
+Yukari1a:And then some, yes. I'm glad I could provide you a refreshing experience, Yuyuko.
+
+Yukari0a:Would you mind if I come visit the Netherworld after we settle this dream incident?
+
+Yukari0a:I'd like to view the cherry blossoms together.
+
+Yuyuko1c:Certainly. I'll be waiting for you.
+
+Yukari0a:...
+
+Yukari5a:(Even if the battle for Gensokyo is over, our investigation continues.)
+
+Yukari0b:(Indeed, we're very nearly at the final battle with Makura Muwatari.)
+
+Yukari0a:(Let's go. To what's beyond this stage. To the true ending of all of this.)
+
+<Code=(transition_out,c_black,90,1)>
+
+<end>
+
+<ChatID:16>---------------------------------------
+//全滅時
+
+Akyu2a:Aah! The Palanquin Ship!
+
+Yuka0a:If you're that weak, you're hardly dependable.
+
+Yuka0a:Well, no matter. I'll simply resolve this incident for you.
+
+Reimu2a:Rgh, not after coming this far...
+
+<end>
+
+<ChatID:17>---------------------------------------
+//幽香vs.霊夢（花鳥風月通過後）
+
+Reimu5d:So the shrine maidens are her victims, huh?
+
+Yuka0a:I was only voicing what I saw. Did that dampen your spirits?
+
+Reimu5c:Not really... It doesn't matter what anyone says, it's not gonna change my duty.
+
+Reimu5d:And while we've had our ups and downs, I'm still grateful to her.
+
+Yuka0a:Are you?
+
+Reimu5d:The only reason I have this job, this duty, is because of her.
+
+Reimu5d:So I don't expect much from her, and I'm not gonna complain either.
+
+Yuka0a:You might just be the most trusting human in the entire world.
+
+Reimu5c:It beats the alternative. Not like puzzling over it would get me anywhere.
+
+Reimu5d:And the border between human and youkai is something I have to protect.
+
+<end>
+
+<ChatID:18>---------------------------------------
+//幽香vs.幽々子（花鳥風月通過後）
+
+Yuyuko0a:...
+
+Yuka0a:Sorry about all this. I never meant to hurt you.
+
+Yuyuko0a:It's not your fault... You weren't the one with something to hide.
+
+Yuyuko0a:I'd already realized it anyway, more or less.
+
+Yuka0a:So you're not going to ask for the details?
+
+Yuyuko0a:What would Yukari hide from me?
+
+Yuka0a:All I can do is guess. For the truth, why don't you try asking her yourself?
+
+Yuyuko0a:...
+
+<end>
+
+<ChatID:19>---------------------------------------
+//予備枠
+
+<end>
+
+<ChatID:20>----------------------------------------
+//幽香vs.霊夢R
+
+Reimu1a:Give it up, Yuuka!
+
+Yuka0a:Tee hee, you're about the only who could say those lines so confidently to me, Reimu.
+
+Yuka0a:You're an interesting human. You never tire of battle, and you treat all others as equals.
+
+Yuka0a:But despite that, it's not as if you lack interest in others.
+
+Reimu4a:For a youkai about to be exterminated, you sure love to list things for no reason.
+
+Yuka0a:Oh? But is there a reason to exchange danmaku other than to chat?
+
+Yuka0a:Show me the Hakurei Shrine Maiden's danmaku and barriers.
+
+<end>
+
+<ChatID:21>----------------------------------------
+//幽香vs.魔理沙R
+
+Marisa0a:Fight me, Yuuka!
+
+Yuka0a:What, in a contest of strength?
+
+Marisa0a:No, a contest of danmaku! Whoever's flashiest wins!
+
+Yuka0a:Tee hee, of course. I think I'd also enjoy it more that way.
+
+Yuka0a:You're an interesting human too, albeit in a different sense from Reimu. You're imperfect and more hard-working than clever...
+
+Yuka0a:But even so, I find myself wanting to see your danmaku.
+
+Marisa0a:Don't rate me before we've even fought. I haven't even used my magic yet.
+
+Marisa0a:And I'm hoping YOU'LL show me something I've never seen before too.
+
+Yuka0a:Allow me to add one more thing to the list. Your passion for learning new things is also fascinating.
+
+Marisa1a:Then here we go! Star magic and love magic, both at full power!
+
+<end>
+
+<ChatID:22>----------------------------------------
+//幽香vs.早苗さん
+
+Yuka0a:You used to be known as simply "the other shrine maiden", but I see you've taken root and thrived.
+
+Yuka0a:Have you abandoned any lingering attachment to the Outside World?
+
+Sanae0a:That should go without saying.
+
+Sanae0a:We're the ones who made the choice to cross into fantasy.
+
+Yuka0a:You almost sound like you're trying to convince yourself. So you have some regrets then?
+
+Yuka0a:With those half-baked feelings, don't you think you'll end up hated by Gensokyo's barrier?
+
+Sanae0a:Even so, as long as I'm here with Lady Kanako and Lady Suwako, all I can do is face forward.
+
+Yuka0a:Tee hee, I'm just teasing you.
+
+Yuka0a:Gensokyo itself decides what becomes fantasy and what does not.
+
+Yuka0a:Now that you're here, you've already stepped into a fantasy you can never return from.
+
+<end>
+
+<ChatID:23>----------------------------------------
+//幽香vs.アリス
+
+Alice0c:No matter what's happening, you never change, Yuuka.
+
+Yuka0a:I'm glad you understand me, Alice.
+
+Alice0a:Half of me is sick of you. You won't even talk about Medicine.
+
+Alice0a:I even hate myself for getting used to your personality.
+
+Yuka0b:Tee hee, you really are cute after all.
+
+Alice0a:Excuse me...?
+
+Yuka0a:Maybe it's because she raised you with such sincerity. You put up an act, but your love runs deep, and your heart wavers like a human.
+
+Yuka0a:I love seeing your face shift like a kaleidoscope.
+
+Alice0c:Well, I hate that about you.
+
+Yuka0a:...Oho.
+
+Alice1a:You live your life completely uninhibited without thinking about others, and use your words to toy with people.
+
+Alice1a:If this is your idea of a joke, then you need to rethink it.
+
+Yuka0a:So little crybaby Alice doesn't like being toyed with?
+
+Alice1a:Of course not. If I win this danmaku battle, promise me you'll stop treating me like a child!
+
+Yuka1a:Tee hee, very well then. If you can satisfy me, that is!
+
+Yuka1a:Show me how you've bloomed, Alice.
+
+<end>
+
+<ChatID:24>----------------------------------------
+//幽香vs.ルーミア
+
+Yuka0a:Come to think of it, I've been seeing you around a lot.
+
+Yuka0a:I suppose you've stuck with Reimu ever since we met back at Remilia's manor?
+
+Rumia0a:I guess. It just kinda happened.
+
+Yuka0a:Letting things play out as they do. That's not a bad thing.
+
+Rumia0a:Hmm. I just don't worry about the stuff I don't worry about.
+
+Yuka0a:That itself is part of the difficulty of simply "being."
+
+Yuka0a:If you have your own answer, I'd love to hear it.
+
+<end>
+
+<ChatID:25>----------------------------------------
+//幽香vs.大妖精
+
+Yuka0a:To think we'd one day be facing each other one on one.
+
+Daiyosei0a:Y-Yes...
+
+Yuka0a:You used to cry just at the sight of me. Is today different somehow?
+
+Daiyosei0a:Cirno and Letty taught me that I can't just cry all the time.
+
+Daiyosei0a:Plus I want to stop being so weak.
+
+Yuka0a:Sounds like you've changed a lot on your way here.
+
+Yuka0a:...No, you've traveled with Reimu this entire time. I'm sure you've gotten stronger little by little along the way.
+
+Daiyosei1a:I dunno if it'll be enough against you, Yuuka, but I'll try my best!
+
+Yuka0a:Tee hee. If someone like you can bring me to my knees, then Gensokyo is quite an interesting place.
+
+<end>
+
+<ChatID:26>----------------------------------------
+//幽香vs.チルノ
+
+Yuka0a:The sunflowers watch you, Cirno.
+
+Cirno0a:They do?
+
+Yuka0a:I suppose it's because you're like the sun.
+
+Cirno0a:No way. I'm an ice fairy, how am I like the sun?
+
+Yuka0a:Flowers are sensitive to one's inner disposition. They're drawn to your bottomless cheer.
+
+Yuka0a:Surprisingly, you might have the most affinity for summer.
+
+Cirno0a:Nuh-uh, I'd just melt...
+
+Yuka0a:Then why don't we find out through danmaku? Show me the burning heat of an ice fairy.
+
+<end>
+
+<ChatID:27>----------------------------------------
+//幽香vs.美鈴
+
+Meiling1a:Yuuka, I humbly request a match!
+
+Yuka0b:Meiling, you're stepping on the flowers.
+
+Meiling0a:Huh? Ack! Wait, how can I help it when there are so many?!
+
+Yuka0a:You never change. Your martial arts may have improved, but you're the same as ever.
+
+Meiling0a:It's not like I'm slacking on that, though. I just know my place as a gatekeeper.
+
+Yuka0a:I understand. You can't exactly be brave and just at all times, in all places.
+
+Yuka0a:For a youkai like you, I'm sure holding onto a singular duty is a perfectly valid way of life.
+
+<end>
+
+<ChatID:28>----------------------------------------
+//幽香vs.小悪魔
+
+Yuka0a:I see Patchouli brings her tea server to the front lines.
+
+Koakuma0a:Tea server? I mean, I guess I kind of am...
+
+Koakuma0a:But that's not why I'm here. I came on my own to help everyone out in battle.
+
+Yuka0a:It's beyond me why anyone would be so eager to devote themselves to others.
+
+Koakuma0a:Then would you care to try your hand at it, Yuuka?
+
+Yuka0a:What.
+
+Koakuma0a:You know, helping out with sorting books, or just around the manor. Who knows, you might even like it.
+
+Yuka0a:...I honestly can't tell if this is a bit, or if you're actually being serious.
+
+Yuka0a:Being able to face anyone with the same attitude might just be your charm.
+
+<end>
+
+<ChatID:29>----------------------------------------
+//幽香vs.パチュリー
+
+Patchouli0a:Let's see. Magic that's effective against flower youkai...
+
+Yuka0a:Wouldn't it be common sense to try a fire sign spell?
+
+Patchouli0a:Spoken like a true amateur. You have to consider elemental affinities, not nebulous ideas like "common sense".
+
+Yuka0a:Impressive. Even just by studying spirit magic, you have a good understanding of nature.
+
+Yuka0a:The formless fury of fire, water which returns all to nothingness, the gentle strength of wood, the cold silence of metal...
+
+Yuka0a:And earth, which restores everything back to its beginning. Can you feel the five elements around us?
+
+Patchouli0a:My point was that you should think logically, drawing on knowledge, rather than just "feel".
+
+Yuka0a:I fear we'll never see eye to eye. But that gives our danmaku battle all the more meaning.
+
+Yuka0a:The cycles of the four seasons and the five elements... Now is when the two converge, on the path to a new beginning.
+
+<end>
+
+<ChatID:30>----------------------------------------
+//幽香vs.咲夜
+
+Yuka0a:Do you remember our promise, Sakuya?
+
+Sakuya0a:I do. From back when I refused your invitation.
+
+Sakuya0a:You told me we might be enemies the next time we met, and that when the time comes we would fight for real.
+
+Yuka0a:That stage is finally set.
+
+Sakuya0a:And as promised, I'll fight you with everything I've got.
+
+Yuka0a:You're a cereus flower that blooms for but a single night. Show me the danmaku symbolic of how you live.
+
+<end>
+
+<ChatID:31>----------------------------------------
+//幽香vs.レミリア
+
+Remilia0a:Finally, I get to fight it out with you.
+
+Yuka0a:Indeed. We first fought when I intruded on the Scarlet Devil Mansion.
+
+Yuka0a:As I recall, the words we exchanged that night were...
+
+Remilia0a:"My name is Remilia Scarlet. I am the current head of the proud Scarlet family, and the master of the Scarlet Devil Mansion."
+
+Remilia0a:"And you, who dared set foot into my territory and interrupted my reading time... Who are you?"
+
+Yuka0a:"I'm Yuuka Kazami, the youkai who rules the flowers of the four seasons."
+
+Remilia0a:"Flowers? What is such a grubby youkai doing here?"
+
+Yuka0a:"I thought I might run you off and claim this mansion for myself."
+
+Yuka1a:Heheheh, what an excellent memory you have.
+
+Remilia1a:Likewise. Let's finish what we started back then, shall we?
+
+Yuka0a:Before now, the time we'd both go all out has seemed so far away...
+
+Yuka0a:But today I want to see just how strong this noble seed has grown!
+
+<end>
+
+<ChatID:32>----------------------------------------
+//幽香vs.フラン
+
+Yuka0a:Shall we begin the game?
+
+Flan0a:Teehee, I won't hold back just cuz you're Remi's friend.
+
+Yuka0a:But I wonder which is more beautiful your danmaku now, or your danmaku from back when you were locked in the basement?
+
+Yuka0a:I wish I could have fought the Flandre who was mad with hatred.
+
+Flan0b:Mad with hatred, huh...?
+
+Flan0b:Sorry, but I never really hated Remi, deep down.
+
+Yuka0a:Oh, is that so? And here I thought you'd possessed the beauty of purity.
+
+Yuka0a:Although that complexity is beautiful too, in its own way. Now show me the danmaku of someone who knows their own heart.
+
+<end>
+
+<ChatID:33>----------------------------------------
+//幽香vs.レティ
+
+Letty0a:These are flowers from all four seasons...
+
+Yuka0a:I suppose it's the sort of scenery a winter youkai has always wanted to see, but never could?
+
+Yuka0a:Since it only happens once every sixty years, and you'd have to stay awake until spring.
+
+Letty0a:But it must be some kind of fate that it's happening NOW.
+
+Letty0a:The cycle always returns to this point eventually. As a youkai who governs a season, it's something I'd love to bear witness to.
+
+<end>
+
+<ChatID:34>----------------------------------------
+//幽香vs.橙
+
+Chen1a:Miss Ran! Miss Yukari! I'm doing my best!
+
+Yuka0a:Yukari Yakumo's shikigami's shikigami. You certainly love shouting your masters' names.
+
+Yuka0a:Why such devotion, even though you haven't even been granted the Yakumo surname?
+
+Chen0a:Surname...?
+
+Yuka0a:You were even made the color furthest from violet. That just shows the distance between you and her.
+
+Chen0a:But I'm Miss Ran's shikigami, and she's Miss Yukari's.
+
+Chen1a:That's why if I give it my all, they'll both acknowledge me!
+
+Yuka0a:So obedient it's almost admirable. But I suppose, on reflection, that orange is also the warmest color...
+
+Yuka0a:You might just be the one bringing warmth to them, by staying at their side.
+
+<end>
+
+<ChatID:35>----------------------------------------
+//幽香vs.リリー
+
+Yuka0a:Your rabbit friend is going to cause trouble on the surface one of these days.
+
+LilyW0a:Miss Rabbit and Yorihime and her sister came here with us!
+
+Yuka0a:You seem awfully happy about that. You do realize that most Lunarians hate fairies, don't you?
+
+LilyW0a:They do?
+
+Yuka0a:Because they hate your impurity. ESPECIALLY you, who governs spring.
+
+LilyW0a:Miss Rabbit's never said a word about that...
+
+Yuka0a:Perhaps she's being considerate. But either way, it's nothing to worry about.
+
+Yuka0a:Lunarians and fairies are simply incompatible. And if that's the way things are for you, that itself is beautiful.
+
+<end>
+
+<ChatID:36>----------------------------------------
+//幽香vs.三姉妹
+
+Yuka0a:Something's changed about your group's atmosphere.
+
+Lyrica1a:Oh, you can tell, huh?
+
+Merlin1a:That we're bursting with happy hearts?
+
+Yuka0a:Then again, maybe you're just a little noisier. But that itself is...
+
+Lunasa0a:I think the sound we make is different now. Because we understand why we're making it.
+
+Lyrica0a:We need even more people to hear our performances.
+
+Merlin1a:Poltergeists make noise!
+
+Yuka0a:I see, a reason. So that stabilized your existence.
+
+Yuka0a:It seems your sound can reach anywhere. It's echoing even inside me.
+
+<end>
+
+<ChatID:37>----------------------------------------
+//幽香vs.妖夢
+
+Yuka0a:Come to think of it, you were a gardener. Or should I call you a swordswoman?
+
+Youmu0a:I am the Saigyouji family's gardener, and also their sword. Both are correct.
+
+Yuka0a:That means each half of you is missing something.
+
+Youmu1a:Together, we're whole!
+
+Yuka0a:A bold declaration... But that straightforward naivete must be your charm.
+
+Yuka0a:Simply by knowing that you're on a path, you can accept the uncertainty and prepare for the choices that must be made.
+
+Youmu0a:I'm not so sure about that... No matter how much I try, I can never keep up with Lady Yuyuko or Lady Yukari...
+
+Yuka0a:And what's wrong with chasing them from behind? Whenever you do become whole, you'll understand the importance of that.
+
+Yuka0a:You're on your way. But for now, I'll just be another obstacle standing in your path.
+
+<end>
+
+<ChatID:38>----------------------------------------
+//幽香vs.幽々子
+
+Yuyuko0a:Come to think of it, I don't think we've ever really spoken.
+
+Yuka0a:Even though we sat together at the banquet, Yukari Yakumo was sticking close.
+
+Yuka0a:Whenever I'd approach, she'd rather brazenly tuck you under her wing.
+
+Yuyuko0a:Yukari gets like that around anyone!
+
+Yuka0a:So she's fixated on you.
+
+Yuyuko0a:Is she...?
+
+Yuka0a:Come to think of it, she's always been like that. Yukari Yakumo is almost desperate to avoid hurting you.
+
+Yuka0a:Is she just being a lovely friend, or is there something more?
+
+Yuyuko0a:...
+
+<end>
+
+<ChatID:39>----------------------------------------
+//幽香vs.紫
+
+Yukari0a:I already knew your personality, but don't you think this wonderful blockade is a bit much for a welcoming gift?
+
+Yuka0a:Oh, stop staring daggers at me. Let's both enjoy this.
+
+Yukari0a:How would we do that?
+
+Yuka0a:We've known each other for so long now, but how much have we really spoken?
+
+Yuka0a:I want to know more about you.
+
+Yukari0a:Save that for another time. We're in the middle of an investigation.
+
+Yuka0a:We're also at the sixty year juncture. What better time to inquire into the state of the boundary that creates the barrier?
+
+<end>
+
+<ChatID:40>----------------------------------------
+//幽香vs.藍
+
+Ran0a:Yuuka Kazami. You may be Lady Yukari's opposite, but I acknowledge your strength.
+
+Yuka0a:I'm honored. But what about you?
+
+Yuka0a:Isn't it frustrating to rely on your shiki and contain your power? Doesn't it bother you that you'll never reach her level?
+
+Ran0a:It might seem that way to a youkai who thinks of power as a reason to boast.
+
+Ran0a:But Lady Yukari's strength is from her heart. And I find it an honor to respect and serve her.
+
+Yuka0a:I suppose that single-mindedness, that trust, makes you even stronger as a shiki.
+
+<end>
+
+<ChatID:41>----------------------------------------
+//幽香vs.リグル
+
+Yuka0a:Were you drawn here by the nectar of the flowers, Wriggle?
+
+Wriggle0a:That sounds kind of weird when you're the one who made the flowers bloom...
+
+Yuka0a:Nectar doesn't really suit a place with no water though.
+
+Wriggle0a:You could've just made it a riverside then...
+
+Wriggle0a:Anyway! If you're gonna get in the way of the investigation, then as the leader of the bugs I have to fight you!
+
+Yuka0a:A leader, is it? Looks like you're working hard, in your own way.
+
+Yuka0a:But show me. Can your light surpass the fragrance of these flowers?
+
+<end>
+
+<ChatID:42>----------------------------------------
+//幽香vs.ミスティア
+
+Mystia1b:The sunflower goes round and round... Round and round until it hits...
+
+Yuka0a:And there awaits a spicy roast bird...
+
+Mystia0a:Huh?! You're following up on it?!
+
+Yuka0a:I'm sorry. You just made it look so fun.
+
+Yuka0a:You're not singing from your own ego. You're singing the faint voices around us, aren't you?
+
+Mystia0a:Excuse me? I invented this song!
+
+Yuka0a:But I know how the next part goes. The sunflower goes round and round...
+
+Mystia0a:That's just the refrain!
+
+Yuka0a:Kidding, kidding. I'll stop playing around. Next I'll have your danmaku sing for me.
+
+<end>
+
+<ChatID:43>----------------------------------------
+//幽香vs.慧音
+
+Yuka0a:Wow, to think you'd still be playing babysitter ever since the mist incident. Fine work.
+
+Keine0a:What an odd thing to say in the middle of battle. Besides, I'm not babysitting.
+
+Keine0a:Maybe I was at first, but now I'm just one of many fighting side by side.
+
+Yuka0a:Is that so? You still look like a schoolmarm stopping fights between children to me.
+
+Keine0a:I do that as a friend. They've grown so much these past two years, and carved their place in history.
+
+Keine0a:From here on out, I won't just be guiding them, but lending a shoulder.
+
+Yuka0a:How wonderful. Helping them grow, watching over them...
+
+Yuka0a:If these flowers are blooming, it's because you've been watering them.
+
+<end>
+
+<ChatID:44>----------------------------------------
+//幽香vs.てゐ
+
+Tewi0a:Lend me part of this flower field, and I'll pay you back with interest. It'll bloom better than ever.
+
+Yuka0a:Are you actually saying that to me, of all people?
+
+Tewi0a:Well, duh, who else? So anyway, if you could just hand it over nice and easy—
+
+Yuka0a:For such an ancient youkai, you're a rather poor liar. But the fact that you've lived this long despite that is what makes you amazing.
+
+Yuka0a:I hear even Eirin tips her hat to you. Are you perhaps something like a hermit?
+
+Tewi0a:Oh, right, that reminds me. Need any medicine to help your flowers grow?
+
+Yuka0a:Give it a rest already. And who ever heard of medicine for flowers? Ridiculous.
+
+<end>
+
+<ChatID:45>----------------------------------------
+//幽香vs.優曇華
+
+Udonge2b:Maximum danger level? This is too much!
+
+Yuka0a:You'd be welcome to run, like you ran from the moon.
+
+Udonge2b:I'm not going to fall for that after working up the nerve to come this far in the first place.
+
+Yuka0a:I don't mind that cowardice of yours, you know.
+
+Yuka0a:It's rare to see a youkai so honest with themselves, so vulnerable.
+
+Udonge3a:I'm not sure how to take that...
+
+Yuka0a:I'm praising the way you dispense with pretense.
+
+Yuka0a:Spreading your roots to survive is always beautiful, no matter what form it takes.
+
+<end>
+
+<ChatID:46>----------------------------------------
+//幽香vs.永琳
+
+Yuka0a:To think that someone who's only ever looked down on the Earth would join Reimu.
+
+Eirin0a:It's not in your nature to be bound by a single ideology either, is it?
+
+Yuka0a:Does this mean you've come to appreciate the beauty of the flowers?
+
+Eirin0a:I'm certainly more familiar with the true meaning of what we call impurity.
+
+Eirin0a:But even so, the blood of the moon still flows through my veins.
+
+Yuka0a:Teehee. The Sage of the Moon to very end then.
+
+Yuka0a:I don't mind Gensokyo growing a flower like that though.
+
+<end>
+
+<ChatID:47>----------------------------------------
+//幽香vs.輝夜
+
+Kaguya0a:It must be so pleasant, living without restraint.
+
+Yuka0a:Then why don't you join me, lady of the moon?
+
+Kaguya0a:I appreciate the offer, but the view from within the impurity is too special to pass up.
+
+Kaguya0a:Besides, if we don't resolve the incident, we'll lose our human customers and I'll be out of a job.
+
+Yuka0a:You have a job...?
+
+Kaguya1a:At first Eirin told me to do it, but it's been surprisingly interesting.
+
+Kaguya1a:Apparently, the most important part is to do our duty as citizens of Earth.
+
+Yuka0a:So you've abandoned eternity and begun to change. How lax of you.
+
+Yuka0a:But with that broad-mindedness, I'm sure you could bloom into any kind of flower you want.
+
+<end>
+
+<ChatID:48>----------------------------------------
+//幽香vs.妹紅
+
+Mokou0a:Flowers of the four seasons, huh? I feel like I've seen this before...
+
+Yuka0a:You of all people should have. Have you forgotten?
+
+Mokou0a:Until a little while ago I gave up on counting the years, and wasn't really paying attention to what was going on around me.
+
+Yuka0a:But this time you'll remember. And that will give rise to a new history inside you—the one who rejects the cycle of reincarnation.
+
+Yuka0a:Doesn't that truth contradict the fact that you're changing?
+
+Mokou0a:What are you talking about?
+
+Yuka0a:I mean your memories of enjoying each and every day. A mechanism for good fortune.
+
+Yuka0a:I'm sure you can understand, as you are now.
+
+<end>
+
+<ChatID:49>----------------------------------------
+//幽香vs.依姫
+
+Yuka0a:So the Lunar Emissaries have joined up with Reimu. Sometimes truth is stranger than fiction.
+
+Yuka0a:Most impressive. It's not easy to look past the history of the Earth and the moon.
+
+Yorihime0a:Any method should be at least considered when fulfilling one's duty.
+
+Yorihime0a:Besides, it seems not everyone from the Earth is as bad as I've been told.
+
+Yuka0a:A Lunarian? Moved by sentiment?
+
+Yorihime0a:Judgments should be unbiased, that's all. I'll believe what I see with my own eyes, and touch with my own hands.
+
+Yuka0a:Teehee. So you're setting aside your pride to approach things as they are.
+
+Yuka0a:Let me experience that open-minded wisdom firsthand.
+
+<end>
+
+<ChatID:50>----------------------------------------
+//幽香vs.豊姫
+
+Toyohime0a:A youkai overflowing with life... It's like you're the very symbol of impurity.
+
+Yuka0a:You too. You have the arrogance befitting a Lunarian.
+
+Toyohime0b:I'll take that as a compliment, thank you. I may not look it, but I AM a leader of the Lunar Emissaries.
+
+Toyohime0a:We have a duty to live up the teachings and expectations of Lady Yagokoro.
+
+Yuka0a:Those sound like vague platitudes to me, but you certainly seem to have conviction, of a sort.
+
+Yuka0a:You must be the one who's most inherited Eirin Yagokoro's will.
+
+Toyohime0b:I hope so. But I won't be worthy of it unless I can beat you here.
+
+Toyohime0a:Experience the wisdom of the moon, hidden within danmaku!
+
+<end>
+
+<ChatID:51>----------------------------------------
+//幽香vs.レイセン
+
+Yuka0a:Oh? When did you return to the surface?
+
+Reisen0b:I didn't RETURN, I'm just here with the Watatsuki sisters on business.
+
+Reisen1a:I'm now a full-fledged moon soldier and their pet!
+
+Yuka0a:So you've decided to plant your roots in the moon. How nice that you can still get along with your friends on Earth then.
+
+Reisen0d:Yeah, my friends are my friends!
+
+Yuka0a:...You seem to be enjoying life more than you did as a half-baked youkai.
+
+Reisen0b:Of course. I'm so grateful to Lady Yagokoro, and I'm even getting used to the Watatsukis' special training.
+
+Yuka0a:That's some lifeforce you're showing me. I wonder if living shamelessly is what makes you stronger.
+
+<end>
+
+<ChatID:52>----------------------------------------
+//幽香vs.秋姉妹
+
+Minoriko0a:I don't about know this Flower Master of the Four Seasons stuff, but...
+
+Shizuha1a:When it comes to autumn, we never lose!
+
+Yuka0a:As energetic as ever, I see. But isn't the duality of ripening and decay the very essence of autumn?
+
+Shizuha0a:Of course! That's why we're happy when autumn comes and depressed when winter comes!
+
+Minoriko0a:It peaks during the harvest, but it's all downhill from there.
+
+Yuka0a:The ups and downs of your moods are the very seasons themselves. It's impressive that you've managed to remain as you are, with Reimu's group.
+
+Yuka0a:An unchanging cycle. That's the way of the seasons.
+
+<end>
+
+<ChatID:53>----------------------------------------
+//幽香vs.雛
+
+Yuka0a:It seems you've been getting along well with Medicine too.
+
+Hina0a:Yuuka Kazami...
+
+Yuka0a:As one who knows both dolls and humans, I'm sure you've had a lot to teach her.
+
+Yuka0a:Even a child like her, who's known nothing but hate, can finally bloom pure white with enough teaching.
+
+Hina0a:And you had no plans to take on that role yourself?
+
+Yuka0a:This is who I am. You're the ones who should take her hand.
+
+<end>
+
+<ChatID:54>----------------------------------------
+//幽香vs.にとり
+
+Yuka0a:I've known you for a while now.
+
+Nitori0a:Oh, so you remember me too?
+
+Yuka0a:Of course I'd notice when you're getting along so well with Alice and Marisa.
+
+Yuka0a:What happened to the laws of the mountain, or your trouble dealing with humans?
+
+Nitori2a:Now that you mention it, I've never really thought about that...
+
+Yuka0a:To you, this is a natural way of life.
+
+Yuka0a:The timing of your encounter was irrelevant. I'm sure it would have always ended up the same way.
+
+<end>
+
+<ChatID:55>----------------------------------------
+//幽香vs.椛
+
+Yuka0a:You still belong to an organization, but it doesn't feel like you're doing this out of duty anymore.
+
+Momiji0a:Maybe so. I was originally ordered to be here, but...
+
+Momiji0a:Now they're all my coworkers, my allies, and my friends. I have more than enough reason to protect them.
+
+Yuka0a:You've been granted a lot, for one mountain tengu.
+
+Momiji0a:It's not just me though. This might just be how Gensokyo is these days.
+
+Yuka0a:But the more you're given, the heavier the burden.
+
+Momiji0a:Even so, I'll keep protecting everything. Because I am a shield.
+
+<end>
+
+<ChatID:56>----------------------------------------
+//幽香vs.文
+
+Aya1a:Finally, the day I get to interview you directly, Yuuka!
+
+Yuka0a:You're rather eager for this.
+
+Aya0a:Because all you ever do all day is go around looking for flowers. Where's the scoop?! It's practically bullying!
+
+Aya0a:Today I want to dig deeper. Show me the real Yuuka!
+
+Yuka0a:I can't help but note your lack of composure despite your status as an ancient youkai.
+
+Aya0a:I'm always chasing the next big thing BECAUSE I've lived so long.
+
+Yuka0a:And you've made that abundantly clear. You've always been this way, and probably won't change anytime soon.
+
+Yuka0a:A flower like yours is... No, maybe you're the wind itself.
+
+<end>
+
+<ChatID:57>----------------------------------------
+//幽香vs.はたて
+
+Yuka0a:The second crow tengu.
+
+Hatate0a:I don't like the way you put that... I'm just second fiddle to Aya, huh?
+
+Yuka0a:She's always made herself hard to ignore. Meanwhile, you've been shut inside at home, haven't you?
+
+Hatate0a:Yeah, I guess. But my articles are different from hers!
+
+Hatate0a:I don't just settle for interesting stories, I dig deeper to draw closer to the truth! That's the pride of Hatate Himekaidou's Kakashi Spirit News!
+
+Yuka0a:A head in the sky idealist then. How appropriate for the tengu who hole themselves up on the mountain.
+
+Hatate0a:That's just my style. Who wants another newspaper that's the same as all the others?
+
+Yuka0a:Then show me this style you're so proud of.
+
+<end>
+
+<ChatID:58>----------------------------------------
+//幽香vs.神奈子
+
+Kanako0a:You're standing in our way now of all times?
+
+Yuka0a:You don't seem very surprised about it.
+
+Kanako0a:The youkai of Gensokyo all live how they please. This much is to be expected.
+
+Kanako1a:Besides, if we can best a youkai of your level, it will certainly bolster our group's spirits going into our final confrontation.
+
+Yuka0a:Heh heh... What a self-possessed, godly pose you maintain.
+
+Kanako0a:It's important to be frank, but I certainly take who I'm speaking with into account.
+
+Kanako1a:You will fall before my divine wind, Yuuka.
+
+<end>
+
+<ChatID:59>----------------------------------------
+//幽香vs.諏訪子
+
+Suwako0a:What a nice view. The flowers of the four seasons, huh?
+
+Suwako0a:You say it's once every sixty years, but something's bothering me...
+
+Yuka0a:Come to think of it, I've heard the juncture occurs even in the Outside World.
+
+Suwako0a:What do you mean by that?
+
+Yuka0a:I don't know the details, but maybe there are incidents that occur every sixty years?
+
+Suwako0a:Huh...
+
+Yuka0a:You don't sound very interested. Didn't you used to live there?
+
+Suwako0a:I've been falling into fantasy for a long time now. It all feels sort of distant.
+
+Suwako0a:Even out there, someday we'll be completely forgotten.
+
+<end>
+
+<ChatID:60>----------------------------------------
+//幽香vs.キスメ
+
+Kisume0a:Even against a powerful youkai, as long as I wait for an opening, maybe I can...
+
+Yuka0a:Did you say something?
+
+Kisume2b:Um, nope! Nothing!
+
+Yuka0a:At a glance, you seem shy, but who knows what you're thinking.
+
+Yuka0a:You might even turn out to be surprisingly vicious.
+
+Kisume1a:Even I have my pride... I can scare humans, at least...
+
+Yuka0a:Did you say something?
+
+Kisume2b:N-No! I wasn't thinking about throwing bones at people!
+
+Yuka0a:I suppose the Underworld is home to all sorts. But danmaku will reveal your true nature.
+
+<end>
+
+<ChatID:61>----------------------------------------
+//幽香vs.ヤマメ
+
+Yamame0a:This bright scenery isn't a great fit for a tsuchigumo.
+
+Yuka0a:I wouldn't say that. You've been working well with the surface dwellers ever since the Underworld incident, haven't you?
+
+Yuka0a:In which case, you're certainly a part of the fantasy as well.
+
+Yamame0a:So you're just like Yukari? Trying to say that there aren't any borders between Gensokyo and the Underworld?
+
+Yuka0a:When it comes to how you relate to us, how does the soil even matter?
+
+Yamame0a:Not gonna let yourself be pinned down, huh? You're the type who doesn't avoid others, but doesn't approach them either.
+
+Yuka0b:But I won't forgive you if you bring disease to these flowers.
+
+Yamame1a:That's what makes it worth doing. If you didn't try to stop me, it wouldn't be any fun!
+
+<end>
+
+<ChatID:62>----------------------------------------
+//幽香vs.パルスィ
+
+Parsee0a:For someone with a maximum danger level, you sure love to talk about flowers and all this poetry stuff...
+
+Parsee2a:Don't you think it's unfair that you get be both super strong AND all feminine?!
+
+Yuka0b:Hee hee, my apologies.
+
+Parsee2a:If you're gonna be like that, I'm straight up fanning the flames of jealousy!
+
+Yuka0a:You're a little bothersome, but I don't mind that.
+
+Yuka0a:You wear your heart on sleeve, and on your face. I could never get tired of watching you.
+
+Parsee0a:It's not like I'm a youkai just for your amusement.
+
+Yuka0a:Every word out of your mouth makes you sound more pleasant and true to life, in my view.
+
+Yuka0a:I'll have to keep putting on enough of a danmaku show to earn your envy.
+
+<end>
+
+<ChatID:63>----------------------------------------
+//幽香vs.勇儀
+
+Yuka0a:Unlike the other oni, it seems you didn't return to the surface.
+
+Yugi0a:I have a place in the Underworld. Friends too. I'm closer to the other oni than Suika is.
+
+Yugi1a:But anyway, let's you and me fight!
+
+Yuka0a:That attitude is emblematic of an oni.
+
+Yugi0a:I mean, I live in a world where the strong make the rules. You don't mind either, do ya?
+
+Yuka0a:Teehee, no. I don't. Raising that sort of flower could be nice too.
+
+Yugi1a:Fighting itself is the flower of the Underworld! Now let's make this one bloom!
+
+<end>
+
+<ChatID:64>----------------------------------------
+//幽香vs.さとり
+
+Satori0b:So you desire a fight in order to confirm the state of fantasy?
+
+Satori0c:That seems to be true, but the belligerent words you started with weren't a lie either.
+
+Yuka0a:Yes, bullying is part of my daily routine.
+
+Satori0c:...There's no point in even reading your mind. You really are true to your heart.
+
+Yuka0a:So by satori standards, I'm not worth bullying?
+
+Satori0c:That's a separate matter. I'm just taking a peek at how your heart looks.
+
+Satori0b:Touching the heart is in my nature, and it's what I enjoy.
+
+<end>
+
+<ChatID:65>----------------------------------------
+//幽香vs.お燐
+
+Orin0a:Hey, I've heard all about you, lady!
+
+Yuka0a:You say that so cheerfully, but the vengeful spirits around you seem much more agitated.
+
+Yuka0a:I've heard about you too. You're an Underworld youkai, but you looked to the surface for help? That WAS you, wasn't it?
+
+Orin0a:Grk...
+
+Yuka0a:Looks like you've been getting along great since then too. Born and raised in the Underworld, yet you found it that easy to get on your knees and beg?
+
+Orin0a:...That has nothing to do with it. It was just something I couldn't deal with on my own.
+
+Orin0a:Plus they all helped me save both Okuu and even Miss Satori.
+
+Yuka0a:It seems you know what's truly important to you.
+
+Yuka0a:Your actions may seem twisted, but being able to follow your heart is a precious thing.
+
+<end>
+
+<ChatID:66>----------------------------------------
+//幽香vs.空
+
+Yuka0a:The flowers are certainly pleased by the sun inside of you.
+
+Utsuho0a:You mean Lord Yatagarasu?
+
+Yuka0a:That too, but they can feel your own heart as well.
+
+Yuka0a:I'm sure they want to be near that warmth of yours, just like the sun.
+
+Utsuho0a:I sure hope so. I mean, that's what I wanna be...
+
+Yuka0a:If you ever lose your way, then just follow the sunflowers.
+
+Yuka0a:No matter what, they'll always face the sun. They know.
+
+<end>
+
+<ChatID:67>----------------------------------------
+//幽香vs.こいし
+
+Yuka0a:Satori Komeiji's sister, I presume?
+
+Koishi0a:Have we met before?
+
+Yuka0a:Just once, at Alice's house. At the time, you seemed to vanish into the wind like a rootless flower.
+
+Yuka0a:But I wonder what sort of flower you'll show me today?
+
+Koishi0a:I dunno what you're talking about, but at the Palace of Earth Spirits we all take care of the flowers together.
+
+Yuka0a:You do?
+
+Koishi6e:Yeah, and a long time ago Satori planted red and blue roses.
+
+Koishi6c:Those are my two favorite flowers!
+
+<end>
+
+<ChatID:68>----------------------------------------
+//幽香vs.ナズーリン
+
+Yuka0a:I can't tell if you're supposed to be a follower of Bishamonten or someone else.
+
+Nazrin0a:Yeah, you got me. It's not like I abandoned my duties, but...
+
+Nazrin0a:If anything, we've finally reached the starting line. It all begins once my master starts up the temple again.
+
+Yuka0a:You've been awfully patient with her then. What devotion.
+
+Nazrin0a:You're not wrong. But that just makes our feelings all the stronger.
+
+Nazrin0a:Without those hardships, we never would have arrived at the danmaku we've displayed. I'm sure of it.
+
+<end>
+
+<ChatID:69>----------------------------------------
+//幽香vs.小傘
+
+Yuka0a:Say, I've heard rumors of a bakegasa in the human village.
+
+Kogasa2b:Eep, it's the sadist...!
+
+Kogasa1a:But I won't shrink away from this. OOGLY-BOOGLY-BOO!
+
+Yuka0b:...
+
+Kogasa2b:It did nothing!
+
+Yuka0a:How amusing. Do more for me.
+
+Kogasa0b:Okay then... Wha-POW!
+
+Yuka0b:...
+
+Kogasa2b:Still nothing!
+
+Yuka0a:Well, that was fun. To think there'd be a youkai popular with the humans. Almost the opposite of me.
+
+Yuka0b:And just the sort of youkai I make a habit of bullying.
+
+Kogasa2b:Definitely a sadist!
+
+<end>
+
+<ChatID:70>----------------------------------------
+//幽香vs.一輪
+
+Ichirin1a:I'm counting on you, Unzan!
+
+Unzan0a:...!
+
+Yuka0a:The two of you are in perfect harmony. You're quite skilled at guiding the nyudo's overflowing power.
+
+Yuka0a:You may be two people, but the danmaku you create is one.
+
+Ichirin0a:That's right. Meeting him is the whole reason I became a youkai.
+
+Ichirin1a:Come on, Unzan! Let's show her the power of an old man and a young lady's fists!
+
+Unzan0a:...!
+
+<end>
+
+<ChatID:71>----------------------------------------
+//幽香vs.村紗
+
+Yuka0a:Somehow I doubt they'd be taking so many people on their investigation if it weren't for the Palanquin Ship.
+
+Yuka0a:But you can't escape your chains, restless spirit.
+
+Murasa0a:What are you talking about? Both me and the ship are only here because I was saved by Hijiri.
+
+Yuka0a:All you've done is replace one set of chains with another.
+
+Yuka0a:You've escaped the sea floor, but not your bindings. Your ship, your temple... You say the word "bond" with such love, but these are your new chains.
+
+Yuka0a:And just like before, you keep on dragging others down with you. A restless spirit can never be more than that.
+
+Murasa1b:Even so, there's more than one way to live as a youkai.
+
+Murasa1b:And this one is way better than being by myself under the sea. I'll sail through any storm of danmaku to protect it!
+
+<end>
+
+<ChatID:72>----------------------------------------
+//幽香vs.星
+
+Yuka0a:I take my eyes off of you for one moment, and suddenly you're all respectable. Good for you.
+
+Sho0a:Y-You think so? I also retrieved Bishamonten's Pagoda. Maybe that's why...
+
+Yuka0a:I believe that was the tool you needed to rescue your savior? So did you accomplish your goal?
+
+Sho0a:Yes, ma'am. I think these thousand years have finally been forgiven... No, redeemed.
+
+Sho0a:That's why I want to live not to atone for them, but to repay the favor I've been given.
+
+Yuka0a:Ah. So that's the difference.
+
+Sho0a:I'm sorry, that wasn't something I should be telling you in the middle of battle, Yuuka.
+
+Yuka0a:No no, you've piqued my interest. I think you'll make a fine opponent now.
+
+Yuka0a:If you can be proud of your life, your flower will bloom all the stronger.
+
+<end>
+
+<ChatID:73>----------------------------------------
+//幽香vs.白蓮
+
+Yuka0a:Oh, I remember now. Aren't you the nun from that temple that was recently founded?
+
+Byakuren0a:My name is Byakuren. It seems you've heard of us.
+
+Yuka0a:Treating humans and youkai as equals? Of course you'd stand out, for a variety of reasons.
+
+Yuka0a:But is it really natural for the youkai who uphold that way of life?
+
+Byakuren0a:There was an era when youkai couldn't survive without it.
+
+Byakuren0a:We're the same as humans. No, we're even simpler beings. We have the right to train ourselves, and to earn salvation.
+
+Yuka0a:The priest entranced by evil, was it?
+
+Byakuren0a:Call me what you like, as long as I can help others.
+
+Byakuren1a:It's all to clear a path into the future. And this battle is no exception!
+
+<end>
+
+<ChatID:74>----------------------------------------
+//幽香vs.ぬえ
+
+Yuka0a:I see the great Terror of Heian is mingling with commoners now. What has the world come to?
+
+Nue0a:Oh, shut up. I made my decision, so deal with it.
+
+Yuka0a:But now you're living with those connections.
+
+Yuka0a:Did your pride and way of life change so much from one extermination?
+
+Nue0a:Well, I'd hate it if you told me to split up with Minamitsu and the rest, but...
+
+Nue1a:Pride doesn't change, it HAS to change. I don't need you to tell me that.
+
+Yuka0a:Teehee, how deep. And how shallow of me to dare to lecture the youkai of the unknown.
+
+Yuka0a:Show me who you are once again, o modern-day great youkai.
+
+<end>
+
+<ChatID:75>----------------------------------------
+//幽香vs.聖輦船
+
+Yuka0a:How nostalgic. I spent some time on this boat too, didn't I?
+
+Korin0a:If you like it so much, could you try not to destroy it please? Thanks.
+
+Yuka0b:Protecting it is your job, not mine. And you should have an even stronger attachment to it, no?
+
+Akyu0a:You're right, we do. It's thanks to the Palanquin Ship that we can fight alonside the others.
+
+Akyu0a:Nothing can replace the memories and bonds we've built up here.
+
+Kosuzu0a:Yup. Working with these people has taught me so many things about everyone, and about Gensokyo itself.
+
+Korin0a:I'm still no good at danmaku battles, but I agree with her there.
+
+Yuka0a:Then it's settled. Show me you can win with an artillery battle instead.
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Kosuzu6a:These readings! This far exceeds the Palanquin Ship's main battery!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Akyu1a:These readings! This far exceeds the Palanquin Ship's main battery!
+
+</Cond>
+
+Korin0a:And from just a single youkai?! She really isn't holding anything back!
+
+Korin0a:But we don't have the luxury of complaining. Let's protect everyone's ship!
+
+<end>
+
+<ChatID:76>----------------------------------------
+//幽香vs.小町
+
+Komachi0a:Ahh, what a beautiful field of flowers.
+
+Yuka0a:All short-lived. In your case, shouldn't this sight fill you with despair?
+
+Komachi0a:If you mean 'cause of all the extra work, I know how to take it in stride.
+
+Komachi0a:I work at my own pace. You only get scenery like this once every sixty years, you know. I'd like to spend the time chatting with spirits.
+
+Yuka0a:True, you don't seem very well suited for the duty of a shinigami who heralds death.
+
+Komachi0a:The right person for the right job. If there's a labor shortage, I'm sure I'll figure something out.
+
+Yuka0a:You know yourself well. Is that also a part of your duty to weigh the lives of others?
+
+<end>
+
+<ChatID:77>----------------------------------------
+//幽香vs.映姫
+
+Eiki0a:Yuuka Kazami. It seems we both had the same idea.
+
+Yuka0a:So the Yama is also here to see the state of fantasy?
+
+Eiki0a:This is the sixty year juncture. It's worth using up vacation time for.
+
+Eiki0a:But unlike you, I don't intend to interrupt the investigation.
+
+Yuka0a:...Oho.
+
+Eiki0a:Whether they be human or youkai, you've attacked people for no good reason.
+
+Eiki0a:It's fine to be uninhibited, but there is a limit to all things.
+
+Yuka0a:A little light bullying is just part of my daily routine.
+
+Eiki0a:A youkai like you should already know that even living can be a sin.
+
+Eiki0a:Indeed, you've lived a little too long.
+
+Yuka0a:...
+
+Eiki0a:At this rate, no matter how long you live, no good will come of it.
+
+Yuka0a:I thought I'd be polite and listen, but you really are condescending, aren't you? Do you think you're the only one who can judge others?
+
+Yuka0a:Why don't we make it clear who's really the strongest in Gensokyo? Black and white, just as you like it.
+
+Eiki0a:Those provocations are another bad habit of yours. Judgments must be given from high to low, from here to there, absolutely unilaterally.
+
+Eiki0a:Let me teach you that no matter what the result, you will be the only one judged!
+
+<end>
+
+<ChatID:78>----------------------------------------
+//幽香vs.メディスン
+
+Medicine0a:Yuuka...
+
+Yuka0a:You surprised me back there, Medi. I'm looking forward to—
+
+Medicine1a:THBTH!
+
+Yuka0a:Hm...?
+
+Medicine0a:We don't care what mean old bully Yuuka has to say, do we, Sue?
+
+Medicine0a:So let's give her lots of poison and make her shout in pain!
+
+Yuka0a:...You seem to have grown up a little. I wonder who you take after.
+
+Medicine0a:...I learned a lot by leaving the suzuran field after you left.
+
+Medicine1a:I'm gonna show you all of it now, so get ready, Yuuka!
+
+Yuka0a:Certainly, Medi.
+
+<end>
+
+<ChatID:79>----------------------------------------
+//幽香vs.萃香
+
+Yuka0a:To think an oni like you would come all the way here. You seem awfully close to the humans.
+
+Suika1a:Humans? More like just Reimu and her friends.
+
+Yuka0a:But doesn't going back so easily make the trust you've lost seem so shallow?
+
+Yuka0a:Didn't you all have some deep reason for abandoning the surface?
+
+Suika0a:For me, not really. I'm just on the surface 'cuz it's comfier.
+
+Suika0a:Plus, it's up to the rest of 'em if they wanna stay down there.
+
+Yuka0a:So in the end, you're an outsider who couldn't abandon her attachment to humanity.
+
+Yuka0a:What a luxury it is to exchange danmaku with such an oni.
+
+<end>
+
+<ChatID:80>----------------------------------------
+//幽香vs.天子
+
+Tenshi0a:I'd look silly if I faltered just because you're maximum threat level.
+
+Tenshi1a:Now come at me already! Do your worst!
+
+Yuka0a:What peculiar enthusiasm. It takes some confidence to try to provoke ME.
+
+Yuka0a:I thought you'd given up on being a celestial in order to be closer to the humans?
+
+Tenshi0a:I've been called a lot of harsh things. Delinquent, Celestial trash, whatever.
+
+Tenshi0a:But in the end, I'm just me. What's wrong with a celestial who can understand the feelings of humans?
+
+Yuka0a:Teehee, that's true. So here you are, brazenly holding your head high.
+
+Yuka0a:Facing heaven and declaring "I am here." What a noble flower.
+
+<end>
+
+<ChatID:81>----------------------------------------
+//幽香vs.衣玖
+
+Yuka0a:Investigating incidents isn't the duty of a messenger of the Dragon Palace, is it?
+
+Iku0a:Which is why I took some time off.
+
+Yuka0a:But is it worth your time? Don't tell me you're going to say something hot-blooded like you couldn't overlook the crisis?
+
+Yuka0a:Or are you here to keep an eye on that celestial?
+
+Iku0a:I'm her chaperone. Voluntarily.
+
+Yuka0a:You could call her a friend or companion, you know. That would be the normal thing to do.
+
+Iku0a:I see...
+
+Yuka0a:I can't quite get a handle on you, but I don't think you're just being carried along by the currents.
+
+Yuka0a:But soon you'll show me what you're thinking. How will you swim?
+
+<end>
+
+<ChatID:82>----------------------------------------
+//幽香vs.三妖精
+
+Yuka0a:I'm amazed three fairy stooges made it all the way here.
+
+Sunny0a:Stooges? Hey! I'm not Luna.
+
+Luna1a:Well, excuse me for always tripping.
+
+Star0a:That's it you two, keep it up and block all of her shots for me, okay?
+
+Yuka0a:Teehee. As yourselves from start to finish.
+
+Yuka0a:The absolute charm of the sun, whose pride drowns out the moon and the stars.
+
+Yuka0a:The waxing and waning of the moon, at times cooperative and indecisive.
+
+Yuka0a:And the irregular movements of the stars, diverse and uncooperative.
+
+Sunny0a:Uhh... Is that a compliment?
+
+Yuka0a:I'm saying you are like nature itself. You three fairies are the embodiments of the sun, the moon, and the stars.
+
+Yuka0a:Melt into the flowers of the four seasons, and let me smell the fragrance of the end of the cycle.
+
+<end>
+
+<ChatID:83>----------------------------------------
+//幽香vs.エリー
+
+Elliy1a:So Yuuka wants us to fight her? Sure, whatever, I'm already over it!
+
+Elliy0a:It's happening no matter what I say, so I might as well enjoy it!
+
+Yuka0a:How would we do that?
+
+Elliy0a:I figure I'll get to see a new side of you in an all-out danmaku battle.
+
+Elliy0a:Plus, maybe you'll even be surprised by the new me?
+
+Yuka0a:Oh my, you really think you can surprise me?
+
+Yuka0b:Hee hee, you say the funniest things!
+
+Elliy1a:I'm serious, Yuuka!
+
+Yuka0a:It's a thousand years too soon for that, Elly.
+
+Elliy1a:You don't know until you've tried! I'll show you that I'm not your follower for nothing!
+
+<end>
+
+<ChatID:84>----------------------------------------
+//幽香vs.くるみ
+
+Kurumi0a:*inhale* *exhale*
+
+Yuka0a:What are you doing, Kurumi?
+
+Kurumi0a:Breathing the same air as you!
+
+Yuka0a:You never change...
+
+Kurumi0a:I'd rather be with you, Yuuka! Still, I'm enduring it and fighting!
+
+Yuka0a:Enduring it, are you? Did you ever have even the slightest patience?
+
+Yuka0a:Personally, I have just enough patience to indulge someone a tiny bit if they ask me to.
+
+Kurumi0a:You are who you are, Yuuka...
+
+Kurumi0a:And I'd like you to appreciate—just for this one day—that I've put a lot of thought into this stuff!
+
+Yuka0a:You have, hmm...?
+
+<end>
+
+<ChatID:85>----------------------------------------
+//幽香vs.魅魔
+
+Mima0a:You want to ascertain the power of fantasy, huh? I like the way you think.
+
+Yuka0a:In that case, would you care to join me, Mima?
+
+Mima0a:No thanks. It's just as fun to see your comrades' power from their side too.
+
+Mima0a:More to the point, I don't get many chances to test my power against yours.
+
+Yuka0a:Heh heh. That sounds just like you, Mima.
+
+Mima0a:Don't talk like you know me. You haven't seen my magic yet, have you?
+
+Yuka0a:Fair enough. Then why don't you show me what you've obtained on that path?
+
+<end>
+
+<ChatID:86>----------------------------------------
+//幽香vs.神綺
+
+Shinki2b:I know all about it, Yuuka Kazami! I hear you've been hanging around Alice?
+
+Shinki2b:Don't get near my daughter! Never, not in a million years! Not if you were the last two people on Earth!
+
+Yuka0a:I'm sensing you don't like me very much.
+
+Yuka0a:But if I'm such a detestable person anyway, maybe I should throw my lot in with Makura...
+
+Shinki0a:You wouldn't. You may be a thorn in people's sides, but you'd never hurt Gensokyo.
+
+Yuka0a:You overestimate me.
+
+Shinki0a:Of course, if you get in the way of our investigation, then we're going through you.
+
+Shinki0a:It doesn't matter what you try, I won't lose.
+
+Yuka0a:Tee hee, finally. That's the expression I've been waiting for!
+
+Yuka0a:That confidence, like you wouldn't yield an inch.
+
+Yuka0a:Like there's something you'd burn yourself out to protect. That's who you are. Now show me how far you'll take it!
+
+<end>
+
+<ChatID:87>----------------------------------------
+//幽香vs.夢子
+
+Yumeko0a:Yuuka Kazami!
+
+Yuka0a:Your household certainly seem to hate me. Are you that worried about your little sister?
+
+Yumeko0a:I've come to see why Alice doesn't avoid you.
+
+Yumeko0a:I can't understand it myself, but that's what she chose.
+
+Yuka0a:You trust her judgment, hm? But for all of that, do you still have reservations?
+
+Yuka0a:Alice doesn't even think about whether you're blood-related, you know.
+
+Yumeko0a:I know. But this is who I am.
+
+Yuka0a:Teehee. Of course. It's just like you to take on an unbending attitude.
+
+Yuka0a:I'll enjoy your steely way of life through your danmaku.
+
+<end>
+
+<ChatID:88>----------------------------------------
+//幽香vs.非想天則
+
+Tensoku0a:...
+
+Yuka0a:I'm surprised. They even have a mechanical doll with them?
+
+Yuka0a:I sense the power of dreams in you. Did you used to be Makura's servant or something?
+
+Tensoku0a:...!
+
+Yuka0a:I won't understand with just that. Use words to talk to me.
+
+Yuka0a:You don't have that metal body just for show, or on a whim, do you?
+
+Tensoku0a:...!
+
+Yuka0a:Heh heh, that's fine with me as well.
+
+Yuka0a:The youkai robot born from dreams, show me your danmaku!
+
+<end>
+
+<ChatID:89>----------------------------------------
+//全滅時
+
+Yukari2a:Rgh...
+
+Yuka0a:Oh? Is this how it ends?
+
+Yuka0a:Seeing the Youkai Sage like this, my interest is gone.
+
+Yuka0a:We can pick this up another time—if I feel so inclined.
+
+<end>
+
+<ChatID:90>----------------------------------------
+//幽香vs.メーコ
+
+Meko1b:Yuuka!
+
+Yuka2d:Mehko, was it? Whatever could you be doing with Reimu?
+
+Yuka0e:I could swear you were Makura's minion.
+
+Meko1e:A lot happened, and now we're all friends.
+
+Yuka2d:Oh? Now isn't that strange.
+
+Meko0b:Huh...?
+
+Yuka2d:After all the time you spent skittering about behind Makura's skirts?
+
+Yuka2c:I find it hard to believe you'd be consorting with Gensokyo like this.
+
+Meko0g:Um... you're right, a lot happened...
+
+Yuka0f:Well, not that it matters in the slightest to me.
+
+Yuka1a:Now why don't you show me how that soft white flower blooms?
+
+<end>
+
+<ChatID:91>----------------------------------------
+//幽香vs.まくら
+
+Makura1c:Yuuka Kazami... So this is what you were up to when you shrugged off my influence.
+
+Yuka2d:Oh, if it isn't Makura. What brings you here?
+
+Yuka0e:With Reimu and the others at that. Had a change of heart?
+
+Yuka2c:And was your expression always like that?
+
+Makura0g:Like... what?
+
+Yuka2c:Delicate, yet putting on a brave face. So strained it looks like you could break at any moment.
+
+Yuka1a:And here I was looking forward to bullying you.
+
+Makura2a:...Don't tell me you've always thought of me like that?
+
+Makura1c:I cannot tell you everything yet, but there's certainly no use hiding it anymore.
+
+Makura1b:At the very least, I can show you the results through my danmaku.
+
+Yuka0e:Hmm, there seems to be a strange twist here, but... as long as it's entertaining I don't mind.
+
+Yuka0b:Just how will the flower I picked up back then bloom?
+
+Yuka2b:Your true face, that you've never shown before. I'll be sure to savor it.
+
+<end>
+
+<ChatID:92>----------------------------------------
+//幽香vs.幽香
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Yuka0d:What a beautiful place.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Yuka3b:As I'd expect from my clone. I feel the same way.
+
+Yuka5a:If there are any flowers it's lacking, they'd have to be—
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Yuka0b:Simple and white amaryllis, and peacefully blue colored lilies.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Yuka2c:Oh, to think you'd know that much.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Yuka1b:But it sounds like you've never seen those flowers.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Yuka3c:Well, I'm still eagerly awaiting them.
+
+</nomove>
+
+<end>
+
+<ChatID:93>----------------------------------------
+//
+
+<end>
+

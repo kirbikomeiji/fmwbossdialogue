@@ -1,0 +1,50 @@
+﻿○幻想少女大戦永オープニング
+
+<ChatID:0>------------------------------
+//OP
+
+<Code=(transition_out,c_black,70,1)>
+
+<end>
+
+<ChatID:1>------------------------------
+//冒頭デモ会話
+
+Akyu0a:...Altitude stable. Cruising speed holding steady.
+
+Akyu0a:How's the steering, Mr. Kourindou?
+
+Korin0d:No problems so far. The autopilot's taking care of most of it.
+
+Korin0a:Seems like the two of us really can pilot the Palanquin Ship on our own now that it's complete.
+
+Ichirin3c:That's just because you're both quick learners. Akyu's already proven herself, but you're not half bad either, Mr. Kourindou.
+
+Murasa1a:This is so promising, we might just come to you for help if anything unexpected comes up.
+
+Korin2c:Let's not get ahead of ourselves...
+
+○SE：通信音
+
+○通信ON
+
+Sho0a:Good work, everyone.
+
+Nazrin0a:That was a solid test flight. You can bring the ship back down now.
+
+○OFF
+
+Akyu0a:Sounds like we're wrapping up today's practice run.
+
+Ichirin0a:Okay, could you finish things up by landing the ship?
+
+Korin0a:Roger that. Changing modes now. Lower the altitude.
+
+<end>
+
+<ChatID:2>----------------------------------------
+//テロプ
+
+Fantasy Maiden Wars Part 4: Dream
+
+<end>

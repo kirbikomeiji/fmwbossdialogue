@@ -1,0 +1,1393 @@
+﻿○共通第五十九話「一度離した手
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA (Makura)
+ 1: ADVA
+ 2: 1PP-1
+ 3: 1PP-2
+ 4: 2PP (unused)
+ 5: first battle vs. Nue
+ 6: Nue spell 1 start
+ 7: Nue spell 2 start
+ 8: Nue spell 3 start
+ 9: clear
+10: ADVB
+11: lose (Seirensen)
+12: lose (Murasa)
+13: lose (Ichirin)
+14: pursuade (Murasa)
+15: pursuade (Ichirin)
+16-35: battle vs. Nue
+
+<ChatID:0>---------------------------------------
+//ADVA（まくら）
+
+<BG=bg_talk_Black.png,fade=1,color=1,title=bg_Unknown,bgm=bgm_talk_unknown>
+
+Makura5a:...
+
+<SE=se_talk_cloth01_amp.ogg,wait=1>
+
+Makura5a:Oh, did I fall asleep? I'm so tired.
+
+Makura5a:I still lack the energy to constantly peek in on Gensokyo.
+
+Makura5a:...Speaking of which, did Mehko successfully complete her mission? I can feel her nearby.
+
+<SE=se_talk_walk_indoor04.ogg,wait=1>
+
+Meko0a:I'm back, Lady Makura.
+
+Makura5a:Welcome home, Mehko. That was faster than expected. Did something...?
+
+Makura5a:Those wounds!
+
+Meko0b:P-Please forgive me! I tried to get away as fast as I could, but Marisa and the others stopped me.
+
+Meko0e:But don't worry, I did manage to stop the bazaar!
+
+Makura5a:I'm glad to hear that, but to think they'd respond so quickly...
+
+Makura5a:I'm sorry, I made a shallow read of the situation, and you're the one who suffered for it.
+
+Meko0g:Don't say that, I could beat them if I went all out...
+
+Makura5a:But by the sound of things, they're still being stubborn about it.
+
+Meko0a:Yeah. Not only that, they brought that nuclear crow to the surface.
+
+Makura5a:Even her...?
+
+Meko0a:Seems like she's getting along with the surface dwellers now, and they taught her how to use her power.
+
+Meko1e:Even though we shouldn't allow anything new here...
+
+Makura5a:We have no choice then. We'll have to continue the plan, even if it's a bit forceful.
+
+Meko1e:Oh right, and I kinda sorta let them know what your power is...
+
+Meko0b:I'm so sorry! Actually, I even told them your name, and revealed myself!
+
+Makura5a:No matter. I've been prepared for our identities to be revealed.
+
+Makura5a:For now, please leave things to me while you recover from your wounds.
+
+Meko0e:Understood. Please charge up a lot of sleep power too, Lady Makura!
+
+<SE=se_talk_walk_indoor04.ogg,wait=1>
+
+<single>
+
+Makura5a:...As expected, it seems those girls will be our greatest obstacle.
+
+Makura5a:However, I'm not yet at full power.
+
+Makura5a:For now, we should lie low until another chance appears...
+
+</single>
+
+<end>
+
+<ChatID:1>---------------------------------------
+//ADVA（メイン）
+
+<MAP=11,FROM=無縁塚まで1,TO=無縁塚まで1,name=Palanquin Ship,icon=4>
+
+<BG=*bg_talk_Seirensen_Bridge.png,fade=1,color=1,title=*bg_Seirensen_Bridge,bgm=bgm_talk_aoki>
+
+Cirno3a:Ooh, look! It's the edge of the Forest of Magic!
+
+Mystia1b:When up in the sky, even a dark forest is just a forest... ♪
+
+Letty0a:You're awfully chipper. Is it because you don't come here often?
+
+Daiyosei0b:Yeah. We usually stay near the lake.
+
+Wriggle0a:There aren't any humans or youkai around here, so it's not very exciting normally.
+
+Wriggle4b:Actually, there aren't many animals around either, so it can be kinda desolate too...
+
+Keine0a:They probably don't approach because its near the edge of the Great Barrier.
+
+Keine0b:And if you go further, there's Muenzuka. The word refers to a gravesite for those without relatives to mourn them.
+
+Mokou0a:But Gensokyo's a small place. So the people buried here must be mostly outsiders, right?
+
+Yukari4a:Indeed. More than a few people wander in and lose both their way and their lives.
+
+Yukari0b:And perhaps as a result of their corpses, the borders to both the Outside World and the Netherworld are unstable here.
+
+Akyu0a:Making this one of the most dangerous places in Gensokyo, and certainly not one to be approached carelessly.
+
+Yukari0a:Although it seems a certain someone likes to come here to gather junk.
+
+Reimu0e:That's because the barrier's unstable, right? Rare stuff falls through.
+
+Korin2b:What a slanderous way to put it. I simply come here to pay my respects to the dead. Who else will?
+
+Korin3c:And if I happen to see any trash, I clean it up on the way home.
+
+Kosuzu4b:(I wonder if some of the books I get from him come from here...)
+
+Nazrin6a:Sure, whatever helps you sleep at night.
+
+Sho0c:But if that's the case, it's possible that the pagoda ended up here too.
+
+Korin0b:I wouldn't go that far, honestly. It's not like you can find ANYTHING here.
+
+Mystia0a:So what is this pagoda thing anyway?
+
+Nazrin0a:Bishamonten's Pagoda. It's a religious artifact hiding an unusually strong power.
+
+Nazrin3c:Master was entrusted with it when she was made Bishamonten's representative.
+
+Ran6b:Given the way you're treating it, it must be no ordinary item.
+
+Sho0a:Yes. It illuminates the world with the light of justice, symbolically showing us the righteous path.
+
+Rumia1a:Wow, I can't believe you lost something so amazing-sounding!
+
+Sho4a:I have no excuses. All I know is that I put it in the storeroom, but couldn't find it when I went to look.
+
+Nazrin6a:You were pretty depressed back then, so I wouldn't be surprised if you're misremembering something.
+
+Nazrin6b:But the fact that I can't find it with dowsing either is nothing less than inexplicable.
+
+Sho4b:Perhaps it abandoned me after I lost my way.
+
+Wriggle6b:C'mon, aren't you exaggerating? You just misplaced it.
+
+Ran0a:If it's truly a divine artifact, that's certainly not impossible, but it's no reason for you to feel down either.
+
+Ran3c:We've all seen how hard you've been trying.
+
+Sho0a:...Thank you, I'll try to be more positive.
+
+Reimu0g:Well, it's a start at least. Anyway, can't hurt to keep an eye out for it while we look for Koishi.
+
+Chen0b:Miss Yuyuko and Murasa went out on the deck, maybe they've found something?
+
+<MAP=11,FROM=無縁塚まで1,TO=無縁塚まで2,name=Palanquin Ship,icon=4>
+
+<BG=*bg_talk_Road_Spring.png,fade=1,color=1,title=*bg_Seirensen_Deck,bgm=bgm_talk_ningyo>
+
+Suika0b:...Hmm, haven't seen anything that fits the bill.
+
+Youmu3a:True. Plenty of phantoms and ghosts though.
+
+Youmu0a:There really are a lot of lonely spirits with attachments to the world of the living around here.
+
+Ichirin0a:We must be near Muenzuka then.
+
+Murasa2b:It's hard for me to think of that as someone else's problem though...
+
+Yuyuko1a:Oh, that's right. You're restless spirit too, aren't you Murasa? Not that you give off that impression.
+
+Murasa3a:Yeah, I used to be like that, long ago. I was consumed by my hatred and attacked the living and the whole shebang.
+
+Murasa3c:But then Hijiri saved me. It's thanks to her that I can live like this.
+
+Suika0a:But isn't that an unnatural state for a restless spirit?
+
+Ichirin4a:We've accepted that. Although that can be hard to understand for other youkai...
+
+Ichirin4b:And it's thanks to that lack of understanding that we've split up with Nue...
+
+Youmu0b:Come to think of it, I haven't seen Nue since the Utsuho incident.
+
+Youmu0a:I thought you'd reconciled with her, since she returned the fragments?
+
+Ichirin4b:Unfortunately, it's not that simple.
+
+Murasa2c:Right. It feels like we're further apart than ever...
+
+Yuyuko3a:This is a good chance, so do you mind if we ask you something?
+
+Suika1a:Last time we saw her, didn't she say something about you two being boring now that you're hanging out with humans?
+
+Ichirin0a:She did, but that's the life we chose for ourselves. Even Nue seemed to understand that.
+
+Murasa5c:But then she said that that's why she can't be around us. That's how she thinks.
+
+Yuyuko2a:True, a youkai from the distant past would never choose to be close to humans.
+
+Murasa0a:Nue has her pride as a great youkai, so I think she gets really caught up on that, yeah.
+
+Youmu3a:So even though you both respect each other choices, you still can't be together?
+
+Ichirin4b:That's how it's looking, yeah. Not that I think that's a good thing.
+
+Murasa0b:She seemed really serious about it too. To be honest, I'm kind of worried about how she's been doing since then.
+
+Suika6d:She did seem like the stubborn type.
+
+Youmu4a:But as long as you're both in Gensokyo, I'm sure you'll get another chance to talk.
+
+Youmu0b:Anyway, we're approaching Muenzuka, so let's leave it at that for now, shall we?
+
+Murasa0a:Yeah, okay.
+
+<MAP=11,FROM=無縁塚まで2,TO=無縁塚,name=Muenzuka,icon=4>
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP（出撃前）
+
+<nomove>
+
+<Code=(cursor_jump,496,400,1)>
+
+Daiyosei0a:No one in this thicket either...
+
+Cirno2a:*yawn* I'm getting sleepy...
+
+Wriggle1b:C'mon Cirno, you can't make a big yawn like that when everyone else is working hard.
+
+<Code=(cursor_jump,496,448,0)>
+
+Mokou3b:Nah, I can't blame her for that. This search has gone on forever without finding ANYONE.
+
+</nomove>
+
+Korin2a:There hasn't even been much junk to collect. It's looking like this was a waste of our time.
+
+Korin0b:It's getting late, so should we call it a day?
+
+<nomove>
+
+<Code=(cursor_jump,464,448,0)>
+
+Nazrin6a:I was making sure not to get my hopes up, but it still sucks that we couldn't find the pagoda either.
+
+Sho4a:You're right. If we can't find it even on the outskirts, then...
+
+Sho0c:...Oh?
+
+<Code=(cursor_jump,528,416,0)>
+
+Chen3d:Something wrong, Shou?
+
+<Code=(cursor_jump,464,448,0)>
+
+Sho0b:Yes. I mean, no... I mean, I can feel her...
+
+<pause>
+
+Nue1b:Found you, Minamitsu, Ichirin.
+
+Murasa4a:Nue?
+
+<nomove>
+
+<Code=(cursor_jump,496,400,1)>
+
+Rumia0a:Oh, you're... Murasa's friend. Whatshername. Long time no see.
+
+<Code=(cursor_jump,528,416,0)>
+
+Yuyuko0a:Speak of the nue and she shall appear.
+
+</nomove>
+
+Ichirin0d:What's happened, Nue? Why would you suddenly come to see us?
+
+Nue0a:Eh, I've just got little errand to take care of.
+
+<nomove>
+
+<Code=(cursor_jump,496,448,1)>
+
+Keine0c:What errand?
+
+</nomove>
+
+Nue0a:You wanted this, right?
+
+<pause>
+
+Murasa1b:That artifact...
+
+<nomove>
+
+<Code=(cursor_jump,464,448,0)>
+
+Sho1c:I-Impossible! It's Bishamonten's Pagoda!
+
+Nazrin2a:This absurd rarity reading; there's no mistaking it!
+
+</nomove>
+
+Nue3b:Thought so. So this is what you came here looking for then.
+
+Nue3c:It was just OOZING with Buddhist energies so I figured it must be yours.
+
+<nomove>
+
+<Code=(cursor_jump,496,400,1)>
+
+Mystia0c:So, what? You planning to run away with our stuff again?
+
+</nomove>
+
+Nue0a:I don't plan to get in Murasa's way anymore. I just thought they should know about this.
+
+Murasa5d:Nue, you said we'd never meet again...
+
+Murasa3a:If you're here, does that mean you changed your mind?
+
+Nue5b:No, I'm here to say goodbye.
+
+<nomove>
+
+<Code=(cursor_jump,496,400,1)>
+
+Daiyosei4a:Wait, goodbye?
+
+</nomove>
+
+Nue0b:I'm a great youkai. If you're going to be all chummy with the humans, then I can't be with you.
+
+Nue0a:But that doesn't mean I don't owe you for what you did for me in the Underworld. I'm just here to pay that back.
+
+<nomove>
+
+<Code=(cursor_jump,496,448,1)>
+
+Mokou0b:So you're here to fulfill that obligation and nothing more?
+
+</nomove>
+
+Nue1c:Exactly. And then we can go back to being perfect strangers!
+
+Murasa1b:Wait, hold on. I can tell you're serious about this, but this is all so sudden!
+
+<nomove>
+
+<Code=(cursor_jump,496,400,0)>
+
+Letty4b:Sudden, and one-sided.
+
+<Code=(cursor_jump,464,448,0)>
+
+Sho1b:She's right. Both Murasa and Ichirin wanted to speak with you, Nue....
+
+</nomove>
+
+Nue1c:Aw geez, can all you outsiders just shut up already?! I wasn't talking to you.
+
+Nue5b:For that matter, the way you all just thoughtlessly act like we're all friends is making me sick...
+
+Nue1e:Okay, that's it. Before I hand over this treasure I've gotta get this outta my system, and you're gonna help me!
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,496,400,1)>
+
+Wriggle0c:Uh, what? Did she just suddenly go into battle mode?
+
+<Code=(cursor_jump,528,416,0)>
+
+Youmu3b:I knew she wasn't fond of us, but this seems like a whole new level of violence from her.
+
+<Code=(cursor_jump,496,448,0)>
+
+Mokou0d:She'll probably never be at peace unless we let her go wild like this.
+
+</nomove>
+
+Murasa0c:Nue...
+
+<nomove>
+
+<Code=(cursor_jump,528,416,0)>
+
+Yukari1a:If she's serious, then we can't stand by and do nothing.
+
+Yukari0b:All hands, get ready for danmaku battle. This is a night battle, so prepare accordingly.
+
+</nomove>
+
+<end>
+
+<ChatID:3>---------------------------------------
+//1PP（出撃後）
+
+Nue1c:So you really came. I'd have to say that's reckless of you.
+
+Reimu0d:Same to you! You'll regret messing with us!
+
+Nazrin0b:Are you okay with fighting her, Skipper? What about you, Ichirin?
+
+Ichirin4a:I am. Looks like this will be our last chance to talk things out with her.
+
+Murasa0c:If I hold my tongue now, this really will be the last time we see her.
+
+Nue1a:Once you see the true power of the Great Nue, you'll be too terrified to "talk things out", you know.
+
+Nue1e:It's been a while since I last heard the soul-rending screams of people fleeing for their lives. I think I'll enjoy this!!
+
+<end>
+
+<ChatID:4>---------------------------------------
+//2PP（念のため）（没）
+
+<end>
+
+<ChatID:5>---------------------------------------
+//ぬえ初戦闘
+
+Nue1a:Let's see, how shall I torment you?
+
+Youmu0a:You're awfully confident for someone we've beaten so many times.
+
+Wriggle1a:We've already seen through your danmaku!
+
+Nue0a:Yeah right. You really think I showed you nitwits enough to reveal the true form of my attacks? What you've seen is what I wanted you to see.
+
+Akyu1a:Be careful everyone, Nue is the legendary youkai who once threw the old capital into terror.
+
+Akyu1a:I'm sure she's been holding back until now!
+
+Nue1b:But not anymore. Even against you, Minamitsu...
+
+Nue1e:It's time you declawed wimps saw the power of a TRUE youkai!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//ぬえ通常撃破
+
+Nue0c:Well, I guess you girls pass the prelims at least.
+
+Keine1a:We've already seen everything you've done so far... Does that mean the real battle is yet to start?
+
+Reimu0b:You know, it's been a while since I fought a real youkai-like youkai too. My shrine maiden blood is boiling at the thought.
+
+Reimu0c:If you can back up all your big talk, then maybe you'll be worth exterminating.
+
+Nue0a:Of course I can. I'm not like you girls. I've never forgotten what it means to live like a youkai.
+
+Mystia3a:How's that?
+
+Nue0b:Youkai are beings that terrify humans. We've always fought each other, and we'll always fight.
+
+Nue1c:You all may have thrown that away, but I'll never stop! Even if I'm the last one left!
+
+Yukari0b:...Choosing a life of conflict, then? You're almost a living reminder of days long past.
+
+Ran0b:Although in your case, it comes across more as digging in your heels and being stubborn for the sake of it.
+
+Nue1a:And what's wrong with that? Thanks to Minamitsu, I've gotten back both my power and my confidence.
+
+Nue1c:That's why I have to do this! If I'm not the great youkai Nue then what am I?!
+
+Suika0a:The life of an outcast can be a pretty lonely one, you know.
+
+Nue1c:I've been alone from the beginning. This is just a return to that!
+
+<end>
+
+<ChatID:7>---------------------------------------
+//ぬえスペル１撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Nue2b:So the familiars weren't enough?!
+
+Reimu0c:What'd you expect? That wasn't even worth one continue.
+
+Cirno1a:We're going to protect Shou!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Nue3a:I missed this. The part where the foolish humans flee before me.
+
+Wriggle4c:Ugh, we couldn't stop her...
+
+Cirno2b:Don't give up! Continue, continue!
+
+</Cond>
+
+Mokou1b:Anyway, I don't mind fighting, but what's the plan for after?
+
+Mokou0b:If she decides to just drop the pagoda and run, I doubt we'd ever find her.
+
+Akyu3e:That's true. We need to get through to her somehow.
+
+Nue0a:Hmph, someone's getting ahead of themselves. You're assuming you're going to win?
+
+Nue1c:Plus, what do you care? This is between me and Minamitsu, not any of the rest of you.
+
+Mokou1a:I disagree. We've drunk sake together. That's good enough for me.
+
+Akyu1a:Personally, I consider you both crewmates and friends!
+
+Kosuzu5b:Yeah!
+
+Ichirin4c:...Thank you, both of you.
+
+Nue2b:You stupid humans, acting all chummy, not knowing your place...
+
+Nue1e:Looks like I'll have to engrave the fear of youkai deep inside you!
+
+Keine1a:Watch out, here she comes!
+
+Nue1d:The impenetrable darkness, the unidentifiable shadows...
+
+Nue1e:Let me remind you what humanity's oldest fear is!
+
+<end>
+
+<ChatID:8>---------------------------------------
+//ぬえスペル２撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Nazrin0b:An attack that hides herself? Well that's certainly nue-like.
+
+Chen2b:But I feel like we managed to pin her down little by little.
+
+Nue2b:Gah, you managed to break that one too?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Nazrin0b:An attack that hides herself? That's hard to deal with...
+
+Chen2b:But I feel like we managed to pin her down little by little.
+
+Nue2b:Gah, you managed to get away from that one too?
+
+</Cond>
+
+Nue1b:But you weaklings have forgotten your instincts to fight humans. No matter how much you bluff—
+
+Rumia0a:We've forgotten how to fight humans?
+
+Letty4b:It seems you're misunderstanding something. We don't exactly consider ourselves humanity's allies.
+
+Nue3a:What do you mean?
+
+Suika1a:There are some exceptions like Shou's group, but humans and youkai still fight each other all the time.
+
+Mystia3c:I sing whenever I want, and blind humans whenever I want.
+
+Reimu0g:Yeah, and when they go too far, I exterminate 'em.
+
+Nue1b:That's just semantics. I mean, aren't you getting along right now?
+
+Nue5b:Keep that up, and your existence as a youkai gets fuzzy, and you start to lose power...
+
+Yukari0a:If that's what you think, then why not test our power for yourself?
+
+Yukari1a:Have youkai truly lost their power in this new Gensokyo? Feel free to test your hypothesis.
+
+Nue1c:Fine. If that's how you want it, then I'll show you.
+
+Nue1e:The nightmare that plagued an entire era. Resistance is futile!
+
+<end>
+
+<ChatID:9>---------------------------------------
+//クリア
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Nue2a:Ugh, no way! You've beaten me at full strength?!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Nue2a:Ugh, now way! You escaped my spell?!
+
+</Cond>
+
+Letty1d:Still think that youkai have lost their power?
+
+Wriggle3d:Actually, with all the trouble we've been getting into lately, we've gotten stronger than before.
+
+Nue2b:I don't buy it. You're all buddy-buddy with the humans, so how...?
+
+Yuyuko1c:If you have questions for us, then we should sit down and chat.
+
+Sho0c:She's right. By this point we're all exhausted anyway...
+
+Ichirin1d:Then let's take a break on the ship. You should come with us, Nue.
+
+Nue4c:But I...
+
+Murasa1b:We still haven't had a good long talk, Nue. And won't you have to come inside to give us the pagoda anyway?
+
+Nue5b:...Fine.
+
+<end>
+
+<ChatID:10>---------------------------------------
+//ADVB
+
+<MAP=12,FROM=無縁塚,TO=無縁塚,name=Palanquin Ship,icon=4>
+
+<BG=*bg_talk_Seirensen_Bridge_Night.png,fade=1,color=1,title=*bg_Seirensen_Bridge,bgm=bgm_talk_ningyo>
+
+<SE=se_talk_door_open06b.ogg,wait=1>
+
+Youmu3a:Phew, it feels like all the exhaustion is hitting at once.
+
+Reimu5c:It's late at night and we were working all day too.
+
+Nue0c:...
+
+Ichirin0a:What're you just standing around for? Take a seat.
+
+Nue5b:Nah, I'm fine over here. I was just going to hand over the pagoda and head home, I wasn't planning to stick around for—
+
+Murasa0a:Maybe YOU weren't planning on it, but we sure were.
+
+Murasa1b:Just shut up and sit down already. Or would you rather I anchor myself to you both literally and permanently?
+
+Nue2a:F-Fine, I'll sit! You can let go of my hand now.
+
+Nue5b:...Anyway, first things first. Here.
+
+<SE=se_talk_kasakasa02.ogg,wait=1>
+
+Sho3b:...Bishamonten's Pagoda. It's the real thing.
+
+Nue1b:I don't care about YOU, but Minamitsu sounded like she needed it. So.
+
+Nue0a:Here you go, Minamitsu.
+
+Murasa3c:...Thank you, Nue. Really, sincerely, thank you.
+
+Ichirin0a:Now let's return it to its proper owner, Shou.
+
+Sho0b:...
+
+Suika1b:Hm? Why are you hesitating?
+
+Sho4a:Ah, sorry. I was wondering whether or not I'm truly worthy to hold it.
+
+Sho4a:We've been searching for this pagoda for so long and now it's right in front of me...
+
+Ran3a:We told you not to question yourself so much.
+
+Nazrin3c:I've been watching you all along, Master. I've seen how desperate you were.
+
+Nazrin3b:If you want a guarantee that you're worthy of it, then I can give you one.
+
+Sho0a:I understand. Okay then, here goes...
+
+<SE=se_talk_hishi01.ogg,wait=1>
+
+<Code=(map_flash,1,90,c_white)>
+
+<SE=se_kiran02_2.ogg,wait=1>
+
+Sho1b:...!
+
+Ichirin5a:This glow, it's just like it used to be!
+
+Sho0b:...Bishamonten's Pagoda is once again permitted to shine the light of Order.
+
+Sho0c:With this, we can finally go save Hijiri.
+
+Nazrin3b:Allow me to thank you again on behalf of my Master, Nue.
+
+Nazrin0b:But we were looking for so long. Where did you find it?
+
+Nue0b:There's a small shrine on the side of the road on the mountain where I roost. Someone had left it there.
+
+Nue0c:I don't really remember, but I think it had a centipede design on it.
+
+Reimu0f:A shrine, huh? Maybe it was hidden by some kind of barrier then?
+
+Korin1b:Centipedes are servants of Bishamonten. Maybe he was protecting it?
+
+Korin0a:Anyway, you've finally got it back, so take good care of it this time.
+
+Kosuzu5a:...It does worry me though. Maybe you should let Nazrin hold onto it, Shou.
+
+Sho4a:N-No, I'll be fine. I won't let it out of my sight.
+
+Nue0b:...Okay, I handed over what I needed to.
+
+Nue3a:My business here is done, so...
+
+Murasa1b:Hold on, didn't I tell you that we wanted to talk?
+
+Nue2b:You did, but what else is there to say? You've already screamed your point at me a dozen times over.
+
+Murasa3b:Come with us, Nue.
+
+Nue0b:...
+
+<Code=(sound_fadeout,BGM,30,0)>
+
+<BGM=bgm_talk_hiroshige,0>
+
+Murasa3a:I completely understand that being a great youkai is very important to you, Nue.
+
+Murasa5d:But do you really have to sacrifice your own feelings and push others away for that?
+
+Nue5a:...We've already gone over this. Once you came to the surface, our ways of life just became too different.
+
+Nue4c:We could stay together, but then neither of us would be able to live as ourselves...
+
+Yuyuko1c:Come, now. You don't need to be so quick to write the possibility off.
+
+Nue1b:What's your problem? You stay out of this.
+
+Suika1b:You were saying that getting involved with others will shake your foundation as a youkai, but that ain't true at all.
+
+Suika0a:Even when we get along, youkai still rampage and humans still exterminate. Same as always.
+
+Letty1a:And you should've realized just now that we haven't lost any power.
+
+Nue4b:Well, ah...
+
+Yukari0b:It's not the one you knew, but humans and youkai have reached a new equilibrium.
+
+Yukari1a:We do more than fight, but we also do more than hold hands. This is a dangerous, yet beautiful world...
+
+Yukari0a:That is modern Gensokyo. The days of distance between human and youkai are over.
+
+Nue0b:So not only does that keep the balance, but you're saying youkai have a new relationship with humans?
+
+Akyu0a:Yes. With humans, obviously, but also with other youkai. There are all sort of new bonds being formed.
+
+Akyu3a:The current Gensokyo is a place where people with all different ways of thinking live as neighbors.
+
+Nue0c:People who think differently, together...
+
+Nue5a:So I can still do whatever I want then? And even if we live differently, me and Minamitsu can...
+
+Ichirin3c:Of course. That's what we've been trying to tell you from the beginning.
+
+Murasa0a:Plus, if we split up now I'm sure we'd drag each other back in anyway.
+
+Nue0b:...
+
+Yuyuko1a:Looks like you've had a change of heart.
+
+Nue1c:Hmph. Just because it sounds like Minamitsu would be lonely without me around.
+
+Nue1a:But that doesn't mean I'm gonna be all buddy-buddy with the rest of you. You shall all live in terror of the darkness lurking nearby!
+
+Reimu0e:Oh, sounds like you're ready for an extermination already.
+
+Mokou1c:She's a friend of Murasa's, so I'm sure she'll start fitting in soon enough.
+
+Daiyosei0b:...You were kinda scary at first too, Mokou.
+
+Akyu0a:Anyway, now we won't need to worry about the pagoda OR Nue anymore.
+
+Akyu0b:We can think about the rest after we meet up with the others tomorrow and report our new developments.
+
+Korin0b:I imagine Shou and the others will want to go save Byakuren as soon as possible.
+
+Ichirin4b:That's true, but we have a lot of preparations to do, and we ARE worried about Koishi being missing too.
+
+Sho0a:Hijiri will need to wait in Makai for just a bit longer.
+
+Sho1b:I'm sure we'll unseal her soon, and then I can finally...
+
+Nazrin0b:...
+
+Youmu4a:But even if we head home immediately and starting preparing a meal, it'll be more of a midnight snack than dinner.
+
+Yuyuko1c:In that case, we could just do both, right?
+
+Ichirin4a:Yes, yes, you can eat here. And if anyone wants to spend the night here, please speak up so we can get a room ready.
+
+Ran0b:I see, that would be most helpful. Chen's been nodding off for a while now.
+
+Cirno3a:Should we stay over too, Dai?
+
+Daiyosei0b:Sure. It'll be a sleepover.
+
+<single>
+
+Nue1b:Geez, still treating Minamitsu's boat like it's their own, I see.
+
+Nue5a:Wait, I guess this mean I don't have a room anymore either, huh?
+
+</single>
+
+Ichirin3c:No, it's been pretty much untouched since you used to hang out here.
+
+Nue3d:Really, Ichirin?!
+
+Murasa1b:It got kinda messed up when we came to the surface though, so I did a little cleaning.
+
+Nue3c:...Of course. I mean, we're friends, right?
+
+Nue3d:So can we put our futons next to each other and stay up all night talking like we used to? I've got so many stories to tell you two!
+
+Ichirin2b:Well, uh, we need to get up early tomorrow so...
+
+Nue0c:Is that any way to treat a friend?! It's been so long since we've hung out, so you owe me at least that much.
+
+Nue3c:Also, I'm curious about the ship's interior. You gotta show me around.
+
+Murasa3c:Welp, this is what I signed up for.
+
+<end>
+
+<ChatID:11>---------------------------------------
+//全滅（聖輦船撃墜）
+
+Korin2a:Oh no, I must've missteered!
+
+Nue1d:C'mon, Minamitsu is letting you pilot her precious ship and that's the best you can do?
+
+Nue1e:Get off her ship. I knew you weren't worthy of it.
+
+Akyu1a:...We need to prove her wrong. Let's try this again.
+
+<end>
+
+<ChatID:12>---------------------------------------
+//全滅（村紗撃墜）
+
+Murasa2c:Ugh, how could this happen?!
+
+Nue5a:This is your own fault, Minamitsu. You should've stuck to living life as a pure youkai.
+
+Ichirin1b:We need to prove Nue wrong. Let's regroup and try again!
+
+<end>
+
+<ChatID:13>---------------------------------------
+//全滅（一輪撃墜）
+
+Ichirin2a:Rgh, how could this happen...?!
+
+Nue0b:Too bad, so sad. Our conversation ends here, Ichirin.
+
+Murasa2c:Hold on, Nue! Everyone, quick, regroup and let's try this again!
+
+<end>
+
+<ChatID:14>---------------------------------------
+//説得（村紗）
+
+Murasa1b:Nue!
+
+Nue0b:Minamitsu...
+
+Nue1c:I've said what I came to say. I'm not interested in whatever you've got to add.
+
+Murasa0c:Figured you'd say that. But can't you listen just a little more?
+
+Murasa0c:Yes, our ways of life have changed. We can't live like we did in the Underworld anymore, but-
+
+Nue0b:Just... stop. That's enough. I just want us both to live however we want to.
+
+Nue5a:Hell, you met this Hijiri lady way before you met me, right? And you've drilled it into my head that's she's your savior or whatever...
+
+Murasa0c:But none of that means that we have to be separated!
+
+Murasa0c:Even when Hijiri returns, you can still—
+
+Nue0b:You really think I can stay a great youkai like that?
+
+Murasa5c:Nue...
+
+Nue0b:I told you two earlier that I didn't mind us having different ways of life, but my way of life is everything to me.
+
+Murasa0b:And I understand that, but that's no reason to make yourself alone.
+
+Murasa0b:I'm kinda worried about you, to be honest. I know how you get when you're depressed.
+
+Nue5b:I'll be fine. I can live my life without you. I'm the great and terrible Nue, after all.
+
+Nue1e:And I'll prove it by beating all of these weaklings!
+
+Murasa0b:Nue...
+
+<end>
+
+<ChatID:15>---------------------------------------
+//説得（一輪）
+
+Ichirin1b:Nue...!
+
+Nue0b:Ichirin...
+
+Ichirin2b:To be honest, ever since we came to the surface, we... haven't exactly been doing great.
+
+Ichirin4b:Maybe it would have been better for you if we'd stayed sealed in the Underworld like before.
+
+Nue0a:...It was fun back then, no question, but I still think it was better for you to come to surface.
+
+Nue5a:I mean, if you hadn't, then neither of you'd be able to fulfill your most heartfelt wish.
+
+Ichirin4a:Nue...
+
+Nue0b:I still can't accept this. How can someone who left you sealed for 1000 years just show up and start acting like friends?
+
+Nue5a:But if you really want to spend your life on the surface with these girls, then whatever, it's not my place to say anything.
+
+Ichirin4a:...I should thank you for being so considerate of us. Really, thank you.
+
+Ichirin4b:It's not like we want to change the way you live either, Nue. But that's a separate issue...
+
+Nue1c:So it's irrelevant? If I have to stop being me to hang out with you two, then what's the freaking point?
+
+Nue1c:Even if we're apart, as long as I live as the great and terrible youkai Nue, I can be proud!
+
+Ichirin4b:Nue...!
+
+<end>
+
+<ChatID:16>---------------------------------------
+//ぬえvs.霊夢
+
+Reimu4a:You know, for a youkai you sure seem conflicted about this.
+
+Nue0b:I guess maybe all of this is going over your pea-brained head.
+
+Reimu2b:Grr, it's not that I don't get what you're doing!
+
+Reimu5c:But from my point of view, both you and Murasa are pretty much the same anyway.
+
+Nue1b:How so?
+
+Reimu4a:Youkai can live however they want. If they get out of line I exterminate 'em. It's that simple.
+
+Nue1c:Hmph, that doesn't answer my question at all!
+
+<end>
+
+<ChatID:17>---------------------------------------
+//ぬえvs.ルーミア
+
+Rumia0a:You think about a lot of stuff. Sounds hard.
+
+Nue0a:Yeah, I'm not an airhead like you.
+
+Rumia0a:Really? But doing whatever you want is so easy.
+
+Rumia3a:Sometimes you wanna hang out, sometimes you wanna be alone. You can just do what you're in the mood for.
+
+Nue1b:...You trash youkai. Are you trying to say I'm agonizing over nothing?
+
+<end>
+
+<ChatID:18>---------------------------------------
+//ぬえvs.チルノ
+
+Cirno0b:A youkai's way of living, huh...
+
+Nue0b:I'm sure that doesn't mean much to a fairy anyway.
+
+Cirno5b:That's not true! My friend Letty is a youkai!
+
+Cirno0a:Letty also used to say that youkai and fairies were too different, but now we're friends.
+
+Nue1c:Yeah, thus proving that only idiots will try get along with everyone right away.
+
+Cirno0a:Why would you say that? Having more friends means more fun!
+
+<end>
+
+<ChatID:19>---------------------------------------
+//ぬえvs.大妖精
+
+Daiyosei3a:Why would you want to stop being friends when you like each other so much...?
+
+Nue2a:Whoa, geez, why are you crying?
+
+Daiyosei3a:Murasa and Ichirin are gonna be so sad...!
+
+Nue1b:...They aren't that weak. I've been with 'em for a long time, I would know.
+
+Nue1c:I'd be a disgrace of a youkai if I showed mercy. If you're going to cry anyway, then cry in terror!
+
+<end>
+
+<ChatID:20>---------------------------------------
+//ぬえvs.リグル
+
+Wriggle0c:Are you serious about cutting things off with Murasa?
+
+Nue1b:Of course I am, got a problem with that?
+
+Wriggle4a:There's no reason to go THAT far, is there?
+
+Wriggle4a:Sure, you think a little differently, but you can still get along, right?
+
+Nue0b:It's not about how we think, it's about how we LIVE.
+
+Nue5a:That's why I have to do this...
+
+<end>
+
+<ChatID:21>---------------------------------------
+//ぬえvs.ミスティア
+
+Mystia5a:So, uh, why is this happening again?
+
+Nue1b:A birdbrain, huh.
+
+Nue1b:Minamitsu is a youkai who wants to get along with humans. I'm a GREAT youkai who wants to terrify humans. We'll never get along.
+
+Mystia0c:And why are you fighting again?
+
+Nue1c:Because our ways of life are incompatible. It's time to make that clear once and for all.
+
+Nue1b:Now, I was nice enough to give you an explanation, so...
+
+Mystia1b:Gensokyo freshman... ♪ Making a hundred friends would be tough... ♪
+
+Nue2a:At least listen to me!
+
+<end>
+
+<ChatID:22>---------------------------------------
+//ぬえvs.レティ
+
+Letty0c:Didn't you save the Palanquin Ship when we were fighting Yatagarasu?
+
+Nue0b:That was just a whim. Those two are always so reckless when I'm not around...
+
+Letty0c:So with you gone, won't they be even more reckless?
+
+Nue4b:Maybe... But wait, isn't that your problem now? You deal with it.
+
+Nue5b:I mean, what would you girls even do without Minamitsu's ship?
+
+Letty4b:You're awfully roundabout about this.
+
+<end>
+
+<ChatID:23>---------------------------------------
+//ぬえvs.妹紅
+
+Mokou0b:A fight to make things clear, huh? It's not like I don't see where you're coming from.
+
+Nue0c:What are you even talking about?
+
+Mokou3c:You parted ways with Murasa so you could keep living as a youkai.
+
+Mokou0c:And now, with your pride as a youkai on the line, you're fighting to show her your determination.
+
+Nue1b:Right. Even Minamitsu should understand after this.
+
+Mokou1a:I wouldn't be so sure about that. Even if you let go of her hand, there are some folks who'll just grab you right back.
+
+<end>
+
+<ChatID:24>---------------------------------------
+//ぬえvs.慧音
+
+Keine1a:Hold on, Nue!
+
+Nue0b:That human who protects the village? No wait, a beastman?
+
+Keine0c:Both. I've lived in the village for a long time, and you're misunderstanding something.
+
+Keine0c:No youkai has ever had their way of life distorted by spending time with humans in the village.
+
+Nue1b:Why would you even tell such a blatant lie? I bet tons of youkai go drinking in town.
+
+Nue1b:How is that not utter depravity for a youkai?
+
+Keine0c:They're just living side by side. That doesn't mean that they can't also have their own disparate ways of life.
+
+Nue1c:How convenient for you. You think I'll be fooled by that?!
+
+<end>
+
+<ChatID:25>---------------------------------------
+//ぬえvs.星
+
+Sho0b:Nue...!
+
+Nue1d:First of all, I don't wanna see your face.
+
+Nue1e:And if you push me, don't think I won't smash this pagoda.
+
+Sho1c:That would be very, very bad!
+
+Nue1a:...Hmph, look at you, taking me all seriously. You're pure, alright.
+
+Nue1c:Let's see if someone like you is worthy of being with Minamitsu!
+
+<end>
+
+<ChatID:26>---------------------------------------
+//ぬえvs.ナズーリン
+
+Nazrin0b:I can't believe you actually brought the pagoda, Nue.
+
+Nazrin4c:You know, if you'd wanted to you could've just smashed it or hid it somewhere.
+
+Nue1b:...I don't enjoy tormenting Minamitsu.
+
+Nue1b:I don't plan to interfere with the way of life they chose for themselves.
+
+Nazrin6b:You really take your debts seriously, huh?
+
+Nazrin0b:You're being weirdly... honorable about all this. But that doesn't mean anyone else has to accept what you're doing.
+
+<end>
+
+<ChatID:27>---------------------------------------
+//ぬえvs.妖夢
+
+Nue1a:Ah, you're the half-swordsman. Think you can see through to my true form?!
+
+Youmu0a:I admit you're an opponent I can't let my guard down around, but I can sense hesitation within you.
+
+Nue2b:What...?
+
+Youmu1a:Even if you think you've made your decision, there is still some remaining doubt. Doubt should be cut off.
+
+Nue1c:Hmph, what would you know?!
+
+Nue1c:I have no doubt! I'll send you to hell right now!
+
+<end>
+
+<ChatID:28>---------------------------------------
+//ぬえvs.ゆゆ様
+
+Yuyuko0a:Going out of your way to give a proper farewell? I never knew you were so courteous.
+
+Nue1c:Call it what you want. This is my way of sending a message.
+
+Yuyuko2a:But isn't it sad? You're both important to each other, aren't you?
+
+Nue1b:What do you know?
+
+Yuyuko1c:I know you need to relax more.
+
+Yuyuko1a:Otherwise, it'll be hard to keep on living.
+
+<end>
+
+<ChatID:29>---------------------------------------
+//ぬえvs.紫
+
+Yukari4a:So you feel you can't be with Murasa, who assists humans. Is that it?
+
+Yukari4b:True, a thousand years ago humans and youkai living side by side would have been unthinkable.
+
+Nue1b:Exactly. A great youkai cozying up to humans? What a disgrace.
+
+Yukari4a:Well, maybe so...
+
+Yukari1a:But that's all in the past. The times have changed, and the form of our relationship with them.
+
+Nue1c:You just keep on talking, but never stop to make any sense.
+
+Yukari5a:The plan was to MAKE you understand.
+
+Yukari0a:Allow me to show you the thousand years of change engraved into Gensokyo.
+
+<end>
+
+<ChatID:30>---------------------------------------
+//ぬえvs.藍
+
+Nue1b:A nine-tailed fox, huh? Why would someone like you be going along with all this?
+
+Nue1c:As a great youkai, don't you have a duty to terrorize humanity?
+
+Ran0b:I do, in fact. I haven't forgotten, nor have I abandoned it.
+
+Ran6a:But, right now I am Lady Yukari's shikigami. I live a life of obedience.
+
+Nue1c:Then I guess I'll have to remind you what it means to be a youkai. Awaken to your instincts!
+
+<end>
+
+<ChatID:31>---------------------------------------
+//ぬえvs.橙
+
+Chen4b:Ugh, she's hard to fight... What would Miss Ran do?
+
+Nue1b:Relying on someone else in a fight? Spoiled brat.
+
+Chen2b:Don't say that, I'm doing my best!
+
+Chen3c:Not only as a shiki, but also as a bakeneko. I want the other cats to respect me...
+
+Nue1c:Chasing two rabbits then? Greedy, greedy.
+
+Chen5b:No it's not! Miss Ran and Miss Yukari both told me to do my best!
+
+<end>
+
+<ChatID:32>---------------------------------------
+//ぬえvs.萃香
+
+Suika3a:You know, I'm not against that old fashioned youkai way of thinking.
+
+Nue1b:You think I care what an oni willing to pal around with a shrine maiden thinks?
+
+Nue1c:At least the oni who turned their backs on humanity in the Underworld still have their pride.
+
+Suika1a:You think? I kinda like my life now. I can pick fights with humans whenever I want.
+
+Nue1c:I don't see you picking any.
+
+Suika6a:You still don't get it? Well, the old youkai were always stubborn.
+
+Suika3d:If you want a fight, then I'll pick one with you right now.
+
+<end>
+
+<ChatID:33>---------------------------------------
+//ぬえvs.聖輦船
+
+Kosuzu2a:Please wait, Nue!
+
+Nue0c:So the ship's still moving even without Minamitsu...
+
+Korin0a:Thanks to the Flying Granary fragments you brought us, it's back at full power.
+
+Nue1b:...I just paid back my debt. I really have no desire to damage her ship, you know.
+
+Akyu1a:If that's how you feel, then just talk to her, please!
+
+Nue1b:We've talked. I understand why she lives her life this way.
+
+Nue1c:But I can't give up on my own way of life either!
+
+Korin0b:We can't find a middle ground, huh? Guess there's no choice but to stop her in battle!
+
+<end>
+
+<ChatID:34>---------------------------------------
+//ぬえvs.村紗
+
+Murasa0c:It's only been a little while, but it feels like it's been so long since we've talked.
+
+Murasa3b:First of all... Thank you for bringing us the pagoda.
+
+Nue4c:I don't need thanks, I'm just paying back my debt to you.
+
+Murasa5c:You're really planning on cutting things off?
+
+Murasa0b:Back when we were in the Underworld, we never worried about owing each other or anything like that...
+
+Nue5a:Our ways of life are too different! What other choice do I have?!
+
+Nue1c:We're done talking about this. If you won't back down, Minamitsu, than I'm not holding back!
+
+Murasa1b:You idiot! I'll make you listen to me even if I have to drag you to bottom of the sea!
+
+<end>
+
+<ChatID:35>---------------------------------------
+//ぬえvs.一輪
+
+Ichirin4b:...I was so happy to hear you brought the pagoda for us, but as a parting gift?
+
+Ichirin4a:Not that you haven't always been weirdly stubborn about that sense of duty of yours.
+
+Nue5a:...I have a lot to thank you two for, Ichirin. I didn't want to just disappear without another word.
+
+Nue1c:But with this, my debt has been cleared.
+
+Ichirin1b:That doesn't mean Unzan or I are going to forgive you.
+
+Nue5b:I didn't expect you to. How long do you think I've known you two?
+
+Nue1c:But I'm serious about this too! Don't think you'll get out of this unharmed!
+
+Ichirin1b:That's our line! Reflect on your mistakes when our fists are in your face!
+
+<end>
+
+<ChatID:36>----------------------------------------
+//ぬえvs.メーコ
+
+Meko0g:You came all this way just to say goodbye, and even brought a gift...
+
+Meko1a:You're just pouting cuz Murasa's getting along with everyone else!
+
+Nue1c:Sure, it's lame as hell, but if that's how she wants to live her life then what can I do?
+
+Nue1a:A shrimp like you doesn't even know what it means to be a great youkai.
+
+Meko1d:I'm not a shrimp!
+
+Meko1f:Don't give up on your dreams so easily!
+
+Nue1e:You sure talk big for a shrimp!
+
+<end>
+
+<ChatID:37>----------------------------------------
+//ぬえvs.まくら
+
+Makura1c:So you gave your friend an answer precisely because this is farewell?
+
+Nue1b:I've lived as a great youkai ever since I met them. I'm sure as hell not gonna give THAT up.
+
+Makura0g:You'd go that far just for your way of life as a youkai?
+
+Makura2a:...I can certainly sympathize.
+
+Nue1b:Hmph, what would you know about the great and terrible Nue?
+
+Nue1c:But I don't need you to understand, I just need you to stay the heck out of my way!
+
+<end>
+
+<ChatID:38>----------------------------------------
+//ぬえvs.ぬえ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Nue5b:I was so desperate back then...
+
+Nue3b:No, wait, didn't it all work out? I got back together with Minamitsu and everything!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Nue1b:What're you muttering about over there?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Nue1c:You! I'm muttering about you!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Nue2a:Ha? Not only are you cribbing my style, now you're acting like you know anything about me?
+
+Nue1a:You'll regret looking down on the great and terrible Nue!
+
+</nomove>
+
+<end>
+
+<ChatID:39>----------------------------------------
+//
+
+<end>
+
+<ChatID:40>----------------------------------------
+//
+
+<end>
+
+<ChatID:41>----------------------------------------
+//
+
+<end>
+

@@ -1,0 +1,2093 @@
+﻿○共通第五十二話「地上への架け橋
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: 2PP (just in case)
+ 4: first battle vs. Parsee
+ 5: first battle vs. Yugi
+ 6: Parsee spell start
+ 7: beat Parsee 
+ 8: Yugi spell 1 start
+ 9: Yugi spell 2 start
+10: beat Yugi
+11: ADVB
+12: lose
+13-XX: battle vs. Yugi
+XX-YY: battle vs. Parsee
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<BG=bg_talk_Seirensen_Hall_Night.png,fade=0,color=1,title=bg_Seirensen_Hall,bgm=bgm_talk_aoki>
+
+Remilia3a:Sakuya, bring me some sugar. 
+
+Sakuya1c:Right away, Mistress. Does anyone else need anything? 
+
+Komachi1c:I'll have another cup, thanks. 
+
+Flan3d:Me too! 
+
+Kaguya3c:I'd like some tea snacks myself. Some nice Western-style ones.
+
+Remilia1d:...
+
+Kaguya3b:What's wrong? If you don't have any, then I wouldn't mind waiting while you make them. 
+
+Remilia1c:Could you please not subject Sakuya to your whims? You're already forcing your way into our group as it is.
+
+Remilia1d:If you need something done, you can just ask one of your rabbits. 
+
+Kaguya1c:How petty. I wouldn't have said anything to you ordering my Inabas around. 
+
+Patchouli3e:Maybe we should take some home with us, if you're offering. 
+
+Sakuya5b:Having more hands isn't necessarily better. 
+
+<SE=se_talk_walk_indoor01.ogg,wait=1>
+
+Sunny0d:Oh, looks like this is where everyone was. 
+
+Mokou0d:Seems that way. Guess they'd never forget to stop for teatime, even at a time like this. 
+
+Komachi1a:Good work, girls. Patrolling the ship? 
+
+Luna0c:Yup. They're having a meeting in the bridge though, so shouldn't you be there? 
+
+Remilia1e:Meetings bore me. Let's just leave that to the people who care to take charge.
+
+Remilia0a:They can handle the tedious stuff, leaving the good parts for me.
+
+Patchouli0c:As long as there are enough people, taking shifts to rest is important. 
+
+Mokou1b:Don't relax too much though. These Underworld youkai aren't pushovers.
+
+Mokou3c:Especially the oni. You can never be ready enough for one of those girls.
+
+Kaguya2c:Oni, hm. I suppose I did hear mention that they live down here. 
+
+Patchouli0b:I'm sure you can tell from seeing Suika in battle, but even among youkai oni are considered one of the strongest races.
+
+Patchouli0a:Before they left the surface, humans feared them as the strongest kidnappers.
+
+Flan0e:If they're so strong, then why aren't they rampaging on the surface?
+
+Komachi0c:They had some friction in their dealings with the humans, and finally exhausted their goodwill.
+
+Komachi3b:That's when they abandoned life on the surface and sought out somewhere else to live.
+
+Komachi0a:Then they ended up in the Underworld and built a brand new society.
+
+Flan3g:Oh, so they found a room to keep all to themselves. 
+
+Kaguya0a:But if that's the case, then can't the oni just head outside without a problem?
+
+Kaguya0a:They moved here themselves after all, and Suika lives on the surface like normal. 
+
+Patchouli0c:Correct. Unlike the other youkai, they aren't sealed in the Underworld.
+
+Patchouli0a:They may be strong, but they wouldn't endanger the entire village.
+
+Kaguya0a:So they prefer to live in the Underworld along with the sealed youkai then.
+
+Kaguya6a:Then where in the depths of the earth could they possibly be...?
+
+Mokou1b:You can be as curious as you want, but you'd better not be actually thinking about looking for them. 
+
+Sunny0b:Yeah, especially since all the youkai down here want to chase us out. 
+
+Star1b:Let's treat this like hide-and-seek, and move very carefully. 
+
+<BG=bg_talk_Seirensen_Bridge_Chitei.png,fade=1,color=1,title=bg_Seirensen_Bridge,bgm=bgm_talk_ningyo>
+
+Akyu0a:...I'm getting no youkai readings. Continue lowering our altitude.
+
+Ichirin0d:Little by little, we've gotten pretty deep. 
+
+Tewi4b:I can't believe the Underworld is this huge. Now I'm worried about how stable the surface's foundations are. 
+
+Murasa0a:Hey Suika, will this really take us to the Palace of Earth Spirits?
+
+Murasa0b:Your directions are pretty vague. All you've been doing is saying "this way" or "that way".
+
+Suika1a:It'll be fine! I know this place like the back of my hand.
+
+Suika3b:Just keep going straight ahead, and we should see a huge bridge.
+
+Reimu1b:A bridge? 
+
+Kosuzu6a:What's a bridge doing so far underground?
+
+Yukari0a:It's something like a checkpoint, leading to where most of the youkai live.
+
+Yukari0a:A youkai known as a hashihime serves as guard there.
+
+Suika1a:Yup. Her power's a real pain.
+
+Suika3b:But I guess her personality's even worse.
+
+Kanako2a:Hearing you talk about the Underworld like this is a novel experience, Suika.
+
+Kanako0b:Even when we're sitting down for a drink together, you never talk about your past. 
+
+Suika2a:Huh? I don't?
+
+Suika1a:And hey, it's not like we hear much about what you were up to before you came to Gensokyo either. 
+
+Suwako3a:So we both don't talk about our old homes. 
+
+Akyu0a:Doesn't that just show how much both of you treasure your current lifestyles? 
+
+Momiji6a:Enjoying yourself is all well and good, but could you please spare us those uproars at the Moriya Shrine? 
+
+Hatate5b:Yeah, Suika makes the news just by hanging out on Youkai Mountain. 
+
+Akyu0a:Oh, that's right, the mountain youkai have a hard time dealing with the oni. 
+
+Tewi3b:That's 'cause they used to rule the mountain before the tengu inherited the job.
+
+Tewi3d:Seeing your old boss show up must make things pretty awkward.
+
+Suika3a:It's not like I'm planning to come back to the mountain or anything. They really shouldn't worry so much about it. 
+
+Marisa0d:Speaking of coming back, why DID you return to the surface?
+
+Suika6c:Huh? Whaddaya you mean? 
+
+Reimu1b:Good question, actually. It's not like you were having a hard time down here, right?
+
+Suika3b:Well yeah, duh. I used to party with all my oni buddies.
+
+Suika1b:But... 
+
+Kanako1d:But...?
+
+Suika3d:But I missed the sake on the surface. The stuff they make down here just isn't all that good. 
+
+Marisa7c:You've gotta be kidding me. Well, I guess it's your kinda reason. 
+
+Suika5a:Ah ha ha! Were you expecting something respectable?
+
+Suika0a:Once they've been lured by the smell of sake, both humans and youkai like to get noisy.
+
+Suika3d:That's what makes me feel most at home. That's good enough for me.
+
+Suwako0a:...Well, I think can understand. 
+
+Reimu4a:Maybe it's good enough for YOU, but whenever you're around all these other youkai show up and it's a real pain. 
+
+Suika5a:Hey, it's not like I'm always gathering 'em.
+
+Ichirin1d:...Sorry to cut off the conversation, but it looks like we'll need to be more watchful.
+
+Ichirin0b:I can see a light in the distance, so we should be coming up on that bridge any minute now.
+
+<BG=bg_talk_Chitei.png,fade=1,color=1,title=bg_Chitei,bgm=bgm_talk_kaikidan>
+
+<SE=se_talk_fly02.ogg,wait=0>
+
+<Code=(demo_wait,35)>
+
+<hide=name>
+
+Parsee0a:*sigh* What am I doing out here in this cold?
+
+Parsee0a:Why do we even need a guard, anyways? Nobody ever comes here.
+
+Parsee0d:I bet everyone else is lying down in front of a fireplace with a warm drink right about now.
+
+Parsee2a:Then again, if I were there too I'd just be jealous of everyone else hogging all the fun.
+
+</hide>
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+Yugi3c:Yo, Parsee! 
+
+Parsee0a:...Ah, Yuugi.
+
+Yugi3a:It's as quiet as always here. You're bored, right? 
+
+Parsee0c:I'm fine. I'm used to being alone.
+
+Parsee0a:So why are you here? Actually don't even bother answering, I already know you just have nothing better to do.
+
+Yugi3e:Ha ha ha, you got that right. I was drinking in the neighborhood, so I stopped by to see your face.
+
+Yugi0a:I got my hands on some of the good stuff. Want me to pour you some?
+
+Parsee0a:"Ooh, look at me, I get to come and go whenever I feel like it." Lah-dee-dah.
+
+Yugi1c:Actually, I heard something strange in the bar just now.
+
+Yugi0b:Something about how the groundwater around here is warming up. You know anything about that?
+
+Parsee0a:What? Not really, why? 
+
+Yugi1b:I overheard something about hot water coming out from the well.
+
+Yugi0a:It's just a guess, but maybe they messed up regulating the temperature down in the Ruins of Blazing Hell?
+
+Parsee0c:...Hmm, it's certainly happened before.
+
+Parsee0a:But lately they haven't been making many mistakes, so maybe it IS strange. 
+
+Yugi3c:I'm not sure, but as long as we can mix hot shochu out of it, we oni are gonna be pretty happy. 
+
+Parsee2a:...Come on, can't you even go two sentences without bringing up alcohol?
+
+Parsee0c:Well, whatever. You're here to drink right? I'll join you, but only for one glass.
+
+Yugi3d:Just what I like to hear. I brought some snacks to go with it too...
+
+<SE=se_bomb05.ogg,wait=0>
+
+<Code=(map_shake,1,30,1)>
+
+<Code=(demo_wait,30)>
+
+Yugi0d:...Hm?
+
+Parsee0a:What was THAT? It felt like the entire atmosphere shook. 
+
+Yugi1b:I'm picking up some auras I've never sensed before.
+
+Yugi0a:Now I'm kinda curious. Let's go check it out.
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP（出撃前）
+
+Reimu0f:...The cave opened up again.
+
+Kosuzu2a:Wait, look at that, everyone!
+
+<pause>
+
+Marisa1b:The lights of a city, huh? This where the underground youkai live?
+
+Suika3a:Yup. That's the old capital, where the oni live.
+
+Suika3b:And right up ahead is that bridge I was telling you about.
+
+Sunny0a:It doesn't look like the guard youkai's here, so let's just slip in while we can and—
+
+Akyu1a:Hold on, I'm getting massive youkai energy readings!
+
+<pause>
+
+Yugi2a:Whoa, what's THAT?!
+
+Parsee0d:A flying boat? Was this thing making all that racket?
+
+Koakuma0b:A couple of youkai showed up. Would those be the bridge guards?
+
+Aya0a:It looks that way. The slender one must be the infamous hashihime.
+
+Aya0b:Then the heavyset one would be...
+
+Aya2b:Wait a minute, I know that face!
+
+Sanae0g:Are you familiar with her, Aya?
+
+Aya2a:Familiar, nothing! You watch your attitude around her too, Sanae.
+
+Aya0c:That's one of the Four Devas of the Mountain. The oni Yuugi Hoshiguma!
+
+Hatate2a:What?! The same group Suika's part of?
+
+Suika3c:Oh, it really is Yuugi. And that's Parsee Mizuhashi with her.
+
+Yugi1a:Sounds like someone on that boat knows me.
+
+Yugi0a:That drunken voice... Is that...?
+
+Suika3d:Hey, Yuugi, how ya been?
+
+Yugi3b:It IS Suika! Long time no see!
+
+Parsee0a:Suika, you say? You DID always get along with her...
+
+Yugi0a:Yeah, until she wandered out of the Underworld a little while ago.
+
+Yugi3c:So what brings you here today? Don't tell me that stupid huge ship of yours is a souvenir!
+
+Suika6d:Nah, that's not it. We're just looking into something.
+
+Keine0c:It's a long story, but there's a dangerous incident occurring on the surface right now.
+
+Keine0c:If we don't do something about it, it will affect all of Gensokyo, not just the human village where we live.
+
+Parsee0a:A human? You mean it's not just oni on that ship?
+
+Youmu1c:Yes. We're aware of the noninterference pact, but this is a state of emergency.
+
+Youmu3b:If you let us investigate, we won't cause any trouble.
+
+Parsee0d:You can't tell us that and just expect us to go "Oh, okay then."
+
+Parsee2a:We'll tell all the youkai in the Old Capital and kick you all back to the surface where you belong.
+
+Yugi1a:Interesting, very interesting. So Suika brought humans from the surface with her?
+
+Yugi0a:In that case, it'd be a huge waste to just send 'em back.
+
+Parsee0d:What. What do you mean, a huge waste?
+
+Yugi3e:Hey, surface people! Wanna settle this with a quick throwdown?!
+
+Keine1a:Wh...?!
+
+Parsee0d:Yuugi?! How can you make a commitment like that?
+
+Parsee0a:This won't even be a fight, anyway. No matter how many there are, you'll just blow 'em away.
+
+Yugi3a:Have a little faith. These are our first guests in a long while, and on top of that they're friends with Suika. Is that cool or what?
+
+Yugi1f:Drinking and fighting are the flowers of the Underworld! C'mon, my fist is itching for this!
+
+Parsee0a:*sigh* There she goes again.
+
+Letty4a:Goodness gracious. She's gotten herself quite heated.
+
+Suika4b:Hmm... Once Yuugi gets pumped up, there's no reasoning with her until she's run her course.
+
+Suika1e:If we're gonna talk, it'll have to be through our fists! Only one way this is going!
+
+Reimu2b:Good grief. Guess I should have seen this coming.
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP（出撃後）
+
+Tewi4a:Great, an oni of all things. This trip is just one disaster after another.
+
+Mokou1c:Complaining won't get you anywhere. Just deal with it.
+
+Ran0b:Actually, communicating through a fight makes this simpler for us.
+
+Ran6a:If we win, you'll let us through and tell us everything you know. It's incredibly straightforward.
+
+Yugi1f:Already planning for after you win? Well, if you've got the strength to back it up then I don't mind.
+
+Yugi3e:And that's a promise! On the honor of an oni!
+
+Parsee2a:For crying out loud. You oni just won't let something go once you commit to it...
+
+Yugi1d:You surface folks just march right in, without a second thought to your position here.
+
+Yugi1f:Are you brave or stupid? Your strength will show which!
+
+<end>
+
+<ChatID:3>---------------------------------------
+//2PP（念のため）
+
+<end>
+
+<ChatID:4>---------------------------------------
+//パルスィ初戦闘
+
+Parsee0d:You surface youkai and your stupid sunny dispositions...
+
+Kurumi2a:Eek! She's really glaring at us!
+
+Parsee0c:You're already monopolizing all the stuff we don't have, so what else have you leeches come to take?
+
+Parsee0a:You think you can just strut around here like you own the place?
+
+Lyrica1b:Ooh, I get it. This is the youkai of jealousy I've heard about.
+
+Merlin1c:She's all dark and gloomy. Reminds me of you, Sis!
+
+Lunasa0b:...I'm not gloomy.
+
+Parsee0d:What's with that banter? You three get along so well it makes me so jealous!
+
+Parsee2a:If you're not gonna run, then my jealousy is gonna tear right through those bonds of yours!
+
+<end>
+
+<ChatID:5>---------------------------------------
+//勇儀初戦闘時
+
+Yugi1f:Alright! Finally, a fistfight!
+
+Luna2a:Eeep! What an intense presence. She already seems strong just from that!
+
+Suika3c:Well, yeah. Back when we were in the Four Devas, they called her Yuugi the Strong.
+
+Suika1a:Spells are one thing, but when it comes to brute strength even I might not be a match for her.
+
+Mystia4b:What's with that?! If I take a direct hit, I'll end up splattered on the wall...
+
+Yugi2a:Oh come on, I wouldn't end it THAT fast. We don't get many guests from the surface.
+
+Yugi1f:Don't be shy now, come at me fair and square!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//パルスィ通常撃破
+
+Parsee2a:Ugh, not only are they ganging up on us, but they're strong too?
+
+Parsee0d:Surrounding us with superior numbers... You're all laughing at me and thinking you're hot stuff, aren't you?!
+
+Marisa4d:Uh, not really...
+
+Patchouli4a:I'd heard the stories, but seeing her in person... Wow, she really IS annoying.
+
+Marisa0d:But if she gets upset, she'll be even more annoying.
+
+Marisa0a:Alice, try to calm her down.
+
+Alice1a:What? Why is this my job?
+
+Koakuma3b:You know, I read in the paper recently that you were nailing a doll to a tree...
+
+Alice0c:I don't know what you're talking about. But if you want me to persuade her, then...
+
+Alice0a:Miss Mizuhashi, I do feel bad for intruding on your home with no warning.
+
+Alice2c:But what if this incident is also causing issues in the Underworld? We're doing this for your sake as well.
+
+Parsee0a:For OUR sake, you say?
+
+Parsee0d:Hah! How kind you are, being on the surface yet still taking the time to worry about the Underworld. If only we could ALL be so kind.
+
+Alice0a:...
+
+Elliy1a:Come on, Blondie! You made her even more jealous!
+
+Elliy4b:You've got Yuuka's favor. Shouldn't you at least be able to negotiate properly?
+
+Kurumi4a:I don't think Yuuka has anything to do with this...
+
+Elliy2a:Yes she does! Oooh, you homewrecker, you!
+
+Shizuha4a:Wow, talk about insane jealousy. Is that youkai's jealousy exerting some influence on her?
+
+Alice4a:...Somehow I doubt it.
+
+Parsee0c:Heh. That's it, fight amongst yourselves. That's where the darkness takes root.
+
+Parsee0d:There's a dark, ugly emotion that lurks within everyone. You just choose not to see it. And I can draw it out and let it empower me.
+
+Parsee1a:There's nothing like jealousy to spur on a heart forever!
+
+Lunasa1b:Watch out! An unpleasant sound is rising!
+
+Parsee0c:That swell of jealousy will become a green-eyed monster that devours the heart!
+
+Parsee2a:Flee in the face of your inescapable feelings and let yourselves be torn apart!
+
+<end>
+
+<ChatID:7>---------------------------------------
+//パルスィスペカ１撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Parsee0d:Urgh! *cough*
+
+Rumia3a:Woo, got 'er! Um, did we go a little overboard?
+
+Daiyosei3b:I'm sorry, did we hurt you?
+
+Parsee0d:You can afford to worry about your opponent right after you beat her? That makes me so jealous!
+
+Nazrin4a:She even gets jealous of fairies? She's really committed to the bit.
+
+Yugi1c:That's enough, Parsee. Leave the rest to me.
+
+Parsee0a:What, you're saying I'd just get in your way?
+
+Yugi1a:No, I just don't want you anymore beat-up than you already are.
+
+Yugi0a:Hell, I'm the one who dragged you into this mess.
+
+Parsee2a:Oh, so you realize basic facts. A bit late for that, don't you think?
+
+Parsee0a:...But if you insist, I'll withdraw.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Parsee0d:You waited it out, huh? I'm jealous of how fast you run away.
+
+Mystia4a:She's just gonna find something to get jealous of no matter what we do, huh?
+
+Sunny1c:But she should be getting tired by now!
+
+Yugi1g:That's enough, Parsee. Leave the rest to me.
+
+Parsee2a:What, you're saying I'd just get in your way?
+
+Yugi1c:No, I just don't want you anymore beat-up than you already are.
+
+Yugi0a:Hell, I'm the one who dragged you into this mess.
+
+Parsee2a:Oh, so you realize basic facts. A bit late for that, don't you think?
+
+Parsee0a:...But if you insist, I'll withdraw.
+
+</Cond>
+
+<pause>
+
+Murasa3a:Wow, she actually left when asked.
+
+Akyu0a:We're lucky she didn't stick around. Parsee has a truly fearsome power.
+
+Sho1b:All that's left is Yuugi. Stay sharp, everyone!
+
+<end>
+
+<ChatID:8>---------------------------------------
+//勇儀通常撃破
+
+Yugi3e:Yeah, that's what I'm talkin' about!
+
+Minoriko4a:We're staying on the offensive, but she's not budging an inch.
+
+Meiling1a:But our blows landed. She shouldn't be unbeatable!
+
+Yugi3b:That's the spirit. Looks like this'll be a good brawl.
+
+Suika3c:So what do you think, Yuugi? These girls are worth fighting, right?
+
+Suika0b:They're a lively bunch, too. They have fun with fights and parties.
+
+Yugi2a:Parties? Wow, you're that comfortable around them?
+
+Shizuha1d:We'd be happy to have you at one too, you know.
+
+Shizuha0a:I'm sure you'd get along with the humans up there these days.
+
+Yugi2a:Me, getting along with humans?
+
+Akyu3e:I've heard that the oni left the surface because the humans exhausted their goodwill with cowardly tactics.
+
+Akyu0a:But I'm sure something brought us together. If you ever happen to visit the surface...
+
+Yugi3d:Ha ha ha! Slow down there.
+
+Yugi1d:I'm not like Suika. I couldn't care less about the surface.
+
+Akyu2b:Really...?
+
+Yugi1c:Actually, I'm grateful to the Sage for laying out a noninterference pact.
+
+Yugi0a:Thanks to that, this is oni paradise. We make our own rules, and no one gets in our way.
+
+Yugi0b:At this point, why should I have anything to do the humans?
+
+Keine2a:So you're like Yamame and Kisume—you expect nothing from the surface at all.
+
+Nazrin6b:That goes to show how deep a gulf both sides formed.
+
+Tewi0b:Looks like there's a black sheep among the oni who didn't give up on the humans though.
+
+Suika1b:Eh, you're not wrong.
+
+Yugi3b:Anyway, enough about that. Let's get back to the fight, huh? It's got me pumped like you wouldn't believe!
+
+Yugi1a:I wanna see what it took to get Suika's seal of approval.
+
+Yugi1f:Will you be able to stand up to this torrent of strength beyond understanding?!
+
+<end>
+
+<ChatID:9>---------------------------------------
+//勇儀スペカ１撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Yugi3a:Well, I like what I see!
+
+Ichirin1a:I was expecting pure brute strength from her, but she uses some pretty bizarre techniques, huh?
+
+Remilia1a:If vampires are considered a type of oni, of course she'd be capable of that much.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Yugi1g:Lame. Where's the fun in a fight where one side just runs away?
+
+Hatate6a:What do expect us to do? We can't exactly deal with that incomprehensible strength of your head-on, you know.
+
+Minoriko2a:I can see why they call you one of the Four Devas of the Mountain.
+
+</Cond>
+
+Suika3d:C'mon, you girls are in fine shape. Why don't you show Yuugi the power of the surface?
+
+Yugi1c:Sounds like you really like these surface folk, Suika.
+
+Yugi0b:You planning on spending the rest of your life up there?
+
+Suika3a:...Yeah. I did miss you girls, but the surface is where I feel the most at home.
+
+Suika3b:You probably didn't know this, but humans these days are WAY more fun.
+
+Yugi4a:Wow, you haven't given up on relations with humans at all, huh?
+
+Suika6a:I mean, isn't that how it was supposed to be in the first place?
+
+Suika0a:I want to find out for sure whether there's more places for oni than just the Underworld.
+
+Kanako1d:Suika...
+
+Eirin0a:So she refuses to let her possibilities be constrained and insists on stepping outside.
+
+Kaguya0a:I mean, it's not like anything's stopping the oni here from doing the same thing.
+
+Kaguya3c:You're not trapped in, so why choose the boring life of staying indoors?
+
+Yugi1g:What, you're saying our lives are boring?
+
+Kaguya2c:Aren't they? The people on the surface are continuing to change. The humans you knew back then aren't the humans of today.
+
+Kaguya0a:Yet still, without even trying to know them, you're satisfied shutting yourselves up in this cave?
+
+Kaguya3c:With that attitude, you'll never discover the charms of the surface that Suika's talking about.
+
+Yugi1d:Are you tag-teaming with Suika to lecture me?
+
+Yugi3d:Ha ha ha! That's hilarious! You're right—I've never met anyone like you before!
+
+Yugi3b:Y'know what? Consider my interest piqued. Now I wanna talk with you girls!
+
+Kaguya1a:Is that a fact? Well, chatting happens to be right in my wheelhouse—
+
+Yugi3b:No, I mean talking with my fist.
+
+Yugi1c:Take a look at this, the Four Devas' Arcanum!
+
+<end>
+
+<ChatID:10>---------------------------------------
+//勇儀スペカ２撃破（クリア）
+
+Yugi3a:Nicely done!
+
+<Cond=(FIND_UNIT,Parsee_en,enemy,==,-1)>
+
+Youmu2b:We did it. We overcame a special move of one of the Four Devas!
+
+Yugi3e:You're pretty good! Not that I doubted you, of course.
+
+Marisa0a:I take it you've approved of us then?
+
+Cirno3a:Since we beat you, that means we're all Four Day-vuhs too, right?
+
+Momiji1a:Ah... Take a look at her sake dish, everyone!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Parsee_en,enemy,!=,-1)>
+
+Parsee0d:Ack! Yuugi!
+
+Youmu1c:We did it. We overcame a special move of one of the Four Devas!
+
+Yugi1a:You're pretty good! Not that I doubted you, of course.
+
+Marisa0a:I take it you've approved of us then?
+
+Cirno3a:Since we beat you, that means we're all Four Day-vuhs too, right?
+
+Parsee0d:Hmph, don't get cocky. Take a look at Yuugi's sake dish.
+
+</Cond>
+
+Sunny0d:You mean the one she's holding?
+
+Yugi2a:What about it? I'm not handing it over just 'cause you beat me. I was just keeping this for a post-workout refreshment.
+
+Mokou1c:Wait, she was holding that up during the whole fight without spilling any?!
+
+Kaguya3f:Ohoh. That would let you uphold your pride no matter who you fight. Very tasteful.
+
+Yugi3c:I gotta hand it to all of you. You really made that fight fun.
+
+Ichirin0a:So, since we won, could you answer some questions about the incident for us?
+
+Yugi3a:Of course. Oni never lie.
+
+Yugi0a:I think you said something about something happening on the surface?
+
+Aya0c:That's right. We're looking into some vengeful spirits that have been gushing forth from the Underworld.
+
+Yugi1b:Wait, vengeful spirits?
+
+Yukari1a:Goodness gracious. We can finally get down to brass tacks.
+
+Yukari0a:Let's take a moment to gather below and discuss our next move.
+
+<end>
+
+<ChatID:11>---------------------------------------
+//ADVB
+
+<BG=bg_talk_Chitei.png,fade=0,color=1,title=bg_Chitei,bgm=bgm_talk_ningyo>
+
+<Cond=(CHECK_FLAG,C52_PARSEE,==,1)>
+
+Parsee0a:...I wonder if those surface dwellers are still fighting.
+
+Parsee0c:I can't believe they could keep up with Yuugi like that. They're way stronger than I expected.
+
+<SE=se_talk_walk_outdoor01.ogg,wait=1>
+
+Parsee0d:...!
+
+Meiling4a:Phew, nothing like the feeling of fighting your heart out. 
+
+Nitori0a:Didn't the hashihime head down this way before? Oh, there she is now.
+
+Parsee0d:What, did you come here to see how beat up I was so you could bask in your own superiority? 
+
+Youmu2b:What? No? Actually, we worried that we might have overdone it. 
+
+Udonge4b:I could spare a few bandages or a little salve if you need it.
+
+Parsee0d:Just stop. I don't need your lip service. I'm sure you just think of me as a pain in the ass. 
+
+Udonge3a:Um, no...?
+
+</Cond>
+
+<Cond=(CHECK_FLAG,C52_PARSEE,==,0)>
+
+Meiling4a:Phew, nothing like the feeling of fighting your heart out. 
+
+Sho3b:Yuugi and Parsee too, you both performed splendidly.
+
+Parsee0d:...You didn't even fight me. You just ignored me and went after Yuugi. Don't talk like you know anything about me.
+
+Youmu2b:Sorry about that. We just wanted to resolve this as peacefully as possible...
+
+Udonge4b:Even so, there must've been some stray bullets. I could spare a few bandages or a little salve if you need it.
+
+Parsee0d:Just stop. I don't need your lip service. I'm sure you just think of me as a pain in the ass. 
+
+Udonge3a:Um, no...?
+
+</Cond>
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+Yugi3d:Ah ha ha, don't worry about her. She really is kinda a pain in the ass.
+
+Parsee0d:Excuse me, Yuugi? Didn't YOU drag me into that fight?
+
+Parsee0a:But despite that, as soon as the battle started, you got lost in the fight and just ignored me!
+
+Yugi1a:Sorry, my bad. That's just how skilled these surface humans were. 
+
+Suika3c:But I'm glad you got a chance to get in a solid fight for once.
+
+Yugi3e:Yup, I can't even remember the last time my blood boiled like that.
+
+Yugi0a:I never knew you surface folk had it in you to fight like that.
+
+Meiling5a:Hearing that from you makes me feel very accomplished. 
+
+Suwako3b:That was one fun festival. Why don't we do it again sometime?
+
+Suwako0a:If you ever come to the surface, we'll save a seat for you at our parties.
+
+Yugi1a:Thanks for the invitation, but I really am an Underworld oni at heart. I can't just leave like that.
+
+Yugi0a:But I do kinda want to know more about the surface now. I guess you were right, little lady.
+
+Kaguya3c:I'm pleased to hear it. I used to be the same way until recently, locking myself up in my mansion. 
+
+Yugi0b:You stayed in a mansion?
+
+Kaguya6a:Yes, I thought I knew all there was to know about the terrestrial realm just by gazing outside.
+
+Kaguya0a:But some charms only become apparent in person.
+
+Yugi5a:So you're saying holding up underground is just like locking yourself indoors...
+
+Yugi3b:Never thought of it like that. I like it! I'll swing by your place for drinks sometime.
+
+Kaguya3d:You'd be more than welcome to. From what I've seen of you so far, I'm sure you can hold your liquor.
+
+Tewi1c:Whoa, Princess! You have NO idea what hard drinkers oni are.
+
+Parsee2a:Careful, Yuugi. My gut's telling me this lady's bad news.
+
+<SE=se_talk_walk_outdoor01.ogg,wait=1>
+
+Ran6b:Sorry to interrupt, but may we have a word with you, Yuugi Hoshiguma? 
+
+Yukari0a:Tell us what you can about the incident, if you would.
+
+Yugi1a:Yukari Yakumo, huh. Sure, I'll tell you everything I know.
+
+Yugi0a:In fact, I should apologize. It was my bad not hearing you out first.
+
+Yukari1a:It doesn't bother me; I'm well aware of the propensities of the oni.
+
+Parsee0b:So, you were talking about vengeful spirits coming up from the Underworld?
+
+Suika6c:Yeah, they've been bubbling up from geysers along with hot spring water.
+
+Suika0a:So we thought we'd drop by the Palace of Earth Spirits, where they manage all that stuff.
+
+Yugi1g:Makes sense. I mean, it's their job. 
+
+Suwako1b:So let's cut to the chase—do you have any idea what could be causing this?
+
+Suwako0a:Like, has anything strange happened at the Palace of Earth Spirits?
+
+Yugi0a:Nothing comes to mind. They're pretty quiet over there.
+
+Yugi0b:Their master Satori never even sets foot outside. 
+
+Parsee0c:I've got nothing either. Pretty much all I've heard from Yuugi's visits was something about some dispute with the younger one. 
+
+Marisa1b:The younger one...?
+
+Yukari0b:Would that be Satori's younger sister, Koishi Komeiji? 
+
+Yugi5b:Oh yeah, that. But that's none of you girls' business. 
+
+Yukari0a:I'd like to hear it regardless. The Komeiji sisters are of personal interest to me. 
+
+Parsee0b:...Why not tell them? It's not like Satori was hiding it. She said it outright, didn't she? 
+
+Yugi1g:I guess so, yeah. And this might end up having something to do with the surface too.
+
+Yugi0a:...Koishi used to have the same mind reading power as Satori.
+
+Yugi0a:But I hear she sealed her own power away at some point.
+
+Reimu0e:Wait, really? She sealed her own power? 
+
+Yugi1g:Yeah. And in exchange she got the power of the unconscious.
+
+Yugi0b:When she uses that, other people lose track of her and she goes wherever she wants with no one noticing.
+
+Yugi4b:The flip side is that sometimes she doesn't know what she's doing either. 
+
+Marisa0d:So that's what Koishi's been dealing with...
+
+Nitori3e:Now that you mention it, she was popping in and out all over the place back when we met. 
+
+Alice1c:Maybe she wasn't in conscious control of herself when she came to the surface.
+
+Yugi2a:Wait, she actually went up as far as the surface?!
+
+Yukari0b:It's something I've been aware of. I won't be raising it as an issue.
+
+Parsee0a:Maybe that's why the residents of the Palace have been behaving so oddly.
+
+Parsee0a:Until a little while ago, they used to get along so well I was jealous. But I haven't seen the sisters together recently.
+
+Yukari1a:Thank you, this was a most enlightening conversation.
+
+Yugi3c:Sure thing. Let us know if something happens. 
+
+Reimu0a:We'd better get a move on. More spirits might be coming out as we speak. 
+
+Akyu3c:You're right. If only there was a shortcut we could take...
+
+Yugi1a:If you're in a hurry, you can take the back streets straight past the bridge.
+
+Yugi0a:They're a bit cramped, but it should take you straight to the Palace of Earth Spirits without running into any youkai.
+
+Keine6b:Understood. Thanks for your cooperation. 
+
+Murasa1b:Okay everybody, get ready to embark.
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+<single>
+
+Suika3c:...Guess I'll be headed out too. See you on the surface, Yuugi—
+
+</single>
+
+Yugi2a:Hold up a sec, Suika. 
+
+Suika3a:What's up?
+
+Yugi1a:Y'know, all those surface people are pretty decent.
+
+Yugi3e:You never write, so I'm glad to know you're living it up.
+
+Suika3d:Whoa, where'd this come from? I never knew you were the worrying type. 
+
+Yugi5a:Well, you've always had a thing for humans. I was afraid you'd get betrayed again or something.
+
+Yugi3b:Don't take your bonds with those people for granted.
+
+Suika6a:...Yeah, I won't. It'd be great if we could just stay like this.
+
+Suika5a:But you're coming to the surface next time, right? We'll all welcome you, you know. Not just Kaguya.
+
+Yugi3b:You betcha. I already promised, didn't I? 
+
+Reimu0g:Hey, Suika! Stop dawdling and get moving! 
+
+Suika2a:I'm coming, geez!
+
+<SE=se_talk_run.ogg,wait=1>
+
+Yugi1a:...And there she goes. Seeing an old friend really is a great feeling. 
+
+Parsee0a:Yeah, and it seemed like she was doing just fine.
+
+Yugi0b:Still, this whole mess with the spirits... It was sloppy of me not to notice something happening down here.
+
+Yugi4a:I can only hope they're capable of resolving this themselves...
+
+Parsee0a:Wait, don't tell me you're worried about some incident on the surface?
+
+Yugi1c:Well, yeah. Obviously we expect the surface dwellers to uphold their end of the agreement.
+
+Yugi0a:But it's a different story when we can't clean up our own messes.
+
+Parsee0d:Geez, do you have to declare that so boldly? Way to make me jealous.
+
+Parsee0c:But I agree, I don't want to owe these surface dwellers anything. 
+
+Yugi1a:You think so too, huh? Maybe we should pay the Palace of Earth Spirits a visit of our own.
+
+<hide=all>
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=0>
+
+Yamame0e:How about letting us in on that?
+
+</hide>
+
+Parsee0d:...!
+
+Yugi1c:I know you two...!
+
+<end>
+
+<ChatID:12>---------------------------------------
+//全滅時
+
+Parsee0a:...I know how this works. Even when you lose, you can just try again, right?
+
+Akyu2b:It... does work like that, yes. Why do you ask?
+
+Parsee0a:It's just not fair. Why don't WE get to retry when WE lose?
+
+Parsee0d:Is this the gulf between the surface and the Underworld?
+
+Murasa0d:That's a heck of a logical leap to make...
+
+Yugi2a:Either way, this outcome isn't remotely satisfying for me.
+
+Yugi1a:Come back and try again. I'll wait.
+
+<end>
+
+<ChatID:13>---------------------------------------
+//萃香初戦闘時
+
+Suika3a:I was kinda hoping for it, but I never thought we'd actually run into Yuugi down here.
+
+Yukari0a:You really do miss the Underworld oni, don't you?
+
+Suika3b:Well yeah, they're my buds. 'Course, that has nothing to do with the investigation.
+
+Suika3c:By the way, thanks for not saying anything when I came back up to the surface, Yukari. I appreciate it.
+
+Yukari1a:...What do you take me for?
+
+<end>
+
+<ChatID:14>---------------------------------------
+//輝夜初戦闘時
+
+Kaguya0a:I can't believe we ran into an oni right after we were talking about them. What are the odds?
+
+Eirin0e:Princess, you shouldn't get too close without taking stock of the situation.
+
+Tewi4b:Actually, you probably shouldn't get involved with these Underworld folks at all.
+
+Kaguya0a:After coming this far with the investigation? How dull.
+
+Kaguya0a:I want to try seeing these sealed youkai from closer up.
+
+Tewi4a:I just hope that curiosity doesn't get you stuck as crow food.
+
+<end>
+
+<ChatID:15>---------------------------------------
+//勇儀vs.霊夢
+
+Reimu2b:Welp, no surprise that we'd end up fighting an oni. Then again, I'm already used to Suika, so whatever.
+
+Reimu3a:Wait, you know Suika right? Could you... take her back?
+
+Yugi2a:What do you mean?
+
+Reimu0d:She's been staying at my shrine and freeloading. She's always drinking my alcohol or shooting danmaku.
+
+Yugi0a:Suika is staying with a human...? So there's someone who can be that relaxed around her...
+
+Yugi1a:Meaning you're no pushover yourself. Let's settle this.
+
+<end>
+
+<ChatID:16>---------------------------------------
+//勇儀vs.魔理沙
+
+Marisa0b:I can't believe a youkai picked a fight with us for such a dumb reason.
+
+Yugi0a:You don't like it? Well, that's humans for you.
+
+Marisa0a:Don't be stupid. This'll be just like when we play danmaku with Suika.
+
+Marisa1a:In the end, you're just some villager we're talking to for clues in the middle of the dungeon. We'll beat you and find out what you know!
+
+<end>
+
+<ChatID:17>---------------------------------------
+//勇儀vs.早苗さん
+
+Sanae0a:You're the first oni I've met other than Suika.
+
+Yugi1a:Oh? So do you people get along with Suika?
+
+Sanae0a:Sometimes she comes up Youkai Mountain to drink with Lady Kanako and Lady Suwako.
+
+Sanae5d:She even tries to offer me drinks, but...
+
+Yugi0a:...So she's really living it up on the surface then.
+
+Yugi1a:I kinda want to hear more about that. But after the fight!
+
+<end>
+
+<ChatID:18>---------------------------------------
+//勇儀vs.妖夢
+
+Youmu1a:She looks relaxed, but I can sense an incredible power!
+
+Youmu1b:And it's not just brute strength either, there's something mysterious behind her power...
+
+Yugi0a:You may not believe this, but back on the surface I used to be called Yuugi the Strong.
+
+Yugi1a:It's been a while, but maybe I should go on a good ol' fashioned tear!
+
+<end>
+
+<ChatID:19>---------------------------------------
+//勇儀vs.アリス
+
+Yugi2c:You look human enough, but you're a youkai, aren't you?
+
+Alice0a:Yes, I came here with Reimu and the rest to investigate the incident.
+
+Alice4a:I never imagined I'd end up fighting an oni like you though.
+
+Yugi0a:Ha ha ha! No need to lose your nerve over a little thing like that.
+
+Yugi1a:I know you surface youkai know how to lick humans' boots. Let's see what else you can do!
+
+<end>
+
+<ChatID:20>---------------------------------------
+//勇儀vs.萃香
+
+Yugi3a:A fight with Suika, huh? I've been itching for this!
+
+Suika3d:That makes two of us!
+
+Yugi3b:It's been a while since we fought. You'd better still be in top form.
+
+Suika3a:No need to worry. The folk on the surface are pretty good, you know.
+
+Suika6c:What about you? Are you gonna disappoint me?
+
+Yugi1a:In your dreams. Here's a reminder of the strength of an oni—the strength of a Deva!
+
+<end>
+
+<ChatID:21>---------------------------------------
+//勇儀vs.文
+
+Aya0a:Yuugi the Strong, of the Four Devas. Long time no see.
+
+Yugi2c:Hm? Oh, you're one of the crow tengu from the mountain.
+
+Yugi2b:You girls are always sticking your nose into other people's business. Are you here to give us a hard time now?
+
+Aya0c:We'd never take that attitude with the Underworld, let alone the oni.
+
+Aya1a:However, as a reporter I can't pass up a chance for an impartial coverage of the truth. May I humbly request a duel?
+
+<end>
+
+<ChatID:22>---------------------------------------
+//勇儀vs.椛
+
+Momiji3a:Your reputation precedes you, Yuugi the Strong, of the Four Devas.
+
+Yugi0a:You're one of the white wolf tengu, right?
+
+Yugi0a:How've the mountain youkai been these days? I hear you've really clamped down on things with us gone.
+
+Momiji0a:The tengu run the show, and it's a pretty tightly-run place now.
+
+Momiji0a:I don't know how you'd feel about it if you saw it, of course...
+
+Yugi0a:Do whatever you like up there, I don't care. What happens on the surface ain't our problem anymore.
+
+<end>
+
+<ChatID:23>---------------------------------------
+//勇儀vs.神奈子
+
+Kanako0a:So there were oni like this other than Suika.
+
+Yugi2b:You're no ordinary person, are you?
+
+Kanako0a:I'm the god of the mountain. The tengu and I have a relationship of coexistence.
+
+Yugi0a:A god coexisting with the tengu, huh? Sounds like things have been pretty interesting up there while we've been gone.
+
+Yugi1a:I guess they've seen the power of a god firsthand. So clearly I should, too!
+
+<end>
+
+<ChatID:24>---------------------------------------
+//勇儀vs.諏訪子
+
+Suwako0a:Heya. Yuugi of the Four Devas, was it?
+
+Yugi0b:A kid? No, I shouldn't judge you by your appearance.
+
+Suwako3a:I'm drinking buddies with Suika.
+
+Suwako3b:So, do you think we could drink together too?
+
+Yugi0a:Sure thing. If you're not a youkai, you'd be welcome down here anytime.
+
+Suwako0a:Great. I'll see if I can make time next time I'm down here on business.
+
+Yugi2b:Wait... Business?
+
+<end>
+
+<ChatID:25>---------------------------------------
+//勇儀vs.妹紅
+
+Mokou1a:One of the Four Devas of the Mountain? I couldn't ask for a better opponent. 
+
+Yugi0a:You look like a human at first glance, but I sense a strange power from you. Guess that's why you're so bold.
+
+Mokou1a:My body's just a bit tougher than normal.
+
+Mokou1a:Hit me with all you've got. I'm looking forward to seeing how far I can get against an oni.
+
+Yugi1a:You've got guts. Sure, let's find out!
+
+<end>
+
+<ChatID:26>---------------------------------------
+//勇儀vs.リグル
+
+Wriggle0a:I don't know much about all this, but the oni live down here because they like it, right?
+
+Yugi0a:Yeah, it's way more cozy than the surface.
+
+Yugi0a:The Underworld is the Underworld, and the surface is the surface. That's a kind of peace, ain't it?
+
+Wriggle0a:Maybe so, but...
+
+<end>
+
+<ChatID:27>---------------------------------------
+//勇儀vs.ルーミア
+
+Rumia0a:If you think about it, living in the Underworld doesn't seem so bad.
+
+Rumia0a:Wherever you go it's pitch black. I don't even need to use my power.
+
+Yugi2c:But what happens to you as a youkai, if you have nothing to do?
+
+Rumia0a:Good point. Okay, I don't like it so much here after all.
+
+<end>
+
+<ChatID:28>---------------------------------------
+//勇儀vs.小町
+
+Komachi1c:Hey there, chief. How's life in Old Hell treatin' ya?
+
+Yugi0b:A shinigami? It's not every day one of those shows up down here.
+
+Komachi0a:Yeah, ever since we "trimmed the fat" and moved hell I haven't had much occasion to swing by.
+
+Komachi0a:Give my regards to the other oni in the Old Capital too.
+
+<end>
+
+<ChatID:29>---------------------------------------
+//勇儀vs.幽々子
+
+Yuyuko0a:It's been quite some time since the oni abandoned the surface, hasn't it?
+
+Yugi2c:Oh, you're familiar with what happened?
+
+Yuyuko3c:I've heard stories... and promptly let them go in one ear and out the other.
+
+Yuyuko2a:I'm sure there's plenty more to it than I know.
+
+<end>
+
+<ChatID:30>---------------------------------------
+//勇儀vs.紫
+
+Yukari0a:It's been quite some time, Yuugi Hoshiguma. 
+
+Yugi0b:The Youkai Sage, huh? Never thought I'd see your face again.
+
+Yugi0a:It's real easy to live down here. Thanks for splitting us up like that. 
+
+Yukari0a:Hearing that makes it all worth it. But Suika seems to have a different opinion. 
+
+Yugi0b:Yeah, well, we're different people. You don't seem like the type to tell people how to live their lives.
+
+Yugi2c:We abandoned the surface. I've got no interest in goin' back.
+
+Yukari4a:...And I never expected you to, either. 
+
+<end>
+
+<ChatID:31>---------------------------------------
+//勇儀vs.藍
+
+Ran0a:Yuugi the Strong, one of the Four Devas of the Mountain. Your prowess stands out even among the oni.
+
+Yugi2b:Look who's talkin' all high and mighty. Are you supposed to be a nine-tailed fox?
+
+Yugi1a:It's not every day we get a chance to fight like this, so why not drop the good girl act and go wild? Give 'em a show.
+
+Ran0a:No offense, but I'll pass. That would deviate from acceptable shiki norms.
+
+<end>
+
+<ChatID:32>---------------------------------------
+//勇儀vs.レミリア
+
+Remilia1e:I am the vampire Remilia Scarlet, ruler of the night.
+
+Remilia1a:A mere deva like you could never hope to oppose a true monarch—
+
+Yugi2c:Hey, is it true vampires are a kind of oni?
+
+Remilia1c:Excuse me, don't interrupt when I'm making a cool speech!
+
+Remilia1e:But to answer your question, there was one time I burned myself when I picked up a freshly roasted bean.
+
+Yugi3b:Yup, that counts as an oni thing. Great, then I can expect some serious strength from you!
+
+<end>
+
+<ChatID:33>---------------------------------------
+//勇儀vs.ナズーリン
+
+Nazrin4a:Good grief, why'd we have to pick a fight with a big-shot like you?
+
+Nazrin6a:Then again, this has been happening pretty regularly ever since we started hanging out with Reimu.
+
+Yugi1a:What's wrong with a little thrill in life? You came all the way down here, so you might as well enjoy yourself!
+
+<end>
+
+<ChatID:34>---------------------------------------
+//勇儀vs.ミスティア
+
+Mystia3d:*whistle* Hum, hum, hum...
+
+Yugi2c:Are you... whistling? Or mimicking the sound of the wind?
+
+Mystia0a:Both. When I fight you, I can hear the whistle of the wilderness.
+
+Mystia1b:Aaat aaall tiiimes...
+
+Yugi2b:Okay... I don't get it, but we can start, right?
+
+<end>
+
+<ChatID:35>---------------------------------------
+//勇儀vs.レティ
+
+Letty0b:It seems Cirno isn't the only one to get so fired up at the drop of a hat.
+
+Yugi0a:Don't be so cold, I'm already hyped up for this.
+
+Yugi1a:And no matter what you say, you're still getting in on this the brawl!
+
+Letty1a:Good grief... Fine, I'll accept your challenge. 
+
+<end>
+
+<ChatID:36>---------------------------------------
+//勇儀vs.輝夜
+
+Kaguya0a:Ah, you're one of the oni I just recently heard about.
+
+Yugi0b:What'd you hear about us?
+
+Kaguya0a:That they could come to the surface whenever they want, but choose to stay cooped up in the depths of the earth instead.
+
+Kaguya0a:It might hold less weight coming from me, but that doesn't seem very—
+
+Yugi0a:I'm not in the mood to chat. Just fight me and entertain me already.
+
+Kaguya0a:How rude. I was still talking.
+
+<end>
+
+<ChatID:37>---------------------------------------
+//勇儀vs.永琳
+
+Eirin0a:According to Yukari, the agreement was created in recognition of the oni leaving the surface.
+
+Eirin0a:I presume the oni played a part in helping to establish a new order.
+
+Yugi0a:Bingo. Back then the Underworld was a lawless place, filled with all sorts of bad tempered folks.
+
+Yugi0a:I bet our choice to recognize this place as our home helped to bring everyone together more.
+
+Eirin0d:That's certainly one form of stability.
+
+<end>
+
+<ChatID:38>---------------------------------------
+//勇儀vs.美鈴
+
+Yugi3a:Ohoh. You've got some pretty cool moves.
+
+Meiling1b:It's kenpo and qigong. These techniques have 4000 years of history in the motherland!
+
+Meiling1a:It doesn't matter who or what I'm up against. My mind and techniques will triumph!
+
+Yugi3a:That's what I like to hear. Show me those techniques of yours.
+
+Yugi1a:Now I'm excited to see what wins a battle—power or skill!
+
+<end>
+
+<ChatID:39>---------------------------------------
+//パルスィvs.霊夢
+
+Parsee0a:A human shrine maiden, huh? I'll be feasting on your envy.
+
+Reimu4a:What envy? I don't have any.
+
+Parsee0a:Oh really now? Surely you've had something you wanted but couldn't have. Or someone you wished was there for you, but they weren't.
+
+Parsee0c:Come on, you've got to have SOMETHING.
+
+Reimu0d:...Nope. You're being a pain though, so prepare to be exterminated!
+
+<end>
+
+<ChatID:40>---------------------------------------
+//パルスィvs.魔理沙
+
+Parsee0a:You came all the way down here just to be food in my stomach? How strange you humans are.
+
+Parsee0c:Humans are creatures of angst. You never fail to find something to feel inferior or jealous over.
+
+Marisa0a:I dunno. Sure, we're like that―but that's why we stick together so much.
+
+Marisa1a:Just wanting things to be better won't make 'em that way. You gotta go out and swipe things for yourself! 
+
+<end>
+
+<ChatID:41>---------------------------------------
+//パルスィvs.早苗さん
+
+Sanae0a:I'm a shrine maiden, same as Reimu. So I'd better pull as much weight in this fight as she does...
+
+Parsee0a:Ah, you're conscious about someone else. Now there's an easy target.
+
+Parsee0c:Come, think back. Think of all the things she can do that you can't. Doesn't it make you jealous?
+
+Sanae1d:Okay, maybe I DO feel that way sometimes. Reimu never lets anything constrain her, and she shines so brightly...
+
+Parsee1a:Right, that's it. Why don't we nurture that feeling together!
+
+<end>
+
+<ChatID:42>---------------------------------------
+//パルスィvs.アリス
+
+Parsee0b:Ooh, I see you've got dolls with you. Perfect.
+
+Alice0a:How so?
+
+Parsee0c:Are you familiar with the ushi no toki mairi? It's a curse ritual that uses a doll.
+
+Parsee0a:You channel your jealousy into the doll and nail it to a tree.
+
+Shanghai0a:Shanghaaai...
+
+Alice2b:D... Don't worry, Shanghai. What I did was purely an experiment. I would never use you for that.
+
+<end>
+
+<ChatID:43>---------------------------------------
+//パルスィvs.咲夜
+
+Parsee0a:I can't believe a human would come to the Underworld. I see I'll be having my fill of jealousy and then some today.
+
+Sakuya0a:Unfortunately for you, I'm a head maid. Hence, I have no such feelings.
+
+Parsee0a:Actually, serving staff are more likely to have pent-up jealousy.
+
+Sakuya0a:I make it a point to air any grievances I have instead.
+
+<end>
+
+<ChatID:44>---------------------------------------
+//パルスィvs.秋姉妹
+
+Parsee0c:I can sense the seeds of jealousy within you both.
+
+Parsee0c:If you're practically sisters, surely you've envied each other at some point.
+
+Minoriko1b:Well, I do envy how elegant my sister's fall leaves are...
+
+Shizuha4a:And I envy how much more popular Minoriko is with humans than I am...
+
+Parsee0c:There, that's it. Let those feelings burn even hotter—
+
+Minoriko1a:But! I still think sweet potatoes are what autumn's all about!
+
+Shizuha1a:But! I still think fall leaves are what autumn's all about!
+
+Parsee0d:Their insistence triumphs over their jealousy?! These two really love being the center of attention!
+
+<end>
+
+<ChatID:45>---------------------------------------
+//パルスィvs.リリー
+
+Parsee0a:They even brought fairies? You seem innocent, but everyone hides a jealous heart...
+
+LilyW0a:No I don't!
+
+LilyW0a:Even when spring is sleeping, it isn't jealous of anything.
+
+LilyW0a:All it does is rest quietly until the next spring.
+
+Parsee0a:...Huh. I'm not sure how to respond to that.
+
+<end>
+
+<ChatID:46>---------------------------------------
+//パルスィvs.雛
+
+Hina0b:Envy, jealousy... Such emotions can become the source of misfortune.
+
+Parsee0a:Well, yeah. What can you do about it?
+
+Parsee0a:Envy is something that comes from within. Other people can't do a thing to stop it.
+
+Hina4a:I can at least be the one on the receiving end...
+
+<end>
+
+<ChatID:47>---------------------------------------
+//パルスィvs.聖輦船
+
+Murasa0c:A youkai of envy, huh? How are we supposed to deal with that?
+
+Ichirin0a:Akyu, are there any useful hashihime facts you can share with us?
+
+Akyu0a:Let's see... They make their targets go mad with jealousy and feed off of their lives falling apart.
+
+Akyu0a:I understand many humans fall prey to them since they're easy to talk to.
+
+Kosuzu3e:Making people go mad with jealousy and ruining their lives... I think I read a from the Outside World novel like that once.
+
+Kosuzu3e:All the romantic relationships got twisted up in knots and made things a big mess!
+
+Murasa2c:Why do you sound like you got a kick out of it?
+
+Ichirin0a:Anyway, jealousy is an emotion that everyone has.
+
+Ichirin0a:If she can manipulate that, then we all need to be careful not to let her provoke us.
+
+<end>
+
+<ChatID:48>---------------------------------------
+//パルスィvs.星
+
+Sho0b:You see the jealousy within others and make that your own power...
+
+Sho0c:Tell me, do you enjoy the suffering of others?
+
+Parsee0a:Hey, don't get me wrong. Not everyone who's envious is going to be suffering.
+
+Parsee0a:Jealousy is just an emotion. How someone handles it is their problem, not mine.
+
+Sho0b:So, in the end, whether it's fortune or misfortune is up to the individual and their intentions...
+
+<end>
+
+<ChatID:49>---------------------------------------
+//パルスィvs.てゐ
+
+Tewi0a:A hashihime, huh? I've heard rumors about you.
+
+Tewi3c:So how about it? I could sell you a hand-crafted Tewi-brand straw doll from the bamboo forest.
+
+Parsee0a:A straw doll from the surface...? But does it work? 
+
+Tewi3d:That depends on the user. I've tested it on my coworker though.
+
+Parsee0a:...I don't know who that is, but I feel sorry for them. 
+
+<end>
+
+<ChatID:50>---------------------------------------
+//パルスィvs.鈴仙
+
+Udonge4c:I can't believe she has the power of jealousy. I'd better not try to hold a straight conversation with her.
+
+Parsee0c:You may be putting up your guard, but I can tell you have a lot of seeds.
+
+Parsee0c:"Why only me? Why me at all?"
+
+Parsee0c:"Why does she have it so much easier than me...?"
+
+Udonge1b:Shut up! I needed an outlet to survive back then, okay?!
+
+<end>
+
+<ChatID:51>---------------------------------------
+//パルスィvs.フラン
+
+Flan0b:The jealousy youkai. Remi told me to be careful around you. 
+
+Parsee0b:Heheheh, caution doesn't do a thing against surging emotions.
+
+Parsee1a:You have them too, right? Aren't you jealous of your family...?
+
+Flan0e:Maybe I was, back when only Remi got to go outside.
+
+Flan3f:But now she'll even take me with her all the way to the moon!
+
+Parsee0d:The moon...? You're exaggerating, right?! 
+
+<end>
+
+<ChatID:52>---------------------------------------
+//パルスィvs.ルナサ
+
+Lunasa0a:The sound of envy... It's tempestuous, but not dark.
+
+Parsee1a:Of course it is. Who said it had to be dark?
+
+Parsee1a:Jealousy is ultimately born from the power of emotions. Why sink under the waves when you can ride them?
+
+Lunasa0a:But you've stretched the bowstrings of your own heart, nearly to the point of snapping.
+
+<end>
+
+<ChatID:53>---------------------------------------
+//パルスィvs.メルラン
+
+Parsee0a:...I bet you're the type of person who lives entirely in her own head.
+
+Merlin0a:Yup! Being happy isn't a contest.
+
+Merlin2a:But, well, I AM a little jealous of how Lunasa always dotes on Lyrica.
+
+Parsee0a:...Not a serious bone in your body. Must be happy inside that head of yours.
+
+<end>
+
+<ChatID:54>---------------------------------------
+//パルスィvs.リリカ
+
+Lyrica1b:Envy, huh? Sounds like a pain. I leave that kinda stuff for my sisters.
+
+Parsee0a:I'm sure you'd love to. I can read you like a book.
+
+Parsee0c:You're jealous of your sisters' popularity and skill.
+
+Lyrica1b:And that's why it's important to channel those feelings into healthy competitiveness!
+
+<end>
+
+<ChatID:55>---------------------------------------
+//パルスィvs.慧音
+
+Parsee0d:...MAN you make me jealous.
+
+Keine2b:What? Where did this come from?
+
+Keine0b:And how am I supposed to defend myself if you don't explain why? At least tell me if I touched a nerve or—
+
+Parsee0d:Don't make me talk about your voluptuous figure!
+
+Keine5a:My figure...?!
+
+<end>
+
+<ChatID:56>---------------------------------------
+//パルスィvs.小悪魔
+
+Parsee0a:That well-kept hair, that neat and tidy appearance... Must be nice having all that.
+
+Koakuma1a:Excuse me, I don't appreciate what you're suggesting!
+
+Parsee0d:...!
+
+Koakuma4a:I put a lot of effort into my clothes and hair, I'll have you know. I even look up recommended beauty regimens...
+
+Koakuma1a:You don't get to act all jealous when you haven't even tried putting in my level of work!
+
+Parsee2a:Wait, why do you have to get so mad about this?!
+
+<end>
+
+<ChatID:57>---------------------------------------
+//パルスィvs.パチュリー
+
+Patchouli4f:A youkai of envy. Perhaps a Persian who's been driven mad with jealousy?
+
+Parsee0c:Heh heh, you look as weak as it gets. Now there's someone worth inflaming.
+
+Parsee0a:Imagine, if only you had a body as tough as what other youkai have...
+
+Patchouli0c:I suppose that'd make it easier to read in dry weather.
+
+Parsee0a:Ah, I see. You don't care about comparing yourself to others to start with.
+
+<end>
+
+<ChatID:58>---------------------------------------
+//パルスィvs.エリー
+
+Parsee0a:Even youkai have hearts capable of jealousy.
+
+Elliy1a:Frankly, I'm SUPER jealous.
+
+Parsee0a:...Huh, you're pretty open about it.
+
+Elliy2a:I mean, Yuuka blows me off and spends all her time tending the flowers.
+
+Elliy1a:What if I hid among the flowers? Could I get some alone time with her then?
+
+Parsee0a:Hey, if you wanna ruin your life that way, be my guest. It'd empower me nicely.
+
+<end>
+
+<ChatID:59>---------------------------------------
+//パルスィvs.くるみ
+
+Kurumi4a:Jealousy, huh...? I guess I am a bit jealous.
+
+Kurumi4b:No one else is as picky with food as me, and Remilia's this great devil and all...
+
+Parsee0b:You should be more direct with your feelings.
+
+Parsee1a:Work yourself up until you want to tear the other person apart!
+
+<end>
+
+<ChatID:60>---------------------------------------
+//パルスィvs.はたて
+
+Hatate0a:An Underworld youkai, huh? Mind if I take your picture?
+
+Parsee0a:...What's that little box you got there?
+
+Hatate0a:Oh, this is a cell phone camera. I use it for thoughtography.
+
+Hatate0a:Sanae said it can also be used for telepathy, or sending mail.
+
+Parsee0c:Ooh, nice. If I had one of those, I could hear someone's voice anytime I wanted...
+
+Parsee0c:So can you only get them on the surface?
+
+Hatate0a:Hmm, I think you'd have to speak with the kappa.
+
+<end>
+
+<ChatID:61>---------------------------------------
+//パルスィvs.橙
+
+Chen2b:M-Miss Ran! This youkai has a scary look in her eyes!
+
+Parsee0a:Unbelievable. Relying on someone else? And you call yourself a youkai?
+
+Parsee0d:But you have this purity about you, that makes it hard to leave you alone no matter how useless you are. Ooh, it makes me so jealous!
+
+<end>
+
+<ChatID:62>---------------------------------------
+//パルスィvs.大チル
+
+Daiyosei4d:Oh no, the jealous person. What if she does something scary...?
+
+Cirno0a:Don't worry Dai, I'll protect you!
+
+Cirno5d:But what's a jello-sea?
+
+Daiyosei0c:It's that feeling when you really want what someone else has. 
+
+Cirno3a:Wow. You really know everything, Dai! 
+
+Daiyosei2c:Not at all! You're the one who's always reliable, Cirno...
+
+Parsee0d:After that whole display, there's only one thing I can say.
+
+Parsee2a:Cut it out before you make me jealous!
+
+<end>
+
+<ChatID:63>---------------------------------------
+//パルスィvs.ミスティア
+
+Mystia1b:An ambiguous relationship... Is that love? *whistle*
+
+Parsee0a:What's this song?
+
+Mystia3c:Howling Star. HowStar for short. It's an old story.
+
+Mystia3d:Even that jealous girl turns out positive!
+
+Parsee0d:...I don't get it, but I want a mic now.
+
+<end>
+
+<ChatID:64>---------------------------------------
+//パルスィvs.三月精
+
+Parsee0a:So you three fairies are fighting as one? 
+
+Sunny0a:That's right, the three of us are the Three Fairies of Light! 
+
+Star1b:We all share the same fate, whether it's hitting someone or taking a hit.
+
+Luna0a:Then why does it feel like you always have fewer injuries, Star...? 
+
+Parsee0a:Who are you to pal around in front of me when I'm over here by my lonesome?
+
+Parsee0d:I'll tear your bonds apart and make you separate units!
+
+<end>
+
+<ChatID:65>---------------------------------------
+//パルスィvs.プリバ
+
+Lyrica1b:Look out, sisters! It's that jealousy youkai!
+
+Merlin0a:Jealousy isn't happy at all!
+
+Lunasa0a:I wonder if my power could calm raging envy?
+
+Parsee0a:I don't know about all this sister stuff, but enjoy your noise while you can.
+
+Parsee0d:I'll ruin your music with jealousy too!
+
+<end>
+
+<ChatID:66>---------------------------------------
+//にとりvs.勇儀
+
+Nitori2a:Wow, I'm actually meeting Yuugi the Strong, of the Four Devas...
+
+Yugi1a:Oh, a kappa. Still living the easy life up on the mountain?
+
+Nitori2a:Um... Yes, ma'am! Nothing's changed at all!
+
+Yugi0a:Hey, no need to be so tense. It's not like I'm gonna come back to conquer the mountain.
+
+Yugi0a:Sounds like Suika's been enjoying herself anyway. Tell the tengu I said hi.
+
+Nitori2a:Yes, ma'am! I'll do that, ma'am!
+
+<end>
+
+<ChatID:67>---------------------------------------
+//味方行動終了時（ver.2.8.0追加）
+
+<Code=(move_view,368,240,6)>
+
+<Code=(demo_wait,35)>
+
+Kaguya1c:A bridge over a chasm, is it? What a splendid view.
+
+Tewi0a:Stopping to smell the flowers and great and all, but watch out, there's a whole city of oni down there.
+
+Udonge0a:Well, I doubt they could see us at this height.
+
+Suika0a:Oh, they can.
+
+Tewi1a:Seriously?!
+
+Suika1a:We've got good eyes. And if they spot a fun-looking gang like us, the whole town might come up to party.
+
+Akyu0a:...She's right. Be sure to not to pass above the chasm.
+
+Marisa0a:So I guess we gotta use the bridge so they don't see us from the Old Capital?
+
+<end>
+
+<ChatID:68>----------------------------------------
+//パルスィvs.まくら
+
+Makura3a:So this is the first encounter between Parsee and the others.
+
+Parsee3a:Shut up, you seductress!
+
+Makura0f:E-Excuse me?!
+
+Makura2b:I can't say that never happens in nightmares, but there's always a good reason...
+
+Parsee2a:Just look in a mirror! Your clothes are practically falling off, and look at that messy hair!
+
+Parsee1b:If that's not seduction, I don't know what is!
+
+Makura6b:I don't know what you're talking about. Certainly, it's sometimes necessary to open up someone's heart, but—
+
+Parsee0d:I knew it! If you thought you could fool me with that sleepyhead act, you've got another thing coming!
+
+Makura0f:...It's actually a little reassuring to know you've always been like this.
+
+<end>
+
+<ChatID:69>----------------------------------------
+//パルスィvs.メーコ
+
+Parsee1b:...I'm jealous of that fluffy hair you've got.
+
+Meko0e:Huh? Really?!
+
+Parsee3a:What's with that reaction?
+
+Meko0g:It's so frizzy, and it's awful when it gets wet, so no one's ever been jealous of me before...
+
+Meko4g:But hearing you say that really makes me feel better about it, deep down!
+
+Parsee2a:Hmph, I hate people who go around flaunting how positive they are!
+
+<end>
+
+<ChatID:70>----------------------------------------
+//勇儀vs.まくら
+
+Yugi1a:Hey you, the one in the blanket! Wanna drink?
+
+Makura0f:Sorry, but I get sleepy when I drink.
+
+Makura3a:But you're the same as ever, Yuugi.
+
+Yugi2b:The... same? You know me?
+
+Yugi1b:Wait, did we have a drink together somewhere or something?
+
+Makura3b:Don't worry, there's no need to force yourself to remember.
+
+Yugi3e:Gotcha. It's all good as long as we share a drink today!
+
+Makura6b:That's not what I meant...
+
+<end>
+
+<ChatID:71>----------------------------------------
+//勇儀vs.メーコ
+
+Meko1a:Yuugi the Strong, of the Four Devas...
+
+Yugi3a:You called?
+
+Meko0b:Uh-uh! I was just thinking how tough that title sounds...
+
+Yugi2a:C'mon now, don't chicken out now just cuz of a little thing like that.
+
+Yugi3e:If we're gonna fight, let's do this fair and square!
+
+Meko2c:Sheesh, I don't have much of a choice at this point!
+
+<end>
+
+<ChatID:73>----------------------------------------
+//勇儀vs.パルスィ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Yugi0b:Parsee? Why're on their side?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Parsee1b:Hmph, why do you think?
+
+Yugi2a:Huh?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Parsee3a:You treat me so coldly these days, I think you deserve this much.
+
+Yugi3b:I mean, couldn't you just come talk to me?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Parsee0d:Don't make me say it out loud!
+
+Yugi3c:Fine, I get, I get it. I'll be your partner as long as you like, so let's both have some fun.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Parsee5a:I wish you'd treat me like that when we're NOT fighting...
+
+</nomove>
+
+<end>
+
+<ChatID:74>----------------------------------------
+//パルスィvs.勇儀
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Parsee1b:Yuugi? Weren't you supposed to be fighting the humans?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Yugi1a:Yeah, I guess, but I wanted to do it with you too, Parsee.
+
+Parsee0b:Huh? With me?!
+
+Parsee5a:Wh-What's gotten into you? Surprising me with stuff like that...
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Yugi3c:Nothing wrong with, once in a while. Or am I in the way?
+
+Parsee2a:Don't make me say it out loud!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Yugi3b:Haha, that's more like it. Now let's have a fun one!
+
+</nomove>
+
+<end>
+
+<ChatID:75>----------------------------------------
+//勇儀vs.勇儀
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Yugi0b:What, a clone of me?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Yugi1c:What if I was?
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Yugi3b:If you're as strong as me, then great! We can have an even match!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Yugi1f:You know it! Then let's settle this!
+
+</nomove>
+
+<end>
+
+<ChatID:76>----------------------------------------
+//パルスィvs.パルスィ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Parsee3a:You're...
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Parsee1a:What, you jealous?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Parsee0a:...No. I figure you'd be misfortunate enough without anyone getting jealous of you.
+
+Parsee2a:But I've definitely suffered more than you!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Parsee3a:Hmph, humblebragging now?
+
+Parsee0d:There's no way I can be jealous of someone worse off than me!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Parsee2a:Now I'm jealous that you can be jealous of even me!
+
+</nomove>
+
+<end>
+
+<ChatID:77>----------------------------------------
+//
+
+<end>
+
+<ChatID:78>----------------------------------------
+//C52：パルスィvs.非想天則
+
+Tensoku0a:...
+
+Parsee1b:What is this thing? Big, kinda angular...
+
+Parsee2a:I bet it's real popular with the kids!
+
+Tensoku0a:...?!
+
+Parsee1a:And not just kids. Men and women, old and young, all over the map, I bet no one hates you.
+
+Parsee0d:Aw hell, I'm so jealous! Jealous of your very existence!
+
+<end>
+
+<ChatID:79>----------------------------------------
+//C52：勇儀vs.非想天則
+
+Yugi1c:Hey, big dude, wanna have a showndown?!
+
+Tensoku0a:...!
+
+Yugi0c:Betcha not many people can toe-to-toe with you, right?
+
+Yugi1f:Don't hold back! Think of me as a giant and gimme everything you've got!
+
+<end>

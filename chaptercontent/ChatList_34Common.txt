@@ -1,0 +1,1393 @@
+﻿○最終話「散りゆく花に捧ぐ
+
+========================================
+ChatID: Contents
+========================================
+ 0: 1PP
+ 1: Yukari spell 1
+ 2: Yukari spell 2
+ 3: Yukari spell 3
+ 4: Yukari spell 4
+ 5: Yukari spell 5
+ 6: clear
+ 7: ADVB
+ 8-38: battle vs. Yukari
+39: lose
+40-XX: battle vs. Ran or Chen
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+Yukari4b:What a loathsome, abhorrent youkai cherry tree... I really never wanted to see it again.
+
+Ran0b:Lady Yukari, about the seal... 
+
+Yukari4a:It looks like it won't be a problem. But thank you for letting me know. 
+
+Sakuya5b:It's the youkai fox from earlier. But who's that with her?
+
+Keine0a:That would be Yukari Yakumo, the great youkai they call a sage.
+
+Meiling0b:So that's her? I've heard about her before in rumors.
+
+Reimu0a:Took you long enough, Yukari. The party's already over. What do you want? 
+
+Nitori2a:Are you here to punish us for visiting the Underworld...? 
+
+Yukari4a:I heard from Ran that you trod on forbidden ground...
+
+Yukari0b:But that's not why I'm here at the moment.
+
+Hina0b:Then why? 
+
+Yukari0a:First of all, I applaud your efforts to stop the Saigyou Ayakashi.
+
+Yukari4c:Good work, Reimu. You managed to resolve this incident.
+
+Marisa3d:Oh come on, you show up to give us a pat on the back now? Gensokyo was in trouble—why didn't you lend a hand? 
+
+Yukari0a:Because I knew this would happen even if I didn't.
+
+Yukari1a:The Saigyou Ayakashi will scatter its petals, and return to sleep once more.
+
+Yukari0b:This accursed cherry tree will never reach full bloom.
+
+Minoriko4a:...And that means what, exactly? Why don't you spell it out for us already?
+
+Shizuha4a:So do you mean we were going to solve this even without you?
+
+Yukari1a:You can take it that way, if you like. Although I never imagined you'd gather such a crowd. 
+
+Alice2b:Now that you mention it, there ARE an awful lot of us. 
+
+Keine0a:Our previous adversaries, the Scarlet Devil Mansion and the Moriya Shrine, are both lending us a hand... 
+
+Aya0a:Before all this, I never imagined we'd be helping out the humans. 
+
+Yukari0a:My, how quickly the times can change.
+
+Yukari4a:In the old Gensokyo, it would have been unthinkable for humans and youkai to work alongside one another.
+
+Yukari0a:And yet here we are, with all of you standing side by side against an incident.
+
+Sakuya5b:Is that really what's going on? Personally, I'm not feeling the togetherness yet.
+
+Komachi0a:So why suddenly bring up all that ancient history?
+
+Yukari0b:My apologies, seeing this cherry blossom brought on a wave of nostalgia.
+
+Patchouli4d:...So are we done? Will you let us go home? 
+
+Yukari0b:That would have been fine, but I just changed my mind.
+
+Yukari1a:Let's keeping talking, just a bit longer.
+
+Sanae0b:Huh? 
+
+Yukari0a:I want you to pour all of the time you've spent into a single moment's danmaku display.
+
+Yukari1a:Show me what Gensokyo has become.
+
+Sunny4c:So when you say "talk", you really mean—?!
+
+Sho0b:I see. You propose a danmaku battle.
+
+Nazrin6a:The idea's got some flair to it, but that's still a pretty crazy way to hold a conversation.
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Keine2a:What should we do, Reimu? We have no reason to fight.
+
+Reimu5a:...
+
+Reimu0a:Now that you mention it, we've never really sat down for a good, long chat before.
+
+Daiyosei2c:Reimu?
+
+Reimu0a:Fine, Yukari. Let's talk, if that's what you want.
+
+Reimu0b:No matter how shady you seem to me, danmaku doesn't lie.
+
+Cirno5a:I dunno what's going on, but all we have to do is beat her, right? 
+
+Shizuha5a:Let's just consider this a celebration to welcome in the spring. 
+
+Mokou1a:If you want a fight, you'll get one. 
+
+Sanae0a:If she's really the Youkai Sage, we can't exactly back down.
+
+Sanae0a:Miss Shameimaru, Miss Inubashiri, will you please come with me?
+
+Momiji4b:Having come this far with you, I couldn't possibly leave now.
+
+Aya1a:The incident's over, so our duty to you is done, but...
+
+Aya6a:How often do we get to get violent with one of the big-shots? Might as well make the most of it!
+
+Reimu1a:Let's do it, Yukari. Try to keep this interesting!
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Elliy1b:What do we do?! There's no point at all to fighting her! 
+
+Marisa0b:...
+
+Marisa0a:Actually, I'm down with it.
+
+Luna4b:Marisa?
+
+Marisa2b:You think I'd just walk away when some big-shot waltzes in at the very last second and picks a fight?
+
+Marisa0a:If she wants to have a little chat then I'll face her head on.
+
+Alice0c:Well, I figured you'd say something like that. 
+
+Nitori1b:And of course we're all with you!
+
+Komachi1c:We were all in the same boat during this crisis. Of course I won't jump ship now.
+
+Sakuya0a:I believe my mistress can endure her lack of morning tea a little longer.
+
+Sakuya6a:And I AM a bit interested in what this youkai has to say, too.
+
+Patchouli4c:Good grief, did our cat catch some of Remi's curiosity? 
+
+Marisa1a:Let's do this, Yukari. My mini-hakkero is getting tired of waiting!
+
+</Cond>
+
+Yukari6a:Then let us chat until the cherry blossoms stop falling...
+
+Yukari6c:In honor of the season that's whirling by as we speak.
+
+<end>
+
+<ChatID:1>---------------------------------------
+//紫通常撃破
+
+Daiyosei2c:Look, the Saigyou Ayakashi is losing its petals!
+
+Yukari0a:You're quite strong. I can see how you managed to resolve this incident. 
+
+Keine0b:What, so you're fighting us to gauge our strength? 
+
+Yukari0a:I want you all to show me your current selves, the ones that managed to suppress this cherry tree.
+
+Yukari1a:In return, I'll tell you a story from long, long ago.
+
+Youmu0a:A... story? 
+
+Yukari4c:A story from when the girl sleeping beneath the Saigyou Ayakashi was still alive.
+
+Yukari1a:A fantastical tale about a girl entranced by the butterfly of death, and a certain youkai who met her.
+
+Yukari1a:A story that none have known... Until now.
+
+<end>
+
+<ChatID:2>---------------------------------------
+//「夢と現の呪撃破
+
+Yukari0b:It was over a millennium ago when a certain youkai met a certain girl, underneath the Saigyou Ayakashi's blossoms.
+
+Yukari4b:The girl had the power to call others to their deaths with but a word, and the smell of death drifted faintly about her.
+
+Yukari0b:At first, the youkai had no interest in this human she met by chance.
+
+Yukari0a:Yet as she came to know the girl, the youkai's feelings changed.
+
+Yukari1a:She decided to remain with this girl, whose deadly power blossomed ink-black, until her dying day.
+
+<end>
+
+<ChatID:3>---------------------------------------
+//「二重黒死蝶撃破（「人間と妖怪の境界発動）
+
+Yukari0b:Time passed, and as the girl grew, so too did her power grow stronger.
+
+Yukari4c:The power to call people to their deaths... Needless to say, it was quite dangerous.
+
+Yukari0b:The girl was feared by human and youkai alike, and naturally they avoided her.
+
+Yukari0a:However, that certain youkai never minded being with her.
+
+Yukari0a:They were of two different kinds, but even that division could not come between them.
+
+<end>
+
+<ChatID:4>---------------------------------------
+//「人間と妖怪の境界撃破（「生と死の境界発動）
+
+Yukari0b:Yet more time passed, many springs came and went...
+
+Yukari4b:The girl's power grew stronger still, and she became unable to control her own deadly poison.
+
+Yukari4b:Afraid of taking the lives of those she loved, the girl made a wish under a cherry tree.
+
+Yukari1a:The youkai was powerless to stop it.
+
+Yukari2a:And so, the girl crossed over the boundary forevermore.
+
+<end>
+
+<ChatID:5>---------------------------------------
+//「生と死の境界撃破（「弾幕結界発動）
+
+Yukari1a:It looks like the Saigyou Ayakashi is shedding its petals. Perhaps it looked just like this, back then.
+
+Sanae1a:What... what was that?
+
+Yukari1a:I told you, didn't I? I just want to talk.
+
+Yukari0b:Once the last petal falls, everything will be back to normal. Like waking up from a dream.
+
+Yukari0a:We're just killing time until then.
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Reimu0a:Look. I don't know what baggage you're carrying, and I don't care.
+
+Reimu1a:There's only one thing I'm gonna do: answer danmaku with danmaku.
+
+Yukari6a:I don't mind. That's certainly an answer fit for Gensokyo's barrier, the Hakurei Shrine Maiden.
+
+Yukari6b:Allow me to show you then. The limit you'll never surpass, the utmost form of danmaku.
+
+Yukari6c:In other words... Arcanum: Danmaku Barrier.
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Marisa0b:I don't know what you've got going on, so I don't have much I can say, but...
+
+Marisa1a:You've shown me some awesome danmaku, so let me answer in kind!
+
+Yukari1a:That's a fine answer, fit for an ordinary human.
+
+Yukari6b:Then, allow me to show you the utmost in danmaku. The limit of danmaku, itself formed from danmaku.
+
+Yukari6c:In other words... Arcanum: Danmaku Barrier.
+
+</Cond>
+
+<end>
+
+<ChatID:6>---------------------------------------
+//「弾幕結界撃破または逃げ切り
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1) || (LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Youmu3a:We beat her... 
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0) && (LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Youmu3a:We survived...
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Shizuha3a:And, look...
+
+<pause>
+
+Reimu3b:The Saigyou Ayakashi is losing its petals...
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Hina0a:And look...
+
+<pause>
+
+Marisa6b:The Saigyou Ayakashi is losing its petals...
+
+</Cond>
+
+<end>
+
+<ChatID:7>----------------------------------------
+//ADVB
+
+<Code=(demo_wait,48)>
+
+<MAP=10,FROM=白玉楼,TO=白玉楼,name=Netherworld,icon=0>
+
+<BG=*bg_talk_Meikai.png,fade=0,color=1,title=*bg_Meikai,bgm=bgm_talk_hiroshige>
+
+Luna4c:Ow ow ow... 
+
+Elliy1b:Is everyone okay?! 
+
+Komachi4b:I wish I could say I was, but I'm beat. 
+
+Sho0a:Can you stand, Nazrin? Here, take my hand. 
+
+Nazrin6a:...Thanks, Master. 
+
+Mokou3c:Guess it's finally over, then.
+
+Keine0b:Yes. The Saigyou Ayakashi has shed its petals, and we even got past Yukari Yakumo.
+
+Keine0a:With this, the incident is truly over, and spring should be returning to Gensokyo.
+
+Koakuma0a:That was an intense fight, all the way up to the very end.
+
+Nitori0a:But we all pulled through it by sticking together! 
+
+Elliy3a:So can we go home now? I need a vacation... 
+
+<hide=face>
+
+Ran0a:Good work, everyone. 
+
+</hide>
+
+Sunny0b:Huh, isn't that voice from...
+
+Chen4a:Miss Raaaan, my legs are all wobbly... 
+
+Ran0a:Hang in there, Chen, this won't take long.
+
+Momiji1a:You're the Youkai Sage's shiki!
+
+Mokou4a:You here for more? Even with your master already gone?
+
+Ran0a:Of course not. At the moment, I'm here to show my gratitude.
+
+Luna6a:Huh?! What for? 
+
+Marisa0b:After all that attitude before? What's with the change of heart? 
+
+Ran0a:Thank you for listening to Lady Yukari. I truly mean it.
+
+Ran3c:Oh yes, I also have a message for you regarding the Underworld affair.
+
+Kurumi4b:Is this going to be one of those "offers we can't refuse"?
+
+Chen3c:It's not that, Miss Yukari said she'd let that go!
+
+Ran0a:We've determined that your trespassing was unintentional.
+
+Ran0a:Furthermore, the fact that the barrier had weakened enough to let you through was the result of our own negligence.
+
+Ran3c:For these reasons, she said to let you off with a warning. This time.
+
+Star4a:Thank goodness... I don't know what we'd do if you said you were gonna punish us. 
+
+Hina4a:But we'll need to be more careful in the future. 
+
+Keine0b:Don't forget, I'm still planning to give you a lecture about it.
+
+Marisa4b:Ugh, way to end the fight on a downer.
+
+Reimu0f:Where'd Yukari get off to, anyway? 
+
+Ran0b:She went to talk to Lady Yuyuko. They're very dear friends, you know. 
+
+Reimu0e:Huh. I wonder...
+
+Cirno5b:So those two are buddies? 
+
+Patchouli4a:Would have been nice if she'd used that fact to help prevent this incident...
+
+Ran4b:Well, I must agree with you there. Even Lady Yuyuko would have been in danger had the seal on that tree broken.
+
+Ran0b:However, it seems Lady Yukari had realized that such an unwelcome outcome would not come to pass.
+
+Sakuya5b:So you rushed off in a hurry to get her for nothing? 
+
+Ran4a:I can't deny that, but I was modestly worried.
+
+Ran3b:In any case, I've said what I needed to, so I'll be going now. Good work resolving the incident.
+
+Chen3c:Bye! See you guys later!
+
+<SE=se_talk_fly01.ogg,wait=1>
+
+<single>
+
+Reimu0a:And there they go.
+
+</single>
+
+Minoriko0a:I wasn't sure about them before, but after we got to chat with them they seem nice enough. 
+
+Marisa0a:Now that we've got spring back, maybe we should invite them over for a flower viewing party. 
+
+Alice0d:...It didn't sink in for me until you said that just now. It's really going to be spring soon. 
+
+Cirno3b:We'll be real busy attending flower viewings now, right Letty? 
+
+Letty0a:...Yes, you will. 
+
+Shizuha0b:So what's everyone going to do now? 
+
+LilyW1a:I'll be returning to Gensokyo to herald the spring.
+
+LilyW0a:The life sleeping within the earth should be waking up real soon!
+
+Meiling5a:We have to report this to the mistress right away! 
+
+Sakuya5b:We've been out all day, so I'm sure the mansion is a mess by now. 
+
+Hina0a:This worked out nicely for you, Miss Kochiya. You can deliver great news to Miss Yasaka and Miss Moriya now. 
+
+Sanae4a:Yes, I'm sure those two will be overjoyed.
+
+Sanae0a:Well then, Reimu, everyone, thank you for everything. And farewe―
+
+Marisa6b:What are you talking about? You're not getting away that easily. 
+
+Sanae0b:Huh? From what?
+
+Marisa6a:Don't you know? We have a rule around here in Gensokyo: "Resolved an incident? Throw a party."
+
+Marisa0a:This is one of the most important things newcomers like you need to learn.
+
+Aya3b:Goodness. If you're going to insist, then how can I say no? 
+
+Sho4a:If only Youmu were here to join in the festivities.
+
+Nazrin0a:If only, but she ran off as soon as the battle was over. What can you do, right? 
+
+Komachi1a:So is it gonna be at the shrine, then? 'Course I'll be coming too, regardless.
+
+Marisa0a:Yeah, and you better not be late!
+
+Reimu0a:...
+
+<MAP=10,FROM=白玉楼,TO=白玉楼,name=Hakugyokuro,icon=5>
+
+<BG=*bg_talk_Meikai.png,fade=1,color=1,title=*bg_Hakugyoku,bgm=bgm_talk_yozakura>
+
+Yuyuko2a:Hnn... five more minutes...
+
+Yukari0a:Good morning, Yuyuko. You slept in. 
+
+Yuyuko1b:...Yukari? And this is... Hakugyokuro?
+
+Yuyuko0a:Sheesh, if you were going to come wake me up today, you could've told me you'd be coming.
+
+Yukari4c:I don't want to hear that from the only person who sleeps in more than me.
+
+Yukari0a:Plus, the only reason I slept so long was because you delayed the spring.
+
+Yuyuko0a:Oh, so you knew about the Saigyou Ayakashi? 
+
+Yukari4c:Ran was in a total panic when she came to wake me. You should've seen it.
+
+Yukari0a:That's a dangerous youkai cherry tree. You must have been bored out of your mind if you were trying to unseal it.
+
+Yuyuko1a:Well, you know, it's hard to feel alive when you only get to experience the same old things day after day. 
+
+Yukari4c:If you were that bored, why didn't you come talk to me?
+
+Yukari1a:I'm sure I could come up with a thing or two to entertain you in a pinch.
+
+Yuyuko1b:But if I only ever did things you told me to do, that'd take all the fun out of it.
+
+Yuyuko1a:Knowing exactly how the game will play out makes it not much of a game.
+
+Yukari4c:Are my ideas for entertainment that boring?
+
+Yuyuko0a:...
+
+Yuyuko2a:I was so close. So close to seeing that unblooming cherry tree in full bloom.
+
+Yuyuko0a:And then I could have met that Fujimi girl who sleeps underneath it.
+
+Yukari5a:Mmm.
+
+Yuyuko2a:This is just what it says in the old records, but apparently she took her own life.
+
+Yuyuko0a:How could she throw her own life away like that? What a waste.
+
+Yukari4c:So what did you plan to do once you'd met her? 
+
+Yuyuko0a:Who knows? I didn't think that far ahead.
+
+Yuyuko1b:But... I would ask her what she was thinking, as she went to sleep under the cherry blossoms.
+
+Yukari5a:...
+
+<SE=se_talk_knock02.ogg,wait=1>
+
+Youmu0a:Pardon my intrusion. 
+
+<SE=se_talk_door_open01.ogg,wait=1>
+
+Yuyuko0a:Ah, Youmu. There you are.
+
+Youmu2b:Lady Yuyuko! You're already awake?
+
+Youmu0a:And Lady Yukari is here too?!
+
+Yukari5a:So I am. Though I was just about to leave. 
+
+Yuyuko1a:Oh, I don't mind if you stay a bit longer. 
+
+Yukari5a:I'd love to stay and catch up, but I suddenly feel like grabbing a breath of fresh air.
+
+Yukari0a:See you around, Yuyuko. I'll come visit again sometime.
+
+Yuyuko1a:Okay, see you later!
+
+<SE=se_sys_sukima01.ogg,wait=1>
+
+Youmu3a:I'm sorry, did I interrupt you? 
+
+Yuyuko0a:Don't worry about it, I can see Yukari any time I want.
+
+Yuyuko1a:More importantly, I woke up hungry. I want dinner soon.
+
+Youmu2b:U-Understood, I'll prepare it immediate―
+
+Youmu3a:...
+
+Yuyuko0a:What's wrong? You can't think of something to make? 
+
+Youmu3a:No, that's not it. Uh...
+
+Youmu3a:Lady Yuyuko, aren't you angry about what I did earlier?
+
+Yuyuko0a:Why would you think that? 
+
+Youmu3a:Even if it was to stop the Saigyou Ayakashi, I raised my sword against you.
+
+Youmu2a:My master would be ashamed to hear how the Gardener of Hakugyokuro―
+
+Yuyuko2a:You really surprised me back there! To think Youmu of all people wouldn't listen to me at all. 
+
+Youmu3a:I deeply apologize for that.
+
+Youmu0a:However, I cannot allow you to be exposed to danger.
+
+Youmu2a:So please, give up on the Saigyou Ayakashi.
+
+Yuyuko2a:Hmm... let me think about it.
+
+Yuyuko0a:Very well, I'll abandon the idea for now.
+
+Youmu2b:You will?
+
+Yuyuko1a:We went to all that trouble, and it still wouldn't bloom. I'm fed up with the whole thing now.
+
+Yuyuko2b:Plus, I don't want you to have to attack me with that scary, scary look on your face again.
+
+Youmu3a:Once again, my most sincere apologies...
+
+Yuyuko1b:...
+
+Yuyuko0a:Still, I have to hand it to you. That stern look was quite dashing, in a way!
+
+Youmu2b:...Eh?
+
+Yuyuko1a:So don't feel down. Just keep being yourself.
+
+Yuyuko0a:And most important of all, I'm still counting on you for dinner.
+
+Youmu1a:Yes! I'll put my heart and soul into it!
+
+<Code=(transition_out,c_black,20,0)>
+
+<Code=(demo_wait,30)>
+
+<MAP=10,FROM=白玉楼,TO=白玉楼,name=Saigyou Ayakashi,icon=0,fade=0>
+
+<BG=*bg_talk_Saigyo.png,fade=0,color=1,title=*bg_Saigyo>
+
+Reimu4a:Just like you said, there's not even a trace of it blooming anymore.
+
+Reimu0a:The Fujimi girl, and the youkai who met her, huh?
+
+Reimu5c:That story was about you, right, Yukari?
+
+Yukari0a:I'm surprised you were paying attention at all. 
+
+Reimu4a:That's kind of narcissistic of you, making us listen to you ramble about yourself.
+
+Yukari0a:Is there something the matter, Reimu? I would've figured you'd gone home by now. 
+
+Reimu0a:No, nothing much. I just had a hunch you'd be here.
+
+Reimu5c:So, what does "a certain youkai" need from me now?
+
+Yukari1a:I'm just here to enjoy the evening breeze. Do you plan to continue the conversation? 
+
+Reimu4a:I guess. I'm not really that interested in this whole Fujimi girl thing, but...
+
+Reimu0f:You really let her die right in front of you? I guess there are some things that even your powers can't handle.
+
+Yukari4c:I'm far from omnipotent. So far from it that I wasn't able to save a single human being when it counted...
+
+Reimu2b:I'm surprised you showed up at all then. You must hate the sight of this tree.
+
+Reimu0f:Someone else told me that when you live for long enough, it's easier to just forget things. Is that why?
+
+Yukari0b:No. I'll never forget anything.
+
+Yukari4a:What I felt back then, and the memories she left behind. I'll carry them with me.
+
+Reimu0f:So that's how you do it?
+
+Yukari4c:I'm unbearably greedy, after all.
+
+Yukari1a:I never like losing anything that has fallen within my boundaries.
+
+Reimu5a:I think I'm starting to understand why you do it. Why Gensokyo's administrator puts up with all the trouble her job gives her.
+
+Reimu0c:Well, I'll be going now. Hope my company wasn't a bother.
+
+Yukari1a:Yes, and thank you for safely resolving this incident.
+
+Yukari0a:I look forward to seeing what more you can accomplish, Reimu.
+
+Reimu5c:...See you.
+
+<SE=se_talk_fly01.ogg,wait=1>
+
+<single>
+
+Yukari0a:Perhaps she has a more sensitive side to her than I thought.
+
+Yukari1a:But those girls certainly did well. Soon, this tree will be completely bare.
+
+Yukari4a:...
+
+Yukari0b:Fujimi girl... the moment when the Saigyou Ayakashi fully blooms marks the border between your life and death.
+
+Yukari0b:The Saigyou Ayakashi's blossoms are sealed away, that you might find rest in Hakugyokuro, and by this a barrier is formed.
+
+Yukari4a:Should you wish it, you can leave behind the endless cycle of reincarnation, that you might never again suffer so.
+
+Yukari5a:...
+
+Yukari5a:When we met again, it was also under this tree.
+
+Yukari5a:You may not remember, but I'll never forget.
+
+Yukari5a:Even when we don't get along, I swear to remain by your side...
+
+Yukari0a:...Dearest Yuyuko.
+
+<Code=(transition_out,c_white,120,1)>
+
+<Code=(demo_wait,23)>
+
+<end>
+
+<ChatID:8>----------------------------------------
+//紫vs.霊夢
+
+Yukari0a:It's been a while, Reimu. Have you been well? 
+
+Reimu5a:...
+
+Yukari4c:Oh my, isn't that cold of you to just ignore me? 
+
+Reimu0f:Not really. I'm just saving it for the danmaku battle.
+
+Reimu0a:If you want to talk, then get started already.
+
+Yukari5a:Heh, well, if you're that curious about my story, you can just ask, you know?
+
+Yukari0a:I don't show it to just anyone, but I don't mind giving you a glimpse at what's beyond the multi-layered barrier―at an abyss of truth and danmaku...
+
+<end>
+
+<ChatID:9>----------------------------------------
+//紫vs.魔理沙
+
+Yukari0a:Allow me to thank you once again for resolving the incident, Miss Ordinary Magician.
+
+Yukari1a:I'm glad it was a normal human like you who stood side by side with Reimu.
+
+Marisa3c:The way you keep emphasizing "ordinary" and "normal" makes it feel like you're making fun of me.
+
+Yukari0a:I'm assessing you. Danmaku reveals one's true self. You're the very embodiment of that. 
+
+Marisa0b:So, can you only talk in riddles or something?
+
+Marisa0a:Though for a youkai who's lived so long, you sure seem pretty humanlike to me.
+
+Yukari1a:I'm the way I am because I get so invested in everything I have. I've never been good at letting things go.
+
+<end>
+
+<ChatID:10>----------------------------------------
+//紫vs.慧音
+
+Yukari0a:Summer, autumn, and now winter... You've been accompanying Reimu since the beginning. Your efforts do not go unappreciated.
+
+Yukari0a:So, what do you think? Could either Reimu or Marisa form the bridge for new human-youkai relations?
+
+Keine0a:...As merely one of their traveling companions, I'm not qualified to judge that.
+
+Keine0a:But, even over this short time, I've felt more at ease when they're around.
+
+Yukari1a:That's a very subjective evaluation. What I'd been hoping for was more of a historian's perspective.
+
+Keine0a:Whenever I'm with this group, I'm always especially careful about that.
+
+Keine0a:Knowledge is to be lent when needed, and history is to be framed impartially. Those are my duties.
+
+<end>
+
+<ChatID:11>----------------------------------------
+//紫vs.アリス
+
+Yukari0a:This is the first time we've talked like this, Miss Makai-born Former Human. 
+
+Alice2b:...! You know about me?
+
+Yukari0a:I could hardly fail to notice a half-baked youkai like you.
+
+Yukari1a:You've made your decision, yet you still carry all sort of baggage...
+
+Alice0a:...And what could that mean by that?
+
+Yukari0a:Just as it sounds. Though you have come to Gensokyo, your heart is unable to leave Makai behind.
+
+Yukari1a:If you intend to live as a youkai, then clinging like that will bring you nothing but trouble.
+
+Alice0a:...
+
+Yukari1a:Well, perhaps it's harsh of me to say all that to a fledgling youkai.
+
+Yukari0a:But, for your own sake, remember these words.
+
+<end>
+
+<ChatID:12>----------------------------------------
+//紫vs.にとり
+
+Yukari0a:You are Nitori Kawashiro, I believe. I know all about you.
+
+Nitori2a:Bwuh?! How do you know my name? 
+
+Yukari0a:You come and go so freely from that insular mountain society. That's more than enough to stand out.
+
+Yukari0a:Even among the kappa, you're considered quite the eccentric.
+
+Nitori0a:I'm just your average kappa. I was always interested in humans, but I really only had friends on the mountain. 
+
+Yukari0a:Then why do you find yourself among these humans?
+
+Nitori0a:It just turned out that way. Ever since I ran into Marisa, I got to make friends with everybody.
+
+Nitori1b:That lucky coincidence is something I cherish! I won't ever let go of the friendships I've found here!
+
+<end>
+
+<ChatID:13>----------------------------------------
+//紫vs.ルーミア
+
+Rumia0a:That's a pretty tree!
+
+Yukari0b:...You're certainly out of place here. However could a youkai like you have come to cooperate with Reimu?
+
+Rumia3a:Cooperate? I just do what I feel like.
+
+Yukari0a:She naturally makes allies, even with a mere youkai like you who follows the path of least resistance... Reimu is quite something.
+
+Rumia3a:You sound like you're looking down on me, but aren't you a youkai too?
+
+Yukari4c:...So I am. Sometimes I could almost forget.
+
+<end>
+
+<ChatID:14>----------------------------------------
+//紫vs.大妖精
+
+Daiyosei3b:...So this tree really called all those people to their deaths?
+
+Yukari0b:My. You're only a fairy, yet you can comprehend the concept of death for a human or a youkai?
+
+Yukari0a:Fairies are the very incarnation of nature. They are quite unlike other living things, both in their manner of formation and termination. And yet you understand...
+
+Daiyosei3b:I don't really get all that complicated stuff you just said, but...
+
+Daiyosei2a:But, well, I think it'd be really sad if someone went away and you never got to see them again!
+
+Yukari1a:How curious. But isn't that in essence the same as when a flower blooms only to wither?
+
+Daiyosei1a:It's not the same! I just... I'd just be really sad if somebody went away!
+
+<end>
+
+<ChatID:15>----------------------------------------
+//紫vs.チルノ
+
+Cirno4c:So what are you trying to pull here, anyway?
+
+Cirno0a:I've got a pretty full schedule now, y'know. I gotta go home and play with Dai and Letty.
+
+Yukari0a:Letty would be the winter youkai, correct? Then surely that would be impossible.
+
+Cirno5d:Why not? We're friends, so of course we're gonna play together.
+
+Yukari0b:So a fairy, a very incarnation of nature, can be oblivious to the motions of the seasons...
+
+Yukari0a:Perhaps you've become too powerful, too independent, and that has dimmed your perception of nature?
+
+Cirno5b:I've got no clue what any of that means, you know.
+
+Yukari4c:Or perhaps you're just dim in general.
+
+<end>
+
+<ChatID:16>----------------------------------------
+//紫vs.咲夜さん
+
+Yukari0a:I'm glad we had the chance to talk. I've been interested in you, too. 
+
+Sakuya5b:In myself? Whatever for?
+
+Yukari1a:Stranded in an unfamiliar land, in the clutches of a devil of all things. What a pitiable situation for a human...
+
+Yukari0a:What feelings motivate you to work? I've been wanting to ask you for a while now.
+
+Sakuya0a:Meeting the mistress was my fate. I plan to continue on in her service.
+
+Yukari0a:Even if that means you follow a narrow, winding path?
+
+Sakuya6a:Even if I must walk a tightrope as narrow as a single hair, I wouldn't hesitate to follow her.
+
+<end>
+
+<ChatID:17>----------------------------------------
+//紫vs.美鈴
+
+Yukari0a:You. You're the gatekeeper for that boisterous devil. What has happened since last summer's incident?
+
+Meiling0a:Why ask me?
+
+Yukari1a:A gate marks the boundary between inside and outside... As someone who stands on that border, you should have the most objective view of the mansion.
+
+Meiling0a:There are a lot of nice people in Gensokyo, and everyone in the mansion has been enjoying themselves.
+
+Meiling5a:The mistress and her sister do nothing but quarrel, but really, I'm pleasantly surprised they can even talk to each other now...
+
+Yukari1a:This is meant to be a paradise for youkai, so I'm gladdened to hear it's to your liking.
+
+Yukari0a:If possible, though, do try to keep any future rampages to a minimum. 
+
+Meiling5a:Well, that's up to the mistress to decide, not me.
+
+<end>
+
+<ChatID:18>----------------------------------------
+//紫vs.パチュリー
+
+Patchouli0c:So after being roped into resolving the incident, I have to deal with this strange old folk tale...
+
+Patchouli4c:I'm not too interested in oral tradition. Could you write it down in a book for me?
+
+Yukari1a:I'd prefer not to leave behind anything concrete. As long as it's in your mind, it should be sufficient. 
+
+Patchouli4a:If it's only in your mind, then that's not knowledge, that's just memories.
+
+Patchouli3a:Memories are fleeting. The true nature of knowledge is to be reliably preserved and built upon.
+
+<end>
+
+<ChatID:19>----------------------------------------
+//紫vs.小悪魔
+
+Yukari0b:I see that even a devil like you is taking part in these danmaku battles.
+
+Yukari0a:Could you have been forced into service by your master?
+
+Koakuma1a:No, I serve Lady Patchouli by my own free will!
+
+Koakuma0a:I may not be all that good at danmaku battles...
+
+Koakuma1a:But my battle takes place on the back lines, helping everyone out!
+
+<end>
+
+<ChatID:20>----------------------------------------
+//紫vs.エリー
+
+Yukari0a:I think I've seen you somewhere before... Oh, you're Yuuka Kazami's servant youkai. 
+
+Elliy0b:What do you know about Yuuka?
+
+Yukari0a:She's been in Gensokyo since ancient times. I suppose you could call her an acquaintance of mine.
+
+Yukari1a:Unlike me, she's quite a youkai-like youkai.
+
+Kurumi0b:You mean, like, strong and scary? 
+
+Yukari0a:Simple and lonely as can be, with a purpose in life just as clear. 
+
+Elliy1a:Lonely?! Yuuka's not alone! 
+
+Kurumi1a:Yeah, she's got us!
+
+<end>
+
+<ChatID:21>----------------------------------------
+//紫vs.くるみ
+
+<end>
+
+Yukari0a:Kurumi
+
+<end>
+
+<ChatID:22>----------------------------------------
+//紫vs.妹紅
+
+Mokou3c:...A story about humans and youkai, huh? Those never have happy endings.
+
+Yukari0b:You say that as though you speak from experience. Would that be due to that body of yours?
+
+Mokou0a:Yeah, live forever and you end up seeing a lot.
+
+Mokou3c:Even if you form a bond with someone, nothing remains in the end...
+
+Yukari1a:Why not simply give up on associating with humanity entirely, then? Surely that's one way to live.
+
+Mokou1a:...That does make a lot of sense, kind of.
+
+Mokou3b:But I'd still like to live my life as a human. For now, anyways.
+
+<end>
+
+<ChatID:23>----------------------------------------
+//紫vs.小町
+
+Komachi4b:Yeesh, just when we think the job's about done, you keep us here for unpaid overtime.
+
+Komachi3b:If you ask me, I just don't know why anyone would go against the cycle of reincarnation in the first place.
+
+Komachi0a:I've ferried countless souls in my time, but I've never thought anyone's death was a tragedy.
+
+Yukari0a:That would be because the people you meet are already dead.
+
+Yukari4c:The people of Higan don't know the sorrow of those left behind.
+
+Komachi0a:Well, by that logic you shouldn't be talking about it until you've died yourself.
+
+Komachi1c:Give it a shot. Who knows, you might like it!
+
+<end>
+
+<ChatID:24>----------------------------------------
+//紫vs.サニー
+
+<end>
+
+Yukari0a:Sunny
+
+<end>
+
+<ChatID:25>----------------------------------------
+//紫vs.ルナ
+
+<end>
+
+Yukari0a:Luna
+
+<end>
+
+<ChatID:26>----------------------------------------
+//紫vs.スター
+
+<end>
+
+Yukari0a:Star
+
+<end>
+
+<ChatID:27>----------------------------------------
+//紫vs.三妖精
+
+Luna1a:Sunny, we're up against a youkai big enough to get called their sage!
+
+Luna4c:We can't beat her! We need to run―
+
+Yukari1a:Oh my, even if you weren't so frightened, I wouldn't have bothered to face you directly.
+
+Yukari0a:There's no need to. After all, you're weak. So extremely weak.
+
+Sunny3a:...
+
+Yukari1a:However, I AM a bit interested in that mysterious ability of yours. Perhaps you could show me, briefly?
+
+Star4b:What should we do, Sunny? She asked us to, but... 
+
+Sunny0b:Hmph. If we just let her talk about us like this, it'd be a stain on the good name of the Three Fairies of Light.
+
+Sunny1a:Luna, Star, let's go! We'll show her our hidden potential!
+
+<end>
+
+<ChatID:28>----------------------------------------
+//紫vs.穣子
+
+Minoriko3b:Now that winter's over, we can finally prepare for autumn.
+
+Yukari0a:Winter has only just now passed, and your mind immediately turns to autumn? A bit single-minded, aren't we?
+
+Minoriko0a:Well, my identity as a god of autumn is very important to me...
+
+Minoriko3b:That's the image I try to put forward, anyway. Truth is, I've gotta start getting ready early for all the incoming prayers for a good harvest.
+
+Minoriko3a:The humans will all want a good crop for the coming autumn... I better fire myself up for another year on the job!
+
+<end>
+
+<ChatID:29>----------------------------------------
+//紫vs.静葉
+
+Shizuha1c:The scattering cherry blossom petals... I'm quite familiar with the profundity of scenes like this.
+
+Yukari0a:As one who governs demise, I imagine you feel the same way about the red leaves of autumn.
+
+Shizuha0a:A decline and then a stillness. This is something that will come calling for all living things in their own time.
+
+Shizuha1c:That's why we needn't mourn. The same goes for you too.
+
+Yukari1a:...So you take a dispassionate view of endings? I suppose that's fitting for someone so long-lived.
+
+<end>
+
+<ChatID:30>----------------------------------------
+//紫vs.雛
+
+Hina0a:...Once this investigation is over, I need to return to where I belong.
+
+Yukari0a:It must be difficult, being both a misfortune god and an ally of humanity. I'm sure your life is a lonely one.
+
+Hina0a:It's only natural for me to gather misfortune. I've never once regretted what I am.
+
+Hina3a:I'm satisfied with having been needed... Even if it's just this once, that's enough.
+
+Yukari1a:Do you really think these people here would be bothered by something as trivial as a little misfortune?
+
+Hina5a:...You're not wrong, which itself makes me worry about them.
+
+<end>
+
+<ChatID:31>----------------------------------------
+//紫vs.早苗さん
+
+Yukari0a:You're the newcomer to Youkai Mountain. This is the first I've laid eyes on you.
+
+Sanae0b:You know about us?
+
+Yukari0a:Naturally. Don't you realize how big of a commotion your arrival caused?
+
+Yukari0a:So how are you finding life over here? In the paradise you were prepared to die to reach?
+
+Sanae3b:...To be honest, I've often thought it's tough to live here. Even though I thought I was determined enough...
+
+Yukari1a:Since you regret it that much, I don't mind if you want to be sent back.
+
+Sanae4a:No, the people of the mountain, and Reimu, and the others... They've all accepted us. I can say this firmly now.
+
+Sanae1a:As the wind priestess of the Moriya Shrine... And along with Lady Yasaka and Lady Moriya... I live here, in Gensokyo!
+
+<end>
+
+<ChatID:32>----------------------------------------
+//紫vs.文
+
+Aya3a:Good afternoon, Miss Yukari Yakumo. What brings you here today? What exactly is the nature of your relationship with Miss Saigyouji of Hakugyokuro?
+
+Yukari4c:...You're one of the oldest youkai present, so could you perhaps consider acting like it?
+
+Yukari0a:To associate with humans and even help bear their burdens... Surely this tarnishes the proud name of the tengu?
+
+Aya3b:We don't need stuffy old pride like that. Always being one step ahead of the times is where the real fun is at. Makes for the best pictures too.
+
+Yukari0a:If you keep venturing out so cavalierly, you're liable to get yourself hurt someday.
+
+Aya7a:And that's exactly what I'm proud of―that I come home and write my articles, unscathed each time.
+
+<end>
+
+<ChatID:33>----------------------------------------
+//紫vs.椛
+
+Momiji2a:The great youkai, Yukari Yakumo. Will I be able to fight her while covering Lady Kochiya?
+
+Yukari0a:A mountain youkai, and a tengu at that, is worrying about a human? What an uncommon sight.
+
+Momiji0a:Lady Kochiya is a resident of the mountain, and we residents of the mountain help each other out. 
+
+Yukari0a:So that's the answer the mountain youkai have come to, in response to the shrine.
+
+Yukari1a:I can't imagine that kind of relationship will last much longer though...
+
+Momiji5a:That's for the higher-ups to decide. I wouldn't know.
+
+Momiji0a:For a tengu of my station, my role is to protect the people around me.
+
+<end>
+
+<ChatID:34>----------------------------------------
+//紫vs.レティ
+
+Letty0a:...Once this cherry tree loses its petals, the stalled seasons will start to move again. 
+
+Yukari0a:As a winter youkai, I'm sure this was an uncomfortable incident for you. 
+
+Letty0a:I've certainly been feeling under the weather, but resolving this was the natural thing to do.
+
+Letty0a:No one can be allowed to defy the cycle of the four seasons.
+
+Yukari1a:Indeed, I thought I considered it an uncrossable line as well...
+
+Yukari0a:Yet now that the time has come, I've let my feelings get the better of me. 
+
+<end>
+
+<ChatID:35>----------------------------------------
+//紫vs.リリー
+
+LilyW0a:The stolen spring is returning back to Gensokyo, little by little... 
+
+Yukari0a:And so the incident comes to a close, as the Saigyou Ayakashi's petals fall.
+
+Yukari0a:If you'd just waited quietly, you wouldn't have had to fight either.
+
+LilyW0b:I couldn't stand waiting.
+
+LilyW2a:I was constantly looking for spring non-stop. I dug through the snow day after day after day...
+
+LilyW0a:But right now I'm so happy I could burst! This is the greatest thing that's ever happened to me!
+
+<end>
+
+<ChatID:36>----------------------------------------
+//紫vs.ナズーリン
+
+Nazrin0b:A bond between humans and youkai, huh? Sounds like something she used to talk about all the time, back in the day...
+
+Nazrin0a:There's a bit of a qualitative difference between your touching story and the ideals she strived for though...
+
+Yukari0a:If that's what she spoke of, this acquaintance of yours must have been quite eccentric.
+
+Nazrin4a:That's for sure. Once you've lost your ideals though, there's nothing left but smoldering ashes.
+
+Yukari1a:You say that as though you've never shared her ideals.
+
+Nazrin3a:Well, I'm different from the rest of her gang. I'm just here to stand watch, it's my job.
+
+Yukari0a:Now that she's lost her ideals, what is there left for you to watch for?
+
+Nazrin3d:...Good question. Maybe I just want to have faith that there's something left under all those ashes.
+
+<end>
+
+<ChatID:37>----------------------------------------
+//紫vs.星
+
+Yukari0b:Time hasn't been kind to your sense of fashion, but you're quite the sharply-dressed youkai.
+
+Yukari0a:Which makes the fact that I've never noticed you before now almost strange enough to be called mysterious.
+
+Sho0b:...That would be because I've been in hiding. I've done nothing but run away all my life.
+
+Yukari0a:Is that so?
+
+Sho2a:Yes. Running from what I've done, and running from the gaze of the person I did it to...
+
+Sho0a:But now, I might be able to face them.
+
+Yukari0a:I believe we already know the limits of a youkai who has given up on life once before.
+
+Sho0b:You might be right, but I'm done running.
+
+<end>
+
+<ChatID:38>----------------------------------------
+//紫vs.妖夢
+
+Yukari0b:Just how did you come to be here with them, Youmu?
+
+Youmu2b:Lady Yukari!
+
+Yukari4a:If you'd been protecting Hakugyokuro, you should be laying unconscious somewhere right now.
+
+Yukari2a:And more than that, you turned your blade against Yuyuko.
+
+Youmu1a:...I had to. I thought that if I didn't stop the Saigyou Ayakashi, Lady Yuyuko would've been in danger.
+
+Youmu3a:There weren't any other options at the time.
+
+Yukari0b:The excuses of a child. On the off-chance that you had wounded her, what would you have done then?
+
+Yukari2a:As the guardian of Hakugyokuro, surely you can't call that the right course of action.
+
+Youmu2a:Whether it was right or wrong, I don't know...
+
+Youmu1a:I simply put my faith in myself and my sword. The truth is something you cut to!
+
+<end>
+
+<ChatID:39>----------------------------------------
+//全滅時
+
+Yukari1a:If this is all you have, then your story has concluded with a bad end.
+
+Yukari0a:On the other hand, nobody wants that...
+
+<end>
+
+<ChatID:40>----------------------------------------
+//
+
+And so spring came to Gensokyo.
+
+<end>
+
+<ChatID:41>----------------------------------------
+//紫vs.メーコ
+
+Yukari0d:Oh, an unfamiliar youkai.
+
+Meko0b:*gulp*
+
+Yukari1b:But I don't sense any divide between you and the others.
+
+Yukari0a:It seems you've seamlessly adapted to Gensokyo without me even noticing.
+
+Meko4c:Adapted? Me?
+
+Meko0a:I sure hope so.
+
+Yukari1a:At the very least, Gensokyo rejects nothing.
+
+Yukari0c:If that's truly what you wish for, then surely you've been accepted.
+
+Meko0h:...I'm not sure I get it, but it makes me happy to hear that.
+
+Yukari4c:Me too. Time is certainly passing in Gensokyo.
+
+<end>
+
+<ChatID:42>----------------------------------------
+//紫vs.まくら
+
+Yukari0d:It appears we have a visitor that not even I know.
+
+Makura0g:What do you mean by "visitor"?
+
+Yukari1a:Nothing in particular. Simply put, it's as if you've wandered in by accident.
+
+Yukari0a:While your body may exist in Gensokyo, your heart is still lost.
+
+Makura0f:With just a single glance, you saw through me that easily?
+
+Yukari1b:I've managed this place for a long, long time, and encountered all sorts of youkai.
+
+Yukari0d:But Gensokyo—
+
+Makura3a:Accepts everything. And that's a cruel, cruel, thing.
+
+Yukari0d:! I wonder, have we met somewhere before?
+
+Makura1c:In a sense yes, but in another sense no.
+
+Makura2a:I can't say I fully understand the meaning of your words yet, but...
+
+Yukari0c:...As long as you are making an effort to do so, you have my full support.
+
+Yukari1a:Now why don't you sit back and enjoy the danmaku, both mine and theirs?
+
+Makura3c:...I will.
+
+<end>
+
+<ChatID:43>----------------------------------------
+//紫vs.幽々子
+
+Yukari0d:Yuyuko?!
+
+Yukari0b:...No, you're her, but also not. You've come from somewhere far, far away.
+
+Yuyuko1b:Continue the story, Yukari. I want to hear more about the human and the youkai.
+
+Yukari4c:Has it piqued your interest then?
+
+Yuyuko3a:Oh, it has, but not to learn more about the past.
+
+Yukari0d:What do you―
+
+Yuyuko1a:Not for those two in the past, but for us living in the present.
+
+Yuyuko1c:I enjoy imagining their feelings. A game for just you and me.
+
+<end>
+
+<ChatID:44>----------------------------------------
+//紫vs.紫
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Yukari0a:Oh my, is that me?
+
+Yukari0a:If this isn't a dream, then maybe the Mirror Dimension? Time travel? Something similar, at least.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Yukari0a:You're not far from the correct answer. Would you like to hear it?
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Yukari0a:No, it doesn't matter. If you really are me, then you wouldn't disrupt this.
+
+Yukari0a:In that case, let's turn the conversation to you, my other self.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Yukari0a:I see... A dialogue with myself, is it?
+
+Yukari0a:This way, we can once again reconfirm what lies in our heart and our memory.
+
+</nomove>
+
+<end>
+
+<ChatID:45>----------------------------------------
+//藍vs.まくら
+
+Makura1a:You stand beside Yukari Yakumo herself. I sense a strong bond between master and servant.
+
+Makura0g:But for a youkai like you to deign to work beneath someone...
+
+Ran6a:It's because I know her strength.
+
+Makura1a:There are all kinds of strength. What kind are you speaking of?
+
+Ran6b:Her way of life and what's inside her heart.
+
+Ran6a:If you're going to make a home in Gensokyo, someday you'll understand too.
+
+<end>
+
+<ChatID:46>----------------------------------------
+//C34：紫vs.非想天則
+
+Tensoku0a:...
+
+Yukari0d:I can tell you're a new youkai, though it's less clear how you came to be.
+
+Yukari0a:But as long as you're standing here, you are deserving of a dialogue with me.
+
+Yukari1a:By all means, tell me what makes you you.
+
+<end>

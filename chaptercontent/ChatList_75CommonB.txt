@@ -1,0 +1,1150 @@
+﻿〇Bルート第75話「
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1 (unused)
+ 2: 1PP-2
+ 3: battle vs. Shitone
+ 4: Shitone spell 1 start
+ 5: Shitone spell 2 start
+ 6: Shitone spell 3 start
+ 7: Shitone spell 4 start
+ 8: Shitone spell 5 start
+ 9: battle vs. Final Shitone
+10: Shitone spell 6 start
+11: clear
+12: ADVB
+13: lose
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<BG=bg_talk_Mugen_Deep.png,fade=0,color=1,title=bg_Mugen_Deep,bgm=bgm_talk_aircraft01>
+
+Shitone0a:This presence... They're getting closer.
+
+Shitone0c:If they could fight off that many nightmares, this may be more trouble than I was expecting.
+
+Shitone0b:Still, how convenient of them to come directly into my domain.
+
+Shitone0a:This time for sure I'll expel the interlopers and take control of Makura's heart.
+
+Shitone0e:Right, and then my ideals... No, OUR ideals will come true.
+
+Shitone0a:An unchanging world, that could only be born in a dream...
+
+Shitone1b:A peaceful world, where you can relax and see nightmares...
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP-1（予備枠）
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP-2（出撃後）
+
+Reimu0f:...Guess we're here.
+
+Marisa1d:Yeah, these are the depths of the Dreamscape!
+
+Akyu1c:This is the second time we've been here, but it feels no less imposing.
+
+Suika6c:It's a fountain of power from all those gathered dreamspirits.
+
+Sho0b:Then the powerful aura from within must be...
+
+Eirin1b:There's no use hiding, show yourself!
+
+<hide=face>
+
+<nomove>
+
+<Code=(cursor_jump,736,304,1)>
+
+Shitone0f:Heheheh...
+
+</nomove>
+
+</hide>
+
+<pause>
+
+Shitone0a:Welcome to the depths of dreams.
+
+Cirno2b:There she is! The bad guy!
+
+Ran1b:An anomaly that shouldn't exist in this world...
+
+Yumeko5c:And the personification of Makura's old ideals...
+
+Makura1b:This ends here, Shitone!
+
+Shitone0f:Heh, I'm so glad you came to me.
+
+Shitone0a:A shame I couldn't dispose of the other useless hangers-on, though.
+
+Marisa1b:Even without her, we're more than enough.
+
+Mokou1b:Those nightmares you sent weren't exactly pushovers, but if you thought they could stop us you've got another thing coming.
+
+Aya1b:What kind of reporter would I be if I backed down from a little thing like that?
+
+Shitone0a:True enough, I didn't expect you to break through that swarm of nightmares.
+
+Shitone0c:I suppose the one I made to be their leader had shoddy craftsmanship.
+
+Orin1e:You mean Black Mehko. Even her name was lazy.
+
+Shitone0f:Heh, that was her name? Really?
+
+Shitone0a:All I care about is correcting Makura's mind.
+
+Shitone0e:I have nothing to gain from engaging with mere familiars OR fussy interlopers.
+
+Byakuren2a:I suppose you won't be listening to reason then.
+
+Reimu0d:It'd be a real pain if you tempted Makura into restarting the incident.
+
+Sanae1c:Your ambitions end here!
+
+Shitone0f:Oh my, what righteous wrath.
+
+Shitone0c:But you'll regret firing up your spirits and trespassing here.
+
+<pause>
+
+Momiji3a:...!
+
+Nitori2a:This many Devil Hisoutensokus?!
+
+Meko1d:Plus those huge sheep!
+
+Makura1c:...The Nightmare Core, the key to the Dream Incident.
+
+Makura2a:If she's able to manifest these countless nightmares...!
+
+Shitone0f:Ha ha ha! This is my power, the power of a true ruler!
+
+Shitone0a:All you riff-raff other than Makura will disappear here.
+
+Korin2c:With this lineup, it seems Shitone's serious about this too.
+
+Yukari1b:We were already aware that she has the home field advantage.
+
+Yukari2b:All we can do is steel ourselves and fight.
+
+Makura1c:...We cannot lose, for Gensokyo's tomorrow.
+
+Makura1b:This is it, Shitone!
+
+<end>
+
+<ChatID:3>----------------------------------------
+//シトネ初戦闘
+
+Momiji3c:We're entering the battlefield, don't let down your guard!
+
+Sakuya6a:Why don't we ask our uninvited guest to kindly leave?
+
+Toyohime1a:No matter how strong you are, you're nothing more than a bug, a coincidental error in the dream.
+
+Shitone0e:It was no coincidence. My existence was inevitable.
+
+Shitone0a:I was born from Makura's heart to stop her from fooling herself.
+
+Shitone0c:Not even she herself can deny that.
+
+Makura1c:...True, in our last battle I found myself shaken by your delusional words.
+
+Makura1b:But that won't work this time.
+
+Shitone0f:...Hmm, it seems something changed in you.
+
+Minoriko2c:That's 'cause we're with her!
+
+Meko1f:With everyone's help, we'll work through her worries one way or another!
+
+Shitone0e:I see... Then these interlopers really are nothing more than a bad influence on her.
+
+Shitone0d:I'll just have to remove you from the picture before you interfere anymore.
+
+<end>
+
+<ChatID:4>----------------------------------------
+//シトネ通常撃破
+
+Shitone0c:...This is getting troublesome.
+
+Meiling1a:The stronger our opponent, the more power we'll muster to stop you!
+
+Elliy1a:Basically, we're the protagonists!
+
+Hina1c:If you're going to make an enemy of Gensokyo, then you'll have to take on all of us here.
+
+Shitone0c:I see you still don't understand. This is all for the humans' sake, and for Makura's.
+
+Daiyosei4d:For... Makura?
+
+Shitone0e:Thanks to your coaxing, she's been doing nothing but spouting pleasant platitudes, but...
+
+Shitone0a:Her true desire is for an eternally unchanging world, where she will rule over humanity's dreams.
+
+Wriggle4a:Eh, you sure about that? I don't see it.
+
+Makura1c:...As always, I cannot accept your words as is.
+
+Makura1a:However, I learned from Mehko that I can't simply deny my past.
+
+Meko0e:Lady Makura...
+
+Shitone0e:Oh? So you understand me better now?
+
+Shitone0a:If you stop resisting, then we can do this without any needless suffering.
+
+Makura1a:No. What I'm seeking is a different way.
+
+Shitone0c:What...?
+
+Makura1c:If I'm to correct my past mistakes, I don't need to discard everything.
+
+Makura2a:I'd like to hear your words once more, and reach my own conclusion.
+
+Shitone0f:Heh. What was I expecting? This is more sophistry.
+
+Shitone0a:You're just moving the goal posts because you can't deny what I'm saying.
+
+Makura1c:You can take it that way if you like, but I think our danmaku will speak for itself.
+
+Makura1b:And beyond that, we'll find a new answer.
+
+Shitone0a:Very well, I'll invade your heart if you insist.
+
+Shitone0c:First, recall your feelings towards humanity.
+
+Shitone1b:The scale of your devoted affection, as well as the inexpressible misery!
+
+<end>
+
+<ChatID:5>----------------------------------------
+//シトネスペル１突破
+
+Tewi2a:Ugh, what a gross spell.
+
+LilyW3a:Is this someone's suffering...?
+
+Makura1b:It's the former human heart, tormented by anxiety.
+
+Makura2a:I did everything I could to save them, but...
+
+Hina4a:In an age where they rejected the reality of dreams, your power couldn't reach them.
+
+Shitone1c:Right. No matter how much you wished to save them, no one wanted that.
+
+Shitone1a:Having even your existence unacknowledged is so very, very painful.
+
+Makura1c:...True, I wished for a response from them.
+
+Makura0d:I loved their relieved faces once I took their nightmares from them...
+
+Makura0a:And in turn, the smiles they turned towards me supported me like nothing else.
+
+Shinki5a:Makura...
+
+Shitone0f:Exactly! That feeling itself is your origin!
+
+Shitone0a:And to keep fulfilling it, the human heart must be dyed in our colors.
+
+Makura1b:No, I can't accept that.
+
+Shitone1c:And why not...?
+
+Makura1c:I certainly agree that I could restore that relationship with the humans of Gensokyo.
+
+Makura2a:But to bind their hearts for that purpose would twist their natures.
+
+Shitone1c:Ha. And here I thought you'd finally opened up. Once again, you raise my hopes only to dash them.
+
+Makura1c:I want to reflect on the past and then find a new way.
+
+Makura1a:And more importantly, I've learned in this dream journey that these people are preserving the human heart in their own carefree way.
+
+Meko1e:Lady Makura!
+
+Shitone1c:Tepid. Wishy-washy. With a half-hearted attitude like that, you can protect nothing.
+
+Shitone1a:I'll have to teach you that you're only bringing yourself the same suffering as before.
+
+Youmu1c:Something's coming!
+
+Shitone1c:The dream-denier, the people-changer, the abominable Science that stole our happiness!
+
+Shitone1b:Experience it once again, and break once again!
+
+<end>
+
+<ChatID:6>----------------------------------------
+//シトネスペル２突破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Merlin3d:We got her!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Merlin3d:We got through it!
+
+</Cond>
+
+Tensoku0a:...!
+
+Nitori4d:That's right, Hisoutensoku! We won't let her make science out to be the bad guy!
+
+Shitone1a:Heh, you may have withstood my spell, but...
+
+Makura1c:...
+
+Shitone0f:So how was it, Makura? It must have been hard to bear.
+
+Shitone0a:So far you've been acting enlightened, so you won't bind the human heart and whatnot, but...
+
+Shitone0b:Can you still say the same after vividly recalling the dangers of science?
+
+Makura1c:...You're right, I can't say I'm totally without anxiety.
+
+Sanae3b:Makura...
+
+Makura1c:Living alongside science and machines will surely change the human heart.
+
+Makura0a:And the best way to prevent that would be to reject it completely from the start.
+
+Shitone0f:Heh, I guess you're starting to understand!
+
+Shitone0a:In which case we should expel the despicable science-lovers from our paradise.
+
+Makura1c:Even so, I don't want to resort to eliminating them.
+
+Shitone1c:What...?
+
+Makura1c:What science is, is up to the people using it.
+
+Makura1b:On this journey, I've touched the hearts of Nitori and Utsuho, and they were beautiful.
+
+Shitone1c:Moved by sentiment, are we? Then how do you plan to protect the human heart?
+
+Makura1c:I'll continue to teach the importance of dreams and gather more sympathizers.
+
+Makura0a:Excluding what you don't want doesn't have to be the only way.
+
+Makura1a:We can also have a clash of ideas, leading to mutual acceptance.
+
+Shitone1c:Seriously...?
+
+Momiji4c:True, it's not like clashing value systems are rare here.
+
+Kanako0d:Indeed. Differences in faith are the most extreme example, but even minor ones.
+
+Akyu3a:We may have different ways of life or species, but we faced each other head on.
+
+Makura0h:Right... This land accepts diversity.
+
+Makura0a:In Gensokyo, it's okay for everyone to freely hold their own values.
+
+Makura1c:Why should I be the only exception?
+
+Shitone1c:Hmph, getting so worked up over something so ambiguous...
+
+Shitone1a:Moreover, the idea of you going around teaching this idea is so ridiculous it's laughable.
+
+Shitone1b:When we both know you couldn't even appear before humans back then!
+
+Makura2a:...!
+
+Shitone0g:That's right. Abandoned, hurt, wandering without purpose...
+
+Shitone1b:Allow me to expose the fear etched into your very being!
+
+<end>
+
+<ChatID:7>----------------------------------------
+//シトネスペル３突破
+
+Elliy3b:Good job, girls!
+
+Kurumi3b:We broke this spell too!
+
+Daiyosei2a:But that WAS kinda scary...
+
+Shitone1b:Wasn't it? This is the fear of humans that's taken root inside her.
+
+Koakuma5b:She's... afraid of them?
+
+Shitone0g:Betrayed by the beings she loved most, doomed to wander in misery...
+
+Shitone1a:Which is why even when it seemed she'd make contact again she'd freeze up, covered in goosebumps.
+
+Shitone1c:"Surely I'll be betrayed again." She feared and feared until she couldn't bear it.
+
+Makura2b:I...!
+
+Makura2a:I-It may be true that somewhere inside me lurks a fear of humanity.
+
+Makura1b:But I can overcome it, I know I can!
+
+Shitone1b:But how? Did this dream journey or whatever teach you anything about that?
+
+Makura2a:...
+
+Shitone0f:Ha, I guess there's my answer.
+
+Shitone0a:That's what you get for starting from the conclusion. You can't even make up an answer on the fly.
+
+Shitone1b:No doubt that weakness of yours fills those around you with despair too.
+
+Makura2b:Just stop this!
+
+Meko0g:Lady Makura...
+
+Shitone0f:Ah ha ha ha ha! And you finally raise your voice!
+
+Shitone0a:That's right, no matter how much you appeal to logic or reason, you'll never erase your emotional scars!
+
+Shitone1b:The only way to do that is to give in to me!
+
+Iku1c:Are you quite sure about that?
+
+Shitone0c:What...?
+
+Tenshi4a:Everyone has times where nothing works out no matter what you try.
+
+Yuka3c:If you thought you'd win with that meager amount of verbal abuse, you'll have to try harder.
+
+Shitone1c:Stay out of this, interlopers. This doesn't concern you.
+
+Meiling1a:We're not interlopers, we're her friends! Why the heck would we stay quiet?!
+
+Suika3d:Anyway, it's not like we don't get her feelings too.
+
+Makura0e:You do...?
+
+Suika1a:It hurts real bad to get betrayed by someone you're into. I've been there.
+
+Koishi6c:Love and hate are two side of the same coin!
+
+Flan3d:The scale's a little different, but I know that feeling.
+
+Yumeko3c:In other words, you're not alone.
+
+Shinki0c:We can't replace that relationship, but we'll always be on your side.
+
+Makura3a:...Thank you, everyone.
+
+Makura0a:I still don't know a way to remove the fear of humans that's taken root in my heart.
+
+Makura3c:But I believe that as long as I'm with you all, we can find it together.
+
+Yugi3e:Alright! That's more like it!
+
+Yorihime0b:Who'd give up before even trying?
+
+Shitone0c:...
+
+Shitone0g:(I was finally getting through to her when these interlopers had to butt in.)
+
+Shitone1c:(Did she really change because she was with them...?)
+
+Satori0c:Oh, I see you've finally taken an interest in us.
+
+Shitone1a:Yes, I've had enough of your endless yammering.
+
+Shitone1b:I'll stop trying to get your consent. All I need to do is erase you with the overwhelming power of dreams!
+
+<end>
+
+<ChatID:8>----------------------------------------
+//シトネスペル４撃破
+
+Shitone1c:To think you'd last this long...
+
+Chen3a:It was tough, but we made it!
+
+Komachi3a:Using brute force danmaku? She really doesn't care about appearances anymore, does she?
+
+Kosuzu0c:But whether in danmaku or a battle of words, we're never gonna lose!
+
+Makura3a:Indeed. Exhaustion should be setting in, but if anything I feel even more energized.
+
+Makura1a:I'm beginning to see how we can overcome Shitone too.
+
+Yuyuko1a:Perhaps because you've calmed down and see your surroundings more clearly?
+
+Makura3a:Exactly. It's all thanks to what I've learned on this trip, but...
+
+Makura3c:It's strange. Somehow I feel like everything leading up to this has been connected.
+
+Eirin1a:That must be because you've stopped denying it.
+
+Eirin0a:Until recently, you've put a distance between yourself and the world.
+
+Eirin3c:But now you've recognized yourself as a part of Gensokyo.
+
+Yukari1a:With that, you've obtained a guideline of sorts to living here.
+
+Yukari0a:And that truth is that no matter how uncertain the future may be, you will be supported.
+
+Makura0h:...Yes, it's very reassuring.
+
+Makura3c:Knowing that all of Gensokyo will have my back.
+
+Shitone0g:...
+
+Yamame1d:Baku got your tongue? You've been awfully quiet for someone who wouldn't shut up before.
+
+Letty1d:Ran out of comebacks after seeing the strength of Makura's determination?
+
+Shitone1b:No... the opposite. I'm just dumbfounded by how foolish this all is.
+
+Shitone1a:No matter. Those who are content with the status quo have always been my greatest obstacle.
+
+Shitone1c:Which is why I'll remove them, no matter what it takes.
+
+<pause>
+
+Sunny4c:Gah, that's...?!
+
+Ran1b:It's the trick Makura used before! The power of dreams is converging on her!
+
+Parsee0d:But it's even crazier than last time!
+
+Shitone1c:Heh, naturally.
+
+Shitone1a:Unlike the Dreamscape, this place is composed ENTIRELY of dreams.
+
+Shitone1b:Binding all its power together is no different from housing a world inside me.
+
+Eirin2a:Do you plan to absorb even spacetime itself?!
+
+Shitone1b:Why wouldn't I?! Even the last traces of your journey itself, everything!
+
+<pause>
+
+Keine2a:Ugh, this pressure!
+
+Youmu1c:Her aura is expanding to cover the entire area!
+
+Udonge2b:Are you kidding me, she seriously absorbed an entire world?!
+
+Toyohime2a:How could such a vast amount of information fit into a single body...?
+
+Tewi4a:Guess with no future ahead of her, she's gotten desperate.
+
+ShitoneF0a:What are you talking about? I've never had a future from the start.
+
+ShitoneF0a:Without me, the ideals and beliefs Makura held would be...
+
+ShitoneF1a:Tossed aside and lost forever.
+
+Makura2a:...!
+
+Makura1b:That's right, you're...
+
+Korin1c:Sorry, but I don't think this is the time to talk. Her spiritual pressure broke the meter!
+
+Kisume2a:How are we supposed to go against something like that?!
+
+Meko1f:Even so!
+
+<pause>
+
+Alice1a:Mehko...?
+
+Meko1e:No matter how bad it gets, when we're all together you always get that last burst of power you need.
+
+Meko1d:Which is how I know we can do it, even now!
+
+Orin5b:Sheesh, again with that weird confidence.
+
+Nazrin3a:But I've got to agree.
+
+Sho1c:Every step of our journey so far has been proof of that!
+
+Makura1c:...Right. When all of Gensokyo comes together, anything is possible.
+
+Makura1b:And with that in mind, I can do this too!
+
+<pause>
+
+ShitoneF2a:...!
+
+ShitoneF1b:You plan to gather the power of the Dream World, just like me?!
+
+Makura2a:No, these are the dreams of those of us right here.
+
+Makura1b:I'll link them together and support everyone!
+
+Keine1a:Can you handle it, Makura?
+
+Makura3a:Of course. As a baku who lives in Gensokyo...
+
+Makura1b:I'll connect everyone's dreams and transmute them into power!
+
+Marisa2b:Then I guess we can't slack off either!
+
+Sanae1a:We'll defeat Shitone so we can greet the morning in peace!
+
+Meko1d:We'll wake up from this journey so we can give a hearty "good morning!"
+
+Alice1a:Now's the time to put our hearts together as one!
+
+Reimu5a:Guess this is our last big fight.
+
+Reimu1a:It was a long dream, but we're ending it here!
+
+<end>
+
+<ChatID:9>----------------------------------------
+//ファイナルシトネと初戦闘
+
+ShitoneF0a:To think you'd stand up to even this power without flinching.
+
+Daiyosei1a:That's 'cuz we're not alone!
+
+Meko1b:Yeah, the power of bonds and all that!
+
+ShitoneF0a:Ha? Bonds?
+
+ShitoneF1a:Ah ha ha ha! Don't tell you're relying on something like that NOW?
+
+ShitoneF0a:No matter who you put your faith in, you'll always end up betrayed in the end!
+
+MakuraF0a:...The fact that you think that is exactly why you're so stubbornly alone.
+
+MakuraF0a:But I won't surrender Gensokyo's future to you!
+
+ShitoneF1a:You took the words right out of my mouth!
+
+ShitoneF1b:This is the final showdown, Makura!
+
+MakuraF0a:Let's end this, Shitone!
+
+<end>
+
+<ChatID:10>----------------------------------------
+//シトネスペル５撃破
+
+ShitoneF2a:Ngh, even that wasn't enough?!
+
+Star1c:We're pushing her back, everyone!
+
+ShitoneF2a:What is this? I know I'm stronger than you, but...!
+
+Youmu1b:We complement each other's strengths to draw out even more power than we have!
+
+Sanae1c:Our weapons are dreams and bonds!
+
+ShitoneF0b:Hmph, more of that nonsense!
+
+ShitoneF1b:No matter what you do, I'll never give up!
+
+Makura1c:...
+
+Makura1a:I finally understand. I need to apologize to you, Shitone.
+
+ShitoneF2a:What...?
+
+Makura1b:When I started this dream journey, I'd intended to abandon my old ideals.
+
+Makura1c:...But looking back, that was rash.
+
+Makura2a:By lying about my true heart, I had driven myself into a corner.
+
+Meko0g:Lady Makura...
+
+Makura1c:By talking to you and facing my past and present, I've come to realize that.
+
+Alice1c:True, they're a little twisted, but ultimately Shitone's ideals are the same ones that Makura's repressed.
+
+Alice0a:Without her, Makura might never have remembered them.
+
+Keine0c:So in a certain sense, she saved her heart?
+
+ShitoneF0b:Thanking me? It's a bit late for that...
+
+ShitoneF1b:No matter how you pretty it up, in the end you're just abandoning me again!
+
+Makura2b:Again...?
+
+ShitoneF1b:That's right! For the sake of your so-called future, you left me behind!
+
+ShitoneF0a:Along with your heart that loved so much, hurt so much, yet still kept on believing.
+
+ShitoneF2a:That regret—that anguish—will never, ever be repeated.
+
+Makura2b:Shitone...
+
+Satori0d:She's hidden it until now, but what is this profound sorrow...?
+
+Satori0b:She's more than just ideals. She's formed from grief and despair too.
+
+ShitoneF0f:...All I ever wanted was for them to call that name again and smile.
+
+ShitoneF0g:Your tepid way of life couldn't support even that.
+
+ShitoneF0f:Which is why I'll remake it! The immutable paradise which is the endpoint of our ideals!
+
+Makura2a:...I recognize that your sorrow is my sorrow.
+
+Makura1b:But our ideals have no endpoint.
+
+Makura1a:Indeed, at the end of the dream lies another dream.
+
+Makura1b:If one path reaches its end, then you can find a new dream!
+
+ShitoneF0b:No, there's only one dream I want.
+
+ShitoneF1b:And by granting it, I'll end my journey!
+
+MakuraF0a:Then I'll start another!
+
+ShitoneF1b:For the end of this aimless journey...!
+
+MakuraF0b:For a new journey continuing into the distance...!
+
+<double>
+
+ShitoneF1b:Now, to a dream's distant end!
+
+MakuraF0a:Now, to the future that lies beyond!
+
+<end>
+
+<ChatID:11>----------------------------------------
+//シトネスペル６撃破
+
+Korin2a:Is it... over?
+
+Akyu1c:It is. We won.
+
+Reimu1b:Looks like she's worn down to her soul too.
+
+Murasa2b:Yeah, she's behaving for now, but...
+
+ShitoneF2b:Ah... I lost...
+
+Makura1c:Shitone...
+
+ShitoneF2b:Hehehe, to think this is how the curtains fall.
+
+ShitoneF0a:I had just gotten to the good part, only to have the tables turned at the very end. What a comedy.
+
+Tenshi0c:It's not like we laugh at the losers.
+
+Byakuren0d:We may never be able to accept the way you do things, but...
+
+Iku0a:Behind that, we could tell how strongly you felt.
+
+ShitoneF2a:...Spare me your pity.
+
+ShitoneF0b:More importantly, are you sure you want to stay here?
+
+ShitoneF2b:The power supporting the Dream World burst along with me.
+
+Kosuzu6b:Then...
+
+<pause>
+
+Kurumi6c:Eek, it's shaking!
+
+Luna6a:Why does it always end like this?!
+
+Yukari0d:Makura, can you use your power now?
+
+Makura1c:Yes, I'll get us away from here right away.
+
+Makura1b:Akyu, please get everyone back aboard the ship.
+
+Akyu1a:Roger that! I'm opening the hatch, everyone return!
+
+<pause>
+
+Makura0h:You too, Mehko.
+
+Meko4a:Okay, got it...
+
+Meko1a:Wait, what're you doing, Lady Makura?
+
+Makura1c:I'll stay a little while longer to speak to Shitone.
+
+Makura1a:There's something I want her to know before she disappears.
+
+Meko0g:Talk to Shitone...?
+
+Meko1a:Okay, I understand. Say what you need to and get back to the ship!
+
+<pause>
+
+Makura1a:...Now tremble, dream.
+
+Makura1c:Until you've woken everyone up...
+
+<pause>
+
+ShitoneF2a:You stuck around, did you? Well, I have nothing to say to you.
+
+Makura1a:That's alright, you need only listen.
+
+ShitoneF1b:Heh, here to tell me how refreshed you feel now that you've beaten me?
+
+ShitoneF0a:You said all that nice stuff about parting with your past or whatever, but...
+
+ShitoneF2a:If you can fulfill it by removing me along with your ideals, then do what you like.
+
+Makura1c:No, what I wanted to tell you is that...
+
+Makura3a:I'm going to carry on the ideals you protected, Shitone.
+
+ShitoneF2a:...What?
+
+Makura1c:The feelings that I had nearly thrown away... you saved them for me.
+
+Makura0a:I want to protect the hearts of the humans I love so much through dreams.
+
+Makura1c:So, I won't let go of your—our ideals.
+
+ShitoneF2a:...Easier said than done.
+
+Makura1c:Even so, I want to try again.
+
+Makura0a:I'm sure it'll be done in a different way than you or my past self.
+
+Makura1b:But someday I'll fulfill our dream!
+
+ShitoneF2a:...Right. Best of luck then.
+
+ShitoneF0a:Too bad that means nothing to me, who'll be gone by then.
+
+Makura1c:...I thought you might say that, so I'll make sure you see it for yourself.
+
+ShitoneF2a:Meaning...?
+
+Makura1c:I'll take part of your dreamspirit back with me.
+
+Makura0a:Please watch over the rest of my journey from deep in my heart.
+
+ShitoneF2a:Hmph, if you thought I'd be happy with that, you don't know me at all.
+
+ShitoneF0a:Weren't you listening when I said I wanted to end it already?
+
+Makura1c:As long as you see the continuation of the dream, that's enough for me.
+
+Makura0b:And I'll pray that you find relief, if only a little.
+
+ShitoneF0a:...
+
+ShitoneF0c:I hope you're ready to take responsibility for that.
+
+ShitoneF0d:You got a free pass this time, but I'll never forgive you if you lose sight of your ideals again.
+
+Makura0h:No need to worry about that. I'll have you with me, after all.
+
+ShitoneF0e:Heh...
+
+ShitoneF0d:Ah... I'm so tired... Let me get some rest already.
+
+ShitoneF0c:Good night... Makura...
+
+<pause>
+
+MakuraF0c:...Good night, Shitone.
+
+<end>
+
+<ChatID:12>----------------------------------------
+//ADVB
+
+<BG=bg_talk_Mugenkan.png,fade=1,color=1,title=bg_Mugenkan,bgm=bgm_talk_hiroshige>
+
+<Code=(map_flash,1,30,c_white)>
+
+<SE=se_magic-chant2.ogg,wait=0>
+
+Marisa0d:Phew, we made it out in one piece.
+
+Reimu0e:Right, but this is...?
+
+Alice0a:The hole in Mugenkan. It seems we're still in the dream.
+
+Elliy5b:You sure? Maybe I should pinch Blondie here to find out...
+
+Yuka3c:Oh, what a lovely idea.
+
+<SE=se_muscle06.ogg,wait=1>
+
+Elliy2b:Ow! Stop it, Yuuka, it hurts!
+
+Keine4a:Considering we could feel pain in Makura's dream, somehow I doubt that proves anything.
+
+Akyu3c:Actually, doesn't the fact that we're all here in one place already prove this is a dream?
+
+Reisen2c:Oh right, in the real world we're all split up, huh?
+
+Murasa0b:Still, that was some crazy adventure. Good thing we cleaned up all that Shitone business.
+
+Ichirin0d:Speaking of, isn't Makura running a little late?
+
+Ichirin0a:I heard she stayed behind by herself to talk.
+
+Yorihime0d:I wouldn't worry; she'll be back soon enough.
+
+Meko0f:Yeah, she promised...
+
+<Code=(map_flash,1,30,c_white)>
+
+<SE=se_magic-chant2.ogg,wait=0>
+
+Makura3a:...I'm back.
+
+Cirno3a:Yeah, see?!
+
+Meko4f:Welcome home, Lady Makura!
+
+Makura3c:Mehko, everyone... I'm just glad you all made it here safe and sound.
+
+Kaguya2c:And what about you? Did you get the conversation you wanted?
+
+Makura3a:Yes, I settled things with Shitone.
+
+Makura0a:I doubt she'll be appearing in the Dream World ever again.
+
+Lyrica3d:Alright! Case closed!
+
+Parsee1b:I wasn't sure what to think when she popped up out of nowhere, but...
+
+Merlin1a:All's well that ends well!
+
+Eirin0c:I wonder if all that was unexpectedly therapeutic for you, Makura.
+
+Makura0h:...It was. Through fighting her, I got an opportunity to reexamine myself.
+
+Makura0b:Now I think of her as a someone who protected my ideals as I tried to abandon them.
+
+Hatate6a:Hey now, I don't think we need to give her THAT much credit.
+
+Tewi4a:Kidnapping, torture... She was into some nasty stuff.
+
+Satori0d:Certainly, if she'd been gentler this would have been easier on us.
+
+Satori0c:But I doubt the feelings in the depths of her heart could have accepted that.
+
+Nitori1d:Shitone's feelings...?
+
+Sanae0g:Come to think of it, she seemed awfully desperate at the end there.
+
+Sanae0c:She probably wanted to avoid repeating what Makura had been through no matter what.
+
+Kanako0a:Struggling in her own way, then?
+
+Makura1a:That desperation of hers opened my eyes though.
+
+Medicine2c:Why couldn't she just have a normal conversation with you then?
+
+Yukari1b:Shitone seemed to lack the ability to rely on others.
+
+Yukari0a:This was made most obvious by the way she treated the original's dear Mehko as nothing more than a sacrificial lamb.
+
+Makura1c:...That, or perhaps it was the influence of my memories.
+
+Makura0d:Before I met Mehko, I'd always wandered alone.
+
+Meko0g:Lady Makura...
+
+Shinki5b:When you put it like that, she was such a sad person.
+
+Byakuren5a:If only we could have eased her burden, if only a little.
+
+Makura0f:Oh, about that...
+
+<Code=(map_flash,1,30,c_white)>
+
+<SE=se_kiran02_2.ogg,wait=1>
+
+Alice2b:Oh, is that...?
+
+Yorihime3a:It's faint, but is that a dreamspirit?
+
+Makura0d:Her very existence disappeared in that last battle, but...
+
+Makura0a:I preserved just this fragment of her.
+
+Reimu0f:Huh? Why'd you go out of your way to do that?
+
+Makura1c:Shitone remembered my ideals for me. She's a part of me.
+
+Makura3a:I thought that by accepting that, I could be ever more sure of myself.
+
+Marisa7c:Huh. Sounds good to me!
+
+Eirin0d:So while originally it was a battle to defeat her...
+
+Eirin0a:Your answer was to accept her rather than eliminating her.
+
+Makura0b:Right. I plan to live with her in my heart going forward.
+
+Makura3c:So that when someday I fulfill our ideals, she'll be there to see it with her own eyes.
+
+Suwako3a:Welp, sounds like you've made some kinda breakthrough anyway.
+
+Utsuho0a:So, until now you've been kinda shy, but maybe now...?
+
+Koishi5g:Are you gonna starting coming to see us like Mehko?
+
+Makura0b:Yes, I'd love to, eventually.
+
+Makura0a:To be honest, I'm still scared of making contact with humans, but...
+
+Makura3c:There's no need to rush. I can change little by little.
+
+Keine6c:Good. And we'll support you every step of the way.
+
+Yuka0c:Seeing you like this, I certainly don't see a need to worry.
+
+Sakuya0a:Oh? Lady Yuuka complimenting someone? Will hell freeze over next?
+
+Yuka5a:She's talking about affirming her own existence and living as herself.
+
+Yuka1b:In which case, I'll simply wait for the flower to bloom.
+
+Makura0b:...Thank you, Yuuka Kazami.
+
+Makura0d:I was thinking that I would need to pay back the debt I owe you, someday.
+
+Makura1a:But I think I'll do that by living comfortably with Mehko instead.
+
+Yuka3c:Hehe, please do.
+
+Suwako0c:By the way, have you decided what you're going to next?
+
+Makura5h:Well, first of all I'd like to sleep for a good two weeks or so.
+
+Tenshi5b:Eh? Just how lazy are you?
+
+Aya7b:I suppose this is what "living comfortably" means?
+
+Makura6b:N-No! Recreating this journey took a lot of energy!
+
+Makura6e:...Anyway, after that, I'll start rethinking the path to reach my ideals.
+
+Reimu0e:Oh, you mean...?
+
+Makura3b:In the end, I do think that living simply and believing that dreams can save them is what's best for humanity.
+
+Makura3a:I've apologized for my past methods, but there must be a better way out there.
+
+Makura3c:So I'll be thinking on that with Mehko.
+
+Alice3b:That sounds wonderful.
+
+Eiki3c:Soothing the human heart by switching out dreams is certainly a good deed.
+
+Komachi1a:Heck, we might just see the day people start putting their faith in bakus again.
+
+Suika3d:Ooh, I like that!
+
+Kanako2a:...But wouldn't that mean more objects of worship other than gods and Buddhas?
+
+Kanako1a:Although I suppose a sacred beast or two isn't much real competition.
+
+Suwako5b:Hey, get careless like that and she'll start scooping up followers right under your nose!
+
+Nazrin3b:You too, Master. You could stand to be a little less of a softie.
+
+Sho1a:Don't worry Nazrin, we just need to walk our own path.
+
+Byakuren0b:As long as people are finding salvation, that's all that matters.
+
+Nue0c:Guess our leader's an airhead too.
+
+Marisa0a:Anyway, how about we have this conversation somewhere more comfortable?
+
+Marisa0b:Oh, speaking of which—
+
+Reimu5c:Yeah yeah, party at the shrine.
+
+Kogasa2b:Huh? In the Dream World?!
+
+Akyu4a:I can't decide if this is shocking or obvious...
+
+Sanae0g:Are we sure the shockwaves of the space collapsing earlier haven't wrecked everything?
+
+Makura3a:Even if they had, recreating the environs of the shrine is no trouble at all.
+
+Makura0b:In fact, while I'm at it, why don't have it shift through the four seasons as we reminisce on our journey?
+
+Meko4b:That sounds great! A wrap-up party for our dream journey!
+
+Yukari1a:It would be more of a send-off party, would it not?
+
+Meko0b:Huh?
+
+Yukari0a:You've made the decision to accept Gensokyo and live in this land.
+
+Yukari6c:Thus, this isn't the end, but rather the start of a new journey.
+
+Meko7b:Oh, I get it!
+
+Makura3a:...True, this is the beginning of a new life.
+
+Makura3c:In the end, our dream is here and now, and will continue to be henceforth.
+
+Minoriko1a:Hey, stop inching forward and get moving!
+
+Yugi1f:You're the stars of the show, so you'd better drink this time!
+
+Meko4a:You can say that all you like, but Lady Makura—
+
+Makura3b:Hehe. We're in a different world, so there's no need to worry about hangovers!
+
+Meko3a:What?! You're really going along with it?!
+
+Makura3c:Thank you all for preparing the banquet for us.
+
+Makura0a:Once again, I, Makura Muwatari, along with Mehko here...
+
+Makura3d:May be inexperienced, but we look forward to getting along with you all!
+
+<Code=(transition_out,c_black,90,1)>
+
+<end>
+
+<ChatID:13>----------------------------------------
+//敗北時
+
+Makura1b:Ngh, how could we lose after coming so far?!
+
+Shitone0f:Heheheh..., now do you realize who the ruler of this world is?
+
+Shitone0a:Welcome, Makura. Now, we will become one.
+
+Shitone1d:And this time, eternal happiness will be mine!
+
+<end>
+
+<ChatID:14>----------------------------------------
+//シトネ撃破時（デモOFF時台詞）
+
+ShitoneF2a:Our dream... ends here!
+
+<end>
+
+<ChatID:15>----------------------------------------
+//テロプ
+
+A while later...
+
+<end>
+

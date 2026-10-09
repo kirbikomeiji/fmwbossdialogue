@@ -1,0 +1,2296 @@
+﻿○共通第六十四話「心の対話を
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: first battle vs. Koishi
+ 3: after first battle (Koishi spell 1 start)
+ 4: PP after first battle (Satori spell 1 start)
+ 5: conscious 1
+ 6: conscious 2
+ 7: conscious 3
+ 8: conscious 4
+ 9: Koishi spell 2 start
+10: question 1
+11: audience 1
+12: answer 1a (incorrect)
+13: answer 1b (correct)
+14: question 2
+15: audience 2
+16: answer 2a (incorrect)
+17: answer 2b (correct)
+18: question 3
+19: audience 3
+20: answer 3a or 3b; Satori spell 2 start
+21: answer 3b? (unused)
+22: Koishi spell 3 start
+23: 2PP after Koishi spell 3 (Satori spell 3 start)
+24: recall 1
+25: recall 1 (repeat) (unused)
+26: goal 1
+27: recall 2
+28: recall 2 (repeat) (unused)
+29: goal 2
+30: recall 3
+31: recall 3 (repeat) (unused)
+32: goal 3 (Koishi spell 4 start)
+33: wrong wep
+34: skill 4 (Reimu)
+35: skill 4 (Marisa)
+36: skill 4 (Orin)
+37: skill 4 (Utsuho)
+38: skill 4 (Yukari)
+39: skill 4 (Remilia)
+40: skill 4 (Suika)
+41: skill 4 (Eiki)
+42: skill 4 (Yamame)
+43: skill 4 (Kisume)
+44: skill 4 (Parsee)
+45: skill 4 (Yugi)
+46: spell 4 failure (unused)
+47: Koishi spell 5 start
+48: rose 1 (demo off)
+49: rose 2 (demo off)
+50: rose 3
+51: ADVB
+52: lose (before Koishi spell 1 ends)
+53: lose (after Koishi spell 4 starts)
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=11,FROM=地底入り口,TO=地底入り口,name=Palanquin Ship,icon=4>
+
+<BG=*bg_talk_Seirensen_Bridge_Chitei.png,fade=0,color=1,title=*bg_Seirensen_Bridge,bgm=bgm_talk_ningyo>
+
+Akyu0a:I'll load the data from last time we came to the Underworld.
+
+Murasa1b:Steer the rudder so we don't hit any rocks... Done.
+
+Murasa0a:Phew, done adjusting the autopilot.
+
+Ichirin0a:Good work. Now we should be able to take our hands off for a while.
+
+Kosuzu0a:You're so good at this, Murasa.
+
+Eiki0a:It's awfully bold of you to take the ship underground.
+
+Reimu0g:Eh, we've already done it before. And I'm sure no one will have a problem with us taking Satori and her family home.
+
+Yuyuko0a:How have those two been since boarding the ship?
+
+Orin0a:Miss Satori said she wanted to go for a little walk and stepped outside.
+
+Utsuho3c:And I think Miss Koishi is relaxing in the other room.
+
+Marisa0a:I see. Sounds like they'll make it to the palace alright, at least.
+
+Suwako1c:The problem is what comes after.
+
+Sanae1e:Satori said she wanted to fight Koishi in a danmaku battle. Would that actually work out?
+
+Yamame0d:Considering the way Koishi is, it's hard to say.
+
+Orin5a:All I know is that after seeing that battle, I thought they needed have a talk, face to face.
+
+Utsuho2c:If nothing changes, I feel like they won't make up even if we take her back to the palace.
+
+Kanako0a:If you're worried, you could join one of them.
+
+Orin5a:I thought of that, but I don't know which one would be better.
+
+Orin5a:Satori sounded like she wanted to be alone, and I have no idea what to say to Koishi.
+
+Utsuho2c:If only there was more we could do for them...
+
+Alice0d:Don't think like that. You and Orin both did good.
+
+Utsuho2c:But...
+
+Yuyuko1a:Didn't you only meet us because of what you did?
+
+Yuyuko0a:Finding Koishi today, and even being able to talk about your worries like this, were only possible thanks to the connections you created.
+
+Orin5a:That does make me feel a little better. I know we've had our fair share of fights, though.
+
+Eiki4b:If you're referring to when Utsuho Reiuji used the power of Yatagarasu in an attempt to conquer the surface, I've heard about it.
+
+Eiki1a:You were certainly at fault there, but you took action based on your sincere beliefs.
+
+Reimu0g:If you keep moping about it, it's just gonna drag the rest of our moods down too.
+
+Yamame0a:I bet Satori's striving in her own way because your positivity is rubbing off on her.
+
+Utsuho0e:You think?
+
+Kanako0a:There's no question about it. And that positivity is what Satori needs the most right now.
+
+Suwako1b:...Getting her feelings across to Koishi with her heart closed isn't going to be easy.
+
+Suwako1c:But our only option is to bet on that possibility with a danmaku battle.
+
+Orin0d:A possibility, huh...
+
+Sanae0c:We'll be there, watching over them and praying for things to work out.
+
+Eiki4a:....They're going to have to overcome many misunderstandings in order to face each other head on.
+
+Eiki0a:Let us pray that that they connect their hearts and open up a path to the future.
+
+<BG=bg_talk_Seirensen_Dining_Night.png,fade=0,color=1,title=bg_Seirensen_Dining>
+
+Koishi2a:Achoo!
+
+Lyrica1b:See? That's why you have to dry yourself off properly!
+
+Koishi0b:But I'm just no good at that...
+
+Star3a:I'm pretty sure toweling off your hair isn't something that you can be good or bad at...
+
+Koishi0a:But back in the Palace, I always had someone to do it for me.
+
+Minoriko4a:That doesn't sound like something a typical runaway girl would say.
+
+Koishi6a:When I get home, the first thing I'm gonna do is flop into bed. It's gonna be so soft...
+
+Koishi1a:And then I'll eat homemade cookies with...
+
+Koishi5h:...
+
+Merlin2a:There's that unhappy face again! At this rate you'll just run away again!
+
+Koishi5e:But...
+
+Sunny0c:You still haven't talked to Satori directly.
+
+Flan0b:I'm sure you're worried about meeting her, Koishi.
+
+Koishi5e:Worried...
+
+Lyrica0a:You're not sure if she loves you anymore, right?
+
+Lyrica1a:That's why you're scared of finding out her true feelings.
+
+Flan3b:I know all about that. I used to be scared of hearing my sister's true feelings too.
+
+Koishi0a:You were?
+
+Flan0b:Yeah. She had me locked in a basement for about 495 years without a word.
+
+Flan0f:Since I didn't know how she felt, I thought she hated me.
+
+Merlin3c:But then they got their feelings through to each other, and look how well they get along now.
+
+Koishi5h:Feelings getting through, huh...?
+
+Koishi5h:...But I don't want to know people's feelings. I hate it.
+
+Luna4b:Koishi...
+
+Star0a:You really are worried about this.
+
+Lyrica0a:But I think that's all the more reason to talk it out with her.
+
+Lyrica0c:That way, you can find out for sure how your sister feels.
+
+Minoriko0a:I'm sure your feelings will get through to her, too.
+
+Koishi5a:My feelings, getting through to her...?
+
+Koishi0b:I'm not worried about that.
+
+Sunny0d:Huh?
+
+Koishi0b:She already knows what I think even when I don't say anything.
+
+Koishi0b:My sister knows everything about me.
+
+Lyrica1b:Wait, hold on, you're saying Satori already knows how you feel?
+
+Koishi0b:Yeah! She's always been like that!
+
+Koishi5h:Patient, hardworking, and she knows everything about me...
+
+Koishi5h:That's the sister I'm proud of. The one I love.
+
+Luna4b:I thought she couldn't read your mind anymore?
+
+Koishi6b:But I haven't changed. Why wouldn't she still know everything about me? She has to.
+
+Star4b:...
+
+Merlin4a:That's how you see her, Koishi?
+
+Minoriko2a:Then I think you REALLY need to talk to her about that.
+
+Flan3b:You can't just leave everything to Satori, Koishi. You have to do your part too!
+
+Koishi5h:Mm. I'm sure she'll understand me, just like she always does.
+
+Koishi6b:That's enough to make me feel happy.
+
+Lyrica4a:...
+
+<BG=bg_talk_Seirensen_Hall_Night.png,fade=1,color=1,title=bg_Seirensen_Hall,bgm=bgm_talk_kagaku>
+
+Satori5b:(A danmaku battle. That's how my words can reach Koishi's heart.)
+
+Satori5b:(But... how DO I feel about Koishi?)
+
+<SE=se_talk_walk_indoor03.ogg,wait=1>
+
+Suika3b:Hey! There you are!
+
+Remilia1e:I was wondering where you got off to. Cultivating your tragic heroine look?
+
+Lunasa0b:Worrying by yourself is fine too, but we're here for you if you need to talk.
+
+Satori5a:Everyone...
+
+Satori5b:Sorry for making you all worry. I'm fine, really.
+
+Yugi1c:...Pretty sure that means you're not fine at all.
+
+Shizuha1c:C'mon, we've come this far together. No need to be so reserved with us.
+
+Satori5b:...Thank you.
+
+Yukari0a:So I'm assuming you were trying to mentally prepare for your battle with Koishi?
+
+Satori5a:Yes, I was wondering what the right way to talk to her would be.
+
+Parsee0b:Is that even something you can sort out inside your head?
+
+Satori5b:...I'm still unsure, but I was thinking I should tell her that she misunderstood what I said before.
+
+Satori5b:I didn't mean to blame her for being unable to read minds.
+
+Lunasa3a:I'm sure you didn't. But...
+
+Shizuha0a:Are you really okay with Koishi not being able to read minds?
+
+Satori5a:Well...
+
+Suika1a:Sounds like you've been suffering ever since she closed her eye.
+
+Suika0a:You're calling it a misunderstanding, but deep down it really does bother you, doesn't it?
+
+Satori5b:...
+
+Satori5c:You're right. I can't be sure what's in her heart anymore...
+
+Parsee0a:Well, no duh you can't, she closed it. You don't need to keep dancing around this.
+
+Yukari0a:Do you want Koishi to reopen her third eye?
+
+Satori5b:...I've considered it. But that would only cause her to suffer again.
+
+Satori5d:Koishi rejected her power as a satori and closed her eye of her own volition.
+
+Yugi0d:So even if you want her to, you can't exactly tell her that.
+
+Satori5b:That's why I'm so at a loss here...
+
+Remilia1d:I know exactly where you're coming from. You don't want to hurt your sister.
+
+Remilia0b:But maybe you should tell HER that too.
+
+Satori5a:Tell her? But...
+
+Satori5d:I can't do that! I've already hurt her so carelessly. How could I risk hurting her even more?
+
+Satori5d:If I did that and she disappeared for good, I'd...
+
+Parsee0a:But if you don't then you'll just worry about this forever!
+
+Satori5c:That's still better than being rejected by Koishi!
+
+Shizuha4a:Satori...
+
+Satori5b:...Even with her heart closed, some part of her trusted us. That's how we've been able to keep her around so far.
+
+Satori5b:What if I ruin everything by rejecting her? What if she disappears again?
+
+Lunasa4b:...If that's what you really want, then we can't force you.
+
+Remilia1d:But remember one thing.
+
+Remilia0c:You'll never save her by keeping up a charade. You won't ever stop hurting, either.
+
+Satori5a:...You're speaking from personal experience.
+
+Yukari0b:Both you and Koishi have lost hope. Your own anxieties and the fate of the satori youkai weigh heavily on you.
+
+Yukari0a:But even so, we all support you.
+
+Suika3d:Obviously we can fight for you if you need us to, but we can help you think things through too.
+
+Satori5a:...Thank you.
+
+Satori5b:(I worry about not being able to read her mind. I worry about her opening her mind again...)
+
+Satori5b:(I...)
+
+<Code=(transition_out,c_black,60,1)>
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP
+
+Akyu0a:We've arrived at the Palace of Earth Spirits.
+
+Daiyosei5e:We're underground, but it's snowing...
+
+Parsee0a:It's nearly spring, but it's been pretty chilly today.
+
+Utsuho0c:That's 'cause we shut the lid on Blazing Hell when we left.
+
+Koishi5h:...
+
+Rumia0a:Huh? You're not happy? Didn't you want to go home?
+
+Koishi5h:I did, but... this doesn't feel real.
+
+Utsuho0a:I'm sure you'll feel it when you're right there.
+
+<pause>
+
+Koishi5h:...No, this is weird.
+
+Koishi6a:Hey... Am I really home?
+
+Orin1f:Isn't it obvious?
+
+Koishi6a:Not to me. Did... Did I really come home?
+
+Utsuho0a:Of course you did. Now let's—
+
+<pause>
+
+<Code=(icon_set_direction,All,Satori,0)>
+
+Orin3a:Lady Satori...!
+
+Koishi0a:Sis...
+
+Satori0a:...Thank you both for looking after Koishi.
+
+Satori0b:Allow me to handle it from here.
+
+Orin0c:If you say so, Miss Satori...
+
+<pause>
+
+Koishi0a:Sis...
+
+Satori5b:...Koishi. Sorry for surprising you like that earlier.
+
+Satori5b:I had planned to go out and pick you up with everyone else...
+
+Koishi6a:Uh-uh, it's not your fault. I was acting all weird back there.
+
+Koishi1a:Anyway! I'm hungry! Let's go inside and get something to...
+
+Satori5a:Koishi, wait!
+
+Koishi0a:...
+
+Satori5a:We can't just leave it like this. This uncertainty. Please, wait.
+
+Satori5a:If I let this go now, I may never get another chance.
+
+Koishi0a:What chance?
+
+Satori5b:I want to talk with you.
+
+Satori5a:Yes... We need to talk.
+
+<end>
+
+<ChatID:2>---------------------------------------
+//こいしと初戦闘時
+
+Satori5a:Koishi...
+
+Wriggle1c:Is Satori gonna be okay?
+
+Mystia0b:Koishi doesn't look like she's gonna run off, at least for now.
+
+Koishi0a:What do you want to talk about, Sis?
+
+Satori5a:Lots of things. I'm not sure if I can put them into words.
+
+Satori5a:But I have something I'd like to try. Please, let me try.
+
+Koishi0a:You mean...?
+
+Satori5b:(...Yes, this is the best way for us to exchange words.)
+
+Satori5a:(To know you, and to communicate with you.)
+
+<end>
+
+<ChatID:3>---------------------------------------
+//こいしとの初戦闘直後
+
+Koishi0a:I'm fighting a danmaku battle with my sister...
+
+Mokou0b:Looks like it's started.
+
+Keine3b:Yeah. I hope this works.
+
+Lyrica0a:I know you're worried, Koishi, but this is your chance to talk it out.
+
+Koishi5e:Yeah, I know, but...
+
+Koishi5e:But...
+
+<pause>
+
+Satori2b:...!
+
+Daiyosei4d:Ah! Koishi!
+
+Nazrin6a:I knew it. This was too sudden. We need to step in!
+
+Flan2c:No, let her do what she wants.
+
+Meiling1b:Lady Flan...
+
+Flan0f:A little while ago, Koishi told us how she thinks of Satori.
+
+Flan0b:Hearing that made me think to myself... They have to say these things.
+
+Lyrica0a:Yeah, and face to face too.
+
+Minoriko0a:Koishi, it's going to be awkward at first, but just give it a shot.
+
+Merlin3c:Just follow your heart, and your body should move on its own.
+
+Koishi5e:Follow my heart, huh...
+
+<end>
+
+<ChatID:4>---------------------------------------
+//スペル1発動後、最初のPP（想定2PP）
+
+Sho0b:Koishi's still keeping her distance from Satori.
+
+Ichirin0b:I don't think they've ever fought before. I think she needs a moment to come to terms with this whole idea.
+
+Satori5a:...
+
+Yukari0a:This is YOUR dialogue, Satori. How you will respond is entirely up to you.
+
+Yukari0b:If that's the manifestation of Koishi's unconscious, what is your answer to that?
+
+Satori5a:My answer...
+
+Kaguya0a:I know you're still unsure, but go on and take that first step.
+
+Kaguya3c:You have to respond to your opponent's spellcards with more danmaku. That's how danmaku battles work.
+
+Satori5a:...Right. Koishi's expressing herself through danmaku, so I should too.
+
+Satori5b:(I'm not Koishi. I can't just lose myself to my unconscious feelings.)
+
+Satori5b:(But in exchange, I've spent so much time thinking "What should I do?")
+
+Satori5b:(Even if I'm lost, even if I'm unsure, all I can do is keep searching for that answer, reexamining my own feelings in the process.)
+
+Satori5b:(Because that's who I am.)
+
+<end>
+
+<ChatID:5>---------------------------------------
+//「自意識の問い発動後の初戦闘時、または発動後最初のEP（想定2PP）
+
+Satori5b:(...What should I say? What does Koishi want to hear?)
+
+Satori5b:(...No, that's not it. Everyone's been saying I should tell her my true feelings.)
+
+Satori5b:(Right now, it's my feelings that have to be made known.)
+
+Satori5b:(My true heart that has to be shown.)
+
+<end>
+
+<ChatID:6>---------------------------------------
+//「自意識の問いが発動した次のPP（想定3PP）
+
+Satori5b:(...I thought I was prepared for this, but when she distances herself, the anxiety returns.)
+
+Satori5b:(I'm starting to wonder if maybe it'd be better if I did nothing.)
+
+Satori5b:(But leaving it like this would be the same as pretending I can't see Koishi's pain.)
+
+Satori5b:(And that's the last thing I want to do.)
+
+Satori5b:(Never again do I want to experience the feeling that I could have helped, but didn't.)
+
+<end>
+
+<ChatID:7>---------------------------------------
+//スペル発動後、2度目のPP（想定4PP）
+
+Satori5b:(...Now that I think about it, there's never been a day I haven't felt regret. I've always been wracked with worry.)
+
+Satori5c:(I was always thinking about it. 'What should I have done?' 'What should I do now?')
+
+Satori5b:(But I never had an answer. It's like I've been stuck in the dark all this time.)
+
+Satori5b:(...And it still is. If I don't strengthen my heart, I'll never be able to take that first step.)
+
+Satori5b:(Because my heart is weak.)
+
+<end>
+
+<ChatID:8>---------------------------------------
+//スペル発動後、3度目のPP（想定5PP）
+
+Satori5b:(You tell me you love me, with the same look in your eyes that you've always had. But now I can no longer see what's on the other side of them.)
+
+Satori5b:(The feelings I've kept locked away all this time...)
+
+Satori5b:(Ever since you closed your eye, I've been hopelessly worried.)
+
+Satori5b:(I care dearly for you. I want to trust you. But deep down... it's hard.)
+
+Satori5b:(And I can never, ever, tell you...)
+
+Satori5c:(...That my faith in you isn't as firm and unwavering as you deserve.)
+
+<end>
+
+<ChatID:9>---------------------------------------
+//さとりでこいしを説得（想定5PP）
+
+<Cond=(LOCAL_VAR,ObjControl,stage_tot_spells_acquired,==,1)>
+
+Satori5a:Koishi...!
+
+Koishi0a:Sis...
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,stage_tot_spells_acquired,==,0)>
+
+Kogasa3b:Satori's having trouble approaching Koishi, huh?
+
+Satori5a:But I...
+
+<pause>
+
+Satori5c:Koishi...!
+
+Koishi0a:Sis...
+
+</Cond>
+
+Satori5a:I know that deep down, some part of you is avoiding me.
+
+Satori5a:But I still want to talk.
+
+Koishi5e:I...
+
+Satori5b:First, let me apologize. I'm sorry for the terrible thing I said to you.
+
+Satori5b:I'm sure that's caused you all sorts of unpleasant feelings.
+
+Koishi5e:Sis... Do you hate me now that I can't read minds?
+
+Satori2b:...!
+
+Koishi5e:I don't get how you feel anymore.
+
+Koishi5e:Even though you totally get me...
+
+Koishi5e:It makes me feel a twinge in my chest.
+
+Satori0d:Hold on. I didn't mean what I said back then...
+
+Koishi5e:I don't know what's in your heart, Sis. I closed my third eye.
+
+Koishi5f:...So tell me.
+
+Satori2b:Huh...?
+
+Koishi5e:Tell me with words, Satori. I don't care if it's the truth or a lie, just say it so I can hear you. Please...
+
+<end>
+
+<ChatID:10>---------------------------------------
+//ポリグラフ質問1回目（想定5PP）
+
+Satori2b:...!
+
+Momiji3a:Is this Koishi's spellcard?
+
+Koishi5e:Sis, talk to me.
+
+Koishi5e:Do you hate the idea of talking with me?
+
+Satori0d:Why would you think that?
+
+Koishi5e:That Flan girl told me that you're scared to talk.
+
+Koishi5e:If you're scared, then don't try to force it. I'll come home anyway.
+
+Satori0a:But...
+
+Koishi5e:I really do want to go home. And if I stay home for a while, I'm sure I'll get better.
+
+Koishi5e:I'll... I'll try my best. You can tie me up or crucify me, if that's what it takes. So please...
+
+Satori0d:This whole idea that it's okay to skip the talk if you're coming home...
+
+<Question=|Thank you, Koishi.|That's not going to work...|,face=Satori0a>
+
+<end>
+
+<ChatID:11>---------------------------------------
+//「考えるを選択（1回目）
+
+Satori5b:(Having Koishi say that is exactly why I was scared to talk to her.)
+
+Satori5b:(If she's actually coming home, do we really need to deal with this right away?)
+
+Remilia1d:...Are you still hesitating, this late in the game?
+
+Satori0d:Remilia...
+
+Remilia1d:It takes determination to face her. I can sympathize with a desire to put it off.
+
+Remilia0a:But aren't you standing here right now because you know that won't solve anything?
+
+Satori5b:(She's right. I made up my mind to stop looking away.)
+
+Satori5b:(So this whole idea that it's okay to skip the talk if Koishi's coming home...)
+
+<Question=|Thank you, Koishi.|That's not going to work...|,face=Satori5b>
+
+<end>
+
+<ChatID:12>---------------------------------------
+//「Thank you, Koishi.を選んだ場合
+
+Satori0b:...Thank you, Koishi.
+
+Utsuho0e:Miss Satori?
+
+Satori0a:That pensive look I had must've made you worry.
+
+Satori0a:But as long as you come home, I'm fine with that.
+
+Koishi0a:...
+
+Satori0a:I don't want to hurt you anymore. Clearly it's better if I don't talk.
+
+Satori0d:What was I thinking? It was selfish of me to want to talk with you when you might not want to.
+
+Satori0a:All of this was my fault. I'll apologize as many times as I need to, to earn your forgiveness.
+
+Satori0a:Koishi, come back to the palace. We'll live together quietly again.
+
+Koishi0a:...
+
+Koishi0a:Thanks, Sis. You're always so nice.
+
+Koishi0a:I'm okay with that, too.
+
+<pause>
+
+Satori2b:Koishi?!
+
+Tewi4a:Aw geez, looks like you gave the wrong answer.
+
+Udonge4a:You probably shouldn't lie to someone who controls the unconscious. Choose your answer carefully.
+
+Satori0d:You're right. If I keep hiding my true feelings, I know I'll regret it eventually.
+
+<end>
+
+<ChatID:13>---------------------------------------
+//「That's not going to work...を選択した時
+
+Satori5a:No. That's not going to work.
+
+Koishi0a:...
+
+Satori5a:I do want you to come home, Koishi. But that isn't enough.
+
+Satori5b:I can't just pretend you're not hurt when I know you are.
+
+Koishi0a:You think I'm hurt, Sis?
+
+Koishi5b:I didn't mean it that way. I'm just feeling a little weird...
+
+Satori5b:You may not notice it, but I'm sure of it.
+
+Satori5b:I don't want to leave you like this and regret it later.
+
+Koishi0a:...
+
+<end>
+
+<ChatID:14>---------------------------------------
+//質問2回目
+
+<Code=(icon_set_direction,Koishi_en,Satori,0)>
+
+Koishi5e:What you said about wanting to talk properly now so you don't regret it later... You mean it, huh?
+
+Satori5b:Yes. Those are my true feelings.
+
+Koishi5h:You're so strong, Sis.
+
+Satori2b:I am?
+
+Koishi5f:When you decide to do something, you actually follow through.
+
+Koishi5f:I can't do that. I'm always scared that I'm going to drift off somewhere. I'm scared right now.
+
+Satori0a:Koishi...
+
+Koishi5h:You're always thinking of me, doing things I want you to do.
+
+Koishi5h:...Maybe if I was stronger, I wouldn't have ever felt this way.
+
+Koishi5h:If only I could be strong like you...
+
+Satori0d:Am I really strong?
+
+<Question=|That's not true.|Yes, I'm fine.|,face=Satori0a>
+
+<end>
+
+<ChatID:15>---------------------------------------
+//「考えるを選んだ場合
+
+Satori5b:(...Right, Koishi's always depended on me.)
+
+Satori5b:(So I've tried to be stronger for her. Both inside our home, and outside.)
+
+Satori5b:(I need be strong to protect Koishi. But...)
+
+Yukari0b:It looks like you're hesitating to show weakness in front of her.
+
+Satori5a:Yukari Yakumo...
+
+Yukari0a:I know you've thought about your sister more than anyone, but that doesn't mean you have to bear this alone.
+
+Yukari0a:Sometimes recognizing your problems and sharing them is what allows you to finally make progress. You should know that by now.
+
+Satori5d:Sharing your problems...
+
+Satori5b:(...She's right. I've been worrying this whole time, struggling with this unanswerable question.)
+
+Satori5b:(Koishi says I'm strong, but...)
+
+<Question=|That's not true.|Yes, I'm fine.|,face=Satori5b>
+
+<end>
+
+<ChatID:16>---------------------------------------
+//Yes, I'm fine.を選んだ場合
+
+Satori0e:Yes, I am.
+
+Orin5a:Miss Satori...?
+
+Satori0e:I'm your older sister. Of course I'd be strong.
+
+Satori0a:So it's okay to be weak, Koishi. I'll protect you on my own.
+
+Satori0a:You don't need to worry about anything. Not about yourself, and not about me.
+
+Koishi0a:...
+
+Koishi0a:That's the sister I know. Strong, reliable, and hardworking.
+
+Koishi0a:I'm the only one doing the worrying. I'm no good at all, am I?
+
+Satori0d:You're perfect the way you are, Koishi. If you ever need anything, anything at all, just come to me and—
+
+Koishi0a:That's alright. I'll be okay, too.
+
+<pause>
+
+Satori2b:Koishi?!
+
+Suwako4a:Whoops, looks like someone picked the wrong answer.
+
+Kanako1d:It seems Koishi can pick up on it when you lie. It may be hard, but you have to tell her what you're really feeling.
+
+Satori0d:You're right. Koishi sees me one way, but I'm...
+
+<end>
+
+<ChatID:17>---------------------------------------
+//「That's not true.を選んだ場合
+
+Satori5b:...That's not true.
+
+Koishi0a:Sis?
+
+Satori5b:I... I'm not as strong as you think.
+
+Satori5b:All I do is worry. I constantly second-guess myself, and I have no idea what I'm supposed to do.
+
+Koishi0a:That's not true. You're being decisive right now.
+
+Satori5b:Actually, even now I'm worried about telling you my true feelings.
+
+Koishi5e:You are?
+
+Satori5b:Maybe I'll just hurt you again. Maybe I'll make you feel bad.
+
+Satori5b:But even so, I keep telling myself that I can't look away from this anymore.
+
+Koishi0a:...
+
+<end>
+
+<ChatID:18>---------------------------------------
+//質問3回目
+
+<Code=(icon_set_direction,Koishi_en,Satori,0)>
+
+Koishi5e:Even you get afraid to talk to me, huh?
+
+Satori5b:Yes. That's how I feel, deep down.
+
+Koishi5e:I can't imagine why.
+
+Koishi0a:You know everything there is to know about me.
+
+Satori2b:...!
+
+Orin5a:Miss Koishi, that's not...
+
+Koishi0a:Even when I couldn't go home, even when I stopped being sure how you felt, that was the one thing I was still sure about.
+
+Koishi0a:After all, I haven't changed any after closing my eye.
+
+Koishi0b:So you know what's in my head, right? Just like you always have.
+
+Satori0d:Koishi...
+
+Koishi6b:Mmhm. You know everything about me, just like always.
+
+Koishi6b:Even when I get scared and want to disappear, that's the one thing I treasure.
+
+Satori5a:Koishi, wait. I—
+
+Koishi1a:Right, Sis?
+
+Satori5a:...
+
+Satori5b:(...How could I possibly know Koishi's closed heart?)
+
+Satori5b:(I know the answer. I have to tell her that I can't read her mind anymore.)
+
+Satori5b:(But that would cause unfathomable damage to her psyche.)
+
+Satori5b:(Even now, she has complete faith that I know what's in her heart. That's the only thing anchoring her here.)
+
+Satori5b:(...Right, if I just accept her feelings, then Koishi can smile again.)
+
+Satori5b:(With just one little lie, I can protect her happiness.)
+
+Satori5c:(What should I do? What's the best option?)
+
+Satori5e:Koishi, I...
+
+<Question=|I know.|I don't know.|,face=Satori5b>
+
+<end>
+
+<ChatID:19>---------------------------------------
+//「考えるを選んだ場合（3回目）
+
+Satori5b:(...How could I possibly know Koishi's closed heart?)
+
+Satori5b:(I know the answer. I have to tell her that I can't read her mind anymore.)
+
+Satori5b:(But that would cause unfathomable damage to her psyche.)
+
+Satori5b:(Even now, she has complete faith that I know what's in her heart. That's the only thing anchoring her here.)
+
+Satori5b:(...Right, if I just accept her feelings, then Koishi can smile again.)
+
+Satori5b:(With just one little lie, I can protect her happiness.)
+
+Satori5b:(What should I do? What's the best option?)
+
+Satori5c:Koishi, I...
+
+<Question=|I know.|I don't know.|,face=Satori5b>
+
+<end>
+
+<ChatID:20>---------------------------------------
+//「I don't know.を選んだ場合（1回目）
+
+Satori5b:...
+
+Satori5d:Koishi, listen. I have to tell you something.
+
+Koishi6b:Uh-huh?
+
+Satori5d:I...
+
+Satori5c:...I...!
+
+Kisume4a:Satori...!
+
+Yamame4a:You know hiding your true feelings isn't gonna help you here.
+
+Satori5c:I know! But this is the one thing I just can't say...
+
+Satori5c:If I say it... If I put it into words, I know it will hurt her.
+
+Orin5a:Miss Satori...
+
+Utsuho2c:You're not sure if it's okay to tell the truth, huh?
+
+Satori5a:Orin... Okuu...
+
+Utsuho2c:We know your real feelings, Miss Satori.
+
+Utsuho2c:But I'm sure they're the opposite of what Miss Koishi wants to hear.
+
+Orin5a:...I think there are some things you just don't want to say, or that are hard to say.
+
+Orin5a:But still, Okuu and I are glad you told us your feelings, Miss Satori.
+
+Orin5a:I mean, didn't we clear up our misunderstandings?
+
+Satori5a:...
+
+Orin5a:I think if you told her how you felt, Miss Koishi would definitely be hurt. But..
+
+Utsuho2c:But if you don't, you'll never be happy.
+
+Utsuho2d:We just want both of you to smile. To really smile!
+
+Satori5a:Orin... Okuu...
+
+Satori5b:(...They're right. If I don't say it now, nothing will change.)
+
+Satori5b:(If I lied, maybe Koishi would smile for now.)
+
+Satori5b:(But would she ever be able to smile from the heart, if I keep lying to her?)
+
+Satori5b:(It'd lead to a hopeless situation where we'd give up on our dreams.)
+
+Satori5b:(...Do I want a heart built on lies, clinging to a transient happiness? Or to hurt her but look for a new hope together?)
+
+Satori5a:(My real feelings are...)
+
+<pause>
+
+Koishi0a:Sis?
+
+Satori5a:...I'm done stalling.
+
+Satori5c:I'm sorry, Koishi.
+
+Satori5b:I...
+
+<Question=|I don't know.|I don't know.|,face=Satori5b>
+
+<end>
+
+<ChatID:21>---------------------------------------
+//「I know.を選択した時
+
+Satori5d:Of course, Koishi. I...
+
+Koishi6b:...Uh-huh.
+
+Satori5d:I do...
+
+Satori5c:Yes, I do...
+
+Utsuho2c:Miss Satori...
+
+Orin5a:Are you trying to hide your true feelings?
+
+Satori5a:Orin, Okuu...
+
+Utsuho2c:We know your real feelings, Miss Satori.
+
+Utsuho2c:But I'm sure they're the opposite of what Miss Koishi wants to hear.
+
+Orin5a:...I think there are some things you just don't want to say, or that are hard to say.
+
+Orin5a:But still, Okuu and I are glad you told us your feelings, Miss Satori.
+
+Orin5a:I mean, didn't we clear up our misunderstandings?
+
+Satori5a:...
+
+Orin5a:If you lie, you'll avoid hurting her this time. But...
+
+Utsuho2c:You have to tell her how you really feel, or you'll never be happy.
+
+Utsuho2c:We just want both of you to smile. To really smile!
+
+Satori5a:Orin... Okuu...
+
+Satori5b:(...They're right. If I don't say it now, nothing will change.)
+
+Satori5b:(If I lied, maybe Koishi would smile for now.)
+
+Satori5b:(But would she ever be able to smile from the heart, if I keep lying to her?)
+
+Satori5b:(It'd lead to a hopeless situation where we'd give up on our dreams.)
+
+Satori5b:(...Do I want a heart built on lies, clinging to a transient happiness? Or to hurt her but look for a new hope together?)
+
+Satori5a:(My real feelings are...)
+
+<pause>
+
+Koishi0a:Sis?
+
+Satori5a:I'm sorry, Koishi.
+
+Satori5b:I...
+
+<Question=|I don't know.|I don't know.|,face=Satori5b>
+
+<end>
+
+<ChatID:22>---------------------------------------
+//「I don't know.を選んだ場合（2回目）
+
+Satori5b:I don't know how you feel.
+
+Koishi0a:...
+
+Koishi2b:Huh...?
+
+Satori5b:...Maybe your feelings really are unchanged from how they used to be. But mine aren't.
+
+Satori5b:You closed your third eye. I can't read your mind anymore.
+
+Satori5c:I don't know what's in your heart anymore.
+
+Koishi0a:...
+
+Koishi5g:...You're lying, right?
+
+<pause>
+
+Koishi5g:...That's a lie, right Sis? You know all about me.
+
+Koishi5g:Even if you can't read my mind, you still know these things.
+
+Satori5c:...It's not a lie. I've been so worried, not knowing.
+
+Satori5d:Even if we're still connected, we can't think the same thoughts anymore.
+
+Satori5e:I'm always worried about what you're thinking.
+
+Koishi5g:That's not true. That would mean...
+
+Satori5b:I didn't have the heart to tell you. That's why I've lied all this time.
+
+Satori5d:But from now on—
+
+Koishi5i:Stop! I don't wanna hear this!
+
+<pause>
+
+Satori2b:...!
+
+Youmu2b:Koishi!
+
+Lyrica1b:You can't look away from this. She's not done talking yet.
+
+Koishi5i:No, I don't wanna hear it! I'm better off not knowing!
+
+Minoriko1a:Hey, calm down! Satori's doing this because she wants a real connection with you!
+
+Koishi5d:But I don't know where I can be anymore!
+
+Nitori2a:What do you mean...?
+
+Koishi5d:...I've been making you feel bad, Sis.
+
+Koishi5d:Even if I came home, I'd just keep making you feel insecure.
+
+Satori2b:Wait, I'm not finished—
+
+Koishi5d:I must be worthless to you now that I can't read minds.
+
+Koishi5d:If the alternative is you hating me...
+
+Koishi5c:Then don't keep me in your heart at all.
+
+Satori2b:N-No! It's because I WANT you in my heart that I'm—
+
+Koishi5d:I'm just...
+
+<pause>
+
+Satori2b:...!
+
+Sanae1c:Koishi?
+
+Star2a:Her presence is gone.
+
+Luna4c:We've talked about her vanishing before, but I wasn't expecting it to actually happen...
+
+Satori2b:K-Koishi...
+
+Satori2b:Where are you, Koishi?! Say something!
+
+Nitori2a:Y-You need to calm down too, Satori. We still don't know if she's gone yet.
+
+Satori5b:...No, I knew this would happen. Even though I knew it would hurt her, I...
+
+Satori5c:I...!
+
+<end>
+
+<ChatID:23>---------------------------------------
+//「恋の埋火が発動してから2ターン目のPP（想定7PP）
+
+Murasa2b:Koishi's nowhere to be found, huh.
+
+Nue5b:And somehow I get the impression that we won't be luring her out with food.
+
+Satori5b:...
+
+Tewi4a:If we can't find her, maybe she went to the surface?
+
+Eirin1d:No... The situation may be far graver than that.
+
+Medicine2c:How so?
+
+Eirin1c:Koishi may have felt rejected by her sister, and then in turn begun to deny and reject herself.
+
+Eirin1d:If she continues to sink into the depths of the unconscious, she'll lose awareness of her own existence...
+
+Eirin1d:...And disappear from everyone's minds forever.
+
+Udonge2b:Disappear...?
+
+Meiling1a:W-We have to do something!
+
+Satori5a:Koishi, you must've felt...
+
+Remilia1d:It seems you're reaching a fork in your destiny.
+
+Remilia0c:If you want to save Koishi, you must stand firm.
+
+Satori5a:Remilia...
+
+Flan2c:Yeah. Koishi was shocked, but that's just because she loves you so much, right?
+
+Flan0b:Even if she disappeared, she really wants you to come find her.
+
+Shizuha1d:And what about you, Satori? Do you really think this is the end?
+
+Shizuha0a:Is the bond between you two brittle enough that this can break it?
+
+Satori2b:!
+
+Satori0a:No, it's not. Even if Koishi does try to vanish from our hearts, I won't let her!
+
+Satori0d:...Besides, I can't let our conversation end like this. I have to talk to her one more time.
+
+Suwako1b:Then you don't have time for dithering. Corner her and finish what you started.
+
+Lunasa0a:Even if you can't see her, she still has a connection with you.
+
+Lunasa3c:If you follow that thread, you should be able to find her.
+
+Lyrica1a:If you're her sister, reeling her in shouldn't be too hard.
+
+Orin1b:Make sure you're the one who finds her this time!
+
+Satori5b:(...They're right. Even if you're trying to disappear from everyone's hearts, you won't vanish from mine that easily.)
+
+Satori5b:(I'll find you and prove that to you.)
+
+Satori5a:(I'll awaken the bond you etched into my mind.)
+
+<end>
+
+<ChatID:24>---------------------------------------
+//「ブレインフィンガープリント発動後、最初のPP（想定8PP）
+
+Satori0a:My bond with Koishi...
+
+Koakuma0a:There should be plenty of things around here that bring back memories of the time you spent together. Why don't you try visiting those?
+
+Patchouli0c:If Koishi is yearning for you, she might be unconsciously drawn to those places.
+
+Komachi1a:We can't help you with that, but you should have an idea, Satori.
+
+Satori0a:The first place that comes to mind is...
+
+Satori0b:(...Yes, it was snowing that day too.)
+
+Satori0b:(The day we first arrived at the Palace of Earth Spirits. I was leading Koishi by the hand. Our breath was cold, but her hand was warm.)
+
+Satori0b:(...I had hoped that by leaving the surface and coming here, Koishi wouldn't be hurt anymore.)
+
+Satori0a:(We passed through the gate together...)
+
+<end>
+
+<ChatID:25>---------------------------------------
+//「ブレインフィンガープリント使用（1回目、繰り返し）（没）
+
+<end>
+
+Satori0a:(I should head to the gate.)
+
+<end>
+
+<ChatID:26>---------------------------------------
+//「始まりの門に到達
+
+Satori0a:This is where our life in the Underworld began. I'm sure Koishi remembers too...
+
+<pause>
+
+Koishi0a:...!
+
+<Code=(icon_set_direction,Satori,Koishi_en,0)>
+
+Satori3a:Koishi...!
+
+Letty0d:She showed herself. She really was still here.
+
+Koishi5d:But...
+
+<pause>
+
+Kurumi1a:And she's gone again. But this is working!
+
+Elliy0a:You found Koishi, Satori!
+
+Satori0a:(...Yes, Koishi really is waiting for me at these places from our memories.)
+
+Satori0a:(If Koishi's searching for my heart as well...)
+
+Satori0b:(Then I need to have more faith in her.)
+
+<end>
+
+<ChatID:27>---------------------------------------
+//「始まりの門に到達した後の、最初のPP
+
+Iku0a:It's actually possible to search for Koishi after she disappeared, hm?
+
+Yuyuko3a:If anything can help, it's the power of their bonds.
+
+Medicine2c:Their bonds?
+
+Hina0a:It's the connection they have, that's neither conscious nor unconscious. It's something definite, born from being involved with one another.
+
+Mokou1a:You could also call it the history engraved in their hearts.
+
+Tenshi0c:Hearts, huh? It's different from just a temperament, isn't it?
+
+Suika0a:Anyway, Orin and Okuu were living here too, right? Any other special places come to mind?
+
+Utsuho3a:Oh, tons. But...
+
+Orin0a:...The one I remember best is from before we had our human forms.
+
+Orin4c:We couldn't speak, but by reading our minds Miss Satori and Miss Koishi could talk to us.
+
+Satori0b:(...Yes, that was from before Koishi closed her third eye.)
+
+Satori0b:(We could all understand each other, without exchanging a single word.)
+
+Satori0b:(...We were happy back then. And we thought it would last forever.)
+
+Satori0a:(We were always laughing together on our favorite bench...)
+
+<end>
+
+<ChatID:28>---------------------------------------
+//「ブレインフィンガープリント使用（2回目、繰り返し）（没）
+
+<end>
+
+Satori0a:(I should head to the arch.)
+
+<end>
+
+<ChatID:29>---------------------------------------
+//「思い出のベンチに到達
+
+Satori0a:...The bench the four of us spent so much time at. The view from here hasn't changed at all.
+
+Satori3a:Are you here, Koishi?
+
+<pause>
+
+<Code=(icon_set_direction,Satori,Koishi_en,0)>
+
+Koishi0a:...!
+
+Yugi1a:Another success. Looks like we can count on their connection.
+
+Koishi5d:But...
+
+<pause>
+
+Parsee0a:Hey, she was just where you said she'd be...
+
+Orin0a:It's a place where we all share memories. It's important to Miss Koishi too.
+
+Satori0a:...
+
+Satori0b:(But that happiness was short-lived.)
+
+Satori0b:(You closed your third eye, and I couldn't face that truth.)
+
+Satori0b:(I'm sure we were missing something important.)
+
+Satori0b:(...And I'm starting to get an idea of what that was.)
+
+Satori0a:(So Koishi, please, let's talk this over one more time.)
+
+<end>
+
+<ChatID:30>---------------------------------------
+//「思い出のベンチ到達後の次のPP
+
+Satori0a:Where would Koishi go next...?
+
+Aya5b:Looks like you're getting stuck. It must be hard to come up with so many places one after another.
+
+Hatate4c:Wouldn't it be better if you stopped thinking so hard?
+
+Hatate3c:This is your bond we're talking about. The idea should just pop up in your head!
+
+Momiji4a:That wasn't the most helpful way to put it, but you might be onto something.
+
+Kanako0a:Isn't there anything, Satori? Something you two both cared about?
+
+Satori0b:Something we both cared about...
+
+Satori3a:Flowers...
+
+Sho0c:Flowers?
+
+Satori0a:Koishi had a favorite flower. And it was my favorite flower too.
+
+Satori0b:(...Yes, the roses we planted together. Mine bloomed red, while yours were a beautiful blue.)
+
+Satori0b:(It was a color we'd never seen on the surface before, and it was somehow encouraging.)
+
+Satori0b:(It let us think that maybe, just maybe, tomorrow would be better than today...)
+
+Satori0a:(We placed our hopes in them, those red and blue roses. And even now...)
+
+<end>
+
+<ChatID:31>---------------------------------------
+//「ブレインフィンガープリント使用（3回目、繰り返し）（没）
+
+<end>
+
+Satori0a:(I should head to the roses.)
+
+<end>
+
+<ChatID:32>---------------------------------------
+//「希望のバラに到着
+
+Satori0b:...The roses we planted together. They're still blooming as brilliantly as ever.
+
+<Code=(icon_set_direction,Satori,FD_RIGHT,0)>
+
+<Code=(demo_wait,15)>
+
+Satori0a:I found you, Koishi.
+
+<pause>
+
+Koishi0a:You really did, Sis.
+
+<pause>
+
+Satori3c:Of course I did. Even if you'd disappeared from everyone's hearts, I'd still find you, no question.
+
+Satori3e:Because I realized that your heart has always been inside me.
+
+Koishi5e:But you're so insecure because of me now.
+
+Satori0d:...I'm sorry. I didn't say that to blame you.
+
+Satori0a:Listen, Koishi. I haven't been able to convey my true feelings to you.
+
+Satori0a:I want to connect our hearts again.
+
+Koishi0a:You do...?
+
+Satori0a:Yes. But not just to return to how it was. I want us to be even stronger than we were then.
+
+Satori0a:When we came here, we thought we could live without pain.
+
+Satori0b:But after that brief happiness, we've both been consumed with unease.
+
+Satori0a:And that was because neither of us had the mental strength to keep up hope.
+
+Koishi0a:...
+
+Satori0a:But if we connect our hearts once again, I'm sure we can move past that.
+
+Satori0a:I think this time we'll find our hope together.
+
+Koishi0a:Together...
+
+Koishi6a:Thanks, Sis. Hearing that from you makes me happy.
+
+Koishi6a:You really do care for me, huh?
+
+Satori0e:Then...
+
+Koishi5h:...But I'm still scared.
+
+Satori2b:...!
+
+Koishi5h:There was nothing but bad things when I could read minds.
+
+Koishi5h:...As long as I can't read minds, no one will hate me.
+
+Satori0d:But then...
+
+Koishi6a:I'm sorry, Satori. I just don't have the nerves for it.
+
+Koishi6a:There's not a single thing good that comes from knowing what's in other people's minds.
+
+<pause>
+
+Satori2b:Koishi...!
+
+Ran6e:...Such thick danmaku. Is this the wall around her heart?
+
+Chen4b:But Satori showed Koishi that she doesn't hate her...
+
+Yuyuko2a:It's precisely because she understands how Satori feels. Now her heart feels exposed.
+
+Alice4a:But it's not going to be easy to climb past that wall.
+
+Alice0a:And even if she opens up her heart, she'll have to bear the cursed fate of the hated satori again.
+
+Satori5b:...
+
+Satori5b:That's exactly right. The travails of the satori will never vanish.
+
+Satori5b:And in truth, I'm not strong enough to protect her from that alone.
+
+Daiyosei1a:Then...
+
+Satori5b:...But I've realized that I can't let that stop me.
+
+Satori5b:By opening up our hearts to the outside, we can also receive kindness and strength.
+
+Satori5b:That's something I finally learned, by reaching out to the hand you've all been offering me all this time.
+
+Akyu1a:Satori...
+
+Satori5b:And now I need to let Koishi know that too. That's there's a world where we're accepted.
+
+Satori5b:That by opening her heart, there's more than just pain. There are also wonderful things.
+
+Satori5b:Through me, that truth will reach her heart.
+
+Udonge4d:Through you, huh.
+
+Youmu1a:In that case, we'll help!
+
+Satori2b:You will?
+
+Reimu0b:You can peek into our memories with your power, right?
+
+Marisa1b:Then use 'em! Use all our thoughts and feelings.
+
+Sanae1a:Tie them together and convey them to Koishi!
+
+Sakuya0a:Then she'll see that the world hasn't abandoned her.
+
+Satori3a:Me, tying your hearts together...?
+
+Eiki0c:Yes, that's something only you can do. You, who can know our hearts and pass them along.
+
+Eiki0a:It's something that wouldn't be possible without that "detestable" eye of yours, isn't it?
+
+Satori0a:...
+
+<pause>
+
+Satori0b:(...I've never considered the potential of my third eye.)
+
+Satori0b:(But if I can connect our hearts and give her strength, then...)
+
+Satori0a:Please, lend me your hearts.
+
+<end>
+
+<ChatID:33>---------------------------------------
+//「テリブルスーブニールで攻撃
+
+Koishi0a:...
+
+Nazrin2a:It's no use, it's not reaching Koishi!
+
+Sho0b:It can't be just Satori. We need to show her all of our hearts together.
+
+Yuyuko0a:Don't forget, Satori. As long as you have that eye, you can read our minds.
+
+Yuyuko1b:Gather up our thoughts and send them to Koishi.
+
+<end>
+
+<ChatID:34>---------------------------------------
+//「誰からも好かれない第三の目使用（霊夢）
+
+Reimu0c:Man, never thought I'd be giving a youkai words of encouragement.
+
+Satori0a:How very like you, Reimu.
+
+Reimu1b:But if you ever start thinking you don't belong anywhere, then you're way overthinking it.
+
+Reimu0f:I mean, look at all these people here. Don't you think it's because someone accepted you?
+
+Reimu0g:Youkai should be youkai and live however they like. If you ever get to be a pain, then I'll exterminate you. It's that simple.
+
+Satori0b:(...Thank you. I'm sure there are still so many youkai living on the surface because the shrine maiden is someone like you.)
+
+Satori0b:(You have the strength to accept things as they are.)
+
+Satori0a:(Please, lend me that strength.)
+
+<end>
+
+<ChatID:35>---------------------------------------
+//「誰からも好かれない第三の目使用（魔理沙）
+
+Marisa0a:Things don't always go the way you want. That's how the world works.
+
+Satori0a:Marisa...
+
+Marisa0d:But even so, as long as you want something, you can't just give up on it that easily.
+
+Marisa0a:If at the end of your life you find you did nothing but give up all the time, then your life wasn't worth living.
+
+Marisa7c:And more importantly, you've got people to support you too.
+
+Satori0b:(...Thank you. You just keep moving forward, leaving a little bit of yourself with everyone you meet.)
+
+Satori0b:(You have the strength to live on, supported by others.)
+
+Satori0a:(Please, lend me that strength.)
+
+<end>
+
+<ChatID:36>---------------------------------------
+//「誰からも好かれない第三の目使用（お燐）
+
+Orin5a:...Now that I think about it, I think we might have also been relying on you too much.
+
+Orin5a:We knew about Miss Koishi, and we even knew how troubled you were, but we never said anything.
+
+Satori0a:Orin...
+
+Orin1b:But now it's different. We'll do our best and worry about this together!
+
+Orin0a:So let's stop wallowing in regret, and focus on what comes next.
+
+Orin0a:Our tomorrow is ours alone! Let's grab it with our own hands!
+
+Satori0b:(...Thank you, Orin. Your consideration and tenacity have always supported me.)
+
+Satori0b:(You have the strength to keep thinking of the people you care about, even when it hurts.)
+
+Satori0a:(I'll be borrowing that strength.)
+
+<end>
+
+<ChatID:37>---------------------------------------
+//「誰からも好かれない第三の目使用（空）
+
+Utsuho2c:Miss Satori...
+
+Utsuho2c:...This whole time, I've been thinking about how to make you and Miss Koishi smile again.
+
+Satori0a:Okuu...
+
+Utsuho0a:I made some mistakes because of that, but after meeting everyone, I want to keep trying.
+
+Utsuho3c:Even if things go badly, I know they'll keep cheering me on.
+
+Utsuho0a:So don't give up. Don't think it's hopeless.
+
+Utsuho3d:Please believe that you can do it!
+
+Satori0b:(...Thank you, Okuu. Touching your warm heart always cheers me up.)
+
+Satori0b:(You have the strength to believe in possibility, without abandoning hope.)
+
+Satori0a:(I'll be borrowing that strength.)
+
+<end>
+
+<ChatID:38>---------------------------------------
+//「誰からも好かれない第三の目使用（紫）
+
+Satori0a:Yukari Yakumo...
+
+Satori0a:You've always meddled in our lives. But now I understand the good intentions behind it.
+
+Satori0a:I had closed my heart and pushed you away, but—
+
+Yukari0a:Let's not dwell on past unpleasantries. I did what suited me—that's all there is to it.
+
+Yukari0a:...Long ago, you and Koishi lost hope and departed from the surface.
+
+Yukari0a:However, now you have a future in front of you.
+
+Satori0a:...
+
+Yukari0a:There's no need for you to regret your inability to do anything in the past.
+
+Yukari0a:We have the power to join hands and pave the way for future possibilities.
+
+Satori0b:(...Thank you, for your understanding as both a sage, and as simply another youkai.)
+
+Satori0b:(Your thoughts give me the strength to finally imagine a future.)
+
+Satori0a:(Please, lend me that strength.)
+
+<end>
+
+<ChatID:39>---------------------------------------
+//「誰からも好かれない第三の目使用（レミリア）
+
+Remilia0a:Wow, I can't believe you said that. What happened to the Satori who was always tiptoeing around her sister?
+
+Satori0a:Remilia...
+
+Remilia0c:But I think it's better this way. You tried so hard to hide your uncertainty and avoid hurting her, but she was still scared deep down anyway.
+
+Remilia0a:If you just confront her head on, maybe you'll both be worn ragged afterward, but at least you'll be able to take the next step together.
+
+Remilia1d:I'm sure you're still scared of hurting her...
+
+Remilia0a:But believe in Koishi's strength. Believe in your bond as sisters.
+
+Satori0b:(...Thank you. You were able to reach a common understanding with Flandre after a long conflict, weren't you?)
+
+Satori0b:(You have the strength to truly examine yourself, and to trust in your sister.)
+
+Satori0a:(Please, lend me that strength.)
+
+<end>
+
+<ChatID:40>---------------------------------------
+//「誰からも好かれない第三の目使用（萃香）
+
+Suika6b:You'll find some real jerks wherever you go.
+
+Suika0a:Someone's always looking to cheat you or betray you... I totally get why you'd want to abandon the surface.
+
+Satori0a:Suika...
+
+Suika1b:But the world isn't all bad.
+
+Suika1a:I mean, heck, I just went back to the surface recently and got along without a problem.
+
+Suika0c:I don't know what happened to you before, but I bet it wouldn't happen now.
+
+Suika3d:Just look at me. I gave up once too, and now I'm having fun drinking sake.
+
+Satori0b:(...Thank you. You've been through a rough past, but you're trying to keep your eyes on what lies ahead.)
+
+Satori0b:(You have the strength to look forward again, even after getting burned.)
+
+Satori0a:(Please, lend me that strength.)
+
+<end>
+
+<ChatID:41>---------------------------------------
+//「誰からも好かれない第三の目使用（映姫）
+
+Eiki1a:I've witnessed your struggles and your determination.
+
+Satori0a:Eiki Shiki...
+
+Eiki1a:The burdens you carry are ones that others will never understand. This is your fate.
+
+Eiki4b:But even knowing that, you listened to the hearts of strangers.
+
+Eiki0b:And now, you face your own karma in an attempt to move past it.
+
+Eiki0a:Your thoughts and deeds are righteous.
+
+Satori0b:(...Thank you. If I hadn't met you, I might never have been able to face my own heart.)
+
+Satori0b:(You have the strength to seek the truth and reject all deceit.)
+
+Satori0a:(Please, lend me that strength.)
+
+<end>
+
+<ChatID:42>---------------------------------------
+//「誰からも好かれない第三の目使用（ヤマメ）
+
+Yamame1b:It feels kinda weird for the hated like us to be accepted so easily.
+
+Satori0a:Kurodani...
+
+Yamame0a:But the world's a big place. There are some crazy folks out there who'll completely blow past our painful history and act like we're best buds.
+
+Yamame3c:And seeing that, well, I find myself looking forward to what happens next. Just a little, mind you.
+
+Yamame0a:Here's what I think. Even if you can't love everything about the surface, you don't have to hate everything about it either.
+
+Satori0b:(...Thank you. By interacting with the surface, you've glimpsed a light in the darkness.)
+
+Satori0b:(You have the strength to trust in that thread of hope, no matter how flimsy it may look.)
+
+Satori0a:(Please, lend me that strength.)
+
+<end>
+
+<ChatID:43>---------------------------------------
+//「誰からも好かれない第三の目使用（キスメ）
+
+Kisume3c:We're all Underworlders here, of course we'll help you two!
+
+Satori0a:Kisume...
+
+Kisume0a:I didn't really get what was going on until now, but now I know how much you've had to deal with.
+
+Kisume3d:We live nearby, so if anything happens just give us a call.
+
+Satori0b:(...Thank you. You act timid, but I can still sense your inner kindness.)
+
+Satori0b:(You have the strength to care for others, even if you don't let it show.)
+
+Satori0a:(Please, lend me that strength.)
+
+<end>
+
+<ChatID:44>---------------------------------------
+//「誰からも好かれない第三の目使用（パルスィ）
+
+Satori0a:Mizuhashi...
+
+Parsee2a:What? Why are you looking at ME? Pretty sure you have someone more important to be talking to right now.
+
+Satori0a:No, I can feel how worried you've been about us.
+
+Parsee0a:...Look, I'm all in favor of bragging about how bad you've got it, but frankly I'm seeing a lot to envy here.
+
+Parsee1a:I bet after this you two are gonna be so happy that I'll be even more jealous of you than ever before.
+
+Parsee5a:So get cracking already. I mean, if you don't, then we've been wasting our time here.
+
+Satori0b:(...Thank you. Your words belie how sensitive you really are about people's feelings.)
+
+Satori0b:(You have the strength to put your mindset above all else.)
+
+Satori0a:(Please, lend me that strength.)
+
+<end>
+
+<ChatID:45>---------------------------------------
+//「誰からも好かれない第三の目使用（勇儀）
+
+Yugi2a:Destined to be hated, huh? So that's what you were worrying about?
+
+Satori0a:Hoshiguma...
+
+Yugi0a:Sure, plenty of people hate your power. But so what?
+
+Yugi3c:If they want to start something, then bring it on. If they're afraid of you, that's their problem. Just keep doing your thing.
+
+Yugi3e:Us oni don't lie. And I ain't afraid of your power.
+
+Satori0b:(...Thank you. In hindsight, you oni have all interacted with us openly, without any hidden feelings.)
+
+Satori0b:(You have the strength to stay true to yourself and never lie.)
+
+Satori0a:(Please, lend me that strength.)
+
+<end>
+
+<ChatID:46>---------------------------------------
+//スペル4獲得失敗
+
+<end>
+
+<ChatID:47>---------------------------------------
+//スペル4終了時
+
+Koishi0a:This isn't Sis's danmaku.
+
+LilyW4b:We did it! We got through to Koishi!
+
+Koishi0a:Why are there other people besides Sis here?
+
+Satori0a:Because my third eye connected all of our hearts together.
+
+Satori3c:The power to read minds can do more than cause us pain. It can also give us strength to support our hearts.
+
+Satori0a:Even if you're scared at first, I want you to feel it from me.
+
+Koishi0a:...
+
+Shizuha2b:I can't feel the wall around her heart anymore. Koishi's waiting for you, Satori!
+
+Lunasa1b:It's time to throw away all fear and doubt and hit her with the bare truth!
+
+Satori0a:Right. My true heart...
+
+Minoriko0a:You too, Koishi. You have to receive your sister's feelings.
+
+Merlin3d:Don't be scared, just follow your heart.
+
+Koishi0a:Uh-huh?
+
+Satori0a:With all of my heart...
+
+Koishi0a:As my heart wills...
+
+<double>
+
+Koishi0a:Danmaku of the heart.
+
+Satori0a:Danmaku of the heart.
+
+</double>
+
+<end>
+
+<ChatID:48>---------------------------------------
+//「心花で攻撃（デモOFF時、1回目）
+
+Satori0b:(...This world is imperfect and cruel. It's impossible to live without getting hurt.)
+
+Satori0b:(I'm sure we'll never be without anxiety either. There is no answer to the question 'what should I do?')
+
+Satori0b:(But I think that as long as we strengthen our hearts, we can live without losing to that anxiety.)
+
+Satori0b:(Even in darkness, we can step toward the light.)
+
+<end>
+
+<ChatID:49>---------------------------------------
+//「心花で攻撃（デモOFF時、2回目）
+
+Satori0b:(I've been weak and constantly beside myself with anxiety.)
+
+Satori0b:(But I want to become strong. Strong enough to hold onto hope even while suffering.)
+
+Satori0b:(I want to smile from my heart, with you at my side. So...)
+
+<end>
+
+<ChatID:50>---------------------------------------
+//「心花で攻撃（戦闘前会話）
+
+Satori0a:...To be honest, I don't even know if I have any hopes for tomorrow.
+
+Satori0a:So it doesn't have to be immediate. It's okay if it's way off in the future.
+
+Satori0d:But still, if we can connect our hearts...
+
+Koishi5d:I don't know if I can.
+
+Satori0a:Koishi...
+
+Koishi5d:I'm scared of reading minds, but I want to be with you.
+
+Koishi5c:I want to know your heart, Sis.
+
+Satori0a:Then search for me, Koishi.
+
+Koishi0a:Search?
+
+Satori0a:I'll share my heart with you once more, so find me, Koishi.
+
+Satori0a:Please. I know your heart can find me.
+
+Koishi0a:Me, finding your heart...?
+
+Satori0e:For now, push aside your fears.
+
+Satori3c:As long as you do that, I'm sure we can find each other.
+
+<end>
+
+<ChatID:51>---------------------------------------
+//ADVB
+
+<BG=bg_talk_Chireiden_Rose.png,fade=0,color=0,title=bg_Rose,bgm=bgm_talk_korekara>
+
+Utsuho2a:Miss Satori! Miss Koishi!
+
+Orin1f:There was so much light just now! I lost sight of them!
+
+Marisa1b:Getting blown back that far is pretty serious...
+
+Star3b:Ah! Over there!
+
+<single>
+
+Satori0d:Ugh, oww...
+
+Satori3a:Where is this? Did I fall into the rose garden?
+
+Satori2b:Wait, where's Koishi?!
+
+</single>
+
+Koishi0a:Right here, Sis.
+
+Satori6b:Koishi... Thank goodness, you're here with me.
+
+Koishi0a:You really found me...
+
+Satori6b:Mmhm.
+
+Orin3a:Hey! You two!
+
+Utsuho0a:I was so shocked when you suddenly disappeared!
+
+Satori6b:Orin, Okuu... Everyone...
+
+Suwako3a:It's nice to see you're both safe and sound.
+
+Reimu0g:I'm guessing the danmaku battle's over?
+
+Satori6b:...Yes. I was able to converse with Koishi from the heart.
+
+Satori3e:And as you can see, she's still here.
+
+Lyrica0a:You're right. Looks like she won't be disappearing anymore.
+
+Flan0f:So how about you, Koishi? You're not nervous even when you're with Satori?
+
+Koishi0b:Yeah, I'm fine. Actually, I feel all warm and sleepy now...
+
+Sanae0a:You're fine? Then...
+
+Akyu3a:You two managed to get through to each other!
+
+Satori6b:...Yes, losing sight of Koishi's heart doesn't make me anxious anymore.
+
+Satori6b:Now I feel surer than ever that she's inside my heart.
+
+Koishi0b:Same here. Sis is right there in my heart.
+
+Yuyuko3a:If you can say it that confidently, then it appears we needn't worry.
+
+Sunny0d:So you've made up but... you still can't read her mind... can you?
+
+Satori6b:It's true.
+
+Koishi0b:...
+
+Eiki3c:...I see. Regardless of the pros and cons of reading minds, this isn't something that needs to be resolved right away.
+
+Eiki0a:You were able to get through to each other during that danmaku battle.
+
+Ran3c:When you consider all that's happened, this is still quite a big step.
+
+Satori6b:Yes. What's most important is that we now we can look toward the future together.
+
+Yamame3a:The future, huh...
+
+Yukari0a:...I've finally managed to hear those words from you.
+
+Yukari5a:I've never seen such a soft expression on your face, in all the time I've known you.
+
+Satori6b:Mm...
+
+Merlin1a:So if she's officially not a runaway anymore, it's time for THAT!
+
+Koakuma5b:That?
+
+Lunasa3d:Good point. That one phrase that both announces her return and celebrates it.
+
+Lyrica3b:You haven't said it since you came back to the Palace of Earth Spirits, Koishi.
+
+Koishi0a:Said what? ...Ooh, I get it.
+
+Satori6b:Koishi...
+
+Koishi0a:Sis...
+
+Koishi6c:I love you.
+
+Satori6e:...
+
+Lyrica3d:...You were supposed to say "I'm home".
+
+Koishi0b:Oh... I'm home!
+
+Parsee2a:Okay, okay, that's enough of that! Geez, you people and your sappy displays.
+
+Lunasa0b:Satori, don't you have something to say in return?
+
+Satori6e:I suppose I do... Welcome home, Koishi.
+
+Shizuha1c:This is just how Koishi normally is, huh? Always a little outside the box.
+
+Koishi5f:...But, there's still something else I have to say.
+
+Utsuho0c:Hm? Are there any other greetings we forgot about?
+
+Koishi5d:Orin, Okuu... I'm sorry.
+
+Orin5a:Miss Koishi...
+
+Koishi5d:When I found Satori's heart, I also felt a bit of how you've been feeling all this time.
+
+Koishi5d:I never knew you were so worried about me. I said some awful things...
+
+Koishi5d:Back when Okuu got that amazing power, everyone was crying, but I...
+
+Orin7b:Why, whatever are you talking about? The thought barely crossed our minds!
+
+Orin4c:We're just so dumb that seeing your face like that made us want to cry! Right?!
+
+Utsuho3c:Yeah! Now let's think about something else!
+
+Koishi5d:Why are you letting me off so easily? I've made everyone feel so bad...
+
+Nue1a:Eh, figure it out yourself.
+
+Nazrin6a:You're being mean again, Nue.
+
+Nue0c:Well, it's not like they can't just talk to each other now, right? Wasn't that the whole point of this?
+
+Nue0a:So what's wrong with finding the answer on her own?
+
+Satori6b:Nue...
+
+Koishi5d:But I don't know it...
+
+Shizuha1d:Don't worry. Haven't you already learned how to deal with that?
+
+Kogasa0b:Right! If you want a partner for a danmaku battle, just grab one of us!
+
+Flan3i:Plus, you don't need to worry about people hating you and all that other bad stuff.
+
+Flan3f:You might even learn that they love you more than you think.
+
+Koishi0a:More than I think... More love...
+
+Koishi0b:Tee hee hee. In that case, I'm sure I'll be full up on that.
+
+Utsuho5d:Yeah! Except my tummy's rumbling!
+
+Orin1a:You idiot, Okuu. This isn't the time for that.
+
+Orin6a:...Although now that you mention it I'm getting hungry too.
+
+Utsuho5d:See, Orin? There you go.
+
+Satori6b:You two can be such goofs.
+
+Satori6d:I could stand to take a break myself, though. I haven't made cookies in a while. Who wants some?
+
+Koishi6c:Me!
+
+Yukari0a:...
+
+Reimu0b:Okay, if the problem's solved, we should get heading back the surface.
+
+Utsuho0e:Huh? You're leaving already? I thought you'd eat with us...
+
+Sakuya0a:We appreciate the thought, but I doubt you have enough teacups for all of us.
+
+Yugi3b:Plus, if we head over to the Old Capital, they should be putting up all those paper lanterns outside the bars right about now.
+
+Kaguya3e:That doesn't sound too bad. I've been meaning to visit.
+
+Flan3b:Then I guess this is goodbye for now, Koishi.
+
+Koishi5f:Yeah... And I finally got to know you all too...
+
+Lyrica1a:No need to fret. We're not gonna forget about you.
+
+Remilia0a:You and yours should take it easy for today.
+
+Satori6b:Thank you for that. I'll find a way to repay you another time.
+
+Marisa7c:That's cool and all, but feel free to just come hang out whenever too.
+
+Reimu0b:We're a bit busy on the surface though. Who knows when it's going to calm down.
+
+Satori6b:Then we'll help you with that when the time comes.
+
+Satori6d:Koishi will come too, of course.
+
+Yukari5a:We'll be waiting for you up top.
+
+Murasa0a:All aboard, everybody! It's time to set sail!
+
+<SE=se_talk_walk_outdoor01.ogg,wait=1>
+
+<Code=(map_shake,1,60,2)>
+
+<SE=se_bomb04.ogg,wait=1>
+
+<single>
+
+Utsuho2c:...It's kinda lonely when so many people leave at once, huh.
+
+</single>
+
+Koishi0a:Yeah, it was fun while it lasted. But we can always fight another danmaku battle if you want!
+
+Orin4b:After all that moving around, you still have that much energy to burn?
+
+Orin0a:You must really like danmaku battles.
+
+Koishi0b:Uh-huh. I wanna meet more people and see more danmaku!
+
+Satori6b:...That's a good idea. Try feeling everyone with your heart.
+
+Satori6b:Regardless, we're finally all together in the Palace again.
+
+Orin0a:Yes, Miss Satori. It's been hectic for what feels like forever...
+
+Orin4c:But I think I'll be sleeping a lot more soundly from now on.
+
+Satori6b:True. It's hard to know what will happen next, and there may be more things to worry about...
+
+Satori6b:But now, I feel like we can handle whatever comes.
+
+Utsuho0a:If it doesn't work out today, then maybe tomorrow.
+
+Orin0a:And if not tomorrow, the day after that.
+
+Koishi0a:...Does it really get better?
+
+Satori6a:Definitely. One of these days, we'll reach a tomorrow that's at least a little better than today.
+
+Satori6b:Believing that gives us strength. That's what it means to have hope.
+
+Koishi0a:Hope...
+
+Koishi6e:Yes, you're right...
+
+Satori6b:...
+
+Utsuho5d:Anyway, should we go inside? I'll race you there, Orin!
+
+Orin3a:Hey, wait, how are you so energetic too?!
+
+Satori6b:Let's go too, Koishi. It's gotten cold out, what with the snow and all.
+
+Koishi6e:...
+
+Satori6b:...?
+
+Satori2b:What is it? Does you third eye hurt? Was it injured in the battle?
+
+Koishi6c:No! You'd never hurt me, Sis!
+
+Koishi6c:It's just... I dunno.
+
+Satori6b:Oh? Well, if you're not hurt, that's good.
+
+Koishi1a:Anyway, let's go! Orin and Okuu are waiting for us!
+
+Satori2b:Hey, don't pull so hard. You really are full of energy...
+
+Koishi6c:Hey, Satori, make me my favorite cookies today.
+
+Koishi6c:You could singe them or make too many, and I'll still eat them all!
+
+Satori3e:Don't say it like that. I've been improving, you know.
+
+Satori6b:But your favorite, hmm... In that case...
+
+Koishi0a:...
+
+Koishi6c:Hehehe, I can't wait!
+
+<Code=(transition_out,c_black,120,1)>
+
+<end>
+
+<ChatID:52>---------------------------------------
+//敗北時（フィロソフィ発動前にさとりが撃墜される）
+
+Satori5b:Urgh, not like this...!
+
+Orin1b:Ah! Miss Satori!
+
+Luna4a:Connecting with Koishi's heart is easier said than done, huh?
+
+Koishi6a:You don't need to push yourself, Sis. Talking is scary.
+
+Koishi6a:But don't worry, I'll come home.
+
+Satori5a:Koishi, wait! That's not a solution...!
+
+<end>
+
+<ChatID:53>---------------------------------------
+//敗北時（フィロソフィ発動後にさとりが撃墜される）
+
+Utsuho2a:Ah! Miss Satori!
+
+Luna4b:Figures it wouldn't be easy to get through to her.
+
+Satori0a:No... This isn't over. How can I talk about hope if I give up over a little setback like this?
+
+<end>
+
+<ChatID:54>---------------------------------------
+//
+
+<end>
+
+<ChatID:55>---------------------------------------
+//
+
+<end>
+
+<ChatID:56>---------------------------------------
+//
+
+<end>
+
+<ChatID:57>---------------------------------------
+//
+
+<end>
+
+<ChatID:58>---------------------------------------
+//
+
+<end>
+
+<ChatID:59>---------------------------------------
+//
+
+<end>
+
+<ChatID:60>---------------------------------------
+//
+
+<end>

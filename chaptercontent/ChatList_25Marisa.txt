@@ -1,0 +1,670 @@
+﻿○魔理沙第二十五話「雪踏みのビジター
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: 1NP
+ 3: clear
+ 4: ADVB
+ 5-7: battle vs. Karasu
+8-10: omake 
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<MAP=9,FROM=マーガトロイド邸,TO=マーガトロイド邸,name=Margatroid Residence,icon=5>
+
+<BG=bg_talk_Alice_Winter.png,fade=0,color=1,title=*bg_Alice,bgm=bgm_talk_morning>
+
+Alice0a:Dear Mom, I hope this letter finds you well.
+
+Alice0d:Our hectic autumn has ended, and now we're feeling the first cold of winter. I'm doing well, as always.
+
+Alice3b:Winters in Gensokyo are cold and snowy, but the snow creates such beautiful scenery. I wish I could share it with all of you.
+
+Alice0a:I know you worry about me, so I'm keeping my house nice and toasty, and I'm making sure to eat right.
+
+Alice0d:It's been hard to get a moment's peace with the constant visits I've been getting, though.
+
+Alice4a:I mean, really, people should know better than to go out when it's so cold—
+
+<Code=(sound_fadeout,BGM,30,0)>
+
+<BGM=bgm_talk_aoki,0>
+
+Yuka0f:Odd... I could have sworn it was around here somewhere.
+
+Alice0a:...
+
+Yuka3c:Oh, these plates are just darling. I don't remember you having these.
+
+Alice2b:Excuse me, that's one of my favorites. Be careful with it.
+
+Yuka1b:Don't worry about it. Anyway, I'm putting on some coffee. Where did you put my cup?
+
+Alice0a:...It's in the side cabinet with all the other floral-patterned dishware.
+
+Alice0c:*sigh* I know my mother would worry if I told her YOU were visiting.
+
+Yuka5a:Aw, you're no fun at all. I'm not trying to mess with you.
+
+Yuka3a:Don't you remember how much time we used to spend together, back in the good old days?
+
+Alice0c:Oh, I remember someone who wouldn't leave me alone; who kept going on about how she wanted to learn magic.
+
+Alice0a:Which is why I have trouble giving you the benefit of the doubt now.
+
+Yuka1b:Oh, please. Alice, you're a grown woman now, it's okay to move on from these things, you know.
+
+Yuka3b:If you really want me to leave, I can. Though your home decor would be entirely drab without my flowers.
+
+Alice0c:That's not really what I was getting at...
+
+Alice0a:Look, I've got a letter to finish. Why don't you read a book or something while I do that?
+
+Yuka3c:Sure. I'll pick something out at random...
+
+Yuka1b:Ooh, is this a grimoire? That's not your handwriting, is it?
+
+Alice0a:It's Marisa's. She forgot it here the last time she came.
+
+Yuka5a:Wow, the Grimoire of Marisa, hm? Let's see...
+
+<SE=se_talk_paper01.ogg,wait=1>
+
+Alice0a:She'll yell at you if you read that without asking.
+
+Yuka3c:Please, letting it sit there unread would be far more of a crime.
+
+Yuka1b:Mm... So this is the spell. It's precious how much work she put into researching this.
+
+Alice0c:*sigh*
+
+<SE=se_talk_door_open02.ogg,wait=1>
+
+Marisa0a:Hey, Alice! Guess who!
+
+Nitori4c:Hope you don't mind visitors!
+
+Yuka1b:Ah, speak of the devil.
+
+Marisa4b:Brr, it's cold out there. We shouldn't have flown here on a snowy day.
+
+Nitori1a:Aww, even though I made us matching woolen knit kappa-kaps? If that didn't work we could try high-kappacity―
+
+Marisa0c:Shush, you. First things first, gotta pick up that book I forgot here...
+
+Alice0d:Come on in, you two. Though just to let you know, I have another guest today.
+
+Yuka3c:Good day, Marisa. Who is that behind you again?
+
+Nitori2a:Aiee! You're the youkai that was spreading mist with Remilia!
+
+Marisa6b:Oh, hey Yuuka. Haven't seen you in forever.
+
+Yuka3a:Yes, not since we ran into each other back at the Scarlet Devil Mansion.
+
+Nitori4a:That counts as a while ago? Wait, how often are you hanging around here?
+
+Alice0a:Often enough. You probably just don't come around enough to notice, Nitori.
+
+Alice0d:It's been a while since you've been by. I hope it's not been too cold on Youkai Mountain?
+
+Nitori4b:Nah, not that bad. It's actually warm at the bottom of a frozen river.
+
+Marisa4b:Ugh, don't say that. I'm getting chills just thinking about it.
+
+Marisa0a:Anyway, you know that grimoire I forgot? I'm here to pick it up.
+
+Alice2b:Ah, well, about that...
+
+Yuka3a:You mean this one? I was just flipping through it.
+
+Marisa0b:What kind of jerk reads someone's spellbook without asking? You wanna rip off my spells?
+
+Yuka3c:Hardly. There's nothing in here worth learning for me.
+
+Yuka0a:What was it you named that one... Master Spark?
+
+Yuka0d:Getting worked up over a spell like that? It's adorable. And so very human of you.
+
+Marisa0b:Yeah, well, I AM human. So don't hold me to your standards, monster.
+
+Yuka5a:Oh, it doesn't bother you?
+
+Marisa0b:Why should I care what someone else says about me?
+
+Marisa0a:"Magic's all about deciding out for yourself what you want to do and how far you can go."
+
+Marisa6a:My teacher always told me that.
+
+Yuka4a:That's your comeback? Gushing about your precious teacher? That's not even worth the effort of insulting.
+
+Nitori4b:Wow, Marisa. You had a teacher?
+
+Marisa0a:Yeah, Lady Mima. She took care of me after I left home.
+
+Marisa0c:She taught me how to write my grimoire, how to do experiments... She taught me all the basics of magic.
+
+Alice0d:Mima was certainly formidable. Though, I don't have as many fond memories of her...
+
+Nitori4a:Wow, I wanna meet her now. What's she like?
+
+Marisa6a:She's amazing is what she is. If you're making a list of the greatest magicians―
+
+Yuka3f:Oh my, but didn't she go missing a while ago?
+
+Marisa3a:...!
+
+Alice1a:Yuuka, maybe you should―
+
+Yuka0a:I'm just saying the truth. When was it... last year?
+
+Yuka1a:She's never cared about anyone but herself, so I can't help but wonder if she just ditched you.
+
+Marisa3a:...!
+
+Marisa2b:Hey now. What do you mean, ditched?
+
+Yuka0a:Just what you think it means―Your teacher ran out of patience with you and left. What a sad, sad story.
+
+Marisa1a:Lady Mima's not like that! You don't know anything about her, so why don't you shut it!
+
+Nitori2a:Uh, Marisa...? What's gotten into you?!
+
+Yuka0a:My, my. I see that one got under your skin. Did I touch a nerve?
+
+Marisa2b:You'd better shut your mouth―
+
+Alice1a:Yuuka, stop it. And Marisa, you know better than to take anything Yuuka says seriously!
+
+Nitori2a:Yeah, let's just take a second, and―
+
+Marisa2b:Shut up! Both of you, stay out of this!
+
+Marisa1a:Let's take this outside, Yuuka! We'll settle this mano-a-mano, danmaku-a-danmaku!
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP
+
+Marisa1a:Okay, you... Take this!
+
+<pause>
+
+Yuka0b:Heh, was that supposed to be an attack? I don't even need to dodge.
+
+Yuka0a:Now it's my turn.
+
+<pause>
+
+Marisa2a:...!
+
+Yuka1a:What's wrong, Marisa? Where's that fire you had a few minutes ago?
+
+Marisa2b:Run your mouth all you like, but next attack? You're going down.
+
+<nomove>
+
+<Code=(cursor_jump,272,240,1)>
+
+Alice1a:Stop this, you two!
+
+<pause>
+
+<Code=(cursor_jump_unit,Alice,0,0,1)>
+
+Alice1a:Just... stop. There's no point in fighting like this.
+
+Yuka3f:...Alice?
+
+Marisa1a:I thought I told you to stay out of this!
+
+<Code=(icon_set_direction,Nitori,Marisa,0)>
+
+Nitori2a:We can't do that! Let's just calm down a little, Marisa, and―
+
+Marisa1a:This is my problem! It has nothing to do with you!
+
+Nitori3c:It's no use, she's not listening.
+
+Alice1a:Then Yuuka, you can back down. You must be satisfied by now.
+
+Yuka2a:Oh, so you want to break up this fight?
+
+Alice1a:...Yes. I can't just sit back and watch you bully her.
+
+Yuka3d:...Heh. I do like the fact that you have enough spine to stand up to me.
+
+Yuka2b:But if you think that's enough to let you call the shots then you're sorely mistaken!
+
+<pause>
+
+<Code=(icon_set_direction,Nitori,FD_RIGHT,0)>
+
+Nitori2a:Both of you, watch out!
+
+Alice2a:Aah―
+
+<nomove>
+
+<hide=all>
+
+<Code=(cursor_jump,208,368,1)>
+
+Koishi0a:Hey, whatcha up to?
+
+<pause>
+
+<Code=(icon_set_direction,Yuka_en,FD_LEFT,0)>
+
+Yuka5a:...!
+
+<hide=name>
+
+Koishi0a:Whatcha up to in this cold weather?
+
+</hide>
+
+Marisa0b:...Who the heck are you? And can't you tell by looking?
+
+<hide=name>
+
+Koishi0b:Can't you tell that I'm asking because I can't tell?
+
+</hide>
+
+<Code=(icon_set_direction,Nitori,Koishi,0)>
+
+Nitori1b:Hey, you! It's dangerous over there! Find somewhere to hide! Quick!
+
+<hide=name>
+
+Koishi1a:Oh, get it. You're having a duel. Thanks for letting me know.
+
+</hide>
+
+Yuka0f:...
+
+Marisa0b:Who are you? What are you doing here?
+
+Koishi5b:My name's Koishi. You're the local youkai?
+
+<Code=(check_special,25Marisa)>
+
+Yuka2a:How annoying. If you're going to get in my way, then—
+
+<pause>
+
+Nitori2a:Huh?
+
+Alice1b:She's gone? When did she...?
+
+<pause>
+
+Koishi0b:I thought you two were dueling, not me.
+
+<Code=(icon_set_direction,Yuka_en,Koishi,0)>
+
+Yuka2b:...!
+
+<Code=(icon_set_direction,Marisa,Koishi,0)>
+
+<Code=(icon_set_direction,Alice,Koishi,0)>
+
+<Code=(icon_set_direction,Nitori,Koishi,0)>
+
+Marisa6b:What the―How did you get over there?
+
+Alice2b:You had no presence at all for a moment. Just who are you?
+
+Koishi0a:Sooo, when are you going to start fighting again? If possible, can it be sooner rather than later?
+
+Koishi1a:I want to see the whole thing, so I can give my sister the blow-by-blow.
+
+Marisa3b:This isn't a spectator sport, you know. This is KINDA serious...
+
+Yuka0e:...
+
+<Code=(icon_set_direction,Yuka_en,FD_LEFT,0)>
+
+Yuka0c:This isn't fun anymore. I'll let you go for today.
+
+<Code=(icon_set_direction,Marisa,Yuka_en,0)>
+
+<Code=(icon_set_direction,Alice,Yuka_en,0)>
+
+Marisa1a:You gonna turn tail and run, Yuuka?!
+
+<Code=(icon_set_direction,Yuka_en,FD_RIGHT,0)>
+
+Yuka0d:Haha, there's no need to rush things. There's always next time.
+
+Yuka0a:Besides, I have somewhere else to be.
+
+Alice2b:You do...?
+
+Yuka3c:It's been a pleasure, Alice. I'll drop by again sometime.
+
+<Code=(icon_set_direction,Yuka_en,FD_LEFT,0)>
+
+<pause>
+
+Marisa2b:Gah! That little... Does she think she can say whatever she wants and just walk off?!
+
+Koishi6a:Oh, it's over already? I was hoping to see a drawn-out, bloody battle.
+
+<Code=(icon_set_direction,Alice,Koishi,0)>
+
+Alice0c:You shouldn't say things like that. I'm just glad the fighting's over.
+
+Alice0a:So, who are you anyway? Where are you from? And why did you come here, of all places?
+
+Koishi1a:I'm Koishi, a simple tourist.
+
+<Code=(icon_set_direction,Marisa,Koishi,0)>
+
+Marisa0b:A tourist? The Forest of Magic isn't a place for―
+
+Nitori1b:Hold on, something's coming!
+
+<pause>
+
+Zenki0a:...
+
+Goki0a:...
+
+<Code=(icon_set_direction,Marisa,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Alice,FD_RIGHT,0)>
+
+Marisa0b:Youkai crows? What are they doing out here?
+
+<Code=(icon_set_direction,Koishi,FD_RIGHT,0)>
+
+Koishi2b:Oh, I guess I've been found. Have I been showing myself a bit too often?
+
+Nitori0b:Those crows came looking for you? Somehow I don't get the impression they're your friends though...
+
+Zenki0a:...
+
+<pause>
+
+Alice1a:It looks like they're going to attack!
+
+Marisa2b:Let's fight 'em off then! I still need to blow off some steam.
+
+Nitori0a:That's not exactly fair, but it is true that we need to do something.
+
+Koishi5b:Oh, really? Great, I'll let you handle it then.
+
+Marisa1a:Alright, let's do it!
+
+<end>
+
+<ChatID:2>----------------------------------------
+//1NP
+
+Koishi2b:I want to get a better look at this crow.
+
+Marisa6b:Hey, it's not safe over there!
+
+Koishi0b:It's fine. I came all this way, so I need to make this worth my while.
+
+Koishi0a:Wow, these sure are different from the crows I know. They don't smell like carrion, and they've got some kind of spirit in them.
+
+Alice0a:She seems comfortable enough out there. Did she even need our help?
+
+Nitori0b:More importantly, it looks like the crows are ignoring her completely. Is she using some kind of ability?
+
+Marisa2b:Save it for later. Let's take out the trash first.
+
+<end>
+
+<ChatID:3>----------------------------------------
+//前鬼、または後鬼のHPを○％以下にする
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Zenki_en)>
+
+Zenki0a:...
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Goki_en)>
+
+Goki0a:...
+
+</Cond>
+
+<pause>
+
+Marisa0b:That's that, I guess. They were nothing special.
+
+Koishi1a:Oh... So you beat them handily? That was cool to watch.
+
+Nitori4b:What was up with those crows though? They seemed like they were someone's familiars.
+
+Marisa0a:Your name was Koishi, right? No reason to stand around in the cold, let's talk inside.
+
+Koishi5b:You wanna talk? Sure, why not.
+
+Alice0d:Let's head in then. I'll brew something to warm us up.
+
+<end>
+
+<ChatID:4>----------------------------------------
+//ADVB
+
+<BG=bg_talk_Alice_Winter.png,fade=0,color=1,title=bg_Alice,bgm=bgm_talk_ningyo>
+
+Koishi2b:Wow, you have so many dolls!
+
+Alice0d:I don't mind if you touch them. Just don't break any.
+
+Nitori4b:Surprising, isn't it? I think Alice's house is just about the only place you could find so many dolls.
+
+Koishi0a:Hmm, so is this what's popular around here?
+
+Koishi0b:They're pretty, but I think they'd need to be more lifelike to fit in at my place...
+
+Marisa0b:"Around here"...? Well, I think super lifelike dolls would be kind of creepy though.
+
+Marisa0a:Oh yeah, I guess I should have said this earlier, but I'm Marisa Kirisame, a magician.
+
+Nitori4a:And I'm Nitori, and that's Alice. We're all friends.
+
+Koishi1a:Wow, you've sure got a lot of friends.
+
+Marisa0b:So, what's your deal?
+
+Koishi6c:I'm Koishi, a simple tourist.
+
+Nitori1a:You already said that. Would a tourist really want to visit here though?
+
+Koishi0a:Not really. I'm just wandering around.
+
+Marisa0b:A wandering tourist? You mean like you just wanna see what it's like out in the sticks or something?
+
+Nitori2a:Ah! Don't tell me you ran away from home?
+
+Alice0a:...Now that you mention it, she does give that impression.
+
+Alice0a:So, where do you live? Are you in contact with your family?
+
+Koishi6a:My sister's probably busy with work right now.
+
+Koishi1a:She understands everything, so our pets love her.
+
+Marisa6b:Everything, huh?
+
+Alice0a:Well, we still don't have the full picture, but I think it's clear that we need to contact this sister of yours.
+
+Alice0d:If you don't tell your family exactly where you are, they're going to get worried. Do you understand?
+
+Koishi5b:I understand. Me and my sister are real close.
+
+Alice0a:...
+
+Nitori0a:I don't think she understands, Alice. I guess she's safe enough for now though.
+
+Marisa0b:So what was up with those crows?
+
+Marisa0a:Didn't you say something like "I've been found"?
+
+Koishi2b:Oh yeah, if I stay here then they might sniff me out again.
+
+Alice2b:They must have some kind of reason for chasing you. If you tell us about it, we can help you.
+
+Koishi6a:No thanks, it's not really something I wanna talk about.
+
+Koishi0a:Well, it's been fun. Later.
+
+Alice2b:Ah, wait!
+
+<SE=se_talk_run.ogg,wait=1>
+
+<SE=se_talk_door_open02.ogg,wait=1>
+
+<SE=se_talk_door_close02.ogg,wait=1>
+
+<single>
+
+Alice0a:...
+
+</single>
+
+Nitori3b:And she's gone. You were being so nice to her too.
+
+Alice0c:Oh well. As long as she does whatever she was doing earlier, we don't have to worry about anyone pursuing her.
+
+Nitori0a:Koishi, was it? What a mysterious girl.
+
+Alice0d:Definitely. I'm grateful that she stopped the fight for us, though.
+
+Marisa2b:I coulda done without that. That was my chance to teach Yuuka a lesson!
+
+Nitori2a:Wait, does that mean―
+
+Alice0a:...So you're still mad about that.
+
+Marisa2b:Of course I am! You heard what she said!
+
+Marisa2b:She doesn't know the first thing about Lady Mima, so where does she get off saying all that about her?
+
+Marisa2b:I don't know where Lady Mima is right now, but what she's saying is pure... pure garbage!
+
+Marisa2b:Lady Mima would never abandon me!
+
+Nitori2a:Marisa...
+
+Alice2b:...I understand why you're upset, but you need to calm down a little, okay?
+
+Alice0a:Yuuka just likes to push people's buttons. You know that, right?
+
+Marisa3a:...
+
+Marisa3a:Sure. You're right. Sorry about all this. I'm gonna go get some fresh air.
+
+<SE=se_talk_walk.ogg,wait=1>
+
+<SE=se_talk_door_open02.ogg,wait=1>
+
+<single>
+
+Alice0b:...
+
+</single>
+
+Nitori3b:I've never seen Marisa so angry before. She's been acting odd today.
+
+Alice0a:She has been. As you just saw, Marisa cares about Mima more than anything else in the world.
+
+Alice0a:I don't know all the details, but Mima's disappearance has probably been eating at her all this time.
+
+Nitori2a:So that's why that really set her off...
+
+Nitori0b:It's a little surprising, though. She's usually so confident.
+
+Alice0b:Mima's a special case, I think. She's the one who taught Marisa the fundamentals of magic.
+
+Alice0a:I think that's why Marisa will always keep believing...
+
+Alice0b:...that somewhere out there, Mima is still watching over her.
+
+<end>
+
+<ChatID:5>----------------------------------------
+//魔理沙vs.前鬼または後鬼
+
+Marisa0b:So we have this Koishi girl and some crows chasing after her. What's going on here?
+
+Marisa1a:Well, whatever. I've got all this extra frustration, might as well take it out on them!
+
+<end>
+
+<ChatID:6>----------------------------------------
+//アリスvs.前鬼または後鬼
+
+Alice0c:Of course someone'd get angry after everything she said.
+
+Alice0a:Yuuka really doesn't think before she speaks. I wish she'd apologise sometime...
+
+<end>
+
+<ChatID:7>----------------------------------------
+//にとりvs.前鬼または後鬼
+
+Nitori0b:These crows move in a really weird way. It's like there's some program controlling them.
+
+Nitori4a:I'd love to capture one and study it... Now's not the time for that though.
+
+<end>
+
+<ChatID:8>----------------------------------------
+//おまけ会話：魔理沙
+
+Marisa6b:What the heck, are these flowers blooming in the middle of winter?
+
+Marisa0a:Well, sorry, little guys. Right now I'm not really in the mood to stop and smell the flowers.
+
+<end>
+
+<ChatID:9>----------------------------------------
+//おまけ会話：アリス
+
+Alice0d:It's the flowers Yuuka brought me. Japanese camellias and winter jasmines and... these ones were "Himalayan bergennas" or something?
+
+Alice4a:If she just brought flowers I'd be happy. Why'd she have to bring trouble too?
+
+<end>
+
+<ChatID:10>----------------------------------------
+//おまけ会話：にとり
+
+Nitori1a:Even though it's the middle of winter, these flowers are blooming. Weird.
+
+Nitori0a:It doesn't look like they're specially-bred ones or anything... Do they really just naturally bloom in winter?
+
+<end>
+
+<ChatID:11>----------------------------------------
+//おまけ会話：こいし
+
+Koishi1a:Oh, are these surface flowers?
+
+Koishi0a:I should bring some back with me to decorate the house.
+
+<end>
+
+<ChatID:12>----------------------------------------
+//こいしvs.前鬼または後鬼
+
+Koishi0a:Are they after me maybe? Those bad crows?
+
+Koishi0a:Sis always said bad girls need to be punished.
+
+<end>
+

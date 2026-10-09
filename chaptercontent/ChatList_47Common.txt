@@ -1,0 +1,1324 @@
+﻿○共通第四十七話「幻想少女・オン・ザ・ムーン
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<MAP=13,FROM=宇宙A,TO=宇宙A,name=Sea of Stars,icon=4>
+
+<BG=*bg_talk_Seirensen_Bridge_Space.png,fade=1,color=1,title=*bg_Seirensen_Bridge,bgm=bgm_talk_aoki>
+
+Koakuma0a:Nothing on sensors.... The Buddhist reactor is stable.
+
+Koakuma2b:*yawn*
+
+Ichirin3c:Tired, Koakuma? 
+
+Koakuma4a:Erk, I'm sorry! Just getting a bit drowsy...
+
+Murasa3c:I get you. We've been doing nothing but sitting around on the bridge for the past ten-odd days.
+
+Murasa2c:We're on a cool space voyage, but there's really nothing to do up here. 
+
+Nitori3e:Even our course is being taken care of by the Lunar Veil...
+
+Nitori1a:About the only thing there is to do is shooting down meteoroids that get in our way. 
+
+Ichirin4a:And if we could use the Palanquin Ship's barrier we wouldn't have to worry about that either. 
+
+Koakuma0a:At least everyone seems to be enjoying their time on the ship.
+
+Koakuma3c:Even Reimu said that the way things are going, she won't have to conduct any exorcisms the whole way there.
+
+Patchouli4a:I'm going to run out of grimoires to read before we even make the return trip.
+
+Nitori4b:When are we gonna reach the moon, anyway?
+
+Patchouli0a:Hmm. According to my calculations, it should be around tomorrow morning.
+
+Patchouli0d:By "morning" I'm referring to Earth time, of course. 
+
+Ichirin0a:Out here you can only tell the time by the clocks.
+
+Murasa3b:Alright, how about we go rustle up some snacks, since it's not dinner time yet?
+
+Murasa3c:Nothing too salty... Maybe some sweets?
+
+Koakuma3b:Well, I have some leftover cookies from earlier.
+
+Koakuma3d:I think I put them in a tin on the bottom of this shelf... 
+
+Ichirin0a:There are some dried persimmons from Mokou too. They should be around there somewhere. 
+
+Nitori2a:Whoa, not THAT box. That's where I keep my circuit boards to tinker with.
+
+Unzan0a:...
+
+Patchouli4a:...I thought the bridge would be the quietest place here, but it's become quite lived-in. 
+
+<BG=bg_talk_Seirensen_Hall_Night.png,fade=0,color=1,title=*bg_Seirensen_Hall>
+
+Lunasa0b:...And that's the basic idea.
+
+Flan3e:Wooooow. It sounds completely different from when I do it. 
+
+Merlin3c:Even with the same instrument, the feeling and power of a piece can totally change based on who's performing!
+
+Lyrica1a:That's what makes music so profound.
+
+Mystia5a:I don't think about that kinda stuff. I just sing what I feel like.
+
+Lunasa3a:But you're fairly sensitive to your surroundings, and have a good singing voice for captivating an audience.
+
+Merlin3d:You should become Gensokyo's first idol!
+
+Mystia4a:Not really interested in that... but once we get to the moon I'm gonna sing my heart out!
+
+Mystia1b:Taaake me to the moon... Fliiip me upside down among the stars... 
+
+<SE=se_talk_walk_indoor02.ogg,wait=1>
+
+<single>
+
+Flan0b:Oh. She left.
+
+</single>
+
+Lyrica3b:What a free spirit. ...Or maybe it's just dinner time.
+
+Flan3h:Singing looks so fun, doesn't it, Remi?
+
+Remilia1e:...
+
+Flan3g:Remi? 
+
+Remilia0a:Hm? What is it? I wasn't paying attention.
+
+Merlin1c:Hey, that's not cool! How could you ignore an invitation from your cute little sister? 
+
+Remilia0e:Come on, it's been two weeks. I'd be bored of anything by now.
+
+Remilia1d:The ship might be big, but we're still all cooped up in the same spot day after day. 
+
+Flan0a:Oh, I'm plenty used to that.
+
+Remilia5a:Ah, um, well... 
+
+Flan3b:Hee hee. I'm joking, Remi.
+
+Flan3i:Anywhere's fine as long as I'm with you. 
+
+Lyrica3d:Ooooh, now that's a nice line! How about we follow their lead?
+
+Merlin3d:What better way to show some sibling love than a group hug? 
+
+Lunasa2a:...That's embarrassing. Save it for when we're at home. 
+
+<single>
+
+Marisa0a:It's nice having things be lively all the time, but it can't be easy having sisters, huh?
+
+</single>
+
+Sanae4a:Do you think so? I envy people with big sisters.
+
+Sanae3b:Imagine having someone whose shoulder you can lean on when you're feeling down...
+
+Sunny5a:What's wrong, are you homesick or something, Sanae?
+
+Elliy5a:And you were so into this at first. Pajama parties and pillow fights and all that. 
+
+Sanae5a:M-Marisa and Nitori started that pillow fight...! 
+
+Alice0d:Missing your home is nothing to be ashamed of.
+
+Alice4c:I wonder if the people back on Earth are worrying about us right about now...
+
+Marisa0d:Oh yeah, Yukari's probably worried about Reimu, huh? 
+
+Reimu4a:Ugh, why bring HER up? 
+
+Marisa0b:Not like she's being subtle about it. She was giving you divine invocation training right up until we left.
+
+Marisa0a:And during the last incident, she made you that new gear. 
+
+Reimu5c:...She was just training me. She wouldn't be especially worried.
+
+Reimu0f:And the equipment fit me perfectly fine from the moment I tried it. Not much to say about that.
+
+Star4a:Wow, right from the beginning? Yukari really knows how to make things work right the first time... 
+
+Sanae0a:It's true that they're enchanted with complex spells, though.
+
+Sanae0g:If I remember correctly, Yukari called them a barrier for the Hakurei Shrine Maiden. 
+
+Alice2c:A barrier for the Hakurei Shrine Maiden, hm... Ah, now I see.
+
+Elliy0a:Are you picking up on something we're missing, Blondie?
+
+Alice0c:Yes, I've always felt that Reimu's danmaku was oddly refined.
+
+Alice0a:I'm sure those tools were made to guide Reimu into what she SHOULD be, as a shrine maiden. 
+
+Kurumi0b:What does that mean? 
+
+Alice0a:A shrine maiden brings harmony to Gensokyo by fighting on equal terms with opposition via danmaku battles.
+
+Alice2b:Which means Yukari's helping her do her job by giving her equipment suited for danmaku battles.
+
+Marisa1b:The job of the Hakurei Shrine Maiden, huh...
+
+Kurumi3b:But still, it feels like even we can just casually challenge her. 
+
+Luna3a:Maybe that's what Alice means by "equal terms".
+
+Elliy5a:You have to be careful, though. If you don't take it seriously, you could even lose to Kurumi.
+
+Elliy0a:If your grades go poof, the shrine maiden business might see some layoffs! 
+
+Reimu5c:Yeah, I know. It's not out of the question.
+
+Elliy1a:...Wait, you're joking, right?! 
+
+Reimu4a:If the shrine maiden can't do her job, she'd get fired. Isn't that obvious?
+
+Reimu5d:So I'd better get back to Earth soon, before I take too much time off. 
+
+Marisa0e:C'mon, we're not even there yet. You might as well focus on the trip for now.
+
+Marisa0c:And when you get back, you'll just have some crazy pile of leaves waiting for you to sweep them. 
+
+Reimu2b:Ugh. I didn't even think about that...
+
+Sanae4a:Don't worry, I'll help you clean up when we get back.
+
+Sanae0a:So let's just all enjoy our trip to the moon. 
+
+Reimu0b:Sounds like a plan. 
+
+<Code=(transition_out,c_black,30,1)>
+
+<end>
+
+<ChatID:0.5>----------------------------------------
+//ADVA-2★ADVViewerだとここからずれます★
+
+<BG=bg_talk_Seirensen_Dining_Night.png,fade=1,color=1,title=bg_Seirensen_Dining,bgm=bgm_talk_gag>
+
+Keine6b:Now, let us give thanks to the blessings of the soil and the harvest gods who provided this meal for us. 
+
+Rumia3a:Thaaaanks!
+
+Cirno3a:Thaaaanks!
+
+<SE=se_talk_eat01.ogg,wait=1>
+
+Meiling5a:Aaaaah, you have no idea how happy I am to be able to eat Sakuya's home cooking. And indoors for once! 
+
+Sakuya0a:I suppose it's fine once in a while. But you won't when we get home.
+
+Rumia0a:But can't we have something other than sweet potatoes every day?
+
+Rumia1a:It was sweet potatoes the day before yesterday, and the day before that...
+
+Keine0b:No complaining. We couldn't get enough ingredients so this is what we came up with. 
+
+Sakuya5b:If you're dissatisfied, maybe we could search for some rare delicacies on the moon. 
+
+Rumia4a:Ooh, I'd like to try those.
+
+Cirno2c:Hey, Chen! You're mixing your rice and miso soup again! 
+
+Daiyosei5e:Ichirin told us that we have to eat them on separate dishes when it's not curry. 
+
+Chen4b:Aww, but it's so good like this! 
+
+Sho3d:Now now, what's done is done.
+
+Sho0a:But in exchange, you can't be picky, Chen. Don't pick out the vegetables, like you promised. 
+
+Chen3a:Okay, Miss Shou, I'll do my best! 
+
+Nazrin6a:Says my master, while she subtly tries to avoid eating her vegetables herself. 
+
+<single>
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+<SE=se_talk_walk_indoor01.ogg,wait=1>
+
+Udonge3b:...Hello. Don't mind me, just sitting down. 
+
+</single>
+
+UsagiR0b:Oh, Reisen. You don't mind sharing a table with us? 
+
+Youmu4b:Sakuya was on cooking duty today, so you're in for a treat.
+
+Udonge3b:*SIIIGH*
+
+Wriggle3a:...?
+
+Mystia0c:What's wrong? You let out a big sigh all of a sudden. 
+
+Udonge3b:Why wouldn't I? We're only one night's rest away from reaching the moon.
+
+Udonge2c:And you're going to meet with the Ladies Watatsuki. I'm getting an ulcer just thinking about it! 
+
+Wriggle4b:Oh right, you ran away from the moon.
+
+Youmu1a:Now that you mention it, I haven't heard anything about these Watatsukis.
+
+Youmu1c:If they're the leaders of the Lunar Emissaries, they must be fairly influential. 
+
+Udonge3b:You have no idea. No one is a match for those two.
+
+Udonge5b:Plus, they used be my masters. 
+
+UsagiR2c:Your... masters?
+
+Udonge3b:Yeah, back on the moon they kept me as a pet.
+
+Udonge4d:And now that I know they were Lady Yagokoro's students too, we've got this really weird connection.
+
+Mystia4a:Hmm, sounds complicated. 
+
+Wriggle0a:But if you already know them, then shouldn't you be LESS nervous?
+
+Wriggle3d:They might even forgive you for running away. 
+
+Udonge5b:Impossible. Especially not the younger sister, Yorihime. I'd never be able to look her in the eye.
+
+Youmu2b:Why not?
+
+Udonge5b:She's obviously extremely powerful, of course, but she has a lot of mental fortitude too.
+
+Udonge5a:She's run into all sorts of problems from her status, but she's the type to never even whisper a complaint.
+
+Udonge5b:Considering I ran away because I didn't want to fight, there's no way she'd be willing to hear me out.
+
+Youmu4a:Are you sure? I think if you fully explained yourself, she might understand.
+
+Youmu4c:Your wish to never return to the moon is unwavering, right?
+
+Udonge4c:Huh? Well, sure...
+
+Youmu0a:My teacher taught me that the truth is something you cut to. But you can't cut through anything when plagued with self-doubt.
+
+Youmu1b:That's why I believe that unwavering conviction is another form of mental strength.
+
+Udonge0a:Huh. I always took you for a weirdo, and you're not proving me wrong.
+
+Udonge4d:Wait, I didn't know you had a teacher too. 
+
+Youmu3a:He disappeared when I was little. I'm actually a bit jealous of you because of that. 
+
+Udonge4b:...Yeah. She may give me unreasonable tasks sometimes, but I really am grateful to her.
+
+Udonge0a:She's a genius, and she's got a soft side to her.
+
+UsagiR2c:The genius part I believe, but a soft side? Are you serious?
+
+Udonge0a:Totally! You should've seen the tender ministrations she gave me after feeding me some strange medicine that made me collapse.
+
+Udonge1c:Not only did she take my temperature, she even took my pulse and ran a blood test!
+
+UsagiR2c:I... I see...
+
+Mystia4a:That's less "tender ministrations" and more "human experimentation"...
+
+Wriggle0c:Whoa, don't burst her bubble!
+
+Udonge0a:...After all that talking, I'm getting hungry too.
+
+Udonge4d:You'll all be getting up early, right? Shouldn't you be preparing for the big day?
+
+Youmu2b:Oh right, I still have to take a bath. 
+
+Wriggle3c:Well, see you tomorrow morning, Reisen.
+
+Mystia1b:Tonight, night falls again...
+
+<Code=(transition_out,c_black,60,1)>
+
+<MAP=13,FROM=月,TO=月,name=Lunar Capital,icon=5>
+
+<BG=*bg_talk_MoonCapital.png,fade=1,color=1,title=*bg_MoonCapital,bgm=bgm_talk_kaikidan>
+
+GyokutoT0a:...And so, I have the following messages to convey.
+
+GyokutoT1a:Lady Yorihime, you are to continue doing your utmost to train the rabbits. 
+
+Yorihime0a:I understand. Good work. 
+
+GyokutoT0a:And what else was it? I think there was something about patrolling the Lunar Capital...
+
+GyokutoT0a:Oh yeah! They got onto my case about that one thing. 
+
+Yorihime0c:Which one?
+
+GyokutoT0a:The thing about how having too many precedents for desertion is bad for military discipline...
+
+Yorihime0b:...
+
+GyokutoT0a:Are you listening, Lady Yorihime?
+
+Yorihime0b:Yes, I'm listening. You're talking about going to hunt down the rabbit who fled.
+
+Yorihime0a:I thought I told them that we'd be implementing measures to prevent it from happening again? 
+
+GyokutoT0a:Will the higher ups be satisfied with that, though?
+
+GyokutoT0a:Don't be so stubborn. For now, why don't you try listening to—
+
+<SE=se_talk_walk_indoor01.ogg,wait=1>
+
+Toyohime0a:Oh my, they sent another rabbit. 
+
+GyokutoT0a:Greetings, Lady Toyohime.
+
+Yorihime3a:Where were you, Sister? It was time for our meeting.
+
+Yorihime0a:I even went to your room to look for you. 
+
+Toyohime2b:I'm sorry, it's just that there was a peach outside my window just begging me to eat it.
+
+Toyohime0b:I'll split it with you, so don't give me that frown. 
+
+Yorihime0b:For the love of... We're doing official business here. Please try to take this seriously. 
+
+Toyohime0a:Okay, what were we talking about?
+
+GyokutoT1a:We were discussing the rabbit who deserted the other day.
+
+GyokutoT0a:The brass thinks we should dispatch a search party to the Earth. 
+
+Toyohime5c:Hmm, I see.
+
+GyokutoT0a:I know we haven't sent any emissaries recently, but circumstances are what they are.
+
+GyokutoT1a:And isn't this exactly what you should be doing, as the leaders of the Lunar Emissaries? 
+
+Yorihime0b:It's just one of the medicine-pounding rabbits. Is there really a need for this? 
+
+GyokutoT0a:Isn't apprehending criminals on Earth the mission of the Lunar Emissaries?
+
+Yorihime0b:...
+
+GyokutoT0a:The brass is worried that she might be conspiring with that Yagokoro and plotting to raise a rebellion against the moon.
+
+GyokutoT0a:Something needs to be done, whether that's capturing her or punishing her.
+
+Yorihime0a:...No matter what they say, the decision rests with us. 
+
+Toyohime0c:"A silence within silence is no silence at all."
+
+GyokutoT0a:...What?
+
+Toyohime0a:Behaving yourself during peacetime isn't true tranquility.
+
+Toyohime0c:It's only when you keep that calm in a time of crisis that it truly counts. 
+
+GyokutoT0a:W-Well, maybe so, but―
+
+Toyohime0b:Therefore, it's important to act prudently, and not give in to impatience. Convey that to the higher-ups. 
+
+GyokutoT2a:Y... Yes, ma'am!
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+Yorihime0d:Thank you, Toyohime. I could never talk my way out of situations like you can. 
+
+</single>
+
+Toyohime2c:Is that supposed to be a compliment? Though it's true I have a way with words compared to you.
+
+Toyohime0a:But anyway, it seems they're trying to connect everything to Lady Yagokoro, as always. 
+
+Yorihime0a:Yes, although I believe it's most likely just a vocal minority. 
+
+Toyohime1a:We don't need to obey their whims. For the moment, only we possess the authority to deploy the emissaries.
+
+Toyohime0a:As long as we stand firm, there's nothing they can do about it. 
+
+Yorihime5a:...You're right. Lady Yagokoro must still be in good health, somewhere on the Earth.
+
+Yorihime5b:One day, once she's cleared of her crimes, she'll come back to the moon and give us backing, right? 
+
+Toyohime5c:Indeed. That's why, until that day comes―
+
+<SE=se_talk_run.ogg,wait=1>
+
+GyokutoT0a:My apologies for bothering you again, honored Watatsuki sisters.
+
+Toyohime2d:What is it now? I thought we were finished here.
+
+GyokutoT0a:We were, but just now I got a report from our comrades monitoring the barrier.
+
+GyokutoT1a:The situation isn't clear yet, but we may need to elevate the alert status.
+
+Yorihime3a:For what? 
+
+GyokutoT0a:It appears that some kind of flying object is approaching and interfering with the lunar barrier.
+
+Yorihime2a:What...?
+
+<MAP=13,FROM=宇宙A,TO=宇宙B,name=Near the Moon,icon=4>
+
+<BG=*bg_talk_Seirensen_Bridge_Space.png,fade=1,color=1,title=*bg_Seirensen_Bridge,bgm=bgm_battle_Seirensen>
+
+Koakuma1a:Distance from the moon's surface... 10,000. No obstacles in our present course.
+
+Ichirin0a:So far, so good. Keep this up and we'll land without a hitch. 
+
+Mystia3d:Wow, we really made it to the moon!
+
+Star4b:It's always dark out, so I almost overslept. 
+
+Patchouli1d:Reimu, make sure those gods are in a good mood. 
+
+Reimu0g:Okay, Sokotsutsu-no-O-no-Mikoto. This is your last job, so put your back into it.
+
+Reimu1a:And you'd better, 'cause you've already gotten more donations than MY shrine has! 
+
+Marisa4c:Hey, didn't she just tell you to keep him in a good mood...? 
+
+Alice3b:That just goes to show what friendly terms she and the god are on, I'm sure.
+
+<SE=se_talk_door_open06b.ogg,wait=1>
+
+Remilia3b:My, the view with the moon right in front of us is spectacular.
+
+UsagiR0b:I haven't seen this scenery since I deserted. 
+
+Murasa3b:Oh, looks like almost everyone came up to the bridge to watch. 
+
+Sunny3b:Well yeah, I heard it'd be this morning, so I dragged myself out of bed for this! 
+
+Lunasa0b:Even Reisen's here, and she's the opposite of a morning person.
+
+Udonge3b:...Well, I came all this way, so I might as well see it with my own eyes. 
+
+Nitori1a:Are you ready to make moonfall, Miss Rabbit? 
+
+UsagiR1a:Yup, ready as I'll ever be. I've even reheased how I'm going to give the Watatsukis the letter in my head.
+
+UsagiR0c:Once they see this, they should let you off the hook for your visit too. 
+
+Elliy3b:Really? Even if we can't enter the capital, I hope they let us wander around the moon seeing the sights.
+
+Flan3b:Me and my sister are gonna take a walk when we land. 
+
+Luna3d:Me too. I'm gonna gather moon rocks and brag to the other fairies. 
+
+Lyrica3b:Well, bring us in, Skipper. 
+
+Mystia1b:Yohohoho... Reporting in with Eirin's letter...
+
+Murasa1a:Right then, here we go. Hold on tight! 
+
+Ichirin3a:Don't get too overeager. You can stick with the pace we're at now.
+
+Murasa1a:Don't worry, I'll keep her nice and steady―
+
+<Code=(map_shake,1,40,4)>
+
+<SE=se_bomb04.ogg,wait=0>
+
+<Code=(sound_fadeout,BGM,30,0)>
+
+Murasa0d:Uh...?
+
+Patchouli0a:What was that jolt?
+
+<SE=se_talk_alarm01.ogg,wait=0>
+
+<Code=(demo_wait,60)>
+
+Koakuma5b:The Palanquin Ship's altitude is dropping faster than expected...?
+
+<BGM=bgm_talk_emergency,0>
+
+Koakuma1a:Something's wrong, Miss Patchouli! The controls have stopped functioning!
+
+Marisa1a:Wait, what do you mean "stopped functioning"? Everything was going so smoothly till now!
+
+Murasa1b:What's going on? The Lunar Veil was supposed to keep us on course! 
+
+Ichirin4b:...Looks like its effects suddenly weakened. 
+
+UsagiR2c:Could it have finished its guidance?! 
+
+Patchouli1d:We're caught in the moon's gravity, so at this rate we'll fall to the surface! 
+
+Mystia2a:What do you mean "fall"?! Nobody said anything about falling!
+
+Keine1a:Reimu, can't you get help from Sokotsutsu-no-O-no-Mikoto? 
+
+Reimu1a:Well, I can at least try...
+
+Reimu3d:He says: "That was a long voyage. Thanks for all your hard work."
+
+Nitori2a:Whaaaaat?! He's peacing out?! Come on, can't he stick around until we actually land?!
+
+Alice1a:Just grab on to something! We're going to hit the water! 
+
+Murasa2a:All hands, brace for impact! NAMUSAAAN!
+
+<SE=se_talk_fall01.ogg,wait=0>
+
+<Code=(map_shake,1,60,2)>
+
+<Code=(transition_out,c_black,60,1)>
+
+<Code=(sound_is_stopped,SE)>
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP（配置前）
+
+<nomove>
+
+<Code=(cursor_jump,304,320,0)>
+
+Marisa1b:...It's water.
+
+<Code=(cursor_jump,320,320,0)>
+
+Reimu3a:It's water, alright...
+
+<Code=(cursor_jump,320,192,0)>
+
+Sunny5a:Hey! Reimu! Marisa!
+
+<Code=(cursor_jump,352,192,0)>
+
+Elliy3b:Stop moping and come swim with us!
+
+<Code=(cursor_jump,320,320,0)>
+
+Reimu3a:Sheesh, they sure started enjoying themselves quickly.
+
+Reimu3a:We barely just got done with our spectacular crash landing.
+
+</nomove>
+
+Ichirin0a:Well, the ship's still intact so a little merry-making might be in order.
+
+Murasa0c:...Maybe the Lunar Veil stopped working because we crossed the moon's barrier?
+
+Murasa4a:Anyway, I'm just glad nothing broke from the impact.
+
+Koakuma3d:Is everyone going swimming then?
+
+Koakuma3b:I thought something like this might happen, so I brought some swimsuits.
+
+Patchouli4c:You all can go do that. I'll be here reading a book.
+
+Alice5b:Clothes like these show far too much skin... I could never wear this in public.
+
+Merlin4b:Oh come on! This is a chance to put yourself out there. Don't just sit it out!
+
+Sanae4b:What about you, Nitori? There are some cute ones here.
+
+Nitori4b:Hmmm. My clothes are already amphibious, though.
+
+<nomove>
+
+<Code=(cursor_jump,464,352,1)>
+
+Cirno4c:What's up with them? Getting all excited just because they're good at swimming...
+
+<Code=(cursor_jump,480,352,0)>
+
+Wriggle4b:Seawater and I don't mix, and it's more fun playing in the sand anyway.
+
+<Code=(cursor_jump,480,384,0)>
+
+Luna1a:Hey, look at this. Doesn't this rock look kinda like the moon?
+
+<Code=(cursor_jump,496,384,0)>
+
+Daiyosei0b:You're right. It's prettier than the other rocks.
+
+<Code=(cursor_jump,512,320,0)>
+
+Flan3d:Hee hee. Catch me if you can, Remi!
+
+<Code=(cursor_jump,448,320,0)>
+
+Remilia4a:Slow down, Flan! You might hurt yourself if you trip and fall in the water!
+
+<Code=(cursor_jump,384,544,1)>
+
+Sakuya0a:...Looks like the mistresses are getting along.
+
+<Code=(cursor_jump,400,544,0)>
+
+Meiling0a:You're right. To think it's only been a short while since they started going outside.
+
+<Code=(cursor_jump,416,560,0)>
+
+Sho0a:I never knew there were so many peach trees on the lunar shores.
+
+Sho0c:Though, an orchard right on the coast? The climate here must be absurd.
+
+<Code=(cursor_jump,432,560,0)>
+
+Nazrin0b:Maybe they're trying to pretend like this is heaven.
+
+</nomove>
+
+Youmu3a:...Is it really okay for us to be so relaxed about all this?
+
+Youmu0a:You'd think there would at least be some soldiers to guard against intruders...
+
+Udonge3b:There absolutely are, but incidents pretty much never happen up here. They're probably slacking off.
+
+UsagiR0b:For now, should we just wait for the Watatsukis to catch wind of this and show up?
+
+UsagiR1a:Then I could deliver Lady Yagokoro's letter to them.
+
+<pause>
+
+Udonge4c:...!
+
+<nomove>
+
+<Code=(cursor_jump,336,544,1)>
+
+GyokutoT1a:Whoa, there they are! There really were intruders.
+
+<Code=(cursor_jump,320,560,0)>
+
+GyokutoT0a:Is that thing made of wood? Did they actually manage to fly that here?
+
+</nomove>
+
+Udonge1c:Those are rabbits from the defense force. Looks like they're noticed you already.
+
+UsagiR0a:But Lady Watatsuki isn't with them.
+
+Ichirin0b:In that case, we should have a word with them and remain vigilant.
+
+Ichirin0a:Everyone return to the ship. We'll group up, just in case.
+
+<end>
+
+<ChatID:2>----------------------------------------
+//1PP（配置後）
+
+Star4a:Aw... just when we finally got to play in the water.
+
+Elliy0a:It is what it is. The guard's here now.
+
+Lunasa0a:So are those rabbits over there the moon's soldiers?
+
+Youmu1c:They must be. Reisen confirmed it―
+
+Youmu0a:Wait, where'd she go?
+
+Murasa3c:She's hiding under the cushions on the bridge. She REALLY doesn't want to be found.
+
+Nazrin3a:Well, it is always a hassle to run into old acquaintances when dropping by your old neighborhood.
+
+Remilia0a:Hey, you. Rabbits. We're visitors from the Earth.
+
+<nomove>
+
+<Code=(cursor_jump,336,544,1)>
+
+GyokutoT0a:Bwuh?! From the Earth?!
+
+</nomove>
+
+Sakuya5b:That's right. We'd like to speak with your leaders, the Watatsuki sisters.
+
+Sakuya0a:So if you don't mind, could you call for them?
+
+<nomove>
+
+<Code=(cursor_jump,336,544,1)>
+
+GyokutoT2a:...Wh-What do we do?! They know about the Watatsukis...?
+
+<Code=(cursor_jump,320,560,0)>
+
+GyokutoT0a:Don't ask me! Someone went to go get them, right?
+
+<Code=(cursor_jump,352,560,0)>
+
+GyokutoT2a:But for now, if we don't fight them we're gonna get yelled at later.
+
+<Code=(cursor_jump,320,560,0)>
+
+GyokutoT1a:Yeah, I mean, that's our job...
+
+</nomove>
+
+Marisa0d:...Guess we're not gonna be having a proper conversation with them.
+
+Alice4a:They seem to be preparing to fight. Their knees are shaking, though.
+
+Reimu0g:Well, I'm feeling a bit stiff from the journey too, so how about we take this chance to finally stretch our legs?
+
+<end>
+
+<ChatID:3>----------------------------------------
+//3EP
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char5,0,0,1)>
+
+GyokutoT0a:Enemy sighted! Those must be the invaders from Earth!
+
+<Code=(cursor_jump_unit,Char6,0,0,0)>
+
+GyokutoS1a:Prepare yourselves, coast guard rabbits!
+
+</nomove>
+
+Sunny1a:Watch out everyone, there are more of them over there!
+
+Mystia4b:What are coast guard rabbits?
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char5,0,0,1)>
+
+GyokutoT1a:We're the highly motivated rabbits who guard our shores.
+
+<Code=(cursor_jump_unit,Char6,0,0,0)>
+
+GyokutoS1a:Rabbits! The incident isn't happening in the Lunar Capital. It's happening right here on the coast!
+
+</nomove>
+
+Kurumi1a:They're just stating the obvious, but they look so cool doing it!
+
+Elliy3a:Should we lock down the bridge for now?
+
+Keine4a:I know there's no getting out of this, but we're not going to get anywhere just fighting rabbits.
+
+Keine0a:You're a moon rabbit. Could you ask them to call in the Watatsuki sisters?
+
+UsagiR2c:Well, it's kinda hard to go waltzing back in after deserting...
+
+UsagiR1a:But don't worry, once the Watatsukis get here, I'll go out and talk to them!
+
+Keine3a:Well, I suppose that's that then...
+
+<end>
+
+<ChatID:4>----------------------------------------
+//最後の玉兎を撃破
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,GyokutoT_en)>
+
+GyokutoT2a:Ugh, these girls are strong! I give up.
+
+GyokutoT0a:We tried, so no one can say we didn't do our job, right?!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,GyokutoS_en)>
+
+GyokutoS2a:Ugh, these girls are strong! I give up.
+
+GyokutoS0a:We tried, so no one can say we didn't do our job, right?!
+
+</Cond>
+
+<pause>
+
+Meiling0a:Well, that takes care of that. For a military unit, they weren't all that strong...
+
+UsagiR0b:Well, Reisen's an exception. Normal rabbits are pretty much like this.
+
+Sanae0b:But the Watatsukis still haven't shown up.
+
+Sanae0a:I think someone went to summon them, so I hope they get here sooner rather than later...
+
+Marisa1c:It'd be better if we could go look for them ourselves, but that's not happening.
+
+Alice0a:If we aren't careful, this alert over an "invasion" could escalate.
+
+Udonge1c:Just putting this out there now—when the Watatsukis show up, don't do anything stupid.
+
+Udonge4a:Not even anyone in the Lunar Capital is a match for those two.
+
+Reimu4a:Huh. If you're speaking that highly about them, now I'm more curious what they're like.
+
+Udonge3b:Well, the older sister Toyohime is blessed with natural good fortune and carries the latest lunar weaponry.
+
+Udonge4b:And the younger sister Yorihime was born with an extremely powerful ability.
+
+Wriggle0b:She was...?
+
+Udonge1c:Yes. Not even you people could—
+
+Udonge2b:...!!
+
+<pause>
+
+UsagiR2c:What's wrong, Reisen?
+
+Udonge2b:...A familiar wavelength is approaching. There's no doubt!
+
+Nitori2a:I can feel something coming over here. Do you think it's...
+
+Youmu1a:I feel it too. This aura belongs to no ordinary person.
+
+Youmu2c:This overwhelming pressure and highly honed sword aura...
+
+<Code=(cursor_jump,336,672,1)>
+
+<nomove>
+
+<hide=all>
+
+Yorihime0a:...It's just as the reports said.
+
+</hide>
+
+<pause>
+
+<Code=(icon_set_direction,All,Yorihime_en,0)>
+
+Reimu2a:...!
+
+Marisa2b:Even more rabbits?! And some kind of leader type, standing right in the middle...
+
+UsagiR2c:L-Lady Yorihime...
+
+Yorihime0b:I would never have imagined the lunar barrier being breached so easily.
+
+Yorihime0a:But now that Watatsuki no Yorihime is here, this little charade is at its end.
+
+<end>
+
+<ChatID:5>----------------------------------------
+//戦闘前会話：霊夢
+
+Reimu3a:If Sokotsutsu-no-O-no-Mikoto knew we were going to crash, he could have at least have told us.
+
+Reimu3a:Oh well, nothing for it now. Guess I'll do some sightseeing.
+
+<end>
+
+<ChatID:6>----------------------------------------
+//戦闘前会話：魔理沙
+
+Marisa0b:Space is practically in spitting distance, but here I am, breathing normally.
+
+Marisa0a:I guess you just have to take everything one step at a time.
+
+<end>
+
+<ChatID:7>----------------------------------------
+//戦闘前会話：早苗さん
+
+Sanae6e:We're the first people to stand on the moon without protective suits!
+
+Sanae5d:...Nobody would have appreciated that back in Gensokyo.
+
+<end>
+
+<ChatID:8>----------------------------------------
+//戦闘前会話：アリス
+
+Alice4a:...The swimsuit Koakuma gave me was actually kind of cute.
+
+<nomove>
+
+Shanghai0a:Shanghaaaai.
+
+</nomove>
+
+Alice0d:You think so too, Shanghai? I'll make one for you sometime.
+
+<end>
+
+<ChatID:9>----------------------------------------
+//戦闘前会話：慧音
+
+Keine0a:What amazing lunar energies. I should be able to transform whenever I want here.
+
+Reimu0a:So even if it's not nighttime, it works as long as you have some lunar energy?
+
+Keine0a:Yes, though I wouldn't be able to do this back on Earth.
+
+Keine0b:Although... perhaps if I found some way to store the energy?
+
+<end>
+
+<ChatID:10>----------------------------------------
+//戦闘前会話：にとり
+
+Nitori4d:Wow, I've never seen an ocean before. It sure is huge.
+
+Nitori3c:I'd love to go swimming, but I don't know if I can breathe in salt water...
+
+<end>
+
+<ChatID:11>----------------------------------------
+//戦闘前会話：ルーミア
+
+Rumia3a:So the moon is a place where I can eat all the peaches I want?
+
+Rumia4a:It was worth coming here just for this.
+
+<end>
+
+<ChatID:12>----------------------------------------
+//戦闘前会話：大妖精
+
+Daiyosei5d:The Earth looks so round and blue from here.
+
+Daiyosei5e:So where are our houses? I can't see them at all.
+
+<end>
+
+<ChatID:13>----------------------------------------
+//戦闘前会話：チルノ
+
+Cirno3b:Since I'm here, I want a souvenir to mark the trip.
+
+Cirno0b:It'd be cool if there was a moon frog to freeze, but this water doesn't even have fish in it...
+
+<end>
+
+<ChatID:14>----------------------------------------
+//戦闘前会話：咲夜さん
+
+Sakuya5b:Doesn't seem like there are any ingredients to gather here other than the peaches...
+
+Sakuya0a:Although perhaps I'd be able to find some seaweed underwater.
+
+<end>
+
+<ChatID:15>----------------------------------------
+//戦闘前会話：美鈴
+
+Meiling5a:Seeing all these peaches reminds me of the motherland.
+
+Meiling0c:Normally peaches grow on trees in mountains, though. How are they here?
+
+<end>
+
+<ChatID:16>----------------------------------------
+//戦闘前会話：パチュリー
+
+Patchouli0b:I read in a book that the moon's gravity is a fraction of what the Earth has, but there doesn't seem to be any difference here.
+
+Patchouli6b:It's all well and good to leave records of your knowledge, but I really wish they wouldn't make up nonsense.
+
+<end>
+
+<ChatID:17>----------------------------------------
+//戦闘前会話：小悪魔
+
+Koakuma4b:Looks like we're not going to go swimming now that these soldiers have shown up.
+
+Koakuma4a:Too bad. I even remembered to bring a parasol for Lady Patchouli.
+
+<end>
+
+<ChatID:18>----------------------------------------
+//戦闘前会話：レミリア
+
+Remilia1e:This place is nicer than I expected. Good thing, too I wouldn't have wanted to disappoint Flan.
+
+Remilia6a:I could live without her asking when we're going to go to Mars next though.
+
+<end>
+
+<ChatID:19>----------------------------------------
+//戦闘前会話：フラン
+
+Flan0d:I was playing tag with Remi, so could you not get in the way?
+
+Flan2d:If you want to play that much, then I'll play with you!
+
+<end>
+
+<ChatID:20>----------------------------------------
+//戦闘前会話：エリー
+
+Elliy1a:Elly rises on the moon!
+
+Elliy2a:If only Yuuka were here to see my cool adventures...
+
+<end>
+
+<ChatID:21>----------------------------------------
+//戦闘前会話：くるみ
+
+Kurumi3c:So all these moon bunnies eat mochi every day?
+
+Kurumi1c:But if you eat that much of it, it'd definitely get stuck in your throat!
+
+<end>
+
+<ChatID:22>----------------------------------------
+//戦闘前会話：サニー
+
+Sunny0a:It's supposed to be super early in the morning, but I'm feeling wide awake.
+
+Sunny6a:But it's already noon on the moon? I don't get it...
+
+<end>
+
+<ChatID:23>----------------------------------------
+//戦闘前会話：ルナ
+
+Luna3c:This rock I found must be amazing!
+
+Luna3b:But just in case, I'd better find some more too.
+
+<end>
+
+<ChatID:24>----------------------------------------
+//戦闘前会話：スター
+
+Star0a:I haven't seen any fairies up here.
+
+Star0c:Are they just shy and staying hidden? I'm not detecting any presences from them at all, though...
+
+<end>
+
+<ChatID:25>----------------------------------------
+//戦闘前会話：ルナサ
+
+Lunasa0a:...I can see the Earth from here. This would be excellent inspiration for a song.
+
+Lunasa0a:I'll turn what I'm feeling and thinking right now into music...
+
+<end>
+
+<ChatID:26>----------------------------------------
+//戦闘前会話：メルラン
+
+Merlin2a:Aww, and here I thought we were all finally going to go swimming.
+
+Merlin0a:We're gonna be on vacation after this, so I gotta stay happy!
+
+<end>
+
+<ChatID:27>----------------------------------------
+//戦闘前会話：リリカ
+
+Lyrica0a:The stars look a lot prettier here than on Earth.
+
+Lyrica0a:Still, I guess it's the fate of all stars to be outshone by the sun...
+
+<end>
+
+<ChatID:28>----------------------------------------
+//戦闘前会話：星
+
+Sho3d:I don't get to eat peaches very often on Earth, so it's nice to see so many.
+
+Sho0a:I'd like to bring some back with me, but they'd probably go bad on the way home...
+
+<end>
+
+<ChatID:29>----------------------------------------
+//戦闘前会話：ナズーリン
+
+Nazrin0b:And now we're invaders, the worst kind of guest.
+
+Nazrin4a:I'd better tread real carefully and not indulge in any wishful thinking.
+
+<end>
+
+<ChatID:30>----------------------------------------
+//戦闘前会話：聖輦船
+
+Murasa0a:It looks like the Palanquin Ship is fine.
+
+Ichirin0a:The reactor output is nominal, and the spiritual cannons are in good shape. Pretty sturdy ship, isn't she?
+
+Ichirin0a:Let's be careful with it, though, since we need it to get back.
+
+<end>
+
+<ChatID:31>----------------------------------------
+//戦闘前会話：リグル
+
+Wriggle0c:Come to think of it, I haven't seen any fellow bugs up here.
+
+Wriggle0a:Maybe this place just doesn't support life at all...
+
+<end>
+
+<ChatID:32>----------------------------------------
+//戦闘前会話：妖夢
+
+Youmu0a:So these are Reisen's former companions.
+
+Youmu3a:I just hope they don't find her or capture her...
+
+<end>
+
+<ChatID:33>----------------------------------------
+//戦闘前会話：ミスティア
+
+Mystia3c:Going to the beach, la dee la la lee...
+
+Mystia3d:The Earth is a great place! Come back soon!
+
+<end>
+
+<ChatID:34>----------------------------------------
+//戦闘前会話：橙
+
+Chen3a:I wonder if Miss Ran will be proud of me for coming to the moon.
+
+Chen3c:I should try to find her some fried tofu to bring back for her!
+
+<end>
+
+<ChatID:35>----------------------------------------
+//全滅時
+
+Murasa5a:We came all this way to the moon just to get shot down...
+
+Ichirin2a:We must've been in real bad shape after the crash.
+
+UsagiR0c:Hey, wait! I figured out what went wrong!
+
+UsagiR1a:I found an important bolt underneath a seating cushion!
+
+Ichirin1a:A bolt...?!
+
+Unzan0a:...! ...!!
+
+Murasa0d:Ichirin, what did Unzan just say?!
+
+Ichirin2a:...He says this happened because his own abilities weren't up to par.
+
+Ichirin2a:He also says he'll take responsibility by becoming a bolt himself.
+
+UsagiR0b:Wait, what?
+
+Udonge0a:I could see that being possible with a nyudo's power.
+
+Udonge1a:When you're on an express trip through the galaxy, you eventually become a bolt. That's just how it works in space.
+
+<end>
+
+<ChatID:36>----------------------------------------
+//まくら初戦闘
+
+Makura3a:It was a long voyage to the moon, but... it was rather pleasant spending the entire time in bed.
+
+Makura1c:Still, so this is the moon I've heard so much about...
+
+Makura1a:At least one of my kind left Earth to stay here. I wonder if she lives nearby.
+
+<end>
+
+<ChatID:37>----------------------------------------
+//メーコ初戦闘
+
+Meko4f:Yay! The beach!
+
+Meko3b:In the past, they left me behind on Earth, and I couldn't come on the first dream voyage either.
+
+Meko0e:So now that I'm finally here, I'm gonna make the most of it!
+
+<end>
+
+<ChatID:38>----------------------------------------
+//神綺初戦闘
+
+Shinki0d:What a lovely sea. Maybe I should dip my toes in...
+
+Shinki2a:No, I mustn't! Last time we came here in a dream, I nearly drowned and Alice scolded me.
+
+<end>
+
+<ChatID:39>----------------------------------------
+//紫初戦闘
+
+Yukari0d:I haven't been here since our last dream voyage to the moon.
+
+Yukari1a:It's not such a bad place, when you're not distracted with preparing for the worst. Let's take our time here.
+
+<end>
+
+<ChatID:40>----------------------------------------
+//幽々子初戦闘
+
+Yuyuko1c:The moon has quite a unique atmosphere, doesn't it?
+
+Yuyuko1a:I wonder if I could sneak off and go sightseeing in the capital.
+
+<end>
+
+<ChatID:41>----------------------------------------
+//依姫初戦闘
+
+Yorihime0a:...Once again, I've returned to the moon in a dream.
+
+Yorihime0b:I hope we can all behave ourselves though, or this will get complicated.
+
+<end>
+
+<ChatID:42>----------------------------------------
+//豊姫初戦闘
+
+Toyohime0c:We finally made it. It would've been instant if I'd just connected mountain and sea though.
+
+Toyohime0b:Still, passing the time in a ship has its own charm.
+
+<end>
+
+<ChatID:43>----------------------------------------
+//永琳初戦闘
+
+Eirin0e:...No matter how many times I visit here in a dream, it's always such a peculiar sensation.
+
+Eirin4a:I was certain I would never see this scenery again, but to think I'd be back like this. Such is the difficulty with predicting the future.
+
+<end>
+
+<ChatID:44>----------------------------------------
+//輝夜初戦闘
+
+Kaguya3f:The lunar sea, how nostalgic.
+
+Kaguya3e:But nothing more. To think we'd be yearning for the distant Earth. Even I am no exception.
+
+<end>
+
+<ChatID:45>----------------------------------------
+//天子初戦闘
+
+Tenshi0c:So this is the land of the moon...
+
+Tenshi0e:I'd say the celestials are imitating the Lunarians, but I wonder what's really going on.
+
+<end>
+
+<ChatID:46>----------------------------------------
+//衣玖初戦闘
+
+Iku0e:I see, so this is the moon.
+
+Iku0a:I wish we could catch a glimpse of a true celestial maiden.
+
+<end>
+
+<ChatID:47>----------------------------------------
+//幽香初戦闘
+
+Yuka2d:How long has it been since I met these moonfolk all at once?
+
+Yuka1a:Might as well pick a little fight, for old time's sake.
+
+<end>

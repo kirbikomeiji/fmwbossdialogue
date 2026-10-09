@@ -1,0 +1,1156 @@
+﻿○霊夢第四話「霧中の戦い
+
+<ChatID:0>--------------------------------------------------
+//ADVA
+
+<BG=bg_talk_Village.png,fade=0,color=1,title=*bg_Shrine,bgm=bgm_talk_aoki>
+
+Keine0b:Sorry about yesterday, Reimu. Here, it's on me.
+
+Reimu3c:This is Taiyaki Maryuu Azking! You're really giving this to me?
+
+Keine6c:Of course. Eat up! There's plenty more where that came from.
+
+Reimu0g:Thank you! I had you all wrong, Keine.
+
+Reimu0b:I thought you were just some annoying know-it-all who doesn't know when to stop talking.
+
+Keine6d:Hahaha! When you're right, you're right.
+
+Reimu5c:Well, time to dig in! *chomp*
+
+Keine1a:Wait, hold on.
+
+Reimu2b:...Mm?
+
+Keine0c:Reimu, we don't have time for that.
+
+Reimu3a:Where did that come from? Didn't you just tell me to eat up?
+
+Reimu4a:What, do you want me to share it with you now? Too bad, you snooze, you lose.
+
+Keine1a:Reimu.
+
+Reimu2b:What? I hear you.
+
+Keine0b:...Reimu.
+
+Reimu3c:Huh? You're getting kinda close there, Kei—
+
+Reimu0d:Huh? You're getting kinda close there, Kei— hey, back off!
+
+Keine5a:Reimu. Reimu...
+
+Keine1a:REIMU.
+
+Reimu2a:Gah!
+
+<BG=bg_talk_Shrine.png,fade=1,color=0,title=*bg_Shrine>
+
+<Code=(demo_wait,15)>
+
+<Code=(sound_fadein,BGM,30,1)>
+
+Reimu2a:...Wh-Wha?
+
+Keine0b:Ah, you're finally awake. Must you make me yell right in your ear?
+
+Reimu0e:I'm in...the shrine? But what about the taiyaki?
+
+Keine3a:What are you talking about?
+
+Keine0b:*sigh* You were dreaming about taiyaki? That's why you had a grin on your face?
+
+Reimu0f:...
+
+Reimu2b:I guess you're inconsiderate in any world, Keine.
+
+Keine1a:Enough with the sleep-talk. We don't have time for idle chatter. Hurry up and get ready!
+
+Reimu2a:Hey! Wait!
+
+Reimu0d:I can dress by myself, you know! Sheesh, first you wake me up and now this?
+
+Keine1a:...Akyu's collapsed. I want you to help me move her somewhere safe, away from the village.
+
+<Code=(sound_fadeout,BGM,30,0)>
+
+<BGM=bgm_talk_inishie,0>
+
+Reimu3b:What did you say?
+
+Reimu1a:Okay, let's start from the beginning instead of the end. What do you mean, she collapsed?
+
+Keine0a:It would be faster if you'd just take a look outside.
+
+Reimu3c:Wha...! What is this?!
+
+Reimu0a:When did the mist get this thick? It was way lighter yesterday...
+
+Keine0b:It was like this when I woke up this morning. I don't know the reason, but it seems like it grew abruptly thicker last night.
+
+Reimu0a:The altitude of this area is pretty high... If it's this thick here, then...
+
+Keine2a:You got it. The human village is totally enveloped in mist. You can barely even see down there.
+
+Keine2a:Many humans have already taken ill after breathing it in.
+
+Reimu1a:I'd believe it, considering how thick it's gotten. It's probably best if they just stay indoors.
+
+Keine0a:I talked to the village elder earlier and told him to let people know not to leave their homes if at all possible.
+
+Keine1a:The humans in good health are just feeling a bit ill, but for someone with a weak constitution like Akyu, it's a different story altogether.
+
+Keine1a:If she has a bad reaction to the mist, it could take years off her life.
+
+Reimu0a:...
+
+Reimu0a:That's not all. If the mist has already reached the shrine...
+
+Reimu1a:...Then it might spill over into the Outside World if we don't do something about it.
+
+Keine1a:Then we have even less time to waste.
+
+Reimu0a:Yeah, guess it's time to get real serious about resolving this.
+
+Keine0a:I'm glad to see you've realized the gravity of the situation.
+
+Reimu1a:Yeah. Let's go exterminate some youkai right now!
+
+Keine0a:I believe we should move Akyu first.
+
+Keine0c:The elevation is high here, and the area technically counts as sacred ground. It should at least beat staying in the village for her.
+
+Reimu4a:Well, excuse me for not having a nicer shrine.
+
+Reimu0a:I agree with your point, though. We'll bring Akyu here and then go and resolve this incident.
+
+Keine1a:Thanks. Let's hurry!
+
+<MAP=1,FROM=人間の里,TO=人間の里,name=Hieda Manor,icon=5>
+
+<BG=*bg_talk_Hieda.png,fade=1,color=1,title=*bg_Hieda,bgm=bgm_talk_ningyo>
+
+Akyu2a:*pant, pant*
+
+Youmu3a:How are you feeling? This is all the medicine I could find in the cabinet. I can only hope one of them works...
+
+Akyu3e:...I feel terrible not being able to properly host you after you came all this way to visit.
+
+Youmu1a:Hosting is the least of our concerns. Your health is the most important thing right now. Please try and get some rest.
+
+Youmu3a:I'm just glad I happened to be here, since I can still move in the mist...
+
+Akyu0a:...Thank you very much.
+
+Akyu3e:But please, don't worry too much on my behalf. It's just a mild fever.
+
+Youmu1a:It's... because of this scarlet mist, right?
+
+Akyu3e:Probably, yes. But I doubt it's enough to put me in any serious danger.
+
+Youmu0a:But it's already put you in terrible shape.
+
+Youmu2b:Oh, I know!
+
+Youmu1a:I applied some weather strips to the windows. Shall I put some on the doors as well?
+
+Akyu3c:No one will be able to enter or leave if you do that.
+
+Akyu0a:I'm fine, really. Calm down.
+
+Youmu3a:S-Sorry. I'm not used to taking care of sick people, so I suppose I panicked a bit.
+
+Akyu3c:No, I appreciate your concern.
+
+Akyu0a:I am sure Keine will find some place the mist doesn't reach. Let's just give her a bit.
+
+Youmu0a:Alright. You should get some rest until—
+
+<SE=se_talk_door_open03.ogg,wait=1>
+
+Youmu2b:Alright. You should get some rest until— Ah, I think that's her now.
+
+Keine1a:Akyu! Are you okay?
+
+Youmu1a:Hello, we've been waiting for you!
+
+Reimu0e:Hey, you're... Youmu, right?
+
+Keine0a:Were you looking after Akyu?
+
+Youmu0a:Yes. I came by a little while ago and found her in bad shape.
+
+Akyu0a:I'm doing a bit better now, thanks to her.
+
+Keine0a:That's good to hear. Do you think you can walk? Just for a bit?
+
+Akyu0a:Yes, I should be able to manage a little walking.
+
+Keine1a:Alright, let's move her before it gets any worse.
+
+Keine0a:As I thought, the mist is thinner at the shrine due to its high altitude. It should be somewhat better than staying here.
+
+Akyu0a:...Alright. I'll get ready.
+
+Youmu0a:Is it really okay to move her? She's not in the best of shape.
+
+Reimu0f:If this incident takes a while to resolve, she'll be in much more danger if she stays here.
+
+Reimu0a:Obviously I don't plan on dragging my feet, but it's good to cover our bases.
+
+Keine0c:I'll carry Akyu on my back. If we can fly over the mist, then it shouldn't affect her as much.
+
+Youmu0a:Understood. In that case, would you allow me to accompany you?
+
+Youmu1a:I have work to do after this, but after seeing Akyu's condition, this is hardly something I can ignore.
+
+Reimu0a:Fine by me.
+
+Keine6c:I'm quite grateful for the help.
+
+Keine0a:Though, I must say I'm impressed you came here for research two days in a row. You can never have enough good students.
+
+Youmu3a:Oh... I, um...
+
+Akyu0a:Sorry for the delay. I'm ready when you are.
+
+Keine0a:Looks like we're all set.
+
+Reimu0b:Okay, then let's get a move on.
+
+Youmu1a:Right!
+
+Youmu3a:(The truth is I just forgot the notes I wrote about the results of my investigation. But I can't tell her that now...)
+
+Youmu0a:(I'll just slip them into my things while no one's looking.)
+
+<MAP=1,FROM=人間の里,TO=神社に続く小道,name=Path to the Shrine,icon=0>
+
+<end>
+
+<ChatID:1>---------------------------------------------
+//1PP
+
+Reimu0a:We'll be there soon.
+
+Youmu3a:This is the first time I've visited a shrine. I must say, though, the road's in pretty bad shape.
+
+Youmu0a:It seems like it'd be scary to travel here when it's dark.
+
+Reimu0f:Oh yeah, we get tons of ghosts at night.
+
+Youmu2a:What?! Ghosts kind of freak me out...
+
+Reimu2b:Aren't YOU half-ghost?
+
+Akyu2a:*pant, pant*
+
+Keine2a:Sorry, Akyu. Just hang on a little longer.
+
+Akyu3e:I'm fine. Are you sure I'm not too heavy?
+
+Keine0a:Actually, you're pretty light. It's like you're not even there.
+
+Keine6c:I'd be in trouble if I got challenged to a danmaku battle right now, though. We're almost there, so let's try and power through the rest.
+
+<Code=(icon_set_direction,Reimu,Keine,0)>
+
+Reimu0c:Keep it up, Keine! You look like you were made for this job.
+
+Keine0b:Why does it sounds like you're mocking me?
+
+Akyu3c:*giggle* You know, it is rather comfortable back here.
+
+Keine5a:Not you too, Akyu! I can't believe you even joke at times like this.
+
+Keine3a:It's strange, though. All the kids at school say I'm bad at giving piggyback rides...
+
+Youmu2b:...Huh?
+
+<pause>
+
+Yousei21a:...
+
+<Code=(icon_set_direction,Reimu,Yousei2_en,0)>
+
+Youmu1c:Oh, a fairy.
+
+Keine2b:A fairy?! Could that mean...?
+
+Yousei20b:Yes, this is Charlie! I've spotted the humans, over!
+
+<pause>
+
+Reimu0f:Sure enough, there's a whole bunch of 'em.
+
+Keine1a:Honestly, we have more pressing concerns than indulging fairy pranks right now...
+
+<Code=(icon_set_direction,Youmu,FD_LEFT,0)>
+
+Youmu1a:!
+
+Youmu1a:Keine, behind you!
+
+Keine2b:What...?
+
+<Code=(icon_set_direction,Reimu,FD_LEFT,0)>
+
+<Code=(icon_set_direction,Keine,FD_LEFT,0)>
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,576,272,0)>
+
+Yousei21a:Hey, look! A double-decker human!
+
+</nomove>
+
+Yousei11a:You're right! She looks like a turtle or something. Hee hee! Let's split them apart and play with them!
+
+Keine2a:Reinforcements from behind?!
+
+Reimu1a:Watch out, Keine!
+
+<pause>
+
+Keine2a:Oof!
+
+<nomove>
+
+Akyu2b:Keine!
+
+</nomove>
+
+Youmu1a:This is bad. I didn't sense them at all!
+
+Reimu2b:We got careless and walked right into a pincer...
+
+Reimu1a:Keine, are you okay?!
+
+Keine2a:Yes, it just grazed me.
+
+Keine2a:I can't take too manymore hits, though.
+
+Youmu1b:This is a problem. We'd better protect Keine!
+
+Reimu0f:But if we only focus on one front then it'll be hard to deal with the other group.
+
+Keine2a:We'll just have to push through while defending as much as we can.
+
+Akyu3e:...
+
+Akyu1a:Keine, put me down, please.
+
+Keine2b:Wait, what? I'm fine. I can still carry you.
+
+Akyu3d:No, the mist has grown thicker and made the fairies even more powerful.
+
+Akyu1a:If you keep trying to protect me, then both of us might be defeated.
+
+Keine1a:You have a point, but still...
+
+Akyu0b:I've heard that predicting the enemy's movements and striking at the right time is one of the principles of youkai extermination.
+
+Akyu1a:If you divide the work between three people, you should have a much easier time intercepting them.
+
+Keine2a:...
+
+Keine1a:Alright. Don't push yourself, though. Just try and keep yourself safe!
+
+<Code=(icon_set_direction,Keine,FD_RIGHT,0)>
+
+<pause>
+
+Reimu0e:Keine? Why are you putting Akyu down?
+
+Keine1a:She's going to walk for a bit until we take care of these fairies.
+
+Youmu2b:What?! Is that okay?
+
+Keine1a:Of course it isn't!
+
+Keine1a:That's why we need to defeat them as fast as possible or protect Akyu until she can get away from the battle area.
+
+Keine0c:I'll cover the back. Reimu and Youmu, you two take care of the ones in front and secure a path to the shrine.
+
+Reimu1b:Alright. Akyu, how long do you think you can walk?
+
+Akyu4b:About 10 minutes, most likely... I don't think I can do more than that.
+
+Youmu1a:Understood. In other words, we need to defeat the enemy within 10 minutes...
+
+<Code=(icon_set_direction,Youmu,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Keine,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Reimu,FD_RIGHT,0)>
+
+<pause>
+
+Youmu1a:...Or escort Akyu to this point within 10 minutes!
+
+Reimu1a:Yup. Don't let your guard down!
+
+<Code=(icon_set_direction,Keine,FD_LEFT,0)>
+
+Keine1a:Alright... I won't let them place a finger on Akyu!
+
+<end>
+
+<ChatID:2>------------------------------------------
+//ルーミア増援
+
+Rumia0d:Oh, hello. It's been a day, huh?
+
+Youmu2b:It's the youkai from yesterday!
+
+Rumia1a:What a fluke of luck. Time to get revenge for yesterday!
+
+Keine3a:Just what we needed...
+
+Keine0b:She's between us and the shrine, though. We won't be able to advance unless we beat her.
+
+Reimu2b:Well, I'd beat her anyways since she's a youkai.
+
+Rumia0b:Huh? Are you listening to me?
+
+Youmu0a:Sorry, we're a little busy.
+
+Rumia1a:Now you're making fun of me! You're gonna regret that.
+
+<end>
+
+<ChatID:3>----------------------------------------
+//ルーミアとの初戦闘前
+
+Rumia1a:Things are gonna go different today!
+
+<end>
+
+<ChatID:4>----------------------------------------
+//ルーミアとの初戦闘後
+
+Rumia0d:Huh, is that it?
+
+<pause>
+
+Keine1a:What's going on? Our attacks aren't working!
+
+Rumia3a:There's no pesky sunlight out, and I'm nice and full. I'm in top form today!
+
+Youmu3a:This might take longer than we thought, and we don't have much time to begin with...
+
+Reimu1a:Looks like there's no way around it. I'll just take her out with another spellcard!
+
+Keine2b:Another one? You mean you had another one besides Evil-Sealing Circle?
+
+Reimu0a:Yeah. I guess I haven't shown it to you yet, now that you mention it.
+
+Rumia1a:It doesn't matter what you try! I don't get all this shrine maiden or wine maiden stuff anyway.
+
+Reimu5c:I wouldn't take the Hakurei Shrine Maiden too lightly, if I were you.
+
+Reimu1a:Take this! This is my trump card!
+
+<pause>
+
+Rumia2a:Owwwww!
+
+Youmu1a:What was that...?
+
+Reimu1a:Spirit Sign [Fantasy Seal]. It's a technique that pretty much seals away your opponent!
+
+Keine3a:You have a gift for making things sound less impressive the more you describe them.
+
+Youmu2b:I'm amazed, though. I never knew you had a technique like that.
+
+Reimu4a:I wasn't hiding it or anything. It's just that Keine kept butting in every time I tried to use it.
+
+Keine0a:Why, I have no idea what you're talking about.
+
+Rumia2a:Ooh... I haven't lost yet. I can still come back from this!
+
+<end>
+
+<ChatID:5>----------------------------------------
+//霊夢vs.ルーミア
+
+Reimu0d:I don't know what you're trying to do, but you've got guts to keep showing up in front of us.
+
+Rumia0c:Oh, really? Thanks!
+
+Reimu4a:Aren't you dragging this out too long for a stage 1 boss, though?
+
+Rumia2a:That's not very fair...
+
+<end>
+
+<ChatID:6>----------------------------------------
+//慧音vs.ルーミア
+
+Keine1a:You never learn, do you?
+
+Rumia0a:Oh, it's that headbutter again.
+
+Rumia1a:That left a bump last time, you know!
+
+Keine1a:If you don't want another bump then you should greet your teacher when you see her.
+
+Rumia0d:But I'm not one of your students...
+
+<end>
+
+<ChatID:7>----------------------------------------
+//妖夢vs.ルーミア
+
+Rumia0c:Oh, you don't have any taiyaki today?
+
+Youmu2b:Huh? Why are you bringing that up?
+
+Rumia3a:They were delicious last time. I hope you'll get some for me again!
+
+Youmu1a:So it was you! I was wondering why my bag felt a bit lighter.
+
+Rumia4a:Don't ask for them back. I already digested them.
+
+Youmu3a:...I wasn't going to anyway.
+
+<end>
+
+<ChatID:8>----------------------------------------
+//阿求vs.ルーミア
+
+Akyu1a:The youkai that destroyed my wall is right in front of me...
+
+Rumia0d:You're going to fight me? Is this a joke?
+
+Akyu3c:I couldn't agree more there. Please protect me, everyone!
+
+Akyu1a:The Child of Miare will place a curse your descendants if she ends up as youkai food!
+
+<end>
+
+<ChatID:9>----------------------------------------
+//残り5ターン
+
+Youmu0a:5 minutes have already passed. Let's hurry!
+
+<pause>
+
+Keine0a:Right. Remember, this is our destination.
+
+Keine0a:We need to either defeat all these enemies or escort Akyu here within 5 more turns.
+
+<end>
+
+<ChatID:10>----------------------------------------
+//残り2ターン
+
+Akyu4b:This is... getting a little rough...
+
+Youmu1a:Uh-oh, we've only got 2 turns left!
+
+<pause>
+
+Keine1a:In case you needed a reminder—this is our objective! We need to either defeat all the enemies or escort Akyu here in 2 turns!
+
+<end>
+
+<ChatID:11>----------------------------------------
+//残り1ターン
+
+Akyu2a:*huff* *pant* Urgh...
+
+Youmu1a:Akyu! Are you alright?!
+
+Reimu1a:What are you all dragging your feet for?! Our 10 minutes are almost up!
+
+<pause>
+
+Keine1a:We're out of time! We need to either defeat all the enemies or get Akyu here before this turn's over!
+
+<end>
+
+<ChatID:12>----------------------------------------
+//ルーミア撃墜（非全滅）
+
+Reimu0a:Okay, looks like we shut her up for now. In the end, she's just another youkai.
+
+Youmu1a:We should be able to advance now!
+
+Keine1a:Yes, that took more time than I'd have liked. Let's hurry!
+
+<end>
+
+<ChatID:13>----------------------------------------
+//勝利、敵全滅
+
+Keine1a:Alright, we've taken most of them down!
+
+Reimu0c:That's about how it goes when I get serious.
+
+Youmu0a:Good work, everyone. Let's go get Akyu.
+
+<end>
+
+<ChatID:14>----------------------------------------
+//勝利、目標地点到達
+
+Akyu3e:Phew... I made it all the way here in one piece.
+
+Youmu0a:Akyu's gotten away!
+
+Keine0a:Good job, Akyu!
+
+Reimu0b:No sense sticking around to deal with these guys, then. Let's move on.
+
+Keine0a:Alright. Let's go pick up Akyu.
+
+<end>
+
+<ChatID:15>----------------------------------------
+//上のいずれかの勝利条件達成後
+
+<Code=(icon_set_direction,Keine,Akyu,0)>
+
+<Code=(icon_set_direction,Akyu,Keine,0)>
+
+Keine0a:You did very well, Akyu.
+
+Akyu3a:I couldn't have done it without all of you. Thanks a bunch.
+
+Keine0a:There shouldn't be anything else in the way. The shrine's not too far off now!
+
+<Cond=(FIND_UNIT,Rumia_en,enemy,<,0)>
+
+Youmu2b:Oh, hold on.
+
+Rumia2b:Owww... I got beaten again...
+
+Youmu0a:That youkai from earlier is sprawled out over there.
+
+<Code=(icon_set_direction,Keine,FD_RIGHT,0)>
+
+Keine0a:What? Where is she?
+
+Youmu1a:Right there, hanging from a tree branch...
+
+Keine1a:Good timing. Hey, you. Come here for a second.
+
+Rumia2a:What? What do you want?
+
+Youmu0a:You're going to capture her? What are you thinking?
+
+</Cond>
+
+<Cond=(FIND_UNIT,Rumia_en,enemy,>,0)>
+
+Rumia0a:What, you aren't gonna fight anymore?
+
+Youmu0a:...It's that youkai. What do we do about her?
+
+Keine0a:Hm. I'm a bit worried about just letting her go free...
+
+Keine1a:Hey, you. Come here for a second.
+
+Rumia2a:What? What do you want?
+
+Youmu0a:You're bringing her with us? What are you thinking?
+
+</Cond>
+
+Keine1a:If she's attacking humans this often, then I can't just overlook her behavior. I'm gonna give her a good lecture.
+
+Reimu4a:Hoo boy. Keine's lectures take forever. Hope you're ready for the worst.
+
+Rumia2b:Aww... Can't I just do what I want?
+
+Keine1a:Of course not! First off...
+
+Akyu3c:Heh heh. Keine can even humble youkai...
+
+Akyu2a:Urgh...
+
+<Code=(icon_set_direction,Youmu,Akyu,0)>
+
+<Code=(icon_set_direction,Reimu,Akyu,0)>
+
+<Code=(icon_set_direction,Keine,Akyu,0)>
+
+Youmu2b:Akyu?!
+
+Reimu0a:She must've inhaled too much of this mist. We need to get her to the shrine as fast as possible!
+
+Keine1a:Sorry, Akyu. We'll be there soon!
+
+<end>
+
+<ChatID:16>----------------------------------------
+//敗北、阿求または霊夢の撃墜
+
+<Cond=(CHECK_BEATEN,Akyu,==,1)>
+
+Keine1a:Akyu!
+
+Reimu2a:No... We failed to protect her...
+
+</Cond>
+
+<Cond=(CHECK_BEATEN,Reimu,==,1)>
+
+Keine1a:REIMU.
+
+Akyu2a:This is all my fault...
+
+</Cond>
+
+<end>
+
+<ChatID:17>----------------------------------------
+//敗北、ターン超過
+
+Akyu2a:I'm sorry, everyone. I can't go on...
+
+<Code=(icon_set_direction,Youmu,Akyu,0)>
+
+<Code=(icon_set_direction,Keine,Akyu,0)>
+
+Youmu1a:Akyu!
+
+Keine2a:Akyu! How could this happen...?
+
+<end>
+
+<ChatID:18>----------------------------------------
+//ADVB
+
+<MAP=1,FROM=神社に続く小道,TO=博麗神社,name=Hakurei Shrine,icon=0>
+
+<BG=*bg_talk_Shrine.png,fade=0,color=1,title=*bg_Shrine,bgm=bgm_talk_ningyo>
+
+Reimu0g:Glad we made it here okay. Here, have some tea.
+
+Keine3a:Thanks. Still, I didn't think we'd run into so much trouble coming here from the village.
+
+Youmu0a:It looks like it was worth it, though. The mist is much thinner here.
+
+Keine0a:How's Akyu holding up?
+
+Youmu0c:Her fever has gone down considerably. She's sound asleep now.
+
+Youmu0d:That... ritual-like thing that Reimu performed seemed to work.
+
+Reimu0g:That's the power of Daikokuten. It should have removed all the taint that got into her body.
+
+Youmu3a:Well, that's a relief.
+
+Reimu0a:But Daikokuten seemed pretty preoccupied, probably due to all this mist. I'd prefer to resolve this incident as soon as possible.
+
+Keine0a:I'd like Akyu to stay here until that's done, if you don't mind.
+
+Youmu1b:Yes, I think that would be for the best.
+
+Rumia0f:...
+
+Youmu0a:...
+
+Rumia0b:Okay, I tagged along with you like you wanted. When can I leave?
+
+Reimu3c:Gah! How long have you been here?!
+
+Rumia1a:Hmph. I've been here the whole time.
+
+Youmu0c:Oh, yes. Keine said she was going to lecture you.
+
+Keine0b:That's right. I'm going to sit down and tell you just what youkai are supposed to be.
+
+Rumia2b:Huuuh?
+
+Keine4a:...Or at least, that's what I'd normally be doing. Sadly we don't have time for that now.
+
+Reimu0a:That's right. As soon as I finish eating lunch I'm gonna head out to resolve this incident.
+
+Keine1a:I'll go too. I can't just stay and watch the shrine after coming this far.
+
+Youmu0a:Do you have any idea where to start, though?
+
+Reimu0c:The lake seems suspicious enough.
+
+Keine0c:The lake? Did you find some sort of hint?
+
+Reimu0f:No, just a hunch. When I was patrolling around earlier, I didn't go far enough to reach the lake.
+
+Keine4a:Ah, your classic shrine maiden intuition.
+
+Keine2a:I suppose it's the only thing we've got right now.
+
+Reimu3b:Not to spell out the obvious or anything, but this will probably get dangerous.
+
+Keine3b:That's why I'm coming. Just on the off chance you mess up and fail.
+
+Reimu0c:I never fail. I guess you can tag along if you want, though.
+
+Youmu1a:...Um, would you mind if I came along as well?
+
+Keine0a:That would be a big help, but... didn't you say you had work to do?
+
+Youmu3a:I do, but...
+
+Youmu0a:When I look at the state the village and Akyu are in, I can't help but feel like this needs to get resolved as quickly as possible.
+
+Youmu1a:I'm sure my mistress will understand.
+
+Reimu0e:You said you're a gardener or something, right? Are gardeners really that busy?
+
+Youmu3b:Oh, yardwork isn't my only responsibility. I'm also in charge of housework; that's what keeps me busy most of the time.
+
+Keine0a:If you're that busy, you don't have to come with us, you know.
+
+Youmu1a:No, I insist. I can't possibly ignore this mist.
+
+Keine0a:Alright. Well then, let's eat and then head out.
+
+Rumia3a:Yay! I didn't know I'd be getting food!
+
+Reimu4a:What are you talking about? Go eat some weeds or something.
+
+Rumia2b:Aww...
+
+Keine3a:I don't care what you eat, but you're coming with us afterwards. And I'm going to rake you over the coals while we travel.
+
+Rumia1a:Can I at least eat the coals afterwards?
+
+Youmu3a:Are you sure we want to bring a youkai we don't know with us?
+
+Keine0a:If we're leaving Akyu here, we can't just let this youkai go.
+
+Keine1a:If she tries anything funny, I'll just punish her again.
+
+Reimu2b:I don't care what you do. Just pick a plan and go with it.
+
+Rumia1a:Hey, what if I had plans, huh?
+
+Keine0a:You don't.
+
+Rumia2a:Oof... Okay, you got me. Fiiine.
+
+Reimu2b:I'm not exactly used to making incident-resolving into a big group thing...
+
+Keine6b:The more firepower we can bring to this, the better. Youmu, Rumia, I look forward to working with you both.
+
+Reimu0c:Oh right, if we're going to investigate, we'd better make sure we have what we need.
+
+Reimu0b:Should we bring some of the shrine's sake?
+
+Youmu2b:Sake? You plan on drinking on the job?!
+
+Keine0a:As long as you don't overdo it, it should restore some stamina. I think it's a fine idea.
+
+Keine0b:But don't forget to check your equipment before we depart.
+
+Reimu0b:Alright, it's time to start the REAL investigation!
+
+<single>
+
+<hide=all>
+
+<nowindow>
+
+<Code=(demo_wait,45)>
+
+</nowindow>
+
+Aya7b:Heh heh heh...
+
+Aya0a:Not only is the shrine maiden mobilizing, but now things are getting even more exciting.
+
+Aya1b:The Mystery of the Scarlet Mist: Behind the Scenes with the Hakurei Shrine Maiden! This is gonna be a great article!
+
+Aya3b:Now to take some tantalizing pictures!
+
+</single>
+
+</hide>
+
+<end>
+
+<ChatID:19>--------------------------------------
+//霊夢で到達
+
+Reimu0e:Oh look, there are flowers over here.
+
+Reimu0b:Hmm... Doesn't look like they're edible, though.
+
+Keine1a:Hey! Reimu! What the heck are you doing all the way over there?
+
+Keine1a:Quit messing around and clean up these enemies!
+
+Reimu4a:Sheesh. You should take some time to smell the roses every now and then, Keine.
+
+Reimu0c:Oh well. I guess I'll leave these flowers here for now and go back to the danmaku battle.
+
+<end>
+
+<ChatID:20>----------------------------------
+//慧音で到達
+
+Keine0a:Huh, there are flowers here? There's something precious about flowers blooming on a battlefield.
+
+Keine0a:Maybe I'll take one and put it on the podium at school. Or maybe I could...
+
+Keine5a:Oh, but if I started bringing flowers to school, the kids might poke fun at me. But then again...
+
+Reimu3b:Keine! What are you doing way the heck over there? Do you want to protect Akyu or not?
+
+Keine2a:Erk, right.
+
+Keine0a:I must really be slipping up if Reimu's scolding me. Time to get back to the battle!
+
+<end>
+
+<ChatID:21>-------------------------------------
+//妖夢で到達
+
+Youmu2b:Wow, flowers blooming in a place like this?
+
+Youmu0a:Now that I think about it, I should re-do the flower arrangements in the mansion soon.
+
+Youmu3a:I've been arranging them ever since I was small, but my arrangements still don't hold a candle to Lady Yuyuko's.
+
+Youmu0a:Perhaps the style I learned from my teacher is too unrefined. What's the difference, though?
+
+Keine1a:Hey! Youmu! What are you doing over there? We can't protect Akyu like this!
+
+Youmu2b:...S-Sorry! I slipped into one of my work habits. Let's get back to it!
+
+<end>
+
+<ChatID:22>--------------------------------------------
+//阿求で到達
+
+Akyu0a:My, what precious flowers... And growing in a place like this, no less.
+
+Akyu0b:You can feel the fundamental power of life intrinsic to nature in flowers that bloom with the seasons.
+
+Akyu0a:Camellias in spring, lotuses in summer, cosmos in autumn, and chrysanthemums in winter.
+
+Akyu3a:Oh, I just love watching the flowers change with the seasons...
+
+Keine1a:Akyu! Why are you all the way over there?
+
+Keine1a:Don't you get up to any mischief over there! Just head for the target!
+
+Akyu4a:Erk, okay, you have a point.
+
+Akyu1a:...I blame you for pulling silly stunts! You're supposed to be protecting me!
+
+Reimu3d:...Who is she talking to?
+
+<Code=(options_words_add,Chisanahana)>
+
+<end>
+
+<ChatID:23>--------------------------------------------
+//ADVB（人間B部分）
+
+<MAP=1,FROM=人間の里,TO=人間の里,name=Human Village,icon=5>
+
+<BG=*bg_talk_Village.png,fade=1,color=1,title=*bg_Village>
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+Ran6c:...It's dead silent here.
+
+Ran4a:No surprises there, considering all the youkai energy present. I don't see any humans outdoors...
+
+Ran6e:...No, wait.
+
+HumanB0a:Urgh...
+
+Ran6b:There's actually a human outside at a time like this?
+
+Ran0a:Hey, you there.
+
+HumanB0a:...!
+
+HumanB0a:You're... the youkai that's always buying fried tofu, right?
+
+Ran6e:What are you doing out here? Breathing this mist in could kill you.
+
+Ran6c:A human like you shouldn't be able to last for more than a few minutes...
+
+Ran6b:...Oh? What's that you're holding?
+
+HumanB0a:Oh, this? When I woke up I found this amulet in my hand.
+
+HumanB0a:I'd blacked out on the side of the road, so I guess someone saved me...
+
+HumanB0a:If this thing wasn't clearing up the mist I wouldn't even be able to walk.
+
+Ran6c:...
+
+Ran4a:(It's basic, but it's still a warding talisman. That evil-warding must be keeping the mist at bay.)
+
+Ran6c:(But, that talisman...)
+
+Ran0a:How far is it to your home?
+
+HumanB0a:Not too far. Only about sixty shaku or so, I'd guess...
+
+Ran0a:You should be fine, then. Head straight home, alright? Don't overestimate the power of that talisman.
+
+Ran6b:And let this be a lesson to stay indoors for a while.
+
+HumanB0a:Yeah, okay... Thanks...
+
+<Code=(demo_wait,15)>
+
+<single>
+
+Ran6c:...That talisman the man was holding wasn't a Hakurei type.
+
+Ran6e:In other words, someone besides Hakurei gave him that talisman.
+
+Ran6a:Checking up on the village was worth my time. Things are finally going into motion.
+
+</single>
+
+<end>
+
+<ChatID:24>--------------------------------------------
+//阿求初戦闘時（ver.2.7.8追加）
+
+Akyu4a:Eek!
+
+Keine1a:Oh no, Akyu's gotten drawn into combat!
+
+Youmu1a:I'm on my way! Just hold on for a little while!
+
+Akyu1a:Understood! As long as I stay [Alert], I should be able to endure a number of hits!
+
+<end>
+
+<ChatID:25>--------------------------------------------
+//阿求で敵を撃墜時（ver.2.7.8追加）
+
+Akyu1a:I did it!
+
+Reimu2b:Er...?
+
+Youmu2b:Wait, did Akyu just defeat one?!
+
+Akyu3a:It's simple enough, if you use your head. Even I can danmaku battle.
+
+Keine3a:Good grief. I'm glad it worked out this time, but try to refrain from anymore recklessness.
+
+Keine3a:Next thing you know, you'll tell me you want to do it again.
+
+<end>
+
+<ChatID:26>--------------------------------------------
+//ルーミア登場前にゴール到達その１
+
+Akyu1b:Goal!
+
+Akyu2b:Goal! Eep!
+
+<end>
+
+<ChatID:27>--------------------------------------------
+//ルーミア登場前にゴール到達その２
+
+<Code=(icon_set_direction,Akyu,1,0)>
+
+<nomove>
+
+<Code=(icon_set_direction,Keine,Akyu,0)>
+
+Keine1a:Are you alright, Akyu?!
+
+</nomove>
+
+<end>
+
+<ChatID:28>--------------------------------------------
+//ルーミアvs.まくら
+
+Makura1c:So you're the one blocking Hieda no Akyu's retreat.
+
+Makura2a:For her safety as well, I'll have you leave the stage.
+
+Rumia0a:You're pretty weird for a youkai.
+
+Makura3a:Even among youkai, some side with humanity.
+
+<end>
+
+<ChatID:29>--------------------------------------------
+//ルーミアvs.メーコ
+
+Meko1a:Sheesh! You can't keep getting in our way like this!
+
+Rumia0a:Uh, who're you again?
+
+Meko2a:Bwuh?!
+
+Meko3b:You've always been a little off, huh Rumia?
+
+Rumia3a:You're one to talk!
+
+<end>
+
+<ChatID:30>--------------------------------------------
+//ルーミアvs.ルーミア
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Rumia0a:Huh? I'm over there?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Rumia0a:Didn't we already meet before?
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Rumia4a:Sounds kinda familiar...?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Rumia0a:Let me warn you. You're about to get invited to the party.
+
+Rumia3a:It'll be fun, but also awful, so I hope you're ready!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Rumia2a:Aww...
+
+</nomove>
+
+<end>
+
+<ChatID:31>----------------------------------------
+//おまけ会話：メーコ
+
+Meko4b:Wow, there are flowers even in a place like this.
+
+Meko0c:Would Lady Makura be happy if I picked it for her?
+
+Meko1f:Oh, but what if the sheep eat it? I'd better make sure no one sees me take it.
+
+<end>
+
+<ChatID:32>----------------------------------------
+//おまけ会話：まくら
+
+Makura3a:A tiny flower in a place like this...
+
+Makura0h:It may not stand out, but it's certainly taken root in Gensokyo.
+
+Makura3c:Seeing it here is somehow encouraging.
+
+<end>

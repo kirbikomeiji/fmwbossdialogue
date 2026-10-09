@@ -1,0 +1,1298 @@
+﻿○魔理沙第二十九話「クローズド・ランナウェイ
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA-1
+ 1: ADVA-2
+ 2: 2PP
+ 3: 1EP
+ 4: clear
+ 5: ADVB
+ 6-18: escape
+19: proto Marice
+20: non-direct
+21: trap + item
+22: monster house
+23: Marisa beaten
+24: time's up (warning 1)
+25: time's up (warning 2)
+26: time;s up
+
+<ChatID:0a>---------------------------------------
+//ADVA-1a
+
+<Code=(demo_wait,20)>
+
+<BG=bg_talk_Black.png,fade=0,color=1,title=*bg_Unknown>
+
+Marisa4b:Ngh, ugh...
+
+Noname0a:...Mar...sa, Mari...sa...
+
+Noname0a:Marisa, can you hear me?
+
+Marisa3a:Mm? Where is this? And who's that voice?
+
+Marisa0b:Wait, is this like that dream I had during the mist incident?
+
+Noname0a:Sounds like you can hear me then, Marisa. I have something to talk to you about.
+
+Marisa3a:Ah, sorry, I don't have time for that right now.
+
+Marisa4a:You might not have noticed, but I've been captured by the enemy.
+
+Noname0a:Ah, you were?
+
+Marisa4b:Yeah. I wouldn't mind if you could tell me how to get out of here though.
+
+Noname0a:Sorry, but you'll have to deal with that yourself. The most I can do is talk to you like this.
+
+Marisa4b:Guess I shouldn't have expected too much from a dream.
+
+Marisa0b:Eh, might as well listen. So what'd you wanna tell me?
+
+Noname0a:The missing power of spring is drifting down from beyond the clouds.
+
+Noname0a:There lie the gates to the land of the dead. There in the Netherworld may lurk the origin of this disturbance.
+
+Marisa6b:The Netherworld? The spring is being drawn there?
+
+Marisa0b:Hold on, just who are you? And why are you telling me this?
+
+Noname0a:I am merely someone who wants to help you save this paradise from a disturbance.
+
+Noname0a:But the border of reality draws near. Farewell... I look forward to hearing of your success.
+
+Marisa2b:Wait up!
+
+<BG=bg_talk_Chitei.png,fade=1,color=0,title=*bg_Jail,bgm=bgm_talk_ningyo>
+
+Marisa2a:...!
+
+Marisa3a:That's the first time I've had a dream like that since summer. The heck even was that?
+
+Marisa4a:...But the Netherworld, huh? If Youmu's got some part in this, I guess that makes sense.
+
+Marisa0b:Hmm?
+
+Shiro0a:...
+
+Marisa0b:Oh, Shiro. I totally forgot that I put you in my hat.
+
+Marisa0a:If one of our jailers finds you, you might end up as a snack.
+
+Shiro0a:...
+
+Marisa4b:At any rate, looks like I'm still stuck here.
+
+Marisa4a:I hope they get here soon.
+
+<end>
+
+<ChatID:0b>---------------------------------------
+//ADVA-1b
+
+<BG=bg_talk_Road_Winter2.png,fade=1,color=1,title=bg_Cave_Entrance,bgm=bgm_talk_inishie>
+
+Kurumi6c:I can't believe we left Marisa like that!
+
+Elliy4b:What else were we going to do? There was no way for us to bail her out.
+
+Nitori3b:But who knows what they're doing to her, even as we speak.
+
+Kurumi4c:Maybe they consider humans a delicacy?
+
+Alice0b:Stop that. Assuming the worst doesn't help anyone. 
+
+Nitori2a:B-but, we have to do something, right?
+
+Komachi0b:Right, that's why we sent Sakuya and the fairies to go scout.
+
+Komachi0a:Forming a plan will have to wait until she gets back. There's no point in charging in blind.
+
+Kurumi4b:But isn't there something we can do while we wait?
+
+Alice1a:That's what I'm trying to think about, if you could be quiet for three seconds.
+
+Kurumi4e:Yes ma'am... 
+
+Meiling3a:Alice seems pretty on edge right now.
+
+Hina4a:It's an awful situation all around. I can sympathize with her being anxious.
+
+Patchouli4b:Panicking will only make matters worse.
+
+Patchouli0a:Sakuya at the very least will be calm enough not to make a mess of things.
+
+<SE=se_talk_snow01.ogg,wait=1>
+
+Sakuya0b:We've returned.
+
+Sunny4a:Whew, it was tough, but we did it.
+
+Koakuma3b:Welcome back, everyone.
+
+Komachi0a:That was faster than I expected. And it sounds like it went alright?
+
+Sakuya5b:Indeed. It's easy enough to hide in a cave. And if worst came to worst, I always had these three as back-up.
+
+Sunny3b:We helped a lot! Becoming invisible and muting our footsteps and stuff.
+
+Star6b:So nobody can call us dead weight anymore!
+
+Alice0a:So how was it in there?
+
+Sakuya5b:Seems like the youkai pulled back to their base. It was quiet.
+
+Kurumi3d:So maybe we could sneak our way in? 
+
+Sakuya6a:Yes, it's not out of the question to go rescue Marisa.
+
+Meiling1a:Then that's what we're doing! Let's get prepped immediately!
+
+Nitori1a:Okay, first we'll need a cardboard box, and some rations...
+
+Kurumi3b:Ooh, I hope there's lots of big rice balls!
+
+Hina1a:Are you sure about this? They should still be on alert from earlier.
+
+Sakuya0b:Obviously we'll need to do this carefully.
+
+Sakuya0a:I'll keep watch at our rear. As for the vanguard...
+
+<Question=|Ask Alice|Ask Nitori|Ask Patchouli|,face=Sakuya0a>
+
+<end>
+
+<ChatID:1>----------------------------------------
+//ADVA-2
+
+<Cond=(GLOBAL_VAR,m_cursor,==,0)>
+
+<Code=(check_flag_add,M29_ALICE)>
+
+Sakuya6a:Would you mind doing it, Alice? You've known her the longest.
+
+Alice2b:Me?
+
+Sakuya5b:You seem like the type to make calm judgments under pressure. Am I wrong?
+
+Meiling5a:Yeah, I think you'd probably be able to predict Marisa's actions the best.
+
+Alice1a:...Okay. I won't let you down.
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,m_cursor,==,1)>
+
+<Code=(check_flag_add,M29_NITORI)>
+
+Sakuya6a:Nitori, could you lend your mechanical expertise?
+
+Nitori2a:Huh? Sure, but why me?
+
+Sakuya5b:My theory is that you'll be able to solve whatever problems may arise with some gadget or another.
+
+Meiling5a:And if that doesn't work, don't you have your specialty too? The power of friendship.
+
+Nitori4b:...I see, so the power of friendship was Active Camouflage all along. I guess I really am fit to be a leader!
+
+Nitori1b:Just wait for me, Marisa, I'm coming!
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,m_cursor,==,2)>
+
+<Code=(check_flag_add,M29_PATCHOULI)>
+
+Sakuya6a:How about Lady Patchouli, the intellectual?
+
+Patchouli4d:...Me? I don't believe I'm suited for the role.
+
+Sakuya5b:And I believe you are. If we're to venture into dangerous territory, your knowledge will be indispensable.
+
+Meiling5a:And worst comes to worst, we can buy you some time to do more research.
+
+Patchouli3a:...That won't be necessary. Everything we need should already be inside my head.
+
+</Cond>
+
+Komachi1a:We should leave pronto. We still don't know if she's safe.
+
+Sunny3a:Ugh, I really wanted at least a little napping time, but I guess we can't.
+
+Luna3c:Marisa's been nice to us in the past. It's the least we could do.
+
+<Cond=(GLOBAL_VAR,m_cursor,==,0) && (CHECK_FLAG,M02_ALICE,==,0)>
+
+Alice4a:(Really now, just how reckless can she be...)
+
+Alice0a:(I just hope she's okay...)
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,m_cursor,==,0) && (CHECK_FLAG,M02_ALICE,==,1)>
+
+Alice4a:(Really now, making me worry so much...)
+
+Alice0a:(If she gets back safely, I'll have to really give her a piece of my mind.)
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,m_cursor,==,1) && (CHECK_FLAG,M20_NITORI,==,0)>
+
+Nitori0b:(Hold on, Marisa, we'll be there soon.)
+
+Nitori1b:(My weapons'll wipe out all these Underworld jerks in one fell swoop!)
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,m_cursor,==,1) && (CHECK_FLAG,M20_NITORI,==,1)>
+
+Nitori0b:(Hold on, Marisa, we'll be there soon.)
+
+Nitori1a:(Marisa's saved me so many times, so it's time I return the favor!)
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,m_cursor,==,2)>
+
+Patchouli4a:(...Sheesh, even outside the library, she's nothing but trouble.)
+
+Patchouli0b:(I'm not in the mood for babysitting, but I wouldn't mind hearing "I owe you one" from her...)
+
+</Cond>
+
+<BG=bg_talk_Chitei.png,fade=1,color=1,title=bg_Jail,bgm=bgm_talk_ningyo>
+
+Marisa6b:Heeeeey, I'm starving here! Bring me something to eat!
+
+Marisa0b:...Nobody home, huh? Hope they didn't just lock me up and forget about me.
+
+Marisa0a:Well, I guess I could just eat you, Shiro.
+
+Shiro0a:...!
+
+Marisa3d:C'mon, it's a joke. You look like you'd taste gross anyway.
+
+Marisa0b:But maybe there's some way you can help me find the key.
+
+Marisa0a:I can't see it or anything, but it's gotta be around here somewhere.
+
+<Code=(map_shake,1,20,2)>
+
+Shiro0a:...! ...!!
+
+Marisa2b:Hey, stop struggling! You gotta do this quietly or somebody's gonna come looking!
+
+Koishi1a:Hey, whatcha doing in there?
+
+Marisa2a:Waah?! Gah, I told you so...
+
+Marisa2b:Wait a minute, it's you! The girl from earlier!
+
+Koishi0b:Heya, person I've met before. Somewhere.
+
+Marisa0b:You're... Koishi, right? What are you doing in a place like this?
+
+Koishi5b:This is my house, so shouldn't I be here?
+
+Koishi0a:You're in a cell, so I guess my sister caught you.
+
+Marisa3a:You live here? Wait, then your sister is―- 
+
+Koishi1a:Her name is Satori Komeiji. She's the ruler of the Palace of Earth Spirits.
+
+Marisa6b:...! Wait a minute, you're an Underworld youkai?
+
+Marisa0a:And Satori's little sister at that. I guess you DO kinda look alike.
+
+Koishi0a:Yeah, we order all of our clothes in her size.
+
+Koishi0b:And then, to make them fit me, my sister does all the tailoring herself.
+
+Marisa0c:Huh. So the big scary youkai's got a soft side to her, too...
+
+Marisa3b:Wait, then can you read my mind too?
+
+Koishi5a:No...
+
+Marisa0b:...Really?
+
+Koishi5b:Not even a bit! Because I closed it. My third eye.
+
+Koishi5a:Reading other people's minds just makes you sad. There's nothing good about it all.
+
+Marisa0b:Really? Seems like a waste to me, losing such a useful ability...
+
+Marisa0a:By the way, I wanna get out of here. You happen to know where the key is?
+
+Koishi0a:The key to your cell? So you're trying to escape?
+
+Marisa4b:Pretty much. I didn't do anything wrong, but it looks like your sister got the wrong idea.
+
+Koishi2b:My sister never gets the wrong idea.
+
+Koishi0a:But still, there's not much point to keeping a human... Sure, why not?
+
+Marisa6b:Nice, so you're gonna lend me a hand?
+
+Marisa0a:But be careful, there might be crows keeping watch.
+
+Koishi0b:Don't worry, no one can notice me with my power.
+
+Koishi0a:It's the same here as it was when I went to the surface, no one can see me.
+
+Marisa0c:That's good to hear. So could you get my broom and stuff while you're at it?
+
+Marisa0a:I'll take you on a dark flight through the Underworld skies in return.
+
+Koishi0a:Hmmm....
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP-1
+
+<Cond=(CHECK_FLAG,M29_ALICE,==,1)>
+
+Shanghai0a:...
+
+<pause>
+
+Alice0d:Thank you for the reconnaissance, Shanghai. It must have been scary out there.
+
+Shanghai0a:Shanghai...
+
+<pause>
+
+Alice1a:Everyone, it looks there aren't any youkai up ahead. Let's proceed a bit further.
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M29_NITORI,==,1)>
+
+Nitori0b:...
+
+Nitori1a:Looks like the coast is clear of any youkai. If we keep up our active camouflage...
+
+<pause>
+
+Nitori2a:Whoa, it's out of batteries already? It hurts to say this, but what a piece of junk!
+
+Nitori1b:Well, whatever. We just need to keep on moving!
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M29_PATCHOULI,==,1)>
+
+Patchouli3a:...I'm not detecting magic from any lesser youkai. Even if they were present, we needn't worry.
+
+Patchouli0a:Let's head deeper in, everyone.
+
+</Cond>
+
+<end>
+
+<ChatID:3>----------------------------------------
+//1PP-2
+
+Komachi1a:Well we've managed to sneak back to where we were before, at least.
+
+Sakuya5b:This is where the real rescue mission begins, though. Try to still even your breathing.
+
+<pause>
+
+Marisa0c:Great, we've gotten pretty far from the palace. Mind leading the way a bit longer?
+
+Koishi0b:Sure. I come this way a lot.
+
+<Code=(icon_set_direction,All,FD_LEFT,0)>
+
+<Cond=(CHECK_FLAG,M29_ALICE,==,1) && (CHECK_FLAG,M02_ALICE,==,0)>
+
+Luna0a:Alice, look over there!
+
+Alice1a:Marisa!
+
+<Code=(icon_set_direction,Marisa,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Koishi,FD_RIGHT,0)>
+
+Marisa0a:Oh, hey, Alice! You came to save me?
+
+Alice4a:I'm so glad you're okay. I was worried for a while there.
+
+Marisa0c:Sorry for worrying you. Your face says it all.
+
+Alice0c:If you really are sorry, you better not pull anything like this again, okay?
+
+Nitori2a:Wait, Marisa, is that girl next to you―
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M29_ALICE,==,1) && (CHECK_FLAG,M02_ALICE,==,1)>
+
+Luna0a:Alice, look over there!
+
+Alice1a:Marisa!
+
+<Code=(icon_set_direction,Marisa,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Koishi,FD_RIGHT,0)>
+
+Marisa0a:Oh, hey, Alice! You came to save me?
+
+Alice4a:I'm glad you're okay. I was worried for a while there.
+
+Marisa0c:Sorry for worrying you. But I sure wasn't worried, 'cause I knew you'd come back for me, Alice.
+
+Alice5c:You're utterly shameless, trying to smooth-talk your way out of this. Have you no consideration for other peoples' feelings?
+
+Nitori2a:Wait, Marisa, is that girl next to you―
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M29_NITORI,==,1) && (CHECK_FLAG,M20_NITORI,==,0)>
+
+Star3b:Nitori, look over there!
+
+Nitori1b:Marisa!
+
+<Code=(icon_set_direction,Marisa,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Koishi,FD_RIGHT,0)>
+
+Marisa0a:Oh, hey, Nitori! You came to save me?
+
+Nitori1a:Of course I did. You're my friend.
+
+Nitori4a:I knew you'd be okay too, since my BFF sensor was tingling.
+
+Marisa0c:Tingling? Does it have a loose wire or something?
+
+Nitori4c:Nope! Anyway, I'm glad you're still in one piece.
+
+Alice2b:Huh? Marisa, isn't that girl next to you―
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M29_NITORI,==,1) && (CHECK_FLAG,M20_NITORI,==,1)>
+
+Star3b:Nitori, look over there!
+
+Nitori1b:Marisa! You're okay!
+
+<Code=(icon_set_direction,Marisa,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Koishi,FD_RIGHT,0)>
+
+Marisa0a:Oh, hey, Nitori! You came to save me?
+
+Nitori3c:I was so worried. I was afraid you'd been eaten by youkai...
+
+Nitori4c:But I shouldn't have doubted you. Looks like you're as fit as a fiddle!
+
+Marisa6a:I had some close calls, but I wasn't gonna sit around waiting. I'm not the damsel in distress type.
+
+Nitori4d:You got that right. After all, you're my hero!
+
+Meiling5a:Anyway, we're glad you're alright. Shouldn't we be hurrying back to the surface now, though?
+
+Alice2b:Wait a minute. Marisa, isn't that girl next to you―
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M29_PATCHOULI,==,1)>
+
+Sunny0a:Patchouli, look over there!
+
+Patchouli3a:Ah, Marisa. Lively as ever, I see.
+
+<Code=(icon_set_direction,Marisa,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Koishi,FD_RIGHT,0)>
+
+Marisa0a:Oh, hey, Patchouli! You came to save me?
+
+Patchouli4a:...Good grief, I can't believe you got captured by youkai right in front of me.
+
+Patchouli0d:You're only human. If you want to actually amount to anything, try not to be so heedless of danger.
+
+Marisa4b:My bad. I didn't expect you to get so worried about me though.
+
+Patchouli4c:...I never said I was worried about you.
+
+Meiling5a:Anyway, we're glad you're alright. Shouldn't we be hurrying back to the surface now though?
+
+Nitori2a:Hold on, Marisa, isn't that girl next to you―
+
+</Cond>
+
+Marisa0a:Oh, sorry for the late introduction. This girl helped me make it this far.
+
+Marisa0c:Her name's Koishi. She's from the Underworld, but she's not our enemy.
+
+Kurumi3b:Oh? Nice to meet you, Koishi.
+
+Koishi0b:So you're all youkai from the surface? Nice to meet you!
+
+Luna3c:She seems pretty friendly, for an Underworlder.
+
+Nitori4b:Kinda quirky, though. Or rather, she's really hard to get a handle on...
+
+Komachi0a:Anyway, we should thank you for saving Marisa.
+
+Komachi1a:Now we just have to get out of here before they find us, and―
+
+<pause>
+
+Marisa2b:The jerks just had to show up before you could even finish your sentence!
+
+<Cond=(CHECK_FLAG,M29_ALICE,==,1)>
+
+Alice1b:We don't have time to fight them all. Let's just retreat as soon as possible.
+
+Alice0a:Listen carefully, we're escaping from that area over there.
+
+<pause>
+
+Alice0a:Anyone who gets over to there will be able to reach the surface.
+
+Alice1a:Move quickly if you can. Let's make sure we're out of here in under seven minutes.
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M29_NITORI,==,1)>
+
+Nitori1b:We can't beat all these opponents, so let's just get out of here ASAP!
+
+Nitori0b:Listen, in order to get out of here...
+
+<pause>
+
+Nitori0a:...moving to anywhere thereabouts should work.
+
+Nitori4c:We don't have time to take it slow. You've gotta try to get out within 7 minutes!
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M29_PATCHOULI,==,1)>
+
+Patchouli4c:We don't have time to fight them all. Let's just retreat as soon as possible.
+
+Patchouli0b:Pay attention, this is how we'll get out.
+
+<pause>
+
+Patchouli0d:We're using that section over there as our escape route. Hurry over to it as fast as you can.
+
+Patchouli0c:We don't have much time before things grow even more dangerous. Everyone needs to leave within... call it 7 minutes.
+
+</Cond>
+
+Marisa0a:Got it. Are you coming with us, Koishi?
+
+Koishi0a:No, but maybe I can hang out with you a bit longer.
+
+Koishi0a:Let me ride behind you, Marisa!
+
+Marisa0a:Behind...?
+
+<pause>
+
+Nitori2a:Wha?!
+
+Marisa0a:Hold on, did you seriously get on behind me?
+
+Koishi0a:I won't get in the way or anything. Weren't you gonna take me on a dark flight through the Underworld sky?
+
+Marisa0a:I guess I did say that... but still, it's hard to move like this.
+
+<Cond=(CHECK_FLAG,M29_ALICE,==,1)>
+
+Alice0a:Danmaku battling as a pair? What an unfamiliar sight.
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M29_NITORI,==,1)>
+
+Nitori2a:B-B-But... I get left behind and she gets to jump on behind her?
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M29_PATCHOULI,==,1)>
+
+Patchouli0a:...Does it matter? But if it slows you down you have only yourself to blame.
+
+</Cond>
+
+Marisa1a:Anyway, let's get out of here. I'm counting on you girls!
+
+<end>
+
+<ChatID:4>----------------------------------------
+//2PP
+
+Sakuya0a:I'm impressed you two made it as far as you did by yourselves.
+
+Sakuya5b:You said that girl was the reason?
+
+Marisa0a:Yeah. Her power got us out without anyone noticing us.
+
+Marisa0b:I guess you could say it's like you're being ignored? It feels weird though, like you don't really exist.
+
+Nitori1a:Oh, so that's how Koishi suddenly appeared and disappeared the other day.
+
+Sunny4a:Feeling like you don't exist though? That sounds scary.
+
+<end>
+
+<ChatID:5>----------------------------------------
+//魔理沙脱出（ステージクリア）
+
+Marisa0a:Now that we've made it this far, I guess we're good.
+
+<end>
+
+<ChatID:6>----------------------------------------
+//マプ変化後
+
+Marisa1b:Alright, just a little further to the surface!
+
+Luna2a:Eeek!
+
+Komachi4b:We had to beat up a lot of crows to get here. What a gauntlet.
+
+Meiling1b:But we should be safe now that we've made it this far.
+
+<Code=(icon_set_direction,Nitori,Marisa,0)>
+
+Nitori1b:Over here, Marisa! Hurry!
+
+Marisa0d:One sec, I gotta put Koishi down.
+
+<Code=(icon_set_direction,All,FD_LEFT,0)>
+
+<pause>
+
+Marisa0c:Thanks for guiding me. All those shortcuts were a real lifesaver.
+
+Koishi0a:Mm. I just kinda know the roads around here.
+
+Koishi1a:I probably come here a lot, huh?
+
+Nitori2a:"Probably"...?
+
+Marisa0e:What the heck? Shouldn't you at least know if you've been here before?
+
+Koishi0a:Right? Isn't that weird?
+
+Alice0a:?
+
+Nitori2a:She really is a weird kid, huh?
+
+Patchouli0c:I hate to interrupt, but weren't we hurrying to the surface?
+
+Marisa0c:Oh, right. Your flight ends here, Koishi. You really saved my bacon, y'know?
+
+Koishi0b:I had fun too. I got to see a human battling with danmaku up close again.
+
+<nomove>
+
+<Code=(cursor_jump,576,208,1)>
+
+Kurumi3b:If that's all you want, I can show you one any time.
+
+Elliy3b:If you ever feel like stopping by again you'd be more than welcome!
+
+</nomove>
+
+Koishi2b:Really? I'd be welcome?
+
+Marisa0a:Yeah, we gotta thank you for today. You understand that much, right?
+
+Koishi3b:...
+
+Sunny0b:Koishi?
+
+Koishi3a:...I don't understand, and I don't want to understand.
+
+Koishi3b:It's better when I don't understand anything.
+
+Marisa4b:Man, I just don't get you.
+
+<hide=all>
+
+<Code=(cursor_jump,192,336,1)>
+
+<nomove>
+
+Satori0a:You won't be getting away that easily.
+
+<pause>
+
+</hide>
+
+<Code=(icon_set_direction,All,FD_LEFT,0)>
+
+Alice1a:It's those Underworld youkai again!
+
+Sunny3a:Geh! And we were so close!
+
+Koishi0a:Oh, Satori. And even Orin and Okuu. Whatcha doing here?
+
+Orin3a:What are WE doing here? What kind of question is that? Right, Miss Satori?
+
+Satori0a:...Koishi, why did you let the intruder escape?
+
+Koishi2b:Because humans are hard to train. We don't need more pets.
+
+Orin5a:But we do need HER. She's our valuable evidence.
+
+Satori0b:...You two, escort Koishi home. I'll deal with the human.
+
+UtsuhoB1c:Got it, Miss Satori!
+
+<pause>
+
+Koishi2a:What the heeeeck, you two!
+
+UtsuhoB2c:Sorry, Miss Koishi, that human is dangerous.
+
+Orin0c:Miss Satori, let's make sure she never runs away again.
+
+Orin1b:Taking off a limb or two oughta do it.
+
+Satori0a:Yes, I suppose that might save some trouble in the long run.
+
+<pause>
+
+Nitori2a:Aaah, Marisa!
+
+Meiling1a:We can handle that many in our sleep!
+
+Orin0b:Then maybe this'll shut you up.
+
+<pause>
+
+Koakuma2a:...!
+
+Nitori2a:It's no good, we're dead in the water!
+
+Koishi0a:Satori, do you really really gotta catch Marisa?
+
+Satori0a:It's necessary for the peace of the Underworld. The agreement with the surface must be upheld.
+
+Satori0a:The Palace of Earth Spirits cannot overlook this incident.
+
+Koishi0b:Oh, okay. I guess you've got this all thought out.
+
+Alice1a:Please stop this! We left, didn't we?
+
+Satori0b:I have no intention to negotiate.
+
+<pause>
+
+Marisa2a:Uwah!
+
+Luna1a:Marisa!
+
+Orin1a:Like you've got time to worry about her!
+
+<pause>
+
+Sakuya2a:Ngh!
+
+Meiling2a:This is looking bad! We're already out of stamina!
+
+Marisa2b:Damn it!
+
+Marisa2c:Is this where it all ends? I was supposed to become a great magician someday... and then...
+
+Satori0b:...
+
+Satori0b:I see. So you thought you could meet her again through honing your craft.
+
+Satori0b:And now you've realized it'll never happen.
+
+Satori0c:So, how does it feel? Don't worry, you needn't answer aloud.
+
+Marisa2b:Dammit, just shut up!
+
+Satori0b:Allow me to give those feelings some closure, by ending you with a technique born from your very heart.
+
+Satori1a:Now, I will call to mind... That magic you've yearned for!
+
+<pause>
+
+Alice1a:That's...
+
+Marisa3b:...No way, why are YOU here?
+
+<Code=(icon_set_direction,Mima,FD_RIGHT,0)>
+
+Mima0c:I just get back from a short business trip, and look what I find.
+
+Mima0d:What, did you want me to sit back and watch this play out?
+
+Marisa3b:No, that's not what I meant to say... That's not it at all...
+
+Marisa2a:But... where? Where were you all this time?!
+
+Marisa2a:Lady Mima!
+
+UtsuhoB0e:Mima? Who's that?
+
+Satori0a:That's the magician I saw in the human's mind.
+
+Satori0a:This isn't the illusion I made. So the real thing showed up?
+
+<Code=(icon_set_direction,Mima,FD_LEFT,0)>
+
+Mima0c:Good lord, I can't believe you made an enemy of a satori.
+
+Mima1b:And you even dragged some of your youkai friends into it! This has turned into a complete mess...
+
+Orin1e:Hmph. Just who do you think you are, waltzing in out of nowhere and acting like you've got this all in hand?
+
+Orin1a:I've still got my trump card! Get to work, guys!
+
+<pause>
+
+<Code=(icon_set_direction,Marisa,FD_RIGHT,0)>
+
+Marisa3b:...!!
+
+Marisa1d:The crows... Lady Mima, you're surrounded!
+
+<Code=(icon_set_direction,Mima,FD_RIGHT,0)>
+
+Mima1c:Just leave this to me. You girls go on ahead.
+
+<Code=(icon_set_direction,Marisa,FD_LEFT,0)>
+
+Nitori2a:What?!
+
+Mima0c:Alice. I trust you know the way back the surface?
+
+Alice1a:Yes, but we can't just turn around and walk away...
+
+Marisa1a:Yeah, we're ready to back you up!
+
+Mima0c:Don't. You're no match for a satori as you are now.
+
+Mima0c:Besides, you're not here by choice, are you?
+
+Marisa3b:Well, no...
+
+Alice0a:The surface is currently suffering from an unending winter. We're on an investigation to fix it.
+
+Mima0c:That so? Then you'd better get back up there to deal with that.
+
+Marisa3b:Lady Mima...
+
+Marisa1a:I'll go. But... will I ever see you again? Or are you just going to quietly disappear again?
+
+Mima0e:Ah, that. I can promise you that we'll meet again, Marisa.
+
+<Code=(icon_set_direction,Mima,FD_LEFT,0)>
+
+<pause>
+
+UtsuhoB1b:Miss Satori, they're getting away!
+
+Orin1b:You don't know when to quit, human. If you think you can get away from us―
+
+Mima0e:I do think so, actually. Because they've got someone helping them.
+
+Nitori2a:Marisa! Is that―
+
+Marisa3a:I'll explain later, let's leave it to her and get out first.
+
+Star1c:We're leaving her with all these enemies?!
+
+Marisa3a:You heard what she said. Run and don't look back.
+
+Alice1a:...This isn't something we can handle. Let's let someone stronger handle this.
+
+Alice1a:Everyone, hurry to the surface!
+
+<Code=(icon_set_direction,Marisa,FD_LEFT,0)>
+
+Marisa1a:Lady Mima! If you happen to see the cherry blossoms fluttering on the surface, just know it was me!
+
+<pause>
+
+Koishi0a:Those are... parting words, right? How dramatic!
+
+Mima1d:Now then, I guess I should start cleaning up here.
+
+Satori0a:Her resolve is strong. There is no trepidation in her mind.
+
+Satori0a:Orin, Okuu, proceed with utmost caution.
+
+Orin1c:Yes ma'am! Everyone, charge!
+
+<end>
+
+<ChatID:7>---------------------------------------
+//ADVB
+
+<MAP=10,FROM=地底入り口,TO=地底入り口,name=Underworld Entrance,icon=2>
+
+<BG=*bg_talk_Road_Winter2.png,fade=0,color=1,title=*bg_Road,bgm=bgm_talk_ningyo>
+
+Sakuya0b:Looks like we made it out safely... all of us, this time.
+
+Marisa4c:Finally, the surface. I really missed the sun.
+
+Koakuma4b:We cut it so close though. I wasn't sure we were going to make it.
+
+Sakuya5a:If that woman hadn't come to our aid, perhaps we'd be crow fodder by now.
+
+Sunny3a:Don't say scary stuff like that!
+
+Hina0c:By the way, who was that? You seemed to know her quite well, Marisa.
+
+Marisa0c:That was Lady Mima. My teacher.
+
+Luna0a:Huh? Your teacher?!
+
+Nitori2a:The one you said you hadn't seen since she disappeared?
+
+Marisa0c:Uh-huh. But she still came to save me in a pinch.
+
+Marisa0a:She might've... No, she MUST have been watching over me then.
+
+Patchouli3a:I can't say I understand the situation fully, but I'm certainly glad she came underground when she did.
+
+Alice2b:But are you alright leaving her, Marisa? You finally reunited, so maybe you could go help her...
+
+Marisa0c:Nah, she told us not to worry about her. We just need to keep on going.
+
+Marisa0a:I promised her I'd resolve this incident.
+
+Komachi1a:So we'll pay her back by resuming the investigation then?
+
+Marisa0a:Yup. 'Cause I know she'll be watching what I do next too!
+
+Hina0c:That's all well and good, but where exactly do we go?
+
+Hina0a:We lost the swordswoman's trail, and nowhere else seems particularly promising at the moment.
+
+Marisa0c:Actually, I have an idea where to go. We're heading for the Netherworld.
+
+Patchouli0c:And what's your basis for this?
+
+Sakuya5b:Even if Youmu is from the Netherworld, I think that's a bit of a stretch.
+
+Marisa4c:I found a clue while I was underground. I don't know if it's reliable though.
+
+Marisa0b:Look, I'll give you all the deets on the way. Which way is the Netherworld again?
+
+Komachi0b:It should be beyond the clouds in that direction. That's also where the flower petals were coming from.
+
+Nitori3e:It kinda looks like we're just following Reimu.
+
+Marisa1a:Which is why we gotta beat her to the punch! Full speed ahead!
+
+<SE=se_talk_fly01.ogg,wait=1>
+
+<single>
+
+Sunny3a:Wait up, Marisaaa!
+
+</single>
+
+Sakuya0a:Well, she's certainly as fired up as ever.
+
+Nitori4b:I'm sure she's happy to have seen Mima again.
+
+Nitori1a:Well, we don't want her to beat us there, do we? Let's go!
+
+Komachi1a:And this side-trip was a heck of a delay, so we're going to need to really get a move on.
+
+<end>
+
+<ChatID:8>----------------------------------------
+//アリス脱出
+
+Alice0a:We should be able to get out from here. I'll go on ahead.
+
+<end>
+
+<ChatID:9>----------------------------------------
+//にとり脱出
+
+Nitori0a:I made it to the escape route! I'll see you all later!
+
+<end>
+
+<ChatID:10>----------------------------------------
+//咲夜脱出
+
+Sakuya0a:Well then, I'll be taking my leave.
+
+<end>
+
+<ChatID:11>----------------------------------------
+//美鈴脱出
+
+Meiling0a:Hong Meiling escaped from the mystery dungeon!
+
+Meiling0a:...Er, I guess this isn't the time to joke around. I'll be going now.
+
+<end>
+
+<ChatID:12>----------------------------------------
+//パチュリー脱出
+
+Patchouli0a:I've arrived at the departure point. I made it on time, too.
+
+<end>
+
+<ChatID:13>----------------------------------------
+//小悪魔脱出
+
+Koakuma0a:I'm leaving now. Over here, everyone!
+
+<end>
+
+<ChatID:14>----------------------------------------
+//エリー脱出
+
+Elliy0a:Elly has made her amazing escape from the mystery dungeon!
+
+Elliy0a:Psh, I knew I'd make it. Later everyone, I'm heading out now.
+
+<end>
+
+<ChatID:15>----------------------------------------
+//くるみ脱出
+
+Kurumi0a:Ugh... I really hate the dark...
+
+<end>
+
+<ChatID:16>----------------------------------------
+//小町脱出
+
+Komachi0a:Sheesh. I wonder what she'd think if she knew I'd gone to the Underworld...
+
+Komachi0a:Well, let's just say it was destiny. Yup, destiny. I'm heading on out now, everybody.
+
+<end>
+
+<ChatID:17>----------------------------------------
+//サニー脱出
+
+Sunny0a:It might be a little silly to hear this from me, but... Just 'cause you're running away doesn't mean you lost!
+
+<end>
+
+<ChatID:18>----------------------------------------
+//ルナ脱出
+
+Luna0a:Thank goodness, I got here in one piece...
+
+Luna0a:Okay, everybody. I'll be heading off now.
+
+<end>
+
+<ChatID:19>----------------------------------------
+//スター脱出
+
+Star0a:Oh, whew, I made it to safety. Okay, I'll be stepping out now!
+
+<end>
+
+<ChatID:20>----------------------------------------
+//雛脱出
+
+Hina0a:...I can't take it all in, but there's quite a lot of misfortune sleeping here.
+
+Hina0a:If asked, I could try to prevent more souls from ending up here...
+
+<end>
+
+<ChatID:21>----------------------------------------
+//プロトマリス砲使用時＆アリス選択時
+
+Marisa0a:Okay, let's do the usual combo.
+
+Alice0a:...
+
+Marisa0a:What? Something the matter?
+
+Alice0a:It's nothing. I was just thinking how you haven't changed at all, even after getting captured.
+
+Marisa0a:Well, it's not like acting all down in the dumps about it would help anything.
+
+Marisa0a:Plus, I always knew you'd come save me.
+
+Alice0a:Hmph. You can say whatever you like, just don't let something like this happen ever again.
+
+<end>
+
+<ChatID:22>----------------------------------------
+//3PP（セレナ追加）
+
+Marisa0a:Man, I already knew this, but fighting so much trash is just irritating.
+
+Marisa0a:Hey, Patchouli, can't you just clean 'em all up at once with that spell you used before?
+
+Patchouli0a:You mean the sun and moon magic I used in the summer?
+
+Marisa0a:Yeah, that. These guys would be no problem if you were using that.
+
+Patchouli0a:That's impossible. I have to be in excellent physical condition to use those spells.
+
+Patchouli0a:Of course, it would be a different story if I had some assistance...
+
+Koakuma0a:...!
+
+Koakuma0a:Lady Patchouli, may I lend you a hand?
+
+Patchouli0a:You have a way to help me?
+
+Koakuma0a:Yes. I've been studying magic for a while now, in case you ever needed my help.
+
+Koakuma0a:I should be able to temporarily boost your magical power...
+
+Patchouli0a:Channeling this much magic can be dangerous. Are you prepared for the risks?
+
+Koakuma0a:I'm sure I can be of use!
+
+Patchouli0a:Very well. I'll take your word for it.
+
+Patchouli0a:Beginning ultra-long range annihilation of the targets. Direct all power to me.
+
+<end>
+
+<ChatID:23>----------------------------------------
+//トラプ1（没）
+
+<end>
+
+Marisa0a:Oh, check it out. Hah, it's kind of like we're treasure hunti―
+
+<pause>
+
+Marisa0a:Agh, it was a trap?!
+
+<Cond=(CHECK_FLAG,M29_ALICE,==,1)>
+
+Alice0a:Oh for heaven's sake, this is what your greed gets you.
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M29_NITORI,==,1)>
+
+Nitori0a:I'm really impressed that they'd have our moves predicted that well!
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M29_PATCHOULI,==,1)>
+
+Patchouli0a:...The trap is placed near a treasure. A classic countermeasure against thieves.
+
+</Cond>
+
+Sakuya0a:There may be other traps. We'll have to be careful as we proceed.
+
+<end>
+
+<ChatID:24>----------------------------------------
+//トラプ（モンスターハウス）
+
+Meiling1a:It's a trap! The enemy was waiting for us!
+
+Marisa0a:Isn't this basically a Youkai House? Come on, this is the wrong game for that.
+
+Sakuya0a:Neither that shrine maiden nor that tengu are here, you know.
+
+<end>
+
+<ChatID:25>----------------------------------------
+//魔理沙被撃墜
+
+Marisa0a:Damn it, is this where it all ends...
+
+Korin0a:And they were never heard from again...
+
+<end>
+
+<ChatID:26>----------------------------------------
+//時間切れ警告
+
+<Cond=(CHECK_FLAG,M29_ALICE,==,1) && (FIND_UNIT,Alice,player,!=,-1)>
+
+Alice0a:Hurry. We have to escape by next turn.
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M29_ALICE,==,1) && (FIND_UNIT,Alice,player,==,-1)>
+
+Marisa0a:It's already this turn? If I don't make it out soon... I've gotta hurry!
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M29_NITORI,==,1) && (FIND_UNIT,Nitori,player,!=,-1)>
+
+Nitori0a:It's already this turn? If I don't make it out soon... I've gotta hurry!
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M29_NITORI,==,1) && (FIND_UNIT,Nitori,player,==,-1)>
+
+Marisa0a:It's already this turn? If I don't make it out soon... I've gotta hurry!
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M29_PATCHOULI,==,1) && (FIND_UNIT,Patchouli,player,!=,-1)>
+
+Patchouli0a:We must escape by next turn. There's no time to dawdle.
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M29_PATCHOULI,==,1) && (FIND_UNIT,Patchouli,player,==,-1)>
+
+Marisa0a:It's already this turn? If I don't make it out soon... I've gotta hurry!
+
+</Cond>
+
+<end>
+
+<ChatID:27>----------------------------------------
+//時間切れ警告2
+
+Marisa1a:I better book it. If I don't escape this turn, I'm done!
+
+<end>
+
+<ChatID:28>----------------------------------------
+//時間切れ
+
+Marisa1a:Oh no, I took too long!
+
+Korin0a:And they were never heard from again...
+
+<end>
+
+<ChatID:29>----------------------------------------
+//メーコ
+
+Meko0c:Aaaand I got there! I'll be going on ahead, everybody!
+
+<end>
+
+<ChatID:30>----------------------------------------
+//まくら
+
+Makura0f:Finally arrived...
+
+Makura3a:Please escape safely, everyone.
+
+<end>

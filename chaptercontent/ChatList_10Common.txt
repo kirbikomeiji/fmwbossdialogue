@@ -1,0 +1,1579 @@
+﻿○共通第十話「人と妖と
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: SLG
+ 2: 3EP Yuka shows up
+ 3: beat Yuka
+ 4: Satsujin Doll
+ 5: Sakuya no Sekai
+ 6: Explain endurance spell
+ 7: beat Sakuya
+ 8: Stage end (w/ Yuka)
+ 9: Stage end (w/o Yuka)
+10: ADVB
+11-19: battle vs. Sakuya
+20-22: battle vs. Yuka
+23-25: battle vs. Elliy
+26-28: battle vs. Kurumi
+29: first battle vs. Yuka
+30: maspa event I
+31: maspa event II
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<BG=bg_talk_Koumakan_Int_Night.png,fade=0,color=1,title=bg_Koumakan_Int,bgm=bgm_talk_kaikidan>
+
+<SE=se_talk_door_open02.ogg,wait=1>
+
+Kurumi4c:I'm back...
+
+Kurumi2a:I'm sorry, Remi! Patchy and I both lost!
+
+Sakuya1b:...Lady Patchouli was defeated?
+
+Remilia1e:Ohoh.
+
+Kurumi1a:We almost had them, but one of the enemy magicians figured it out.
+
+Kurumi2a:Then it got really bad, so I bailed by myself!
+
+Sakuya0b:...I can see that. Thank you for the report.
+
+Remilia0a:If Patchy lost to them, then they certainly aren't your average bunch of humans. This is getting good.
+
+Sakuya0b:...If I may, Mistress. It seems they have several youkai working with them as well.
+
+Sakuya1d:So it may not be entirely correct to classify their efforts as due to the power of humans.
+
+Remilia1c:The people at the core of the group are the human shrine maiden and the human magician. That's proof enough of their power.
+
+Sakuya0b:...
+
+Remilia1e:Heheheh, I knew you were interested in those humans, Sakuya.
+
+Sakuya1b:...That isn't true.
+
+Sakuya0b:I'll step up next, Mistress. Mere humans like them shall be swept away from the mansion posthaste.
+
+Remilia1a:Is that so? Alright, handle it.
+
+Kurumi1a:You can do it! Give 'em the works, Sakuya!
+
+Sakuya0b:...
+
+<single>
+
+<SE=se_talk_door_close02.ogg,wait=1>
+
+Kurumi4b:...But they beat the tar out of all of us combined. Can Sakuya really handle this by herself?
+
+</single>
+
+Remilia1d:You are four hundred years too young to be worrying about her like that.
+
+Kurumi2a:Eep, you didn't have to put it like that... I did my best, okay?
+
+Remilia1b:I don't care what you call your best. I find it hard to believe you and I are both devils.
+
+Noname0a:...Now now, don't bully my little girl so much.
+
+Remilia1d:...!
+
+Elliy1a:Kurumi, you're okay! I was worried about you.
+
+Kurumi1a:Elly, you came back to life!
+
+Elliy4a:...Um, I never died to begin with.
+
+Remilia0b:You're a little late. The humans have already made quite a bit of progress.
+
+Noname0a:So it seems. I saw her heading out to meet them.
+
+Remilia1c:...Now that Sakuya has been sent out, it will soon be checkmate.
+
+Remilia0a:Sakuya is my finest knight... She will wipe out the opponent's king in one fell swoop.
+
+Noname0a:She's certainly something special. Her training alone takes her beyond human limitations.
+
+Noname0a:She need only rid herself of that hesitation, and she would bloom more mystically and beautifully than any youkai.
+
+Noname0a:That's what you're testing, isn't it?
+
+Remilia6a:No. As I've told you before, she's perfectly fine the way she is.
+
+Noname0a:That's quite surprising coming from the devil that manipulates fate.
+
+Remilia1a:Where's the fun in an outcome that's predetermined?
+
+Remilia0a:It's that uncertainty that makes things fun to watch.
+
+Noname0a:Heh, perhaps, perhaps.
+
+Noname0a:...Now then, all this talk about Sakuya has made me want to see her in battle.
+
+Noname0a:...Elly, Kurumi. Come. We're heading out.
+
+Elliy1a:!
+
+Kurumi1a:It's finally happening?
+
+Noname0a:I've wanted to meet those girls for some time now. Let's go do some sightseeing.
+
+<BG=bg_talk_Koumakan_Int_Night.png,fade=1,color=1,title=bg_Koumakan_Int,bgm=bgm_talk_ningyo>
+
+Youmu3a:After all that, we're right back at the front entrance again.
+
+Keine2a:So we are. Is it the space-controller's doing?
+
+Reimu1b:That's how we got to the library, so probably. She's got the key here.
+
+Marisa0d:You mean the smarts to make efficient use of interior space or something?
+
+Marisa0a:If she's that good, I gotta get her to share some pointers for the next time I renovate.
+
+Nitori1d:You might wanna start with basic housecleaning first. Besides, this place has a totally different atmosphere from your house.
+
+Alice2c:Yes, the architecture here isn't exactly common in Gensokyo. You might not be able to apply much of what you learn.
+
+Keine0b:It's true. I've never seen things like these extravagant candlesticks and this deep red carpeting before.
+
+Marisa0b:Hmm... So basically, the building itself might've passed into fantasy along with the residents.
+
+Youmu0b:The whole building? That would be quite a large-scale event.
+
+Marisa0d:Yeah, it's kinda rare for whole buildings to go through the process. The whole business of passing into fantasy happens pretty often though.
+
+Marisa0a:Things from the Outside World come here all the time, and humans who pass into fantasy are constantly being sent back by Reimu.
+
+Reimu4a:Don't conflate passing into fantasy and getting spirited away. I only send back the latter.
+
+Nitori1c:...Hm? What do you mean?
+
+Reimu3b:Passing into fantasy is when something from the Outside World whose existence is forgotten passes through the barrier to Gensokyo.
+
+Reimu0b:On the other hand, being spirited away is when the barrier becomes unstable, and things from the Outside World inadvertently stumble into Gensokyo.
+
+Reimu0g:In other words, it's basically an accident in that case.
+
+Marisa0e:Ahh, Kourin said something about that too.
+
+Marisa0d:It was about the Outside World's shikigami, I think. I remember seeing some compu-thingies there...
+
+Marisa0b:Seems like they'd just drifted into Gensokyo.
+
+Reimu0g:That's right. So not everything in Gensokyo has actually passed into fantasy.
+
+Nitori3e:Personally, I don't think the distinction matters much once something's here.
+
+Keine0a:Maybe not for inanimate objects, but you can't say the same for concepts or living creatures.
+
+Keine2a:Being forgotten—that is, passing into the realm of fantasy—occurs when the general populace loses cognizance of your existence.
+
+Keine0c:The humans Reimu sends back are simply those that wandered in here by accident. Those people didn't become pure fantasy.
+
+Reimu0b:Yup, those are the ones that get spirited away. I have yet to see a human that's truly passed into fantasy.
+
+Youmu3a:Could a living human really be forgotten entirely...? That would be so tragic.
+
+Youmu0a:Imagine being born to live your life, then getting forgotten by your fellow humans and relegated to fantasy...
+
+Marisa0c:Doesn't seem so bad to me. I mean, they'd have their whole life ahead of them in Gensokyo.
+
+Marisa7c:It might even be better than the Outside World. With fairies and youkai around, at least there's no shortage of entertainment.
+
+Alice0b:You certainly seem to have no shortage of that...
+
+<single>
+
+Cirno3a:Hey, come over here! This carpet is really fluffy!
+
+</single>
+
+Daiyosei0e:Ah, Cirno! Wait!
+
+Keine3a:What are they doing? I swear, I take my eyes off of them for a second...
+
+Cirno5b:Let's make this our new bed, Dai! It's soft and fluffy and feels really good!
+
+Daiyosei0b:Hm, it does... But isn't it a bit too big? The carpet looks like it goes on forever.
+
+Cirno1a:Then let's cut off a piece to bring home. Do you have a pair of scissors with you?
+
+Rumia0a:Why would I?
+
+Cirno4c:You're so useless! Why did we bring you along?
+
+Rumia1a:I'm a youkai, not a toolbox.
+
+Keine1a:Girls! We're in the enemy's stronghold. We don't have time for fun and games.
+
+Cirno3a:Aww, why not? Come feel this carpet too, Keine. It's really fluffy!
+
+Keine0b:People step on that, you know. It's dirty, so stop touching it.
+
+<hide=all>
+
+Sakuya0c:Excuse me. This mansion is NOT dirty.
+
+</hide>
+
+Daiyosei2c:!
+
+Sakuya0b:I'm the housekeeper, and I'll have you know that carpet doesn't have a single speck of dust.
+
+Reimu3b:Oh hey, you're the maid we ran into before.
+
+Marisa0a:Ah, we meet again. If you're a maid, make like one and take us guests to your mistress.
+
+Sakuya0b:I fail to see any guests.
+
+Sakuya5c:All I see is a bunch of trash all over the carpet. And now I have to clean it up.
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP
+
+Sakuya0b:You have quite a few people with you today, Gensokyo Defense Force.
+
+Cirno0a:We're that now? I'm the leader then!
+
+Nitori0a:I move to impeach.
+
+Cirno0a:Yep, someone smart like me needs to be the leader!
+
+Sakuya0b:You brought children to a youkai mansion? Clearly you're not well-educated.
+
+Sakuya0b:...We wouldn't want them scarred for life by the vivid color of blood, after all.
+
+Reimu0e:Hi again, maid. Is your job done for the day?
+
+Sakuya0b:All that's left is to toss out the trash, and the mansion will be spotless.
+
+Marisa2b:What kind of maid mixes up guests and trash?
+
+Marisa0a:We're picking up where we left off before. You'd better show some courtesy.
+
+Sakuya0b:...You may have been lucky enough to defeat Meiling and Lady Patchouli, but don't get cocky.
+
+Sakuya0b:At the end of the day, you're merely human.
+
+Rumia1a:What's her problem? Why does everyone here have to act like they're better than us?
+
+Alice1b:I think she's the head maid of this mansion. She can teleport, so she'll be a troublesome opponent.
+
+Alice1b:And even if we take her ability out of the equation, she's still quite skilled. Nothing was settled in our previous battle.
+
+Youmu2b:Teleportation...?! What an amazing ability... Is she really human?
+
+Reimu0f:She's got a strange power alright, but other than that, she's normal.
+
+Sakuya0b:...I believe I told you before. Don't associate me with normal humans.
+
+Sakuya0b:I suppose our last battle wasn't enough to illustrate the difference between us.
+
+Nitori0a:Was it really that big a difference? We got pretty close in the end.
+
+Keine1a:And this time, we have Youmu, Rumia, Cirno, and Daiyousei with us. Don't expect it to go the same as before!
+
+Marisa0a:Yeah. You'd better get ready for a beatdown!
+
+Sakuya0b:If you have no intention of leaving, then so be it.
+
+Sakuya1a:This is checkmate for you all. I shall rid this mansion of your presence.
+
+<end>
+
+<ChatID:2>----------------------------------------
+//4EP幽香一行増援
+
+<Code=(update_view,448,176)>
+
+<Code=(icon_set_direction,Daiyosei,Elliy_en,0)>
+
+Daiyosei2c:Enemy reinforcements!
+
+<Code=(icon_set_direction,All,Elliy_en,0)>
+
+Youmu2b:It's...
+
+Elliy1a:We meet again!
+
+Kurumi1a:It'll go differently this time around!
+
+Keine1a:It's that devil and scythe youkai from before... You came to fight again?!
+
+Marisa0a:What do you chickens want with us?
+
+Sakuya0b:...Lady Elly and Lady Kurumi. What business do you have here?
+
+Sakuya0b:I am more than enough for all these humans. I don't require your assistance.
+
+Elliy0a:Sorry, we're not planning to interfere. We can't go back either though.
+
+Kurumi0a:Yeah. We're just the escort anyways, we don't have a choice in this.
+
+Reimu3b:Huh? Escort...?
+
+Reimu0a:I don't see anyone else besides you two. Who are you escorting?
+
+Kurumi0a:Ah-ah, you had to go and say that!
+
+Elliy0a:I can't believe you two. You actually forgot the awful experience you had last time?
+
+Elliy1a:Who do you THINK would show up with me and Kurumi?
+
+Marisa3a:The heck are you talking about? I remember giving you all a bad time, not the other way arou...
+
+Marisa2b:...?!
+
+<pause>
+
+Daiyosei2a:...Uh?!
+
+<Code=(icon_set_direction,Cirno,Daiyosei,0)>
+
+Cirno0a:...What's wrong, Dai?
+
+Daiyosei3b:...What is this... overwhelming power approaching us...?
+
+Daiyosei2a:I've never felt such a frightening amount of power before...!
+
+Nitori2a:This presence is intense. Is this bloodlust...?
+
+Youmu1a:I don't sense any bloodlust, no. But it is dark, tense, and overwhelming.
+
+Keine1a:A youkai aura that feels like needles prickling you all over, while weighing you down like a wet cloth draped over you...
+
+Keine2a:...Ugh! Just what is this pressure?!
+
+Marisa2b:Ah, crud. I should've thought of this the moment Elly and Kurumi showed up.
+
+Alice0a:You know something about it? I've never felt a youkai with an aura like this be—
+
+Alice1a:...No, it can't be!
+
+Reimu0a:I'd know that messed-up-feeling aura anywhere.
+
+Reimu1a:When did YOU come to Gensokyo?
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,448,176,1)>
+
+Yuka0b:...Good day to you.
+
+<Code=(icon_set_direction,All,Yuka_en,0)>
+
+Reimu0a:...Yuuka Kazami.
+
+</nomove>
+
+Yuka0b:Reimu and Marisa. I'm glad to see you're still alive. You've grown so much.
+
+Marisa2b:...Well, this sucks. You're gonna make this even more complicated than it already is, huh.
+
+Yuka1a:My, I thought you would be happier. It's a wonderful reunion after such a long time.
+
+Yuka0a:I see you have plenty of human and youkai allies with you this time as well. None that I am familiar with, though...
+
+Yuka1a:...Wait.
+
+Alice0b:...
+
+Yuka0b:Those rebellious, defiant blue eyes... Could you possibly be Alice?
+
+Alice0c:...It's nice to be remembered. Although I would've much preferred if I never met you again.
+
+Yuka1a:...Hahaha! You're that little crybaby Alice? You've grown so much since I last saw you!
+
+Yuka0a:You're so pretty now, I didn't recognize you.
+
+Reimu0d:So, Yuuka... What are you doing here? Are you the one releasing this mist?
+
+Yuka0a:I'm afraid not. I suppose you could call me... a guest of this mansion.
+
+Marisa3a:If we didn't think the mistress of this place was twisted before, having you for a guest confirms it.
+
+Marisa3d:And hey, this mist would spell trouble for plants as well. Did you change your religion?
+
+Yuka0a:You're as simplistic as ever, I see. Anyway, it is true that clear weather would lead to some flowers blooming more easily...
+
+Yuka0b:But both radiant flowers blooming under the sun, and devilish flowers blooming amidst melancholy are equally beautiful.
+
+Cirno0a:Hey, who's the self-important lady? A friend of yours?
+
+Alice0c:"Friend" would be a generous way to define our relationship. She's Yuuka Kazami, a flower youkai.
+
+Cirno0a:Flower? That doesn't sound very threatening.
+
+Elliy1a:You won't be saying that for much longer, short stuff!
+
+Kurumi1a:Yeah! Yuuka will destroy you all along with the entire world!
+
+Nitori3a:Yeesh, you guys are really loud. You're really playing up the third-rate villain act. You've even got your minions acting as hype men.
+
+Keine0a:Ah, so those two are Yuuka's servants.
+
+<Code=(icon_set_direction,Sakuya_en,Yuka_en,0)>
+
+Sakuya0b:...Lady Yuuka, please leave this to me.
+
+Yuka0a:I have no plans of interfering with you. I'm just here as a spectator.
+
+Yuka0b:...Yes, I want to see you in battle.
+
+Sakuya0b:...Very well. Then wait right there, please.
+
+Sakuya0b:I will do my best to ensure that you won't be bored.
+
+Youmu0a:...That flower youkai appears to have no interest in interfering.
+
+Reimu0a:That's good for us. We don't have the time to play around with someone like her.
+
+Marisa3a:Yep. That maid's enough trouble—we don't need to add more problems to our plate.
+
+Nitori0a:If Reimu and Marisa are both this wary of her, she must be a really tough customer...
+
+Alice0a:Right. Don't touch her. She's not someone we should challenge on a whim.
+
+Keine1a:We only need to defeat that maid to progress. Focus on that!
+
+<end>
+
+<ChatID:3>----------------------------------------
+//幽香HP一定以下、あるいは撃破
+
+Yuka0a:...Goodness gracious! I said I was only going to watch. Weren't you listening?
+
+<Code=(icon_set_direction,Reimu,Yuka_en,0)>
+
+<Code=(icon_set_direction,Marisa,Yuka_en,0)>
+
+Reimu3b:Why would we ever take you at your word?
+
+Marisa0a:Yeah, who knows if you'd fire at us from the side or something.
+
+Yuka0a:Such an appalling lack of self-control. Who just initiates a fight like that?
+
+Yuka0b:Still, your efforts deserve praise. I see your skills have not deteriorated.
+
+Yuka0a:...Or perhaps you trained yourselves via game over farming?
+
+Reimu2b:Are you done spouting complete nonsense yet?
+
+Yuka0a:Well, I shall retreat now in deference to your hard work.
+
+Yuka0b:Good day to you.
+
+<end>
+
+<ChatID:4>----------------------------------------
+//素咲夜撃破→殺人ドール発動
+
+Sakuya0b:...Hm, not bad. Perhaps defeating Lady Patchouli and Meiling wasn't a fluke after all.
+
+<Code=(icon_set_direction,Marisa,Sakuya_en,0)>
+
+<Code=(icon_set_direction,Reimu,Sakuya_en,0)>
+
+Marisa0a:This fight's just getting started! You've got spellcards, don't ya? Use 'em already.
+
+Sakuya0b:I don't need YOU to tell me that. Cleaning is my duty, after all.
+
+Sakuya0b:...Or perhaps you'd be better served as an ingredient in the mistress's next meal.
+
+<Code=(icon_set_direction,Cirno,Sakuya_en,0)>
+
+Cirno0a:Eww, you cook humans? I don't get devils' taste in food.
+
+<Code=(icon_set_direction,Keine,Sakuya_en,0)>
+
+Keine0b:This is the home of a youkai. These things happen.
+
+Keine0a:Though you're human yourself. Surely you're not a cannibal too?
+
+Sakuya0b:Certainly not. I prepare my own meals separately.
+
+Reimu3b:Ugh, sounds like a pain. I can't even imagine wanting to live alongside youkai.
+
+<Code=(icon_set_direction,Youmu,Sakuya_en,0)>
+
+Youmu0a:Why DO you serve youkai, anyway?
+
+Sakuya0b:You seem to be under the impression that I want to be here. I only do this because it's difficult to live alongside humans.
+
+Reimu0f:...And what does that have to do with being a vampire's maid?
+
+<Code=(icon_set_direction,Alice,Sakuya_en,0)>
+
+Alice0a:Right, even if you find it hard to get along with other humans, choosing to live with youkai is a bit shortsighted.
+
+Sakuya0b:Shortsighted or not, it is what I must do to survive.
+
+Sakuya0b:I get food and shelter here. That's all the reason I need.
+
+Marisa3a:That logic makes perfect sense while being complete nonsense.
+
+Marisa0a:Whatever, I don't care about your reasons anyway. Let's get this danmaku battle started!
+
+Sakuya0b:Indeed, I have yet to illustrate the difference in power between us.
+
+Reimu1a:Here it comes!
+
+Sakuya0b:Bear witness to the bewitching knives of a puppet made to kill.
+
+Sakuya1a:No human can escape the knives thrown by the inhuman. Let this doll stain the night in blood once more!
+
+<end>
+
+<ChatID:5>----------------------------------------
+//殺人ドールブレイク
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+<Code=(icon_set_direction,Marisa,Sakuya_en,0)>
+
+Marisa1a:How's that?!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+<Code=(icon_set_direction,Marisa,Sakuya_en,0)>
+
+Marisa1a:Alright, we ran it out!
+
+</Cond>
+
+Sakuya2a:Impossible...!
+
+<Code=(icon_set_direction,Reimu,Sakuya_en,0)>
+
+Reimu0a:You said you'd show the difference in power between us? Well, you sure did.
+
+Reimu0d:So, what trick have you got up your sleeve next? It'll take a lot to impress me.
+
+Sakuya2a:...
+
+Sakuya0b:...I acknowledge your strength. Yes, this is the first time I have been pushed this far by humans.
+
+Sakuya0b:But what does it matter? The difference between us remains the same. There is a wall that cannot be overcome.
+
+<Code=(icon_set_direction,Rumia,Sakuya_en,0)>
+
+Rumia0a:Aren't you losing? Sounds to me like you're living in denial.
+
+Marisa2b:You're nuts. Why do you cling so hard to this idea of being different?
+
+Sakuya0b:Because it is a hard fact. I was born in a different world from that of ordinary humans.
+
+Reimu0f:I mean, sure, you have a pretty odd power, but you don't need to go patting yourself on the back over it.
+
+<Code=(icon_set_direction,Keine,Sakuya_en,0)>
+
+Keine0a:Yes, what you're saying can't possibly be true.
+
+Keine0a:You seem to be underestimating humans quite a bit. Do you truly believe that?
+
+Sakuya1a:...Silence!
+
+Keine2b:!
+
+Sakuya0b:You know nothing. You fail to understand what it means to be born in a different world.
+
+Sakuya0b:In the space of a blink, I see light winding through the air like a serpent. I see glass sprinkling down like rain.
+
+Sakuya0b:...Completely alone. Yes, a world of solitude.
+
+Sakuya1a:And this world of mine needs no humans but me!
+
+<end>
+
+<ChatID:6>----------------------------------------
+//咲夜の世界の次PP（没）
+
+Nitori2a:What amazing danmaku. Is this her full power...?
+
+Youmu1a:Even if we dodge her attacks, she shows no signs of stopping!
+
+Keine1a:It seems the only way to stop her now is to break that spellcard.
+
+Keine1a:We can't time this out, everyone! Do whatever it takes to defeat Sakuya!
+
+<end>
+
+<ChatID:7>----------------------------------------
+//咲夜の世界ブレイク
+
+Sakuya2a:Urgh...!
+
+<Code=(icon_set_direction,Marisa,Sakuya_en,0)>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Marisa1a:Is she down for the count?!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Marisa1a:Alright, did she stop?!
+
+</Cond>
+
+<Code=(icon_set_direction,Reimu,Sakuya_en,0)>
+
+Reimu1a:Yes, this is the end!
+
+Sakuya2a:No... It's not the end. I can't... lose...
+
+<end>
+
+<ChatID:8>----------------------------------------
+//咲夜撃破後（幽香生存）
+
+Daiyosei2c:Ah, she collapsed! Is she okay?
+
+Keine2a:She seems to have exhausted herself. Her energy was certainly intense.
+
+<Cond=(FIND_UNIT,Yuka_en,enemy,!=,-1)>
+
+Yuka0a:...My, so Sakuya fell.
+
+<Code=(icon_set_direction,Reimu,Yuka_en,0)>
+
+<Code=(icon_set_direction,Marisa,Yuka_en,0)>
+
+Reimu3b:Yeah, too bad, huh? Now you don't get to see us lose.
+
+Marisa0a:Are you gonna fight us next?
+
+Yuka0a:...No. As I said at the start, I am only here as a spectator to Sakuya's battle.
+
+Yuka0b:It was enjoyable enough, so I will pull back for now. Anyone who's still remaining, come with me.
+
+<pause>
+
+Rumia0a:She left...
+
+Youmu0a:This area should be clear now.
+
+Keine0a:The battle's over. Let's move on, shall we?
+
+</Cond>
+
+Nitori0a:What should we do with the maid? I wouldn't wanna just leave her be.
+
+Youmu0a:Agreed. She should know where the boss is.
+
+Youmu0a:She shouldn't be able to move now. Why don't we question her?
+
+Sakuya2a:...
+
+Reimu0f:...
+
+Reimu0a:Let's just leave her here. We've come this far, and there aren't many places left to search.
+
+Marisa0a:Yeah. Besides, she's so strong-willed, I doubt she'd answer our questions.
+
+Keine1a:...Alright. Let's hurry onwards then!
+
+Nitori1b:One more push to reach the mastermind!
+
+<pause>
+
+Sakuya2a:...
+
+Sakuya2a:I lost. How can I face the mistress after this...?
+
+Sakuya0b:...
+
+Sakuya0b:Nonetheless...
+
+Sakuya1a:Nonetheless, I can't let them reach her.
+
+<end>
+
+<ChatID:9>----------------------------------------
+//咲夜撃破後（幽香撤退後）★<pause>が2個連続であるのは不具合対応のため★
+
+Daiyosei2c:Ah, she collapsed! Is she okay?
+
+Keine2a:She seems to have exhausted herself. Her energy was certainly intense.
+
+Alice0a:Alright, then let's move on.
+
+Nitori0a:What should we do with the maid? I wouldn't wanna just leave her be.
+
+Youmu0a:Agreed. She should know where the boss is.
+
+Youmu0a:She shouldn't be able to move now. Why don't we question her?
+
+Sakuya2a:...
+
+Reimu0f:...
+
+Reimu0a:Let's just leave her here. We've come this far, and there aren't many places left to search.
+
+Marisa0a:Yeah. Besides, she's so strong-willed, I doubt she'd answer our questions.
+
+Keine1a:...Alright. Let's hurry onwards then!
+
+Youmu1a:Understood!
+
+Nitori1b:One more push to reach the mastermind!
+
+<pause>
+
+<pause>
+
+Sakuya2a:...
+
+Sakuya2a:I lost. How can I face the mistress after this...?
+
+Sakuya0b:...
+
+Sakuya0b:Nonetheless...
+
+Sakuya1a:Nonetheless, I can't let them reach her.
+
+<end>
+
+<ChatID:10>----------------------------------------
+//ADVB
+
+<BG=bg_talk_Koumakan_Int_Night.png,fade=0,color=1,title=bg_Koumakan_Int,bgm=bgm_talk_ningyo>
+
+Nitori3a:...That maid was a really tough opponent.
+
+Rumia0a:Between Reimu and her, humans are really brutal these days.
+
+Youmu0a:I'm pretty sure they're the exceptions, not the norm...
+
+Reimu4a:Hey, I'm just an ordinary shrine maiden.
+
+Marisa0a:And I'm an ordinary human.
+
+Keine3a:I can't fathom what's ordinary about either of you.
+
+Keine0a:But that maid... She was extremely fixated on other humans.
+
+Alice0a:Agreed. Does she feel a sense of rivalry with them?
+
+Marisa0a:Well, she doesn't measure up to me or Reimu. Sheesh, some people just think too highly of themselves...
+
+Nitori0a:...It's hard to call that battle anything other than her getting unlucky. She was really, really strong too.
+
+Keine0a:She said that she had nowhere to go, so she stays in the mansion of a youkai...
+
+Keine0a:A human wouldn't serve a youkai without a good reason. I should ask her about it sometime.
+
+Reimu0f:Keine? You're worried about someone like that?
+
+Keine1a:Of course. She's still human.
+
+Keine0a:I know humans from all walks of life. It might be hard at first, but with enough time and patience, we can understand each other.
+
+Youmu0a:There's no harm in trying to talk with her again, if the chance presents itself.
+
+Nitori0a:Regardless, we need to resolve this incident first.
+
+Marisa0a:Yeah, they've got Yuuka after all. If we let ourselves get distracted by other things, we're gonna be in trouble.
+
+Marisa3a:...Man, I was totally shocked to see her involved in this whole thing.
+
+Reimu0a:Seriously. What could she possibly be doing here?
+
+Reimu3b:She said she was a guest, which possibly makes her a friend of the mistress of the house... But she doesn't seem like the type to have many friends.
+
+Alice0c:...Let's not bother trying to figure her out. No one ever knows what a youkai like her is thinking anyway.
+
+Rumia0a:But the boss is probably a youkai similar to her, right? That sounds like bad news.
+
+Nitori0a:Hm? What do you mean?
+
+Keine0a:...Ah, I see. If that flower youkai is a guest here, then the boss of this mansion must be of the same rank, or greater.
+
+Reimu0a:Yuuka's appearance threw me off a little, but I can sense a powerful youkai's aura.
+
+Reimu0a:She's basically giving away where she is hiding. Or maybe she's inviting us to her...
+
+Alice0a:It's so strong, it's practically advertising her presence. She certainly has a lot of self-confidence.
+
+Youmu1a:It's coming from above us.
+
+Marisa2b:Above? That's gotta be the rooftops!
+
+Keine0a:The moon should be out. Does she want a suitably dramatic backdrop, or does she actually draw power from it?
+
+Keine1a:We've finally reached the end. The boss of the mansion must be there.
+
+Nitori0a:So it's time to confront the culprit behind the mist incident...
+
+Nitori1b:I just tagged along because I couldn't return to the mountain... But I'm going to see this through to the end!
+
+Daiyosei3b:Oh gosh, my heart's pounding now.
+
+Rumia2b:Oh gosh, my tummy's grumbling.
+
+Cirno1a:We're gonna have a showdown with an... in-car-nation of evil, right? I'm always fired up from start to finish!
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Reimu1a:Okay, is everybody ready? Next up: a showdown with the mastermind!
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Marisa1a:Okay, is everybody ready? Let's get in there and have a showdown with this mastermind!
+
+</Cond>
+
+<end>
+
+<ChatID:11>----------------------------------------
+//咲夜vs.霊夢
+
+Sakuya0b:You're impeding my cleaning progress. The mistress will be cross with me.
+
+Reimu0a:That's the person in charge of the mansion, I'm guessing.
+
+Reimu0d:You guys are the ones releasing all the mist, right? It's a huge nuisance. What's your game?
+
+Sakuya0b:The sunlight's a bother to the mistress. She prefers dark places.
+
+Sakuya0b:And you're also a bother, since you're opposing her.
+
+Reimu0a:I guess telling you I'm here to defeat her won't make any difference.
+
+Reimu1a:So I'll have to defeat you, then beat your mistress up!
+
+<end>
+
+<ChatID:12>----------------------------------------
+//魔理沙
+
+Sakuya0b:I see someone who fails to know her place has come to get in the mistress's way.
+
+Marisa0a:Oh, I know my place. I'm a magician, and a guest here.
+
+Sakuya0b:Unfortunately, I reserve no mercy for magicians.
+
+Sakuya0b:So you shall be swept out of the mansion.
+
+Marisa0a:Cleaning up's a tough job. I'm much better at messing stuff up.
+
+Marisa1a:I make the mess, and you clean it up... Let's see which of us is faster!
+
+<end>
+
+<ChatID:13>----------------------------------------
+//慧音
+
+Keine0a:Hi. I haven't seen you since our encounter at the human village.
+
+Sakuya0b:You were that teacher, correct? It's quite admirable of you to help humans.
+
+Keine0a:Who are you to talk about helping them, when your group is the cause of this mess?
+
+Keine0a:Even when you came to the village, you tried to hide your connection to the mist... Does your group have something against humans?
+
+Sakuya0b:I'm not under any orders to hide it. I simply have no reason to help humans... That's all.
+
+Keine1a:I see there's no chance of talking this out. Then I'll have to let my danmaku do the talking!
+
+<end>
+
+<ChatID:14>----------------------------------------
+//にとり
+
+Nitori0a:There are so many maids here. Are you one of them?
+
+Sakuya0b:Those are the fairy maids. I am the head maid. I'd prefer you not put us on the same level.
+
+Sakuya0b:Fairies alone are essentially useless. They need orders from me to do anything.
+
+Nitori0a:Wow, guess you're a high-ranking maid.
+
+Nitori1a:But you're giving orders to fairies. Don't you have problems when they don't listen to you?
+
+Sakuya0b:Not particularly. They're arguably far easier to deal with than a human.
+
+Nitori0a:...Yeah, that's true. You're probably a lot harder to deal with than any fairies.
+
+<end>
+
+<ChatID:15>----------------------------------------
+//アリス
+
+Alice0a:You're a lot more desperate this time. Is your master that scary a youkai?
+
+Sakuya0b:It's not desperation. As head maid, I simply need to take responsibility for cleaning up the riffraff.
+
+Alice0c:Posturing won't do you any good. We've seen that from everyone we've fought so far, and those fights have all gone one way.
+
+Sakuya0b:Are you so sure this one will be the same?
+
+Sakuya0b:Your time is mine... An eccentric magician like you has no chance.
+
+<end>
+
+<ChatID:16>----------------------------------------
+//妖夢
+
+Sakuya0b:I knew there were trespassers in the mansion, but to think they were actually raiding the place...
+
+Youmu1a:You can't catch a tiger cub without entering a tiger's den. It's time for you to take us to your mistress!
+
+Sakuya0b:Your skill as a swordswoman is evident. But do you truly think you can defeat me?
+
+Youmu0a:...What do you mean?
+
+Sakuya0b:This is not a dojo. A good little girl's sword will stand no chance of landing a blow on me.
+
+<end>
+
+<ChatID:17>----------------------------------------
+//ルーミア
+
+Rumia0a:Hey, what does a maid do?
+
+Sakuya0b:Many different things—cleaning up the mansion, doing the laundry, and serving food, just to name a few.
+
+Rumia0a:Serving food? So you get your own food?
+
+Sakuya0b:No, I serve the food to others, not myself.
+
+Sakuya0b:...Although all the maids here are given food as well.
+
+Rumia3a:If you guys get food, then maybe I should try being a maid for a day.
+
+Sakuya0b:That wouldn't be a very good idea for you.
+
+Sakuya0b:You won't get food unless you make yourself useful. As they say—if you don't work, you don't eat.
+
+<end>
+
+<ChatID:18>----------------------------------------
+//大妖精
+
+Daiyosei0a:A person in a maid uniform... So it's not only fairies who work here.
+
+Sakuya0b:You are quite a strange fairy to have slipped into here. Do you actually want to work here?
+
+Daiyosei2c:Ah, no... I'm just taking a look around.
+
+Sakuya0b:If you did want to work, go ahead. The more fairy maids we have, the better.
+
+Sakuya0b:In fact, you look more useful than the other fairies. Perhaps I should capture you.
+
+Daiyosei3b:Ah, I'm not a bug to be caught...!
+
+<end>
+
+<ChatID:19>----------------------------------------
+//チルノ
+
+Cirno1a:I get it... You're the boss of all these fairies!
+
+Sakuya0b:Excuse me, I'm not a fairy boss. I'm a maid boss.
+
+Cirno0a:Hm? But aren't all the maids here fairies?
+
+Cirno1a:Then once I beat you, I'll be the boss of all the fairies! Let's fight it out!
+
+Sakuya0b:...You appear to have strength, but you're even less smart than the fairy maids.
+
+Sakuya0b:I'll sweep you out of the mansion before your stupidity infects anyone else.
+
+<end>
+
+<ChatID:20>----------------------------------------
+//幽香vs.霊夢
+
+Yuka0a:Long time no see, Reimu. I'm glad to see you're doing well.
+
+Reimu3b:Y'know, I was wondering why I hadn't seen you around much. So this is where you've been.
+
+Yuka0a:It's surprisingly comfortable here. As for why I'm here—
+
+Reimu1a:I'm not here to catch up. I'm here to get you out of my way!
+
+Yuka0b:You still prefer danmaku battles over talking, I see. You're as violent as ever.
+
+Reimu1a:You're one to talk!
+
+<end>
+
+<ChatID:21>----------------------------------------
+//幽香vs.魔理沙
+
+Yuka0a:Long time no see, Marisa. You've gotten bigger, haven't you?
+
+Marisa0a:Eh, not really. My height's no different now than it was before.
+
+Yuka0a:You know, it's actually disappointing to see you've done no growing at all.
+
+Yuka0b:But one thing has certainly changed...
+
+Marisa3a:What's that?
+
+Yuka0a:Where did she go? Weren't you with her just a little while ago?
+
+Yuka1a:Did she abandon you? You have a rather uncaring master.
+
+Marisa3a:...I've got no idea what you're talking about.
+
+Marisa0a:And I'm not so sure you've got room for distractions. If you don't take my magic seriously, you'll live to regret it.
+
+Yuka0a:My, you HAVE matured. Very well, I'll gauge your strength.
+
+<end>
+
+<ChatID:22>----------------------------------------
+//幽香vs.アリス
+
+Yuka0a:I had no idea who you were when I first saw you. You've grown into a fine woman.
+
+Alice0b:Spare me your teasing. How long have you even been in Gensokyo?
+
+Yuka0b:My, did you wish I'd told you I was here?
+
+Alice0c:Just the opposite. I'm not the old Alice anymore. I would've preferred to have nothing to do with you ever again.
+
+Yuka0a:So it would seem. That locked grimoire demonstrates your determination well enough to me.
+
+Yuka1a:Very well, show me the person you are now. Since you've become so pretty, I'm sure your danmaku must be similarly beautiful!
+
+<end>
+
+<ChatID:23>----------------------------------------
+//エリーvs.霊夢
+
+Reimu0f:Oh yeah, weren't you the gatekeeper for Yuuka's house?
+
+Reimu0f:I remembered you getting in my way, but not where it happened.
+
+Elliy0a:You forgot about VIPs like me and Yuuka? Do you have amnesia or something?
+
+Reimu0d:Oh, shush. I've just been busy with lots of things recently.
+
+Elliy0a:What are you talking about? You're the person with the most free time in Gensokyo.
+
+Reimu0f:You don't know when to shut up, do you...
+
+<end>
+
+<ChatID:24>----------------------------------------
+//魔理沙
+
+Marisa0a:Right, you were Yuuka's grunts. Which means, you know...
+
+Elliy0a:...What?
+
+Marisa0a:When we first met at Kourindou, was that an errand for Yuuka?
+
+Marisa0a:Come to think of it, Kourin did say that he got ahold of some strange medicine that gets rid of weeds...
+
+Elliy1a:Hey, mind your own business. Don't pry into a lady's affairs!
+
+Marisa0a:Whatever you say. I'll just ask Kourin.
+
+<end>
+
+<ChatID:25>----------------------------------------
+//アリス
+
+Elliy0a:You know, I thought the name Alice sounded familiar.
+
+Elliy1a:Now I finally remember—you're the one Yuuka used to call Little Alice!
+
+Alice0a:Yuuka did that...?
+
+Elliy1a:That girl was all Yuuka talked about after that incident. I was so steamed that someone stole Yuuka away from me!
+
+Alice1a:W-Wait a minute. I don't know what you heard from Yuuka, but I have no interest in what she did or didn't do.
+
+Elliy1a:Stop saying her name like you're on friendly terms with her! You're not Little Alice. You're just a cheeky blonde lady!
+
+<end>
+
+<ChatID:26>----------------------------------------
+//くるみvs.霊夢
+
+Reimu0f:Oh yeah, we met when I was fighting Yuuka, didn't we? You're still her minion, huh?
+
+Kurumi1a:Yeah. I'll beat up everyone who gets in Yuuka's way!
+
+Reimu0f:You'll beat up everyone...? Didn't we just fight you earlier?
+
+Kurumi0a:Ah... Um, that was just me assessing the situation!
+
+Kurumi1a:A-Anyway! Yuuka's right behind me, so I'm gonna be serious this time!
+
+<end>
+
+<ChatID:27>----------------------------------------
+//くるみvs.魔理沙
+
+Marisa0a:What's someone who ran away earlier doing here now?
+
+Kurumi0a:Uh... Let's not talk about that anymore.
+
+Kurumi1a:Yuuka's around this time. Even if I run, there's nowhere to hide!
+
+Marisa1a:You can't leave your master behind, eh? In that case, it's time to do some exterminating!
+
+<end>
+
+<ChatID:28>----------------------------------------
+//くるみvs.アリス
+
+Kurumi1a:Oh... You're that Little Alice that Yuuka talked about!
+
+Alice0c:I have no idea what you're talking about.
+
+Kurumi1a:Don't play dumb! We were so lonely when Yuuka went all around searching for you!
+
+Kurumi2a:I can barely remember how many times Elly and I cried together in Yuuka's bed...
+
+Alice0c:...*sigh* I don't know about you two, but she's been the one causing trouble to me.
+
+Alice0a:If it was that bad, couldn't you have gone to bring her back yourself?
+
+Kurumi0a:But our duty is to protect the mansion...
+
+Alice3a:...I'm surprised you take your job so seriously.
+
+<end>
+
+<ChatID:29>----------------------------------------
+//幽香初戦闘（PP時）
+
+Yuka0b:Oh my, I even said that I was just here to watch, yet you all took the time to come here and play with me.
+
+Yuka1a:...Such wonderful children. Here, have a reward.
+
+<end>
+
+<ChatID:30>----------------------------------------
+//マスパイベント
+
+Marisa0a:Hey, I got something cool to show you. It's this magicannon of light right here.
+
+Yuka0a:A magicannon... of light?
+
+Yuka0b:Ah, I see. So this is what Elly was talking about when she mentioned brute-force magic.
+
+Yuka0a:So, does that mean you're trying to imitate me?
+
+Marisa0a:Imitate? Please. I prefer to call it using something as a reference.
+
+Marisa0a:For one thing, I'm the one who gave this magic a name. That makes it MY magic!
+
+Yuka0a:Oh, this is rich. Someone's using my arts with human levels of magic energy?
+
+Yuka1a:Let's see this magicannon of light, then.
+
+<end>
+
+<ChatID:31>----------------------------------------
+//マスパイベント続き
+
+Yuka0a:...I see. So you've named the move Master Spark.
+
+Yuka0b:I like that name. I think I'll use the same name for my move from now on.
+
+Marisa3d:Hey, that's MY name. You can't just steal it!
+
+Yuka0a:What's the problem? It's much more convenient to refer to it by name, and it's fitting for a flower master like me.
+
+Yuka0b:If you want a monopoly on this technique... Then you will have to surpass me first.
+
+Marisa2b:...Easy for you to say. That used up tons of my energy.
+
+Yuka1a:Heh heh heh. Come with all your might. Marisa... This is ever so much fun.
+
+<end>
+
+<ChatID:32>----------------------------------------
+//咲夜さんvs.まくら
+
+Makura0a:Controlling spacetime? That power surpasses humanity.
+
+Sakuya1b:And I am no ordinary human. We live in different worlds.
+
+Makura3a:But humans are humans. From my perspective, you're all the same beings.
+
+Sakuya0b:I'll make you regret lumping me in with them.
+
+<end>
+
+<ChatID:33>----------------------------------------
+//咲夜さんvs.メーコ
+
+Sakuya5c:You brought a whole flock of sheep? Who do you think has to clean this mess?
+
+Meko3a:Ah, I'm so sorry about that!
+
+Meko0a:You usually let them in, so I didn't even think about it.
+
+Sakuya0b:What a nonsensical excuse. I'll gather them all up and release them out front.
+
+<end>
+
+<ChatID:34>----------------------------------------
+//咲夜さんvs.咲夜さん
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Sakuya1d:Who are you, to intrude upon my world?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Sakuya0a:So you see me. As expected of someone with the same type of ability.
+
+Sakuya5b:But I can do what you cannot.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Sakuya1d:And what can't I do?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Sakuya0a:Precognition. After this, you'll lose to us.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Sakuya5c:I see you're quite the comedian, then.
+
+</nomove>
+
+<end>
+
+<ChatID:35>----------------------------------------
+//幽香vs.まくら
+
+Yuka2c:Oh? What are you doing here?
+
+Makura0g:Yuuka Kazami...
+
+Yuka0e:Did you change out of those rags? Are you even recovered enough to walk?
+
+Makura0c:I'll never forget my debt to you, for sheltering me in Mugenkan. But please, consider this a case of mistaken identity.
+
+Yuka0b:How cryptic of you. But I don't mind. I never trusted you in the first place, after all.
+
+<end>
+
+<ChatID:36>----------------------------------------
+//幽香vs.メーコ
+
+Yuka2d:Oh, you're the one who was with her...
+
+Meko0b:Eep! Yuuka Kazami...
+
+Yuka0e:No, I must have the wrong person. The sheep youkai I knew could only tremble behind her back.
+
+Yuka0b:But if you wish to play, I'm game.
+
+<end>
+
+<ChatID:37>----------------------------------------
+//幽香vs.幽香
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Yuka0b:Good evening.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Yuka2d:Oh... did I forget to erase one of my clones?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Yuka0a:Does it really matter which of us is the original?
+
+Yuka0a:We're flowers growing from the same roots. Just another fine thing.
+
+</nomove>
+
+<end>
+
+<ChatID:38>----------------------------------------
+//幽香vs.紫
+
+Yuka2d:To think I'd run into the Youkai Sage here.
+
+Yukari0a:Your surprise shows on your face.
+
+Yuka0e:It seems unnatural somehow. Or should I say, uneven.
+
+Yuka3a:Which is why I'd like to take this chance for a rematch.
+
+Yukari1a:You're so sharp in the strangest ways...
+
+<end>
+
+<ChatID:39>----------------------------------------
+//幽香vs.エリー
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Elliy1a:Yuuka!
+
+Yuka2b:I'll tear you to pieces.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Elliy2b:What? I haven't even said anything yet!
+
+Yuka2d:You should expect that much for leaving my side as you please.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Elliy2a:Gah, is this your way of being possessive? If so, then I'll end up accepting it!
+
+</nomove>
+
+<end>
+
+<ChatID:40>----------------------------------------
+//幽香vs.くるみ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Kurumi1a:Yuuka!
+
+Yuka2c:I'll tear you to pieces.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Kurumi2a:Eek! All I did was call your name!
+
+Yuka3f:If you were going to do so, you shouldn't have left my side. Don't blame me if you're reduced to ash from a stray bullet.
+
+</nomove>
+
+<end>
+
+<ChatID:41>----------------------------------------
+//エリーvs.エリー
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Elliy4a:Yuuka and me on the other side, huh? This is getting a little complicated.
+
+Elliy1a:Not! It's just playing around with Yuuka!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Elliy1b:You, that pretty girl over there, what did you just say?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Elliy1a:I'm playing around with Yuuka! And no matter how pretty you are, stay out of my way!
+
+</nomove>
+
+<end>
+
+<ChatID:42>----------------------------------------
+//くるみvs.くるみ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Kurumi3b:I'm Kurumi!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Kurumi0b:Yeah, I'm also—
+
+Kurumi3d:(...No. I have to trick her a little.)
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Kurumi0b:What?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Kurumi3b:I'm Kurumi No. 2! Nice to meet you, No. 1!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Kurumi3d:Wow, it's just like Batta Man!
+
+</nomove>
+
+<end>
+
+<ChatID:43>----------------------------------------
+//咲夜さんvs.レミリア
+
+Remilia1e:Seems you're putting in an adequate effort.
+
+Sakuya1b:Lady Remilia?
+
+Sakuya1d:I thought you left this place to me. Do you have some business here?
+
+Sakuya5c:Or am I so lacking in ability?
+
+Remilia1e:I simply wanted to see how you fight from up close.
+
+Remilia0a:We don't often get this chance, so how about I be your opponent?
+
+Sakuya1b:Mistress?
+
+Remilia1a:Hey now, stop spacing out and let's start!
+
+<end>
+
+<ChatID:44>----------------------------------------
+//咲夜さんvs.フラン
+
+Flan3e:Sakuya, let's play!
+
+Sakuya3a:Lady Flan?!
+
+Sakuya2c:How did you—? No, first I need to report this to the mistress!
+
+Flan3e:No, I don't wanna play with Remi, I wanna play with you!
+
+Sakuya2a:...Certainly, I shouldn't let her out of my sight for even a moment.
+
+Sakuya1d:This may get a little rough, but allow me to restrain your movements.
+
+Flan3b:Tee-hee. Go ahead and try.
+
+<end>
+
+<ChatID:45>----------------------------------------
+//咲夜さんvs.夢子
+
+Sakuya5b:A maid? Were you hoping to be hired by the Scarlet Devil Mansion?
+
+Yumeko0b:No, there is only one place I'll ever work.
+
+Sakuya5c:A shame. You seem more useful than the fairies.
+
+Sakuya0b:Then I suppose you're an intruder. Excuse me while I repel you.
+
+<end>
+
+<ChatID:46>----------------------------------------
+//咲夜さんvs.美鈴
+
+Sakuya5b:Meiling. It was your failure that allowed these humans to trespass.
+
+Meiling1d:I'm sorry, I have no excuse.
+
+Sakuya5c:No use dwelling on it, the matter will be resolved once I stop them.
+
+Sakuya5b:That said, I suppose you will need a little discplining.
+
+Meiling2a:What'd I expect?! Fine, whatever, I'm ready!
+
+<end>
+
+<ChatID:47>----------------------------------------
+//咲夜さんvs.パチュリー
+
+Sakuya1b:Lady Patchouli. I'd heard you were defeated earlier. Can I take it you are unharmed?
+
+Patchouli0c:Well, see for yourself. And what about you?
+
+Sakuya0b:They're mere humans. I assure you there will be no delay.
+
+Patchouli4a:Mere humans, hm?
+
+Patchouli0b:Then why don't you show me how you fight against a group?
+
+<end>
+
+<ChatID:48>----------------------------------------
+//咲夜さんvs.小悪魔
+
+Sakuya1b:Oh, you were unharmed. Is Lady Patchouli alright?
+
+Koakuma4a:She is, but the library's a mess...
+
+Koakuma3d:But I think the current me is handling that, so no need to worry about that.
+
+Sakuya5b:The "current" you?
+
+Koakuma2b:Ah, never mind! Forget I said anything!
+
+Sakuya5a:...You're acting oddly. I should take you to see a doctor after I take care of the humans.
+
+<end>
+
+<ChatID:49>----------------------------------------
+//幽香vs.神綺
+
+Shinki2b:Yuuka Kazami!
+
+Yuka2d:Oh, if it isn't Alice's dear mommy.
+
+Yuka0e:Can I assume that you're here to chaperone your daughter?
+
+Shinki1c:That's right. I can't very well let her hang out with dangerous sorts like you.
+
+Shinki2b:Why, just now you tried to seduce her, saying she'd grown pretty.
+
+Yuka4b:I'm starting to pity her. She's so mature, but with a mother like you...
+
+Yuka1a:How about I help you deal with your Empty Nest Syndrome by ending you here?
+
+<end>
+
+<ChatID:50>----------------------------------------
+//幽香vs.夢子
+
+Yumeko5c:A guest, is it? Are you sure you're not stalking a newcomer?
+
+Yuka2d:What a thing to say as soon as we meet. Although it's true there's a human who's caught my eye.
+
+Yuka0e:Although, can you really say I've been stalking anyway?
+
+Yumeko1c:It's no use playing dumb. Allow me to punish you again for the time you followed Alice.
+
+Yuka1a:Ooh, what a scary older sister. But if you're picking a fight, I'm game.
+
+<end>
+
+<ChatID:51>----------------------------------------
+//C10：幽香vs.非想天則
+
+Tensoku0a:...
+
+Yuka2d:Oh? You're quite a large youkai.
+
+Yuka1a:Could you have come all this way just to play with me?
+
+Tensoku0a:...!
+
+Yuka0d:Heh, I'll take that as a yes.
+
+Yuka2b:But if I'm going to humor, I certainly hope you're more than useless doll.
+
+<end>

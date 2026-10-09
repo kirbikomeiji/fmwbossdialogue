@@ -1,0 +1,1529 @@
+﻿○共通第十一話「永遠に紅い幼き月
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: after battle vs. Remilia (before Sakuyasan shows up)
+ 3: Sakuyasan shows up
+ 4: Me-Saku
+ 5: Meek break
+ 6: Remilia spell 1 start
+ 7: Remilia spell 2 start
+ 8: Remilia spell 3 start
+ 9: clear
+10: ADVB
+11-19: battle vs. Remilia
+20: Keine vs. Patchouli
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<MAP=4,FROM=紅魔館,TO=紅魔館,name=Scarlet Devil Mansion,icon=5>
+
+<BG=*bg_talk_Koumakan_Int_Night.png,fade=0,color=1,title=*bg_Koumakan_Int,bgm=bgm_talk_kaikidan>
+
+Remilia1d:...
+
+Remilia1c:...Patchy.
+
+Patchouli0c:I'm here.
+
+Remilia0b:Meiling.
+
+Meiling1b:Yes, ma'am.
+
+Remilia1d:Sakuya has fallen. Prepare to meet the enemy.
+
+Meiling6a:Sakuya? Really?!
+
+Koakuma1c:How do you know?
+
+Remilia1d:I can sense the commotion among the fairy maids. The intruders will be up here shortly.
+
+Patchouli0c:It's been a long time since we've had such turmoil.
+
+Remilia6a:Yes, it takes me back.
+
+Remilia1d:I remember the conflict against those petty fools trying to drag us off our throne, decapitate us, and drive stakes through our hearts.
+
+Remilia0a:We lost many allies, but we killed even more of theirs. Ahh, is this what they call homesickness?
+
+Patchouli4a:A bloody kind of homesickness, yes.
+
+Meiling1b:Our homes... The places where we were born.
+
+Meiling0a:I didn't realize you thought so much about your home, Mistress Remilia.
+
+Remilia1b:Is there something wrong with me reminiscing?
+
+Meiling7a:Oh, not at all! I just mean you're usually so detached.
+
+Remilia4a:I'm not made of stone, you know.
+
+Remilia0a:...Not that it matters at this point. The Scarlet Devil Mansion is my castle.
+
+<SE=se_talk_door_open02.ogg,wait=1>
+
+Yuka0a:Someone looks excited.
+
+Remilia1e:My, welcome back. How was it?
+
+Yuka0b:Sakuya and the intruders were all just delightful. And I had an unexpected reunion with someone there.
+
+Meiling1d:...You mean you left Sakuya there?
+
+Yuka2d:Yes, I agreed not to interfere with her battle. I saw what I wanted to see, so I'm satisfied.
+
+Meiling1a:We have to send someone to get her!
+
+Patchouli0c:Don't bother. The invaders will be here any moment.
+
+Patchouli0a:We need to focus on our own preparations, or we'll be asking for trouble.
+
+Meiling3a:I know, but...
+
+Yuka0a:I would send out Elly and Kurumi, but they're resting in the neighboring room, exhausted. My apologies.
+
+Koakuma4b:I can't blame them. They've been working so hard.
+
+Koakuma0a:Lady Patchouli, do we have a plan for our next battle?
+
+Patchouli0c:I don't have anything in mind yet. What's the call, Remilia?
+
+Remilia1e:A devil has no need for a battle plan. We will simply force them to their knees with overwhelming strength.
+
+Yuka0b:Now that's a philosophy I can get behind. Would you like some assistance?
+
+Remilia1d:I'll have to pass, I'm afraid. This next stage is made for us alone.
+
+Yuka0c:...Very well. In that case, I'll go do some gardening or something.
+
+Yuka0b:On the off chance you fall in battle, I'm taking the castle.
+
+Remilia1a:That won't happen. On this land blessed by the scarlet moon, no one is a match for me.
+
+Remilia1d:Come, denizens of the Scarlet Devil Mansion. A final party awaits us.
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP
+
+Reimu1a:We're at the rooftop!
+
+Youmu1a:The mist is extremely thick. I can barely see through it.
+
+Alice1a:Even the moon is red. That doesn't bode well at all for Gensokyo.
+
+Keine1a:This aura is far too much for regular humans to withstand.
+
+Marisa2b:...The person making this mist is definitely nearby.
+
+Marisa3a:Why is it that the stronger someone is, the more they like hiding? Like Yuuka earlier.
+
+Reimu0d:Seriously. Hey, you can come out now.
+
+<pause>
+
+Remilia1a:Mwahaha... Well done on making it up here.
+
+Cirno0a:There's the culprit behind this incident...
+
+Remilia0b:Indeed. My name is...
+
+Alice0c:...Remilia Scarlet. A vampire.
+
+Remilia0b:...My, you're quite well-informed.
+
+Marisa0a:We heard from your friend on the way here. She said her mistress was causing headaches for her.
+
+Patchouli0a:...
+
+Remilia0b:No matter. If you know, we can get through this more quickly.
+
+Remilia0a:I am the ruler of the night, Remilia Scarlet. Others call me the Scarlet Devil.
+
+Nitori0a:Scarlet Devil?
+
+Remilia0a:Yes. I'm a light eater, so leftover blood always gets all over my clothes.
+
+Keine0a:Ah, and your bloody clothes count as scarlet. That explains the name.
+
+Reimu0d:That's pretty twisted. Also, your scarlet mist is a huge nuisance. Could you call it off already?
+
+Remilia0b:If you wish to stop the mist, then you must challenge me with the utmost of your strength.
+
+Remilia0a:...If you can make it to me, that is.
+
+Alice0a:That won't be easy. That magician and her devil from before are here too. And even the gatekeeper.
+
+Marisa3a:With all her generals lined up, looks like she's ready for an all-out war.
+
+Meiling1a:None of you shall reach the mistress!
+
+Patchouli0a:What she said, more or less.
+
+Rumia0a:Haven't you learned by now? You can keep showing up, but you're just gonna keep losing.
+
+Meiling0b:As long as there's a reason to, a youkai will stand back up as many times as it takes.
+
+Meiling1a:As long as there's something behind me I must protect, I will stand firm no matter how many times I fall!
+
+Youmu0a:You're that intense in a rematch against people you've already lost to... You're definitely tough.
+
+Youmu1a:We won't lose, though. We'll smash through your wall with even greater conviction!
+
+Alice0a:I didn't expect you to be here. I thought you'd still be reading books at the library.
+
+Patchouli0a:To be honest, I'm not particularly invested in this. But I won't ignore a request from a friend.
+
+Nitori1b:We have the power of friendship on OUR side too!
+
+Cirno1a:Right! Let's do this, Dai!
+
+Daiyosei1a:Yeah, Cirno!
+
+Patchouli0a:They're quite fired up.
+
+Koakuma1a:Ah... Yes, they are.
+
+Patchouli0a:Oho. Are you nervous?
+
+Koakuma0a:No, it's just....
+
+Koakuma1a:...I wasn't very helpful the last time. So I must prove my worth now!
+
+Patchouli0a:You've got nothing to prove. Just do your usual thing.
+
+Patchouli0a:I had to put in a lot of work to set this stage. I might as well see it through to the end.
+
+Alice0c:It's a rather dangerous stage. Is this meant to be the backdrop for the heroes felling the dark lord?
+
+Patchouli1a:No. All we can offer you is a bad ending where the hero gets devoured by monsters and the scarlet of avidya enshrouds all.
+
+Remilia1a:It will be a comedy for us, though. The world will be ushered into an era of darkness, and Gensokyo will be my domain.
+
+Keine1a:Who would ever allow a story to end that way? We'll destroy you right here and now. The humans of the village are depending on us!
+
+Marisa1a:Yeah, my light magic will burn you and your high and mighty attitude up!
+
+Reimu1a:I'll defeat you and put a stop to the mist myself. That should wrap up this incident!
+
+Remilia0a:You're certainly driven, I'll give you that. You'll need to be, in order to challenge me.
+
+Remilia0a:How long will it be before you lose hope in the face of my troops?
+
+Remilia1a:Now... Struggle, agonize, despair, and die!
+
+<end>
+
+<ChatID:2>----------------------------------------
+//万が一咲夜さん登場前にレミリアと戦闘した場合
+
+Marisa3b:What's going on? Nothing's hitting her!
+
+Remilia0a:Did you honestly think you could defeat me right from the beginning?
+
+Remilia0a:Defeat the Scarlet Devil Mansion's denizens to prove you're worthy to challenge me.
+
+Remilia0a:I might be willing to fight you directly if you do so.
+
+<end>
+
+<ChatID:3>----------------------------------------
+//2EPミークイベント
+
+Sakuya2a:Mistress...!
+
+Remilia1b:Sakuya...?
+
+Keine2b:Wh... That's the maid we fought earlier!
+
+Meiling6a:Sakuya, what are you doing here in that condition?
+
+Sakuya2a:Why else? I won't stand by and watch.
+
+Nitori2a:That maid's all beaten up, but she's still ready to fight!
+
+Marisa2b:Is this your stubborn pride as head maid or something? You're gonna regret it.
+
+Sakuya2a:It doesn't matter. Even should I use up the last of my knives, even should my body be torn to shreds...
+
+Sakuya1a:...I refuse to let you reach the mistress!
+
+Reimu1a:Here she comes! Be careful!
+
+<end>
+
+<ChatID:4>----------------------------------------
+//めーさくイベント
+
+Sakuya2a:Rgh...
+
+Meiling7b:Sakuya!
+
+Cirno1a:Hah, we're gonna win for sure. If you wanna give up, now's the time!
+
+Daiyosei3b:She's right. Please don't push yourself any further.
+
+Sakuya2a:...
+
+Reimu0a:Stop being so stubborn. You're in no shape to put up a proper fight.
+
+Marisa3a:Yeah. You may be real passionate 'bout your work, but you gotta know when to quit too.
+
+Sakuya2a:I will not back down. I have no other place to go...
+
+Sakuya2a:...I must at least make you waste a bomb.
+
+Keine1a:If you still insist on fighting, then fine. We'll knock you out the hard way.
+
+Meiling1a:I don't think so!
+
+<pause>
+
+Sakuya3a:...Meiling, what are you doing?!
+
+Meiling1a:Sakuya, keep up your attack. I'll be your shield.
+
+Sakuya3b:You? My shield?
+
+Sakuya0b:Don't be ridiculous. Go back and guard the mistress.
+
+Meiling1a:No. I can't stand to watch you put yourself in harm's way like this. Besides...
+
+Meiling5a:Didn't I tell you before? I am Hong Meiling, the Scarlet Devil's dragon, and I will protect you.
+
+Sakuya5a:...
+
+Meiling1a:Now come, humans! I will be your opponent!
+
+<end>
+
+<ChatID:5>----------------------------------------
+//ミーク終了時
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Sakuya2a:Augh!
+
+Nitori1b:We got her this time, right?!
+
+Keine2a:Stay down and stop getting up!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Sakuya2a:Rgh...
+
+Cirno0a:Whew, we got through it.
+
+Youmu1a:Please stay down and stop getting up!
+
+</Cond>
+
+<pause>
+
+Sakuya5a:Mistress...
+
+<Code=(demo_wait,30)>
+
+Sakuya5c:I'm afraid... I've... lost...
+
+<Code=(demo_wait,30)>
+
+<Cond=(FIND_UNIT,Meiling_en,enemy,>,0)>
+
+Meiling7b:SAKUYA!
+
+</Cond>
+
+Remilia5a:Sakuya...
+
+<pause>
+
+Remilia0b:...
+
+Remilia0a:I suppose humans will always be useless, in the end. That barely livened up the party at all.
+
+Daiyosei2c:Her own maid just fell right in front of her!
+
+Youmu1a:You don't seem terribly bothered by your own servant falling in battle.
+
+Keine1a:You pollute Gensokyo with mist and toy with humans... Are you happy with that, vampire?!
+
+<pause>
+
+Remilia0a:Yes, I'm absolutely delighted! If you wanted to deliver a scolding, you've chosen the wrong target!
+
+Remilia1a:I am a vampire... A ruler of the night and mortal foe of the living!
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Reimu0a:Looks like I'll have to exterminate you for good.
+
+Remilia0b:You can try. I'll paint the Scarlet Devil Mansion even redder with your blood.
+
+Remilia1a:The moon's so very red, you know. I think I'll kill you in earnest.
+
+Reimu5d:The moon's so red, yet...
+
+<double>
+
+Remilia1a:This is shaping up to be a delightful night.
+
+Reimu1a:This is shaping up to be a very long night.
+
+</double>
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Marisa1a:...There's no way you can be left unchecked. Hope you're ready to go down!
+
+Remilia0b:You all should be the ones resigned to your fate. You shall pay dearly for the mess you've made of my mansion.
+
+Marisa0a:You're like a mad dog. Fun fact, that's the name of a flower. Mad dog skullcap.
+
+Remilia0a:Oh, you're a funny one. The moon's so very red, you know...
+
+<double>
+
+Remilia1a:This is shaping up to be a warm night.
+
+Marisa1a:This is shaping up to be a cool night.
+
+</double>
+
+</Cond>
+
+<end>
+
+<ChatID:6>----------------------------------------
+//レミリア一枚目発動（ＳＳ発動）
+
+Remilia0a:Hmm, you managed to read my movements, and even damage me. Not bad.
+
+Marisa0a:Your speed and power are your strong suits, but so far I'm not impressed.
+
+Nitori0a:We might actually be able to win this.
+
+Alice1a:Don't let your guard down. Our opponent is a vampire with enormous power... The real show is about to begin!
+
+Remilia0b:She's right, you know. I have yet to use even a drop of my magical power.
+
+Remilia1a:Here, I'll give you a small taste of true terror. Dance to the whims of my flashing scarlet danmaku!
+
+<end>
+
+<ChatID:7>----------------------------------------
+//レミリア一枚目終了（ダビデ発動）
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Reimu1a:That's way too simple. You're just trying to power your way through with your magic!
+
+Daiyosei0a:Reimu seems to be having an easy time with this.
+
+Rumia1a:There's still a long way to go. We'd be in trouble if we were already worn out!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Remilia0b:All this running away you're doing. Do you want to fight me or not?
+
+Reimu0g:Running you out is a legitimate tactic. Especially since I'm sure you've got a lot more in store.
+
+</Cond>
+
+Daiyosei0a:She does seem perfectly fine.
+
+Remilia0a:Correct you are. This one will wipe you all out in one shot!
+
+Remilia1a:Come, dark power! Let the glowing, undulating devil's mark scar all foolish living creatures!
+
+<pause>
+
+Reimu2a:!
+
+Youmu1a:Something's different about this spellcard!
+
+Cirno0a:Huh? Seems the same to me?
+
+Alice1a:All of her danmaku is being filled with destructive mana.
+
+Alice1a:She's likely planning on attacking everyone within it!
+
+Keine1a:What?!
+
+Remilia0a:What a good guess. This is an uncounterable, wide-range attack.
+
+Remilia1a:Just try and enter my domain, I'll turn you into my toy!
+
+Keine2a:To use a spell like this, is a vampire's magical power really so monstrous?!
+
+Marisa1a:Stay sharp, and don't step into her danmaku! Either that, or beat her before the attack goes off!
+
+<Cond=(GLOBAL_VAR,is_NG0,==,0)>
+
+<TIPS=MAPWEP>
+
+</Cond>
+
+<end>
+
+<ChatID:8>----------------------------------------
+//レミリア二枚目終了
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1) && (GLOBAL_VAR,route,==,Reimu)>
+
+Remilia0a:...You deserve praise for being able to sneak past this attack.
+
+Reimu0d:It was some really annoying danmaku, so I went ahead and broke it.
+
+Reimu0c:If you've just used such flashy danmaku, you must be at your limit now, right?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1) && (GLOBAL_VAR,route,==,Marisa)>
+
+Remilia0a:...You deserve praise for being able to sneak past this attack.
+
+Marisa0a:It was some real annoying danmaku, so I went ahead and broke it.
+
+Marisa0a:If you've just used such flashy danmaku, you must be at your limit now, huh?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Remilia0b:Well, you survived. It goes to show that you're quick on your feet, if nothing else.
+
+Marisa0a:We're aiming to run your energy right out. There's no way your stamina is limitless.
+
+Reimu0c:If you've just used such flashy danmaku, you must be at your limit now, right?
+
+</Cond>
+
+Remilia1a:My limit? Please. The real show begins now.
+
+<pause>
+
+Cirno2a:Whoa, what's with this energy?! The ground's shaking!
+
+Youmu2a:This is the full power of a vampire... Her magical energy makes the air itself quiver!
+
+Keine1a:Impossible... The mist is still as strong as ever too... Is her magical power limitless?!
+
+Remilia0a:This devilish mist is the bloody crystallization of my magical power. It cuts off the wretched sun, forming a magical veil that permits only scarlet.
+
+Remilia0a:The current Gensokyo is now the dominion of the devil in red...
+
+Remilia1a:...Yes, it has become the embodiment of the Scarlet Devil.
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Reimu1a:That's ridiculous. And I'm not gonna let it happen.
+
+Reimu1a:It doesn't matter how powerful you are. I will resolve all of Gensokyo's incidents!
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Marisa2b:A world that's all red doesn't sound like any fun to me.
+
+Marisa1a:I'm gonna use my magicannon of light to blow you and this mist away!
+
+</Cond>
+
+Remilia0b:This is my final spellcard. Come with all your might.
+
+Remilia1a:Gensokyo! You will be transformed into a vivid and dark world of scarlet!
+
+<end>
+
+<ChatID:9>----------------------------------------
+//レミリア撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Marisa1a:Did we do it?!
+
+Reimu1a:That was the finishing blow. Victory is ours!
+
+Remilia2a:So... I've lost.
+
+Remilia0b:I never knew such powerful humans existed. I must indeed admit defeat.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Marisa1a:Alright, we pulled through!
+
+Remilia0c:To think you'd evade my danmaku... Gensokyo certainly has some powerful humans.
+
+Remilia0d:I haven't had this much fun in a long, long while. I suppose I'll end the incident here.
+
+Marisa0a:...Looks like it's over, Reimu.
+
+Reimu0g:This incident took way too much work to resolve. But at least Gensokyo should go back to normal now.
+
+Daiyosei2c:Look, the mist is dissipating...
+
+</Cond>
+
+<pause>
+
+Keine1a:Did we really... just beat that vampire?
+
+Alice1a:She was quite formidable, but we managed to pull through.
+
+Cirno1a:Heh heh. It's all thanks to me!
+
+Youmu0a:None of us could have beaten her alone.
+
+Nitori0a:But we managed to beat the vampire by working together!
+
+Rumia0a:It worked out that way, I guess.
+
+Marisa0a:...Looks like it's over, Reimu.
+
+Reimu0g:This incident took way too much work to resolve. But at least Gensokyo should go back to normal now.
+
+Daiyosei2c:Look, the mist is dissipating...
+
+<end>
+
+<ChatID:10>----------------------------------------
+//ADVB
+
+<MAP=3,FROM=紅魔館,TO=紅魔館,name=Scarlet Devil Mansion,icon=0>
+
+<BG=*bg_talk_Koumakan_Int_Night.png,fade=0,color=1,title=*bg_Koumakan_Int,bgm=bgm_talk_gag>
+
+Remilia0a:Welp. We've lost.
+
+Patchouli0a:Yup. Real shame, that.
+
+Remilia0a:Alas. I was this close to filling Gensokyo with scarlet.
+
+Remilia1a:What shall we do for the next incident, then?
+
+Reimu4a:Hey. You.
+
+Remilia0b:Hm? What do you want?
+
+Marisa0a:We've just beaten the crap outta you. Stop talking about your next move already.
+
+Remilia1a:Ahh, you're that shrine maiden and magician from before. You're not half bad.
+
+Keine0b:...We don't need you judging our abilities. You DID stop the mist for good, right?
+
+Patchouli0a:Isn't it plain to see? It will be a clear and beautiful morning tomorrow. For everyone except Remi, that is.
+
+Keine0a:That's good. Looks like we've managed to keep the damage to the village to a minimum.
+
+Marisa0a:Why were you all trying to fill the whole place with mist anyway? Something about a world of night, was it...?
+
+Remilia0a:My, you want to know? This was a mere piece of the grand puzzle that was my plan.
+
+Patchouli0a:...
+
+Nitori2a:No way... So you were using the scarlet mist to make humanity go extinct?
+
+Remilia1a:No, I was obstructing the light of the sun so that I could go outside during the day.
+
+Youmu2b:...Huh?
+
+Daiyosei3b:Um... So basically, you wanted to go out and play any time you wanted?
+
+Remilia6a:I suppose that infantile phrasing is the best I could expect from a fairy.
+
+Remilia0a:This was the first step for the one-week non-stop outdoor party that I've been brewing all this time.
+
+Reimu0d:...You've got to be kidding me. Maybe I should exterminate you again.
+
+Marisa3a:Yeah. Let's reduce her to coal, break the coal up, and throw it into a river.
+
+Keine0b:Okay, you two, that's enough of that.
+
+Remilia1a:Oh, really? Alright, I won't hold back next time. When I get serious—
+
+Patchouli0a:That's enough from you too, Remi. I'm done with this.
+
+Remilia0a:Aww. You're no fun.
+
+<hide=all>
+
+Yuka1a:If there's more fighting to be had, I'd certainly love to join next time.
+
+</hide>
+
+Reimu1a:You!
+
+Daiyosei2a:Eek! It's the flower youkai!
+
+Yuka1a:Who might you be, little one?
+
+Cirno1a:Hey, don't bully Dai!
+
+Marisa2b:It's you, Yuuka. What do you want this time?
+
+Yuka0a:You don't have to be so confrontational. I'm a guest here, after all.
+
+Alice0a:You said that earlier... What exactly do you mean by guest? Don't you live outside of Gensokyo?
+
+Yuka0a:I came to Gensokyo just a little while ago, and I've been touring the place.
+
+Yuka0b:Then Elly and Kurumi ended up chasing after me.
+
+Marisa0a:Ahh, that sounds like them. I bet they were all "Yuuuuka, don't leave us behiiiind!" right?
+
+Yuka0a:Close enough. So I found us a place to stay.
+
+Yuka0b:It's easier for me to live alone, but I can hardly abandon them to their fate.
+
+Reimu4a:And then you got permission to stay here? Awfully generous of her.
+
+Yuka1a:Yes, I am very thankful for Remilia's goodwill... Heh.
+
+Remilia1a:Yes... Goodwill. Let's go with that. Heh.
+
+Rumia0a:I'm jealous you get to have a house. I'd rather have food, though.
+
+Patchouli0a:That's all you ever talk about. Unfortunately, without Sakuya around, we won't even have red tea, much less anything else.
+
+Rumia4b:Aww... Isn't there anything that vampire left behind? She's a light eater after all...
+
+Daiyosei2a:Don't eat weird stuff, Rumia!
+
+Keine0a:Oh yes, what happened to that maid? She seemed to be wounded quite badly.
+
+Remilia0b:She was brought to the infirmary by Meiling and Koakuma.
+
+Nitori0a:Huh, you have a room like that here?
+
+Alice0a:With a mansion as big as this, that isn't entirely surprising.
+
+Remilia0b:...Though we have no need for a doctor, so it is merely a place to store medicines.
+
+Remilia0a:As you can see, I heal on my own given enough time.
+
+Youmu0a:Yeah, makes sense.
+
+Meiling0b:Mistress, I'm back.
+
+Remilia0a:Ah, good. How is Sakuya?
+
+Meiling5a:She's been fully treated, and now she's sound asleep.
+
+Meiling0a:Koakuma's with her, so if she wakes up, Koakuma will let us know.
+
+Keine0a:...I see. Good to hear that she'll be okay.
+
+Remilia0a:Of course she will be. She's my servant. Attacks from a crew like yours mean nothing to her.
+
+Marisa3d:Big talk from someone who lost.
+
+Alice0a:Well, the incident's been resolved. We should be getting back.
+
+Remilia1b:What? You're leaving so soon? Why not relax a bit here?
+
+Keine0a:I will have to pass on that offer. We left Akyu at the shrine, and I want to go check on the village.
+
+Youmu0a:Yes, we have no time to relax, unfortunately.
+
+Reimu0b:Now that the mist is gone, I can finally hang my laundry out to dry.
+
+Reimu4a:Oh yeah, I haven't been able to do my laundry at all thanks to your mist. So that had better not happen again, okay?
+
+Remilia0a:You're awfully brave for a human. You do realize I'm a vampire, right?
+
+Reimu2b:So what? A shrine maiden's duty is to exterminate youkai. I can't do my job if I'm afraid of them.
+
+Remilia0a:...Heh, I like you. I'll visit your shrine sometime.
+
+Reimu4a:Don't.
+
+Remilia1a:Now now, don't be shy. I'll bring Sakuya along. Then we can enjoy some lovely tea together.
+
+Remilia0a:Well, see you soon!
+
+<MAP=3,FROM=紅魔館,TO=霧の湖,name=Misty Lake,icon=0>
+
+<BG=*bg_talk_Lake_Night.png,fade=1,color=1,title=*bg_Lake,bgm=bgm_talk_hiroshige>
+
+Youmu0a:That takes care of everything, right?
+
+Keine0a:Yes. Together, we've managed to fully resolve this incident.
+
+Alice0a:The mist is considerably thinner now. It looks like tomorrow morning will be clear.
+
+Youmu3a:...I hate to say this, but I'm afraid we must part ways.
+
+Marisa0a:Oh, going home already? We're gonna have a celebration party at the shrine. You should stick around for that, at least.
+
+Reimu4a:Hey, since when has my shrine been a party venue?
+
+Marisa0a:Uh, since always?
+
+Youmu0a:Ahaha... I appreciate the invitation, but I really need to be on my way.
+
+Youmu0a:I've already stayed out far longer than I should have without permission. I wouldn't want to look even worse by coming home drunk.
+
+Keine0a:Ah, that's a shame. I would've liked to speak with you under more relaxed circumstances.
+
+Marisa0a:You're going back to the Netherworld, huh? Can't say that's a place I could pop by for a visit.
+
+Youmu0a:Yeah... But I should be back to the world of the living eventually. I'll see you then, I'm sure.
+
+Youmu1a:In the meantime, take care.
+
+Reimu0g:You too, Youmu.
+
+<SE=se_move_bania02.ogg,wait=1>
+
+<Code=(demo_wait,15)>
+
+<single>
+
+Daiyosei0a:...Cirno, we should be heading back too.
+
+</single>
+
+Cirno0a:Yeah. We have to go back and tell everyone about our heroic exploits!
+
+Rumia0a:Whew. I should be off the hook now too, right?
+
+Marisa0a:Oh, you guys are leaving too? I guess it IS way past your bedtime.
+
+Daiyosei3b:Yes... I want to sleep for a long time. I'm exhausted.
+
+Cirno0a:Are you kidding, Dai? It's gonna be hide-and-seek first thing tomorrow morning!
+
+Cirno1a:With the mist gone, it's perfect hide-and-seek weather!
+
+Nitori2a:Sheesh, you must really like that game.
+
+Cirno1a:Of course. With Rumia around, we'll be in for a world-class game!
+
+Rumia0a:Wait, I'm in it too? And what's this about the world?
+
+Cirno1a:You can produce darkness, right? That's a perfect hide-and-seek talent.
+
+Rumia0a:Ooh, neat!
+
+Keine0b:It's good to have energy, but remember to get proper rest.
+
+Daiyosei0b:Right. You do the same.
+
+Cirno0a:See ya. I might be nice and play with you again sometime!
+
+<SE=se_move_bania02.ogg,wait=1>
+
+<Code=(demo_wait,15)>
+
+<single>
+
+Reimu4a:...Yeesh, what a noisy bunch.
+
+</single>
+
+Nitori0a:Well, they ARE fairies. And a youkai, but mostly fairies.
+
+Reimu0b:Alright, it's about time we head back ourselves.
+
+Marisa0a:Yeah, we'll be partying at your shrine, right?
+
+Marisa0a:If we start now, we can keep it going 'til dawn.
+
+Alice0a:How can you still have so much energy after the nonstop danmaku battles we've been fighting all day?
+
+Keine0a:There's always energy to celebrate. Doing it for one night shouldn't be so bad.
+
+Reimu2b:Okay, fine. I'm not laying out futons for any of you, though.
+
+Marisa0a:Don't worry, we'll do that ourselves. Let's get going, Nitori.
+
+Nitori3b:...Actually, I think this is where we part ways too.
+
+Alice0a:Nitori...?
+
+Nitori3a:I'd love to stay with you girls, but my plan was to go back to the mountain once the investigation was all wrapped up.
+
+Nitori0a:Who was that blue shrine maiden, and why was Momiji chasing her...?
+
+Nitori0a:There's got to be something really big happening at the mountain right now. I wanna get back and see what's up.
+
+Keine0a:If you're that determined to go, I won't stop you, but...
+
+Reimu0e:You said there would be punishment waiting for you, right? Are you okay with that?
+
+Nitori2a:Mm. It's not gonna be great.
+
+Nitori3a:...But I can't just keep running away forever. I'm still part of Youkai Mountain after all.
+
+Marisa0a:Yeah, I get you. Guess there's no getting around that.
+
+Nitori0a:...Adventuring with everyone for the last few days was really fun.
+
+Nitori0a:I'll be going back to the mountain, so I don't know when we'll meet again... But let's stay friends, okay?
+
+Alice3a:Certainly. When affairs in the mountain settle down, feel free to visit us again.
+
+Nitori1a:I will. Take care, everyone!
+
+<SE=se_move_bania02.ogg,wait=1>
+
+<Code=(demo_wait,15)>
+
+<single>
+
+Marisa0a:...
+
+</single>
+
+Reimu3b:You're gonna miss her, huh? You two seemed to be hitting it off.
+
+Marisa0a:Nah, I don't have to worry about missing her. It's a small Gensokyo. I'm sure I'll see her again someday.
+
+Marisa0a:Alright, let's get back on track and head to the shrine!
+
+Reimu0g:Mm. I feel thirsty all of a sudden.
+
+Keine0a:I'll show you all my cooking skills tonight. Akyu's waiting for us, after all.
+
+Alice0a:I'll help out too. Hopefully the shrine has some suitable ingredients.
+
+Marisa0a:I think we've got a plan, huh, Reimu?
+
+Reimu0b:Right. Time to get back to the shrine and party it up!
+
+<MAP=3,FROM=紅魔館,TO=紅魔館,name=Scarlet Devil Mansion,icon=5,fade=0>
+
+<BG=*bg_talk_Koumakan_Int_Night.png,fade=0,color=1,title=*bg_Koumakan_imushitsu>
+
+Sakuya5c:Rrgh...
+
+Koakuma1a:Ah, Sakuya! You're awake.
+
+Sakuya2a:...Koakuma? Where am I?
+
+Koakuma0a:The infirmary. We brought you here after the battle with the humans.
+
+Sakuya5a:The infirmary...? Oh yes, those humans... they...
+
+Sakuya1a:...Wait, what happened to the mistress?!
+
+Koakuma1a:Ah, careful! Don't move too quickly, or...
+
+Sakuya2a:...Rgh.
+
+Koakuma0a:You're in no state to move around with all the damage you took from those danmaku battles. You'll reopen your wounds if you strain yourself.
+
+Sakuya5a:...Enough about me. What happened after I fell? Were the humans dealt with?
+
+Koakuma0a:The mistress and everyone else on our side lost.
+
+Sakuya3a:!
+
+Koakuma0a:The humans then left after the mist was stopped.
+
+Sakuya5a:...I see. So the plan was a failure.
+
+Koakuma0a:Sadly, yes.
+
+Koakuma0a:But the mistress and Lady Patchouli didn't seem too bothered by that. They were more worried about you.
+
+Sakuya5a:...How long do I have to rest?
+
+Koakuma0a:It will take one week for you to make a full recovery.
+
+Sakuya5c:One week...
+
+Koakuma0a:Please rest up. Everyone knows you fought harder than anyone else here.
+
+Koakuma0a:...I'll let everyone know you're up.
+
+<SE=se_talk_door_close02.ogg,wait=1>
+
+<single>
+
+Sakuya5c:...
+
+Sakuya0b:How could I lose? And right in front of the mistress...
+
+</single>
+
+<SE=se_talk_door_open02.ogg,wait=1>
+
+Elliy1a:Sakuya!
+
+Kurumi1a:Are you okay, Sakuya?!
+
+Sakuya3b:Lady Elly and Lady Kurumi...?
+
+Elliy0a:We just bumped into Koakuma, and she told us that you woke up.
+
+Kurumi0a:Yeah. We brought you some apples.
+
+Kurumi1a:Sit tight and I'll peel one for you now!
+
+Sakuya3b:Apples...?
+
+Sakuya0b:Lady Kurumi, I thought you didn't like handling knives. Let me peel it.
+
+Elliy1a:No, no! You're the patient, so stay in bed.
+
+Elliy0a:At least try to relax when you're recuperating.
+
+Kurumi0a:Yeah! You don't have to call us Lady so-and-so either. Just call us Kurumi and Elly.
+
+Sakuya5a:Out of the question. You're both honored guests of my mistress.
+
+Elliy0a:Then how about Ell-Ell?
+
+Sakuya5c:I... don't think that's going to happen.
+
+Elliy2a:Why not?!
+
+Yuka0a:Keep it down, you two. I can hear you from the hall.
+
+Kurumi1a:Yuuka!
+
+Sakuya5a:...Lady Yuuka.
+
+Yuka0a:How are you feeling, Sakuya? You took quite the beating back there, from what I understand.
+
+Sakuya5c:My deepest apologies. I stubbornly refused your assistance, and in the end...
+
+Yuka0b:It's fine. I was only there to watch anyway, so I wouldn't have helped even if you'd asked.
+
+Sakuya0b:...
+
+Yuka0a:There's no need to beat yourself up over losing to those humans.
+
+Yuka0a:They're professional incident resolvers. Sooner or later, all incidents get resolved in that fashion.
+
+Yuka0a:It is, quite simply, what it is.
+
+Sakuya5a:I'm sorry, I don't quite understand what you—
+
+<SE=se_talk_door_open02.ogg,wait=1>
+
+Meiling1a:Excuse me, coming in! How're you feeling, Sakuya?
+
+Elliy0a:Ah, Meiling!
+
+Meiling0a:Oh, you're here too, Elly?
+
+Meiling3a:Oh no, I'm interrupting your visit, Lady Yuuka?
+
+Yuka0a:It's fine, I've said what I wanted. We'll be going now. The room's all yours.
+
+Kurumi1a:Aww, but I haven't gotten to peel any apples for Sakuya yet!
+
+Yuka0b:Just come on, unless you want to be the apple in that scenario.
+
+Elliy2a:Eep, don't drag me! That hurts! I don't wanna get peeled by Lady Yuuka!
+
+Yuka0a:...Sakuya, you were beautiful to watch. I expect you to bloom into an even prettier flower someday.
+
+<SE=se_talk_door_close02.ogg,wait=1>
+
+<single>
+
+Sakuya0b:...
+
+</single>
+
+Meiling3a:Sorry about that. I guess I spoiled their visit.
+
+Sakuya5b:No, it's fine. I'm glad to see you're alright.
+
+<Code=(demo_wait,15)>
+
+Sakuya5a:If anything, I'm the one who's sorry for making such a nuisance of myself.
+
+Meiling7b:Don't be silly! You lost one time.
+
+Meiling0a:And the mistress lost to the same group, I might remind you.
+
+Sakuya5a:True... I never knew humans could be so strong.
+
+Sakuya0b:Please tell me that's not the norm in Gensokyo.
+
+Meiling5a:No way! That's the first time I've seen humans that could fight on equal footing with you, Sakuya.
+
+Sakuya5c:...Yes, of course. It shocked me as well.
+
+Meiling0b:...
+
+Meiling0a:Oh, right. Lady Patchouli told me to hand these over to you. It's for you to pass the time while you're resting.
+
+Meiling0a:Let's see, several books from the Outside World, some fruits, and...
+
+Sakuya5b:What is this, a puzzle?
+
+Meiling0a:It's a silhouette puzzle called a tangram.
+
+Meiling5a:The objective is to use the many different pieces to form a specific shape. It's a staple of ryokans in the Outside World.
+
+Sakuya5b:Ahh... Is forming a specific shape actually fun?
+
+Meiling5a:It may look simple on the outside, but it's deeper than it looks.
+
+Sakuya5b:...I see. It looks like a good way to pass the time. Please thank Lady Patchouli for me.
+
+Meiling5a:Sure thing. I'll come to visit you again soon!
+
+Sakuya0b:You have your own job to do. Don't leave your post to come visit me.
+
+Meiling2a:Uhh... Yeah...
+
+Meiling0a:Anyway, don't worry about meals either, I'll run the kitchen while you rest!
+
+Meiling5a:Take care of yourself! For real this time!
+
+<SE=se_talk_door_close02.ogg,wait=1>
+
+<Code=(demo_wait,15)>
+
+<single>
+
+Sakuya5a:...Thanks, Meiling.
+
+Sakuya0b:She was right. Those were no ordinary humans.
+
+Sakuya0b:I wonder if the mistress is okay... The others said she was fine, but...
+
+</single>
+
+<SE=se_talk_door_open02.ogg,wait=1>
+
+Remilia0a:Sakuya, are you there?
+
+Sakuya3b:Mistress!
+
+Remilia0a:Keep your voice down. You're in no shape to raise it.
+
+Remilia0a:You seem to be doing better than I expected, though. That's what I get for worrying, I suppose.
+
+Sakuya5a:Mistress, I'm so glad you're safe.
+
+Remilia0a:Of course I am. I'm a devil. It would take far more than that to put a dent in me.
+
+Sakuya5c:They were more than enough for me, though...
+
+Remilia0b:Well, yes. You're human.
+
+Sakuya5a:So were they. That hardly justifies my poor performance.
+
+Sakuya0b:I'm supposed to be in charge of keeping the mansion clean, yet I embarrassed myself right in front of you.
+
+Remilia0a:You're overthinking it, Sakuya. Just relax for a while.
+
+Remilia0a:...Oh yes. I was thinking of paying a visit to that shrine sometime. Would you like to come with me once your wounds heal?
+
+Sakuya5b:The one the shrine maiden tends?
+
+Remilia0a:Yes. Gensokyo is even more fun than I thought, with people like them around.
+
+Remilia0a:It'll be a good change of pace for you as well, right?
+
+Sakuya0b:...
+
+Remilia0a:I'll be going to bed. Hurry up and get better so we can get back to normal, alright?
+
+Remilia0a:Later!
+
+<SE=se_talk_door_close02.ogg,wait=1>
+
+<Code=(demo_wait,15)>
+
+<single>
+
+Sakuya0b:The mistress seemed quite pleased. She must be rather taken with these humans.
+
+Sakuya0b:I've never bothered sparing the humans around me a second glance before now, but...
+
+Sakuya5c:...
+
+Sakuya0b:Just what manner of place IS Gensokyo...?
+
+</single>
+
+<end>
+
+<ChatID:11>----------------------------------------
+//レミリアvs.霊夢
+
+Remilia0a:Shrine maiden of Gensokyo... You've done well to make it this far.
+
+Reimu1a:So you're the one who started this incident? I'll be kicking you right out of here.
+
+Remilia0a:This is my castle. The final bastion that remained after a long period of wandering...
+
+Remilia1a:I will not be moved. You all will be the ones swept away.
+
+Reimu1a:Okay, fine. I'll kick you out of the whole world instead!
+
+<end>
+
+<ChatID:12>----------------------------------------
+//レミリアvs.魔理沙
+
+Marisa0a:If I defeat you here, it'll be me who resolves this incident instead of Reimu.
+
+Remilia0b:You're one to count your chickens before they're hatched, mm? Save that for opponents you can actually win against.
+
+Marisa0a:Oh, I can totally win against you. I'll do just that, then resolve this incident. That'll be the first step for my magic.
+
+Remilia0a:*chuckle* Bold claims for a human. I'll crush that arrogance of yours.
+
+Remilia1a:You shall realize your own powerlessness and wilt away like an old tree!
+
+Marisa1a:Excuse me, I'm the one that's gonna be doing the crushing. Come on, hakkero. Don't hold anything back!
+
+<end>
+
+<ChatID:13>----------------------------------------
+//レミリアvs.慧音
+
+Keine0a:I've finally caught you. The culprit behind the incident... the perpetrator who covered Gensokyo in mist.
+
+Remilia0a:Indeed, that was all my doing. Are you enjoying it?
+
+Keine1a:Enjoying it? I don't need your jokes when people in the village have collapsed from this!
+
+Remilia1a:*chuckle* What happens to others is no concern of mine.
+
+Remilia1a:Can you feel the pleasant bloodlust suffusing this area? That alone makes starting this incident worthwhile.
+
+Keine1a:...Oh, that's IT. I will beat that depraved personality right out of you!
+
+<end>
+
+<ChatID:14>----------------------------------------
+//レミリアvs.にとり
+
+Nitori2a:This youkai aura is intense, the closer I get. Vampires are definitely no joke.
+
+Remilia0a:Hmph, you're shaking in your boots. Do you think you can challenge me in that state?
+
+Remilia0a:Beg for forgiveness, and I'll let you go. Cry, flee, whatever you like.
+
+Nitori1b:Hey, don't mock me! I'm not scared when I've got this many people with me. Besides...
+
+Nitori1b:No matter how strong a youkai you are, there's no way I'll leave my friends behind!
+
+<end>
+
+<ChatID:15>----------------------------------------
+//レミリアvs.アリス
+
+Alice0a:...I never thought I'd fight a vampire face-to-face.
+
+Alice0c:But now that it's come to this, I'll test my danmaku out on you.
+
+Remilia0b:Are those toys your danmaku? How boring.
+
+Remilia1a:Ooh, I know what I could do to make this more fun. I could rip the insides of those dolls out and toss them into the wind.
+
+Alice0c:Unfortunately for you, I have a much better doll show in mind.
+
+Alice1a:In my show, dancing rainbow dolls capture a bat and crucify it. You'll play the star!
+
+<end>
+
+<ChatID:16>----------------------------------------
+//レミリアvs.妖夢
+
+Youmu1a:I've finally reached you. The gardener of the Netherworld, Youmu Konpaku, will be your opponent!
+
+Remilia0a:...A gardener, you say? What a curious fluke of fate this is.
+
+Youmu0a:Excuse me? You'll regret it if you write me off as a fluke.
+
+Remilia0a:Oh, far from it. If anything, you're quite a fitting opponent for a vampire.
+
+Remilia1a:Now, fight me. I'll skewer you and sell you at a food cart!
+
+<end>
+
+<ChatID:17>----------------------------------------
+//レミリアvs.ルーミア
+
+Rumia0a:Once I beat you and clear up the weather, I'm home free!
+
+Remilia0b:Once you beat me? You certainly make it sound simple.
+
+Remilia1a:Are you blind to this scarlet mist? The overwhelming aura that shrouds all of Gensokyo in eternal night?
+
+Rumia0a:Is there a point to doing all that? I'm good as long as the area around me is dark.
+
+Remilia1a:I see a verbal explanation won't suffice. In that case, I'll provide a physical demonstration!
+
+<end>
+
+<ChatID:18>----------------------------------------
+//レミリアvs.大妖精
+
+Daiyosei3b:Here I am. Right in front of a vampire...
+
+Remilia0b:A fairy like you is trying to do battle with me? You can't be serious.
+
+Remilia0a:See, you're already crying. If you're so scared of me, then get out of my sight.
+
+Daiyosei3b:...I'm scared. I'm really scared.
+
+Daiyosei1a:But we've come this far together. I have to be more like Cirno!
+
+Remilia0a:Fool. If you want to be like her so much, then I'll rip both of you to shreds!
+
+Daiyosei1a:I won't let you! I'll protect Cirno no matter what!
+
+<end>
+
+<ChatID:19>----------------------------------------
+//レミリアvs.チルノ
+
+Cirno1a:So you're the culprit behind this incident! Are you ready?!
+
+Remilia0a:Huh? Some random fairy thinks they can talk to me that way?
+
+Cirno0a:Hmph, you're underestimating me. In that case, I'll go and freeze up all this mist!
+
+Remilia0b:You're going to freeze all my mist...? Heh. That's so mind-bogglingly stupid, it actually wraps back around to being funny.
+
+Cirno0a:It ain't a joke. Dai said that mist is made of water, so it can be freezed.
+
+Cirno1a:So I'll demonstrate just that. After all, I'm the strongest!
+
+<end>
+
+<ChatID:20>----------------------------------------
+//慧音vs.パチュリー
+
+Keine1a:So it's you now... Let us pass!
+
+Patchouli0a:I'm afraid not. Since you seem to love charging in headlong so much, go ahead and try it with me.
+
+Patchouli1a:We'll see if you make it all the way through my danmaku.
+
+Keine2a:Rgh, she's got such incredibly long range. If only I could reach that far with my attacks...
+
+<end>
+
+<ChatID:21>----------------------------------------
+//レミリアvs.まくら
+
+Makura3a:What violent yet pure pressure, befitting the mastermind of an incident.
+
+Remilia1c:Ha? If I didn't know better, I'd think you were talking down to me.
+
+Makura3c:I simply expressed how I felt. It seems we'll need to reach a resolution through danmaku, not words.
+
+Makura1a:A scarlet dream that heralds the beginning. Allow me to ascertain your strength.
+
+<end>
+
+<ChatID:22>----------------------------------------
+//レミリアvs.メーコ
+
+Meko0b:What power... is this charisma?!
+
+Remilia0d:You're pretty perceptive for someone who looks so dumb.
+
+Meko1a:But we have to defeat you or the village will be in trouble!
+
+Remilia1a:For a youkai, you say some odd things. But I'll simply crush all who oppose me!
+
+<end>
+
+<ChatID:23>----------------------------------------
+//レミリアvs.レミリア
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Remilia1e:How very charismatic, if I do say so myself.
+
+Remilia0e:But a vampire's true nature goes beyond just this.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Remilia1b:Huh? What are you saying?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Remilia1c:I'm saying I'm the true Queen of the Night, the sole devil who can dye this scarlet night even redder!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Remilia1b:Interesting! We'll let fate decide which of us is the victor!
+
+</nomove>
+
+<end>
+
+<ChatID:24>----------------------------------------
+//レミリアvs.フラン
+
+Flan0f:Ooh, so you've been playing like this, Remi?
+
+Remilia4a:F-Flan?! How did you get outside?!
+
+Flan3b:Tee hee, surprising you like that was so funny.
+
+Flan1b:Is this how Sunny and her friends feel when they play a prank?
+
+Remilia1b:Something's off... Just who are you?
+
+Flan3e:Don't sweat the small stuff, next time let's start an incident together.
+
+Remilia2a:Ugh, this must be some sort of illusion!
+
+<end>
+
+<ChatID:25>----------------------------------------
+//レミリアvs.咲夜さん
+
+Remilia0e:Oh, Sakuya. Weren't you supposed to be fighting off the intruders?
+
+Sakuya1c:I was, but I got jealous of them for being able to fight you, Mistress.
+
+Remilia4a:Jealous? How rare of you to speak like that.
+
+Sakuya6e:Indeed, I may have become a greedier person.
+
+Remilia1e:Hmph. Well, this is awfully sudden.
+
+Remilia0d:Very well. Fighting with you should be entertaining, so show me what you've got!
+
+Sakuya1c:Thank you, Mistress.
+
+<end>
+
+<ChatID:26>----------------------------------------
+//レミリアvs.美鈴
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Remilia1c:Meiling? Aren't you supposed to be fighting the humans?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Meiling1e:You're right, but I wanted you to experience my true strength for yourself, Mistress.
+
+Remilia1e:Whyever not? Let's do this.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Meiling6b:You're surprisingly eager. Although that's just like you.
+
+Remilia1e:I don't know what's changed, but you seem more spirited than usual.
+
+Remilia0d:If we're doing this, don't hold back on me!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Meiling1a:Y-Yes ma'am!
+
+</nomove>
+
+<end>
+
+<ChatID:27>----------------------------------------
+//レミリアvs.パチュリー
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Remilia0b:Hm. Patchy. You need something?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Patchouli0c:Not particularly.
+
+Remilia4a:You say that, but you're overflowing with motivation. Are you feeling healthier?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Patchouli1a:Why don't we go with that? I'd like to show you my Sun and Moon Signs, Remi.
+
+</nomove>
+
+<end>
+
+<ChatID:28>----------------------------------------
+//レミリアvs.幽香
+
+Remilia1c:Oh, Yuuka? What do you what?
+
+Yuka1a:I'd like to continue what we started back then.
+
+Remilia4a:Huh. Well, I don't mind, but why now?
+
+Remilia1d:As if. Just asking is useless.
+
+Yuka0d:Yes, that's the spirit. Please keep me company.
+
+<end>
+
+<ChatID:29>----------------------------------------
+//レミリアvs.神綺
+
+Remilia1c:Hmph. You've got pretty devil-like wings.
+
+Shinki2b:I'm not a devil, I'm a god!
+
+Remilia0e:Is that so? Then I suppose that makes you my enemy.
+
+Remilia1b:Let's settle who will control Gensokyo, gods or devils!
+
+<end>
+
+<ChatID:30>----------------------------------------
+//レミリアvs.小悪魔（未作成）
+
+<end>
+
+<ChatID:31>----------------------------------------
+//C11：美鈴vs.非想天則
+
+Meiling1d:I hope this giant isn't what I think it is...
+
+Meiling1a:Are you a shadow of Taisui Xingjun, the symbol of evil omens?!
+
+Tensoku0a:...?!
+
+Meiling4a:You may look a little cool, but you'll never fool me.
+
+Meiling1a:Monster of calamities, you will never escape Hong Meiling!
+
+<end>
+
+<ChatID:32>----------------------------------------
+//C11：レミリアvs.非想天則
+
+Tensoku0a:...
+
+Remilia1a:Hmm, I'd heard about them from Patchy before, but there really are things like this out there... I wonder, are you the humans' secret weapon?
+
+Remilia1d:If so, then all the more reason to defeat you.
+
+Remilia1b:Now, I'll make you yield and be that much closer to controlling Gensokyo!
+
+<end>

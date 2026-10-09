@@ -1,0 +1,2024 @@
+﻿○共通第五十四話「地獄の人工太陽
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: first battle vs. Utsuho
+ 4: Utsuho spell 1 start
+ 5: Utsuho spell 2 start
+ 6: Utsuho spell 3 start
+ 7: Utsuho spell 4 start
+ 8: clear
+ 9: ADVB
+10: lose
+11-nn: battle vs. Utsuho
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<BG=bg_talk_Seirensen_Hall_Night.png,fade=0,color=1,title=bg_Seirensen_Hall,bgm=bgm_talk_ningyo>
+
+Kisume0a:Wow, so this is what it looks like inside a ship.
+
+Parsee0a:So this is surface technology, huh. Bunch of showoffs.
+
+Nitori3e:...I'll show you around, but try not to touch anything.
+
+Nitori4b:They may look like ordinary rooms, but they've got switches that do all sorts of things. 
+
+Yamame0a:Got it. I'm not in the mood for sightseeing anyway. 
+
+Wriggle3a:I can't believe you're really going to be working with us, Yamame.
+
+Wriggle3c:If you'd like, I could introduce you to everyone...
+
+Yamame0b:Didn't I already say I'm not here to get all buddy-buddy with you? 
+
+Sanae3b:Well, yes, but still...
+
+Parsee0c:Of course, that doesn't mean we're going to get in your way either.
+
+Parsee0a:This Utsuho issue needs to be ironed out, or it'll spell more trouble for the Underworld.
+
+Nitori3e:Then we're sharing a common goal.
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+Momiji0a:So this is where you all were. 
+
+Nitori3e:What's up, Momiji?
+
+Momiji0a:Apparently, Lady Kanako and Lady Suwako have something to say about Utsuho's new power.
+
+Momiji4c:They told us to gather the whole crew on the bridge. 
+
+Kisume0b:They want everyone there...?
+
+Sanae0g:I wonder what this is about. Let's go find out.
+
+<BG=bg_talk_Seirensen_Bridge_Jigoku.png,fade=1,color=1,title=bg_Seirensen_Bridge,bgm=bgm_talk_kagaku>
+
+Akyu0a:I went ahead and called everyone to the bridge over the intercoms as well.
+
+Akyu0b:I believe everyone should be here shortly. 
+
+Kanako0b:Alright. Sorry for the trouble.
+
+Reimu0f:Why are you summoning everybody here like this?
+
+Reimu3b:Did you figure something out about Utsuho?
+
+Suwako4b:Wait for everyone to get here first, okay? It's kind of a long story.
+
+Keine4a:If you insist, we won't rush it...
+
+Marisa2c:But sheesh, it's HOT! Not that I really expected anything else from Hell.
+
+Marisa4a:Not for nothin', but there's no way I can do lookout duty outside here.
+
+Letty4a:Even winter's cold wave is completely pushed back here.
+
+Yugi0d:It's not supposed to be THIS hot. It wasn't this bad even in Blazing Hell's heyday.
+
+Yugi1b:In the Old Capital, they're even talking about how the ground water's been heating up.
+
+Ran6c:When you take both that and the geyser on the surface into account, there's no doubt where this heat originates.
+
+Ran4b:It's difficult to believe that an ordinary hell crow could produce this much heat though. 
+
+Mystia4b:Maybe this Okuu person's already grilled chicken by now. 
+
+Udonge3a:We're still a little ways from the bottom. Just imagine how much worse it is there...
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+Momiji0a:I've brought everyone, Lady Kanako. 
+
+Kisume2b:Whoa, this is a ton of surface dwellers.
+
+Kanako1d:Good work, Momiji. I see we have the full group.
+
+Eirin1d:It's a bit cramped, but I suppose we're in no position to complain.
+
+Remilia1c:Why don't you get down to business, then?
+
+Remilia0a:If you're calling everyone here to discuss it, it had better be worth my time.
+
+Kanako3a:It's very important, yes. Which is why I'd like all of you to stay calm and hear us out completely.
+
+Suwako0b:We'll be sharing everything we know.
+
+Sanae0g:Lady Kanako? Lady Suwako...?
+
+Kanako1d:...We've all heard from Orin that Okuu has obtained an incredible power.
+
+Kanako3b:In truth, Suwako and I were the ones who bestowed that power upon her. 
+
+Yukari2a:...!
+
+Komachi2b:Wait, you two granted her power?!
+
+Marisa1d:Hold up, you're the ones behind the incident? 
+
+Parsee0d:What the hell? Am I missing something here?
+
+Kanako3c:Hold your comments. I'll explain from the beginning.
+
+Kanako1d:Utsuho ending up like this was a completely unexpected development for us.
+
+Alice1c:...Maybe you should start with the details. 
+
+Kanako1d:In the beginning, we were simply wondering whether it would be possible to introduce a new source of energy into Gensokyo.
+
+Kanako0a:If we had an innovative energy source, it would spur manufacturing for both humans and youkai, enriching people's lives.
+
+Aya0b:Oh, I remember you mentioning that once. But you were still evaluating how to approach it...
+
+Suwako0b:So we decided the borrow the power of a god named Yatagarasu.
+
+Suwako4b:We would enshrine that divine power within someone, and take them under our wing as an ally.
+
+Suwako0a:That way we'd be able to use the energy the way we want.
+
+Patchouli0c:So you tried to start an industrial revolution using Gensokyo methodology.
+
+Ichirin0b:Isn't that about the same idea as when we used divine power to get to the moon? 
+
+Kanako1d:As we were afraid of the power being abused, we made sure to select the vessel carefully.
+
+Kanako0a:With her high spiritual capacity and her clean slate of a mind, we considered Utsuho an optimal vessel.
+
+Sakuya5b:So the power Utsuho gained was that of a god.
+
+Meiling0c:Then why did you call this an unexpected development?
+
+Suwako0b:Okay, here's the thing.
+
+Suwako4b:It's way too early for her to be capable of wielding Yatagarasu's power.
+
+Reimu0e:Too early...?
+
+Eirin1c:Now that you mention it, enshrining a deity in a mortal body is no simple task.
+
+Eirin0e:Even shrine maidens—the experts in that field—have to train long and hard to even briefly borrow their power.
+
+Akyu1a:And that's why you weren't keeping a close eye on her. 
+
+Suwako0a:Yeah, pretty much. We were gonna observe her progress over a long while.
+
+Suwako0b:We'd give it a year or two, and while that was going on we'd gradually talk things out with the Underworld youkai. 
+
+Marisa4d:Okay then. I can see the logic, I guess... 
+
+Minoriko4a:But now Okuu's apparently going on about conquering the surface.
+
+Minoriko1b:It's pretty obvious you chose the wrong person, isn't it? 
+
+Kanako3b:It pains me to hear that, but...
+
+Kanako3c:We never considered Utsuho capable of such a dangerous course of action.
+
+Hina0c:I'm guessing you had some basis for that assumption.
+
+Kanako1b:When we first met her, she seemed to have a pure heart. She worked tirelessly for others with no thought for her own personal gain.
+
+Kanako3b:That's why we thought it was safe to entrust her with a god's power.
+
+Sho0b:True, I did get the same impression when we met her before.
+
+Youmu0b:She stuck her neck out for Orin. She was a straightforward person who cared for her friend.
+
+Youmu0a:At the very least, she didn't seem to be fighting out of hostility or malice.
+
+Yamame1d:Never thought I'd hear a surface dweller talk about an Underworld youkai like that. 
+
+Suwako4a:Location's got nothing to do with this. We were impressed enough by Okuu that we were convinced she was the only right choice.
+
+Kanako3b:...And even now, I don't believe we were mistaken. 
+
+Parsee0d:You both say the most brazen things...
+
+Yugi1b:Okay, I can tell that you meant well at least, regardless of how it actually turned out.
+
+Yukari0b:I'd like to hear more about this once the trouble is resolved.
+
+Yukari0b:Since this is a major affair that everyone has a stake in, I would've appreciated being notified ahead of time...
+
+Sanae3b:I would have as well. We could have all brainstormed together.
+
+Kanako3b:I do owe you an apology for that. I'm sorry.
+
+Alice0a:Now that we know what happened, all that's left is to check in on the person herself.
+
+Alice2c:Of course, based on what Orin said, it's likely we'll end up fighting. 
+
+Marisa1b:Oh yeah, what kind of power does that god living in Utsuho have? 
+
+Suwako0b:Yatagarasu is a sun god—in fact, he might count as a manifestation of it.
+
+Suwako0d:He's something like a mass of energy that controls the ultimate power, nuclear fusion.
+
+Luna6b:Wait, ultimate power? I don't think I like this plan anymore. 
+
+Reimu0a:Fretting won't change what we have to do. We're gonna have to exterminate her one way or another.
+
+Murasa1b:...Get ready then, because the bottom level is coming into view. 
+
+Akyu0a:The temperature outside is climbing even higher, and I'm picking up a massive heat source below.
+
+Akyu1a:We're entering the Ruins of Blazing Hell!
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP（出撃前）
+
+Reimu0a:Nope, unused.
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP（出撃後）
+
+Elliy2b:Geez, it's hot here... I feel like an egg cooking!
+
+Parsee0d:It really IS even hotter than it used to be...!
+
+Ran6c:No ordinary youkai would dare approach such heat.
+
+Ran6b:Up ahead I see a hell crow and...
+
+Utsuho1c:Ahaha! Burn! Burn hotter!
+
+Utsuho3d:Conquering the surface will be a cinch when I can make flames like this!
+
+Kanako2a:Is that really Utsuho?!
+
+Udonge4c:She looks completely different from the last time we saw her!
+
+Suwako1b:She's completely merged with Yatagarasu and altered form!
+
+Suwako4a:I can't believe she's already like this...
+
+Utsuho0c:Unyu? Do I have visitors?
+
+Kanako1c:Indeed. It is I, Kanako Yasaka.
+
+Utsuho0e:Yasaka...?
+
+Kanako1d:We meet again, Utsuho. It seems you've drawn out Yatagarasu's power during the short time I've been away.
+
+Kanako1c:If anything, you've drawn out too much of it.
+
+Utsuho1d:What are you talking about? Who are you, even?
+
+Kanako2a:What...?
+
+Reimu0d:What's the deal here? I thought you ladies knew each other.
+
+Suwako1c:We do. Did she forget about us...?
+
+Mystia3c:Oh, I know that feeling! It all just spills out of your head overnight.
+
+Utsuho0d:You guys just yammer on and on. I don't remember the Underworld having people like you.
+
+Alice0d:Actually, we've come from the surface, and we've met you before. Do you not remember that?
+
+Alice3b:We're here today because of a request from your friend Orin.
+
+Utsuho0c:From Orin? And we've met before...?
+
+Keine0a:We met when you two came to the surface. Both Orin and Satori are worried about you.
+
+Utsuho1c:Oh, I remember now! We fought you!
+
+Utsuho4a:So you came all the way down here to get beaten up before I conquer the surface?
+
+Marisa2b:Okay, she's not listening to a word we say.
+
+Koakuma4b:And it sounds like she means all that stuff about conquering the surface.
+
+Yukari0b:Just as I surmised. She's in no state to be reasoned with.
+
+Kisume4a:She wasn't like this before. What happened to her...?
+
+Utsuho0e:What are you surface dwellers talking about?
+
+Reimu1a:We're talking about ways to punish you. You're not invading the surface on my watch!
+
+Utsuho0a:Heheheh. Just try and stop me!
+
+Utsuho1e:Have a taste of the ultimate power I've gained, right up until you hit your melting point!
+
+<end>
+
+<ChatID:3>---------------------------------------
+//空初戦闘
+
+Utsuho1b:Here come the surface dwellers!
+
+Lunasa0a:Now that I'm seeing her up close, the differences from last time are really striking.
+
+Nazrin2a:Not only does she have that freaky arm and leg, she's got this sinister eye smack dab in the middle of her chest!
+
+Utsuho0c:This body is the proof that a god lives inside of me.
+
+Utsuho0a:An unstoppable heat is overflowing from inside me, more than I can control!
+
+Kosuzu1a:Awawah! It's boiling in here! Be careful, everyone!
+
+Utsuho1f:Just try and take this!
+
+<end>
+
+<ChatID:4>---------------------------------------
+//空通常撃破
+
+Utsuho1d:Wow. You're no match for me now, but you just keep on coming at me, huh?
+
+Minoriko1b:This power of hers is limitless...!
+
+Elliy1a:I bet she's got a ton of power still in reserve!
+
+Suwako1c:She really is drawing out Yatagarasu's power.
+
+Suwako4a:How exactly did they combine so fast...?
+
+Utsuho1d:How? Oh, that's easy.
+
+Kanako1c:Oh?
+
+Utsuho0a:You just have to give Lord Yatagarasu everything he wants.
+
+Utsuho3c:If he wants your right arm, you give him your right arm. If he needs your right leg, you give him your right leg.
+
+Utsuho4b:And if he asks for your heart, you give him that too!
+
+Utsuho1e:If you do that, Lord Yatagarasu gives you his power right away!
+
+Nitori2a:You threw away your own body?! That's crazy!
+
+Ran6e:So you sped up the process by being unafraid to pay any price...
+
+Patchouli0a:And now you can freely control the power of the sun you've been granted.
+
+Patchouli0c:You gained an arm and a leg that let you channel your inner sun.
+
+Utsuho0c:Right, I can only do it because of this body! I made the power of fusion my own!
+
+Utsuho1e:Now take a good, long look at it!
+
+Akyu2b:Is this heat signature is coming from Okuu?!
+
+Akyu1a:Watch out, everybody! I'm getting a super high energy reading from her!
+
+Utsuho2d:Lord Yatagarasu, the Black Sun. Thank you for giving me your power.
+
+Utsuho1g:The ultimate power of nuclear fusion can burn everything away! Human and youkai, mind and body!
+
+<end>
+
+<ChatID:5>---------------------------------------
+//スペル１撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Sunny1c:We beat the power of the sun!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Sunny1c:Alright! We got away!
+
+</Cond>
+
+Letty1a:If she keeps blasting away at that level of power, she'll be out of breath in no time—
+
+Utsuho3c:Okay, that was decent enough!
+
+Kurumi6a:She's not even breathing heavy?!
+
+Utsuho0c:I can make flames like that with just my pinkie.
+
+Utsuho0e:Now that I'm done warming up, there's all sorts of thing I wanna try out!
+
+Komachi0c:What do you mean, try out? You don't even know your own power?
+
+Utsuho0c:Well, if I turned up the heat a little, everyone would melt.
+
+Utsuho1c:You girls, though, I can do whatever I like to!
+
+Mokou1c:Yeesh, I don't think we're getting out of this with just some scalding!
+
+Utsuho0e:I can do more than just blast out fire.
+
+Utsuho1f:Lord Yatagarasu, grant me strength!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//スペル２撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Utsuho2b:Ack, they caught me?!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Utsuho4b:Phew, time for a quick break.
+
+</Cond>
+
+Yugi0b:I'm impressed you managed to go so fast with a body like that.
+
+Aya0c:You were flying around with so much force, you were burning the air!
+
+Utsuho1b:That wasn't nearly enough for me.
+
+Utsuho2c:I need more! More power!
+
+Yuyuko2a:Why do you want power so much?
+
+Yuyuko3c:Is it all to conquer the surface?
+
+Utsuho1d:Yeah! With this power, I'll make sure the surface belongs to US.
+
+Yamame4a:What a completely juvenile thought process.
+
+Utsuho1d:Look, I never had any special gifts before. That's why I wanted power!
+
+Kanako1c:But why? The Utsuho I met wasn't someone self-centered.
+
+Kanako3b:Were you seduced by the power of the gods?
+
+Hatate1c:I think you've got the wrong idea. Having power doesn't mean you can do whatever you want.
+
+Utsuho1a:No, I've got the RIGHT idea. Maybe I couldn't do anything before, but not anymore!
+
+Utsuho1c:If I wanted, I could turn the surface into a second Blazing Hell right now!
+
+Flan2b:No you couldn't. None of us would let you go outside.
+
+Utsuho0c:Nuh-uh, I totally could!
+
+Akyu1a:Careful, everyone. There's high-temperature, high-pressure energy gathering around Utsuho!
+
+Kosuzu2a:The readings are off the scale! This one's on a whole other level!
+
+Utsuho1e:Lord Yatagarasu, please grant me power. A fire even hotter than before!
+
+Utsuho1g:I'll blow you all away with flames from my super-high temperature core!
+
+<end>
+
+<ChatID:7>---------------------------------------
+//スペル３撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Utsuho0d:They repelled that fire too?!
+
+Kaguya2c:That was quite the firepower you demonstrated. You almost burned my coat.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Utsuho0d:They got away from that fire too?!
+
+Kaguya2c:That was quite the firepower you demonstrated. You almost burned my coat.
+
+</Cond>
+
+Utsuho0c:You just have to keep getting in my way, huh?
+
+Utsuho4b:I'll become the sun that conquers the surface, and then...
+
+Sakuya5b:Well, we've managed to withstand this so far.
+
+Tewi4a:I hope after all that venting, she's ready to cool her head.
+
+Kisume2b:Just stop this already, Okuu!
+
+Utsuho1b:...!
+
+Kisume0b:All this time, you've always worked your hardest for Satori and the others, right?
+
+Kisume4b:If you go on a rampage on the surface, you'll just make everyone at the palace sad.
+
+Parsee0c:It's true. Satori and Orin are worried about you.
+
+Utsuho1b:Don't stop me. I'm conquering the surface FOR them! For Miss Satori and Miss Koishi!
+
+Shizuha3a:Wait, what...?
+
+Utsuho1c:The surface has a huge sky, where the sun shines brightly!
+
+Utsuho2a:Everyone at the palace could live there happily! If I could just make it ours...!
+
+Suika1d:That's not what they want!
+
+Rumia1a:I think you're letting all that sunlight blind you.
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Reimu0a:Good grief... I can see there's no point in trying to reason with you.
+
+Reimu1a:I'll just have to seal away your ambitions and the power of the sun!
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Marisa2b:Man, you don't leave us a lot of options when talking doesn't get us anywhere.
+
+Marisa1a:My magic will blow away both your ambitions AND the fires of the sun!
+
+</Cond>
+
+Utsuho1d:You think you can beat me?! Then I'll show you a fire even stronger than before!
+
+Nazrin2a:Are you kidding me? She's still got something stronger?!
+
+Murasa2b:Looks like the power of the sun god really is limitless!
+
+Utsuho1f:It needs to be hotter! A hundred times hotter! No, a thousand times!
+
+Utsuho1h:Burst forth, divine flame!
+
+<end>
+
+<ChatID:8>---------------------------------------
+//クリア
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Utsuho2d:No way, even that didn't work...?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Utsuho2d:No way, you even got away from that...?
+
+</Cond>
+
+Ichirin1d:Her spiritual energy's dropping. Have we finally managed to stop her?
+
+Utsuho1d:Are you kidding? There's plenty more where that came from—
+
+<pause>
+
+Utsuho2a:...!
+
+Udonge4a:She fell to the ground... Looks like she's about out of juice.
+
+Nitori1c:Did she exhaust the limits of her power?
+
+Utsuho2d:Why, Lord Yatagarasu? I have to conquer the surface...
+
+Reimu0f:Just give up already. You lost.
+
+Marisa1b:And let go of any idiotic notions of conquering the surface.
+
+Utsuho2d:In the end, I still can't do anything...?
+
+Yukari0b:Your name is Utsuho, yes? I have a question for you.
+
+Yukari0a:You said you wanted to take the surface for Satori and her sister's sake. Would you mind explaining your logic there?
+
+Utsuho2c:...I was really jealous of the sun shining on the surface.
+
+Utsuho2d:Up there, I'm sure they could forget the bad stuff and enjoy their lives...
+
+Chen4b:But didn't they move here FROM the surface?
+
+Utsuho0e:Well, um... Uh... Wha?
+
+Aya5a:Your feelings of wanting to help them must've gotten mixed up with your own desires somewhere along the way.
+
+Yukari0a:Nevertheless, I won't forget that for you at least, the surface represented hope.
+
+<pause>
+
+Satori3a:Okuu!
+
+Orin2a:You're okay!
+
+<Code=(icon_set_direction,Utsuho_en,Satori_en,0)>
+
+Utsuho0e:Orin! And Miss Satori!
+
+Remilia1e:Ah, you're finally here. We just got her to settle down.
+
+Eirin0a:She seems much calmer now. With this, we can probably call the matter settled.
+
+Utsuho2c:...Sorry if I scared you.
+
+Satori0e:...Thank goodness. Your appearance may have changed, but you're still the Okuu I know.
+
+Orin4c:I'm glad you cooled your head, at least.
+
+Orin3a:But why did you say you were going to conquer the surface, of all things?
+
+Alice0d:It seems she's been a bit confused ever since heading up there.
+
+Alice3b:It turns out she wanted to do something for the Komeiji sisters.
+
+Satori2b:For us...?
+
+Utsuho2c:I wanted to do something—anything!—to help cheer you up, Miss Satori.
+
+Utsuho2d:I mean, ever since Miss Koishi shut her eye, you never smile like you used to.
+
+Satori2b:...!
+
+Utsuho2c:I never had any special powers, so all I could do was watch. It was so frustrating...
+
+Utsuho2c:But I didn't know what to do about it.
+
+Orin5a:...You silly bird. Don't just bottle all that up inside.
+
+Orin0c:Still, I know all about feeling frustrated and wishing I could do something about it.
+
+Satori0d:...
+
+Keine0b:Regardless of how it may have turned out, it was Utsuho's desperation that led to this incident.
+
+Kanako3b:She misued her power because of her pure love for others.
+
+Satori0a:...I never knew that was how you two saw things.
+
+Satori0d:Or perhaps I never made the effort to know.
+
+Orin1f:No, we were the ones trying to hide it from you!
+
+Utsuho2d:That's right, we're the ones who need to apologize...
+
+Lunasa0a:So this was all the result of one big series of miscommunications.
+
+Satori0d:...True. I may have overlooked something in their minds.
+
+Satori0b:From now on, we'd all better make an effort to talk things out together instead of fretting alone.
+
+Orin0d:Miss Satori...
+
+Koakuma0a:It looks like their talk is wrapping up.
+
+Cirno3b:Then should we get going back to the surface?
+
+Cirno4a:I'm tired enough to pass out, but if I stayed here any longer, I'd melt...
+
+Letty3a:Yes, we can clean up the loose ends later. Let's get back to the surface for now.
+
+Kanako1b:Before we leave, Satori, I have something to tell you...
+
+Satori0b:I see, so you're the one who granted that power to Okuu.
+
+Orin1f:Wait, what?
+
+Suwako4b:Okuu's apparently forgotten about that, but trust us, it's true.
+
+Sho0c:But they had a good reason.
+
+Satori0d:Yes, I can see they did. You don't have to spell it out. I don't intend to press this matter any further for now.
+
+Satori0a:Let's arrange a time and place to talk about this later. We can discuss the details then.
+
+Kanako3b:Mm. Very well.
+
+Yugi0c:Guess this is where we part ways, then.
+
+Yugi3c:Don't let the crows eat you on the way out.
+
+Suika3d:Thanks for helping out, Yuugi. You other three too.
+
+Murasa3b:All aboard! It's back to the surface for us!
+
+<pause>
+
+Orin5a:They're leaving, huh? I missed my chance to thank them.
+
+Satori0a:We'll be meeting the surface gods again soon enough. You can thank them then.
+
+Satori0e:We should be heading back to the palace ourselves.
+
+Utsuho2c:...
+
+<pause>
+
+Orin4a:Okuu? Something the matter?
+
+Utsuho2d:I just realized that I wrecked the furnace I was supposed to be managing.
+
+Utsuho2c:That was the job you entrusted me with, Miss Satori...
+
+Satori0a:We can always find you another job, now that you're back to normal.
+
+Orin4c:Yeah! We can take our time thinking about how to use that power, too.
+
+Orin0a:There's gotta be a way to get some good use out of it.
+
+<Code=(icon_set_direction,Utsuho_en,Satori_en,0)>
+
+Utsuho3a:Yeah, we can all think about it together...
+
+Star3a:...?
+
+Star1c:Hey, I'm sensing something...
+
+Luna0a:What's the matter, Star?
+
+Star1c:I can feel something approaching from the surface.
+
+Star0c:And it's not just one thing, it's lots of little things.
+
+Sunny1b:Isn't it just some more of Satori's pets coming to greet her, now that we cleared out the spirits?
+
+Star4b:No, there's way too many of them for that... and they feel strange.
+
+Akyu1a:...! We're picking up something on the ship's radar!
+
+Akyu1a:Too many things to count, heading straight for us!
+
+Momiji1a:Over there, everyone!
+
+<pause>
+
+Utsuho4b:Hrk?!
+
+<Code=(icon_set_direction,All,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Satori_en,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Orin_en,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Utsuho_en,FD_RIGHT,0)>
+
+Keine1a:Was that a laser?! And it was aimed at Utsuho!
+
+Parsee0d:Where did that come from?! And who?!
+
+<pause>
+
+Shiro0a:...
+
+Marisa1a:Is that Shiro?
+
+Reimu1a:What's it doing here? I thought we left it at the shrine.
+
+Shiro0a:...
+
+<pause>
+
+Momiji1a:What in the world?!
+
+Nitori2a:What's going on?! There's a whole bunch of Shiro lookalikes!
+
+Ran6e:These were the things approaching?
+
+Ran6c:But why? I've heard they were someone's familiars, but...
+
+Patchouli1d:Watch out, those are the things that attacked you!
+
+<Code=(icon_set_direction,Utsuho_en,FD_RIGHT,0)>
+
+Utsuho1d:What's your problem? Why are you—
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char5,0,0,1)>
+
+ShiroB0a:...
+
+<pause>
+
+Utsuho2a:Aaah!
+
+<Code=(icon_set_direction,All,Utsuho_en,0)>
+
+<Code=(icon_set_direction,All_en,Utsuho_en,0)>
+
+Orin1f:Okuu!
+
+Yamame2b:What's with these guys?! Are they after Okuu?!
+
+Parsee0d:You called them Shiro. Did you orchestrate this?
+
+Shizuha1a:Of course we didn't. We're as confused as you!
+
+Yugi1c:Who cares what they are?! Get over here, Okuu!
+
+<Code=(icon_set_direction,Utsuho_en,FD_RIGHT,0)>
+
+Utsuho2b:I'm not sure I can—
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char5,0,0,1)>
+
+ShiroB0a:...
+
+<pause>
+
+Utsuho2a:AAAH!
+
+Keine1a:Utsuho's lost the will to fight, but they're attacking her anyway!
+
+Minoriko1a:What's going on? Do they not realize her rampage is over?
+
+Satori0a:...No, that's not it.
+
+Kisume0a:Satori...?
+
+Satori0d:Those youkai aren't simply trying to stop her, like Orin or the surface dwellers did.
+
+Satori0a:They're trying to get rid of the power she now possesses.
+
+Sanae1c:Get rid of it?! But they can't!
+
+Mystia1c:Let's all calm down here. It's not like they could ever beat her, right?
+
+Satori3a:Actually, they're trying to—
+
+<pause>
+
+<hide=face>
+
+Utsuho2a:What are these?! Get away from me!
+
+</hide>
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char5,0,0,1)>
+
+ShiroB0a:...
+
+<pause>
+
+<hide=face>
+
+Utsuho1i:Rgh... AAAGH!
+
+</hide>
+
+Mokou3e:They're going for the eye in her chest... Are they trying to tear out Yatagarasu?!
+
+Nazrin2a:That's crazy! Aren't they supposed to be fused now?!
+
+Orin1c:Get off of her, you stupid furballs!
+
+<pause>
+
+Orin2b:Rgh, you little...
+
+<pause>
+
+<hide=face>
+
+Utsuho1i:AAAH!
+
+</hide>
+
+Orin1b:OKUU!
+
+<hide=face>
+
+Utsuho1h:Miss Satori... Orin...
+
+</hide>
+
+Satori2b:Okuu, you're okay, right?!
+
+<hide=face>
+
+Utsuho1i:They're trying to take Lord Yatagarasu...
+
+Utsuho1h:But that's... impossible... Lord Yatagarasu is... getting mad...!
+
+</hide>
+
+Orin1f:We know! We're coming to help you!
+
+Orin1b:Just hold out a little longer, and—
+
+<hide=face>
+
+Utsuho2d:No, you all need to run away...
+
+Utsuho1i:Lord... Yatagarasu's... power... is...
+
+</hide>
+
+Orin1f:What are you talking about?!
+
+<hide=face>
+
+Utsuho1i:Hrrrgh!
+
+</hide>
+
+<pause>
+
+Akyu2a:Eek! A shockwave!
+
+Marisa2a:What just happened?!
+
+Momiji2a:I don't know! But there's a bunch of light seeping in from the outside...
+
+Ichirin5a:We're going to right the ship. Everyone hold onto something!
+
+Murasa1b:We're getting visuals back!
+
+<pause>
+
+Keine2a:It's over now... Right? But...
+
+Meiling1a:Utsuho's gone! And the bedrock around her has collapsed!
+
+Suika2a:Is everyone okay?! What about Orin and the others?!
+
+Yugi1c:That was too close. You could've been in real trouble if I'd been any slower!
+
+Orin1f:Yuugi? Did you save me?
+
+Satori2b:What just happened?!
+
+Yugi1c:...Okuu's power went berserk, and she shot out some crazy-strong flame.
+
+<Code=(icon_set_direction,Yugi,FD_RIGHT,0)>
+
+Yugi1d:Just look up.
+
+Satori2b:...! There's a huge hole in the ceiling!
+
+Sunny0d:Did Utsuho's power make this...?
+
+Meiling1a:It might go all the way up to the surface!
+
+Luna1a:Utsuho must've gone up through the hole...
+
+Shiro0a:...
+
+<pause>
+
+Reimu1a:The minions just fled!
+
+Marisa2b:Are they going after Utsuho again?!
+
+Yukari2a:Murasa, launch the ship at once.
+
+Murasa1b:We're following Utsuho, right?
+
+Yukari2a:If she used power this great on the surface, it would be a disaster.
+
+Yukari4a:Underworld youkai, all of you come aboard as well.
+
+Parsee0a:Okay, be right there.
+
+<Code=(icon_set_direction,All,FD_RIGHT,0)>
+
+<pause>
+
+Ichirin1a:Everyone ready? Buddhist reactor at maximum output!
+
+Murasa1b:Palanquin Ship, emergency liftoff!
+
+<end>
+
+<ChatID:9>---------------------------------------
+//ADVB
+
+<BG=bg_talk_Seirensen_Bridge_Jigoku.png,fade=0,color=1,title=bg_Seirensen_Bridge,bgm=bgm_pp_pinch>
+
+Ichirin1a:Is everyone aboard?!
+
+Kanako1c:Yes, including the Underworlders.
+
+Kosuzu2a:That hole looks like it's been melted open by intense heat.
+
+Kosuzu2a:If it leads back to the surface, then she must've passed through here.
+
+Ran1b:My goodness. If she were to use this kind of power on the surface...
+
+Keine1a:What was all of that about? Why would Shiro attack Utsuho?
+
+Parsee0d:Who was that white furball anyway? 
+
+Marisa2b:It was originally a pet I was keeping.
+
+Marisa2b:It's been awfully suspicious lately though, so I left it tied to a pillar at the shrine...
+
+Yamame0d:None of that actually makes this any clearer.
+
+Alice1c:Shiro isn't just some kedama. It's someone's familiar.
+
+Alice0a:And that someone would appear in Marisa and Sanae's dreams to meddle in our affairs.
+
+Sanae3b:She seemed to hate the idea of new things and cultures entering Gensokyo.
+
+Sanae1e:That might be why she was attacking the energy Okuu possesses.
+
+Sakuya5a:I suppose she found Utsuho by following our trail. 
+
+Kisume4a:All that cruelty toward Utsuho, just because she didn't like something?
+
+Orin1f:How could she be so selfish?!
+
+Orin2c:Okuu had already given up on the whole idea of a rampage!
+
+Satori0d:...
+
+Reimu0f:Oh yeah, it looked like you realized something when Shiro was attacking Utsuho.
+
+Reimu1b:Have you figured out what she's thinking? 
+
+Satori0d:I didn't get the details. But I did sense open hostility. 
+
+Sho0b:Hostility...?
+
+Satori0a:Her thoughts were along the lines of... "This power must not exist here."
+
+Satori0b:"It must be driven from both the surface and the Underworld."
+
+LilyW1c:That still doesn't justify what she did to Utsuho.
+
+Satori0d:...To her, what happened to Okuu was of no concern, as long as her power was removed.
+
+Yukari0b:...
+
+Yuyuko3c:To reject something to point of attempting to drive it out entirely... Her mentality is completely at odds with our own.
+
+Yugi1d:You got that right! What gives her the right to decide what should and shouldn't exist?! 
+
+Eirin1b:Calm down, everyone. We need to spend this time thinking about what we should be doing next.
+
+Eirin1c:Whoever they are, they've made Utsuho go berserk. We need to deal with that first. 
+
+Kanako1d:Even I can't begin to imagine how much energy an out-of-control Yatagarasu would release.
+
+Kanako1c:But it should be more than enough to turn the surface to ash several times over.
+
+Daiyosei3b:That doesn't sound good at all. I don't want everything to burn up! 
+
+Reimu1a:No one does. We're not gonna let that happen.
+
+Marisa2b:You all might wanna get ready...
+
+Marisa2b:'Cuz we're surfacing now.
+
+<end>
+
+<ChatID:10>---------------------------------------
+//全滅
+
+Reimu2a:Augh, we went all the way to hell and back, and this is how we go out...?!
+
+Utsuho4a:Heh heh heh, now there's no one left in my way.
+
+Utsuho4c:The surface is all mine!
+
+<end>
+
+<ChatID:11>---------------------------------------
+//空vs.霊夢
+
+Reimu0d:It's about time I found the boss of this place. If I had to stay here any longer, I'd be an extra-crispy shrine maiden.
+
+Utsuho4b:The surface's shrine maiden... You came here to exterminate me, huh?
+
+Reimu0a:Look, you're welcome to leave the hot springs in place, but you have to stop acting up.
+
+Reimu1a:I don't know about this ultimate power of yours, but the ultimate shrine maiden is about to suspend your surface invasion plans indefinitely!
+
+Utsuho4a:Heheheh. Okay, fine. I'll prove my power by beating you.
+
+Utsuho4c:Burning you up in these high temperature, high pressure flames will be the first step in my conquest of the surface!
+
+<end>
+
+<ChatID:12>---------------------------------------
+//空vs.魔理沙
+
+Marisa2b:Looks like you really do have the power of Yatagarasu.
+
+Marisa2b:But was it really worth doing all that to your body?
+
+Utsuho0a:Of course! I finally have what I've always wanted!
+
+Utsuho0e:I've got no use for you, so how about you just scram?
+
+Marisa2b:There are some people worried about you, so no can do.
+
+Marisa1a:I'll stop your plans to conquer the surface, here and now!
+
+<end>
+
+<ChatID:13>---------------------------------------
+//空vs.早苗さん
+
+Sanae1a:Okuu, please let go of this surface invasion plan!
+
+Sanae1a:Both Lady Kanako and Lady Suwako believe in you, Okuu. So please!
+
+Utsuho0e:Who's Kanako? And why would I listen to anyone from the surface anyway?
+
+Sanae1d:Your power is meant to eventually help the surface as well—
+
+Utsuho4b:I just said I'm not listening! I'm conquering the surface, and you're in the way!
+
+<end>
+
+<ChatID:14>---------------------------------------
+//空vs.アリス
+
+Alice0a:Utsuho, do we really need to fight?
+
+Alice4a:We've already met with Satori and Orin. There's no need for this now.
+
+Utsuho0e:This again? I'm not doing anything you people say.
+
+Utsuho4c:This'll be good practice for when I reach the surface. I'll blow all of you away at once!
+
+Alice1a:So there's no choice but to take up the gauntlet after all...
+
+<end>
+
+<ChatID:15>---------------------------------------
+//空vs.咲夜さん
+
+Sakuya0c:Your owner is hurt over the mischief her pet is up to.
+
+Sakuya0a:Though I can see it's true she gave you too much free rein.
+
+Utsuho0e:...Now that you mention it, I haven't seen Miss Satori in a while.
+
+Utsuho5e:I've gotta report back to her after I conquer the surface!
+
+Sakuya3b:You're just doing as you please, huh? Not that I have much room to talk...
+
+<end>
+
+<ChatID:16>---------------------------------------
+//空vs.妖夢
+
+Youmu0b:Utsuho, please drop this whole surface conquest idea!
+
+Youmu0a:If you change your mind now, I'm sure no one here will judge you—
+
+Utsuho4c:They can judge away, for all I care. I'll just blast anyone who tries to stop me!
+
+Youmu3a:No hesitation at all...! Then retreat definitely isn't an option for me.
+
+Youmu1a:I'll take that ambition of yours... and slash it!
+
+<end>
+
+<ChatID:17>---------------------------------------
+//空vs.秋姉妹
+
+Minoriko4a:If I stick around here much longer, all my sweet potatoes will be roasted whether I like it or not!
+
+Shizuha2a:And my falling leaves will all be one big bonfire!
+
+Utsuho0b:Mmm, something smells good... Hey, you two are holding snacks, aren't you?
+
+Shizuha1a:Oh, you picked up the aroma? Well, too bad. These roasted sweet potatoes aren't for you!
+
+Minoriko1a:Witness the power of a slightly browned, aromatic autumn!
+
+<end>
+
+<ChatID:18>---------------------------------------
+//空vs.レティ
+
+Letty4a:Even if this is the depths of the earth, to think there'd be so few traces of winter...
+
+Utsuho0a:Yeah, isn't my power great?
+
+Utsuho0b:Hey, why don't I make the surface just as warm for you?
+
+Letty1b:You plan on removing winter from the surface too? I strongly urge you not to.
+
+<end>
+
+<ChatID:19>---------------------------------------
+//空vs.大チル
+
+Daiyosei4c:The air here's so hot... Are you alright, Cirno?
+
+Cirno2a:I'm hanging on, but GEEZ it's hot!
+
+Utsuho4a:Ah, fairies. Since you made fun of me, I'll just melt you down.
+
+Cirno2c:Wow, she's gotten strong. She wasn't like this the last time we ran into her.
+
+Utsuho4a:I've gotten strong? You really think so?
+
+Cirno5b:I'm the strongest, so if I say it then it's right!
+
+Cirno1a:I'm still strongester though!
+
+Utsuho4c:Hmph, I'll show you which of us is really the strongest!
+
+<end>
+
+<ChatID:20>---------------------------------------
+//空vs.ルーミア
+
+Rumia2b:Augh, it's so bright!
+
+Utsuho0e:What's this? A ball of darkness?
+
+Rumia3a:As long as I stay safe in here, not even your sunlight can reach me.
+
+Rumia0a:So, are you in it or out of it?
+
+Utsuho4b:You can't see outside of it, can you? Not that it really matters.
+
+Utsuho4c:No matter how deep the darkness, the sun will always shine through!
+
+<end>
+
+<ChatID:21>---------------------------------------
+//空vs.レミリア
+
+Remilia1e:Blazing Hell... Now THAT'S my kind of place.
+
+Utsuho4b:All this heat isn't bothering you?
+
+Remilia1e:I am the queen of the night. Even the fires of hell itself wouldn't burn my body.
+
+Remilia1a:How arrogant of you, to speak of conquering the surface. I'll bury you right here in the dirt!
+
+<end>
+
+<ChatID:22>---------------------------------------
+//空vs.フラン
+
+Flan3b:Conquering the surface is kinda like conquering the outside, right? Sounds fun!
+
+Utsuho4a:Oh, you get me?
+
+Flan2c:The outside is so fun! But I don't get to just break everything I want.
+
+Flan2c:I wouldn't want Remi or Meiling giving me the third degree.
+
+Utsuho4a:Yeah, I know what you mean. I have to think about Miss Satori.
+
+Utsuho4c:But that's why I'm gonna make the surface ours with this power of the sun!
+
+Flan0a:Eeheehee. I'm not gonna let any sun have its way!
+
+<end>
+
+<ChatID:23>---------------------------------------
+//空vs.にとり
+
+Nitori2a:So this is nuclear fusion... What incredible output!
+
+Utsuho4a:It's the ultimate energy, bestowed by Lord Yatagarasu. Amazing, right?
+
+Nitori1c:Yeah, you could power all sorts of machines with this...
+
+Nitori1b:But energy should be used for peaceful purposes. Conquering the surface is just right out!
+
+Utsuho4c:That's for me to decide. You don't get a say in the matter!
+
+<end>
+
+<ChatID:24>---------------------------------------
+//空vs.雛
+
+Hina1a:You say you want to conquer the surface, but have you thought about what that would really look like?
+
+Utsuho4b:What do you mean?
+
+Hina1a:Burnt trees, dried up rivers... You'd be spreading misfortune across the land.
+
+Utsuho0e:Hmm... I don't really know enough about the surface the picture it, actually.
+
+Utsuho4c:But anyway, I just wanna see Miss Satori happy! Get outta my way!
+
+Hina4a:Innocence can be a frightening thing...
+
+<end>
+
+<ChatID:25>---------------------------------------
+//空vs.勇儀
+
+Yugi1c:Oi, Okuu. What kind of stupid stunt are you trying to pull here?
+
+Utsuho4b:...! Why is an oni with these surface dwellers?
+
+Yugi1b:Your plan's causing a bunch of problems up top.
+
+Yugi1b:That means we're in breach of our agreement with the Sage. That's not something I can ignore.
+
+Utsuho4a:Don't worry, once I conquer the surface, all that complicated stuff won't matter!
+
+Yugi4b:We keep telling you nobody asked for that, but clearly you aren't getting the message.
+
+Yugi1c:Guess I'll just have to beat it into your skull the hard way. No hard feelings!
+
+<end>
+
+<ChatID:26>---------------------------------------
+//空vs.パルスィ
+
+Parsee0a:You're actually serious about this nutty idea of conquering the surface?
+
+Utsuho5e:Hey, you're the person who's always biting her fingernail!
+
+Parsee0a:I get why you'd be jealous. How dare they keep that huge sky and bright sun to themselves...
+
+Utsuho4a:Exactly! That's why I'll make it belong to us. You're with me, right?
+
+Parsee0a:Nah, I'm just ruining our relationship by stewing in jealousy.
+
+Parsee0a:But you actually want it. There's a difference.
+
+Utsuho1c:Then you're in my way!
+
+<end>
+
+<ChatID:27>---------------------------------------
+//空vs.ヤマメ
+
+Yamame0c:Hey, Utsuho. Could you knock it off?
+
+Utsuho4a:You're that tsuchigumo.
+
+Utsuho0e:Uh... Yabame...?
+
+Yamame4d:Ya-MA-me. Your actions are one thing, but it looks like who you are inside hasn't changed one bit.
+
+Yamame4b:If you keep acting up like this, you're gonna bring a lot of trouble down on the Underworld.
+
+Utsuho4c:Then before that happens, I just have to burn up all the jerks on the surface!
+
+Yamame4a:Nobody wants a conflict. If we had one, this place and the surface really would be...
+
+Yamame0c:Never mind, I'll save that talk for after I stop you!
+
+<end>
+
+<ChatID:28>---------------------------------------
+//空vs.キスメ
+
+Kisume2b:Utsuho, wait!
+
+Utsuho0e:...!
+
+Kisume2b:If you conquered the surface, it'd cause a whole mess!
+
+Kisume0a:Why don't you just take a step back and listen to us?
+
+Utsuho0d:Where's that voice coming from? Whoa... Is that a talking bucket?!
+
+Kisume2b:(Ack, looks like I shouldn't have cowered in my bucket...)
+
+Kisume4a:(But I have to get closer and stop her somehow!)
+
+<end>
+
+<ChatID:29>---------------------------------------
+//空vs.文
+
+Aya0c:Looks like you're serious about wanting to conquer the surface.
+
+Aya5a:If you did that, newspaper articles would be the least of my problems.
+
+Utsuho4a:It won't matter once the surface is ours.
+
+Utsuho4c:If you get in my way, I'll blow you away!
+
+Aya5a:Sheesh. I hate to be too tough on a fellow crow youkai...
+
+Aya1b:But I have my responsibilities as an elder youkai. I'm gonna protect the surface!
+
+<end>
+
+<ChatID:30>---------------------------------------
+//空vs.椛
+
+Momiji3c:Utsuho, conquering the surface is a reckless idea!
+
+Momiji3c:If you tried that, the mountain youkai wouldn't stay quiet. You can't face everyone there all by yourself...
+
+Utsuho4a:Can too! With only this much power I can conquer any mountain OR valley.
+
+Utsuho1c:Now outta the way, I'm going to the surface!
+
+Momiji1b:So much for talking her down... All that's left then is to be a shield!
+
+<end>
+
+<ChatID:31>---------------------------------------
+//空vs.はたて
+
+Hatate2a:Whoa, scary! Is that boiling lava?!
+
+Utsuho1a:What, you can't handle a little heat, surface dweller?
+
+Utsuho4a:Wait, aren't you a crow? This should be nothing for you.
+
+Hatate0b:Don't hold me to your standards. I grew up on the surface!
+
+Hatate1b:Let's just get this resolved so I can go home already!
+
+<end>
+
+<ChatID:32>---------------------------------------
+//空vs.星
+
+Sho0b:I still can't believe that you're actually plotting the conquer the surface, Utsuho.
+
+Utsuho4a:Heh, look at all these surface dwellers just marching up like they own the place.
+
+Utsuho4c:The surface is mine! If you're gonna get in my way then I'm gonna get you out of it!
+
+Sho1c:You seem very serious about this. I suppose fighting is the only option...
+
+<end>
+
+<ChatID:33>---------------------------------------
+//空vs.聖輦船
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Kosuzu6b:What incredible heat! I can feel it even from inside the ship!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Akyu2a:What incredible heat! I can feel it even from inside the ship!
+
+</Cond>
+
+Ichirin1b:I'm honestly not sure if the Palanquin Ship can handle this...
+
+Utsuho4b:Is that huge ship flying? Actually, I feel like I've seen it before...
+
+Utsuho4c:Whatever, it's still small enough to easily send flying!
+
+Kosuzu2a:Watch out, Murasa, she's coming!
+
+Murasa0d:Roger that. I'll be careful not to take any direct hits!
+
+<end>
+
+<ChatID:34>---------------------------------------
+//空vs.パチェこぁ
+
+Koakuma2a:Lady Patchouli, the element of Utsuho's power is...
+
+Patchouli1d:...It's solar. In other words, it's similar to Sun Sign: Royal Flare.
+
+Patchouli0b:Let's see, what magic cancels out Sun Sign...?
+
+Utsuho4b:What are you muttering about over there? I'm just gonna burn up that book of yours.
+
+Patchouli1a:You can try, but I regularly apply fireproofing spells to them.
+
+Koakuma1a:She's firing on us, Lady Patchouli! There's no time for cross-referencing!
+
+<end>
+
+<ChatID:35>---------------------------------------
+//空vs.慧音
+
+Keine1a:Were you really this unreasonable, Utsuho?
+
+Keine1a:You may have been a bit simple-minded, but I always took you for a youkai with a pure heart.
+
+Utsuho0e:Uh, I've got no idea who you are.
+
+Keine2b:What? But we met!
+
+Utsuho4a:Anyway, I'm not gonna listen to you lecture me. If you get in my way, I'll show no mercy.
+
+Keine1a:What a problem child! I suppose I'll just have to educate you!
+
+<end>
+
+<ChatID:36>---------------------------------------
+//空vs.妹紅
+
+Mokou0b:Ruins or not, I can still barely believe I'm laying eyes on Hell.
+
+Utsuho4a:I can make my fires even hotter if you want.
+
+Utsuho1a:Doesn't fusion with hellfire sound fun?
+
+Mokou1a:Sorry, but hell doesn't like me very much.
+
+Mokou1b:I'm gonna ditch this place the moment I beat you up!
+
+<end>
+
+<ChatID:37>---------------------------------------
+//空vs.三月精
+
+Luna1c:Utsuho's sun power is no joke!
+
+Star1c:Hey Sunny, can't you reflect it like you did with Yorihime?
+
+Sunny2a:No way. She's not shooting light, she's shooting FIRE!
+
+Utsuho4a:You're grumbling, but doesn't seem like you're gonna back down either.
+
+Utsuho4c:I'm not the old Utsuho anymore. I won't lose to any of you!
+
+<end>
+
+<ChatID:38>---------------------------------------
+//空vs.ミスティア
+
+Mystia2a:Wait! I'm morally opposed to yakitori!
+
+Utsuho0d:Unyu? A bird youkai?
+
+Mystia0c:It's nuts that you're totally fine in a place this hot.
+
+Mystia0a:You're a bird too. You get what I mean, right?
+
+Utsuho4a:I grew up here, so of course I'm fine with it.
+
+Utsuho4c:I don't care if you're a bird or not, get in my way and I'll show no mercy!
+
+Mystia2a:I'm morally opposed to cannibalism too!
+
+<end>
+
+<ChatID:39>---------------------------------------
+//空vs.輝夜
+
+Kaguya6a:So an Underworld crow has gotten hold of the power of the sun? How delightfully entertaining.
+
+Utsuho4b:I'm not here for your entertainment.
+
+Kaguya0a:The depths of this land lack a sun, obviously. So I'm sure your reasons for wanting one are just as deep and profound...
+
+Utsuho4a:What are you talking about? I just want whatever lets me conquer the surface.
+
+Utsuho4c:And with the sun in my hands, I'm doing it!
+
+<end>
+
+<ChatID:40>---------------------------------------
+//空vs.永琳
+
+Eirin2a:I'm shocked. You really do hold the power of Yatagarasu in your form.
+
+Utsuho4c:Awesome, right? Me and Lord Yatagarasu are already one.
+
+Eirin1c:It isn't metaphysically possible for someone with a powerful obsession to also have room for a god within their inner universe.
+
+Eirin1d:Yet this was a power you wanted so badly, you were willing to sacrifice parts of yourself to get it?
+
+Utsuho4b:You're just spouting gibberish to confuse me, aren't you? Well, it won't work.
+
+Utsuho4c:I'll fuse you too, right in this fiery core!
+
+<end>
+
+<ChatID:41>---------------------------------------
+//空vs.鈴仙
+
+Udonge4b:Hey, you're that airheaded youkai we bumped into recently!
+
+Udonge4b:Are you serious about conquering the surface?
+
+Utsuho1a:Of course I'm serious. And I have Lord Yatagarasu's power, so I can do it too!
+
+Udonge3b:Looks like some crazy ideas have only aggravated your tunnel vision.
+
+Udonge1b:You need to learn that there's a difference between bravery and recklessness. If you can't tell one from the other, you're gonna get hurt!
+
+<end>
+
+<ChatID:42>---------------------------------------
+//空vs.てゐ
+
+Tewi0a:I've lived a long time, but I've never met a youkai that ate a god before.
+
+Tewi1b:I've got some serious advice for you—you should spit that god back up, and fast.
+
+Utsuho4a:Don't be dumb, why would I do that after finally getting my hands on power?
+
+Utsuho1a:I'd do anything for special power!
+
+Tewi4b:Geez, talk about obsessed...
+
+<end>
+
+<ChatID:43>---------------------------------------
+//空vs.リグル
+
+Wriggle1b:We can't let you attack the surface!
+
+Wriggle4a:What if you change some bugs' habitats...?
+
+Utsuho4a:Hey, if I become the sun, that should make them happy.
+
+Utsuho4c:The sun brings happiness. It'll make everybody's lives better!
+
+Wriggle0c:What kind of nonsense logic is that?!
+
+<end>
+
+<ChatID:44>---------------------------------------
+//空vs.紫
+
+Yukari0a:So you're the youkai crow plotting to conquer the surface.
+
+Utsuho4b:Huh? You're...?
+
+Yukari0a:The sage of the surface. I've visited the Palace of Earth Spirits before.
+
+Utsuho1c:The sage of the surface?! Then you're the one who chased out Miss Satori and Miss Koishi?!
+
+Yukari0b:Wait, chased out?
+
+Utsuho1c:Yeah, it's all your fault! They must've been so happy on the surface!
+
+Yukari4b:(Happy? She has no reason to be unaware that the sisters were driven from the surface.)
+
+Yukari4b:(I need to ascertain this Underworld youkai's true intentions.)
+
+<end>
+
+<ChatID:45>---------------------------------------
+//空vs.ゆゆ様
+
+Yuyuko0a:Who'd have thought the power of the gods could be used like this?
+
+Yuyuko0a:Not only that, you've managed to keep him inside you for so long. I'm positively amazed!
+
+Utsuho4a:I'm sure Lord Yatagarasu chose me as well.
+
+Utsuho4c:I reached my hand out to him and he answered my call. Now we're one.
+
+Yuyuko0a:So you desired a sun in the underground depths.
+
+Utsuho4c:That's right. I'll be a sun! And nobody will stand in my way!
+
+<end>
+
+<ChatID:46>---------------------------------------
+//空vs.藍
+
+Ran6b:I predicted something like this, but truly, what an astonishing amount of spiritual energy.
+
+Ran0a:If you actually had it under control, I might struggle to keep up.
+
+Utsuho4b:Hey, are you talking down to me?!
+
+Ran6a:Control is a topic shiki are well-versed in. Here, I'll give you a live combat lesson in operations.
+
+Utsuho1c:Don't even try to confuse me by talking nonsense! Enough firepower will shut you up!
+
+<end>
+
+<ChatID:47>---------------------------------------
+//空vs.橙
+
+Chen4a:Wah, it's so hot... Plus, I'm scared of burning my feet here...
+
+Utsuho0e:Hm? A bakeneko? That's the same as Orin.
+
+Utsuho5e:That's someone I can kinda relate to. So, when'd you get your human form?
+
+Chen2b:What do you mean, when?
+
+Utsuho5d:Me and Orin, we just kept eating all kinds of stuff until finally we looked like this.
+
+Utsuho5d:Orin even has a special power! She was useful to Miss Satori right away.
+
+Chen3c:I'm not really following, but it sounds like you're good friends.
+
+Utsuho5d:Yeah. Me and Orin have been together forever...
+
+Utsuho0d:...Wait, no more talking. I'll strike you down, surface youkai!
+
+<end>
+
+<ChatID:48>---------------------------------------
+//空vs.リリー
+
+LilyW1c:Utsuho, it's wrong to act up!
+
+Utsuho4b:Says who, weakling?
+
+LilyW0d:On the surface, we're about to have a wonderful spring.
+
+LilyW0d:If you saw it yourself, I'm sure your feelings would change.
+
+Utsuho4a:Yeah, I bet living up there is always loads of fun.
+
+Utsuho4c:That's why I want it! Now get out of my way!
+
+<end>
+
+<ChatID:49>---------------------------------------
+//空vs.プリバ
+
+Merlin5a:She wants to attack the surface? Talk about high-strung!
+
+Lyrica1c:She's totally different from the last time we met. What happened to her?
+
+Lunasa0b:...Actually, she has the same sound as last time.
+
+Lyrica5a:She does?
+
+Lunasa0a:The sound of the sky. A lovely, resounding tone, free of excess.
+
+Lyrica5a:Then this change makes even less sense.
+
+Utsuho4b:Hey! You girls are pretty brave to just stand around in front of me chatting!
+
+Lyrica1c:Guess we'll have to think about this later.
+
+Merlin0a:Let's use our sound to figure out the secrets of hers!
+
+Lunasa1a:Time to start the show!
+
+<end>
+
+<ChatID:50>---------------------------------------
+//空vs.小町
+
+Komachi1a:Hell's reaper just came for you, kid.
+
+Utsuho0d:Wait, hell's?!
+
+Komachi3c:Kidding, kidding. That's not my job.
+
+Komachi1a:But Gensokyo is under my jurisdiction. If you make a mess up top, that's a lot of extra work on my end.
+
+Utsuho4c:Uh... That means you're trying to stop me, right? Then I'll stop you from stopping me!
+
+<end>
+
+<ChatID:51>---------------------------------------
+//空vs.萃香
+
+Suika6c:Hey, you're that dumb pet crow from the Komeijis' place.
+
+Utsuho0d:Wait, dumb?
+
+Suika1c:You never seemed like a bad girl though. Did you misunderstand somethin' after getting the power of a god?
+
+Utsuho4a:I didn't misunderstand! I can do anything now!
+
+Utsuho1c:And that means I'm not afraid of anything, even an oni!
+
+Suika1b:You've got guts. Time to teach you a little lesson.
+
+<end>
+
+<ChatID:52>---------------------------------------
+//えりくる
+
+Kurumi2a:Eek! Elly, at this rate I'm gonna be beef jerky!
+
+Elliy2a:I'm about to be toast myself!
+
+Utsuho4b:All this complaining. If you hate it so much here then why not just go home?
+
+Utsuho5e:Oh, but the crows would love a good spit roast, huh?
+
+Kurumi4a:...Was it just me, or did she just say something really scary?
+
+Elliy1a:Let's pretend we didn't hear that and stay calm. We'll just do our best to make sure Utsuho never reaches the surface!
+
+<end>
+
+<ChatID:53>---------------------------------------
+//空vs.神奈子
+
+Kanako1b:Stop this, Utsuho! Have you truly forgotten us?
+
+Utsuho4b:I told you, I don't remember you at all!
+
+Kanako0b:It's true that you now hold an incredible power.
+
+Kanako1b:But is this really what you wanted?
+
+Utsuho4a:I dunno what you're talking about, but I love hearing you praise my power.
+
+Utsuho4c:There's plenty more where that came from!
+
+<end>
+
+<ChatID:54>---------------------------------------
+//空vs.諏訪子
+
+Suwako4a:I can't believe we just completely slipped your mind.
+
+Suwako4b:Still, it's better than remembering and betraying us, I guess.
+
+Utsuho4b:You just keep talking about this stuff I don't get.
+
+Suwako0a:Forget it, it doesn't matter anymore. First priority is resolving this incident.
+
+Suwako0d:But I still have faith that you'll do right by us once this is over.
+
+Utsuho1c:Stop making things up!
+
+<end>
+
+<ChatID:55>---------------------------------------
+//空vs.美鈴
+
+Meiling1a:If you're going to attack the surface, then we'll just have to stop you here!
+
+Utsuho1a:You think someone like you can stop me?
+
+Utsuho1a:I have the power of a god! You're just a youkai!
+
+Meiling1b:Geez, sounds like someone needs to be slapped back to their senses!
+
+<end>
+
+<ChatID:56>---------------------------------------
+//空vs.ナズーリン
+
+Utsuho1a:You're just a rat who won't sit still. I'm gonna blow you away!
+
+Nazrin0b:So a weak youkai gets a little power and it goes straight to her head, huh?
+
+Nazrin4c:The higher you stand, the more important it is to take a good long look at your surroundings.
+
+Utsuho1a:That's just an excuse of the weak! I mean, look at how strong I've gotten!
+
+Nazrin6b:You're just a vessel for someone else's power... although I'll admit it's a LOT of power.
+
+<end>
+
+<ChatID:57>----------------------------------------
+//空vs.まくら
+
+Makura1b:Are you seriously considering conquering the surface?
+
+Utsuho1d:If you're gonna say I can't do it, I'll show you how wrong you are!
+
+Utsuho1g:With this power, I can do anything!
+
+Makura1c:The heat has taken over her mind, words won't get through to her.
+
+Makura2a:(...The old Utsuho was so pure and straightforward.)
+
+Makura2b:(She must have been twisted by the power of nuclear fusion, right?)
+
+Utsuho1f:Pay attention, here I come!
+
+Makura2a:R-Right!
+
+Makura2b:(Oh dear, I was getting too caught up in my thoughts.)
+
+Makura1c:(For now, I should focus on getting her to settle down.)
+
+<end>
+
+<ChatID:58>----------------------------------------
+//空vs.メーコ
+
+Meko1b:Utsuho, if you use your power like that, then—
+
+Utsuho1d:It'll be awesome, right? I'm not the useless me anymore!
+
+Meko1c:Maybe that's true, but—!
+
+Meko1f:Calm down, Utsuho! This isn't you!
+
+Utsuho0e:Not me...?
+
+Meko0g:If you push yourself like this, you'll make the people around you sad...
+
+Meko1d:Aren't you the one who taught me that?!
+
+Utsuho1b:I don't even know who you are!
+
+Meko1d:I'm talking about the future! But to get you there, I'll have to beat you now!
+
+<end>
+
+<ChatID:59>----------------------------------------
+//空vs.空
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Utsuho0c:Unyu? She looks just like me?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Utsuho0a:Yeah, but we're a little different.
+
+Utsuho4b:Cuz I don't use Lord Yatagarasu's power like that!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Utsuho0e:Hmph! Who are you to be talking down to me like that?
+
+Utsuho1e:I'm gonna conquer the surface, and I'll show no mercy to anyone who gets in my way!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Utsuho4c:And I'm gonna stop you before you make anymore trouble for Miss Satori!
+
+</nomove>
+
+<end>
+
+<ChatID:60>----------------------------------------
+//空vs.お燐
+
+Utsuho0e:Did you come to cheer me on, Orin?
+
+Orin1b:No way. You need to stop this!
+
+Orin3a:Do you really think taking over the surface would make Miss Satori happy?
+
+Utsuho0c:Miss Satori...?
+
+Orin1b:Right. So calm down and we'll just—
+
+Utsuho1d:But I finally got a special power that can help her!
+
+Orin1f:You don't need a special power to be yourself!
+
+Orin2b:There has to be another way! We can find it together!
+
+Utsuho2d:B-But I...!
+
+<end>
+
+<ChatID:61>----------------------------------------
+//空vs.さとり
+
+Satori0a:Okuu, I hear you obtained the power of the sun for us.
+
+Utsuho0a:Oh! Miss Satori!
+
+Satori0a:I appreciate the thought, but—
+
+Utsuho0a:Right, take a look at this!
+
+Utsuho0a:Now I can be useful to you and Koishi!
+
+Satori0a:Okuu...
+
+Satori0a:(...Once again I'm made to realize how all this came out of her pure feelings.)
+
+Satori0a:(But if I'm to restrain her, it won't be through words but through danmaku.)
+
+<end>
+
+<ChatID:62>----------------------------------------
+//空vs.こいし
+
+Utsuho0a:Oh, you came all the way down here, Miss Koishi?
+
+Utsuho0a:Hold on just a bit and I'll give you the whole surface as a present.
+
+Koishi0a:What...?
+
+Utsuho0a:There's a big bright sun up there, it looks so fun.
+
+Koishi0a:Hmm... I like it on the surface too, but...
+
+Koishi0a:Even without the real sun, being warm feels so good. I never knew that, and you didn't either.
+
+<end>
+
+<ChatID:63>----------------------------------------
+//
+
+<end>
+
+<ChatID:64>----------------------------------------
+//C54：空vs.非想天則
+
+Tensoku0a:...
+
+Utsuho1c:A metal giant... But I'm not scared of anything anymore!
+
+Tensoku0a:...!
+
+Utsuho4a:Heh heh, you won't run? Perfect!
+
+Utsuho1f:Time to test how much heat it takes to melt you!
+
+<end>

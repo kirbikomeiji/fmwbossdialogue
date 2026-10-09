@@ -1,0 +1,326 @@
+﻿○Bルート第七十一話「夢と幻の淵へ
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: reach near bed
+ 4: 3PP
+ 5: clear
+ 6: lose
+18-96: get to the destination (each char)
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<BG=bg_talk_Black.png,fade=1,color=1,title=*bg_Unknown,bgm=bgm_talk_interlude01>
+
+<hide=all>
+
+Shitone0e:This feeling...
+
+Shitone0a:Heh. It seems Makura has reached the Dreamscape.
+
+Shitone0c:No doubt the seed of doubt she gained from talking to me has taken root.
+
+Shitone0b:Slowly but inevitably, I'll make you remember your true self.
+
+Shitone0c:...Oh? Others have entered the dream too.
+
+Shitone0a:Swarming like insects. I don't know what they intend, but...
+
+Shitone0e:Well, outsiders are of no concern to me.
+
+Shitone0f:I can't wait to meet her.
+
+</hide>
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP（出撃前）
+
+Akyu1a:We made it, it's Mugenkan.
+
+Korin1b:How nostalgic. We haven't been here since the Dream Incident, have we?
+
+Elliy5a:Do you even remember where the entrance to the Dreamscape is?
+
+Elliy0a:Look, over there.
+
+<pause>
+
+Yugi0c:Oh yeah, I remember that weird hazy thing.
+
+Parsee3a:It's not like mana OR spiritual energy, it's...
+
+Yukari0d:The overflowing light of dreams. Going deeper should continue on to the Dreamscape.
+
+Kogasa2b:There's another dream world inside the Dream World?!
+
+Yamame1d:Yeah, it's kinda confusing, but don't let your guard down.
+
+Star3a:Right, if this is the same place as back then, then...
+
+<pause>
+
+Orin1b:Sheep familiars! Well, obviously—I mean, this happened last time too.
+
+Yorihime0c:Then let's each make our way to the Dreamscape while defeating the sheep in our path.
+
+Yorihime0b:Six minutes should be more than enough to—
+
+Toyohime0b:Oh my, isn't that a bit much? Do we really need six whole minutes as we are now?
+
+Meko4c:Huh...?
+
+Mima0d:Hmph, you've got a point. It'd be boring to do this just like last time.
+
+Mima1c:We can end this in three minutes!
+
+Sunny4c:Bwuh? Are you serious?
+
+Luna6a:But some of us haven't even been deployed since we started this dream journey...
+
+Minoriko3b:And others are stronger than ever this time around.
+
+Ran1a:Then let us gather our elites and break through in one push.
+
+Akyu1a:Prepare to deploy, everyone!
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP（出撃後）
+
+Merlin3d:Alright, let's go! Into the hazy thing!
+
+Meko1e:A lot of us have never fought in a dream before.
+
+Meko0c:For anyone who's not used to it, just leave it to us!
+
+Hatate3d:Looking pretty smug for a Mehko!
+
+Lyrica3d:Well, she's never gotten to be the expert before, so it must feel pretty great!
+
+Patchouli0d:But there shouldn't be anything to worry about.
+
+Koakuma0a:Right, even though it's a dream, it doesn't feel any different from reality.
+
+Koakuma3c:If anything, it's almost like we've always been here.
+
+Toyohime1a:You can picture it as your real world soul possessing your Dream World body.
+
+Toyohime0a:Therefore, your body will be just as tempered as it is in your dreams.
+
+Toyohime1a:It should also inherit your mind and all your skills from reality.
+
+Elliy3b:Wow, dreams sure are convenient!
+
+Cirno5g:So basically, we're the strongest!
+
+Sakuya0c:It's a somewhat strange feeling, but we'll be counting on you to lead the way, Makura.
+
+Makura0h:It would be my pleasure.
+
+Suwako3a:You sure we're ready? The entrance to the Dreamscape is right here.
+
+<pause>
+
+Suwako0d:And once you go through, you can't come back, so be careful!
+
+Kanako1a:Then without further ado, advance!
+
+<end>
+
+<ChatID:3>---------------------------------------
+//ベドの付近まで移動
+
+Reimu0e:Hm? Isn't that...?
+
+<pause>
+
+Koakuma5b:A... bed? Did you use it, Makura?
+
+Makura0a:Indeed, I spent almost all of my time here shortly after coming to Gensokyo.
+
+Makura0b:It was the ideal place to rest my body, what with the Dream World being so nearby.
+
+Yuka2d:Now that you mention it, you did seem awfully weak when we first met.
+
+Makura3a:...I cannot even begin to thank you enough for offering me a place to stay back then.
+
+Kurumi3c:Come to think of it, you don't talk about your past much, Makura.
+
+Makura1c:...It's not a pleasant topic.
+
+Meiling0d:Really? It can't ALL be that bad.
+
+Sakuya5c:Please don't trample so easily over someone else's life story.
+
+Komachi3c:Well, if you ever feel like opening up, I'm always here to lend an ear.
+
+Komachi1c:I may not look it, but everyone says I'm a great listener.
+
+Sakuya5a:And not in love with your own voice? Surely you're mistaken.
+
+Keine0c:Chatting is all well and good, but we really should be focusing on the battle.
+
+Star1c:Right, I'm sensing something nearby...
+
+<pause>
+
+Kisume2b:...!
+
+Mokou1c:Reinforcements, huh? They're enthusiastic, I'll give 'em that.
+
+Remilia1d:What a shame, looks like we'll have to continue this conversation later.
+
+Sho1b:Yes, now the time to bust through!
+
+<end>
+
+<ChatID:4>---------------------------------------
+//3PP（または一定数の敵を撃墜時）
+
+Kurumi1c:Talk
+
+<end>
+
+<ChatID:5>---------------------------------------
+//クリア後演出
+
+Reimu2a:Ugh, so this is...?
+
+Marisa2b:Everyone here?!
+
+Akyu1b:I've confirmed that we're all present and accounted for!
+
+Kanako1d:It would appear we've arrived in the Dreamscape. Still only the entrance, of course.
+
+Tewi3a:As I recall, Makura put up a big wall here.
+
+Makura0b:Indeed, it was to prevent you all from intruding.
+
+Makura0f:Speaking of which, how DID you break it? It was quite a powerful barrier.
+
+Elliy3b:Awakened Tenshi just slashed right through it!
+
+Satori0e:Apparently because she possesses the mind of a human, unlike other celestials.
+
+Satori3e:And as she already realizes that, trying to stop us with the same barrier is a fool's errand.
+
+Tenshi6a:Right, I'll just cleave it right in two. Easy as—
+
+<pause>
+
+Tenshi5b:Wait, what?
+
+Iku0e:Is something the matter?
+
+Tenshi2d:...What is this? It feels different from before.
+
+Meko0b:Huh? Different how?
+
+Ran6b:This entire world is a recreation of the past. How could something be different?
+
+Tenshi4a:Hmm... It's like the thoughts, the temperaments...
+
+Makura1c:Now that you mention it, I do feel a different presence within the dream.
+
+Makura2a:This coarse sensation, could it be?
+
+<pause>
+
+Makura1b:...!
+
+Meko1b:What's wrong, Lady Makura?!
+
+Makura2a:...There's no mistaking it. My dream has been invaded.
+
+<pause>
+
+Makura2a:Ngh!
+
+Kurumi1c:Makura?!
+
+Keine1a:What is it, what's happening?!
+
+Makura1b:Be careful, everyone! It's...!
+
+<Code=(cursor_jump_unit,SHIP,0,0,1)>
+
+<SE=se_talk_alarm01.ogg,wait=1>
+
+Akyu1a:The meters are going crazy! It's like nothing I've seen before!
+
+Reimu1b:Well, whatever it is, I'm getting the feeling it's not good.
+
+Daiyosei0a:I can feel it too. It's like some great darkness...
+
+Shinki2a:Is this... malice?
+
+<nomove>
+
+<hide=all>
+
+<Code=(cursor_jump,256,256,1)>
+
+Shitone0a:Ah ha ha ha ha!
+
+</hide>
+
+</nomove>
+
+Meko3b:...!
+
+<pause>
+
+<nomove>
+
+<hide=all>
+
+<Code=(cursor_jump,256,256,1)>
+
+Shitone0a:Thank you for finally making it this far.
+
+Shitone0a:To the place where I, born in the Dream World, have the most power.
+
+Shitone0a:The Dreamscape!
+
+</hide>
+
+</nomove>
+
+Marisa0d:Wait, that voice...
+
+Reimu1a:No doubt about it!
+
+<nomove>
+
+<hide=all>
+
+<Code=(cursor_jump,256,256,1)>
+
+Shitone0a:Hee hee. Hee hee hee!
+
+</hide>
+
+</nomove>
+
+<end>
+
+<ChatID:6>---------------------------------------
+//全滅時
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_players,>,0)>
+
+Korin2b:Ngh, in a place like this?!
+
+Akyu4b:What a fate, to die at sea... in a lake...
+
+</Cond>
+
+<end>

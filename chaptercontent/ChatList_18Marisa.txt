@@ -1,0 +1,889 @@
+﻿○魔理沙第十八話「紅の館に手を出すことは
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: Enemy ally
+ 3: next PP after enemy ally
+ 4: clear
+ 5: ADVB
+ 6-12: battle vs. HTenguB
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<MAP=5,FROM=紅魔館,TO=紅魔館,name=Scarlet Devil Mansion,icon=5>
+
+<BG=*bg_talk_Koumakan_Gate.png,fade=0,color=1,title=*bg_Koumakan_Gate,bgm=bgm_talk_aoki>
+
+<SE=se_talk_fly02.ogg,wait=1>
+
+Meiling3b:Brrr. It's been getting chillier lately... 
+
+Meiling3a:I'll have to think of a way to stay warm before winter comes.
+
+<hide=all>
+
+Kurumi3d:How about curling up in bed?
+
+</hide>
+
+Meiling5a:No, no, I wouldn't dare to lay out bedding at the front gate—
+
+Meiling0b:Wait, who's there?
+
+Kurumi3b:Heehee, it's us!
+
+Elliy3b:Hello Meiling, it's been a while.
+
+Meiling0a:Elly, and Kurumi too!
+
+Elliy5a:It's been a few months, hasn't it? Have you been doing well?
+
+Meiling5a:Of course. And what about you? How are things at your new home?
+
+Elliy3a:Pure bliss. Anywhere is the happiest place on earth, if it's with Yuuka.
+
+Kurumi5b:I've been studying cooking! I can crack an egg in half now!
+
+Meiling5a:Oooh, that's impressive. You'll have to show me sometime.
+
+Meiling0a:Anyway, why the sudden visit?
+
+Elliy0a:We're on break so we came to play. Yuuka's gone on an outing and said we can do what we want while she's out.
+
+Kurumi6b:Do you think we could stay overnight? I'd like to eat one of Sakuya's meals...
+
+Meiling5a:I think it'd be fun, but it's not my decision to make. Have you asked the mistress yet?
+
+Meiling0a:If she's not up yet, you can always ask Lady Patchouli too.
+
+Elliy5c:Ugh, Patchouli's going to be a hassle... 
+
+Elliy0a:Now that I think about it, has anything changed at the mansion?
+
+Meiling0a:Hmm, recently the mansion's been fairly quiet. Though there was that one time with Sakuya...
+
+Elliy5a:Oho.
+
+Kurumi0a:Elly, I thought we were coming to see Remilia?
+
+Elliy3a:That can wait! It's been way too long since I last talked with Meiling. Just sit there and wait.
+
+Elliy0a:Now, where were we?
+
+Meiling0a:Well, Sakuya put a bamboo flower in a cake and served it during tea time.
+
+Elliy3b:Go on, go on.
+
+Kurumi4a:Aaaah, this is going to take a while...
+
+<BG=bg_talk_Koumakan_Int.png,fade=1,color=1,title=bg_Koumakan_Dining,bgm=bgm_talk_gag>
+
+<hide=all>
+
+Komachi5a:Sakuya, more tea!
+
+</hide>
+
+Sakuya0a:Right.
+
+<hide=all>
+
+Komachi3b:Sakuya, I need more sugar!
+
+</hide>
+
+Sakuya5a:...Right.
+
+<hide=all>
+
+Komachi1b:Sakuya, more tea cakes!
+
+</hide>
+
+Sakuya5c:...
+
+<hide=all>
+
+Komachi4a:Hmm? What's the holdup? Get a move on, chop-chop.
+
+</hide>
+
+Sakuya5a:Komachi, what exactly is your problem?
+
+Komachi1c:Nothing! Just doing my best impression of your mistress. I was pretty convincing, right?
+
+Sakuya6a:Certainly not. For one thing, the mistress would demand milk, not just sugar.
+
+Komachi3b:Only 'cause you put in all that crazy stuff that's got no place in proper Western tea.
+
+Komachi0a:Poor girl. That stuff's gonna rot her tongue.
+
+Sakuya5b:At any rate, you've been lounging about all day now. Shouldn't you be working?
+
+Komachi1a:Ah, I'm just working at my own pace. Or are you saying that I'm being a bother?
+
+Sakuya0a:I wouldn't go that far. You aren't interfering with my own work.
+
+Maid0a:...
+
+Maid0a:(Hey, that woman came over for tea again.)
+
+<update>
+
+Maid0a:(Yeah, I started seeing her after summer ended...)
+
+</update>
+
+Maid0a:(I hear she's a friend of the head maid. But isn't she a shinigami? I wonder how they met?)
+
+Sakuya5b:You there, is something wrong?
+
+Maid2a:No, it's just that it's almost time for the evening meal so we were wondering what prep work needed to be done...
+
+Sakuya0a:My, you're right. Would you like something to eat too, Komachi?
+
+Komachi1c:Sure, who am I to say no to that?
+
+Sakuya6a:Alright. I hope you don't mind something simple.
+
+Komachi1c:Relax, I'm not gonna demand you give me the same dishes the ladies of the house get.
+
+Komachi0a:That reminds me, I haven't seen the magician around today. Did she go out somewhere?
+
+Sakuya5b:Far from it. Lady Patchouli is currently seeing to some guests.
+
+Sakuya0a:A pair that have become a regular sight around here...
+
+<BG=bg_talk_Koumakan_Library.png,fade=1,color=1,title=bg_Koumakan_Library,bgm=bgm_talk_aoki>
+
+Marisa0a:So yeah, since we're planning on charging Youkai Mountain, we came here hoping for a little help from the Scarlet Devil Mansion.
+
+Alice4a:We understand this is very sudden, but we have nowhere else to turn.
+
+Patchouli0a:...I suppose I should have expected something like this when you came in through the front door of all things.
+
+Patchouli4a:In any case, I understand what's going on. I've sent a message through Koakuma, so discuss this with Remi.
+
+Marisa0b:Gotcha. Be a huge help if we could borrow your head maid...
+
+Marisa0a:It'd be cool to see you in a real fight for once, too.
+
+Patchouli0c:Not interested. I see no reason to go.
+
+Marisa4a:Mrph...
+
+Alice0d:I had a feeling you'd say that. But don't you think it's a fine chance to test the fruits of your research?
+
+Alice0d:And more to the point, we'd feel a lot better having your power on our side.
+
+Patchouli3a:Hrm...
+
+Marisa0a:Alice is right. Besides, if you don't get out more you're gonna start growing mushrooms outta your body.
+
+Patchouli4d:...
+
+Alice1b:Marisa, you're not helping!
+
+Patchouli0a:...If you're finished here, please see yourselves out. Any talks you have with Remi can be held in another room.
+
+Alice4a:(Now look what you've done. Your smart mouth soured her mood.)
+
+Marisa3d:(Oh come on, I only said that for her own good.)
+
+Remilia0a:I see you lot are as rowdy as ever. I could hear you from the hallways.
+
+Koakuma3b:I'm back, Lady Patchouli.
+
+Alice2b:...Oh my.
+
+Patchouli0b:How unusual. It's not every day you come here unbidden. I believe I told Koakuma to relay any messages you had.
+
+Remilia0a:There was just a book I wanted to read anyway.
+
+Remilia0b:Now then, am I to understand you two want my assistance?
+
+Marisa0a:Nailed it. Ever heard of Youkai Mountain?
+
+Remilia6a:I've heard rumors about it. It's supposed to be home to a fair amount of fairly strong youkai, right?
+
+Alice0c:Not quite. It's more like an excessive amount of excessively strong youkai.
+
+Remilia4a:Hoh, you don't say. So, what about it?
+
+Marisa0b:There's this shrine up there picking a fight, so we're going with Reimu to give 'em a scolding.
+
+Marisa4b:But the mountain youkai aren't gonna let us pass quietly, and we don't like our chances on our own. So we could use some extra muscle.
+
+Patchouli0a:...And that's why they want our help.
+
+Remilia6a:Hmm. So you're basically asking if I'll trounce some meddling youkai for Reimu's sake.
+
+Remilia0a:Well, we've heard their story. Patchy, what will you do?
+
+Patchouli0c:I'll pass. I have no incentive to involve myself here.
+
+Koakuma3b:Oh, you're passing it up? I thought it would be a nice occasion for an outing, and it's healthy to get out sometimes.
+
+Patchouli4a:Mind your own business. I do much better in the shade.
+
+Marisa0b:So how about you, Remilia? I bet you'd like a good fight.
+
+Remilia0b:Actually, I'll also pass.
+
+Marisa6b:Really?!
+
+Alice0a:How surprising, I'd have thought you'd be all for this.
+
+Remilia6a:Why should I take the fore in a fight against foes I have nothing to do with?
+
+Remilia0a:More to the point, shrine affairs aren't remotely entertaining to me.
+
+Marisa3a:But, come on...
+
+Remilia3d:I'd consider it if this outing was grander and more amusing, but unfortunately for you, it isn't.
+
+Alice4a:...There's no point trying to force the issue. It's a pity, but let's look elsewhere.
+
+Koakuma4a:I'm sorry we couldn't help...
+
+Remilia0a:Well, since you came all this way, the least I can do is see you out personally.
+
+Marisa4b:Fine, I GUESS we'll go peacefully...
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP
+
+<Code=(icon_set_direction,Marisa,Alice,0)>
+
+Marisa0b:Man, I thought they'd grumble but come along anyway.
+
+Alice0a:I can sympathize with not wanting to stick their nose into a troublesome situation.
+
+Remilia0a:I don't mind trouble. But if you're going to bring me some, it should be more entertaining.
+
+Remilia3d:I'll still drop by the shrine to visit, so tell Reimu I said hi...
+
+Remilia0b:...Hm?
+
+Alice0a:What's wrong?
+
+Remilia4a:I sense an odd presence... There!
+
+<Code=(icon_set_direction,Marisa,FD_LEFT,0)>
+
+<pause>
+
+Karasu0a:...
+
+<Code=(icon_set_direction,Alice,FD_RIGHT,0)>
+
+Alice1a:That's one of the youkai crows the tengu use!
+
+Marisa1a:So they're keeping tabs on us!
+
+Remilia0a:Hmm... It looks like a weakling.
+
+Remilia6a:Yes, this certainly isn't worth our time. Hurry and clean up this mess.
+
+Marisa1a:I was gonna do that anyway!
+
+<end>
+
+<ChatID:2>----------------------------------------
+//烏全滅時
+
+Marisa0a:Well, that was easy.
+
+<nomove>
+
+<Code=(cursor_jump,336,208,1)>
+
+Remilia0a:If the best these mountain youkai can do for surveillance is small birds, I'm not impressed.
+
+</nomove>
+
+Alice0a:Actually, something's bothering me about this. It seems odd for them to dispatch lower-ranking familiars without...
+
+Alice1a:...!
+
+<pause>
+
+HTenguB0a:I don't appreciate the way you humans treated our familiars.
+
+HTengu1a:Our mission is purely observation, but you won't find us as soft as the crow tengu!
+
+<Code=(icon_set_direction,Marisa,HTenguB_en,0)>
+
+Marisa1a:Ah, tengu. I knew the familiars had to have a commander hiding somewhere!
+
+<nomove>
+
+<Code=(cursor_jump,336,208,1)>
+
+Remilia0b:There's quite a lot of them as well. I thought our gatekeeper was at the front gate...
+
+</nomove>
+
+<Code=(cursor_jump,320,656,1)>
+
+<nomove>
+
+<hide=all>
+
+Meiling1a:GET BACK HERE!
+
+</hide>
+
+</nomove>
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,336,208,1)>
+
+Remilia4a:There you are, Meiling. And... Oh my.
+
+</nomove>
+
+Meiling2a:Sorry, Mistress! They just jumped the gate without any warning...
+
+Elliy3a:Nice to see you again, Remilia.
+
+Kurumi3d:Ah, Alice and Marisa are here too. How've you been?
+
+<Code=(icon_set_direction,Alice,Elliy,0)>
+
+Alice0d:Elly. Kurumi. Hello to you too.
+
+<nomove>
+
+<Code=(cursor_jump,336,208,1)>
+
+Remilia0a:There's been quite a few guests today. I trust Yuuka's doing well?
+
+Remilia1b:But this isn't the time for that. You, tengu. You're quite brave to trespass on my property.
+
+</nomove>
+
+HTenguB0a:Remilia Scarlet, the lady of the Scarlet Devil Mansion. This matter does not concern you.
+
+<nomove>
+
+<Code=(cursor_jump,336,208,1)>
+
+Remilia0b:Doesn't concern me? You dogs are stinking up my garden.
+
+</nomove>
+
+HTenguB0a:...If you're trying to provoke me, you must be unaware of the might of the mountain youkai.
+
+<nomove>
+
+<Code=(cursor_jump,336,208,1)>
+
+Remilia1b:Quiet, dog. The people are talking. Youkai of your level aren't worth my personal intervention.
+
+Remilia3e:Oh, Sakuyaaa? Are you there?
+
+</nomove>
+
+<pause>
+
+<Code=(icon_set_direction,Sakuya,FD_RIGHT,0)>
+
+Sakuya5b:At your service. What's all the commotion?
+
+Komachi1a:Oh hey, tengu. That's a pretty unusual sight around here.
+
+<nomove>
+
+<Code=(cursor_jump,336,208,1)>
+
+Remilia0a:Ah, you have a guest as well. Perfect, you can lend a hand too.
+
+Remilia1a:Remove these mannerless intruders from the premises.
+
+</nomove>
+
+Sakuya0a:Understood. I'll clean up this mess and have dinner readly shortly.
+
+Komachi3b:Why am I being dragged into this? ...Well, normally I'd complain, but I'm sure something brought us together.
+
+Marisa0b:Wow, there's a whole bunch of people now. And they're all helping out?
+
+Alice0d:It would seem so. How reassuring.
+
+<end>
+
+<ChatID:3>----------------------------------------
+//味方増援の次のPP
+
+Marisa0b:So, Elly. Kurumi. Why are you two here? Did Yuuka give you the boot or something?
+
+Elliy1a:Wow, rude. We're just here to visit. We definitely didn't sign up for THIS.
+
+Kurumi0b:Yeah! Could you tell us why we're fighting later?
+
+Komachi1a:I'd like to know too.
+
+Alice0d:By the way, I haven't seen you before. Are you a new maid?
+
+Sakuya5c:She'd make a terrible maid. One slacker is more than enough.
+
+Meiling3a:Um, Sakuya, may I ask who you're referring to...?
+
+Komachi0a:Wow, I'm low-key insulted. I'm Komachi Onozuka, a friend of Sakuya.
+
+Alice0a:Really. You have a friend, hm?
+
+Sakuya5b:Yes, what about it?
+
+Alice0d:Oh, nothing. I look forward to working with you all.
+
+<end>
+
+<ChatID:4>----------------------------------------
+//勝利条件充足時
+
+Sakuya0a:And that settles this battle.
+
+Komachi1c:Wasn't what I expected. Are all tengu as weak as you?
+
+<Cond=(FIND_UNIT,HTenguB_en,enemy,!=,-1)>
+
+HTenguB5b:Argh, I can't believe this is happening...
+
+Marisa0a:Not so great when YOU'RE the ones outnumbered, is it?
+
+HTenguB0a:...So it's true. Humans do become more troublesome when they join forces.
+
+HTenguB1a:But don't get ahead of yourselves. This is far from representative of Youkai Mountain's might!
+
+<nomove>
+
+<Code=(cursor_jump,336,208,1)>
+
+Remilia1a:I'm glad to hear it. So, when will you show me your true power?
+
+</nomove>
+
+HTenguB5a:...Retreating.
+
+</Cond>
+
+<Cond=(FIND_UNIT,HTenguB_en,enemy,==,-1)>
+
+HTengu2a:Argh, I can't believe this is happening...
+
+Marisa0a:Oh, you don't like it when WE'RE the ones stronger in large numbers, huh?
+
+HTengu0a:...So it's true. Humans do become more troublesome when they join forces.
+
+HTengu1a:But don't get ahead of yourselves. This is far from representative of Youkai Mountain's might!
+
+<nomove>
+
+<Code=(cursor_jump,336,208,1)>
+
+Remilia1a:I'm glad to hear it. So, when will you show me your true power?
+
+</nomove>
+
+HTengu1a:...Retreating.
+
+</Cond>
+
+<pause>
+
+Meiling5a:Wow, that's the mistress for you. She faced a tengu without even flinching.
+
+<nomove>
+
+<Code=(cursor_jump,336,208,1)>
+
+Remilia3b:Of course. You can't expect me to be afraid of a mere underling.
+
+</nomove>
+
+Alice0d:But if it was just Marisa and I, we might have been in trouble. I should thank you.
+
+Komachi1c:Hey, we all gotta look out for each other, y'know? No worries.
+
+Komachi0a:But I'd like to hear the full story if we're taking a breather.
+
+<nomove>
+
+<Code=(cursor_jump,336,208,1)>
+
+Remilia0a:I'm sure you're all tired after cutting loose, so feel free to rest in the mansion. Sakuya, see to them, if you would.
+
+</nomove>
+
+Sakuya6a:Yes, ma'am. I'll get tea ready for everyone.
+
+<end>
+
+<ChatID:5>----------------------------------------
+//ADVB
+
+<MAP=5,FROM=紅魔館,TO=紅魔館,name=Scarlet Devil Mansion,icon=2>
+
+<BG=*bg_talk_Koumakan_Int.png,fade=0,color=1,title=*bg_Koumakan_Int,bgm=bgm_talk_aoki>
+
+Alice0a:...And that's why we're looking for allies.
+
+Meiling0b:Oh, so THAT'S why you came here.
+
+Marisa0b:No luck on that front, though. Speaking of that, where'd Remilia head off to?
+
+Elliy3a:She went to fetch a chess set we could all play with.
+
+Kurumi3b:Eh heh heh, it's gonna be a sleepover! I can't wait!
+
+Marisa4b:...Not a care in the world, those two. I'm starting to think explaining this to them was a waste of breath.
+
+Sakuya5b:Your story sounded reasonable enough... I'm surprised you aren't suggesting crushing the other shrine outright.
+
+Marisa0b:Yeah, I know it's not like us. But Reimu's oddly deep in thought over this, so it's hard for me to adjust.
+
+Komachi0a:Boy, this sounds complicated.
+
+Kurumi3c:By the way, I've been wondering about something since I met you. You're carrying a scythe, so are you a gatekeeper?
+
+Elliy4b:No, Kurumi. Not all gatekeepers carry scythes.
+
+Komachi1b:Hah, well I guess you could call me a gatekeeper. I'm a ferrywoman of the Sanzu River, a shinigami.
+
+Kurumi6b:What?! Then does that mean you're here to take our lives?!
+
+Komachi1c:Nah. My job's to carry spirits to Higan.
+
+Marisa6b:A shinigami, huh? That's a real ominous figure right there.
+
+Marisa0a:Might as well introduce myself. I'm Marisa Kirisame, a magician living in the Forest of Magic.
+
+Komachi0a:Ooh, I've heard rumors of a forest magician in Higan. Good ones, of course.
+
+Marisa6a:You don't say? I guess tales of my amazing feats have finally crossed Gensokyo's borders!
+
+Komachi1c:You put on a puppet show during a recent festival, right? I hear it was a real sight to behold.
+
+Marisa4b:...That's a different magician. Alice, to be precise.
+
+Alice0d:Thank you, Komachi. I'm honored.
+
+Komachi0a:It's nothing big. But you know, I've only ever heard of your show. I'd love to see it sometime.
+
+Sakuya6b:Heh. My condolences on not being famous.
+
+Marisa3d:Shut it.
+
+Elliy5a:Anyway, I get what's going on now. It sounds kinda neat.
+
+Marisa0a:Don't suppose you feel like coming with us then?
+
+Kurumi3d:If you want more people, then sure. When do we leave?
+
+Alice0d:It's a little sudden, but tomorrow. We'll be gathering at the shrine.
+
+Komachi1a:Oho, tomorrow huh? If that's the case, I'll go too.
+
+Sakuya5b:What about your job, Komachi?
+
+Komachi1c:It's fine, it's fine. I'm sure I've met today and tomorrow's quota already.
+
+Komachi0a:In fact, shouldn't your group be coming? It's not like these people are strangers to you.
+
+Meiling3a:They're not, but we still have our own jobs to do, and the mistress, well...
+
+Remilia4a:Oh, are we still on this subject?
+
+Sakuya0a:Mistress.
+
+Marisa0b:"Still on it"? Uh, yeah? It's the whole reason we came here.
+
+Remilia3a:About that, actually... Sakuya and Meiling, what would you say to joining them for a short while?
+
+Sakuya5b:Ma'am...?
+
+Meiling0b:Both of us?!
+
+Alice0a:Why the sudden change of heart? Earlier you said you weren't interested.
+
+Remilia0b:I changed my mind when I saw those tengu.
+
+Remilia1a:They need to be taught a lesson if they think they can lay a finger on the Scarlet Devil Mansion.
+
+Sakuya5b:But Mistress, the two of us still have work to attend to.
+
+Remilia6a:The mansion can last without you for a day. Report back to me what their crying faces looked like.
+
+Sakuya6a:...Understood. Marisa, I trust you have no issues with this arrangement?
+
+Marisa0a:Nope, not a one. Thanks, Remilia!
+
+Elliy2a:Hey! Don't forget we're coming too!
+
+Kurumi3b:This is kind of like an all-day mountainside picnic. Sakuya, could you pack some bento boxes?
+
+Komachi1c:Hm, this is already shaping up to be pretty lively.
+
+<MAP=6,FROM=魔法の森,TO=魔法の森,name=Forest of Magic,icon=2>
+
+<BG=*bg_talk_Road_Night.png,fade=1,color=1,title=*bg_Forest,bgm=bgm_talk_insect>
+
+Marisa0a:Wow, talk about a relief. I was worried for a little while there.
+
+Alice0d:Yes, I would've never thought Yuuka's subordinates would join us.
+
+Alice0d:It would have been even better if Remilia and Patchouli had chosen to join us as well, of course...
+
+Marisa0c:Yeah, I feel like they should get out more. But if they don't wanna come, they don't wanna come.
+
+Marisa0a:Anyway, we've got a fighting force now. When we climb up Youkai Mountain tomorrow, those youkai aren't gonna know what... hit them...
+
+Marisa0b:...
+
+Alice0a:Marisa?
+
+Marisa4a:Ah, it's nothing bad. I was just thinking that we're gonna be up against Nitori.
+
+Alice0a:...Is yesterday still bothering you?
+
+Marisa0b:Kinda, yeah.
+
+Marisa4a:We were buddies in the last incident right? But now she's siding with that shrine maiden.
+
+Alice4a:There's nothing we can do about that. Nitori is a mountain youkai, and belongs to their society.
+
+Marisa0b:I get that. It's just, she was a good friend so I don't really want to think about fighting her.
+
+Alice0a:True enough. I understand your feelings there.
+
+Alice0c:But you're going to have to buck up regardless. After all, this is Youkai Mountain we're going up against.
+
+Marisa3a:I know, we can't just let other people take the shrine.
+
+Marisa0a:See you tomorrow. Wake me up if I sleep in.
+
+Alice0d:Alright, have a good night.
+
+<MAP=6,FROM=紅魔館,TO=紅魔館,name=Scarlet Devil Mansion,icon=5>
+
+<BG=*bg_talk_Koumakan_Int.png,fade=1,color=1,title=*bg_Koumakan_Remilia,bgm=bgm_talk_ningyo>
+
+Sakuya5b:...Checkmate.
+
+Remilia5b:Ugh, I've lost again. You don't hold back, not even against your mistress.
+
+Sakuya6a:I'll go up against anyone my mistress orders me to.
+
+Sakuya0a:Now, would you like another match? I'll go easier on you this time.
+
+Remilia5a:...No, it's alright.
+
+Sakuya0a:I see. In that case, shall I prepare a drink? Warm tea will help you relax.
+
+Remilia0a:Hmm, what to do... What are Elly and Kurumi doing?
+
+Sakuya5b:Lady Kurumi went to bed immediately after eating. It seems Lady Elly told her that sleeping and waking up early is the secret to good health.
+
+Remilia5b:Hm. I wonder why they even came?
+
+Patchouli0c:Maybe they simply can't keep up with your energy, Remi.
+
+Remilia0a:Ah, hello there, Patchy.
+
+Patchouli0a:I heard what happened. So in the end you decided to help them.
+
+Remilia3c:Yes, Sakuya and Meiling will be assisting them for a short while.
+
+Sakuya0a:It won't be long at all.
+
+Remilia0a:Do you take issue with my decision?
+
+Patchouli0c:I was just wondering what had gotten into you. Didn't you tell them no before?
+
+Remilia0b:Look, I was annoyed at the tone those tengu took with me, okay?
+
+Remilia0a:Besides, my interest has been somewhat piqued now.
+
+Patchouli0c:How so?
+
+Remilia0b:It's unusual for youkai to form a society of their own.
+
+Patchouli0a:I suppose that IS intriguing. And they're close by too.
+
+Remilia4a:Exactly. I can't join them, but what if you went out with them for a bit?
+
+Patchouli4a:...
+
+Patchouli0c:They're setting out tomorrow, right?
+
+<SE=se_talk_door_open02.ogg,wait=1>
+
+Flan3f:Patchouuuliii!
+
+Meiling6a:Young Mistress! If you run like that you could get hurt!
+
+Koakuma3b:I thought I'd find you here, Lady Patchouli.
+
+Sakuya5b:Meiling and Koakuma? Why have you brought the young mistress here?
+
+Meiling5a:Um, she wanted to find Lady Patchouli for some reason...
+
+Koakuma4a:...My apologies. She wore us down and we relented and brought her here.
+
+Remilia0b:And what's got you acting so dramatic?
+
+Flan1c:Oh, you're here? Whatever, I'm not here to talk to you.
+
+Remilia1b:Now, see here...
+
+Flan3d:Anyway, Patchouli! Teach me a spell to obstruct sunlight!
+
+Patchouli4c:A spell to obstruct sunlight...?
+
+Flan3b:Yeah, I heard from Meiling that Marisa and her friends are heading out somewhere. I'm going with them!
+
+Sakuya2a:Meiling, you had to open your big mouth...
+
+Meiling3a:Sorry, I didn't mean to blurt it out...
+
+Sakuya5c:Young Mistress, I'm afraid I must ask you to mind the mansion while I'm out. I'll make certain to bring you back some beautiful autumn leaves.
+
+Flan4c:I don't WANT some stupid leaves. I wanna play outside! I wanna go with Marisa!
+
+Remilia5b:Absolutely not. You are forbidden from leaving the mansion. Just play at home.
+
+Flan1d:Argh, you're always like this. You're gonna go off and have all the fun, aren't you?
+
+Remilia1b:I'm staying here too! I don't appreciate your needling.
+
+Koakuma4a:Here we go again...
+
+Meiling3a:Yep, nothing new here...
+
+Remilia1b:Don't just stand there, Meiling. You're her caretaker, so calm Flandre down.
+
+Meiling3a:Wait, you're giving me that job after riling her up?!
+
+Patchouli4a:I can't deal with this noise. Sakuya, prepare some tea for everyone present.
+
+Sakuya5b:Right away, ma'am.
+
+<end>
+
+<ChatID:6>----------------------------------------
+//白狼天狗vs.魔理沙
+
+Marisa2b:There's just a handful of you. You really think you can take us in a fight?
+
+HTenguB1a:Don't get cocky. We're more than enough for the likes of you.
+
+Marisa0b:If that was true, why'd you guys come out in a way bigger group yesterday?
+
+Marisa0a:If you were really enough, you could've driven us off yourselves.
+
+HTenguB1a:Oh, you're a real smart-aleck. I'll cut you down to size!
+
+<end>
+
+<ChatID:7>----------------------------------------
+//白狼天狗vs.アリス
+
+Alice1a:Sending youkai crows to scout us? That seems pointlessly roundabout to me.
+
+HTenguB3a:I thought crows would be more than enough for you. I guess I was a bit off the mark there.
+
+Alice1b:Frankly, I'm insulted. In that case, I'll fight you personally!
+
+<end>
+
+<ChatID:8>----------------------------------------
+//白狼天狗vs.咲夜
+
+HTenguB6a:A human servant? Go back inside and do some housecleaning or something!
+
+Sakuya0a:Ah, but I AM cleaning. I'm removing intruders with my knife.
+
+<end>
+
+<ChatID:9>----------------------------------------
+//白狼天狗vs.美鈴
+
+Meiling0b:Last time I was distracted by a conversation, but this time you're not getting away!
+
+HTenguB1a:So the devil's servant thinks she can challenge us?!
+
+Meiling1a:Your pride will be your downfall!
+
+<end>
+
+<ChatID:10>----------------------------------------
+//白狼天狗vs.小町
+
+Komachi0a:I was not expecting to fight tengu today. Things are pretty crazy on this side.
+
+HTenguB1a:What do you mean, "this side"...? If you stand against us, I'll show no mercy!
+
+Komachi1a:Yeesh, you've got a real stick up your bum, huh. Oh well, I've been getting out of shape lately. This should be a good workout!
+
+<end>
+
+<ChatID:11>----------------------------------------
+//白狼天狗vs.エリー
+
+Elliy0a:You're a tengu, right? You're not like the last one I fought.
+
+HTenguB6a:You fought a tengu?
+
+Elliy4a:Yeah, some crow tengu that liked to go "Ayaya" a lot. She made fun of me!
+
+HTenguB5a:...You must be talking about Shameimaru. She's bad news, even by crow tengu standards.
+
+<end>
+
+<ChatID:12>----------------------------------------
+//白狼天狗vs.くるみ
+
+Kurumi1a:Okay, I'll fight you in Remilia's stead! I've gotta stand in for my fellow devil!
+
+HTenguB5a:Look, not to be That Guy, but you really have no business comparing yourself to Remilia Scarlet...
+
+Kurumi2a:Waaah, that was ice cold!
+
+<end>
+
+<ChatID:13>----------------------------------------
+//天狗Bvs.まくら
+
+HTenguB3c:Your movements are sluggish! Did you really think you'd be a match for a tengu?
+
+Makura1a:I won't deny that I'm slow, but there's more to that in a danmaku battle.
+
+Makura3a:How about you? Shall I put you to sleep with my dreams?
+
+HTenguB2b:Did her aura just change?!
+
+<end>
+
+<ChatID:14>----------------------------------------
+//天狗Bvs.メーコ
+
+HTenguB2b:A youkai power level of only 5... What trash.
+
+Meko1d:WOW, rude. I'm doing my best here, okay?!
+
+HTenguB3a:Sheep are there to be eaten by wolves!
+
+Meko5c:And who decided that? I'll give this my all and I'll WIN!
+
+<end>

@@ -1,0 +1,1112 @@
+﻿○魔理沙第三十七話「地上の彗星たち
+
+========================================
+ChatID: Contents
+========================================
+0: ADVA
+1: 1PP-1
+2: 1PP-2
+3: 2PP
+4: 3PP
+5: Wriggle spell start
+6: about spellcard
+7: clear
+8: ADVB
+9: lose
+10-:
+
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<MAP=3,FROM=博麗神社,TO=博麗神社,name=Hakurei Shrine,icon=2>
+
+<BG=*bg_talk_Shrine_Night.png,fade=0,color=1,title=*bg_Shrine,bgm=bgm_talk_ningyo>
+
+<SE=se_talk_fly01.ogg,wait=1>
+
+Marisa0c:Phew, we finally made it.
+
+Alice0a:We're running a little late. Is Reimu here?
+
+Marisa6a:With how dark it is? She's gotta still be holed up in bed.
+
+Sakuya5b:Oh, hello, you two.
+
+Komachi3c:Good morning. Or good evening, whichever works.
+
+Star3d:Let's use both! Good morvening!
+
+Alice0d:Ah, I see we've got the whole Scarlet Devil Mansion team, and the prankster fairies.
+
+Patchouli0c:It's hard NOT to notice something amiss right now. 
+
+Koakuma4a:We're definitely in the midst of an incident where night isn't ending...
+
+Koakuma0b:The moon and the stars are all suspended in place.
+
+Sunny2a:For fairies of light, it's practically torture!
+
+Marisa0a:This one isn't exactly easy to miss. I figured it'd cause a panic pretty soon.
+
+Marisa0d:So where's Reimu? I bet Keine and Sanae are here already, too.
+
+Meiling0c:They left before we even got here.
+
+Meiling0a:They must have been in a rush, because Reimu didn't even put away her bedroll.
+
+Marisa3a:Aww, man. She beat me to the punch?
+
+Komachi5a:Probably it's more like Keine beat her out of bed.
+
+Komachi0a:We should probably cut the chitchat and get going, ourselves.
+
+Alice1c:...But as it stands, we know next to nothing.
+
+Alice0c:Since this involves an extended night, I did suspect Remilia at first, but...
+
+Sakuya5b:But the mistress is innocent. She's with the young mistress in the mansion.
+
+Luna3a:She's sitting at home when it's night out?
+
+Koakuma4a:The young mistress took ill, so she's looking after her.
+
+Koakuma4b:According to the mistress, the incident is what's causing her sister's ailment.
+
+Sunny6a:Too bad. She would've been the perfect person to have for this.
+
+Patchouli0c:In any case, we shouldn't focus solely on the fact that night isn't ending.
+
+Patchouli0a:I would guess that the true nature of this incident is something else entirely.
+
+Marisa1c:Say what?
+
+Alice2c:Honestly, I was thinking the same thing.
+
+Alice1c:The most out of place thing about all of this is the moon up there.
+
+<hide=all>
+
+Suwako1a:Ohh, I see you've got some brains among you.
+
+Kanako0a:I should hope so. Otherwise we'd be disappointed.
+
+</hide>
+
+Luna0a:Oh, I know those voices!
+
+Suwako3b:Heya, girls. Are we too late for the party?
+
+Nitori4a:How are ya? We're here to help too!
+
+Hina3a:I'm very glad we managed to make it here without much trouble.
+
+Meiling0a:The Moriya Shrine gods? And Nitori and Hina with them!
+
+Kanako0a:They came to check up on the shrine, so we journeyed together.
+
+Kanako3b:I had wanted to catch up to Sanae and Reimu, but it seems we missed them.
+
+Marisa0d:I figured Nitori and Hina would show up, but I wasn't expecting you two.
+
+Marisa0a:You don't have Sanae around, though. What's she up to?
+
+Suwako4b:As soon as she caught wind of the fact that the night wasn't ending, she took off.
+
+Suwako4a:I'm not even sure if she noticed the key part to all of this.
+
+Sakuya5b:Lady Patchouli was recently saying something of that sort.
+
+Sakuya0a:Perhaps you wouldn't mind sharing your insights with us?
+
+Patchouli4c:...Oh, fine. I'll be explaining it in full, so pay attention.
+
+Patchouli0c:First, the night isn't ending, and we all know how dangerous that can be, in and of itself.
+
+Marisa0d:Yeah. Youkai get pretty active at night.
+
+Marisa0a:If they start to run wild, it'll be super dangerous for humans.
+
+Patchouli0c:Precisely. But the unending night is not what we should be focusing on here.
+
+Patchouli4c:I suspect that the moon up there is not our full moon.
+
+Sunny1c:You mean it's not real?!
+
+Suwako1c:There's no doubt about it. Someone stole the full moon.
+
+Suwako0a:That thing looks like a perfect circle, but if you look extra close, you can see that it's a little off.
+
+Marisa1c:Ohh, yeah. I did kinda feel like something was off with it.
+
+Marisa0e:Though just for the record, assuming it really is a fake moon, why's that a problem?
+
+Alice0a:Because the full moon fuels the power of many youkai.
+
+Alice0c:The deep shadows cast by the full moon's light wield influence equal to the light of day.
+
+Alice0a:Losing that would mean a major disruption in Gensokyo's entire balance of power.
+
+Kanako0d:Indeed, the tengu elders have been considerably unnerved by this incident, ever since it began.
+
+Kanako1d:Should it run much longer, there is no telling what may happen.
+
+Sunny3a:Whoa, that sounds like a big deal...
+
+Star4a:It feels like these incidents keep rising in scale.
+
+Marisa0a:Okay, I've got the gist now.
+
+Marisa0b:Nobody's gonna get anything out of preventing the dawn and stealing the moon. Not humans, not youkai.
+
+Marisa4d:Which means somebody just picked a fight with all of Gensokyo.
+
+Patchouli4a:An overly simplistic description, but not inaccurate.
+
+Suwako0d:Let's get going, then. Our goal's pretty simple too.
+
+Kanako1c:Yes. We must find the perpetrator of this incident and deliver divine punishment unto them.
+
+Kanako0a:I will see to it that they receive fitting retribution for throwing our realm into disorder.
+
+Sakuya5b:I'm honestly a bit surprised to see the both of you so motivated. 
+
+Suwako3b:Hey, that's rude. We care about Gensokyo in our own way.
+
+Marisa7c:Well, the more the merrier, I always say.
+
+Marisa0a:Now let's get out there and cut our way through the night!
+
+<MAP=3,FROM=博麗神社,TO=リグルの水辺,name=Water's Edge,icon=2>
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP（出撃前）
+
+Wriggle3c:...Everyone's so happy that this night's still going.
+
+Wriggle0b:Talk about your long nights, though. This one's ridiculous...
+
+Wriggle3a:But I guess it's fine as long as everyone's having fun.
+
+<pause>
+
+Wriggle1b:...! Someone's coming!
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP（出撃後）
+
+Sunny5a:Wow, it's so pretty with the fireflies out.
+
+Kanako0a:To those of us from the Outside World, this sort of scenery still holds an undeniable charm.
+
+Nitori1a:Yeah, we do get a ton of fireflies here.
+
+Wriggle0c:Is it the mountain youkai? There's an awful lot of them.
+
+Star1c:Wait a second... There's a youkai among those fireflies, everybody.
+
+Alice0a:Perfect. We can ask it some questions.
+
+Alice0d:Excuse me. You seem to be leading these bugs.
+
+Wriggle3a:I'm Wriggle, and I represent them. Who are you all?
+
+Marisa0a:An ordinary magician and some friends.
+
+Wriggle6a:I... what?
+
+Kanako0a:If you know anything about this incident, firefly youkai, then speak.
+
+Wriggle4a:Who died and made you queen... but I guess by incident you're talking about the long night?
+
+Wriggle0b:The fireflies are loving it. Actually, I'm worried that they're loving it too much. They're gonna run themselves ragged.
+
+Patchouli4a:I couldn't care less about the well-being of bugs.
+
+Marisa4c:Looks like talking isn't gonna get us anywhere. Let's just blow 'em all up.
+
+Hina2a:I don't think this youkai did anything wrong, though...
+
+Sakuya5b:Pest control is part of my job. When I see bugs flying around, I swat them.
+
+Wriggle1c:These streams are our home turf. If you want a fight, I'll give you one.
+
+Wriggle1a:Don't blame me if you end up cowering in terror!
+
+<end>
+
+<ChatID:3>---------------------------------------
+//2PP（アリス武装追加）
+
+Alice0b:It's been quite some time since my last incident investigation. I need to focus and get back in the mindset...
+
+Nitori3e:Huh. Alice, is it just me or do you have more dolls than usual?
+
+Alice0d:I've made more combat-capable ones, so I brought them with me for this investigation.
+
+Alice3b:I'm a magician, after all, so I always have a few experiments going.
+
+Patchouli3a:So this is what you've been working on while we were refitting the ship.
+
+Marisa0a:Thinking out your magic and playing it safe sure is like you, Alice.
+
+Alice0c:It'd be a bother for me if something went wrong with my magic. It's just common sense to start things with a firm foundation.
+
+<end>
+
+<ChatID:4>---------------------------------------
+//3PP（幽香・魅魔）
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_turns,<,3) && (LOCAL_MAP,ObjControl,tent_vnames,num_Konjo,==,0)>
+
+Wriggle1b:...I'm not done yet!
+
+<pause>
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_turns,<,3) && (LOCAL_MAP,ObjControl,tent_vnames,num_Konjo,>,0)>
+
+Wriggle1b:...One more time!
+
+<pause>
+
+Sunny0d:Ooh, her gutsiness really reminds me of somebody...
+
+Star3c:If it's a reptile or another bug that doesn't count.
+
+</Cond>
+
+Nitori3e:I thought this was just some bug, but she can really hold her own.
+
+Koakuma1a:We can't get careless. She might send deadly poisonous insects at us!
+
+Wriggle1b:That's right! You haven't even seen my ultimate―
+
+Wriggle0c:...?!
+
+Marisa1b:...Is something wrong? What's up?
+
+Wriggle5e:The bugs are running away... Is someone over there?
+
+Hina1a:I do sense a strong presence approaching.
+
+Patchouli1d:I know that magical energy. Is it really her?
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,144,416,1)>
+
+<hide=all>
+
+Yuka0c:Ah, I knew those lights were danmaku.
+
+</hide>
+
+<pause>
+
+Yuka0d:See? My intuition is solid.
+
+Mima0d:I guess a flower youkai WOULD know how to pick out the scent of battle.
+
+Alice1a:Marisa, that's―
+
+Marisa1a:Is that you, Lady Mima?!
+
+Mima0c:Marisa and Alice. I haven't seen you since the Underworld.
+
+Alice1a:Of all the places to run into you again!
+
+Alice0c:And Yuuka, for that matter. Did you have some reason to be here?
+
+Yuka0b:My, my. Being flagrantly rude just doesn't suit you, Alice.
+
+Elliy4a:(They didn't even acknowledge us...)
+
+Kurumi4c:(We should've stayed home and played with building blocks or something.)
+
+Sakuya0a:Long time no see, Lady Yuuka.
+
+Yuka0a:You're looking well, Sakuya. How are the flowers I left at the mansion?
+
+Sakuya0a:Blooming beautifully, of course. Meiling tends to them.
+
+Nitori1a:"Lady Mima"? You must be Marisa's teacher.
+
+Mima1a:Hey there. You must be one of Marisa's friends I last saw in the Underworld.
+
+Patchouli0c:We owe you for your help back then. I've heard plenty of rumors about you.
+
+Marisa0d:Lady Mima, if you were okay, why didn't you get in touch with me?
+
+Marisa4b:I was really worried about you, you know...
+
+Mima0c:When have I ever done that, and why would you expect me to start now?
+
+Marisa4a:Still...
+
+Elliy3a:Um, can we save the touching reunion for later?
+
+Kurumi0a:We're here to investigate this incident with Yuuka!
+
+Meiling0c:Yuuka, investigating an incident? Are we dreaming?
+
+Yuka2d:Is it that odd? With an incident this big, I'm bound to find some people who are fun to toy with.
+
+Yuka0a:You lot, for one.
+
+Kanako1a:Oho, you take a very immodest tone for one addressing a divinity.
+
+Kanako1b:How amusing. Will you be lending us assistance?
+
+Marisa1b:Whoa, hold it. Lady Mima, sure, but why do we want Yuuka?
+
+Suwako3b:Aren't you the one that said the more, the merrier? Especially in this kind of incident.
+
+Mima0d:Hmph. I don't care for your arrogant attitudes, but I'll let that go for now.
+
+Elliy1a:That settles that. Glad to work with you, and we'll work extra hard!
+
+<end>
+
+<ChatID:5>---------------------------------------
+//リグル通常撃破
+
+Wriggle2a:Eep, you guys really don't hold back...
+
+Sakuya5b:Sorry, but there's only one thing I do with insects.
+
+Kurumi4a:But fireflies are so pretty, I feel kinda bad about exterminating them.
+
+Wriggle1c:All you talk about is how this relates to you...
+
+Wriggle1d:If you think us bugs are just here for your amusement, you've got another thing coming!
+
+Patchouli4c:You're still going? I'd rather get back to our investigation.
+
+Komachi3c:I guess foolishness is a trademark of younger youkai.
+
+Wriggle1g:...Now you've made me mad. I'll gather all the bugs, and―
+
+Star1c:...!
+
+Star1a:Careful, everyone! I'm sensing an incredible amount of presences!
+
+Wriggle1g:You caught on too late. This whole area is surrounded by my friends.
+
+Wriggle1f:See us soar and wriggle in the darkness, and learn the true terror of bugs!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//スペカ発動の次のPP（コンプリでは没）
+
+<end>
+
+<ChatID:7>---------------------------------------
+//スペル撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Wriggle2b:Aww, they got me...
+
+Mima1a:Trying to overwhelm us with sheer numbers? Nice try.
+
+Kanako3a:Gathering a bunch of rabble will avail you naught.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Wriggle2a:Ugh, they got away...
+
+Nitori1d:Who wouldn't get away as fast as possible when that many bugs appear?
+
+</Cond>
+
+Komachi1a:Gotta hand it to her, though. She's got some pretty extensive control over bugs.
+
+Sunny0c:That could make for some awesome pranks.
+
+Nitori1a:So, what now?
+
+Nitori3e:Should we start by hearing Wriggle out?
+
+Kanako0a:I shall accept this course of action as the best way to discover new leads.
+
+Suwako3b:Okay Wriggle. We're the winners, so we're conscripting you.
+
+Hina2a:...Gods who've fought in wars sure see things differently.
+
+Wriggle6d:You know what, I don't even feel like arguing anymore...
+
+Alice2b:And you, Yuuka? Are you and Mima really joining us?
+
+Yuka0d:We met up, so we might as well stick around and chat.
+
+Yuka0a:This should be a nice opportunity for Mima.
+
+Mima0c:Now that you mention it, it very well may be.
+
+Marisa0d:Lady Mima?
+
+Kurumi3a:Okay, let's rest up in the bushes over there.
+
+Kurumi3d:I'd love to hear all about what Sakuya's been up to!
+
+<end>
+
+<ChatID:8>---------------------------------------
+//ADVB
+
+<MAP=3,FROM=リグルの水辺,TO=リグルの水辺,name=Water's Edge,icon=2>
+
+<BG=*bg_talk_Lake_Night.png,fade=0,color=1,title=*bg_Waterside,bgm=bgm_talk_aoki>
+
+Sunny6a:Yeesh. One step out the door and we get into a danmaku battle. I'm tired.
+
+Komachi1c:It's so nice and cool at the waterfront, though.
+
+Komachi1b:And it's a summer night... I almost wanna see if we can find time for a firefly viewing.
+
+Kanako0a:It's a nice thought. And we do have a firefly youkai accompanying us.
+
+Wriggle6e:Is THAT what you're dragged me along for?
+
+Kanako1a:Hardly. Let us begin by hearing your side of this.
+
+Hina0c:We're trying to investigate the unending night and that moon.
+
+Hina0a:Do you have any insights about those you could offer?
+
+Wriggle4a:Hmm. The long night hasn't really been much of a problem for us...
+
+Wriggle0b:And I have no idea what you're talking about with the moon.
+
+Komachi4b:Yeah, I guess most youkai would only notice the first thing.
+
+Suwako4b:Ah well, what a shame. But, if you can control bugs, would you mind using that to help us?
+
+Suwako0a:Use your bug network to gather info or something.
+
+Wriggle3a:What kind of info?
+
+Kanako1b:Hmm. Even an insect should be able to report on what they have seen and heard.
+
+Kanako0a:Make use of those leadership capabilities you demonstrated earlier and try it.
+
+Wriggle1c:...Well, if you're going to set the bar that low for us bugs, I suppose there's no way we can fail.
+
+Wriggle0b:I just put the word out. Give it a bit.
+
+<single>
+
+Komachi1c:Alright, why don't we kick back and rest until we get some info?
+
+</single>
+
+Hina2a:That was rather animated for someone who supposedly needs a break.
+
+Star3c:I'm sure a break's fine. The others are busy doing a ton of talking over there.
+
+Luna0a:I don't think I've ever seen Marisa looking so meek before...
+
+<nowindow>
+
+<Code=(sound_fadeout,BGM,30,0)>
+
+<BGM=bgm_talk_ningyo,0>
+
+<single>
+
+</nowindow>
+
+Marisa0d:Lady Mima...
+
+</single>
+
+Mima0a:It's good to see you again. Looks like you resolved the last incident just fine.
+
+Marisa0c:...Thanks a lot for helping me back then. You really saved me.
+
+Marisa1c:There's so much I wanna talk about, though! Ever since you've been gone―
+
+Mima0d:Easy, there. No need to rush.
+
+Mima0a:The night is long. Take your time.
+
+Marisa7c:Yeah, good point. You're right!
+
+<single>
+
+Nitori4b:It's nice to see Marisa reunited with her teacher.
+
+</single>
+
+Alice0d:I was worried about her, after the way we parted last time.
+
+Alice4a:You could have told us she was off with you, you know.
+
+Yuka0c:Why would you expect me to do that?
+
+Yuka2d:After all, you've never even asked me about Mima before.
+
+Alice0c:Because if I did, you'd just dodge the question.
+
+Elliy3a:But now they're back together again, so all's well that ends well, right?
+
+Kurumi3c:You've gotta hear this, Yuuka. Sakuya just―
+
+Sakuya0a:I've stopped by to say hello again.
+
+Yuka0d:Why hello, Sakuya. I'm glad to see you on such a fine night.
+
+Yuka0a:Is your resident intellectual still shut away in her dark, stuffy room, growing ever-gloomier?
+
+Patchouli4f:...Sorry to disappoint you, but the ventilation in there has improved quite a bit ever since you blew a hole in the library.
+
+Koakuma4a:It sounds like Lady Patchouli still holds a grudge...
+
+Meiling0a:I saw plenty of Elly and Kurumi when we did farmwork together, but I haven't seen you in ages, Yuuka.
+
+Yuka0c:Yes, it's already been well over a year since I took advantage of the Scarlet Devil Mansion's hospitality.
+
+Yuka2d:How's Remilia? I would've figured she'd join you for this one.
+
+Meiling0c:She's looking after the young mistress in the mansion.
+
+Meiling3a:She seemed a lot more tense than usual. Maybe it's this incident's fault...
+
+Elliy0b:Hmm. Vampires must be influenced pretty heavily by the moon.
+
+Elliy4a:And the younger sister does seem especially sensitive...
+
+Kurumi4b:But won't those two start fighting if you leave them alone together?
+
+Koakuma3b:They've been improving on that front, lately.
+
+Koakuma3d:They seem to be on speaking terms lately, moreso than before at least.
+
+Elliy1b:Whoa, that's hard to imagine.
+
+Yuka2d:Still, I don't know what Remilia was thinking, entrusting this incident to only her servants.
+
+Yuka0a:Sending mere humans? It's downright reckless.
+
+Sakuya5b:I'm sure the mistress is testing us. She'll see if we fulfill our role or else vanish with the evening dew.
+
+Sakuya0a:After all, humans lives come a dime a dozen.
+
+Yuka1b:You mean they're fleeting. You should try living for yourself a little more.
+
+Elliy1a:Well, for now we'll just have to double our efforts to make up for Remilia being gone!
+
+Kurumi1a:We're giving it everything we've got! If there's anything we can do, don't hesitate to―
+
+Koakuma3d:Okay, would you mind bringing out our midnight snacks with the rest of the food?
+
+Kurumi4a:Aw, but that'll make me hungry...
+
+<MAP=3,FROM=妹紅の家,TO=妹紅の家,name=Bamboo Thicket,icon=5>
+
+<BG=bg_talk_Bamboo_Night.png,fade=1,color=1,title=*bg_Mokou,bgm=bgm_talk_inishie>
+
+Mokou0a:...
+
+Mokou0a:(That distorted moon, this unending night...)
+
+Mokou0b:(I don't know what she's after, but it's got to be her.)
+
+Keine0a:Mokou, are you getting ready to leave?
+
+Mokou1d:...Keine.
+
+Keine0a:Looks like you noticed the incident without me this time.
+
+Keine0b:The mastermind is certain to be someone extremely capabl―
+
+Mokou1b:I know. She has to be the one pulling the strings.
+
+Keine4a:...You really think it's her?
+
+Mokou0c:Usually there are rabbits lurking around here, and they're all gone now. Something's happened.
+
+Mokou1c:I'm heading to her place to see for myself.
+
+Keine4a:...If that's your goal, I see nothing wrong with that.
+
+Keine0c:I'll let Reimu and the rest of the investigators know. We can look into this together.
+
+Mokou1c:No, I'm going alone.
+
+Keine2b:...!
+
+Keine2a:Mokou, don't tell me―
+
+Mokou0a:You're probably going over to the rest of them, right? Tell them to keep their noses out of this.
+
+Keine3b:...Please actually think this over before giving me an answer.
+
+Keine4a:I'd like to think that I understand the situation between you two. Couldn't you open up to the others too?
+
+Mokou0c:...Are you saying I should tell them about me and her?
+
+Keine0a:Yes. You've been getting closer to them, slowly but surely.
+
+Keine0c:We can do this hand in han―
+
+Mokou3c:Sorry. I can't go with you or them, Keine.
+
+Mokou3a:What ties me to her is mine alone, and no one else's.
+
+Keine1a:Mokou...
+
+<end>
+
+<ChatID:9>----------------------------------------
+//敗北時
+
+Wriggle1a:Feel the power of bugs!
+
+Luna2a:I can't believe she got us like that...
+
+Patchouli4a:...Her unxpected degree of strength does bug me.
+
+Sunny4a:This is so annoying! They're just bugs!
+
+Sakuya5c:Incidentally, we only have 64 continues left.
+
+Kanako3b:Just settle down already, girls.
+
+<end>
+
+<ChatID:10>----------------------------------------
+//リグルvs.魔理沙
+
+Marisa0a:When you practice magic, you end up making a real connection with bugs, you know.
+
+Wriggle0a:What's the connection there?
+
+Marisa0a:Well, you can find all sorts of weird-looking bugs in the Forest of Magic, right?
+
+Marisa0a:But more importantly, I'm a bit of a bookworm myself.
+
+Wriggle2a:How can you look so self-satisfied with that...
+
+<end>
+
+<ChatID:11>----------------------------------------
+//リグルvs.アリス
+
+Alice0a:...So you can control bugs. You seem to be quite the strong opponent.
+
+Wriggle0a:I appreciate the compliment, but your tone makes it sounds really forced.
+
+Wriggle0a:...Wait, are you scared of bugs or something? They're more afraid of you than you are of them, you know.
+
+Alice4a:I d-d-don't mean to be rude. I just... like to keep things neat and tidy.
+
+<end>
+
+<ChatID:12>----------------------------------------
+//リグルvs.にとり
+
+Nitori0a:Firefly larva can only live in the cleanest of water.
+
+Nitori0a:I can really sympathize with that. Water quality matters, people!
+
+Wriggle0a:Oh, so kappa are also picky about their water too?
+
+Wriggle0a:I hear a lot of our children are born on Youkai Mountain, too.
+
+Nitori1a:Yeah, there are a bunch! I wouldn't mind if you snuck over to hang out sometime.
+
+<end>
+
+<ChatID:13>----------------------------------------
+//リグルvs.咲夜
+
+Sakuya5b:Now then, it's time to begin the pest control.
+
+Wriggle2a:Hey, I may be a bug, but why do you think I'm a pest?
+
+Wriggle0a:There are lots of helpful bugs too.
+
+Sakuya0a:I suppose that was rude of me. But you know what they say, "Even a half-inch bug has a tenth of an inch of a soul."
+
+Wriggle2a:...You're not taking me seriously at all, are you?
+
+<end>
+
+<ChatID:14>----------------------------------------
+//リグルvs.美鈴
+
+Meiling0a:Okay, then. Which kind of bug would Lady Flan enjoy the most...
+
+Wriggle1a:Just what do you think you're doing right in front of me?
+
+Meiling5a:Bug collecting, obviously. I promised someone I'd pick up a souvenir while we were out investigating.
+
+Wriggle2a:I'm not so sure about treating living things as souvenirs...
+
+Meiling3a:...You've got a good point there. Especially when we're talking about giving them to Lady Flan.
+
+<end>
+
+<ChatID:15>----------------------------------------
+//リグルvs.パチュリー
+
+Patchouli0b:Koakuma, this youkai could be useful. Let's capture her.
+
+Koakuma5b:You mean for―
+
+Patchouli0c:Yes. If we have her gather bugs for me, I'll never have to worry about finding magical ingredients again.
+
+Wriggle1a:Nope, there's no way I'm letting that happen!
+
+<end>
+
+<ChatID:16>----------------------------------------
+//リグルvs.小悪魔
+
+Koakuma1a:Even before a swarm of insects, I won't flinch!
+
+Wriggle0a:Oh, are you used to dealing with bugs?
+
+Koakuma1c:Maybe? Especially bookworms...
+
+Koakuma1a:Lady Patchouli can be so mean, you know! She makes me deal with all the bugs that show up in the library myself.
+
+Wriggle2a:...I mean, I feel you, but should you be complaining about this to ME?
+
+<end>
+
+<ChatID:17>----------------------------------------
+//リグルvs.エリー
+
+Elliy0a:Sorry about this, but I've decided I need to kick things into high gear today!
+
+Wriggle0a:Well, fine by me, but... how come?
+
+Elliy0a:Even though this is our first appearance in a while, Yuuka and Mima have been totally hogging the spotlight!
+
+Elliy1a:Just whatever you do, don't compare us to Roberto and Apolly always tagging along when that guy in the shades shows up!
+
+Wriggle2a:But you just did...
+
+<end>
+
+<ChatID:18>----------------------------------------
+//リグルvs.くるみ
+
+Kurumi3b:Actually, I kinda like bugs.
+
+Wriggle0a:Aw, thanks.
+
+Kurumi3a:I used to watch them to kill time over summer break.
+
+Kurumi5d:I had a pet rhinoceros beetle and some ants... And my next target was a cicada!
+
+Wriggle2a:Wow, raising those would take forever...
+
+<end>
+
+<ChatID:19>----------------------------------------
+//リグルvs.小町
+
+Komachi1a:Bugs sure have it nice. I'd like to live doing whatever I want too.
+
+Wriggle0a:Hold it right there. I'll have you know that a bug's life isn't a comfortable one.
+
+Wriggle0a:It's a bug-eat-bug world where even children aren't safe.
+
+Komachi0a:I guess, but living completely in tune with nature is one way to live free.
+
+<end>
+
+<ChatID:20>----------------------------------------
+//リグルvs.雛
+
+Hina0a:The marshwater here is so clear... It's completely different from where I'm from.
+
+Wriggle0a:So you live near water too, then?
+
+Hina0a:I suppose you could call it water, but it's closer to a swamp of misfortune.
+
+Hina4a:A sad fate awaits any living thing which falls into it.
+
+Wriggle2a:...Then we'll all just have to stay away from it.
+
+<end>
+
+<ChatID:21>----------------------------------------
+//リグルvs.サニー
+
+Sunny4a:I can't believe you're so energetic this late at night...
+
+Wriggle0a:Isn't that just because I'm nocturnal and you're not?
+
+Wriggle0a:If you slept all day, wouldn't you be up and energetic at night too?
+
+Sunny6a:I feel like that'd make me even sleepier...
+
+<end>
+
+<ChatID:22>----------------------------------------
+//リグルvs.ルナ
+
+Luna0a:As a moon fairy and a youkai of the night, I think we'd get along nicely.
+
+Wriggle0a:I haven't heard of many fairies that are energetic during the night...
+
+Wriggle0a:Anyway, does that mean you're cool with nocturnal bugs?
+
+Luna6a:No! I really hate it when bugs buzz right by my ear when I'm trying to sleep!
+
+<end>
+
+<ChatID:23>----------------------------------------
+//リグルvs.スター
+
+Star0a:I might have the power to detect signs of life...
+
+Star0a:But when they're as small as bugs, it's hard to get a read on them.
+
+Wriggle0a:It might be better that way.
+
+Wriggle0a:I mean, there are a TON of bugs under the ground all around you.
+
+Star4b:...Just thinking about that gives me chills.
+
+<end>
+
+<ChatID:24>----------------------------------------
+//リグルvs.ルナサ（周回用）
+
+Lunasa0a:Your sound is the sound of insects.
+
+Wriggle2a:Isn't that a bit too boring?
+
+Lunasa0a:Not at all. Insects make all sorts of sounds.
+
+Lunasa0a:Beautiful sounds, annoying sounds... All are equally your sound.
+
+<end>
+
+<ChatID:25>----------------------------------------
+//リグルvs.メルラン（周回用）
+
+Merlin0a:I really like the way you fireflies live!
+
+Wriggle0a:Huh? What's that supposed to mean?
+
+Merlin0a:C'mon, don't you guys only live in your adult form for a really short time?
+
+Merlin0a:You've gotta mate it up all you can during that brief window, so you're always living life to the fullest!
+
+Wriggle0a:H-Hold on! Don't make us sound so―
+
+<end>
+
+<ChatID:26>----------------------------------------
+//リグルvs.リリカ（周回用）
+
+Lyrica0a:"Even a tenth of an inch bug has a half-inch soul"!
+
+Wriggle0a:Oh, nice, so you know that saying!
+
+Lyrica0a:We're both short, so we gotta work hard to stand out!
+
+Lyrica0a:Like, even a tiny pepper moth manages to be super spicy!
+
+Wriggle0a:...So close, yet so far. That's not where pepper comes from.
+
+<end>
+
+<ChatID:27>----------------------------------------
+//リグルvs.神奈子
+
+Kanako3b:To think that my first sally would be against such a minor youkai...
+
+Suwako0d:Quit complaining. If you want to gather faith, you've gotta start things off plain and simple.
+
+Wriggle2a:Please don't just pretend I'm not here.
+
+Kanako0a:Yes, yes, I can hear you. Plain and simple, was it?
+
+Kanako1a:Once I defeat someone as plain as you, I'm sure I'll gather some simple faith.
+
+<end>
+
+<ChatID:28>----------------------------------------
+//リグルvs.諏訪子
+
+Wriggle0a:You look like a frog... are you a frog god?
+
+Suwako3b:Bzzt, wrong. People make that mistake all the time, but I'm no frog god.
+
+Suwako1e:My power is over Kun, the trigram of the earth. A mere bug-controlling youkai had better show the proper respect.
+
+Wriggle2a:Oh, uh, yes ma'am!
+
+<end>
+
+<ChatID:29>----------------------------------------
+//リグルvs.幽香
+
+Yuka0a:Oh, a bug youkai...
+
+Wriggle2a:Geez, you're looking at me like I'm living garbage...
+
+Yuka0a:Not at all! Flowers and bugs go hand-in-hand in nature.
+
+Yuka0b:Though I cannot stand ugly bugs that harm flowers.
+
+Wriggle2a:But, but some bugs have to do that to survive...
+
+Yuka0a:Then they can at least do me the favor of staying out of my sight.
+
+Yuka1a:They can go to the Underworld or the afterlife, either works.
+
+Wriggle2a:That's crazy!
+
+<end>
+
+<ChatID:30>----------------------------------------
+//リグルvs.魅魔
+
+Mima0a:It's been quite a long time since I last fought on the surface.
+
+Wriggle0a:The surface...? Are there youkai in other places?
+
+Mima0a:There's a vast world out there, full of many people you know nothing about.
+
+Mima0a:They live in a cruel environment, sunken into darkness alongside old gruges.
+
+Mima0a:Compared to them, you might say that you're quite blessed.
+
+Wriggle0a:Huh. I guess so?
+
+<end>
+
+<ChatID:31>----------------------------------------
+//河童と初戦闘時
+
+Kappa1a:Nitori, Lady Yasaka, fancy meeting you here!
+
+Kanako4e:A kappa...? What are you doing in a place like this?
+
+Kappa0a:Well, you don't often see water so pretty, so we got kinda distracted...
+
+Kappa0a:Morning never came either, so I guess we dozed off?
+
+Suwako0a:They say even a kappa can get washed away down their own river, but I never thought to take that literally.
+
+Komachi0a:Hey, this means my hopes for a waterfront encounter with kappa came true.
+
+Komachi1a:This is my chance for a rematch!
+
+Sakuya5b:I... what?
+
+<end>
+
+<ChatID:32>----------------------------------------
+//EX条件達成（ver.2.8.0追加）
+
+Meiling0a:Phew, kappa sure are tough underwater.
+
+Nitori1a:It's our backyard, after all!
+
+Suwako1e:More like a feeding ground for a little froggy. I'll bind 'em this way and that way and—
+
+Luna6a:You're super scary right now!
+
+Alice0a:But Suwako's movements certainly are a cut above.
+
+Kanako0a:Water and land are under the domain of the trigram of Kun. There's no reason not to rely on her talents here.
+
+Suwako0a:And it's not like I'm bad in the air, but that's more Kanako's specialty.
+
+Kanako1a:Indeed, that is my battlefield.
+
+Komachi0a:Well, ain't that reassuring. I'm expecting a lot from the power of the gods.
+
+<end>
+
+<ChatID:33>----------------------------------------
+//リグルvs.メーコ
+
+Meko4c:Bugs, huh...
+
+Meko0a:Come to think of it, didn't Kurumi invite me to watch ants?
+
+Wriggle1a:Distracted in the middle of battle, huh?
+
+Meko1d:Fine, I admit it, but it's not like it has nothing to do with you!
+
+Wriggle1d:What am I supposed to do with that?!
+
+<end>
+
+<ChatID:34>----------------------------------------
+//リグルvs.まくら
+
+Makura0g:Insects, hm...
+
+Wriggle4a:C'mon, you don't have to look THAT disgusted.
+
+Makura1c:But only bad bugs live in beds.
+
+Makura0h:If I defeat you, why don't you promise to protect my blankets?
+
+Wriggle5b:Shouldn't you be thinking of everyone else in your group, too?
+
+<end>
+
+<ChatID:35>----------------------------------------
+//リグルvs.リグル
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Wriggle0c:Huh? It's me?!
+
+Wriggle1c:No. Maybe we're just the same type of youkai?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Wriggle5b:What do I do? Explaining this would be really complicated.
+
+Wriggle4b:Hopefully I can explain this away with―
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Wriggle6a:Um, where are you from? Are there others of us there?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Wriggle5c:And there it goes and gets complicated.
+
+</nomove>
+
+<end>
+
+<ChatID:36>----------------------------------------
+//M37：リグルvs.非想天則
+
+Tensoku0a:...
+
+Wriggle5c:Uwah! What it this?! A friend of the humans?
+
+Wriggle1h:It's cool, but if it stomps all over the place it'll mess up all the bug nests.
+
+Wriggle1d:I'm sorry, but I can't let you stay here!
+
+<end>

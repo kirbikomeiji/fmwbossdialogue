@@ -1,0 +1,1585 @@
+﻿○魔理沙第三十九話「霧雨の火炉
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: 2EP
+ 3: 3PP
+ 4: 5PP
+ 5: flashback
+ 6: after flashback
+ 7: after MarisaR
+ 8: stream laser
+ 9: magic napalm
+10: nondir
+11: Malice
+12: FMaspa
+13: clear
+14: ADVB
+15: lose (Marisa)
+16: lose (while Marisa absent)
+17: lose (MarisaR)
+18: first battle (InsectB)
+19-nn: battle
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<MAP=3,FROM=迷いの竹林M39,TO=迷いの竹林M39,name=Bamboo Thicket,icon=5>
+
+<BG=*bg_talk_Bamboo_Night.png,fade=0,color=1,title=*bg_Bamboo,bgm=bgm_talk_kaikidan>
+
+<update>
+
+Usagi2a:Oww...
+
+Usagi0a:We finally found the lunar rabbit, and then we let her slip right through our fingers.
+
+</update>
+
+Tewi4a:It would've been so easy if all those people hadn't shown up.
+
+Usagi0a:What now, Tewi? We can't just let her go, right?
+
+Tewi0b:Of course not. We'd look like fools if we let the master's target get away so easy.
+
+Tewi4b:But we don't stand a chance against those humans in a straight fight...
+
+Usagi0a:We might have to face the facts and throw in the towel.
+
+Tewi0b:(Wait a minute. Our goal is just to get the rabbit.)
+
+Tewi0a:(We don't have to defeat that whole group to do that...)
+
+Usagi1a:Uh-oh, I know that devilish look! Getting a flash of inspiration?
+
+Tewi3f:You better believe it! Just who do you think I am?!
+
+<update>
+
+Usagi1a:You're Tewi Inaba, the eldest rabbit in the bamboo thicket!
+
+Usagi0a:That's our Tewi! Let's hear the plan!
+
+</update>
+
+Tewi3c:Okay, listen up! First we fight. Find a sign of weakness and pounce on whoever shows it.
+
+Tewi3f:We nab that person, and trade 'em for the rabbit.
+
+<update>
+
+Usagi0a:Whoa, a hostage exchange! That's nasty!
+
+</update>
+
+Tewi3f:Between an ally and some rabbit they just met, it won't be much of a choice.
+
+Tewi3c:And hey, we could always vent a little frustration with a hostage for a shield.
+
+Usagi1a:Wow! I feel like this is gonna work!
+
+Tewi4b:(It's an okay plan on its face, but I doubt it'll hold up against a group as strong as they are.)
+
+Tewi0b:(Which means I'd better plan for the worst and report to Master.)
+
+Usagi0a:What's wrong, Tewi?
+
+Tewi3c:Nothing. Make sure to get 'em good for me.
+
+Usagi0a:Wait, you're not coming with us?
+
+Tewi3c:Nah, too much of a pain in the―Er, I mean, I'm still kinda worn out from the last fight.
+
+Tewi0a:But I'll make it up to you. You can have some of the secret dango that the master gave me.
+
+Usagi0a:Ooh, they look yummy!
+
+Tewi3c:Eat this, and it'll bring out your inner strength. It should help you fight stronger youkai.
+
+Tewi0a:Just remember to follow the label and take only the recommended dosage.
+
+<update>
+
+Usagi1a:Thanks a bunch, Tewi!
+
+Usagi0a:Let's eat up and get this operation going!
+
+</update>
+
+Tewi5a:Yeah, sure. I'll be waiting for the good news!
+
+<SE=se_talk_run.ogg,wait=1>
+
+<MAP=3,FROM=迷いの竹林M38,TO=迷いの竹林M38,name=Bamboo Thicket,icon=2>
+
+<BG=*bg_talk_Bamboo_Night.png,fade=1,color=1,title=*bg_Bamboo,bgm=bgm_talk_inishie>
+
+Nitori2a:Whoa, Mima, what did you just say?
+
+Mima1b:I told her to cast away her hakkero and come back to me.
+
+Mima0a:If she does that, I'll drill the basics of magic into her from the ground up.
+
+Marisa1d:Wait a minute! This is all so sudden...
+
+Meiling0c:Hey, hold up, what's the matter here?
+
+Suwako0a:Are we about to have a drama bomb?
+
+Mima2a:Good grief, no, I wasn't trying to start anything like that.
+
+Patchouli0c:You can't possibly expect us to let something that far out of left field go unchallenged.
+
+Patchouli4c:What do you mean, you'd "drill the basics of magic into her"?
+
+Mima0c:I intend to personally retrain my unworthy pupil to fix her failings.
+
+Mima0a:A little time on the road with me, and she'll get good whether she likes it or not.
+
+Koakuma4b:Where would you be traveling, exactly?
+
+Mima1b:Maybe the depths of the earth. Maybe the ends of the world. At the very least, wherever I go, it won't be Gensokyo.
+
+Nitori2a:S-So you're saying we wouldn't be able to hang out with Marisa like we do now?!
+
+Mima0c:Think about what's best for her. She should make the most of the life she has left.
+
+Mima0a:And I'll give her back one day. After she becomes a magician worth speaking of, that is.
+
+Nitori3c:No way...
+
+Marisa4b:...
+
+Nitori2a:Marisa, you wouldn't just up and vanish on us, would you?!
+
+Marisa4c:The thought never even crossed my mind.
+
+Marisa4a:Why would you ask that, Lady Mima? And why would I have to get rid of my hakkero?
+
+Mima0c:You don't get it? I want you to cast away the person you've been.
+
+Marisa1c:You want me to throw it all away...?
+
+Mima0d:All this time, I've been looking forward to meeting you again when you'd matured as a magician.
+
+Mima0c:But all you care about is how I see you. Your magic lacks conviction.
+
+Mima0c:You'd be less of an embarrassment if you left that all behind and followed me instead.
+
+Marisa2c:...
+
+Alice4b:Saying she'd be "less of one"... That's really harsh...
+
+Marisa2c:...Why, Lady Mima? Why would you say that?
+
+Marisa1c:You've been watching over me all this time, haven't you?
+
+Marisa4b:And now you're telling me to throw it all away?
+
+Mima2b:Silly girl. How am I supposed to know what you've been up to while I was away?
+
+Marisa2d:...!
+
+Mima1b:That's the entire reason I want to know more about your magic. Where does it come from?
+
+Mima0c:What have you done with it? What do you want to do with it?
+
+Mima2b:If your magic is nothing but flashy combat, then it's a hollow magic indeed.
+
+Marisa2b:My... My magic is...
+
+Marisa2c:...Rgh!
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+Nitori2a:Hey! Marisa! Wait!
+
+</single>
+
+Sakuya0c:She should know it's dangerous to wander around by herself.
+
+Patchouli4d:...We probably shouldn't just let her run off.
+
+Alice1c:Yes, we need to go after her!
+
+<SE=se_talk_walk_outdoor01.ogg,wait=1>
+
+<single>
+
+Yuka2d:Dear me. So much for the happy reunion.
+
+</single>
+
+Kanako3b:Not to mention how disruptive it is to our investigation.
+
+Kanako1c:Was it truly necessary to do this right now?
+
+Mima1b:I knew it'd be better to leave it unsaid.
+
+Mima2b:But seeing her act like that was too much for me.
+
+Kanako1d:Nonetheless...
+
+Suwako1c:I'm all about taking a hands-on approach, so I can kind of sympathize with what you were trying to do there.
+
+Suwako0a:You came down hard on Marisa because you were worried about her, right?
+
+Mima4a:...I'm aware this is my pride speaking, but I'm the one who taught her magic after she ran away from home.
+
+Mima1b:So I want to be certain her magic is taking a suitable direction.
+
+Mima0a:And I want to know what's in her heart when she casts a spell.
+
+<MAP=3,FROM=迷いの竹林M38,TO=迷いの竹林M39,name=Bamboo Thicket,icon=2>
+
+<BG=*bg_talk_Bamboo_Night.png,fade=1,color=1,title=*bg_Bamboo,bgm=bgm_talk_ningyo>
+
+Meiling3d:...And that's how Mima and Marisa got into a spat.
+
+Luna4a:Sounds like I missed a real mess.
+
+Marisa4b:...
+
+Komachi3c:It's unusual to see you so down in the dumps.
+
+Komachi0a:If you're not sure what else to do, how about you try talking with us?
+
+Marisa0d:Yeah, I guess...
+
+Alice4a:It's perfectly reasonable to feel upset. This was all very sudden...
+
+Koakuma4a:It's never pleasant getting an earful from someone you look up to.
+
+Nitori3e:But I guess Mima said all that because she's your teacher.
+
+Nitori4b:If you went with her, she could do a lot of good for you...
+
+Patchouli4c:Even so, her little tirade went too far.
+
+Patchouli0c:You should have retorted.
+
+Marisa1d:Retorted? What could I possibly say to Lady Mima?
+
+Sunny3b:You know, like, "You can't have my hakkero!" Or, "No, YOU give ME your staff!"
+
+Sunny5b:You always talk like that with us!
+
+Marisa4a:Maybe, but this is Lady Mima we're talking about.
+
+Star4b:The Marisa I know wouldn't have cared who she was talking to...
+
+<single>
+
+Wriggle4b:Boy, talk about a heavy atmosphere...
+
+</single>
+
+UsagiR2c:Are we okay? The group's not gonna splinter or anything, right?
+
+LilyW5c:I doubt it, but everyone does seem so unhappy.
+
+Lunasa3a:Maybe we could put on some music to cheer people up.
+
+Wriggle5b:I think your music would only lower their spirits even more...
+
+Merlin1c:Then they can listen to MY music, and forget all their troubles!
+
+Lyrica5a:Don't you know anything about reading the mood?! This isn't the time for that!
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+Sakuya5b:Oh, you're still talking over here?
+
+Meiling0a:Did you come to check up on us?
+
+Sakuya0a:I do have to keep an eye out, as we're still in that rabbit's territory.
+
+Sakuya5a:And even putting the rabbits aside, everything's a mess after that whole hakkero affair.
+
+Luna0b:What does Mima care about the hakkero, anyway?
+
+Luna0a:Can't she see it's your most reliable weapon?
+
+Marisa4b:...It's something that Kourin gave me when I first left home.
+
+Marisa4a:It's been with me through all my training. You could call it my partner.
+
+Nitori4b:Your partner, huh?
+
+Marisa0c:I was a total scrub at first. All I could do was copy Lady Mima.
+
+Marisa0a:But over time, I started working out my own magic with it.
+
+Meiling0a:So it's where all your magic all began.
+
+Meiling3d:And when Mima says you should throw it away...
+
+Komachi0c:That's probably exactly why she said that, because it's so important to Marisa.
+
+Komachi0a:It sounds like Mima wants her to have a fresh start with a clean slate.
+
+Alice1c:Marisa, have you ever thought about what you want to do in the future?
+
+Marisa2c:I've got no idea. I still can't believe what Lady Mima said to me.
+
+Marisa4c:All this time, I've been working on my magic, figuring she was watching over me from somewhere.
+
+Marisa4a:But to her, my magic was never even worth watching...
+
+Alice4b:Marisa...
+
+Patchouli0a:There's no need to rush to any conclusions. Mima knows very little about your magic.
+
+Patchouli4a:You still have plenty to show her as we move forward.
+
+Marisa0d:You think so?
+
+Nitori4a:Yeah, that's right! If you show her your real magi―
+
+Marisa4c:And if I do, then what? I sure don't know.
+
+Marisa4a:I mean, what IS my magic, anyway?
+
+<Code=(map_shake,1,60,4)>
+
+<SE=se_talk_quake.ogg,wait=1>
+
+Marisa1c:...!
+
+Luna1a:What's that noise?!
+
+<Code=(sound_fadeout,BGM,30,0)>
+
+<BGM=bgm_talk_emergency,0>
+
+UsagiD1b:Heh, heh, heh. Found you, humans!
+
+Usagi0a:You guys are slower than a bunch of turtles! I'm real hoptimistic about our plans!
+
+Meiling6a:Uh-oh, did those youkai rabbits catch up with us?!
+
+Wriggle1b:And this one's making weird rabbit puns now!
+
+UsagiR2b:Wh-What do we do? Did we just get ambushed?!
+
+Komachi3a:Everybody chill. We're plenty ready for a fight.
+
+LilyW1b:They must be after you, Miss Rabbit. Hide behind us!
+
+UsagiR2a:Uh, on it!
+
+Marisa2b:What a bunch of jerks. I'm trying to think over here!
+
+Alice1a:Enough complaining, Marisa. Get ready for a danmaku battle!
+
+Marisa2b:Of course, I was born rea―
+
+Marisa3b:...?!
+
+Wriggle0c:What's wrong, Marisa?
+
+Marisa2b:(Is it just me, or is the hakkero reacting more slowly than usual...? I hope it's just me.)
+
+UsagiD0a:(Heh, heh, heh. This is as chaotic as I could've hoped for!)
+
+UsagiD1b:(Time to get Tewi's plan moving!)
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP（配置後）
+
+UsagiD0a:We caught 'em even closer than I was hoping for!
+
+Usagi0a:Okay, now to just grab somebunny and stuff 'em in a bag!
+
+Kanako2a:What's happening? Are we being raided?!
+
+Star2b:Yes, and it looks like they brought lots of company!
+
+Mima2a:Oh, it's just a bunch of small fry. Here I was expecting something serious.
+
+Mima1g:I'm not in the mood right now. Make yourselves scarce.
+
+Usagi2a:Aww, c-come on, why's she gotta be so scary...
+
+UsagiD0a:Don't worry, that's what we've got THESE for!
+
+UsagiD1b:The moment you take a bite of your dango, you'll have a thousand times more courage!
+
+Usagi0a:O-Okay!
+
+<pause>
+
+Lunasa1b:These rabbits are giving off more pressure than they did last time.
+
+Sunny1c:Don't tell me they've got some other trick up their sleeves?!
+
+Patchouli0a:The point being, don't judge them by their weak appearance.
+
+Alice1b:Marisa, for now we need to just focus on the enemy.
+
+Marisa2b:Yeah, I'm ready to...
+
+Marisa2d:...!
+
+LilyW1c:What's wrong, Marisa?
+
+Marisa0e:I knew it wasn't just my imagination... What even is going on?
+
+Suwako1b:Can you translate that into non-muttering?
+
+Marisa2d:...My hakkero isn't working!
+
+Nitori2a:What?!
+
+Marisa2b:I'm channeling my power into it and I'm getting zip!
+
+Marisa2a:Why, mini-hakkero?! Why now, of all times?!
+
+Koakuma2a:Oh no, Marisa's in trouble...
+
+UsagiD0a:(Looks like one of the humans isn't able to do squat.)
+
+UsagiD0a:(If she keeps that up, she'll be a sitting duck for us.)
+
+Kanako1d:Very well. Anyone who doesn't have their hands full, cover Marisa.
+
+Kanako1c:All forces, advance! Exterminate the rabbits!
+
+<end>
+
+<ChatID:2>----------------------------------------
+//2EP
+
+UsagiD0a:These humans sure are tough stuff...
+
+UsagiD0a:I'd better eat more dango, or I'll never be able to keep up.
+
+Usagi0a:...Uh, didn't Tewi say we shouldn't eat too much?
+
+UsagiD0a:Tewi wouldn't give us something that's bad for us!
+
+UsagiD1a:Let's eat the whole lot and beat the tar out of those humans!
+
+<Cond=(FIND_UNIT,Usagi_en,enemy,!=,-1)>
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char5,0,0,1)>
+
+Usagi0a:Urk, I'm not really sure about this...
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char5,0,0,1)>
+
+Usagi1a:I feel super super great now! I think this is our golden hopportunity!
+
+<Code=(cursor_jump_unit,Char6,0,0,1)>
+
+Usagi1a:These dango are yummy! Let's hop to it!
+
+</nomove>
+
+</Cond>
+
+Wriggle0c:Whoa, they're getting even more into this!
+
+LilyW1b:What is that dango they mentioned, anyway?
+
+UsagiD0a:Nyahaha, this is the secret weapon Tewi gave us!
+
+UsagiD0a:It peps you up and makes you stronger when you eat it!
+
+Sunny4a:So basically you're doping? Cheaters.
+
+Wriggle1c:And it gives me a strange feeling in my antennae... There must be some really weird ingredients in it.
+
+Hina0c:More importantly, Marisa, is your hakkero still acting up?
+
+Marisa3a:It's not working at all. I keep trying, and nothing happens...
+
+Marisa2b:Come on, what's the hell's gotten into you?!
+
+Nitori2a:Calm down, Marisa. If you let this distract you, the enemy might go after you!
+
+Koakuma4b:Lady Patchouli, why do you think this is happening?
+
+Patchouli4c:Marisa's magic has likely become out of sync with the hakkero.
+
+Merlin0b:So she's out of tune?
+
+Patchouli4c:Mental agitation can cause instability in one's magic.
+
+Patchouli4b:I believe that Marisa's inner turmoil has severed her tie to her hakkero.
+
+Star4a:No way...
+
+Yuka0e:You made this mess, Mima. Shouldn't you be bailing her out?
+
+Mima2b:Hmm...
+
+Mima2a:(I didn't want to believe it, but now it's becoming all too clear.)
+
+Mima2a:(Your heart is wavering, and it's separated you from your magic.)
+
+Mima1b:(Does your magic truly mean so little to you?)
+
+<end>
+
+<ChatID:3>----------------------------------------
+//3PP
+
+Lyrica0c:We're whittling them down!
+
+Merlin1b:They should know that winners don't do drugs!
+
+Lunasa1b:No, I sense more presences...
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char5,0,0,1)>
+
+Usagi0a:Boss, I'm all out of dango! Things are looking pretty hopless!
+
+<Code=(cursor_jump_unit,Char6,0,0,1)>
+
+Usagi0a:I don't wanna lose all my energy! I gotta eat some more dango... there's no other hoption!
+
+</nomove>
+
+Lyrica5a:Some new ones hopped out, and they look real hopped up! Oh no, they've got me doing it too...
+
+Marisa2b:Gah, of all the times to not be able to use my power...
+
+Mima1b:...It seems I'm done observing what you can do.
+
+Marisa0e:Lady Mima!
+
+Mima1c:It was unfortunate that you came under attack when you did, but I hope you understand now.
+
+Mima1b:This is what happens when one lacks faith in their own magic. And as that's happened...
+
+Mima0d:You ought to join me and start over.
+
+Marisa1d:What do you mean, "start over"?
+
+Mima1c:Cast aside everything and start anew with a clean slate.
+
+Mima1b:Join me and shrug off all your needless distractions.
+
+Meiling1a:Needless distractions...? Is that what you call the hakkero, and all the magic she's learned so far?!
+
+Mima0d:She wanted me to watch her, didn't she? Isn't this everything you wanted, Marisa?
+
+Marisa4a:It's...
+
+Luna4b:What do we do? Marisa right now might...
+
+Nitori1c:...No, Marisa. Think about it.
+
+Marisa0d:Nitori?
+
+Nitori1c:I know you respect Mima a lot as a teacher.
+
+Nitori1b:But that's no reason to let everything you've done be for nothing! That'd be messed up!
+
+Marisa1d:Everything I've done...
+
+Patchouli3a:I hardly think Mima was the only reason you practiced magic.
+
+Alice0d:Don't you have something else, something special?
+
+Alice3b:Try to remember what that thing is!
+
+Marisa4b:Something special... the reason I practice magic...
+
+Marisa1c:Right now, I'm―
+
+UsagiD0a:They're just talking and talking and ignoring us!
+
+UsagiD1a:So then―
+
+<pause>
+
+Marisa2a:Gah!
+
+Lyrica2a:Marisa, watch out!
+
+<pause>
+
+Luna1a:Marisaaaa!
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char5,0,0,1)>
+
+<hide=all>
+
+Marisa2a:...
+
+</hide>
+
+</nomove>
+
+Mima1c:Did she lose consciousness?
+
+Kurumi1a:Excuse me! We were trying to have a conversation!
+
+UsagiD0a:Heheheh, that was like taking candy from a baby.
+
+UsagiD1b:Now to grab her and take her hostage!
+
+Komachi3a:A hostage?! Is that what you were going for?!
+
+<Code=(icon_set_direction,UsagiD_en,FD_RIGHT,0)>
+
+UsagiD0a:You'd better believe it, lady. Fighting you fair and square wouldn't get us any closer to getting that rabbit.
+
+UsagiD1a:So, we'll use a human shield to make you play along!
+
+Kanako1c:You impudent scoundrels...
+
+Suwako1b:Whoever's close by, protect Marisa! Don't let them get away with her!
+
+Nitori2a:G-got it!
+
+<pause>
+
+<Code=(icon_set_direction,UsagiD_en,FD_LEFT,0)>
+
+UsagiD0a:Grr, you're trying to stop us?
+
+Koakuma1b:Nitori! Lady Patchouli! Alice!
+
+Patchouli1d:We're low on options right now. Let's split up and intercept them.
+
+UsagiD0a:If that's your game, then we've got a game of our own.
+
+UsagiD1a:Step on up, Double-Dango Rabbits!
+
+<pause>
+
+Alice1c:There were more of them out there?
+
+UsagiD0a:Course there were! We warned you, the Bamboo Forest of the Lost is Tewi's turf!
+
+UsagiD1a:I dare you to try and take on this many of us at once!
+
+<end>
+
+<ChatID:4>----------------------------------------
+//5PP、もしくは敵が○体以下
+
+<Code=(icon_set_direction,All,FD_LEFT,0)>
+
+Meiling3d:These rabbits just won't go down. Is it because of those dango?
+
+Hina1a:It's impressive, but I sense some kind of misfortune.
+
+Sakuya0c:Nitori, how is Marisa?
+
+Nitori3d:She's not waking up at all...
+
+Patchouli1c:And our situation is slowly but surely worsening.
+
+UsagiD0a:Heheheh, this whole focus fire thing is working out better than I thought it would.
+
+UsagiD0a:So let's keep doing it!
+
+<pause>
+
+Elliy2b:More of them?! Come on, how much are you gonna push this advantage!
+
+UsagiD0a:This operation's going great thanks to that weakling human.
+
+UsagiD1b:We might as well beat up the rest of you while we're at it!
+
+Lunasa1b:Of all the rotten luck. Get Marisa over here, and―
+
+UsagiD1a:Not on my watch!
+
+<pause>
+
+<Code=(icon_set_direction,Nitori,FD_RIGHT,0)>
+
+Alice2a:Aaagh!
+
+Kurumi1a:Alice! Everyone!
+
+UsagiD0a:Heheheh, Tewi knew what she was doing!
+
+UsagiD1b:Take one down, and the rest fall like dominos!
+
+<Cond=(CHECK_FLAG,M29_ALICE,==,1)>
+
+Alice2a:(We can't keep protecting you forever, Marisa.)
+
+Alice1a:(Pick yourself up. You're better than this!)
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M29_NITORI,==,1)>
+
+Nitori2c:(This is getting tougher and tougher, but I can't go down here.)
+
+Nitori1b:(I'll show them that we can protect Marisa until she gets back up!)
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M29_PATCHOULI,==,1)>
+
+Patchouli2a:(We can't keep protecting you forever, Marisa.)
+
+Patchouli1b:(What the heck are you doing?! You're better than this!)
+
+</Cond>
+
+<end>
+
+<ChatID:5>----------------------------------------
+//回想シーン
+
+<BG=bg_talk_Black.png,fade=0,color=1,title=*bg_Unknown>
+
+Marisa2c:Urgh...
+
+Marisa4b:Where... am I? I feel so weak...
+
+Marisa2c:Oh, right... I got beaten. I couldn't use my hakkero...
+
+Marisa4b:Why won't you respond to me, partner? Aren't we supposed to be a team?
+
+Marisa4b:...Or maybe you've given up on me too?
+
+Marisa4a:I guess it'd make sense. Even Lady Mima wouldn't spare me a second glance.
+
+Marisa4a:What have I even been doing, all this time?
+
+Marisa4b:This empty feeling... I think I've felt it before, sometime...
+
+<BG=bg_talk_Forest_Sepia.png,fade=1,color=1,title=*bg_Forest,bgm=bgm_talk_yuutsu1>
+
+Marisa4d:...!
+
+Marisa1b:Where is this? I feel like I know this place.
+
+Marisa1b:Could it be? The old Forest of Magic?
+
+<hide=all>
+
+MarisaYS0a:...
+
+</hide>
+
+Marisa0d:...? What's a kid doing out here?
+
+Marisa0b:Hey, kid. It's dangerous to be alone in the Forest of Magic. You should go ho―
+
+<hide=name>
+
+MarisaYS1c:...
+
+</hide>
+
+Marisa1b:...! Wait a minute, you're―
+
+<hide=name>
+
+MarisaYS4d:...
+
+</hide>
+
+Marisa4a:Yeah, I know. You've got nowhere to go home to.
+
+<BG=bg_talk_Black.png,fade=0,color=1,title=*bg_Unknown>
+
+Marisa4b:(Of course. How could I ever forget the day I ran away from home?)
+
+Marisa4a:(I had my heart set on practicing magic, and I got into an argument even worse than our usual ones.)
+
+Marisa4a:(Nothing I said mattered to my parents...)
+
+Marisa4b:(I was miserable. I ran away in the heat of the moment, but I had no idea where to go from there.)
+
+Marisa4a:(So I walked into the forest, alone and empty-handed.)
+
+<BG=bg_talk_Marisa_Sepia.png,fade=0,color=1,title=*bg_Unknown>
+
+Marisa4a:...And this was my house. It was so clean back then, no junk or clutter.
+
+Marisa4a:But once I started living in the forest...
+
+MimaS3d:I see. You want to use magic?
+
+MarisaYS4d:...
+
+MimaS0a:Then I'll teach you.
+
+MimaS3c:I'm Mima. And you are?
+
+MarisaYS4b:...!
+
+Marisa6a:...Lady Mima. The woman who found me and taught me magic.
+
+Marisa0c:I remember it like it was yesterday.
+
+Marisa0c:She's the one who reached out to me when I had nowhere to be, nothing to do in life...
+
+Marisa7c:I was so happy back then. I pushed myself as hard as I could to be just like her.
+
+Marisa4b:I wanted to follow in her footsteps as a magician...
+
+Marisa4a:But...
+
+<BG=bg_talk_Marisa_Sepia.png,fade=0,color=1,title=*bg_Unknown>
+
+MarisaYS1b:...!
+
+<Code=(map_flash,1,20,c_white)>
+
+<SE=se_shoot_laser_S03.ogg,wait=1>
+
+MimaS0a:Well done. You followed my instructions perfectly.
+
+MimaS0a:Next, we'll review the technique I taught you on― oh?
+
+<Code=(map_flash,1,20,c_white)>
+
+<SE=se_Marisa_wrl02.ogg,wait=1>
+
+MimaS3a:...Now that's certainly new to me. Did you come up with that spell on your own?
+
+MarisaYS3d:...
+
+MimaS3b:Interesting. It's certainly flashy, at the very least.
+
+<BG=bg_talk_Black.png,fade=0,color=1>
+
+Marisa0d:(When was it that I first started doing my own magic?)
+
+Marisa0b:(I started adding more flourishes and personal touches to my spells...)
+
+Marisa4b:(What was that look that Lady Mima gave me, when I did?)
+
+<Code=(set_variable,step_2,1)>
+
+Marisa4a:(What was it that even got me started on that type of magic?)
+
+MarisaYS3c:...
+
+Marisa0c:...Maybe YOU know? You look pretty happy about something.
+
+<SE=se_talk_run.ogg,wait=1>
+
+MarisaYS5b:...!
+
+Marisa2b:Hey, wait!
+
+Marisa1d:Why are you running? Are you trying to lead me somewhere?
+
+<Code=(set_variable,step_2,2)>
+
+<BG=bg_talk_SStars.png,fade=1,color=1,title=*bg_Marisa>
+
+<Code=(check_special,39Marisa)>
+
+<Code=(demo_wait,30)>
+
+Marisa6b:...!
+
+<single>
+
+MarisaY3a:Ooh, that was two in a row!
+
+</single>
+
+ReimuY5a:Yeah, one more and it'll be ten!
+
+Korin2c:I appreciate your excitement, but could you two keep it down a little?
+
+Korin0a:You can see meteor showers like this several times a year.
+
+MarisaY0a:Hey, you're the one who told us about this one, Kourin!
+
+MarisaY3c:You said there were gonna be a BUNCH of shooting stars tonight, like over a hundred!
+
+Marisa0d:Kourin and Reimu!
+
+Marisa6b:Now I remember, this was the first night I saw a shooting star, at Kourin's.
+
+Marisa0c:I was with Reimu and we stayed at the shop super late...
+
+<Code=(map_flash,1,30,c_white)>
+
+<SE=se_kiran02.ogg,wait=1>
+
+MarisaY3a:There's another!
+
+ReimuY1b:Uhh, wish, wish, wish...
+
+MarisaY4b:The heck are you doing?
+
+ReimuY5a:It's a magic wish! You can't repeat your wish three times unless you make it extra short.
+
+MarisaY4a:I guess, but nobody can even tell what you're wishing for now...
+
+Korin0d:I'd say you're more into this than she is, Marisa.
+
+MarisaY0a:Yeah, I like shooting stars a ton.
+
+MarisaY3b:They fly by and disappear fast, but they're the brightest stars in the whole sky!
+
+ReimuY3c:When you say it like that, I guess I get why you like them.
+
+MarisaY3a:I've figured it out. My magic's focus is gonna be shooting stars!
+
+MarisaY3b:And one day, it's gonna be just as bright as one!
+
+Korin0d:Shooting stars, huh? I see, I see. Well, you've always been a fan of flashy things, so it's very you.
+
+ReimuY0b:Can you even make shooting stars with magic?
+
+MarisaY3d:Course you can, magic is amazing! You can do anything with it if you try!
+
+<Code=(set_variable,step_2,1)>
+
+MarisaY5a:And not just star magic. There's light magic, and―
+
+ReimuY3b:You're pretty ambitious for an amateur.
+
+MarisaY4b:So what if I am? I'm a magician, ambition's my thing!
+
+MarisaY3c:Hey, Kourin, how about when I pull it off, I'll use your tools so you get some free advertising?
+
+Korin3c:Goodness, don't I feel honored to have the future greatest magician offering me that.
+
+Korin4b:But I'll wait to call that favor in until you've become the flashiest billboard there ever was.
+
+<BG=bg_talk_Marisa_Sepia.png,fade=0,color=1,title=*bg_Marisa>
+
+Marisa0d:...That's right. That's how I came to my current magic!
+
+Marisa1c:It was more than Lady Mima. I've gotten to know lots of other people. I've honed my own skills.
+
+Marisa4b:Yuuka's an awful jerk, but she still gave me some tips on light magic.
+
+Marisa0c:Alice can be a wet blanket sometimes, but she really cares about others.
+
+Marisa0a:I talk science with Nitori and magic with Patchouli...
+
+Marisa6a:Reimu and I never stop competing. She's always there to keep me on my toes.
+
+Marisa6a:And Kourin's always got my back.
+
+Marisa7c:No matter how much clutter my house collects, so much of it is stuff I'd never want to throw away.
+
+Marisa1d:...I never realized the magic I believed in was so ordinary.
+
+Marisa4d:I won't throw away anything. I don't have anything not worth keeping!
+
+Marisa2b:So I've got no reason to despair!
+
+<Code=(transition_out,c_white,50,1)>
+
+<end>
+
+<ChatID:6>----------------------------------------
+//回想シーン後のSLG
+
+Patchouli2a:Eek!
+
+<Code=(icon_set_direction,Meiling,Patchouli,0)>
+
+Meiling6a:Lady Patchouli!
+
+Alice1a:This is getting unpleasant. They've put us completely on the back foot...
+
+UsagiD0a:I guess Tewi was right, this isn't a walk in the park.
+
+UsagiD1a:But surely they'll never be able to handle THIS!
+
+<pause>
+
+Koakuma1a:Oh no, they have yet another thing up their sleeves?
+
+Lunasa1b:This is turning into a real headache. We can't even get close...
+
+<Code=(icon_set_direction,Yuka,Kurumi,0)>
+
+Kurumi1a:Yuuka, can't you just blow up all the rabbits at once?
+
+Yuka2d:I could, if you don't mind Marisa and all her friends getting vaporized.
+
+Patchouli2a:Drat, I wasn't expecting this to be such an uphill battle...
+
+<Code=(icon_set_direction,Nitori,Alice,0)>
+
+Nitori1c:Okay, you two grab Marisa and run for it!
+
+<Code=(icon_set_direction,Alice,Nitori,0)>
+
+<Code=(icon_set_direction,Patchouli,Nitori,0)>
+
+Alice1b:Nitori, we can't possibly―
+
+Nitori3c:It's either that or they get all of us.
+
+Nitori1c:If someone makes a distraction, you should be able to get away!
+
+Patchouli1d:You don't need to do that for us!
+
+<pause>
+
+Nitori2b:Aaaagh!
+
+Hina1b:Nitori!
+
+UsagiD0a:Heheheh, you still think you can get away? That's funny.
+
+UsagiD1b:Since you wouldn't surrender, you're all going down together!
+
+<Code=(icon_set_direction,Nitori,UsagiD_en,0)>
+
+Nitori2c:Just... gotta keep... bearing it...
+
+Marisa2b:You don't. Not anymore.
+
+<pause>
+
+<Code=(icon_set_direction,All,Marisa,0)>
+
+Mima0c:Marisa?
+
+UsagiD0a:Oh, hey. You can still stand after the trouncing I gave you?
+
+UsagiD1b:You should've kept taking your dirt nap. It's like you're asking for us to finish you off!
+
+Alice1b:She's right, Marisa! You can't use your hakkero―
+
+Marisa2b:No. No, she's not.
+
+<pause>
+
+UsagiD0a:...!
+
+<BGM=bgm_battle_MarisaR_full,0>
+
+<Code=(chat_set_auto,1,50)>
+
+Marisa4b:I remembered what my magic was. Where it came from...
+
+Marisa1c:Why I studied it... and what I want from it.
+
+Mima0c:Marisa, did you―
+
+Marisa6a:I once had nothing, but now my magic is filled to bursting with stuff.
+
+Marisa0a:My magic doesn't come just from you, Lady Mima. It's from all the things I've done, all the people I've met.
+
+Marisa7a:Every bit of history gives me its own power.
+
+Marisa2a:So I'm not casting anything away! THIS is what my magic is all about!
+
+UsagiD0a:Whoa, is that much light coming from that little box?
+
+Marisa1a:Answer me, mini-hakkero!
+
+<end>
+
+<ChatID:7>----------------------------------------
+//イベント戦闘直後
+
+UsagiD2a:Yikes! She got the Double-Dango Rabbits?!
+
+Lyrica1b:Marisa, where did that power come from?!
+
+Meiling0a:Your power and speed are both nothing like they were before!
+
+Marisa1c:The hakkero answered me... My magic got through to it!
+
+Patchouli3b:Looks like you're back in fine form, Marisa!
+
+Marisa6b:Yeah, my mind is clear now. I can even feel the pulse of the hakkero.
+
+Marisa7c:Sorry about all that, partner. From now on we're in this together!
+
+Luna3c:Wow, the new hakkero's got some serious power...
+
+Mima0c:No, simply channeling magic through it wouldn't get that kind of output.
+
+Mima1b:(It's the strength of her will... That's what it's responding to, isn't it?)
+
+Patchouli4a:...Took you long enough. Welcome back to the front lines.
+
+Marisa4c:Sorry about that. You girls must have had a hard time with me down.
+
+Marisa1a:But I'm going all-out now! Leave the rest to me!
+
+UsagiD0a:Now you're just getting cocky!
+
+UsagiD1a:Okay, last wave, come on out!
+
+<pause>
+
+<Code=(icon_set_direction,All,FD_LEFT,0)>
+
+Wriggle1b:Whoa, looks like they're playing for keeps!
+
+Marisa7a:Don't worry, I'm in top form!
+
+Marisa1a:I'll give them a sampler of the Marisa magic menu, with all the toppings!
+
+<end>
+
+<ChatID:8>----------------------------------------
+//ストリームレーザー初使用時
+
+<Code=(icon_set_direction,Lunasa,Marisa,0)>
+
+<Code=(icon_set_direction,Merlin,Marisa,0)>
+
+<Code=(icon_set_direction,Lyrica,Marisa,0)>
+
+Marisa0a:It feels like all of my spells are powered up!
+
+Lunasa0b:Marisa's got her groove back. Actually, she's even more in tune than before.
+
+Merlin1a:So now can we cut loose and get this party started?
+
+Marisa0e:Oh, were you girls trying to keep it down?
+
+Merlin0a:Lyrica was going on about how we had to read the room. It's such a pain!
+
+Lyrica1a:I guess sometimes I walk on eggshells too much.
+
+Lunasa1a:Go on, then. Show me your newer, clearer sound.
+
+Marisa0a:Sure, I'll make it brighter and flashier than ever!
+
+Marisa1a:My Illusion Laser, version 2.0... Stream Laser!
+
+<end>
+
+<ChatID:9>----------------------------------------
+//マジクナパーム初使用時
+
+<Code=(icon_set_direction,Nitori,Marisa,0)>
+
+Nitori0a:Marisa, you've regained your magic and then some!
+
+<Code=(icon_set_direction,Marisa,Nitori,0)>
+
+Marisa0a:Yeah, I feel like I can try out all kinds of new things now. So let's get to it.
+
+Nitori1a:...
+
+Marisa0d:What's with the dopey grin?
+
+Nitori1a:Because you're so cool like this.
+
+Nitori4c:You're way better suited to being the hero than the hostage!
+
+Marisa0a:Well, if you're gonna sing my praises like that, I guess I better show you a cool new technique.
+
+Marisa7c:I came up with a magical napalm based on that gunpowder of yours... but it explodes when exposed to magic, so it was kind of defective.
+
+Nitori2a:It does what?! You can't use that, that sounds dangerous!
+
+Marisa7c:That's what I used to think, but tools and magic are all about how you use them.
+
+Marisa1a:I won't let my old work go to waste. I'll blow open a path with Magic Napalm!
+
+<end>
+
+<ChatID:10>----------------------------------------
+//ノンディレ初使用時
+
+<Code=(icon_set_direction,Patchouli,Marisa,0)>
+
+Patchouli4e:Hmph, you kept us waiting long enough.
+
+<Code=(icon_set_direction,Marisa,Patchouli,0)>
+
+Marisa0a:Sorry about that, Patchouli. I guess I had you worried, huh?
+
+Marisa7c:I can't make that up to you, but I CAN show you some cool magic.
+
+Koakuma5b:Marisa... is that Patchouli's―
+
+Marisa0a:Yep. I've been researching it ever since we fought.
+
+Marisa7d:But I put my own spin on this, so you can call it mine now.
+
+Patchouli4a:Good grief. I don't know whether to call that industrious or just sly.
+
+Patchouli3e:But you have my interest. Show me a spell that does the original justice.
+
+Marisa0a:Sure. This'll mow down everyone around me!
+
+Patchouli1a:An omnidirectional laser barrage...
+
+Marisa1a:Non-Directional Laser!
+
+<end>
+
+<ChatID:11>----------------------------------------
+//マリス砲初使用時
+
+<Code=(icon_set_direction,Alice,Marisa,0)>
+
+Alice0d:I see you've finally mastered your new hakkero.
+
+<Code=(icon_set_direction,Marisa,Alice,0)>
+
+Marisa7a:Yeah, all that time I spent passed out helped me get some time to think.
+
+Marisa7c:Thanks for talking to me when I was down in the dumps. It really helped.
+
+Alice0d:I'm glad to hear it. Seeing you so dejected was throwing me off.
+
+Marisa0e:Okay, you probably could've gone without saying that...
+
+Marisa0a:But fine. Join up with me for a team-up attack.
+
+Alice0a:The usual "coordinated" maneuver?
+
+Marisa0a:Nah, I've got a new idea.
+
+Marisa1a:It's time to kick things into high gear! Try not to fall off!
+
+Alice2b:What? What does that mean―
+
+<end>
+
+<ChatID:12>----------------------------------------
+//ファイナルスパーク初使用時
+
+<Code=(icon_set_direction,Yuka,Marisa,0)>
+
+Marisa7a:Even the mini-hakkero says I can do it.
+
+Marisa1a:This thing should be able to handle my full power!
+
+<Code=(icon_set_direction,Marisa,Yuka,0)>
+
+Yuka0a:Hah, glad to see you've got that fire in you again.
+
+Marisa3b:Yuuka!
+
+Yuka0a:I heard it all. You've been dead-set on defeating me someday ever since our little fight back in winter, yes?
+
+Yuka0a:Do you think your dream could come true, now that you have your new toy?
+
+Marisa3a:Eh, well, I was pretty angry at you back then for talking shit about Lady Mima.
+
+Marisa0a:But I'm past that now.
+
+Yuka0b:Oh, that's a shame...
+
+Marisa1c:Don't get me wrong, I still wanna beat you.
+
+Marisa1a:But let's leave Lady Mima out of it, and make it a straight up contest, just you and me.
+
+Yuka0b:Haha, of course. I think I'd enjoy it more that way anyway.
+
+Yuka0a:Very well, then show me your new light cannon.
+
+Marisa1a:I call it... Final Spark!
+
+<end>
+
+<ChatID:13>----------------------------------------
+//勝利条件達成時
+
+<Code=(icon_set_direction,All,UsagiD_en,0)>
+
+UsagiD2a:Wh-wha... How could this happen?
+
+Marisa2b:You're all that's left. Give it up!
+
+<Code=(icon_set_direction,Mima,Marisa,0)>
+
+Mima0a:...I trust that you've found an answer.
+
+<Code=(icon_set_direction,Marisa,Mima,0)>
+
+Marisa0d:Lady Mima!
+
+Mima0a:Until this battle, I didn't understand what your magic truly was. But now it's clear to me.
+
+Mima0a:It's a pleasant magic, each and every bit filled with your conviction.
+
+Mima0a:But... do you really intend to follow through on it?
+
+Marisa0d:Why wouldn't I?
+
+Mima0a:Someday you'll reach a point where you can go no further. It's inevitable.
+
+Mima0a:Your human frailty may become the limiting factor to your ambitions.
+
+Mima2a:But it doesn't have to end that way. You can still join me―
+
+Marisa4b:Sorry, Lady Mima.
+
+<pause>
+
+<Code=(icon_set_direction,Mima,UsagiD_en,0)>
+
+Mima1a:...!
+
+Marisa7a:I've always been grateful to you for looking after me, for teaching me magic. And I still am.
+
+Marisa7a:But from now on I have walk my own path. Otherwise, it'd all be pointless.
+
+Mima0a:Your own path, huh?
+
+Marisa7a:Yeah. And Lady Mima, it doesn't matter where you are. It doesn't matter where you're looking.
+
+Marisa0a:Because one day I'll master a spell of my own that's so flashy and so powerful, you'll see it no matter where you are.
+
+Marisa1a:Even for just one fleeting moment...
+
+Marisa7d:Like a blazing star!
+
+<end>
+
+<ChatID:14>----------------------------------------
+//ADVB
+
+<BG=bg_talk_Korindo_Night.png,fade=0,color=0,title=*bg_Korindo>
+
+<Code=(map_flash,1,40,c_white)>
+
+<SE=se_Marisa_wrl02.ogg,wait=0>
+
+<Code=(demo_wait,45)>
+
+Korin2c:...?
+
+Korin0a:A shooting star? Now that's a curious sight, given how the night sky is still stuck in place.
+
+Korin0d:I hope Marisa's able to use the new hakkero...
+
+Korin1b:Well, I'm sure she'll be fine. Humans as consistent as Marisa don't exactly come along every day.
+
+Korin0a:But just in case, I made as many wishes as I could, for the most consistent girl I know.
+
+Korin3c:You'll carry those wishes through the sky with you.
+
+Korin0d:After all, the fate of my shop rests with you, my precious billboard.
+
+<MAP=3,FROM=迷いの竹林M39,TO=迷いの竹林M39,name=Bamboo Thicket,icon=5>
+
+<BG=*bg_talk_Lake_Night.png,fade=0,color=1,title=*bg_Waterside,bgm=bgm_talk_ningyo>
+
+Komachi3b:...Finally, we get to catch our breath.
+
+Wriggle0c:That was nuts, they were getting so much of a power-up from that dodgy-looking food...
+
+UsagiR0d:But you still beat them up and sent them packing. This whole team is so amazing!
+
+Sunny3a:Says the rabbit who didn't even do anything.
+
+Lunasa0b:But it's too bad we took them all down. We don't have anybody left to question.
+
+Lunasa0a:At least we got an idea of where their hideout is, going by where those reinforcements were coming from.
+
+Meiling3d:I guess that means the lure was a success. Barely.
+
+UsagiR0b:Lure...?
+
+Komachi5a:Nothing, never mind her. Little in-joke of ours.
+
+<single>
+
+Marisa1b:...Come to think of it, they were trying to take me hostage.
+
+</single>
+
+Nitori0b:That's right! I think they wanted to trade you for the rabbit.
+
+Nitori1a:But I don't really care what their reasoning was. We weren't gonna let them have you.
+
+Marisa0d:Don't push yourself too hard. I wouldn't be able to sleep at night if you got taken out.
+
+Alice0d:Well, it seems like you're able to draw out the hakkero's full potential now.
+
+Alice2b:How does it feel? It looks like you're not having trouble with it anymore.
+
+Marisa0c:Honestly it's weird how natural it feels in my hand.
+
+Marisa0a:The casing might be snazzier, but the heart's the same.
+
+Marisa7c:It's still the same old partner that's been with me all along. 
+
+Patchouli0b:If you're that confident about it, then there must be nothing more to worry about.
+
+Koakuma3b:This is way more like Marisa than the gloomy one we've had recently!
+
+Elliy0a:Hopefully this means you can resolve your differences with Mima, too.
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+Mima0d:I intend to settle things right now.
+
+Marisa3a:Lady Mima...
+
+Mima0e:You fought a splendid battle back there. It's like your last one never happened.
+
+Mima0a:And now I have a better sense of where you want to go from here.
+
+Marisa0c:...Yeah, I think this was a good growth opportunity for me.
+
+Luna1b:So, are you taking back what you said, Mima?
+
+Luna4b:You know, trying to get Marisa to throw away her hakkero and come with you?
+
+Mima0d:Let's hear your answer one last time.
+
+Marisa0d:Sure. I've made up my mind.
+
+Marisa0c:I can't cast everything away and follow you.
+
+Mima0d:...
+
+Marisa0c:And I don't think my feelings on that will ever change.
+
+Marisa7c:I just don't have it in me to throw things away.
+
+Mima0c:Hmm, well... That's quite big talk, coming from someone who's still an amateur.
+
+Mima3d:But very well. I won't intrude on how you do your magic any longer.
+
+Marisa0d:...!
+
+Mima0c:Dissatisfied? I thought you said you were fine with this.
+
+Marisa0c:...Yeah, I am. We're gonna walk different paths from now on, and I don't care whether you watch me or not.
+
+Marisa0a:I'm gonna blaze my own trail.
+
+Mima4a:Mm...
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+<single>
+
+Nitori2a:Are you sure you want to talk to her like that, Marisa?
+
+</single>
+
+Marisa0a:It's fine. This is the path I chose.
+
+Marisa0c:And we're gonna follow through. Me and my hakkero, together.
+
+<nowindow>
+
+<single>
+
+<Code=(demo_wait,45)>
+
+</nowindow>
+
+Mima0d:...
+
+Mima3a:(Huh. I never thought I'd see the day you'd take that tone with me.)
+
+Mima4b:(So your magic is never throwing anything away...)
+
+Mima3d:(Then that's the magic I'll put my faith in. You'd better stick with it.)
+
+Mima0d:(Both with your magic and your path in life...)
+
+<end>
+
+<ChatID:15>----------------------------------------
+//被撃墜（魔理沙、または魅魔）
+
+<Cond=(CHECK_BEATEN,Marisa,==,1)>
+
+Marisa2a:Dang it, how'd this happen?!
+
+</Cond>
+
+<Cond=(CHECK_BEATEN,Marisa,==,0)>
+
+Mima2a:Gah, I was too preoccupied by Marisa!
+
+</Cond>
+
+UsagiD1a:It's time to meet your fate!
+
+UsagiD0a:We'll be taking that bunny over there. We win!
+
+<end>
+
+<ChatID:16>----------------------------------------
+//全滅（侵入される）
+
+Nitori2a:Oh no, they took Marisa!
+
+UsagiD0a:Hee hee hee, mission complete!
+
+UsagiD1b:Now hand over the rabbit or else somebunny's gonna get hurt!
+
+<end>
+
+<ChatID:17>----------------------------------------
+//被撃墜（魔理沙R）
+
+Marisa2d:This isn't how it was supposed to go!
+
+Patchouli4a:You may have regained your enthusiasm, but it seems you still can't use your full power.
+
+Nitori1b:This is all messed up! We need a do-over!
+
+<end>
+
+<ChatID:18>----------------------------------------
+//虫との初戦闘（没）
+
+<end>
+
+<ChatID:19>----------------------------------------
+//魔理沙R増援前に兎Dを撃墜
+
+UsagiD1a:Hmm, not bad...
+
+UsagiD1b:But Tewi gave us these sennin beans! We're fine!
+
+<pause>
+
+Elliy1b:Whaaat? Come on, just one bean and they're back at full health?!
+
+UsagiD1a:Yep, that's right! Sucks to be you guys!
+
+<end>
+
+<ChatID:20>----------------------------------------
+//メーコ初戦闘（魔理沙撃墜後）
+
+Meko0g:(Marisa... you were so lost that you couldn't even use the hakkero...)
+
+Meko1e:(But the Marisa I know would pick herself right back up again.)
+
+<end>
+
+<ChatID:21>----------------------------------------
+//まくら初戦闘（魔理沙撃墜後）
+
+Makura1c:(Marisa, I can't even begin to imagine what's going on inside you right now.)
+
+Makura2a:(But I still believe in the back I saw back then.)
+
+<end>

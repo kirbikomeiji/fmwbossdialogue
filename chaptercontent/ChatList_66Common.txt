@@ -1,0 +1,1505 @@
+﻿○共通第六十六話「Beyond the Seal
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: first battle (ReiSana)
+ 4: first battle (MariPatche)
+ 5: first battle (IkuTen)
+ 6: first battle (IchiNue)
+ 7: got to goal (ReiSana)
+ 8: got to goal (MariPatche)
+ 9: got to goal (IkuTen)
+10: got to goal (IchiNue)
+11: clear
+12: ADVB
+13: lose
+14: after first use of kaminokaze
+15: after first use of kenja
+16: 2PP (acquire kenja)
+17-29: first battle (Group)
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<BG=bg_talk_Seirensen_Hall_Night.png,fade=1,color=1,title=bg_Seirensen_Hall,bgm=bgm_talk_aoki>
+
+<SE=se_talk_experiment01.ogg,wait=1>
+
+Patchouli3b:...Judging by the reaction, it appears we succeeded.
+
+Koakuma3b:You did it! You finally completed the 4th stone!
+
+Koakuma1c:Only one more left, Lady Patchouli!
+
+Patchouli4c:Yes, but this one likely won't go so well.
+
+Patchouli0a:The 5th stone is the crystallized energy of a soul. I'd love to complete it, but...
+
+Kurumi0a:Huh? Is this different from those stones you used before?
+
+Patchouli4c:Those were something else, imported from Makai. These stones are something I've been researching on Earth for a long time now.
+
+Patchouli0a:Not that alchemy is my specialty...
+
+Koakuma3a:Should we try adding reagents? I prepared all sorts of things before we left.
+
+Patchouli3a:Oh? Let's see...
+
+<SE=se_bomb03.ogg,wait=0>
+
+<Code=(map_shake,1,45,1)>
+
+<Code=(demo_wait,45)>
+
+Kurumi2a:Eek, it blew up!
+
+Patchouli4d:...Koakuma.
+
+Koakuma2b:I-I'm so sorry! I researched their properties first and everything!
+
+Patchouli4a:Regardless, the experiment failed. This stone is useless now, so dispose of it.
+
+Koakuma4a:Right. It seems like such a waste, though...
+
+<single>
+
+Iku0c:...Excuse me, but what was that noise just now?
+
+</single>
+
+Marisa0c:A magic experiment. She's been doing them non-stop for a while now.
+
+Tenshi4b:All I've gotten out of it is that there's fire involved, and it's an enormous hazard.
+
+Sanae4a:I can't believe it actually exploded. That's like a scene straight out of a manga.
+
+Reimu0d:Hey, Sanae, stop getting distracted. You've got work to do.
+
+Reimu0g:You need to finish maintenance of your new equipment before the next battle, don't you?
+
+Sanae0f:Oh, right. Then can you help me loop a string through this talisman, Reimu?
+
+Keine0a:I see two amulets. Are those your new equipment?
+
+Sanae1e:Yes. Lady Kanako and Lady Suwako prepared them for me to show that I'm ready now.
+
+Sanae0a:I'll be able to use more power than before in our upcoming battles.
+
+Reimu0c:I guess those two are finally comfortable with their kid leaving the nest.
+
+Mokou1a:I bet they're expecting the battles to come are going to be tougher than ever.
+
+Tenshi1e:...Huh. Everyone's really into this, aren't they?
+
+Tenshi4b:Then I should, um...
+
+Marisa0e:...Should what? You just started trailing off there.
+
+Elliy5a:Aha! After seeing everyone around you so busy, you're starting to feel uncomfortable being idle.
+
+Mokou0d:That's a pretty good attitude, coming from you.
+
+Tenshi6e:Shut up. I came here to help, so I'm going to do what I can.
+
+Keine6b:I appreciate the thought, but there's nothing wrong with resting when we have time to spare.
+
+Keine6c:Just having you and Iku as comrades is already very reassuring.
+
+Iku0e:We're... comrades to you?
+
+Marisa0a:Sure. I mean, you helped us with Koishi, and you even came to Makai with us.
+
+Marisa0c:As long as we're seeing things eye to eye, you're always welcome.
+
+Tenshi6d:Seeing things eye to eye... I've never thought of it like that.
+
+Tenshi4a:Actually, I find it questionable for a celestial to be treated like just another surface dweller.
+
+Keine0a:Is that so? Personally, I see it as something to be treasured.
+
+Keine6b:Being able to sympathize with those from different circumstances or positions is a precious thing.
+
+Tenshi0e:Is it?
+
+Keine0c:I'm a half-beast, so I'm often caught between human and youkai.
+
+Keine0a:But I believe that helps me understand just how difficult yet important it is to understand both sides.
+
+Sanae4b:Tenshi, you were born on Earth, so maybe you could feel the same way?
+
+Tenshi4b:Spare me your platitudes. Who would want a celestial like that?
+
+Reimu0f:I don't think any of us really want you to act more like a celestial though.
+
+Iku1c:Ah, I suppose one could see it that way...
+
+Tenshi1d:Don't you get started too, Iku. Aren't you also from heaven?
+
+Iku0a:I understand what you're trying to say, Eldest Daughter, but I believe they're making a salient point.
+
+Iku3c:If different people have their own perspectives, then maybe you don't have to feel trapped by the values of heaven.
+
+Sanae0a:Tenshi, didn't you say yourself that you could be you, back in the human village?
+
+Tenshi4b:Well, yeah, but...
+
+Mokou0d:The ability to empathize with others isn't as easy as you seem to think.
+
+Mokou5b:If you're a natural at it, then I don't think you should be forcing yourself to deny that.
+
+Elliy3b:That's part of what makes you you, Tenshi!
+
+Iku3a:...
+
+Iku5d:Hmm. A disposition that lets her empathize with others, is it?
+
+<BG=bg_talk_Makai.png,fade=1,color=1,title=bg_Seirensen_Deck,bgm=bgm_talk_ningyo>
+
+Sho4b:(The boundless Makai sky...)
+
+Sho4b:(Hijiri has been sealed beneath this lightless sky the whole time.)
+
+Sho4a:(When I've saved Hijiri, I...)
+
+Sho0c:Hm? That's...
+
+<SE=se_talk_walk_indoor03.ogg,wait=1>
+
+<single>
+
+Youmu2b:Whoa, the miasma outside is so thick.
+
+</single>
+
+Udonge3b:And we're supposed to keep watch like this? I mean, it's not impossible, but...
+
+Ran0c:This was decided fair and square through drawing lots. Let's try not to complain about it.
+
+Chen0b:Right, let's do our best!
+
+Udonge4d:...
+
+Satori0c:...So you wish she could share a little of that cooperativeness with Tewi? You've been through a lot.
+
+Kaguya3c:Maybe YOU could learn from her example, Inaba?
+
+Udonge2b:What are you talking about? I always follow orders.
+
+Yamame1a:Usually while grumbling about it.
+
+Nazrin3a:...Sheesh, guess we won't be getting any peace and quiet on this shift.
+
+Kisume3c:But chatting makes it less boring.
+
+Sho0c:...What are you all doing here?
+
+Chen0b:Oh, Shou! Hello!
+
+Ran0a:We've come to keep watch on the outside. Were you also here to observe the state of Makai, Shou?
+
+Sho0a:...Um, yes. I couldn't relax, so I decided to try a change of pace.
+
+Udonge3a:So you willingly came out here to breathe miasma? Are your nerves deadened or what?
+
+Youmu0b:Or is there something bothering you?
+
+Sho0b:Oh, no, I wouldn't say that...
+
+Satori0c:...
+
+Satori0b:If you're worried, then perhaps talking it out would help?
+
+Sho0c:...!
+
+Udonge0a:Wait, worried?
+
+Satori0b:...I'm sorry, I just thought it would be better than brooding over it by yourself, and it slipped out.
+
+Sho4a:...No, I was also considering discussing this again, now that we're approaching Hokkai.
+
+Nazrin0b:...
+
+Yamame0d:Sounds like a serious topic. Is it something hard to talk about?
+
+Sho0b:Yes. I believe some of you may have already heard this, but...
+
+Sho4a:It was I who sealed Hijiri, and none other.
+
+Kisume2b:Really?!
+
+Udonge3b:We're here to undo that seal, right? So that means...
+
+Ran6b:I hate to interject, but it seems you have a complicated situation.
+
+Nazrin0b:Yup. A thousand years ago, back when Byakuren was establishing her temple, master was its representative, as the avatar of Bishamonten.
+
+Nazrin6b:She was superb at her job, easily winning the trust of the humans.
+
+Nazrin6a:Because of that, when they discovered Byakuren's connections to youkai and drove her out, my master was forced to take their side.
+
+Satori0d:...So your actions were the result of being caught between human and youkai.
+
+Udonge4d:To protect yourself, you sided with the humans...
+
+Kaguya2e:Watch your words, Inaba.
+
+Udonge2b:Ah, I wasn't blaming her! I was just trying to say I know exactly how that feels. It's only natural to do whatever it takes to survive.
+
+Ran4a:Furthermore, I hear that even Byakuren understood Shou's position and didn't try to resist.
+
+Sho4a:...Thank you for your consideration. But it doesn't change the fact that I left her to die.
+
+Sho4b:And even if they tell me now that it's water under the bridge, I also sent Murasa and Ichirin to the Underworld...
+
+Yamame1d:Well there's no use worrying about it now. What's done is done.
+
+Kaguya2c:Indeed, and if you'd taken Byakuren's side back then I'm sure there would have been even more victims.
+
+Kaguya3a:You've been given an opportunity to atone. Shouldn't you take it?
+
+Ran3a:It's only because you survived back then that you're able to do this now.
+
+Sho0c:Everyone...
+
+Udonge5b:I-I kind of put that really rudely, didn't I? Sorry.
+
+Satori0c:We understand that you meant well, Reisen.
+
+Chen3a:Okay, now we just gotta do our best so we can save Byakuren!
+
+Youmu4a:And Shou, please stop blaming yourself all the time and think about what you're going to do when you meet Byakuren.
+
+Sho3c:Yes, my reunion with Hijiri...
+
+<SE=se_talk_console03.ogg,wait=1>
+
+Sho0c:Hm? I'm getting a call from the bridge.
+
+<SE=se_talk_console01.ogg,wait=0>
+
+<hide=video>
+
+Murasa0d:Hello? Shou? We couldn't find you, where have you been?
+
+Murasa0a:Anyway, things are going smoothly up here, so isn't it about time we continued that conversation from earlier?
+
+</hide>
+
+Sho0a:Understood. I'll be right there.
+
+<BG=bg_talk_Seirensen_Bridge_Makai.png,fade=1,color=1,title=bg_Seirensen_Bridge,bgm=bgm_talk_kagaku>
+
+Akyu0a:The Palanquin Ship's readings are steadily getting stronger.
+
+Ichirin0a:There's no doubt that we're approaching the entrance to Hokkai.
+
+Korin1b:And thanks to Mima's guidance, we managed to shave off some distance. We won't be falling behind Yumeko.
+
+Murasa3a:Little by little, we're getting closer to Hijiri.
+
+Nue0a:Well, you look happy, Minamitsu.
+
+Murasa3c:I just want to see her face as soon as possible. Although we haven't even gotten to the important part yet.
+
+Nue5a:...Yeah. I know I say this every time, but don't be reckless.
+
+Nue0a:Anyway, I'll be in my room.
+
+<SE=se_talk_door_open06b.ogg,wait=1>
+
+Sho0c:Sorry for the wait... Oh, you're leaving, Nue?
+
+Nue0c:Yeah. So outta the way.
+
+Sho0b:But aren't we about to have a strategy meeting?
+
+Nue5b:All I promised was that I wouldn't get in your way. You can figure this out for yourselves.
+
+Murasa0d:Wait, Nue!
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+Ichirin4b:...
+
+Mima0c:What's with her? Not very cooperative, is she?
+
+Aya3a:I really don't want to hear that from YOU, Mima.
+
+Mima0a:Anyway, Shou's here, so it's time I told you what I know about Hokkai.
+
+Sho0c:Please. But you seem to know of Byakuren as well, Mima.
+
+Sho0a:If you don't mind, could you explain that first?
+
+Mima0b:Sure. I mean, it's simple enough. I've talked to her.
+
+Murasa4a:You have?!
+
+Akyu0a:But you've never been to Hokkai before, right?
+
+Mima3b:I used magic to chat with her from outside the barrier.
+
+Mima0a:As soon as I got close, I could feel just a smidge of magic leaking out.
+
+Korin0b:Converting magic to signal and using that to converse... That's the same principle that makes the Palanquin Ship's transceivers work.
+
+Momiji0a:I think only people like Mima or Byakuren could manage it with so little energy getting through, though.
+
+Ichirin0a:Anyway, this confirms that the Chief is alright.
+
+Mima0a:Yeah, I couldn't tell you her exact condition, but she was able to talk with me at least.
+
+Mima0c:So I heard about you all and the Palanquin Ship directly from her.
+
+Murasa5d:...Thank the stars. I was trying not to consider the possibility, but something could easily have happened to her in Makai.
+
+Sho0a:...So what did you talk with her about?
+
+Mima0c:About how you were all working together to come rescue her.
+
+Mima0a:Of course, when she heard that, she was worried about YOU.
+
+Sho4a:...Don't tell me she told us not to come.
+
+Mima0c:Oh, yes, absolutely. But she WAS moved by your feelings.
+
+Mima0a:I'm sure she just didn't want you to be in any danger.
+
+Momiji4a:So even when she's the one sealed, she's still worrying about others.
+
+Hatate6a:W-Wow... She's seriously a saint...
+
+Murasa3d:That's just the sort of person Hijiri is. She hasn't changed from a thousand years ago.
+
+Sho4a:She was someone who believed in a harmonious future between human and youkai even as she was being sealed, after all.
+
+Ichirin1d:...But we've already come so far. I don't know about anyone else, but I'm not leaving until we save her.
+
+Murasa1b:Right. I mean, we've even left her seat open all this time.
+
+Mima0a:Good attitude. Can't wait to see where it takes you.
+
+Mima0c:But first, we need to get inside Hokkai in one piece.
+
+Akyu2b:What do you mean, in one piece?
+
+Aya0c:Didn't Shou say that the power of the Palanquin Ship was supposed to unlock it somehow?
+
+Mima0c:Well, last I saw it, there was more than one layer to that barrier.
+
+Mima0b:It's probably been reinforced repeatedly over the years.
+
+Momiji0a:I see. That makes sense, if Hokkai is meant to imprison powerful monsters.
+
+Hatate2b:So we might not be able to get in with just the power of the Palanquin Ship then.
+
+Korin0c:Not much choice other than to go out there and check though.
+
+Ichirin0a:Right. It doesn't matter what new obstacles turn up, we've already made up our minds.
+
+Murasa1b:We're heading to Hokkai and rescuing Hijiri! And that's that!
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP（出撃前）
+
+Mima1b:Okay, it's straight ahead from here.
+
+Korin2d:What an impressive vista. Is that a bottomless abyss below us?
+
+Daiyosei5e:Look, up ahead!
+
+<pause>
+
+Nazrin0b:Look familiar, master?
+
+Sho1b:There's no mistaking it, that's the pagoda that serves as the entrance to Hokkai!
+
+Sho0b:Although its surroundings have changed considerably over the years.
+
+Ichirin1d:But still, that's where the Chief is sealed, right?
+
+Murasa0d:Then let's open it with the power of the Flying Granary!
+
+<pause>
+
+Sho1b:...O treasure ship, imbued with the power of Saint Myouren. Now is the time! Please reveal your power and open the path to Hokkai!
+
+<pause>
+
+Suwako3b:Alright! Then we'll just stroll right on in and...
+
+<pause>
+
+Youmu2b:Uh...
+
+Eirin1b:The power is being suppressed. It seems to be under some kind of external influence.
+
+Kanako1d:Sure enough, the barrier's been reinforced.
+
+Yugi1a:So what do we do now? Smash it?
+
+Alice2b:Hold on! Let's not do anything rash. There must be a less destructive way to handle this.
+
+Yukari0b:In that case, why don't we disrupt the barrier's foundations to temporarily weaken it?
+
+Yukari0a:In my expert opinion...
+
+<pause>
+
+Yukari1a:These four locations are the barrier's linchpins.
+
+Ran6a:Understood. Let's divide our forces to get this finished as soon as possible.
+
+Marisa0a:In that case, I'm definitely going. Speed's my specialty, after all.
+
+Remilia3a:Go with her, Patchouli. I mean, you don't think she can handle it alone, do you?
+
+Patchouli0c:Fair enough.
+
+Sanae1c:Let's go too, Reimu. With our shrine maiden power, even a Makai barrier shouldn't last long.
+
+Reimu0b:Fine by me. Just don't forget to bring anything.
+
+Ichirin1c:I can't just leave this to others. I wanna put my spiritual strength and Unzan's insight to work here.
+
+Ichirin0c:As for my partner, well... Nue, come with us.
+
+Nue2b:What? It's not like I mind, but why?
+
+Unzan0a:...
+
+Nue2a:F-Fine. I'll join your stupid team, geez.
+
+Mokou0c:That's three teams. One left...
+
+Keine6a:Tenshi, could you go?
+
+Tenshi1d:Huh? Why me?!
+
+Eiki0a:Ah, of course. Her keystones have the power to disrupt the earth. It's perfect for disrupting the barrier.
+
+Yukari1a:I would gladly have handled this myself, but if that's what Lady Shiki wants then who am I to object?
+
+Tenshi2e:Fine, I'll do it!
+
+Iku5d:Then I'll go with her. Someone needs to ensure she doesn't get a bit too enthusiastic.
+
+Murasa1a:Then it's settled. The Palanquin Ship will stay here on alert while everyone else heads to their assigned points...
+
+<pause>
+
+Meiling1a:Oh no! We've been spotted by monsters!
+
+Mima1a:Great. A few monsters are just what we need to stave off boredom.
+
+Murasa1b:All hands, deploy!
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP（出撃後）
+
+Murasa0d:The miasma's so thick here...
+
+Murasa1b:Nue, Ichirin, be careful out there.
+
+Nue3c:Whatever, I'll be fine. Worry about yourself, Minamitsu.
+
+Hatate6b:Huh, where's Sanae's team? Didn't she volunteer for this?
+
+Sanae1a:Okay, here we are. Reimu Hakurei and Sanae Kochiya, moving out!
+
+<pause>
+
+Reimu2b:Sheesh, already late to the starting line.
+
+Suwako0d:Geez, what were you two doing?
+
+Sanae5c:Sorry, I was having trouble deciding what gear to take for this...
+
+Korin0a:Okay, so everyone else is going to cover them so they can get to their destinations.
+
+Akyu1a:We don't know when more monsters will show up, so try to finish this as quickly as possible!
+
+<end>
+
+Aya1b:Oho, so this is your new talisman? Looks good on you.
+
+Kanako1a:The Qian-God equipment and the Kun-God equipment can give you an edge, as long as you choose the most fitting one for a given situation.
+
+Reimu0g:And I helped you adjust them, so don't go breaking them or anything.
+
+Sanae3c:Right, leave it to me!
+
+<ChatID:3>---------------------------------------
+//レイサナ初戦闘会話
+
+Sanae1c:I'm starting to understand how these monsters move. Let's do our best, Reimu!
+
+Reimu0e:Yeah, of course...
+
+Reimu0b:Though I didn't expect you to be so chipper, Sanae. I figured the scenery of Makai would, I dunno, intimidate you?
+
+Sanae0a:Maybe it's because of my training? I feel closer than ever to Lady Kanako and Lady Suwako's power.
+
+Sanae4a:Not to mention that I'm finding these danmaku fights with youkai more and more enjoyable.
+
+Reimu4a:First Kanako and now you, everyone's so lively these days.
+
+Sanae4a:Oh, but of course I'm also very relieved that everyone else is here with me.
+
+Reimu1a:Yeah, yeah. Anyway, you volunteered us for this, so you'd better do your job.
+
+Sanae1a:Yes, Reimu!
+
+<end>
+
+<ChatID:4>---------------------------------------
+//マリパチェ初戦闘会話
+
+Marisa2b:A random encounter, huh? Keep your eyes on the enemy, Patchouli.
+
+Patchouli0a:Umm... So the simplest way to disrupt a barrier would be...
+
+Marisa4c:Wow... didn't even take a second for you to get lost in your books.
+
+Patchouli3a:A magician is someone who can only show their true power when they've made preparations beforehand. This is the most basic of the basics.
+
+Marisa0e:I get that, but it doesn't change the fact that all your advice comes a step too late.
+
+Patchouli3b:Weren't you the one on support duty this time?
+
+Marisa7c:Was I? Well, whatever, let's go!
+
+<end>
+
+<ChatID:5>---------------------------------------
+//いくてん初戦闘会話
+
+Tenshi0e:All set, Iku?
+
+Iku1a:My, you're certainly enthusiastic, Eldest Daughter.
+
+Tenshi0c:Sure I am. I'm not allowed to use my keystones willy-nilly in the terrestrial realm.
+
+Tenshi0a:Besides, this is my chance to truly shine.
+
+Iku0c:By which you mean...
+
+Tenshi3a:If I get this job done quick, everyone will be forced to recognize my true power.
+
+Tenshi4a:They won't mistake me for just another one of their friends or whatever anymore.
+
+Iku1c:Do you dislike that then?
+
+Tenshi4b:I didn't mean it like that. It's just... as a celestial, I'm not so sure about it.
+
+Iku4c:...Hmm. But it's also reassuring to see you get along so well.
+
+Tenshi1b:That's enough chit-chat. I have power enough to manipulate the land, so it's time to use it freely!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//いちぬえ初戦闘会話
+
+Nue5b:Geez, you're always so pushy, Ichirin.
+
+Nue0c:So. You set us up to be alone together, so I'm guessing you have something to talk about?
+
+Ichirin0a:Was I that obvious? Actually, I just wanted to hear your thoughts before we arrive in Hokkai.
+
+Nue2b:What do you mean, my thoughts?
+
+Ichirin4c:You've been helping us with all this stuff, but you're not really happy about this, are you?
+
+Ichirin4a:Everyone else is all fired up to save the Chief, but I know you don't agree with our ideals, so... aren't you upset?
+
+Nue0c:...Not really. You and Minamitsu are just so into this that I don't feel like raining on your parade.
+
+Nue0a:My role here is just to stand back and make sure you two don't do anything stupid.
+
+Ichirin4c:It's appreciated, but still...
+
+Nue3a:Let's just do what we're here to do, huh?
+
+Ichirin4a:I suppose you're not the type to share something just because someone asks you to. But I guess we can clean up the enemies right here first.
+
+<end>
+
+<ChatID:7>---------------------------------------
+//レイサナが目的地に到達
+
+<Code=(icon_set_direction,Reimu,FD_LEFT,0)>
+
+<Code=(icon_set_direction,Sanae,FD_LEFT,0)>
+
+Reimu0e:We arrived. Now we just need to do something.
+
+Sanae0g:Define "something". What do we do, give it a gentle tapping?
+
+Reimu4a:You pick the weirdest times to sound careless about your job. You gotta handle it like... so.
+
+<pause>
+
+Sanae1d:Wow, so fast! How did you do it?
+
+Reimu0c:You just go like... and there.
+
+Sanae5d:I think your explanation was even more careless, Reimu.
+
+Reimu0b:Anyway, we did what we're here for, so let's head back to the Palanquin Ship and...
+
+<pause>
+
+Reimu2a:Ack, we're surrounded.
+
+Sanae0g:They aren't powerful, but there are so many of them...
+
+Sanae1a:Reimu, allow me.
+
+Reimu0f:To do what?
+
+Sanae0b:With my new equipment, I should be able to raise my faith to its maximum even outside the Moriya Shrine.
+
+Sanae1a:I'll invoke a top-class miracle and blow them all away in an instant!
+
+<end>
+
+<ChatID:8>---------------------------------------
+//マリパチェが目的地に到達
+
+<Code=(icon_set_direction,Marisa,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Patchouli,FD_RIGHT,0)>
+
+Marisa0d:We're here. Looks like the barrier was put up with magic.
+
+Patchouli0c:Hmm. For this spell formula...
+
+<pause>
+
+Marisa0a:Oh, that was fast.
+
+Patchouli0c:It was described in a book I've read. If you understand the mechanisms then it's quite simple.
+
+Marisa0c:Victory goes to the prepared, huh? Just what I'd expect from an experienced magician.
+
+Patchouli4e:...What? That came out of nowhere.
+
+Marisa7c:There's a lot of magic I wanna study, but I only have finite time. So I'm glad to have other magicians around.
+
+Marisa0a:Especially you, Patchouli, since you leave behind all those grimoires you write.
+
+Patchouli4c:...I don't write them for you, Marisa.
+
+Patchouli3b:But, well, as long as you're showing appreciation I'm willing to direct you to a few recommendations.
+
+Marisa7c:Really?! I'm gonna borrow them until I die!
+
+Patchouli4c:...I brought this up, so I won't press the matter.
+
+Patchouli4e:But in exchange, when it comes time for you to return them, I'll be borrowing all the books YOU'VE written. Until I die, naturally.
+
+<end>
+
+<ChatID:9>---------------------------------------
+//いくてんが目的地に到達
+
+<Code=(icon_set_direction,Tenshi,FD_LEFT,0)>
+
+<Code=(icon_set_direction,Iku,FD_LEFT,0)>
+
+Iku1c:We've arrived, Eldest Daughter. Now, the keystone.
+
+Tenshi1b:I know! Hrah!
+
+<pause>
+
+Iku3c:Good, the barrier is weakening. Excellent work.
+
+Tenshi3a:...Phew, it went well. The temple bunch should be happy with that.
+
+Tenshi0a:At this rate, I feel like maybe we'll free this Byakuren lady after all.
+
+Iku4b:Yes, I've been starting to feel that myself.
+
+Iku0a:Indeed, it seems there was some truth to what everyone's been saying.
+
+Tenshi1e:What are you talking about?
+
+Iku0a:With the two of us taking action like this... Even I'm starting to feel reassured.
+
+Iku3c:Sympathizing with terrestrial humans and youkai, tackling issues from their perspective... This might be what sets you apart, Eldest Daughter.
+
+Tenshi4a:What's gotten into you, Iku? This isn't like you.
+
+Tenshi6d:You never talk about me other than when you're lecturing me...
+
+Iku3c:Perhaps it's because we're away from heaven and I'm no longer seeing you through my usual filter.
+
+Tenshi0c:...
+
+Iku0a:Everyone here thinks highly of you, as a friend.
+
+Iku0e:If you like how that feels, then why not just accept it?
+
+Tenshi0c:...You're right, these are things I never experienced in heaven.
+
+Tenshi0a:Being relied on, joining forces, and all that. But I'll never be the same as a human.
+
+Iku0e:Are you referring to your station?
+
+Tenshi2d:It's the same for you, isn't it? Aren't you just following me around for your job anyway?
+
+Iku4c:...Sometimes I wonder that very thing.
+
+<end>
+
+<ChatID:10>---------------------------------------
+//いちぬえが目的地に到達
+
+<Code=(icon_set_direction,Ichirin,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Nue,FD_RIGHT,0)>
+
+Ichirin0d:So this is the barrier's foundation? I wonder how it works.
+
+Nue1a:They're a thousand years too early to be hiding something's true form from ME. Looks like all we need here is a little...
+
+<pause>
+
+Unzan0a:...!
+
+Ichirin3b:Wow, good job Nue. I was just going to try hitting it.
+
+Nue4b:...You know, Ichirin, maybe you should work on that bad habit of punching everything without thinking.
+
+Nue5b:Aw, dammit, but now we're one step closer to reviving that Hijiri lady...
+
+Ichirin4a:See? I knew it was eating at you.
+
+Nue0c:...Well, yeah. Once this Hijiri lady comes back, Minamitsu's ship is probably getting turned back into a temple, right?
+
+Nue4c:When that happens, an outsider like me wouldn't exactly be welcome.
+
+Ichirin4c:Nue...
+
+Nue5a:Plus, Minamitsu has always had this look in her eye when she's talking about Hijiri. It's gonna suck having things change...
+
+Ichirin4c:...And you never told us any of this? You sure pick the weirdest times to show a sense of honor.
+
+Ichirin0a:But anyway, even when the Chief comes back, nothing between us is going to change.
+
+Nue5a:You say that, but I never knew the two of you as you were back then.
+
+Ichirin3c:You worry too much. How long do you think the three of us have been together?
+
+Ichirin3a:Our debt to the Chief is important to us, sure, but so's our friendship with you, Nue.
+
+Ichirin1d:If it wasn't, then why the heck do you think we went through all that trouble to get you to come along with us?
+
+Nue2b:Ichirin...
+
+Ichirin3c:Plus, the Chief isn't the sort of narrow-minded person who'd kick someone out just because they aren't one of her disciples.
+
+Ichirin0a:You'll have your own chance to talk to her once we save her, Nue.
+
+Nue5b:Not that I really want to...
+
+<end>
+
+<ChatID:11>---------------------------------------
+//クリア時★EvID:.
+
+Korin1c:The barrier is weakened. We should be able to open the gate now.
+
+Murasa1b:Okay Shou, do your thing.
+
+Sho1b:Right! Flying Granary, unleash your power!
+
+<pause>
+
+Rumia1a:Ooh, lookie.
+
+Wriggle1b:The door to Hokkai opened!
+
+Mima1a:Well what do you know, the plan worked.
+
+Ichirin0a:Right, now we can go get the Chief.
+
+Sho0b:It was a long journey, but the day is finally here.
+
+Nazrin0b:I get what you're feeling, but it's too soon to relax.
+
+Nazrin0a:We've got one last step ahead of us. We've still gotta enter Hokkai and undo Byakuren's seal.
+
+Yuyuko1a:It's going to close up if we don't act soon. Let's head in, shall we?
+
+Murasa0a:Right. Everyone, over here and...
+
+Momiji2a:...!
+
+Momiji1a:Hold on. Something's coming from the other side of the door!
+
+Daiyosei1a:The other side?
+
+<pause>
+
+<Code=(icon_set_direction,All,EvileyeK2_en,0)>
+
+Nazrin2a:...?!
+
+Keine1a:What is that...?!
+
+EvileyeK20a:...
+
+Youmu2b:A-A huge eyeball... A super-giant Evil Eye?!
+
+Mima1c:It dwarfs the ship... Even I've never seen one that big!
+
+<SE=se_Yamame_eye01.ogg,wait=0>
+
+EvileyeK20a:...!
+
+Kurumi2a:Eep! It's looking at us!
+
+Elliy2a:Is this the kind of monster they've got sealed in Hokkai?!
+
+Sho1b:More importantly, it's blocking the gate! We can't get through!
+
+Alice1a:Calm down, everyone! It doesn't matter how big it is. As long as we handle this calmly...
+
+Marisa2b:No...!
+
+<pause>
+
+Nitori2a:The gate's closing! The barrier's started to repair itself!
+
+Utsuho0d:Oh no, if it closes like this, are we gonna have to start all over?!
+
+Parsee0d:That maid from before is gonna catch us before we manage that!
+
+Kanako1c:It's one thing after another... And we were so close!
+
+Murasa0c:...
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Murasa1b:Mister Kourindou, Akyu... I want you to bear with me.
+
+Kosuzu6b:Huh? What do you mean?
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Murasa1b:Mister Kourindou, Akyu, Kosuzu... I want you to bear with me.
+
+Akyu1a:Huh? What do you mean?
+
+</Cond>
+
+Murasa2c:...Yah!
+
+<Code=(map_shake,1,15,2)>
+
+<SE=se_talk_glass02.ogg,wait=1>
+
+Korin1c:...!
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Kosuzu5a:D-Did you just break the safety glass covering the emergency booster?!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Akyu4a:D-Did you just break the safety glass covering the emergency booster?!
+
+</Cond>
+
+Murasa1b:Sure did! And I'm gonna use it!
+
+Korin2d:No way, Murasa?!
+
+Murasa1b:If we slam the ship into it, even something that big is going down. And then we can all swoop in before it closes!
+
+Udonge2b:Are you insane?! I mean, sure, with that much mass it just might work, but...
+
+Nitori2a:I don't care how strong the ship is, a direct hit at those speeds would smash it to pieces!
+
+Nitori2a:Not to mention, you're not gonna be able to steer at that speed!
+
+Nue2a:Remember what I told you about doing anything stupid, Minamitsu?!
+
+Murasa1b:I know, I know, but with this crew, we can do it!
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Kosuzu2a:...Got it. Everyone, prepare to follow the Palanquin Ship.
+
+Ichirin1a:Kosuzu...!
+
+Korin4a:There's only one thing to do when we're down to our last chance—and that's to just go for it.
+
+Korin1c:There's no time to debate options. We have to take action!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Akyu1a:...Roger that. Everyone, prepare to follow the Palanquin Ship.
+
+Ichirin1a:Akyu...!
+
+Akyu1a:There's only one thing to do when we're down to our last chance. Let's just go for it!
+
+Akyu1a:There's no time to debate this, so give your directions as we're working!
+
+Korin3a:Good grief... No time for balking either, huh.
+
+</Cond>
+
+Mokou1c:The bridge has set its course. We'll just have to have faith in them.
+
+Sho1b:Our hearts are with you. We're counting on you, Murasa!
+
+Yukari2a:Everyone back here is on standby. We're prepared to move in as soon as the ship crushes the enemy.
+
+<pause>
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Kosuzu2a:Releasing the final lock on the emergency boosters! Ready for ignition!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Akyu1a:Releasing the final lock on the emergency boosters! Ready for ignition!
+
+</Cond>
+
+Korin1c:Fasten your seatbelt, everyone!
+
+Murasa2a:...The Palanquin Ship is carrying everyone's bonds. With that power, I know we can do this!
+
+Murasa1b:Palanquin Ship, charge!
+
+<pause>
+
+Sunny1a:Ooh, that was...
+
+Meiling1a:They did it! They blew away that giant Evil Eye!
+
+Ran1a:A do-or-die ramming maneuver with the entire weight of the ship moving beyond its maximum speed!
+
+Ran0a:Normally they'd take heavy damage from the impact, but by hitting with the shield at pinpoint size, they weaponized the impact itself.
+
+Tewi1c:N-No way. I can't believe they pulled it off under this kind of pressure...
+
+Ichirin3d:But they did. It's all thanks to the strength and solidarity of the crew.
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Suwako1a:Obviously Murasa was the one keeping it under control, but Kosuzu and the others were no slouches either, for being able to calmly support her.
+
+Kosuzu1a:My heart was beating out of my chest!
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Suwako1a:Obviously Murasa was the one keeping it under control, but Akyu and Kourindou were no slouches either, for being able to calmly support her.
+
+Akyu3a:I haven't lived all these lives for nothing, you know.
+
+</Cond>
+
+Letty1a:We can celebrate later, we've got to follow the ship!
+
+Youmu1a:Right, before the gate closes!
+
+<pause>
+
+Sanae1a:...!
+
+Hatate2a:What's this shaking? I've got a bad feeling about this...
+
+Eirin2a:The curvature of space is warping? And this mana gradient...
+
+Medicine2a:Eirin, could you say that again in real words?!
+
+Eirin2a:This is bad. That monster forcing its way out has thrown the area's power completely out of balance.
+
+Eirin1b:At this rate, it'll suck everything in the area into Hokkai!
+
+Mystia2a:Bwhaaa?! We'll be sucked in?!
+
+Alice1a:Just grab onto something! We'll be scattered by the impact!
+
+<end>
+
+<ChatID:12>---------------------------------------
+//ADVB（なし）
+
+<end>
+
+<ChatID:13>---------------------------------------
+//全滅時
+
+Akyu2a:Oh no...!
+
+Mima2b:The plan failed. Is that the best we've got?
+
+Korin2b:Not to mention the ship is completely out of spirit energy. We'll have to get home on foot.
+
+Patchouli4b:...You've got to be kidding me. Absolutely not. Let's try this again.
+
+<end>
+
+<ChatID:14>---------------------------------------
+//神の風を初使用後
+
+Hatate0a:Ooh, that spell just now...
+
+Momiji4a:It's Lady Kanako's Divine Wind. Looks like she successfully invoked it in Makai.
+
+Sanae3c:Lady Kanako? Lady Suwako? How was that?
+
+Kanako0d:Excellent work, Sanae. It's quite a feat working a miracle of that level with such a short incantation.
+
+Suwako3b:Keep that up and humans will fear your name in no time!
+
+Sanae6e:Right! It's always better if miracles are all WHOOM and BAM! It's flashier that way!
+
+Reimu2b:...Yeah, I still think you're more careless than me.
+
+<end>
+
+<ChatID:15>---------------------------------------
+//賢者の石を初使用後
+
+Patchouli0c:Whew. It worked.
+
+Koakuma3d:You did it, Lady Patchouli!
+
+Mima0c:Oho. That was...
+
+Alice0a:So you crystallized soul energy around five different colored magic stones as the core.
+
+Alice0d:That enables you to use five different elements at once while also amplifying them. An interesting idea.
+
+Marisa0e:But how am I supposed to copy that?
+
+Mima3c:It's still too early for you. You'll have to settle for using it as reference.
+
+Mima0a:But I'd expect no less from you, Witch of the Seven Luminaries. Maybe you could show it to me from up close next time.
+
+Flan0b:...Why can't they just praise you normally? It almost sounds like they're complaining or something. It's so weird.
+
+Patchouli0a:That's what it means to be a magician, or rather, a scholar.
+
+Patchouli0a:To do research for its own sake, and slowly but surely add to our collective knowledge.
+
+Patchouli0a:If there's an end goal, perhaps it's that accumulation itself.
+
+<end>
+
+<ChatID:16>---------------------------------------
+//2PP、または敵を一定数撃墜時
+
+Patchouli4a:Good grief, this is further than I thought. Maybe I should have stayed on the ship after all.
+
+Marisa3d:Stop whining, I'll let you ride on my broom.
+
+Marisa0a:Come to think of it, wouldn't this have been a good chance to test out that new rock you were working on?
+
+Patchouli4f:The experiment isn't proceeding that smoothly. I'll need to be patient.
+
+Patchouli6b:Not that I haven't entertained thoughts of testing my new magic in Makai.
+
+Koakuma4b:I'm sorry. If only that last experiment had gone well...
+
+Koakuma5b:...No, wait!
+
+Patchouli0c:What is it, Koakuma?
+
+Koakuma1a:Here, Lady Patchouli! Use this!
+
+<pause>
+
+Patchouli1d:This stone...
+
+Koakuma1a:It's the failure from earlier! I thought it was a waste to lose, so I put it in my pocket.
+
+Koakuma1a:But when I looked at it just now, it was clear and transparent...
+
+Patchouli0b:...There's no doubt about it, this is the final stone. I'd thought it was a failure, but apparently it was merely a gradual process.
+
+Patchouli3e:Excellent work, Koakuma. I'm glad I have you as a familiar.
+
+Marisa0d:That means...
+
+Patchouli1a:Indeed. The elemental magic I've been researching is now completed.
+
+Patchouli1a:This is the culmination of the knowledge and research of countless magicians.
+
+<end>
+
+<ChatID:17>---------------------------------------
+//初戦闘：藍、橙、紫、幽々子
+
+Ran0a:Everyone's become so reliable. We can even leave the matter of the barrier to them now.
+
+Chen2b:But can we really trust Tenshi with it?
+
+Chen4b:The last time you talked to her, you gave her a kinda scary look, Miss Yukari.
+
+Yukari0a:That was simply incredulousness on my part. But I believe she's been working well with Reimu and the others since then.
+
+Yuyuko0a:For now, let's just wait and see.
+
+Yukari1a:Right. Only time will tell.
+
+<end>
+
+<ChatID:18>---------------------------------------
+//初戦闘：レミリア、フラン、咲夜、美鈴、エリー、くるみ、小悪魔、小町
+
+Sakuya0a:I note that the Scarlet Devil Mansion has but one entry in this race to disrupt the barrier.
+
+Remilia1e:So, wanna bet on where our walking library places?
+
+Meiling0c:Sure, but try to keep the stakes low please. Like, dessert.
+
+Flan3d:Okay, I bet she comes in dead last!
+
+Elliy1a:I'll join too! I bet she gets the booby prize!
+
+Kurumi3b:I bet she takes first in a shocking upset!
+
+Komachi1b:Then I bet she takes second-to-last.
+
+Koakuma5b:I guess it's good that they're cheering for her... Sort of?
+
+<end>
+
+<ChatID:19>---------------------------------------
+//初戦闘：リリー、レティ、静葉、穣子
+
+Minoriko3b:Four keystones, hm. Maybe the four of us should've gone, since we govern the four seasons.
+
+Shizuha1b:Letty, Lily, Minoriko, and me...
+
+Letty4b:Aren't we missing summer? And that's two autumns.
+
+Minoriko4a:Hmmm, good point. Then how about someone like Wriggle? She's a summer bug.
+
+Wriggle6b:Whoa! An arrow just flew at me!
+
+LilyW4d:That means you're in the Season Alliance!
+
+Wriggle0c:Huh...?
+
+<end>
+
+<ChatID:20>---------------------------------------
+//初戦闘：チルノ、ルーミア、ミスティア、サニー、ルナ、スター、大妖精
+
+Cirno5g:I wanted to break the seal too!
+
+Rumia0a:We've got a history of getting results! I can't believe they didn't even ask us.
+
+Mystia0c:Wait, do you actually have a history there?
+
+Star6b:Don't look so shocked. We're the ones who broke Flandre's seal, you know.
+
+Sunny1b:You could even say that if it weren't for us, she never would have made up with Remilia.
+
+Luna6a:...That's not something to brag about, is it? That was a huge mess.
+
+Daiyosei2c:Right! And we've gotta concentrate on the battle now....
+
+Daiyosei0b:(...But that rock Cirno gave me back then sure was pretty.)
+
+<end>
+
+<ChatID:21>---------------------------------------
+//初戦闘：アリス、雛、にとり、メディ
+
+Nitori4a:That was the first time I've heard you talk about your childhood, Alice. It caught me off guard.
+
+Nitori4d:Getting lost in Makai by yourself... it's almost like Alice in Wonderland.
+
+Alice0a:Yeah. I don't remember any of the details, but...
+
+Alice0a:Even though everything was unfamiliar to me, I slowly got used to it thanks to the support of my mother.
+
+Medicine2b:That's what you mentioned to me before...
+
+Hina0c:Did you say something, Medicine?
+
+Medicine5c:No, nothing. C'mon, keep your eyes on the monsters! Let's crush them!
+
+<end>
+
+<ChatID:22>---------------------------------------
+//初戦闘：ルナサ、メルラン、リリカ、魅魔
+
+Lyrica0c:We're right about to break into Hokkai, huh? What kind of noise do you think would liven this up?
+
+Lunasa0b:The magic here is pulsing so ominously... I'd love to turn that into sound.
+
+Merlin1c:No matter what, no matter when, stay happy!
+
+Mima0c:You three are always so noisy. You're not earthbound spirits, are you?
+
+Lyrica1b:Hmm... What do you think, Merlin?
+
+Merlin2b:Don't ask me, ask Lunasa.
+
+Lunasa0b:Even I can't answer that.
+
+Mima2b:Wait, so even though there are three of you, none of you can remember where you came from? Risky business, for a ghost.
+
+Mima0b:Spirits are fundamentally unstable. If you're not careful, you could just disappear.
+
+Lunasa0a:...Eiki said something like that too. We'll keep in it mind.
+
+<end>
+
+<ChatID:23>---------------------------------------
+//初戦闘：ヤマメ、キスメ、勇儀、パルスィ、萃香
+
+Kisume0b:What kind of place do you think Hokkai is, Yamame?
+
+Yamame0c:Well, they said they exiled all their dangerous monsters there, so I'm guessing it sucks.
+
+Yugi1b:But isn't that the same thing they did with the Underworld? So maybe it's more like that.
+
+Suika6b:So you mean like a place where people who couldn't fit in can live in peace?
+
+Parsee2a:Well excuse me for being a non-conformist!
+
+Yugi2b:No one's saying anything about you, Parsee.
+
+Yamame0a:Anyway, we'll know when we get there. For now, why don't we kick these monsters to the curb?
+
+<end>
+
+<ChatID:24>---------------------------------------
+//初戦闘：さとり、こいし、お燐、空
+
+Utsuho0e:Wow, the animals in Makai are so different from the Underworld.
+
+Koishi1a:Hey, Satori, can we take one of those big ones with the tongues home?
+
+Satori0b:No.
+
+Koishi3c:Pretty please? I'll take care of it!
+
+Satori3f:Don't make those puppy-dog eyes at me. No means no. We don't even know what they eat.
+
+Utsuho0e:It's a Makai animal, so maybe Makai grass?
+
+Koishi4a:Grass, huh... So maybe around here...?
+
+Koishi6c:Hey, I found this weird-looking bone! Think we can take it home to decorate the foyer?
+
+Orin3a:I think she's moved on from Makai pets...
+
+<end>
+
+<ChatID:25>---------------------------------------
+//初戦闘：星、ナズーリン、村紗、聖輦船
+
+Akyu0a:Ichirin took Nue with her. Will they be alright?
+
+Murasa0c:Nue was looking down earlier, so I think she got the wrong idea.
+
+Korin0a:Is that how it is? Then you should have gone with them, Murasa.
+
+Nazrin0a:Just this once, we REALLY need the captain on board the ship. You'll just have to buckle down.
+
+Murasa0a:I'm sure it'll all work out once Hijiri gets back. I'm not too worried.
+
+Murasa3d:You know how she is by now, but, well, try to get along.
+
+Kosuzu3d:Yes, of course!
+
+Sho3b:Right. I know she's your dear friend.
+
+<end>
+
+<ChatID:26>---------------------------------------
+//初戦闘：永琳、輝夜、鈴仙、てゐ
+
+Eirin0e:Did something you discussed on the deck pique your interest, Princess?
+
+Kaguya3c:It did. What Shou said about how she sealed her savior and whatnot.
+
+Eirin1a:Good. Then it seems it was worth having you do menial tasks like keeping watch.
+
+Udonge3a:Um, I was there with her. Where's my praise?
+
+Tewi0a:In your case, menial tasks like that are your bread and butter.
+
+Tewi3f:Didn't you clear the gloomy atmosphere by making stupid complaints?
+
+Udonge2b:Sh-Shut up! That's slander.
+
+Eirin0a:That's enough. If you get distracted, you'll be asking for trouble.
+
+Tewi3d:You're the boss, ma'am.
+
+<end>
+
+<ChatID:27>---------------------------------------
+//初戦闘：慧音、妹紅、妖夢、映姫
+
+Keine0a:Why don't we watch and see what kind of battle Reimu and Marisa show us?
+
+Mokou1a:Ichirin and Tenshi seemed pretty into it too.
+
+Youmu0b:Speaking of which, why did you nominate Tenshi, Keine?
+
+Keine0a:Because she's like a mix of human and celestial. As a half-beast myself, I feel a kind of connection to her.
+
+Eiki0a:It was the correct choice. People like you two, who are caught between races, are also in a position to be the bridge between them.
+
+Eiki0a:She should be able to experience that for herself once she comes to terms with everything within the cycle of human and youkai.
+
+Youmu3a:Wow. You put a lot of thought into this...
+
+Eiki0c:This is not time to be impressed, Youmu Konpaku. This is an important lesson for you too.
+
+Youmu2b:Ah... Yes, ma'am!
+
+<end>
+
+<ChatID:28>---------------------------------------
+//文、椛、神奈子、諏訪子、はたて
+
+Aya0a:We don't have to get nervous about letting Sanae go off by herself these days, huh?
+
+Momiji5a:Agreed... Though that does make me feel a twinge of loneliness.
+
+Suwako3b:Thanks for worrying. But even if she's going into battle alone now, her personality hasn't changed.
+
+Kanako0d:She's the sort of child who can keep facing forward precisely because she knows that everyone has her back.
+
+Kanako2b:We'd like to continue to ask you for your support from here on out.
+
+Hatate3d:Sure thing! But when a danmaku battle breaks out, it's another story!
+
+Aya7b:We aren't so meek as to give up a great photography subject without a fight.
+
+<end>
+
+<ChatID:29>---------------------------------------
+//初戦闘：小傘
+
+Kogasa3d:I have a chance to surprise everyone while they're busy with the barrier!
+
+Kogasa0b:Here goes! Oogly-boogly-boo!
+
+Kogasa0b:...
+
+Kogasa2c:Come on, nothing?! Oogly! Boogly! Booo!
+
+<end>
+
+<ChatID:30>---------------------------------------
+//クリア時その２★EvID:.
+
+Akyu0b:And with that, all teams have successfully interfered with the barrier.
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_enemies,==,0)>
+
+Keine0a:There were unforeseen problems, but this team handled them all nicely.
+
+Keine6c:Splendid battle everyone, we put everyone's unique strengths to good use.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_enemies,>,0)>
+
+Keine0c:There are still some monsters left, but this isn't the time to fight. Let's just leave them.
+
+Keine6c:Splendid battle everyone, we put everyone's unique strengths to good use.
+
+</Cond>
+
+<end>
+
+<ChatID:31>---------------------------------------
+//クリア時その２★EvID:.
+
+Sanae4a:Thank you very much. It was all thanks to the Shrine Maiden Combination.
+
+Reimu0e:Kind of sucks that Marisa finished before us though.
+
+<end>
+
+<ChatID:32>---------------------------------------
+//クリア時その２★EvID:.
+
+Patchouli3a:...Well, it was a good opportunity to use my new magic.
+
+Marisa0c:Kind of sucks that Reimu finished before us though.
+
+<end>
+
+<ChatID:33>---------------------------------------
+//クリア時その２★EvID:.
+
+Iku3c:Thank you for regarding us so highly.
+
+Tenshi0b:Yes, I suppose we did a proper enough job.
+
+<end>
+
+<ChatID:34>---------------------------------------
+//クリア時その２★EvID:.
+
+Nue0c:...It was nothing special. I just did it.
+
+Ichirin3c:So she says, but I'm just glad we managed to finish that without incident.
+
+<end>
+
+<ChatID:35>---------------------------------------
+//初戦闘：メーコ、まくら
+
+Makura1c:Hokkai is just ahead. Let's proceed with caution.
+
+Meko1b:Right, of course!
+
+Meko0a:By the way, about that voice you were talking about... Is it okay now?
+
+Makura0d:...Yes. I could only hear it a few times.
+
+Makura2a:And when I do, I'm always...
+
+Meko1a:Sounds like it's limited by some kind of timing then?
+
+Makura1c:Yes. No doubt connected to whatever her true identity is.
+
+Makura2a:I'll let you know when I'm more certain. For now, focus on the battle at hand.
+
+Meko1f:Roger that!
+
+<end>
+
+<ChatID:36>---------------------------------------
+//
+
+<end>
+

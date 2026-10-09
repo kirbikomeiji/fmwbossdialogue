@@ -1,0 +1,1130 @@
+﻿‘○霊夢第二十九話「エンカウンター
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: 3PP
+ 3: Chen spell start
+ 4: clear
+ 5: ADVB
+ 6-7:  battle vs. Ran
+ 8-22: battle vs. Chen
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<BG=bg_talk_Black.png,fade=0,color=1,title=*bg_Unknown,bgm=bgm_talk_fire>
+
+<update>
+
+Human0a:Surround the temple! Don't let a single youkai escape!
+
+Human0a:That cursed nun, how dare she fool us into thinking her a saint!
+
+Human0a:She pretended to be helping people, but she was on the side of the youkai all along!
+
+</update>
+
+<hide=name>
+
+Sho0b:...
+
+</hide>
+
+Human0a:Lord Bishamonten, are you there? 
+
+<hide=name>
+
+Sho0b:What's the situation? 
+
+</hide>
+
+Human0a:We've cornered the nun and her youkai followers in the main temple building.
+
+Human0a:However, there's a youkai going on a rampage with a giant anchor, so we can't get any closer.
+
+<hide=name>
+
+Sho4b:Murasa...
+
+</hide>
+
+<update>
+
+Human0a:Oh, you know of her? You're quite well informed about youkai, Lord Bishamonten.
+
+Human0a:Who could believe someone who seemed so righteous could turn out to be such a monster?
+
+<hide=name>
+
+Sho0b:...
+
+</hide>
+
+Human0a:Take a look at this glorious blaze. The people of the village are helping too.
+
+Human0a:We'll purge the temple in fire and be rid of these devils once and for all.
+
+</update>
+
+<hide=name>
+
+Sho1b:What?! That isn't what I told you!
+
+Sho4b:I asked you to capture them. Taking a life is a sin, whether it's a youkai or not.
+
+</hide>
+
+Human0a:So you say, but does that really apply to those who've been twisted into monsters?
+
+Human0a:That nun leading them has been too quiet so far. Just what is she planning?
+
+<hide=name>
+
+Sho4a:...
+
+Sho4b:I'll...
+
+</hide>
+
+Human0a:Hm?
+
+<hide=name>
+
+Sho0b:I'll go myself, to exorcise them personally. 
+
+</hide>
+
+<update>
+
+Human0a:Oh, direct intervention from the great Lord Bishamonten! We could hardly ask for more!
+
+Human0a:Let that she-devil wearing the face of a human know the shining light of justice!
+
+</update>
+
+<hide=name>
+
+Sho0b:...
+
+</hide>
+
+<Code=(transition_out,c_black,45,0)>
+
+<BG=bg_talk_Black.png,fade=0,color=1,title=*bg_Unknown>
+
+<hide=name>
+
+Sho0b:(Justice...)
+
+Sho4b:(This is... justice? This?)
+
+</hide>
+
+<Code=(transition_out,c_white,30,1)>
+
+<BG=bg_talk_Road_Winter2.png,fade=0,color=0,title=*bg_Road,bgm=bgm_talk_aoki>
+
+Sho4b:...
+
+Nazrin0b:What's wrong, Master? 
+
+Sho0a:Apologies, I was just lost in thought.
+
+Nazrin6a:Get it together, I want to be back before nightfall.
+
+Nazrin4a:If this winter keeps on going, forget my mice going hungry, even we're gonna end up scraping the bottom of the barrel.
+
+Nazrin0b:We've gotta find a way to turn up some more provisions.
+
+Sho4a:You're right, Nazrin. Let me know if you find anything. I'll dig through the snow with my hoe, and...
+
+Sho4b:Ah.
+
+Nazrin3a:What's wrong?
+
+Sho4a:Well, uh... I left the hoe back at the temple. 
+
+Nazrin6a:Knew I shoulda carried it myself. 
+
+Sho4a:I'm sorry. If we need to, I'm sure I could use my spear to dig. 
+
+Nazrin3a:Nah, don't worry about it. You've been cooped up inside for a real long time, so it's no surprise that kinda thing'd slip your mind.
+
+Sho4a:I'm sorry...
+
+Nazrin3d:I'm the one who should be apologizing. I'm so short on hands that I'm having my own master do manual labor.
+
+Nazrin0a:Take care while doing it, too. It's wicked cold out.
+
+Sho0b:Yes, it seems the winter isn't ending, just like you told me.
+
+Sho0a:As I recall you said it was May...
+
+Nazrin0b:So, how does this winter wonderland make you feel?
+
+Sho4a:...*sigh* I just can't believe how much snow there is. 
+
+Nazrin6b:Yeah, it IS a lot of snow.
+
+Nazrin0a:Okay, break's over, let's get back to work. That food won't find itself. Watch your step though.
+
+Sho0a:Understood.
+
+<MAP=10,FROM=マヨイガ付近,TO=マヨイガ付近,name=Near Mayohiga,icon=5>
+
+<BG=*bg_talk_Road_Winter2.png,fade=1,color=1,title=*bg_Road,bgm=bgm_talk_gag>
+
+<hide=name>
+
+Chen0b:Miss Ran! There's snow everywhere! It's so white! 
+
+</hide>
+
+Ran0a:Be careful, Chen. If you run around so much you'll hit your head on a tree branch. 
+
+Chen0b:I'll be fine! I know this place like the back of my―
+
+<Code=(map_shake,1,20,3)>
+
+<SE=se_talk_hit01.ogg,wait=1>
+
+Chen2a:Owies!
+
+Ran0a:See? I told you so. Now show me where it hurts. 
+
+Chen0a:Oww...
+
+Ran0a:Listen, Chen. We're here to patrol Gensokyo on Lady Yukari's orders.
+
+Ran0a:Do you remember what it is we have to do?
+
+Chen0a:Yes! Umm... First, we have to watch over the barrier while Miss Yukari's gone.
+
+Chen0b:Second, if we find any suspicious people, we should keep an eye on them.
+
+Ran0a:That's right. Lady Yukari is still resting, I assume because of the long winter.
+
+Ran0a:Which is why we need to be especially vigilant in making sure no one's doing anything unauthorized.
+
+Chen0a:Ooh, I see, I see...
+
+Chen0a:But... should we really be ignoring spring not coming?
+
+Chen0a:If it stays winter much longer, all the food's gonna run out, and it's gonna be a real mess.
+
+Ran0a:We never received any orders to resolve incidents.
+
+Ran0a:As shikigami, the most important thing for us is to carry out our duties to the letter.
+
+Chen0b:Oh, okay!
+
+Ran0a:So I'll be leaving this area to you. I'll go patrol over there, so I'm leaving you in charge of patrolling this area.
+
+Ran0a:As long as you're here, you could always drop by the cat village.
+
+Chen0b:Sure, I think I will!
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP
+
+Nazrin4a:We came all this way chasing a rare reading, but...
+
+Sho0a:This just looks like an abandoned village. Not a soul around.
+
+Nazrin0a:Yeah, I think so too. It's nearly as empty as our temple.
+
+<pause>
+
+Chen0a:Hey, how's everybody doing in Mayohiga?
+
+Sho0b:Oh? Someone's over there.
+
+Chen1a:It's a rat! What are you doing in our village?!
+
+Nazrin0b:Your village? This run-down old dump?
+
+Chen0a:Yeah, Mayohiga is our turf! Me and the other cats!
+
+Sho4a:It sounds like we're unwelcome trespassers, Nazrin. We should...
+
+Nazrin0a:Look carefully, Master. Only her and a few of her followers are bakeneko.
+
+Nazrin1a:Don't mind us, we're just here to check if there's anything worth taking.
+
+Chen2a:I can't let a mouse look down on me! It'll set a bad example for the other cats!
+
+Chen1a:You're not getting away from here unscratched now!
+
+Nazrin6b:Sheesh, what a hassle. Now we have to shoo away some cat...
+
+<pause>
+
+Ran0a:So, Chen, how are your servants doing?
+
+<Code=(icon_set_direction,Chen_en,Ran_en,0)>
+
+Chen0b:Oh, Miss Ran!
+
+Nazrin2a:...! A golden haired, nine-tailed fox?!
+
+Sho1b:What would the highest class of youjuu be doing here?
+
+Chen0a:Miss Ran, listen to this, those two are trying to invade my village!
+
+Ran0a:Hmm, so the opposition is a mouse and a tiger. Both youkai, of course.
+
+Ran0a:It's not right to trespass on the territory of others. I'd expect better from high-class youkai like you.
+
+Sho4b:We weren't―
+
+Nazrin4a:In our defense, we just got here. And we haven't even stolen anything.
+
+Chen0a:But Miss Ran, that mouse was making fun of me!
+
+Chen0a:Please let me beat her up and look cool in front of the other cats!
+
+Ran0a:...Hmm, that's fair. Alright, go ahead and give it a try.
+
+Ran0a:I'll be right there to help out if the tiger gives you any trouble.
+
+<Code=(icon_set_direction,Chen_en,FD_RIGHT,0)>
+
+Nazrin6a:Man, when it rains, it pours... You haven't fought anybody in a while, Master. Are you ready for this?
+
+Nazrin0a:All we gotta do is hold our own until we find a chance to run. Then we book it.
+
+Sho1b:G-good idea!
+
+<end>
+
+<ChatID:2>---------------------------------------
+//3PP、またはそれ以前に橙通常撃破
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_turns,<,4)>
+
+Chen2a:Grr, not bad... But not enough!
+
+<pause>
+
+</Cond>
+
+<Code=(icon_set_direction,All,Ran_en,0)>
+
+Nazrin6a:Ugh, not good, not good at all... She's way harder to shake than I expected.
+
+Sho4a:What now, Nazrin? We're losing ground here.
+
+Chen1a:Miss Ran, look, I'm winning!
+
+Ran0a:You're doing well, Chen. Just don't get careless.
+
+Ran0a:Youjuu only show their true strength when cornered.
+
+Nazrin6a:Ugh...
+
+Ran0a:...Hmm?
+
+<pause>
+
+Nazrin0b:What, is that one of her friends too?
+
+<pause>
+
+<Code=(icon_set_direction,Ran_en,Zenki_en,0)>
+
+Ran0a:What are you doing here, Zenki?
+
+Zenki0a:...
+
+Ran6e:What? In the Underworld?!
+
+Sho0b:...?
+
+<Code=(icon_set_direction,Chen_en,Ran_en,0)>
+
+Chen0a:Miss Ran, what's wrong?
+
+<Code=(icon_set_direction,Ran_en,Chen_en,0)>
+
+Ran0a:There's been an emergency. I have to go now.
+
+Ran0a:I realize it's a bit sudden, but you'll be fine on your own, right?
+
+Chen2b:Of course! I'll do my best!
+
+Ran0a:That's what I like to hear. Just in case though, I'll leave Zenki and Goki with you, to help out.
+
+<pause>
+
+Sho0a:What's going on? Why's she leaving?
+
+Nazrin1b:Who cares? This is great. We can lose a bakeneko, no problem.
+
+<Code=(icon_set_direction,Ran_en,Nazrin,0)>
+
+Chen4b:Mrr... As soon as Miss Ran leaves you start looking down on me again!
+
+Chen5b:I'm no ordinary bakeneko, I'm Miss Ran's shikigami!
+
+Sho0b:Shikigami?
+
+<end>
+
+<ChatID:3>---------------------------------------
+//スペカ発動
+
+Chen2a:Mrr... I can't let them beat me here!
+
+Daiyosei0a:That cat's really hanging in there...
+
+Mokou0a:Don't let your guard down. When it comes to youjuu, this is when they bare their fangs.
+
+Daiyosei2c:Their... fangs?
+
+Keine0a:Youjuu are a type of youkai that used to be regular animals.
+
+Keine0a:As such, in addition to having high physical abilities, they sometimes reveal unpredictable bursts of power when cornered.
+
+Reimu0f:So she used to be an animal... is that why she acts a bit uncivilized?
+
+Aya5a:How rude, plenty of us respectable youkai used to be animals too.
+
+Chen0a:I told Miss Ran that I was gonna do my best.
+
+Chen1a:I'm not gonna let any stupid humans beat me!
+
+<end>
+
+<ChatID:4>---------------------------------------
+//ステージクリア
+
+<Cond=(LOCAL_VAR,ObjControl,stage_tot_spells_acquired,>,0)>
+
+Daiyosei0a:Whew, we finally beat her.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,stage_tot_spells_acquired,==,0)>
+
+Chen0a:I've shown the cats plenty of cool stuff already, so they'll be begging me to be their boss now.
+
+Chen0a:I'm going to go catch up with Miss Ran now, see ya later.
+
+<pause>
+
+Daiyosei0a:W-We managed to get away.
+
+</Cond>
+
+Cirno4c:She was pretty fast! I don't think I could beat her at tag.
+
+Rumia0a:That mouse seems pretty fast at running away too!
+
+Nazrin6b:I'd consider myself someone who cleverly employs whatever method is necessary at the time. Don't compare me to her.
+
+Sanae0a:But what was she trying to do, anyway? It sounds like her master was here earlier, but...
+
+Shizuha0a:Well, there's that too, but first, can we ask you two something?
+
+Sho0b:Huh, us?
+
+Keine0a:You two were investigating the incident, right? So why don't we swap notes?
+
+Sho2a:Y-Yes, of course. About that, well...
+
+Sho4b:Y-Yes, of course. About that, well... L-let's see, uh, Nazrin?
+
+Nazrin6a:Oh yeah, I guess we did mention that.
+
+Nazrin3a:We don't know much, but let's talk.
+
+<end>
+
+<ChatID:5>---------------------------------------
+//ADVB
+
+<MAP=10,FROM=マヨイガ付近,TO=マヨイガ付近,name=Animal Trail,icon=5>
+
+<BG=*bg_talk_Road_Winter2.png,fade=0,color=1,title=*bg_Road,bgm=bgm_talk_aoki>
+
+Sho0a:A pleasure to meet you, my name is Shou Toramaru. 
+
+Nazrin0a:Likewise, I'm Nazrin. She's my master. 
+
+Cirno5b:Huh. I thought the mouse was the master. 
+
+Rumia0a:Yeah, the other one seems kinda not all together! 
+
+Daiyosei3b:H-Hey, Cirno, Rumia, don't be rude.
+
+Aya0a:You two seem like you'd stand out in a crowd, but I don't think I've seen you before.
+
+Aya3a:So, where are you from? What have you been doing lately?
+
+Sho4a:Well, about that, I'm―
+
+Nazrin0a:We're in hiding because reasons. I'd prefer if we could leave that story for another day.
+
+Aya5a:Ooh, my reporter senses are tingling. Is this a potential scandal I sense?
+
+Mokou0a:Just leave her alone. Everyone has their secrets.
+
+Mokou1a:So, you said you were investigating the incident, right?
+
+Nazrin4a:Pretty much. That said, we haven't had much success, so we were thinking about heading home. 
+
+Momiji0a:You're pretty laid back, given what's happening in Gensokyo right now.
+
+Sho0b:What's happening?
+
+Keine2a:The human village is in dire straits. We're nearly out of both food and fuel.
+
+Sho1b:...! I didn't realize it was that bad... 
+
+Aya5a:Huh, now that's a weird thing to say. Of course it'd be, with winter staying around so long.
+
+Shizuha0b:Aren't you out investigating because you're worried about the humans? 
+
+Nazrin6b:Not really. We don't owe them anything.
+
+Nazrin0a:We're just looking to feed ourselves and our own.
+
+Sanae0a:I see. Taking care of your family is certainly important, but―
+
+Letty0a:More importantly, do you know anything about that bakeneko from before?
+
+Letty0a:Could she have some relation to the incident?
+
+Sho0b:We didn't talk much, but I doubt it.
+
+Sho0a:Come to think of it though, she said she was someone's shikigami.
+
+Rumia0a:What's a shikigami? 
+
+Keine0b:Put simply, it's a familiar that gains power from their master through a special procedure.
+
+Keine0a:In order to maintain a shikigami, you need enough spiritual power to keep them replenished, not to mention the knowledge of the procedure involved.
+
+Minoriko3a:So basically, that cat's master must be pretty strong. 
+
+Nazrin3a:Yeah, I'd say so. I've seen a lot of youkai in my time, but that's the first nine-tailed fox I've met. 
+
+Mokou4a:A what?! Those are a pretty big deal. 
+
+Sho0a:She was quite splendid, yes. I believe her name was Ran?
+
+Reimu3b:That would be Yukari's shikigami then. She has a youkai fox named Ran. 
+
+Sho0b:Someone like that serves another youkai?
+
+Reimu0f:She comes along with Yukari to the shrine sometimes.
+
+Reimu5c:She seems pretty stuck up to me. She only listens to Yukari.
+
+Sanae0b:So this Yukari person is so strong, her shikigami is powerful enough to maintain its own shikigami? 
+
+Momiji0a:...If at all possible, I'd prefer not to go up against her. 
+
+Keine0a:Well, I wouldn't worry about that. Yukari Yakumo is the Youkai Sage, so it's hard to imagine her being behind an incident. 
+
+Cirno5d:Really? That's good then, I guess...
+
+Shizuha1c:Anyway, we should get going. You want to come with us? 
+
+Nazrin0b:By together you mean, like, us? Going along with you?
+
+Shizuha1b:Who else is there? The more the merrier, right? 
+
+Nazrin6a:I appreciate the kind gesture, but I'm afraid we're gonna have to turn you down.
+
+Nazrin3d:We really should be getting home now. Good luck and all that!
+
+Sho0b:...
+
+Sho0a:No, Nazrin. We'll go with them. 
+
+Nazrin2a:Are you serious, Master?
+
+LilyW0a:Really? That's great!
+
+Aya0a:Momiji's always telling me she'd be happy to have more fluffy-eared companions around.
+
+Momiji4c:I said no such thing.
+
+Nazrin6a:Well... if my Master says we should, I guess there's no reason we shouldn't...
+
+Nazrin0b:(What are you doing, master?! Don't tell me you actually want to go haring off to save some humans?!)
+
+Sho0b:(No, that's not really why. It's just...)
+
+Sho0b:(It's just... my ignorance about the circumstances in the human village has been a failing on my part. I can see that now.)
+
+Sho0a:(And surely saving them is the Just thing to do.)
+
+Nazrin0a:...
+
+Mokou0a:Okay, so we know they're coming with us. Where do you feel like heading next? 
+
+Reimu0g:Ran and Chen don't seem to have anything to do with anything. Let's just get back to following the flower petals.
+
+Reimu0a:We're going this way.
+
+Sanae0a:Hmm... one raised finger? Is there a Route 1 in Gensokyo?
+
+Reimu1a:No, you idiot, I'm pointing up! 
+
+Shizuha4a:I'm looking, but there's just some clouds up there...
+
+Minoriko1a:Wait, you don't mean to―
+
+Reimu0b:Yup, we're going above the clouds. Spring's definitely somewhere up there!
+
+LilyW00a:I never thought to look for it up in the sky... 
+
+Momiji4a:Well you were digging in the dirt, after all. Are your hands less chilly now?
+
+LilyW00a:Y-Yes! Thank you for asking...
+
+Cirno3b:I've never been above the clouds before. This is exciting! 
+
+Letty1a:Don't get the wrong idea, clouds aren't fluffy. 
+
+Letty1a:When you're surrounded in cold like we are, the water vapor in them freezes solid in an instant. It's not at all pleasant.
+
+Keine0a:Come on, let's go! 
+
+<end>
+
+<ChatID:6>---------------------------------------
+//藍vs.星
+
+Ran0a:You bear the appearance of a tiger, but what sort of youkai are you really?
+
+Ran0a:I'm sure I would have heard of a tiger youjuu, were there one.
+
+Sho0b:Well, I'm...
+
+Ran0a:No matter. Now that we've met face to face...
+
+Ran0a:I'll just have to experience your true strength firsthand.
+
+<end>
+
+<ChatID:7>---------------------------------------
+//藍vs.ナズーリン
+
+Nazrin0b:I never thought that bakeneko's master would be a youjuu of your caliber...
+
+Ran0a:Oh, is it really that surprising? Though I do realize that Chen can be quite unreliable...
+
+Ran0a:More importantly, I believe you called your companion "master"?
+
+Nazrin0a:Yup, she's my master, alright. Even if she's pretty unreliable herself these days.
+
+<end>
+
+<ChatID:8>---------------------------------------
+//橙vs.霊夢
+
+Reimu2b:Huh, was there always a village here?
+
+Chen0a:This is the village of the cats, Mayohiga.
+
+Chen1a:Once you wander in, you can't leave.
+
+Reimu0f:Mayohiga, huh? I've heard that items from Mayohiga will make you lucky if you take them home.
+
+Reimu0b:So with no further delay, let the plundering begin!
+
+<end>
+
+<ChatID:9>---------------------------------------
+//橙vs.慧音
+
+Keine0a:Excuse me, I believe you might have something to do with this incident.
+
+Keine1a:I'd like to talk. Do you know why spring is being gathered?
+
+Chen0a:I dunno anything about that kinda stuff, but I do know we cats don't have enough food lately...
+
+Keine3a:Well, that's completely unrelated to what I was asking about...
+
+<end>
+
+<ChatID:10>---------------------------------------
+//橙vs.ルーミア
+
+Rumia0a:There's no one here but the kitties!
+
+Chen0a:Yup. And I know everything there is to know about this town.
+
+Chen0a:Like, that's the meeting place, and that's the food hut.
+
+Rumia3a:Ooh, the food hut...
+
+<end>
+
+<ChatID:11>---------------------------------------
+//橙vs.大妖精
+
+Daiyosei2c:Oh, cat ears...
+
+Chen0a:Yeah?
+
+Daiyosei0b:It's nothing! It's just, I think they look kind of cute.
+
+<end>
+
+<ChatID:12>---------------------------------------
+//橙vs.チルノ
+
+Cirno5b:You look like you could beat me in a race. But ONLY in a race.
+
+Chen1a:Of course I can! I'm the number one cat around here.
+
+Cirno5b:I better watch out. If tag gets popular, I might not be the leader anymore...
+
+<end>
+
+<ChatID:13>---------------------------------------
+//橙vs.妹紅
+
+Mokou3c:Youkai on the level of bakeneko or bakedanuki aren't very interesti―
+
+Mokou0a:Hm?
+
+Chen0a:What's wrong? Afraid of me and gonna chicken out?
+
+Mokou3a:...For a second there I felt the remnants of a powerful youkai's aura. Of course it's not yours, but then... whose was that?
+
+<end>
+
+<ChatID:14>---------------------------------------
+//橙vs.穣子
+
+Chen0a:Something smells good... It might even be better than catnip.
+
+Minoriko3a:Oh, the time has finally come! Someone appreciates my sweet potato perfume!
+
+Minoriko0a:But then again, considering the other kinds of smells bakeneko are attracted to, maybe I should treat this as concerning instead...
+
+<end>
+
+<ChatID:15>---------------------------------------
+//橙vs.静葉
+
+Shizuha0a:You're surprisingly well-dressed for a bakeneko. 
+
+Chen0a:I'm out with Miss Ran today, so she made sure I look my best.
+
+Chen0b:Getting combed feels pretty nice.
+
+Shizuha4a:...Ran? Who's that?
+
+<end>
+
+<ChatID:16>---------------------------------------
+//橙vs.早苗さん
+
+Sanae3c:I got to see a real catgirl... Gensokyo never ceases to amaze me.
+
+Sanae0a:So, which set of ears do you hear out of?
+
+Chen0a:Which? Um... through my own ears?
+
+Sanae4b:Haha, you're kidding, right? I meant like maybe you've got your real ears hidden underneath your hair?
+
+Chen2a:Wh... Huh?
+
+<end>
+
+<ChatID:17>---------------------------------------
+//橙vs.文
+
+Aya0b:Hmm... So this is that cat village I've heard gossip about... Mayohiga, was it?
+
+Chen1a:Yep, this is our turf! Me and the other cats.
+
+Aya3a:Mmm, I see, so you've marked here as your territory...
+
+Aya5b:Somehow you feel like an unreliable source. Let's try to confirm that, shall we?
+
+<end>
+
+<ChatID:18>---------------------------------------
+//橙vs.椛
+
+Momiji0a:Can't say I'm comfortable fighting against a child, but I don't see any other option.
+
+Chen0a:So after the mouse is another beast to fight... It's my lucky day!
+
+Chen1a:You might underestimate me, but I'm so much stronger than any stray dog.
+
+Momiji5a:...I feel the need to set the record straight here. I'm a wolf.
+
+<end>
+
+<ChatID:19>---------------------------------------
+//橙vs.レティ
+
+Chen0a:Those clothes look all soft and fluffy... I wanna touch them...
+
+Letty0a:...You're under a mistaken impression. If you draw close to me, all you'll feel is the cold.
+
+<end>
+
+<ChatID:20>---------------------------------------
+//橙vs.リリー
+
+LilyW00a:Excuse me... Have you seen spring around here?
+
+Chen0a:Spring...? I haven't seen anything like that.
+
+LilyW00a:Oh. No matter where I go, I can never find it...
+
+<end>
+
+<ChatID:21>---------------------------------------
+//橙vs.星
+
+Chen0a:Miss Ran told me to be careful, but...
+
+Chen1a:You look kinda out of it, so maybe I can beat you!
+
+Sho4a:Oh dear... Is that really what people think when they look at me?
+
+Nazrin6a:I'm pretty sure that she called you "out of it" because you didn't even say something back.
+
+<end>
+
+<ChatID:22>---------------------------------------
+//橙vs.ナズーリン
+
+Chen1a:I'm not gonna lose to some mouse!
+
+Nazrin6b:Yeesh, we're short enough on time as it is...
+
+Nazrin4b:I'll just have to deal with this real quick and get back to looking for food.
+
+Chen2a:Hey! Don't ignore me when I'm talking!
+
+<end>
+
+<ChatID:23>---------------------------------------
+//全滅時＿別IDへ移動
+
+<end>
+
+<Cond=(LOCAL_LIST,ObjControl,event_done,0,==,0)>
+
+Sho2a:How could I fall now, after all this time...?
+
+Nazrin6a:...I guess it was still too soon to take you outside, Master.
+
+Nazrin6b:Oh well, we'll just have to head home and seclude you in your chamber again.
+
+</Cond>
+
+<Cond=(LOCAL_LIST,ObjControl,event_done,0,==,1)>
+
+Chen1a:Miss Ran, Miss Ran, I beat all the humans!
+
+Chen0b:I'm definitely gonna get fish sticks for dinner tonight!
+
+</Cond>
+
+<end>
+
+<ChatID:24>---------------------------------------
+//藍のHPを一定値以下にする
+
+Ran0a:There are only two of them, but they're quite skilled.
+
+Ran0a:I just can't bring myself to let such great efforts go to waste.
+
+<end>
+
+<ChatID:25>---------------------------------------
+//味方増援前に、橙のHPを一定値以下にする
+
+Chen2a:Grr, not bad... But not enough!
+
+<end>
+
+<ChatID:26>---------------------------------------
+//4PP
+
+Sanae4b:Wow, amazing! It's a real ghost town!
+
+Momiji0a:Someone's fighting here though. I could see the danmaku from far away.
+
+Minoriko4a:So there's a mouse, a cat, and... Is that a tiger? Is this some kind of catfight?
+
+Chen2a:Wh-what now? Who are all you people showing up out of nowhere?
+
+Nazrin0b:Oh, it's those humans again.
+
+Sanae1a:Reimu! That's the mouse from last time!
+
+Reimu1a:Well, well, well. If it isn't that youkai from before...
+
+Keine0a:So you two know the mouse youkai?
+
+Sanae0b:Yes, she's a burglar who stole some food from Kourindou while Reimu and I were there.
+
+Reimu0a:She got away though. Never thought we'd see her again.
+
+Sho1b:A burglar?! Nazrin would never stoop so low!
+
+Nazrin6a:No, it's true, Master. Our food reserves were pretty thin this year.
+
+Sho4a:Oh...
+
+Keine0b:So what do we do? I'd like to continue the investigation, but we also can't just ignore this.
+
+Reimu0f:I follow a simple policy: If I see a youkai, I beat it up.
+
+Nazrin6a:(Well aren't we in a jam now? I'll have to talk my way out of this.)
+
+Nazrin4a:Everyone, you're thinking about this all wrong.
+
+Cirno5d:What do you mean?
+
+Nazrin0a:All of you want to stop this endless winter, am I right?
+
+Nazrin6a:So, why worry about a single thief when that should be your top priority? You can't afford to!
+
+Nazrin4a:If you don't focus on the real problem, starving youkai and starving people are just going to keep on making those same mistakes...
+
+Minoriko4a:Well, I do get where you're coming from...
+
+Letty1b:But that won't change the fact that you're a scoundrel.
+
+Nazrin0a:C'mon, don't say that, we're trying to get to the bottom of this incident too.
+
+Sho1b:Huh?
+
+Daiyosei2c:You are?
+
+Nazrin3d:That's right. In other words, we're on the same side.
+
+Aya5b:Uh, I'm not so sure your companion there agrees.
+
+Nazrin3b:Sure she does. Isn't that right, Master?
+
+Sho3d:Ah, yes, what she said.
+
+<Code=(icon_set_direction,Chen_en,FD_LEFT,0)>
+
+Chen5b:They're lying! They didn't say a thing about―
+
+Keine4a:Hmm, then let's hear your side of this too.
+
+Shizuha0b:So what are these two really up to?
+
+Chen2b:Uh, I don't know... But they barged into my village and said mean things about me...
+
+Momiji5a:*sigh* That's not really relevant, is it?
+
+Reimu1a:Time's up. Let's just beat up a youkai already!
+
+Nazrin3a:We appreciate your cooperation. Let's exterminate this cat youkai together.
+
+Chen4a:N-no, she's lying! I'm telling you she's lying!
+
+Chen2a:Waaaah! Miss Raaaaan!
+
+<end>
+
+<ChatID:27>----------------------------------------
+//橙vs.メーコ
+
+Meko4c:A cat village, huh...
+
+Chen0b:Yup! I bet everyone'll be able to relax here.
+
+Chen1a:What's important is for the boss to keep her underlings in line.
+
+Meko1a:Oooh... "Boss"! I wanna get called that too!
+
+<end>
+
+<ChatID:28>----------------------------------------
+//橙vs.橙
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Chen2b:I'm over there?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Chen4b:Ah, what do I do...?
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Chen4a:What to do, what to do...?
+
+Chen3b:I know! I'll ask Miss Ran!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Chen3c:Ooh, good idea!
+
+</nomove>
+
+<end>
+
+<ChatID:29>----------------------------------------
+//橙vs.藍
+
+Ran3b:There are two Chens?!
+
+Chen4b:Ah, um, uh...
+
+Ran0c:By the scent of your aura, you're definitely Chen. But the Chen over there is...
+
+Ran4a:Now that it's come to this, there's no other choice.
+
+Chen4b:Miss Ran...
+
+Ran3d:I don't know how this happened, but both of you, let's all play together!
+
+Chen3a:Yay! Miss Ran in the dream is happy!
+
+<end>
+
+<ChatID:30>----------------------------------------
+//橙vs.紫
+
+Yukari0a:Hello there, Chen. Have you been well?
+
+Chen2b:Miss Yukari?! But aren't you napping right now...?
+
+Chen3c:Oh, you came to play while you sleep!
+
+Yukari0d:Somnambulism? Surprising close to the mark.
+
+<end>
+
+<ChatID:31>----------------------------------------
+//藍vs.藍★発生しない
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Ran6b:Huh...
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Ran0a:You don't seem surprised to see your duplicate.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Ran6a:As a nine-tailed fox, transformation spells are hardly worth noting.
+
+Ran6e:Still, it's quite accurate. Could it be that even my strength has been copied...?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Ran3c:Haha, care to find out?
+
+</nomove>
+
+<end>
+
+<ChatID:32>----------------------------------------
+//藍vs.紫★発生しない
+
+Yukari1a:Hi there, Ran.
+
+Ran0c:Lady Yukari? Were you not resting?
+
+Yukari0c:A little situation caught my attention. How is your work going?
+
+Ran1a:You can rest easy knowing it goes flawlessly.
+
+Yukari1a:I'd expect nothing less from my Ran.
+
+<end>
+
+<ChatID:33>----------------------------------------
+//藍vs.まくら★発生しない
+
+Ran0b:To think you'd close that distance.
+
+Makura0b:I did "cheat" a little, if you'll forgive me.
+
+Ran6a:I don't mind. It'd hardly be a contest otherwise.
+
+Makura3a:How confident of you. I'm quite something myself in this world, you know.
+
+Ran1a:Fascinating. Why don't you keep me company for a bit?
+
+<end>
+
+<ChatID:34>----------------------------------------
+//藍vs.メーコ★発生しない
+
+Ran6b:What are you doing over here?
+
+Meko0e:I'm faster than you think!
+
+Ran6a:I'll admit you have excellent legs. But how will they serve you in a danmaku battle?
+
+<end>
+
+<ChatID:35>---------------------------------------
+//星撃墜
+
+Sho2a:How could I fall now, after all this time...?
+
+Nazrin6a:...I guess it was still too soon to take you outside, Master.
+
+Nazrin6b:Oh well, we'll just have to head home and seclude you in your chamber again.
+
+<end>
+
+<ChatID:36>----------------------------------------
+//橙vs.まくら
+
+Chen3b:Ooh, a kotatsu!
+
+Makura0f:What? You mean my blanket?
+
+Chen4a:Um, well...
+
+Makura3a:You can come in if you like. I don't mind.
+
+Makura3c:It's so pleasant to feel someone else's warmth as you sleep.
+
+<end>
+
+<ChatID:37>---------------------------------------
+//全滅時
+
+Chen1a:I did it, Miss Ran! I beat up all the humans!
+
+Chen0b:I'm definitely gonna get fish sticks for dinner tonight!
+
+<end>
+
+<ChatID:38>----------------------------------------
+//R29：橙vs.非想天則
+
+Tensoku0a:...
+
+Chen2b:Wah, what is that?!
+
+Chen4b:A big youkai... It'd be real bad if it stepped on a house.
+
+Chen5b:It's a little scary, but I gotta chase it off, for everyone's sake!
+
+<end>

@@ -1,0 +1,2575 @@
+﻿○共通第42話「姫を隠す永の檻
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: battle vs. Tewi
+ 3: beat Tewi
+ 4: battle vs. Udonge
+ 5: Udonge spell start
+ 6: beat Udonge
+ 7: Eirin revitalize
+ 8: Eirin spell 1
+ 9: Eirin spell 2
+10: beat Eirin
+11: ADVB
+12: first battle (Remilia + Sakuya)
+13: lose
+14-: battle vs. Tewi
+ n-: battle vs. Udonge
+ m-: battle vs. Eirin
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=3,FROM=永遠亭,TO=永遠亭,name=Eientei,icon=5>
+
+<BG=*bg_talk_Eientei_Night.png,fade=0,color=1,title=*bg_Eientei,bgm=bgm_talk_kaikidan>
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+Udonge3b:Phew, I finally made it back to the mansion.
+
+Udonge5b:...They're probably right on my heels.
+
+Udonge2a:I need to make my report ASAP.
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+Tewi4a:Whew, that was rough. I'm exhausted. 
+
+Udonge1b:Ah, Tewi! Where have you been? 
+
+Tewi0a:Where? Patrolling the forest, of course.
+
+Tewi3c:What about you, Reisen? Slacking off while your master's away? 
+
+Udonge3b:Don't be ridiculous. I've been following the strategy she gave―
+
+Eirin0c:...I see both of you are still well enough to bicker.
+
+Udonge0a:Oh, Master, there you are.
+
+Tewi3b:Perfect timing. I've got something to repor―
+
+Tewi1a:Whoa! What happened to your stomach?! Are you okay?!
+
+Eirin1a:The Fujiwara girl showed up, so I chased her away.
+
+Eirin0b:She did her level best to disembowel me, so it took a bit of work.
+
+Udonge2b:What?! We need to get you medical attention, now! 
+
+Kaguya0a:Eirin will be fine for now. She has a job to do.
+
+Udonge2b:The princess was with you?!
+
+Tewi0b:A job, huh? Did something go wrong?
+
+Eirin0b:The Locked Room spell suffered some damage, so I'm here to repair it. 
+
+Udonge2b:Wait, you mean the spell that's hiding the real moon? Are we going to be okay? 
+
+Eirin0a:To make absolutely certain that we will be, the princess will use her own spell to put an end to this frozen night. 
+
+Kaguya3c:A cheap, imitation eternity is nothing compared to mine.
+
+Tewi3c:That's our princess. Then all we need to do is stall for time until morning arrives.
+
+Eirin0c:More importantly, you said you had something to report? 
+
+Udonge2b:Oh, yes! As we planned, I went to disrupt the humans' formation by attacking the shrine maiden...
+
+Udonge5b:But at the last second, they pushed me back.
+
+Tewi0a:For my part, we found the moon rabbit.
+
+Udonge5c:...! 
+
+Eirin1a:Excellent work. Where is she now? 
+
+Tewi4a:We managed to grab her for a while, but then some weird humans showed up and stole her from us.
+
+Tewi0a:Sounded like they were looking into the incident too.
+
+Eirin5a:They may be in league with the crew of that flying ship Udonge fought.
+
+Eirin4d:If they remain unopposed, then they could be heading this―
+
+<SE=se_talk_run.ogg,wait=1>
+
+<update>
+
+Usagi2a:Bad news, everyone! We've got trouble!
+
+Usagi1a:A flying ship just showed up right in front of the mansion!
+
+</update>
+
+Udonge1b:...! Looks like they sniffed us out right away! 
+
+Eirin1a:This was within expectations. It's why I had the front entrance reinforced.
+
+Usagi2a:But, but, they're coming from above!
+
+Udonge0a:From above?
+
+<Code=(map_shake,1,60,4)>
+
+<SE=se_bomb18_2.ogg,wait=0>
+
+<Code=(demo_wait,60)>
+
+Udonge2b:Gyaaaah!
+
+Tewi1c:Whoa, this shaking―Did they just crash into the roof?! 
+
+Kaguya1a:Oh, how interesting. We've had all sorts of guests here, but these are the first to arrive by ship. 
+
+Udonge2b:This is no time to be impressed!
+
+Udonge5c:What should we do, Master? I'm worried that the mansion will―
+
+Eirin0c:We ignore them. The princess's spell of eternity is in effect inside Eientei.
+
+Eirin1b:It would be impossible to damage it with any sort of physical assault. 
+
+Tewi3e:I see, so if we just find some place to hole up...
+
+Kaguya3f:Oh, but I wouldn't mind if we let them through to me. 
+
+Udonge2b:You couldn't possibly mean―
+
+Kaguya1a:We haven't had many intruders other than Mokou in ages.
+
+Kaguya1c:It couldn't hurt to read them a poem or two. Eirin? 
+
+Eirin5a:I'm sorry, but there isn't time for frivolity at the moment.
+
+Eirin0c:We will fend them off. Please remain inside, Princess.
+
+Kaguya5b:Ah, yet another unromantic evening of waiting in vain.
+
+Tewi4b:Just... try to sit still and stay put, okay?
+
+Udonge1c:This time we'll drive them off!
+
+<SE=se_talk_walk_indoor02.ogg,wait=1>
+
+<single>
+
+Kaguya3c:...Heheheh, so I take it my visitors are the ones who stopped the night?
+
+Kaguya0a:They've done quite well, but I doubt they can break through Eirin's spell.
+
+Kaguya1b:What a pity. I would have liked to at least talk to them a little.
+
+</single>
+
+<MAP=3,FROM=永遠亭,TO=永遠亭,name=Eientei,icon=4>
+
+<BG=*bg_talk_Seirensen_Bridge_Night.png,fade=1,color=1,title=*bg_Seirensen_Bridge,bgm=bgm_talk_kagaku>
+
+<SE=se_bomb18_2.ogg,wait=0>
+
+<Code=(map_shake,1,60,2)>
+
+<Code=(demo_wait,65)>
+
+Murasa2b:Ow. Did we make it through the hole?
+
+Murasa0c:Though I guess that shook a lot less than I thought it would.
+
+Ichirin0a:Akyu, can you give us a situation report?
+
+Akyu0a:Yes, the dust is dissipati―
+
+Akyu1a:Wait, everyone, look outside!
+
+Alice1b:...! 
+
+Murasa4a:No way! The entire ship fits in the corridor?! 
+
+<SE=se_talk_console01.ogg,wait=1>
+
+<hide=video>
+
+Marisa6b:Heeey! This is Marisa, calling from the deck!
+
+Marisa0b:Something weird's going on here. This hallway is crazy wide or something.
+
+</hide>
+
+Alice0a:Yes, we were just noticing that ourselves.
+
+Alice1a:It didn't look nearly this big from the outside...
+
+<hide=video>
+
+Reimu3b:Doesn't seem like an illusion though.
+
+Reimu4a:It has to be the hallway itself that's being weird.
+
+</hide>
+
+Sanae0b:How did you figure that out so quickly?
+
+Yukari0b:Understood. We'll investigate this on our end as well.
+
+Yukari0a:Keep a careful eye on your surroundings, and report in if you notice anything. 
+
+<hide=video>
+
+Reimu5c:Yeah, yeah. I'm hanging up now.
+
+</hide>
+
+<SE=se_talk_console02.ogg,wait=1>
+
+<single>
+
+Yukari0b:As you've just heard, it seems we've somehow brought the entire vessel into the mansion.
+
+</single>
+
+Shizuha4a:If what Reimu said is true, then there might be some kind of spatial magic in effect here.
+
+Yukari0a:Ran, can you analyze the spell?
+
+Ran4a:I'm already attempting to do so, but I can't fully make sense of it.
+
+Ran0b:What I can tell you is that there seems to be a wide-range spell over the entire mansion.
+
+Minoriko4a:Did we walk into a trap? It's so quiet right now that it's kind of unnerving.
+
+Kosuzu5a:It's like we're in the belly of the beast, or something...
+
+Kanako0b:Even if it is a trap, we still do not have the option of retreating.
+
+Kanako1b:Nor is this the first time we have grappled with mysteries beyond our ken.
+
+Yuyuko2a:We didn't even know our enemies were Lunarians at first!
+
+Merlin0b:Oh yeah, what is a Lunarian anyway?
+
+Akyu0a:Just like it sounds, it's someone who lives on the moon.
+
+Akyu1a:Some say that they have an advanced civilization, far beyond what we have on the surface. 
+
+Lyrica3b:Really? I figured there'd be nothing but bunnies up there. 
+
+Yukari0a:They're said to be an essentially peaceful people who take no notice of events on the surface of the Earth.
+
+Yukari0b:Of course, our current enemies left the moon over a thousand years ago, so I couldn't say if that applies to them as well. 
+
+Sanae1e:If even Yukari is treating this with that much caution, we should all too.
+
+Akyu3e:Agreed. Navigating issues between just surface youkai can be complex enough...
+
+Lunasa0b:If we don't know anything, why don't we just ask someone who does? Like her. 
+
+UsagiR2c:Who, me?!
+
+Suwako1a:Good idea. I especially wanna know about this Eirin Yagokoro person.
+
+LilyW1a:Miss Rabbit, if you don't mind, could you tell us what you know?
+
+UsagiR2c:Fine, fine. I don't know anything more than what's common knowledge on the moon though.
+
+UsagiR0a:On the moon, everyone knows the name Eirin Yagokoro. She's a fugitive.
+
+Lyrica1b:A wanted woman?! Like some kind of outlaw desperado?
+
+UsagiR0a:Yeah, she's this criminal who left behind her life on the Lunar Capital and is in hiding on the surface.
+
+UsagiR0a:According to the rumors, she was sent down to Earth as the leader of the Lunar Emissaries...
+
+UsagiR0a:...but once she was there, she slaughtered her entire entourage and vanished. 
+
+Mima1b:She killed her own allies? Quite the sinner. 
+
+UsagiR2c:Well, I mean, this all happened way in the past, so that might just be rumors.
+
+UsagiR0a:After all, I've never heard anything about the higher-ups dispatching a team to catch her, so, like...
+
+Shizuha4a:Hmm, but as they say, "Where there's smoke, there's fire."
+
+Yuka0f:If it's true though, then it probably has something to do with the fuss going on right now.
+
+Yuka0c:The full moon is the linchpin that holds the Earth and the lunar surface together.
+
+Yuka0c:By hiding it, she's cutting off travel to and from the moon. 
+
+Alice0c:And if she does that, then she can stop any pursuers.
+
+Ran0b:...But if so, it only raises the question―Why now, after all this time?
+
+Ran4a:Though now that I think about it, the incident began shortly after you arrived on the surface...
+
+UsagiR0c:Well, maybe she's trying to shelter me?
+
+UsagiR0d:I bet she was moved to sympathy seeing a fellow fugitive!
+
+Suwako5b:Nah, that sounds a bit too convenient to me.
+
+Yukari0a:We'll just have to ask her in person. First, why don't we capture Eirin Yagokoro?
+
+Akyu0a:Okay then. The Palanquin Ship will continue its current course.
+
+Akyu0b:I'll contact the people who went outside too.
+
+<BG=bg_talk_Eientei_Hallway.png,fade=1,color=1,title=bg_Eientei_Hallway,bgm=bgm_talk_ningyo>
+
+Hatate0a:...Got it, so we keep it up.
+
+<hide=video>
+
+Akyu3a:Yes, and please let us know the moment you see anything suspicious.
+
+Daiyosei0a:We'll be ready to deploy at any time.
+
+</hide>
+
+<SE=se_talk_console02.ogg,wait=1>
+
+<single>
+
+Youmu0a:What did she say we should do, Hatate?
+
+</single>
+
+Hatate0a:Just keep it up, she says. We're covering the perimeter. 
+
+Komachi4a:Blech, I shouldn't have stepped out for some fresh air.
+
+Hatate0a:Yeah, that's for sure. It's kinda creepy out here.
+
+Aya1b:If being in enemy territory gives you the jitters, how can you expect to cover a story? 
+
+Hatate2a:I-I never said I was terrified or anything!
+
+Marisa3a:So far, there hasn't been anything unusual. Other than this crazy big hallway, anyway.
+
+Marisa0b:I thought Sakuya was the only one who could mess with space like this.
+
+Sakuya5b:I'm surprised too. It feels... strange.
+
+Nazrin0b:It's not just the size of it, you know. I'm more interested in all the furnishings.
+
+Nazrin3a:There's not a single thing below a 5 on my rarity meter, and every last one of them is in mint condition too. 
+
+Sho0c:It's almost as if they're all brand new.
+
+Youmu4a:...And the silence here reminds me of the Netherworld.
+
+Youmu0a:Doesn't it feel almost like time has been stopped?
+
+Sakuya5b:True, it might be somewhat similar to that.
+
+Sakuya0a:If it weren't for the urgent situation, I might find that part enjoyable.
+
+Meiling0b:That's right, we have to resolve this incident as quickly as possible for the mistress.
+
+Meiling3a:Who knows what Lady Flan is getting up to, even as we speak.
+
+Komachi0a:Oh yeah, your mistress was looking after her little sister.
+
+Komachi4b:If you ask me, it would've been nicer for her to come along too though, just the once.
+
+Sakuya5b:The mistress does nothing without due consideration.
+
+Sakuya0a:As for our part, we need simply to resolve this incident as soon as possible.
+
+Patchouli0c:Let's not rush things. We still don't know the enemy's capabilities.
+
+Patchouli4c:If we act rashly, we may have more than simply a close battle ahead of us.
+
+Reimu4a:She's right, you can't afford to fail. If you get hurt, Remilia would cry her eyes out.
+
+Sakuya0a:I'm just a human. I doubt she would pay it too much mind.
+
+Sakuya6a:To the mistress, humans are just toys to be played with and thrown away.
+
+Komachi3c:She probably means it when she says it too. Scary.
+
+<SE=se_talk_console01.ogg,wait=1>
+
+<hide=video>
+
+Akyu0a:What's the situation outside, everyone?
+
+Akyu3c:You haven't contacted us in a while, so we were getting worried.
+
+</hide>
+
+Reimu0f:Yeah, sorry about that. Nothing out of the ordinary.
+
+Reimu0g:We'll be sure to let you know if the enemy shows up.
+
+<hide=video>
+
+Akyu0a:Roger that. Then we should keep up a perimet―
+
+</hide>
+
+Youmu1a:...!
+
+Youmu1c:Reimu, to your left! Killing intent!
+
+Reimu1a:Whoa―
+
+<Code=(map_shake,1,20,3)>
+
+<Code=(map_flash,1,20,c_white)>
+
+<SE=se_shoot_laser_M06.ogg,wait=0>
+
+<Code=(demo_wait,30)>
+
+Udonge2b:No way, I missed AGAIN?!
+
+Tewi1c:Your shot was perfect too. She's pretty lucky!
+
+Sho1b:That long hair... It's the rabbit we fought before! 
+
+Aya1a:Just what you'd expect out of storming an enemy stronghold, they've got ambushes in spades!
+
+Udonge2b:Oh crap, I need to pull back... 
+
+<Code=(map_shake,1,20,3)>
+
+<SE=se_talk_fly03.ogg,wait=1>
+
+<SE=se_talk_console01.ogg,wait=1>
+
+<hide=video>
+
+Ichirin1a:Hey, what's going on down there?!
+
+</hide>
+
+Reimu1a:That rabbit from earlier set another trap! She ran behind that door over there! 
+
+Youmu1a:Tell everyone else that we're going after her!
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP（配置後）
+
+Reimu1a:You're not getting awa―Whoa, where are we?!
+
+Sanae1a:The moon's so huge! Are we in outer space?!
+
+Alice1a:If this were really space, we wouldn't be able to breathe.
+
+Alice2b:Akyu, what does the radar say?
+
+Akyu1a:It's showing absurd numbers! Something must be interfering with it!
+
+<nomove>
+
+<Code=(cursor_jump,480,352,1)>
+
+<hide=face>
+
+Tewi3e:Nice, they really fell for it?
+
+</hide>
+
+<pause>
+
+Tewi3e:I never knew you were such a good actor, Reisen.
+
+Udonge1c:I was seriously shooting to kill, though.
+
+Merlin1b:Oh hey, you're that rabbit who snared Lily!
+
+Lyrica1a:She stole back to her hideout! What a classic villain move.
+
+Tewi3d:If you wanna live long, you gotta learn when to play it safe. You guys coulda had an ambush of your own set up.
+
+Udonge1a:And you're completely trapped in this pocket dimension we prepared!
+
+Mima1c:You're saying this entire space was created with sorcery?
+
+Ran1b:Judging by the complexity of the spell, it must have been―
+
+<nomove>
+
+<Code=(cursor_jump,368,288,1)>
+
+<hide=all>
+
+Eirin0a:You must be the Earthlings I've heard about in the reports.
+
+</hide>
+
+<pause>
+
+Youmu1a:...! What an overwhelming presence...
+
+Yukari2a:And you must be the woman who hid the moon, Eirin Yagokoro?
+
+Eirin5a:Oh, so you know my name? Ah, you must have heard it from the Fujiwara girl.
+
+Suika1b:I'm pretty sure we don't have time to all introduce ourselves. I didn't come here for a leisurely chat.
+
+Yuyuko5a:So not only do you have a fake moon, but you also have an entire fake starry sky? What... elaborate décor.
+
+Yuyuko5b:This spell is quite the bother. Why don't we dispense with it?
+
+Eirin5d:Hahahaha! So you can manage to tell that it's an illusion? Impressive.
+
+Eirin4d:Indeed, this is but a memory of the moon. A stale old moon befitting those who have been stained by impurity.
+
+Eirin5c:You'll spend your final moments here, between a false moon and the surface.
+
+Kanako1c:Speak. Why have you threatened Gensokyo's youkai by stealing the full moon?
+
+Suwako1c:What you're doing is a declaration of war against every last one of them.
+
+Suwako1d:Give it up, or we'll do this the hard way.
+
+Eirin5d:What can some mere Earth youkai possibly hope to accomplish?
+
+Eirin5b:Before long, my Locked Room spell will be complete, and the connection to the moon severed.
+
+Eirin5a:With that accomplished, no one will be able to pursue us here.
+
+Alice1a:So that was your aim after all.
+
+Murasa1b:We'll never let you get away with something so self―
+
+Murasa4a:Hey, what're you doing?!
+
+UsagiR0c:Lady Yagokoro! You're Lady Yagokoro, right?
+
+Udonge1b:...That voice! You're the one I met back then!
+
+Tewi1c:Master, that's the rabbit that got away.
+
+Eirin0a:Oh? You came all the way out here to meet me?
+
+UsagiR2b:Lady Yagokoro, I'm a rabbit on the run from the moon!
+
+UsagiR2a:As a fellow fugitive, I beg you, please shelter me!
+
+Udonge2b:Wha―Shelter you?!
+
+Ichirin1a:Wait, are you switching sides at the last second?!
+
+UsagiR1a:...Yeah? The only reason I even came here is to ask Lady Yagokoro for help.
+
+UsagiR0d:Honestly I never thought it would go this well.
+
+Udonge3a:Not only did you come here from the moon, but you also want our help?!
+
+Udonge1b:Are you KIDDING me? Why do you think we're doing all this? Whose fault do you think all this is?!
+
+Tewi4b:Easy there, Reisen. Use your inside voice.
+
+Eirin0b:...Very well, I'll consider your request.
+
+UsagiR0c:Yes!
+
+Eirin3c:But first, we'll have to deal with these Earthlings.
+
+Marisa2b:Hmph, if you're gonna keep dropping bad guy lines that just makes things simpler for us!
+
+Reimu0a:Who cares about rabbit drama? I'm not letting any of you get away!
+
+Reimu1a:Prepare to be exterminated!
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1EP
+
+UsagiR1a:I knew Lady Yagokoro would help me out!
+
+UsagiR2b:C'mon, open the hatch. I need to go join up with her!
+
+Murasa1b:Why in the world would we let someone on the enemy side out?
+
+UsagiR2a:Uggggh! Lady Yagokoro, save meeee!
+
+Eirin1b:Udonge, try not to destroy the bridge. I want you to take that rabbit alive.
+
+Udonge2b:Master, are you seriously planning on helping her?
+
+Eirin0a:If we can secure her, we might be able to learn something about the current state of the moon.
+
+Eirin1a:We can worry about how to dispose of her later.
+
+UsagiR2c:Dis... pose?
+
+Yuka3b:Heh. So much for your benefactor.
+
+Yuka0b:But didn't you say that you hid the moon to protect her?
+
+Tewi5a:No way, of course we didn't. Why would we do that?
+
+Udonge1c:There's no doubt about how this will end. Surrender yourselves quietly!
+
+UsagiR2c:This is all a joke, right, Lady Yagokoro? ...You're not really going to dispose of me? Right?
+
+Eirin5b:Udonge, I'll leave this to you.
+
+UsagiR2a:Aw, come on!
+
+<end>
+
+<ChatID:3>---------------------------------------
+//てゐ初戦闘時
+
+Tewi4b:If I let this many humans through, my reputation would be shot.
+
+Lyrica1b:What reputation? I've never heard of any long-lived rabbit.
+
+Lunasa0b:Your body is letting out a particularly wily sound.
+
+Akyu1a:Wait, I think that's the lucky rabbit of the bamboo forest!
+
+Merlin3a:She's a lucky rabbit? Does that mean she brings people happiness?
+
+Akyu1a:I can't begin to imagine how the leader of the bamboo forest's rabbits became the Lunarians' subordinate.
+
+Tewi4b:I'm no one's subordinate. What I've got going with Master is a business arrangement.
+
+Nazrin0b:What, are you under contract?
+
+Tewi0b:She didn't want anyone to stumble across her, so I lent a hand.
+
+Tewi3c:In exchange, she shares her wisdom with us rabbits.
+
+Sho0c:How can you so willingly join forces with someone who means Gensokyo harm?
+
+Chen2a:Can't you tell the difference between the good guys and the bad guys?
+
+Tewi3c:Hey. I wanna live a long time, and she depends on me. I've got plenty of things left on my bucket list.
+
+Nazrin6a:...Can't argue with that. That's the kind of smarts that'll keep you alive.
+
+Ran0b:Yet by that logic, she should go along with our wishes.
+
+Ran1b:After all, when someone stronger shows up, it's only smart to submit.
+
+<end>
+
+<ChatID:4>---------------------------------------
+//てゐ撃破
+
+Tewi2a:Geh, they're really not holding back.
+
+Cirno1a:We won! Admit it!
+
+Tewi4a:Welp, it wasn't supposed to go like this.
+
+Tewi4b:Maybe I could've come up with a better plan...
+
+Wriggle1d:You could try a million times, and it'd end the same way. If you're from the Earth, then think about how to protect it!
+
+Mystia1d:And if you won't do that, then I'll add rabbit stew to my cart's menu!
+
+Tewi5a:Uh-huh, sure. I'm clocking out now.
+
+<pause>
+
+Rumia3a:That's one down!
+
+Daiyosei0b:It's because we all combined our power!
+
+Eirin0b:...It appears Tewi's retreated. As shrewd a youkai as ever.
+
+Mima1c:How generous of you. A powerful caster like yourself is letting a chump youkai like her get away with that?
+
+Eirin4b:I can't manage the Earth rabbits the way she does.
+
+Eirin5c:So with that in mind, I tolerate some amount of willfulness from her.
+
+Nitori1b:How can you talk about your own comrades like pawns? You're so heartless!
+
+Hina1a:If you only consider your own self-interest, you'll never be able to live in Gensokyo.
+
+Minoriko1a:What's really important is to be there for each other and let your hearts be filled with gratitude!
+
+Shizuha3a:And it looks like we'll have to beat that into your head!
+
+<end>
+
+<ChatID:5>---------------------------------------
+//鈴仙初戦闘時
+
+Reimu1b:That was a warm welcome you gave us back in the bamboo thicket.
+
+Udonge1c:Why do you have to get in our way, over and over again?!
+
+Udonge1b:This has nothing to do with any of you. Why couldn't you just leave it alone?
+
+Aya4a:On the contrary, I think this has a lot to do with everyone who lives in Gensokyo.
+
+Sanae0a:Why are you helping the people from the moon?
+
+Sanae0g:Something serious must have happened to lead you down this path.
+
+Udonge5b:...I also ran away from the moon. Master saved me.
+
+Momiji1a:You're a moon rabbit too? Another fugitive!
+
+LilyW0b:Then maybe you and Miss Rabbit could―
+
+Udonge1b:Don't be ridiculous! I don't have the slightest obligation to help her!
+
+UsagiR2c:But... you could be my mentor?
+
+Udonge2a:I finally get my chance to live in peace, and she destroys everything I've worked for without even trying.
+
+Udonge1b:You're not welcome here! Get that through your head and stay away from me!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//鈴仙通常撃破
+
+Udonge2b:I knew this wasn't going to be easy...
+
+Sunny3b:She's a toughie, our powers don't work on her at all...
+
+Marisa3a:I heard you gave Reimu a good fight, and I can believe it.
+
+Youmu1a:Judging by the way you move, you must've had a lot of training.
+
+Udonge1c:...I was a soldier for the moon. I was conscripted and put through boot camp.
+
+Sanae0f:...The moon has a draft?
+
+Udonge5a:A while ago, Earthlings invaded the moon and tried to claim it for themselves.
+
+Udonge1c:Once the war started, they started conscripting us rabbits.
+
+Daiyosei3b:I think I've heard about people going to the Moon from Keine before...
+
+Cirno0a:So you didn't like it and ran away?
+
+Udonge2b:You don't understand―
+
+Komachi3b:A deserter, huh? You're quite the hardened criminal for such a babyface.
+
+Udonge2a:I didn't have a choice! If I hadn't, then I'd have―
+
+Meiling1a:Was saving your skin so important to you that you'd betray your sisters-in-arms?!
+
+Udonge2a:Shut up! What's wrong with trying to survive?!
+
+Udonge1b:I'm going to live through this, even if I have to drive all of you insane!
+
+Reimu1a:Watch out, she's doing something!
+
+Udonge1b:The wavelength of the moon can drive people mad! Just how long do you think you can bear it?!
+
+<end>
+
+<ChatID:7>---------------------------------------
+//鈴仙スペカ１撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Udonge2b:Oh no, not again...
+
+Reimu4a:Too bad. Your aim's fine, but you keep losing your nerve.
+
+Marisa0b:If you spend all your time focused on the past, won't your danmaku suffer? You won't be able to put your heart into it.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Udonge1c:See?! You all ran away too!
+
+Luna1a:No no, this is all just a strategy to wear you out.
+
+Star3c:Exactly! Aren't you breathing a little heavier?
+
+</Cond>
+
+Udonge2b:How can this be happening?
+
+Udonge5b:Just a bit longer, and everything would have turned out okay...
+
+Kanako1b:Would it have? Do you plan on running forever?
+
+Suika1a:Well I guess there's no way to lose when you don't even try to fight.
+
+Udonge2b:Augh...
+
+<pause>
+
+<Cond=(FIND_UNIT,Tewi_en,enemy,==,-1)>
+
+Suwako1c:So what now? You're pretty much exposed on all sides, you know.
+
+</Cond>
+
+<Cond=(FIND_UNIT,Tewi_en,enemy,!=,-1)>
+
+Suwako1c:So what now? We've already chased off your chief henchman, you know.
+
+</Cond>
+
+Eirin4d:That's about what I was expecting from Udonge. She fulfilled the bare minimum of her duty.
+
+Mima1f:Hm, so you're the sort who dispassionately watches and evaluates while her subordinates struggle...
+
+Mima1g:Why don't we put you to the test next?
+
+Eirin1b:By all means, go ahead. If a mere Earthling like you can.
+
+<end>
+
+<ChatID:8>---------------------------------------
+//永琳通常撃破１
+
+Meiling1a:Yeah, we got her!
+
+Koakuma1a:That one hit her hard! Now we can―
+
+Eirin4c:Me? Defeated?
+
+Eirin5c:Ha ha hah...
+
+Patchouli0c:You're laughing? Is there anything funny about this situation?
+
+Eirin5c:Indeed, it's hilarious how worthless that all was.
+
+<pause>
+
+Murasa4a:What's that light?!
+
+Akyu1a:It's the same as when Mokou's resurrected! Did she also drink the Hourai Elixir...?
+
+Eirin4c:The Hourai Elixir was something I made for the princess's benefit.
+
+Eirin5c:That some other girl also took it was a mere accident.
+
+Lunasa0a:In other words, both you and the princess are immortal? This symphony's going to have a bunch of movements...
+
+Aya1a:Even so, we've stopped the night. They can't win just by stalling.
+
+Eirin5c:Didn't I just tell you that your petty tricks are worthless?
+
+Kanako1c:What?!
+
+<pause>
+
+Suika2a:...! The moon's starting to move!
+
+Eirin5b:This is another effect of this place's geometry. The flow of time has resumed thanks to my princess's power.
+
+Eirin5d:Are you beginning to understand now? You're already out of time.
+
+Ran1b:Impossible! How could Lady Yukari's spell be cancelled out?!
+
+Sakuya0b:It doesn't matter to me, I was already in a hurry.
+
+<pause>
+
+Patchouli0a:Sakuya, just what are you planning?
+
+Sakuya0a:Against opponents like this, it's important to begin negotiations on the right foot.
+
+<Code=(icon_set_direction,Eirin_en,Sakuya,0)>
+
+Eirin5c:Negotiate? I have no intention of―
+
+<pause>
+
+Eirin2a:...! 
+
+Sakuya0b:Don't move. If you disobey me, this knife is going right into your throat.
+
+Star1a:Oh yeah, Sakuya can do stuff like that!
+
+Sunny1a:Now she'll have to listen to us!
+
+Eirin2a:That technique... Are you saying you can control time?
+
+Sakuya5b:I believe I've given a sufficient demonstration. Now then, as I was saying...
+
+Eirin5c:I see... Then—
+
+<pause>
+
+Sakuya2a:...!
+
+Meiling1a:Oh no, Sakuya!
+
+Koakuma1b:She didn't care about the knife?!
+
+Eirin4c:I must say I'm surprised. Who would ever have imagined someone on the Earth having such a power?
+
+Eirin5d:I suppose this means it's time I took you more seriously.
+
+Akyu1a:It's a trap! Get away from her, Saku―
+
+<pause>
+
+Sakuya2a:...! 
+
+Eirin5c:There, now I've taken away your freedom of movement.
+
+Eirin5e:Even should you stop time, the slightest touch of these lasers would burn right through you.
+
+Patchouli0c:I can't believe she figured out a flaw in Sakuya's ability!
+
+Sakuya2c:Did you really think this would be enough to make me surrender?
+
+Eirin5e:It doesn't matter to me. Either way, it'll be the same in the end.
+
+<pause>
+
+Sakuya2a:Ngh!
+
+Koakuma2b:Sakuya!
+
+Eirin4d:The power to control spacetime is far too much for an Earthling human.
+
+Eirin5e:I'll erase all trace of that power from the Earth!
+
+Elliy0b:Oh crap, she's gonna kill Sakuya!
+
+Sakuya2a:I was to return the moon for them...
+
+Sakuya2c:I'm sorry, Mistress.
+
+Patchouli2a:Sakuya!
+
+<nomove>
+
+<Code=(cursor_jump,224,192,1)>
+
+<hide=all>
+
+Remilia1c:Hold it!
+
+</hide>
+
+</nomove>
+
+Eirin1b:...! 
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,224,192,1)>
+
+<hide=all>
+
+Remilia1c:You, the filth in the red and blue. Lower your hand.
+
+Remilia0b:Take this any further, and I'll tear you and your disgusting moon to shreds.
+
+</nomove>
+
+</hide>
+
+Eirin1b:Who are you? What an absurdly intense aura...
+
+Koakuma3b:Lady Patchouli, it's―
+
+Patchouli4f:...You're late.
+
+Eirin1b:Stop skulking around and show yourself!
+
+<nomove>
+
+<Code=(cursor_jump_variable,ppos_xa,0,ppos_ya,0,0,0,1)>
+
+Remilia1c:I was going to anyway!
+
+<pause>
+
+Remilia1d:Hmph. Sorry not to bring a gift on my first visit. I hope you'll accept my danmaku instead.
+
+Sakuya5a:Mistress! Why did you―
+
+Remilia1d:I'm angry with you right now, Sakuya.
+
+Remilia1c:Who gave you permission to be so reckless? What were you thinking?
+
+Sakuya5c:My apologies. I was trying to fulfill your order―
+
+Remilia3a:I don't remember giving you permission to go and die, either.
+
+Eirin5d:...Hahaha, that one actually stung a bit!
+
+Eirin5e:I can scarcely believe that a mere Earth youkai's claws managed to scratch me!
+
+Remilia1d:It bothers me that you think I'll settle for just that.
+
+Remilia1c:First you take our moon, and now you want to take Sakuya from me? Learn your place.
+
+Remilia1b:Let me show you what it means to incur my wrath.
+
+<pause>
+
+Sakuya0a:Mistress, I―
+
+Remilia6a:We'll save the scolding for later. Get behind me.
+
+Sakuya5a:But, I should clean up my own mess―
+
+Remilia0a:Shush, Sakuya. Listen to your mistress.
+
+Remilia1d:Now that I'm here, you're not to lose another drop of blood.
+
+Remilia1a:If you have any complaints, then surpass me first.
+
+Sakuya0a:Yes, Mistress!
+
+<end>
+
+<ChatID:9>---------------------------------------
+//永琳通常撃破２
+
+Eirin1b:Ugh, you people don't know when to give up.
+
+Kanako1a:We've only just now gathered our full cast.
+
+Youmu1a:The mood's changed. If this keeps up, it looks like we could push through!
+
+Yuka0a:You know, this is as good an occasion as any to ask. Why did you hide the full moon at all?
+
+Eirin5a:...It would be troublesome for us if the Lunar Emissaries arrived to pursue that rabbit over there.
+
+Eirin5b:Left unchecked, their search would inevitably lead them to the princess.
+
+Reimu0d:I knew this princess of yours was involved in all this too.
+
+Eirin4a:Indeed, this is my continuing atonement for what I did long ago.
+
+Eirin5a:The princess was banished to Earth after drinking the Hourai Elixir I made for her.
+
+Eirin5b:In the purity of the Lunar Capital, immortality is a grave sin.
+
+Yuyuko2a:So that's why you took action to help her escape.
+
+Eirin5a:Yes. Fleeing to Gensokyo, hiding the moon, everything was for her.
+
+Remilia1c:Did you even think about the consequences of what you're doing?
+
+Remilia1d:You taking away the full moon is a massive problem for all night-dwelling youkai.
+
+Eirin5c:True... What a shame.
+
+Suika1c:"A shame"? Cut the fake sympathy.
+
+Remilia1c:Flan's suffering so much because of this jerk?!
+
+Remilia1b:That's it, I'm deciding your fates, here and now.
+
+Eirin5c:Hah, what can a diminutive, impure Earthling youkai possibly accomplish?!
+
+Eirin5d:We are eternal. You people are nothing before us.
+
+Eirin5e:Behold the wisdom of the moon, accumulated since ancient times!
+
+<end>
+
+<ChatID:10>---------------------------------------
+//永琳スペカ１撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Eirin2a:What? How could I find myself so hard-pressed?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Eirin2a:So the Earthlings managed to escape...
+
+</Cond>
+
+Reimu0b:Looks like even an immortal sage can get thrown off her game!
+
+Suwako1a:You shouldn't underestimate living beings who have their roots in the soil.
+
+Eirin2a:Coming infinitesimally closer to victory is hardly something to get conceited about!
+
+Marisa0a:You know, for someone who talks such a big game, you seem pretty worried.
+
+Marisa0c:Are the Lunar Emissaries that scary that even you've gotta hide?
+
+Eirin1b:As I've already said before, this is all my continuous atonement for what I did that day.
+
+Alice0a:What day?
+
+Eirin5a:The day I, a Lunar Emissary, came to bring Kaguya home.
+
+Eirin4c:But Kaguya chose not the moon, but this prison of an Earth.
+
+Eirin1b:And so I share that same cage. Spending my eternity with her is the one thing I can do to atone.
+
+Youmu1a:Is that why you killed your whole entourage and stayed here? To atone?
+
+Eirin5d:That's right. We're accomplices in a crime whose stain can never be removed.
+
+Yuyuko5b:...I understand. You must be quite satisfied, no?
+
+Yuyuko5a:You wanted a cage, so you built one yourself.
+
+Eirin2a:What?!
+
+Yuka0b:Heh, I see. I almost feel sorry for that princess you're using as an excuse.
+
+Yuka1a:The Earth is a prison? The princess's great sin? You're the one who's locked herself away, aren't you?
+
+Eirin1b:Hold your tongue, you ignorant Earthling.
+
+Eirin4c:...That's enough from all of you. I need only rid us of those who would get in our way.
+
+Eirin5b:Nothing will change, nothing CAN change... My eternal atonement will abide.
+
+Ran1b:She's beyond reasoning with!
+
+Yukari0a:Then I suppose we'll have to dispel that madness of hers.
+
+Eirin5b:Dawn will break, and the Locked Room's spell will be completed...
+
+Eirin5e:And then, the Earth will be as a jewel, eternally protecting the princess!
+
+<end>
+
+<ChatID:11>---------------------------------------
+//永琳スペル２撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Eirin2a:How could I...
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Eirin2a:To think you managed to evade even this spell...
+
+</Cond>
+
+Mima1c:You were quite the caster, but the battle's been decided.
+
+Yukari1a:If there's a reason you lost, it's because you weren't aware of your own weakness.
+
+Yukari0b:That's what happens when you live in a closed-off world.
+
+Eirin2a:I don't recall asking for your input!
+
+Eirin5b:But I highly doubt that you can interfere with the real moon.
+
+Eirin1b:If I close this space, you'll be stuck here for―
+
+<pause>
+
+Eirin2a:...! 
+
+Nitori3e:The dimension is unstable? Doesn't look like she can control it properly anymore.
+
+Suika0c:She's pretty exhausted, and the spell's fraying at the edges.
+
+Eirin5a:...Now that it's come to this, there is but one choice.
+
+<pause>
+
+Meiling1a:Argh, she got away!
+
+Alice0a:If we head forward, we should be able to reach the inner chambers.
+
+Reimu0a:My intuition is saying that the mastermind's dead ahead of us.
+
+Marisa1a:If that's settled, then let's charge in!
+
+Ichirin1a:I'll raise the output of the Buddhist reactor. Get back aboard, everyone!
+
+<end>
+
+<ChatID:12>---------------------------------------
+//ADVB
+
+<BG=bg_talk_Seirensen_Hall_Night.png,fade=0,color=1,title=bg_Seirensen_Hall,bgm=bgm_talk_ningyo>
+
+<SE=se_talk_walk_indoor03.ogg,wait=1>
+
+Komachi4b:Geez, we're finally back on track.
+
+Meiling0c:After being in that closed space, I'm not so sure about this plan. 
+
+Elliy4a:You mean charging straight in with the Palanquin Ship?
+
+Elliy4b:Even if we're supposedly ready, I can't help but be a little nervous. 
+
+Komachi0b:The top dogs are in the middle of some serious meeting, and Nitori and the others are below-decks doing repairs. 
+
+Kurumi3b:And the rest of us are just killing time in the giant room!
+
+Elliy1a:C'mon, at least try to prepare yourself mentally! 
+
+Meiling3d:Anyway, Sakuya's going to be okay, right? Koakuma took her to the medical bay, but...
+
+Yuka3f:It seems Remilia gave that order just to be safe.
+
+Yuka0c:Humans do break so easily. You can't be too careful.
+
+Meiling3a:That last opponent was no joke either.
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+Patchouli0c:...And this is the lounge. It's a place to, for example, drink tea while reading a book.
+
+Remilia3d:Ah, you even got them to put chairs out. Well done. 
+
+Yuka0d:Why, Remilia! How do you do?
+
+Remilia4a:Yuuka, hm? Sorry, I forgot to say hello earlier. 
+
+Elliy4b:You're so mean. It's been so long since you last saw each other.
+
+Elliy4a:I get that you were real mad about Sakuya being bullied though... 
+
+Remilia0b:Who wouldn't? I don't care what planet she's from, that's going too far.
+
+Remilia0a:I'm going to pull this Princess Kaguya of hers up by the roots, bamboo shoots and all.
+
+Yuka0a:Heh, you're as entertaining to watch as always.
+
+Yuka0c:More importantly, how has your sister been doing?
+
+Yuka0f:I'd heard she'd fallen very ill and you were taking care of her.
+
+Meiling0c:That's right, I thought you said you were going to stay home with Lady Flan?
+
+Remilia1d:I did say that... but I decided to try believing in her.
+
+Patchouli3b:Remi!
+
+Remilia0a:She's my sister after all. She should be able to look after the house for a little while.
+
+Remilia5c:I'm sure she's worried, though.
+
+Patchouli3a:Even so, you chose to entrust that task to her.
+
+Remilia3a:Flan said that she'll be waiting for me to come back.
+
+Remilia0a:And now I have a promise to keep too. I'll take back the moon and head right home to her.
+
+Patchouli3a:I see. We will of course assist you in keeping your promise.
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+Sakuya5a:It's gotten late. I need to prepare the mistress's tea―
+
+Koakuma1a:Sakuya, if you try to do kitchen work, you'll ruin your bandages. 
+
+Komachi1a:Oh, so you survived your medical treatment.
+
+Meiling1a:Don't tell me she was bleeding internally or broke a bone or something?!
+
+Sakuya0a:Don't make such a fuss, they're just scratches.
+
+Remilia3a:Well, thank goodness it wasn't that serious.
+
+Remilia3d:I dashed over here because I was worried you'd run into difficulties, and sure enough... 
+
+Sakuya5c:Terribly sorry to trouble you, Mistress.
+
+Koakuma5b:But Mistress, that spellcaster was out of the ordinary!
+
+Koakuma4a:Not only was she unfazed by time stopping, she was immortal.
+
+Remilia4a:Oh, she wasn't surprised by Sakuya's ability? The nerve of her. I like her less every minute.
+
+Kurumi4b:But Sakuya didn't budge an inch either.
+
+Sakuya5b:I was under orders from the mistress. Of course I wouldn't flee.
+
+Sakuya5a:If I'd failed, there'd be no meaning in living on.
+
+Remilia4a:Look, Sakuya. You don't need to go that―
+
+<SE=se_talk_console01.ogg,wait=1>
+
+<hide=video>
+
+Akyu0a:All hands, we have discovered the entrance to the inner chambers.
+
+Akyu0b:We're about to review our plan of action. Everyone, please report to the bridge.
+
+</hide>
+
+Yuka0a:There goes our relaxation time.
+
+Patchouli0a:Yes, well, this will be a decisive engagement. Let's go join them.
+
+<SE=se_talk_walk_indoor01.ogg,wait=1>
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+<single>
+
+Sakuya5b:I'll guide you to the bridge, Mistress.
+
+</single>
+
+Remilia0b:Hold on, Sakuya. I still need to talk to you.
+
+Sakuya0b:...
+
+<Code=(sound_fadeout,BGM,45,0)>
+
+<BGM=bgm_talk_hiroshige,0>
+
+Remilia3a:I already said this, but you're not allowed to die without permission.
+
+Remilia3c:If you died, who'd be there to entertain me?
+
+Sakuya0a:When that happens, please find someone else to be your toy.
+
+Remilia3c:You just don't get it, do you? I'd never find anyone with a fate as checkered as yours.
+
+Remilia3d:Some other human wouldn't even hold my interest.
+
+Sakuya0a:I'm honored to hear you say that.
+
+Remilia4a:...Oh, here's an idea. What do you say to becoming immortal as well, Sakuya?
+
+Remilia3f:Then we could be together forever.
+
+Sakuya5b:Me? Immortal?
+
+Remilia5c:Why not? You're tough as is. A little more strain wouldn't break you.
+
+Sakuya6b:...Such generous words might go straight to my head.
+
+Sakuya6a:But I'm afraid I'm still a mortal human being. This request is one I can't meet.
+
+Remilia3d:...Alas. Pity, that.
+
+Sakuya0a:Don't worry. I'll stay with you for as long as I live.
+
+Sakuya5c:Given eternal life, I'm sure you'd get bored of me eventually.
+
+Sakuya6a:Please, let me die while I am still your favorite toy.
+
+Remilia4a:...!
+
+Remilia3a:Well, since you asked so nicely...
+
+Sakuya0a:...
+
+<BG=bg_talk_Seirensen_Bridge_Night.png,fade=1,color=1,title=bg_Seirensen_Bridge,bgm=bgm_talk_kagaku>
+
+Akyu0a:Our route is clear. We can continue our advance.
+
+Kanako1b:This reminds of when I marched on Kamigata.
+
+Chen2a:Miss Ran, the room's spinning...
+
+Kosuzu1a:Now that you mention, I'm feeling a little strange too.
+
+Mima0a:It's the energy from the moon. Seems like it's back, somehow.
+
+Ran6b:In fact, it's far stronger than it is when viewed from the surface. 
+
+Yukari0b:This is the true power possessed by the moon.
+
+Yukari0a:In all likelihood, we've reached the interior of the Locked Room spell. 
+
+Suwako1c:We're inside the inner sanctum of Eirin Yagokoro's hidden pocket dimension.
+
+Suwako0a:And here, both that princess of hers and the real moon are waiting for us. 
+
+Kanako1a:So our final battle with the Lunarians is to be under the canopy of the heavens.
+
+Hina0b:Apparently she really did hide the full moon in order to escape Lunarian pursuers. 
+
+Lunasa0a:And all that happened because you fled to Earth.
+
+UsagiR2c:H-How was I supposed to know any of that happened?! I didn't know anything about Lady Yagokoro's past.
+
+UsagiR0a:And because of it, she won't even help me hide.
+
+Aya5a:I'd call that well-deserved comeuppance. We're all suffering the consequences just as much as you, you know. 
+
+Suika1a:Resolving this incident comes first, so just keep quiet and behave yourself.
+
+Suika3d:We can take our time and think about what to do with you later.
+
+UsagiR2c:Man, what am I gonna do...?
+
+LilyW0b:I'm sure it'll all work out, Miss Rabbit.
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+Remilia0b:...Hm, there's a couple of people I don't recognize.
+
+Sakuya0a:The one over there in a gloomy mood is a moon rabbit.
+
+Yuka3a:With Remilia and Sakuya, we're all present now.
+
+Sakuya5b:I had intended to hurry this up, but I suppose we're running a bit late.
+
+Alice0d:We don't mind, I'm sure you had a few things you needed to do.
+
+Mima0a:Speaking of things we need to do, we have to check our morale before charging in.
+
+Mima1b:It goes without saying, but none of us are going to take this lightly, correct? 
+
+Cirno2b:'Course not! We finally got all the way here.
+
+Sho0b:In that closed space, the moon princess is waiting for us.
+
+Daiyosei1a:We'll catch the bad guys, and stop the incident.
+
+Youmu1a:No matter what happens, we can't let them have the moon.
+
+Yuyuko1b:After all, Gensokyo is where so many creatures live.
+
+Kanako1c:Let's gather our strength. Our next battle shall be the last one.
+
+Sanae1a:Yes, with Lady Kanako and Lady Suwako at my side―
+
+Suwako1c:It's not just us, a whole lot of people and youkai are all here too.
+
+Marisa1a:Let's get going already! We need to pay them back for everything they've done.
+
+Yukari0a:Palanquin Ship, full speed ahead. Set our course through the central door.
+
+Reimu1a:We're settling tonight's incident, here and now!
+
+<Code=(transition_out,c_black,30,1)>
+
+<end>
+
+<ChatID:13>---------------------------------------
+//咲夜＆レミリア初戦闘
+
+Remilia0a:Good, you still have all your limbs.
+
+Remilia0c:But sheesh, you can be so reckless sometimes, Sakuya.
+
+Sakuya2a:...My deepest apologies for troubling you.
+
+Sakuya1b:But I must ask, is this really okay? Lady Flan is back at the man―
+
+Remilia0b:Let's save that topic for after we deal with this lady.
+
+Remilia0b:I can make good use of this eternal night.
+
+Remilia0e:Let's teach these villains that together we're invincible!
+
+Sakuya0a:Yes, Mistress!
+
+<end>
+
+<ChatID:14>----------------------------------------
+//「不夜城レド初使用時
+
+Remilia1e:The moon may be a fake, but the night is real.
+
+Remilia1a:You all should be thankful for what you'll witness tonight. It's high time I show you the true heights of my power.
+
+Youmu2b:Remilia's aura is getting even stronger than before?!
+
+Patchouli1a:I suppose it is. Remi's now unleashing her inherent power as a vampire.
+
+Marisa1d:What's that supposed to mean? You saying she wasn't taking it seriously when we danmaku'd it up last summer?
+
+Akyu1a:A vampire's strength lies in three qualities―their overwhelming power, speed, and magic.
+
+Akyu1a:However, when you fought before, she only used each of these strengths separately.
+
+Remilia0d:I was busy conjuring the mist, so I couldn't put my full potential on display.
+
+Kurumi3d:So, tonight you're finally going full throttle!
+
+Remilia1e:Heh heh. She will know firsthand the punishment for rebellion against the queen of the night.
+
+Remilia1a:Your blood will paint the walls of my castle tonight!
+
+<end>
+
+<ChatID:15>----------------------------------------
+//全滅時（咲夜被撃墜）
+
+Meiling7b:Sakuya!
+
+Sakuya2c:I never thought I'd die in a place like this...
+
+Eirin1a:Indeed what a place. I suppose you'll drift eternally through this rift in space.
+
+Eirin1a:And if you're not satisfied with that, then I'm afraid you'll have to use a continue.
+
+Reimu2a:Rrgh, I guess we have to...
+
+<end>
+
+<ChatID:16>----------------------------------------
+//全滅時（聖輦船被撃墜）
+
+Murasa0b:Gah, the Palanquin Ship is sinking!
+
+<Cond=(LOCAL_LIST,ObjControl,event_done,7,==,1)>
+
+Remilia1c:Hey! How could you let that happen?! How am I supposed to show off like this?!
+
+Eirin1a:Have you realized it yet? That you willl drift eternally through this rift in space?
+
+</Cond>
+
+<Cond=(LOCAL_LIST,ObjControl,event_done,7,==,0)>
+
+Ichirin2a:Who knows what'll happen if we lose here...
+
+Eirin1a:I do, naturally. Once I close this rift in space, you'll drift through it eternally.
+
+</Cond>
+
+Eirin0a:And if you're not satisfied with that, then I'm afraid you'll have to use a continue.
+
+Reimu2a:Rrgh, I guess we have to...
+
+<end>
+
+<ChatID:17>----------------------------------------
+//永琳vs.咲夜
+
+Sakuya5b:Now then, we've finally reached the mastermind.
+
+Eirin1a:Does a mere human think she can challenge me?
+
+Sakuya0a:Yes, as a matter of fact. This mere human will challenge you right now.
+
+Sakuya0a:(...And if I have to, I can steal her time.)
+
+<end>
+
+<ChatID:18>----------------------------------------
+//永琳vs.アリス
+
+Alice0a:I already knew this, but you really are quite quick-witted.
+
+Alice0a:You were able to immediately determine that hiding the moon was your best response.
+
+Eirin0a:For a lunar genius like myself, the optimal solution is always self-evident.
+
+Eirin0a:Don't tell me you think the combined wisdom of Earth could possibly match me.
+
+Alice1a:There can be only one answer to that―It's always worth trying out other options!
+
+Eirin1a:Such an unrefined way of thinking. How befitting of an Earthling!
+
+<end>
+
+<ChatID:19>----------------------------------------
+//永琳vs.パチュリー
+
+Patchouli0b:If you're a skilled enough caster to hide the moon, you must have a vast amount of knowledge.
+
+Patchouli0b:I certainly hope you'll leave writings behind, for future generations.
+
+Eirin0a:Oh, but I have no interest in making records.
+
+Eirin0a:All of my wisdom is within my mind, and that's enough for my purposes.
+
+Patchouli4e:...You may be intelligent, but your understanding is shallow.
+
+<end>
+
+<ChatID:20>----------------------------------------
+//永琳vs.文
+
+Aya1a:Spells seem to be your strong suit. How's your speed?
+
+Eirin0a:My speed?
+
+Aya1b:That's right. Can you catch me, the fastest in all Gensokyo?!
+
+Eirin0a:Hah! I'm terribly sorry for you, but restricting an opponent's movements is my field of expertise.
+
+Eirin1a:First I'll trap you, then restrain you... and then at that point I can do whatever I please with you later.
+
+Aya5b:I'm going to refrain from the obvious jokes I could make here.
+
+<end>
+
+<ChatID:21>----------------------------------------
+//永琳vs.はたて
+
+Hatate0a:Man, I'm just no good with you intellectual types.
+
+Eirin0a:The people of Earth truly believe they can measure the full scope of my intellect?
+
+Hatate0a:Nah, we don't need to. It's really easy to tell you're smart anyway.
+
+Hatate1a:You'd look pretty good in glasses, right? Not just anybody can say that!
+
+Eirin0a:...I'll never understand the way Earthlings think.
+
+<end>
+
+<ChatID:22>----------------------------------------
+//永琳vs.秋姉妹
+
+Shizuha2b:You're not concerned with the Earth at all. I guess that's a Lunarian for you.
+
+Minoriko1b:As gods of autumn, we're gonna show you some divine punishment!
+
+Eirin0a:Of Autumn? So there are gods that even the moon hasn't heard of.
+
+Eirin0a:It's no wonder of course, as there are no seasons on the moon.
+
+Shizuha0b:Really? That sounds like a pretty boring place to live.
+
+Minoriko1a:Spring, summer, and winter are whatever, but you need to at least do something about your lack of autumn!
+
+Eirin2a:Such hubris. Is this what the gods of the Earth are like?
+
+<end>
+
+<ChatID:23>----------------------------------------
+//永琳vs.椛
+
+Momiji2a:Gah, what a powerful aura...
+
+Eirin1a:Well now. I'd taken you for a youkai of no account, but it appears you do at least understand what you're up against.
+
+Momiji1b:I can't have you looking down on me. I am a proud patrol tengu of Youkai Mountain.
+
+Momiji1a:I won't back down when the dignity of Youkai Mountain is on the line!
+
+Eirin1a:Ah yes, that's just the sort of reasoning I like to see instilled in a pawn.
+
+<end>
+
+<ChatID:24>----------------------------------------
+//永琳vs.魔理沙
+
+Marisa0a:Give it up, Eirin Yagokoro!
+
+Marisa0a:This whole incident is a huge pain for us humans too.
+
+Eirin0a:The humans as well? Shouldn't suppressing the power of the moon be to your benefit?
+
+Marisa4b:You're not getting it. You hid the moon, so it's your fault that Yukari stopped the night.
+
+Marisa4c:So it's your fault that the surface youkai are gonna go nuts.
+
+Eirin0a:That's quite the leap of logic. But it doesn't change the fact that you're in our way.
+
+<end>
+
+<ChatID:25>----------------------------------------
+//永琳vs.神奈子
+
+Eirin0a:...Are you not Take-Minakata-no-Kami, who fled to Suwa?
+
+Eirin0a:I'd thought you'd been defeated by that other god. So you ran to a place like this?
+
+Kanako3a:Let me make this clear, I do not plan to live in the shadow of my past.
+
+Kanako0c:Nor do I think someone currently engaged in such frantic flight has any room to talk.
+
+Eirin0a:Oh, but I've merely been following the optimal plan that I came up with.
+
+Kanako1d:And if that plan involves seizing our moon, then you're quite the scoundrel.
+
+<end>
+
+<ChatID:26>----------------------------------------
+//永琳vs.諏訪子
+
+Suwako0a:I can't believe aliens speak Japanese. Could this be the discovery of the century?
+
+Eirin0a:So you're another god... And an indigenous one at that.
+
+Eirin0a:Native gods are such a bother. You can crush them again and again, and yet they keep bubbling to the surface.
+
+Suwako3b:Ahaha, how silly. The real way to rule is from below, like me.
+
+Suwako1a:You gotta spread your roots through the soil and conquer the hearts of anyone who builds their livelihood on top of you.
+
+Eirin1a:You sound like you'd make an excellent business partner. It's almost a shame to get rid of you here.
+
+<end>
+
+<ChatID:27>----------------------------------------
+//永琳vs.紫
+
+Yukari0a:So we finally meet. I am Yukari Yakumo, Gensokyo's caretaker...
+
+Yukari5a:And the one who took the liberty of pinning your false moon to the sky with this eternal night.
+
+Eirin0a:...I see. So you're the ringleader of those who've been standing in our way, then?
+
+Eirin1a:I hate to disappoint you, but the power of an Earthling youkai could never be a match for a Lunarian.
+
+Yukari4c:Oh really now? I suppose I will have to begin introducing you to how we do things here on Earth.
+
+<end>
+
+<ChatID:28>----------------------------------------
+//永琳vs.幽々子（C42）
+
+Eirin0a:I don't sense any impurity. It seems you're a ghost, then.
+
+Eirin0a:If a one who dwells in the Pure Land is among you, then the Earth must truly be in a state of chaos.
+
+Yuyuko1a:Oh, is there something wrong with me being here? No one ever said I couldn't.
+
+Yuyuko0a:If you're going to be living here, you need to learn more about Gensokyo too.
+
+Eirin2a:I couldn't care less about this place. As long as the princess and I can escape together, nothing else matters!
+
+Yuyuko2a:...I see. Then we have a problem.
+
+<end>
+
+<ChatID:29>----------------------------------------
+//永琳vs.幽香
+
+Yuka0c:So you're the Lunarian who stole the moon.
+
+Eirin0a:An Earthling youkai... And one that reeks of impurity.
+
+Eirin1a:Someone trapped in the cycle of life and death couldn't possibly affect a Lunarian in any meaningful―
+
+Yuka0b:Heh heh, you Lunarians are so tasteless that I almost pity you.
+
+Eirin2a:Tasteless?
+
+Yuka0c:Earth's flowers bloom with a vibrancy that makes them a symbol of life, yet in their transience they are also a symbol of death.
+
+Yuka1b:One who knows not the beauty of flowers will never understand the beauty of the Earth.
+
+Eirin2a:You're speaking utter nonsense...
+
+<end>
+
+<ChatID:30>----------------------------------------
+//永琳vs.リグル
+
+Eirin1a:An insect youkai... You reek of impurity, to the point I want to gag.
+
+Wriggle2a:You... Just what do you think bugs are?!
+
+Eirin1a:Primitive beings near the base of the food chain. The very symbol of the Earth's impurity.
+
+Wriggle0a:I won't let you moon people make fun of bugs!
+
+Wriggle1a:You won't destroy our reputation so easily!
+
+<end>
+
+<ChatID:31>----------------------------------------
+//永琳vs.リリカ
+
+Lyrica1b:Ugh... I hate dealing with these intellectual types...
+
+Eirin0a:If that's the case, then get out of my sight.
+
+Lyrica1b:No, I won't lose to you! You need a good head if you're working with music too!
+
+Lyrica0a:Plan with your head, play with your heart! That's what it means to be in the Prismriver Ensemble!
+
+<end>
+
+<ChatID:32>----------------------------------------
+//鈴仙vs.小悪魔
+
+Koakuma0a:Isn't it hard to maintain hair that long?
+
+Udonge2b:Wha- my hair?
+
+Koakuma3d:I have long hair too, and finding good shampoo is a lot of trouble.
+
+Udonge1b:...Are you trying to find a common ground with your enemy?!
+
+<end>
+
+<ChatID:33>----------------------------------------
+//鈴仙vs.霊夢
+
+Udonge1b:I just keep missing this human. I'll need to take especially careful aim.
+
+Reimu4a:You've been a real pain yourself, with that annoying danmaku and all.
+
+Reimu0f:But what's with your timid fighting style?
+
+Udonge1b:If I keep running away, I won't be killed!
+
+Reimu1a:I hate to tell you, but you'll never win that way either!
+
+<end>
+
+<ChatID:34>----------------------------------------
+//鈴仙vs.早苗さん
+
+Sanae0b:I can't believe you're another fugitive rabbit on the run from the moon.
+
+Udonge1c:So what? It has nothing to do with you.
+
+Sanae0b:But if you've moved here to the Earth, then I'd like to ask you more about how you―
+
+Udonge5b:I didn't move here, I fled here.
+
+Udonge1b:And I don't need your support or your pity!
+
+Sanae1d:I didn't mean it like that!
+
+<end>
+
+<ChatID:35>----------------------------------------
+//鈴仙vs.エリー
+
+Elliy1a:That wicked get-up of yours... I, Elly, won't allow this!
+
+Udonge4c:Wicked...? What are you on about?
+
+Elliy0b:Don't play dumb with me! I'm talking about that uniform and those ears!
+
+Elliy2a:If only I looked good in them!
+
+Udonge3b:...Why not try it out yourself then? Nobody's stopping you.
+
+<end>
+
+<ChatID:36>----------------------------------------
+//鈴仙vs.くるみ
+
+Kurumi0a:You always attack from so far away...
+
+Kurumi3a:You must be scared, like me!
+
+Udonge2b:Wha―I'm not scared or anything!
+
+Kurumi5b:I know exactly how you feel. It's such a relief to be so far away from the battle.
+
+Udonge5c:Don't lump me in with people like you, I'm just using sniper tactics!
+
+<end>
+
+<ChatID:37>----------------------------------------
+//鈴仙vs.三月精
+
+Sunny1a:It doesn't matter who we're up against, as long as we control light and sound!
+
+Star4a:Uh, Sunny, our powers don't work on her, remember?
+
+Luna4a:We were trying to play a prank on her when she caught us.
+
+Udonge4d:Now that you mention it, I remember seeing you three before.
+
+Udonge4c:Both light and sound are forms of waves. You're no match for my power!
+
+<end>
+
+<ChatID:38>----------------------------------------
+//鈴仙vs.リリー
+
+LilyW0a:You're a rabbit from the moon too?
+
+LilyW0a:Then why not listen to Miss Rabbit's request?
+
+Udonge4c:You don't mean that rabbit from earlier, do you?
+
+LilyW0a:I do. She's our friend!
+
+Udonge4a:So she buddied up with strange Earthlings just like that?
+
+Udonge1c:I can't believe it. Just how thick-headed can she be?!
+
+<end>
+
+<ChatID:39>----------------------------------------
+//鈴仙vs.ルナサ
+
+Lunasa0a:...The sounds are in disarray. You have a strange ability.
+
+Udonge4c:So, you know what my ability is?
+
+Lunasa0b:A disturbance in sound is a disturbance in emotions. And it seems you too are being affected by its fluctuations.
+
+<end>
+
+<ChatID:40>----------------------------------------
+//鈴仙vs.メルラン
+
+Merlin1a:Hey, rabbit! Listen to my concert!
+
+Udonge4c:You're carrying an instrument... Don't tell me that's some kind of sonic weapon?!
+
+Merlin0a:It's not a weapon. It's just a regular instrument.
+
+Merlin1a:And the sound I make with it can make anyone who listens turn super-happy!
+
+Udonge4a:Using sound waves to manipulate emotions? She's more dangerous than she looked!
+
+<end>
+
+<ChatID:41>----------------------------------------
+//鈴仙vs.小町
+
+Komachi1c:Thanks for keeping your distance, saves me the trouble.
+
+Udonge4a:...Is this her way of showing that she's unthreatened by me?
+
+Udonge1b:Well I can pick off a target of your size at any distance!
+
+Komachi3c:Hate to break it to you, but you're not the only one who can be a hassle at long range.
+
+<end>
+
+<ChatID:42>----------------------------------------
+//鈴仙vs.星
+
+Sho0c:About what you were saying earlier... Is it true that you abandoned your comrades and ran away?
+
+Udonge4a:What does that matter to you?
+
+Udonge5b:What happened in the past happened in the past... Worrying about it won't get you anywhere.
+
+Sho0c:So even as you avert your eyes, you keep them on the road ahead. Is that the path you've chosen?
+
+Udonge1b:As long as you can survive, then nothing else matters!
+
+<end>
+
+<ChatID:43>----------------------------------------
+//鈴仙vs.妖夢
+
+Youmu2b:I knew it. Those movements aren't the ones of an amateur.
+
+Udonge4a:You're sharp. You must be a trained soldier too.
+
+Udonge4c:So are you going to tell me the presence of my master doesn't scare you?
+
+Youmu1a:Even if I were scared, I wouldn't let it get to me!
+
+Udonge4a:You cheeky little—!
+
+<end>
+
+<ChatID:44>----------------------------------------
+//鈴仙vs.美鈴
+
+Meiling1b:No matter how good at shooting you are, I'll win this if I bring us into close combat!
+
+Udonge4a:...I see, so you're the type who fights with their body.
+
+Udonge1b:Sorry, but antiquated tactics like that won't work on me!
+
+Meiling1a:No matter the era, the motherland's four thousand years of history will triumph!
+
+<end>
+
+<ChatID:45>----------------------------------------
+//鈴仙vs.にとり
+
+Nitori3b:From the sound of it, you ran from the moon all by yourself.
+
+Nitori3a:Weren't you lonely, leaving behind your friends like that?
+
+Udonge2b:...!
+
+Udonge5b:I'm... I'm not lonely. The moon has nothing to do with me anymore...
+
+Nitori3e:So you're saying that all your old rabbit buddi―
+
+Udonge2c:I just told you that's got nothing to do with me!
+
+<end>
+
+<ChatID:46>----------------------------------------
+//てゐvs.ルーミア
+
+Rumia0a:Hey, so if you're the boss of the bamboo thicket, then do you know where I can find bamboo shoots?
+
+Tewi2c:Huh? They're all over the place if you look around.
+
+Rumia1a:Don't lie like that, when we went there before I couldn't find a single good one!
+
+Rumia2a:They were all green and hard and awful tasting...
+
+Tewi4a:Uh... Were you trying to eat normal bamboo?
+
+Rumia0a:...???
+
+<end>
+
+<ChatID:47>----------------------------------------
+//てゐvs.はたて
+
+Hatate0a:A youkai rabbit with the moon in the background? OMG, has there ever been a photo this good before?
+
+Tewi1c:What's with you? Chill out a bit.
+
+Tewi1d:You're a tengu, aren't you? At least try to show some dignity.
+
+Hatate0a:Who cares? Dignity is for the olds.
+
+Tewi4b:Something about the way you talk annoys me...
+
+<end>
+
+<ChatID:48>----------------------------------------
+//てゐvs.ミスティア
+
+Tewi4b:I feel like I've seen you before, in the Bamboo Forest of the Lost.
+
+Mystia0c:Don't tell me you're a former customer of my food stall?
+
+Mystia3d:I'm so sorry if you are, I'm really not good with faces!
+
+Tewi5a:You're pretty bad at this, huh? I think I'll try a little dine-and-dash next time...
+
+<end>
+
+<ChatID:49>----------------------------------------
+//スカルプチュア初使用時
+
+Sakuya0a:Please let me handle this, Mistress.
+
+Remilia1d:Pushing yourself too hard again? If you're still not doing well, then―
+
+Sakuya6a:I appreciate your concern, but I'm in perfect form. I'm currently in putting-on-the-pressure mode.
+
+Sakuya0a:I can do this even without stopping time, so please allow me to show off my knifework.
+
+<end>
+
+<ChatID:50>----------------------------------------
+//永琳vs.聖輦船
+
+Eirin2a:To think someone would invade us by ship...
+
+Eirin1a:Still, you've saved me some time in the end. I'll eliminate all of you in one stroke.
+
+Ichirin1a:...I know that this is a trap, but we're ready for a fight too!
+
+Murasa1b:The Palanquin Ship has the power of Gensokyo in it! Here, let me show you!
+
+<end>
+
+<ChatID:51>----------------------------------------
+//永琳vs.藍
+
+Ran6c:So you're the one who created this space? What a boundlessly complex spell you've used.
+
+Eirin0a:It's pointless to just analyze it. It's protected on countless layers.
+
+Eirin0a:No matter how many calculations you make, a mere Earth youkai like you would never be able to grasp it.
+
+Ran6a:Well, then I'll have to employ a different method: Defeating you.
+
+Eirin1a:Your reasoning isn't wrong, but that's also impossible.
+
+<end>
+
+<ChatID:52>----------------------------------------
+//永琳vs.魅魔
+
+Mima0a:You're no amateur if you can create an entire pocket dimension with sorcery.
+
+Eirin0a:If you realize my prowess, then I recommend giving up sooner rather than later.
+
+Mima0a:Don't be ridiculous, you hardly ever get chances to fight a Lunarian.
+
+Mima1a:If you're not careful, I might even find a way to dispel this with my own magic.
+
+Eirin2a:What absurd levels of arrogance...
+
+<end>
+
+<ChatID:53>----------------------------------------
+//永琳vs.チルノ
+
+Eirin0a:So even a being as simple as a fairy seeks to oppose us?
+
+Cirno2c:Hey, don't look down on fairies!
+
+Eirin0a:As long as I understand the workings of nature, you pose no threat at all.
+
+Eirin1a:Even if you could chill me down to absolute zero, I would still―
+
+Cirno5b:Hmph, well then I'll just have to make you even colder!
+
+Eirin2a:You clearly don't even understand what you're saying!
+
+<end>
+
+<ChatID:54>----------------------------------------
+//永琳vs.大妖精
+
+Eirin0a:Weaklings will get the same treatment as anyone else when they oppose us, you know.
+
+Eirin1a:Not that any Earthling opposition would be anything other than a rounding error to begin with.
+
+Daiyosei1a:D-Don't say that! Everyone's fighting to protect their precious everyday happiness...
+
+Eirin1a:Such reasoning carries no weight here—a fact it seems I'll have to illustrate for you.
+
+<end>
+
+<ChatID:55>----------------------------------------
+//鈴仙vs.萃香
+
+Suika0a:Illusions won't work on drunk people, you know.
+
+Suika1a:I mean, I'm already seeing double.
+
+Udonge3b:So you're not looking at me? In that case, all I need to do is manipulate the wavelengths until you―
+
+Suika0a:Nah, you don't get it. I'm saying I don't need to see you to hit you!
+
+<end>
+
+<ChatID:56>----------------------------------------
+//鈴仙vs.雛
+
+Hina4a:I can sense a very particular form of misfortune on you.
+
+Udonge3b:Huh? Are you talking about bad luck or something?
+
+Udonge1c:Don't start talking about how I'm naturally unlucky or whatever. I'll show you I can get away from that too.
+
+Hina0b:But when you're the source of your own misfortune, it will always be nearby.
+
+Udonge1b:Then I'll just have to keep on running! Don't talk like you know my life, you can't scare me!
+
+<end>
+
+<ChatID:57>----------------------------------------
+//てゐvs.橙
+
+Tewi0a:A bakeneko, huh? And a young one too.
+
+Tewi0a:I bet you're only here because someone else told you to come along with the investigation.
+
+Chen5a:Nobody told me to come here, I'm here because I want to be useful to Miss Ran!
+
+Chen5b:What about you? Aren't you just following the orders of that human over there?
+
+Tewi1d:They aren't orders. We've got an understanding―I scratch her back, she scratches mine.
+
+Chen5b:That's bad guy talk! I knew you smelled fishy!
+
+<end>
+
+<ChatID:58>----------------------------------------
+//てゐvs.ナズーリン
+
+Nazrin0a:So you were saying you have some kinda deal with that spellcaster over there?
+
+Tewi3d:Pretty much, yeah. Feels like it's going pretty well so far!
+
+Nazrin0a:Relying on a more powerful backer while you find your way in life isn't a bad plan at all.
+
+Nazrin4a:But how long do you think it'll last?
+
+Tewi1d:I'll cross that bridge when I get to it. I haven't lived this long for nothing, you know.
+
+Nazrin6a:I totally get needing to make up for your weakness with cleverness, but...
+
+<end>
+
+<ChatID:59>----------------------------------------
+//3PP（FPM開放；ver.2.8.0追加）
+
+Luna0a:Wow, we've already got Yukari and the others, but now even Remilia?!
+
+Komachi0a:Sakuya's movements are looking a lot better than she was on her own too.
+
+Alice0a:It's not just her. It seems like pairing up has made us all better in battle.
+
+Yukari0a:While it took some getting used to, the awkwardness has been overcome by our solidarity.
+
+Yukari1a:As we are now, we might even be able to each unleash our full strength.
+
+Reimu0f:And what's that supposed to mean?
+
+Yukari0a:Until now, the back line has been limited to support, so as not to interfere with the vanguard. What I mean is that we can overcome that limitation.
+
+Yukari0a:Front and back, both unleashing danmaku as they please―Go ahead and try it.
+
+Marisa0a:You mean both throwing out your finishers at the same time?!
+
+Sanae1a:She's got a point. We've improved a lot since then!
+
+Youmu0a:But when can we do it? We can hardly just act as we please without coordination.
+
+Suwako0a:First we'll need both members' willpower at max, so they can match pace with each other.
+
+Suwako0a:Then we should be able to go full power at any time.
+
+Marisa0a:I guess we'll call it Full Power Mode then? Let's give it a shot, girls!
+
+<end>
+
+<ChatID:-1>----------------------------------------
+//FPM初使用後（ver.2.8.0追加）★不具合対策のためIDを-1に★
+
+<Cond=(LOCAL_VAR,Char0,char_code,!=,Aya)>
+
+Aya0a:Ooh, that was—!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Aya)>
+
+Aya0a:Hmm, that was...!
+
+</Cond>
+
+Meiling0a:Chaining finishers together... it really is a Full Power Mode!
+
+<Cond=(LOCAL_VAR,Char0,char_code,!=,Kanako)>
+
+Kanako0a:Magnificent. To think we could display such coordination without preparation.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Kanako)>
+
+Kanako0a:Good work. To think we could display such coordination without preparation.
+
+</Cond>
+
+Yuyuko0a:It may look easy at first glance, but it's actually quite hard, huh?
+
+Mima0a:...Everyone can show off their full strength without stepping on each other's toes.
+
+Mima0a:This would be impossible without a foundation that accepts both sides' way of life.
+
+Sunny0a:Alright! Now we just do that every round and it's a piece of cake!
+
+Yuka0a:No. Leave it at once per battle.
+
+Rumia0a:Huh? But why?
+
+Yuka0a:It is by no means simple for flowers to coexist with each other.
+
+Yuka0a:When you both release your full selves, the two ways of life fight for dominance.
+
+Yuka0b:Personally, I think this is already pushing it. Do you disagree, Yukari Yakumo?
+
+Yukari0a:...Indeed. No matter how much solidarity we may have, no doubt certain lines must not be crossed.
+
+Yukari0a:Full Power Mode is a trump card, and I forbid anyone from using it more than once.
+
+Reimu0g:Well, you're the boss. Got it.
+
+<end>
+
+<ChatID:60>----------------------------------------
+//永琳vs.メーコ
+
+Eirin0d:You reek of soil and stupidity. Truly, a youkai of Earth.
+
+Meko0b:C'mon, you don't have to go that far!
+
+Meko1b:Besides, how can you call us all stupid when you barely know anything about us?!
+
+Eirin4a:I don't care to know more. All I need to know is that you stand in our way.
+
+Meko1a:Everyone's just doing their best to live, and here you are—
+
+Meko1f:Ugh, nevermind. We just have to beat you here!
+
+Eirin0b:I wonder, do you truly believe that's possible?
+
+<end>
+
+<ChatID:61>----------------------------------------
+//永琳vs.まくら
+
+Eirin0e:What a surprise. I didn't think there were any baku left on Earth.
+
+Makura1c:...Now that you mention it, I have heard that there are baku on the moon too.
+
+Eirin0c:No doubt there's a limit to how long you'll be able to feed on human dreams on the surface.
+
+Eirin0b:How fitting for an Earthling. An ephemeral way of life with no future.
+
+Makura2a:Hearing that from you, Eirin, makes it a little easier to bear.
+
+Makura1c:I suppose you're losing your facade of serenity in the heat of battle.
+
+Eirin1b:Well, aren't you strangely relaxed? And kindly don't talk like you know me―I have no acquaintances among Earthlings.
+
+Eirin5d:If you care so much about serenity, I'll put you to sleep so you can indulge in it yourself.
+
+Makura1a:I'm not so down on my luck that I'd entrust my sleep to a stranger.
+
+<end>
+
+<ChatID:62>----------------------------------------
+//永琳vs.永琳
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Eirin0e:You're...
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Eirin1c:Not an illusion. A clone, then? Maybe a homunculus? Myself from a parallel universe?
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Eirin0e:Oh, so we even think the same.
+
+Eirin0a:Then you should know what I'll say next too.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Eirin1d:"Will you cooperate with me, for Kaguya's sake?"
+
+Eirin3c:I regret to tell you the Kaguya I know would never desire that eternity.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Eirin0c:But even so, if it's for Kaguya's sake, I must see this through.
+
+</nomove>
+
+<end>
+
+<ChatID:63>----------------------------------------
+//永琳vs.輝夜
+
+Eirin2a:Princess?! Why are you with the Earthlings? How?
+
+Eirin1b:My spell was flawless! There's no way you could have come outside.
+
+Kaguya3c:Now, now, no need to overthink this.
+
+Kaguya0a:I just wanted to come see the current you up close for a bit.
+
+Eirin0e:...Are you implying you crossed through time? But we can't afford any uncertainties in this crucial moment...
+
+Eirin1c:Please, Kaguya, don't make this difficult.
+
+Kaguya1b:Yes, yes, there's no need to worry. All I can do here is exchange words and danmaku.
+
+<end>
+
+<ChatID:64>----------------------------------------
+//永琳vs.依姫
+
+Eirin1b:Are you... Yorihime?!
+
+Yorihime5a:Lady Yagokoro...
+
+Eirin0c:...You're far stronger than when I knew you.
+
+Eirin1c:And the only reason they'd send someone as strong as you to surface is...
+
+Yorihime5b:Indeed, I'm hiding my status while on a top secret investigation.
+
+Eirin1d:I see. It certainly doesn't appear as though you've sent here after that rabbit.
+
+Eirin0c:And neither Kaguya nor I are your objective either...?
+
+Yorihime2a:O-Of course not! I would never disrupt your life, Lady Yagokoro!
+
+Eirin0b:Very well then. I have no desire to fight you.
+
+Eirin0a:But for and your sister's sake, cut off all ties with me and live in peace on the moon.
+
+Eirin4a:We can chat a bit, but return home promptly.
+
+Yorihime5b:...Yes, Lady Yagokoro.
+
+<end>
+
+<ChatID:65>----------------------------------------
+//永琳vs.豊姫
+
+Toyohime0b:It's been far too long, Lady Yogokoro.
+
+Eirin1b:Are you... Toyohime?!
+
+Eirin1d:Honestly, how long HAS it been? But for a Lunarian to be visiting the Earth...
+
+Toyohime0a:Right, I'm hiding my status and investigating the Earth in secret.
+
+Eirin1d:To think my precious little student would be taking on such a job...
+
+Eirin0d:But I would think catching a mere fleeing rabbit is beneath you.
+
+Eirin1c:Are you here to execute me, then? Or to monitor Kaguya?
+
+Toyohime5a:Please, no need to be so cautious. That said, I think it would be difficult to explain.
+
+Toyohime0b:Still, I'm satisfied just getting a chance to speak with you before I return.
+
+Eirin0d:I see... I believe you.
+
+Eirin4a:If you're going to fight I'll play along, but know that I have no desire to fight my student.
+
+Toyohime5a:Right...
+
+<end>
+
+<ChatID:66>----------------------------------------
+//永琳vs.鈴仙
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Eirin1b:What is this nonsense, Udonge?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Udonge2a:Ugh, well, it's complicated.
+
+Eirin1c:You of all people, cowardly as you are, would never defy me.
+
+Eirin0e:Was it difficult to worm your way into the heart of the enemy forces?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Udonge1a:Uh, yeah, right, that! Exactly! Just leave everything to me!
+
+Eirin5c:Understood. But you do know what will happen if you betray me, don't you?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Udonge2c:Eeek! O-Of course!
+
+</nomove>
+
+<end>
+
+<ChatID:67>----------------------------------------
+//永琳vs.てゐ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Eirin0e:You're with the Earthlings, Tewi...?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Tewi1c:Ah, yeah, there's actually a REAL good reason for this...
+
+Eirin1a:Not to worry, I have faith in you.
+
+Eirin1c:Now wipe those vulgar Earthlings from the soles of your shoes.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Tewi2c:O-On it, ma'am!
+
+Tewi4a:(Phew... I don't wanna even think about becoming her enemy.)
+
+</nomove>
+
+<end>
+
+<ChatID:68>----------------------------------------
+//永琳vs.レイセン
+
+Eirin0e:Oh? Now where did you get that weapon?
+
+Reisen2c:Wh-What, this? Psh, I'd NEVER defy you, Lady Yagokoro!
+
+Eirin1b:What a poor excuse. Could this all have been a plot to assassinate me?
+
+Reisen2a:Gah... Fine, whatever, if it's come to this then it's do or die!
+
+<end>
+
+<ChatID:69>----------------------------------------
+//永琳vs.神綺
+
+Eirin0e:That's no ordinary power I feel from you. You're no ordinary Earthling, are you?
+
+Shinki1c:I suppose the cat's out of the bag. Not that it matters to me.
+
+Shinki0c:Kaguya must be very important to you, if someone as wise as you is causing an incident like this.
+
+Eirin1d:Important? I've put everything on the line for her these past thousand years. I'd prefer you not sum that up so casually.
+
+Shinki5b:And as a result, both you and her are trapped in here. What a sad existence...
+
+Shinki0e:I'll be ending this scheme of yours, for the sake of your own futures.
+
+<end>
+
+<ChatID:70>----------------------------------------
+//鈴仙vs.まくら
+
+Makura0d:So you're here after abandoning your old comrades and home.
+
+Udonge1b:So what?! Even so, I—
+
+Makura3a:No, I don't mean to blame you. I have nothing but sympathy for fragile hearts like yours.
+
+Makura1c:Your pain, your anxiety, your longing for salvation...
+
+Makura1a:Extending a hand to those like you was my original purpose.
+
+Udonge3a:What, and now you're sweet-talking me?!
+
+<end>
+
+<ChatID:71>----------------------------------------
+//C42：永琳vs.非想天則
+
+Tensoku0a:...
+
+Eirin2a:A humanoid mobile weapon? To think they had the technology to make this on Earth.
+
+Eirin1a:But as a weapon, its design is far too inefficient. Pointless, even.
+
+Eirin0b:So this is the limit of their imagination then.
+
+<end>
+
+<ChatID:72>----------------------------------------
+//C42：鈴仙vs.非想天則
+
+Tensoku0a:...
+
+Udonge2b:You're kidding me, a humanoid mobile weapon?!
+
+Udonge2a:There's no way they have stuff like this on Earth! Don't tell me the moon sent it after that rabbit?!
+
+Tensoku0a:...
+
+Udonge5b:...So it's recording us with its eye camera, isn't it?
+
+Udonge1b:I'm not letting that happen! I have to destroy it!
+
+<end>
+
+<ChatID:73>----------------------------------------
+//C42：てゐvs.非想天則
+
+Tensoku0a:...
+
+Tewi1c:Wah! What's this thing?!
+
+Tewi2a:Master never told me there'd be anything like this!
+
+Tewi2b:Maybe it's the moon's secret weapon or something?
+
+Tewi4b:It's not half-bad at danmaku either. I'd better make sure it exits stage left.
+
+<end>

@@ -1,0 +1,1272 @@
+﻿○魔理沙第二話「魔法使いたちと嘘
+
+<ChatID:0>----------------------------------------------
+//ADVA
+
+<MAP=0,FROM=マーガトロイド邸,TO=マーガトロイド邸,name=Margatroid Residence,icon=5>
+
+<BG=bg_talk_Black.png,fade=0,color=1,title=*bg_Unknown>
+
+Noname0a:Dear Mom,
+
+Noname0a:It has been some time since I left. How have you been doing?
+
+Noname0a:A massive storm has just passed here, and the long rainy season has come to an end. Soon it'll be more bright and summery.
+
+Noname0a:For my part, I stay busy every day fixing moisture damage in my dolls and airing out the house.
+
+Noname0a:My research is coming along nicely. I am presently researching the underlying theories behind the soul-string puppetry you taught me.
+
+Noname0a:I am still scratching the surface, but future prospects are promising, and I expect things will go well for a while yet.
+
+Noname0a:I believe I mentioned that human that came up to me back then? She has been intruding on me often in recent days.
+
+Noname0a:She's a troublemaker who constantly interferes with my research and absconds with books I was going to read.
+
+Noname0a:In spellcard battles, all she ever uses are direct attacks such as missiles and lasers. She hasn't changed a bit.
+
+Noname0a:By the way, thank you very much for the grimoire you sent to me. It has been very helpful for my research.
+
+Noname0a:I am sending you some sweets this time. Remember to share it with everyone else.
+
+Noname0a:Anyway, I should be hanging my laundry now. Remember not to let Yumeko do all the work, Mom.
+
+Noname0a:I will write again soon.
+
+Noname0a:I will write again soon. —Love, Alice
+
+<BG=bg_talk_Road.png,fade=0,color=1,title=bg_Forest,bgm=bgm_talk_aoki>
+
+<hide=all>
+
+Luna1a:Hey, you two!
+
+Luna4a:Sunny, Star, you're going too fast... Just wait a sec...
+
+Luna2a:...Eep!
+
+<SE=se_hit_dageki_S01.ogg,wait=0>
+
+<Code=(map_shake,1,30,6)>
+
+<Code=(demo_wait,30)>
+
+</hide>
+
+Star4a:Silly Luna, did you trip again?
+
+Sunny3b:You're such a klutz.
+
+Luna1a:...Well, excuse me.
+
+Luna4a:You're the one who just suddenly dragged me on an "adventure" when I was drinking coffee.
+
+Luna0a:We've come a pretty long way. What's the big idea?
+
+Sunny1a:Didn't I tell you already? We're treasure hunting! Searching for mysterious treasure is nonstop thrills and excitement!
+
+Star4b:That's fine and all, but it was still sudden.
+
+Sunny6a:Blame this weather. All the scarlet mist around means there's nothing else interesting going on.
+
+Luna0a:Right. The weather hasn't been clear for like a week now.
+
+Sunny1c:Yep. And I'm a sunlight fairy, so in this kind of weather...
+
+Luna4a:...It's impossible to get you up early.
+
+Star3c:Now that you mention it, you have been sleeping until noon lately.
+
+Sunny3a:Well, yeah, but that's not what I meant.
+
+Sunny3b:My point is that when the sun doesn't shine, a sunlight fairy looks worthless!
+
+Sunny1a:So we'll start an incident and restore the glory of the light fairies!
+
+Luna0a:My, so you weren't just drunkenly blabbering yesterday, I see.
+
+Sunny1b:Of course not. This summer, we're gonna prank the heck out of the humans!
+
+Star1b:What does searching for treasure have to do with starting an incident, though?
+
+Sunny1b:Heh heh heh. Why, I'm glad you asked.
+
+Sunny0c:You see, our target today is no ordinary place.
+
+Luna0b:What do you mean?
+
+Sunny0a:I found a creepy house right around here when I was wandering about before...
+
+Sunny5b:There was no one inside, but it was chock full of dolls and magic items.
+
+Star4a:That sounds like it's straight out of a horror movie.
+
+Sunny1b:Yeah, it rules, right? We'll borrow one of those items and use it to start an incident.
+
+Star4b:Would that really work out okay...? I've heard of cursed items destroying entire houses.
+
+Luna4b:I'd rather not. You always leave me stuck somewhere.
+
+Sunny3a:You two worry too much. So it's a little scary? That's why it's exciting!
+
+Sunny5a:Hee hee, this's gonna be great!
+
+Luna4b:You really like scary stuff, huh.
+
+<BG=bg_talk_Alice.png,fade=0,color=1,title=bg_Horror>
+
+Sunny1a:Ooh, there it is! There's the haunted house!
+
+Star0a:It's a lot tidier than I was expecting... which is creepy if nobody lives there.
+
+Sunny5a:Okay, let's find a cool item that'll blow this gloomy atmosphere away!
+
+Star6a:...Ah, wait!
+
+Luna2a:Eep!
+
+<SE=se_hit_dageki_S01.ogg,wait=0>
+
+<Code=(map_shake,1,30,6)>
+
+<Code=(demo_wait,30)>
+
+Star3d:Ah, sorry.
+
+Sunny2a:Geez, don't drag me back like that! What's the big deal?
+
+Star1c:There's somebody inside.
+
+Sunny0c:There is? No one was there last time I came by.
+
+Star0b:I'm not kidding, there's one person in there. I can detect anything that moves, remember?
+
+Star0a:Hear that? There's a voice inside.
+
+<hide=all>
+
+Alice1c:...Good grief. Even though the rainy season has ended, drying out my laundry with all this mist around is nearly pointless.
+
+Alice0a:But I can't let laundry keep piling up... It has to get done, so I suppose I can hang them up to dry inside the house.
+
+Alice0c:You think so too, right?
+
+Shanghai0a:Shanghai.
+
+Alice3b:Hehe, yes. I need to change your clothes too, as well as everyone else's.
+
+Alice0a:Alright... Everyone not on cooking duty is going to do the laundry today.
+
+Hourai0a:*murmur*
+
+Alice0a:Now now, no complaints. You'll be the ones buried if our laundry pile gets any bigger.
+
+Alice0c:Now hurry up and get to work. ...Hey, you all are supposed to handle the cooking duties, remember?
+
+</hide>
+
+Star2a:...
+
+Sunny4b:...
+
+Sunny5b:Umm, I can hear some conversation, but there's only supposed to be one person inside, right?
+
+Star4a:Based on the human-like movement inside, I'm pretty sure there's just one person inside...
+
+Star0c:So that was all her talking to herself?
+
+Sunny4a:Hoo boy. Now it's creepy in a whole different light.
+
+Sunny1b:Living in a place like this, I bet she has a lot of trouble making friends.
+
+<hide=name>
+
+Alice1b:Were you saying something about someone having trouble making friends?
+
+</hide>
+
+Sunny2a:Gyah!
+
+<hide=name>
+
+Alice0c:You've been loitering around in front of my house for quite a while now. May I ask what brings you here?
+
+</hide>
+
+Sunny0d:(Hey wait, she heard our entire conversation?! Why isn't Luna hiding our sounds?!)
+
+Star4a:(She should be, but now that you mention it, I haven't seen Luna...)
+
+Star6a:(...Oh, wait.)
+
+Sunny3a:Luna! What are you doing stuck in that ditch?!
+
+Luna2a:When Star dragged you back earlier, she knocked you into me!
+
+Luna6b:Ugh, I finally got my foot out... But where's my shoe?
+
+Sunny3a:Geez, you're really so clumsy, Luna...
+
+Luna1a:Well, excuse me!
+
+<hide=name>
+
+Alice1c:You appear to be fairies, so I assume you're here to play a prank?
+
+</hide>
+
+Sunny3a:Erk! Uhh...
+
+Sunny2a:(Hey, what are we gonna do?! We can't tell her we're searching for treasure...)
+
+<hide=name>
+
+Alice1c:You look rather uncomfortable, hm?
+
+</hide>
+
+Sunny4b:No, actually, we were, um... We were coerced into this!
+
+<hide=name>
+
+Alice1b:...Huh?
+
+Alice0c:Coerced? Who would gain anything from threatening fairies?
+
+</hide>
+
+Star3d:Umm... We may look like fairies, but we're actually youkai.
+
+Star0b:We're the Three Fai—
+
+Star3c:We're the Three Fairi―I mean, the Three Youkai of Light!
+
+Luna6a:(The heck?!)
+
+<hide=name>
+
+Alice0c:...I don't actually care what you're called.
+
+Alice0a:What concerns me is that you said someone coerced you into this, correct?
+
+</hide>
+
+Sunny4a:Uhh, yeah! It was someone we ran into just recently. A black and white, um, magician. Riding a broom.
+
+Sunny0b:That magician had these really amazing rainbow lights, and she wanted, uh... a grimoire...
+
+Sunny6a:And she coerced us into snatching one away from the magician that lives in this forest!
+
+Luna4a:(A black and white magician... Who would wear something so old-fashioned?)
+
+<hide=name>
+
+Alice2c:A magician clad in black and white... who wanted a grimoire?
+
+</hide>
+
+Luna4b:(See? She's all suspicious.)
+
+<hide=name>
+
+Alice1a:...Would you mind telling me more?
+
+</hide>
+
+Luna6b:Huh?
+
+Sunny1c:Uh, sure! Um, I believe that magician also lives in the Forest of Magic...
+
+Sunny3b:And she's always, always forcing us to help her steal things!
+
+Star4a:Yeah, she keeps telling us that if we don't do as she says, she'll bottle us up!
+
+<hide=name>
+
+Alice4a:Now I understand. A thief clad in black and white. That could only be Marisa.
+
+</hide>
+
+Luna6a:(Huh? That actually rings a bell for her?)
+
+Star1c:(Great, let's pin all the blame on this Marisa person!)
+
+Sunny1a:Yeah, Marisa! That was her name!
+
+<hide=name>
+
+Alice2b:...It's all so clear now. All those times she came by uninvited... So that was her angle.
+
+Alice1c:So, where were you planning to meet that magician?
+
+</hide>
+
+Sunny4b:Huh? Uhh...
+
+<hide=name>
+
+Alice1b:Never mind, here she comes.
+
+</hide>
+
+Nitori1c:Hey, Marisa. Are you sure this Alice person will come along with us after we drop by her house uninvited?
+
+Marisa0c:Oh, sure she will.
+
+Marisa0a:Not like she's got any friends. If we invite her to come hang out, she'll cave in and tag along eventually.
+
+Nitori3c:I dunno...
+
+Marisa1c:There she is. Hey!
+
+Luna1c:Hey, wait a minute...
+
+Sunny0d:Black and white clothes, a broom... That means...
+
+Star4a:...She's really real.
+
+Marisa0a:Yo Alice, nice to see you looking like you've got nothing to do.
+
+Nitori3e:Uh, hey there!
+
+Alice1a:Marisa, you had better explain yourself right this instant.
+
+Marisa0b:Hm? What're you talkin' about?
+
+Alice1a:Don't play dumb. You're coercing youkai into stealing things? How low can you sink?
+
+Alice1a:And that's not even mentioning aiming for my precious grimoire...
+
+Nitori2a:Uh, Marisa? She seems kinda mad about something.
+
+Marisa0e:Whoa, hold up. I'm totally lost here. I mean, yeah, I'm interested in that book, but—
+
+Alice1a:There it is. All those "impromptu visits" were because you had an eye on my grimoire.
+
+Marisa1d:Huh? The heck are you going on about?
+
+Luna1a:(Okay, they're caught up in their conversation now. Let's take this chance to ditch!)
+
+Star3c:(No, hold on. This is getting good!)
+
+Luna4a:(You're a sucker for this stuff, Star...)
+
+Star5a:(Besides, since we've come all the way here, we should have an adventure inside that house.)
+
+Star5b:(Once we've masked the sight and sound of us, of course.)
+
+Sunny1b:(Ooh, smart thinking, Star! I'm down!)
+
+Luna6a:(Wait, you're serious?!)
+
+Sunny1c:(Totally! C'mon, Luna, you're joining us!)
+
+Marisa1b:I keep saying I haven't done anything of the sort.
+
+Marisa4c:Nitori, back me up here!
+
+Nitori1c:Um... I've been with Marisa since yesterday, and she hasn't met with anyone this whole time.
+
+Marisa1c:Yep, see! I have an alibi!
+
+Alice2c:Since yesterday? Did you two have an all-night party or something? Actually, who are you?
+
+Nitori4b:I'm Nitori Kawashiro, a kappa. I slept over at Marisa's house last night.
+
+Alice0c:My, in that cluttered room of hers? I'm sure that must have been comfortable.
+
+Nitori3e:Oh yeah, it was a mess. And she had the nerve to tell me to clean it up too!
+
+Marisa0a:Look, I just like keeping everything within arm's reach. I call it being practical.
+
+Alice0c:I'm glad you two are hitting it off with one another, but do you have anything to back your claims up?
+
+Nitori2a:What, like proof? That's asking a bit much...
+
+Alice0b:Enough. I've got no reason to trust a strange youkai, much less a bumpkin magician.
+
+Alice1b:You'll regret making an enemy of me.
+
+Marisa1c:Wait, Alice! This is all a big misunderstanding!
+
+Nitori1d:Yeah! Talk to those fairies... Hey, wait...
+
+Alice1a:No, that's enough talk. Prepare to go down!
+
+Marisa1a:Oh, great. Man, she's being a handful. Nitori, you good to go?
+
+Nitori3b:Actually, I'm more concerned about the fact that the fairies are missing now—
+
+Marisa1a:Hey, no dragging your feet! She's attacking!
+
+Nitori2a:Ah... Got it!
+
+Sunny5a:(Now's our chance! Let's go treasure hunting!)
+
+<end>
+
+<ChatID:1>----------------------------------------------
+//1PP
+
+Marisa4c:Whoa, she's gonna come at us this hard right out the gate? Alice must be real mad...
+
+Alice1a:You brought it on yourself. Do you have any idea what you've done?
+
+Marisa1b:Other than being the subject of false accusations? Nope.
+
+Marisa2b:Nitori, we're gonna cool her head a bit.
+
+Nitori2a:Seriously? We're beating her up now?
+
+Nitori2a:She's operating on a misunderstanding. It seems to me like it might be smarter to [Persuade] her if we want her to join us.
+
+Marisa0e:Don't be silly. We can just talk some sense into her after we beat her up.
+
+Marisa0b:Besides, how are we supposed to get close to Alice like this?
+
+Marisa0a:Wait, getting close? Hold on...
+
+Nitori4b:Oh, now do you feel like talking it out?
+
+Marisa7a:No, I remember her weak point now.
+
+Marisa0a:I'll pull her aside and talk with her if I feel like it. Anyway, just watch me.
+
+Alice1c:All done with your planning session yet?
+
+Alice1a:I'll show you the difference between a city magician and a country magician!
+
+<Cond=(GLOBAL_VAR,is_NG0,==,0)>
+
+<TIPS=PURSUADE>
+
+</Cond>
+
+<end>
+
+
+<ChatID:2>----------------------------------------------
+//1EP敵増援（人形）
+
+Marisa2b:And here they come.
+
+Nitori3e:Are those... dolls?
+
+Marisa0b:Yeah. She's really dextrous, so she can control lots of dolls at the same time.
+
+Marisa1b:They're not super tough, and you'd be surprised how hard fights can get when you ignore 'em.
+
+Nitori4b:Completely asynchronous and precisely controlled... The human body's sure an incredible machine.
+
+<end>
+
+<ChatID:3>----------------------------------------------
+//2PP三月精会話
+
+<nomove>
+
+<Code=(cursor_jump,192,176,1)>
+
+Sunny6b:Hey, have you found anything?
+
+Star4a:Nope. It's all dolls, nothing interesting at all.
+
+Luna1c:Hey, we're supposed to look for magic items, not interesting things, remember? Take this a bit more seriously...
+
+Luna3c:Hey, wait.
+
+Star3b:Did you find something?
+
+Luna3b:Yeah, this doll that looks just like that black-and-white magician. It's really well made.
+
+Sunny0a:Yeah, there's lots of others too. There's a really strong-looking green-haired doll, a sturdy doll with some hair sticking up...
+
+Star3d:There's a shrine maiden doll who's hiding her armpits too.
+
+Sunny1c:Who cares about dolls? Let's find some cooler stuff!
+
+</nomove>
+
+<end>
+
+<ChatID:4>----------------------------------------------
+//魔理沙vsアリス
+
+Alice0c:I never took you for the type of human to coerce youkai.
+
+Marisa0e:I haven't got a clue what you're on about. What youkai do you mean?
+
+Marisa0b:The only remotely supernatural creatures I can think of around here are those fairies...
+
+Alice1a:Do you have time to indulge in distractions?!
+
+<end>
+
+<ChatID:5>----------------------------------------------
+//にとりvsアリス
+
+Nitori1d:Hey, I already told you earlier, Marisa is innocent!
+
+Alice1c:Why do you think I'd believe a word out of a strange youkai's mouth?
+
+Nitori3c:Sheesh. I thought Marisa was bad. Magicians sure are unreasonable...
+
+<end>
+
+<ChatID:6>----------------------------------------------
+//アリス説得時
+
+Marisa1a:Gotcha!
+
+Alice2a:Oh, no!
+
+Marisa1a:You've always been weak in close combat. Though I guess that's obvious considering all the dolls you're busy controlling.
+
+Marisa0e:If I restrain both your hands like this, you can't make those dolls move anymore.
+
+Alice0a:Holding someone down with brute force is a classic country bumpkin maneuver.
+
+Marisa0a:You weren't gonna listen to me otherwise, right? That makes this count as force majeure.
+
+Alice0c:Is that how you planned to steal my book? By getting in close?
+
+Marisa0b:You really don't listen. If I wanted your book that badly, I would've taken it long ago.
+
+Alice1c:...
+
+Alice0a:You definitely threatened those youkai, though. How do you explain that?
+
+Marisa0e:Again, WHAT youkai are you talking about?
+
+Marisa0b:The three that were here earlier were obviously fairies.
+
+Alice2b:What? But they called themselves the Three Youkai of Light...
+
+Marisa1b:There's no youkai in Gensokyo who would wear a look that dumb on their face.
+
+Marisa0a:I knew you were a sucker, but falling for a fairy prank is a whole other level.
+
+Alice4a:...
+
+Nitori3e:Ah, looks like she's calmed down.
+
+Alice0a:I'll capture those fairies and get to the bottom of this.
+
+Marisa0c:Sure, knock yourself out. It's like they say—there is always only one truth.
+
+<end>
+
+<ChatID:7>----------------------------------------------
+//アリス撃破
+
+Alice2a:Rgh... You're better than I expected.
+
+Marisa0a:Heh, see how strong a country magician is now?
+
+Alice1c:I wouldn't think so highly of your powers, considering how you use them to coerce those youkai.
+
+Marisa1b:You're going on about that again? Who are those youkai you're talking about anyway?
+
+Marisa0b:The three that were here earlier were obviously fairies.
+
+Alice2b:What? But they called themselves the Three Youkai of Light...
+
+Marisa0b:There's no youkai anywhere in Gensokyo that would grin so stupidly.
+
+Marisa0a:I knew you were a sucker, but falling for a fairy prank is a whole other level.
+
+Alice4a:...
+
+Nitori3e:Ah, looks like she's calmed down.
+
+Alice0a:I'll capture those fairies and get to the bottom of this.
+
+Marisa0c:Sure, knock yourself out. It's like they say—there is always only one truth.
+
+<end>
+
+
+<ChatID:8>----------------------------------------------
+//アリス逃げ切り
+
+Nitori1c:Her attacks stopped...?
+
+Alice1a:You evaded that quite well. Don't think the next attack will go the same way, though!
+
+Marisa0d:Alice, wait! Where'd those fairies from earlier go?
+
+Alice2c:Fairies? What are you talking about?
+
+Marisa0e:You've been going on and on about youkai, but those three with you just now were clearly fairies.
+
+Alice2b:What? But they called themselves the three light youkai...
+
+Marisa0b:There's no youkai in Gensokyo who would wear a look that dumb on their face.
+
+Marisa0a:I knew you were a sucker, but falling for a fairy prank is a whole other level.
+
+Alice4a:...
+
+Marisa0a:Ah, looks like she's calmed down.
+
+Alice0a:I'll capture those fairies and get to the bottom of this.
+
+Marisa0c:Sure, knock yourself out. It's like they say—there is always only one truth.
+
+<end>
+
+<ChatID:9>----------------------------------------------
+//上記のいずれかのイベント後
+
+<nomove>
+
+<Code=(cursor_jump,192,176,1)>
+
+Sunny1b:Lessee, is this all there is?
+
+Star3c:A pillow and pajamas... She really likes to sleep.
+
+Sunny5a:Hey, these pajamas are pretty cute. I'll fix 'em up to fit me later.
+
+Sunny0a:What're you gonna do with that plant pot, Star?
+
+Star3c:Now that the rainy season is over, I thought I'd start a little hobby garden.
+
+Luna3c:I've found some tasty-looking coffee. Seems like she roasted the beans herself.
+
+Sunny0c:Alright, that should be it for treasure hunting. Let's withdraw!
+
+Luna3b:It feels like we're forgetting something though... Oh well.
+
+Luna1b:Hm...?
+
+Star1c:What's up?
+
+Luna4b:The amount of dolls in this room seems to have gone down while we were busy...
+
+Sunny3b:Wow, you're right. What a creepy place. Let's get out of here.
+
+</nomove>
+
+<pause>
+
+<Code=(icon_set_direction,All,Sunny_en,0)>
+
+Nitori1b:There they are!
+
+Marisa1a:Alright, let's capture 'em and bottle 'em up!
+
+Sunny3a:Ack! The battle's already over.
+
+Luna4a:Looks like the jig is up.
+
+Star1c:Quick, let's get out of here!
+
+Alice1a:You're not going anywhere.
+
+<pause>
+
+Sunny2a:We're surrounded?!
+
+Luna4a:These are the dolls that were in the house just now!
+
+Star4b:Is she controlling all of them...?
+
+Alice1c:Those things you're carrying... Those would be items from my house, mm?
+
+Alice0c:It seems you all were the thieves instead. In that case, whether you're youkai or fairies...
+
+Alice1a:You are now my enemies!
+
+Luna2a:Aieee!
+
+Luna2a:Oh no, what now?! We have absolutely no chance against someone who can control so many dolls!
+
+Sunny3a:We can't really handle it by ourselves... though I don't think they'd let us get away either.
+
+Star1c:...Wait! There's a large group approaching!
+
+<pause>
+
+Alice1b:It's...
+
+Luna3a:Huh? It's the local fairies.
+
+Star3b:They seem agitated somehow. Maybe they've been drinking.
+
+Sunny0c:I don't know what's up with them, but it looks like they're backing us up.
+
+Sunny1a:Alright! Let's show 'em what fairies can do!
+
+Nitori1d:Wow, they're all motivated now that they have more allies with them.
+
+Marisa0d:A bunch of little fairies are challenging us to a danmaku battle? Now that's cheeky.
+
+Alice1c:Against this many opponents, it wouldn't do to go in poorly defended.
+
+Alice0c:Come back, everyone.
+
+<pause>
+
+Marisa0d:Hey, what was that for? You should use those dolls to keep the three fairies surrounded.
+
+Alice0c:My doll count has dropped after fighting you two.
+
+Alice1b:With enemies on all sides, it makes more sense to concentrate our forces in one place.
+
+Sunny1a:Alright! Fairy army, charge!
+
+<Cond=(GLOBAL_VAR,is_NG0,==,0)>
+
+<TIPS=SKILLM>
+
+</Cond>
+
+<end>
+
+
+<ChatID:10>----------------------------------------------
+//魔理沙vsサニー
+
+Marisa1c:You might wanna say your prayers.
+
+Sunny1b:Heh heh heh, I'm a fairy who can manipulate light. If you think you can hit me, just try it!
+
+Marisa1a:I don't care what kind of power a fairy's got. My light magic will take you out!
+
+<end>
+
+
+<ChatID:11>----------------------------------------------
+//魔理沙vsルナ
+
+Marisa1a:There you are!
+
+Luna2a:Eep!
+
+Luna4c:I hid my sounds. How did you know where I was...?
+
+Marisa7a:Even if you hide your sounds, you're still completely visible.
+
+Luna2a:Aieee!
+
+<end>
+
+
+<ChatID:12>----------------------------------------------
+//魔理沙vsスター
+
+Star4a:If I apologize, will you let me go?
+
+Marisa0c:That's a smart move for a fairy. Your movements are surprisingly clever too.
+
+Star3c:That's because I can sense things that move. I'm especially good at tag.
+
+Marisa7a:That sounds fun. Try to dodge all my danmaku, then!
+
+Star4a:So you're not going to let me get away, huh...
+
+<end>
+
+
+<ChatID:13>----------------------------------------------
+//アリスvsサニー
+
+Alice1c:Now then, will you return the pajamas and pillow you're carrying on your back?
+
+Sunny3c:Aww, but I can't find such cute pajamas anywhere else...
+
+Sunny1b:And this pillow's really long. It'd be perfect for hugging.
+
+Alice1a:Shut up and give them back!
+
+<end>
+
+
+<ChatID:14>----------------------------------------------
+//アリスvsルナ
+
+Alice2b:I smell my coffee. You're carrying it, aren't you? That's an unusual thing for a fairy to like.
+
+Luna3d:You think? Well, what if you, y'know, maybe shared a little bit with me...?
+
+Alice0c:...Not a chance.
+
+Luna2a:Aieee!
+
+<end>
+
+
+<ChatID:15>----------------------------------------------
+//アリスvsスター
+
+Alice1c:What do you think you're doing with my plant pot?
+
+Star3d:Um, nothing... Here, you can have it back, okay?
+
+Alice1b:Hold it. I see you're carrying a coffee mug behind your back.
+
+Star4a:Oops, that's my cover blown.
+
+<end>
+
+
+<ChatID:16>----------------------------------------------
+//にとりvsサニー
+
+Sunny1c:It's time for a danmaku battle!
+
+Nitori3e:You're pretty confident in yourself. I guess no matter where you go, fairies will always be reckless.
+
+Sunny1a:Those who laugh at fairies will soon be the ones crying!
+
+<end>
+
+
+<ChatID:17>----------------------------------------------
+//にとりvsルナ
+
+Nitori1c:There's no sound around you, huh? In broader terms, does that mean your ability can control the density waves in the atmosphere?
+
+Luna4a:Um, I don't really understand that much about how my power works.
+
+Nitori1a:My fault for asking a fairy, I guess. Oh well, time for your punishment.
+
+Luna2a:Aieee!
+
+<end>
+
+
+<ChatID:18>----------------------------------------------
+//にとりvsスター
+
+Nitori1d:Marisa and Alice got into a fight because of you all. You owe them an apology before you leave.
+
+Star4a:That's not very fair to say. They got into that argument entirely by themselves.
+
+Nitori3c:Well, okay, YEAH...
+
+Star3c:There, you see? On that note, I'll just be moving along now.
+
+Nitori1b:Sure, okay—wait, no! You still stole stuff!
+
+Nitori3c:Whew, that was close. I almost got tricked!
+
+Star4a:Aww, oh well.
+
+<end>
+
+
+<ChatID:19>----------------------------------------------
+//クリア時
+
+Sunny2a:Owww...
+
+Luna2a:What the heck...
+
+Star2a:Today's been awful...
+
+Marisa0a:Well, that takes care of that.
+
+Marisa1d:Okay, I've got a choice for you three: jam, or pickled vegetables? Pick one.
+
+Luna2a:Wait, the magician's actually going to bottle us up?!
+
+Sunny2a:We're very sorry! We're actually fairies!
+
+Star2a:We made up that whole story on the spot!
+
+Luna2a:We didn't mean any harm! We're sorryyyy!
+
+Alice0c:That's enough of the bad jokes, Marisa.
+
+Alice0d:It's fine. I'm not angry, and I'm not going to keep this fight going.
+
+Luna4b:Really?!
+
+Star2b:Thank goodness...
+
+Marisa0c:Bah, fine. But you all are gonna have a little chat with us first.
+
+Sunny3a:Seriously?!
+
+<end>
+
+<ChatID:20>----------------------------------------------
+//ADVB
+
+<MAP=0,FROM=マーガトロイド邸,TO=マーガトロイド邸,name=Margatroid Residence,icon=2>
+
+<BG=*bg_talk_Alice.png,fade=0,color=1,title=*bg_Alice,bgm=bgm_talk_aoki>
+
+Marisa2b:Now then!
+
+Luna2a:Eep!
+
+Alice1b:They've been punished enough already. That's enough immature mischief from you.
+
+Nitori1d:Yeah, Marisa. They look so pitiful now.
+
+Marisa3a:Mrph...
+
+Alice0d:Alright... You've had a rough time thanks to this black-and-white magician, hm? You can relax here with a cup of tea.
+
+Marisa1b:The heck? They're the ones who started all this trouble.
+
+Alice0c:It's your own misbehavior that invites such misunderstandings to begin with.
+
+Nitori4c:Ahaha, she's right. As far as I can tell, the lies these fairies were telling weren't too far off from the truth.
+
+Sunny3b:Like they say, there's a sliver of truth in every lie!
+
+Marisa1a:You don't get to talk!
+
+<SE=se_talk_hit01.ogg,wait=0>
+
+<Code=(map_shake,1,20,6)>
+
+<Code=(demo_wait,20)>
+
+Alice0a:Anyway, you wanted to ask these fairies something, didn't you?
+
+Marisa0b:Oh yeah. Do you guys know anything about this weird mist?
+
+Star1c:You mean the scarlet mist?
+
+Marisa0b:Yep. I'm trying to figure out what's causing it.
+
+Luna4a:We don't have much useful to offer there...
+
+Sunny6a:Yeah, we're kinda in the dark. The most I've noticed about it is that it's red.
+
+Alice4a:And I thought fairies were supposed to be incarnations of nature.
+
+Marisa4c:Well, I wasn't expecting much from them anyways.
+
+Marisa0b:On to my other question then. Have you seen a shrine maiden around here recently?
+
+Star1c:A shrine maiden? You mean the one from the shrine?
+
+Sunny1b:I saw her yesterday. She was having her long afternoon nap at the veranda.
+
+Star3c:We dripped some water onto her, and she scrambled to her feet and rushed all over the place collecting the laundry she was drying.
+
+Luna3b:Yes, that was pure gold.
+
+Alice0d:That certainly sounds like Reimu.
+
+Marisa4c:Yeah, I can totally see it.
+
+Marisa0d:I'm not talking about Reimu, though. I'm talking about another shrine maiden that's not her.
+
+Alice2c:A shrine maiden... that's not Reimu?
+
+Sunny0d:...Is that supposed to be a riddle?
+
+Marisa1c:Nope, legit question.
+
+Alice0a:I'm afraid I don't know who that could be either. Gensokyo should only have one shrine maiden to my knowledge.
+
+Marisa1b:I thought so too, but a tengu I met yesterday was looking for a shrine maiden that wasn't Reimu.
+
+Marisa0b:It's not a huge deal or anything, but something's gotta be up.
+
+Alice2c:I'm definitely not coming up with anything there. Nitori, I suppose you don't know anything either?
+
+Nitori3c:I've been throwing myself into development work lately, so I haven't picked up anything in the way of details.
+
+Luna0b:But if you're talking about unknown humans...
+
+Sunny0a:Ooh, right, we've seen a strange human around recently.
+
+Marisa1b:Whoa, really? Keep going.
+
+Sunny0b:It wasn't a shrine maiden, though. It was a maid.
+
+Star3b:None of us recognized her. We saw her heading toward the human village.
+
+Marisa0c:Hm, that sounds pretty suspicious too.
+
+Alice2b:...A maid?
+
+Marisa0d:Hm? You have any idea who that could be?
+
+Alice0c:No, never mind.
+
+Alice4a:(Could she be visiting me from Makai...? Surely not.)
+
+Nitori4a:A maid, huh? I've never seen a real maid before.
+
+Marisa6a:That's 'cuz they're a rare species. We'll run afoul of the Washington Convention if we capture her.
+
+Alice2c:You're talking nonsense again.
+
+Luna4a:Um, we should be going...
+
+Marisa0d:Oh, sure, go ahead. Thanks.
+
+Alice1c:I hope you've learned your lesson. Don't play anymore pranks, alright?
+
+Star4a:Yes, we'll be more careful from now on.
+
+Sunny2a:We'll be going, then!
+
+<single>
+
+Nitori4b:Telling fairies not to play pranks is a bit of a hopeless endeavor though.
+
+</single>
+
+Alice0d:I know, but I can't let them off without telling them that.
+
+Marisa7c:Warning them like that would just make them want to do it even more. That's what playing pranks is all about.
+
+Alice0d:I see you're very knowledgeable about the mindset of a child, Marisa.
+
+Nitori4c:Yeah, she's pretty much a child herself.
+
+Marisa2b:Aw, shaddup.
+
+Marisa0a:Anyway, let's go to the human village and find that maid.
+
+Nitori2a:Wait, what? We're going to the human village?!
+
+Marisa0b:We don't have any other clues. I don't know if she's got anything to do with this scarlet mist, but we can ask her after we nab her.
+
+Alice4a:What about all that talk about the Washington Convention?
+
+Marisa7a:It's cool, it'll be a catch-and-release.
+
+Nitori3b:The human village... Would it be okay if I stayed concealed there?
+
+Marisa0d:Why? Just come in with us normally.
+
+Nitori3c:I'm supposed to be sworn friends with humans, but I've barely ever had a real conversation with one.
+
+Marisa1b:Some "sworn friend" you are. Just suck it up and deal with it.
+
+Nitori3d:Well... okay...
+
+Alice0d:It must be tough having a companion like this. Well, good luck with that.
+
+Marisa0d:What are you saying? You're coming along too.
+
+Alice1b:What? Why should I?
+
+Alice0c:I have no interest whatsoever in this mist. You two can do as you please.
+
+Marisa1c:Hey, you treated me like a thief. My delicate heart was wounded so deeply by your callous treatment.
+
+Marisa7a:Long story short, if you come with us, I'll call it even.
+
+Alice0c:I think not. Again, this whole affair was something you brought on yourself.
+
+Nitori3b:C'mon Alice, come with us. I'd feel better having your company, and there might be fun stuff to do.
+
+Alice0d:Well, it was nice having a danmaku battle again after so long, but still...
+
+Marisa1c:Oh, stop making such a big fuss out of it. Just come along already.
+
+Alice2a:Ack, let go! ...Good grief, what if you wrinkled my clothes?
+
+Alice1a:You're truly hopeless. Fine, so be it. The human village, was it? We should hurry, or the sun will set before we get there.
+
+Nitori4b:...She really did cave in and tag along.
+
+Alice1b:Do you have a problem with this arrangement?
+
+Nitori1a:Uh, nope, not at all. So, where in the human village would we be going to first?
+
+Marisa0b:We'll hit up the market first. I'd expect a maid to do shopping.
+
+Nitori1b:The market... there's bound to be a ton of humans there. I'll have to start psyching myself up for it right away!
+
+<single>
+
+Alice0c:*sigh* Talk about pushy. My research isn't making any progress, either...
+
+</single>
+
+Shanghai0a:Shanghai?
+
+Alice0a:I was honest when I said I have no interest in this mist whatsoever.
+
+Alice0d:Oh well. I did get a bit too heated over this mess. The least I can do is accompany them for a bit.
+
+<end>
+
+<ChatID:23>----------------------------------------------
+//ターンで弾幕消滅
+
+Sunny2a:Whew... I'm taking a little break. I'm tired.
+
+Luna1c:Hey, no slacking! Keep your danmaku up!
+
+Sunny3b:I'm tired, okay? I got up early this morning. You know I'm not a morning person.
+
+Luna4a:Sheesh. So self-centered...
+
+<end>
+
+<ChatID:24>----------------------------------------------
+//WP条件を達成
+
+<Cond=(FIND_UNIT,Hourai,player,!=,-1)>
+
+Alice0d:You can do it, Hourai.
+
+<Code=(icon_set_direction,Hourai,Alice,0)>
+
+Hourai0a:Hourai!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Shanghai,player,!=,-1)>
+
+Alice0d:I'm counting on you, Shanghai.
+
+<Code=(icon_set_direction,Shanghai,Alice,0)>
+
+Shanghai0a:Shanghai.
+
+</Cond>
+
+Nitori3e:Eh, where'd these doll come from? Did you just make them, Alice?
+
+Alice0c:I brought them with me. They can't use any powerful danmaku, but they'll draw the enemy's attention.
+
+Marisa0d:You said you control 'em yourself, right? As skillful as always.
+
+Alice0d:Everyone has their own strengths. In your case, that's BRUTE strength.
+
+Alice1a:They've got three, and so do we. Let's each make use of our unique talents!
+
+Marisa1a:You know it! If you need power, I'm your gal!
+
+Nitori1a:And I'll back you up with my Extending Arm!
+
+<end>
+
+<ChatID:25>----------------------------------------
+//まくらvs.アリス
+
+Makura1a:Alice Margatroid... And to think you've been by Marisa's side ever since.
+
+Alice1c:What are you talking about? Who are you, anyway?
+
+Makura1c:I've said too much. I look forward to learning how you've supported everyone.
+
+<end>
+
+<ChatID:26>----------------------------------------
+//メーコvs.アリス
+
+Meko4c:So even you've fought against Marisa, Alice?
+
+Alice2b:...How do you know me?
+
+Alice0c:Well, no matter. As long as you're on her side, then I'll punish you for your schemes.
+
+Meko4a:(She obviously thinks we're lying to her, but... She's got a surprisingly gullible side to her.)
+
+<end>
+
+<ChatID:27>----------------------------------------
+//アリス初戦闘
+
+Alice5c:Thinking back on it, how could I have been tricked like this?
+
+Alice0a:I'd just arrived in Gensokyo and wasn't used to fairies yet, but even so...
+
+Alice4a:I get the feeling I'll see a lot more embarrassing memories before this dream trip is done.
+
+<end>
+
+<ChatID:28>----------------------------------------
+//アリスvs.アリス★発生しない
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Alice1b:Who are you?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Alice0a:It's difficult to explain, but in a sense you could say I'm an artifical body.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Alice1a:Artificial? Don't tell me someone's perfected the art of making homunculi?
+
+Alice0b:Or maybe Mom...? No, no way.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Alice0d:Sorry for confusing you. I'll be gone as soon as we're done here.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Alice1b:Hold on, what do you mean?!
+
+</nomove>
+
+<end>
+
+<ChatID:29>----------------------------------------
+//神綺vs.アリス
+
+Shinki0c:Whoops. And here I am.
+
+Alice1a:Huh? Mom?!
+
+Alice1b:What are you doing here?! You could have at least told me you were coming.
+
+Alice0b:No, no... Not even mom would be this thoughtless. Which means...
+
+Shinki2a:Ugh... I'm glad you have so much faith in me, but I'm not sure how to feel about this.
+
+<end>
+
+<ChatID:30>----------------------------------------
+//夢子vs.アリス
+
+Yumeko4a:Taken in by these fairies? I know you're good natured, but please don't overdo it.
+
+Alice1b:Huh? Yumeko?!
+
+Alice2b:How?! Why?! You could've sent me a letter if you were coming.
+
+Yumeko5c:Aren't you the one who left home on a whim? You need to be prepared for at least this much.
+
+Alice1b:I know, but...
+
+Alice4a:We don't get this chance often, so I wish I could've at least prepated for guests.
+
+<end>
+
+<ChatID:31>----------------------------------------
+//メディvs.アリス
+
+Medicine1a:Getting tricked by fairies like that? What a scatterbrain, right Sue?
+
+Alice2b:Are you a... doll?
+
+Medicine3c:But maybe it's actually kind of a relief that even Alice has times like this.
+
+Alice1b:So what's going on here? How do you know me?
+
+<end>
+
+<ChatID:32>----------------------------------------
+//M02：アリスvs.非想天則
+
+Tensoku0a:...
+
+Alice1b:An autonomous doll?! No, more like a youkai?
+
+Alice1c:I'm curious as to why you're with Marisa, but...
+
+Alice0c:I'll have to deal with her first. I'm sorry, but don't get in my way.
+
+<end>

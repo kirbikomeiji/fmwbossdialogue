@@ -1,0 +1,797 @@
+﻿○霊夢第十八話「その人間に手を出すな
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: 2PP (Mokou Monologue)
+ 3: 3PP (Mokou Event)
+ 4: Use Houyoku 
+ 5: Clear
+ 6: ADVB
+ 7-11: battle vs. KTenguA
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<MAP=5,FROM=迷いの竹林入り口,TO=迷いの竹林入り口,name=Bamboo Thicket,icon=0>
+
+<BG=*bg_talk_Bamboo.png,fade=0,color=1,title=*bg_Bamboo,bgm=bgm_talk_aoki>
+
+Reimu4a:How deep does this bamboo forest go? It stretches as far as the eye can see...
+
+Reimu3a:Hey Keine, are you sure we're going the right way? I can't even make out a pathway anymore.
+
+Keine0a:Well it's called the Bamboo Forest of the Lost for a reason. You don't come here much, do you?
+
+Reimu2b:Pretty much. I've heard stories about it, but I've never had a reason to.
+
+Reimu3a:Anyway are you sure we aren't lost? I want to get back in time for lunch.
+
+Keine0a:Don't worry, I'm used to this path.
+
+Reimu0f:So, what's this person we're meeting like?
+
+Keine0a:...Her name is Fujiwara no Mokou. She's a human who lives here.
+
+Reimu0d:Wait, what? I've never heard of any humans living here.
+
+Keine0a:I'm sure you haven't. The only one who knows about her is me.
+
+Reimu0e:Why the secrecy?
+
+Keine0b:Well, she has some... extenuating circumstances, so she keeps her distance from human society.
+
+Keine0a:She never comes to the village, and she barely sees other people besides me.
+
+Reimu0f:A misanthrope, got it. It's surprising she can stay alive out here without any help.
+
+Keine4a:...Yeah. Surprising, sure.
+
+Reimu4a:Is this someone we can turn to, though? Wouldn't she just balk at the whole idea of joining us?
+
+Keine0a:She might. But I want her to change.
+
+Reimu3b:Oh yeah?
+
+Keine0a:She's still human. Living alone forever can't possibly be good for her.
+
+Keine0a:That's why I'm hoping you girls will get her to open up a little.
+
+Reimu0f:Great. Now I feel like I'm being used.
+
+Keine0a:I figured it's better than the alternative of dragging her into the human village. I hope you'll forgive a bit of ulterior motive on my part.
+
+Reimu0f:Eh, it's fine as long as she's not a hassle to deal with.
+
+Keine0a:She can be a bit moody, but she means well enough.
+
+Reimu2b:Acting moody is the kind of hassle I'm talking about...
+
+Reimu0e:Hm?
+
+<single>
+
+Daiyosei3b:...Nope, Cirno isn't here.
+
+</single>
+
+Rumia0a:Dai, I'm hungryyy.
+
+Daiyosei0a:Hold on, Rumia. Based on her usual routine, I was sure this would be the spot...
+
+Reimu0e:Hey, hold up.
+
+Daiyosei0a:Oh, it's Reimu and Keine. What are you two doing out here?
+
+Keine0a:I should ask the same of you. What are you up to?
+
+Daiyosei0a:I was looking for Cirno, then Rumia offered to help...
+
+Reimu3b:Hmph, I see you're still hanging around fairies.
+
+Rumia0a:It's a fun way to pass the time, and they know some good food spots around here.
+
+Keine0a:But why did you come to the bamboo forest of all places? Is there something urgent?
+
+Daiyosei0a:No, I was just a bit concerned.
+
+Daiyosei3b:Early this morning Cirno went off somewhere without me.
+
+Reimu3b:It's gotta have something to do with what she was talking about yesterday, right?
+
+Keine0a:Ah, right. She might be out looking for allies.
+
+Rumia0a:Why's she doing that?
+
+Keine0a:Oh. Right now we're in a situation similar to last summer's incident, so we're looking for help. 
+
+Keine0a:Cirno was quite enthusiastic about it. I assume that's why she's gone out somewhere.
+
+Rumia3a:Oh, I see. Then can we go with you?
+
+Daiyosei0b:Yeah, it'd be easier to find Cirno if we were all together...
+
+Daiyosei0a:I'm sorry to be a bother, but would it be alright for us to come with you?
+
+Keine0a:Certainly. I'd hate to leave children in a place where they can get lost so easily.
+
+Rumia0a:Great, I was just getting hungry. I hope some good food turns up!
+
+Reimu4a:Uh, are you sure this is a good idea?
+
+Reimu0f:If she's already a misanthrope, adding youkai seems like it would only make things worse.
+
+Keine0b:...We'll cross that bridge when we get to it. For now, let's bring them along.
+
+Rumia0a:Okay, let's go! You think she'll serve us youkai some tea?
+
+Keine3a:...
+
+Keine0a:(Years back, she would have exterminated youkai no questions asked. But I'm sure she'll hear them out now.)
+
+<MAP=5,FROM=妹紅の家,TO=妹紅の家,name=Bamboo Thicket Shack,icon=5>
+
+<BG=*bg_talk_Bamboo.png,fade=1,color=1,title=*bg_Abaraya,bgm=bgm_talk_ningyo>
+
+<hide=all>
+
+Mokou0a:More clear weather today. I guess I'll get some firewood ready for winter.
+
+Mokou0a:Should probably check on the dried persimmons too. Sometimes there's fewer than there were last time...
+
+<SE=se_talk_knock02.ogg,wait=1>
+
+Mokou0a:Hm...?
+
+</hide>
+
+Keine0a:Mokou, it's me. Are you here?
+
+<hide=face>
+
+Mokou0a:Keine? Normally she just walks right in. What's stopping her today...?
+
+<SE=se_talk_door_open01.ogg,wait=1>
+
+</hide>
+
+Keine0a:Good morning, Mokou.
+
+Mokou0a:Uh, yeah, good morning.
+
+Reimu0f:Hello there.
+
+Daiyosei0a:H-Hello...
+
+Mokou4a:...!
+
+Mokou0a:Who are these people?
+
+Keine3a:Actually, I'm here today to discuss something...
+
+Rumia3a:Ooh, I didn't know there was a human way out here. Can I eat her?
+
+Mokou0a:...!
+
+Mokou3a:A youkai! Get away from Keine!
+
+Keine1a:Mokou, stop!
+
+<Code=(map_shake,1,15,4)>
+
+<SE=se_talk_gashi01.ogg,wait=1>
+
+Mokou0a:Why should I?
+
+Keine0b:You've got the wrong idea. She's not a dangerous youkai.
+
+Keine0a:I can explain if you'll stop and listen.
+
+Mokou0a:Oh yeah? And didn't I tell you not to tell anyone about this place?
+
+Mokou0a:If you're here with a big crowd, there better be a damn good reason.
+
+Keine4a:...I'm sorry for breaking my promise, but I did it for a reason, yes.
+
+Reimu3b:Would it kill you to at least hear us out?
+
+Mokou0a:Your clothes are red and white. Are you the Hakurei Shrine Maiden?
+
+Reimu0f:Yup, you've heard of me?
+
+Mokou0a:Keine's told me about you before. You're a Gensokyo celebrity.
+
+Reimu0a:Well, thanks. So are we going to keep standing here, or should we go inside?
+
+Mokou0a:No, if you want to talk, I'll listen to you here. I don't have enough tea for everyone anyway.
+
+Rumia1a:Aww. What about snacks?
+
+Daiyosei2a:Rumia, read the room!
+
+Mokou0a:Okay, so what do you want? If you brought a shrine maiden here, I assume this is more than just shooting the breeze.
+
+Keine0a:I'll get right to the point. We want your help fighting danmaku battles.
+
+Mokou0a:Wait, danmaku battles?
+
+Keine0a:We have to go with Reimu to Youkai Mountain, but we don't have enough muscle as things stand.
+
+Keine0a:I'd feel a lot better with you backing us up, Mokou.
+
+Mokou0a:Youkai Mountain, huh? You sure picked a doozy of a group to fight.
+
+Reimu4a:They started it, not me. There's a shrine on the mountain that's joined forces with the tengu to take over my shrine.
+
+Reimu0f:So Keine and the others want to resolve our differences with danmaku.
+
+Rumia0a:Oh, so that's what's going on.
+
+Daiyosei0a:And that's why Cirno's looking for allies...
+
+Mokou0a:I get the picture. You want me to fight the Hakurei Shrine Maiden's battles?
+
+Reimu0f:Basically, yeah.
+
+Keine0a:So, what do you say? Would you be willing to assist us?
+
+Mokou3c:...
+
+Mokou0a:Nope.
+
+Reimu2a:...!
+
+Keine1a:But... why not?
+
+Mokou0a:No offense, Keine, but this is a whole lot of not my problem.
+
+Keine2b:Okay, maybe so, but still...
+
+Mokou0a:In fact, I don't see how it's YOUR problem either.
+
+Mokou0a:It's the Hakurei Shrine's problem, so just let the Hakurei Shrine Maiden resolve it.
+
+Reimu2b:...! Hey, look. This wasn't my idea.
+
+Mokou0a:Then how about you leave Keine out of this and not put her in danger?
+
+Mokou0a:It'd be one thing if something was threatening Gensokyo, but shouldn't you get your shit together before dragging other people into shrine affairs?
+
+Reimu5f:...
+
+Keine2a:Maybe so, but still... Reimu's always working to resolve incidents here. Isn't it natural to want to chip in when you can?
+
+Keine0b:That, and mutual assistance is an indispensable element of human society—
+
+Mokou0a:I see where you're going with this, and it makes perfect sense by your logic.
+
+Mokou0a:But I can't be one of you.
+
+Keine1a:But, Mokou—
+
+Reimu5e:It's fine, Keine. She's kinda got a point.
+
+Keine1a:You're not helping here, Reimu!
+
+Reimu5d:Let's just go. We gave it a shot, and it didn't work out.
+
+Daiyosei1a:Wait, we're coming too!
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+Keine2a:...
+
+Keine0b:Sorry, Mokou. I can't leave Reimu on her own here.
+
+<nowindow>
+
+<Code=(demo_wait,45)>
+
+</nowindow>
+
+Mokou3c:...
+
+Mokou0a:You're always like this, Keine. You're the world's biggest softie...
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP
+
+Reimu5d:...
+
+Keine0b:I'm sorry, Reimu. Mokou didn't mean anything by what she said.
+
+Reimu4a:I get that. And honestly, she was right.
+
+Reimu5f:It'd be pretty pathetic if I turned the shrine over to another god because I didn't have enough faith.
+
+Keine0a:That's why we're rounding up help, so you don't have to. Don't let one setback bring you down.
+
+Daiyosei3b:Reimu looks like she's in low spirits.
+
+Rumia0a:She sure does! Is this my shot at getting back at her?
+
+Daiyosei1a:Don't do that! You should leave people alone when they're like this.
+
+Rumia2a:Really? I guess she might just beat me up again...
+
+Rumia0a:Wait.
+
+Daiyosei2c:What is it?
+
+Rumia0a:Something's flying our way.
+
+<pause>
+
+KTenguA3a:The shrine maiden's emerged. This is the time to strike!
+
+<pause>
+
+Daiyosei2a:Eep!
+
+Reimu1a:Hey, what's your problem?!
+
+Keine1a:Crow tengu? Why were you lying in wait for us?
+
+KTengu0a:Why else? We're under orders to watch your group.
+
+KTenguA1a:Yep. Getting a scoop is just an added bonus!
+
+Daiyosei0a:Is your scoop... us?
+
+Reimu1a:You're getting on my nerves. Just scram already!
+
+KTenguA3a:Ooh, an angry expression? I'll take that too!
+
+<Code=(map_flash,1,15,c_white)>
+
+<SE=se_talk_shutter.ogg,wait=0>
+
+<Code=(demo_wait,10)>
+
+<Code=(map_flash,1,15,c_white)>
+
+<SE=se_talk_shutter.ogg,wait=1>
+
+<Code=(demo_wait,8)>
+
+<pause>
+
+Reimu1a:You little...!
+
+Keine1a:Don't, Reimu. It's pointless trying to talk to people like that.
+
+Rumia0a:Then it sounds like we have to chase them off the usual way, with a danmaku fight.
+
+KTengu0a:Oh, sounds like they want a fight. Maybe we got them a little TOO riled up.
+
+KTenguA0a:Big deal! We'll get even better material if we beat them at their danmaku game.
+
+KTenguA3a:Tomorrow's front page headline will read: "Shrine maiden who fled the mountain suffers second crushing defeat at reporter's hands"!
+
+Reimu1a:If you think you've got a shot, go ahead and try us!
+
+<end>
+
+<ChatID:2>----------------------------------------
+//2PP、妹紅独白
+
+<nomove>
+
+<Code=(cursor_jump,448,176,1)>
+
+Mokou0a:Why's it so noisy outside?
+
+<pause>
+
+<nomove>
+
+Mokou0a:Hey, those are tengu! Are they looking for Keine's group?
+
+Mokou3c:...
+
+Mokou0a:Eh, not my problem. They can sort this mess out themselves.
+
+</nomove>
+
+<end>
+
+<ChatID:3>----------------------------------------
+//4PP、または敵一定数以下、または天狗A一定HP以下
+
+<Code=(icon_set_direction,All,KTenguA_en,0)>
+
+KTenguA0a:So is this all you can do? I was expecting more.
+
+Reimu2a:Rgh. These tengu mean business...
+
+KTenguA1a:This is barely a fight. Can't you give me something worth writing about?
+
+KTengu0a:And what's up with that dump of a house over there?
+
+KTengu2a:If the humans came out of it, does that mean someone actually LIVES there?
+
+Keine1a:...! Now they're taking an interest in Mokou's house!
+
+KTenguA0a:Now that you mention it, yeah. I haven't heard of anyone living in a place like this.
+
+KTenguA3a:So with that said... Time to get my money shot!
+
+<nomove>
+
+<Code=(cursor_jump,448,176,1)>
+
+Mokou4a:That tengu's getting closer!
+
+</nomove>
+
+<pause>
+
+Keine1a:I won't let you!
+
+<pause>
+
+Keine1a:This house has nothing to do with us. Leave it out of this!
+
+KTenguA2a:...What's with you? Don't get in the way of my scoop!
+
+<pause>
+
+<Code=(icon_set_direction,KTenguA_en,FD_LEFT,0)>
+
+Keine2a:Guh!
+
+Daiyosei1a:Keine's trying to stop the tengu!
+
+Reimu1a:Hey, you can't take them on by yourself!
+
+Reimu1a:Hold on a second, I'm on my way over—
+
+KTengu1a:I don't think so!
+
+<pause>
+
+Reimu3b:!
+
+Rumia2b:What the heck? I didn't hear anything about all these extra people!
+
+KTengu1a:Yeah, because we didn't tell you. Now don't get in the way of journalism!
+
+KTenguA3a:Nice thinking! Let's do this!
+
+KTengu1a:Right!
+
+<pause>
+
+<Code=(icon_set_direction,KTenguA_en,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Keine,FD_LEFT,0)>
+
+Keine2a:Aagh!
+
+Reimu1a:Keine!
+
+Daiyosei2a:Please, run away! If this keeps up, you'll...
+
+Keine2a:...No, I won't let them pass. I don't care what happens to me, but her?
+
+Keine1a:I won't let you lay a finger on her!
+
+<nomove>
+
+<Code=(cursor_jump,448,176,1)>
+
+Mokou3c:...
+
+Mokou3c:...Keine is such a softie, I swear.
+
+Mokou0a:After all those nasty things I said, she's still sticking her neck out for me.
+
+Mokou3b:Acting like that is why I...
+
+</nomove>
+
+KTenguA3a:Alright then, this should be the final blow!
+
+<nomove>
+
+<Code=(cursor_jump,416,208,1)>
+
+<hide=all>
+
+Mokou3a:Hold it!
+
+</hide>
+
+</nomove>
+
+<pause>
+
+<Code=(chat_set_auto,1,70)>
+
+Mokou3a:Keep your hands off her!
+
+<Code=(chat_set_auto,0,0)>
+
+<pause>
+
+Daiyosei2c:She's so strong!
+
+KTenguA2a:Wow, rude. Who are you?!
+
+Mokou3a:I'm just a health nut yakitori vendor.
+
+KTenguA1a:Huh?
+
+Mokou3c:...Keine, stand aside. I'll handle the rest.
+
+Keine1a:Mokou, why did you come out?! If these people write an article about you—
+
+Mokou1a:Why else? They picked a fight with me.
+
+Mokou3a:They hurt you real bad, right in front of me. I'm gonna make 'em regret it!
+
+KTengu0a:Uh, did you hear all that?
+
+KTenguA1a:Hmph, you've got moxie. Here's a little tip for you: the trick to living a long life is picking your battles!
+
+Mokou0a:Yeah, well, I don't need any tricks there.
+
+KTengu1a:Huh?
+
+Mokou3a:Listen up, Hakurei Shrine Maiden. I'm going to help out, so get Keine and the others out of here.
+
+Reimu1a:Are you kidding? I'm fighting too.
+
+Keine1a:...Me too. It wouldn't do to come here asking for your help, then leave you to do all the work.
+
+Mokou0a:Fine. Just don't do anything crazy, Keine.
+
+Keine1a:Alright, time to hit them back!
+
+<end>
+
+<ChatID:4>----------------------------------------
+//鳳翼天翔を天狗Aに使用
+
+KTenguA2a:Hey, what was that?! Is she even human?
+
+Mokou1a:My wings are way beyond what any crow has.
+
+Mokou3a:I'll show you how a phoenix flies!
+
+<end>
+
+<ChatID:5>----------------------------------------
+//勝利条件達成（天狗Aを撃破）
+
+KTenguA2a:Oww...
+
+KTenguA1a:Oww... Oh no, my camera's busted!
+
+KTenguA1a:Great, just look what you've done! Now my film's ruined, and my scoop with it!
+
+Mokou0a:What's a cam-ruh? Or film?
+
+Mokou3a:I've got no idea what you're talking about. Either spell it out for me or turn tail and run. Pick one.
+
+KTenguA1a:Grrr, I'll get you for this!
+
+<pause>
+
+Rumia0a:We shooed her off!
+
+Reimu0f:Wow, you're better at this than I thought. I guess I should thank you.
+
+Mokou0a:Save it. I wasn't doing it for you.
+
+Keine0b:Sorry for dragging you into our fight, Mokou.
+
+Mokou0a:Don't worry about it. Let's just get back to the house and get you patched up.
+
+<end>
+
+<ChatID:6>----------------------------------------
+//ADVB
+
+<MAP=5,FROM=妹紅の家,TO=妹紅の家,name=Mokou's House,icon=0>
+
+<BG=*bg_talk_Bamboo.png,fade=0,color=1,title=*bg_Mokou,bgm=bgm_talk_ningyo>
+
+Mokou0a:That should do it. It's a little rough, but you can deal with it.
+
+Keine0a:Thanks, I feel much better now.
+
+Keine3a:Who would have thought that you'd use the medicine I brought for you on me?
+
+Reimu2b:Do you get injured a lot or something?
+
+Mokou0a:Don't worry about that. That's between us.
+
+Rumia0a:So, I guess we're fighting tengu now?
+
+Daiyosei3b:That mountain's definitely a scary place.
+
+Daiyosei0a:And Cirno's looking for people to help you fight them, huh?
+
+Reimu3b:I'm kind of surprised, actually. I was sure I'd find her with you.
+
+Daiyosei0a:This IS Cirno we're talking about. I'm sure she was worried about me.
+
+Daiyosei3b:It's just...
+
+Reimu0f:Just what?
+
+Daiyosei3b:I'm worried she'll do something dangerous.
+
+Daiyosei0a:Last time, we snuck into the red house with Rumia...
+
+Rumia0a:Oh yeah, I remember that. That was a really good sandwich.
+
+Keine0a:As long as Cirno doesn't stroll right into mountain territory, she shouldn't get into any fights with the tengu, but...
+
+Reimu4a:You're worried that she'll do exactly that, huh.
+
+Daiyosei3b:...
+
+Keine0a:If you're that concerned, come to the shrine tomorrow morning. We're all scheduled to meet up then.
+
+Daiyosei0a:Alright, I'll go, as long as you don't mind my presence.
+
+Reimu0e:Actually, if we're going up against tengu, wouldn't we be better off leaving all the fairies at home? They wouldn't exactly help much.
+
+Keine0a:Don't be silly. Cirno and Daiyousei are both teammates who fought alongside us in the last incident.
+
+Mokou0a:Teammates, huh. And even after this whole mess, you STILL insist on going to the mountain, Keine?
+
+Keine0a:Of course. It'll take a lot more than a little ding like this to deter me.
+
+Mokou3c:...
+
+Mokou0a:Fine, I'm coming too.
+
+Reimu0f:Wait, what?
+
+Keine1a:You mean it, Mokou?
+
+Mokou0a:Considering what happened earlier, I'm too worried to leave you alone. I won't let you do anything else crazy on my watch.
+
+Keine0a:Thank you very much. Reimu, you're fine with this too, I assume?
+
+Reimu0b:Sure, why not. We came here looking for backup anyway.
+
+Rumia0a:Normally you'd have something snarky to say here!
+
+Reimu3a:Shut it.
+
+Mokou0a:Just to be clear, I've got no tolerance for dead weight.
+
+Mokou0a:I don't give a damn about your shrine. That's your problem to deal with.
+
+Reimu4a:Yeah, you don't have to spell it out. I was always gonna handle that part myself.
+
+Daiyosei3b:This isn't exactly a friendly party...
+
+Keine0a:Well, she IS essentially getting dragged along only half-willingly. I'm just grateful she'll come at all.
+
+Keine0a:We still need to prepare for tomorrow, so we should probably head back.
+
+Reimu0a:Are you sure it's okay to move around so soon? Shouldn't you rest a bit before we head back?
+
+Keine0a:No, it's fine. I'd rather not overstay my welcome.
+
+Mokou0a:I don't mind you sticking around. Feel free to rest here until you get better.
+
+Keine0a:No really, it's fine. I have to prepare for tomorrow too, and I wouldn't want to borrow your bed.
+
+Mokou4a:Uh... Okay. Whatever, I guess.
+
+Keine0a:I'll see you tomorrow, Mokou. Be at the Hakurei Shrine in the morning, okay?
+
+Mokou0a:Got it. Be careful on your way back.
+
+<nowindow>
+
+<single>
+
+<SE=se_talk_walk.ogg,wait=1>
+
+</nowindow>
+
+Mokou3c:Sheesh. I know it's just how things turned out, but I sure wasn't expecting to fight alongside a shrine maiden.
+
+Mokou0a:Oh well, I'll just do what suits me.
+
+<end>
+
+<ChatID:7>----------------------------------------
+//天狗Avs.霊夢
+
+KTenguA0a:Let's see, what's your front-page header...?
+
+KTenguA3a:How about... "Round the Clock Shrine Maiden Coverage―Desperately Foraging for Bamboo Shoots?!"
+
+Reimu1a:Bamboo shoots aren't even in season!
+
+<end>
+
+<ChatID:8>----------------------------------------
+//天狗Avs.慧音
+
+KTenguA0a:Let's see, what's your front-page header...?
+
+KTenguA3a:"A Beautiful Woman in the Bamboo Forest―A Tryst Amidst The Bamboo?!"
+
+Keine5a:Beautiful woman? T... Tryst?!
+
+Keine1a:Okay, that's enough made-up stories out of you!
+
+<end>
+
+<ChatID:9>----------------------------------------
+//天狗Avs.ルーミア
+
+KTenguA0a:Eh, for a weak youkai like you, I can just make something up.
+
+KTenguA3a:How about... "Mysterious Darkness In Broad Daylight—Things That Go In Never Come Out!"
+
+Rumia0a:Wow, sometimes newspapers really do print the truth!
+
+KTenguA0a:...Wait, what?
+
+<end>
+
+<ChatID:10>----------------------------------------
+//天狗Avs.大妖精
+
+KTenguA0a:Fairies don't make for good headlines, but if I had to make one up...
+
+KTenguA3a:"Local Fairy Driven To Tears, Shrine Maiden To Blame!"... How's that?
+
+Daiyosei1a:H-Hey, I'm not crying!
+
+<end>
+
+<ChatID:11>----------------------------------------
+//天狗Avs.妹紅
+
+KTenguA1a:What's your problem? You're getting in the way of journalism!
+
+Mokou1a:I thought I was the one you were reporting on. Go on, then. Try me.
+
+<end>
+
+<ChatID:12>----------------------------------------
+//天狗Avs.メーコ
+
+KTenguA2c:Hm. An unfamiliar face.
+
+Meko0c:Heh. Bet you don't see many youkai sheep.
+
+KTenguA4b:Sure, they're rare, but that doesn't make them interesting...
+
+KTenguA3a:Ooh, but wouldn't this be hilarious? "Picture Perfect―What A Rare Youkai Sheep Freshly Shorn Looks Like!"
+
+Meko0b:Don't just decide I'm getting a buzzcut!
+
+<end>
+
+<ChatID:13>----------------------------------------
+//天狗Avs.まくら
+
+KTenguA2c:Huh. Huh...
+
+Makura0f:Why are you staring at me like that?
+
+KTenguA3c:I was wondering what to write if I put you on the front page.
+
+KTenguA3a:How about something like "Captivatingly Beautiful Youkai gives even Insomniacs a Good Night!"?
+
+Makura2a:That's just embarrassing...!
+
+<end>

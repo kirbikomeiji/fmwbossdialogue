@@ -1,0 +1,1440 @@
+﻿○共通第七話「湖上の交錯（後編）
+
+==================================
+ChatID:Content
+==================================
+ 0: ステージ開始
+ 1: 1EP、早苗さん
+ 2: 早苗さん撤退
+ 3: 早苗さん撃墜
+ 4: 椛撃墜（早苗さんいない）
+ 5: 椛撃墜（早苗さんいる）
+ 6: 文登場～ステージ終了
+ 7: ADVB
+ 8: 椛vs.霊夢
+ 9: 魔理沙
+10: 慧音
+11: にとり
+12: アリス
+13: 妖夢
+14: ルーミア
+15: チルノ
+16: 大妖精
+17: 早苗さんvs.霊夢
+18: …
+
+<ChatID:0>----------------------------------------
+//1PP
+
+<Code=(icon_set_direction,Cirno,FD_LEFT,0)>
+
+<Code=(icon_set_direction,Daiyosei,FD_LEFT,0)>
+
+<hide=name>
+
+Sanae0a:I've finally found you, Hakurei Shrine Maiden... Reimu Hakurei.
+
+</hide>
+
+Youmu1a:A distinctive outfit leaving the armpits bared... That's shrine maiden attire, right?
+
+Nitori0a:That means that human is the one Momiji was looking for...
+
+Keine0a:...The other shrine maiden.
+
+Reimu4a:I've heard rumors about you—that you're an impolite type who launches into lectures the moment you meet someone.
+
+Reimu4a:How about you introduce yourself properly first? If you don't show proper etiquette, you're gonna get a headbutt from Keine.
+
+<hide=name>
+
+Sanae0a:Very well. Allow me to take it from the top.
+
+</hide>
+
+Sanae0a:My name is Sanae Kochiya. I serve as a wind priestess of the Moriya Shrine. Pleased to make your acquaintance.
+
+Sanae0a:I've been searching for you for days now.
+
+Keine0a:The Moriya Shrine? There's a shrine besides the Hakurei Shrine in Gensokyo?
+
+Marisa0a:I ain't heard of any wind priestess either. Is it the same as a shrine maiden?
+
+Sanae0a:Technically there are differences, but I'm not going to nitpick.
+
+Reimu4a:Well then, what does a wind priestess want with me? I'm kind of busy, if you hadn't guessed.
+
+Sanae0a:Oh, relax. I'm not going to take that much of your time.
+
+Sanae0a:I was just curious about you, the sole shrine maiden of Gensokyo and the only person who supports the faith of the land.
+
+Sanae0a:I wanted to see with my own eyes what kind of person this shrine maiden was.
+
+Marisa0a:You're pretty shady, y'know. The tengu were looking all over for you.
+
+Marisa0a:You might be talking all prim and proper, but who's to say you're not the one conducting yourself improperly?
+
+Sanae0a:The tengu were looking for me? Hm, I suppose that's to be expected.
+
+Alice0a:Do you have an idea of why that would be?
+
+Sanae0a:The affairs of the mountain youkai are none of your concern.
+
+Keine0b:I'm confused here. Surely you can do better for an explanation than what you've given us so far.
+
+Keine0a:What were you even planning to do once you've met Reimu? There's no way you're just here for a look-see.
+
+Reimu4a:No kidding. If you're done here, could you just go home?
+
+Reimu0f:Like I was saying, I've got an incident to resolve here.
+
+Sanae0a:Incident... I assume you mean the scarlet mist?
+
+Sanae0a:Is resolving that incident important to the future of your faith?
+
+Reimu0a:Huh? What does faith have to do with anything? Resolving incidents is a shrine maiden's job.
+
+Sanae0a:What...?
+
+Sanae0a:What are you saying? A shrine maiden's job is to gather faith.
+
+Reimu0a:Eh, I guess you could say that too.
+
+Reimu0a:Either way, the main business is exterminating youkai.
+
+Sanae0a:...
+
+Sanae0a:Now I understand. So that's the sort of person you are, Reimu.
+
+Sanae0a:As I thought, this land needs a more suitable shrine maiden.
+
+Reimu0a:...!
+
+Nitori2a:Whoa, she went there.
+
+Alice0a:That's a very aggressive thing to say. Are you here to pick a fight?
+
+Sanae0a:Not at all. I simply stated facts.
+
+Sanae0a:Looking at you as you are now, it's clear as day that Gensokyo's faith will continue to dwindle.
+
+Marisa0a:Wow, you're just rolling up and naysaying out of nowhere, huh. As far as challengers go, you're a real character.
+
+Reimu0d:Look, I don't have the patience to sit through lectures.
+
+Reimu3b:Besides, the state of Gensokyo's faith has nothing to do with you.
+
+Sanae0a:So you choose to ignore the problem. You truly do lack a sense of your role as a shrine maiden.
+
+Reimu1a:Oh, shush. If you keep standing in my way, I'm gonna make you move the hard way!
+
+Sanae0a:Alright. Let's see what you've got, then.
+
+Sanae1a:Let's see the power of the Hakurei Shrine Maiden who presides over Gensokyo!
+
+<pause>
+
+Reimu2a:...!
+
+Marisa1a:She dodged Reimu's move? Huh, well I'll be. She actually knows what she's doing.
+
+Youmu1a:Reimu dodged as well. So far they're evenly matched!
+
+Sanae0a:...I see. You're certainly capable enough as a youkai extermination specialist.
+
+Sanae0a:But that's the best you can manage with Gensokyo's faith. I, on the other hand, possess divine virtues. You can't win against me.
+
+Reimu1a:...Hmph, don't get cocky just because you dodged an attack. I haven't gotten serious yet!
+
+Keine1a:Don't keep pushing, Reimu. This is no time for humans to be fighting one another.
+
+Sanae0a:She's right, you know. I have a good idea of how you think now.
+
+Sanae0a:So I have no reason to fight any longer.
+
+Reimu1a:Hey, you're the one who started this—
+
+Youmu1a:Hold on! Something's coming!
+
+<pause>
+
+Momiji1a:I've finally found you, Sanae Kochiya!
+
+<Code=(icon_set_direction,Sanae_en,Momiji_en,0)>
+
+Sanae0a:!
+
+Reimu3b:That's...?!
+
+Keine1a:A tengu and her followers... They must be mountain youkai!
+
+Marisa0a:Hey, when did they...
+
+Nitori2a:Momiji!
+
+Momiji5a:Sanae Kochiya. Negotiations are still underway.
+
+Momiji1a:It was agreed that there would be no contact outside the mountain until negotiations were settled!
+
+Sanae3b:...So I've been caught. Sorry, this is part of my duties.
+
+Momiji0a:I don't care what your reasons are. I can't take my eyes off you for a second, can I?
+
+Reimu0a:Man. Way to spoil the moment.
+
+Keine0a:It's better this way. We have an investigation to attend to anyway.
+
+Alice0a:They seem to be in some kind of dispute, though...
+
+Sanae0a:...I admit that I was rash. But I've done nothing that would cause trouble for you all.
+
+Momiji0a:We'll be the judge of that. In light of your breach of our ceasefire, you are to return to the mountain at once.
+
+Momiji0a:If you refuse, I am prepared to take other measures.
+
+Sanae0a:...
+
+Sanae0a:Alright. I'll return to Youkai Mountain.
+
+<pause>
+
+<Code=(icon_set_direction,Sanae_en,Reimu,0)>
+
+Reimu0a:Wait, are you trying to run away?!
+
+Keine1a:Let her go, Reimu. I told you not to keep pushing.
+
+Marisa0a:Leave it to me then, I'll capture her!
+
+<pause>
+
+Momiji1a:Stop right there!
+
+<pause>
+
+Marisa3b:!
+
+Momiji0a:I'd appreciate it if you didn't interfere. This matter is between us.
+
+Marisa3a:Are you protecting her?
+
+Momiji0a:It's imperative that Sanae Kochiya returns to the mountain.
+
+Momiji0a:I remember you. I believe I told you before to stay out of mountain affairs.
+
+Momiji5a:And furthermore...
+
+Nitori3b:...
+
+Momiji0a:I see you're still with the humans, Nitori.
+
+Momiji0a:You're showing blatant disregard for the mountain's rules. And you call yourself a youkai of the mountain?
+
+Nitori3a:Oof... Look, Momiji...
+
+Marisa3a:Oh great, now you're taking over lecturing duty. You guys sure like preaching.
+
+Momiji0a:Marisa Kirisame, correct? Not only did you take Nitori away from the mountain, but now you're butting into our affairs.
+
+Marisa3a:I didn't take her away from anywhere. Now step aside. That shrine maiden's getting away.
+
+Reimu0a:I've still got some things to tell her, and I'd rather it be in person.
+
+Alice1a:Both of you, stop provoking her!
+
+Nitori3a:Yeah, seriously. Getting on Youkai Mountain's bad side is bad news all around!
+
+Momiji0a:...It's too late for that. I see your group's attitude now.
+
+Momiji1a:It's clear you need a painful lesson!
+
+<pause>
+
+<Code=(icon_set_direction,Alice,FD_LEFT,0)>
+
+Alice1a:!
+
+<Code=(icon_set_direction,Rumia,FD_LEFT,0)>
+
+Rumia0a:Oh hey, there's more coming in from behind.
+
+<Code=(icon_set_direction,Youmu,FD_LEFT,0)>
+
+Youmu1a:This is bad. Our retreat's been cut off!
+
+Reimu0a:So fighting's our only option left? Great, that's exactly what I wanted anyway.
+
+Keine4a:What did I tell you...?
+
+Alice0c:There's nothing for it now. We'll just have to deal with the situation as it stands.
+
+Keine1a:I know. Let's get through this and get back to investigating the incident!
+
+Keine1a:But don't chase that shrine maiden too far. Breaking through the enemy's formation is our top priority.
+
+<Code=(icon_set_direction,Rumia,FD_RIGHT,0)>
+
+Rumia3a:If you wanna take out your frustrations on someone, the tengu's right there!
+
+Daiyosei3b:What do we do, Cirno? This is getting way out of hand.
+
+Cirno0a:...
+
+Daiyosei2c:...Cirno?
+
+Cirno1a:Okay, guys! Looks like you're in a tough spot, so I'll make an exception and save you all!
+
+<Code=(icon_set_direction,Alice,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Youmu,FD_RIGHT,0)>
+
+Youmu2b:Um, that fairy over there seems to be shouting something...
+
+Cirno0a:I'm sure you're totally worn out after fighting me. Just admit it.
+
+<Code=(icon_set_direction,Alice,FD_RIGHT,0)>
+
+Alice3a:...Goodness, she does love running with her own narratives, doesn't she?
+
+Keine0a:But the more firepower we have, the better. Let's welcome her with open arms.
+
+Keine1a:Cirno, was it? We'll be relying on your aid!
+
+Cirno0a:Gotcha! You can wait there for a little while, Dai.
+
+Daiyosei1a:No, I'll fight too. I want to be helpful, and besides...
+
+Daiyosei0b:You're with me now, Cirno.
+
+Cirno0a:Dai...!
+
+Cirno1a:Alright, we'll show you all why we're the strongest!
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1EP
+
+Sanae0a:Looks like a fight's broken out between the tengu and the Hakurei Shrine Maiden.
+
+Sanae0a:I'll just take this chance to get back to the mountain.
+
+<end>
+
+<ChatID:2>----------------------------------------
+//早苗さんマプ端到達時イベント
+
+<Code=(icon_set_direction,Sanae_en,FD_LEFT,0)>
+
+Sanae0a:This should be far enough.
+
+Sanae0a:Happenstance or no, I ended up protected by that tengu...
+
+<Code=(icon_set_direction,Momiji_en,FD_RIGHT,0)>
+
+Momiji0a:What are you doing? Please return the mountain at once.
+
+Sanae0a:I should at least give you my thanks.
+
+Momiji0a:No need. I'm just completing my mission.
+
+Momiji0a:Did you really think a tengu like me would protect a human like you?
+
+Sanae0a:...No, of course not. Sorry for bothering you.
+
+Sanae0a:Reimu Hakurei. I'm sure we'll meet again.
+
+Sanae0a:So, until then...
+
+<pause>
+
+<Code=(icon_set_direction,Reimu,FD_RIGHT,0)>
+
+Reimu2a:Ugh, she managed to get away.
+
+Keine3a:I think it was inevitable here. Besides, it beats wasting our energy reserves on her.
+
+<Code=(icon_set_direction,Reimu,Momiji_en,0)>
+
+Reimu0d:...Yeah. I'll cheer myself up by taking it out on that tengu instead, then.
+
+<Code=(icon_set_direction,Momiji_en,Reimu,0)>
+
+Momiji1a:Don't underestimate a white wolf tengu. You'll be the one going down, Hakurei Shrine Maiden!
+
+<end>
+
+<ChatID:3>----------------------------------------
+//早苗さん撃墜イベント
+
+Sanae2a:Ngh! In a place like this?!
+
+<Code=(icon_set_direction,Momiji_en,Sanae_en,0)>
+
+Momiji1a:Sanae Kochiya!
+
+Momiji1a:Reimu Hakurei. Marisa Kirisame. I'll be your opponent!
+
+Reimu0a:Oh? This has nothing to do with you though?
+
+Momiji0a:If I don't get her back safely, Youkai Mountain will suffer for it.
+
+Momiji0a:I'll handle this, Sanae Kochiya. Please return to the mountain.
+
+<Code=(icon_set_direction,Sanae_en,Momiji_en,0)>
+
+Sanae0a:But then you'll—
+
+Momiji0a:I'm a tengu. Enemies like these are nothing to me.
+
+Sanae0a:...Understood. I'll take your word for it.
+
+Sanae0a:I expect you to make it back as well, of course. I'll be praying for your safety.
+
+Momiji0a:Naturally.
+
+<pause>
+
+Momiji0a:...Good grief. She's haughty one minute, and meek the next. What a confusing human.
+
+<Code=(icon_set_direction,Reimu,Momiji_en,0)>
+
+<Code=(icon_set_direction,Marisa,Momiji_en,0)>
+
+Marisa0a:You sure you have time to worry about that? You're the only one left!
+
+Reimu0d:Sanae Kochiya may have fled, but once we take you out and interrogate you, it's all the same to me.
+
+<Code=(icon_set_direction,Momiji_en,Reimu,0)>
+
+Momiji1a:Don't underestimate a white wolf tengu. You'll be the one going down, Hakurei Shrine Maiden!
+
+<end>
+
+<ChatID:4>----------------------------------------
+//椛撃破時イベント（早苗さんが居ない場合）
+
+Momiji2a:Am I actually losing?!
+
+<Code=(icon_set_direction,Reimu,Momiji_en,0)>
+
+<Code=(icon_set_direction,Marisa,Momiji_en,0)>
+
+Marisa0a:This is the second time you've lost to me. That's what you get for underestimating humans.
+
+Reimu0b:I think you'd better tell us everything you know about that shrine maiden.
+
+Momiji2a:...I refuse. I have my pride as a tengu.
+
+Momiji1a:So long as my Gansaiga remains unbroken, my will to fight remains the same!
+
+<Code=(icon_set_direction,Nitori,Momiji_en,0)>
+
+Nitori3c:Momiji...!
+
+<Code=(icon_set_direction,Alice,Momiji_en,0)>
+
+Alice0c:I would praise you for your spirit... But do take a good look around you.
+
+Alice1a:You are utterly outnumbered. You have no chance at all.
+
+Momiji2a:Rgh...
+
+Reimu4a:If you don't want to talk, then bye. I hope you're good at dog-paddling.
+
+<end>
+
+<ChatID:5>----------------------------------------
+//椛撃破時イベント（早苗が居る場合）
+
+Momiji2a:Am I actually losing?!
+
+<Code=(icon_set_direction,Marisa,Momiji_en,0)>
+
+Marisa0a:This is the second time you've lost to me. That's what you get for underestimating humans.
+
+<Code=(icon_set_direction,Sanae_en,Momiji_en,0)>
+
+Sanae0a:...
+
+Sanae0a:(It looks as though the tengu has lost her fight.)
+
+Sanae0a:(It must be because she protected me...)
+
+<Code=(icon_set_direction,Momiji_en,Sanae_en,0)>
+
+Momiji0a:Why are you still here, Sanae Kochiya?
+
+Momiji0a:I thought I told you to return at once. Please withdraw immediately.
+
+Sanae0a:I understand, but how I can just leave you behind?
+
+Momiji0a:I'm a tengu. This situation is nothing to me.
+
+Momiji0a:If you understand, then return to Youkai Mountain.
+
+Sanae0a:...Very well. Stay safe.
+
+<Code=(icon_set_direction,Reimu,Sanae_en,0)>
+
+Reimu1a:Hey, are you running away?!
+
+<Code=(icon_set_direction,Sanae_en,Reimu,0)>
+
+Sanae0a:Reimu Hakurei. I'm sure we'll meet again.
+
+Sanae0a:So, until then...
+
+<Code=(icon_set_direction,Sanae_en,FD_RIGHT,0)>
+
+<pause>
+
+Reimu2b:She managed to get away...
+
+Marisa0a:But...
+
+Momiji0a:...
+
+<Code=(icon_set_direction,Reimu,Momiji_en,0)>
+
+Reimu0f:Since she's gone, you're the only one left to question.
+
+Reimu3b:I think you'd better tell us everything you know about that shrine maiden.
+
+<Code=(icon_set_direction,Momiji_en,Reimu,0)>
+
+Momiji2a:...I refuse. I have my pride as a tengu.
+
+Momiji1a:So long as my Gansaiga remains unbroken, my will to fight remains the same!
+
+<Code=(icon_set_direction,Nitori,Momiji_en,0)>
+
+Nitori3c:Momiji...!
+
+<Code=(icon_set_direction,Alice,Momiji_en,0)>
+
+Alice0c:I would praise you for your spirit... But do take a good look around you.
+
+Alice1a:You are utterly outnumbered. You have no chance at all.
+
+Momiji2a:Rgh...
+
+Reimu4a:If you don't want to talk, then bye. I hope you're good at dog-paddling.
+
+<end>
+
+<ChatID:6>----------------------------------------
+//Aya
+
+<Code=(cursor_jump,128,128,0)>
+
+<Code=(update_view,128,128)>
+
+<nomove>
+
+<hide=all>
+
+Aya0a:Stop right there!
+
+</hide>
+
+</nomove>
+
+<pause>
+
+Aya1a:You humans have such bad manners, kicking opponents when they're down.
+
+Aya0a:Someone needs to give you a wakeup call.
+
+Reimu3b:You're that tengu from before!
+
+Marisa2b:You're that newspaper reporter!
+
+Marisa0a:...Wait, you know her, Reimu?
+
+Reimu0b:Yeah, we met her a little while before we arrived here.
+
+Aya0a:Hey, sorry I'm late. You alive, Momiji?
+
+Momiji2a:Aya, why are you here...?
+
+Aya0a:I was tailing the Hakurei Shrine Maiden for a story. I wasn't expecting them to fight you, though.
+
+Momiji6a:...It's an embarrassment to be seen by you like this.
+
+Aya0a:C'mon, it's cool. Let's just get back to the mountain, huh?
+
+Reimu1a:H-Hey, wait! We haven't finished talking yet!
+
+Aya1a:...Oh, you're still here. What do you want?
+
+<Code=(icon_set_direction,Keine,Aya_en,0)>
+
+Keine0b:What do we want? You're the one who just popped up out of nowhere. It should be us asking that.
+
+Keine0a:We met the shrine maiden Sanae Kochiya a little awhile ago.
+
+Keine0a:There was talk of an agreement and other suspicious dealings. What is going on with the youkai of the mountain?
+
+Aya1a:Heh... So you've had contact with the shrine maiden.
+
+Aya0a:I suggest you forget all about this and just resolve your incident like a good little bunch of do-gooders.
+
+Marisa3a:What...? That tengu's attitude has completely changed from the last time we met her.
+
+Nitori2a:Are the tengu in a bad mood...?
+
+<Code=(icon_set_direction,Alice,Nitori,0)>
+
+Alice0a:What's wrong, Nitori?
+
+Nitori2a:...This is bad, Marisa. Let Momiji go.
+
+Nitori2a:If the tengu get angry, things are going to get really bad!
+
+Reimu0f:...Telling us to forget it is a bit unreasonable. I still have a score to settle with that shrine maiden, so don't try to protect her.
+
+Aya0a:...Well, I'm not exactly protecting her, and I do kinda get how you all feel.
+
+Aya0a:But regardless, I'm saying this for your own good: butt out.
+
+Aya0a:I'll overlook what happened this time, but no promises if it happens again.
+
+Marisa2b:Yeah, whatever. You're gonna run again, aren't you?
+
+Aya1a:Do you think you can catch me? Not in your wildest dreams.
+
+<pause>
+
+<Code=(icon_set_direction,Reimu,Aya_en,0)>
+
+<Code=(icon_set_direction,Marisa,Aya_en,0)>
+
+<Code=(icon_set_direction,Keine,Aya_en,0)>
+
+<Code=(icon_set_direction,Nitori,Aya_en,0)>
+
+<Code=(icon_set_direction,Alice,Aya_en,0)>
+
+Marisa2a:What?!
+
+<Code=(icon_set_direction,Rumia,Aya_en,0)>
+
+Rumia1a:Wow, she's already way over there.
+
+<Code=(icon_set_direction,Youmu,Aya_en,0)>
+
+Youmu1a:She's way faster than she was before! Does that mean she wasn't being serious last time?
+
+<Code=(icon_set_direction,Aya_en,FD_LEFT,0)>
+
+Aya1a:Since you don't seem to know, here's a tip for you. My top speed is the fastest in Gensokyo.
+
+Aya0a:Even with a little extra weight, you guys are way too slow to ever catch me.
+
+<nomove>
+
+Momiji5a:...Sorry for being dead weight.
+
+</nomove>
+
+Aya0a:Don't worry about it. You did great against those humans, actually.
+
+Aya0a:Okay, let me reiterate this one last time.
+
+Aya0a:It doesn't matter what your reasons are. If you meddle in Youkai Mountain affairs, you're gonna regret it, guaranteed.
+
+Aya0a:So I hope you won't overstay your welcome and pay the price.
+
+<pause>
+
+Marisa3a:They got away...
+
+Reimu2b:...Yeah. The shrine maiden and both of the tengu.
+
+Alice0b:In the end, that shrine maiden remains a mystery. We've been outplayed this time.
+
+Reimu0d:I'd like to say this is where we shrug it off and resume the investigation, but...
+
+Nitori3b:...
+
+Youmu2a:I admit, the fatigue's starting to get to me.
+
+Rumia2a:...I'm hungry.
+
+Marisa0a:Well, not like we've got a direction to go in from here just yet anyway.
+
+Alice0a:If everyone's tired, I think it would be good to rest and discuss where to go next.
+
+Youmu0a:But where do we rest? If we aren't careful about where we lay down our swords, we could be inviting a surprise youkai attack.
+
+<Code=(icon_set_direction,Daiyosei,Cirno,0)>
+
+Daiyosei0a:Cirno, would it be okay if we bring them there?
+
+<Code=(icon_set_direction,Cirno,Daiyosei,0)>
+
+Cirno0a:Hmm, yeah, let's do that.
+
+Cirno1a:Hey, guys. If you want a spot to rest, you can use our secret base.
+
+Cirno0a:Youkai don't pass by there much, and you can nap as long as you want.
+
+Reimu0g:We've got an offer, but it IS from a fairy. What's the call?
+
+Keine0a:She helped us earlier, and I don't see any signs that she's lying. She's probably trustworthy enough.
+
+Marisa0a:She IS Daiyousei's friend.
+
+Marisa0a:Alright then, Cirno and Daiyousei. Lead us to your secret base.
+
+Cirno1a:Gotcha! Follow me!
+
+<end>
+
+<ChatID:7>----------------------------------------
+//ADVパートB
+
+<MAP=1,FROM=守矢神社,TO=守矢神社,name=???,icon=5>
+
+<BG=bg_talk_Moriya.png,fade=0,color=1,title=*bg_Unknown,bgm=bgm_talk_unknown>
+
+<hide=all>
+
+Kanako3a:...!
+
+Kanako3a:Bird feathers at 12 o'clock. One, two, three of them...
+
+Kanako3a:I can sense a youkai's aura... A bird must have returned to the wrong nest.
+
+Kanako1b:Who is it? I know you're there, so show yourself.
+
+</hide>
+
+Sanae0a:...It's me, Sanae. I've returned, Lady Yasaka.
+
+Kanako0a:Oh, it's you. You took longer than I expected.
+
+Kanako0a:I sensed crows in the area, so I thought they were intruding.
+
+Sanae0a:I was spotted by the tengu at my destination. They've kept me under strict surveillance even after returning to the mountain.
+
+Sanae0a:I apologize for causing you undue worry and stress, Lady Yasaka.
+
+Kanako0a:Oh, it's fine as long as everything's okay.
+
+Kanako0a:So, what was the Hakurei Shrine Maiden like?
+
+Sanae0a:We spoke for a bit, but our views were distinctly at odds.
+
+Sanae0a:She possesses quite a bit of power, but she has an appalling lack of understanding of how a shrine maiden should act.
+
+Sanae0a:The very idea of entrusting matters of faith to her would be inconceivable to me.
+
+Kanako0a:Ah, so that's what the shrine maiden at the foot of the mountain is like.
+
+Sanae0a:Yes. I was easily evenly matched with her in a danmaku battle as well.
+
+Sanae0a:So please wait just a little longer. I, Sanae, will make your wish come true.
+
+Kanako0a:...Mm, that would be the best result for Gensokyo. I expect you to act with complete faith in me.
+
+Sanae0a:Right! Mark my words—I'll make it happen! For you, Lady Yasaka, and for Gensokyo!
+
+Kanako0a:Then I have another job for you, Sanae.
+
+Kanako0a:They say the Hakurei Shrine Maiden is close to the youkai, and distances herself from her fellow humans.
+
+Kanako0a:That is improper conduct for a Shinto practitioner. Hakurei's actions are sacrilege against her enshrined god.
+
+Sanae0a:Which means...
+
+Kanako0a:Yes. You are to proceed to the Hakurei Shrine and obtain conclusive evidence of these claims.
+
+Sanae3a:Ooh, I get it. You want me to stake out the shrine and catch the culprit in the act!
+
+Kanako0a:A stakeout isn't strictly necessary... But you get the idea.
+
+Kanako0a:If the rumors turn out to be true, feel free to pass our message on to the shrine maiden.
+
+Sanae0a:...Alright. I'll pay a visit to the shrine as soon as she concludes her investigation into the incident.
+
+Sanae0a:With this, it's only a matter of time before the reputation of the Hakurei Shrine declines.
+
+Kanako0a:Just remember that we're not in any rush. Don't push yourself; know your limits.
+
+Sanae0a:...I appreciate your concern, but there are no limits for me.
+
+Sanae0a:I'm your shrine maiden, and I always give my absolute best.
+
+Kanako0a:...
+
+Sanae0a:It's about time for dinner. What would you like to have tonight?
+
+Sanae0a:...Lady Yasaka?
+
+Kanako0a:...Hm? Ah, oh yes. There were leftovers from yesterday, weren't there? We can finish those up today.
+
+Kanako0a:Go and rest for a while instead.
+
+Sanae0a:Thank you very much. I'll be going, then.
+
+<single>
+
+Kanako0a:...
+
+</single>
+
+<hide=all>
+
+Suwako0a:...You're worried that she's trying too hard, aren't you?
+
+</hide>
+
+Kanako1b:...!
+
+Kanako1a:Suwako, where have you been?
+
+Suwako0a:I told you I was going to wander around for a bit. It's boring when you and Sanae aren't around.
+
+Kanako0a:...Ahh, that's right. The talks with Tenma dragged on for so long, it slipped my mind.
+
+Suwako1a:Wow, you forgot something? Are you finally going senile on me?
+
+Kanako1b:Oh, shush. How about you take part in politics for once?
+
+Suwako0a:Nah, I'm perfectly happy letting you handle all that. I'd much rather just sit back and chillax.
+
+Kanako0a:Hmph, I swear. No regard for others...
+
+Kanako0a:...
+
+Suwako0a:You're worried about Sanae, huh? I get why you would, but just let her do her thing.
+
+Suwako0a:We just arrived in Gensokyo. She's not gonna be able to relax if she's not applying herself to something.
+
+Kanako0a:I'm aware, yes. But you know how she is when she gets an idea in her head.
+
+Kanako0a:I appreciate her giving this her all, but I'm worried that she'll overwork herself.
+
+Suwako0a:Telling her that won't help. We were ready for this going in, anyway.
+
+Suwako0a:If you're really worried, then do your part to wrap up these talks with the tengu sooner rather than later.
+
+Kanako0a:Don't be in such a hurry. Negotiations have just begun.
+
+Kanako0a:At least they don't seem to want to aggravate the situation. It's possible that this could go quicker than expected.
+
+Suwako0a:That'd be the smart play on their part. They don't need to be afraid, it's not like we bite.
+
+Kanako0a:...The outcome of these negotiations will be a portent of things to come for us.
+
+Kanako1a:Who could say what tips the scales? Nothing ventured, nothing gained.
+
+Suwako0a:As long as they're not snake scales.
+
+Suwako1a:...Whatever comes outta this, I hope it's fun for us.
+
+<MAP=1,FROM=霧の湖,TO=霧の湖,name=Misty Lake,icon=0>
+
+<BG=*bg_talk_Lake.png,fade=1,color=1,title=*bg_Nedoko,bgm=bgm_talk_hiroshige>
+
+Marisa2a:Agh, ouch, that hurts.
+
+Marisa3d:Hey, Teach, I hate to ask this when you're doing me a favor, but is there any way you could make this less painful?
+
+Marisa2b:I know this medicinal herb works great, but it's making my scrapes kinda sting.
+
+Keine3a:Sorry about that. I'm pretty experienced with tending injuries, but there's nothing I can do about medicine stinging.
+
+Keine0a:You're just going to have to suck it up.
+
+Marisa2a:Aaaugh, it stings, it stings!
+
+Youmu2b:Marisa seems like she's in a lot of pain. Does the herb really sting that much?
+
+Reimu0c:Quite a bit, actually. It might make you cry.
+
+Youmu3a:S-Surely not. I'm not a child...
+
+Keine0a:...Alright, that should do it. Alice, bandage Marisa up.
+
+Rumia0a:Ooh, lemme see the wound before you bandage it up.
+
+Marisa2b:Heck no. What do you even wanna see it for?
+
+Alice0c:Come on, how old are you again? Stop fussing, you're embarrassing yourself.
+
+Marisa0a:Maybe you wouldn't know since you're a youkai, but this medicine's no joke.
+
+Alice0c:Youkai feel stings just like humans do. This medicine just happens to be for humans.
+
+Marisa0a:Ohh, that's good to hear. As long as you get where I'm coming from, that's good enough for me.
+
+Marisa0a:How about you put your arm out and lemme treat your injuries?
+
+Alice0c:Uh-huh. Stop moving about, or the bandages will come off.
+
+Keine0a:It's amazing that you managed to find a place with such fine herbs.
+
+Cirno0a:I didn't know the bitter dumplings we used for punishment games were actually healing plants.
+
+Youmu0a:We're doing better already. And we got some nice fruit in the bargain, right?
+
+Nitori3b:...
+
+Youmu0a:...Nitori? You have a troubled look on your face. Is something wrong?
+
+Nitori0a:Ahh, sorry. I was just thinking.
+
+Keine0a:What's wrong? Getting afraid of going back to the mountain after the way those tengu were acting?
+
+Nitori0a:Just the opposite, actually.
+
+Nitori3b:After seeing the way that shrine maiden and Momiji were acting, I'm getting more worried about what's happening there.
+
+Rumia0a:If you're worried, can't you just go back?
+
+Nitori0a:I can go home whenever I want, as long as nobody holds it against me...
+
+Nitori3d:But if I knew the situation on the mountain was so serious, I may never have left it to begin with.
+
+Reimu0f:What "situation" is this, exactly? Do you know something about the shrine maiden?
+
+Nitori0a:Oh right, I never did talk about it.
+
+Nitori0a:Do you remember that really heavy storm right before the mist began to spread?
+
+Nitori0a:Well, there was a huge earthquake on Youkai Mountain that night. And then some people appeared on the mountain summit.
+
+Keine0a:They did?
+
+Nitori0a:Yeah. The tengu were all in an uproar. They said nobody could leave, us included.
+
+Nitori0a:But there were some parts I wanted to find, so I snuck out during all the confusion.
+
+Keine0a:Ah. I knew you'd snuck off the mountain, but I hadn't heard why.
+
+Youmu0a:So it's likely that those people who appeared are somehow connected to the shrine maiden.
+
+Nitori0a:I don't know the details, and I can't exactly go back to the mountain to ask...
+
+Nitori0a:Besides, I'm more interested in this mist incident right now. So I'd rather wait until the investigation's over before I go back.
+
+Keine0a:Makes sense. The mist is certainly our most pressing priority.
+
+Keine1a:The humans of the village are suffering from the mist even as we rest here.
+
+Youmu0a:But we have yet to locate the enemy's stronghold.
+
+Youmu0a:What happens now, Reimu? Are you going to get another flash of intuition that magically shows you where the mastermind is?
+
+Reimu3d:I'm not a psychic, you know.
+
+Reimu0g:Hmm... Since we've come all the way here, why don't we keep going beyond the lake?
+
+Alice0a:We all came here from the shore of the lake, so if we're to continue, that's the direction to go in.
+
+Marisa0a:Sensible enough. I bet that's more thought than Reimu put into it.
+
+Marisa3a:Wait, beyond the lake...?
+
+Marisa3a:(Now that she mentions it, my dream last night said something about that...)
+
+Marisa3a:(They'd make fun of me if I told them my source, but if Reimu's saying the same thing...)
+
+Marisa0a:...
+
+Cirno0a:Ooh, you wanna go to the other side of the lake?
+
+Marisa0a:Hm? Ahh, yeah, that's what we're planning. Why?
+
+Cirno0a:I can tell you one suspicious place there. It's a really tacky-looking red house.
+
+Cirno0a:If you wanna go there, I could take you.
+
+Marisa3b:!
+
+Keine1a:What?
+
+Daiyosei3b:Wait, Cirno! You shouldn't bother them.
+
+Cirno0a:Awww, but I wanted to have an adventure at that house too!
+
+Youmu0a:A red house near the lake, along with this scarlet mist...
+
+Youmu0a:It almost sounds like a joke, but it could be worth investigating.
+
+Reimu0e:I'll take anything at this point. Heck, isn't that probably the enemy base right there?
+
+Alice0a:Only one way to find out for sure. Well, Cirno, you can take us there after a bit more of a rest.
+
+<single>
+
+Marisa0a:...
+
+Marisa3a:(I remember now. "The source of the scarlet mist lies beyond the lake, in a scarlet mansion." That's what my dream said.)
+
+Marisa3a:(And sure enough, there's a scarlet mansion beyond the lake.)
+
+Marisa0a:(So maybe, just maybe...)
+
+</single>
+
+<MAP=1,FROM=紅魔館,TO=紅魔館,name=Scarlet Devil Mansion,icon=5>
+
+<BG=*bg_talk_Koumakan_Int.png,fade=1,color=1,title=*bg_Koumakan,bgm=bgm_talk_kaikidan>
+
+<update>
+
+Maid0a:The mistress makes such unreasonable demands sometimes.
+
+Maid0a:Right? If it wasn't for that, living here would be pretty enjoyable.
+
+</update>
+
+Maid2a:Erk!
+
+<SE=se_talk_walk.ogg,wait=1>
+
+<update>
+
+Maid1a:W-Welcome back.
+
+Maid0a:Welcome back, Lady Elly.
+
+</update>
+
+Elliy0a:I'm back, fairy maids. Working hard, or hardly working?
+
+Maid0a:Are you looking for someone?
+
+Elliy0a:Yeah. I have to deliver a report, but it seems no one's around.
+
+Maid0a:Yes, um... The head maid is currently very busy, and the mistress is resting.
+
+Maid0a:Um, I don't think your lady is present either.
+
+Elliy0a:Really? She's out?
+
+Maid0a:Maybe? She wasn't in her room...
+
+Elliy0a:That's strange. If she was going out, she could've said something about it to me...
+
+<hide=all>
+
+Patchouli0a:If you're looking for that youkai, she's in the dining hall.
+
+</hide>
+
+Elliy1a:!
+
+Maid0a:Ah, Lady Patchouli.
+
+Elliy0a:Hello, Patchouli.
+
+Patchouli0a:It's been a while. Have you been getting used to life here?
+
+Elliy0a:Yes. I've been a gatekeeper all this time, so this suits me well.
+
+Patchouli0a:I see, that's good.
+
+Patchouli0a:...
+
+Elliy0a:...
+
+Elliy2a:(What can I do to fill this dead air...? Dealing with her is so hard sometimes.)
+
+Patchouli0a:So, what were you going to report? You've been waiting around for a while.
+
+Elliy0a:(Ooh, that's what I can do!)
+
+Elliy0a:Yes, uh... On my way back here, I encountered two groups searching for the source of the mist.
+
+Elliy0a:They were two different groups acting separately. One was led by a shrine maiden, and the other by a magician.
+
+Patchouli0a:...And?
+
+Elliy0a:I'm acquainted with both those humans, but they brought other allies as well.
+
+Elliy0a:They were eclectic bands of humans, youkai, and even ghosts.
+
+Patchouli0a:...A mish-mash of humans and youkai, along with a shrine maiden and a magician. That lines up with Sakuya's report as well.
+
+Elliy0a:Right. At the very least, the magician seemed to know who she was...
+
+Elliy0a:Right. At the very least, the magician seemed to know who she was... Sakuya, that is.
+
+Elliy0a:It's probably a matter of time before they arrive at the mansion. What do we do about it?
+
+Patchouli0a:I figured someone would be coming by now. The sun has started to set, so it's good timing as well.
+
+Patchouli0a:Stand by at the gate, and prepare a warm danmaku welcome for the humans with the other gatekeeper.
+
+Patchouli0a:I made more of those familiars of yours, so I expect you to at least stall them for a while.
+
+Elliy1a:Understood!
+
+<single>
+
+Patchouli0a:...
+
+Patchouli0a:(At last, we have people invading the scarlet domain and arriving at the mansion of the devil. Do they seek glory and accolades?)
+
+Patchouli0a:(They seem to be doing fine so far, but that won't last.)
+
+Patchouli1a:(If they're incapable enough to have trouble with the gatekeepers, they'll never be able to brandish a cross in the presence of the ruler.)
+
+<end>
+
+<ChatID:8>----------------------------------------
+//椛vs.霊夢
+
+Reimu0f:Between you and that newspaper reporter, you tengu really like your secrets.
+
+Momiji0a:Newspaper reporter? You met Aya, my senior?
+
+Reimu4a:So that's her name. And she's your senior? You must have it rough.
+
+Momiji0a:I'm guessing she's about the same as ever, then.
+
+Momiji1a:In that case, I can't let myself be slowed down by you all!
+
+<end>
+
+<ChatID:9>----------------------------------------
+//椛vs.魔理沙
+
+Momiji1a:You just keep showing up! Do you ever learn?
+
+Momiji1a:You may have caught me off-guard last time, but that won't happen again!
+
+Marisa1a:You sure about that? My new magic is gonna blow you away even more spectacularly than before!
+
+<end>
+
+<ChatID:10>----------------------------------------
+//椛vs.慧音
+
+Keine0a:I've done some reading on the mountain's organizational hierarchy.
+
+Keine0a:You're one of the patrol tengu, those in charge of defense, correct?
+
+Momiji0a:That's right. Why would you attack me if you know who we are?
+
+Keine0a:Because I can't just ignore Reimu and Marisa when they need help. Besides, we have an incident to investigate.
+
+Keine1a:Sorry, but we'll be making our way through!
+
+<end>
+
+<ChatID:11>----------------------------------------
+//椛vs.にとり
+
+Momiji0a:Aren't you ready to go back to the mountain yet?
+
+Nitori3b:Yeah, uh... I'm kind of committed here. I'm worried about the incident and its culprit, too.
+
+Momiji0a:I'm not going to bother stopping you at this point, but you'd better be ready to face the music. There's only so much I can do to cover for you.
+
+Momiji5a:Good grief, if only you'd never met that magician...
+
+Nitori1b:Hey, Marisa's my friend. Don't even think of badmouthing her!
+
+Momiji1a:I'm saying this for your own good, Nitori!
+
+<end>
+
+<ChatID:12>----------------------------------------
+//椛vs.アリス
+
+Alice0a:The tengu are supposed to be a very powerful species, but you don't seem very strong yourself.
+
+Momiji1a:How rude! Maybe I am inexperienced...
+
+Momiji1a:But I'm certainly capable enough to handle those strange dolls of yours!
+
+<end>
+
+<ChatID:13>----------------------------------------
+//椛vs.妖夢
+
+Youmu1a:I see you also use a sword. Will you be able to match my blade?!
+
+Momiji1a:The patrol tengu have a fondness for swords, but this Gansaiga was granted to me alone.
+
+Momiji1a:I don't care what kind of master you are. You'll never make me back down!
+
+Youmu1a:To battle, then! En garde!
+
+<end>
+
+<ChatID:14>----------------------------------------
+//椛vs.ルーミア
+
+Rumia0a:You're called Momiji, like the word for maple leaf, right?
+
+Momiji0a:Yes? What about it?
+
+Rumia0a:Red bean buns are made with red beans. Jam buns are made with jam.
+
+Rumia5a:So maple leaf steamed buns would be...
+
+Momiji3a:?!
+
+<end>
+
+<ChatID:15>----------------------------------------
+//椛vs.大妖精
+
+Momiji5a:Stand down, fairy. I have no interest in harming weak fairies like you.
+
+Daiyosei3b:Oh no... She's really big, and she's holding a really strong-looking weapon...
+
+Daiyosei1a:But I've come this far. I can't run away now!
+
+<end>
+
+<ChatID:16>----------------------------------------
+//椛vs.チルノ
+
+Cirno1a:Hold it right there!
+
+Momiji1a:A fairy? You're in my way. Step aside!
+
+Cirno0a:Heh heh heh, I'll beat you to a pulp and show everyone that I'm actually super strong!
+
+Momiji5a:Well, you've certainly got confidence and bravado in spades...
+
+<end>
+
+<ChatID:17>----------------------------------------
+//早苗さんvs.霊夢
+
+Reimu1a:You're not getting away!
+
+Sanae0a:I wasn't expecting you to chase after me like this.
+
+Sanae0a:I no longer have a reason to fight against you. Do you insist on continuing regardless?
+
+Reimu1a:Uh, obviously? Let's pick back up where we left off!
+
+<end>
+
+<ChatID:18>----------------------------------------
+//早苗さんvs.魔理沙
+
+Marisa0a:After hearing what the tengu said, I'm kinda curious about you now.
+
+Marisa0a:I stood by quietly and watched last time, but this time I'm gonna be your opponent.
+
+Sanae0a:You really chased me this far out? I'm not sure whether to view you as swift or stubborn...
+
+Sanae0a:What is your relationship with that shrine maiden?
+
+Marisa0a:There ain't one. If I had to name something, I guess we're stuck with each other whether we like it or not.
+
+Sanae0a:In that case, please step back. This is between me and the Hakurei Shrine Maiden.
+
+Marisa0a:Whoa there, I also double as Reimu's manager. If you got a problem with Reimu, you gotta go through me.
+
+<end>
+
+<ChatID:19>----------------------------------------
+//早苗さんvs.慧音
+
+Keine0a:The tengu was right. There really is another shrine maiden.
+
+Sanae0a:I'm not sure what the tengu said, but yes, I'm the shrine maiden of the Moriya Shrine.
+
+Keine0a:Actually, what IS the Moriya Shrine? And who are you?
+
+Keine0a:I'd appreciate a little more elaboration, if it's not too much of an imposition.
+
+Sanae0a:...I'm afraid I can't tell you. If I say too much, that tengu will be very cross with me.
+
+Keine0b:What is it you people are going to such lengths to hide?
+
+Keine0a:Fine, you and I are going to have a little danmaku fight instead.
+
+<end>
+
+<ChatID:20>----------------------------------------
+//にとり
+
+Nitori1a:I guess you're the other shrine maiden the tengu mentioned.
+
+Sanae0a:I've seen youkai dressed like you on the mountain.
+
+Nitori0a:Yep, I'm a mountain kappa. What's your connection with Youkai Mountain?
+
+Momiji1a:Sanae Kochiya, what are you doing there? Didn't I tell you to return to the mountain at once?!
+
+Sanae0a:...!
+
+Sanae0a:...Well, there you go. I'm afraid I can't tell you.
+
+Nitori3b:(Momiji REALLY wants to keep this under wraps. Is it related to that event?)
+
+<end>
+
+<ChatID:21>----------------------------------------
+//妖夢
+
+Youmu0a:So the newspaper reporter was right about there being another shrine maiden.
+
+Sanae0a:What newspaper reporter? Oh, you mean the crow youkai.
+
+Sanae0a:I thought they were also under tight restrictions.
+
+Youmu0a:I don't know your circumstances, but I can still detain you.
+
+Youmu1a:I challenge you to a danmaku battle!
+
+<end>
+
+<ChatID:22>----------------------------------------
+//アリス
+
+Alice0b:A shrine maiden's job is to gather faith... It's not that I don't see your point.
+
+Sanae0g:I'm glad someone understands.
+
+Sanae0c:With a maiden like her, no doubt the shrine is in decline.
+
+Alice0c:Despite what you might be picturing, it's quite lively.
+
+Sanae0g:Huh...
+
+<end>
+
+<ChatID:23>----------------------------------------
+//椛vs.まくら
+
+Makura0c:So you're protecting Sanae, Momiji?
+
+Momiji5a:Protecting? You seem to be under a misunderstanding.
+
+Momiji3c:Having her roam around on her own is inconvenient for the mountain.
+
+Makura0h:Understood. So this is who you were back then.
+
+<end>
+
+<ChatID:24>----------------------------------------
+//椛vs.メーコ
+
+Momiji0a:A sheep youkai, is it?
+
+Meko4a:Yeah, but...
+
+Momiji1a:Wolves eat sheep! It's your misfortune that you ran into me!
+
+Meko0b:Eep! Don't eat me!
+
+<end>
+
+<ChatID:25>----------------------------------------
+//早苗さんvs.まくら
+
+Makura0c:You've just arrived from the Outside World, haven't you?
+
+Sanae0g:How do you—?
+
+Makura1c:When you've lived there long enough, you can tell by the scent.
+
+Makura3c:Human nature is to be transient, wavering in formless anxiety... It's sad, yet at the same so lovely.
+
+Sanae1c:...Must you be so cryptic? I don't have time for this!
+
+<end>
+
+<ChatID:26>----------------------------------------
+//椛vs.椛
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Momiji1a:How dare you take my appearance, scoundrel!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Momiji0a:So that's how you see it. I can't exactly deny it...
+
+Momiji5a:But are you really so confident you can fight us off when you're so outnumbered?
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Momiji1b:Of course I am. Never underestimate a tengu!
+
+</nomove>
+
+<end>
+
+<ChatID:27>----------------------------------------
+//早苗さんvs.早苗さん
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Sanae1a:You're—?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Sanae5c:Uhh, as Nitori would say, I'm basically you from a parallel universe.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Sanae1e:Nitori? What sort of nonsense is this?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Sanae0d:Look, Gensokyo's a crazy place. Learn to get used to it, okay?
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Sanae1e:What...?
+
+</nomove>
+
+<end>
+
+<ChatID:28>----------------------------------------
+//早苗さんvs.椛
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Sanae1a:Tengu! I thought you said you'd let me go!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Momiji2b:Ah, I guess I'm creating a misunderstanding here.
+
+Momiji0a:The way you're talking, though... You actually believed me?
+
+Sanae1e:What choice do I have? Or were you lying?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Momiji6a:(Good grief, it was tough how we doubted each other back then.)
+
+</nomove>
+
+<end>
+
+<ChatID:29>----------------------------------------
+//早苗さんvs.非想天則
+
+Tensoku0a:...
+
+Sanae1d:Huh? A giant robot?! Gensokyo shouldn't have this level of technology!
+
+Sanae2a:Right. This must be a counterfeit animated by magic.
+
+Sanae1a:A fake like that will be blown away by my wind!
+
+<end>

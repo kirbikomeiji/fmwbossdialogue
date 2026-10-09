@@ -1,0 +1,1449 @@
+﻿○メーコ篇第4話「夢見る仔羊
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: 2PP
+ 4: Enemy ally 1
+ 5: Enemy ally 2
+ 6: clear
+ 7: ADVB
+ 8: Meko first battle
+ 9: Mima first battle
+10: lose
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=9,FROM=地底入り口,TO=地底入り口,name=Underworld Entrance,icon=6>
+
+<BG=*bg_talk_Chitei.png,fade=1,color=1,title=*bg_Chitei,bgm=bgm_talk_aoki>
+
+<SE=se_talk_fly02.ogg,wait=1>
+
+Udonge2a:Achoo!
+
+Youmu2b:Would you like to borrow a scarf, Reisen?
+
+Udonge3b:Thanks, Youmu. It's gotten so chilly all of a sudden.
+
+Youmu0a:It seems like there's a wind blowing from the entrance to the Underworld.
+
+Udonge2a:It was so warm from geothermal during the Earth Spirit Incident, but I guess this is how cold it usually is.
+
+Meko0g:...
+
+Youmu0a:...Are you nervous, Mehko?
+
+Meko0b:Ah, uh-huh...
+
+Udonge3b:I get how you feel. That depressing feeling you get from heading somewhere you did something wrong.
+
+Udonge5a:It was the same for me when they took me to the moon.
+
+Meko0g:Yeah...
+
+Udonge4d:Frankly it's incredible you're even willing to come, after that.
+
+Udonge6c:If it were me, I'd call that a hard pass.
+
+Meko0g:...I'm definitely uneasy, but everyone was thinking of me when they suggested it.
+
+Meko4b:You two too, thank you for coming along.
+
+Udonge2b:Stop that, I just happen to be heading to the same place.
+
+Udonge3b:I hope you're not expecting me to smooth things over like Alice did.
+
+Youmu0c:I'm not too confident in that myself...
+
+Youmu4c:But you have my full cooperation when it comes to studying danmaku!
+
+Meko1a:Alright!
+
+Youmu0a:That said, you've been through plenty of danmaku battles by now.
+
+Youmu0d:You must have SOME idea what they're about?
+
+Meko0a:Yeah, the "battle" part at least.
+
+Meko0f:But I still don't really understand what everyone seems to be saying.
+
+Udonge4d:And what's that?
+
+Meko0a:Sanae and Kogasa told me that danmaku can help people get closer.
+
+Meko4d:Alice and Medicine said it can give you confidence.
+
+Meko0a:And according to Yuyuko, it can convey feelings that you can't normally say. So now it's like, what the heck is danmaku, even?
+
+Youmu0a:The meaning of danmaku, huh?
+
+Meko4c:What do you two think? What is a danmaku battle, to you?
+
+Udonge0a:Well, to me I guess it's something like locking in a combat pattern?
+
+Meko0b:Who's in the what now?
+
+Youmu4a:She's saying that to her, it's about optimizing combat techniques and committing them to muscle memory.
+
+Udonge6a:Meanwhile, you always say stuff like "The truth is something you cut to!"
+
+Youmu0c:Yes, that's something important I learned from my teacher.
+
+Youmu1b:Whenever I'm lost, the first thing I'll do is draw my blade and face either myself or my opponent.
+
+Meko4a:...Sounds like you both really put a lot of thought into this.
+
+Meko0a:All this stuff about combat patterns and swords is a bit beyond me though.
+
+Youmu3a:I'm sorry, did I just confuse you more?
+
+Udonge4d:But it's only natural that the meaning of danmaku will vary from person to person, right?
+
+Udonge0a:No need to dwell on it. I think it's fine to do it your own way.
+
+Meko0g:My own way, huh...?
+
+Meko1f:...Thank you. I still don't really have a sense of it, but I'll do my best!
+
+Youmu4c:Good, that's the spirit.
+
+Youmu3a:Because if you don't, we'll fail Lady Yukari's homework...
+
+Meko0b:Oh, right...
+
+Udonge4d:What was it again? Something like "show your true heart through danmaku battle"?
+
+Udonge0a:Well, whatever happens, happens.
+
+Meko0f:I don't know... Showing my heart is kind of...
+
+Udonge0b:...Losing confidence, huh?
+
+Youmu0c:I'm sure you'll be able to do it with just a little more practice.
+
+Udonge0a:So with that in mind, shall we get headed to the Palace of Earth Spirits?
+
+Udonge4b:It's pretty dark up ahead, so keep your eyes on the road.
+
+Meko0a:...
+
+<BG=bg_talk_Chireiden.png,fade=1,color=1,title=bg_Chireiden,bgm=bgm_talk_gag>
+
+Orin4c:*Tail twitching*
+
+Kisume3a:*Badump*
+
+Satori3b:Okay, they're ready. Eat up.
+
+Utsuho3d:Yay! Don't mind if I do!
+
+Koishi6c:Mm, so good! Your rose cookies are the best!
+
+Flan0f:Koishi! That's MY plate!
+
+Parsee3a:...Yeesh, we come all this way to visit, but you'd hardly notice what with how noisy the kids are.
+
+Parsee1a:Say Yuugi, how about we get some quiet "adult time" in while—
+
+Yugi3b:Yo, bring out the booze!
+
+Suika3d:Woo, same here!
+
+Parsee2a:I knew this would happen! I knew it, but!
+
+Satori3c:...
+
+Yamame1b:What's the matter? You're grinning to yourself over there.
+
+Satori3e:Oh, it's nothing. Just that even until recently I could never have imagined this place being so lively.
+
+Orin1e:We've even got guests from above the clouds, it's crazy.
+
+Iku3c:We should be the ones thanking you for your hospitality.
+
+Meiling0c:Do you two often come to the Underworld?
+
+Tenshi0b:Lately Iku's been inviting me a lot for some reason.
+
+Tenshi4a:Unfortunately, I'm getting used to getting dragged around by her.
+
+Iku0c:Aren't you the one who's always so eager to go?
+
+Tenshi6e:Bah! That makes it sound like you can't get enough of seeing me get excited!
+
+Parsee0b:I keep seeing Meiling and Flandre down here lately too.
+
+Meiling0a:Yes, we have Koishi to thank for getting along so well with us.
+
+Meiling5a:The mistress also seem pleased that Lady Flan has made a normal friend.
+
+Yamame1d:So Koishi's "normal" to you...?
+
+Meiling0a:Well, Flan's a bit unique herself.
+
+Koishi0b:Drop by whenever you want! We're always laid back here.
+
+Flan3b:So what are we doing today?
+
+Karasu0a:...
+
+<SE=se_talk_bird01.ogg,wait=1>
+
+Flan0e:Hm?
+
+Tenshi0e:Come to think of it, there are an awful lot of crows flying around today.
+
+Utsuho0e:Oh, those girls are on patrol. I asked them to.
+
+Iku0e:But why? Has some sort of problem arisen?
+
+Parsee0a:I hear someone sketchy has been sneaking into the Underworld lately.
+
+Orin0c:If only they were just sketchy. Rumor has it they've been talking to vengeful spirits.
+
+Tenshi0d:Well, that's no good. If you'd like, I could deign to help out...
+
+<SE=se_talk_walk_indoor04.ogg,wait=1>
+
+Youmu0c:Excuse us!
+
+Suika0a:Oh, that voice...
+
+Udonge3b:Hello there. Um...
+
+Orin1e:Youmu and Reisen, huh? That's a weird pair.
+
+Utsuho3c:So you brought the over-the-counter medicine!
+
+Udonge3b:Er, well, yeah, that too...
+
+Udonge4d:Hmm. Doesn't look like she got here first.
+
+Youmu3a:Yes, it seems so.
+
+Yugi0b:What're you two mumbling about? Something happen?
+
+Youmu0a:The thing is, Reisen was escorting someone here.
+
+Youmu3a:Actually, Mehko was supposed to be with us.
+
+Utsuho4b:Huh? Mehko's coming?
+
+Kisume2c:"Supposed to"?
+
+Yamame1d:What, so you lost her?
+
+Youmu3a:I'm sorry, but... yes.
+
+Satori3d:The Underworld roads can be complicated, so it's no surprise if you're unfamiliar with them.
+
+Satori0a:More importantly, I'm worried about what might happen to her.
+
+Orin3a:I mean, there ARE plenty of dangerous places around here...
+
+Satori0c:Orin, Okuu, could I ask you two to go search for her?
+
+Utsuho1b:Gotcha!
+
+Orin1b:We'll be back before the cookies get cold!
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+Yugi2a:Sheesh, she comes all this way just to get lost?
+
+</single>
+
+Satori0b:Those two know this place like the back of their hands. They'll find her in no time.
+
+Iku0e:That aside, why was she coming here in the first place?
+
+Udonge4b:There are all sort of reasons, but basically to get into a danmaku battle.
+
+Kisume2c:What...?
+
+Youmu3b:It seems Makura has been feeling down recently, and Mehko is worried about her.
+
+Youmu3a:So it was suggested that she get the details out of her with a danmaku battle.
+
+Satori3d:...But Mehko lacks confidence in achieving mutual understanding through danmaku.
+
+Satori0a:And so, she came to the Palace of Earth Spirits to practice.
+
+Youmu0c:Oh good, that saves us from having to explain.
+
+Flan3f:That third eye of yours sure comes in handy!
+
+Koishi6c:Ooh, danmaku! Let's all do it together!
+
+Parsee0a:I mean, I don't mind, but she's sure got guts coming down here.
+
+Parsee3a:Isn't this place, like, traumatic for her?
+
+Udonge0b:It was my master's suggestion. She did seem reluctant at first.
+
+Youmu1b:Even so, she resolved herself to do it. That just goes to show how much she's worried about Makura.
+
+Kisume4b:Not that we'd really care...
+
+Satori0a:...No doubt there's still a dark shadow hanging over her heart.
+
+Satori0c:Having a danmaku battle in that state may be too much for her.
+
+Yamame1b:That's up to her. All we can do is play along or not.
+
+Iku0e:Either way, it would be nice if Utsuho and Rin can find her before she gets in any trouble.
+
+Yugi1g:...Orin, Utsuho, and Mehko, huh? There's some heavy stuff going on between those three. Will this really work out?
+
+<BG=bg_talk_Chitei.png,fade=1,color=1,title=bg_Chitei,bgm=bgm_talk_ningyo>
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+Meko0b:...Ooh, what do I do now? Where did those two go?
+
+Meko0a:I space out for one second, and the next thing I know they're gone...
+
+<SE=se_Letty_snap02.ogg,wait=0>
+
+<Code=(map_shake,1,40,2)>
+
+<Code=(demo_wait,30)>
+
+Meko0b:Eek, a blast of hot wind!
+
+Meko2a:...What now? I never went this way when I came here before!
+
+Meko0b:Don't tell me I'm never gonna find my way out!
+
+Utsuho0e:Ah, there's someone over there!
+
+Meko0b:...!
+
+Utsuho5d:Alright! One Mehko spotted!
+
+Orin4a:Figured you'd wandered down here by accident.
+
+Meko3a:Utsuho, Rin... What are you two doing here?!
+
+Orin0b:What do you mean, what? We were looking for you, duh!
+
+Utsuho0a:Youmu and Reisen told us they lost you on the way.
+
+Meko4c:Huh? So you met Youmu already?
+
+Orin0a:They got to the Palace of Earth Spirit before you. So we came out to pick you up.
+
+Meko2a:I-I'm saved! I had no idea where I was going!
+
+Meko7a:Here, have a sweet potato! I already ate half of it, but you can have it as thanks!
+
+Orin5a:Yeah, uh, let's just say I appreciate the thought.
+
+Utsuho0e:Okay, now let's get back home.
+
+Utsuho3a:Oh, right, what'd you come here for anyway?
+
+Meko0g:Um, how do I start...?
+
+Orin0b:Whatever it is, you can say it while we walk, right?
+
+Meko0f:Ah, yeah...
+
+<SE=se_talk_walk_outdoor02.ogg,wait=0>
+
+Meko0a:...
+
+Orin5b:...
+
+Utsuho6c:...?
+
+Utsuho0a:Why'd everyone get so quiet?
+
+Meko1d:Huh?! Well, that's...
+
+Meko0f:I've never talked to you two like this before, so...
+
+Orin0d:Come to think of it, this is the first time it's been just us three, huh?
+
+Orin0c:You always just hurry along as soon as you see us.
+
+Meko0f:That's because...
+
+<SE=se_Letty_snap02.ogg,wait=0>
+
+<Code=(map_shake,1,40,2)>
+
+<Code=(demo_wait,30)>
+
+Meko0b:Fwah!
+
+Orin3a:More hot wind, huh? Have you been watching the temperature of the kettle, Okuu?
+
+Utsuho3c:Yup! Same as always!
+
+Meko4c:What kettle...?
+
+Utsuho0a:It's my job to manage the temperature of the Remnants of Blazing Hell.
+
+Meko4c:So nuclear fusion can do that too?
+
+Utsuho0a:Nah, it's got nothing to do with the great Yatagarasu.
+
+Utsuho3c:I just open and close the lid until it's just right.
+
+Meko3a:What? That's it?
+
+Orin0a:Okuu's been handling that this whole time.
+
+Orin4b:Miss Satori's the one who decided that.
+
+Utsuho3d:And I still love this job!
+
+Meko0g:Still, huh...?
+
+Meko0a:...You're strong, Utsuho. You got this new power, but didn't let it get to you.
+
+Meko0f:And Rin too, for supporting her. If only I could be strong too...
+
+Orin1d:Why? Having trouble with something?
+
+Meko0b:Ah, sorry! That was a little shameless of me, wasn't it?
+
+Utsuho6c:Unyu?
+
+Meko2a:I know I shouldn't be saying stuff like this!
+
+Meko0f:But when I'm talking to you two normally like this, it's like I get this weird feeling...
+
+Orin5b:...? Yeah, talk about making this weird.
+
+Orin4a:Don't tell me you're still hung up on that time you acted up down here?
+
+Meko1f:But I—
+
+Utsuho0c:Hm? Did she do something?
+
+Orin7b:Hey, you of all people shouldn't forget! You know, when the power of Yatagarasu went berserk!
+
+Utsuho3c:Ohh, that. I guess it was kinda scary, but it doesn't bother me anymore.
+
+Meko3b:It doesn't bother you...?
+
+Utsuho0a:We already talked a lot when we fought in the Dreamscape.
+
+Utsuho6a:It was real hard for you girls too. I kinda get it now.
+
+Orin0b:Well, I WAS thinking about giving you the tour of Hell, but...
+
+Meko5a:Eep!
+
+Orin6a:Like I said before, if Okuu's forgiven you, then I'm sure as heck not gonna rehash this whole thing again.
+
+Meko0g:Utsuho... Rin...
+
+Meko0f:I'd glad that's how you feel, but...
+
+Orin0d:Sounds like you're not convinced.
+
+Meko2a:I'm so sorry! But as long as I haven't made it up to you...
+
+Meko0g:...The thing is, I don't know how.
+
+Orin1d:Make it up to us, huh.
+
+Meko0f:So...
+
+Utsuho0c:...
+
+Utsuho0a:More importantly, what do YOU wanna do?
+
+Meko4c:Huh? Me?
+
+Utsuho3c:Yeah, you. Forget making it up to us, what do you wanna do in Gensokyo?
+
+Meko0f:Um, I...
+
+Meko0b:B-But I can't! As long as I still can't do anything, I have no right to...
+
+Utsuho2c:But that's...
+
+<SE=se_hit_bullet_L03.ogg,wait=0>
+
+<Code=(map_shake,1,40,2)>
+
+<Code=(demo_wait,30)>
+
+Meko3a:Wawa?!
+
+Orin1f:What's this shaking?!
+
+Utsuho0e:It's the sound of danmaku. Is something happening up ahead?
+
+Utsuho1c:Sorry Mehko, let's talk later!
+
+Meko0b:O-Okay! Let's go check it out for now!
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP（出撃前）
+
+<nomove>
+
+<Code=(cursor_jump,128,448,1)>
+
+Meko1a:The sound came from this way!
+
+Utsuho4b:Yeah, there's something over there...
+
+</nomove>
+
+Onryo0a:...
+
+<nomove>
+
+<Code=(cursor_jump,128,448,1)>
+
+Meko0a:Are those vengeful spirits...?
+
+Orin3a:So they're the ones making a racket. What a pain.
+
+Orin1b:Hey, you! Get it together!
+
+</nomove>
+
+Onryo0a:...
+
+<nomove>
+
+<Code=(cursor_jump,128,448,1)>
+
+Orin0d:...Huh? Can't they hear me?
+
+Utsuho0e:That's weird. They always listen to your orders.
+
+</nomove>
+
+Satori2b:Orin, Okuu, so this is where you were.
+
+Youmu4d:Looks like you found Mehko too!
+
+<nomove>
+
+<Code=(cursor_jump,128,448,1)>
+
+Meko4b:Oh, everyone's coming for us!
+
+</nomove>
+
+Udonge0a:One of the patrol crows reported some vengeful spirits acting up.
+
+Koishi2b:They're being naughty. You gotta tell 'em who's boss, Orin.
+
+<nomove>
+
+<Code=(cursor_jump,128,448,1)>
+
+Orin5a:Yeah, about that. It's weird, but they're not listening to me.
+
+</nomove>
+
+Flan0e:What the heck, are they rampaging?
+
+Parsee1b:Satori, what are the spirits thinking?
+
+Satori3f:Hold on, let me read their minds. Hmm...
+
+Satori3d:...It seems they're under the control of some sort of spell.
+
+Tenshi1e:What the—
+
+Kisume2c:You mean like, brainwashing?
+
+Satori3d:It's controlling their movements, so if anything I'd say it's closer to a shiki.
+
+Yugi1c:Don't they know the Palace is in charge of managing them? You can't just do that!
+
+Iku1c:Could it be the work of that intruder we've been hearing about?
+
+Meiling1d:Well, the only person we know who'd do something like that is...
+
+<nomove>
+
+<Code=(cursor_jump,368,240,1)>
+
+<hide=all>
+
+Mima0e:Oh, hey girls, what's up?
+
+</nomove>
+
+<pause>
+
+</hide>
+
+Mima0c:Guess you noticed I've been making those guys go crazy?
+
+Kisume2b:Wha? Mima?!
+
+Youmu2b:What is the meaning of this? Don't tell me you did this...?
+
+Mima0a:Sure did. Figured I'd stick a shiki in them to make them my familiars.
+
+Mima2b:But for whatever reason, they didn't listen at all and just started acting up.
+
+<nomove>
+
+<Code=(cursor_jump,128,448,1)>
+
+Meko0a:So they're not listening to you either...?
+
+Orin1f:What were you thinking, doing that to these problem children?
+
+</nomove>
+
+Yamame0d:In the off chance they do go fully berserk, this could even become an incident.
+
+Mima0d:An incident, huh? That doesn't sound so bad.
+
+Mima0a:Changing vengeful spirits into evil spirits... we could call it the Evil Spirit Incident.
+
+Udonge3a:Wait, are you kidding me...?!
+
+Meiling0c:...Oh right, didn't we hear once that Mima was an evil spirit haunting the Hakurei Shrine?
+
+Kisume2c:Then is this her true nature...?
+
+Mima0c:You telling me you let your guards down just 'cause I helped out a little?
+
+Mima1a:I'm evil! Curses and misdeeds are my bread and butter!
+
+Yugi3e:Hahaha! Totally shameless! Just the way I like it!
+
+Parsee2a:You think this is funny? Who knows what she'll do if we let her get away!
+
+Satori0b:I suppose we have no choice but to stop her by force.
+
+Satori0c:I ask that everyone here cooperate.
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP（出撃後）
+
+Mima0c:Oh, you're gonna get in my way?
+
+Tenshi2e:Like we'd ever let someone who wants to start an incident run wild!
+
+Yamame4a:I mean, I agree, but you're the last person I want to hear that from.
+
+Meko4c:...Why do I end up dragged into something like this every single time?
+
+Udonge0a:Who knows, but at least it helps your goal of practicing danmaku!
+
+Meko1c:Alright!
+
+<Code=(icon_set_direction,Utsuho,Meko,0)>
+
+Utsuho0e:Unyu? You came here to do danmaku?
+
+Meko0a:Yeah. It's kinda a long story, but—
+
+Orin1d:Then save it for later. We don't have time to chat around an opponent like her.
+
+Satori0e:Orin, Okuu, stay with Mehko over there.
+
+Satori0e:Also, we're in the Underworld so we'll restrict your power, Okuu.
+
+<Code=(icon_set_direction,Utsuho,FD_RIGHT,0)>
+
+Utsuho3d:Kaaay!
+
+Flan0a:Then let's get this game started already.
+
+Koishi6c:Time for this spirit to take a dip in Bloodpool Hell!
+
+<Code=(icon_set_direction,Mima_en,FD_RIGHT,0)>
+
+Mima3d:Heh, you've got guts, I'll give you that.
+
+Mima1a:Bring it on! I'll beat you girls and take the vengeful spirits!
+
+<end>
+
+<ChatID:3>---------------------------------------
+//2PP
+
+Meko3a:Wawa, more vengeful spirits showed up!
+
+Orin3a:It's more of a pain than dangerous, but it's still a pain.
+
+<Code=(icon_set_direction,Mima_en,Meko,0)>
+
+Mima0c:Oh dear, they aren't following my orders...
+
+Mima0d:Oh well, that's fine.
+
+Parsee0d:No, it's really not.
+
+Meiling1a:Hang in there, everyone!
+
+<end>
+
+<ChatID:4>---------------------------------------
+//怨霊が○体以下、または魅魔のHPが50％以下
+
+Flan1a:Were those the only toys she was hiding?
+
+Youmu1a:No, I feel a presence!
+
+<Code=(icon_set_direction,All,Meko,0)>
+
+<Code=(icon_set_direction,Meko,FD_RIGHT,0)>
+
+<pause>
+
+Meko0b:...!
+
+Udonge2b:More back-up spirits! They keep coming!
+
+Yugi1c:I've had enough of this teasing, can't you just send 'em all at once?
+
+<Code=(icon_set_direction,Mima_en,Meko,0)>
+
+Mima0b:Mm, it's not like I'm calling them in or anything.
+
+Mima0c:Aren't they just hiding in the geysers or whatever?
+
+Orin1f:You know an awful lot about the terrain here.
+
+Meko0g:(...What's going on? It feels like the spirits have been coming after ME.)
+
+Utsuho0e:Something wrong, Mehko?
+
+<Code=(icon_set_direction,Meko,Utsuho,0)>
+
+Meko3a:Uh-uh, it's nothing.
+
+Satori0c:There may be more reinforcements. Stay focused, everyone.
+
+<end>
+
+<ChatID:5>---------------------------------------
+//怨霊が○体以下、または魅魔のHPが50％以下
+
+Kisume4b:Phew... I think that's all the ones that were hiding.
+
+Yamame0c:No, not yet!
+
+<Code=(icon_set_direction,All,Meko,0)>
+
+<pause>
+
+Meko0b:More are popping out!
+
+Tenshi0d:Wait, and right next to Mehko again?
+
+Yugi1b:It's not like there's a nest there. That's way too much to be a coincidence.
+
+<Code=(icon_set_direction,Flan,Mima_en,0)>
+
+<Code=(icon_set_direction,Koishi,Mima_en,0)>
+
+Koishi2b:Maybe Mima just likes bullying Mehko?
+
+<Code=(icon_set_direction,Meko,Mima_en,0)>
+
+Meko1d:Huh? Really?!
+
+Flan1c:Hey, you, what are you up to?
+
+Mima2b:Like I've been saying, it's not me. They're doing it on their own.
+
+Iku0e:Do vengeful spirits ever target particular people?
+
+Meko0b:And if they're after the smell, about the only food I'm carrying is sweet potatoes.
+
+Onryo0a:...
+
+Satori0b:...
+
+Satori0a:I see. It seems they're being drawn in by the gap in her heart.
+
+Udonge4a:What does THAT mean?
+
+Satori0b:I can see that Mehko has a strong sense of guilt right now.
+
+Satori0c:No doubt the spirits intend to use that as an opening to possess her.
+
+Youmu0b:And the guilt comes from...
+
+<Code=(icon_set_direction,Meko,Satori,0)>
+
+<Code=(icon_set_direction,Meko,Koishi,0)>
+
+Satori0b:...She scar she left on the Underworld. Even now, it casts a shadow on her heart.
+
+Meko0b:I...
+
+Utsuho0c:...
+
+Parsee3a:I mean, if she WEREN'T feeling guilty I'd be wondering what the hell was wrong with her.
+
+Iku4a:That said, none of us blame her for it.
+
+Tenshi4b:Sometimes, just knowing that isn't enough though.
+
+Koishi5a:...Were you actually scared to come to the Palace, Mehko?
+
+Meko0g:Uh-huh. Of both coming underground, and of meeting Utsuho...
+
+Utsuho2d:Mehko...
+
+Meko0f:...But I've gotta do everything I can if I'm gonna help Lady Makura.
+
+Meko1e:So that's why I...
+
+Yamame1b:You've sure got guts when it comes to your master, huh?
+
+Yamame3c:But how about we save the rest of this burning passion for after we beat the bad guys?
+
+Orin5d:Fine by me!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//魅魔を撃破
+
+<Code=(icon_set_direction,All,Mima_en,0)>
+
+Mima0e:Hmph, not half-bad!
+
+Yugi3b:And that's our win!
+
+Parsee1b:Do you even realize how much of a mess you made down here? If you've learned your lesson, then scram already.
+
+Mima2b:Not a fan, huh? And that's one more place I'm banned from.
+
+Orin0a:As if that'd stop you.
+
+Mima2a:Either way, I'm all out of mana. Better lay low for a while.
+
+Satori0c:Before that, we'll need to take you back to the Palace so you can clearly explain what exactly—
+
+<pause>
+
+<Code=(icon_set_direction,All,FD_LEFT,0)>
+
+<Code=(icon_set_direction,All_en,FD_LEFT,0)>
+
+Youmu1a:...!
+
+Kisume2b:Wha? Even more?!
+
+Udonge4a:And when Mima's running on fumes too. She really wasn't summoning them?
+
+Mima2b:Yeah, like I've been saying. Show a little faith.
+
+Iku1c:Somehow I doubt this is the time to be arguing about that...
+
+Onryo0a:...
+
+<pause>
+
+Meko0b:...!
+
+Youmu1a:As we suspected, they're targeting Mehko!
+
+Kisume2b:Mehko, run!
+
+Meko0b:Hawawawa!
+
+<Code=(icon_set_direction,Utsuho,Meko,0)>
+
+Utsuho4b:Oh no you don't!
+
+<pause>
+
+<Code=(icon_set_direction,All,Utsuho,0)>
+
+Orin1f:...!
+
+Meko0b:Utsuho!
+
+<Code=(icon_set_direction,Utsuho,Meko,0)>
+
+Utsuho5e:And perfect temperature control! Are you hurt?
+
+Meko0b:I-I'm fine, but... You saved me.
+
+Utsuho0e:Why wouldn't I? And there are still more, so watch out.
+
+Yugi1c:Mehko, you help too!
+
+<Code=(icon_set_direction,Meko,FD_RIGHT,0)>
+
+Meko0b:Hold on, there are too many!
+
+<pause>
+
+Meko1e:...!
+
+Utsuho1f:This is nothing!
+
+<Code=(icon_set_direction,Meko,FD_LEFT,0)>
+
+<pause>
+
+Utsuho2b:Ow ow ow, that stings!
+
+Meko0b:Are you okay?! You got hurt protecting me...
+
+<Code=(icon_set_direction,Utsuho,Meko,0)>
+
+Utsuho0e:I'm fine, but there are still more.
+
+Orin1b:Leave 'em to me!
+
+<pause>
+
+Meko0b:Rin!
+
+Orin4a:Loved by vengeful spirits, huh? You sure drew the short straw.
+
+Orin0a:Guess that gap in your heart looks mighty tasty.
+
+Meko0g:My heart...
+
+Meko1f:Right, it's all my fault, right? So why are you helping me?!
+
+<Code=(icon_set_direction,All,Meko,0)>
+
+Youmu2a:Mehko?
+
+Meko3b:Not just today, either. All this time!
+
+Meko5d:I did something terrible to you, Utsuho! To all of you! But you just treat me like it's nothing...
+
+Meko2a:...I was so afraid of coming to the Underworld because I could never make it up to you!
+
+Udonge5b:Mehko...
+
+Orin0d:...Geez, you're still hung up on that?
+
+Orin0a:Do you really need to "make up for it" at this point? No one's expecting you to either.
+
+Meko6b:But it's not right!
+
+Meko6a:If I'm gonna atone like everyone says, I need to do SOMETHING. I...
+
+Meko5d:Just tell me! I'll do anything!
+
+Kisume4a:You feel that guilty...?
+
+Meiling3a:...Even if we forgave her, it doesn't mean much if she doesn't accept it herself.
+
+Yugi1d:Then let's settle this once and for all.
+
+Parsee3a:Yuugi?
+
+Yugi1g:She'll listen to anything we say, right? Then just tell her what we want.
+
+Yugi3b:Right, Utsuho?
+
+Utsuho3c:Yeah! There's just one thing we wanna ask...
+
+Utsuho4c:Tell us what you wanna do here in Gensokyo!
+
+Meko4c:Huh?
+
+Koishi0a:Yup! Like, what are you dreams for the future, or hopes?
+
+Flan3f:Don't hold back now, be as selfish as you want!
+
+Meko0g:No, I...
+
+Meko6a:I can't... I'm sure it'll just make you all feel bad.
+
+Iku0e:How will we know that if you don't tell us?
+
+Tenshi5b:Hey, stop fidgeting like that! You're making us look like the bad guys.
+
+Orin6a:If you really want to make it up to us, you have to tell us.
+
+Meko0g:But...
+
+Utsuho4b:I'm gonna ask again: what do you want to do, Mehko?
+
+Utsuho3c:Let us hear what your dream is!
+
+Meko0g:My dream...
+
+Meko1e:I... I!
+
+<pause>
+
+Youmu1a:...!
+
+Udonge2b:Her wavelength just changed!
+
+<pause>
+
+Meko1f:I... I want to live with Lady Makura and get along with her!
+
+Meko3b:But actually, that's not all...
+
+Meko1d:I want to get along with everyone in Gensokyo too!
+
+Kisume3a:Mehko...
+
+Meko0g:...After everything I've done, I thought that was too shameless of me.
+
+Meko1a:But if wanting is okay, then that's what I want!
+
+Meko3a:I want to chat with you, hang out with you! Joke around and eat with you!
+
+Meko2c:I don't wanna watch from the sidelines, I wanna be friends with you all!
+
+Meko6b:I wanna be a part of Gensokyo!
+
+Youmu0c:Mehko!
+
+Yugi3b:See, that wasn't so hard, was it?
+
+Parsee2a:All that fuss, and that's it? THAT'S what you were worried about?
+
+Suika6a:I figured we'd already called it even after we shared a drink together.
+
+Meiling5b:But still, she got across her feelings without a hitch!
+
+Iku0a:Whatever else, everyone here supports you, Mehko.
+
+Meko0h:Everyone!
+
+<pause>
+
+<Code=(icon_set_direction,Meko,FD_RIGHT,0)>
+
+Udonge1b:Hold, there even more showing up?!
+
+Satori0b:Mehko's doubts have vanished. This is likely the final wave.
+
+Mima0d:Perfect timing too. You take care of them, Mehko.
+
+Meko1b:Me...?
+
+Mima3b:Go prove that that gap in your heart they're after doesn't exist anymore.
+
+Tenshi3a:Ride the wave of that breakthrough you made and show 'em who's boss!
+
+Orin0a:That's how you turn your danmaku...
+
+Utsuho3d:Into a spellcard!
+
+Meko1a:...!
+
+<end>
+
+<ChatID:7>---------------------------------------
+//ADVB
+
+<BG=bg_talk_Chitei.png,fade=1,color=1,title=bg_Chitei,bgm=bgm_talk_hiroshige>
+
+Meko4d:*huff* *huff*
+
+Orin1e:Good work. Looks like that's all of them.
+
+Utsuho3c:You must have scared the rest of them off.
+
+Meko0g:Whew... thank goodness.
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+Yugi3a:Whoa, not bad at all!
+
+Meiling0a:That last danmaku there was a sight to see.
+
+Meko4c:Everyone!
+
+Udonge6a:A little impressive, sure. See? You can do it if you try.
+
+Youmu4b:Of all the ones we've seen so far, that had by far the most of yourself put into it.
+
+Meko0h:Thank you... Everyone was cheering me on, so I just unconsciously...
+
+Tenshi3b:That passionate speech from before too, you're really becoming an old hand at this.
+
+Meko0b:Wait, speech? What speech?
+
+Flan3b:Oh, you know. The whole "I want to be friends with you all" thing.
+
+Koishi0b:To joke around and eat with too!
+
+Meko3a:Ah— I, I was just confused, and it sort of slipped out!
+
+Parsee0b:A bit late to be backtracking now, after shouting it to the heavens.
+
+Yamame1b:I thought it was pretty nice, being honest about wanting to get along like that.
+
+Suika0a:You were never the type to worry about the complicated stuff anyway.
+
+Meko0h:Ooh, I'm so embarrassed...
+
+Kisume0a:But you spoke from the heart, right?
+
+Meko0a:...Yeah. I really do wanna be friends with everyone, and a part of Gensokyo.
+
+Meko0g:That's separate from wanting to be with Lady Makura. It's another dream...
+
+Iku3c:Personally, I think it's lovely.
+
+Meiling0a:Who would feel bad about being told something like that?
+
+Meko0h:Really? I'm not being a pain?
+
+Utsuho3d:The opposite! I'd love to be your friend!
+
+Orin6a:Not that we'd have minded in the first place.
+
+Satori3a:It seems that your guilt has prevented you from taking the first step until now.
+
+Satori3c:But it would be easier for us too, if from here on out you treated us normally. Just be yourself.
+
+Meko0h:Thank you... In the end, I still can't pay you back...
+
+Meko4a:But I'll keep thinking about what I can do, little by little.
+
+Yugi0a:Good for you.
+
+Parsee3a:Either way, we still need to deal with this Makura problem first.
+
+Parsee0a:Given what we saw just now, at least we won't have to worry about the danmaku side of things.
+
+Meko0f:Are you sure? I still don't really get it...
+
+Udonge0a:Sure we're sure. You're a full-fledged danmaku warrior now.
+
+Youmu0c:Speaking of which, that technique gave off a somewhat different impression than before.
+
+Youmu4c:We could tell just from the danmaku how honest with yourself you are.
+
+Meko4a:My honest feelings, huh...
+
+Mima0a:Even the exact same spell can change its nature based on what you put into it.
+
+Mima0d:And that danmaku you did really seems to represent you yourself.
+
+Suika3d:Yup yup, like a mirror image.
+
+Meko1a:Danmaku's like a mirror...?
+
+Meko0b:Wait, that's it!
+
+Tenshi1d:What the heck? Don't just start shouting!
+
+Meko1e:It's like what you told me after we fought in the Dreamscape.
+
+Meko0a:That danmaku's a piece of yourself, a barrier that forms us...
+
+Meko4e:It went completely over my head back then, but now it makes sense.
+
+Yamame0d:Oh? Really?
+
+Meko1a:...Danmaku isn't a way to fight. It's a way to give shape to what you're feeling.
+
+Meko0a:So just like our selves, danmaku varies from person to person...
+
+Meko4a:And we should treasure it, just like ourselves!
+
+Koishi0b:See, you came up with your own answer!
+
+Udonge0a:Sounds like there's nothing to worry about then. You'll be fine inviting Makura to a danmaku battle.
+
+Youmu0d:All that's left is to head back and put it into practice!
+
+Meko1e:Alright!
+
+Flan3h:So, what's the plan? Attack her as she wakes up? Take her head in her sleep?
+
+Meko2a:Nothing that violent, obviously!
+
+Meko0f:Still, that's a good point. How do I do this? She doesn't exactly head out much...
+
+Suika3c:Then how about we hold a party, and you drag her along?
+
+Yugi3e:Nothing beats a good brawl to liven up a party! Should be simple enough to get one going.
+
+Meko1f:Oh, of course!
+
+Youmu0c:Then it's settled. We'll need to work out the details though.
+
+Parsee0c:Somehow I don't think putting on a clumsy act while everyone's drunk would turn out well.
+
+Parsee0a:If only we knew someone good at starting trouble for no reason. If only...
+
+Iku4a:For no reason, is it?
+
+Kisume4a:...
+
+Tenshi6f:Why's everyone looking at me? I can't be the only one, can I?!
+
+Yamame1d:I mean, sure, we could do that, but I'd be worried about things getting out of hand.
+
+Meko0a:Yeah... I'll try talking to Sanae or Alice first, just in case.
+
+Meko0h:Um... It'd be nice if everyone came, too.
+
+Utsuho3c:Sure, just let us know when!
+
+Satori0c:In that case, I'll be brewing more tea, so if we don't mind...
+
+Youmu4c:Ah, sorry, but I've got work to do. I appreciate the thought though.
+
+Udonge4b:I should be heading back too. Are you coming, Mehko?
+
+Meko0f:Yeah, I'd probably get lost again on my own...
+
+Orin4a:Eh, you'll get plenty of chances to come down here again. You'll learn the way eventually.
+
+Meko4b:Okay, then see you all later.
+
+Koishi1a:Bye bye!
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+<single>
+
+Meko0a:(...With everyone's help, I could finally say what I really felt.)
+
+Meko4c:(I'm sure I can convey what's in my heart through danmaku now.)
+
+Meko1e:(Just wait, Lady Makura! I'll help you get over this for sure!)
+
+</single>
+
+<end>
+
+<ChatID:8>---------------------------------------
+//初戦闘：メーコ
+
+Meko0g:(...Seems like I made Rin and the others worry.)
+
+Meko0a:(But even if Utsuho asks me what I want to do...)
+
+Udonge1c:Hey! Eyes forward, Mehko!
+
+Orin1f:Keep slacking off like that and we won't be able to support you!
+
+Meko0b:Wah! I'm sorry!
+
+Meko1f:(...I can't space out here. For now, I have to deal with these spirits!)
+
+Satori0c:...
+
+<end>
+
+<ChatID:9>---------------------------------------
+//初戦闘：魅魔
+
+<Code=(icon_set_direction,All,Mima_en,0)>
+
+Kisume4a:I can't believe you're manipulating those dangerous spirits.
+
+Yamame0d:One small slip-up and this could get serious.
+
+Mima0d:That does sound like what a villain would do, yes. Your point?
+
+Mima0a:Once I beat you girls and make all these vengeful spirits my underlings...
+
+Mima1e:I'll be the queen of evil spirits!
+
+Parsee2a:That's the stupidest thing I've ever heard! Whatever, we're stopping you!
+
+<end>
+
+<ChatID:10>---------------------------------------
+//敗北時
+
+<Cond=(LOCAL_LIST_INDEX,ObjControl,beaten_id,Meko,!=,-1)>
+
+Youmu2b:Oh no, Mehko!
+
+</Cond>
+
+<Cond=(LOCAL_LIST_INDEX,ObjControl,beaten_id,Utsuho,!=,-1)>
+
+Meko3a:Ah! Utsuho!
+
+</Cond>
+
+<Cond=(LOCAL_LIST_INDEX,ObjControl,beaten_id,Orin,!=,-1)>
+
+Meko3a:Ahh, Rin!
+
+</Cond>
+
+Mima1f:Your morale is crushed. This battle is mine.
+
+Mima1e:Why should I settle for queen of evil spirits? I'll be the queen of ALL spirits!
+
+<end>
+
+<ChatID:11>---------------------------------------
+//初戦闘：お燐、空
+
+Orin0b:This lady is such a pain. Controlling vengeful spirits?
+
+<Code=(icon_set_direction,Orin,Utsuho,0)>
+
+Orin1f:Okuu, put some firepower into this.
+
+<Code=(icon_set_direction,Utsuho,Orin,0)>
+
+Utsuho0e:...Eh? What?!
+
+Orin3a:...Yeesh, you're worried about Mehko, aren't you?
+
+Orin1e:But I don't mind you wanting to do this right. Let's talk to her again once we deal with these.
+
+Utsuho0b:Um... yeah!
+
+<end>
+
+<ChatID:12>---------------------------------------
+//初戦闘：妖夢、鈴仙
+
+Youmu3a:We're doing well over here, but on Mehko's side...
+
+Udonge4b:Worrying about others first again, huh? You really are the straightlaced type.
+
+Youmu0a:You've been glancing over there too, Reisen.
+
+Udonge6c:My master told me to guide her, so who knows what she'd say to me if I brought her back hurt?
+
+Udonge1a:Anyway, let's break through like usual. Counting on you!
+
+Youmu0d:Yes, same here!
+
+<end>
+
+<ChatID:13>---------------------------------------
+//初戦闘：フラン、こいし
+
+Flan0b:So today we're playing ghost busting?
+
+Koishi0a:No no no, Flan.
+
+Flan0f:We're not?
+
+Koishi6c:Less busting, more blowing them up. Or burning them alive. Isn't that what you're good at?
+
+Flan1a:That just makes it too easy. How about beating them to death?
+
+Koishi1a:I'll go get a steel pipe or something then!
+
+Tenshi0c:...Those two get along in a weird, weird way.
+
+Satori0a:I'm so happy that Koishi's finally made a normal friend.
+
+Meiling3d:What part of that is normal...?
+
+<end>
+
+<ChatID:14>---------------------------------------
+//初戦闘：さとり、美鈴
+
+Satori0a:A pleasure to work with you, Meiling.
+
+Meiling0d:Ah, yes, of course, but...
+
+Satori0b:...You needn't worry about me not pairing up with Koishi.
+
+Satori0a:I want her to deepen her friendship with Flandre, after all.
+
+Meiling0a:Because even if you're separated, you won't lose sight of her anymore?
+
+Satori3e:Exactly. So did you read my mind just now?
+
+Meiling0d:It's a lot of fun talking to you, Satori. But we should really get out there too!
+
+<end>
+
+<ChatID:15>---------------------------------------
+//初戦闘：ヤマメ、キスメ
+
+Yamame0c:I know this is the Underworld and all, but how in hell are there so many of these things crawling out of the woodwork?
+
+Kisume3c:You say that, but you look like you're having fun to me.
+
+Yamame0a:Hey, this wouldn't be home without a little lawlessness.
+
+Yamame0e:So might as well entertain our guests!
+
+Kisume1a:Okay, you got it, Yamame!
+
+<end>
+
+<ChatID:16>---------------------------------------
+//初戦闘：天子、衣玖
+
+Tenshi0d:We came all this way and then this has to happen.
+
+Iku0a:Well, fights start everyday on the streets of Old Hell.
+
+Tenshi0c:...
+
+Iku0c:What is it?
+
+Tenshi0e:I'm fine with drinking in the Underworld, but it's dangerous down here, so do this properly.
+
+Iku1a:Are you asking me to protect you, if it comes down to it?
+
+Tenshi0e:Don't be ridiculous! Protecting YOU is my good deed of the day.
+
+Iku3c:Teehee, much obliged.
+
+<end>
+
+<ChatID:17>---------------------------------------
+//初戦闘：勇儀、パルスィ
+
+Yugi0a:Conquering the vengeful spirits, huh? She really thought this out.
+
+Parsee0a:Like hell she did! She's just doing whatever she wants!
+
+Yugi3a:But when it comes to that, aren't you the best there is?
+
+Parsee3a:Wha—
+
+Parsee0d:I-It's not like I'm happy to hear you call me the best.
+
+Yugi2a:Who said you were?
+
+Yugi3b:Well, whatever. Haven't had a chance to run wild lately! Counting on you, partner!
+
+Parsee0c:Yeah. You said I'm the best, so there's no way I'm handing that over!
+
+<end>
+
+<ChatID:18>---------------------------------------
+//初戦闘：萃香
+
+Suika1a:Woo! Now this is my kind of party!
+
+Suika6a:Brings me back. When was that again? Something like...
+
+Suika6a:Yeah, when was that...?
+
+Suika6a:...
+
+Suika1a:Huh? What was I talking about? Whatever, it's drinking time!
+
+<end>

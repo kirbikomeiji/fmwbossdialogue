@@ -1,0 +1,1398 @@
+﻿○共通第三十話「雲の上の桜花結界（前編）
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: spell 1
+ 3: Sanyosei combine
+ 4: spell 2
+ 5: Three Faries
+ 6: clear
+ 7-15: vs. Lunasa
+16-26: vs. Merlin
+27-34: vs. Lyrica
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<BG=bg_talk_Black.png,fade=0,color=1,title=*bg_Unknown>
+
+<Code=(transition_out,c_white,15,0)>
+
+<BG=bg_talk_Unkai.png,fade=0,color=0,title=bg_Unkai,bgm=bgm_talk_aoki>
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Daiyosei2a:Wow, the sun's so bright...
+
+Rumia3a:Ooh, is this what it's like above the clouds?
+
+Keine0a:How long has it been since we've seen the sun directly? It's like a different world up here.
+
+Sanae0a:I thought it would be colder above the clouds, but it's surprisingly warm.
+
+LilyW00a:Maybe that's because we're getting closer to the stolen spring?
+
+Sho0b:If only we could find spring with Nazrin's power...
+
+Reimu0e:So what's your power then?
+
+Nazrin3b:It's called dowsing. Finding stuff is my specialty.
+
+Nazrin0a:Wrong kind of spring, though―it doesn't seem to work on abstract stuff like that.
+
+Nazrin0b:...Oho? Now what's this?
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Koakuma0a:Wow, it's so bright out...
+
+Sunny5a:Look, the sun! This is my time to shine!
+
+Alice0d:How long has it been since we've been bathed in sunlight? It's like a different world up here.
+
+Sakuya5b:Even though we're up above the clouds, it's so blessedly warm that it brings a tear to my eye.
+
+Sakuya0a:Could that be because we're getting closer to the stolen spring?
+
+Marisa0a:Maybe, but we need to get to the Netherworld to be sure.
+
+Marisa0a:Komachi said it should be a straight line from here, but I don't see―
+
+Marisa0b:Wait a sec...
+
+Luna0b:What is it, Marisa?
+
+Marisa0b:Oh, looks like Reimu's group beat us here. They've got some new faces with them though.
+
+</Cond>
+
+Marisa6b:Heey! Over heeere!
+
+Keine0a:That voice...
+
+Momiji4b:Well if it isn't Nitori's group! I guess we're regrouping here then.
+
+Nitori1a:Yup. I'm glad you're all okay!
+
+Meiling0a:So what happened on your end? You've got some unfamiliar faces mixed in with you...
+
+Reimu4a:We just met them on the way and they stuck around. Their names are, uh...
+
+LilyW00a:I'm Lily White. It's nice to meet you.
+
+Shizuha0a:She's the fairy of spring. We found her out wandering around in the snow.
+
+Minoriko0a:Apparently she was looking for spring, but couldn't find it.
+
+Sunny3a:Wait, do you mean THE Lily White?!
+
+Luna4a:Huh? Why are you freaking out?
+
+Sunny4a:You know, Lily White, the Herald of Spring! That fairy who goes mad with power every spring?
+
+Sunny3a:She seems kinda down in the dumps, though. What happened to her?
+
+Hina4a:It's because spring has been stolen. It's quite sad, really. 
+
+Sakuya5b:Wait, I've seen that mouse youkai somewhere before...
+
+Nazrin4a:So it's the maid. I'd never forget that get-up of yours.
+
+Meiling0a:You know her, Sakuya?
+
+Sakuya0a:We met briefly at Kourindou. Are Reimu and Sanae really okay with her being here?
+
+Sanae4a:Yes. Since resolving this incident takes priority, we ended up cooperating with her for now.
+
+Reimu0g:Her master seems really into it, so I doubt she'll try anything funny.
+
+Patchouli0b:And by "master", you're referring to...
+
+Sho3c:I am Shou Toramaru. Nazrin is my subordinate.
+
+Nitori0a:Wow, so you just randomly ran into them and offered to help out? You're really nice people.
+
+Marisa0a:You look like a pretty strait-laced person, so I'm gonna guess you're here to... Help the human village or something?
+
+Sho4a:No, I'm actually here for... Hmm, well... How should I put this....
+
+Elliy4b:Somehow I doubt we'll get a clear answer out of her.
+
+Sakuya6a:If you're going to get called someone's master, you might want to be a little more assertive.
+
+Nazrin6a:Please excuse her, she's been an indoors type for so long that she's not used to talking to people anymore.
+
+Nazrin3a:Well, that's enough about us, let's get back to investigating.
+
+Kurumi4b:Now it sounds like a secret, so I wanna know even more!
+
+Letty0a:Anyway, your group was supposed to be chasing this "Youmu", correct?
+
+Minoriko3b:I was sure you'd come back dragging her by the collar. I guess your efforts didn't bear much fruit?
+
+Meiling3a:Umm, actually we lost her trail almost immediately.
+
+Elliy0a:And then a bunch of other stuff happened, and, uh, one thing led to another, and now we're here!
+
+Reimu0g:That's a pretty pathetic outcome given how determined you were when we split up.
+
+Marisa0b:It wasn't a complete loss. We got to visit somewhere pretty wild.
+
+Momiji0a:Really? And where would that be?
+
+Alice0a:It was a spur-of-the-moment trip, totally unplanned, that took us to somewhere called the Underworld.
+
+Aya2a:What?!
+
+Keine1a:You went to the Underworld?! All of you?!
+
+Sakuya0a:Yes. We just happened to stumble across a cave that turned out to be the entrance.
+
+Sakuya0a:It was quite the trip. We got to see a giant cavern and some rare youkai.
+
+Aya2a:It wasn't a vacation, you know! Do you even realize what you've done?!
+
+Aya5b:The Underworld and the surface have a treaty. Surface youkai aren't allowed to meddle down there.
+
+Sakuya5b:So we've heard, but what's done is done.
+
+Sakuya0a:They really ought to put up a signpost or something.
+
+Momiji2a:The treaty might be from a different era, but you still can't go breaking it!
+
+Patchouli4c:You don't need to keep complaining at us, we weren't planning on heading back any time soon.
+
+Meiling3a:Marisa got captured, and it was looking really bad for a while there.
+
+Marisa4b:I seriously thought I was done for...
+
+Aya5a:La la la, I can't hear you! I'm not letting you drag me into this mess. If anyone asks, I don't even know you. 
+
+Keine3a:All of you troublemakers are getting a thorough lesson about Underworld history after this...
+
+Marisa4a:C'mon guys, I got captured. Can't you at least be a little worried about what happened there?
+
+Reimu4a:Personally, I'm more interested in why you're here.
+
+Reimu0f:If you lost Youmu, then how'd you know to fly above the clouds?
+
+Sakuya0a:Actually, she still hasn't told us either.
+
+Komachi0b:You said you found some sort of clue in the Underworld, right?
+
+Marisa0b:Yup, sure did. It's sounds kind of stupid to say this out loud, but...
+
+Marisa0a:Truth is, someone told me in a dream.
+
+Sanae0b:In a dream?
+
+Marisa0c:Yeah, there's this chick in my dreams who talks to me sometimes.
+
+Marisa0a:She told me that the petals were coming from above the clouds.
+
+Mokou3b:Seriously? A dream?
+
+Reimu4a:She probably just ate some weird mushrooms.
+
+Marisa3d:See, this is why I didn't want to say anything!
+
+Marisa0b:It's not just a coincidence though. Back in summer, she told me about the location of the Scarlet Devil Mansion.
+
+Nitori2a:What a strange phenomenon. Do you have any idea what it could be?
+
+Sanae0b:I've heard of shrine maidens having prophetic dreams, but I can't imagine Marisa has that power. 
+
+Reimu0e:Well, this place feels suspicious to me, too. So whatever it is, it works.
+
+Alice0a:It does, but that's still strange...
+
+Shiro0a:...
+
+Rumia0a:So we're above the clouds. Now what?
+
+Marisa0b:She told me to head for the Netherworld. What was your group's plan, Reimu?
+
+Minoriko0a:For our part, we noticed that the cherry blossoms were coming from above the clouds.
+
+Minoriko0a:So we followed the trail, and...
+
+Komachi0a:It led you towards the Netherworld, huh?
+
+Keine0a:Youmu, the Netherworld, and the origin of the petals. Everything's coming together.
+
+Keine1a:We're going to the Netherworld. Let's keep at it, everyone!
+
+Cirno1b:Yeah!
+
+<Code=(transition_out,c_black,15,1)>
+
+<MAP=10,FROM=マヨイガ付近,TO=幽明結界,name=???,icon=0>
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP
+
+Sunny5a:What a view. I love how bright it is up here!
+
+Star3a:You've always liked bright spots, haven't you, Sunny?
+
+Luna0c:Maybe she thinks they'll make her seem a little brighter.
+
+Keine4a:Stop messing around, you three! We're almost at the Netherworld, so stay focused.
+
+Alice0d:Don't be so hard on them—let them enjoy the sunlight while they can. And it is a nice view.
+
+Meiling0a:And that would be the gate, right?
+
+Komachi3a:Yeah, no doubt about it.
+
+<pause>
+
+Komachi1a:That's the Barrier of Life and Death, the boundary between this world and the next.
+
+Daiyosei2c:What a huge door... I've never seen one so big.
+
+LilyW0d:...!
+
+<pause>
+
+Minoriko0b:What's gotten into you, Lily?
+
+LilyW1a:It's spring! I can feel spring leaking through this door!
+
+LilyW0a:Everyone, spring is here!
+
+<pause>
+
+Kurumi3d:What? So spring's leaking out from that door?
+
+Shizuha0a:Apparently. If Lily's this cheerful, then we were right to come to the Netherworld.
+
+Marisa0a:So now we just have to get in through―
+
+<pause>
+
+Lunasa0b:So you finally made it.
+
+Lyrica0a:That took longer than I expected.
+
+Cirno1a:Hey, she's from that Prizbear Sample!
+
+Letty0a:Prismriver Ensemble. I think even a goldfish would remember that...
+
+Patchouli0c:You know them?
+
+Sanae0a:Yes, we met them earlier. Apparently they're sisters who play in a band together.
+
+Aya0a:The perfectionist picky even about the air pressure, Lunasa... the spinmeister, Merlin... and last but not least, the marvelous Lyrica!
+
+Lyrica1a:That's right, thanks for the intro!
+
+Lunasa0b:Even if it was all over the place...
+
+Momiji0a:These three seem to know who's behind all this.
+
+Mokou0a:But if they're meeting us out here, then there's definitely something up in the Netherworld.
+
+Lunasa0a:Well, there's no point in hiding it now.
+
+Merlin1a:Today we have a gig at the Netherworld's flower viewing party. It's our job to liven things up with music!
+
+Nazrin4a:I see. In other words, whoever's behind this gathered up all this spring just to hold a party in the Netherworld?
+
+Patchouli0a:How trashy. Why don't we head on in and put a stop to it?
+
+Merlin0a:Sorry, but you're not on the guest list.
+
+Lunasa0a:Naturally, we'll have to deal with any noise that might disrupt our performance.
+
+Marisa2b:Yeah, I saw this coming. No problem, I'm always ready to make some noise!
+
+Reimu1a:Let's just deal with these three and crash that party!
+
+<end>
+
+<ChatID:2>---------------------------------------
+//プリバのいずれかを通常撃破
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Lunasa_en)>
+
+<Code=(check_flag_add,C30_Lunasa)>
+
+Reimu1a:How's that feel?
+
+Lunasa0a:...The pressure is lower than I expected. There's quite the updraft.
+
+Elliy5a:I was surprised we had to fight three at once, but looks like we'll manage.
+
+Meiling1a:The opponents may be a band, but we fight as a team!
+
+Lunasa0b:...We three make up a single unit. Please don't think that was the extent of our teamwork.
+
+Lunasa0a:Merlin, Lyrica, get in your usual positions. Let's harmonize.
+
+Lyrica1b:You mean we're going to―
+
+Lunasa0a:The sound they're producing is surprisingly decent. We'll be missing out on some serious creative inspiration if we hold back our best.
+
+Merlin1a:Aye aye, sis. Let's try this one more time. All together now!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Merlin_en)>
+
+<Code=(check_flag_add,C30_Merlin)>
+
+Sakuya5b:Do you think this kind of performance good enough for a flower viewing?
+
+Merlin0a:Oh this isn't the main event, it's just Flower Viewing Eve.
+
+Elliy5a:I was surprised we had to fight three at once, but looks like we'll manage.
+
+Meiling1a:The opponents may be a band, but we fight as a team!
+
+Merlin1a:Heh heh heh, this is getting me all fired up. Let's pump up the volu―
+
+Lunasa0a:Merlin. We've got a concert coming up soon, don't go charging off to do a solo by yourself.
+
+Merlin2a:Aw, why do you have to be such a buzzkill?
+
+Merlin0a:If I can't do a solo, then how about the three of us go kick things up a notch?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Lyrica_en)>
+
+<Code=(check_flag_add,C30_Lyrica)>
+
+Marisa7a:How's that for an opener?
+
+Lyrica1b:You're way too rough! And here I thought we could be friends!
+
+Elliy5a:I was surprised we had to fight three at once, but looks like we'll manage.
+
+Meiling1a:The opponents may be a band, but we fight as a team!
+
+Lyrica0a:Ha, you'll regret underestimating us.
+
+Lyrica1a:There's only one thing left to do... Go get 'em, sisters!
+
+Lunasa0b:How about no?
+
+Merlin0a:If you want to make friends, then you have to put your best foot forward.
+
+Lyrica1b:Do I have to? Well, I guess I do my best work together with you two, so...
+
+</Cond>
+
+<pause>
+
+<Code=(icon_set_direction,Lunasa_en,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Lyrica_en,FD_RIGHT,0)>
+
+Daiyosei2c:Why are they gathering together? What're they going to do?
+
+Lunasa0a:We, the Prismriver Poltergeist Band, are an ensemble.
+
+Merlin1a:Mic check, okay! Lighting, okay! We're good to go! 
+
+Lyrica0a:Might as well give our usual intro.
+
+<pause>
+
+<Code=(sound_load_se,se_talk_drumroll01L.ogg,1)>
+
+Merlin0a:Starting from the center! With a transcendent technique as cool as the moon! A peerless performance unmatched by anyone...
+
+<SE=se_talk_drumroll02.ogg,wait=0>
+
+<Code=(set_variable,step_4,1)>
+
+Merlin0a:On the violin, Lunasa Prismriver!
+
+<pause>
+
+<SE=se_talk_Lunasa02.ogg,wait=0>
+
+<Code=(chat_set_auto,1,220)>
+
+Lunasa0a:This violin is the soul of a legendary instrument. It's enough to make Stradivarius himself weep.
+
+<pause>
+
+<Code=(chat_set_auto,0,0)>
+
+<Code=(sound_load_se,se_talk_drumroll01L.ogg,1)>
+
+Lyrica1a:And on our right! With an undeniable passion as bright as the sun! All who hear her want to get down!
+
+<SE=se_talk_drumroll02.ogg,wait=0>
+
+<Code=(set_variable,step_4,1)>
+
+Lyrica1b:On the trumpet, it's Merlin Prismriver!
+
+<Code=(chat_set_auto,1,220)>
+
+<SE=se_talk_Merlin01.ogg,wait=0>
+
+Merlin0a:This is a phantasmal trumpet that's sucked the blood of countless Jazz trumpeters. Watch out kids, it bites!
+
+<pause>
+
+<Code=(chat_set_auto,0,0)>
+
+<Code=(sound_load_se,se_talk_drumroll01L.ogg,1)>
+
+Lunasa0a:And finally, on my left: With a sound as ethereal as the twinkling stars in the sky... She can carry a melody both manic and melancholy.
+
+<SE=se_talk_drumroll02.ogg,wait=0>
+
+<Code=(set_variable,step_4,1)>
+
+Lunasa1a:On the keyboard, Lyrica Prismriver!
+
+<Code=(chat_set_auto,1,260)>
+
+<SE=se_talk_Lyrica01.ogg,wait=0>
+
+Lyrica2a:This is the soul of a synthesizer that nobody bought because its sound was bizarre! I'll show you I can make it work!
+
+<Code=(set_variable,step_4,3)>
+
+<Code=(chat_set_auto,0,0)>
+
+Lyrica0a:Yay!
+
+Keine1a:Wh-wha... what's going on here?!
+
+Meiling1a:Well, obviously they're starting their jam session!
+
+Mokou4a:Their what?
+
+Sanae4a:It's a kind of musical performance that's popular with young people.
+
+Sanae4b:When you start feeling it, you'll wave your arms around or just start shouting.
+
+Reimu2b:...Is it going to drive us mad or something?
+
+Sanae0d:Well, no, but sort of yes? You do lose your head during them sometimes.
+
+Lunasa1a:Good, we're all on the same wavelength now.
+
+Merlin1a:I think the mood's just right to rock 'em, ladies.
+
+Lyrica1a:Right on!
+
+<pause>
+
+<Code=(chat_set_auto,1,60)>
+
+Merlin1a:Welcome to the Prismriver Phantom Ensemble's super surprise concert!
+
+Lunasa1a:With this first piece, we'll show you a rainbow.
+
+<Code=(chat_set_auto,1,20)>
+
+Lyrica0a:Here we go!
+
+<Code=(chat_set_auto,1,10)>
+
+Lyrica1b:Here we go! Here we go! A one,
+
+Lyrica1a:Here we go! Here we go! A one, and a two!
+
+<Code=(chat_set_auto,1,30)>
+
+Lyrica0a:Here we go! A one, and a two! And a one, two, three, four!
+
+<end>
+
+<ChatID:3>----------------------------------------
+//プリバ合体後の次PP
+
+<Code=(icon_set_direction,All,Prism_en,0)>
+
+Mokou2a:Ugh. They seemed like a joke, but these girls are pretty tough.
+
+Komachi4b:Their sound is good. It's too bad we don't have time to stop and listen.
+
+<Code=(icon_set_direction,Star,Sunny,0)>
+
+Star6a:Hey, Sunny, did they just...
+
+Sunny0b:Yeah, they stole our theme! We're supposed to be the sun, moon, and stars around here!
+
+Sunny1a:If that's how they're going to play it, we have to use our trump card!
+
+<Code=(icon_set_direction,Luna,Sunny,0)>
+
+Luna0a:We have a trump card?
+
+<Code=(icon_set_direction,Sunny,Luna,0)>
+
+Sunny1a:Isn't it obvious?! We'll combine!
+
+Luna6a:We combine?!
+
+Keine1a:They combine?!
+
+Sanae3c:They can combine!
+
+Koakuma6d:Combine, huh...
+
+Star4a:That's impossible. We've never done that.
+
+Sunny5a:You never know until you try! If we all just squish together it'll work out somehow!
+
+<pause>
+
+<Code=(icon_set_direction,Sunny,Prism_en,0)>
+
+<Code=(icon_set_direction,Luna,Prism_en,0)>
+
+<Code=(icon_set_direction,Star,Prism_en,0)>
+
+<Code=(icon_set_direction,Prism_en,Sunny,0)>
+
+Lyrica0a:Ha, copycats. It's not that easy you know!
+
+Lunasa0a:...!
+
+Lunasa1a:No... They might just pull it off.
+
+<pause>
+
+<hide=face>
+
+<Code=(chat_set_auto,1,150)>
+
+Sunny0a:I've been called stupid and useless, a fairy who's only good for her cheerfulness!
+
+<Code=(chat_set_auto,1,160)>
+
+Luna3c:I somehow trip over my own feet, and if I can't run away I'll hide...
+
+<Code=(chat_set_auto,1,80)>
+
+Star3d:I get the other two to do all the hard work for me!
+
+</hide>
+
+<pause>
+
+<Code=(chat_set_auto,1,30)>
+
+<Code=(icon_set_direction,Faries,Prism_en,0)>
+
+Sunny1a:By our powers combined!
+
+Luna1a:The Three...
+
+Star1a:Great Fairies of Light!
+
+Luna1a:Just...
+
+Star1a:Just who...
+
+<Code=(chat_set_auto,1,60)>
+
+Sunny1a:Just who the heck do you think we are?!
+
+<pause>
+
+<Code=(chat_set_auto,0,0)>
+
+Cirno1a:Oh man, that's so cool!
+
+Elliy1a:What's going on? Did the three fairies just seriously combine?!
+
+Merlin1a:Their lines were all over the place, but I dig the enthusiasm.
+
+Lunasa0a:We'd better not underestimate them. Let's up the tempo.
+
+<pause>
+
+Minoriko2a:Grr.... We can't let them show us up! Let's combine into the Autumn Sisters Duo, Shizuha!
+
+Nitori1a:Okay, Marisa, let's you and me make the Frien―
+
+Alice4a:Can we PLEASE just concentrate on the battle?
+
+<Cond=(GLOBAL_VAR,is_NG0,==,0)>
+
+<TIPS=COMBINE>
+
+</Cond>
+
+<end>
+
+<ChatID:4>----------------------------------------
+//「プリズムコンチェルト撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Elliy1b:Well, that's one down.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Elliy4b:Well, we got away.
+
+</Cond>
+
+Lunasa0a:Looks like we've got quite a rowdy crowd tonight.
+
+Merlin0a:Now that they're all worked up, which one are we playing next?
+
+Patchouli4a:Ugh, they haven't even broken a sweat and meanwhile I'm completely out of breath.
+
+Koakuma0a:Lady Patchouli, you should rest a bit. Don't push yourself.
+
+Lunasa0b:The whole point of a concert is for everyone to enjoy themselves. If you need a break, then take one. 
+
+Lyrica1a:Though if you miss this next song, you'll regret it for the rest of your life.
+
+Sho1b:Looks like they're attacking again!
+
+Alice1a:Be careful, this one feels stronger than before!
+
+Lunasa0a:This one's an Illusionary Concerto woven by the three of us as one. Its true power lies in its raucous nature.
+
+Merlin1a:Living or dead, we don't care! Listen and be happy!
+
+<Cond=(CHECK_FLAG,C30_Lunasa,==,1)>
+
+Lyrica1b:Our performance will pierce the clouds and reach the heavens!
+
+Lunasa1a:It's time... for Great Funeral Concert: Ghostly Wheel Concerto Grosso.
+
+</Cond>
+
+<Cond=(CHECK_FLAG,C30_Merlin,==,1)>
+
+Lyrica1b:Our performance will pierce the clouds and reach the heavens!
+
+Merlin0a:Let's give the Prismriver Super Happy Live Concert a shot!
+
+</Cond>
+
+<Cond=(CHECK_FLAG,C30_Lyrica,==,1)>
+
+Lyrica1b:Our performance will pierce the clouds and reach the heavens!
+
+Lyrica1a:We're doing this molto allegro, try to keep up!
+
+</Cond>
+
+<end>
+
+<ChatID:5>----------------------------------------
+//「スリーフェアリーズ初使用時
+
+Star0b:Sunny, Luna, the time has finally come.
+
+Sunny0b:Yeah, I know we can do it!
+
+Luna4b:We've never practiced this though... Is this really gonna work on our first try?
+
+Marisa0b:Well, here they go again...
+
+Sunny1b:Ha ha ha, we've actually been doing intensive training since even before winter!
+
+Sunny0a:And, finally, we have obtained... our very own spellcard!
+
+Mokou1a:Makes sense. You three combined are worth about one full adult.
+
+Alice0d:Well, let's see what they can do before we judge.
+
+<end>
+
+<ChatID:6>----------------------------------------
+//「コンチェルトグロソ撃破
+
+<Code=(icon_set_direction,All,Prism_en,0)>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Lyrica2a:Aww... We lost.
+
+Merlin2a:Our concert hit the dreaded last minute cancellation...
+
+Lunasa0b:It's too bad about the result, but I think we got some good material out of this.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Lyrica2a:Awww... they got away!
+
+Merlin2a:I'm beat, so we're going to have to make a last minute cancellation.
+
+Lunasa0b:It doesn't matter. This was a good performance.
+
+</Cond>
+
+<Code=(icon_set_direction,Prism_en,FD_RIGHT,0)>
+
+Lunasa0a:In any case, we're in the middle of a tour, so I hope you'll stop by one of our other shows.
+
+Lyrica0a:Tickets now on sale at every reputable ticket dealer!
+
+Merlin1a:Ciao everybody! See you around!
+
+<pause>
+
+Nazrin6b:Finally. What the heck was that supposed to be?
+
+Koakuma0a:They were pretty good though. I'd like to hear them play again sometime.
+
+Sakuya0a:I'm sure the mistresses would be please if we invited them to the manor.
+
+Komachi1c:No, no, that's the sort of thing you're supposed go out to see.
+
+Komachi0a:Even you and the vampire should leave the house every once in a while.
+
+Nitori1a:Then we should all go see them together next time! Uh, where can I buy those tickets?
+
+Meiling0a:There'll be someone selling them at the venue. They're popular though, so you might have to wait in line all day.
+
+Minoriko3a:I'm a morning person, so leave it to me! A farmer's day starts early after all.
+
+Alice0d:And with the battle over, how about we redirect that enthusiasm toward resolving the incident?
+
+Alice0a:We didn't get the chance to ask them much, but we know for sure now that something's going on in the Netherworld.
+
+Momiji0a:Okay, then let's take down this barrier.
+
+<Code=(icon_set_direction,All,FD_LEFT,0)>
+
+<pause>
+
+Patchouli4d:Easier said than done. Now that I've had a closer look, it's quite sophisticated.
+
+Marisa0b:I've got no clue where to start. Does the door open somehow?
+
+Komachi0a:Hmm, I don't know... I've been here before, and at the time I just went right on through.
+
+<Code=(icon_set_direction,Reimu,FD_LEFT,0)>
+
+Reimu0f:This sounds like a pain, let's just break it.
+
+Hina0b:What are you saying, you can't just―
+
+<pause>
+
+<Code=(icon_set_direction,Reimu,FD_RIGHT,0)>
+
+Reimu0b:There, done.
+
+Elliy1b:W-w-wait just a sec! What on earth did you just do?!
+
+Patchouli0c:That was a complex spell. How did you do that so easily?
+
+Reimu3b:Everything's got its own boundaries, right? A barrier is no exception.
+
+Reimu0g:So all I had to do was twist it up a bit and flip it inside out and there we go.
+
+Sanae5c:Um, so what does that mean exactly?
+
+Marisa4a:Don't try too hard to understand it. Reimu just sucks at explaining stuff.
+
+Sakuya5b:Anyway, let's be glad we can get through. Let's hurry to the―
+
+<Code=(cursor_jump,480,192,1)>
+
+<nomove>
+
+<hide=all>
+
+Ran0a:No, you'll be staying put a bit longer.
+
+</hide>
+
+<pause>
+
+<Code=(icon_set_direction,All,Ran_en,0)>
+
+Nazrin2a:...!
+
+Nazrin4b:Master, that's...
+
+Marisa0b:Huh, who the heck is that?
+
+Chen0a:Miss Ran, are they the ones you're looking for?
+
+Ran0a:It appears so. The report said it was a black and white magician and her group.
+
+Ran1a:I have some questions for you. Why don't you come with me and we can have a pleasant chat.
+
+<end>
+
+<ChatID:7>---------------------------------------
+//ルナサvs.霊夢
+
+Reimu0a:So, you three are on your way to a flower viewing on the other side of that gate?
+
+Lunasa0a:Yep. You're not on the guest list, though.
+
+Reimu0d:If I'd been invited to the afterlife, I would've declined anyway.
+
+Reimu1a:I'll barge in when I feel like it, and I'll go home when I feel like it!
+
+<end>
+
+<ChatID:8>---------------------------------------
+//ルナサvs.アリス
+
+Lunasa0b:Your sound is... artificial.
+
+Lunasa0a:You pull the strings of human shapes, and hold the power to spin fate.
+
+Alice0a:Um... You went a bit too poetic there, so I'm not sure what you were talking about.
+
+Lunasa0b:Sorry, I got carried away.
+
+<end>
+
+<ChatID:9>---------------------------------------
+//ルナサvs.パチュリー
+
+Lunasa0b:Your sound is... too quiet.
+
+Lunasa0a:You should go around listening to just a few more kinds of sounds, to raise your sensitivity.
+
+Patchouli4a:That's none of your concern. I wouldn't be able to relax in a noisy library.
+
+<end>
+
+<ChatID:10>---------------------------------------
+//ルナサvs.くるみ
+
+Lunasa0b:Your sound is...
+
+Lunasa0a:...
+
+Kurumi5b:What's wrong? Weren't you going to tell me what kind of sound I have?
+
+Lunasa0a:No, I can hear a crinkling sound from in your clothes... The sound of chocolate.
+
+Kurumi4a:So you can hear things like that too...
+
+<end>
+
+<ChatID:11>---------------------------------------
+//ルナサvs.サニー
+
+Lunasa0b:Your sound is... humorous.
+
+Lunasa0a:When it's strong it's strong, but when it's weak it's truly pathetic.
+
+Sunny4a:So, is that a compliment or an insult?
+
+<end>
+
+<ChatID:12>---------------------------------------
+//ルナサvs.静葉
+
+Shizuha0a:From the way you've all been talking, I'm guessing you're the eldest sister?
+
+Shizuha1c:Now that we're acquainted, how about we go out for tea some time?
+
+Lunasa0b:...The older sister connection, huh? Well, I don't mind. Maybe the next time I have a day off.
+
+<end>
+
+<ChatID:13>---------------------------------------
+//ルナサvs.雛
+
+Lunasa0b:You... make the sound of calamity.
+
+Lunasa0a:No matter how you try to conceal it, the sound leaks through.
+
+Hina0b:I wasn't exactly trying to conceal it, but... How does it sound to you?
+
+Lunasa1a:It's not a bad thing. The true essence of a sound isn't to be found only in whether it's pleasant to the ears or not.
+
+<end>
+
+<ChatID:14>---------------------------------------
+//ルナサvs.リリー
+
+Lunasa0b:You've got a much better sound now than when we last met.
+
+Lunasa0a:Have you managed to take back your role as herald of spring?
+
+LilyW0a:Yes, I want tell everyone the wonderful news when I get back to the surface!
+
+LilyW1a:I'm sure the creatures of Gensokyo are getting sick of waiting by now.
+
+<end>
+
+<ChatID:15>---------------------------------------
+//ルナサvs.星
+
+Lunasa0b:Your sound is...
+
+Lunasa0a:...
+
+Sho0b:Um... is something the matter?
+
+Lunasa0b:Nevermind. You're gloomy enough already.
+
+Lunasa0a:You should go listen to Merlin's performance, not mine.
+
+Sho4b:...
+
+<end>
+
+<ChatID:16>---------------------------------------
+//メルランvs.ルーミア
+
+Rumia0a:What's that spinny instrument called?
+
+Merlin0a:This one's a trumpet. Best spinner there ever was.
+
+Merlin1a:The one that's a bit more spinny is called a tuba, and the least spinny ones are trombones.
+
+Rumia3a:Spinny spinny!
+
+Merlin1a:Yep, spinny spinny!
+
+<end>
+
+<ChatID:17>---------------------------------------
+//メルランvs.チルノ
+
+Cirno5a:That thing looks fun!
+
+Merlin0a:I can dig the enthusiasm, but I'm not just gonna hand you my trumpet.
+
+Cirno4c:Didn't they ever teach you to share?
+
+Merlin1a:It's cause if you're not careful it'll suck your blood. Slurp!
+
+<end>
+
+<ChatID:18>---------------------------------------
+//メルランvs.にとり
+
+Nitori0a:Listening to you three play, it feels like it's making my mood go all over the place.
+
+Nitori1a:Is there some kind of secret behind that trumpet?
+
+Merlin0a:Nope! It's all about the players' skill!
+
+Merlin1a:If you tried playing it, it'd just make normal music.
+
+Nitori3a:Aw, shucks. I was hoping it'd turn out to be some kind of sonic weapon for manipulating people or something.
+
+<end>
+
+<ChatID:19>---------------------------------------
+//メルランvs.咲夜
+
+Sakuya0a:A concert, hm? The mistress might enjoy one.
+
+Sakuya6a:I'm sure it's expensive though, right?
+
+Merlin0a:If you're worried about your wallet, don't be! I'm fine with gigs where I play solo.
+
+Merlin1a:So, is your mistress the type to go wild when she listens to music?
+
+Sakuya0a:Well... I'd say she's more the type to go wild even without music.
+
+Merlin2a:Huh. Maybe I should leave this one to Lunasa then...
+
+<end>
+
+<ChatID:20>---------------------------------------
+//メルランvs.美鈴
+
+Meiling5a:I really like your music, it's so lively.
+
+Merlin1a:Yeah? Doesn't it just make you wanna lose control?
+
+Meiling0b:I know what you mean. Like this...
+
+Meiling1a:Hiyaaaa! Haaaaa! Achaaaa!
+
+Merlin2a:...Ah, sorry. That's not our kind of thing.
+
+<end>
+
+<ChatID:21>---------------------------------------
+//メルランvs.エリー
+
+Elliy3a:When you three get together, it's like you all start blooming.
+
+Merlin0a:Three times the people, a hundred times the happiness. Something like that?
+
+Elliy3b:Yeah, you get it! You really, super get it!
+
+Elliy5a:I can just tell I'm gonna become a superfan!
+
+<end>
+
+<ChatID:22>---------------------------------------
+//メルランvs.ルナ
+
+Merlin0a:Shouldn't you be, like, fighting Lunasa?
+
+Luna0a:How come?
+
+Merlin1a:I mean, I'm the sun in our little gang. And she's the moon, so...
+
+Luna4b:That's true, but... They're both the leaders, so Sunny stole my spot.
+
+<end>
+
+<ChatID:23>---------------------------------------
+//メルランvs.妹紅
+
+Mokou0a:Unlike your sister, you even LOOK noisy.
+
+Merlin0a:You sure I'm the noisy one? When Lunasa's loud, she's loud.
+
+Merlin1a:Like, she's totally cool with shattering windows.
+
+Mokou4a:...Like a sonic weapon? I had no idea that was a thing.
+
+<end>
+
+<ChatID:24>---------------------------------------
+//メルランvs.レティ
+
+Merlin0a:Well, SOMEONE'S a grump!
+
+Letty1a:Shut up. The presence of spring is just making me sleepy.
+
+Merlin1a:It's cause you're not in the groove! If you were really riding the groove, you could stay up two or three nights, no problem!
+
+Letty0a:You need to learn to chill...
+
+<end>
+
+<ChatID:25>---------------------------------------
+//メルランvs.文
+
+Aya1a:I saw your solo concert the other day... I wouldn't recommend it to normal people though.
+
+Merlin2a:Telling people not to listen to my music? How mean!
+
+Aya5a:Your sounds just have too much of an effect on the spirit. It's dangerous.
+
+Aya3b:Why, even a calm and collected person like me was feeling an extreme high!
+
+<end>
+
+<ChatID:26>---------------------------------------
+//メルランvs.椛
+
+Momiji2a:I can't really handle this sound of yours. I can feel myself getting euphoric...
+
+Merlin1a:When that happens, just be honest with yourself and go with the flow.
+
+Merlin0a:C'mon, we can do a battle cry together...
+
+Merlin1a:C'mon, we can do a battle cry together... Awooooooo!
+
+Momiji1a:Yeah! Awooo―
+
+Momiji2a:...Whoa, you almost got me there! If Aya saw me like that, I'd never live it down.
+
+<end>
+
+<ChatID:27>---------------------------------------
+//リリカvs.魔理沙
+
+Marisa0b:That barrier is amazing. I don't think I'd ever figure out how to get through it.
+
+Lyrica1a:Well, yeah, there's no way an amateur would. The password is an industry secret!
+
+Marisa0a:"Au pas camarades, au pas camarades."
+
+Lyrica1a:Bzzzt, wrong answer!
+
+Marisa0a:Well, whatever. It'll probably open it after we beat you three!
+
+<end>
+
+<ChatID:28>---------------------------------------
+//リリカvs.慧音
+
+Lyrica0a:I'm not good with people like you... Do me a favor and go beat up my sisters instead?
+
+Keine0b:Hey! You think you can slack off just because you're the youngest?
+
+Keine1a:You're too spoiled! You should have been taught better! Stand up straight! Pay attention!
+
+Lyrica2a:Ugh, geez, I don't even know you, lady!
+
+<end>
+
+<ChatID:29>---------------------------------------
+//リリカvs.大妖精
+
+Lyrica0a:...Huh.
+
+Daiyosei2c:Wh-what? 
+
+Lyrica1a:Nothing. For some reason, I just felt like if I asked you a favor you'd go do it for me.
+
+Daiyosei3b:...Is that the feeling I give off?
+
+<end>
+
+<ChatID:30>---------------------------------------
+//リリカvs.小悪魔
+
+Lyrica0a:You know, something's off about you.
+
+Koakuma0a:Off? How do you mean?
+
+Lyrica1a:Yeah, like you're playing the good girl in order to manipulate folks. Am I right?
+
+Lyrica0a:Your name even means "Little Devil".
+
+Koakuma1a:What? Please refrain from these baseless accusations! I would never...
+
+<end>
+
+<ChatID:31>---------------------------------------
+//リリカvs.小町
+
+Komachi0a:You handle that big instrument pretty well, for someone so little.
+
+Lyrica1b:Well, in the hands of an expe―Wait, did you just call me little?
+
+Lyrica2a:I'll have you know, I'm gonna be as big as Merlin someday!
+
+Komachi1c:Not too confident in a poltergeist's prospects there. But, well, good luck I guess?
+
+Lyrica1b:You're so mean! Ugh, this is why I hate girls who are bigger than me...
+
+<end>
+
+<ChatID:32>---------------------------------------
+//リリカvs.スター
+
+Star3a:You've got a star theme too. I guess my rival has finally appeared!
+
+Lyrica0a:Starlight has the important job of harmonizing the sun and the moon. You know that, right?
+
+Star3b:Of course I do! I'm the Silent Starlight, Star Sapphire!
+
+Lyrica2a:Wait, we're introducing ourselves again? In that case...
+
+Lyrica1b:I'm Your Sparkling Sound, Lyrica Prismriver!
+
+<end>
+
+<ChatID:33>---------------------------------------
+//リリカvs.穣子
+
+Minoriko3a:We've both got older sisters, huh?
+
+Lyrica1a:Yup. But I have twice as many sisters, so I have twice as much little sister power!
+
+Lyrica0a:Plus, when it comes to music, my sisters would never lose to anyone.
+
+Minoriko1b:Well, MY sister is the best there is at Autumning!
+
+<end>
+
+<ChatID:34>---------------------------------------
+//リリカvs.早苗さん
+
+Sanae0a:So those two are your family?
+
+Lyrica1a:Yup! The black one is my older older sister, and the white one is my younger older sister.
+
+Sanae4a:I'm so jealous, it sounds wonderful to have sisters.
+
+Sanae0a:Like, you could borrow clothes from each other, go shopping together...
+
+Lyrica0a:Huh. That kind of stuff's pretty normal for me...
+
+<end>
+
+<ChatID:35>---------------------------------------
+//リリカvs.ナズーリン
+
+Nazrin0b:I've never seen any instruments like these. I guess the world just keeps on turning, even when you're off hiding in a temple.
+
+Lyrica0a:Hah, you're talking like an old person even though you're so short.
+
+Nazrin6a:...We're BOTH short.
+
+<end>
+
+<ChatID:36>---------------------------------------
+//メルランvs.まくら
+
+Merlin3d:Hey you! Can you feel the joy?
+
+Makura0f:Joy, hm...
+
+Merlin0b:I get the feeling you're not feeling it?
+
+Makura3a:I haven't give it too much thought, but I do feel at ease when Mehko is around.
+
+Merlin1c:Good for you! True happiness is what's special but not special.
+
+<end>
+
+<ChatID:37>---------------------------------------
+//リリカvs.メーコ
+
+Lyrica0c:Ooh, found a weak-looking one!
+
+Meko0b:Rude!
+
+Meko1a:C'mon, you're just as short as me.
+
+Lyrica1b:Who said anything about height?! A small body can make a big noise!
+
+<end>
+
+<ChatID:38>---------------------------------------
+//ルナサvs.ルナサ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Lunasa0b:Not a bad sound.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Lunasa0a:Thank you. You have some talent yourself.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Lunasa1a:You aren't suspicious of me?
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Lunasa3a:Does it matter? I always listen to their sound first.
+
+</nomove>
+
+<end>
+
+<ChatID:39>---------------------------------------
+//メルランvs.メルラン
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Merlin1a:Wow, someone's cosplaying me?! I'm touched to meet such a passionate fan!
+
+Merlin3b:Your height and build are just perfect too! Can I touch your costume?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Merlin2b:Bzzt! Touching's a no-no!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Merlin1c:You talk just like me too! We should perform together some time!
+
+</nomove>
+
+<end>
+
+<ChatID:40>---------------------------------------
+//リリカvs.リリカ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Lyrica5a:Gyah, you look just like me?!
+
+Lyrica1b:Wait, maybe you're a cosplaying fan...?
+
+Lyrica3c:So where are you from? Is this your first live concert?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Lyrica4d:...She's so openly overjoyed, huh? Is this what I seem like up close?
+
+</nomove>
+
+<end>
+
+<ChatID:41>---------------------------------------
+//三姉妹vs.まくら
+
+Makura3a:As expected, your music is most beautiful when the three of you play together.
+
+Lyrica3b:You heard her, sis!
+
+Lunasa0b:Can't say I mind hearing good reviews.
+
+Merlin3d:Our ensemble is what makes us us, after all!
+
+Makura0g:But it's somewhat different from the sound I knew. Back then, it was more like...
+
+Lunasa0a:...?
+
+Lyrica1c:Oh no, an obsessive fan! Maintain distance!
+
+<end>
+
+<ChatID:42>---------------------------------------
+//三姉妹vs.ゆゆ様
+
+Lyrica5a:Oh snap, Yuyuko?!
+
+Merlin1a:Attack of the sponsor!
+
+Lunasa2a:I'm sorry, we were held up by some strange humans.
+
+Lunasa0a:Are we late for the flower-viewing concert?
+
+Yuyuko1c:No worries! More importantly, can I listen to your rehearsal?
+
+<end>
+
+<ChatID:43>----------------------------------------
+//C30：プリバvs.非想天則
+
+Tensoku0a:...
+
+Merlin3d:Wow, a big audience member in a front row seat!
+
+Lyrica1a:What even is that material it's made of? Think it'd make a good sound if I hit it?
+
+Lunasa1a:I can't say I'm not curious too. Let's hit it with our sound to check the noise it makes.
+
+<end>
+
+<ChatID:44>----------------------------------------
+//C30：ルナサvs.非想天則
+
+Lunasa0a:Hm, your sound is...
+
+Lunasa0b:The sound of iron.
+
+Tensoku0a:?!
+
+Lunasa3c:Just kidding. Sorry for the bad joke.
+
+Lunasa3a:But the fact that you had a reaction is proof that you have a mind.
+
+Lunasa1b:Allow me to check your sound one more time.
+
+<end>

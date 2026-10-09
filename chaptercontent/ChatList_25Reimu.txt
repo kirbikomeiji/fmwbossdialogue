@@ -1,0 +1,943 @@
+﻿○霊夢第二十五話「少女たちの冬
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: About Faith System
+ 3: clear
+ 4: ADVB
+ 5: ADVB (Yuyu x Yomu)
+ 6-9: battle vs. Nazrin
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=9,FROM=博麗神社,TO=博麗神社,name=Hakurei Shrine,icon=5>
+
+<BG=*bg_talk_Shrine_Winter.png,fade=0,color=1,title=*bg_Shrine,bgm=bgm_talk_morning>
+
+<Code=(demo_wait,10)>
+
+<SE=se_talk_snow01.ogg,wait=1>
+
+Sunny0c:Ooh, there's the branch shrine we heard about!
+
+Star3b:It's smaller than I was expecting. It's supposed to give better blessings than the Hakurei Shrine, though.
+
+Luna0c:Then let's make a wish quick, before the shrine maiden shows up and demands money.
+
+<SE=se_talk_clap02.ogg,wait=1>
+
+Luna5a:Um, please let Sunny stop oversleeping.
+
+Sunny1b:Please let Luna stop being such a stupidhead.
+
+Star6a:Wait... Over there! Someone's coming.
+
+<nowindow>
+
+<SE=se_talk_snow01.ogg,wait=1>
+
+<single>
+
+</nowindow>
+
+Suika0a:Heeeeey, Reimuuuuu! Reimu, you here?!
+
+Suika2a:Aww, you're really not around? I brought some amazing sake...
+
+Suika1a:Oh, well. Finding Reimu should be easy enough for me. I'll just take a quick peek around...
+
+Suika0a:Hmph, how is she supposed to taste a fresh new batch when she's not even around?
+
+<SE=se_talk_snow01.ogg,wait=1>
+
+Star0b:Hey, isn't that the oni from before? You don't think she comes by this shrine a lot, do you?
+
+</single>
+
+Luna0b:I couldn't say, I've been spending all my time at home lately...
+
+Sunny3b:Who cares, let's get a bunch of wishes done before the shrine maiden gets back.
+
+<SE=se_talk_clap02.ogg,wait=1>
+
+Sunny1b:Dear God, please, please let me sleep a bunch tomorrow.
+
+Luna5a:Please let me eat some delicious fried sprouts.
+
+<MAP=9,FROM=香霖堂,TO=香霖堂,name=Kourindou,icon=5>
+
+<BG=*bg_talk_Korindo_Winter.png,fade=1,color=1,title=*bg_Korindo,bgm=bgm_talk_gag>
+
+Sakuya5c:Hmm... There's only one set of those, and those are too kitschy... 
+
+Sakuya5b:I think I'll go with these ones. Could you wrap everything up for me?
+
+Korin0a:It would be my pleasure. I hope those teacups fit what you're looking for?
+
+Sakuya0a:Yes. They have a welcoming look, with colors that accentuate red drinks. Their understated design has no wasted elements...
+
+Sakuya6a:And more to the point, they won't break if the young mistress drops them.
+
+Korin0a:I'm glad they work for you. I have some in a sturdier material called "plastic", if you'd like to see those too.
+
+Sakuya0a:That's alright. Durability only goes so far with the young mistress. The rest depends on her mood.
+
+<SE=se_talk_door_open03.ogg,wait=1>
+
+Reimu0g:You here, Rinnosuke?
+
+Korin0a:Ah, that would be Reimu. Sorry, I'm with a customer at the moment―
+
+Korin0a:Oh, who's this now?
+
+Sanae4a:Um, hello.
+
+Sakuya5b:Why, hello Sanae. It's not every day I see you out with Reimu.
+
+Sanae0a:Oh, you're the maid from the Scarlet Devil Mansion. Miss Izayoi, right?
+
+Sakuya0a:Please, call me Sakuya. What brings you two out here today?
+
+Reimu0g:Sanae's looking for something, and I'm tagging along.
+
+Reimu0b:What about you? Running an errand for your spoiled mistress?
+
+Sakuya0a:I just finished one, actually.
+
+Korin0a:Sanae... You're the shrine maiden on the mountain? I don't think we've met before.
+
+Sanae0a:That's right. I've started coming down from the mountain more often lately.
+
+Sanae0a:There's still a lot I'm not used to here, so I've been having Reimu show me the ropes.
+
+Reimu2b:We get weird looks wherever we go, though. It's kind of annoying.
+
+Korin0a:(Now that she mentions it, it's an incredibly rare sight to see two shrine maidens next to one another.)
+
+Korin0a:(I hear Sanae is from the Outside World... I could see it, with the way she carries herself.)
+
+Korin0a:(She seems like a polite and earnest kid, and probably much more even-tempered than Reimu.)
+
+Korin0a:...So, what can I do for you today?
+
+Sanae4a:Um, I was wondering if this store had any kotatsus.
+
+Korin0a:Those? The furniture store in the village should have some.
+
+Reimu0f:She doesn't want a normal one, she wants a "lectric" one. It's some Outside World thing.
+
+Sanae0a:I meant to bring one with me, but it completely slipped my mind.
+
+Sakuya5b:The Outside World... Do you miss it?
+
+Sanae5c:Not exactly. It's THEM. They've been spoiled by modern comforts and can't live without one now.
+
+Sanae0a:So when they heard I forgot it, they loomed over me ominously and told me to find one.
+
+Korin0a:I can sympathize. Once I got my hands on a stove, I lost all urge to chop firewood.
+
+Sakuya0a:Well, I think that's a question of tastes. Personally, I love the mansion's fireplace.
+
+Sanae3c:Wow, you have a fireplace? Neat!
+
+Sakuya0a:It's a Western-style mansion. If you're that interested, why don't you drop by and see it sometime?
+
+Sanae4b:May I? I've always had a bit of a thing for fancy fireplaces.
+
+Reimu0g:You could just get a job there. They're always hiring maids.
+
+Sanae5c:Er, I'm really not sure about wearing a maid outfit...
+
+<SE=se_talk_door_open03.ogg,wait=1>
+
+Suika3d:There you are, Reimu! I looked everywhere for ya!
+
+Sakuya5b:Oh, isn't that―
+
+Reimu0e:If it isn't Suika. What brings you all the way out here?
+
+Suika1b:Don't give me that. I went all the way to the shrine to visit you, and you weren't even there.
+
+Suika3c:I scored some good sake. Wanna go throw a party?
+
+Korin0a:Hi there. It doesn't look like I can help you with anything, but I take it you're a friend of Reimu's?
+
+Sakuya0a:Oh, haven't you heard? This is Suika the oni. We met recently.
+
+Korin1a:What? An oni?!
+
+Reimu0g:Yeah. She was the last person I was expecting to come staggering around.
+
+Suika1a:Staggering? You're talking about me like I'm some town drunk...
+
+Korin4a:(I never imagined I'd see a real oni in my lifetime.)
+
+Korin3a:(Legend has it they're among the strongest of all youkai, but she looks just like a child...)
+
+Korin2d:(Then again, with how she seems completely hammered, a child might not be the best point of comparison.)
+
+Suika6a:What? Do I got somethin' on my face?
+
+Korin2c:No, not at all. You seem friendly with Reimu, do you visit her shrine often?
+
+Reimu3b:Yup. She's a huge pain, but her power is nice to have around.
+
+Sanae0g:What's her power?
+
+Suika3c:Oh, didn't I mention it? I have the power to gather and disperse all kindsa stuff.
+
+Reimu0g:Like I said, it's super handy. Like, she can gather all the trash to one place, all at once.
+
+Sakuya0a:That does sound nice. Is it possible for you to gather precious objects for someone?
+
+Sanae5a:Wow, you could gather faith for me...!
+
+Korin2d:I'm not sure blatantly exploiting it like that is the best idea...
+
+Suika6d:So, whatcha doin' here, Reimu? Shopping?
+
+Reimu0e:Oh, right. Rinnosuke, do you have any kotatsus like what Sanae was talking about?
+
+Reimu0g:I figured if we could find furniture from the Outside World anywhere, it'd be here.
+
+Korin0d:Don't you worry, I think I have something like that in the storeroom.
+
+Korin4b:I keep my most valuable pieces in there, if you want to take a look for yourself.
+
+Sanae4a:Yes, please.
+
+<SE=se_talk_walk.ogg,wait=1>
+
+<single>
+
+Sakuya5b:I'm impressed, Reimu. You helping her find something is a very kind gesture.
+
+</single>
+
+Reimu0c:Eh, I've been cooped up indoors so much lately, I could use the trip. I figured I could get in some shopping of my own too.
+
+Reimu0g:Plus, I'm gonna pick myself up some candy on the way home.
+
+Korin0d:Wow, so you actually enjoy regular girl things?
+
+<BG=bg_talk_Korindo_Winter.png,fade=0,color=1,title-=*bg_Korindo>
+
+<Code=(demo_wait,10)>
+
+Sanae4a:Oh, so this is what the back room of an second-hand shop looks like. I love the feeling of going antiquing.
+
+Sanae0a:Ooh, what a cute teacup. But it'd look out of place at our shrine...
+
+Sanae0g:...Hmm?
+
+<SE=se_talk_kasakasa01.ogg,wait=0>
+
+<Code=(demo_wait,60)>
+
+<hide=all>
+
+Nazrin6b:Hey, keep it down. Sounds like there's humans out front!
+
+</hide>
+
+Sanae3b:...? Is that somebody's voice?
+
+<hide=all>
+
+Nazrin4a:Is this it for good food? That really says a lot about this guy's finances.
+
+Nazrin0a:I know I got a rare reading from this shop, though. Lemme just look around a little more...
+
+</hide>
+
+Sanae1a:I definitely hear someone. But why would someone else be in here?
+
+Sanae5a:Oh no, is it a burglar?! I could see it. I mean, Gensokyo isn't exactly big on crime prevention...
+
+<hide=all>
+
+Nazrin4a:This isn't where the reading came from. Gotta keep moving...
+
+</hide>
+
+Sanae1a:Excuse me! Is someone back there?
+
+<hide=name>
+
+Nazrin2a:Ack! I've been spotted!
+
+</hide>
+
+<Code=(sound_fadeout,BGM,20,0)>
+
+<Code=(map_shake,1,15,4)>
+
+<BGM=bgm_talk_emergency,1>
+
+Sanae2a:Eek! A mouse youkai?!
+
+<hide=name>
+
+Nazrin4b:You're real loud, lady. Why do you gotta yell all the time?
+
+Nazrin1a:Oh, well. Nothing for it but to retreat for now.
+
+</hide>
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+Sanae1a:Ah, dang it, she got away!
+
+Sanae1a:That was totally a burglar! I'd better follow her, quick!
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP
+
+Sanae1a:Get back here!
+
+Nazrin0a:So they're chasing me? What persistent humans.
+
+Reimu1a:Hold up, what's going on?
+
+Sanae1a:She's a burglar! I found her skulking around in the storeroom!
+
+Korin0a:Someone tried to rob me?! Don't tell me you took something valuable...
+
+Nazrin0a:Oh no, Mister, I was just looking for food. My poor little mice will go hungry if I don't find them something.
+
+Reimu0d:You're a bold-faced liar, but you're not gonna throw us off the trail―I know a rat when I smell one.
+
+Nazrin0a:Alright, I admit it, I lost my head after picking up a reading with a high rarity.
+
+Sakuya5b:What does that mean?
+
+<pause>
+
+Suika1a:Sheesh, everybody left me behind. What's the rush?
+
+Nazrin2a:...?!
+
+Nazrin0a:An oni? Well, this is a surprise. Maybe you're the source of that rare reading?
+
+Reimu0f:Oh, you're going to fight alongside us?
+
+Suika0a:This time, yeah. Drinking by yourself is no fun.
+
+Sakuya0a:I have a lot of experience exterminating mice, but do you think you can handle it, Sanae?
+
+Sanae4a:Absolutely. I'm going to make this my youkai extermination debut.
+
+Sanae1c:Lady Yasaka, Lady Moriya, please watch over me. Your humble servant is going to show you a splendid battle!
+
+Nazrin1a:Oh, good luck, best wishes, I'll be praying for your success and all that. Tell me how it went next time we run into each other!
+
+<pause>
+
+Reimu1a:Wait, you're really going to turn tail and run?!
+
+<Code=(icon_set_direction,Nazrin_en,FD_LEFT,0)>
+
+Nazrin0a:Obviously. What kind of burglar stops running just 'cause you asked nicely?
+
+<Code=(icon_set_direction,Nazrin_en,FD_RIGHT,0)>
+
+<pause>
+
+Korin0a:That youkai's trying to flee to the other side.
+
+Sakuya5b:I suppose we just need to catch her before she gets there.
+
+Suika1a:Simple enough. Let's get this party started!
+
+<end>
+
+<ChatID:2>---------------------------------------
+//2PP（信仰ゲージについて）
+
+<Code=(icon_set_direction,All,Nazrin_en,0)>
+
+Sanae0b:I have no doubt that that youkai has been stealing from the human village too.
+
+Sanae1a:If I catch her, that would definitely boost the people's faith in Moriya Shrine...
+
+<Code=(icon_set_direction,Sakuya,Sanae,0)>
+
+Sakuya5b:You're certainly fired up. Try to put that enthusiasm to good use.
+
+<Code=(icon_set_direction,Reimu,Sanae,0)>
+
+Reimu0e:Oh yeah, why don't you use those spells you were using earlier?
+
+Reimu0f:You know, like when you parted the sea and when you invoked the wind, and all that other flashy stuff.
+
+<Code=(icon_set_direction,Sanae,Reimu,0)>
+
+Sanae5c:Um, I CAN use them, but... The larger the miracle, the more faith I need to gather first.
+
+Sakuya5b:You need to gather faith?
+
+<Code=(icon_set_direction,Sanae,Sanae,0)>
+
+Sanae4a:Yes, whenever I hit with or dodge an attack, the faith gauge fills up a little more.
+
+Sanae4b:When that happens, my stats improve, and I can use my more powerful spells.
+
+Sanae5b:However, some of my spells spend from my faith gauge, so I can't really use those constantly.
+
+<nomove>
+
+<Code=(cursor_jump,288,352,0)>
+
+Korin0a:I see, so in other words you have to work hard before you can use certain spells.
+
+</nomove>
+
+Sanae5a:That's right. In short, I'm like a certain Space Runaway.
+
+Reimu2b:What a weird metaphor...
+
+<Cond=(GLOBAL_VAR,is_NG0,==,0)>
+
+<TIPS=FAITH>
+
+</Cond>
+
+<end>
+
+<ChatID:3>---------------------------------------
+//ナズーリン撃破
+
+Nazrin0a:Whoa, close call there. Oni aside, even these humans are quite something.
+
+Reimu1a:I'm done with evasive, exasperating types. Come and give me your best shot.
+
+Nazrin0a:That actually was the plan. Here, have a taste of my best danmaku!
+
+Sanae1a:Reimu, here she comes!
+
+Reimu1a:Alright, now this is what I've been waiting―
+
+<pause>
+
+Reimu3a:...wait, what?
+
+<Code=(icon_set_direction,Nazrin_en,FD_LEFT,0)>
+
+Nazrin1a:Did you really think I'd go for a fair fight that I probably can't win? Well, it's been fun, see you later!
+
+Reimu1a:Hey! Get back here and finish our fight!
+
+Nazrin0a:Let's not and say we did. 
+
+Nazrin1a:Okay, since you won and all, I've gotta go. Take care; remember not to catch the plague!
+
+<Code=(icon_set_direction,Nazrin_en,FD_RIGHT,0)>
+
+<pause>
+
+Sanae2a:She got away... Even after she said she'd fight you fair and square...
+
+Sakuya5c:She fooled us with her little tricks. We should have expected a mouse to be sneaky like that.
+
+Suika0a:Well, that's just another way they survive.
+
+Suika1a:Anyway, if we're done here, how about we take a break back inside?
+
+<end>
+
+<ChatID:4>---------------------------------------
+//ADVB-1
+
+<MAP=9,FROM=香霖堂,TO=香霖堂,name=Kourindou,icon=0>
+
+<BG=*bg_talk_Korindo_Winter.png,fade=0,color=1,title=*bg_Korindo,bgm=bgm_talk_aoki>
+
+Reimu2b:Ugh, I was really off my game.
+
+Suika0a:Haha, wasn't it kinda hard to move in that cold?
+
+Sanae3b:I'm sorry, Mr. Shopkeep... we couldn't catch the burglar.
+
+Korin0a:I don't mind. It's just food, not like she took any of my merchandise.
+
+Sanae0b:But isn't having no food kind of a problem? You won't be able to restock during the winter.
+
+Korin0a:I'm half-youkai, half human. So I don't need to eat as much as you.
+
+Reimu0c:Oh, then I guess you won't be needing the tea that Sakuya's brewing for us.
+
+Korin0a:That's another matter entirely. I'm always open to enjoying fine drinks.
+
+<SE=se_talk_walk.ogg,wait=1>
+
+Sakuya0a:The red tea is finished now, sorry for the wait.
+
+Reimu0g:Perfect timing. I'll take some, thanks.
+
+Sanae4a:Oh, I saw this teacup in the storeroom earlier.
+
+Sakuya6a:There weren't enough cups, so I borrowed some from the merchandise. They're all used goods anyway.
+
+Korin0a:That may be true, but you don't have to put it so bluntly.
+
+Korin0a:Oh well. I'm the one who asked you to make tea anyway. For now, let's just enjoy it.
+
+<SE=se_talk_dish02.ogg,wait=1>
+
+<Code=(demo_wait,10)>
+
+Korin0a:...!
+
+Sanae4b:It's delicious! You made this, Sakuya?
+
+Sakuya0a:I know it's presumptuous for a guest to say to her host, but may I ask if it was to your liking?
+
+Korin0a:Ah... The taste, the smell, I can't even put it into words. Everything from the choice of teaware all the way to the serving temperature is perfect.
+
+Korin0a:You can tell just how much care went into making it. I see you're not their Head Maid for nothing―it's no exaggeration to call this tea sublime.
+
+Sanae3c:It's great. I wonder if we should start making this kind of tea at home, instead of the same old green tea.
+
+Reimu5c:Huh, what do you know? This turned out almost as good as green tea. But next time I'll have to treat you all to the real ultimate in tea.
+
+Sakuya5b:Now that you mention it, how are you doing for food, Sanae?
+
+Sakuya0a:I heard that you've been leaving the mountain recently, but I suppose as long as you receive offerings you can get by without visiting the village.
+
+Sanae0a:Yes, we've received quite a lot from the tengu.
+
+Sanae4a:And the kappa are making arrangements to provide us with electricity soon.
+
+Korin0a:I see. I hear that electricity is a sort of magic used by the Outside World, but I suppose you've got Nitori and the other kappa to help out with it.
+
+Reimu0b:How handy. The people on the mountain get to have all the nice toys.
+
+Sakuya5b:Indeed, wasn't there also something called a camera? Aya had one of them.
+
+Sakuya0a:I would never have my picture taken, but it seems like it would be fun to own something like that.
+
+Korin0a:I never expected you to be camera-shy, of all things.
+
+Sakuya0a:Well, doesn't it take your soul along with the photograph?
+
+Sanae5c:Oh, that superstition really isn't―
+
+Suika0a:Hmm, I guess the mountain's made a lot progress while I was gone. It's nice to have ambitions.
+
+Korin0a:Oh, you don't think badly of what Youkai Mountain has become?
+
+Korin0a:Since all the oni disappeared, I was sure you'd given up on Gensokyo and humanity.
+
+Suika0a:Eh, we choose not to worry about the small stuff.
+
+Suika1a:I've decided to not worry about either the mountain or about the past.
+
+Reimu4a:Ah, so that's why you get blackout drunk every day.
+
+Sakuya5b:You say you don't care, but is it really that easy to stop caring?
+
+Sakuya0a:When you live a long life, the number of things that are important to you only increases. Or so I've heard.
+
+Suika0a:Well, that does happen. But if you keep clinging onto things, it'll only end up destroying you.
+
+Sanae0b:What do you mean?
+
+Suika0a:Even youkai tend to pick up baggage over the years when they live long enough.
+
+Suika0a:Love and hate, pride and regrets, resentment and jealousy. There's only so much of that stuff you can fit in your head, after a couple thousand years.
+
+Sanae0a:Is that what it's like? I can't even imagine living for a thousand years...
+
+Korin0a:I'm half youkai, so I can understand.
+
+Korin0a:As youkai are primarily emotional and spiritual beings, afflictions of the heart are deadly serious.
+
+Reimu0f:Uh-huh. I don't really get it, but I guess even youkai have their own worries?
+
+Suika0a:Pretty much. It takes a crazy amount of resolve to live your life holding on to every little thing.
+
+Suika0a:I only know one person who's nuts enough to do that.
+
+Reimu0d:Who's that?
+
+Suika1a:Somebody you've already met. 'Course, she's probably zonked out right now since it's winter.
+
+Sakuya5b:I hate to interrupt, but it's growing dark. I need to get back and start getting a late dinner ready.
+
+Sanae0a:Oh, good point. I told them I'd be back by dinnertime.
+
+Sanae0a:Mr. Shopkeep, could I ask you to show me the kotatsus one more time?
+
+Korin0a:Certainly. In fact, this one is one of our best models...
+
+<end>
+
+<ChatID:5>---------------------------------------
+//ADVB
+
+<MAP=9,FROM=マヨイガ付近,TO=マヨイガ付近,name=???,icon=5>
+
+<BG=bg_talk_Black.png,fade=1,color=1,title=*bg_Unknown,bgm=bgm_talk_ningyo>
+
+<SE=se_talk_door_open01.ogg,wait=1>
+
+Nazrin0a:I'm back.
+
+<hide=all>
+
+Sho0a:Nazrin, did you go somewhere?
+
+</hide>
+
+Nazrin0a:Yeah, out to get us some supplies.
+
+Nazrin0a:The snow's been so thick lately that my minions are having a hard time feeding themselves.
+
+<hide=all>
+
+Sho0a:It does seem like it's getting bad. Good work.
+
+</hide>
+
+Nazrin0a:So, here's your share. If you've got any appetite at all you should eat.
+
+<hide=all>
+
+Sho0a:Thank you, Nazrin.
+
+Sho0a:...
+
+</hide>
+
+Nazrin0a:...
+
+Nazrin0a:Look, eating nothing at all can't be good for you. You should force it down if you have to.
+
+Nazrin0a:Things might be better than last year, but winter is always a lean time.
+
+<hide=all>
+
+Sho0a:Thank you, Nazrin.
+
+</hide>
+
+<single>
+
+Nazrin0a:...
+
+Nazrin0a:(Yeesh. Locked away moping it up in her chamber as always...)
+
+Nazrin0a:(It's been a thousand-odd winters since we lost everything, and we've made no progress since then.)
+
+Nazrin0a:(The other girls probably aren't sleeping easy either...)
+
+</single>
+
+<end>
+
+<ChatID:6>----------------------------------------
+//ゆゆよーむパート
+
+<MAP=9,FROM=白玉楼,TO=白玉楼,name=Hakugyokuro,icon=5>
+
+<BG=*bg_talk_Meikai.png,fade=1,color=1,title=*bg_Hakugyoku,bgm=bgm_talk_yozakura>
+
+Yuyuko1b:The girl that sleeps beneath the cherry blossoms, hm...
+
+Youmu0a:Lady Yuyuko? Lady Yuyuko?
+
+Youmu2b:...Ah, there you are. What brings you to the storeroom?
+
+Yuyuko0a:Oh, I was just doing some reading to pass the time.
+
+Youmu0a:What kind of reading?
+
+Yuyuko0a:Do you remember what I asked you to look up this past summer? Ways to make unblooming cherry blossoms bloom?
+
+Yuyuko0a:I think I want to make a certain cherry tree bloom.
+
+Youmu3a:I see. This is all very sudden.
+
+Yuyuko0a:The Saigyou Ayakashi, the most distinctive and beautiful cherry tree in all of my gardens.
+
+Yuyuko1b:In all of my time at Hakugyokuro, I've never once seen it bloom.
+
+Youmu0a:Yes, you've mentioned. That's why its flowers are called the "unblooming cherry blossoms".
+
+Youmu0a:Though I must admit, I find it surprising to see you show an interest in the same thing twice.
+
+Yuyuko2a:How rude, you're making it sound like I forget about things left and right.
+
+Youmu3a:Left, right and center, I'd say.
+
+Youmu0a:Anyway, did you find anything new?
+
+Youmu0a:I hit the books hard over the summer doing research, but I never found any promising leads.
+
+Yuyuko2a:That's a problem, then. Just once, I wanted to see a full bloom I've never seen before...
+
+Yuyuko2b:And spring is nearly upon us. Oh dear, how bothersome!
+
+Youmu0a:Didn't you say that the answer would come naturally with the changing of the seasons?
+
+Yuyuko5a:Oh, did I?
+
+Youmu3a:Yes, you did. You don't remember?
+
+Yuyuko2b:Not a bit. That was forever ago!
+
+Yuyuko0a:But it does sound like a very "me" thing to say, if I do say so myself. What if...
+
+Yuyuko1b:...
+
+Youmu2b:Lady Yuyuko?
+
+Yuyuko5a:Oh, I just had a delightful idea.
+
+Youmu3a:And what you mean by "delightful" is―
+
+Yuyuko5b:Youmu, let's gather up some spring, shall we?
+
+<Code=(transition_out,c_black,80,1)>
+
+<end>
+
+<ChatID:7>----------------------------------------
+//テロプ
+
+Snow fell on Gensokyo...\n
+Softly, quietly, it blanketed the land in white death.
+
+Under the snow-shrouded ground, new life awaited its birth.\n
+Such has always been the natural order of things.\n
+
+But even as March led into April, and April led into May...\n
+The snow wouldn't stop falling.
+
+<end>
+
+<ChatID:8>----------------------------------------
+//ナズーリンvs.霊夢
+
+Nazrin0a:Oh, it's just that human from before. Not what I'm looking for.
+
+Reimu1a:I'm someone you better be looking OUT for!
+
+Nazrin0a:Hey, don't get offended, I just came here looking for a meal is all.
+
+Nazrin1a:And for what it's worth, my mice do think you could be considered a real nice catch.
+
+Reimu0g:Oh, they noticed? I am quite the eligible young shrine maiden, after all.
+
+Nazrin0a:No, not like that. My mice like the taste of human flesh. 
+
+Nazrin1a:They say that cheese just can't compare to, well, a meatier fare.
+
+<end>
+
+<ChatID:9>----------------------------------------
+//ナズーリンvs.咲夜さん
+
+Sakuya5c:I hate mice. No matter how many you catch, more always pop up...
+
+Sakuya0b:I suppose you can't be anything but absolutely thorough in eradicating them.
+
+Nazrin0a:That's cold. You're saying you'd be willing to kill poor innocent mice with your own hands?
+
+Nazrin1a:If this is what I'm up against, I'd best give this my all too.
+
+<end>
+
+<ChatID:10>----------------------------------------
+//ナズーリンvs.早苗さん
+
+Sanae1a:Give it up, you thief!
+
+Nazrin0a:Good grief, you're a real oddball. I can't believe you chased me all the way out here.
+
+Nazrin0a:But y'know, for my mice, it's like you just brought us takeout.
+
+Sanae3b:Wh-what? Are you saying I look like food...?! 
+
+Sanae5c:...Ah, haha-haha. Mice eating humans? That's ridiculous...
+
+Nazrin1a:Eh, it happens. You really are a strange girl though. Don't you know how terrifying mice can be?
+
+<end>
+
+<ChatID:11>----------------------------------------
+//ナズーリンvs.萃香
+
+Nazrin0a:I still can't believe that the rare find I was detecting was an oni of all things.
+
+Nazrin0a:They weren't even all that rare a thousand years ago.
+
+Suika0a:Oh? You must be older than you look.
+
+Nazrin0a:You're one to talk.
+
+<end>
+
+<ChatID:12>----------------------------------------
+//ナズーリンと初戦闘時
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Reimu)>
+
+Reimu1a:Alright, you're not getting away!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Sakuya)>
+
+Sakuya5b:Capture complete. Now that I take a closer look, you're quite the sizeable mouse.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Sanae)>
+
+Sanae3c:Everybody, we got her!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Suika)>
+
+Suika1a:Yep, gotcha.
+
+</Cond>
+
+Nazrin0a:So you caught up with me. Figures that ordinary methods wouldn't cut it.
+
+Reimu3b:You say that, but it really didn't look like you were trying that hard to escape.
+
+Nazrin0a:You're a real rare opponent. I guess I must have unconsciously stayed to watch.
+
+Sakuya5b:And now you're pretending to be quite at ease for a mouse caught in a trap. Well, let's begin the extermination.
+
+Reimu1a:Yeah, it's cold out here. I don't want to spend anymore time than I have to on small fry.
+
+Nazrin0a:First you say you'll exterminate me, then you call me small fry. You're awfully rude, humans.
+
+Nazrin1a:Sorry, but if you don't take mice seriously... You'll die.
+
+<end>
+
+<ChatID:13>----------------------------------------
+//ナズーリン撤退
+
+<Code=(icon_set_direction,Nazrin_en,FD_LEFT,0)>
+
+Nazrin0a:Welp, I guess that's that. 
+
+Nazrin0a:Thank you kindly, Mr. Shopkeep. We'll be able to rest easy this winter, all thanks to your kind donation.
+
+<nomove>
+
+<Code=(cursor_jump,288,352,1)>
+
+Korin0a:What are you talking about? Wait, you can't mean...
+
+Korin0a:Gwaaaaah! No way!
+
+</nomove>
+
+<Code=(icon_set_direction,All,FD_LEFT,0)>
+
+Reimu1a:Rinnosuke, what's wrong?
+
+<nomove>
+
+<Code=(cursor_jump,288,352,1)>
+
+Korin0a:The merchandise is untouched, but she took every last scrap of food!
+
+Korin0a:Forget the winter, there's not enough left to last through dinner!
+
+</nomove>
+
+Sanae2a:How awful, you won't even have anything for dinner...?
+
+Sakuya5c:...It's frustrating to say, but we've been completely outclassed.
+
+Nazrin1a:Yup. You've gotta just start over from the beginning.
+
+<end>
+
+<ChatID:14>----------------------------------------
+//霊夢初戦闘時
+
+Reimu0b:Now that I think about it, I guess I'm Sanae's senior as far as being a shrine maiden goes.
+
+Reimu0g:I guess I'll have to act like it too then. This is a pretty good place to show her what I can do!
+
+<end>
+
+<ChatID:15>----------------------------------------
+//咲夜さん初戦闘時
+
+Sakuya5b:Oh dear, I'm still holding those cups from earlier.
+
+Sakuya0a:It'd be a little too avant-garde to bring them back broken, so I'd best be careful as I fight.
+
+<end>
+
+<ChatID:16>----------------------------------------
+//早苗さん初戦闘時
+
+Sanae0b:(So now even I'm participating in Gensokyo's danmaku battles. I feel like it's helping me find my feet here.)
+
+Sanae1a:(Bit by bit, I'm falling for this land's charms...)
+
+<end>
+
+<ChatID:17>----------------------------------------
+//萃香初戦闘時
+
+Suika0a:Alright, time to do some pre-drinking warm ups.
+
+Reimu4a:Look, you drunk, in case you didn't notice we're in the middle of a danmaku battle. Could you be serious for once?
+
+Suika0a:Scold me all ya like, but it's no fun playing with small fry like that.
+
+Suika1a:Hey! I'll be going easy on ya, so you better hold out at least a little while!
+
+<end>
+
+<ChatID:18>----------------------------------------
+//EX条件達成（ver.2.7.9追加）
+
+Sanae0a:This is nice.
+
+Sakuya0a:Oh? I feel more energy from you than before.
+
+Suika1a:The more effort you put in, the more faith you get, which powers you up, yeah?
+
+Sakuya0a:Perhaps Reimu could learn a thing or two.
+
+Reimu0a:Nah, she can have it to herself. Starting things and ending them just as quickly is more my style.
+
+Sanae0a:Now I can use both a spirit barrier as well as moves that consume faith.
+
+Sanae0a:Allow me to demonstrate the true potential of a wind priestess!
+
+<end>
+
+<ChatID:19>----------------------------------------
+//R25：ナズーリンvs.非想天則
+
+Tensoku0a:...
+
+Nazrin2a:It's a big doll! And it's moving...?
+
+Nazrin6b:We used to have that Flying Granary, so it's not a HUGE surprise, but...
+
+Nazrin1b:Either way, I can tell it's rare. Time for a little investigating.
+
+<end>

@@ -1,0 +1,2199 @@
+﻿○共通第七十一話「夢と幻の淵へ
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA-1
+ 1: ADVA-2 (1st reaction to bad choices)
+ 2: ADVA-3 (2nd reaction to bad choices)
+ 3: ADVA-4 (After the team name is set)
+ 4: ADVA-5 (SLG map)
+ 5: ADVA-6 (After SLG)
+ 6: 1PP-1
+ 7: 1PP-2
+ 8: reach near bed
+ 9: 3PP
+10: clear
+11: lose
+12: ADVB
+13: beat all enemies (unused)
+14: ADVA-0
+15-17: extra
+18-91: get to the destination (each char)
+
+<ChatID:0>---------------------------------------
+//ADVA-1
+
+<BG=bg_talk_Shrine_Spring2.png,fade=1,color=1,title=bg_Shrine,bgm=bgm_talk_aoki>
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Reimu0c:...Mmm, when was the last time I slept that well?
+
+Reimu0b:Thanks to Eirin's medicine, I didn't have to see a single dream all night.
+
+Reimu0a:It's coming up on time for the meeting. Where is everyone...?
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+Marisa4c:...Phew, made it on time.
+
+Marisa0a:Thanks to Eirin's medicine, I had a nice, dreamless sleep last night.
+
+Marisa0c:Maybe Reimu will actually wake up on time for once, but knowing her...
+
+Reimu0f:...
+
+</Cond>
+
+Marisa0a:Yo, Reimu.
+
+Reimu0e:Marisa? Never thought YOU'D be the first one here.
+
+Marisa7c:We haven't had an honest-to-goodness incident investigation for a while, so I hit the hay early last night.
+
+Marisa0a:Even got all my packing done. See?
+
+Reimu0e:Wait... seriously? You're bringing all that? What's even IN those bags?
+
+Marisa0c:That's a secret. But aren't you the one taking this a bit too easy?
+
+Reimu0g:Yeah, I guess so. But I know what I need to do...
+
+Reimu0b:I guess we're both as ready as we'll ever be.
+
+Marisa0a:Yup. All that's left is to kick some butt.
+
+Marisa0b:Speaking of, am I really the first one here?
+
+Reimu0b:Yeah, but the others should start trickling in any minute now.
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+Keine0a:..Oh? Marisa's already here?
+
+Sanae4a:And Reimu's already awake too. Thank goodness.
+
+Reimu0e:Oh, it's you four.
+
+Alice0b:Good, we can save the energy we normally spend waking you up.
+
+Nitori1a:Looks like you're raring to go now that today's the big day.
+
+Marisa0a:Hey there everyone. Doesn't this feel like the usual lineup though?
+
+Reimu0e:Sanae, you and Keine were here pretty late yesterday. Did you get enough sleep?
+
+Sanae5d:Yes, thank you. But you look pretty tired, Nitori.
+
+Nitori1a:Yeah, we were with Marisa until late last night.
+
+Alice0d:But all of us getting together like this really hammers home the fact that we're resolving an incident.
+
+Keine0a:Right. We've dealt with every other incident so far as a team.
+
+Keine3b:Although we've gathered quite a crowd since the first one...
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+Sakuya0a:True. You've even managed to make allies out of your former enemies.
+
+Remilia0a:And I expect you all to be grateful that I'm lending a hand.
+
+Marisa0a:The Scarlet Devil Mansion crew? Yeah, I guess you girls were the first.
+
+Patchouli3a:What a long-awaited battle it was. Remi certainly enjoyed it.
+
+Kurumi3b:Yeah, and we were there too! We just slipped in!
+
+Elliy5a:And at this point, you could say we're staples of the crew.
+
+Meiling0a:And while crossing the Misty Lake...
+
+Cirno3a:You ran into US!
+
+Sunny3a:Hey, Cirno! I'M the leader, let me talk!
+
+Reimu0f:Yeah, some fairies and minor youkai started tagging along too.
+
+Wriggle1a:Minor?! Even a tenth of an inch bug has a nine tenths of an inch soul!
+
+Rumia3a:That's an 80% increase!
+
+Daiyosei3b:Oh, sorry for having you get lumped in with us, Letty.
+
+Letty3c:You're friends. I don't mind.
+
+<Code=(map_flash,1,20,c_white)>
+
+<SE=se_talk_shutter02.ogg,wait=0>
+
+<Code=(demo_wait,10)>
+
+<Code=(map_flash,1,20,c_white)>
+
+<SE=se_talk_shutter02.ogg,wait=1>
+
+Aya1a:What a nice thing to say! And so different from the first time I interviewed you.
+
+Momiji5a:Good grief, are you already pulling out the camera, Aya?
+
+Minoriko3a:Why shouldn't she? Actually, why don't you record this whole trip for us?
+
+Kanako1a:It could certainly help advertise our shrine. Everyone should know what we've done for them.
+
+Alice0d:Oh, it's the Moriya Shrine and the rest of the mountain. As lively as ever, I see.
+
+Suika1a:Hey, someone pour me another cup, kay?
+
+Suwako1a:Finally, another danmaku festival. I'm gonna make the most of this.
+
+Lunasa0b:If you want to enjoy this, then...
+
+Merlin3d:Then leave it to us!
+
+Nitori2a:Wah! When did you get here?!
+
+Youmu2b:...We shouldn't sneak up on people like that. It's bad for the heart.
+
+Yuyuko3a:Oh? But what exactly do you think a phantom is, Youmu?
+
+Eiki0a:This is the morning of the final battle. We shouldn't be joking around like this.
+
+Satori0c:...You say that, but you seem to appreciate the relative lack of pathos here.
+
+Reimu4a:You know, having you all show up at once like this won't get the tea served any faster.
+
+Yugi3e:That's a shame, 'cuz the temple crew are almost here too.
+
+Marisa0c:The Palanquin Ship's on its way here, then?
+
+Koishi6c:Yup! Looks like it's landing over there.
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+Byakuren3c:Good morning, everyone.
+
+Akyu0a:Sorry, it looks like we're a little late.
+
+Tenshi0a:Without the ship, you might have been even later.
+
+Shinki0c:Oh thank goodness! I was afraid we'd get lost like last time.
+
+Alice0d:You took the ship too, Mom?
+
+Yumeko3c:Yes. Thanks to that, we've had a smooth trip.
+
+Medicine2d:We saw it on the way here and got a ride.
+
+Mima0e:From what I'm seeing, most of the group's assembled now?
+
+Marisa7c:Yup. With this crew, we could make any team we wanted.
+
+Keine0a:...What a wide array of people we've gathered. And not just from Gensokyo, even people from other worlds are helping out.
+
+Keine0c:And now...
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+Yorihime0b:...I see you're all prepared.
+
+Reisen2c:Geez, this is a big crowd...
+
+Toyohime5c:Not to mention eclectic. It's like a microcosm of the Earth.
+
+Keine1a:The Lunar Emissaries... I know we agreed to unite our forces, but to think we'll actually be fighting side by side.
+
+Toyohime0b:It's just as strange to us as it must seem to you, but I hope we can get along.
+
+Eirin3c:Don't worry everyone, you can trust them. I guarantee it.
+
+Alice0d:Glad to hear it. But I'm sure you had more to discuss last night, after we left.
+
+Kaguya3f:Yes, and that's exactly why you can trust them.
+
+Udonge0a:So who's missing...? Just Yukari?
+
+<SE=se_sys_sukima01.ogg,wait=1>
+
+Yukari1a:Don't you worry, I've been listening the whole time.
+
+Ran6a:Our combined might will be nothing to scoff at.
+
+Yorihime0c:The Sage of the Earth... Are you the one leading this force, then?
+
+Yukari0a:Oh no, not at all. I'm simply here to observe. This investigation is being led by Reimu and her friends.
+
+Yukari1a:With these girls' capabilities, they'll have no trouble keeping up with you ladies.
+
+Toyohime0b:Yes, I suppose we'll have to make an effort to keep up ourselves.
+
+Marisa0a:So anyway, now that we're all here, why don't we get this party started?
+
+Marisa0c:Before we go, how about a word from Alice and the teach?
+
+Alice0b:...I don't like the way you dumped that on us, but fine.
+
+Keine1a:So, to repeat, this is the final battle, so let's do one final review so we're all on the same page.
+
+<Code=(sound_fadeout,BGM,30,0)>
+
+<BGM=bgm_talk_potion,0>
+
+Keine1a:As you all know, Gensokyo has had its dreams stolen from us, to be replaced by daily nightmares that plague our thoughts.
+
+Keine1a:This situation is highly dangerous. If we don't do something, Gensokyo could be shaken to its core.
+
+Alice1c:The mastermind is a youkai who controls dreams, Makura Muwatari. And she and her minions are most likely hiding in the Dreamscape.
+
+Alice0a:Our current goal is to march into there and take back Gensokyo's dreams.
+
+Sakuya0a:Invade her stronghold and change her mind by force. Simple enough.
+
+Udonge3a:Well, you can't really call it a PLAN though...
+
+Youmu1b:For all we know we're playing right into her hands...
+
+Komachi1c:Yeah, but how is that any different from what we usually do?
+
+Sanae0a:Right, we've never had the full picture whenever we go into an incident.
+
+Orin4b:And despite that, we've resolved every last one.
+
+Sho1a:Indeed. With everyone working together, there's nothing we can't do.
+
+Reimu0c:Which is why we're taking this just like we always do.
+
+Alice0a:Right, but don't forget where we're going this time.
+
+Alice1b:The Dreamscape is in the space between Gensokyo and the Dream World. By going there physically, we're putting both our minds and bodies at risk.
+
+Keine0c:Not only that, but you should think of the mastermind's power there as absolutely omnipotent.
+
+Keine3b:If anyone would like to back down, then now's your chance.
+
+Remilia1c:Hmph. Don't insult us.
+
+Yuyuko5a:We're the type who can't just sit back when someone else is messing with our Gensokyo.
+
+Kanako1a:I didn't hesitate for a second, and I doubt anyone else here did either. All of us are prepared to face the final battle.
+
+Kaguya2c:And we all had a chance to face our feelings last night, I'm sure.
+
+Satori0c:...True. It seems we're all of one mind at the moment.
+
+Satori3c:This many connections is forming a huge swell.
+
+Shinki0c:Okay! Time to name our team then!
+
+Mokou0c:Seriously? You want us to have a team name?
+
+Toyohime2d:I also find that a little odd, given that we're not a military.
+
+Yukari0a:Perhaps it could help with our solidarity though. You can think of it as commemorating the occasion.
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Reimu0b:Fine, then how about...
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Marisa0a:Fine, then how about...
+
+</Cond>
+
+<end>
+
+<ChatID:1>---------------------------------------
+//ADVA-2（チーム名入力後の反応：妙なものを入力した場合）
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Reimu0b:How about [TEAM_NAME]?
+
+Keine0a:...
+
+Marisa0a:...How about something else?
+
+Reimu0d:Ugh, fine. Then...
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Marisa0a:How about [TEAM_NAME]?
+
+Keine0a:...
+
+Reimu3a:Might wanna rethink that.
+
+Marisa0a:Oh, fine. Then...
+
+</Cond>
+
+<end>
+
+<ChatID:2>---------------------------------------
+//ADVA-3（チーム名入力後の反応：妙なものを2回続けて入力した場合）
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Reimu0b:How about [TEAM_NAME]?
+
+Marisa0a:C'mon, Reimu, are you even trying? Come up with something else.
+
+Reimu0d:Ugh, fine. Then...
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Marisa0a:How about [TEAM_NAME]?
+
+Reimu3a:Come on, Marisa, are you even trying? Come up with something else.
+
+Marisa0a:Oh, fine. Then...
+
+</Cond>
+
+<end>
+
+<ChatID:3>---------------------------------------
+//ADVA-4（チーム名入力後）
+
+<Cond=(GLOBAL_VAR,route,==,Reimu) && (GLOBAL_VAR,team_name,==,幻想少女大戦隊)>
+
+Reimu0b:How about the FM Squadron?
+
+Utsuho0a:FM? What's that stand for?
+
+Yukari0a:Fantasy Maiden, I believe—signifying all of Gensokyo, the land of fantasy, coming together. It's elegant in its simplicity.
+
+Marisa0a:I like it. Let's go with that.
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa) && (GLOBAL_VAR,team_name,==,幻想少女大戦隊)>
+
+Marisa0a:How about the FM Squadron?
+
+Utsuho0a:FM? What's that stand for?
+
+Yukari0a:Fantasy Maiden, I believe—signifying all of Gensokyo, the land of fantasy, coming together. It's elegant in its simplicity.
+
+Reimu0b:That's pretty decent. Let's go with that.
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Reimu) && (GLOBAL_VAR,team_name,!=,幻想少女大戦隊) && (LOCAL_VAR,ADVA,is_bad,==,0)>
+
+Reimu0b:How about [TEAM_NAME]?
+
+Marisa0a:Sounds good. Let's go with that.
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa) && (GLOBAL_VAR,team_name,!=,幻想少女大戦隊) && (LOCAL_VAR,ADVA,is_bad,==,0)>
+
+Marisa0a:How about [TEAM_NAME]?
+
+Reimu0b:Sure, let's go with that.
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,team_name,!=,幻想少女大戦隊) && (LOCAL_VAR,ADVA,is_bad,>,0)>
+
+Keine0b:Alright, suit yourselves.
+
+</Cond>
+
+Alice0a:Anyway, with that settled, let's be on our way.
+
+Byakuren0a:Murasa, could you steer the ship for us, please?
+
+Murasa0a:Just leave it to me! Elly and Kurumi can show me the way, right?
+
+Elliy0a:You betcha. This is our big moment in the sun!
+
+Kurumi0a:Okay, so first we head to Mugenkan, which is through the lake behind the shrine.
+
+Kurumi0a:There's a room there that takes you into the Dreamscape.
+
+Yorihime0a:The plan is to look for traces of the mastermind there before going inside, I believe?
+
+Koakuma0a:It's Yuuka's old home, but I'm sure she won't mind us searching it.
+
+<Cond=(GLOBAL_VAR,team_name,==,幻想郷防衛軍)>
+
+Nitori1a:Then we're ready to go. Um... What were we called again? Not the Gensokyo Defense Force...
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,team_name,!=,幻想郷防衛軍)>
+
+Nitori1a:Then we're ready to go. Um... What were we called again? Not the Gensokyo Defense Force...
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Marisa0a:It's [TEAM_NAME], right?
+
+Nitori1a:Oh yeah, that's right. How about a quick wrap-up from the leader of [TEAM_NAME]? Got anything for us, Reimu?
+
+Reimu0a:Yeah, okay. It's time for us to resolve this dream incident.
+
+Reimu1a:Let's go, everyone!
+
+Marisa0a:Yeah!
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Reimu0b:It's [TEAM_NAME], remember?
+
+Nitori1a:Oh yeah, that's right. How about a quick wrap-up from the leader of [TEAM_NAME]? Got anything for us, Marisa?
+
+Marisa0a:Sure. We're gonna resolve this dream incident.
+
+Marisa1a:Let's go, everyone!
+
+Reimu0b:Right!
+
+</Cond>
+
+<end>
+
+<ChatID:4>---------------------------------------
+//ADVA-5（SLGマプ：幽香独白）
+
+Yuka0c:It's been quite a while since I visited my own home, hasn't it?
+
+Yuka0f:And in the short time I've been away, it's changed so much.
+
+Yuka2d:Now then, where's that tenant of mine...?
+
+<pause>
+
+Yuka0d:Gone, as expected. Whatever happened to giving notice to your landlady?
+
+Yuka0a:It certainly is just like a mastermind to withdraw deeper into your lair, though.
+
+<pause>
+
+Yuka2d:This shaking... It seems Reimu and the others have arrived too.
+
+Yuka0a:In that case, I suppose I should be headed in as well.
+
+Yuka0a:The great powers of Gensokyo have come together as one...
+
+Yuka0b:All that's left is to wait for that bud to bloom. I know it will be beautiful.
+
+<end>
+
+<ChatID:5>----------------------------------------
+//ADVA-6（SLGマプ後）
+
+<BG=bg_talk_Mugenkan.png,fade=1,color=1,title=bg_Mugenkan,bgm=bgm_pp_kasho>
+
+<SE=se_talk_console01.ogg,wait=0>
+
+<hide=video>
+
+Kosuzu0a:...Alright, the Palanquin Ship will be on standby in the hall.
+
+</hide>
+
+Meiling0a:Understood. You can leave the investigation to us.
+
+<SE=se_talk_console02.ogg,wait=1>
+
+Koakuma3b:...So we made it safely past the lake and into the mansion.
+
+Youmu1a:Right. This is Mugenkan, where the entrance to the Dreamscape is...
+
+Marisa1b:It feels pretty different from how it did last time I was here.
+
+Reimu1b:You got that right. It's like it's been abandoned.
+
+Daiyosei2c:It's so pretty...
+
+Alice0d:It's largely derelict, but it has a certain tranquility to it.
+
+Lunasa0b:Ruin explorers would be all over this place.
+
+Sanae5c:I've heard of those, myself...
+
+Elliy0b:Watch out, the floor's unstable and the flooding is awful.
+
+Elliy4b:Even my favorite tiles came off... Are they underwater somewhere?
+
+Kurumi1a:Wait, but look at that!
+
+Wriggle1b:A flower petal...? It's new too, and full of youkai energy.
+
+Marisa1b:Aha. It's...
+
+Alice0b:Yuuka. There's no doubt about it.
+
+Patchouli0a:Was she here until just recently?
+
+Medicine2b:Yuuka was here?
+
+Hina0a:You haven't seen her since the flower field, have you, Medicine?
+
+Medicine2c:No. I miss her, but...
+
+Medicine3c:She said we'd meet again, outside the suzuran field. So I'm not worried. I'm just doing what I can.
+
+Sakuya0a:We might even run into her in the Dreamscape.
+
+Meiling1b:But who knows what she's thinking? There's a good chance we'll end up fighting her.
+
+Remilia1a:Perfect! I've always wanted a real fight with her anyway.
+
+Flan2b:No fair, Remi! I wanna fight her too!
+
+Daiyosei0b:This is our first time coming here, but the Scarlet Devil Mansion people are acting the same as usual, huh?
+
+Patchouli3e:That's just how Remi is. If you're waiting for her to show her timid side, I think you'll be waiting a long time.
+
+Koakuma3d:That's right. Just last night the mistress suggested we hold a celebration on the eve of the final battle.
+
+Reimu0f:Wait, what? Don't tell me you threw a party...?
+
+Remilia3d:Of course we did. Just a modest one though, with a few of our closest neighbors.
+
+Sakuya0a:Yukari certainly managed to procure a lot of good mutton on short notice.
+
+Sanae5d:Wow, a party on the night before a battle? I would never have even thought of that.
+
+Hina5a:Mutton, though? That's quite a grim sense of humor.
+
+Youmu4b:It doesn't surprise me, coming from them.
+
+Keine0a:True. Maybe Remilia's unwavering confidence is the key to the entire mansion's strength.
+
+Keine6b:It's certainly reassuring to have on our side when we're marching into enemy territory.
+
+Meiling5a:Just leave it to us! Leading from the front lines is our specialty!
+
+Tewi3f:You talk about taking the lead, but while you're talking, someone else is stealing your dibs.
+
+Tewi5a:Our esteemed guests from the moon are already on top of things.
+
+<single>
+
+Yorihime0b:...Nothing amiss here. Let's move on to the next room.
+
+</single>
+
+Reisen2c:Ah, Lady Yorihime, wait up!
+
+Udonge2b:If we don't slow down, we'll leave everyone behind!
+
+Yorihime0a:We've got a long road ahead of us, and no time to waste here.
+
+Yorihime0b:Why should that matter, anyway? Our mission isn't to befriend them, is it?
+
+Reisen2c:Well, it's not like many people could get along with Lady Yorihime anyway...
+
+Iku0e:How strong-willed. I'm starting to understand the stories I've heard of her beating everyone up on the moon.
+
+Toyohime2c:Please excuse her, she doesn't mean anything by it. As I'm sure you can tell, she's just... serious about everything.
+
+Toyohime0b:Once you get to know her, she has a cute side to her too.
+
+Yumeko0b:It's not a problem. If anything, it makes her easier to work with.
+
+Shinki0b:I don't mind either! After Yumeko, I'm used to being around these Spartan types.
+
+Shinki0a:I'm sure Yorihime's seriousness will pay off down the road.
+
+Toyohime0b:Thank you, Shinki. I can only hope that the others are as kind and understanding as you.
+
+Shinki0d:Oh, stop that, Toyohime! I should be the saying the same to you!
+
+Udonge3a:Well, at least those two are getting along, somehow...
+
+Yumeko5b:Birds of a feather flock together, as they say. Not to mention how they both seem to draw from a bottomless well of power.
+
+Reisen1a:But the surface dwellers aren't half-bad at getting things done either.
+
+<Cond=(CHECK_TOT_ITEM,MAGATAMA,>,0)>
+
+Yorihime0b:...Right. After what we've seen them do on the moon, we shouldn't underestimate them.
+
+Yorihime0d:I can't say I'd object to a little payback for what they did to me in the sea of stars as well.
+
+</Cond>
+
+<Cond=(CHECK_TOT_ITEM,MAGATAMA,==,0)>
+
+Yorihime0b:...Right. After what we've seen them do on the moon, we shouldn't underestimate them.
+
+</Cond>
+
+Tenshi0d:But it couldn't hurt to try to match your pace to them, could it?
+
+Tenshi4a:Wouldn't we be wasting even more time if someone got separated?
+
+Yorihime0c:True. But I never thought I'd hear those words from a celestial. What a curious remark, coming from you.
+
+Tenshi1e:What do you mean, curious?
+
+Yorihime0a:I've heard the people of Heaven look down on the Earthlings, thinking themselves superior beings.
+
+Yorihime0c:But here you are, suggesting we match pace with the others.
+
+Tenshi2d:You're saying I'm not much of a celestial. Thanks, I didn't need the reminder.
+
+Yorihime3a:...?
+
+Reisen0a:Did we somehow offend her? I took what Lady Yorihime said as a compliment.
+
+Iku4c:Well, it's a bit of a complicated situation for her.
+
+Iku0a:As she says, Heavenly culture doesn't look kindly on befriending terrestrials.
+
+Udonge3b:Ah, and that means she can't take it as a compliment, even if it was meant as one.
+
+Toyohime0c:I see. That sounds familiar, alright.
+
+Toyohime5b:She feels stifled because she's the odd one out among her peers, I take it?
+
+Yorihime0b:If so, we're no strangers to that feeling.
+
+Reisen0e:Even the Watatsuki sisters have been through a lot in the Lunar Capital.
+
+Tenshi3a:Hmm. You have, have you?
+
+Iku5d:You surmise correctly. I hope that you can all enjoy fine conversations together.
+
+Iku4b:After all, there are none in Heaven willing to show understanding of her circumstances and troubles.
+
+Yorihime0a:...
+
+Tenshi1d:Mind your own business, Iku. You're here for your job, so stop acting like you're my mom.
+
+Iku0c:Oh, you misunderstand. I'm not here for my job, I'm here because I personally want to help you, Eldest Daughter.
+
+Tenshi1d:Wait, what...?
+
+Tenshi4b:Where's this coming from?! Were you always like this...?
+
+Iku0c:The people of Earth scolded us for being too fixated on "duty" and "position".
+
+Iku0a:Hearing that really opened my eyes. I'd never realized it could be any other way.
+
+Tenshi0d:So you've been influenced by them...?
+
+Iku3a:Right, which is why I personally want to help you, Eldest Daughter.
+
+Iku3c:I hope for you to find a personal status quo that you can be content with.
+
+Tenshi0c:...
+
+Tenshi4b:That's not fair. You can't just spring this on me out of nowhere...
+
+Tenshi4a:Besides, how am I supposed to do that when I don't know the first thing about what makes me who I am?
+
+Yorihime0a:...
+
+<SE=se_talk_run.ogg,wait=1>
+
+Sunny5a:Heeey!
+
+Luna0a:We're pretty much done here, so we're gonna head further in by ship.
+
+Toyohime0a:Oh? It sounds like we're finished searching in this area.
+
+Yumeko3b:As long as we're making progress. Hurry, we need to join up with the others.
+
+<end>
+
+<ChatID:6>---------------------------------------
+//1PP（出撃前）
+
+Akyu1a:Here we are, the deepest part of the mansion.
+
+Korin2c:Well, this is suspiciously huge. What kind of mansion would need a room like this?
+
+Elliy5a:The entrance to the Dreamscape is in this room.
+
+Elliy0a:See? Right there.
+
+<pause>
+
+Kisume2b:...!
+
+Yugi1b:What the heck? It gets all hazy over there.
+
+Parsee0a:I don't recognize that magic or spiritual power, but that's...
+
+Yukari0a:...The light of dreams, spilling into the real world. It certainly does seem connected to the Dreamscape.
+
+Kogasa2b:Is anyone else surprised?! I thought it'd be a door or something!
+
+Yamame4a:I think it'd be MORE surprising if the entrance to an otherworld was just a door.
+
+Minoriko2a:But we still haven't found any traces of the mastermind. Should we look around a little more first?
+
+Star1c:Wait! I'm picking up some presences...
+
+<pause>
+
+Orin1b:More of those damned sheep familiars! Looks like they're coming out of the Dreamscape!
+
+Mima1b:Well, what more proof do we need? The villain's obviously up ahead.
+
+Yorihime0a:Then prepare to sortie. We'll crush a path through the sheep and charge into the Dreamscape.
+
+Yorihime0b:However, you're each responsible for reaching it on your own. You'll have 6 minutes. That should be more than enough time.
+
+Toyohime0b:Well, that's the plan she's offering. What do you say, Earthlings?
+
+Ran6a:No objections here. The sooner we begin, the better.
+
+Akyu1a:Everyone, move out!
+
+<end>
+
+<ChatID:7>---------------------------------------
+//1PP（出撃後）
+
+Merlin3d:Alright, let's go! Right into that fog!
+
+Cirno6a:Are you scared to split up, Dai?
+
+Daiyosei1a:A little... But I'll be fine!
+
+Yorihime0b:Anyone who's unsure of themselves, take the rearguard. I'll take point and—
+
+Remilia1a:Who said you could take that role for yourself?
+
+Yorihime0a:What...?
+
+Remilia1a:I'm the strongest and fastest here, so naturally I go first!
+
+Flan1a:Tee hee hee, no way I'm letting you get all the sheep!
+
+Patchouli4a:Good grief, didn't they get enough lamb last night?
+
+Sakuya0a:I'm sure they're just in high spirits because it's the first battle.
+
+Yorihime2a:What are you even talking about? Why is this a competition?
+
+Yukari1a:Oh? I thought I already told you? This investigation is being led by Reimu and her friends. All of them.
+
+Yorihime0b:...I see. So not a single one of you is simply a follower.
+
+Toyohime0b:How interesting. The moon would never tolerate that kind of internal conflict.
+
+Elliy3b:Why are we still talking?! The entrance to the Dreamscape is right there!
+
+<pause>
+
+Elliy1a:Just remember, once you're in, it won't be easy getting back out.
+
+Akyu1a:We don't know when the enemy will get reinforcements! Let's break through as quickly as possible!
+
+<end>
+
+<ChatID:8>---------------------------------------
+//ベドの付近まで移動
+
+Reimu0e:Hm? That's...
+
+<pause>
+
+Koakuma5b:A... bed? And it looks like someone was using it until recently.
+
+Luna0b:Who would've been sleeping here?
+
+Elliy1a:Uh... probably not Yuuka. Maybe the mastermind?
+
+Yuyuko1b:Now that you mention it, there are faint lingering traces of a youkai's aura here.
+
+Kurumi0a:I don't see any bed cover though... Did she take it with her?
+
+Nazrin0b:Either way, we know she's up ahead so we can find out later.
+
+<pause>
+
+Kisume2b:...!
+
+Mokou1c:Reinforcements, huh? They sure are hard workers.
+
+Sho1b:There's no end to them. We need to reach the Dreamscape as quickly as possible.
+
+<end>
+
+<ChatID:9>---------------------------------------
+//3PP（または一定数の敵を撃墜時）
+
+Kurumi1c:Ack, even more of them!
+
+Elliy1a:Whatever happened to public decency?! Did things really change so much while we were gone?!
+
+Meiling0a:But this is a good chance to show our stuff!
+
+Meiling1a:Let's do this, Sakuya!
+
+Sakuya6a:Yes, Meiling. I suppose I'll be the blade and you'll be the barricade.
+
+Meiling3c:Couldn't you at least let me be a shield?
+
+Koakuma3d:I'll worry about the energy, so feel free to go all out, everyone!
+
+Flan3d:Yeah, counting on you!
+
+Reisen1a:...Wow, the Earthlings sure are on the same wavelength.
+
+Yorihime0a:Is this the result of some kind of cooperation training?
+
+Patchouli4a:Hardly. Everyone's just acting however they please.
+
+Toyohime2c:And how does that work out so well?
+
+Remilia3a:Because MY people all have talent. If everyone focuses on what makes them special, then it all just fits together.
+
+Tenshi0d:In other words, you're being yourselves.
+
+Flan0e:...?
+
+Patchouli0c:Why put it that way?
+
+Tenshi3a:Oh, no reason. I was just thinking that you all seem to know what you're good at.
+
+Meiling0c:Oh, that makes sense. I never really thought about it that way.
+
+Komachi0a:What, you're still worried about that stuff this late in the game?
+
+Kogasa0a:It's not like you need to change anything. I mean, you're already helping, Tenshi.
+
+Tenshi5b:Y-Yeah, but that doesn't mean everything's okay!
+
+Tenshi4a:I thought I already knew how to be a celestial, but now that I've thrown that away, I have to figure out how to be myself too?
+
+Yorihime0a:...
+
+Tenshi0d:...This isn't the time for this. Let's just clean up here and get moving.
+
+<end>
+
+<ChatID:10>---------------------------------------
+//クリア後演出
+
+Reimu2a:Rgh, this place...
+
+<Code=(icon_set_direction,Marisa,Seirensen,0)>
+
+Marisa1a:Is everyone here?
+
+Akyu1a:Yes, I've confirmed that we're all accounted for!
+
+Kanako0c:So we made it safely inside then? But there's nothing here...
+
+Daiyosei5e:Is this the Dreamscape?
+
+Elliy0a:We're still in the entrance. We should be seeing something soon...
+
+<pause>
+
+Elliy4b:...Wait, huh?
+
+Utsuho0e:I don't get any of this, but...
+
+Parsee2a:We'd better not be lost!
+
+Shinki0a:No, but there's some kind of invisible wall blocking the way.
+
+Shinki5b:It seems like a special barrier built to keep out intruders.
+
+Mima1b:Well, three guesses who put it up, and the first two don't count.
+
+Toyohime0b:Shall I blow it away with my fan?
+
+Nazrin2a:Hold up, what if it just bounces back toward us?
+
+Toyohime2c:I was joking. I doubt this barrier could be broken through brute force anyway.
+
+Satori0c:Yes, it seems to be made of... thoughts. Countless thoughts, layered on top of each other.
+
+Satori0b:To break it, you'd need to use a power of the same type.
+
+Ran6b:Hmm... so the power of the mind, then?
+
+Marisa0a:Then how about Tenshi's Sword of Hisou? Couldn't that break it?
+
+Tenshi1d:Huh? You mean this?
+
+Suika0a:Oh, right, a sword that gathers temperament would be just perfect for smashing this wall.
+
+Keine1a:Care to give it a shot, Tenshi?
+
+Tenshi2d:This is a weapon that can only be wielded by a celestial. So if we need it now, then...
+
+Tenshi0a:Very well, I'll do it!
+
+<pause>
+
+Tenshi1a:This will be a test of my power. Breaking the barrier will be my proof...!
+
+Tenshi1b:Let's do this, Sword of Hisou!
+
+<pause>
+
+Tenshi2e:What in the world...?
+
+Youmu2b:You did damage it, but...
+
+Yuyuko2a:It's no use, it just repaired itself immediately.
+
+Yuyuko0a:In order to break through, we can't just spill temperament everywhere, we have to focus it on a single point.
+
+<Code=(icon_set_direction,Tenshi,FD_RIGHT,0)>
+
+Tenshi1b:Wait, but I was giving it all I had!
+
+Tenshi4b:Now you're telling me I need to do BETTER than that...?
+
+Kaguya3b:I sense that your treasure is capable of just that, in fact.
+
+Toyohime0a:I did get the impression that you aren't drawing out its full potential.
+
+Tenshi1e:So... So I haven't fully mastered the Sword of Hisou?
+
+Tenshi4c:I knew it. In the end, I'm just a failed celestial...
+
+Sanae3b:Tenshi...
+
+Tenshi4b:I didn't want to admit it, and was even so stubborn about being seen as a celestial...
+
+Tenshi0c:I look like an idiot, don't I?
+
+Yorihime0a:...
+
+Reisen2c:C-C'mon, don't say that! Can't you just try again?
+
+Utsuho0d:Yeah, never just call yourself stupid and give up!
+
+Iku1b:...
+
+Iku5d:No, maybe it's for the best that you failed.
+
+Tenshi1e:...?!
+
+Parsee0a:Was that supposed to be a joke? Because you of all people should know this isn't the time for jokes.
+
+Iku0c:Of course not. But when I think back, I can't recall a single celestial ever fully controlling the temperament.
+
+Iku0a:So perhaps even striving for the power of a celestial isn't enough to handle that sword.
+
+Tenshi1e:You're saying I shouldn't consider celestials the standard to strive for?
+
+Iku0a:Yes. At least for now.
+
+Iku1a:But if the temperament of a celestial won't do, then why not try what you alone possess, Eldest Daughter?
+
+Tenshi0e:What I alone possess...?
+
+Tenshi2e:If you aren't going to help, then shut up, Iku! What do I have that a real celestial doesn't?!
+
+Iku1a:A human heart.
+
+Tenshi1e:A human heart...?
+
+<pause>
+
+Iku0e:Right. You have the ability to understand the feelings of others. Other celestials don't have that empathy.
+
+Iku5d:That's what makes you special, as someone born on Earth who became a celestial while maintaining your human heart.
+
+Iku3c:Isn't that what makes you you, Eldest Daughter?
+
+Tenshi0d:So being myself means having a human heart...
+
+Sunny5a:Yeah, being so approachable is the best thing about you, Tenshi!
+
+Hatate3a:Remember walking through the village, eating sweets together?
+
+Mokou5b:Looking down on people just doesn't suit you, you know?
+
+Minoriko3a:You shine way more when you're down in the dirt with us!
+
+Yukari5a:Your behavior may make you a delinquent, but the way you strive to do something for those around you is certainly understandable.
+
+Marisa1a:So give it another shot, Tenshi!
+
+Tenshi4b:You people...
+
+Iku1a:I know that the sword will be even stronger now that you've acknowledged your own heart.
+
+Patchouli3b:It's only natural for a tool that controls the human spirit to respond to a human heart.
+
+Tenshi0a:...I get what you're all saying. But that doesn't mean I can really do it, does it?
+
+Yorihime0b:If you're going to give up, then that will simply be it.
+
+Tenshi1e:...!
+
+Yorihime0b:But I assume you've come this far by cooperating with the others. Then see this to the end and lay claim to something for yourself.
+
+Yorihime0a:That should prove to yourself who you really are.
+
+Tenshi2c:Who I really am... Yes, that's the whole point...
+
+Iku0e:And if you need a little push, then I'm here to cheer you on.
+
+Iku3c:I know you can do this, Eldest Daughter.
+
+Tenshi0b:Iku...
+
+Iku1c:That's my honest opinion, as your friend.
+
+Iku5d:Good luck. I'll be watching over you.
+
+Tenshi0c:...Fine. I'll try.
+
+Tenshi3b:I'll believe in your words, and in my power!
+
+<Code=(icon_set_direction,Tenshi,FD_LEFT,0)>
+
+<pause>
+
+Keine1a:...!
+
+Luna1a:Ooh, that power...
+
+Toyohime2b:...The aurora. Also known as the northern lights.
+
+Toyohime0a:Her temperament must have manifested in response to her heart surging.
+
+Yorihime0a:...And the aurora holds the ability to bring out all other temperaments.
+
+Yorihime1a:I shall witness its true worth.
+
+Tenshi2c:I'm different from before. Now I can combine all temperaments, human and youkai...
+
+Tenshi1b:Let's do this, Sword of Hisou!
+
+<pause>
+
+Tenshi3d:I... I did it!
+
+LilyW0a:Look, this time the wall came down!
+
+Keine6d:You pulled it off, Tenshi!
+
+Ran6a:Until now you've only been releasing the temperament, but now you can form an edge?
+
+Mima3a:You can control it that well only because you accept and understand others.
+
+Yukari0a:...Daughter of Heaven, only through the blessing of the Earth can you truly know others.
+
+Yukari1a:In other words, you can only wield that power thanks to your unusual history.
+
+Iku3d:That was magnificent, Eldest Daughter.
+
+<Code=(icon_set_direction,Tenshi,FD_RIGHT,0)>
+
+Tenshi3c:....Yeah, I can do it if I try.
+
+Tenshi3d:I may not have gotten in touch with my inner celestial, but at least I got in touch with my inner self...
+
+Youmu4c:Looks like you finally found your way.
+
+Elliy0a:And they all lived happily ever after... Wait, shouldn't we get going?
+
+Koakuma0a:Right, that hole might plug itself up soon.
+
+Akyu0a:Okay, everyone. Return to ship.
+
+<end>
+
+<ChatID:11>---------------------------------------
+//全滅時
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_players,>,0)>
+
+Korin2c:Augh, not like this...!
+
+Akyu4b:We're all facing aquatic doom...
+
+</Cond>
+
+<end>
+
+<ChatID:12>---------------------------------------
+//ADVB
+
+<BG=bg_talk_Seirensen_Bridge_Mugen.png,fade=1,color=1,title=bg_Seirensen_Bridge,bgm=bgm_talk_ningyo>
+
+Kurumi3b:Good work, everyone!
+
+Elliy0a:I think the fog started clearing up when we broke the wall.
+
+Meiling0a:So we made it past the first hurdle!
+
+Sakuya0a:Yes, I hope we can keep up this pace. 
+
+Keine6c:And it was all thanks to you, Tenshi.
+
+Tenshi0b:Hearing that makes that whole breakthrough worthwhile.
+
+Tenshi6e:Thank you, everyone.
+
+Nitori2a:...
+
+Luna1a:...
+
+Tenshi5b:What? Is there something on my face?
+
+Sunny3b:No, it's just... I never thought you'd be honestly thanking anyone.
+
+Shizuha1c:Looks like you broke down another wall along with the one to the Dreamscape!
+
+Tenshi6f:Sh-Shut up! That's exactly why this was so hard for me!
+
+Tenshi6d:But still, it's true that I feel a lot better now that I've met you. So thanks.
+
+Yugi3e:Great! And it sounds like your feelings got through too, Iku.
+
+Iku5d:Yes, thanks to your advice.
+
+Iku0a:I feel like I can act more naturally around her after coming to the surface and being around all of you.
+
+Parsee0a:Yeah, FINALLY. Now how about you start being more normal friends?
+
+Parsee0c:You're BOTH such a pain. There I was, watching from my bridge in agony at how you two interact.
+
+Iku5c:It seems I can't read my own atmosphere then.
+
+Nitori1a:Eh, that's just part of being friends.
+
+Tenshi0b:Friends, huh...
+
+Iku0e:Is something troubling you, Eldest Daughter?
+
+Tenshi6e:Say, Iku, about what you said back there. Did you mean it?
+
+Iku0d:I'm not sure what you're referring to.
+
+Tenshi6d:You know! What you said about me!
+
+Iku0c:Ah...
+
+Iku5c:...?
+
+Tenshi6f:Geez, learn to take a hint! I mean about us being... f-friends!
+
+Iku3b:Oh, that. I certainly didn't say it as a joke.
+
+Iku4a:Did that incur your displeasure, Eldest Daughter?
+
+Tenshi5c:No! That's not what I meant! Ah, forget it. This is exhausting.
+
+Yugi0d:Way to drop a convo in the middle.
+
+Parsee1a:Ah yes, the experience of talking to someone dense. I know exactly how you feel, Tenshi.
+
+Suika3d:Anyhoo, I guess we'll be counting on you to keep looking after her, as both a guardian and a friend.
+
+Iku3a:Certainly. I'll continue to be in your care.
+
+Iku3c:And I'm sure I'm not the only one grateful. You all gave the eldest daughter the push she needed, and I know she'll return the favor.
+
+Mokou1a:So after this, do you think you'll get along better in Heaven too?
+
+Tenshi0d:...I'm not so sure about that. The other celestials don't exactly value being able to understand the human heart.
+
+Tenshi0b:But I can worry about that later. For now, just understanding myself better is such a refreshing feeling.
+
+Marisa0c:Right. It's not like Heaven's the only place that matters.
+
+Yorihime0b:If you have more self-confidence now, then this was the best possible result.
+
+Tenshi0d:Yorihime...
+
+Yorihime0c:That was a brilliant scarlet sword you showed us.
+
+Yorihime1a:I'm sure you couldn't have made it without all your experiences up til now.
+
+Tenshi1e:You think?
+
+Yorihime0c:If you'd leaned too far towards either celestial or human, you wouldn't have been able to put together the temperament of both human and youkai like that.
+
+Yorihime0b:You were able to stand between them precisely BECAUSE you both clung to being a celestial and recognized your own human heart.
+
+Yorihime0d:This wasn't just an accident of your birth. It's proof of your efforts, and of your way of life.
+
+Tenshi3a:...
+
+Reimu0g:This is a surprise. Never figured you were the type to praise someone like that.
+
+Yorihime0c:It's only natural to show respect for the efforts people have made.
+
+Mima0e:But you only just met her. That shows a lot of insight.
+
+Mima0a:Guess you really do have the dignity and grace to stand about others. Huh.
+
+Keine6b:Indeed. I think some of us could learn a lot from your serious attitude.
+
+Yorihime3a:You think...?
+
+Eiki3b:This will be a good chance for us to observe Lunarian methods. By all mean, continue your Spartan leadership.
+
+Komachi3c:If she's got the approval of both Keine AND the Yama, then she must be a natural at giving people lectures.
+
+Rumia2b:Whaaat? Now we've got ANOTHER one?!
+
+Mystia3d:Who cares? C'mon, let's sing together!
+
+Yorihime2a:Huh? Sing? What's going on here?
+
+Koishi6c:My sister says shrine maidens are good at singing and dancing!
+
+Utsuho5d:So teach us how to sing and dance! And how to use the power of the gods!
+
+Yorihime5e:Hold on. I don't mind teaching you about the gods, but if you want to sing and dance you should really ask my sister...!
+
+Yorihime2a:Toyohime! Don't just stand there! Say something to them!
+
+Toyohime0b:Good luck, Yorihime!
+
+Yorihime2a:You can't do this to me...!
+
+<SE=se_talk_walk_indoor03.ogg,wait=1>
+
+<single>
+
+Reisen2c:...Wow, I knew those Earthlings were something else. Lady Yorihime didn't stand a chance.
+
+</single>
+
+Udonge3a:And you're the same as ever, Lady Toyohime.
+
+Toyohime0b:It's a drastic measure, but I hope it helps her get along with you all better.
+
+Eirin0a:But we have to make the best of our time together. I hope this will be a good experience for you, too.
+
+Eirin3c:I'm sure there are things you can learn from the people of Earth that you could never learn on the moon.
+
+Toyohime0b:Right. I hope to get along in the short time we have together.
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Reimu0e:Okay, now's where the investigation really gets underway. It's time to resolve the dream incident.
+
+Reimu0b:To the Dreamscape!
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Marisa0c:Okay, now's where the investigation really gets going. It's time to resolve the dream incident.
+
+Marisa0a:To the Dreamscape!
+
+</Cond>
+
+<BG=bg_talk_Mugen_Deep.png,fade=1,color=1,title=bg_Unknown,bgm=bgm_talk_dream>
+
+Makura5a:The brilliant light of all these dreams...
+
+Makura5a:It's even more powerful than I had imagined. To think this land was so full of dreams.
+
+Makura5a:But now that I have them all, I can finally realize my own dream...
+
+<SE=se_talk_walk_outdoor01.ogg,wait=1>
+
+Meko0a:Hello, Lady Makura.
+
+Makura5a:Oh, you're back, Mehko?
+
+Meko0a:I was just taking a look around, but this place really is amazing.
+
+Meko1b:So down below us is...
+
+Makura5a:Yes, it's where all of Gensokyo's dreams are gathered. The dreamspirit fountain.
+
+Makura5a:With this power, I will guide Gensokyo's dreams onto the correct path.
+
+Meko0c:...The humans are looking pretty defeated. Just one more push, huh?
+
+Meko1a:Okay, I'm going on another patrol!
+
+Makura5a:No need to get yourself so worked up. You must be tired from everything you've done recently.
+
+Meko0b:But I have to make up for messing up with the medicine yesterday...
+
+Makura5a:That was an unforeseen obstacle. We never thought this would be easy.
+
+Makura5a:But now that we've come so far, our victory is already assured. That hasn't changed.
+
+Makura5a:Please, rest and heal your wounds.
+
+Meko1f:Thank you, Lady Makura! But if there's anything I can do...
+
+<Code=(map_flash,1,30,c_white)>
+
+<SE=se_kyupin01.ogg,wait=0>
+
+<Code=(demo_wait,26)>
+
+Meko0a:...Hm?
+
+Makura5a:...
+
+Meko0b:Lady Makura, what was that?
+
+Makura5a:Someone's crossed the barrier and intruded in the Dreamscape.
+
+Makura5a:From what I'm feeling, it's Reimu and Marisa... along with the gods and youkai they're working with.
+
+Meko1d:A-All of them? It's only been a day since I fought them!
+
+Meko0b:Plus, didn't you say you sensed Yuuka Kazami come in earlier?
+
+Makura5a:There's no need to panic. As long as we're in the Dreamscape, my power is absolute.
+
+Makura5a:Even if all else fails, I can always borrow the power of all these dreams.
+
+Makura5a:Nothing they do will have any meaning whatsoever.
+
+Meko0b:O-Okay. Yeah, as long as you're here, Lady Makura...
+
+Meko0e:Right, yeah! You can send 'em packing whenever you want!
+
+Makura5a:...More than that, by the time they've reached this place they'll have already succumbed to fear and despair.
+
+Makura5a:Because I've already manifested a certain youkai for them to fight.
+
+Meko1e:A certain youkai...?
+
+<SE=se_hit_bullet_L03.ogg,wait=0>
+
+<Code=(map_shake,1,90,1)>
+
+<Code=(demo_wait,65)>
+
+Meko0b:...!
+
+Meko0b:It's...
+
+<hide=all>
+
+Noname0a:Heh heh heh...
+
+</hide>
+
+<SE=se_laugh.ogg,wait=0>
+
+<Code=(transition_out,c_black,60,0)>
+
+<Code=(demo_wait,150)>
+
+<Code=(sound_fadeout,BGM,60,0)>
+
+<end>
+
+<ChatID:13>---------------------------------------
+//増援後に敵を全滅（没）
+
+<end>
+
+<ChatID:14>---------------------------------------
+//ADVA-0
+
+<BG=bg_talk_Shrine_Spring2.png,fade=1,color=1,title=bg_AndThen>
+
+<Code=(demo_wait,10)>
+
+<end>
+
+<ChatID:15>---------------------------------------
+//予備枠
+
+<end>
+
+<ChatID:16>---------------------------------------
+//予備枠
+
+<end>
+
+<ChatID:17>---------------------------------------
+//予備枠
+
+<end>
+
+<ChatID:18>----------------------------------------
+//目的地に到達（霊夢R）
+
+Reimu0a:So up ahead is the Dreamscape? Might as well step inside.
+
+Reimu1a:I'm the one who resolves Gensokyo's incidents!
+
+<end>
+
+<ChatID:19>----------------------------------------
+//目的地に到達（魔理沙R）
+
+Marisa0a:I'm the one who picked up Shiro, so I'm the one who's gotta settle this.
+
+Marisa0a:I'm the one resolving this incident, not Reimu!
+
+<end>
+
+<ChatID:20>----------------------------------------
+//目的地に到達（早苗さん）
+
+Sanae0a:I'm just as worried as anyone else. But we made up our minds last night!
+
+Sanae1a:Let's do this together, everyone!
+
+<end>
+
+<ChatID:21>----------------------------------------
+//目的地に到達（アリス）
+
+Alice0a:So this is where we'll be settling thing... The rift between dreams and Gensokyo.
+
+Alice0a:Let's go, for everyone's sake.
+
+<end>
+
+<ChatID:22>----------------------------------------
+//目的地に到達（ルーミア）
+
+Rumia0a:Wow, I can't believe I'm even following them to a place like this.
+
+Rumia0a:Whatever, here I go!
+
+<end>
+
+<ChatID:23>----------------------------------------
+//目的地に到達（大妖精）
+
+Daiyosei0a:I can't be scared! Even I can help everyone!
+
+Daiyosei2a:Lend me your courage, Cirno!
+
+<end>
+
+<ChatID:24>----------------------------------------
+//目的地に到達（チルノ）
+
+Cirno0a:So past here is the, uh, whatever-scape!
+
+Cirno0a:I'll beat up the bad guy and show everyone I'm the strongest!
+
+<end>
+
+<ChatID:25>----------------------------------------
+//目的地に到達（美鈴）
+
+Meiling0a:Hong Meiling, the Scarlet Devil Mansion's gatekeeper, reporting for duty! I'm ready to fight even in my dreams!
+
+Meiling0a:Charging in!
+
+<end>
+
+<ChatID:26>----------------------------------------
+//目的地に到達（小悪魔）
+
+Koakuma0a:This is so nerve-wracking. I still have so much to live for. And all that shopping I need to do...
+
+Koakuma0a:Wha?! There's nowhere to stand! I'm falling, Lady Patchouliii!
+
+<end>
+
+<ChatID:27>----------------------------------------
+//目的地に到達（パチュリー）
+
+Patchouli0a:So this leads to the Dreamscape. Let's see, do I have any relevant documents...?
+
+Patchouli0a:Oh well, I'm out of time. I'll just have to take my time and do the research on-site.
+
+<end>
+
+<ChatID:28>----------------------------------------
+//目的地に到達（咲夜）
+
+Sakuya0a:Is there any limit to how much wool these sheep can produce...?
+
+Sakuya0a:We can even use them in cooking too. Maybe we should try domesticating them?
+
+<end>
+
+<ChatID:29>----------------------------------------
+//目的地に到達（レミリア）
+
+Remilia0a:I don't know who this pillow lady thinks she is, but how dare she ignore me.
+
+Remilia1a:It's time to show her what real charisma is!
+
+<end>
+
+<ChatID:30>----------------------------------------
+//目的地に到達（フラン）
+
+Flan0b:Tee hee hee, if it's in a dream I can do whatever I want and no one will get mad!
+
+Flan0a:This is gonna be so fun! Hee hee!
+
+<end>
+
+<ChatID:31>----------------------------------------
+//目的地に到達（レティ）
+
+Letty0a:It's almost spring... I don't have much time left.
+
+Letty0a:All the more reason to settle this here.
+
+<end>
+
+<ChatID:32>----------------------------------------
+//目的地に到達（橙）
+
+Chen0b:I made it, Miss Ran!
+
+Chen0a:No, wait, there's still some kinda entrance...
+
+Chen0b:I'm heading in, Miss Ran!
+
+<end>
+
+<ChatID:33>----------------------------------------
+//目的地に到達（リリー）
+
+LilyW0a:I can't believe I get to go on an investigation with Miss Rabbit.
+
+LilyW0a:Spring will arrive even in the Dreamscape!
+
+<end>
+
+<ChatID:34>----------------------------------------
+//目的地に到達（リリカ）
+
+Lyrica0a:So we have to jump in there? This is making me nervous.
+
+Lyrica0a:I'm sure my sisters wouldn't even hesitate though. And I'm not falling behind!
+
+<end>
+
+<ChatID:35>----------------------------------------
+//目的地に到達（メルラン）
+
+Merlin1a:I'm sure there's a happy dream waiting for me past all that haze!
+
+Merlin1a:Here we go!
+
+<end>
+
+<ChatID:36>----------------------------------------
+//目的地に到達（ルナサ）
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Lunasa)>
+
+Lunasa0a:I can hear all sorts of sounds coming from that haze.
+
+Lunasa0a:It's time to raise the curtain on our special Dreamscape tour!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Prism)>
+
+Lunasa0b:I can hear all sorts of sounds coming from that haze.
+
+Merlin0a:Are you scared, Lyrica?
+
+Lyrica1b:Wh-What? N-No way! You're just projecting, Merlin!
+
+Lunasa0a:Get along, you two. It's time to raise the curtain on our special Dreamscape tour!
+
+</Cond>
+
+<end>
+
+<ChatID:37>----------------------------------------
+//目的地に到達（妖夢）
+
+Youmu1a:This is no time to hesitate.
+
+Youmu1a:All that remains is to cut my own path!
+
+<end>
+
+<ChatID:38>----------------------------------------
+//目的地に到達（幽々子）
+
+Yuyuko0a:Live in a daze, die in a dream. Isn't that the ideal life?
+
+Yuyuko0a:Oh wait, I'm already dead, aren't I?
+
+<end>
+
+<ChatID:39>----------------------------------------
+//目的地に到達（藍）
+
+Ran0a:A dangerous place, to be sure, but there's no need to calculate our odds.
+
+Ran0a:As the strongest shiki, I need only serve to the end.
+
+<end>
+
+<ChatID:40>----------------------------------------
+//目的地に到達（紫）
+
+Yukari0a:What lies before us is the endpoint of all our dreams... and the mastermind's.
+
+Yukari0a:Let's bet our fantasies on this and go.
+
+<end>
+
+<ChatID:41>----------------------------------------
+//目的地に到達（リグル）
+
+Wriggle0a:It sounds dangerous, but I'm the leader of the bugs!
+
+Wriggle0a:No matter what happens, I'll protect them!
+
+<end>
+
+<ChatID:42>----------------------------------------
+//目的地に到達（ミスティア）
+
+Mystia1b:Past this dreamy haze... A whole new world awaits...
+
+Mystia1b:And there for sure... The mastermind is waiting...
+
+<end>
+
+<ChatID:43>----------------------------------------
+//目的地に到達（慧音）
+
+Keine0a:This is a dangerous gamble, but I'll just have to trust in our strength.
+
+Keine1a:We can't afford to lose! For the sake of the villagers too!
+
+<end>
+
+<ChatID:44>----------------------------------------
+//目的地に到達（てゐ）
+
+Tewi0a:Got a bad feeling about this, but with the master here I guess it's too late to talk my way out of this...
+
+Tewi0a:Kuwabara, kuwabara...
+
+<end>
+
+<ChatID:45>----------------------------------------
+//目的地に到達（優曇華）
+
+Udonge2b:Past here, there's no escape route. But that's why I have to accompany my master!
+
+Udonge2a:What the heck, here goes nothing!
+
+<end>
+
+<ChatID:46>----------------------------------------
+//目的地に到達（永琳）
+
+Eirin0a:I'm not sure what prompted it, but it seems Kaguya discussed something with the Watatsuki sisters last night.
+
+Eirin0a:Regardless, all we can do now is fulfill our duty as citizens of Earth.
+
+<end>
+
+<ChatID:47>----------------------------------------
+//目的地に到達（輝夜）
+
+Kaguya0a:First Makai, then the Dreamscape. We've certainly been bouncing between these otherwords recently.
+
+Kaguya1a:I'm looking forward to seeing the dream the mastermind's painted for us.
+
+<end>
+
+<ChatID:48>----------------------------------------
+//目的地に到達（妹紅）
+
+Mokou0a:Facing the final battle together, huh? The old me would've laughed.
+
+Mokou1a:But I guess when you live long enough, these things happen.
+
+<end>
+
+<ChatID:49>----------------------------------------
+//目的地に到達（依姫）
+
+Yorihime0b:Everyone carrying themselves forward on their own... So this is how it's done on Earth.
+
+Yorihime0a:Please watch me, Lady Yagokoro. I, too, can move on without looking back.
+
+<end>
+
+<ChatID:50>----------------------------------------
+//目的地に到達（豊姫）
+
+Toyohime0a:The investigation seems to be proceeding well. It's taking longer than we imagined, but if we can spend that time with Lady Yagokoro...
+
+Toyohime0b:I hope we can at least have a thrilling voyage.
+
+<end>
+
+<ChatID:51>----------------------------------------
+//目的地に到達（レイセン）
+
+Reisen0a:Never thought I'd be part of the investigation too. And I'm here with Lily and the others...
+
+Reisen0a:Yeah, whatever happens, happens!
+
+<end>
+
+<ChatID:52>----------------------------------------
+//目的地に到達（静葉）
+
+Shizuha0a:I couldn't take it if the humans started hating autumn just because she showed them some dumb dream!
+
+Shizuha1a:Face the wrath of autumn!
+
+<end>
+
+<ChatID:53>----------------------------------------
+//目的地に到達（穣子）
+
+Minoriko0a:It would be unacceptable if the humans started hating autumn just because she showed them some dumb dream.
+
+Minoriko1a:Face the wrath of autumn!
+
+<end>
+
+<ChatID:54>----------------------------------------
+//目的地に到達（雛）
+
+Hina0a:I can't ignore these nightmares eating away at human minds.
+
+Hina0a:I'll be taking on that misfortune myself, thank you very much.
+
+<end>
+
+<ChatID:55>----------------------------------------
+//目的地に到達（にとり）
+
+Nitori1a:What if there was a whole different planet beyond the pink haze...?
+
+Nitori1b:Wait, this isn't the time for that. I'm coming too!
+
+<end>
+
+<ChatID:56>----------------------------------------
+//目的地に到達（椛）
+
+Momiji0a:There will be no retreat. But as a proud tengu, all that's left is to steel myself.
+
+Momiji1a:Momiji Inubashiri, moving out!
+
+<end>
+
+<ChatID:57>----------------------------------------
+//目的地に到達（文）
+
+Aya0a:The Dreamscape, and the final battle with the mastermind... What a great opportunity for some pictures!
+
+Aya1a:Aya Shameimaru, reporting from the scene!
+
+<end>
+
+<ChatID:58>----------------------------------------
+//目的地に到達（はたて）
+
+Hatate0a:This whole thing is kinda creepy, but I'll be left behind if I waste time here.
+
+Hatate1a:Hatate Himekaidou, flying ahead!
+
+<end>
+
+<ChatID:59>----------------------------------------
+//目的地に到達（神奈子）
+
+Kanako0a:The world of dreams and illusions, huh? I couldn't ask for a better spot for a final battle.
+
+Kanako1a:All units, advance.
+
+<end>
+
+<ChatID:60>----------------------------------------
+//目的地に到達（諏訪子）
+
+Suwako0a:Hiding in her own territory, huh? Not a bad plan at all.
+
+Suwako1a:But the froggies aren't nice enough to leave her alone!
+
+<end>
+
+<ChatID:61>----------------------------------------
+//目的地に到達（キスメ）
+
+Kisume0a:Okay, I'll tuck in my head and hold my nose...
+
+Kisume2a:H-Here goes!
+
+<end>
+
+<ChatID:62>----------------------------------------
+//目的地に到達（ヤマメ）
+
+Yamame0a:So the enemy hideout's up ahead, huh? Soon enough we'll reach her, and I'll wrap her up in my thread.
+
+Yamame1a:It's the great Yamame Kurodani's time to shine!
+
+<end>
+
+<ChatID:63>----------------------------------------
+//目的地に到達（パルスィ）
+
+Parsee0a:I'm so jealous of everyone who can just dive in like it's nothing...
+
+Parsee2a:Aw geez, is no one gonna escort me?!
+
+<end>
+
+<ChatID:64>----------------------------------------
+//目的地に到達（勇儀）
+
+Yugi0a:Nothing gets the blood boiling like a good old-fashioned raid!
+
+Yugi1a:You won't know what hit ya!
+
+<end>
+
+<ChatID:65>----------------------------------------
+//目的地に到達（さとり）
+
+Satori0b:I'm reading all sorts of emotions, but it seems everyone's found their determination.
+
+Satori0c:The world of dreams is the world of the mind. I'll do what I can too.
+
+<end>
+
+<ChatID:66>----------------------------------------
+//目的地に到達（お燐）
+
+Orin0a:This is no time to be scared. Miss Satori, Miss Koishi, and even Okuu are coming.
+
+Orin1a:Fine, here goes!
+
+<end>
+
+<ChatID:67>----------------------------------------
+//目的地に到達（空）
+
+Utsuho0a:Uh... We just gotta catch the bad guy in here, right?
+
+Utsuho0a:Let's go, Lord Yatagarasu!
+
+<end>
+
+<ChatID:68>----------------------------------------
+//目的地に到達（こいし）
+
+Koishi0a:So what's this place gonna be like? I can't wait!
+
+Koishi6c:Koishi Komeiji, heading in!
+
+<end>
+
+<ChatID:69>----------------------------------------
+//目的地に到達（ナズーリン）
+
+Nazrin0a:It's a gamble, but I'm not seeing any other options.
+
+Nazrin0a:Oh well. I just hope we make it there safely.
+
+<end>
+
+<ChatID:70>----------------------------------------
+//目的地に到達（小傘）
+
+Kogasa0b:A world no one's seen! It'll be a salad bowl of surprises!
+
+Kogasa0a:Let's do this, me!
+
+<end>
+
+<ChatID:71>----------------------------------------
+//目的地に到達（一輪）
+
+Ichirin0a:We're here. Beyond this haze lies the Dreamscape.
+
+Unzan0a:...
+
+Ichirin1a:Yeah, I know, I'm ready. Let's do this, Unzan!
+
+<end>
+
+<ChatID:72>----------------------------------------
+//目的地に到達（村紗）
+
+Murasa0a:This time, Hijiri's coming with us. We have to win and get back in one piece!
+
+Murasa0a:Set a course for the Dreamscape!
+
+<end>
+
+<ChatID:73>----------------------------------------
+//目的地に到達（星）
+
+Sho0a:The light of the pagoda should guide us even in the world of dreams and illusions.
+
+Sho1a:Let us light the way!
+
+<end>
+
+<ChatID:74>----------------------------------------
+//目的地に到達（白蓮）
+
+Byakuren0a:No matter what happens ahead, I'll fight back for both humans and youkai.
+
+Byakuren0a:Namusan!
+
+<end>
+
+<ChatID:75>----------------------------------------
+//目的地に到達（ぬえ）
+
+Nue0a:I don't care about these humans, but if Minamitsu and Ichirin are going, I'm going.
+
+Nue1a:It's time everyone realized the power of the Great Youkai Nue!
+
+<end>
+
+<ChatID:76>----------------------------------------
+//目的地に到達（聖輦船）
+
+Kosuzu0a:We've reached the target point! Deploying shields!
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Seirensen_M)>
+
+Murasa0a:Charge in, Palanquin Ship!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Seirensen_R)>
+
+Korin0a:Alright, charging into the Dreamscape!
+
+</Cond>
+
+<end>
+
+<ChatID:77>----------------------------------------
+//目的地に到達（小町）
+
+Komachi0a:The world of dreams and illusions, huh? This place we're headed sure is something.
+
+Komachi0a:Let me carry you safely across.
+
+<end>
+
+<ChatID:78>----------------------------------------
+//目的地に到達（映姫）
+
+Eiki0a:The mastermind's stronghold, the Dreamscape. Everything will end here.
+
+Eiki0a:Now, it's time for her judgment.
+
+<end>
+
+<ChatID:79>----------------------------------------
+//目的地に到達（メディスン）
+
+Medicine0a:Eep... This is kinda scary... but Yuuka is past here, right?
+
+Medicine0a:I came all this way from the suzuran field, so I know I'll get to see here!
+
+<end>
+
+<ChatID:80>----------------------------------------
+//目的地に到達（天子）
+
+Tenshi0a:This isn't the time to be worrying about my personal stuff. We're on an investigation!
+
+Tenshi0a:Well, here goes nothing...
+
+<end>
+
+<ChatID:81>----------------------------------------
+//目的地に到達（衣玖）
+
+Iku0a:To think I've come this far just to watch over the eldest daughter's journey.
+
+Iku0a:I'm cheering for you, Miss.
+
+<end>
+
+<ChatID:82>----------------------------------------
+//目的地に到達（サニー）
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Sunny)>
+
+Sunny3a:Gyah! Up close, this doesn't look too safe...
+
+Sunny0a:But what kinda fairy would chicken out now?! Here I go!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Faries)>
+
+Sunny3a:Gyah! Up close, this doesn't look too safe...
+
+Star0a:You go in first, Luna.
+
+Luna1a:Wait, don't push me, Star!
+
+Sunny0a:Our next adventure is just up ahead! Let's go you two!
+
+</Cond>
+
+<end>
+
+<ChatID:83>----------------------------------------
+//目的地に到達（スター）
+
+Star0a:Oh dear, I don't like the look of this...
+
+Star0a:Oh, I'm sure it'll all work out. Upsy-daisy!
+
+<end>
+
+<ChatID:84>----------------------------------------
+//目的地に到達（ルナ）
+
+Luna0a:Phew, I made it, somehow...
+
+Luna0a:Dunno what kinda place we're going, but I came this far!
+
+<end>
+
+<ChatID:85>----------------------------------------
+//目的地に到達（エリー）
+
+Elliy0a:Elly the guide! I can't believe how cool I am! Now for an elegant dive to seal the deal!
+
+Elliy2a:Wait, it's pulling me in?! Save me, Yuuka!
+
+<end>
+
+<ChatID:86>----------------------------------------
+//目的地に到達（くるみ）
+
+Kurumi0a:It's really been a while, huh? I wonder what it's like these days.
+
+Kurumi0a:Oh well, I'll find out soon enough.
+
+<end>
+
+<ChatID:87>----------------------------------------
+//目的地に到達（魅魔）
+
+Mima0a:A world of dreams and illusions, huh? Sounds just perfect for some training.
+
+Mima0a:But first, I'll enjoy our battle with the mastermind.
+
+<end>
+
+<ChatID:88>----------------------------------------
+//目的地に到達（萃香）
+
+Suika2a:Oh? I'm already at the entrance?
+
+Suika1a:Then on the count of three...
+
+Suika2a:Then on the count of three... One, two, whoa!
+
+<end>
+
+<ChatID:89>----------------------------------------
+//目的地に到達（神綺）
+
+Shinki0a:I can hardly ignore all the humans suffering nightmares.
+
+Shinki0a:Let's go, for everyone's sake.
+
+<end>
+
+<ChatID:90>----------------------------------------
+//目的地に到達（夢子）
+
+Yumeko0a:Proceeding without hesitation is no small feat. Yet everyone here has that strength of will.
+
+Yumeko0a:I'll be relying on that strength.
+
+<end>
+
+<ChatID:91>----------------------------------------
+//目的地に到達（猫おりん）
+
+OrinC0a:Meow!
+
+<end>
+
+<ChatID:92>----------------------------------------
+//目的地に到達（阿求）
+
+Akyu3c:S-Seems I made it to the entrance, somehow.
+
+Akyu4a:Now I need the courage to leap bodily into another world, but...
+
+Akyu2a:Alright, I'll close my eyes and on the count of three!
+
+<end>
+
+<ChatID:93>----------------------------------------
+//目的地に到達（幽香ちゃん）
+
+Yuka3a:Goodness gracious, I've finally arrived.
+
+Yuka2d:And now begins the journey. I can't wait to see what conclusion she'll reach for me.
+
+Yuka0b:Although a little commotion while we're at it could be fun too.
+
+<end>
+
+<ChatID:94>----------------------------------------
+//目的地に到達（非想天則）
+
+Tensoku0a:...!
+
+<end>
+
+<ChatID:95>----------------------------------------
+//目的地に到達（メーコ）
+
+Meko0c:Phew, made it to the entrance!
+
+Meko1a:Past here, we'll be fighting against Lady Makura and her dreams.
+
+Meko1c:I need to make sure she can rely on me no matter what happens!
+
+<end>
+
+<ChatID:96>----------------------------------------
+//目的地に到達（まくら様）
+
+Makura1c:...And this long journey finally reaches this point.
+
+Makura1a:We absolutely must accomplish our objective and return to Gensokyo!
+
+<end>

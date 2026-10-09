@@ -1,0 +1,3190 @@
+﻿○共通第四十話「対決! 霊夢 vs. 魔理沙
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA (Reimu)
+ 1: ADVA (Marisa)
+ 2: 1PP-1 (Reimu)
+ 3: 1PP-1 (Marisa)
+ 4: 1PP-2
+ 5: 2PP
+ 6: 3PP
+ 7: spell start (Reimu)
+ 8: spell start (Marisa)
+ 9: Clear (Reimu)
+10: Clear (Marisa)
+11: ADVB
+12: lose (Reimu)
+13: lose (Marisa)
+14: beat Daichan
+15: beat LilyW
+16: 
+
+<ChatID:0>---------------------------------------
+//ADVA（霊夢ルート）
+
+<MAP=3,FROM=迷いの竹林R39,TO=迷いの竹林C40,name=Bamboo Thicket,icon=4>
+
+<BG=*bg_talk_Seirensen_Dining_Night.png,fade=0,color=1,title=*bg_Seirensen_Dining,bgm=bgm_talk_gag>
+
+Youmu3b:...Hmm, this is a problem.
+
+Shizuha4a:You said it. What should we do?
+
+Aya3a:Oh, what are you all up to? Making dinner?
+
+Sanae0a:Yes. Suika made a request.
+
+Sanae4a:Apparently she wants to eat something "fancy and western," to go along with what we're drinking.
+
+Momiji0a:Really? That's unexpected from her. 
+
+Minoriko0a:I brought some of my best red wine so we could all drink it together when this was over.
+
+Minoriko3a:I was just showing it off, but then Suika said she wanted to have a sample tonight.
+
+Aya5b:Well I hope you've learned your lesson. Pride comes before the fall. 
+
+Youmu3a:The thing is, we don't have anyone who's good at cooking western food.
+
+Youmu0a:Lady Yuyuko prefers Japanese cuisine, so I'd be pretty confident if it were that, but... 
+
+Momiji4b:And you never eat anything western at the Moriya Shrine either? 
+
+Sanae5c:Well, I wouldn't say NEVER, but Lady Suwako's the type who wants white rice with every meal.
+
+Sanae0a:And of course they have mostly Japanese ingredients when I go shopping in the village. 
+
+Minoriko4a:Well, that's just what they eat there.
+
+Shizuha0a:At least that means you're getting used to coming down the mountain?
+
+Shizuha1c:Then again the fact that you're even here investigating at all shows that too. Kanako and Suwako felt comfortable enough to send you off, right?
+
+Sanae5c:Actually, I rushed out without even telling either of them...
+
+Aya1a:For all we know, Lady Kanako's fretting herself ill right about now. 
+
+Youmu4a:Really? I've always heard that she's made of sterner stuff.
+
+Momiji4c:You'd think, but she really can be such a worrywort sometimes.
+
+Momiji4b:Anyway, we're all here with you, so all we'll need to worry about is how we're going to deliver the good news.
+
+Sanae4b:You're right! I'm sure they'll both be overjoyed when I come home after resolving the incident.
+
+Hatate0a:...Sure, but what do we do about dinner?
+
+Minoriko3b:Hmmm, well, how about patates douces au four?
+
+Youmu3b:Giving baked sweet potatoes a new name doesn't make it any fancier...
+
+<BG=bg_talk_Seirensen_Bridge_Night.png,fade=1,color=1,title=bg_Seirensen_Bridge,bgm=bgm_talk_aoki>
+
+Akyu3a:We're still on course. Nor any sign of the enemy.
+
+Kosuzu6b:There weren't any before, either, then we got ambushed. Are we really gonna be okay?
+
+Murasa3d:Well, just to be sure, maybe we should try sticking an image of Unzan on the bow? He'll glare any enemies into submission.
+
+Unzan0a:...
+
+Reimu3a:...You've got a point. That ugly mug would probably keep the fairies away.
+
+Ichirin0a:He may look scary, he's really quite an honest and upstanding man.
+
+Ichirin3c:I've always been able to rely on him to help protect me without even a word.
+
+Reimu0g:Huh, I guess he's got his manly side.
+
+Suika0c:The steadfast, resolute type, huh?
+
+Suika3d:Okay, now you've got me interested! Come on over and have a drink with me! 
+
+Unzan0a:...!
+
+Akyu3c:I suppose Suika wouldn't be the type to be intimidated by his appearance. 
+
+Suika1d:Course I'm not! Nyuudou don't have a monopoly on getting huge, you know.
+
+Suika3c:C'mere, have a seat, I'll pour you a drink.
+
+Unzan0a:...
+
+Sho3d:Unzan looks so happy right now. 
+
+Nazrin3b:He's normally a pretty bashful guy, so I bet he likes it when he gets pulled out of his shell.
+
+<SE=se_sys_sukima01.ogg,wait=1>
+
+Yukari0a:My, and here I thought there was no alcohol allowed on the bridge.
+
+Yuyuko2b:How many times have I told you, Suika? No pouring for yourself first!
+
+Murasa3a:Oh, Yukari and Yuyuko, still together as always. 
+
+Yukari1a:We were just having a short chat. More importantly, has the situation changed any?
+
+Ichirin3a:Everything's quiet, no enemies have shown up. How's the spell to stop the night holding up?
+
+Yukari0b:See for yourself. The moon hasn't budged an inch.
+
+Yukari0a:To think, merely stopping the night puts even someone capable of stealing the full moon at my mercy.
+
+Sho3a:It looks like your plan is working out!
+
+Kosuzu6b:Wait, what's the plan?
+
+Nazrin0a:Oh, I guess nobody told you yet, Kosuzu? I'll fill you in later.
+
+Akyu3e:However, we mustn't forget that everyone in the village is still frightened.
+
+Akyu1a:We have to focus on resolving this as soon as possible.
+
+Yuyuko1b:We don't have that magician with us, either.
+
+Nazrin0a:Eh, I'm sure they're off fighting somebody somewhere.
+
+Nazrin0b:Worst come to worst, at least one of us will find the mastermi―
+
+Reimu0g:What's with the pessimism? I'm here, so we've got this.
+
+Reimu5c:With or without Marisa, once I get to where the culprit is―
+
+Yukari1a:And where would that be? The truth is, we still haven't the slightest idea where we're going.
+
+Reimu2b:...I'm sure they're just really good at hiding.
+
+Akyu3a:Hahaha, it seems like whenever Yukari's around our fierce tiger becomes a cute kitten. 
+
+Reimu3a:I finally get Keine off my back, and now I have to deal with this...
+
+Reimu0b:Whatever. Let's keep going, straight into the thicket!
+
+<MAP=3,FROM=迷いの竹林R39,TO=迷いの竹林C40,name=Bamboo Thicket,icon=4>
+
+<end>
+
+<ChatID:1>---------------------------------------
+//ADVA（魔理沙ルート）
+
+<MAP=3,FROM=迷いの竹林M39,TO=迷いの竹林C40,name=Bamboo Thicket,icon=3>
+
+<BG=*bg_talk_Bamboo_Night.png,fade=0,color=1,title=*bg_Bamboo,bgm=bgm_talk_aoki>
+
+<SE=se_talk_insect01.ogg,wait=0>
+
+InsectA0a:...!
+
+InsectB0a:...!
+
+Wriggle6a:What's got you two so panicked?
+
+Wriggle0b:Huh? There's a giant bird flying around out there? Don't worry about that, I'm here, you're safe...
+
+Sunny3a:Hey, what are you mumbling to yourself about? 
+
+Wriggle5b:Oh, sorry. Everyone's in a tizzy so I'm trying to calm them down. 
+
+Star3c:Well, whatever. We're just here to share the loot.
+
+Luna3d:Lyrica's giving out candy to all the kids.
+
+Wriggle3c:Wow, I've never really eaten something like that before...
+
+LilyW0a:They're yummy and sweet. Don't bugs love sugar? 
+
+UsagiR0a:It tastes... rustic. Not as bad as I was expecting. 
+
+Wriggle3d:Well, given the rave reviews I guess I should try one too.
+
+LilyW0a:Oh, this is the first time we've talked, Wriggle.
+
+LilyW1a:I heard you can control bugs?
+
+Wriggle3a:Yup. I can also talk to 'em. 
+
+Sunny3b:This just gets better and better! That'd be perfect for pulling pranks. 
+
+Wriggle4a:No way! I'd never do something like that―they'd get swatted!
+
+Star3a:Really? Seems like a waste of your power to me.
+
+Wriggle4b:Plenty of people hate bugs already as it is.
+
+Wriggle1c:A youkai like me has to think carefully about what's best for the other bugs.
+
+Luna0a:Ooh, that sounded so mature and responsible.
+
+Sunny0c:Maybe we should try to be a little more responsible and help out around here too?
+
+Star3d:Well, I'm already useful. I'm their living radar.
+
+<single>
+
+Kanako3c:...For heaven's sake, those fairies sure are taking their time. 
+
+</single>
+
+Alice0c:Well, when you've got this many people gathered together, it's inevitable that some of them are going to move at different paces.
+
+Alice0d:It'd be easier to move as a group if it were daytime, though.
+
+Marisa0b:That, or if we had something we could all ride on. I wish we had Shou's flying boat. 
+
+Mima3a:You mean the Palanquin Ship? Wouldn't it just get damaged in the danmaku battles? 
+
+Patchouli0a:Don't worry about that. It's not some flimsy airship, it's a fully fledged battleship.
+
+Patchouli0a:The kappa and I made sure of that when we overhauled it.
+
+Yuka3c:Oh, it's a whole flying battleship now? How grandiose.
+
+Elliy3b:I've heard that before... So does this mean Yuuka's going to go have some fun and blow holes in it like the library?
+
+Kurumi4c:And then we get dragged around all over the place and forced to help out... 
+
+Patchouli0b:By which you mean getting your just deserts?
+
+Kurumi2a:*sigh* You're not wrong...
+
+Yuka5a:Kurumi, you're a devil too, aren't you? Show a little more spine.
+
+Yuka0d:All you need to do is defeat Patchouli and Remilia, and take over the mansion for yourself. 
+
+Elliy1a:That's our Yuuka! Only One Can Stand In Heaven! Peace Through Conquest! 
+
+Lyrica3b:I have no idea what you're talking about, but I think you'd be pretty good on drums with a sense of rhythm like that. 
+
+Komachi0a:Aaand everybody's chit-chatting away instead of paying attention... can't blame 'em though.
+
+Komachi4b:There's been nothing but bamboo for ages now. It's enough to make my head spin. 
+
+Meiling3a:And the moon's still unmoving in the sky. It's like we're stuck in a nightmare.
+
+Hina2a:The humans of the village must be feeling like that even more than us.
+
+Hina1b:If the youkai decide to take advantage of the darkness and go on a rampage... 
+
+Lunasa0b:...If things get out of hand like that, it might really put a dent in concert attendance.
+
+Koakuma4a:Both the night and the fake moon... Whoever's behind all this must be up to something really big.
+
+Suwako0b:Messing with the moon is taking things pretty far, so I'm guessing that's the key to this whole thing.
+
+Suwako3b:But eh, whatever's going on, in the end we just have to catch the culprit and beat the answer out of them.
+
+Sakuya0a:And I'm sure we need to do it before Reimu beats you to the punch, right, Marisa?
+
+Marisa0a:Like you even need to ask. 
+
+Kanako3b:...Sanae must be out investigating right now too.
+
+Kanako3c:I hope she's met up with Reimu. I must admit I'm a bit worried...
+
+Nitori2a:Ah, here it comes. The whole overprotective mom thing.
+
+Hina0a:I don't think there's any cause for concern. She probably has Aya and Momiji with her.
+
+Hina3a:More importantly, let's try to keep in mind that we're the ones getting ever-closer to a confrontation with the mastermind.
+
+Kanako1a:...Hmm, indeed we are. Take heart, troops! 
+
+Marisa0c:I'm in a pretty good mood after blasting all those bunnies.
+
+Marisa0a:There's only one thing left to do- let's catch the culprit and finish this!
+
+<MAP=3,FROM=迷いの竹林M39,TO=迷いの竹林C40,name=Bamboo Thicket,icon=3>
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP-1（霊夢）
+
+Mystia3d:Wow, what a view!
+
+Chen3a:I guess even the Bamboo Forest of the Lost has some nice scenery.
+
+Suika0a:It'd be a perfect time for a moon-viewing party, if only the moon wasn't a fake.
+
+Suika1c:Maybe if I broke it in half, the real one would pop out?
+
+Aya5a:Whoa there, Suika. When you say it, it doesn't sound like a joke.
+
+Murasa0a:Any ambushes around here, Akyu?
+
+Akyu0a:No, no particular readings on―
+
+<SE=se_talk_siren01.ogg,wait=1>
+
+Akyu1a:...!
+
+Hatate2a:Is that the enemy attack alarm?!
+
+Akyu1a:Yes! We've got a large group of readings closing in!
+
+Akyu1a:Everyone, please sortie and prepare for a danmaku battle!
+
+Reimu1a:Coming at us head-on? That takes guts. I'll give them a personal greeting!
+
+<end>
+
+<ChatID:3>---------------------------------------
+//1PP-1（魔理沙）
+
+<nomove>
+
+<Code=(cursor_jump,336,576,1)>
+
+Marisa6b:Ooh. Sweet view.
+
+Mima0a:I was unaware there were such clearings in the Bamboo Forest of the Lost.
+
+Suwako4b:All it needs is a non-fake moon, and it'd be perfect.
+
+Suwako1c:Well, that, and a night that actually ends.
+
+Lunasa0a:"Wish this night went on forever" will hopefully go back to being only lyrics soon.
+
+UsagiR2c:Uh, hey? You're kind of wide open for rabbits to spot you out here.
+
+Kanako0b:Have no fear. Star will use her power to detect enemy presences.
+
+Kanako0a:She will inform us right away, should she detect anything out of the ordinary.
+
+Star3d:Yes, ma'am, I'm―
+
+Star6a:...Oh no!
+
+Meiling1a:Star, are we under attack?!
+
+Star2a:Yes, something huge is headed our way!
+
+Wriggle1b:Is it that big bird the bugs were talking about?!
+
+Marisa2b:Whatever it is, bring it on. I'll take on anything that comes my way!
+
+Sakuya0b:Rabbit, go find somewhere to hide.
+
+UsagiR2a:Okay!
+
+</nomove>
+
+<end>
+
+<ChatID:4>---------------------------------------
+//1PP-2（共通）
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Cirno1a:What's going on? Did something bad happen?!
+
+Youmu3a:With the way people were rushing out, I was afraid there was a fire...
+
+Daiyosei3b:Reimu, I heard something about danmaku battle stations?
+
+Reimu1a:Yeah, they're coming straight for us!
+
+<pause>
+
+Marisa0a:Phew, we can finally see the sky.
+
+Reimu1a:Wait a minute! That's Marisa!
+
+Marisa6b:Reimu?! You're here too?
+
+Reimu0f:I wasn't expecting to run into YOU here...
+
+Reimu0g:You sure gathered a big group for somebody who never even bothered showing up at the shrine.
+
+Marisa0a:Yeah, well, I wasn't expecting to find you going around investigating incidents in the Palanquin Ship either.
+
+Alice0d:Could I take a moment to point out Yukari and Yuyuko are over there with them?
+
+Nitori2a:Not to mention Ran and Suika. That group's got some serious contenders!
+
+Suika3d:Oh stop, you're making me blush!
+
+Yuyuko1b:Tee hee. They're flattering you, Yukari.
+
+Yukari1a:Oh, but didn't you hear your name too?
+
+Ran0b:I surmise that you're all investigating this incident as well.
+
+Ran0a:It's good to see all of the regulars together and well.
+
+Marisa0c:Yeah, well, it's the usual crew plus...
+
+Marisa3a:Hey, they're gone. The heck did they go?
+
+<nomove>
+
+<Code=(move_view,384,224,4)>
+
+<Code=(cursor_jump,384,224,0)>
+
+<hide=all>
+
+Mima0a:I'm right here.
+
+</hide>
+
+<pause>
+
+Yuka1a:My, my. Now there's a face I haven't seen in a long time.
+
+Kanako4b:I see Sanae with them. Good, so she was with Reimu after all.
+
+Reimu1a:Wh- you guys are there too?
+
+Sanae3a:Lady Kanako and Lady Suwako! I didn't realize you'd left the mountain!
+
+Suwako3b:Heya, Sanae. Glad you're getting along with your new friends.
+
+Kanako0a:...I'm relieved to see you're safe. We meant to set out with you as well, but you left before we could.
+
+Sanae3b:O-Oh, I see... I'm very sorry.
+
+Youmu1a:More importantly, look at that youkai with the umbrella!
+
+Yukari0b:...I never would have expected to see you in a place like this.
+
+Yukari2a:Yuuka Kazami, together with humans.
+
+Yuka0b:Hah, well, I can see you haven't changed at all, Yukari Yakumo.
+
+Reimu1a:Not to mention Mima! I heard Marisa ran into you before, but it's still a surprise seeing you around.
+
+Mima3c:Ahh, Reimu. It's nice to see a familiar face.
+
+Mima1a:Since when did you start employing an escort of youkai?
+
+Reimu2b:Don't jump to conclusions... These youkai are just tagging along, is all.
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Marisa3a:Star, it's coming from dead ahead, right?
+
+Star4b:Yes, but I'm getting a bunch of extra readings...
+
+<pause>
+
+Reimu0a:According to this radar or whatever, enemies are this way.
+
+Marisa1a:Wait, that's...
+
+Reimu1a:Marisa?! You're here too?
+
+Marisa0b:That's my line. I can't believe you even took the Palanquin Ship along for the ride.
+
+Murasa4b:Hey, it was already in ship-shape. It wasn't that much trouble to lend a hand.
+
+Ichirin3c:Consider the ship under charter. We're ready to take them wherever they need to go.
+
+Marisa3d:Maaan, I'm so jealous! That's gotta be such a sweet ride.
+
+Reimu0e:You sure gathered a big group for somebody who never even bothered showing up at the shrine.
+
+Reimu0d:And... is that Yuuka and Mima I see with you?!
+
+Mima3d:Ahh, Reimu. It's nice to see a familiar face.
+
+Yuka0b:Enjoying a pleasant nighttime cruise, are you?
+
+Reimu2b:Ugh, just my luck running into her...
+
+Suwako3b:Ah, there you are. I figured you'd be with Reimu's group, Sanae.
+
+Suwako0a:Kanako was afraid you'd gotten lost down some dark alley.
+
+Sanae3a:Lady Kanako and Lady Suwako! I didn't realize you'd left the mountain!
+
+Kanako0a:...I'm relieved to see you're safe. We meant to set out with you for this investigation.
+
+Kanako3b:However, you left without a word before we could join you.
+
+Sanae5b:O-Oh, I see... I'm very sorry.
+
+Sakuya0a:If we found Reimu, then at least we weren't going the wrong way.
+
+Meiling5a:With this many people together, I don't think we could lose to anyone. Not even the foes we fought last spring!
+
+Reimu4a:Oh, yeah, speaking of people we fought last sping...
+
+Reimu0d:Huh, weird. Where'd they go off to?
+
+Alice0a:Who're you looking for?
+
+<nomove>
+
+<Code=(cursor_jump,320,240,1)>
+
+<hide=all>
+
+Yukari0a:We're right here, Reimu. Behind you.
+
+</hide>
+
+<pause>
+
+Suika3d:I fell a bit behind 'cause I needed a drinking break!
+
+Youmu1a:You scoundrels! You won't lay a finger on Lady Yuyuko!
+
+Ran3a:Look again, Youmu. It's just the black and white magician and her friends.
+
+Nitori2a:Wait a minute, are those two who I think they are?!
+
+Marisa1a:Yukari and Yuyuko?! Man, you brought the whole gang from last time!
+
+Yuyuko1a:My, my. I was wondering what all the fuss was about. What a frightful looking group of youkai!
+
+Mima5a:Is that a ghost floating around them?!
+
+Yuyuko1b:Oh, dear me, Youmu. Look at that nasty evil spirit over there.
+
+Yuyuko1a:I'll bet she died a horrible death and is stuck in this world due to all her regrets.
+
+Mima2a:...She's a hard one to read. I hate those types.
+
+Kanako0a:I haven't seen you since the last time we drank together, Suika.
+
+Suika3b:Heya, mountain gods! How's things in your neck of the woods?
+
+Suwako3b:Been worse, been better. On a night like this, it's hard to sit back and relax with a drink.
+
+Suwako0a:You don't look tipsy at all, so I bet you know what I mean.
+
+Suika1a:Yeah, it's a real shame. I've got some really good stuff here, but tonight it'd just be a waste.
+
+Yuka0b:Heh. It's nice seeing people enjoying themselves. Don't you agree?
+
+Yukari1a:It's not every day that you would speak to me at all. But then again, it's not the only strange event today...
+
+Yukari0b:Yuuka Kazami, together with humans. Who would've ever imagined it?
+
+Yuka0a:I can see you haven't changed at all, Yukari Yakumo.
+
+</Cond>
+
+Sho0a:I've been wondering what you were up to ever since we didn't meet up at the shrine.
+
+Sho3a:How's the investigation going for you? We're not exactly coming up with much.
+
+Alice0d:Unfortunately, we don't have any solid leads.
+
+Murasa0b:Us either. We just started flying around in the bamboo thicket ourselves.
+
+Sakuya5b:The mastermind behind this must be rather formidable.
+
+Sakuya0a:What could they be hoping to accomplish by freezing the night in place and placing a strange moon in the sky?
+
+Chen0c:Wait, freezing the night...?
+
+Ran0b:Ah. I see you're on the wrong track.
+
+Ran4a:It's understandable, but the one freezing the night in place is...
+
+Yukari4c:None other than I, Yukari Yakumo.
+
+Marisa1a:What? Yukari's doing it?!
+
+Sunny2a:Whoa, cool it! Don't fall for such a lame attempt at getting a rise out of you!
+
+Ran4a:Please don't jump to conclusions. Lady Yukari is about to explain.
+
+Meiling3a:I'm a little lost, but I can tell that you girls know something we don't.
+
+Elliy2a:I hate when other people beat me to the punch!
+
+Marisa2b:Looks like I'll have to get the truth out of you the old-fashioned way with some danmaku.
+
+Reimu4a:I don't think they want to have a normal conversation.
+
+Ran4b:That's why I was trying to tell them to wait a moment...
+
+Yukari0a:It's just as well. This is how you all tend to say hello.
+
+Yukari1a:Let's establish some ground rules for this danmaku battle, shall we?
+
+Patchouli0c:We're making rules?
+
+Yukari0a:Yes. Each side selects a leader. The battle ends when one is defeated.
+
+Yukari1a:Afterwards, the losing side has to follow the winning side's lead. Does that sound amenable to you?
+
+Kanako1a:Interesting. That's an excellent way to determine who will spearhead the rest of this investigation.
+
+Suika3d:I'm in. Sounds like a good test of strength to me!
+
+Alice4a:...Aaand something tells me we're past the point of saying no now.
+
+Suwako1a:That settles it. Marisa, you're our rep.
+
+Marisa6b:Whoa, that's not who I expected to get the nomination from.
+
+Mima1b:She's suggesting that you demonstrate your power to the other side.
+
+Mima3b:Will you accept, Marisa?
+
+Marisa0a:Well, when you put it that way, how can I say no?
+
+Marisa1a:If we win, I call dibs on the ship!
+
+Murasa4b:Wait, can she do that?!
+
+Ichirin4a:She's pouncing on the opportunity...
+
+Sanae0a:They seem like they've got it figured out. What should we do?
+
+Yukari0a:There's only one fitting person on our side.
+
+Yukari1a:Isn't that right, Reimu Hakurei?
+
+Reimu0a:Yeah, I guess so.
+
+Ran0a:If you're to be our pick, do try to live up to the role.
+
+Yuyuko1b:I'll be waiting for all of you on the other side!
+
+Aya1a:...Everybody ready to go? Good.
+
+Aya3b:On the red team, we have the Hakurei Shrine Maiden, pro incident solver Reimu Hakurei!
+
+Aya0a:Aaaand on the black team, we have the ordinary magician, Marisa Kirisame!
+
+Suika1d:Let's do this fair and square!
+
+Suwako1a:It's a danmaku festival!
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Marisa1a:Come on!
+
+Reimu1a:Bring it!
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Reimu1a:Come on!
+
+Marisa1a:Let's do this!
+
+</Cond>
+
+<end>
+
+<ChatID:5>---------------------------------------
+//2PP
+
+Ichirin2a:It really HAS turned into a danmaku battle... I'd better keep the bridge safe.
+
+Akyu3c:I'm sure Marisa's group will take it easy on us. Maybe.
+
+Meiling1a:Wait, is that... Akyu?
+
+Akyu0a:Yes, I'm serving as part of the bridge crew for this trip.
+
+Akyu3a:It's safe for me inside the ship, and it lets me contribute to the group.
+
+Nitori4c:Fixing up the Palanquin Ship was worth it, if it means Akyu can tag along.
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Kosuzu3d:Evening, everyone! I'm here too!
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+<nomove>
+
+<Code=(cursor_jump_unit,Seirensen_en,0,0,0)>
+
+Kosuzu3d:Evening, everyone! I'm here too!
+
+</nomove>
+
+</Cond>
+
+Marisa0a:Wait, is that Kosuzu? What're you doing here with the investigation?
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Kosuzu6b:Thanks to the incident, youkai were popping out of my youma books. It was a real mess!
+
+Kosuzu3d:That's when everyone saved me, and now I'm hiding in here.
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+<nomove>
+
+<Code=(cursor_jump_unit,Seirensen_en,0,0,0)>
+
+Kosuzu6b:Thanks to the incident, youkai were popping out of my youma books. It was a real mess!
+
+Kosuzu3d:That's when everyone saved me, and now I'm hiding in here.
+
+</nomove>
+
+</Cond>
+
+Alice0a:Sounds like that would be more than a mess... Are you hurt?
+
+Ichirin0a:Don't worry, we're taking responsibility for her safety. We can fill you in on the details later.
+
+Daiyosei0c:Not just Kosuzu, Lily's here too, huh?
+
+Rumia0a:I thought you only came out to announce spring?
+
+LilyW1a:I usually lie low until spring comes around.
+
+LilyW0a:But the long night felt so unnatural, I just had to get out and do something.
+
+Shizuha0a:I guess it's true what they say about fairies being manifestations of nature.
+
+Cirno4c:If Lily's here, maybe Letty will wake up too...
+
+Minoriko0b:She's a winter youkai. I think she needs it to be the right season.
+
+Merlin3a:Well, what if we sing some Christmas carols and trick her into thinking it's winter?
+
+Lyrica3b:Good idea! We can spread some Christmas cheer!
+
+Rumia0a:Ooh, when did the musical phantoms join up?
+
+Lunasa0a:We ran into Miss Yasaka's group during a concert.
+
+Lunasa1a:I hope everybody will come listen to our next performance.
+
+Shizuha0b:...Does that mean the other side's been rocking out this whole time they've been investigating?
+
+Sanae4a:I'm kind of jealous. I wish I could listen to live music all the time...
+
+Nitori1a:Heheheh, go right ahead! Just remember, no recording devices allowed.
+
+Merlin3d:It's time to crank this up a notch. Everybody better keep up!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//3PP
+
+Meiling0b:That group is tough stuff. Though I guess that's no big surprise.
+
+Luna0b:Hey, you. Can't you harass them with a swarm of mosquitoes or something?
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+<hide=name>
+
+Wriggle4b:Not really. There's no standing water around here.
+
+</hide>
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Wriggle4b:Not really. There's no standing water around here.
+
+</Cond>
+
+Momiji0a:I was distracted by all the familiar faces, but there's a youkai I've never seen before.
+
+Akyu0a:That's Wriggle Nightbug. She's a youkai with the power to control bugs.
+
+Akyu1a:Watch out, she might have some nasty bugs lurking around.
+
+Wriggle1c:You might know a lot, but it doesn't make insects any less terrifying.
+
+Sho0b:What would qualify as a nasty bug?
+
+Nazrin0b:There are lots of bugs in Gensokyo that suck animals' blood or have deadly poison.
+
+Nazrin6b:The thought of them filling the skies like locusts...
+
+Sanae1c:Oh no, that sounds horribly dangerous!
+
+Sanae4a:I'm so glad I brought some bug spray for the trip.
+
+Wriggle5c:Aiee! Anything but THAT!
+
+Suwako5a:Happy to see we raised you right, Sanae!
+
+Aya3a:Marisa's group's a real bunch of daredevils, if they're picking up nasty youkai left and right like that.
+
+Marisa4b:Like you girls have room to talk. Who's that loud youkai you've got along with you?
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Mystia1b:The eyes have it, the ears have it, the nose has it!
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+<hide=name>
+
+Mystia1b:The eyes have it, the ears have it, the nose has it!
+
+</hide>
+
+</Cond>
+
+Daiyosei3b:Mystia, those are some weird lyrics...!
+
+Komachi1a:She must be a night sparrow. She entices people with her singing and messes with their vision.
+
+Komachi2b:If you let yourself get lost in her song, you're in for a world of hurt.
+
+Lyrica1b:Oh hoh! She's got a cool groove, but we'll see if she can keep up!
+
+Mystia4b:I keep hearing a song that isn't mine...
+
+Mystia3a:Who's the trio making music? Are they friends of the humans?
+
+Lunasa0b:We're friends of music.
+
+Merlin3d:We're friends of justice!
+
+Lyrica1a:We're friends of all the fans who turn out to support Lyrica Prismriver!
+
+Mystia4a:Your introduction is all over the place...
+
+Rumia1a:Mystia, don't let them drown out your music!
+
+Chen4b:But there's three of them and only one of her... That's kind of unfair, ganging up on her like that...
+
+Mystia3c:It's okay! Nobody can stop my song!
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Mystia1c:Come on, then! LET'S FIRE!!
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Mystia1c:You three can pipe down and LISTEN TO MY SOOOOONG!
+
+</Cond>
+
+<end>
+
+<ChatID:7>---------------------------------------
+//魔理沙通常撃破
+
+Marisa2b:Not bad. I gotta hand it to you, Reimu.
+
+Reimu0b:Hah. That just shows how far you still have to go, Marisa.
+
+Mima3a:She's as brilliant as ever. Or no, actually she's improved even compared to before.
+
+Mima1b:I've known it for a while, but she really is in a different league compared to ordinary humans.
+
+Marisa3d:Pfeh, yeah, I knew that all along.
+
+Marisa0a:But what do I care? I do things my way!
+
+Mima1b:Yes, of course. You did say you'd follow through with your own style of magic.
+
+Mima1a:Why don't you show me that resolve once more?
+
+Marisa0a:I'll show you as many times as you like!
+
+Yuka3f:In that case, why don't you show us something new?
+
+Yuka1b:You'll bore me to tears if you don't have at least one new spell.
+
+Marisa0c:If magic were that simple, magicians wouldn't have to work so hard.
+
+Marisa1a:But my hakkero lets me take it to the next level!
+
+Reimu1a:Enough with the preamble. If you're bringing it, then bring it!
+
+Marisa0a:You don't gotta tell me twice. Alright, hakkero, it's our time to shine!
+
+Marisa7c:Here goes! Danmaku's all about power!
+
+<end>
+
+<ChatID:8>---------------------------------------
+//霊夢通常撃破
+
+Reimu4a:Hey, not bad. For Marisa anyway.
+
+Marisa2b:Yeesh, you're flying around all over the place even more than usual.
+
+Mima0a:Yes, but you're keeping up with her, aren't you? Not bad.
+
+Marisa0c:Well, she did get a lot tougher with that gear Yukari gave her...
+
+Marisa0a:But I've done my research on her movements. She won't be leaving ME in the dust!
+
+Ran0b:Reimu's having an awfully hard time. Is she having trouble drawing on the power of your equipment, Lady Yukari?
+
+Ran4b:Perhaps those items truly aren't suited for human hands, not even those of the Hakurei Shrine Maiden...
+
+Yukari1a:No, this is fine... More than fine. Fantastic, even.
+
+Yukari0b:Those implements exist to guide the Hakurei Shrine Maiden's power in its proper direction.
+
+Yukari0a:If she were not facing others on equal terms, she would make a poor barrier for Gensokyo indeed.
+
+Yuyuko0a:Yep, you're absolutely right.
+
+Reimu4a:I'm trying to fight here, what's with you two just muttering over on the side lines?
+
+Yukari0a:Oh, we were just commenting on how lackluster your fighting style is.
+
+Marisa0a:Sounds like you need to show her how flash you can be!
+
+Reimu0d:You don't need to tell me twice. You're gonna be the opening act before I exterminate the mastermind behind this incident!
+
+Reimu1a:I'll seal you away, and all those youkai with you!
+
+<end>
+
+<ChatID:9>---------------------------------------
+//魔理沙撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Marisa2a:Gah, you got me with that one.
+
+Reimu0b:Not bad. You've got more oomph in you now.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Marisa3d:Hmph. Nice job running away from my spell.
+
+Reimu2b:Well, fighting another human just doesn't sit well with me...
+
+</Cond>
+
+Cirno3a:That means we win, right?
+
+Murasa3d:So as we agreed, you girls have to do what we say.
+
+Marisa4b:No way, that was all just pre-battle banter!
+
+Ichirin3d:That's what you get for talking about stealing our ship.
+
+Akyu3c:So, what do we do? Make them clean the bathrooms?
+
+Murasa1a:I think the deck and the Buddha statue could use a good scrubbing.
+
+Marisa4b:Bah, fine. Do whatever you want with me.
+
+Aya7a:Could you say that again for me, but with more frustration? Once more, with feeling.
+
+Rumia3a:Let's take a group photo with Marisa's group in the background!
+
+Hina5a:I sure am good at collecting misfortune...
+
+Sho0a:For now, I'd just like to sit down with everyone and talk.
+
+Sho3a:Yukari needs to explain her reason for stopping the end of the night.
+
+Alice0d:Yes, let's put our heads together and pool our knowledge, shall we?
+
+Alice4a:Though given how our investigation has been going, I'm afraid your group may be doing the bulk of the contributing...
+
+Sakuya5b:The only notable thing on our end is the odd rabbit we captured.
+
+Mystia5a:An odd rabbit?
+
+Wriggle3c:Yeah. I think she's still hiding, since we asked her to?
+
+LilyW0a:Miss Rabbit, you can come on out now!
+
+<Code=(move_view,128,192,8)>
+
+<Code=(cursor_jump,128,192,0)>
+
+<nomove>
+
+UsagiR2c:Uh... Heya...
+
+</nomove>
+
+<Code=(icon_set_direction,All,FD_LEFT,0)>
+
+<Code=(icon_set_direction,All_en,FD_LEFT,0)>
+
+Yukari0b:...?
+
+Momiji6a:That's... just a regular youkai rabbit? So far as I can tell.
+
+LilyW0a:She was being attacked by other rabbits, and then Marisa's group came to her rescue.
+
+LilyW1a:Now she's been keeping us company!
+
+<Code=(cursor_jump,128,192,1)>
+
+<nomove>
+
+UsagiR0a:Yes, very glad to be here!
+
+</nomove>
+
+Youmu3b:I see. I didn't realize even youkai rabbits had internal disputes.
+
+Youmu0a:Though the ones we've been facing seemed like they were all on the same page.
+
+Yukari0a:...Hm. I have more I'd like to ask about that.
+
+Yuyuko1b:Murasa, would you be a dear and land the ship so everyone can board?
+
+Murasa0a:Sure thing. Everyone, clear the area if you don't wanna get smooshed!
+
+<end>
+
+<ChatID:10>---------------------------------------
+//霊夢撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Reimu3d:Oww... I got sloppy there.
+
+Marisa0a:Yesss! I won! Piece of cake!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Reimu3a:Ugh, you're really slippery when you want to be...
+
+Marisa4b:Phew, those were some nice jukes if I do say so myself.
+
+</Cond>
+
+Sunny5a:I think that beating the Hakurei Shrine Maiden means we're moving on up in the world!
+
+Reimu2b:Uh-huh, sure. That's exactly what it means.
+
+Marisa0a:Okay, time we get some deets about this incident.
+
+Sakuya6a:We'll be commandeering the Palanquin Ship as well, of course.
+
+Murasa4b:Wait, you were serious about that?!
+
+Sakuya0a:The mistresses would love it if I brought it home with me.
+
+Meiling3a:I don't think it'll fit in the mansion, though...
+
+Ichirin4b:Please try not to turn it into a school field trip for the kids...
+
+Sho0a:For now, I'd just like to sit down with everyone and talk.
+
+Sho3b:Yukari needs to explain her reason for stopping the end of the night.
+
+Alice0d:Yes, let's put our heads together and pool our knowledge, shall we?
+
+Alice4a:Though given how our investigation has been going, I'm afraid your group may be doing the bulk of the contributing...
+
+Sakuya5b:The only notable thing on our end is the odd rabbit we captured.
+
+Mystia5a:An odd rabbit?
+
+Wriggle3c:Yeah. I think she's still hiding, since we asked her to?
+
+LilyW0a:Miss Rabbit, you can come on out now!
+
+<Code=(move_view,128,192,8)>
+
+<Code=(cursor_jump,128,192,0)>
+
+<nomove>
+
+UsagiR2c:Uh... Heya...
+
+</nomove>
+
+<Code=(icon_set_direction,All,FD_LEFT,0)>
+
+<Code=(icon_set_direction,All_en,FD_LEFT,0)>
+
+Yukari0b:...?
+
+Momiji6a:That's... just a regular youkai rabbit? So far as I can tell.
+
+LilyW1a:She was being attacked by other rabbits, and then Marisa's group came to her rescue.
+
+LilyW0a:Now she's been keeping us company!
+
+<Code=(cursor_jump,128,192,1)>
+
+<nomove>
+
+UsagiR0a:Yes, very glad to be here!
+
+</nomove>
+
+Youmu0a:I see. I didn't realize even youkai rabbits had internal disputes.
+
+Youmu3a:Though the ones we've been facing seemed like they were all on the same page.
+
+Yukari0a:...Hm. I have more I'd like to ask about that.
+
+Yuyuko1a:Murasa, would you be a dear and land the ship so everyone can board?
+
+Murasa0a:Sure thing. Everyone, clear the area if you don't wanna get smooshed!
+
+<end>
+
+<ChatID:11>---------------------------------------
+//ADVB
+
+<MAP=3,FROM=迷いの竹林C40,TO=迷いの竹林C40,name=Bamboo Thicket,icon=4>
+
+<BG=*bg_talk_Seirensen_Bridge_Night.png,fade=0,color=1,title=*bg_Seirensen_Bridge,bgm=bgm_talk_aoki>
+
+Mima3c:Goodness, how long has it been since I've met someone who can stand up to me like that? How refreshing.
+
+Minoriko4a:We were fighting for our lives over here, and she's just happy she got to cut loose...
+
+<Cond=(CHECK_FLAG,C40_BEATALL,==,0)>
+
+Hina0a:But maybe a little fighting now and then helps us understand each other better?
+
+</Cond>
+
+<Cond=(CHECK_FLAG,C40_BEATALL,==,1) && (GLOBAL_VAR,route,==,Reimu)>
+
+Hina4a:Though you hunted down every last one of us. That's absolutely not normal behavior.
+
+Reimu0b:What are you talking about, that's just my job as the Hakurei Shrine Maiden.
+
+Reimu0g:If I see youkai, I crush them. No matter how many there are. Haven't you realized that by now? 
+
+</Cond>
+
+<Cond=(CHECK_FLAG,C40_BEATALL,==,1) && (GLOBAL_VAR,route,==,Marisa)>
+
+Shizuha4a:Wow, they really went out of their way to beat every last one of us....
+
+Marisa0a:There. Now do you get how awesome I am?
+
+Yuka3b:Oh please. Don't act like you did all that by yourself.
+
+Yuka3c:Or maybe you are that amazing and we can try again, all of us against just you?
+
+Marisa4a:Okay, fine, we all did it with the power of teamwork. Happy?
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Sanae4a:It was fun for us too. It was nice to get a chance to fight Marisa with danmaku.
+
+Sanae3c:Was it just me, or was your Master Spark stronger than before?
+
+Marisa0c:Haha, well, I'm just bursting with energy because of that breakthrough I had.
+
+Youmu4a:You had some kind of breakthrough?
+
+Nitori4b:Before we got here, there was this thing with Mima.
+
+Nitori4c:She invited Marisa to leave Gensokyo with her and redo all her training from scratch.
+
+Youmu2b:Wait, to leave Gensokyo?!
+
+Reimu3b:Don't tell me you actually went along with that? 
+
+Marisa0b:Course I didn't, dummy. I wouldn't even be here if I did.
+
+Marisa0a:I'm gonna keep doing things my own way, finish this investigation, and show her what I'm made of.
+
+Reimu0g:Hmm... That's pretty big game you're talking. Guess you're pretty fired up.
+
+Sakuya5b:That said, confident or not you still lost to Reimu immediately.
+
+Marisa4b:Ugh, you don't have to rub it in.
+
+Reimu0g:Ah ha ha, who cares? I had a lot of fun too.
+
+Reimu0b:Glad to see you trying harder than usual.
+
+Star4b:She's even cockier than usual because she won...
+
+Marisa3d:Pft, talk big while you still can.
+
+Marisa0c:Before you know it, I'll have studied every trick that new gear of yours can pull. 
+
+Sunny5a:Even a fairy can beat her one percent of the time!
+
+Reimu0g:And when exactly are you going to show me that one percent miracle? 
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Sakuya5b:Now that we've fought like this, I can tell you're quite something, Reimu.
+
+Sakuya0a:Is that the power of the new equipment Yukari was preparing for you? 
+
+Momiji4c:Probably. That looks like Yukari's handiwork.
+
+Momiji0a:But as Yukari hasn't finished her adjustments on the items, Reimu shouldn't be able to employ them just yet.
+
+Nitori2a:Huh? But isn't Reimu's doing just that?
+
+Hatate0a:Her old gear got all smashed up, so she had to figure it out in a hurry. 
+
+Aya1a:Mastering them on the spot? That sounds about right for Reimu.
+
+Reimu0g:Come on, keep the praise coming.
+
+Marisa6a:And yet you totally just lost to me though.
+
+Reimu2b:Ugh.
+
+Marisa6a:Well, isn't it better this way?
+
+Marisa0a:It'd suck if I could never take a match off you.
+
+Reimu3d:That was me letting my guard down! If I'd been taking it seriously, you wouldn't have stood a chance. 
+
+Sunny5a:Even a fairy can beat her one percent of the time!
+
+Reimu3a:Yeah, because I only let my guard down one percent of the time! That means I basically never lose. 
+
+</Cond>
+
+<single>
+
+Akyu3c:...They never get tired of all this one-upmanship, do they? 
+
+</single>
+
+Alice4a:I wonder if they even remember what we came here for?
+
+Alice0d:Well, let's let them have their fun. Could you explain what's going on with the moon and the night again? 
+
+Yukari0a:Of course. But first, might I ask about that rabbit you have with you? 
+
+Koakuma3a:If you'd like, you could ask her yourself. I can take you to her. 
+
+Yukari0b:No, no, it would be much simpler to have this conversation without her.
+
+Yukari0a:So, I believe you said you saved her from being attacked by other rabbits?
+
+Patchouli0a:Indeed. There was a particularly crafty rabbit involved, too. I believe she called herself Tewi Inaba.
+
+Patchouli0c:I don't know why, but she seemed to be after the rabbit we saved.
+
+Yuyuko1b:Hmmmm. I wonder why she was being attacked?
+
+Suwako0c:We haven't really grilled her about it yet.
+
+Suwako0a:If she gets too suspicious of us, then our precious bait might scamper off.
+
+Suika0c:Oh? Your bait?
+
+Kanako0a:By using her as bait, we're aiming to force the enemy to make contact with us.
+
+Kanako3a:As for the rabbit herself, as long as she is within our grasp we can take our time with the questioning.
+
+Ran3a:...I see. Judging by what little I know so far, it sounds like a logical course of action.
+
+Murasa0c:I'm not so sure about keeping her aboard the Palanquin Ship though.
+
+Murasa5c:Who knows what mischief she'll get up to when we're not looking?
+
+Alice0a:...You have a point, but it does make it harder for her to slip away.
+
+Yuyuko1a:Then it's settled! We'll just have our cute little Ran keep an eye on her.
+
+Kanako0c:Hm. Would not her bevy of tails render her unsuitable for covert operations?
+
+Yukari1a:A short time ago, Ran snuck all the way onto Youkai Mountain.
+
+Yukari0a:Stealth won't be a problem for her. For now, I'll have her tail the rabbit.
+
+Akyu0b:I'll keep a close eye on the door locks too.
+
+Ran3c:Glad to have the help. Then if you'll excuse me...
+
+<SE=se_talk_walk.ogg,wait=1>
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+Komachi1a:You really put a lot of effort into all this observation and investigation stuff.
+
+Yukari1a:Giving a simple order to Ran hardly counts as going to great lengths on my part.
+
+Yukari0a:More importantly, have any of you ever heard of the rabbits fighting amongst themselves before? 
+
+Suika3c:Huh, you're right... Don't they all have some kinda seniority system?
+
+Suika0a:We met this weird youkai rabbit earlier too who didn't mesh well with the rest of 'em.
+
+Patchouli4c:...Ah, so you've been fighting rabbit youkai too.
+
+Koakuma0a:A strange youkai rabbit...
+
+Yuyuko1a:She did seem just a little bit like that other rabbit, too!
+
+Alice0d:Anyway, are you ready to share the details with us now?
+
+Alice0a:I believe you said that Yukari's the one who stopped the night. 
+
+Yukari0b:By modifying the border of day and night, I'm holding the dawn at bay.
+
+Yukari0a:However, this is absolutely necessary for resolving the moon incident.
+
+Meiling6a:Wait, so you're saying that the fake moon and the long night incidents are totally separate? 
+
+Koakuma4b:But why? Why would you want to add another incident to an incident?
+
+Kanako3a:I've arrived at a reasonable conjecture. You're trying to prevent the false moon from escaping. 
+
+Yuyuko1b:Ah, right on target.
+
+Suwako1a:So there were two different people behind this incident all along. Guess that kinda stuff happens sometimes.
+
+Koakuma5b:Wait, what? What do you mean? 
+
+Suika3c:The moon up there right now is a fake, something switched in by someone else for whatever reason.
+
+Suika0a:They probably need to keep their spell going all the way till sunrise, so... 
+
+Alice0b:...I see, so by stopping the night you're pinning the moon to the sky.
+
+Alice0d:That way, we can try to catch the culprit who hid the moon red-handed.
+
+Yukari1a:Precisely. That's the truth behind this incident.
+
+Patchouli4c:Countering an incident with an incident. What a bold move.
+
+Patchouli0c:You do realize that extending the night brings its own share of dangers, right?
+
+Alice0a:Actually, Kosuzu recently had a rough time of it because of that.
+
+Suika0c:Well, yeah. We already said all this to Reimu and the others, but it's a double-edged sword.
+
+Suika1b:We have to nab the culprit while the night's been stopped, no matter what. 
+
+Suwako1c:Will we catch them, or will they make their getaway? It's like a game of cops and robbers. 
+
+Kanako0a:At least we finally understand the situation.
+
+Kanako1a:Now with only a single objective before us, all that is left is to proceed towards it.
+
+Ichirin3b:Okay, so if all that's settled, how about we take a little break?
+
+Ichirin3c:We've got some newcomers on the ship, so a quick tour might be in order.
+
+<BG=bg_talk_Seirensen_Hall_Night.png,fade=1,color=1,title=bg_Seirensen_Hall,bgm=bgm_talk_gag>
+
+UsagiR0a:(Hm, everything around here is so outdated.)
+
+UsagiR0a:(At first glance, I thought this ship might've been from the moon. But after seeing it up close, there's no way.)
+
+Cirno0b:Hey, you! Don't wander around too much or they'll get mad. 
+
+Mystia4a:They're really merciless, you know. One wrong step and you're roast meat.
+
+UsagiR2c:Wait, are people here THAT uncivilized?!
+
+LilyW0b:It's just a joke. Even Reimu wouldn't...
+
+Luna4a:But what about Marisa though? 
+
+LilyW3a:...
+
+UsagiR2c:H-Hey! You're not gonna deny it?! You're freaking me out here! 
+
+Daiyosei0a:I'm really glad we ran into Sunny and Lily and everybody else.
+
+Daiyosei0b:It was getting a little lonely without the whole fairy gang.
+
+Sunny1b:It's just not lively enough without us fairies around, right?
+
+Star3c:I think Wriggle and the Prismrivers have that covered. 
+
+Rumia3a:With all these bugs around, we must be spending a fortune on food!
+
+Wriggle4g:Actually, adult fireflies live entirely off of water. 
+
+Cirno0a:Hey, that reminds me, why were you working with Marisa anyway, Wriggle? 
+
+Wriggle4a:Her group just suddenly barged into our habitat.
+
+Wriggle4b:And then we lost, and then... Well... One thing led to another, and...
+
+Mystia4b:...That story sounds familiar.
+
+Daiyosei3b:The same thing happened to Rumia...
+
+Mystia3b:Wait, so we all have a reason to hold a grudge against them?
+
+Mystia3d:We should form a youkai alliance! It's our chance to get back at 'em! 
+
+Rumia1a:Ooh, I've been waiting for something like this to happen! 
+
+Wriggle6a:So... you want us to pool our strengths together? 
+
+Cirno3b:I'm not a youkai, but count me in.
+
+Cirno3a:And with Dai, and Sunny's gang, and... That rabbit too! That's ten! 
+
+UsagiR2b:Huh? Hold on a sec. Why're you already counting me as one of you? 
+
+Cirno5b:Aren't you friends with Lily? The friend of my friend is a friend! 
+
+LilyW0a:That's great, you made more friends, Miss Rabbit!
+
+UsagiR0a:Friends, huh... Guess so.
+
+Luna0c:By the way, what exactly does "getting back at them" mean here? 
+
+Sunny0c:Maybe we should try asking for help from the Prismrivers? Lyrica might have somethin―
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+Lyrica3d:Wow, so there's a place like this on the ship?
+
+Elliy3b:It's perfect, right? We were surprised too.
+
+Star0a:Oh, speak of the phantom. 
+
+Daiyosei0a:Are you taking a tour of the ship too, Lunasa?
+
+Lunasa0a:They told us we could do whatever we want, so we're doing just that. 
+
+Merlin3c:We figured we might as well check out the stage for our next concert!
+
+LilyW0a:Ooh, I can't wait!
+
+Elliy3b:Right? Yuuka's gonna love it!
+
+Daiyosei3b:...Hey, maybe we should think about how to make people happy instead of just playing pranks? 
+
+Wriggle4a:You're right. I don't even wanna know what'd happen if we got caught...
+
+Sunny4a:Ah man, I guess the more people we add to the group the less we agree on what to do...
+
+Cirno3b:Hey, you're good at singing, right Mystia? How about you sing with the Prismrivers? 
+
+Mystia4a:No way. The thought of making humans happy makes me sick.
+
+Mystia1a:Though I might think about it if I were allowed to strike them blind.
+
+Lunasa1a:Sure, why not? 
+
+Wriggle6b:Really?!
+
+Lunasa0a:We want to strike a chord in their hearts. And faith, love, anger—all of that is strongest when it's blind.
+
+Lunasa0b:In fact, if we're putting on a show for gods and greater youkai, we really should be pulling all the stops out like that.
+
+Luna4b:...That's crazy. You're crazy. Is this concert really gonna be okay?
+
+Lyrica3c:Lunasa's always been crazy about music, so this is par for the course!
+
+Merlin3d:Then we're doing this! The Youkai Blind Happiness Concert! Tickets when?!
+
+UsagiR0a:...
+
+UsagiR0a:(They're all so carefree. But I guess you can get away with that when you're strong.)
+
+UsagiR0a:(I hope I can remain under their protection long enough to find Lady Yagokoro...)
+
+LilyW0a:What's wrong, Miss Rabbit?
+
+UsagiR0b:Ah, it's nothing. Aren't you going to join them, Miss Fairy?
+
+LilyW1a:Hmm, well... I do like it when things are lively, since it reminds me of spring...
+
+LilyW0a:Also, my name's not Fairy, it's Lily White.
+
+UsagiR0a:Hmm, good to know... Wait, isn't everyone gone?
+
+LilyW0a:Ah, they are! We have to go catch up!
+
+<BG=bg_talk_Seirensen_Dining_Night.png,fade=1,color=1,title=bg_Seirensen_Dining,bgm=bgm_talk_aoki>
+
+Sakuya5b:...And that about does it.
+
+Youmu4a:Ooh, impressive...
+
+Sanae4a:It looks great. I wish I were that good at cooking.
+
+Yuyuko1b:I smell something delicious.
+
+Suwako3a:Not anything I'm familiar with, it must be foreign cuisine.
+
+Aya3a:Minoriko brought some wine she'd been saving for a special occasion, so we thought we'd serve something to complement it.
+
+Aya0a:Getting enough relaxation's part of our job too. C'mon, don't be shy, have a seat.
+
+Kanako4a:This place isn't bad at all. It's quite relaxing to have tatami mats to sit upon.
+
+Komachi5a:It's so great to be able to just lie back and have the boat move all on its own...
+
+Shizuha4a:You're pretty lazy for a ferryman...
+
+<SE=se_talk_walk.ogg,wait=1>
+
+<SE=se_talk_dish02.ogg,wait=1>
+
+Sakuya0a:This style of cuisine isn't my area of expertise, but I hope it will prove satisfactory.
+
+Suika3c:Absolutely. This stuff is great.
+
+Komachi1a:Man, isn't this wine way better than the stuff Sakuya ages on-the-fly?
+
+Minoriko3b:Of course it is, it's filled with all my tender loving care. 
+
+Suwako3a:Using divine power is cheating, you know. 
+
+Sakuya0a:I see this is a difficult crowd to please.
+
+Youmu4a:Isn't Remilia the same?
+
+Youmu4b:She doesn't seem like she'd be free with her praise.
+
+Yuyuko1a:Oh my, is this your way of indirectly telling me I need to praise you more too?
+
+Youmu2b:N-No! That's not what I meant at all!
+
+Sanae0a:Now that you mention it, why isn't Remilia with you?
+
+Sanae4a:Since Lady Kanako and Lady Suwako were there, I was sure you'd have her with you...
+
+Patchouli0c:...Obviously, Remi is aware of the gravity of this incident.
+
+Patchouli0d:However, she elected to remain home and keep an eye on Flan. 
+
+Youmu2b:Is taking care of Flandre really so important that she can afford to ignore an incident like this?
+
+Koakuma3b:Actually, you have it backwards. It's because of this incident that it's so important to watch over her.
+
+Koakuma4a:The moon incident is making Lady Flan unstable... 
+
+Aya5a:...Oh, I see. Vampires have a deep connection to the moon, and the younger sister is already unstable enough as is. 
+
+Minoriko0b:I can totally understand that kind of sisterly love, but shouldn't she be more worried about the incident?
+
+Minoriko4a:Worse comes to worst, Sakuya and Patchouli might not make it back unscathed... 
+
+Sanae4a:In that case, you have to make sure to stay safe and try not to worry her.
+
+Sakuya5b:Carrying out our orders takes precedence over coming back safely.
+
+Sakuya0a:She dispatched us to investigate for that purpose alone.
+
+Hatate0a:Man, she sounds pretty strict.
+
+Patchouli4a:...
+
+Patchouli4c:(We have more allies than ever on our side, and our fighting strength has risen concomitantly.)
+
+Patchouli4d:(On the other hand, that just shows how dangerous the person we're up against is.)
+
+Patchouli0a:(I hope nothing bad happens while Remi's not here...)
+
+<BG=bg_talk_Seirensen_Bridge_Night.png,fade=1,color=1,title=bg_Seirensen_Bridge,bgm=bgm_talk_ningyo>
+
+Marisa0c:Huh, so you've officially joined the investigation team too, Akyu?
+
+Akyu0b:Well, I at least hope to put my intellect to good use here.
+
+Alice0b:I don't think I'll get used to seeing you here anytime soon.
+
+Murasa3c:It'll happen before you know it. It was amazing how fast Akyu finished her training as a crew member.
+
+Ichirin3a:She can memorize even the most complicated tasks in an instant. It's like she was born to be a member of the bridge crew.
+
+Ichirin3b:Once the Palanquin Ship is fully repaired, we might even be able to leave commanding it in battle to her.
+
+Marisa6b:What, this thing can fly without you all aboard?
+
+Sho0a:Once we've gathered the fragments of the Flying Granary, we should be able to set it on autopilot.
+
+Sho4a:Of course, that may be easier said than done...
+
+Alice0a:It sounds like something happened while we were separated.
+
+Murasa3a:Well, we ran into an old friend, and she's a bit of a troublemaker. I'll tell you all about it sometime. 
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+Mima3b:We didn't get much time to explore, but that was pretty interesting. 
+
+Yuka0d:Personally, I thought it was a bit lacking in color.
+
+Reimu0g:Oh, it's you two. Finished with your tour?
+
+Mima0a:Everyone seems to just be doing as they please. It would be bad form to spoil their fun. 
+
+Kurumi3d:Look, I brought some of the dessert Sakuya made!
+
+Akyu3a:Oh, it looks delicious. I'd like a piece, please.
+
+Mima3a:But since when have you all been so friendly and open with each other?
+
+Mima3d:You didn't used to be this close, back in the day.
+
+Alice4a:...There are a lot of things from back then that I'd rather not be reminded of. 
+
+Ichirin3c:The five of you are acting like it's some kind of class reunion or something. 
+
+Reimu0g:Yeah, I've known these jerks for as long as I can remember. Even though I wish I didn't. 
+
+Marisa0a:I've known Reimu from back when she didn't have her armpits out.
+
+Yuka3d:She puts on a good front nowadays, but Alice used to be such a crybaby when she was little.
+
+Mima3c:She even used to be my maid for a while. Good times.
+
+Alice1a:As I was just saying, there's plenty of stuff I don't want brought up!
+
+Akyu0a:So, what brings you to Gensokyo this time?
+
+Akyu3c:My apologies if I'm being rude, but you don't seem like the incident-investigating type. 
+
+Yuka1a:I can see why you'd ask. You do have me listed as the youkai with the lowest Human Friendship Level and the highest Threat Level, after all.
+
+Akyu3c:Ulp, so I guess you've read the Gensokyo Chronicle...
+
+Akyu4a:Those numbers are determined from a mix of impartial interviews and Yukari's careful review...
+
+Yuka1b:I don't mind the rating. After all, it's coming from someone who wants to guide humans and youkai into coexistence.
+
+Yuka3c:Yukari Yakumo, always the high-minded meddler.
+
+Reimu4a:You sound like you know her personally.
+
+Yuka1b:We're just two youkai who'll never see eye-to-eye.
+
+Sho0a:If that's the case, then why are you cooperating with us?
+
+Yuka0b:Heh, no particular reason.
+
+Yuka0c:If I had to give one, maybe it's that I want to be around to mock the investigation team when it stumbles.
+
+Alice0c:You need a better hobby.
+
+Yuka3c:Since when did you start judging my hobbies?
+
+Reimu3b:...So, you both came here to laugh at us then?
+
+Mima2a:Ye gods, don't put me on her level. 
+
+Mima0a:I came back to Gensokyo because I wanted to see the Palanquin Ship.
+
+Ichirin5a:You came to see our ship?
+
+Mima3b:Yes, I heard through one of my connections that it was buried in the Underworld. That piqued my curiosity.
+
+Mima0a:And now here it is, floating in the sky.
+
+Ichirin0a:I'm surprised that there's still anyone left out there who knows about this ship. 
+
+Mima3d:I've seen and heard a lot of things in my travels.
+
+Mima3b:You're the captain of this vessel, right? What's your next step? You must have a goal.
+
+Murasa4a:Uhhh? To improve myself, I guess? Or to fight? 
+
+Sho3c:In the long run, our plan is to rescue Hijiri from where she's sealed in Makai and revive her.
+
+Mima3b:Intriguing. And you are?
+
+Sho0a:Shou Toramaru. I owe a debt to Byakuren Hijiri and I'm working to repay it.
+
+Sho3b:Right now my fellow disciple Murasa and I are trying to find a way to revive her. 
+
+Mima0a:Hmm. I see...
+
+Ichirin4b:But, to be honest, we've still got a long ways to go before that can happen.
+
+Ichirin0a:If you hear anything that might help, please let us know.
+
+Mima3d:...Eh, sure. If the mood strikes me.
+
+Marisa0b:By the way, I've been wondering where Keine is. Is she not with you?
+
+Marisa0a:I woulda sworn she'd be the type to get to the shrine before I did.
+
+Akyu0a:Mokou isn't here either, so maybe they're together?
+
+Reimu0f:Well, I doubt Keine's the type to take this whole situation lying down.
+
+Reimu0b:Anyway, let's just keep going. The sooner we resolve this incident, the sooner everything's okay again. 
+
+Marisa0a:You got that right!
+
+<end>
+
+<ChatID:12>---------------------------------------
+//被撃墜時（霊夢）
+
+Reimu3c:No way, you actually got me?
+
+Marisa7d:Hah, piece of cake. I win this time, Reimu.
+
+Reimu3d:Oh come on, that clearly was just the practice round. Let's do this one more time!
+
+<end>
+
+<ChatID:13>---------------------------------------
+//被撃墜時（魔理沙）
+
+Marisa2a:Argh, you got me?!
+
+Reimu0c:Heh, what's wrong? Well, I guess that's all I can expect from you.
+
+Marisa2b:That loss didn't count! Let's try that again!
+
+<end>
+
+<ChatID:14>---------------------------------------
+//大妖精撃墜時
+
+Cirno2a:D-Daaaaaai!!
+
+Minoriko1b:No way, Dai got defeated?
+
+Mystia1c:What is wrong with you people?! How could you go out of your way to beat Dai up?!
+
+Rumia1a:Yeah! That was uncalled for!
+
+Hatate0a:Is this the reality of Gensokyo? Is there no hope for the weak in this uncaring society?
+
+Aya4a:This is going into a special issue. We'll see how Gensokyo reacts to an exposé of your crimes.
+
+Momiji2a:Some shield of Youkai Mountain I am! I couldn't even protect the innocent...
+
+Sanae2a:...Reimu, I'm deeply troubled by this!
+
+Reimu0a:Yeah, even I'm not sure how to feel about that.
+
+Reimu1a:Maybe instead of focusing on Marisa, I should take all of you on!
+
+Chen4a:Miss Ran, it's wrong to bully the weak, right?
+
+Chen5b:I remember you said we should be protecting the weak from bullying...
+
+Ran6e:That's right, Chen. That's what powerful youkai are supposed to do.
+
+Yukari6b:Power used only for chaos can only lead to destruction.
+
+Yuyuko5a:The real trick is to exercise moderation in all things.
+
+Suika1a:Meaningless rampages aren't what youkai are all about.
+
+Akyu1a:Murasa. Ichirin. Let's shift our target.
+
+Murasa1b:On it. Nobody bullies the weak on my watch!
+
+Ichirin1a:I'm sure the Chief would agree if she were here!
+
+Unzan0a:...!
+
+Nazrin6b:Yeesh. I'm not usually the type who gets hot under the collar easy, but...
+
+Sho0b:But we can see clearly that these girls have strayed down the wrong path.
+
+Sho1c:Nazrin, we cannot back down here!
+
+Nazrin1a:Heh. I figured you'd say something like that, Master.
+
+Cirno0b:Dai... You did this for us...
+
+Cirno2b:I'm super mad now! I'm gonna teach you girls a lesson!
+
+Shizuha3a:Everyone, back Cirno up! We're going in!
+
+Youmu1a:Prepare to face the sword that cleaves evil!
+
+<end>
+
+<ChatID:15>---------------------------------------
+//リリー撃墜時
+
+Sunny4b:Ugh, they took down Lily!
+
+Luna1a:You're starting by picking off the weak fairies?!
+
+Star2b:No, I think I know Reimu's plan.
+
+Star1c:She wants to cut off our support to make it easier to eliminate us!
+
+Elliy2a:Let me guess, you're thinking "there's no other way" or something, right?! You'll just do whatever it takes to win!
+
+Kurumi2a:Eeeek, then they're going to aim for me next!
+
+Marisa3a:...Hm, so that's their game? They definitely know our group comp well.
+
+Marisa5a:But I'm not gonna let something like that slide!
+
+Patchouli1c:It's an effective stratagem, true, but...
+
+Alice1a:But not all's fair in love and war!
+
+Nitori1b:You hurt our friend!
+
+Meiling7b:You trampled upon a gentle soul!
+
+Hina1c:That crime will become the thorn that pierces your hide.
+
+Komachi3a:I doubt you'd ever make it across the Sanzu River.
+
+Wriggle2a:And the bugs say you're awful too!
+
+Koakuma2a:Lily, I'm sorry I couldn't protect you...
+
+Sakuya1b:Mark my words, we will avenge your fall.
+
+Merlin0a:We're all taking this to the next level!
+
+Lyrica1b:The Prismriver Phantom Ensemble stands against bullying!
+
+Lunasa0b:Evil will be judged, that's all.
+
+Yuka1a:Heheh, it's so nice to have an excuse to exact terrible retribution.
+
+Mima1a:So this is an excuse for you to go all-out? I suppose that's one way of looking at it.
+
+Suwako1e:I hope you're prepared, because we've only got one goal.
+
+Kanako1c:All hands, ready yourselves! Exterminate these sinners!
+
+<end>
+
+<ChatID:16>---------------------------------------
+//霊夢vs.魔理沙
+
+Marisa0a:C'mon, let's get this party started!
+
+Reimu0e:Huh. You seem more into this than usual.
+
+Marisa7c:Everybody ended up getting sucked up into a giant battle, so it's hard not to be.
+
+Marisa1a:If we're both ready to rumble, then let's start enjoying ourselves!
+
+Reimu0b:Just what I wanted to hear!
+
+<end>
+
+<ChatID:17>---------------------------------------
+//霊夢vs.幽香
+
+Reimu0a:Now that's a nostalgic team you've got over there.
+
+Yuka0a:You've got that right. All of a sudden I feel like reminiscing about old times.
+
+Yuka0a:You and Marisa have grown so splendidly. And Alice used to―
+
+Reimu4a:And you used walk around in giant pants and clown shoes.
+
+Yuka0b:Oh my, what a zinger.
+
+Reimu0a:I don't think you're a good fit for this investigation team. Neither you nor Mima.
+
+Reimu1a:So while we're here, I might as well exterminate you!
+
+Yuka1a:Interesting. Go ahead, try.
+
+<end>
+
+<ChatID:18>---------------------------------------
+//霊夢vs.アリス
+
+Alice0a:I never thought it'd come to this, but here we are...
+
+Reimu0b:I haven't really danmaku'd with you before, have I? As long as we're both here, why don't we?
+
+Alice2b:Speaking of the investigation, I expected Keine to be with you.
+
+Reimu0f:We've been wondering about that too. I was sure she'd come to the shrine...
+
+Reimu3b:Whoops, this isn't really the best time for this, is it?
+
+Alice4a:I personally wouldn't mind if we just discussed things, though.
+
+<end>
+
+<ChatID:19>---------------------------------------
+//霊夢vs.魅魔
+
+Mima0a:Long time no see, Reimu. I see you're still as abnormally talented as ever.
+
+Mima0a:I'm looking forward to seeing how effective Marisa's magic will be against you.
+
+Reimu5c:Yeah, yeah, I'm already sick of your smug banter.
+
+Reimu0a:So, have you had a chance to really talk with Marisa yet? She's been fretting about that for ages.
+
+Mima0a:Oh, you don't need to have any worries there. Actually, that very conversation is what has me so interested in your duel.
+
+Mima0a:Then again, why don't I see how my own magic fares first?
+
+Reimu3a:Maybe it's not in the exact same way as Marisa, but you're just another magic nut, huh?
+
+<end>
+
+<ChatID:20>---------------------------------------
+//霊夢vs.かなすわ
+
+Reimu0a:Come on, I have to fight you two AGAIN?
+
+Suwako0a:Don't get all sulky about it. Isn't performing for the gods your job? As a shrine maiden, I mean.
+
+Kanako0a:You too, Sanae. I don't mind if you help Reimu out here.
+
+Sanae0a:...Really? Me?
+
+Reimu0a:You want me to perform some danmaku with you now? Well, at least it's better than asking me to close up shop.
+
+Reimu0a:Twice the shrine maidens, double the results, right?
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Kanako_en) || (LOCAL_VAR,Char1,char_code,==,Kanako_en)>
+
+Kanako0a:If you've prepared yourself, go ahead and begin. Be quick about it.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Suwako_en) || (LOCAL_VAR,Char1,char_code,==,Suwako_en)>
+
+Suwako0a:If you're ready, why don't we start things off right away?
+
+</Cond>
+
+Reimu0a:Sure thing. Come at me!
+
+</Cond>
+
+<end>
+
+<ChatID:21>---------------------------------------
+//マリアリvs.橙
+
+Alice0d:Hey, you have Ran with you tonight.
+
+Chen3c:Yup, Miss Ran said she'd come with me since it's such a dangerous incident!
+
+Ran0a:I understand that Chen was a bother to you all the other day.
+
+Ran1c:Still, don't you think that you went too far? Bullying is unacceptable.
+
+Marisa0e:Huh? Come on, a little danmaku is just the Gensokyo Hello nowadays.
+
+Alice2b:Besides, I made sure to put a band-aid on the scratch she got...
+
+Ran1b:We'll finish this conversation through danmaku!
+
+Marisa1c:Man, parents can be real monsters nowadays. Also literally, given that she's a youkai.
+
+<end>
+
+<ChatID:22>---------------------------------------
+//ナズーリンvs.パチュリー
+
+Patchouli6b:Figures it'd turn into something ridiculous like this.
+
+Nazrin0a:I was thinking the same thing. Though I do like those girls' spirits.
+
+Nazrin0a:But we're the ones who've gotta make sure our groups don't completely lose their heads.
+
+Patchouli0c:Yes, we play an important role. Though I wish Marisa would pay more attention to her surroundings on her own.
+
+<end>
+
+<ChatID:23>---------------------------------------
+//パチュリーvs.聖輦船
+
+Patchouli0a:I see it's working smoothly even in the middle of battle.
+
+Ichirin0a:Oh, hello Patchouli. Yeah, the ship's running pretty well―thanks for all your help!
+
+Patchouli0a:...I wonder if the armor plating can withstand even my magic.
+
+Murasa0a:Wait, are you going to test it right now?!
+
+Akyu0a:But what if it breaks?!
+
+Patchouli0a:It won't be a problem, Nitori's here to fix it.
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Kosuzu1a:Th-That's crazy!
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+<nomove>
+
+<Code=(cursor_jump_unit,Seirensen_en,0,0,0)>
+
+Kosuzu1a:Th-That's crazy!
+
+</nomove>
+
+</Cond>
+
+<end>
+
+<ChatID:24>---------------------------------------
+//紫vs.プリバ
+
+Yukari0a:It's been a while since last we met, Phantom Ensemble.
+
+Merlin1a:It has! We haven't seen you since that concert in the Netherworld!
+
+Yukari0a:Pardon the sudden question, but does Yuyuko often call upon you?
+
+Lyrica0a:Not lately. We used to work for her all the time though...
+
+Lunasa0a:Though instead, we've started seeing her outside the barrier sometimes.
+
+Lunasa0a:I suppose with the Barrier of Life and Death being so weak nowadays, she's been out enjoying herself?
+
+Yukari5a:I see. I'm glad to hear she's been doing well.
+
+Merlin0a:You haven't been visiting the Netherworld as much as you used to, either.
+
+Yukari0a:Well, less than I did in spring, at any rate. I didn't sleep easy last winter.
+
+<end>
+
+<ChatID:25>---------------------------------------
+//はたてvs.雛
+
+Hatate0a:So this is that girl who looks like a doll I heard about. I'm not supposed to touch you, right?
+
+Hina0a:Right, because of all the misfortune I've accumulated.
+
+Hatate0a:Despite all that, you seem pretty lively. You don't go spreading it around to people or anything?
+
+Hina4a:I collect it, so why would I ever do that?
+
+Hina0a:Though lately, going out with Nitori does have me more used to being out in public.
+
+Hatate1a:So you're blazing the trail for me then? If a misfortune god can get used to leaving the mountain, then I can too!
+
+<end>
+
+<ChatID:26>---------------------------------------
+//はたてvs.小町
+
+Hatate0a:So you're a shinigami, right? Don't tell me you're here to pick someone up?
+
+Komachi0a:That's not the kind of job it is. I just take folks across the Sanzu River.
+
+Hatate0a:Oh, so you shake down dead people for what little cash they have for your tolls?
+
+Hatate0a:Aren't you gonna throw the money as danmaku?
+
+Komachi2b:Uh, I'm a little broke at the moment. If I started throwing money around left and right, I wouldn't have enough to last the night.
+
+<end>
+
+<ChatID:27>---------------------------------------
+//秋姉妹vs.プリバ
+
+Minoriko0a:So the Prismriver Ensemble is helping out the investigation too, huh?
+
+Shizuha0a:And you're doing it using your ensemble thing too! Even when along for the investigation, you girls play to your own tune.
+
+Lyrica1a:Well, playing in ensemble IS our specialty.
+
+Lunasa1a:Thanks to our harmony, this is the best way to show off each of our unique talents.
+
+Merlin1a:I wanna be an ensemble with you!
+
+Minoriko0b:They work so well together. Is combining really that wonderful?!
+
+Shizuha1d:Together we're the Aki Sisters, so I think we could do it too. You know, like with Sweet Potato or the Kick.
+
+Lyrica0a:Not a chance.
+
+<end>
+
+<ChatID:28>---------------------------------------
+//ゆゆ様vs.プリバ
+
+Yuyuko1a:Taking a tour of the world of the living, are we?
+
+Lyrica0a:Thank you for your patronage earlier, Lady Yuyuko!
+
+Merlin0a:We've been running into you a lot on this side lately!
+
+Yuyuko1b:Yes, I've started visiting a bit more often.
+
+Yuyuko0a:I'm finding it's important to take the initiative, rather than wait around.
+
+Lunasa1a:That's sound advice in the business world too.
+
+<end>
+
+<ChatID:29>---------------------------------------
+//みすちーvs.プリバ
+
+Merlin0a:I can sense some real noisemaking potential here!
+
+Mystia0c:Do you have to be so loud? Are you trying to ruin other people's singing?
+
+Lyrica1a:No way! Don't mind the music, just sing your heart out!
+
+Lunasa0a:You seem like you do this out of passion. You're not singing for other people, you're singing for yourself.
+
+Mystia0b:Well, I don't really care about singing for crowds.
+
+Lunasa0a:You say that now, but if you ever put on a concert, you'd be singing a different tune.
+
+Merlin1a:When you have so many people together, all feeling the same feelings together, it gets awesome!
+
+Lyrica0a:Are we becoming producers now?
+
+Mystia1c:I never asked for career advice from any of you!
+
+<end>
+
+<ChatID:30>---------------------------------------
+//霊夢vs.三月精
+
+Sunny1a:Luna, Star, you know what to do!
+
+Star1a:This is our big chance to play a prank on the shrine maiden!
+
+Luna1a:We'll defeat Reimu and make our way down Victory Road!
+
+Reimu4a:Man, you just don't learn your lesson. I admire your persistence, at least.
+
+Sunny5a:Well, a one in a million shot works sometimes!
+
+Reimu3d:That time was just me not taking it seriously! If you're challenging me then it's game on!
+
+<end>
+
+<ChatID:31>---------------------------------------
+//幽香vs.萃香
+
+Suika0a:You're Yuuka Kazami, right? How's about you and I have a fight?
+
+Yuka0a:You seem like quite the hothead.
+
+Suika1a:You know how it is. The stronger you get, the harder it is to find a good opponent.
+
+Suika0a:So if I get to fight you, that'll take care of finding something exciting for me today.
+
+Yuka0b:True. I suppose I might as well bully someone strong every now and then.
+
+<end>
+
+<ChatID:32>---------------------------------------
+//幽香vs.大妖精
+
+Daiyosei2c:Yu- Yuuka!
+
+Yuka0a:Oh, the fairy from the other day. I do just love bullying the weak.
+
+Daiyosei2b:*sob* *sniff* Save me, Cirno!
+
+Yuka0b:Shh... there's no need for tears. They won't change what's going to happen.
+
+<end>
+
+<ChatID:33>---------------------------------------
+//萃香vs.かなすわ
+
+Suika0a:So you gods came too? It's getting pretty lively here!
+
+Suwako3b:We don't get many chances to hold festivals as great as this one, huh?
+
+Kanako1a:Indeed. Since we're all here, our first step is to determine who's better at danmaku.
+
+Suwako1a:And then we have a drinking contest!
+
+Suika1a:Now we're talking! You and me are gonna party till past closing time!
+
+<end>
+
+<ChatID:34>---------------------------------------
+//リグルvs.秋姉妹
+
+Shizuha2b:Minoriko, check out this youkai's footwork!
+
+Minoriko1b:It's undeniable. She's another Kick user!
+
+Wriggle2a:What, how can you tell?
+
+Minoriko2a:Even among this merry band, we're well known as the masters of our trademark kick.
+
+Shizuha1a:We're the Queens of the Kick! You'll never steal our throne!
+
+Wriggle1a:I've put blood, sweat, and tears into my own kicks! I won't let you claim the title so easily!
+
+<end>
+
+<ChatID:35>---------------------------------------
+//リグルvs.早苗さん
+
+Sanae0a:Watching fireflies is just so relaxing.
+
+Wriggle0a:Oh, so you appreciate how amazing they are?
+
+Sanae0a:In Japan in the Outside World, they're actually up there with grasshoppers and rhinoceros beetles as the most popular bugs.
+
+Sanae3b:Unfortunately, their numbers are also steadily decreasing.
+
+Wriggle0a:Yeah, I heard about that once. I'm glad I have more of my little friends around than ever though.
+
+<end>
+
+<ChatID:36>---------------------------------------
+//リグルvs.大チル
+
+Cirno1a:Hey, you're short just like me!
+
+Wriggle2a:Hey! I mean sure, I'm not tall by any means, but still...
+
+Daiyosei0c:But lots of games are easier to play when we're all around the same height.
+
+Daiyosei0b:It's nice to meet you, Wriggie!
+
+Wriggle0a:"Wriggie" as a nickname, huh? That's kind of cute.
+
+<end>
+
+<ChatID:37>---------------------------------------
+//聖輦船vs.魅魔
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Kosuzu0a:Whoa, that lady looks kinda strong.
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+<nomove>
+
+<Code=(cursor_jump_unit,Seirensen_en,0,0,0)>
+
+Kosuzu0a:Whoa, that lady looks kinda strong.
+
+</nomove>
+
+</Cond>
+
+Mima0a:So this is the reborn Palanquin Ship? As I expected, it gives off a sense of mysterious power.
+
+Mima1a:But when all is said and done, it's just a ridiculously huge magical item.
+
+Ichirin0a:And who are you? You sound like you know something about our ship.
+
+Mima0a:I'd heard it was released from the Underworld, so I wanted to come see it with my own two eyes.
+
+Mima1a:Now, allow me to give its power a little test!
+
+Murasa0b:Huh? You lost me there between those two steps.
+
+Akyu1a:In any case this is definitely self-defense now!
+
+<end>
+
+<ChatID:38>---------------------------------------
+//星vs.魅魔
+
+Mima0a:A tiger youkai, hmm...
+
+Sho0b:Is there something the matter? You're staring quite intently.
+
+Mima0a:Oh no, it's nothing. I merely noticed that even though you're a youkai, you use Buddhist ritual implements.
+
+Sho1a:Yes, I have taken refuge in the dharma. I, along with my companions in the ship, am pleased to meet you.
+
+Mima0a:(...I knew it. So she's affiliated with the ones who freed that ship from the Underworld.)
+
+Mima0a:(I'll have to ask her about her aims in doing so later.)
+
+<end>
+
+<ChatID:39>---------------------------------------
+//魔理沙vs.紫
+
+Marisa4c:Yukari, huh? You're gonna be a hard nut to crack.
+
+Marisa1a:But that makes you a perfect chance to test out my new danmaku!
+
+Yukari0a:Oh my, you had that device overhauled. And it further seems like you now can draw out its full power.
+
+Marisa0a:Hah, well don't you just know everything? Yeah, Kourin gave the hakkero a tune-up. How about I show you what this baby can do?!
+
+Yukari0a:That device appears to be brimming with desire for its wielder to grow and mature in her power.
+
+Yukari5a:How amusing of a contrast with the equipment that I produced.
+
+<end>
+
+<ChatID:40>---------------------------------------
+//魔理沙vs.ゆゆ様
+
+Marisa0b:Never thought I'd run into you and Yukari out here. Fighting you two is gonna be a pain.
+
+Marisa6a:But Reimu's my main target, so maybe if I just leave you alone―
+
+Yuyuko0a:That won't do at all! If you wish to advance, you'll have to do it over my dead body.
+
+Marisa1b:Whoa! She's getting really into this!
+
+Yuyuko1a:The moment is everything, and everything is the moment. The moments we'll spend playing together are as precious as every other.
+
+<end>
+
+<ChatID:41>---------------------------------------
+//魔理沙vs.はたて
+
+Hatate1a:"A Great Clash Between Humans and Youkai!" Who'd have thought I'd see something like this live?
+
+Marisa0a:Heya, Hatate. You're investigating too?
+
+Hatate0a:The other tengu are just freaking out about this incident, so I didn't feel like sticking around with them.
+
+Hatate1a:Anyway, I hear your danmaku's supposed to be flashy. I didn't get to see it last time, so let me get some pictures of it!
+
+Marisa1a:Sure, feel free to take as many shots as you want!
+
+<end>
+
+<ChatID:42>---------------------------------------
+//魔理沙vs.妖夢
+
+Marisa0a:Long time no see, Youmu. You're out with your master today?
+
+Marisa7c:How about you and I treat ourselves to a danmaku fight, just this once?
+
+Youmu1a:My pleasure. With Lady Yuyuko by my side, I can't help but want to give this my all.
+
+Youmu0a:That should go for you too, Marisa. Weren't you going to show your old master how far you've come?
+
+Marisa0a:I used to think that, but it's not on my mind anymore.
+
+Marisa1a:I make my own magic now!
+
+<end>
+
+<ChatID:43>---------------------------------------
+//聖輦船vs.幽香
+
+Yuka0a:What a large bird. Seems it'd be worth shooting down.
+
+Murasa1b:Is she seriously going to take on the whole Palanquin Ship herself?
+
+Akyu1a:It's very possible, coming from Yuuka!
+
+Yuka0a:Oh, that voice. So the tiny human is riding you as well. Try to make this interesting, with that intellect of yours.
+
+Ichirin1a:She's serious, alright. We'd better prepare ourselves.
+
+Murasa0b:No one told me we'd be having a climactic showdown here!
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Kosuzu1a:Yeah, me neither! Let me off this thing!
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+<nomove>
+
+<Code=(cursor_jump_unit,Seirensen_en,0,0,0)>
+
+Kosuzu1a:Yeah, me neither! Let me off this thing!
+
+</nomove>
+
+</Cond>
+
+<end>
+
+<ChatID:44>---------------------------------------
+//にとりvs.聖輦船
+
+Nitori0a:So you're taking the Palanquin Ship on the investigation. How's the ship running?
+
+Murasa0a:Pretty well I think. She did get a shot up a bit, but she held firm.
+
+Nitori0a:Hmm, I see. But moving forward, we'll need to better understand its strengths and weaknesses.
+
+Nitori1a:Alright, let's use this battle to do some benchmarking!
+
+Ichirin2a:...Well, please try not to break it during the testing.
+
+<end>
+
+<ChatID:45>---------------------------------------
+//にとりvs.あやもみ
+
+Nitori2a:Ack, look at all those tengu...
+
+Aya0a:It's a shame that fellow Youkai Mountain residents have to fight at all.
+
+Momiji5a:These things can happen when you're investigating incidents.
+
+Hatate0a:Wow, I didn't know that was a thing.
+
+Hatate1a:Does that mean that I can pick on you and it doesn't count as workplace harassment?
+
+Nitori2a:Is this a friendly get-together on opposite day or something?! Come on, Momiji, you'll go easy on me, right?
+
+Momiji4a:Sorry, I'm on Reimu's side right now. You do your best for Marisa's side, and I'll do mine.
+
+Nitori1b:Argh, desperate times call for desperate measures!
+
+<end>
+
+<ChatID:46>---------------------------------------
+//早苗さんvs.魔理沙
+
+Marisa0a:At least a shrine maiden oughta put up a decent fight!
+
+Marisa0b:Though for all that, you're definitely no Reimu.
+
+Sanae0g:Neither are you.
+
+Sanae0a:Although you do seem a bit different from before...
+
+Marisa1a:You got that right. I think it's time I show you what my magic's really made of!
+
+<end>
+
+<ChatID:47>---------------------------------------
+//早苗さんvs.神奈子
+
+Sanae0b:My apologies for rushing out so early this morning, Lady Kanako.
+
+Kanako2b:With an incident like this, it's understandable. I don't mind, as long as you weren't travelling alone.
+
+Kanako0d:Nonetheless, I had never imagined we'd meet in battle.
+
+Sanae0a:You're right. I am relieved to meet up with you two, but...
+
+Sanae0g:But is it really okay for your own shrine maiden to fight you, Lady Kanako?
+
+Kanako2a:Just think of it as training. Furthermore, performing for the gods is part of a shrine maiden's duties.
+
+Kanako0a:Show me the full extent of your power, Sanae.
+
+Sanae6e:...Understood. I'll give it a shot!
+
+<end>
+
+<ChatID:48>---------------------------------------
+//早苗さんvs.諏訪子
+
+Suwako3b:Glad to see you getting along with your new friends, Sanae.
+
+Sanae0a:You came to investigate too, Lady Suwako?
+
+Sanae0b:Please forgive me for rushing out without saying anything.
+
+Suwako0a:Eh, you're still young. You've gotta make the most of it.
+
+Suwako3a:More importantly, we've got something like a festival going on, so you have a performance to put on! You better give it your all, Sanae!
+
+Sanae0g:Huh? By "performance" do you mean...?
+
+Suwako1b:C'mon, you should know this by now! I mean doing some danmaku with us!
+
+Suwako4b:You've been so busy with all your other work that you haven't had time for us lately. Even gods get lonely, you know.
+
+Suwako1a:Anyway, I look forward to seeing what you can do.
+
+Sanae6e:Understood! I hope you'll enjoy it.
+
+<end>
+
+<ChatID:49>---------------------------------------
+//早苗さんvs.幽香
+
+Sanae3a:You're Yuuka Kazami. It truly has been a while since we last met, hasn't it?
+
+Yuka0a:Ah, if it isn't the shrine maiden from Summer last year. I almost didn't recognize you.
+
+Sanae2a:I've heard all sorts of things about you after that, and I really must apologize for being so rude back then―
+
+Yuka0b:Yes, as I recall, Remilia is a mere child and I'm just a nice, harmless lady?
+
+Sanae1d:B-Back then I wasn't very familiar with Gensokyo...
+
+Yuka1a:Oh, I don't mind a bit. This nice, harmless lady would be delighted to try some danmaku with you.
+
+Sanae2b:B-but...
+
+<end>
+
+<ChatID:50>---------------------------------------
+//早苗さんvs.アリス
+
+Alice4a:Good grief, those two love being rivals.
+
+Sanae4a:Marisa seemed to be picking a fight, and Reimu's always ready for one.
+
+Sanae0a:Don't you find it difficult, being dragged around by those two?
+
+Alice0d:I've known both of them for a long time now, so I'm used to it.
+
+Sanae0a:Oh, that reminds me, I had a pretty hard time waking Reimu up this morning. Has she never been much of a morning person?
+
+Alice0c:I wouldn't know. Marisa's not a morning person either, but that's more due to her irregular sleeping habits.
+
+Alice1b:Though we should probably stop. If we keep talking about stuff like this, they'll both get mad at us.
+
+Sanae5d:You're right, they probably would!
+
+<end>
+
+<ChatID:51>---------------------------------------
+//リリーvs.大妖精
+
+Daiyosei0a:You're here too, Lily... It's not spring, so are you gonna be okay?
+
+LilyW0a:I'll be fine. I can't let this incident go unsolved.
+
+Daiyosei0c:Let's both do our best to help fix this. Even if we ended up fighting for now...
+
+LilyW1a:I'm sure they'll go easy on us. Let's just do a little bit of danmaku for practice together?
+
+Daiyosei0b:Good idea. I'm sure nobody will bully us.
+
+<end>
+
+<ChatID:52>---------------------------------------
+//ルーミアvs.リグル
+
+Rumia3a:Oh, a firefly youkai. Pretty!
+
+Wriggle1a:Ah, finally somebody who appreciates fireflies!
+
+Wriggle0a:You're a darkness youkai, right? Darkness and fireflies go pretty well together, don't they?
+
+Rumia5a:Yeah, I can hide in the dark, you can lure them over with the fireflies, and then we'll gobble them up!
+
+Wriggle2a:That wasn't exactly what I meant...
+
+<end>
+
+<ChatID:53>---------------------------------------
+//穣子vs.小悪魔
+
+Koakuma1c:So it's finally come to this...
+
+Minoriko1b:Yes, the showdown to decide who's the Support Queen of Gensokyo once and for all!
+
+Minoriko1b:My potatoes are the best there is for perking people up!
+
+Koakuma1a:And I'm helpful to have around. I can produce ammo and MP for people!
+
+Minoriko2a:If we're talking produce, then I'm clearly superior!
+
+Koakuma1c:You're making a grave mistake if you think assisting Lady Patchouli can be compared to mere farmwork!
+
+Minoriko1b:Have at you!
+
+Koakuma1a:Let's do this fair and square!
+
+<end>
+
+<ChatID:54>---------------------------------------
+//早苗さんvs.咲夜さん
+
+Sakuya0a:You've become a familiar face on the investigation team by now.
+
+Sanae4b:Yes, since we caused all that trouble on the mountain, I believe I should help out however I can.
+
+Sanae0a:Are you here under orders from Remilia again?
+
+Sakuya5c:Indeed. The mistress is quite alarmed by this incident, and her younger sister is...
+
+Sakuya5b:Well, in any case, we must do our utmost to resolve this incident, no matter the cost.
+
+Sanae0a:You're unusually dead-set on this, Sakuya. You normally aren't so consumed by an incident...
+
+<end>
+
+<ChatID:55>---------------------------------------
+//あやもみvs.かなすわ
+
+Aya0a:Oh, Lady Kanako, Lady Suwako. You were with Marisa all along?
+
+Kanako0a:And you were with Sanae. I greatly appreciate you looking after her.
+
+Momiji4a:Sanae sought us out, actually. Her enthusiasm never ceases to amaze me.
+
+Aya0a:The spirit was willing but the body less so. We ended up having to stop along the way so she could take a nap.
+
+Suwako3b:Ah, well, sorry about that. She's only human, she doesn't have the stamina you two do.
+
+Kanako0a:But hearing that eases my worries. Shall we enjoy the danmaku battle together?
+
+Aya1a:Good idea. I haven't seen either of your danmaku in ages. Let me get a firsthand look!
+
+<end>
+
+<ChatID:56>---------------------------------------
+//幽香vs.藍
+
+Ran0b:Yuuka Kazami... It's very surprising to see you out investigating.
+
+Yuka0a:Ah, Yukari Yakumo's shiki. I wish I could see you when you weren't pacing your cage of rationality and logic.
+
+Ran0b:When you're around, I find myself oddly tempted to do just that.
+
+Ran6b:But we still have an investigation to tend to after this, so I would appreciate it if you would moderate yourself.
+
+Yuka0a:How boring. That sort of mindset is the exact problem with you.
+
+<end>
+
+<ChatID:57>---------------------------------------
+//椛vs.魔理沙
+
+Momiji1a:Marisa Kirisame! We'll settle this, right here and now!
+
+Marisa2b:Huh? What's YOUR problem, Momiji?!
+
+Momiji3c:I've been secretly waiting for a chance like this all along, even while fighting at your side.
+
+Momiji1a:We've fought in both the Forest of Magic and the Waterfall of Nine Heavens! It's time to pay you back for what you did to me!
+
+Marisa2b:Momiji, you―
+
+Momiji4c:Just kidding! Since we're fighting and all, I thought I'd try to get into the spirit of things. How was it?
+
+Marisa4b:I'd heard the stories, but sheesh, your jokes suck.
+
+<end>
+
+<ChatID:58>---------------------------------------
+//秋姉妹vs.エリー
+
+Elliy3b:Oh, if it isn't our resident walking, talking autumn festivals!
+
+Minoriko0a:Long time no see, Elly.
+
+Elliy0a:Lately, Yuuka's been letting me lend a hand with her flowers, so I haven't been able to visit your fields.
+
+Elliy3a:But I'm all fired up for harvest time, so you've definitely gotta invite me!
+
+Shizuha1b:Of course, I hope to see your scythe in action.
+
+Minoriko1a:But you'll need strong legs to help out. Let's temper them in a danmaku battle!
+
+Elliy5a:They're the pride of a soldier of autumn, after all!
+
+<end>
+
+<ChatID:59>---------------------------------------
+//秋姉妹vs.くるみ
+
+Minoriko6a:There you are, Kurumi...
+
+Kurumi1c:Gulp!
+
+Minoriko6a:Why did you start skipping shifts at the sweet potato fields?
+
+Shizuha5c:It was finally time to harvest the crops from last spring, too.
+
+Kurumi1a:I like eating more than farming! I got distracted by the call of roasting sweet potatoes.
+
+Minoriko1b:Silence! I won't stand for that kind of selfish talk out of you!
+
+Shizuha3a:You will know the wrath of autumn!
+
+Kurumi2a:Eeek, they're just as tough on their workforce as Patchouli was!
+
+<end>
+
+<ChatID:60>---------------------------------------
+//霊夢vs.えりくる
+
+Kurumi1a:Even if we're up against Reimu, we can't lose!
+
+Elliy1a:I'm sure this is going to be emotionally difficult for both of us, since we've been together as comrades for so long.
+
+Reimu2b:Not really. Actually, since I fought you two so many times last summer, I don't really feel like this is even that new for us.
+
+Elliy2a:Hey! Don't say things that make me sound like a midboss!
+
+Kurumi2a:D-Don't let her get to you! We'll win this time!
+
+<end>
+
+<ChatID:61>---------------------------------------
+//霊夢vs.咲夜さん
+
+Reimu0b:Hey, we haven't fought each other for a while now, have we?
+
+Sakuya0a:I can't believe it's already been a full year.
+
+Reimu1b:Come to think of it, you used to be so standoffish.
+
+Reimu1b:Nowadays you act like you're just some elegant maid.
+
+Sakuya6a:Indeed. And now please allow me to show you how elegant my knife-handling skills have become.
+
+<end>
+
+<ChatID:62>---------------------------------------
+//紫vs.神奈子
+
+Kanako0a:Yukari Yakumo, I owe you my thanks.
+
+Yukari0a:You're welcome. Allow me to thank you for the lovely sake you treated me to the other day.
+
+Yukari0a:Have you grown accustomed to Gensokyo's rules?
+
+Kanako3a:You may judge that for yourself. This is a new land for us...
+
+Kanako0d:And I will never forget the acceptance we've been shown here.
+
+Yukari5a:I make it a point to always welcome people who will bring a breath of fresh air to Gensokyo.
+
+<end>
+
+<ChatID:63>---------------------------------------
+//紫vs.諏訪子
+
+Yukari0a:To do battle with a god is awe-inspiring indeed.
+
+Suwako0a:Yeah, right. You look pretty calm about this to me.
+
+Suwako0d:In fact, I think you're getting a kick out of watching Reimu and the others go at it.
+
+Yukari5a:I suppose I am. We'll have to keep it in moderation, considering that we still have more to investigate...
+
+Yukari0a:But it's fascinating to behold. In its own way, it's like a microcosm of human and youkai interactions.
+
+<end>
+
+<ChatID:64>---------------------------------------
+//魅魔vs.妖夢
+
+Mima0a:A half-human half-ghost? The world's just full of surprises.
+
+Youmu1a:You're Marisa's teacher... I can feel quite a lot of magic from you!
+
+Mima0a:Your swordsmanship isn't bad, all things considered, but it seems you're still only halfway there.
+
+Youmu3a:So you've seen through me? It's true, I'm still in training.
+
+Youmu1a:But no longer will I hesitate! This sword will cut through to the truth!
+
+Mima1a:I like your spirit! I'll be enjoying this.
+
+<end>
+
+<ChatID:65>---------------------------------------
+//魅魔vs.ゆゆ様
+
+Yuyuko2a:Ick, you're all covered in the evil spirit-y aura.
+
+Mima2a:...What an elusive opponent. Could it be that you're the ghost princess of Hakugyokuro?
+
+Yuyuko1a:Oh, have we met?
+
+Mima0a:You're famous among spirits. As a ghost who seems stuck in the Netherworld.
+
+Mima0a:While I have no interest in why you can't move on or the circumstances surrounding your―
+
+Yuyuko2a:That's an awfully rude way to talk about someone right in front of them.
+
+Mima1a:But I am interested in your ability to control the butterflies of death. I'll be seeing it with my own eyes whether you like it or not.
+
+<end>
+
+<ChatID:66>---------------------------------------
+//秋姉妹vs.かなすわ
+
+Minoriko1b:The time has finally come for a showdown between gods!
+
+Shizuha3a:Who is the mountain's strongest divine tag team? Let the championship match begin!
+
+Suwako0a:They sound like they're rarin' to go. What's the call, Kanako?
+
+Kanako1a:We take them up on it, of course. And show them moxie isn't the only indicator of who will win a fight.
+
+Suwako0a:Hey, at least you're treating them as proper competition. Good on you for that.
+
+<end>
+
+<ChatID:67>---------------------------------------
+//紫vs.パチュリー
+
+Patchouli0b:I heard them say you're the one who has stopped the passage of the night.
+
+Yukari0a:That's right. I would hope that those who pay any attention to the moon would understand why.
+
+Patchouli0b:I have my suspicions, of course. It's quite the drastic move you took.
+
+Patchouli0b:When we're through fighting here, we'll need to redouble our pace.
+
+Yukari0a:Naturally.
+
+<end>
+
+<ChatID:68>---------------------------------------
+//紫vs.幽香
+
+Yuka0a:Good day, Yukari Yakumo.
+
+Yukari0b:Yuuka Kazami. I see you're aiding in the investigation...
+
+Yukari0b:Yet you didn't lift a finger even for spring itself. I can't help but wonder what your angle is.
+
+Yuka0a:I knew as well as you did that that cherry tree would never reach full bloom.
+
+Yuka0b:Or would you have preferred for me to go meddle with the most prized flower in your garden?
+
+Yukari4a:I can see there's no use talking with you.
+
+Yuka0a:Let's just make the most of this battle, shall we? We won't get any other chances to fight.
+
+Yukari4a:Yes, and here's hoping it stays that way.
+
+Yukari0b:But for now, we will meet on the field of battle.
+
+Yuka0b:Heh heh heh...
+
+<end>
+
+<ChatID:69>---------------------------------------
+//椛vs.美鈴
+
+Momiji0a:I've always known that we would have to fight one day, Meiling.
+
+Meiling0c:Really? Us?
+
+Momiji5a:As the shield of Youkai Mountain, I've always wondered how I can take the next step forward.
+
+Momiji1a:I look forward to learning from how you take a hit!
+
+Meiling0a:W-Wow, you're dedicated to your job. Then allow me to follow your example myself!
+
+<end>
+
+<ChatID:70>---------------------------------------
+//魅魔vs.紫
+
+Mima0a:You're the Youkai Sage, Yukari Yakumo.
+
+Yukari0a:I'm honored to see my reputation precedes me.
+
+Mima0a:I've been wanting to fight you for a long time.
+
+Mima0a:To face a power that rivals even the gods... Goodness, I'm trembling with excitement just thinking about it.
+
+Yukari1a:Your blood runs rather hot. Wouldn't you find the Underworld or Makai more suitable than the surface world?
+
+Mima1a:You're not wrong. That's exactly why I want to challenge everyone strong while I'm here!
+
+<end>
+
+<ChatID:71>---------------------------------------
+//魅魔vs.萃香
+
+Mima0a:So you're an oni? Your power is on a whole different level from the other youkai.
+
+Suika0a:Well, duh. Don't tell me you're gonna chicken out now.
+
+Mima0a:I've long wanted to see your kind's power in action. Though of course, some oni must be stronger than others...
+
+Suika1a:Oh, don't you worry about that. As far as strength goes, I'm top tier even among oni!
+
+Mima1a:Just what I wanted to hear!
+
+<end>
+
+<ChatID:72>---------------------------------------
+//幽々子vs.幽香
+
+Yuka0b:Good day, Cherry Blossom Girl.
+
+Yuyuko0a:Oh, do you mean me?
+
+Yuka0a:I hear you're the one who kept spring from coming to Gensokyo.
+
+Yuka0a:Did you really think you could bloom the unbloomable?
+
+Yuyuko2a:At the time I just found it so fascinating! But I had to give up when even Youmu tried to stop me.
+
+Yuyuko0a:Yukari still comes by from time to time though, to look at the tree.
+
+Yuka0a:She would, wouldn't she? She's always been sentimental.
+
+<end>
+
+<ChatID:73>---------------------------------------
+//大チルvs.三月精
+
+Cirno1b:It's finally time we settle things!
+
+Sunny1a:Yeah, let's make it obvious who the REAL fairy leader around here is!
+
+Star1b:Among all of us fairies...
+
+Luna1a:Let's figure out who's the Queen of Hide 'N Seek!
+
+Cirno5f:Wait, we're not gonna fight?
+
+Luna6a:Oh, right! Sorry, I just went with the usual thing we do.
+
+Sunny0a:Makes sense, hide-and-seek's been real popular lately!
+
+<end>
+
+<ChatID:74>---------------------------------------
+//聖輦船vs.リグル
+
+Wriggle0a:What a huge boat. I wonder what kinda people are inside it?
+
+Unzan0a:...
+
+Wriggle2a:Whoa, it's a giant head!
+
+Akyu2b:Unzan, we can't see outside when you're floating over there.
+
+Ichirin0a:He says he's curious since he's never seen her before.
+
+Murasa0a:Sorry about this, whoever you are. He didn't mean to startle you.
+
+Wriggle0a:I can't believe they even know a youkai like him... I've been picked up by one heck of a group.
+
+<end>
+
+<ChatID:75>---------------------------------------
+//聖輦船vs.妖精
+
+Murasa0a:When we decided to come on the investigation, I didn't figure anything like this would happen.
+
+Ichirin1a:You're right. But now that we find ourselves in a battle...
+
+Unzan0a:...!
+
+Murasa2b:Whoa, that scared me! So, is he saying that fighting our friends is totally inexcusable?
+
+Ichirin0a:No, he's saying that since we don't get this chance very often, we should enjoy it while it lasts.
+
+Akyu0a:I guess he can be a little hot-blooded.
+
+Kosuzu0a:Am I the only one still processing all of this?
+
+Murasa1b:It's time we started giving this our best too!
+
+<end>
+
+<ChatID:76>---------------------------------------
+//霊夢vs.メーコ
+
+Meko1a:It's on, Reimu!
+
+Reimu0e:No clue who you are, but a youkai challenging me? You really think this is gonna go well for you?
+
+Meko1b:I-I've grown on this journey too!
+
+Reimu1a:Still no clue what you're on about, but I guess I can humor you!
+
+<end>
+
+<ChatID:77>---------------------------------------
+//魔理沙vs.メーコ
+
+Meko1a:It's on, Marisa!
+
+Marisa1b:Who're you? Haven't seen you around...
+
+Marisa3a:Wait... your fur looks an awful lot like Shiro's...
+
+Meko0b:Gulp!
+
+Marisa0e:Eh, Shiro's just a stupid, mushroom-loving fuzzball though.
+
+Meko1d:Hey! Shiro doesn't like mushrooms! And Shiro's not stupid either!
+
+Marisa1d:Why're YOU so angry about that?
+
+<end>
+
+<ChatID:78>---------------------------------------
+//霊夢vs.まくら
+
+Reimu0e:A new youkai, huh? Doesn't seem like you're going to cause any problems though.
+
+Makura3a:I'm glad to hear that's how your intuition sees me.
+
+Makura1a:But that's a separate matter from our rematch. I'd love to face you again.
+
+Reimu4a:Huh? Did I exterminate you before or something?
+
+Makura3c:Just talking to myself. Thank you in advance for the battle.
+
+<end>
+
+<ChatID:79>---------------------------------------
+//魔理沙vs.まくら
+
+Makura3a:Might I ask you for a match, Marisa?
+
+Marisa0d:Ah? I feel like I've heard your voice somewhere before...
+
+Makura0f:Ah, yes...
+
+Makura3a:But the one standing before you today is most certainly a different person.
+
+Marisa0e:Uh... okay? Not sure I'm following.
+
+Makura1a:...I wonder, what kind of danmaku can I exchange with you, as I am now?
+
+Makura3c:I look forward to us finding out together.
+
+Marisa1d:Sure, whatever, bring it on!
+
+<end>
+
+<ChatID:80>---------------------------------------
+//幽香vs.まくら
+
+Yuka3b:Oh my, if it isn't Makura.
+
+Yuka0c:To think you'd be showing your face here, what a curious twist of fate.
+
+Makura0g:It's a long story, but let's just say I had a change of heart.
+
+Yuka2d:A change of heart, you say...
+
+Yuka0c:I can't say it's clear what's changed, but by all means, do as you please.
+
+Makura1a:Thank you, I will.
+
+<end>
+
+<ChatID:81>---------------------------------------
+//幽香vs.神綺
+
+Shinki2b:Aaah! Yuuka Kazami!
+
+Yuka1a:Oh, it's been far too long.
+
+Shinki1c:"It's been far too long" my foot! I know you've been visiting Alice's home!
+
+Yuka2d:Oh...? I didn't realize you two had a chance to meet.
+
+Yuka2c:And if you've been investigating in secret, doesn't that make you the creep here?
+
+Shinki0d:I got the intel from my top secret network.
+
+Yuka4b:Yes, yes, whatever you say, but I really wish you'd leave her be.
+
+<end>
+
+<ChatID:82>---------------------------------------
+//星vs.白蓮
+
+Sho1c:Y-You're...
+
+Sho2a:No, that's impossible! But...
+
+Byakuren2c:(This may be a dream, but it pains my heart to cause such distress in poor Shou.)
+
+Byakuren0d:(I see no other way...)
+
+Sho1b:No, I'm certain now. You're really—
+
+Byakuren1b:Do you truly―I mean... You really thought it was her?!
+
+Sho0c:?!
+
+Byakuren3d:Heh heh heh! This is why I never get sick of transforming.
+
+Byakuren2d:I, er— Tremble before my danmaku!
+
+Sho1b:I-Is that you, Nue?!
+
+Sho1c:You wanted to test my resolve so much that you slipped into the melee?
+
+Byakuren5a:(Did she really believe that? Thank goodness Shou's like that...)
+
+Byakuren6d:(I'll have to apologise to Nue later, though.)
+
+<end>
+
+<ChatID:83>----------------------------------------
+//アリスvs.神綺
+
+<end>
+
+<ChatID:84>----------------------------------------
+//アリスvs.夢子
+
+<end>
+
+<ChatID:85>----------------------------------------
+//アリスvs.メディ
+
+<end>
+
+<ChatID:86>----------------------------------------
+//M40：早苗さんvs.非想天則
+
+Tensoku0a:...
+
+Sanae1e:...I had my doubts, but I can now accept your existence.
+
+Sanae0c:In the Outside World, giant robots may only appear in anime, but in Gensokyo, then maybe, just maybe...
+
+Sanae1c:In a world where fairies twirl and tengu dance, then maybe!!!
+
+Tensoku0a:...?
+
+Sanae6b:Anyway, I can't hold myself back any longer. Please let me see you up close! And let me ride on you, please!
+
+<end>
+
+<ChatID:87>----------------------------------------
+//R40：魔理沙vs.非想天則
+
+Tensoku0a:...
+
+Marisa0d:The heck, aren't you a big one?
+
+Marisa7a:When'd Reimu get the chance to recruit someone as awesome as you?
+
+Marisa2b:That settles it, once I win here, I'm borrowing you until I die!
+
+<end>
+
+<ChatID:88>----------------------------------------
+//M40：霊夢vs.非想天則
+
+Tensoku0a:...
+
+Reimu0e:Oh huh, what a big youkai.
+
+Reimu2b:Kinda weird and angular, but I guess it's cute in its own way.
+
+Tensoku0a:...
+
+Reimu0f:Not a big talker? Sorry, sorry, I'll shut up now.
+
+Reimu1a:How about I give you an apology danmaku battle?!
+
+<end>
+

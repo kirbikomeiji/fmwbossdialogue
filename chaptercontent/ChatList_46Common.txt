@@ -1,0 +1,2358 @@
+﻿○共通第四十六話「星の海への船出
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: 1EP
+ 4: 3PP (Nue-Murasa)
+ 5: 4PP (Marisa)
+ 6: warning 1
+ 7: warning 2
+ 8: beat Nue
+ 9: ADVB
+10: lose (Seirensen beaten)
+11: lose (beyond border)
+12: Nue vs. Seirensen
+13-XX: battle vs. Nue
+XX-YY: battle vs. Any
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=7,FROM=守矢神社,TO=守矢神社,name=Moriya Shrine,icon=5>
+
+<BG=*bg_talk_Moriya_Fall.png,fade=0,color=1,title=*bg_Moriya,bgm=bgm_talk_aoki>
+
+<SE=se_talk_walk_outdoor01.ogg,wait=1>
+
+<Code=(map_shake,1,10,2)>
+
+<SE=se_talk_dosa01.ogg,wait=1>
+
+Momiji5a:...Whew. Is that most of your luggage, Sanae?
+
+Sanae4a:Thank you so much for going out of your way to help.
+
+Hatate3d:Since we can't go to the moon with you, this is the least we could do.
+
+Momiji7a:If there's anything you need carried, I can handle it.
+
+Kanako0a:In that case, if you could load those bales of rice and boxes of sweet potatoes...
+
+Minoriko3a:Those are the supplies I provided, so handle them with care, please!
+
+Aya1a:White rice and yellow sweet potatoes... All we need is something red for a final dynamic special meal!
+
+Suwako3b:It's not a meal without rice, even in space.
+
+Kanako2a:Just so you know, Sanae, we packed some of your favorite pickled vegetables in a cardboard box for you.
+
+Sanae5a:It's a little embarrassing bringing things from my everyday life on board...
+
+Hina0c:I never imagined that anyone would be taking a trip to the moon on the Palanquin Ship.
+
+Hina3a:Or especially that you two would be letting Miss Kochiya go along.
+
+Suwako4b:I tried to put a stop to the idea, but Sanae didn't take no for an answer.
+
+Shizuha0b:She was that keen on it?
+
+Sanae0d:Never in my wildest dreams did I imagine it would be possible to travel to the moon like this.
+
+Sanae0a:If this is how life in the realm of fantasy can go, I'd love to experience it for myself.
+
+Kanako0a:If she's got her heart that set on it, we can hardly insist on making her stay.
+
+Suwako0a:And we never did let her go on any field trips back in the Outside World.
+
+Aya3a:Still, getting to just up and decide to take a trip to the moon? I'm almost jealous.
+
+Aya1a:A trip like this isn't feasible for those of us in certain positions, but what's stopping the rest of you from tagging along?
+
+Minoriko4a:We're right smack in the middle of the harvest season. I don't have time to take a trip.
+
+Hina4a:And I couldn't possibly take this much misfortune to the pure land of the moon.
+
+Sanae3b:Oh, that's a shame...
+
+Kanako0a:We'd have loved to go ourselves, but the timing didn't work out.
+
+Kanako1b:We just started up a new project, so we can hardly leave the mountain now.
+
+Suwako1a:Yup. No sense dropping the ball right after getting it rolling.
+
+Aya0b:Hm? A new project?
+
+Suwako0a:We've been keeping it under wraps, but it's something we and the mountain youkai have both been thinking about.
+
+Suwako3b:What if it were possible to turn the power of fantasy into a new energy source?
+
+Sanae0a:This is the first I've heard of this too.
+
+Momiji4b:Now that you mention it, I think both the Greater Tengu and the kappa have been talking about that.
+
+Momiji0a:After seeing the Palanquin Ship and the Lunar Exhibition, it seems there's been more interest on the mountain in creating new things.
+
+Suwako0d:Plus, if this works out, it should kickstart some development in agriculture and industry too.
+
+Hatate3a:Huh. Well, nothing's better than improvements to daily life.
+
+Hina0b:But is it really that easy to whip up a new source of energy?
+
+Kanako0a:We're still in the ideas stage. But for now, we're thinking about borrowing the idea behind the lunar voyage and using the power of the gods.
+
+Kanako3b:The crow god who governs the sun, to be specific. The problem is that we can't find an appropriate vessel for it.
+
+Shizuha0b:Why would you need one? What's wrong with just picking out some random go-shintai to house it in like any other shrine?
+
+Suwako5a:This isn't an ordinary enshrining situation. The main idea here is that somebody takes it into their body.
+
+Suwako0a:If we do that, it'll be easy to get energy as long as we get along with them. 
+
+Minoriko3b:I see. Then why not use one of the crows around here?
+
+Kanako1b:Any ordinary crow would have too many worldly thoughts. There's no guarantee that they wouldn't abuse the power.
+
+Kanako0a:And more to the point, a normal youkai crow wouldn't be able to bear the power of a god. They'd suffer a breakdown.
+
+Minoriko4a:Oh, I see. Yeah, that's a problem, alright.
+
+Shizuha4a:So you need a crow who's pure-hearted and obedient, and who also meets the requirements to house a god.
+
+Sanae5d:We actually met a guileless crow just recently. You probably couldn't ask her for help, though.
+
+Kanako4b:Oh? Could you elaborate, please?
+
+Sanae0a:She's a crow youkai called Okuu who lives in the Underworld.
+
+Sanae5d:She came up to the surface the other day. It turned into a bit of a commotion...
+
+Aya5a:I'll bet it did. Coming up here breaks an agreement that's supposed to be inviolable.
+
+Suwako0d:Oh, the one where neither surface-dwelling nor Underworld youkai can enter each other's territories?
+
+Kanako0b:If she's a suitable candidate, then I'd like to take a look at her, but...
+
+Momiji5a:Matters concerning the Underworld are complicated, so it won't be easy to meet her.
+
+Aya0a:Anyway, we should get going. I have to make my own preparations for the launch ceremony.
+
+Sanae4b:Right, I'll see you all at the Palanquin Ship's launch party!
+
+<BG=bg_talk_Black.png,fade=1,color=1,title=*bg_Unknown>
+
+Marisa0b:...
+
+Noname0a:...sa.
+
+Marisa0b:...
+
+Noname0a:...sa, Marisa.
+
+Marisa6b:I know this feeling!
+
+<BGM=bgm_talk_interlude02,0>
+
+Noname0a:Can you hear me, Marisa?
+
+Marisa0b:Yup, it's you. So this is a dream then.
+
+Marisa0a:We haven't chatted like this in a while, huh? The last time was... the snow incident?
+
+Noname0a:...That's right. I try not to meddle needlessly.
+
+Noname0a:Good work spearheading the resolution of the moon incident.
+
+Marisa6a:No need to thank me. We all had a personal stake there.
+
+Marisa0a:You know, I kinda figured you'd ditched me for Sanae.
+
+Noname0a:What do you mean by that?
+
+Marisa0c:Well, didn't you help out the last investigation by going into HER dreams?
+
+Noname0a:Yes, I did. But that was simply because she was the only one sleeping then and there.
+
+Marisa0b:I guess you really are keeping an eye on things up close.
+
+Marisa6b:Hey, this actually works out. I wanna ask you somethi―
+
+Noname0a:I need to tell you something first.
+
+Noname0a:It's not too late. Call off your plan to go to the moon.
+
+Marisa3a:What.
+
+Noname0a:You must already realize that those who live on the moon have an abnormal culture and set of values.
+
+Noname0a:We must prevent such things from spilling over into this land.
+
+Marisa0b:Abnormal? Sheesh, you make everything sound so harsh.
+
+Marisa0a:I mean, the moon crew seem pretty interesting, so what's the problem?
+
+Noname0a:That carelessness of yours is going to invite unwanted chaos.
+
+Noname0a:Haven't you fought against numerous abnormalities? You should understand what I mean.
+
+Marisa4a:Yeah that's not exactly convincing me to cancel the moon trip.
+
+Marisa0b:Anyway, I got a question for you too. What ARE you?
+
+Noname0a:...
+
+Marisa3a:I wasn't worried about it before, since you weren't hurting anyone, but it came up when I was chatting with Reimu and the others.
+
+Marisa0b:We were talking about how Shiro's showing us all these dreams, and then Yuuka was talking like she knew you too.
+
+Noname0a:I believe I should only tell you what's necessary. I hope you'll forgive my selfishness.
+
+Noname0a:Yuuka Kazami, though. I wasn't expecting her to discuss me...
+
+Marisa0b:Huh, so you two know each other?
+
+Noname0a:We go back a little ways, but neither our thoughts nor our actions align.
+
+Noname0a:I'm simply doing what I can to ensure peace here in paradise.
+
+Marisa0a:Oh yeah, you helped out back in the Mist Incident, when Yuuka was against us.
+
+<Code=(check_special,46Common)>
+
+Noname0a:...!
+
+Marisa4b:Welp, looks like I'm waking up soon.
+
+Marisa0b:I had a few more things I wanted to ask, but I'll save 'em for when I get back to Earth.
+
+Noname0a:Marisa, I will reiterate: you mustn't go the moon―
+
+Marisa6a:Sorry, it's happening. Why don't you just wish us a safe voyage?
+
+Noname0a:...
+
+Noname0a:I suppose I have no choice then.
+
+<BG=bg_talk_Marisa.png,fade=1,color=0,title=*bg_Marisa,bgm=bgm_talk_gag>
+
+Marisa2a:*yawn* That was... not a good night's sleep.
+
+Marisa4b:I just wanted to get some shut-eye. I'm sick of all these unwanted dream guests.
+
+Shiro0a:...
+
+Marisa0b:...So you really were there while I was having that dream.
+
+Marisa0a:Well I'll be leaving you here for the trip, so at least you'll stop nagging me―
+
+<hide=all>
+
+Mima1b:That's a piddly little familiar you've got there.
+
+</hide>
+
+Marisa0b:Is that...
+
+Mima2a:Your room is as messy as ever, I see. No wait, is it getting worse?
+
+Marisa6b:L-Lady Mima?! When did you get here?
+
+Mima0b:I knocked, but there was no response, so I let myself in.
+
+Mima0a:To think you'd sleep with all of this junk scattered about. You're certainly zealous about your research, aren't you?
+
+Marisa0b:Well, yeah, there's this magic I really want to have ready by today...
+
+Marisa6b:Wait, how'd you even in get in? I know I locked the door.
+
+Mima1a:You of all people should know my specialty.
+
+Marisa4b:...Yeah, I guess you were always like this.
+
+Marisa0a:But anyway, why are you dropping in outta nowhere?
+
+Mima3a:Oh, do I need a special reason to check in on my student?
+
+Marisa0b:That not it, it's just that after the incident I heard from Alice that you were going on a journey.
+
+Marisa0a:So I figured you were already gone.
+
+Mima1b:I'd planned to, but I thought I might as well stick around to match my departure to your trip to the moon.
+
+Mima0a:You, off to the moon. Me, off on my own way. It's a poetic note to set out on, yeah?
+
+Marisa0c:...! You've already heard about the trip, huh?
+
+Marisa0b:Well, where are you off to, then?
+
+Mima0b:I have some business to take care of in Makai, so I'll be heading there for a while.
+
+Mima0a:I'm gonna miss the air up here.
+
+Marisa0b:Oh yeah, I HAVE heard rumors that Makai's the best place to study magic...
+
+Mima1b:You heard right. When I told you I'd drill you in magic from the basics again, I was planning to take you to Makai.
+
+Mima0a:You were awfully quick to refuse me, though.
+
+Marisa0a:...Yeah, you said I'd have to abandon everything to go with you.
+
+Marisa0a:But as you can see, I've got stuff I could never give up.
+
+Mima3a:Yeah, I know. That's why we'll be walking different paths from here on.
+
+Marisa0c:Yeah, that's right...
+
+Marisa7a:But you know, I'm really happy you came to say goodbye like this.
+
+Mima5b:Ick. Are you getting mushy on me?
+
+Marisa0c:What do you expect? Last time, didn't you just disappear without saying anything?
+
+Marisa0a:But now you're actually telling me where you're going.
+
+Mima4b:...I wasn't going out of my way to be considerate here. I just felt like doing it.
+
+Mima0a:Anyway, you've got a long ways to go. You'd better not slack off on your studies.
+
+Marisa0c:I know, I know. You be careful too, Lady Mima...
+
+Marisa0b:...Wait a sec.
+
+Mima0a:What now?
+
+Marisa2b:Oh crud, the Palanquin Ship's about to launch!
+
+Marisa1a:I overslept! Even if I leave now, I'll barely make it!
+
+Mima2a:How could you oversleep on the day of your departure...?
+
+Marisa2b:I got held up in a dream. Anyway, I need to get a move on!
+
+Marisa0a:Sorry, Lady Mima! Gotta go!
+
+<SE=se_talk_run.ogg,wait=1>
+
+<SE=se_talk_door_open02b.ogg,wait=1>
+
+<single>
+
+Mima2a:...Good grief, noisy to the very end. She never could calm herself down.
+
+Mima0a:But, that's fine. It's just fine to keep your eyes on where you want to go, and never look back.
+
+Mima1a:Stay well, Marisa. We'll meet again, someday.
+
+</single>
+
+<MAP=7,FROM=打ち上げ場,TO=打ち上げ場,name=Palanquin Ship,icon=4>
+
+<BG=*bg_talk_Seirensen_Hall.png,fade=1,color=1,title=*bg_Seirensen_Hall,bgm=bgm_talk_aoki>
+
+Keine6c:...And that concludes our lunar trip orientation.
+
+Keine0a:Are there any questions?
+
+Rumia1a:Yes! How many meals do we get per day?
+
+Keine3b:Three meals a day, on the clock. And don't forget your cooking duty shifts.
+
+Mystia3d:Is it first come, first served for rooms?
+
+Alice0d:Room assignments are listed in the trip guides we just passed out.
+
+Ichirin3a:The kids are staying in one large room together. Most of the rooms are doubles.
+
+Ichirin3c:You're staying in a temple, so you'll be expected to participate in daily scripture readings.
+
+Sunny3a:Ugh, does that mean we have to wake up early?
+
+Chen4a:And then there's reading the sutras, cleaning the hallways...
+
+<single>
+
+Mokou4a:...Sheesh, I thought I might as well come see you off, but you're all treating this like a field trip.
+
+Mokou1a:I thought going to the moon would be more, you know, serious business.
+
+</single>
+
+Ran4b:It's plenty serious to me. I can't believe Chen's going to be staying over at someone else's house for weeks...
+
+Sho3c:I'm sure it will be a good experience for her.
+
+Sho3d:We'll take full responsibility for her, Ran. Please, put yourself at ease.
+
+Ran4b:If you say so...
+
+Akyu3e:I wish I could have helped. My apologies that I can't join you.
+
+Murasa3c:It's fine. You have your own work to do, Akyu. And we have to consider your well-being.
+
+Murasa0a:Kosuzu's going to be minding her family's shop. You can tell her we said hi.
+
+Akyu0b:Alright. I'll await your safe return.
+
+Mokou0a:Well, we should head home then. I'm sure they have launch prep to do.
+
+Murasa2b:Oh right, we still haven't done the final check on the ship.
+
+Murasa3b:Ichirin! Shou! Let's get back to the bridge!
+
+<BG=bg_talk_Seirensen_Bridge.png,fade=0,color=1,title=bg_Seirensen_Bridge>
+
+Koakuma0b:...Buddhist reactor output is stable. Please confirm bypass for the outer units.
+
+Nazrin0a:Looks good. Next, let's hear from the engine room.
+
+Patchouli0c:Koakuma, connect to Nitori's communicator.
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+Ichirin0a:...Oh dear, looks like most people were already here.
+
+Sho0c:Sorry that we're running a bit late.
+
+Elliy3b:You're not at all, Reimu and Marisa aren't even here yet.
+
+Patchouli0c:Do you read me, Nitori? Have you finished installing the auxiliary cylinder unit?
+
+<hide=video>
+
+Nitori1a:Yup. The rocket boosters and the exterior Buddhist power tank are both good to go too.
+
+Nitori4b:Reisen's team is currently installing the Lunar Veil on the deck.
+
+</hide>
+
+Murasa3a:Roger that. Once they're done there, all that's left is to have Reimu invoke the gods.
+
+Remilia6a:...We'll free ourselves from the curse of gravity with the three-staged tube, and then use the power of the Lunar Veil to keep us on track to the moon.
+
+Remilia0a:It's magnificent, Patchy. By combining Earth and Moon technology, this has become the ultimate rocket.
+
+Patchouli0c:Technically it's more of a spaceship than a rocket though.
+
+Meiling0a:When we first started, I never thought we'd complete it like this.
+
+Meiling5a:With everything we've gathered, the trip will be very comfortable.
+
+Sakuya0a:And with the Prismrivers aboard, the mistresses are less likely to feel any boredom.
+
+Flan3b:Hey Remi, what happened with that furniture we asked for?
+
+Remilia3a:Well, it looks like they couldn't find any bloodstained curtains...
+
+Remilia3d:But Sakuya and Meiling made the arrangements for our room.
+
+Flan3f:Really?! Take me to our room, Remi!
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+Patchouli4a:...Good grief, acting like they own the place. This IS basically someone else's house, you know.
+
+</single>
+
+Murasa4b:Well, as long as they don't make a mess or break anything, we'll let it slide.
+
+Sho3b:We've all got a long journey ahead of us, so it's better if people spend it in comfort.
+
+<SE=se_talk_walk_indoor01.ogg,wait=1>
+
+Reimu4a:Though I didn't even know it would take that long until a little while ago.
+
+Sanae5d:They went over this multiple times. Maybe you just weren't listening.
+
+Koakuma3b:Reimu, are you ready?
+
+Reimu0b:Yeah, all that's left is to wait for the right timing to summon Sokotsutsu-no-O-no-Mikoto.
+
+Reimu0c:I put out a portable shrine and a donation box, so I'm counting on you for that too.
+
+Nazrin4a:...You're so thorough about this that I can't tell if this is a real temple or a shrine.
+
+Sanae4a:Welcoming the gods requires all sorts of preparations.
+
+Ichirin0a:You've been really cooperative, Reimu.
+
+Ichirin3a:I hear you even trained with Yukari just for this.
+
+Reimu4a:Yeah, she's been weirdly enthusiastic about this. She even put her shiki's shiki into the group.
+
+Elliy3b:The Myouren Temple's been pretty generous too, loaning out the Palanquin Ship.
+
+Elliy0a:Didn't you have to go search for the pagoda and the pieces of the Flying Granary in order to help Byakuren?
+
+Ichirin3c:Don't worry about it, I'm sure she'd be delighted to hear that we facilitated humans and youkai working together.
+
+Nazrin0a:Plus, even if we were impatient about it, it's not like we'd necessarily make progress.
+
+Nazrin3c:I mean, we know who has the fragments, but it's not like she's gonna show herself.
+
+Murasa5c:Yeah. Where even IS she? And what's she doing?
+
+Patchouli0c:She?
+
+Murasa0a:Oh, her name's Nue. She's a friend of mine and Ichirin's, from back when we were in the Underworld.
+
+Murasa2b:We met again on the surface a little while back, but she grabbed the pieces we need and ran off. 
+
+Patchouli0a:If you know who has them, why don't you just go ask to borrow them?
+
+Ichirin4b:It's not that easy. See, we got into a little fight.
+
+Ichirin4a:It seems like leaving her behind when we came to the surface left her in a bad mood.
+
+Murasa5c:No kidding. We've been looking all over for her, but we haven't found her anywhere...
+
+Koakuma4b:In that case, leaving the surface like this must be a little awkward.
+
+Koakuma4a:And we pulled you into this without even knowing your circumstances...
+
+Murasa3c:It's okay. We're trying to nurture the bonds that the Palanquin Ship shares now.
+
+Reimu0b:In that case, shouldn't you be focusing more on the ship?
+
+Reimu0g:If we have an accident en route, then a reconciliation will be the least of our worries.
+
+Sho0a:She's right, first we have to make sure we come home safely.
+
+<SE=se_talk_call01.ogg,wait=1>
+
+Sho0c:...Ah, hold on, we're receiving a transmission.
+
+<SE=se_talk_console01.ogg,wait=1>
+
+<hide=video>
+
+Youmu0a:Um, hello? Is this the bridge?
+
+Youmu4a:We've finally finished installing the Lunar Veil.
+
+</hide>
+
+<BG=bg_talk_Road.png,fade=1,color=1,title=*bg_Kakunoko,bgm=bgm_talk_ningyo>
+
+Youmu4c:...Right. With that, we're finished with preparations.
+
+Youmu4b:I'll do one last check just in case, then head back with Lunasa's group.
+
+<hide=video>
+
+Ichirin3b:Got it. Keep the others posted.
+
+<SE=se_talk_console02.ogg,wait=1>
+
+</hide>
+
+<single>
+
+Youmu4a:Whew, looks like things are done on this end too.
+
+</single>
+
+Udonge0a:Good work. Make sure you double check that you've got everything you need.
+
+Udonge1a:Especially you. You've got an important job to do.
+
+UsagiR0a:...
+
+Youmu0a:Eirin entrusted you with that letter addressed to the emissaries, right?
+
+UsagiR1a:Yeah, she even put a special seal on it so they'd know it's really from her.
+
+Lyrica0b:...So Miss Rabbit, you really decided to return to the moon then.
+
+Lyrica3c:I thought maybe you'd just keep living with the people at Eientei.
+
+UsagiR0a:...I thought about that too, but I think I really should go home.
+
+UsagiR0a:Like Lady Yagokoro said, I still have lingering feelings for the moon.
+
+Merlin0b:You do, huh...?
+
+UsagiR1a:I've come to love the Earth, but part of me still wants to go back to the moon.
+
+UsagiR0d:I'd hate it if I stayed on Earth without totally committing and then wound up regretting it.
+
+Lunasa0b:...You've made up your mind. Then I won't try to stop you.
+
+Udonge3b:But is it really okay not to leave a farewell letter or anything?
+
+Udonge0a:Not that it's any of my business, but isn't there anyone you were close to?
+
+Lyrica0b:That's right, Lily is definitely gonna miss you.
+
+UsagiR1a:You mean Miss Fairy? You don't have to tell her anything.
+
+Lyrica1c:Whaaaat? I feel so sorry for her.
+
+Lunasa0a:Lily really took a shine to you.
+
+Lunasa0b:Here on Earth, plenty of people don't take fairies seriously. But you just treated her like anyone else.
+
+UsagiR0a:That's why I don't wanna do it. If I left her a letter, I'm sure it'd just make her sad.
+
+UsagiR0a:I only came to Earth on a whim, so making her feel bad when I leave is kind of...
+
+Merlin3d:Yeah, your reasons for fleeing were kinda... nonexistent.
+
+UsagiR2c:Right?! So I just want her to forget all about me.
+
+UsagiR0a:I'll keep the sorrow of parting all to myself and let her stay happy.
+
+Udonge5b:If that's how you feel then I have nothing else to say, but―
+
+Lyrica0a:Wait, we don't have time to dawdle here! We've gotta be ready soon!
+
+Youmu2b:You're right, we need to hurry back to the ship!
+
+Youmu1b:Okay, Reisen! See you later!
+
+Udonge0a:Sure, I'll be there to see you off.
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP（出撃前）
+
+<nomove>
+
+<Code=(cursor_jump,496,368,0)>
+
+Aya7b:So! We made a trip from our special studio outside the human village, and here we are at the launchpad!
+
+Aya1a:Take a look! It's the Palanquin Ship that was the key to resolving the incident the other day...
+
+Aya1a:And soon it's about to shake off the chains of gravity and fly into space!
+
+<SE=se_talk_cheer01.ogg,wait=0>
+
+<Code=(demo_wait,50)>
+
+<Code=(cursor_jump,416,144,1)>
+
+Kaguya3c:It's quite lively here. The people of Earth really like to turn everything into a festival, don't they?
+
+<Code=(cursor_jump,400,144,0)>
+
+Eirin4a:As far as I'm concerned, having it reach the moon safely is the top priority.
+
+<Code=(cursor_jump,624,160,1)>
+
+Suika3d:Hey, Reimu! All I want for a souvenir is some moon sake!
+
+<Code=(cursor_jump,656,176,0)>
+
+Komachi3c:If they didn't need a lift to the moon, I'd've been happy to offer them a ride on my own boat...
+
+</nomove>
+
+Chen3c:Wow, so many people are here to watch!
+
+Luna3b:It's not just youkai either, looks like even the humans came to see it.
+
+Elliy0a:The turnout really is completely different when an event's near the human village.
+
+Patchouli3a:Nitori, Koakuma. How are the launch preparations?
+
+Nitori1a:Hold on a sec, we're almost done with our final check.
+
+Remilia3b:Take a good look at the Earth while you can, Flan, we won't see it again for a while.
+
+Flan3d:Yeah. It's strange seeing so many humans at once.
+
+Alice0a:I wonder if Marisa's alright. I thought she'd be here by now...
+
+Sakuya0a:With how excited she's been for this, I'm sure she'll come flying in any minute now.
+
+Sanae0g:But speaking of people who aren't here, I don't see Yukari or Yuyuko.
+
+Sanae0b:I could have sworn they'd be here to see Reimu and Youmu off.
+
+Reimu5c:They aren't the types to show their faces for every little thing. I'm sure they're spying on us from somewhere anyhow.
+
+UsagiR0a:...
+
+Wriggle3a:You're saying your farewells to the Earth too, aren't you, Miss Rabbit? Do you have any regrets?
+
+UsagiR0a:None. I'm totally ready. I've even got Lady Yagokoro's letter on me. 
+
+UsagiR2b:I'd just feel way less antsy if they'd get the launch over with...
+
+<nomove>
+
+<Code=(cursor_jump,672,336,1)>
+
+<hide=all>
+
+LilyW4e:Waaaait!
+
+</hide>
+
+<pause>
+
+LilyW4e:Miss Rabbit!
+
+UsagiR0b:...!
+
+LilyW4e:Th-Thank goodness. I made it in time.
+
+UsagiR2c:Miss Fairy?! But I heard you went back to the mountain...
+
+UsagiR0b:Why'd you come? Weren't you sleeping until next spring?
+
+LilyW0c:I was, but then I heard you were going back to the moon, Miss Rabbit.
+
+LilyW0c:So I wanted to thank you one last time.
+
+UsagiR0a:Thanks? For what?
+
+LilyW0a:Thank you very much, for being so nice to an off-season fairy like me.
+
+LilyW4e:It was only a short time, but I'm glad we could be friends.
+
+UsagiR2c:Wh-What are you talking about? You can't just decide on your own that we're frie―
+
+Merlin3d:Hey, hey! This is when you gotta drop the cool act and return her smile!
+
+Cirno5b:Lily woke herself up and came here just for you!
+
+UsagiR2c:Y-Yeah, you're right! We're never going to see each other again, so...
+
+UsagiR1a:...Thank you, Miss Fairy. I'm glad we got to be friends too.
+
+UsagiR1a:Take care of yourself, and watch out for traps next time.
+
+LilyW4d:Yes. You too, Miss Rabbit.
+
+Patchouli3a:...If you're done with the farewells, it looks like everything's in order.
+
+Koakuma1b:Ichirin, please put the Palanquin Ship into launch mode.
+
+Ichirin0a:Roger. Navigation systems off. Commence charging the Buddhist reactor.
+
+Murasa0c:Guess this is goodbye to Earth for a while...
+
+<nowindow>
+
+<Code=(cursor_jump,624,160,1)>
+
+<SE=se_talk_scream01.ogg,wait=1>
+
+</nowindow>
+
+Mystia0b:It seems kinda noisy over there.
+
+Wriggle4b:No kidding. We haven't even launched yet.
+
+<pause>
+
+Youmu2b:...!
+
+Sho1b:Those strange familiars! Could it be...?!
+
+<nomove>
+
+<Code=(cursor_jump,640,528,1)>
+
+<hide=all>
+
+Nue1e:A ha ha! Flee in terror, humans!
+
+</hide>
+
+<pause>
+
+Nue1a:How cheeky of you to turn a youkai ship into a spectacle!
+
+Meiling1a:That youkai...
+
+Murasa1b:Nue?! It's you, isn't it?
+
+Nue3a:You bet it is! Don't tell me you already forgot my face?
+
+Patchouli4c:Is this the nue we were just talking about?
+
+Nazrin6a:Yeah, she's an old friend of the skipper... and the one who took all the Flying Granary's fragments.
+
+Nazrin0b:Doesn't feel like she's got them on her today, though.
+
+Murasa5c:Where were you, Nue? I've been looking for you ever since the incident ended.
+
+Murasa0b:We didn't get a chance to really talk the last time we met.
+
+Nue0b:Yeah, I know you've been worried about me, Minamitsu.
+
+Nue1a:Given that I was watching you in secret the whole time and all.
+
+Murasa1b:You were what?!
+
+Ichirin1b:What were you doing something like that for? Why not just show yourself?
+
+Nue3d:No way. You two are always hanging out with humans these days.
+
+Nue0a:Not only that, they're always using your ship like it's theirs too.
+
+Nue1c:And I've had enough of it! It ticks me off, so I'm putting a stop to this!
+
+<pause>
+
+Murasa1b:That stupid Nue, she's not listening again...!
+
+Sakuya5a:But this is a problem. She's seriously trying to prevent the launch.
+
+Keine1a:Nitori, can we put the launch on hold?!
+
+Nitori1b:No can do. The Buddhist reactor is already on standby mode. We can't really power it down now!
+
+Nitori2a:We've got 7 minutes 'til ignition! If we can't fly by then, the whole launch will fail!
+
+Patchouli0a:Alright, obviously we need to focus on protecting the Palanquin Ship's launch pad.
+
+<pause>
+
+Patchouli0a:If they can get into this area, they'll easily destroy it.
+
+Reimu0d:The Palanquin Ship can't move, and I've got my hands full preparing to summon the Sumiyoshi Sanjin.
+
+Reimu1a:I want everyone who's free to go stop those youkai!
+
+Keine1a:Understood. Everybody, deploy!
+
+<end>
+
+<ChatID:2>----------------------------------------
+//1PP（出撃後）
+
+Remilia1d:How could you interrupt a ceremony? You don't have an ounce of decorum in your body, do you?
+
+Flan4b:You're Nue, right? Don't you know you're not supposed to rampage near the village?
+
+Nue1a:What's wrong with you? You call yourselves youkai, spouting that drivel?
+
+Nue1d:We youkai are supposed to make the humans tremble in terror!
+
+<pause>
+
+Daiyosei1a:Aah! There are familiars near the bleachers!
+
+Elliy1a:What do we do?! If they get a human, then―
+
+<pause>
+
+Nue2a:...!
+
+<nomove>
+
+<Code=(cursor_jump,368,144,1)>
+
+Hatate1a:Is that all you got? We can deal with that many in one blow!
+
+<Code=(cursor_jump,432,144,0)>
+
+Momiji1a:We'll take care of this area. The rest of you, take care of the ship!
+
+</nomove>
+
+Sanae4a:Momiji! Hatate! Thank you so much!
+
+<pause>
+
+Udonge0a:I can't just sit back and watch this either.
+
+Udonge1c:That ship has the important task of delivering Master's letter!
+
+LilyW1a:I'll fight too, to help Miss Rabbit get home!
+
+Nue1b:Come on, why do you all have to play buddy-buddy all the time?
+
+Nue1c:Then I'll just gather everyone together too. You can all prostrate yourselves before the fear of the unknown!
+
+<end>
+
+<ChatID:3>----------------------------------------
+//1EP
+
+Keine1a:They're coming from that side too?!
+
+<nomove>
+
+<Code=(cursor_jump,400,144,1)>
+
+Hina2a:I'm sorry, looks like we let a few slip through.
+
+</nomove>
+
+Udonge1c:The way this is going, I suspect they have more waiting in reserve.
+
+Youmu1a:We don't know where they'll come from, so don't move too far from the ship!
+
+<end>
+
+<ChatID:4>----------------------------------------
+//3PP（ムラぬえ）
+
+Patchouli4a:What troublesome familiars... And she's using so many of them too.
+
+Keine2a:She's not called a legendary youkai for nothing.
+
+Sho1c:Nue, please stop this!
+
+Nue1b:No way. I've gotta beat this lesson into you as hard as I can.
+
+Nue1e:You're just being used by the humans, Minamitsu!
+
+Murasa0b:Nue, what's wrong? Did me leaving you behind in the Underworld make you THIS angry?
+
+Nue0a:No! I don't even care about that anymore!
+
+Nue1b:What I can't stomach is humans using that ship as they please.
+
+Ichirin5a:Huh? The ship?
+
+Nue0b:Right. Isn't that ship your most prized possession, Minamitsu?
+
+Nue1c:How can you just let humans do as they please with it, whenever they like?!
+
+Nazrin6a:Well, she's not wrong about people feeling like they can use it as they please.
+
+Nitori3c:And I guess we HAVE been overhauling it a lot. And now we're taking it on a lunar voyage.
+
+Murasa0a:The Palanquin Ship is very important to me. But Nue, it's not just mine.
+
+Murasa1b:This ship can do a lot to help other people―
+
+Nue1c:It shouldn't have to! It's not fair!
+
+Murasa4a:...!
+
+Nue0b:If you told me you were doing all of this for yourself, I'd be okay with you just living your life taking care of your ship.
+
+Nue1b:But none of these people care about any of that. They're just using the ship like it's theirs!
+
+Nue1e:They're trying to steal your rightful place, Minamitsu! They're tricking you!
+
+<pause>
+
+Meiling1b:Ack, she summoned even more familiars!
+
+Elliy4b:I think we're being cornered both physically and verbally.
+
+Murasa2a:...What should we do, Ichirin? Looks we can't talk our way out of this.
+
+Ichirin4b:Given the situation, we have no choice but to hang in there until the launch.
+
+Ichirin4a:Sheesh, I can't tell if she's being really considerate or just a nuisance.
+
+<end>
+
+<ChatID:5>----------------------------------------
+//4PP（魔理沙増援）
+
+Wriggle6b:Whoa, those flying saucers just keep coming.
+
+Koakuma1b:There's still three minutes until launch. Will you be able to handle it?
+
+Kurumi4a:If only we had just a little more help, it'd work out somehow...
+
+<nomove>
+
+<Code=(cursor_jump,240,544,1)>
+
+<hide=face>
+
+Marisa1a:Sorry I'm late!
+
+</hide>
+
+<pause>
+
+Nue1b:...!
+
+Nitori4a:Marisa, you made it!
+
+Alice1a:Where WERE you?! Just a bit later and we'd have already departed!
+
+Marisa0b:My bad, Mima showed up at my place and I got sucked into a conversation.
+
+Koakuma3b:Oh, wow. Mima came by?
+
+Marisa0a:Yeah, she's heading to Makai, so she stopped by to say goodbye.
+
+Marisa3a:Wait, what's up with all the crazy-looking discs?
+
+Udonge1c:Can't you tell that we don't have time to explain every little thing?
+
+Reimu2b:They're connected to that youkai over there who's trying to stop the launch.
+
+Reimu1a:Blast them with whatever you've got, I'm not picky!
+
+Marisa0a:Roger that! These should make perfect targets for testing my new spell.
+
+Patchouli0c:You came up with a new spell?
+
+Marisa0c:Yeah. I really wanted to perfect it by launch time.
+
+Marisa6a:(...Even if we walk different paths now, I'll never leave behind the magic you taught me.)
+
+Marisa2b:(I'll take your star magic with me across the sea of stars, Lady Mima!)
+
+Marisa5a:Here goes nothing! Orreries Sun!
+
+<end>
+
+<ChatID:6>----------------------------------------
+//警告（1ターン前）
+
+Nitori1b:Keep it up, everybody! We'll be ready to launch in 2 minutes!
+
+<end>
+
+<ChatID:7>----------------------------------------
+//警告（最終ターン）
+
+Reimu1a:You just need to hold them off a bit longer! Do whatever it takes!
+
+<end>
+
+<ChatID:8>----------------------------------------
+//ぬえ撃破
+
+<Cond=(CHECK_FLAG,C46_NUE,==,1)>
+
+Mystia1d:Alright, we beat the boss of the familiars!
+
+Nue2a:Ngh, they're strong...!
+
+</Cond>
+
+<Cond=(CHECK_FLAG,C46_NUE,==,0)>
+
+Cirno1a:Sweet, we managed to protect it!
+
+</Cond>
+
+Keine1a:Reimu, are you ready to summon the Sumiyoshi Sanjin?
+
+Reimu1a:I'm good to go. Everybody, back to ship!
+
+<Code=(icon_set_direction,All,Seirensen,0)>
+
+<pause>
+
+Ichirin1a:Everyone's aboard. Hit it, Nitori!
+
+<nomove>
+
+Nitori1b:Alright! Igniting rocket boosters!
+
+</nomove>
+
+Nue1b:Grr. After all that, they're still getting their way...
+
+Nue1c:But I still have a chance!
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump_unit,Orig,0,0,1)>
+
+Sunny4c:Gah, she's coming straight for us!
+
+UsagiR2c:Is she aiming for the―
+
+</nomove>
+
+Nue0a:I can tell even at a glance that this cloth has a ton of magic in it.
+
+Nue1a:If I tear it off, I bet you won't be able to launch!
+
+<nomove>
+
+<Code=(cursor_jump_unit,Orig,0,0,1)>
+
+Meiling1a:She's going after the Lunar Veil! But there's no way we can stop her from inside!
+
+</nomove>
+
+Udonge1b:Oh no you don't!
+
+<pause>
+
+Nue2a:She guarded it!
+
+<nomove>
+
+<Code=(cursor_jump_unit,Orig,0,0,1)>
+
+Wriggle5c:Whoa! Reisen came charging in!
+
+Kurumi3d:Thanks! You protected the veil!
+
+Udonge0a:Whew, that was close...
+
+Udonge2b:Wait, the Palanquin Ship?! I'm on the Palanquin Ship?!
+
+Reimu1a:Now, Sokotsutsu-no-O-no-Mikoto!
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump_unit,Orig,0,0,1)>
+
+Aya1a:She's called on the power of the gods. The ship's probably safe from attack now.
+
+</nomove>
+
+Nue2a:Minamitsu...
+
+Murasa1b:Nue, let's talk when I get back to Earth!
+
+Murasa5c:I've got so much to tell you! We'll talk again, okay?!
+
+Nue5a:...I refuse to accept this.
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump_unit,Orig,0,0,1)>
+
+Sanae1a:Nue's retreated, so all that's left is to launch!
+
+Nitori1b:It'll happen soon, so everybody strap yourselves in!
+
+Udonge2b:H-Hold on, I'm still—
+
+<nomove>
+
+<Code=(cursor_jump,448,144,1)>
+
+Mokou3c:Keine, don't work yourself too hard!
+
+<Code=(cursor_jump,464,144,0)>
+
+Akyu3a:I'm looking forward to hearing about your trip, everyone!
+
+<Code=(cursor_jump,416,144,0)>
+
+Kaguya6a:Eirin, were my eyes deceiving me or was that not...
+
+<Code=(cursor_jump,400,144,0)>
+
+Eirin2a:Yes, Udonge's still aboard the ship...
+
+</nomove>
+
+LilyW3b:Miss Rabbit! Please look at the Earth when it's springtime!
+
+LilyW4e:I'll bring one so lovely that you'll be able to tell even from the moon!
+
+<nomove>
+
+<Code=(cursor_jump_unit,Orig,0,0,1)>
+
+UsagiR1a:Thanks Miss Fairy...
+
+UsagiR0d:No, actually―Thank you, Lily! I'll definitely remember to do that!
+
+Koakuma1b:Buddhist reactor output fully charged. Releasing the final limiter!
+
+Remilia1a:Now launch! Take us to the moon!
+
+<end>
+
+<ChatID:9>----------------------------------------
+//ADVB
+
+<BG=bg_talk_Seirensen_Bridge.png,fade=0,color=1,title=bg_Seirensen_Bridge,bgm=bgm_talk_aoki>
+
+Chen0b:Wow, the ground is already so far away!
+
+Wriggle3b:I've never flown this high by myself before.
+
+Flan3h:Hey, outta the way. I wanna see outside too!
+
+Meiling0a:Lady Flan, if you look out the window you'll get hit with sunlight.
+
+Sakuya0a:The ship has monitors, so please have a look at those.
+
+Remilia3d:You just don't get it, Sakuya. The real thing is totally different.
+
+Star3d:Yeah, you should want to see something as historic as this for yourself.
+
+Marisa0c:Yeesh, that mistress of yours really fits in with the fairies.
+
+Sakuya0a:Please block the sunlight with your handkerchief, then.
+
+Patchouli0b:Nitori, how much spirit energy do we have left in the boosters?
+
+Nitori3e:It's almost out. I guess it's about time to detach the first stage.
+
+Nitori1a:Reimu, let the gods know too.
+
+Reimu4a:Yeah, yeah, I'll have him change shifts with Nakatsutsu-no-O-no-Mikoto.
+
+Alice0d:It seems we managed to get on the correct course. This is wrapping up nicely.
+
+Alice0a:Well, other than that Nue girl hounding us up to the last possible minute.
+
+Daiyosei3b:That's for sure. I can't believe she attacked the ship...
+
+Murasa2b:...But I hated parting with her like that.
+
+Murasa5c:In the end we're just leaving her behind... again.
+
+Nazrin6b:We didn't exactly have a choice back there. It was hardly the right time for a chat.
+
+Keine0c:We had no time to reason with her, and she wasn't exactly being reasonable to start with.
+
+Murasa5c:Yeah, but still...
+
+Sanae0b:Why is Nue so upset about your involvement, Murasa?
+
+Sanae3b:It didn't seem like she was just sulking after having her friend taken away.
+
+Ichirin4b:...Well, I think Nue really treasures her bond with Murasa.
+
+Ichirin0a:Murasa's the one who cheered her up when she was feeling down.
+
+Alice0a:When did this happen?
+
+Ichirin4b:Back when she was sealed in the Underworld, Nue was caught by humans and had her true form revealed.
+
+Ichirin4a:I think she lost all confidence as a youkai due to that trauma.
+
+Keine4a:...I see, to a youkai based on the unknown, a public shaming is more than just a humiliation.
+
+Keine3b:It would be no exaggeration to say that her very reason for living was stolen away.
+
+Daiyosei0a:But how would you cheer up someone like that? 
+
+Murasa0a:It's nothing special, I just stayed by her side.
+
+Murasa3c:I could relate to her, as someone else who was worried about how to live as a youkai.
+
+Nazrin0a:I'm sure she got her spirits back with all that nice, low-key hanging out going on.
+
+Nazrin3b:Seeing our always optimistic captain here must've cheered her up.
+
+Sanae0a:So that's why she holds Murasa in such high regard...
+
+Reimu4a:That's nice and all, but she's still a pain. She's got some real issues with humanity.
+
+Reimu2b:Do we really look like we're taking advantage of you and Ichirin?
+
+Sho0b:...Perhaps we made it look like Murasa had betrayed youkai-kind.
+
+Sho4a:It can be difficult to accept Hijiri's ideal of equality between humans and youkai.
+
+Murasa5b:...
+
+Elliy3b:Well, don't feel too bad about it Murasa. You'll make up with her next time, I know it.
+
+Elliy0a:She's just in a bit of a mood right now, is all.
+
+Murasa3a:...You're right. Besides, in hindsight, Nue isn't blameless here.
+
+Elliy4b:Huh?
+
+Murasa1b:I mean, I spent all that time looking for her, and she was just hiding and watching me?
+
+Murasa1b:I've been busting my back helping make it so that she can live on the surface, and she's just...
+
+Ichirin5b:Easy there! This isn't the first time we've encountered her weird mean streak. 
+
+Sanae0d:Anyway, all you need to do is have a proper talk with her when you get back, right?
+
+Murasa1b:Yeah, next time I'll catch her and tie my anchor to her feet. 
+
+Keine3a:...Good grief. I'm glad you got your spirit back, but keep a hand on the rudder.
+
+Keine0a:Before we can do any of that, we still need to get to the moon and back safely.
+
+Alice0a:That reminds me, where did Reisen get off to?
+
+Daiyosei0a:You're right. She was on the bridge until a little while ago...
+
+<BG=bg_talk_Seirensen_Dining.png,fade=0,color=1,title=*bg_Seirensen_Dining>
+
+<SE=se_talk_knock01.ogg,wait=1>
+
+Youmu2b:Reisen, please come out of there!
+
+UsagiR2c:Even if you shut yourself up in the fridge, that won't change the fact that you're going to the moon.
+
+Udonge2a:Ugh, just leave me alone! I want to be alone now!
+
+Udonge2a:How could this happen... There's gotta still be some way to get back to Earth, right?!
+
+Youmu3a:Well, I suppose you could jump out the window.
+
+Merlin2a:If she tried, I think the air pressure would make that a pretty unpleasant trip.
+
+UsagiR0c:But seriously, Reisen, you were so cool back when you protected the veil.
+
+UsagiR0d:I was touched by your camaraderie!
+
+Udonge3a:Camaraderie...?
+
+Lyrica3b:Yeah! You really stuck your neck out for us!
+
+Udonge1b:Don't be silly, that was all spur of the moment!
+
+Udonge2b:Considering the mess I'm in now, I should've just stayed put and watched...
+
+Udonge2a:Aaagh, I'm so STUPID!
+
+Lunasa0b:Hoo boy, this is bad...
+
+Youmu2b:Maybe we should just give her some space for now...
+
+<MAP=8,FROM=香霖堂,TO=香霖堂,name=Kourindou,icon=5>
+
+<BG=*bg_talk_Korindo_Night.png,fade=1,color=1,title=*bg_Korindo,bgm=bgm_talk_ningyo>
+
+Korin0a:...It's already this late? I suppose I was lost in my book.
+
+Korin0b:The Palanquin Ship should be high up in the sky by now. I think I'll step out.
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+<hide=all>
+
+Mima0a:...Looks like you're as holed up in here as always.
+
+</hide>
+
+Korin0b:Is that...
+
+Mima3a:How nostalgic. Even if none of the merchandise is the same, the store looks the same as ever.
+
+Korin0a:...So it's just you. I was wondering who'd pop in at this hour.
+
+Mima3c:"It's just you"? Shouldn't you put a little more honey into your words when you're alone with a woman?
+
+Mima0a:It's the first time I've been over in quite a while, so how about showing some enthusiasm?
+
+Korin0a:I fail to see what honey would get me with you. And the store's closed.
+
+Korin0a:But you're right, it certainly has been a while. I hear you came to Gensokyo during the last incident?
+
+Mima3d:Mmhm. I'm sure you've heard about the Palanquin Ship's launch, right?
+
+Mima0a:Since I'm in the neighborhood, I figured we might as well see it off together.
+
+Korin0a:Ah, so that's why you came all the way out here to my shop.
+
+Korin0a:And since you're here at this hour, we must have been thinking the same thing.
+
+Mima3b:Yeah, basically. I'd like to do some catching up anyway.
+
+Mima0a:Wanna head out someplace with a nice view?
+
+Korin0a:I was about to do just that.
+
+<BG=bg_talk_Lake_Night.png,fade=0,color=1,title=*bg_Waterside>
+
+Korin0b:...So are Marisa and her friends one of those stars now?
+
+Mima1b:Probably. I couldn't tell which for the life of me, though.
+
+Mima0a:You just wanted this view for your personal sendoff, right?
+
+Korin0a:Yeah, I don't care all that much about the launch, I just wanted to see the sky afterward.
+
+Korin0a:I mean, you can only see the stars at night.
+
+Mima3d:...She always used to say that she was going to shine like a shooting star someday.
+
+Mima0a:Stargazing like this really brings back memories for me, too.
+
+Mima3a:The first time she demonstrated her own magic was after a night of shooting stars.
+
+Korin0a:I remember that too, we all met up to make wishes on the shooting stars.
+
+Mima3d:Marisa's been dreaming big ever since. I'm sure she's been a handful for you, Rinnosuke.
+
+Korin0a:You have no idea. She would just keep coming here to see the stars or demand books about stars and the like.
+
+Korin0b:But for some reason, that look in her eyes made me want to keep helping her.
+
+Mima4a:No kidding. I've never forgotten it either.
+
+Korin1a:Mima...
+
+Mima0a:Ever since then, she's found her own goal.
+
+Mima1b:She's no longer staring at my back. She's now looking somewhere else, and chasing something else.
+
+Mima2a:In which case, she's better off not having me around.
+
+Korin0a:Yeah, I figured that was probably the reason back when you disappeared without a word.
+
+Korin0b:It plagued Marisa for a long time after you left, though.
+
+Mima0a:I realize that. When I met her in spring she seemed to have a cloud over her eyes.
+
+Mima3b:But I came to see that was just another baseless fear on my part. She really CAN do this on her own.
+
+Mima3d:So now I can take my trip with no regrets.
+
+Korin0b:Mima...
+
+Korin0a:This may look like I'm raining on your parade, but could I say something too?
+
+Mima5a:What is it?
+
+Korin0b:You're wrong that Marisa doesn't need you.
+
+Korin0a:She hasn't changed. She still admires that first magic she embraced, and she still loves using it.
+
+Korin0a:And that beginning was only made possible by you, and you alone.
+
+Mima4b:...
+
+Korin0a:For all this time, you've always been her beloved teacher. And you always will be.
+
+Mima5b:...Hah, the night air must be getting to you if you're using kind words with ME.
+
+Mima3d:But resting my wings from time to time like this can be a nice way to calm down.
+
+Korin1a:I'll keep you company tonight. Just try to show your face next time you're in the area.
+
+Mima0a:Sure.
+
+<MAP=8,FROM=永遠亭,TO=永遠亭,name=Eientei,icon=5>
+
+<BG=*bg_talk_Eientei_Night.png,fade=1,color=1,title=*bg_Eientei,bgm=bgm_talk_soratoumi>
+
+Kaguya3a:...What a beautiful sky tonight. I wonder if one of those twinkling stars is the Earthlings' ship.
+
+Kaguya6a:I've completely lost track of where it is.
+
+Eirin0a:...Yes, it successfully escaped Earth's gravity.
+
+Eirin0b:At this rate, it should reach the moon without any problems.
+
+<SE=se_talk_walk_outdoor01.ogg,wait=1>
+
+Tewi3a:Princess! Your tea is ready.
+
+Kaguya3c:Good work, Inaba. I was just getting cold too.
+
+Tewi3d:Well, yeah, you've been watching that ship since noon, so of course you're getting cold.
+
+Tewi0a:I guess you're worried about Reisen ending up aboard by accident?
+
+Kaguya6b:I suppose I am. After all, I never imagined something like that would happen...
+
+Eirin4a:Knowing Udonge, she'll do everything in her power to stay hidden.
+
+Eirin0a:But if they do find her, only the Watatsuki sisters can say how she'll be treated.
+
+Tewi4a:Aren't they your disciples? Wouldn't they just let her go?
+
+Tewi4b:I mean, she may be a deserter, but that was a long time ago...
+
+Kaguya5b:I wonder about that. I could never tell what they were thinking.
+
+Kaguya4c:And if they DO catch her, returning her would be a complicated matter.
+
+Eirin4a:If that happens, it's out of our hands. She shouldn't have been there to start with.
+
+Kaguya1a:That's a cold perspective.
+
+Eirin4c:...
+
+Kaguya3d:I'm joking. You may be smart, but you're bad at lying.
+
+Kaguya3a:Weren't you kind to her because you realized her determination after fleeing to Earth?
+
+Eirin2a:No, I would never make a judgment based on personal feelings.
+
+Kaguya1b:You don't need to deny it. I find those judgments much more reliable than ones from your head.
+
+Kaguya0a:It's the same reason you approved of the plan to send a letter.
+
+Tewi0b:What reason is that?
+
+Kaguya6a:She would rather think positively about living on Earth than come up with a plan to drive off the emissaries—a sentiment I'm grateful for.
+
+Kaguya0a:So let's have faith in them. I'm sure everything will work out fine, and Inaba will come home too.
+
+Eirin6a:...There's something oddly persuasive about your blithe attitude, Princess. 
+
+Kaguya5a:Eirin, are you making fun of me?
+
+Eirin3c:No, I'm encouraging you. It's true that Udonge is more cowardly than others, but she still has a fierce determination to live on Earth.
+
+Eirin0a:I'll pray that such determination will lead to good results.
+
+Kaguya3c:There you go! Not that we can do much else, crawling around on the Earth like this.
+
+Kaguya0a:Oops, I let myself get distracted in the conversation. Inaba, I'm going to fetch that tea now.
+
+Tewi3d:Okay! I'll escort you in!
+
+<SE=se_talk_walk_outdoor01.ogg,wait=1>
+
+<single>
+
+Eirin0c:The princess is so quick to accept things with no proof.
+
+Eirin0b:Some say one must be broad-minded to live on Earth. Is that what they're talking about...? 
+
+</single>
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+Yuyuko1b:I don't think that's the case for everyone.
+
+Yukari1a:It might simply be the farsighted view of someone who will live for eternity.
+
+Eirin0c:...Yukari Yakumo and Yuyuko Saigyouji. So you've come.
+
+Yuyuko1a:Yes, this is our way of congratulating you on the successful launch.
+
+Yukari0a:There was a spot of trouble, but what's truly important is that it launched safely.
+
+Eirin0a:True enough. We received quite a lot of assistance from you two.
+
+Eirin0b:They wouldn't have gotten off the ground without advice on summoning the gods of the voyage and the required training.
+
+Yukari1a:No need to thank me. It was a good opportunity to train Reimu in divine invocations.
+
+Eirin5a:But what were you planning on doing if we hadn't gotten word of the matter?
+
+Eirin4b:If this was all on a whim, I might have to rescind my gratitude.
+
+Yukari0a:Naturally, if this were merely a vampire pleasure cruise, I wouldn't have lifted a finger.
+
+Yukari0b:It was only after seeing you make it clear that you intend to remain on the Earth that I lent my assistance.
+
+Eirin2a:Is that right...?
+
+Yukari0b:The only reason you would send a letter to the leaders of the emissaries is if you intend to keep your feet on our Earthly soil.
+
+Yukari0a:Coming from you, that's the same as an affirmation of Gensokyo.
+
+Yukari1a:In which case, I will show my benevolence by accepting you.
+
+Eirin4a:...I never imagined the day would come when I'd hear something like that from YOU.
+
+Eirin0a:It seems as if ever since we opened the gates, we've had nothing but people putting us in their debt.
+
+Yuyuko1b:That's hardly fair. Weren't you all talking about wanting to root for people trying their best?
+
+Yuyuko1a:If a few words from me helped things turn out well, so much the better.
+
+Yukari0b:...That reminds me, I still haven't heard the reason you gave Reimu that advice, Yuyuko.
+
+Yukari1a:You tend to get yourself into trouble. If you want to do something, talk it over with me first, and I can—
+
+Yuyuko1b:No, Yukari. You always treat me with kid gloves, you know.
+
+Yuyuko0a:So this time I wanted to follow my own desires.
+
+Eirin2a:You did?
+
+Yuyuko0a:Mmhm. I wanted to support your feelings towards Kaguya and the Earth.
+
+Yuyuko1a:I feel the same way about Yukari and Gensokyo. I know the feeling of wanting to do more.
+
+Yukari0a:Yuyuko...
+
+Eirin4a:...Good grief. Here I was assuming you had some noble purpose for all of this, and it ended up as just personal feelings.
+
+Eirin0a:You two are putting all your faith in vague concepts like determination and feelings.
+
+Eirin1b:Unpolished and confused, truly a way of thinking befitting an Earthling.
+
+Yuyuko1b:But does that mean it's wrong?
+
+Eirin3c:Not at all―rather, it's interesting. Irrational and unreliable, yet somehow reassuring.
+
+Eirin0a:This land called Gensokyo is a very tolerant place. It even tolerates Lunarians and sentiments like mine.
+
+Yukari0a:It's not about "tolerance" or anything so simple.
+
+Yukari1a:Your very being is going to become part of Gensokyo.
+
+Eirin0b:I'll accept this land, and the way its residents think.
+
+Eirin3c:Perhaps you could extend your greetings once more?
+
+Yuyuko1b:Certainly.
+
+Yukari0a:Welcome to Gensokyo.
+
+Yukari1a:You are all welcome here.
+
+<Code=(transition_out,c_black,60,1)>
+
+<end>
+
+<ChatID:10>----------------------------------------
+//全滅（聖輦船被撃墜）
+
+Murasa0b:No way! They hit the ship!
+
+Nue2a:Oh, whoa, are you okay?!
+
+Nue5a:I... I didn't mean to damage it, Minamitsu...
+
+Nitori3a:We definitely can't launch in this condition...
+
+Nitori2b:Mission failed!
+
+<end>
+
+<ChatID:11>----------------------------------------
+//全滅（侵入される）
+
+Sunny0d:Aah! The familiars got too close to the launchpad!
+
+Patchouli4f:We're about to go down with the ship, huh.
+
+Nitori2a:The launch is a failure!
+
+<end>
+
+<ChatID:12>----------------------------------------
+//2PP（フラン増援?）
+
+Flan2c:We're supposed to keep the weird round things from making it over here, right?
+
+Flan2b:Remi, I'm coming out to help.
+
+Kurumi6a:Huh, Flan's going to?!
+
+Patchouli0b:...I see. With Flan's presence, it should be simpler for the rest of us.
+
+Sakuya0a:This will be the first time we've let her have a danmaku battle outdoors, though.
+
+Elliy1b:Asking just in case, but this is safe, right? We can just sit back and watch?
+
+Remilia0a:Of course. Lately, we've even been taking walks together near the village.
+
+Remilia0e:But Flan, you should be careful not to let the sunlight touch you.
+
+Flan3b:Yep, I made sure bring the parasol you gave me.
+
+Flan3f:Okay then!
+
+<pause>
+
+Nue2a:...!
+
+Reimu1a:That aura must mean Flandre's deployed too...!
+
+Nue0a:So what if one more greenhorn youkai jumps into the fray?
+
+Nue1a:Like I'd care about some ignorant kid. The Great Nue will—
+
+Flan0a:Hee hee, it really does feel great to go outside!
+
+Nue2a:...?!
+
+Meiling0c:Lady Flan, I'm sure you needn't be told what I'm about to remind you of, but―
+
+Flan3b:Uh-huh, don't worry, I'll be careful not to destroy the village.
+
+Flan1a:I'm only gonna play with the one in black over there and these round things!
+
+Keine0b:...It's reassuring to have her on our side, but I can't help but feel like we're playing with fire.
+
+Nue2a:Looks like there are all sort of youkai I don't know on the surface these days. I better be careful.
+
+<end>
+
+<ChatID:13>----------------------------------------
+//ぬえvs.聖輦船
+
+Nue0a:I know you're in there, Minamitsu!
+
+Murasa0d:Nue!
+
+Nue0a:Come on, are you REALLY okay with these losers using your ship?
+
+Nue1a:Stop letting these humans boss you around and let's you and me go out shipwrecking!
+
+Murasa5e:...I can't. This ship is where I belong.
+
+Murasa0b:If you'd just listen to me, I'm sure you could understand our feelings too, Nue.
+
+Nue5a:...What happened to you? Why're you listening to these humans instead of me?
+
+Nue2a:Where's your pride as a youkai?! What happened to the Minamitsu I remember?!
+
+Ichirin2a:Murasa, it's dangerous to let Nue get so close to he lauch pad!
+
+Murasa0d:I-I know!
+
+<end>
+
+<ChatID:14>----------------------------------------
+//魔理沙増援前にぬえを撃破
+
+Nue2a:These people...
+
+<pause>
+
+Murasa5e:C'mon Nue, can't we just talk this out?
+
+Nue2a:Hmph. Maybe if you got rid of all these humans first.
+
+<end>
+
+<ChatID:15>----------------------------------------
+//ぬえvs.魔理沙
+
+Marisa0a:Wait, so you're the real nue then? I've heard the legends.
+
+Nue0a:Good for you. I guess not all humans are as dumb as they look.
+
+Marisa0d:I hear you threw the capital into chaos way back when...
+
+Nue0a:Yup. Ah, those were the good old days...
+
+Marisa0b:...And then you got shot by an arrow and exterminated.
+
+Nue2a:Not the part of the story I want to hear about!
+
+<end>
+
+<ChatID:16>----------------------------------------
+//ぬえvs.早苗さん
+
+Sanae1a:Nue, if you're really Murasa's friend, please stop this!
+
+Nue0a:No, YOU should stop trying to make Minamitsu something she's not!
+
+Nue0a:You people say all these high-minded words, but I know you're just using her!
+
+Sanae1a:That's not true. Murasa and her companions chose this.
+
+Nue0a:Like I'd believe anything a human says!
+
+<end>
+
+<ChatID:17>----------------------------------------
+//ぬえvs.アリス
+
+Alice0a:I heard you say it before, but you're a friend of Murasa's, right?
+
+Alice0a:If there's a conversation you need to have with her, there must be a better way to have it.
+
+Nue0a:Maybe don't assume everyone's a spineless doormat like you girls.
+
+Nue1a:I'm a youkai for crying out loud! We don't do things with hugs and storytime!
+
+Alice1a:There's just no getting through to you, is there?
+
+<end>
+
+<ChatID:18>----------------------------------------
+//ぬえvs.vs.咲夜さん
+
+Sakuya5b:You have quite unusual familiars.
+
+Sakuya0a:If possible, I'd like to capture one and take it home.
+
+Nue2a:What? Why?
+
+Sakuya6a:Imagine having UFOs as part of your everyday life. Doesn't it sound a bit thrilling?
+
+Nue2a:Is this how humans think these days?
+
+<end>
+
+<ChatID:19>----------------------------------------
+//ぬえvs.美鈴
+
+Meiling1b:Normally I'm the gatekeeper for the mansion...
+
+Meiling1a:But today I'm making sure the Palanquin Ship can set sail!
+
+Nue0a:I wouldn't be so proud of stealing Minamitsu's boat if I were you.
+
+Nue0a:...Wait, if you get too into this won't they just leave you behind? Planning on taking one for the team?
+
+Meiling7a:Er... I'll have to be careful about that.
+
+<end>
+
+<ChatID:20>----------------------------------------
+//ぬえvs.パチュリー
+
+Patchouli0b:...I've read about this recently. Those familiars are called Unidentified Flying Objects.
+
+Patchouli0c:Furthermore, they're apparently the cause of crop circles.
+
+Nue0a:The cause of what?
+
+Patchouli0b:I hear it's a kind of performance in the Outside World, used to revitalize small villages.
+
+Patchouli0c:So does that make you someone who revitalizes villages?
+
+Nue2a:Not sure I'm following this, but I'd never lend a hand to humans.
+
+<end>
+
+<ChatID:21>----------------------------------------
+//ぬえvs.小悪魔
+
+Koakuma5b:Y-Your skirt stops above your knees!
+
+Koakuma0a:You don't see many people dressing like that in Gensokyo...
+
+Nue0a:What, you jealous? Just wear a shorter one yourself if you want to.
+
+Koakuma1a:A-As Lady Patchouli's librarian, I couldn't possibly...
+
+<end>
+
+<ChatID:22>----------------------------------------
+//ぬえvs.レミリア
+
+Remilia1c:How boorish of you to get in the way of the glorious moment we've worked so hard to prepare.
+
+Nue0a:If you ask me, your moment was messed up in the first place.
+
+Nue0a:How could Minamitsu and Ichirin let some jerks like you―
+
+Remilia1d:Save the complaints for AFTER we return from the moon.
+
+Nue1a:That's the kind of attitude that pisses me off. Since you're calling the shots, here's a shot of my own!
+
+<end>
+
+<ChatID:23>----------------------------------------
+//ぬえvs.フラン
+
+Flan0a:Hee hee hee, so you're my playmate today!
+
+Nue2a:What's with her?! Something seems dangerous about her...
+
+Nue1a:But Nue, the Great Youkai of the Heian, would never back down to someone just because―
+
+Flan1a:Whatever, let's just get started!
+
+Nue1a:Hey! You don't just interrupt someone else's monologue!
+
+<end>
+
+<ChatID:24>----------------------------------------
+//ぬえvs.エリー
+
+Elliy1a:I can't believe you're interfering at such an important moment!
+
+Elliy3a:But to be honest, I respect that kind of single-mindedness.
+
+Nue0a:Good for you. I don't care.
+
+Elliy2b:Oof, so mean! I thought you'd sympathize with me if I approached you as a friend!
+
+Nue0a:If I sympathized with people just like that, I wouldn't be very "unidentified", would I?
+
+Nue1a:I don't care what you say, it's not gonna change what I need to do!
+
+<end>
+
+<ChatID:25>----------------------------------------
+//ぬえvs.くるみ
+
+Kurumi1a:It's not fair! Why do you get to have such cool-looking familiars!
+
+Kurumi3a:Wanna trade some for my doofy ghosts and evil eyes?
+
+Nue0a:Doofy ghosts? You mean those things the humans saw recently?
+
+Nue1a:No way. Outdated hench-monsters like those wouldn't suit the Great Nue at all.
+
+Kurumi1a:You big meanie-head! I'm not talking to you anymore!
+
+Nue2a:Why would you get mad about that?!
+
+<end>
+
+<ChatID:26>----------------------------------------
+//ぬえvs.妖夢
+
+Youmu1a:Nue, please stop this. We have a letter for―
+
+Nue1b:I don't care what your goal is, just keep your hands off Minamitsu's ship.
+
+Nue0a:How would you girls like it if I tied a giant pillar to YOUR house?
+
+Youmu0a:All sorts of things had to be done to turn it into a shrine. There was no other way―
+
+Nue2a:You even REMODELED it? I'm even madder now!
+
+<end>
+
+<ChatID:27>----------------------------------------
+//ぬえvs.vs.ルナサ
+
+Lunasa0a:Your sound is... unclear.
+
+Nue2a:Huh? My sound?
+
+Nue0a:Not sure what you're on about, but it's not that easy to know the Great Unidentifiable―
+
+Lunasa0b:Buuut I can tell instantly that you're not very honest with yourself about your feelings.
+
+Nue2a:Wh... Who asked you?!
+
+<end>
+
+<ChatID:28>----------------------------------------
+//ぬえvs.メルラン
+
+Merlin0b:You did all this to stop us, just for Murasa.
+
+Merlin1a:You must've been really happy being friends with her.
+
+Nue0a:Happy? Well, I guess we had a lot of fun together down in the Underworld.
+
+Nue1b:Which is why I can't believe she's been used by the humans ever since she came up here!
+
+Merlin1a:Yeah, that's it, now things are livening up.
+
+Merlin0a:Keep riding that wave, and you'll reach peak happiness!
+
+Nue2a:A-Are you making fun of me?! I was being serious here!
+
+<end>
+
+<ChatID:29>----------------------------------------
+//ぬえvs.リリカ
+
+Nue1a:You've been putting out all kinds of sounds, but they're all too straightforward for my tastes.
+
+Lyrica1b:What are you talking about?! My sounds are TOTALLY unnatural! They're the illusory sounds of a phantasmal instrument!
+
+Nue1a:If they're supposed to be illusory, then you should try making them unidentifiable.
+
+Nue0a:Like, you can't tell where they're coming from, or even how they could be made. That sort of sound.
+
+Lyrica0a:Hmm, that's not really enough detail for me to go on, but it might be interesting to shoot for a sound like that.
+
+<end>
+
+<ChatID:30>----------------------------------------
+//ぬえvs.ルーミア
+
+Rumia0a:So all we have to do is buy time?
+
+Rumia3a:Should be easy if I just get you lost in the dark.
+
+Nue0a:Darkness? That'd be just perfect for me.
+
+Nue0a:Wait, no, if nobody can see anything anyway my power's kind of pointless...
+
+<end>
+
+<ChatID:31>----------------------------------------
+//ぬえvs.大チル
+
+Cirno2b:You just keep trying to mess things up!
+
+Daiyosei1a:If you don't stop misbehaving, then Keine's going to give you a headbutt.
+
+Nue2a:Huh? A headbutt?!
+
+Cirno2b:And you won't get off with just a bump on the head!
+
+Daiyosei0a:Last time she did it to Cirno, she ended up half-buried.
+
+Nue0a:...All I'm getting from this is that one of the humans is a dangerous individual.
+
+<end>
+
+<ChatID:32>----------------------------------------
+//ぬえvs.リグル
+
+Wriggle0d:If this is a contest of hiding your appearance, then bugs won't lose!
+
+Wriggle0a:They can blend in with their surroundings and just disappear!
+
+Nue0a:Hiding something's form is different from hiding its identity.
+
+Nue1a:Different people see the same thing differently. Or you can't tell what it is at all. That sort of thing!
+
+<end>
+
+<ChatID:33>----------------------------------------
+//ぬえvs.ミスティア
+
+Mystia0c:Didn't the nue make a strange cry from the darkness?
+
+Mystia1a:I guess that really is the best way to frighten humans.
+
+Nue1a:A night sparrow, huh? For a small fry, you sure get me.
+
+Nue0a:Lemme give you a little trick of mine. The best way to scare people is―
+
+Mystia3d:Midnight recital tiiiime... What you think is yours is really miiine... 
+
+Nue2a:Oh come on, listen to me when I'm talking!
+
+<end>
+
+<ChatID:34>----------------------------------------
+//ぬえvs.リリー
+
+LilyW1c:Miss Youkai, please stop causing so much trouble!
+
+Nue0a:Hm? You're the one who did that whole dramatic goodbye thing earlier, right?
+
+Nue1a:So wouldn't you be happier if the launch ended up a botch?
+
+LilyW0a:If Miss Rabbit wants to go home then she should be able to go home!
+
+<end>
+
+<ChatID:35>----------------------------------------
+//ぬえvs.星
+
+Sho1c:Nue, stop attacking and take a moment to hear us out!
+
+Nue0a:You're that Hijiri person's hench-youkai.
+
+Nue1a:It's your group that's been filling Minamitsu's head with weird ideas!
+
+Sho0c:What? We've done no such thing...
+
+Nue0a:Keep teaching her all that garbage about devoting yourself to humans and she'll forget her pride as a youkai!
+
+Sho0b:Now hold on. Her bond with Hijiri is something Murasa found for herself.
+
+Sho0b:If you care about her, you should respect her beliefs.
+
+Nue2a:And I'm telling you I'm never gonna accept her being led around by the nose by you people!
+
+<end>
+
+<ChatID:36>----------------------------------------
+//ぬえvs.ナズーリン
+
+Nazrin6b:No pings on the rarity sensor. If you were gonna show up to interfere, you could've at least had the courtesy to bring the fragments with you.
+
+Nue1a:Hmph, I'm never handing them over to people like you.
+
+Nue1b:You're just taking advantage of Minamitsu anyway.
+
+Nazrin4a:Even if completing the boat is the captain's wish?
+
+Nue1e:Then you'd just take advantage of her even more!
+
+<end>
+
+<ChatID:37>----------------------------------------
+//ぬえvs.橙
+
+Chen2b:I-I can't screw up here! Miss Ran's watching me!
+
+Nue0c:Sure, whatever. I'm not gonna lose to a kid like you.
+
+Nue1a:Maybe if you started bawling your eyes out, she'd come save you.
+
+Chen1a:But if I can't win by myself, Miss Ran won't feel safe letting me go to space by myself!
+
+Nue2a:Huh. That's... a pretty good point, actually.
+
+<end>
+
+<ChatID:38>----------------------------------------
+//ぬえvs.鈴仙
+
+Udonge4c:I won't let you stop this launch!
+
+Nue0a:What do you care? You weren't even on the ship.
+
+Udonge0a:No, but I need them to deliver a letter from Master.
+
+Udonge1b:I'll read the wavelength of your unidentifiable power and collapse it!
+
+<end>
+
+<ChatID:39>----------------------------------------
+//ぬえvs.三月精
+
+Luna0a:We've heard of the nue before.
+
+Star1b:Hmmm, it had the face of a monkey, the tail of a snake...
+
+Sunny5b:Pop quiz! What animal was its body from?
+
+Nue0a:...
+
+Sunny5a:Oh, looks like you're out of time!
+
+Nue2a:Wait, you were quizzing ME?!
+
+<end>
+
+<ChatID:40>----------------------------------------
+//ぬえvs.にとり
+
+Nitori1b:I'm not gonna let you stop this launch! No way, no how!
+
+Nitori1c:But... I am pretty curious about those familiars... How do they move? And those high powered lasers...
+
+Nue1a:Heh heh heh, looks like you're taken by my familiars' charms.
+
+Nitori4b:It's just intellectual curiosity. Can I ask about their inner workings?
+
+Nue1b:I don't know squat about that. Unknown means unknown, full stop.
+
+Nitori3b:Must be stressful to use something you don't understand. I could never handle that.
+
+<end>
+
+<ChatID:41>----------------------------------------
+//ぬえvs.慧音
+
+Nue0a:I've seen your face in old newspapers lying around.
+
+Nue0a:You're a half-beast, but you're chumming around with all these humans? Pathetic.
+
+Keine0a:There's no need to choose sides. The coexistence of both humans and youkai is an essential part of modern Gensokyo, so―
+
+Nue1a:I'm not gonna listen to a lecture from some fence-sitter!
+
+<end>
+
+<ChatID:42>----------------------------------------
+//おまけ会話（星条旗）
+
+Youmu0a:Oh yeah, I forgot to ask, but... What's up with this flag?
+
+<nomove>
+
+<Code=(cursor_jump,368,336,1)>
+
+KappaC1b:I'm delighted you asked. It's a good luck charm to ensure a safe launch!
+
+</nomove>
+
+Sakuya3b:It is?
+
+Nitori0a:According to Sanae, the humans from the Outside World who went to the moon used one.
+
+<nomove>
+
+<Code=(cursor_jump,368,336,1)>
+
+KappaC0a:In other words, by hoisting this flag, a magical power will ensure you reach the moon.
+
+</nomove>
+
+Patchouli0b:I tailored the surrounding pathways based on crop circles as well.
+
+Wriggle0a:So you just used everything that came to mind...
+
+Alice2b:But why is that flag in Gensokyo in the first place?
+
+Alice2b:I think I saw it at the Lunar Exhibition as well...
+
+Luna0a:We picked it up when we were taking a walk through the woods.
+
+Luna0a:Eirin said it might've fallen from the moon.
+
+<nomove>
+
+<Code=(cursor_jump,400,144,1)>
+
+Eirin0a:I'm not precisely sure why they put it there, but there seemed to be some sort of human turf war going on. It may be related to that.
+
+</nomove>
+
+Sunny4a:If you think about it, maybe we should've kept it. It's a treasure, right?
+
+Star6a:Yeah. But Kaguya took it since it was rare...
+
+<nomove>
+
+<Code=(cursor_jump,416,144,1)>
+
+Kaguya0a:If you ever want to see it, you need only ask.
+
+Kaguya1a:Not to mention, if you're going to the moon anyway, wouldn't a treasure you found yourselves hold more value?
+
+</nomove>
+
+Luna3c:Ooh, good idea!
+
+Sunny3a:I feel like we've been tricked somehow...
+
+<end>
+
+<ChatID:43>----------------------------------------
+//リリー初戦闘（ver.2.8.0追加）
+
+LilyW1b:I won't let you stop the launch!
+
+UsagiR2b:Don't put yourself in harm's way, Miss Fairy!
+
+LilyW4e:I can fight too! Just relax and wait there, Miss Rabbit!
+
+UsagiR2c:O-Okay, but...
+
+UsagiR0a:(...Is watching all I can do? Maybe it'd be better if I could fight too.)
+
+UsagiR0a:(It's a little late for that though. All I can do is cheer her on!)
+
+<end>
+
+<ChatID:44>----------------------------------------
+//リリーで敵を撃墜（ver.2.8.0追加）
+
+LilyW1d:How's that?!
+
+Murasa0a:You're doing great, Lily!
+
+Youmu1a:The rest of us could learn from your enthusiasm!
+
+Lyrica0a:Still, I never figured Lily for the go-getter type.
+
+Merlin1a:It's like she was actually born for the battlefield!
+
+Lunasa0a:No, the sound I hear from her...
+
+<Cond=(GLOBAL_VAR,c_Lily,<,4)>
+
+Lunasa0b:...is not that. Although I can't say what will happen if she keeps this up.
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,c_Lily,>=,4)>
+
+Lunasa0b:People have a way of surpassing your expectations.
+
+Nitori2a:Huh? Really?
+
+Lunasa0b:Sometimes even a pure white sound can become jet black.
+
+</Cond>
+
+<end>
+
+<ChatID:45>----------------------------------------
+//ぬえvs.メーコ
+
+Meko1d:I won't let you interfere with the launch!
+
+Nue1c:And you think an purposeless fresh-off-the-farm youkai like you can stop me?!
+
+Meko0b:Purposeless? That's a little mean, don't you think? You're the one who's undefined!
+
+Nue1a:Unfortunately for you, I take that as a compliment. Tremble and die before the terror of the unknown!
+
+<end>
+
+<ChatID:46>----------------------------------------
+//ぬえvs.まくら
+
+Nue1c:Don't get in my way!
+
+Makura1c:I'm afraid I can't do that, not if I want to fulfill everyone's dreams.
+
+Makura0g:But it's not as if I don't understand where you're coming from as well.
+
+Nue2b:What...?
+
+Makura1c:You showed up now precisely because you can't approve of Murasa's actions.
+
+Makura2a:That proves just how deep your relationship is, and the length of your shared history.
+
+Nue1c:You know nothing, so stop acting like you do!
+
+<end>
+
+<ChatID:47>----------------------------------------
+//ぬえvs.ぬえ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Nue2b:What? A fake me?
+
+Nue1d:But that transformation is practically perfect... Don't tell you're—!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Nue1a:Ah, I get it. You're definitely mistaking me for someone else.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Nue1c:Stop playing dumb. You must be—
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Nue1a:Hohoho, stop right there, whippersnapper.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Nue0b:...!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Nue3a:I reckon you did well to see through me, Nue.
+
+Nue1a:So how's about a match, for old time's sake?
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Nue4b:...I mean, I don't mind.
+
+Nue1c:But something's off here. I knew it, you're just a fake!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Nue0c:Whoops, does my impression need some work? I guess it's been a while since we last met.
+
+</nomove>
+
+<end>
+
+<ChatID:48>----------------------------------------
+//
+
+<end>
+
+<ChatID:49>----------------------------------------
+//
+
+<end>
+
+<ChatID:50>----------------------------------------
+//
+
+<end>
+
+<ChatID:51>----------------------------------------
+//C46：ぬえvs.非想天則
+
+Tensoku0a:...
+
+Nue1b:What the hell is this thing? Some kind of crazy new youkai?
+
+Tensoku0a:...
+
+Nue1a:The silent type, huh? You've sure got guts playing "unidentified youkai" with ME.
+
+Nue1e:I'm thinking this greenhorn here needs some hands-on guidance from a veteran!
+
+<end>

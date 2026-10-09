@@ -1,0 +1,2284 @@
+﻿○共通第六十三話「閉じた恋の瞳
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: 2PP
+ 4: first battle (Eiki)
+ 5: first battle (Koishi)
+ 6: Koishi spell 1 start
+ 7: Koishi spell 2 start
+ 8: Koishi spell 3 start
+ 9: Koishi spell 4 start
+10: clear
+11: ADVB
+12: lose
+13: battle after spell 1
+14: first battle vs. Usagi
+15-81: battle vs. Koishi
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<BG=bg_talk_Mountain_Spring,fade=0,color=1,title=bg_Mountain,bgm=bgm_talk_waterfall2>
+
+Yousei10a:Tag, you're it!
+
+HYousei2a:Hey, slow down, I'm getting tired...
+
+HYousei0a:Could we stop playing tag and do hide-and-seek instead?
+
+Yousei20a:Sure. Who's it, though?
+
+Koishi5h:...
+
+Yousei21a:Wah! What's a youkai doing here...?
+
+Koishi0a:Hm? Here...?
+
+Koishi6b:Wow, you're right! But where IS here?
+
+Yousei20a:...?
+
+Koishi0a:Anyway, if you're playing hide-and-seek then I want in.
+
+HYousei0a:Fine, but you have to be it.
+
+Yousei10a:Count to a hundred so we can we go hide.
+
+Koishi5b:Okay! One, two...
+
+<SE=se_talk_run.ogg,wait=1>
+
+HYouseiB0a:Hey everyone, let's go play in that cave over there!
+
+HYousei0a:Huh? But what about the girl we just invited to play hide-and-seek with us?
+
+Yousei21a:What girl?
+
+HYousei0a:...Wait, what was I talking about again? Whatever, let's go!
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+Koishi0a:Nine... Ten...
+
+Koishi0a:Oh, they left. We hadn't even started...
+
+Koishi6b:Oh well. I'll just go wander somewhere.
+
+Koishi5h:...
+
+Koishi5h:Can... I not go home anymore?
+
+</single>
+
+<MAP=11,FROM=人間の里,TO=人間の里,name=Palanquin Ship,icon=4>
+
+<BG=*bg_talk_Seirensen_Dining,fade=1,color=1,title=*bg_Seirensen_Dining,bgm=bgm_talk_aoki>
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+Keine0a:We're going to do a bit of traveling, so anyone who hasn't eaten yet should make sure to grab something.
+
+Youmu4a:There should still be leftovers from last night in the refrigerator.
+
+Tenshi1a:Roger that. Sounds like things are about to be busy.
+
+Udonge0a:Then maybe I should take a short food break too, while I can.
+
+Kanako2a:What, you didn't have any of that mochi at the Hieda manor?
+
+Udonge3b:The Yama was sitting right next to me, so I didn't have much of an appetite.
+
+Udonge2a:I was so worried that if I screwed anything up I'd get sent straight to Hell.
+
+Kogasa1a:No, no, you've got it backwards! That was your chance to make your case to her!
+
+Kogasa0b:Show her your good side, and she might send you straight to Heaven!
+
+Udonge4c:...Good point. I never even considered that. Come to think of it, back on the moon I did so well that even Lady Yorihime recognized me.
+
+Tewi4a:Someone's got a case of selective memory.
+
+Youmu3a:Who was it who locked herself in the refrigerator again...?
+
+Cirno0a:Anyway, have you taken a tour of the bridge yet, Kogasa?
+
+Kogasa0a:I planned to, but to be honest I've already shared everything I know.
+
+Kogasa0b:So I figured I could just leave that to you all and start thinking about my next job.
+
+Tenshi1d:Wow, you're moving on so quickly, I'm beyond bewildered. I'm actually impressed.
+
+Iku0e:Come to think of it, whatever happened with that sheep youkai we were tracking?
+
+Suwako0b:No luck on that end. Not a single sighting anywhere.
+
+Rumia0a:We beat her up pretty bad, so maybe she learned her lesson.
+
+Wriggle0b:I dunno about that. She seemed like a sore loser.
+
+Kanako1d:We've been busy with one thing after another, but we can never be too careful.
+
+Kanako0a:This morning I assembled a task force to begin an investigation.
+
+Mystia3d:What? That sounds so cool!
+
+Suwako1c:The kappa and tengu weren't too happy with the devastation at the foot of the mountain either.
+
+Suwako0a:They'll be patrolling Gensokyo by land, river, and air.
+
+Tewi3a:Huh. Maybe I should tell my minions in the bamboo thicket to keep an eye out too.
+
+Youmu4c:It's so reassuring to know that we have the support of all Gensokyo's youkai.
+
+Iku3a:Knowing that, we'll be able to focus on the task at hand.
+
+Keine0a:Right. We'll be devoting all of our efforts to finding Koishi for now.
+
+<MAP=11,FROM=人間の里,TO=マヨイガ付近,name=Palanquin Ship,icon=4>
+
+<BG=*bg_talk_Seirensen_Bridge,fade=1,color=1,title=*bg_Seirensen_Bridge,bgm=bgm_talk_ningyo>
+
+Kosuzu0a:Look, the northern woods are coming into view.
+
+Murasa0d:Keep our course, but try to lower our altitude as much as possible, and keep an eye on the perimeter for...
+
+Nue0c:Mmhm, uh-huh...
+
+Ichirin2a:...You're in the way, Nue. If you want to watch, then stop floating around and take a seat.
+
+Nue5b:Hmph, this was supposed to be my special box seat.
+
+Medicine2c:...
+
+Alice0d:You're looking intent, Medicine. Do you like the view from up here?
+
+Medicine0a:I've never been this high up before! The village is just a little speck now.
+
+Medicine3c:I thought it was sooo big, but from up here it's sooo tiny...
+
+Nitori4b:Right, and that suzuran field you were in before is even smaller than that.
+
+Hina0a:And there are still more places in Gensokyo that you haven't even seen yet.
+
+Medicine2a:Whoa... I'm getting dizzy.
+
+Yamame0a:Don't try to take everything in at once. Take a moment to calm down, then take it in at your leisure.
+
+Kisume3c:But for that to happen, first we'll have to find Koishi.
+
+Satori5b:Agreed. I hope she's somewhere in these woods...
+
+Suika0a:You need to calm down too, Satori. We sent Momiji and the others out to take a look, so at least wait for their report before you start worrying.
+
+Minoriko0a:If we're going to meet her soon, I'd like to hear about more about this Koishi girl.
+
+Lyrica3a:Yeah, we don't really know anything about her except that she's Satori's sister.
+
+Eiki3a:Well, Satori Komeiji? Would you feel comfortable speaking about her?
+
+Eiki4b:I realize this may be a difficult subject for you.
+
+Satori5b:...No, I'm the one receiving their help, so they deserve to hear this.
+
+Satori5b:First, I believe you're already aware that Koishi closed her third eye and can no longer read minds?
+
+Reimu0e:Yeah, she closed it herself or something?
+
+Satori5b:...She did that because of the circumstances of being a satori youkai.
+
+Satori5b:We, who read the minds of others, have never been accepted anywhere.
+
+Satori5b:Worst of all, we can't even hide from that truth, being able to see those true feelings of others.
+
+Flan2f:So, Koishi couldn't stand that anymore and...
+
+Satori5b:Yes. At the time, Koishi said...
+
+Satori5d:There's not one good thing about seeing inside people's minds.
+
+Sanae3b:Goodness... Not a single thing?
+
+Alice4a:...By closing her eye, she wouldn't even be able to read Satori's mind anymore. It must have been weighing on her very heavily.
+
+Suika4b:Koishi just had that pure and delicate side to her, y'know?
+
+Remilia1d:But, that would mean you can't read her mind either. I'm amazed you've been able to live with her after that.
+
+Utsuho2c:Miss Koishi never stopped being nice.
+
+Orin5a:Even when she couldn't control her body because of her power over the unconscious, she would still always come home.
+
+Orin5a:To us, that was always a sign that our hearts were connected.
+
+Marisa4d:But now she hasn't come home for a while. Which means...
+
+Shizuha4a:Is even her unconscious bond with you broken?
+
+Satori5b:...That's what I'm worried about.
+
+Reimu1b:So, any idea what triggered this?
+
+Reimu0a:Orin said you had a hunch.
+
+Satori5a:...We do. Although no more than a guess.
+
+Satori5b:Right before Koishi disappeared, I said something I didn't mean.
+
+Lyrica1b:...What did you say to her?
+
+Utsuho2c:This was right after I went crazy on the surface, so I hear it was kinda awkward.
+
+Orin5a:We were nursing Okuu's injuries when Miss Koishi came home and talked to us.
+
+Orin5a:But she didn't seem to understand that Okuu had wanted more power for HER sake..
+
+Satori5b:...And that's when I said something that could be interpreted as blaming her for not being able to read minds.
+
+Satori5c:Koishi must have felt isolated the moment she heard that...
+
+Yuyuko3c:...A tragic miscommunication. I'm sure none of you were in the best frame of mind at the time, either.
+
+Parsee0a:If that's why she went missing, then what are we supposed to do after we find her? Do we even have a plan?
+
+Shizuha4a:Yeah, I'm not sure she'll listen to us...
+
+Merlin3b:Stop worrying so much! They're sisters! It'll all work out.
+
+Lunasa0a:Exactly. We just need to go look for her as soon as Momiji gets back...
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+Momiji3c:Recon team, reporting in.
+
+Marisa0a:...Well, look who it is.
+
+Sanae0a:Welcome back. Did you find any clues?
+
+Nazrin0a:For now, we found what might be traces of someone passing through.
+
+Aya1a:It's not much, but it should give us an area to focus on.
+
+Patchouli3b:That's a good start. Now how can we narrow it down further?
+
+Momiji4b:That's the problem. This is Koishi we're dealing with, so I'm not sure we could find her even if we went over the place with a fine-toothed comb.
+
+Flan0f:Can we, like, hang up some cookies and wait for Koishi to come get them?
+
+Hatate6a:C'mon, you really think it'd be that easy...?
+
+Nue0b:...
+
+Hatate1c:No, wait, what about Nue's doofy familiars?!
+
+Nue2a:Wait, why are you bringing my familiars up?
+
+Patchouli3e:Ingenious. Having one of those pop out in front her should cause an unconscious reaction.
+
+Nue2a:Wait, hold on. Why should I do this again?
+
+Ichirin3d:Why not? If it works, maybe they'll see you in a new light.
+
+Orin4d:Wow, you're so cool, lady! You can always count on the great youkai of Heian!
+
+Komachi1c:I know I'D love to see the power of a living legend firsthand.
+
+Nue1a:Hmph. Fine, if you insist. You could all use a good demonstration of my might anyway.
+
+Lyrica3d:(The great youkai of Heian sure is an easy mark...)
+
+Akyu3a:Okay, then we'll start our search in the center of the area indicated by Momiji.
+
+Akyu0a:Nue, please deploy your familiars and let us know if you pick up any readings.
+
+Nue3d:Roger-dodger. Just watch me solve all your problems like it's nothing!
+
+Murasa3c:At least she's enthusiastic now, I guess...
+
+<MAP=11,FROM=マヨイガ付近,TO=玄武の沢,name=Genbu Ravine,icon=4>
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP（出撃前）
+
+Koishi5h:...Hm? Where did I end up this time?
+
+Koishi6b:Well, not like it matters. I bet I'd just forget where this is anyway.
+
+Koishi5h:But that river looks nice. Maybe I should take a dip.
+
+<pause>
+
+UFOG0a:...
+
+Koishi0a:What's that?
+
+<pause>
+
+Koishi0a:Ooh, what ARE you? I've never seen a creature like this before.
+
+Koishi1a:Hey, where'd you come from? Is this the part where you go TAKE-US-TO-YOUR-LEADER?
+
+<pause>
+
+Nue0c:Getting a signal from Green 3. Someone's poking it!
+
+Akyu0a:Green 3 was... this way, right? That should be close by...
+
+Luna1a:Wait, look!
+
+Koishi1a:Ooh, is this the mothership?
+
+Satori2b:...!
+
+Kisume2b:It's Koishi! We really hooked her with a UFO!
+
+Murasa3d:You did it, Nue!
+
+Nue3d:Wow... I did? Heh heh heh.
+
+Orin1f:So this is where you were, Miss Koishi! We've been looking for you the whole time!
+
+Koishi0a:...Is that... Orin's voice? You're talking from inside the ship?
+
+Orin4c:Yeah! The folks from the surface were helping us look for you!
+
+Utsuho3b:Miss Satori is here too, of course!
+
+Koishi0a:Sis is here...?
+
+Satori0a:Koishi...
+
+Koishi0a:Sis...
+
+Satori0d:...I'm glad you're okay. I was really worried about you.
+
+Satori0d:It's been so long since you came home. Ever since that day...
+
+Koishi6b:...Yeah. I wanted to go home too.
+
+Nitori3e:Huh? I thought you were supposed to be sulking. That was easier than we thought.
+
+Sunny6b:But something about this atmosphere seems dark...
+
+Kaguya6a:Should we get down from the boat and go pick her up?
+
+Koishi0a:Pick me up?
+
+Satori0a:Yes. We'll take you home.
+
+Koishi2b:Ah...
+
+<pause>
+
+Satori0a:...!
+
+Korin1c:Did she disappear? Wait...
+
+<pause>
+
+Koishi0a:...
+
+Koishi2b:Huh, what am I doing here?
+
+Satori5a:Koishi...
+
+Daiyosei5f:What was that about? Did we scare her? Let's try picking her up again.
+
+Yukari0b:...No. Koishi's acting oddly. Would you mind waiting for us, Satori?
+
+Orin5a:If she's acting odd, that means...
+
+Parsee0a:Looks like she doesn't even realize that she just backed away from Satori.
+
+Yugi1c:So even if she says she wants to go home, unconsciously she might be afraid of seeing Satori?
+
+Satori5a:I...
+
+Kurumi4b:Then what do we do? We can't just leave her here.
+
+Elliy4b:If she vanishes again, we might never find her.
+
+Eirin1d:For now, the rest of us will deploy and try to restrain her somehow.
+
+Satori5b:Sorry about this, everyone...
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP（出撃後）
+
+Komachi0c:Okay, we're out. Now what? How are we supposed to get her back?
+
+Mokou0c:Based on what happened just now, seems like it'll be hard to talk her into it.
+
+Merlin1a:Then we attract her with dazzling lights and sounds!
+
+Suwako0a:I see, a danmaku battle then.
+
+Koishi5e:Why are there so many people all of a sudden?
+
+Suika3d:Yo! Koishi! We haven't met on the surface yet, have we?
+
+Marisa0a:Long time no see, Koishi. Do you remember us?
+
+Koishi5h:Yeah. You're an oni who used to live in the Underworld, and you're that human who came to play at my house.
+
+Koishi5h:Satori... isn't with you.
+
+Sakuya0a:No, she isn't. She really wanted to see you again, but it's been so long that she's too nervous to come out.
+
+Koishi5h:Nervous? Are you sure...?
+
+Lyrica3c:Probably! Anyway, wanna hang out with us for a while?
+
+Merlin1a:If we have a danmaku battle, it'll help you loosen up your mind and body!
+
+Koishi0a:Um... What's a danmaku battle?
+
+Kogasa0b:Gensokyo's favorite pasttime! A hip and trendy deathmatch!
+
+Alice0d:You should've seen a few when we intruded in the Underworld.
+
+Koishi1a:Oh, right, the pretend-killing game! That looked fun!
+
+Marisa0a:Alright, she's taken the bait... faster than expected, actually.
+
+Sakuya0a:If we're going to ensnare her, we'll first have to play to her expectations for a while.
+
+Reimu1a:That's simple enough. If we're doing this, then we're doing this right. No mercy!
+
+Koishi1a:Okay, do your worst!
+
+<end>
+
+<ChatID:3>---------------------------------------
+//2PP
+
+Akyu0a:Looks like we'll be able to draw her attention, thanks to everyone's quick thinking.
+
+Satori5a:I'm sorry, I really should have been the one out there...
+
+Satori5b:But based on her reaction, she really is avoiding me, isn't she?
+
+Korin0b:It's not your fault. It was all pretty sudden for her too, so she's probably still shocked.
+
+Akyu0a:First things first, we have to ascertain the reason she's avoiding you.
+
+Akyu4a:The problem is, how are we even supposed to talk to her as she is now?
+
+Murasa1a:Can't we work it out through a danmaku battle?
+
+Satori5a:A danmaku battle...?
+
+Udonge0a:Oh, I see. If words won't get through to her, then we use body language.
+
+Lunasa1a:So even with her eye closed, we might be able to communicate.
+
+Satori5a:Communicating with Koishi...?
+
+Remilia1d:We can't be sure it would work, but it's worth trying.
+
+Remilia0d:In the meantime, you think about what you're going to say to her.
+
+Satori5b:...Alright.
+
+<end>
+
+<ChatID:4>---------------------------------------
+//映姫初戦闘時
+
+Eiki0a:This will be a great opportunity for me to tour the living world.
+
+Komachi5a:Looks like you're itching to lecture someone.
+
+Eiki1a:Of course I am. Impartially judging the residents of Gensokyo is my duty.
+
+Eiki1b:No matter who we're up against, I'll be giving them my very best lecture.
+
+Akyu3c:I almost feel sorry for anyone who runs into Eiki.
+
+Eiki1d:Now, let's begin the danmaku battle!
+
+<end>
+
+<ChatID:5>---------------------------------------
+//こいし初戦闘時
+
+Koishi0a:So this is danmaku? Everyone looks like they're having so much fun!
+
+Lyrica3c:We're just getting started! There's still plenty up our sleeves!
+
+Flan3b:You said you were Koishi, right? Do you want to play with us too?
+
+Koishi1a:Yeah, I would!
+
+Tenshi4a:How quick she is to change her tune. She was so gloomy when she was talking with Satori.
+
+Yugi0a:That's just how she is. Depending on what's right in front of her, she'll change her expression just like that.
+
+Aya7b:I'm sure no small part of that is due to the effect of her power over the unconscious.
+
+Momiji0a:So you're saying she matches the other person's attitude and her body reacts accordingly, or something along those lines?
+
+Ran3a:Analyzing her is important too, but be sure to stay focused on the battle.
+
+Ran6b:We won't be able to identify a presence lurking in our subconscious. And I suspect a calculated approach won't get us very far here.
+
+Luna4b:Augh, this sounds hard...
+
+Koishi0a:What is danmaku, anyway? Cut and slap, pluck and stitch?
+
+Koishi1a:Ooh, I'm getting excited! Let's play until we drop!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//こいし通常撃破
+
+Koishi1a:You're all so amazing! All your moves are so new to me!
+
+Cirno0a:You're not bad yourself. I can't believe this is your first time playing...
+
+Utsuho0a:Looks like she's doing it all by instinct... Maybe Miss Koishi's a natural at this?
+
+Letty0a:In that case, danmaku-based communication might actually be a valid approach.
+
+Meiling5a:For sure. Now she'll make her feelings clear!
+
+Koishi0a:Ooh, what are you talking about?
+
+Yuyuko1c:You'll understand when you're older, sweetie. Anyway, how would you like to try even flashier danmaku?
+
+Youmu4b:I'm sure you can do it, Koishi. Just relax and let it all out.
+
+Koishi0a:Relax... Relax... How do I relax?
+
+Yukari1a:Don't overthink it. Just do the first thing that comes to mind.
+
+Koishi0a:Oh, you mean it's unconscious? I love not thinking!
+
+Koishi1a:Take this!
+
+<end>
+
+<ChatID:7>---------------------------------------
+//こいしスペル１撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Eirin2a:It's so hard to hit her. Is this the power of the unconscious?
+
+Ichirin1c:Moving without thinking... It's almost like she's achieved a state of complete absence of self.
+
+Koishi0b:I'm so happy that you girls can keep up with me!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Eirin1d:It's so hard to avoid her. Is this the power of the unconscious?
+
+Ichirin1d:Moving without thinking... It's almost like she's achieved a state of complete absence of self.
+
+Koishi0b:This is fun! It's like a thriller where I'm stalking you!
+
+</Cond>
+
+Mystia3c:You're really having fun?
+
+Koishi0a:It's been so long since I've properly played with anyone! Most people don't see me, and the kids who do notice me just forget me anyway.
+
+Wriggle0b:Wait, what...?
+
+Koishi0a:Even if we start playing together, they just forget about me after a little while.
+
+Koishi0b:But if I could read their minds, they wouldn't play with me at all, so it's not all bad.
+
+Kogasa2b:You said that so casually, but isn't your life too extreme?! In both directions!
+
+Hina1a:In exchange for not being hated, she can't be loved either. That's the price of closing her eye.
+
+Sanae3b:But... aren't you lonely? It almost sounds like you're living completely alone.
+
+Koishi0a:Uh-uh, I'm not lonely. Because there are people I love.
+
+Medicine2b:There are?
+
+Nitori2a:So you're happy as long as you love someone else?
+
+Koishi0b:Uh-huh. Because I'll always be happy like this.
+
+Koishi0b:I love Orin, I love Okuu, and...
+
+Lyrica0b:...Your sister too, right?
+
+Koishi5h:...Yeah. I love her.
+
+Satori0a:Koishi...
+
+Koishi5h:Satori's always so nice to me, and she knows everything about me...
+
+<pause>
+
+Udonge1b:This wavelength...
+
+Lunasa1b:An unvarnished sound... She's going to attack with her open, honest emotions.
+
+Koishi0a:I haven't changed. Even when I closed my eye, I'm still me!
+
+Koishi0b:And I still love everyone!
+
+<end>
+
+<ChatID:8>---------------------------------------
+//こいしスペル２撃破
+
+Parsee2a:Just... look at her! How can she just throw her love around like that? It's making ME embarrassed.
+
+Merlin3d:I kinda like it! This pressure she's putting on us!
+
+Orin0a:But that's a pretty big relief for me. At least Miss Koishi doesn't hate us.
+
+Utsuho0a:Yeah, I was a little worried about that...
+
+Koishi0a:Why were you worried?
+
+Nue0c:C'mon, spacecase. Just think about what you did.
+
+Nue1a:If you run away from home without telling them, of course they're gonna worry that you hate them.
+
+Koishi0a:I... I didn't run away from home.
+
+Koishi0a:I've wanted to go home this whole time. I've missed everybody a ton.
+
+Koishi2b:It's just... I don't know how to go home anymore.
+
+Eirin2a:As we thought, she's unaware of it. Not that this is surprising, if she's moving based on her unconscious.
+
+Koishi0a:What are you talking about?
+
+Minoriko0b:So there must be some reason she doesn't want to go home, and she just doesn't realize it.
+
+Flan2f:You had a fight with Satori, right? Is that still bothering you?
+
+Lyrica0a:Yeah, that makes sense. Are you afraid that she might hate you?
+
+Koishi5h:She can't hate me. I made it so no one can hate me. Didn't I...?
+
+Komachi3c:You don't sound so sure. Is that how you really feel?
+
+Koishi5e:Rgh...
+
+<pause>
+
+Lunasa0a:...Her overflowing sound is now growing quieter.
+
+Koishi5e:...I still love everyone. Nothing has changed.
+
+Koishi5e:So that means Satori still...
+
+<end>
+
+<ChatID:9>---------------------------------------
+//こいしスペル３撃破
+
+Koishi5e:...I'm getting tired.
+
+Suika0a:Looks like Koishi's calming down.
+
+Udonge4a:Are all her emotions going to be coming loose like this?
+
+Alice2c:But at least we figured out why she's been avoiding Satori.
+
+Eiki0b:Indeed. Until now, she's been able to stay happy because of her belief in her sister's unconditional love.
+
+Eiki4a:But after that incident, she felt rejected and lost that conviction.
+
+Minoriko4a:And because of that uncertainty, she's too afraid to go home or something?
+
+Koakuma4b:I could understand why, but still...
+
+Patchouli4a:The problem lies deeper than we imagined. The uncertainty in her heart is the cause of all this, but she's closed it off.
+
+Patchouli4c:As long as we can't break through her shell, her wounds may never heal.
+
+Satori3a:...!
+
+Orin5a:But then Lady Koishi would be...
+
+Utsuho1d:No! We can't give up!
+
+Satori5a:Okuu...
+
+Kanako1a:Well said, Utsuho. It wouldn't do for us to lose heart so easily.
+
+Marisa0a:Now that we understand Koishi, next it's our turn get her to understand US!
+
+Sho1a:If we keep talking to her, surely we'll get through to her!
+
+Koishi0a:What's this? Are you gonna show me something?
+
+Reimu0b:Sure are. We were just hyping ourselves up for our fight with you.
+
+Kogasa0c:Once you see my full-power danmaku surprise, your eyes will be stuck wide open!
+
+Koishi0a:Your full power, huh... That sounds fun!
+
+Koishi0a:Then I'm gonna give it everything too!
+
+<end>
+
+<ChatID:10>---------------------------------------
+//こいしスペル４撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Mystia3d:Whew, I sung my heart out.
+
+Elliy1a:We put everything into that. I think I got through to her with my true feelings!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Mystia3d:Whew, I ran my heart out.
+
+Elliy1a:We put everything into that. I think I escaped her with my true feelings!
+
+</Cond>
+
+Koishi0a:What, is it over already? I wanted to see even more.
+
+Nazrin3b:Even more...? Well, at least we've caught your interest.
+
+Meiling0a:But are you okay, Koishi? You're breathing pretty hard.
+
+Koishi0a:Oh, you're right! I didn't even notice!
+
+Ichirin0a:Now, if you don't mind, would you like to come with us to talk even more?
+
+Ichirin3c:We'll listen to your worries, and I'm sure we could help you get home too.
+
+Koishi0a:My worries...?
+
+Kisume0a:I think we have a better understanding of you after trading danmaku together.
+
+Yamame3a:Yeah. There are no secrets between us anymore.
+
+Koishi5e:...
+
+Koishi5h:Uh-uh. I'm not going. It was a lot of fun playing with you...
+
+Koishi5h:But I don't need to know other people. It's better when I don't know.
+
+Utsuho2c:But, Lady Koishi...
+
+Keine0b:We were hoping that if danmaku could move her feelings, that could help us reach her deep down, but so much for that.
+
+Reimu0f:It worked decently enough. I'm pretty sure we were just one push away...
+
+Minoriko4a:But Koishi, don't you want to go home?
+
+Lyrica0c:Yeah! Your sister's worried about you, so go show her you're fine.
+
+Koishi5e:But she...
+
+<pause>
+
+Orin1b:Ah, Lady Koishi!
+
+Sunny0d:Uh-oh, we don't know where she's gonna go!
+
+Nue2a:What do we do? If we lose her here, she's gonna wander off somewhere again!
+
+Flan2e:Leave it to me!
+
+<pause>
+
+<Code=(icon_set_direction,Flan,Koishi_en,0)>
+
+Koakuma5b:Lady Flan?! What are you doing?!
+
+Flan3d:Yah!
+
+<pause>
+
+Koishi2a:Eep! What?!
+
+Flan3i:Tee hee hee, surprised?
+
+Koishi2a:Geez, now I'm all wet. Even my hat and my socks.
+
+Kogasa3c:Of course! Distract her with a surprise! That was a feat of strength beyond anything I could do!
+
+Hatate2b:Don't just stand there admiring it. Although I guess we did stop her from getting away.
+
+Iku0c:It was a little forceful, but effective nonetheless. That should be enough for now, right?
+
+Akyu0a:We've bought some time to keep talking, at least. But we'll need to be careful about what we say next.
+
+Satori5b:(Koishi...)
+
+<end>
+
+<ChatID:11>---------------------------------------
+//ADVB
+
+<MAP=11,FROM=玄武の沢,TO=玄武の沢,name=Genbu Ravine,icon=4>
+
+<BG=*bg_talk_Mountain_Spring,fade=1,color=1,title=*bg_Genbu,bgm=bgm_talk_ningyo>
+
+Koishi2a:Geez, what happened? I'm dripping wet.
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+Minoriko3a:That's better. Now be a good girl and stay put.
+
+Sunny4a:At least no one was hurt in that explosion.
+
+Flan3b:Don't worry, I missed on purpose.
+
+Koishi0a:Hey! So you're the one who made that explosion? It really startled me.
+
+Koishi0a:I wanted to take a dip, but not like this...
+
+Flan0b:Well, sorry for dunking you. But you were the one running away.
+
+Koishi0a:Hmph! I wasn't running!
+
+Flan0f:Were too!
+
+Merlin3c:Now now, we can argue later. Let's get you dried off first.
+
+Orin0b:Yeah, you'll catch a cold if we leave you like that.
+
+Lyrica1a:Right. And inside the ship we've got fluffy towels and warm meals...
+
+Koishi0a:Ooh, fluffy...
+
+Lyrica3c:Sounds appealing, right? We can show you where they are.
+
+Star3d:We'll join you too!
+
+<SE=se_talk_walk_outdoor01.ogg,wait=1>
+
+<single>
+
+Reimu0g:Looks like we can leave Koishi to them for now.
+
+</single>
+
+Tewi3c:Nice one, Lyrica. You got her on the boat.
+
+Udonge0a:Now we just need to make sure she doesn't bump into Satori.
+
+Satori5a:...I'm sorry. I'm just relying on you all for everything.
+
+Satori5b:I couldn't even participate in that battle...
+
+Remilia1e:Eh, we just kinda did that on our own. Don't worry about it.
+
+Lunasa0b:Actually, I was afraid we'd just worry you. I mean, we did get pretty rough with her back there.
+
+Satori5a:No, there were no injuries, so I'm grateful for what you did.
+
+Satori5a:And if you hadn't restrained her like that, I might have lost her again.
+
+Marisa0a:Well, you're welcome. Just hearing that makes this all worth it.
+
+Yukari0a:Our goal of finding Koishi is now complete, if only formally.
+
+Yukari0a:As for what to do next, I'd like to hear your group's opinion, Satori.
+
+Shizuha2b:Me too. So what are you going to do now?
+
+Satori5a:What AM I going to do...?
+
+Akyu0a:Since we found Koishi, we'd be happy to give you a ride back to the Palace of Earth Spirits.
+
+Akyu3c:But that won't exactly wrap everything up neatly, will it...?
+
+Reimu2b:If we leave her like that, she's just going to run away again.
+
+Orin5a:Yeah. We know.
+
+Satori5b:...When the time is right, I want to apologize to her. And then clear up this misunderstanding.
+
+Shizuha4a:It doesn't seem like an apology will be enough to fix this, you know.
+
+Satori5a:Shizuha...
+
+Shizuha0b:Koishi's avoiding you because she's no longer sure about your feelings.
+
+Shizuha0a:Until now, she's been okay despite having her eye closed because she trusted that you'd always love her.
+
+Shizuha4a:But now that trust is broken, and she can't handle the uncertainty.
+
+Orin5a:...So this isn't just about clearing up the misunderstanding.
+
+Ran6c:No matter what you say to her, this will remain unsettled as long as you can't dispel all doubt from her heart.
+
+Satori5b:...
+
+Satori5b:If that's true, then what should I do?
+
+Orin5a:Lady Satori...
+
+Satori5b:I got a good idea of how she felt even from here on the ship.
+
+Satori5b:But Koishi closed her eye. I can't just show her my feelings anymore.
+
+Satori5b:What could I possibly say to reach her? I don't have the right to tell her anything...
+
+Eiki0a:Oh, but you do. Everyone's laid the groundwork for you to do just that.
+
+Eiki3b:Surely you're aware of the possibilities?
+
+Satori5a:I...
+
+Reimu0c:We figured out how to achieve an understanding with Koishi by trying it out against her ourselves.
+
+Sanae0a:We didn't quite get all the way there, but I'm certain we were on the right track.
+
+Satori5b:Could I possibly do this...?
+
+Remilia1e:This isn't about whether you can or can't. You have to try.
+
+Remilia0a:I told you not to take everything upon yourself. But THIS is the part that only you can do.
+
+Yugi3b:I can't guarantee it'll go smoothly, but we'll help however we can.
+
+Satori5b:...
+
+Satori5a:I understand. If that's the path you've left for me, then I'll have to try.
+
+Satori5b:...I'll have a danmaku battle with Koishi.
+
+<Code=(transition_out,c_black,60,1)>
+
+<end>
+
+<ChatID:12>---------------------------------------
+//敗北時
+
+Akyu2a:No! The Palanquin Ship!
+
+Sunny2a:I can't believe this is happening!
+
+Sunny0a:Wait, what were we doing again?
+
+Luna0a:Good question...
+
+Koishi0a:...I should've known I wouldn't remain in your minds.
+
+Koishi0a:But even so, let's play again sometime.
+
+Satori3a:Koishi, wait...!
+
+<end>
+
+<ChatID:13>---------------------------------------
+//スペル１発動中の戦闘後
+
+Akyu0a:This spellcard battle with Koishi is getting fierce!
+
+Satori5a:So this is Koishi's danmaku...
+
+Korin0a:You've never seen it before, Satori?
+
+Satori5a:No. Do you think her heart is on display somewhere in that danmaku?
+
+Akyu0a:If she's just following her heart, then yes, I'm sure of it.
+
+Akyu0a:But you may not be able to grasp it just by watching.
+
+Korin0a:"If you want to know something, try it yourself." That's what Marisa always tells me... Though I tend to refuse since that's not my thing.
+
+Satori5a:Yourself, hm...
+
+<end>
+
+<ChatID:14>---------------------------------------
+//兎と初戦闘
+
+Udonge0a:Hey, aren't those your minions, Tewi?
+
+Tewi0a:Perfect timing. I've got something I need you girls to do for me.
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Usagi0a:...
+
+</nomove>
+
+Utsuho0a:...Something's weird about them.
+
+Orin0a:Is it because of the vengeful spirits nearby? Maybe they've been affected.
+
+Komachi0a:Then all we have to do is slap 'em back to their senses. But not TOO hard.
+
+Mokou1a:Roast bird, huh? That's my specialty.
+
+<end>
+
+<ChatID:15>---------------------------------------
+//こいしvs.霊夢
+
+Reimu0c:A satori who can't read minds is just a little sister youkai. You're not as scary as your sister was.
+
+Koishi2b:Really? But... you're human. Did you actually beat her?
+
+Reimu4c:It was a pain getting our minds read, but we got through by force. Emphasis on the force.
+
+Koishi6c:Wow, cool! Then this'll be fun!
+
+Koishi1a:I lurk in the unconscious. My danmaku has never been seen by anyone, even my sister. Can you dodge it? I really wanna know!
+
+<end>
+
+<ChatID:16>---------------------------------------
+//こいしvs.魔理沙
+
+Marisa0a:Haven't seen you since we last met in the Underworld. You really saved my skin back then.
+
+Koishi0a:Uh-huh. I think you let me ride on your broom?
+
+Marisa0a:If you liked that, then you'll LOVE what I've got for you this time.
+
+Marisa1a:A danmaku show in the skies of Gensokyo! Not only that, we're allowing audience participation!
+
+Koishi1a:That does sound like fun!
+
+Marisa7d:Atta girl. You won't have time to look away, so keep your eyes on the show!
+
+<end>
+
+<ChatID:17>---------------------------------------
+//こいしvs.早苗さん
+
+Sanae0a:I'm so glad we found you, Koishi.
+
+Sanae0a:We've been working with Satori and the rest of your family to find you.
+
+Koishi3b:You have? But Satori's bad at that kinda stuff.
+
+Sanae0g:Maybe she is, but I think she's trying to open her heart more.
+
+Koishi4a:But she still...
+
+<end>
+
+<ChatID:18>---------------------------------------
+//こいしvs.アリス
+
+Alice0a:I'm glad we found you, Koishi.
+
+Koishi0a:You're the creepy witch from the mansion with all the dolls, right?
+
+Alice0b:...I never thought I'd be called creepy by an Underworld youkai.
+
+Alice0a:But anyway, you want to go home, right? Then we can help you.
+
+Koishi3b:Uh-uh. Sis told me not to trust youkai from the surface.
+
+Alice2c:But your sister is right here with us.
+
+Koishi3a:I...
+
+Alice0a:I know we won't get through to you right away. But that's why you need to stay with us, so we can keep talking.
+
+<end>
+
+<ChatID:19>---------------------------------------
+//こいしvs.妖夢
+
+Youmu1b:We finally managed to find you, so I'd better be sure not to lose sight of you again...
+
+Youmu1a:Even with your power over the unconscious, I should be able to see you with my mind's eye!
+
+Koishi2b:Your mind's eye?
+
+Youmu2b:Yes! ...Wait, what? I can't see anything!
+
+Koishi0a:Of course you can't. I'm not in anyone's minds!
+
+<end>
+
+<ChatID:20>---------------------------------------
+//こいしvs.咲夜さん
+
+Sakuya5a:You can no longer get home? In theory you could stay there if someone tied you down there physically, but...
+
+Koishi1a:Sure, I'd be okay with that.
+
+Sakuya3b:Er...
+
+Koishi0a:Maybe if I stay home long enough, I'll remember the way there. You can imprison me or whatever, sure.
+
+Sakuya5c:...I can tell that you're serious, but locking you up is not the answer. We know that from experience.
+
+<end>
+
+<ChatID:21>---------------------------------------
+//こいしvs.ルーミア
+
+Rumia0a:*stare*
+
+Koishi6c:Aaah.
+
+Rumia0a:You're copying me, right?
+
+Koishi0a:Uh-uh. I was going for a kind of "wa-hah!" thing there.
+
+Rumia6a:I don't say that!
+
+Koishi6d:I don't say that!
+
+<end>
+
+<ChatID:22>---------------------------------------
+//こいしvs.チルノ
+
+Cirno0a:So what's this Un-Con-Shiss thing anyway? It means we can't find you?
+
+Koishi0a:Uh-huh. Something like that.
+
+Cirno0a:So you're good at hide-and-seek. Are you even better than Sunny's group?
+
+Koishi0a:Mhmm. So good that everyone always leaves before they find me.
+
+Cirno4c:That's the worst to play against...
+
+<end>
+
+<ChatID:23>---------------------------------------
+//こいしvs.大妖精
+
+Daiyosei0a:So you want to go home but you can't... What does that feel like? Sad? Lonely?
+
+Koishi0a:I'm not too sure, myself.
+
+Daiyosei4d:What do you mean by that?
+
+Koishi5a:Dunno that, either. But... I don't think I wanna be like this forever.
+
+Daiyosei3b:Koishi...
+
+<end>
+
+<ChatID:24>---------------------------------------
+//こいしvs.美鈴
+
+Meiling0d:We've come to get you, Koishi. Let's go back together. Satori's waiting for you.
+
+Koishi0a:Heh heh, that was a verbal full-body straight.
+
+Meiling0c:Was there something strange about what I said?
+
+Koishi0b:Uh-uh. It's just... I'm a little jealous you can talk like that.
+
+Meiling0b:Really? Maybe it's started coming naturally after so much time dealing with Lady Flan...
+
+Meiling0d:Anyway, while I'm being straight with you, I'll bring you back physically!
+
+<end>
+
+<ChatID:25>---------------------------------------
+//こいしvs.パチュリー
+
+Patchouli0c:Let's see... What's the most effective way to persuade a runaway girl...
+
+Koishi0a:Ooh, what's that book you're reading?
+
+Patchouli0c:Are you interested in books?
+
+Koishi0a:My sister just LOVES 'em! She constantly shuts herself away in her room to read.
+
+Koishi0b:It's so fun to watch her sitting there, grinning to herself.
+
+Patchouli0b:So she like reading too? She did always strike me as the indoor type.
+
+Patchouli0b:If she can keep quiet, I suppose she wouldn't bother me if she came to my library.
+
+<end>
+
+<ChatID:26>---------------------------------------
+//こいしvs.レミリア
+
+Remilia0b:So you're Satori's little sister? I can see the family resemblance.
+
+Remilia5b:The anguish she feels over her little sister isn't entirely lost on me.
+
+Koishi2b:Anguish? Am I making Satori feel bad?
+
+Remilia0c:I never said that. Being a big sister can be, well... complicated.
+
+Koishi3b:...I don't really get it.
+
+Koishi1a:But my sister always knows everything about me.
+
+Remilia0c:That's a weird point of confidence. Well, we can work that out later.
+
+<end>
+
+<ChatID:27>---------------------------------------
+//こいしvs.フラン
+
+Flan0b:So you're Koishi. Hmm.
+
+Koishi0a:So you're Whatshi. Hmm.
+
+Flan0f:Hey, don't copy me! I'm worried about you, you know.
+
+Flan0b:You had a fight with your sister, right? We can help you make up with her if you like.
+
+Koishi3b:Eh, we didn't really fight or anything.
+
+Koishi3a:I just... forgot how to get home.
+
+Flan2c:From our perspective, that's what we call having a fight.
+
+<end>
+
+<ChatID:28>---------------------------------------
+//こいしvs.レティ
+
+Letty0d:Frankly, I'm shocked. I could've sworn that lost umbrella was making it all up.
+
+Koishi2b:Lost umbrella...?
+
+Letty0a:Oh, don't mind me. Just talking to myself. But now that we've found you, we have to catch you, somehow.
+
+Letty1a:I wonder if I could catch your interest with an unseasonal cold wave?
+
+<end>
+
+<ChatID:29>---------------------------------------
+//こいしvs.橙
+
+Koishi0a:...
+
+Chen2b:Wh... What?
+
+Koishi1a:You have cute tails.
+
+Chen3c:Really? I still only have two, so I gotta work even hard to have more...
+
+Koishi6c:I can help with that. Should I give you four or eight?
+
+Chen2b:Wait, what are you gonna do?!
+
+<end>
+
+<ChatID:30>---------------------------------------
+//こいしvs.ルナサ
+
+Lunasa0a:Your sound is...
+
+Koishi0a:My sound is?
+
+Lunasa0a:...Difficult. Whenever I try to grasp it, it fades away.
+
+Koishi0a:Like it's empty?
+
+Lunasa0a:...No, I don't think so. It's uncertain and unstable, but I can hear it.
+
+<end>
+
+<ChatID:31>---------------------------------------
+//こいしvs.メルラン
+
+Merlin0a:Merlin's happiness check!
+
+Merlin1c:Your happiness is... 2!
+
+Koishi2b:Is that high or low?
+
+Merlin1c:It's out of 100!
+
+Koishi2b:That's strange. I think I'm feeling pretty good.
+
+Merlin0a:My scouter is never wrong. I'll help you get that number up!
+
+<end>
+
+<ChatID:32>---------------------------------------
+//こいしvs.リリカ
+
+Lyrica0a:So you're Koishi? Nice to meet you.
+
+Lyrica0c:I'm Lyrica Prismriver. We're both little sisters, so maybe we can be friends?
+
+Koishi1a:Sure!
+
+Lyrica1b:That was way too fast!
+
+Koishi0a:But other than being fellow little sisters, I don't know anything about you.
+
+Lyrica0c:We can work on that part. That's what it means to be friends.
+
+<end>
+
+<ChatID:33>---------------------------------------
+//こいしvs.ゆゆ様
+
+Koishi0a:So you're a ghost? Wow, it's so weird to see just a plain, boring ghost!
+
+Koishi0a:I saw plenty of vengeful spirits though, back when I could read minds.
+
+Yuyuko0a:Oh right, you two were given that duty when you went to the Underworld.
+
+Koishi6c:Yup. They acted nice, but they were all really bad people. They deserved to be in Hell.
+
+Koishi0a:Actually, maybe it's not just vengeful spirits... Maybe everyone's like that?
+
+Yuyuko1b:Who can say? But just as there are all sort of ghosts, there are all sort of people among the living, aren't there?
+
+Yuyuko1a:Just look how varied our danmaku is.
+
+<end>
+
+<ChatID:34>---------------------------------------
+//こいしvs.紫
+
+Koishi2b:...I think I've seen you before.
+
+Yukari0a:Most likely. I've visited the Palace of Earth Spirits countless times.
+
+Yukari0c:You may have even caught a glimpse of me back when you still remained on the surface.
+
+Koishi0a:I already forgot everything about back then.
+
+Yukari0a:Oh really? Well, I remember. I remember when I went to propose that you two sisters become the managers of the Palace.
+
+Yukari0a:I must've come across as quite suspicious. I remember the way Satori stood in front of you protectively.
+
+Koishi3b:...
+
+<end>
+
+<ChatID:35>---------------------------------------
+//こいしvs.藍
+
+Ran0b:A youkai of the unconscious, huh? If calculations won't work, then perhaps relying on reaction speed would be more effective...
+
+Koishi2b:...Floof?
+
+Ran6b:What...?
+
+Koishi6c:Aw... I just wanna bury myself in all that floof! Maybe I can get Satori to buy some fur like that for me?
+
+Ran0c:...What are you talking about? So it's not just calculation that's ineffective, but logic itself?
+
+<end>
+
+<ChatID:36>---------------------------------------
+//こいしvs.秋姉妹
+
+Shizuha2b:Okay, we tried talking, now what? Do you have a plan for bringing her back, Minoriko?
+
+Minoriko1a:Of course I do! With the sweet scent of roasted sweet potatoes!
+
+Shizuha1a:Then me too! With beautiful orange leaves!
+
+Koishi4a:...I'm getting a little hungry.
+
+Minoriko2b:What a subdued reaction. And I was so confident too...
+
+Shizuha4a:I guess we'll have to actually take things seriously this time.
+
+Minoriko2c:What are you talking about? We're always serious! Is it time for us to pitch in as fellow sisters?!
+
+<end>
+
+<ChatID:37>---------------------------------------
+//こいしvs.穣子（没）
+
+<end>
+
+<ChatID:38>---------------------------------------
+//こいしvs.静葉（没）
+
+<end>
+
+<ChatID:39>---------------------------------------
+//こいしvs.雛
+
+Hina0b:There used to be satori youkai on the mountain, back in the old days...
+
+Koishi0a:Are you one of those mountain people?
+
+Hina4a:I was hoping I could take on some of the misfortune of being hated, even a little. But it wasn't enough...
+
+Koishi5a:Not your fault. It'll never go away, no matter where I go, or how much time passes.
+
+Koishi0b:But if I can't read minds, I don't have to ever know it.
+
+Hina4b:I can't see that as true happiness...
+
+<end>
+
+<ChatID:40>---------------------------------------
+//こいしvs.にとり
+
+Koishi1a:That backpack... Hey, you're carrying a lot of toys, huh?
+
+Nitori2a:No, these aren't toys! They're weapons, so watch out!
+
+Nitori1a:But if you come with us, I could let you touch them.
+
+Koishi0a:That won't work on me! I know not to follow strangers with candy!
+
+Koishi1a:Oh! That UFO from before was yours too, huh? You're gonna kidnap and remodel me!
+
+Nitori2a:No! We're not going to kidnap you! I mean, not that remodeling doesn't sound cool as heck...
+
+Nitori1b:Anyway, I have to lure you in with my inventions!
+
+<end>
+
+<ChatID:41>---------------------------------------
+//こいしvs.文
+
+Aya0d:The youkai that lurks in the subconscious! Not even Hatate's thoughtography could take a picture of this.
+
+Koishi1a:What a cool toy! Can I touch it?
+
+Aya0c:Sorry, but this is the tool of my trade. But I could take a commemorative photo for...
+
+Aya5b:Wait, what was I taking a picture of again?
+
+<end>
+
+<ChatID:42>---------------------------------------
+//こいしvs.椛
+
+Momiji7a:I knew those footprints had to be yours.
+
+Koishi2b:Footprints?
+
+Momiji7b:I heard from Satori that you'd be wearing nice shoes about the same size as hers.
+
+Koishi0a:Uh-huh. She bought them for me. And now they're all muddy...
+
+Koishi1a:Oh, right! I have to wash them or she'll tell me I'm dirty. There a river right here, so...
+
+Momiji1a:Wait! We're in the middle of a danmaku battle!
+
+Momiji0a:Nothing about this is stable. At a glance, it doesn't seem like her attitude towards her sister has changed, but...
+
+<end>
+
+<ChatID:43>---------------------------------------
+//こいしvs.はたて
+
+Hatate1a:The youkai that lurks in the subconscious! I bet Aya's camera wouldn't be able to capture you.
+
+Koishi2b:Camera? Oh, right. Sis mentioned those were a thing on the surface.
+
+Hatate5b:They sure are. All I have to do is focus on you, and...
+
+Hatate6a:Wait, what was I taking a picture of again?
+
+<end>
+
+<ChatID:44>---------------------------------------
+//こいしvs.神奈子
+
+Kanako0c:I hear you were interested in how Utsuho obtained the power of a god.
+
+Kanako0c:Well, it was me. I bestowed it on her.
+
+Koishi1a:Wow! Really?
+
+Kanako0c:She was worried about you and Satori. So much so, she was willing to offer up her body, just to be even a little useful.
+
+Koishi2b:Why would she do that...?
+
+Kanako3a:...You should ask her that yourself.
+
+<end>
+
+<ChatID:45>---------------------------------------
+//こいしvs.諏訪子
+
+Suwako0d:I guess you're at that sensitive age where lots of things can set you off.
+
+Suwako4b:But I don't think Satori's very used to dealing with that.
+
+Koishi3b:Who are you? Do you know Sis?
+
+Suwako3b:We've met. It happened after you left.
+
+Koishi2b:Wow. She stays at home so much, but she's actually meeting people...
+
+Suwako0a:You'd be surprised at all the things that can happen when you're out for a bit. Catching up on that stuff is half the fun.
+
+<end>
+
+<ChatID:46>---------------------------------------
+//こいしvs.ヤマメ
+
+Yamame0c:Well, this is surreal. Here we are, both up on the surface, fighting each other.
+
+Koishi2b:Is that strange?
+
+Yamame0b:I used to think that you wandering around up here was a real nuisance, for all of us. But here I am anyway...
+
+Yamame0e:I'm sure something brought us together like this. So I'm gonna stick my nose into this family affair.
+
+<end>
+
+<ChatID:47>---------------------------------------
+//こいしvs.キスメ
+
+Kisume4a:We both live in the Underworld, but we've never really talked, huh?
+
+Koishi0a:I've seen you, though.
+
+Kisume2b:Wait, you have?
+
+Koishi6c:I saw you come out of an old well and throw human bones. You're surprisingly bold.
+
+Kisume2b:Um, I think you might have the wrong person!
+
+<end>
+
+<ChatID:48>---------------------------------------
+//こいしvs.勇儀
+
+Yugi3a:Yo! Koishi! This is our first time meeting on the surface, huh?
+
+Koishi2b:You've come to visit our house a few times...
+
+Koishi0a:So the Underworld oni come to play up here too now?
+
+Yugi0a:Not all of 'em. This time's special. We're lendin' Satori a hand.
+
+Koishi0a:My sister would never ask others for help.
+
+Yugi1a:Have I ever lied to you?
+
+Koishi4a:I...
+
+Yugi1a:If it's still buggin' you, then just ask her yourself already. Just some advice from an oni.
+
+<end>
+
+<ChatID:49>---------------------------------------
+//こいしvs.パルスィ
+
+Parsee0a:I was holding back in front of Satori, but man am I jealous of you!
+
+Koishi2b:You're jealous? Of me?
+
+Parsee3a:Who else is there? You've got it so nice. Everything's handed to you on a silver platter...
+
+Koishi4a:It's not that nice. We even came to the Underworld because everything was always so awful...
+
+Parsee2a:That's the mindset of someone who's got it made! She treats you so well that you only notice the bad parts!
+
+Parsee2a:Makes me wanna pry open that third eye so I can show you how someone with nothing REALLY thinks!
+
+Koishi3a:...
+
+<end>
+
+<ChatID:50>---------------------------------------
+//こいしvs.お燐
+
+Orin0b:Lady Koishi!
+
+Koishi0a:So you're with the surface people too, Orin.
+
+Orin0b:Yeah. They were helping us look for you.
+
+Orin0c:Have you been up here the whole time?
+
+Koishi6a:Uh-huh. Looks like you're all doing alright. That's good.
+
+Orin5a:But... No, we're not alright. We won't be until you come home, Koishi.
+
+Orin0d:Haven't we always had snack time together, ever since we learned to transform into human form?
+
+Koishi5f:Mm...
+
+Orin0b:Whoops, looks like I got carried away chatting. I've got to show you my best danmaku too! I hope you like it!
+
+<end>
+
+<ChatID:51>---------------------------------------
+//こいしvs.空
+
+Utsuho0e:Lady Koishi!
+
+Koishi3c:Okuu...
+
+Utsuho0b:We finally found you! Miss Satori's waiting for you, so let's all go home!
+
+Utsuho3d:Plus, didn't you say you wanted to see the power of Yatagarasu? Now we can play together.
+
+Koishi5e:But...
+
+Utsuho0d:Um, you're not cheering up...
+
+Koishi5e:I don't really get why you wanted all that power to start with.
+
+Koishi5e:So I'm not sure about this...
+
+Utsuho2c:Lady Koishi...
+
+<end>
+
+<ChatID:52>---------------------------------------
+//こいしvs.ナズーリン
+
+Nazrin6a:Finding you is one thing, but now comes the hard part.
+
+Koishi0a:A rat's trying to catch me? isn't it usually the other way around?
+
+Nazrin1b:Sorry, but if you look down on rats...
+
+Koishi6c:I know. You'll die, right? Cuz they're icky and carry germs, right?
+
+Nazrin4b:...That bugs me a little too, but at least you're not looking down on us.
+
+Nazrin4a:I can't do it as well as Nue, but I'll try using my rat minions to keep you from disappearing.
+
+<end>
+
+<ChatID:53>---------------------------------------
+//こいしvs.星
+
+Sho3b:We've finally found you, Koishi!
+
+Sho3b:Satori, Orin, and Utsuho have been searching for you for ages!
+
+Koishi3a:Satori's been looking for me...?
+
+Koishi4a:And I'm still not going home. I feel like a bad girl.
+
+Sho0c:No, we all understand your circumstances very well. So don't feel bad!
+
+Sho1a:I'm sure this danmaku battle will help!
+
+<end>
+
+<ChatID:54>---------------------------------------
+//こいしvs.一輪
+
+Koishi0a:...
+
+Unzan0a:...
+
+Ichirin2a:What are you two doing?
+
+Koishi1a:Shh. Staring contest.
+
+Koishi6c:You aren't laughing, but you still looked away, Nyudo. Are you shy?
+
+Unzan0a:...!
+
+Koishi1a:C'mon, look this way.
+
+Unzan0a:...!
+
+Ichirin5a:...I can't believe she's cornering Unzan like that. I can't make light of her.
+
+<end>
+
+<ChatID:55>---------------------------------------
+//こいしvs.村紗
+
+Koishi0a:I know you. You've been in the Underworld before, right?
+
+Murasa0d:Huh? Well, for about a thousand years I guess.
+
+Koishi1a:I knew it! You're the one who was drowning people in Bloodpool Hell!
+
+Koishi6c:You made a whole habit out of it and kept sneaking there on the down-low, right?
+
+Murasa4b:Uhh...
+
+Koishi0a:Hey, so what does it feel like to drown? Does it hurt? Is it nice?
+
+Murasa4b:Don't ask me! That's not who I am anymore!
+
+<end>
+
+<ChatID:56>---------------------------------------
+//こいしvs.ぬえ
+
+Nue5b:So she's the one they made me fish out with my familiars?
+
+Nue1a:Well, whatever. It worked out, and I got props for it either way.
+
+Koishi0a:Familiars...? Wait, so you're the boss of those flying saucer things?
+
+Koishi1a:Then you're an alien!
+
+Nue2a:What.
+
+Koishi1a:What were you supposed to do for first contact again? Shake hands or something?
+
+Nue1c:What are you talking about? Does this girl have a screw loose, or...
+
+Koishi6c:C'mon, tell me!
+
+Nue2a:What's wrong with you?! Way to weird me out...
+
+<end>
+
+<ChatID:57>---------------------------------------
+//こいしvs.三妖精
+
+Luna0a:If no one can sense you, you don't even need to hide, huh?
+
+Star0b:We might have to give up the "Ultimate Hide and Seek Weapon" title.
+
+Sunny3a:Our tricks didn't work on Reisen either. We just keep on losing, huh?
+
+Koishi2b:What's this? Are you gonna play hide-and-seek with me?
+
+Sunny1c:No no no, we'd just lose. Can we play something else please?
+
+Luna0a:Something we're good at... Maybe blending in with the fairy maids?
+
+Koishi0a:Ooh, maids? Sis says labor is something I should leave to other people.
+
+Star0c:Goodness, you've got a pampered rich girl side to you...
+
+<end>
+
+<ChatID:58>---------------------------------------
+//こいしvs.萃香
+
+Suika3b:'Sup, Koishi.
+
+Koishi1a:'Sup.
+
+Suika1a:Playing along, I like it! We haven't seen each other in a while, so it's nice to see you're doing good.
+
+Koishi0a:Yeah, I haven't seen you in the Underworld. Are you not friends with the other oni anymore?
+
+Suika3a:Friendship's got nothing to do with it. I just like the surface. How 'bout you, Koishi?
+
+Koishi2b:Dunno. I just end up here without realizing it.
+
+Suika1a:So that's how it is, huh? It's like tryin' to pound a nail with a leaf, just like always.
+
+Suika3a:Maybe showering in sake and danmaku will help you out!
+
+<end>
+
+<ChatID:59>---------------------------------------
+//こいしvs.小町
+
+Komachi3a:Hey, slow down!
+
+Koishi2b:What's up?
+
+Komachi1a:I'm the Sanzu ferryman. I add up the virtues of the dead and collect the toll from them.
+
+Koishi1a:Like two, four, six, eight...?
+
+Komachi3c:Yeah, sure, close enough. It's gonna affect your final assessment if you run away from home and stress your family out.
+
+Komachi1c:I'm gonna give you an estimate. Hopefully it'll help you take a good look at yourself.
+
+<end>
+
+<ChatID:60>---------------------------------------
+//こいしvs.映姫
+
+Eiki0b:I doubt you remember me, Koishi Komeiji.
+
+Koishi2b:Hmm. I kinda do, but I kinda don't...
+
+Eiki0b:That's alright. But I do know you, and your past is reflected in this Cleansed Crystal Mirror.
+
+Eiki0b:You rejected your ability to read minds and sealed it away. Since then, you've been unable to know others, and have lived entirely within your own world.
+
+Eiki0c:Indeed, your heart is another that's a bit too closed.
+
+Koishi4a:Well... It's already closed. There's no opening it again.
+
+Koishi2b:What'd you mean by "another", though?
+
+Eiki1a:The details differ, but I said the same thing to Satori Komeiji. This is a problem both of you need to address.
+
+Koishi2b:But Satori's third eye is still open. Why would she...?
+
+Eiki1b:You should ask her that yourself. First, accept my danmaku judgement and reexamine your heart!
+
+<end>
+
+<ChatID:61>---------------------------------------
+//こいしvs.小傘
+
+Kogasa0a:So she really was in the northern woods. I need to thank those kids.
+
+Koishi0a:What kids?
+
+Kogasa3d:You played with some kids in town, right? They told me about you.
+
+Koishi6c:Oh yeah, that was really fun! Everyone played with me!
+
+Koishi5a:But in just a little while they won't be able to see me anymore...
+
+<end>
+
+<ChatID:62>---------------------------------------
+//こいしvs.リリー
+
+Koishi1a:Oh, it's the spring fairy! Is it spring?
+
+LilyW3d:Huh? Um... It's not spring yet.
+
+Koishi2b:It's not spring?
+
+LilyW3c:It's not spring!
+
+Koishi4a:Oh, it's not...
+
+LilyW1b:Oh no, was that a big letdown? Don't worry, I'll show you spring with my danmaku!
+
+<end>
+
+<ChatID:63>---------------------------------------
+//こいしvs.リグル
+
+Koishi0a:...
+
+Wriggle0c:Wah! What?! Don't tell me you're going to unconsciously do horrible things to a bug?
+
+Koishi1a:Uh-uh. I'm trying to float like a butterfly.
+
+Wriggle3d:Oh, whew, you're nicer than I expected. That's a relief.
+
+Koishi6c:And sting like a bee!
+
+<end>
+
+<ChatID:64>---------------------------------------
+//こいしvs.ミスティア
+
+Mystia1b:Horse, horse, tiger... ♪ Horse horse...
+
+Koishi2b:Tiger?
+
+Mystia3d:Yes! It's a song about philosophy!
+
+<end>
+
+<ChatID:65>---------------------------------------
+//こいしvs.てゐ
+
+Tewi3c:Hey there, great timing. So about that saucer you were looking at earlier. I'm willing to let it go for 10% off if you act now—
+
+Koishi0a:Liar.
+
+Tewi2b:What? I hadn't even finished yet!
+
+Koishi1a:...Huh, you're right. Weird. But I just kinda knew you were lying.
+
+Tewi4b:A youkai lie detector? You're just as scary as Satori, in a different way...
+
+Koishi0a:True. It'd be better if I didn't know, or I'm gonna get hated again...
+
+<end>
+
+<ChatID:66>---------------------------------------
+//こいしvs.鈴仙
+
+Udonge4a:I don't know about this power over the unconscious, but you're a youkai with an unstable wavelength.
+
+Koishi2b:What do you mean, wavelength?
+
+Udonge4b:To put it simply, emotions. Short means a quick temper, while long means carefree.
+
+Udonge3b:But in your case, I'm having a hard time getting a grasp on yours.
+
+Koishi0a:That makes sense. I've never had proper emotions.
+
+Udonge3a:You're not making any sense to me...
+
+<end>
+
+<ChatID:67>---------------------------------------
+//こいしvs.慧音
+
+Keine1a:Koishi! You should go home. Your sister is very worried about you.
+
+Koishi3a:...Yeah. I want to go home too.
+
+Keine0a:Then let's work together and figure out why you can't. I'm a teacher. I can help with these things.
+
+Koishi5a:I don't know why, though. I just don't know how to go home anymore.
+
+<end>
+
+<ChatID:68>---------------------------------------
+//こいしvs.妹紅
+
+Mokou0d:Come at me however you like. I won't die no matter what you throw at me.
+
+Koishi1a:You won't die...? So you're immortal? I've never seen a creature like that before!
+
+Koishi1a:But even if you say that, I bet you'll die anyway.
+
+Mokou0b:What?
+
+Koishi5a:Good people, bad people... Everyone goes to sleep sooner or later.
+
+Mokou0b:You may not look too sharp, but you make some clever observations. Still, it's not that cut-and-dry when someone like me lives on.
+
+<end>
+
+<ChatID:69>---------------------------------------
+//こいしvs.輝夜
+
+Kaguya0a:Leaving home out of curiosity would be one thing, but not being able to get home must be terribly inconvenient.
+
+Kaguya0a:Although you appear to have managed quite well on your own, despite your affluent upbringing.
+
+Koishi0a:It's 'cuz no one can see me. It's not like I can't sneak into people's beds, or bathe myself.
+
+Koishi5a:But I do kinda miss my own fluffy bed...
+
+Kaguya0a:Is there a reason you don't act on that feeling?
+
+Koishi3a:I dunno...
+
+<end>
+
+<ChatID:70>---------------------------------------
+//こいしvs.永琳
+
+Eirin0d:The power to control the unconscious, is it? That's quite peculiar... and dangerous.
+
+Eirin0d:If she submerged herself or others into the unconscious, then even the slightest mistake could...
+
+Koishi1a:Ooh, what are you talking about? Something neat?
+
+Eirin0e:To me, yes. Not that I'll be doing any experiments.
+
+Eirin0a:Let's find a solution for this before incurring any risks.
+
+<end>
+
+<ChatID:71>---------------------------------------
+//こいしvs.エリー
+
+Elliy1a:Stop right there, homeless child!
+
+Koishi3b:...
+
+Elliy2a:No reaction?! Oh no! I was so sure I'd have just as much impact as the flying saucers...
+
+Koishi3a:...I'm not homeless.
+
+Elliy4a:...Yes, of course. I got a little carried away.
+
+Elliy1a:But if you've got a home, then we'll keep you company until you can get back! Even if we have to take you there ourselves!
+
+<end>
+
+<ChatID:72>---------------------------------------
+//こいしvs.くるみ
+
+Kurumi3d:Hey! Koishi! I brought taiyaki for you!
+
+Koishi1a:Wow, looks yummy! Have I ever eaten this before?
+
+Koishi0a:Then again... It's kinda icky eating things that fell on the ground.
+
+Kurumi1c:What?! It is not!
+
+Koishi5a:Sis always says that bad manners mean a bad upbringing. But it's the thought that counts.
+
+Kurumi2a:Waaah! I just didn't wanna waste any!
+
+<end>
+
+<ChatID:73>---------------------------------------
+//こいしvs.天子
+
+Tenshi4a:The feeling of not wanting to go home isn't lost on me...
+
+Tenshi0e:Wait, but in your case, it's not because you're choosing to leave, right?
+
+Koishi5a:Yeah. I wanna go home.
+
+Tenshi0d:Okay, now I don't get it at all. This only makes sense if I don't take your words at face value.
+
+Tenshi0d:Like, you actually don't want to go. Or you're just depressed.
+
+Koishi5a:...
+
+<end>
+
+<ChatID:74>---------------------------------------
+//こいしvs.衣玖
+
+Iku0b:They may both be disobedient children, but the way to handle them is a little different.
+
+Iku0e:In this case, I suppose it's more like handling a lost child.
+
+Koishi2b:What's up?
+
+Iku5a:Oh, just talking to myself. Um... Is there anyone from your family nearby?
+
+Koishi0a:...My big sister's over there, isn't she?
+
+Iku4c:Oh... Right. Silly me. I'm not used to doing this sort of thing.
+
+<end>
+
+<ChatID:75>---------------------------------------
+//こいしvs.聖輦船
+
+Koishi2b:Sis is in this ship...
+
+Korin0a:Looks like her attention's drawn this way. Should we have Satori hide, just in case?
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Kosuzu3b:I think it'll be fine. She's still quite a ways from the bridge.
+
+Kosuzu3b:Besides, I think Satori wants to see Koishi's danmaku for herself.
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Kosuzu3b:I think it'll be fine. She's still quite a ways from the bridge.
+
+Akyu6c:Besides, I think Satori wants to see Koishi's danmaku for herself.
+
+</Cond>
+
+Satori0a:Yes, as close as I can manage...
+
+<end>
+
+<ChatID:76>---------------------------------------
+//こいしvs.小悪魔
+
+Koakuma0a:You haven't been home ever since your falling out, right?
+
+Koakuma4b:I'm sorry if this is rude, but have you even taken a bath...?
+
+Koishi0a:I bathed in the river. I hate getting all icky.
+
+Koakuma3d:Ah, of course! Since no one notices you, you don't have to be shy about it!
+
+Koakuma4a:...But I'm sure Satori must have mixed feelings about that.
+
+<end>
+
+<ChatID:77>---------------------------------------
+//こいしvs.メディ
+
+Koishi1a:Ooh, neat. That's suzuran poison, right?
+
+Medicine0d:Wow, you actually appreciate Sue's value?
+
+Koishi1a:Sure do! First it soaks in, then you slowly lose strength, and before you know it you can't move anymore, right?
+
+Koishi6c:Becoming one with the flowers sounds wonderful...
+
+Medicine0d:...You're the first person who's ever said anything like that, but if you're letting your guard down, then great.
+
+Medicine0e:I'll immobilize you with Sue's poison and keep you stalled.
+
+<end>
+
+<ChatID:78>---------------------------------------
+//こいしvs.メーコ
+
+Meko4c:Um... So I have to catch her interest...
+
+Koishi2b:Wow, that sheep has such nice wool!
+
+Meko0b:Huh? You think?
+
+Koishi1a:Yeah! I should knit Sis a sweater.
+
+Koishi5b:This'll be nice and quick, so just sit nice and still, okay?
+
+Meko1b:Got it. If this is what it takes to keep you here...
+
+Meko0b:Wait, what? What'll be nice and quick?!
+
+<end>
+
+<ChatID:79>---------------------------------------
+//こいしvs.まくら
+
+Makura0g:So since earlier, you've been unconsciously avoiding...
+
+Koishi3b:Avoiding what?
+
+Makura0h:Never mind. I was just wondering if it's scary to not be able to control your own actions.
+
+Koishi5a:Scary, huh? Not really, I think?
+
+Koishi1a:No matter what happens, my sister will know me.
+
+Makura2b:You're saying that as long as someone else understands you, it's not frightening not to know yourself?
+
+Koishi6a:Uh-huh. Cuz I have my sister.
+
+Makura0g:(So that's how it is? She seems extremely uneasy to me though.)
+
+Makura1c:(...Koishi Komeiji. Is she really not frightened by herself?)
+
+<end>
+
+<ChatID:80>---------------------------------------
+//こいしvs.こいし
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Koishi1a:Hellooo!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Koishi3b:Oh, it's me.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Koishi6c:Yup, I'm Koishi! I'm right behind you.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Koishi1a:Wow, that looks fun! I'm right behind you too!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Koishi5b:Tee hee, then I'm behind you behind me!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Koishi6d:And I'm behind you behind me behind you!
+
+</nomove>
+
+<end>
+
+<ChatID:81>---------------------------------------
+//こいしvs.神綺
+
+Shinki5a:I need to somehow attract Koishi...
+
+Shinki0a:What kinds of games do you like to play?
+
+Koishi3b:Murder and pillage?
+
+Shinki0d:Right, right...
+
+Shinki2a:Wait, no! How can you say that?!
+
+Koishi5b:Then how about a love-stricken massacre?
+
+Shinki1c:Not that either! Stop surprising me with all these disturbed ideas!
+
+Koishi4a:Huh? Then what else...?
+
+<end>
+
+<ChatID:82>---------------------------------------
+//こいしvs.夢子
+
+Yumeko0a:...
+
+Koishi2b:You're going to try to pin my arm, aren't you?
+
+Yumeko5b:What? How did you...?
+
+Koishi3c:I dunno. Animal instinct?
+
+Yumeko4a:I can't underestimate you. It seems I'll need to deal with this quickly.
+
+<end>
+
+<ChatID:83>---------------------------------------
+//こいしvs.依姫
+
+Koishi2b:Huh? It kinda feels like you've got a lot of people with you. Maybe the spirits of your ancestors?
+
+Yorihime2a:Can you sense the presence of the Myriad Gods...?
+
+Koishi6c:I dunno, but it seems fun! Maybe you can show me all kinds of stuff?
+
+Yorihime0b:...They're not a sideshow attraction, but I suppose if I can keep you occupied.
+
+Yorihime1a:Very well, I will be your opponent.
+
+Koishi3c:Hmhm.
+
+<end>
+
+<ChatID:84>---------------------------------------
+//こいしvs.豊姫
+
+Toyohime2b:So how exactly am I supposed to keep her detained...?
+
+Koishi2b:Maybe with that rope?
+
+Toyohime0b:It's a femtofiber cord.
+
+Koishi4a:What's a femto?
+
+Toyohime0c:To put it simply, a moment. The smallest unit of time, which living beings can't even recognize.
+
+Toyohime0a:Time is made up of innumerable such moments, stacked on top of one another...
+
+Koishi3c:...
+
+Toyohime2b:Er, I suppose that wasn't very simple. If I'm going to detain you, it probably won't be like that.
+
+<end>
+
+<ChatID:85>---------------------------------------
+//こいしvs.幽香
+
+Yuka2d:Come to think it, didn't we meet in front of Alice's house?
+
+Koishi3c:Did we?
+
+Yuka2c:I remember it because you interrupted my fun. Thanks to that, Alice wasn't reduced to charcoal.
+
+Koishi4a:Aw, I wish I could see that.
+
+Yuka0b:Then I'll show you whenever you like. Would you like to try it yourself?
+
+Koishi0b:Teehee, sounds fun!
+
+<end>
+
+<ChatID:86>----------------------------------------
+//C63：こいしvs.非想天則
+
+Tensoku0a:...
+
+Koishi2b:Wow, what's this?
+
+Koishi0a:A big doll? Seems like it's made of iron.
+
+Koishi0b:Do its arms and legs come off? Let's find out!
+
+<end>

@@ -1,0 +1,3194 @@
+﻿○共通第七十話「夢顕
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA-1 (SLG map)
+ 1: ADVA-2
+ 2: 1PP-1
+ 3: 1PP-2
+ 4: first battle vs. Meko
+ 5: 3PP
+ 6: first battle vs. Meko (2)
+ 7: first battle (Yorihime, Toyohime)
+ 8: first battle (Reisen, LilyW)
+ 9: clear
+10: ADVB-1
+11: ADVB-2 (BG)
+12: ADVB-2 (Common)
+13: ADVB-2 (Reimu)
+14: ADVB-2 (Marisa)
+15: lose
+16: extra
+17-86: battle vs. Meko
+
+<ChatID:0>---------------------------------------
+//ADVA-1（SLGマプ）
+
+<nomove>
+
+<Code=(cursor_jump,384,128,1)>
+
+HTenguB1a:Hey! It went that way!
+
+<Code=(cursor_jump,320,176,1)>
+
+KTenguA1b:It's not getting away!
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,304,384,0)>
+
+KTengu2a:Phew... think that's the last of the sheep around here?
+
+<Code=(cursor_jump,276,384,0)>
+
+KTenguA2b:How did they manage to sneak onto the mountain? What the heck's going on?
+
+<Code=(cursor_jump,384,128,1)>
+
+HTenguB0a:Stop whining, it's way worse in other places.
+
+HTenguB5a:Like the village. They've been finding more sheep around there than you can count.
+
+<Code=(cursor_jump,304,384,1)>
+
+KTengu0a:So there really are more near the humans, huh.
+
+<pause>
+
+Momiji0a:Good work everyone.
+
+<nomove>
+
+<Code=(cursor_jump,384,128,1)>
+
+HTenguB0a:Hm, Inubashiri and the crows?
+
+<Code=(cursor_jump,276,384,1)>
+
+KTenguA3c:Aren't you supposed to be on lookout duty? Slacking off?
+
+</nomove>
+
+Hatate6a:No way! We have a special mission!
+
+Momiji4a:We're to escort Lady Kanako's group to the shrine below the mountain.
+
+Momiji0a:The shrine maiden, the Sage, and the others are coming together to discuss new countermeasures.
+
+<nomove>
+
+<Code=(cursor_jump,384,128,1)>
+
+HTenguB0a:I see. So even Lady Yasaka and the Sage are taking action.
+
+</nomove>
+
+Hatate1c:Yeah. That's how bad it is.
+
+Aya5b:And we need to do our part too. We have to get to the bottom of this before it gets any worse.
+
+Aya5a:What is going on in Gensokyo right now...?
+
+<end>
+
+<ChatID:1>---------------------------------------
+//ADVA-2
+
+<MAP=11,FROM=人間の里,TO=人間の里,name=Human Village,icon=1>
+
+<BG=*bg_talk_Village_Spring.png,fade=1,color=1,title=*bg_Village,bgm=bgm_talk_inishie>
+
+HumanA0a:...
+
+Tenshu0a:...
+
+Marisa2b:Ah, geez...
+
+Meiling3d:It's even gloomier than it was yesterday.
+
+Sakuya0b:Indeed. Most people aren't leaving their homes, and the ones who do act like the walking dead.
+
+Reimu2b:Who can blame them, after being forced to see that nightmare night after night?
+
+Reimu0a:Sanae and Youmu said they'd be here to check things out too. They're probably...
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+Sanae3b:...Good morning.
+
+Youmu1a:I see you're all here.
+
+Marisa0d:Well, speak of the devil. So, about last night's—
+
+Marisa1d:Whoa, you've got serious bags under your eyes.
+
+Sanae3b:Sorry, I've been having trouble sleeping...
+
+Youmu3a:...It's not just us though. This is happening to the entire village.
+
+Reimu0a:Right. Seems like all humans are seeing the same nightmare every night.
+
+Reimu1a:No doubt about it, this is a capital-I Incident.
+
+Meiling1b:Should we take another look around before the meeting?
+
+Meiling0b:I'm a youkai, so I'm fine, but I want to see how the human village is doing.
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+<Code=(map_shake,1,30,2)>
+
+<SE=se_talk_dosa01.ogg,wait=1>
+
+Meiling1b:Whoa!
+
+LadyA0a:Oh... Please excuse me.
+
+Meiling0a:Hey, you're the lady from the grocer. You don't look so good. Are you feeling okay?
+
+LadyA0a:Oh, it's you. Sorry, I've been spacing out.
+
+LadyA0a:It's just... I don't feel so well after seeing that unsettling dream every night.
+
+Marisa1b:Think you could describe the dream for us?
+
+LadyA0a:...A strange giant arrives, and ruins the village.
+
+LadyA0a:It uses some power called sigh-ence, and the world is destroyed.
+
+Sanae1e:The power of science...
+
+LadyA0a:Yes, that. I hear it's supposed to be really convenient, so we've been seeing more and more of it these days, but...
+
+LadyA0a:But we never should've accepted new things.
+
+Meiling6a:H-Hold on, it's just a dream. You don't have to take it so literally.
+
+LadyA0a:Knock on wood, knock on wood...
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+Sakuya0b:...Well, she certainly seemed out of it. That's not something a normal person would say.
+
+Meiling3d:Yeah, and she used to be such a kind and cheerful lady...
+
+Reimu0a:We're still okay for now, but it looks like the village is getting pretty worn down by these nightmares.
+
+Reimu1b:And if we don't do something soon, it may never return to normal.
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+Alice0a:...Figures you'd be here too. Worried about the village too, I take it?
+
+Yumeko3b:It seems you've managed to hold onto your sanity. So far, at least.
+
+Marisa0d:Haven't you two gone home yet?
+
+Shinki5a:How could we, when something like THIS is happening? This is no time for a vacation.
+
+Yumeko4a:We visited a number of other places on the way here, but we saw the same thing everywhere we went.
+
+Yumeko0a:If I had to say, the common thread is these dreams that seem to reject modernity.
+
+Youmu3a:So it really is an Incident then...
+
+HumanA0a:Ah, you there!
+
+Sakuya5b:What is it now...?
+
+HumanB0a:You! You're all youkai exterminators, right? We've got a job for you.
+
+HumanB0a:Could you chase out all the youkai from my shop and the bar next door?
+
+Meiling1b:Wait, what?
+
+Sanae0g:But why? I thought that shop was reserved for youkai at night?
+
+HumanC0a:Yeah, but we only started doing that recently. It's not how we USED TO do things.
+
+HumanC0a:Change is bad. I saw it in my dreams.
+
+Marisa1d:What's going on here? That doesn't sound like the village I know.
+
+HumanA0a:But... But the dreams...
+
+Reimu0a:...
+
+Yumeko4b:...Let's leave it at that. I don't see much use in continuing this conversation.
+
+Alice4a:Our first priority should be getting to the shrine and sharing what we've learned.
+
+Alice1c:Then we can discuss what to do about this.
+
+Reimu0a:Yeah...
+
+<MAP=11,FROM=博麗神社,TO=博麗神社,name=Hakurei Shrine,icon=1>
+
+<BG=*bg_talk_Shrine_Spring.png,fade=1,color=1,title=*bg_Shrine,bgm=bgm_talk_kagaku>
+
+Eiki0a:It's almost time.
+
+Tenshi4a:Geez, she's not even going to show up for her own meeting?
+
+Patchouli0c:We received a message from Shanghai earlier. Apparently they went with Alice and the others to check on the state of the village.
+
+Patchouli0a:She said to wait, since they'll be back soon.
+
+Shanghai0a:Shanghai.
+
+<SE=se_talk_walk_outdoor01.ogg,wait=1>
+
+Marisa1c:Sorry 'bout the wait.
+
+Ran0b:Oh, we don't mind. You were looking around the village, correct?
+
+Reimu5d:Yeah. Looks while we'll need to get this investigation started ASAP.
+
+Yukari0a:In that case, why don't we get this started right away, now that we're all here?
+
+Yukari0b:We gathered you all today in order to discuss our strategy for dealing with the current incident.
+
+Yukari0b:I assume everyone is aware of the situation in the village?
+
+Minoriko4a:When it's as creepy as that, how could we miss it?
+
+Keine3b:The people of the village are having nightly nightmares.
+
+Keine0c:This is having a serious effect on their daily lives too, as it dampens their spirits.
+
+Kosuzu4b:Yeah... All those strange dreams make it hard to keep my spirits up.
+
+Tenshi0a:You definitely seem the type to be susceptible to that sort of thing.
+
+Akyu1a:The dreams themselves show things like technology destroying the world, or civilization collapsing as a result of new changes.
+
+Akyu3e:In other words, they create the impression that new technologies and ideas are inherently bad.
+
+Marisa2b:So this is obviously the work of those two clowns...
+
+Reimu1b:Mehko, and Makura Muwatari...
+
+Alice0a:The most terrifying part of this incident is that it's warping people's thoughts.
+
+Alice4a:When we were in the village just now, people were saying that they'd stop serving youkai.
+
+Keine2a:Actually, I've even seen cases where people were destroying anything that seemed too modern.
+
+Sho4a:Not only that, humans have started to avoid worshiping at Myouren Temple or the Moriya Shrine.
+
+Sho0b:It's almost as if the free spirit of Gensokyo is disappearing, little by little.
+
+Hatate1c:So you're saying that all of this is due to the incident?
+
+Yukari2a:Indeed. It's an ideological invasion, seeking to change our values through nightmares.
+
+Yukari0b:That's the true nature of Makura Muwatari's incident.
+
+Ran6c:The sheep we've being finding throughout Gensokyo are most likely acting as transceivers to broadcast her power over dreams.
+
+Ran0b:I would guess they've been hiding themselves until now so they could enact this plan on a mass scale without detection.
+
+Utsuho1b:So what happens if we leave them alone?
+
+Kanako1d:...Should the worst come to pass, the humans' minds would be painted over by the mastermind's thoughts.
+
+Kanako1c:Then the world Makura Muwatari seeks would come to pass.
+
+Mystia4b:It would...?!
+
+Wriggle4a:You mean we wouldn't be able to work together like this anymore?
+
+Yuyuko2a:That's right. All humans will think like her, closing themselves off and nursing a strong aversion to change.
+
+Yuyuko3c:And if that happens, we wouldn't be able to maintain the human-youkai relationships we have now.
+
+Nitori2a:That's awful...
+
+Eiki5a:From our perspective, that's the same as denying Gensokyo's way of life.
+
+Eiki1c:Whatever world she creates from this incident simply wouldn't be Gensokyo anymore.
+
+Satori0c:So her goal is to reshape Gensokyo to fit her ideals.
+
+Koakuma1c:Well, how are we supposed to stop this?
+
+Koakuma1a:The mountain youkai have been clearing out the sheep for us, so maybe we could help them with that...?
+
+Shinki5b:If it were that easy, we wouldn't be having this discussion.
+
+Yumeko0a:Those sheep are multiplying at an abnormal rate.
+
+Yumeko4b:Most likely their power is being amplified by feeding off of the nightmares.
+
+Iku1b:So the nightmares she created are giving birth to even more nightmares... It's a vicious cycle.
+
+Mokou1c:But that doesn't mean it's hopeless. Over at Eientei, Eirin has formulated a medicine to replace nightmares with pleasant dreams.
+
+Mokou1d:If we hand that out to everyone, we should at least be able to slow this down.
+
+Elliy3b:Phew! That takes care of that! Good ol' Brain of the Moon!
+
+Akyu3d:That said, it's a stopgap measure at best.
+
+Akyu1a:Our best plan is to stall the nightmares with the medicine and use that chance to defeat the mastermind.
+
+Yukari0b:Currently, her whereabouts are unknown, but she must have left some sort of trail now that she's taking action.
+
+Yukari2a:It's imperative that we track her down before it's too late.
+
+Marisa1b:Then our first destination should be...
+
+Keine1a:Eientei. We have to pick up the finished medicine to make sure it reaches the village safely.
+
+Keine0c:We could theoretically split our forces and try to feel out the enemy's movements...
+
+Satori0c:No, I propose that we intentionally draw attention to ourselves by moving as a group.
+
+Satori0e:The enemy must surely be wary of us as well. In which case, we can take advantage of her caution and use it to draw them out of hiding.
+
+Akyu0a:I see, that's a good idea.
+
+Orin1a:That's Miss Satori for ya! No one's a bigger meanie than her!
+
+Satori0d:...I know you meant that as a compliment, Orin.
+
+Reimu1a:Anyway, if that's settled, then let's move! To Eientei!
+
+<MAP=11,FROM=博麗神社,TO=永遠亭,name=Eientei,icon=4>
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP（出撃前）
+
+Kaguya0a:The pills are packed on our end, Eirin.
+
+Eirin0a:Thank you, Kaguya. The boxes have really piled up, haven't they?
+
+Eirin3c:With this much, we should be able to at least somewhat delay the progess of the incident.
+
+Udonge0a:Butterfly Dream Pills, huh? For such a niche drug, it sure is coming in handy here.
+
+Cirno5g:Then let's go take it to everyone!
+
+LilyW0a:Let's spread it like we're spreading spring!
+
+Tewi4b:You sure you're gonna be alright on your own? I asked Keine to send someone to help, so if you just wait a while...
+
+Sunny3b:C'mon, who knows what trouble the village will get into if we leave it alone?
+
+Sunny5a:And playing pranks has made us MASTERS at running and hiding! Compared to that, this'll be a piece of cake!
+
+Daiyosei3b:Plus, I want the humans to get better faster...
+
+Kaguya3c:Then we'll gratefully accept your offer. But these pills are valuable, so don't drop any.
+
+Star1c:Got that, Luna?
+
+Luna4c:Don't call me out! That just makes me even more nervous...
+
+Luna0a:...Hm?
+
+<pause>
+
+Daiyosei1a:Hey, those are...
+
+Udonge1c:Mehko's sheep minions, huh. If they're showing up now, that probably means...
+
+<nomove>
+
+<hide=face>
+
+<Code=(cursor_jump,528,352,1)>
+
+Meko1b:Finally found you!
+
+</hide>
+
+</nomove>
+
+<pause>
+
+Meko1b:Geez, it's too easy to get lost in this thicket!
+
+Cirno2b:You're Mehko!
+
+Meko0d:Been a while. But it's obvious that you're up to something.
+
+Meko0c:How could I miss it, when you've got your entire crew on their way here?!
+
+Tewi0b:The entire crew...?
+
+Udonge4d:Wait, could it be that they were trying to bait her out?
+
+Eirin1a:That sounds like the sort plan Satori would come up with. It's bold, but she can predict the enemy's logic.
+
+Meko1e:I guess you're making pills? Well, hand them over then!
+
+Meko1f:Whatever they are, you're gonna use 'em to interfere with us, I just know it!
+
+Daiyosei2c:Wh-What do we do? She's gonna steal the medicine!
+
+Kaguya1a:No need to panic. I'm sure Mokou is leading them here.
+
+Tewi3f:So unlike this chick, they're not gonna get lost.
+
+Tewi1a:See, what'd I say?
+
+<end>
+
+<ChatID:3>---------------------------------------
+//1PP（出撃後）
+
+Akyu1a:Looks like Eientei is under attack by sheep.
+
+Korin1b:Good thing we hurried then. Thanks for the guidance, Mokou.
+
+Mokou1a:Yeah, well, I know the way like the back of my hand.
+
+Sanae1a:But look...
+
+Marisa2b:There you are, Mehko!
+
+Meko1e:And there YOU are, Palanquin Ship.
+
+Meko0c:Getting here before you girls was easy as pie thanks to my sheep information network.
+
+Patchouli0c:Looks like she took the bait. Honestly, I never imagined it would be so simple.
+
+Sakuya5b:We came here specifically to lure you out, you know.
+
+Meko0b:Wait, you did?!
+
+Reimu0d:Anyway, you saved us the trouble of finding you. And we've got a lot of questions for you!
+
+Reimu1b:This dream incident is your fault, right? What're you up to?
+
+Youmu1a:You're going to tell us where the mastermind is hiding too!
+
+Meko0d:Hmph! It's not like I have to answer just 'cause you asked.
+
+Meko7f:And it doesn't change the fact that I can stop your plan by taking the pills!
+
+Iku1b:So she noticed the medicine... It seems she means to attack Eientei.
+
+<nomove>
+
+<Code=(cursor_jump,208,160,1)>
+
+Eirin1d:If she gets inside, she can do more than take the medicine. She can destroy our facilities so we can't make anymore.
+
+</nomove>
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,208,160,1)>
+
+Eirin1c:Help us keep them at bay, if you would.
+
+</nomove>
+
+Shinki0b:Certainly. Consider it done!
+
+Yumeko0a:It seems there's a new type of monster here. Let's proceed with caution.
+
+<end>
+
+<ChatID:4>---------------------------------------
+//メーコと初戦闘（増援前）
+
+Orin4b:Looks like you fell for Miss Satori's meanie tactics hook, line, and sinker.
+
+Utsuho5d:Good thing she's a big dummy! Right, Orin?
+
+Meko5c:H-Hey! Only dummies call other people dummies!
+
+Alice1a:But it seems that you really are wary of us.
+
+Meko1b:You got that right! I can't believe you're still so... perky! Even after seeing Lady Makura's nightmares.
+
+Meko1a:You really are different from the others.
+
+Marisa2b:'Course we are. But who cares about that, what the heck are you guys doing?!
+
+Marisa2b:What's up with this incident? I know you've seen what the village is like now.
+
+Meko1e:...This is all for Lady Makura's dream. She thought it was the best way to help the humans.
+
+Sakuya0b:I suppose you're just another mindless sheep following orders then.
+
+Meko1c:No! I want to help her because I agree!
+
+Meko1d:Lady Makura's dream is my dream too! And I won't let you get in our way!
+
+<end>
+
+<ChatID:5>---------------------------------------
+//3PP、またはメーコのHPを70％以下にする
+
+Meko1c:I knew you'd be stubborn, and sure enough...
+
+Udonge1c:We stayed up all night making that medicine. We're not about to just hand it over!
+
+<nomove>
+
+<Code=(cursor_jump,208,160,1)>
+
+Eirin1c:This is to protect humanity from the nightmares. We can't afford to lose it.
+
+Eirin1d:I won't let you lay a single finger on it.
+
+</nomove>
+
+Meko1c:Still dunno what this stuff is, but your attitude tells me all I need to know.
+
+Meko0c:Hehehe...
+
+Yamame0a:Where's all this creepy confidence coming from?
+
+Meko0c:What can I say? I'm positive that this time, there's no way I'll lose.
+
+Meko0c:You're making a big mistake if you think I'm the same as I was when you beat me before!
+
+Yumeko0a:Well, she SOUNDS confident at least.
+
+Meko0e:Try saying that again after you see THIS!
+
+<pause>
+
+Kaguya0a:...!
+
+Sunny0a:Gah, she was hiding that many of them?!
+
+Meko0e:I'm sure you noticed that the sheep were multiplying faster. That's because MY power is stronger!
+
+Meko0e:With this many, you'll never stop them!
+
+<pause>
+
+Daiyosei2c:Oh no, they're already...!
+
+<nomove>
+
+<Code=(cursor_jump,208,160,1)>
+
+Eirin1b:I think not!
+
+</nomove>
+
+<pause>
+
+Udonge1b:Master!
+
+Meko1d:What, you wanna stand in our way?!
+
+Eirin1b:You won't be setting one filthy hoof into this place.
+
+Eirin1c:And I believe I told you that you won't be touching this medicine either.
+
+Meko1d:Hmph, talk big while you still can!
+
+<pause>
+
+Eirin2a:Rgh...
+
+Tewi1a:Master!
+
+Kaguya0a:This isn't good. If we have to stay completely on the defensive, we won't have any way of striking back.
+
+Udonge2b:But there are sheep over here too!
+
+Meko1c:Still haven't given up? You girls really are stubborn!
+
+Meko1d:But I don't care how much you pretend to care about the humans, you're still just invaders from the moon.
+
+Meko1d:I saw how much you were looked down on by everyone from the surface when you first met!
+
+Eirin0d:...!
+
+Tewi2a:Ah geez, you're coming at us with that, huh...
+
+Meko1d:See?! You can't even deny it! So how do I know you won't just drop the act and start something awful again?!
+
+Yukari0a:A childish attempt at provocation. Eirin's moved past that now.
+
+Eirin4a:...No, I realize how absurd it sounds for me to claim that I'm doing this for the humans.
+
+Udonge0a:Master...
+
+Eirin5a:But even so, I am now a surface-dweller. I have a duty to offer something of value to others.
+
+Eirin4c:Regardless of how I might be seen, I've decided to step down onto terrestrial soil and live my life here.
+
+Eirin1c:That means I belong to Gensokyo.
+
+Yuyuko0a:Eirin...
+
+Eirin3c:And just as I'm sure you never expected me to say anything like that, the world is filled with things you'll never predict.
+
+Meko1c:Hmph. Sounds nice, but in the end it's just more talk. I know you're up to something.
+
+Meko1d:Anyway, you say you "decided" all this or whatever.. and that's enough to be accepted?! It's not fair!
+
+Meko1d:That's it! You're getting the full treatment! Take a nice nap from my full output electric shock!
+
+<pause>
+
+Eirin2a:Rgh...
+
+Kaguya0a:Eirin! Not even you can take much more of that!
+
+Meko1d:Now to finish the job!
+
+Udonge1b:Master!
+
+<pause>
+
+Eirin6a:...
+
+Udonge2a:...
+
+Udonge2b:Huh? You're fine?
+
+<pause>
+
+Meko0b:...?!
+
+Star1a:The sheep are gone? So that lightning just now was...
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,-16,0,1)>
+
+<hide=all>
+
+Yorihime0b:...I don't know who you are or what foolery you're up to, but do you realize what you've done?
+
+Yorihime0a:How dare a lowly youkai raise a hand against HER, and while uttering such filth.
+
+Yorihime1b:You've already earned a myriad deaths!
+
+</hide>
+
+</nomove>
+
+Reimu1a:This aura... no way!
+
+Meko1d:Wh-Who did that?! If you're gonna hide then I'll just have to find you!
+
+<pause>
+
+Yorihime1b:Too slow!
+
+<pause>
+
+Meko0b:Ow ow ow, hot! My wool's on fire!
+
+Yorihime0b:With that, one of your sins has been burnt away by the flames of Atago.
+
+Yorihime0a:But don't expect to be forgiven with just that.
+
+Udonge2b:N-No way, that's...
+
+Eirin2a:Yorihime...?
+
+Yorihime5a:Lady Yagokoro...
+
+Meko1d:Wh-Who are you?! You just dropped in out of nowhere to get in my way?!
+
+Yorihime5a:In truth, I had no intention of coming to a place like this.
+
+Yorihime5a:But now that I've drawn my blade, just this once...
+
+Meko1d:Okay but seriously, who are you?!
+
+Yorihime1b:Be silent!
+
+Meko2b:Eep!
+
+Yorihime0b:Frankly, I am baffled by your insolence. Not only do you fail to offer even one word of apology, now you're demanding my name?
+
+Yorihime0a:It seems that first I'll have to teach you your place.
+
+Udonge2b:Eep! I'm sorry, I'm sorry, I'm sorry...!
+
+Tewi0a:Why are YOU freaking out, Reisen?
+
+Meko1d:Y-You're acting like you're some kind of big deal, but I've still got plenty of sheep!
+
+Meko1d:And all I need to win is to get the pills!
+
+<pause>
+
+LilyW0a:...!
+
+Star1a:Oh no, they're changing their target!
+
+Daiyosei1a:Is she planning to take Lily hostage?!
+
+LilyW2a:I can't fight this many...!
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char8,64,-64,1)>
+
+<hide=all>
+
+Reisen1a:I've got this!
+
+</hide>
+
+</nomove>
+
+<pause>
+
+Nitori2a:Whoa, is that lunar rabbit weaponry?!
+
+Udonge1b:That means it's...
+
+Reisen0c:Are you hurt, Lily?!
+
+LilyW0a:Miss Rabbit!
+
+Reisen1a:That's the second time I've saved you, "Miss Fairy".
+
+Keine1a:So it's not just Yorihime? This isn't a dream, is it?
+
+Meko0b:Wh-What the heck! What the heck?! You've still got even more people in hiding?!
+
+Meko1d:In that case, I might as well bring out EVERYONE!
+
+<pause>
+
+Minoriko1a:What in the world...?!
+
+Meko0c:How do you like that?! The whole forest is packed with sheep! I don't care how strong you are, you can't stop all of them!
+
+Kanako2a:How could she still have so many in reserve?
+
+Komachi0a:Guess her strange show of confidence wasn't just a bluff.
+
+Meko0c:Hee hee hee, I brushed everyone's fur and put them in a good mood just for today.
+
+Meko0e:Now, c'mon, let's get into that mansion!
+
+<nomove>
+
+<Code=(cursor_jump,608,208,1)>
+
+<hide=all>
+
+Toyohime0a:Aren't you forgetting someone?
+
+</hide>
+
+</nomove>
+
+Meko0b:Hwa...?
+
+<pause>
+
+Meko0b:...
+
+Meko0b:Wait, where'd everyone go...?
+
+Chen0a:Th-They vanished? Did you send them off somewhere, Miss Yukari?
+
+Yukari0a:No. I didn't do a thing. The sheep were completely disintegrated, without leaving a trace.
+
+Yukari2a:That power approaches the border between particle and wave. It's...
+
+<nomove>
+
+<Code=(cursor_jump,608,208,1)>
+
+<hide=all>
+
+Toyohime0a:There. I think the view's much better this way.
+
+</hide>
+
+</nomove>
+
+<pause>
+
+Toyohime0b:Bon voyage! Tee hee.
+
+Yorihime0a:Toyohime, remind me again how many times I told you that using that weapon on Earth is forbidden?
+
+Toyohime0a:Don't worry, I left it on its lowest setting. Look, the forest is still intact, isn't it?
+
+<Code=(icon_set_direction,Meko_en,Toyohime,0)>
+
+Meko0b:Wh-What did you do...? Where did you hide them?
+
+Toyohime0a:The fan I used creates a wind that purifies all of creation.
+
+Toyohime0b:Your friends were disintegrated at a subatomic level. They're now on a voyage across the sea of stars.
+
+Meko5b:No way...
+
+Marisa0a:Haha... Damn, that's nuts. You blew all those sheep away in one shot?
+
+Udonge2b:I can't believe this. Lady Yorihime and Lady Toyohime are both on Earth...
+
+Toyohime0a:My deepest apologies for not keeping in touch, Lady Yagokoro. It's an honor to meet you once again.
+
+Eirin2a:So it really is you two then. But why...?
+
+Toyohime0a:We've been given a mission. I'd love to tell you more once we've settled things here.
+
+Toyohime0b:First of all, let's purify this insolent youkai who dared harm Lady Yagokoro.
+
+Yorihime0b:My sister and I will form a team. Reysen, use your own judgment.
+
+Reisen0b:Ah, yes ma'am!
+
+<pause>
+
+Toyohime0a:Yorihime, the circumstances forced our hand, but now that we're here, we might as well clean up.
+
+Toyohime0a:To prevent this from getting out of hand, we'll eliminate the target as quickly and efficiently as possible. Alright?
+
+Yorihime0b:Right. We shouldn't need more than 5... no, 3 minutes.
+
+<pause>
+
+<Code=(icon_set_direction,LilyW,Reisen,0)>
+
+LilyW0a:Miss Rabbit...
+
+Reisen1a:Lily...
+
+Reisen1a:I'd love to catch up, but we gotta finish this first.
+
+Reisen1a:I'll be fighting too, so get behind me!
+
+LilyW0a:Okay!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//メーコと初戦闘（増援後）
+
+Meko5b:Oof, ow...
+
+Satori0c:She took a terrible beating, but she seems to be enduring it, psychologically speaking.
+
+Parsee0a:Come on, nobody gets beaten that badly and just shrugs it off.
+
+Mima0e:This is a good chance, though. Let's crush her spirit until she gives up on this incident.
+
+Meko5a:Right, I can't lose. I have to win, for the sake of everyone that just departed on their voyage...
+
+Kisume0b:Whoa, she made a recovery?
+
+Yugi2b:I don't think so. She's got a hollow look in her eyes.
+
+Meko6a:...If I lose here, then even the memory of them will join the stars.
+
+Meko6b:Watch over me, Kattz, Mafti, Totoh! I'll avenge you!
+
+<end>
+
+<ChatID:7>---------------------------------------
+//初戦闘（依姫、豊姫）
+
+Yorihime5a:I'm sorry, Toyohime. I know we agreed not to interfere, but I just couldn't watch any longer.
+
+Toyohime2a:Oh, I don't blame you. Even I was getting angry at what we saw.
+
+Toyohime0a:That said, there's no elegance in a brutish, all-out brawl.
+
+Yorihime0b:Right. With my power to house the myriad gods...
+
+Toyohime5c:And my weapons from the unsullied moon...
+
+Yorihime0a:Let's show them danmaku we can be proud of as the two leaders defending the moon.
+
+Toyohime0a:The greatest and most beautiful...
+
+<end>
+
+<ChatID:8>---------------------------------------
+//初戦闘（リリー、レイセン）
+
+Reisen0a:Honestly, I never thought we'd meet again so soon.
+
+Reisen0e:But, I...
+
+LilyW3c:You're right, it's much too soon!
+
+Reisen2c:Huh?!
+
+LilyW4e:I told you'd I'd show you a wonderful spring you could see from the moon, but you came back before the snow even melted!
+
+Reisen2c:O-Oh... that's what you meant? I thought- Anyway, I still remember that promise.
+
+LilyW4b:But... But since I didn't think I'd get to see you again, I'm so happy!
+
+Reisen1a:Me too... er... wow, this got a little awkward.
+
+Udonge1c:By the way, didn't Lady Yorihime call you Reysen just now?
+
+Reisen1a:Uh... right! After you left, a lot happened and I ended up working for them as a pet.
+
+Reisen0c:Lady Yorihime is putting me through her training now, and I've decided to keep living on the moon.
+
+Reisen0d:So I won't be running from battle anymore!
+
+<end>
+
+<ChatID:9>---------------------------------------
+//勝利条件を達成
+
+<Cond=(LOCAL_ARR,ObjControl,WP_val,1,>,0) && (LOCAL_ARR,ObjControl,WP_val,1,<,3)>
+
+Meko0b:It's no use, they're too strong...!
+
+Toyohime0b:Excellent, that wasn't even 3 minutes.
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,WP_val,1,==,3)>
+
+Meko0b:It's no use, they're too strong...!
+
+Toyohime0b:My, my. That wasn't even 1 minute, let alone 3.
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,WP_val,1,<=,0)>
+
+Meko0b:So strong...!
+
+Toyohime0a:Hm. That took longer than expected. But oh well, it gets passing marks.
+
+</Cond>
+
+Yorihime0b:It seems you've realized your defeat is imminent. Praying to the gods won't save you now.
+
+Yorihime0a:All the Yaoyorozu no Kami are on our side, not to mention the wisdom of the moon.
+
+Meko0b:Grk...
+
+Sanae5c:They were scary to have as enemies, but boy, it's nice having them on our side.
+
+Marisa0e:I knew about the little sister, but even the big sister's here too...
+
+Reimu1b:Anyway, this fight's over. You can let go of this whole pill-stealing idea now.
+
+Alice1a:And of course, I expect you'll be telling us where to find the mastermind.
+
+Meko1d:Hmph! Don't think you've won just 'cause you saved some medicine.
+
+Meko1a:You can't stop those nightmares no matter what you do! Lady Makura's power to control dreams is unbeatable.
+
+Reisen0e:Nightmares? Controlling dreams?
+
+Shinki5a:There's an incident here in the terrestrial realm where humans are seeing nightmares. This girl is part of the group behind it.
+
+Toyohime0c:I see. Very interesting. It sounds like this might be related to our mission.
+
+Toyohime0a:But when you speak of a youkai that can freely control dreams, you don't mean...?
+
+Yorihime0a:...Impossible. There's another baku here?
+
+Yukari2a:...!
+
+Keine1a:What? You mean...?
+
+Meko0c:Now you get it. Yeah, Lady Makura is the youkai that controls dreams, a baku.
+
+Meko0e:So, now do you understand what I mean when I say she's unbeatable?
+
+Toyohime0a:...
+
+Meko0e:I don't care how strong the people joining your team are, Lady Makura is INVINCIBLE.
+
+Meko0c:You all should just take a nap and leave everything to her!
+
+<pause>
+
+Flan0f:Hey, she's trying to run away!
+
+Remilia1d:Cheeky. Does she think she's faster than a vampire?
+
+Nue1a:How far does she think she can get, with her body turned to roast mutton like that?
+
+Toyohime2d:...No, we shouldn't pursue her.
+
+Koishi2b:Aww, why not?
+
+Toyohime0a:Now that we've learned our opponent's identity, there's no need to overextend ourselves.
+
+Yukari1a:I agree. Let's hold off on any pursuit for now.
+
+Star4b:Hmm... Well, if that's your advice, Yukari.
+
+<pause>
+
+Kogasa3b:Aww, she got away.
+
+Byakuren0c:It's unfortunate that she got away, but it's true that we had no reason to keep up the pursuit.
+
+Byakuren0a:First, we need to discuss the new information we've earned from this battle.
+
+Tewi0a:Plus, it sounds like our guests from the moon have some business with us.
+
+Tewi3f:I wanna hear about that too.
+
+Toyohime0b:True, we'd welcome an opportunity to exchange information.
+
+Toyohime0c:But more importantly, there's an esteemed figure present who we absolutely must greet.
+
+Toyohime0c:Isn't that right, Yorihime?
+
+Yorihime5a:I...
+
+Eirin0b:...
+
+<end>
+
+<ChatID:10>---------------------------------------
+//ADVB-1
+
+<MAP=11,FROM=永遠亭,TO=永遠亭,name=Eientei,icon=4>
+
+<BG=*bg_talk_Eientei_Noon.png,fade=1,color=1,title=*bg_Eientei,bgm=bgm_talk_ningyo>
+
+Byakuren5a:Luckily, we managed to fight off the sheep.
+
+Daiyosei5c:Are you okay, Eirin? You got hurt pretty bad back there.
+
+Eirin0c:Oh, that? Pay it no mind. That level of damage will regenerate on its own.
+
+Eirin3c:But I must thank you all for keeping the Butterfly Dream Pills safe and sound.
+
+Udonge2b:What are you talking about, Master? Aren't YOU the one who jumped in front of them and took the hits?
+
+Kaguya2c:Seeing Eirin doing something like that was quite moving, even to me. And I've seen quite a few things in my time.
+
+Eirin4a:Please don't tease me, Princess. I was merely fulfilling my duty.
+
+Yuyuko3b:Even so, I was glad to hear that you now consider yourself a part of Gensokyo.
+
+Yuyuko0a:I'm sure your life here will become something precious to you.
+
+Eirin4a:I suppose...
+
+Merlin1a:That's great and all, but you can't forget your other reason to be happy!
+
+Lyrica1a:Yeah! These amazing surprise guests of yours!
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+Toyohime0c:So this is where Lady Yagokoro is living now.
+
+Reisen1a:Yes, ma'am. You'll find that it's bigger on the inside.
+
+Toyohime0c:It may be modest, but it's aglow with a sense of refinement and intellect.
+
+Toyohime0c:And there's a distinctive nostalgic smell of medicine... Don't you agree, Yorihime?
+
+Yorihime5a:Yeah...
+
+Reisen0c:Oh, and that shack over there is where I was staying when I was mooching here...
+
+<SE=se_talk_run.ogg,wait=1>
+
+LilyW0a:Miss Rabbit!
+
+Toyohime2b:My...
+
+Youmu4b:I'm glad to see you're doing well, Miss Rabbit.
+
+Udonge4d:Never thought I'd see you again.
+
+Reisen0c:Reisen! Everyone!
+
+Tewi3c:I heard you had a big fight up there. It sounds like you made it back to the moon okay.
+
+Reisen1a:Yeah, it was looking real dicey for a while, but it was all thanks to Lady Yagokoro's letter.
+
+Reisen0d:The training is tough, but at least I'm not pounding mochi anymore.
+
+LilyW1d:You're so cool now, Miss Rabbit! Even in battle!
+
+Reisen0d:Thanks. Anyway, I'm just glad you're all okay.
+
+Toyohime2c:Wait, is everyone calling you "Miss Rabbit"? How curious.
+
+Reisen1a:Yeah, that's the nickname everyone called me when I was here.
+
+Reisen0d:But if I used my new name, things could get a little confusing, so I'm fine with going by Miss Rabbit.
+
+Udonge3b:True. But still, the exact same name...?
+
+Yorihime0b:If you have something to say, then say it to my face, Reysen.
+
+Udonge3a:Geh, you were listening?!
+
+Udonge2b:No, I, um, I was just thinking about how your taste in names is as great as ever...
+
+Udonge2c:A-Anyway, it's been a while—er, I mean, please forgive me!
+
+Toyohime2b:Goodness gracious, she's still the same as ever. I thought you told me she grew up a little, Yorihime?
+
+Yorihime0b:I suppose one's nature doesn't change so easily. Her determination to live on Earth seemed real enough, at least.
+
+Kaguya2c:Indeed, she's been working as Eirin's disciple.
+
+Yorihime1c:Lady Kaguya...
+
+Toyohime0a:...
+
+Kaguya2c:...
+
+Toyohime0b:...I would say this meeting was a pleasant surprise, but of course it is no mystery that wherever Lady Yagokoro may be found, you won't be far behind.
+
+Toyohime0b:I suppose your life's been the same as ever, even after falling to Earth?
+
+Kaguya0a:Hmm, summarizing a thousand years in a pithy remark is beyond even me, I'm afraid.
+
+Kaguya3c:But I'm sure there's someone else you'd prefer to be speaking to.
+
+Toyohime0b:I appreciate your understanding. We'll have to catch up with you another time.
+
+Toyohime0a:Is that alright, Yorihime?
+
+Yorihime5a:But, Sister...
+
+Eirin4b:Yorihime. Toyohime.
+
+Yorihime2a:Lady Yagokoro...
+
+<Code=(sound_fadeout,BGM,45,0)>
+
+<BGM=bgm_talk_soratoumi,0>
+
+Eirin0b:The two of you are genuinely standing here in my presence.
+
+Eirin3c:I can hardly believe we get to see one another again...
+
+Toyohime0c:Once again, I apologize for not staying in touch. I'm just overjoyed we were able to meet again.
+
+Toyohime0c:It's been a thousand years, but it was good to hear that you've been watching over us.
+
+Eirin0b:And you two! You've grown taller, but I'd recognize those faces anywhere.
+
+Eirin0b:If you don't mind, could you come a little closer so I can see you better?
+
+Yorihime5a:...!
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+Eirin2a:...!
+
+Udonge2b:Um, Lady Yorihime...?
+
+Reisen2c:Why are you hesitating? This is your chance to finally see Lady Yagokoro again!
+
+Yorihime5a:Please forgive my rudeness, Lady Yagokoro, but I cannot face you.
+
+Yorihime5b:This was all due to a lapse on my part.
+
+Eirin1c:Was it...?
+
+Yorihime5b:We were only here for our mission... and I'd planned to finish it and immediately return to the moon.
+
+Yorihime5b:Even if we'd be landing near you, I'd decided in my heart that we must never meet, Lady Yagokoro.
+
+Tewi4b:But... why?
+
+Yorihime5a:Because we are residents of the moon. But in her letter, Lady Yagokoro told us that she would be living on the Earth.
+
+Yorihime5a:In order to accept that, I had to come to terms with the fact that our paths would never cross again.
+
+Yorihime5b:And yet despite that, here I am, filled with joy at the mere fact that we can stand on the same soil for even the briefest of instants.
+
+Toyohime5a:...
+
+Yorihime5b:It must shame you to have a student like me. So, at the very least, allow me to hide my face from you.
+
+Eirin5a:Yorihime...
+
+Eirin5a:...So that's how strongly you've felt about me for all this time.
+
+Eirin4a:Even though I'm the one who brought you so much suffering...
+
+Toyohime5a:Lady Yagokoro...
+
+Eirin5a:Even when I was leaving the moon, I didn't spare a second thought for those I was leaving behind as I committed those sins.
+
+Eirin5a:You had to become strong precisely because you had a master like me, didn't you?
+
+Yorihime2a:Not at all! You did nothing wrong...!
+
+Toyohime5a:...
+
+Toyohime5c:She's right. Please don't say such things, Lady Yagokoro.
+
+Eirin2a:Toyohime...?
+
+Toyohime5a:True, it wasn't an easy path. But it's one I chose for myself.
+
+Toyohime5b:It's the same for Yorihime. She may be strong, but that's only because she made the choice to become strong.
+
+Toyohime5a:And what took us this far was our pride in the teachings of our master, Lady Yagokoro.
+
+Yorihime5a:Sister...
+
+Toyohime0c:So please, rather than feeling guilty for what we've been through, could you instead praise us for what we've accomplished?
+
+Toyohime0b:Nothing could mean more to us than your recognition, Lady Yagokoro.
+
+Eirin5a:Toyohime...
+
+Eirin0b:You're correct, of course. You've grown so strong, as both an older sister, and as one who stands above others.
+
+Eirin0b:In light of that, why don't we all forget our twisted karma for a moment and speak to each other as master and student once again?
+
+Yorihime0a:Lady Yagokoro...
+
+Eirin0b:I hardly recognized you two, you know.
+
+Eirin3d:Nothing could make me prouder than knowing that you were my students.
+
+Yorihime5c:Thank you...!
+
+Toyohime0c:...
+
+Byakuren0b:So paths that once diverged have crossed again. Even if this is for but an instant, I'm sure it will bring peace to your hearts.
+
+Udonge2b:I've never seen them so emotional before...
+
+Eiki3c:Determination and hesitation, strength and weakness. All of that exists inside everyone.
+
+Eiki0a:Perhaps what we call true strength is the power to keep pressing forward despite that.
+
+Youmu4a:Right, we have a lot to learn from that too.
+
+Keine0c:...Unfortunately though, this may not be the best time to enjoy this touching reunion.
+
+Keine0a:Mehko has shown herself, and I'd like to resolve this incident as soon as possible.
+
+Toyohime0a:...Indeed. We have have some questions about that as well.
+
+Kaguya3c:But surely we don't have to be standing outside to ask them. Let's head indoors.
+
+<BG=bg_talk_Eientei_Hallway.png,fade=1,color=1,title=bg_Eientei_Hallway,bgm=bgm_talk_ningyo>
+
+Shinki0c:Well then, why don't we use this Japanese-style room?
+
+Akyu3c:I never imagined we'd be brushing shoulders with important figures from the moon.
+
+Yorihime0a:Neither did we. And I see there are even some of the youkai we've been keeping an eye on present.
+
+Yuyuko1c:Now now, we have more important things to discuss. Can you tell us why the Lunar Emissaries have come to Earth?
+
+Toyohime0a:I believe I've mentioned a mission?
+
+Toyohime0a:We were sent to Earth to investigate a phenomenon and ultimately resolve it.
+
+Yumeko5c:A phenomenon, you say?
+
+Yorihime0a:Yes. Something unusual is happening in the Dream World.
+
+Reimu0e:...!
+
+Marisa0d:When you say the Dream World, do you mean...?
+
+Toyohime0a:The dreams humans see are closely related to the Lunar Capital, so we have a certain youkai monitoring them for us.
+
+Toyohime2d:And recently there have been reports from her that someone's been changing the dreams of everyone in Gensokyo.
+
+Yukari0a:That sounds like the same incident we've been investigating.
+
+Toyohime0a:It certainly seems likely, based on what I've heard here.
+
+Reisen0a:So anyway, the Lunar Emissaries were volunteered for this, since we have permission to come and go freely.
+
+Toyohime0b:Naturally, we'd planned to complete our mission without drawing attention to ourselves.
+
+Toyohime0a:But then we noticed a disturbance nearby and came to check it out. And you should know the rest.
+
+Udonge4a:That explains a lot...
+
+Tewi4a:By the way, why isn't this youkai helper of yours helping out? What's she doing?
+
+Yorihime0b:She told us "this isn't part of my job description, so I'll leave it to you."
+
+Aya5a:A classic mentality endemic to vertical hierarchies...
+
+Sanae5c:Well, it wouldn't have done much good for her to show up by herself anyway.
+
+Shinki0b:Anyway, if I understand correctly, our objectives are the same here.
+
+Shinki0c:In which case, wouldn't it be wonderful if we joined up?
+
+Parsee0a:Join up? With them? Is your head filled with flowers or something?
+
+Yumeko4b:Excuse me. Your incredulity is reasonable, but you should know better than to take that tone with Lady Shinki.
+
+Hatate4c:But, you know, it's kinda true that there's been some... diplomatic friction between Gensokyo and the moon.
+
+Yorihime0b:It's also true that the top brass on the moon doesn't look kindly on Earthlings.
+
+Toyohime0a:That said, no one's watching us down here, and the people of Gensokyo are definitely more familiar with this incident.
+
+Toyohime0b:So I propose a temporary truce. This way, we can present a united front.
+
+Yukari1a:And we'll gladly accept that.
+
+<Code=(map_shake,1,20,2)>
+
+<SE=se_talk_hishi01.ogg,wait=1>
+
+Suika2a:Whoa, a handshake between the land and the moon! There's a first time for everything!
+
+Aya1b:We're forming an alliance?! This is a historic moment!
+
+Toyohime0b:Just to be clear—no reporting on this, okay? Otherwise our heads will roll.
+
+Keine1a:Of course, of course. But to think the ultimate military force of the moon would be helping us...
+
+Marisa4c:...This still doesn't feel real to me, but after both the Yama and the god of Makai already joined us, what did you expect?
+
+Elliy3b:So! I hate to interrupt, but do you two have a clue who the culprit is?
+
+Akyu0a:Just now, Mehko made it obvious that she's a baku.
+
+Akyu1a:It's a kind of sacred beast that controls dreams. There are no records of any appearing in Gensokyo, though.
+
+Yorihime0a:As far as we're aware, the power of a baku can only be used from inside a dream.
+
+Yorihime0a:It's safe to assume that she's hiding somewhere connected to the Dream World.
+
+Yukari0b:But clearly you weren't able to pinpoint her location from the moon.
+
+Toyohime0a:Yes, meaning she's not JUST in the Dream World.
+
+Toyohime5b:Most likely she's protected by a special barrier similar to the one around Gensokyo.
+
+Elliy0b:So, like, a Gensokyo in the Dream World?
+
+Elliy1a:Wait. Dreams and illusions...? Fantasy...?
+
+Kurumi1a:Elly, that's...
+
+Nitori1d:Oh, are you two onto something for once?
+
+Kurumi1a:Yeah! It's our home! The culprit must be where we and Yuuka live!
+
+Elliy1a:The Dreamscape!
+
+Marisa0e:...!
+
+Reimu3b:Aha. I get it now.
+
+Mima1b:The Dreamscape is a special place, even in the Dream World. It's directly adjacent to Gensokyo. I can't think of anywhere else.
+
+Kogasa0b:Alright! If we know where she is, all that's left is to charge in!
+
+Wriggle1c:Let's get ready to set out together.
+
+Yorihime0b:...
+
+Ran4b:If so, that's going to pose a problem.
+
+Kogasa3a:Oh, is the charge missing the mark?
+
+Star4b:Is there some concern we should know about?
+
+Alice4a:Yes. While the Dreamscape is connected to reality—to wit, Gensokyo—it's still a part of the Dream World.
+
+Alice0a:And the culprit has the power to manipulate dreams. Meaning...
+
+Yukari2a:Meaning that Makura Muwatari has absolute control of everything there.
+
+Kisume2b:Like, literally everything?
+
+Kaguya2e:So you're saying she's an omnipotent god there.
+
+Mima0c:And that's not all. Once we enter, dreams and reality, spirit and flesh, will become intermingled, exposing both to danger equally.
+
+Mima1b:Fighting there is like putting your entire existence at risk.
+
+Koakuma4b:That's awful...
+
+Ran6c:So not only does the world itself present a risk, our opponent has an absolute home-field advantage.
+
+Marisa2b:That explains why Mehko was so weirdly confident.
+
+Akyu3e:But we have no other options, nor the time to postpone this.
+
+Akyu1a:If we let this incident progress any further, we won't be able to undo the damage.
+
+Eirin1d:...We have enough Butterfly Dream Pills left to hold back the nightmares for one more night.
+
+Eirin1c:We have no choice to but to use this time to make our final preparations, and set forth for a decisive confrontation tomorrow.
+
+Momiji3c:We take the fight to her, in the Dreamscape.
+
+Yukari0a:Then let's adjourn for today and meet back up tomorrow morning at the shrine.
+
+Reisen2c:Lady Watatsuki, should we, um...?
+
+Toyohime0a:...I suppose we should. Let's spend the night in Eientei, assuming we're not imposing.
+
+Toyohime0b:Lady Yagokoro, Lady Kaguya, I trust that's acceptable?
+
+Kaguya3d:By all means, if this is where you'd prefer to stay.
+
+Keine1a:Tomorrow's the final battle. This will be our last night before setting out.
+
+Keine0c:Please don't waste this, everyone.
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Reimu0a:Yeah...
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Marisa0a:Right...
+
+</Cond>
+
+<Code=(transition_out,c_black,90,1)>
+
+<Code=(demo_wait,30)>
+
+<end>
+
+<ChatID:11>---------------------------------------
+//ADVB-1（背景部分）
+
+<BG=bg_talk_Lake_Night.png,fade=1,color=1,title=bg_Night,bgm=bgm_talk_insect>
+
+<Code=(demo_wait,75)>
+
+<Code=(transition_out,c_black,70,1)>
+
+<end>
+
+<ChatID:12>---------------------------------------
+//ADVB-2（共通パート）
+
+<BG=bg_talk_Eientei_Night.png,fade=1,color=1,title=bg_Eientei,bgm=bgm_talk_soratoumi>
+
+Yorihime0a:So this is what the moon looks like from Earth.
+
+Toyohime0c:Yes, it's such a strange sight... And such a quiet night.
+
+Toyohime0c:It's as if the entire world is asleep.
+
+Yorihime0a:I can hardly believe that even now, something is gnawing away at Gensokyo's dreams.
+
+Yorihime0b:It sounds like even the youkai rabbits of the mansion have gone to sleep already.
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+Kaguya2c:Of course. This is the one night they can sleep without nightmares thanks to the drug.
+
+Yorihime0d:Lady Kaguya...
+
+Kaguya0a:But with no one to disturb us, perhaps we can have a leisurely chat?
+
+Kaguya3c:I hope we can speak freely without Eirin or the Inaba around.
+
+Toyohime0c:I appreciate that you've set aside the time for this tonight, of all nights.
+
+Kaguya3c:Oh, not at all, I did this because I wanted to speak with you.
+
+Toyohime5c:This is the first time we've spoken directly like this, isn't it?
+
+Toyohime5c:We always heard so much about you from Lady Yagokoro back on the moon.
+
+Kaguya0a:...I remember that too. Eirin always had a special fondness for you two.
+
+Kaguya2c:And you still miss her, from the bottom of your hearts.
+
+Yorihime5a:...
+
+Kaguya0a:I'm the reason she left the moon. I suppose you must hate me for that.
+
+Yorihime2a:That's...
+
+Toyohime5c:...
+
+Yorihime5a:That's something she decided for herself, and I wouldn't dream of criticizing her choice.
+
+Yorihime5a:We'd just like to ask you why. What made you want to stay on Earth, Lady Kaguya?
+
+Kaguya2d:Why, you ask?
+
+Yorihime5a:Yes. After all, that was the trigger that made Lady Yagokoro choose the Earth.
+
+Toyohime5c:...And not just her. It's simply a fact that many others have had their lives thrown into chaos by your actions.
+
+Toyohime5c:So what were you thinking, Lady Kaguya? What thoughts drove you to choose an eternity on the surface?
+
+Kaguya2d:...
+
+Toyohime5c:...If you'll forgive me for asking such a direct question, that is.
+
+Kaguya0a:...No, you've said nothing wrong. I appreciate your openness.
+
+Kaguya2c:Hmm, let's see... Right now, I'm able to stand before you like this, but when I first began my life as a fugitive, I was beside myself with fear.
+
+Kaguya0a:I imagine that was because I was unable to bear the weight of the sins I'd committed.
+
+Kaguya0a:I lacked the luxury to even think about my original reason for remaining.
+
+Toyohime5c:...
+
+Kaguya2d:Amid all those days I spent living in fear, perhaps I forgot what made me wish to stay in the terrestrial realm.
+
+Kaguya2c:But recently, I was finally able to remember it.
+
+Yorihime0a:Yes...?
+
+Kaguya2d:A fondness for life—from birth to death. The march of time, marked by change...
+
+Kaguya2c:I wanted to see more of the terrestrial realm, where such things are simply accepted.
+
+Kaguya0a:And now it's surpassed mere curiosity, I want to be a part of it.
+
+Yorihime0a:So that's what went through your head when you chose to stay behind on the prison known as Earth.
+
+Toyohime5c:Then I trust you hold not a shred of regret for the decision you made for yourself?
+
+Toyohime5c:You accept the crimes you've committed, and all the consequences of your actions?
+
+Kaguya3c:Yes. I won't deny them for as long as live.
+
+Kaguya0a:I have a long time ahead of me, time to study my sins and the weight of what I've taken from others.
+
+Kaguya0a:I plan to hold the people whose lives I disrupted close to my heart for the rest of my eternal life.
+
+Yorihime0b:...
+
+Toyohime0a:...Thank you for giving us the answer we sought.
+
+Toyohime0b:We'll remember your words.
+
+Yorihime0b:Just as we told Lady Yagokoro, we won't send anyone after you as long as we're the leaders of the emissaries.
+
+Yorihime0b:To put it another way—your punishment will never end.
+
+Toyohime0a:Please remember the feelings you spoke of for as long as you live.
+
+Toyohime0c:So that your eternity will be something that ripens with age.
+
+Kaguya3c:I'll remember your words as well.
+
+Toyohime0b:...Now then! With that out of the way, how about we have something nice to eat?
+
+Toyohime0b:I happen to have brought some moon peaches for a midnight snack.
+
+Yorihime2a:At this time of night? Aren't you on a diet?
+
+Toyohime2c:Oh my, why in the world would I worry about that when Lady Yagokoro's medicine is right there?
+
+Kaguya2c:You really are her disciples. You're both so strong... But don't mind me. You need your rest as well.
+
+Kaguya0a:Everyone will be spending their final evening before the confrontation in their own way.
+
+Kaguya3c:We should sleep as well, and be ready for tomorrow.
+
+<end>
+
+<ChatID:13>---------------------------------------
+//ADVB-2（霊夢ルート）
+
+<MAP=12,FROM=博麗神社,TO=博麗神社,name=Hakurei Shrine,icon=1>
+
+<BG=*bg_talk_Shrine_Night.png,fade=1,color=1,title=*bg_Shrine,bgm=bgm_talk_hiroshige>
+
+<SE=se_talk_kasakasa02.ogg,wait=1>
+
+Reimu0b:Okay... I've got my amulets, and this looks like enough needles...
+
+Rumia0a:Hey, Reimu, I'm huuungry!
+
+Cirno0a:Aren't you gonna bring those rocks in your donation box too?
+
+Reimu3a:Geez, would you girls shut up already?
+
+Reimu3a:Why are you here, anyway? Don't you have some place fun to go?
+
+Keine0a:I'm pretty sure that's the shrine. But why not let them have their fun while they can?
+
+Daiyosei0a:Um, I'll make up for them by helping out, okay?
+
+Sanae4a:She really is. We're already done packing over here.
+
+Reimu0e:Oh, really? If you're helping out, then never mind. My bad.
+
+Keine0a:And we're finishing up on our end too, so don't worry about that.
+
+Sanae3b:Plus, it's hard to calm down if you think about what we're doing tomorrow.
+
+Sanae3b:Aren't you afraid, Reimu?
+
+Reimu0f:Why would I be?
+
+Sanae3b:I get that we need to resolve this incident or something awful will happen to Gensokyo.
+
+Sanae3b:But once we enter the Dream World...
+
+Reimu5c:We're up against a youkai. When have I ever lost to a youkai?
+
+Keine0a:So you're still brimming with confidence, even at a time like this.
+
+Reimu5c:A time like this? What does that have to do with anything? I'm the Hakurei Shrine Maiden.
+
+Reimu0g:Besides, aren't we way more reliable now than we were all those other times?
+
+Keine0a:What other times?
+
+Reimu0g:You know, back when you first came to talk to me about the mist, or back when Sanae was threatening the shrine.
+
+Reimu0g:Back then, I never imagined we'd end up with such a huge team.
+
+Daiyosei0b:It's true. It's a little strange when you think about it.
+
+Keine0a:At first it was just me and Reimu, then we added Rumia and Cirno, then we became friends with the Scarlet Devil Mansion...
+
+Sanae0d:And during the snow incident, everyone from the mountain joined up, including me.
+
+Daiyosei0b:And then Wriggle, and Mystia, and Tewi, and, um...
+
+Reimu0g:There are already too many of us to fit into a classroom.
+
+Keine5a:Through countless encounters and countless battles, we've certainly built up quite a crew.
+
+Keine0a:I think it's that history that gives us strength, more than anything else.
+
+Sanae0a:...Seeing you still acting like the same old Reimu really cheers me up. Thank you.
+
+Sanae4a:When we get back after saving the day, we should go somewhere fun together.
+
+Keine6d:Good idea. Maybe I'll buy us some of that taiyaki we missed last time.
+
+Reimu0g:Ooh, that's generous of you. This time I'm not gonna miss out.
+
+Reimu0c:Anyway, since we're pretty much done with the preparations, should we call it a night and get some rest for tomorrow?
+
+Keine3b:Make sure not to oversleep, Reimu.
+
+Reimu5c:Yeah, yeah...
+
+Daiyosei0a:C'mon Cirno, let's go home. You too Rumia.
+
+Rumia3a:Yeah, okay!
+
+Sanae0d:Have a good night, Reimu.
+
+<SE=se_talk_walk_outdoor01.ogg,wait=1>
+
+<single>
+
+Reimu0c:It's really gotten quiet. I think I'll sleep easy tonight...
+
+Reimu4a:Well, I would if YOU weren't here, Yukari.
+
+</single>
+
+<SE=se_sys_sukima01.ogg,wait=0>
+
+Yukari1a:Oh dear, am I bothering you?
+
+Reimu4a:Aren't you always? I was about to head to bed. What do you want?
+
+Yukari0a:So cold. And to think I came all this way because I was worried about you.
+
+Reimu5c:Uh-huh, sure. At least TRY to make your lies believable.
+
+Reimu0f:But fine, this is perfect. There's something I've been meaning to ask you.
+
+Yukari0a:That's an unusual thing to hear from you. Yes?
+
+Reimu5d:Have you decided on the next shrine maiden yet?
+
+Yukari1a:I don't know what you're referring to.
+
+Reimu5d:No need to play dumb. Even I realize how dangerous this trip will be.
+
+Reimu5d:Isn't it the caretaker's duty to prepare for the worst case scenario?
+
+Yukari0a:...It is. But no one's more reliable than you, Reimu. That's an undeniable fact.
+
+Yukari0a:This current alliance between humans and youkai is only possible with you at the center, acting as the balance.
+
+Yukari4c:If we're to defeat Makura Muwatari, it can only be through the power contained in those bonds.
+
+Reimu0d:I wasn't asking about that. I was asking about the next shrine maiden.
+
+Yukari0a:You have a talent to lead others. Every battle you've had merely makes that clearer.
+
+Yukari0a:...And I have faith that you'll lead us to victory again tomorrow.
+
+Yukari5a:I have high hopes for you, Reimu Hakurei.
+
+<SE=se_sys_sukima01.ogg,wait=1>
+
+<single>
+
+Reimu5e:So she just ignores me, says her spiel, and leaves. Typical.
+
+Reimu5a:But that settles it. Tomorrow I'm showing that I can resolve even THIS incident.
+
+Reimu0a:After all, protecting the barrier is my job.
+
+</single>
+
+<Code=(transition_out,c_black,50,1)>
+
+<end>
+
+<ChatID:14>---------------------------------------
+//ADVB-2（魔理沙ルート）
+
+<MAP=12,FROM=香霖堂,TO=香霖堂,name=Kourindou,icon=3>
+
+<BG=*bg_talk_Korindo_Night.png,fade=1,color=1,title=*bg_Korindo,bgm=bgm_talk_hiroshige>
+
+<SE=se_talk_kasakasa02.ogg,wait=1>
+
+Marisa0c:...Okay, I definitely I need this mushroom. And I should probably bring the lizard tail too, just in case.
+
+Marisa0a:Ooh, is this the grimoire I wrote the year before last? Sure brings back memories...
+
+Korin1b:Making progress on your prep work, Marisa?
+
+Marisa0c:Going great, as you can see.
+
+Korin0d:...I see, so your brilliant plan is to dump everything you own on the floor so no one can use my store.
+
+Korin0a:Let me guess: you're choosing which junk to bring to the investigation tomorrow?
+
+Marisa7c:I am, but digging through this stuff turned out to be kinda fun.
+
+Marisa0a:This is the ribbon I used to have on my hat, and this is a peach tree branch I got on the moon, and...
+
+Marisa0c:Come to think of it, I've resolved a lot of incidents, haven't I?
+
+Korin1b:...Yes, you've gone on all sorts of adventures. And you've never let me forget any of them.
+
+Korin0a:First you set out with Nitori, then you met Alice, and then Patchouli, and then more new allies one after another.
+
+Marisa0a:And I've seen more danmaku than I can count, but I took notes on every last one.
+
+Korin0d:So this grimoire contains your research notes from all those danmaku battles?
+
+Marisa0b:Yeah. I like to look at it to remind me of how far I've come.
+
+Marisa7c:Hey, why don't you have a look too, Kourin?
+
+Korin0b:You want to let me see it?
+
+Marisa7a:I'm in a good mood today. And when are you gonna get another chance?
+
+Korin0b:...
+
+Korin0a:No thanks. Maybe after we get back from the investigation.
+
+Marisa3d:C'mon, Kourin, you didn't even crack open the cover.
+
+Korin0a:Think of it as a jinx. This way, I'll have something to look forward to when we get back in one piece.
+
+Korin1b:And besides, every time you try to show me one of your grimoires, it's meant you were worried about something.
+
+Marisa1c:...
+
+Marisa4c:Man, why do you gotta play the mature adult card NOW?
+
+Korin3c:Precisely because it's now. I haven't lived longer than you for nothing.
+
+Korin0a:And anyway, don't you have better people than me to turn to for support?
+
+Marisa1c:What's that supposed to...
+
+<SE=se_talk_door_open03.ogg,wait=1>
+
+Marisa0c:...Hm?
+
+Nitori4a:Mister Kourin! Is Marisa here?!
+
+Alice4a:It's the middle of the night, Nitori. Lower your voice.
+
+Patchouli0d:...But with this mountain of trash, I'm assuming she's here.
+
+Marisa0d:What brings you girls here?
+
+Nitori4d:Hey, it's Marisa! We finally found you!
+
+Alice0d:We visited your house to check up on you, but it was completely empty.
+
+Patchouli3b:As expected, it seems you aren't making any progress with your preparations.
+
+Marisa0e:What the heck, why would you come all the way here on the night before the final battle?
+
+<Cond=(CHECK_FLAG,M29_ALICE,==,1)>
+
+Alice0b:Because I know you, Marisa, and I know that if I left you alone you'd stay up all night "preparing".
+
+Alice0b:I'll keep you company, so wrap this up quickly and actually get some rest.
+
+Marisa0a:Alice...
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M29_NITORI,==,1)>
+
+Nitori4c:What are you talking about, that's exactly why we should hang out tonight!
+
+Nitori1a:You've been my personal hero ever since we first met, Marisa!
+
+Marisa0c:Nitori...
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M29_PATCHOULI,==,1)>
+
+Patchouli3b:Didn't I tell you recently that I had a book I thought you'd like? I brought it with me.
+
+Patchouli3d:You'd probably pick out some books to borrow as part of your preparations anyway.
+
+Marisa0a:Patchouli...
+
+</Cond>
+
+Korin0a:These are the bonds you've built up over your many encounters and battles.
+
+Korin1b:You know that history empowers you more than anything else.
+
+Marisa0c:...
+
+Nitori1d:Hm? What are you talking about?
+
+Marisa0a:Oh, nothing. Anyway, do you think you three could help me pack?
+
+Marisa7a:I'm gonna take all of this stuff.
+
+<Cond=(CHECK_FLAG,M29_ALICE,==,1)>
+
+Nitori2a:But there's so much here. Are you kidding?!
+
+Patchouli4a:Given that this is Marisa, I doubt it's a joke.
+
+Alice0b:...I expected as much. Looks like this will take all night, but we'll help.
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M29_NITORI,==,1)>
+
+Alice1a:What. All of it? You're kidding, right?
+
+Patchouli4a:Given that this is Marisa, I doubt it's a joke.
+
+Nitori4a:Got it! Time to pull an all-nighter!
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M29_PATCHOULI,==,1)>
+
+Nitori2a:Seriously?! But there's so much here!
+
+Alice4a:Given that this is Marisa, I assume the answer is yes.
+
+Patchouli3b:...Fine, if we must. Maybe I can take this chance to see some of your more interesting possessions.
+
+</Cond>
+
+Marisa0c:(...Right. It's doesn't matter who we're up against. That doesn't change what I need to do.)
+
+Marisa0a:(I have my magic, and all of my history.)
+
+Marisa0a:(And I'll end this incident with everything I have.)
+
+<Code=(transition_out,c_black,50,1)>
+
+<end>
+
+<ChatID:15>---------------------------------------
+//全滅時
+
+<Cond=(CHECK_BEATEN,Seirensen,==,1)>
+
+Akyu2a:No! The Palanquin Ship!
+
+Letty1b:This isn't the time to be worrying about medicine!
+
+</Cond>
+
+<Cond=(CHECK_BEATEN,|Cirno|Daiyosei|LilyW|Sunny|Luna|Star|,==,1)>
+
+LilyW2a:Oof... They beat us...
+
+Luna2a:We can't do this alone!
+
+</Cond>
+
+<Cond=(LOCAL_LIST,ObjControl,event_done,1,==,1)>
+
+Cirno1a:Augh, the sheep are right on Eientei's doorstep!
+
+Letty1b:We can't protect the medicine like this.
+
+</Cond>
+
+Meko0c:Heh heh heh, I didn't even need to borrow Lady Makura's power. I handled it totally by myself.
+
+Meko0e:There's no stopping the nightmares now! Everything's going as Lady Makura wishes!
+
+<end>
+
+<ChatID:16>---------------------------------------
+//予備枠
+
+<end>
+
+<ChatID:17>----------------------------------------
+//メーコvs.霊夢R
+
+Reimu1a:So you've finally shown up, Mehko.
+
+Meko1d:Looks like you aren't letting the nightmares bother you. But you're too late!
+
+Meko1d:There's nothing you can do now that we've started the plan!
+
+Reimu4a:Who exactly do you think you're talking to? I'm an incident resolution specialist.
+
+Reimu1a:No matter what you do, I'm resolving this incident!
+
+Meko1b:Nuh-uh! No one gets in the way of Lady Makura's dream!
+
+<end>
+
+<ChatID:18>----------------------------------------
+//メーコvs.魔理沙R
+
+Marisa2b:I can't believe you and your master are starting an incident on this kind of scale...
+
+Marisa2b:I never would've imagined the little kedama I stuffed in a mushroom jar was capable of this.
+
+Meko0b:Don't bring that up! Do you even know how long it took to get the smell out?! I don't want to remember!
+
+Marisa2b:But at least back then we could live in peace.
+
+Marisa2b:Now I've gotta blow you away with my magic cannon!
+
+Meko1b:...Bring it on, Marisa!
+
+<end>
+
+<ChatID:19>----------------------------------------
+//メーコvs.早苗さん
+
+Sanae1a:Mehko, this isn't right...!
+
+Meko1b:Don't try to talk me out of this. Lady Makura is doing this for the humans' own good!
+
+Sanae1a:How am I supposed to believe that those nightmares are for our sake?
+
+Sanae1a:And it's not just outside technology, you're rejecting ALL change...?
+
+Meko1b:You only think like that 'cause you're from the Outside World, Sanae.
+
+Sanae1a:No, as a resident of Gensokyo, I can't abide what's happening.
+
+Sanae1a:The wind priestess Sanae Kochiya will exterminate you!
+
+<end>
+
+<ChatID:20>----------------------------------------
+//メーコvs.アリス
+
+Alice0a:I never imagined it would come to this back when you were still our pet, Mehko.
+
+Meko0b:Alice...
+
+Alice0a:I still don't think you were just acting back then. But right now, you're here as Makura's pawn.
+
+Alice0a:It seems you've already chosen your path.
+
+Meko1b:...Yeah. I'll do anything if it's for her! Even if it means fighting someone who treated me well!
+
+Meko1b:Prepare yourself, Alice!
+
+<end>
+
+<ChatID:21>----------------------------------------
+//メーコvs.ルーミア
+
+Rumia0a:Today's been a disaster, huh, Mehko?
+
+Meko1b:Y-You won't scare me just by being a little stronger than before!
+
+Rumia0a:That's how it is. It's been tough for me too. They keep dragging me into this stuff.
+
+Meko1b:Huh? And even though you've been through so much, you're still on their side?
+
+Rumia0a:That's how it is!
+
+<end>
+
+<ChatID:22>----------------------------------------
+//メーコvs.大妖精
+
+Daiyosei3b:Why are you doing this, Shiro?
+
+Daiyosei3b:You're just gonna hurt people and make them sad.
+
+Meko1b:Dai, you only think that because you don't know what Lady Makura is planning.
+
+Meko1b:If you just listened to us, I know you'd see that we're the good guys.
+
+Daiyosei2a:Uh-uh, I don't think so. Everyone's suffering...
+
+Daiyosei1a:That's why I'll fight!
+
+<end>
+
+<ChatID:23>----------------------------------------
+//メーコvs.チルノ
+
+Cirno0a:You wanna steal the medicine, but your luck's run out!
+
+Cirno0a:Um... Ruck's lun out? Run's luck out?
+
+Meko0c:You got it right the first time!
+
+Cirno1a:Oh, cool! Anyway, I'm not gonna lose to you!
+
+Meko1b:I bet you're just gonna say you're the strongest again. But I'll uphold my duty!
+
+<end>
+
+<ChatID:24>----------------------------------------
+//メーコvs.美鈴
+
+Meiling0a:You got away last time, but it won't go so well for you now!
+
+Meiling0a:I've been practicing chokeholds just for you, Mehko!
+
+Meko0b:Ch-Choking...? Are you planning to eat me?!
+
+Meko0b:I bet you're thinking of Ray and Bidan and Deikun and everyone as food too!
+
+Meiling0a:Huh? That's not what a chokehold is...
+
+Meko6b:That is SERIOUSLY messed up!
+
+Meiling0a:I don't really get it, but I think I hit a nerve... I'm not Sakuya, you know...
+
+<end>
+
+<ChatID:25>----------------------------------------
+//メーコvs.小悪魔
+
+Koakuma0a:Oh good, you're already here.
+
+Meko1b:I don't need your sympathy! I'm here for revenge!
+
+Meko1b:Katz used to run into boulders, and Mafty would shoot the wrong target, but they were good sheep!
+
+Koakuma0a:...Sounds like you've had it even rougher than I thought.
+
+Koakuma1a:But anyway, we have to stop this incident. You should understand that too, Mehko!
+
+<end>
+
+<ChatID:26>----------------------------------------
+//メーコvs.パチュリー
+
+Patchouli0a:So her ability is to put her opponents to sleep. Got that, Koakuma?
+
+Koakuma1a:Yes ma'am! I've already started the coffee!
+
+Meko1b:That's futile before my power! Now fall asleep!
+
+Patchouli0a:It's just to set the mood. Now I can focus on the battle.
+
+Koakuma1a:We'll get you before we succumb to your power!
+
+<end>
+
+<ChatID:27>----------------------------------------
+//メーコvs.咲夜
+
+Sakuya0a:We can't just leave the village like that. Where will we get our food? And I hear their blood tastes disgusting now.
+
+Meko0b:Wait, blood?!
+
+Sakuya0a:My two mistresses are vampires, remember?
+
+Meko0b:But... So you're saying that the humans...?
+
+Sakuya0a:And when you get bitten, I'm sure your pelt will turn a lovely gray.
+
+Meko0b:Eeep...
+
+Sakuya0a:It seems my jokes aren't landing well. At least it got me an opening, I suppose.
+
+<end>
+
+<ChatID:28>----------------------------------------
+//メーコvs.レミリア
+
+Remilia0a:So you went after the humans instead of us? What a roundabout way of doing this.
+
+Remilia1a:I guess you never thought for one second you could stand up to us in a fair fight.
+
+Meko0e:Hee hee...
+
+Remilia0a:Why are you laughing?
+
+Meko0c:Make fun of me all you like. No matter how strong you are, you're no match for Lady Makura!
+
+Meko0e:Humans, youkai... Everyone will realize this by the time we're through with you!
+
+Remilia1a:So you DO have some confidence. Excellent.
+
+<end>
+
+<ChatID:29>----------------------------------------
+//メーコvs.フラン
+
+Flan0b:Aw... I wanted to play too, but those moon people took all the toys.
+
+Meko0b:Maybe so, but you're no pushover yourself...
+
+Meko1b:Either way, no matter what you break here, you can't stop the dreams!
+
+Flan0b:Oh, I've learned how to do way more than break stuff. Didn't you know?
+
+Flan0a:Besides, I don't have to break EVERYTHING. As long as I break just the right thing...
+
+Meko0b:Wait, why are you looking at me while saying that?!
+
+<end>
+
+<ChatID:30>----------------------------------------
+//メーコvs.レティ
+
+Letty0a:Thank goodness you showed up. It's about time for the weather to warm up, so this would have gotten unpleasant.
+
+Meko1b:Don't push yourself. Why not just crawl back into your hole until next winter?
+
+Letty0a:What a silly suggestion. It'd be much simpler to just settle this now.
+
+<end>
+
+<ChatID:31>----------------------------------------
+//メーコvs.橙
+
+Chen0a:If this incident keeps up, it might even affect my followers..
+
+Meko1b:Lady Makura isn't gonna bully a bunch of stray cats.
+
+Meko0c:She's nice to all the sheep. She LOVES animals.
+
+Chen0a:But the kitties are gonna be so shocked when they walk into the village and see it like that...
+
+Chen1a:So I'm gonna resolve this incident with Miss Ran!
+
+<end>
+
+<ChatID:32>----------------------------------------
+//メーコvs.リリー
+
+LilyW1a:Miss Rabbit came back, so I have to do my best too!
+
+Meko0b:Ooh, and I was so close to getting the medicine...
+
+Meko1b:And she's from the moon, isn't she? She's dangerous so we gotta send her back!
+
+LilyW1a:You don't get to decide that, Mehko!
+
+LilyW1a:Please understand! Miss Rabbit is my friend. I won't let you say bad things about her!
+
+<end>
+
+<ChatID:33>----------------------------------------
+//メーコvs.リリカ
+
+Lyrica0a:With the village like that, not even a concert could liven things up, huh?
+
+Meko0a:Just lie low until Lady Makura's dream is fulfilled.
+
+Lyrica0a:Yeah, I guess we could take the time to practice, or even just take a long summer vacation...
+
+Lyrica1b:But... Nope, no way, not happening! We're not living unless we're making noise! We'll perform for the sheep if we have to!
+
+<end>
+
+<ChatID:34>----------------------------------------
+//メーコvs.メルラン
+
+Merlin0a:I said before that I wanted a pet sheep, but I'm not so sure anymore...
+
+Merlin1a:I mean, not getting a good night's sleep is like, the opposite of happy!
+
+Meko1b:Don't worry, if Lady Makura gets her way, they'll be bringing good dreams soon enough.
+
+Merlin0a:But bullying people through dreams qualifies as unhappy.
+
+Merlin1a:A refreshed heart is a refreshed sound! That's why we'll stop you!
+
+<end>
+
+<ChatID:35>----------------------------------------
+//メーコvs.ルナサ
+
+Lunasa0a:Your sound is weak.
+
+Meko0b:What...?
+
+Lunasa0a:I couldn't tell when you revealed yourself earlier, but now I can hear it.
+
+Lunasa0a:The part that's obeying the mastermind is robust, but you yourself are—
+
+Meko1b:Shut up! I'll show you that I can defeat even you, if it's for Lady Makura!
+
+Lunasa0b:Well, at least you've got commitment.
+
+<end>
+
+<ChatID:36>----------------------------------------
+//メーコvs.妖夢
+
+Youmu1a:This incident is dangerous, Mehko!
+
+Meko1b:But it's necessary! Lady Makura said so!
+
+Youmu1a:But is Makura always right? Do you just accept everything she tells you?
+
+Meko1b:I'm not dumb! I'm doing this because I think it's good too!
+
+Meko1b:Aren't YOU the one who just does whatever your master tells you 'cause you're scared of her?!
+
+Youmu2b:Y-You're saying that now?! I'm no longer dulled by a misguided blade!
+
+<end>
+
+<ChatID:37>----------------------------------------
+//メーコvs.幽々子
+
+Yuyuko0a:Those must be the Lunarians who Youmu met on her trip.
+
+Yuyuko0a:I'm sure we'd get along swimmingly if we sat down for a drink together.
+
+Meko1b:Excuse me, I'm your opponent here. Where are you looking?
+
+Yuyuko0a:Oh, I've been watching. Going after the medicine is appalling, you know.
+
+Yuyuko0a:And then there's Eirin, defending it with her life, such as it is. It'd be a shame to see such a valiant effort go to waste.
+
+Meko1b:Again, where are you looking?
+
+Yuyuko0a:Aaand, you're wide open!
+
+<end>
+
+<ChatID:38>----------------------------------------
+//メーコvs.紫
+
+Yukari0a:Invading the Dream World in order to change the humans' values...
+
+Yukari0a:Does Makura Muwatari realize just how dangerous this plan of hers is?
+
+Meko0a:Dangerous? It's necessary. That's what Lady Makura says.
+
+Meko0a:I've been doing a lot to prepare for this day, myself.
+
+Yukari0a:...So she's acting with a plan. Our opponent is more intelligent than I expected.
+
+Yukari0a:We need to act quickly, lest we lose the initiative.
+
+<end>
+
+<ChatID:39>----------------------------------------
+//メーコvs.藍
+
+Ran0a:With all the careful planning that went into this, I suppose I shouldn't underestimate our opponent.
+
+Meko0c:Heh, you've finally realized my power then?
+
+Ran0a:I meant the mastermind. You, on the other hand, seem the same as ever.
+
+Meko0b:Ooh... You said that so bluntly!
+
+Ran0a:The incident should be resolved once we defeat your master.
+
+Ran0a:And you'll serve well as the map leading us right to her.
+
+<end>
+
+<ChatID:40>----------------------------------------
+//メーコvs.リグル
+
+Wriggle1a:I strongly suggest you surrender, Mehko!
+
+Meko0b:You know I can't do that...
+
+Wriggle1a:Look, Yorihime isn't normal. And Toyohime's just as bad, if not worse.
+
+Meko1b:But... I have my orders. I need to be useful to Lady Makura!
+
+Wriggle0a:You're that devoted to her...?
+
+<end>
+
+<ChatID:41>----------------------------------------
+//メーコvs.ミスティア
+
+Mystia1b:Mehko had a little lamb... Little lamb, little lamb...
+
+Meko0e:Oh, I know that song!
+
+Meko0c:In the next part, it follows her to school! It's a cute song, alright.
+
+Mystia1b:So Miss Keine headbutted it... Headbutted it, headbutted it...
+
+Mystia1b:And little Mehko began to cry... Began to cry, began to cry...
+
+Meko0b:Okay, you don't have to finish the whole song!
+
+<end>
+
+<ChatID:42>----------------------------------------
+//メーコvs.慧音
+
+Keine1a:The villagers are suffering because of the dreams Makura is showing them.
+
+Keine1a:What do you think you're doing, inviting this kind of chaos?
+
+Meko0c:You'll know soon enough, when Lady Makura's dream comes true.
+
+Meko0c:Besides, we're doing this FOR the villagers.
+
+Keine1a:...I knew the chances of us working this out peacefully were negligible, but you can't say I didn't try.
+
+Keine1a:We'll just have to do this the hard way. I hope you're ready for a fight.
+
+Meko1b:I've been ready, Keine!
+
+<end>
+
+<ChatID:43>----------------------------------------
+//メーコvs.てゐ
+
+Tewi0a:Having your dreams messed with like that can't be good for your health.
+
+Meko1b:You think? Couldn't Lady Makura teach you all sorts of things while you sleep?
+
+Tewi0a:Like what?
+
+Meko0c:Like how get better sleep, or how to avoid bedhead...
+
+Tewi0a:Teaching you how to sleep WHILE you're asleep? How does that work?
+
+<end>
+
+<ChatID:44>----------------------------------------
+//メーコvs.優曇華
+
+Udonge2b:Oh geez, I can't believe the Watatsuki sisters are here on Earth...
+
+Udonge2a:I must be dreaming! This has to be a nightmare!
+
+Meko0b:You're fighting me, so why do you keep looking over there...?
+
+Udonge1c:Excuse me, I'm a little preoccupied! Augh, I thought I'd never see them again. I can't believe this...
+
+Udonge2b:Wait, why are they even here? It doesn't seem like they're after me...
+
+Meko0b:...Ooh, she's not listening at all.
+
+<end>
+
+<ChatID:45>----------------------------------------
+//メーコvs.永琳
+
+Eirin0a:I can still hardly believe Yorihime and Toyohime are here on Earth...
+
+Meko0b:You know them?
+
+Eirin0a:They used to be my students. I hadn't realized how powerful they'd become.
+
+Eirin0a:You have no hope of victory. Surrender peacefully while you can.
+
+Meko0b:Augh...
+
+<end>
+
+<ChatID:46>----------------------------------------
+//メーコvs.輝夜
+
+Kaguya0a:So those are Eirin's students. The leaders of the Lunar Emissaries.
+
+Kaguya0a:A thousand years ago, I doubt I'd have wanted to see their faces.
+
+Meko0a:What? Are you one of them?
+
+Kaguya0a:I suppose you could say we share the same hometown. I have no idea what they're planning though.
+
+Kaguya0a:Both the incident and moon's interference are unexpected, but one problem at a time, I suppose.
+
+<end>
+
+<ChatID:47>----------------------------------------
+//メーコvs.妹紅
+
+Mokou0a:So you're attacking Eientei? If there was a forest fire, I'd be the first suspect, you know.
+
+Meko0a:Wait, suspect...?
+
+Mokou0a:Anyway, you started this so I hope you're ready.
+
+Mokou1a:Let's see how well your precious wool protects you from the flames of a phoenix!
+
+<end>
+
+<ChatID:48>----------------------------------------
+//メーコvs.依姫
+
+Yorihime0b:How dare you hurt Lady Yagokoro. Don't expect to get off with a mere singe like that.
+
+Meko0b:You showed up out of nowhere. What's your problem?!
+
+Yorihime0b:I am Watatsuki no Yorihime, one of the Lunar Emissaries.
+
+Yorihime0a:And within me dwells the power of the Yaoyorozu no Kami themselves.
+
+Meko0b:Uh, that's a lot of gods...
+
+Meko0b:So wait, does that mean you can do some crazy stuff...?
+
+Yorihime1b:You've realized that too late. Let the flames of the gods burn you down to your very soul!
+
+Meko5b:Eeep...!
+
+<end>
+
+<ChatID:49>----------------------------------------
+//メーコvs.豊姫
+
+Toyohime0b:Hello there! Nice to see you.
+
+Meko0b:You're the one who...
+
+Toyohime0a:I hope you weren't planning to use that entire herd to torment Lady Yagokoro?
+
+Toyohime0b:Because neither Yorihime nor I could ever forgive a despicable youkai who did THAT.
+
+Meko1b:But you used that weapon...
+
+Toyohime2c:Weapon? This?
+
+Meko5a:Eep!
+
+Toyohime0a:You're right, since we're on Earth I need to make sure to never raise the output.
+
+Toyohime1a:But by all means, please enjoy the power of the moon's latest weapon.
+
+Meko5b:Oof, ow...
+
+<end>
+
+<ChatID:50>----------------------------------------
+//メーコvs.レイセン
+
+Reisen0a:With both Lily and the other Reisen here, I need to show off the results of my training...
+
+Meko1b:C... Come at me if you dare!
+
+Reisen0b:Huh, you seem like less of a threat than I thought. Okay, maybe even someone like me has a decent shot here.
+
+Reisen1a:It's time to show you the strength that's endured the Watatsukis' training!
+
+<end>
+
+<ChatID:51>----------------------------------------
+//メーコvs.秋姉妹
+
+Shizuha0a:With the village in that state, the humans' spirits are just gonna get worse and worse.
+
+Minoriko1a:And if that happens, what are we supposed to do when fall comes?!
+
+Meko0a:Um, I'm not sure what you mean...
+
+Minoriko1a:They won't be working the fields, there'd probably be no harvest festival... This is a nightmare!
+
+Meko0a:I don't really get it, but I'm sure Lady Makura has plans for all that.
+
+Shizuha0a:But what's the point if we can't put on a proper autumn production ourselves?!
+
+Minoriko1a:We can't let this incident happen, for the sake of autumn!
+
+<end>
+
+<ChatID:52>----------------------------------------
+//メーコvs.雛
+
+Hina0a:You're generating more misfortune doing all of this, Mehko.
+
+Meko0b:Hina...!
+
+Hina0a:And as they say, misfortune has a way of coming back to its root. You do know that, don't you?
+
+Meko1b:Maybe you're right. But we're so close to fulfilling Lady Makura's dream!
+
+Hina0a:Makura this, Makura that... I'm talking about YOUR misfortune.
+
+<end>
+
+<ChatID:53>----------------------------------------
+//メーコvs.にとり
+
+Nitori1b:I'll never stand for a dream that makes humans fear science!
+
+Meko0b:It's for their own good! That's what we've been saying this whole time!
+
+Nitori1b:And what's so good about it?! Aren't inventions themselves packed with dreams?!
+
+Meko1b:Nightmares, maybe. But that's why Lady Makura will switch them over to good dreams later!
+
+<end>
+
+<ChatID:54>----------------------------------------
+//メーコvs.椛
+
+Momiji0a:I'm impressed you managed to set off this incident while evading the eyes of the tengu.
+
+Meko0c:The sheep were all just sitting there. I bet you don't have much practice searching for things that aren't moving.
+
+Meko0e:But it's too late now. No matter what you do, no matter how many familiars you defeat, you can't stop this incident.
+
+Momiji0a:We may have underestimated you, but this battle won't be won with words.
+
+Momiji1a:I will defeat you for the honor of the mountain youkai!
+
+<end>
+
+<ChatID:55>----------------------------------------
+//メーコvs.文
+
+Aya0a:I can already see the headline! Lunar Emissaries Visit the Surface!
+
+Meko1b:Just stop. I don't even wanna think about them bringing in their advanced technology...
+
+Meko0a:Wait, you know these people?
+
+Aya0a:No... I don't. Actually, when you consider Earth-Moon relations...
+
+Aya0a:I suppose I'll have to put the interview on hold. I need to finish up this battle first, at least.
+
+<end>
+
+<ChatID:56>----------------------------------------
+//メーコvs.はたて
+
+Hatate0a:To be honest, I'd be in trouble if kappa technology was banned.
+
+Hatate0a:How am I supposed to put out a newspaper without a camera?
+
+Meko0a:All the more reason! It's better that we don't hear about things we don't need to know.
+
+Hatate0a:What, you wanna kill off the concept of curiosity, too? For tengu, that's no different than killing US.
+
+<end>
+
+<ChatID:57>----------------------------------------
+//メーコvs.神奈子
+
+Kanako0a:So the mastermind is using the sheep youkai as relays to show people the dreams.
+
+Kanako0a:This presence... Were Sanae's nightmares a result of this as well?
+
+Meko0a:They could've been. After all, Lady Makura's trying to provide humans with guidance.
+
+Kanako0a:She has the nerve to call herself a leader after doing all this?
+
+Kanako0a:You'd better tell us exactly what you're planning.
+
+<end>
+
+<ChatID:58>----------------------------------------
+//メーコvs.諏訪子
+
+Suwako0a:Using dreams to mess with people's sense of values is one nasty line of thought.
+
+Suwako0a:Are you trying to control people's minds by turning fear into awestruck horror?
+
+Meko0b:Huh? Awestruck horror...?
+
+Suwako1a:You don't get it? if you're scared, then bow before me!
+
+Meko0b:Eep, that's a scary look on your face...!
+
+<end>
+
+<ChatID:59>----------------------------------------
+//メーコvs.キスメ
+
+Kisume0a:I'm pretty sure Mehko uses electricity, so...
+
+Kisume2a:Hyah!
+
+Meko1b:You're hiding in a bucket?
+
+Kisume2a:It's made of wood! Your attacks won't work on me!
+
+Meko0c:Then I'll just cover myself in wool, and...
+
+Meko0b:Wait, I can't see anything!
+
+Kisume0a:Erk, neither can I...
+
+<end>
+
+<ChatID:60>----------------------------------------
+//メーコvs.ヤマメ
+
+Yamame0a:So you finally show yourself. I've got a special disease saved just for you, you know.
+
+Meko0a:Special how?
+
+Yamame0a:It's contagious disease that only spreads to youkai sheep. What do you think would happen if I released it now?
+
+Meko0b:Eep! That's seriously messed up!
+
+Yamame1a:You're one to talk. But I like that look of terror! Show me more of that!
+
+<end>
+
+<ChatID:61>----------------------------------------
+//メーコvs.パルスィ
+
+Parsee2a:You're gonna pay for what you've done to the village.
+
+Meko0a:But aren't you from the Underworld? What do you care?
+
+Parsee2a:There's a bar I wanted to visit, but now they're not letting in youkai!
+
+Parsee2a:It had a nice atmosphere, so I was totally ready to try it sometime soon...
+
+Meko1b:Youkai visiting the village was never normal in the first place.
+
+Parsee2a:That's what made it so nice! You'd never be doing this if you understood!
+
+<end>
+
+<ChatID:62>----------------------------------------
+//メーコvs.勇儀
+
+Yugi0a:Geez, we're gone for a minute and look what happened to the surface. What a mess.
+
+Meko1b:It's the right thing to do, though.
+
+Yugi2a:So I can't go for a drink in the village, and you're saying that's right?
+
+Yugi0a:I've really gotta do something about this incident before it gets even harder to be up here.
+
+<end>
+
+<ChatID:63>----------------------------------------
+//メーコvs.さとり
+
+Satori0c:So you were the kedama from back then.
+
+Meko0a:And you're the master of that nuclear crow.
+
+Satori0b:I haven't forgotten how you to tried to tear Yatagarasu out of Okuu.
+
+Satori0c:You tried to unleash her power.
+
+Meko1b:But it would've been dangerous to leave it alone! You people just didn't understand!
+
+Satori0c:It seems you had your reasons, but I still need to return the favor.
+
+Satori0c:This time, you'll be the one mentally driven into a corner.
+
+Meko0b:Grk...
+
+<end>
+
+<ChatID:64>----------------------------------------
+//メーコvs.お燐
+
+Meko0b:You're the crow's friend...!
+
+Orin0a:Orin, the kasha. And I've been hoping to see you again.
+
+Orin0a:You've got some guts showing your face around here after the roasting Okuu gave you last time.
+
+Meko1b:You're gonna sic vengeful spirits on me, aren't you?
+
+Orin0a:Duh. First we gotta capture you, then we have to solve the incident.
+
+Orin1b:And THEN we can take our time and chat. We've got so much to talk about.
+
+<end>
+
+<ChatID:65>----------------------------------------
+//メーコvs.空
+
+Utsuho0a:Hello again. Still after Lord Yatagarasu?
+
+Meko1c:Uh-uh, we've got a different plan this time.
+
+Meko1d:You saw, right? We keep this up, and all the humans will be hating nuclear power in no time.
+
+Utsuho0e:But the sun is meant to help everyone.
+
+Utsuho1b:I'll open your eyes with the light of Yatagarasu!
+
+Meko1c:Stubborn bird. You just don't know when to give up!
+
+Meko1d:I don't wanna lose to someone like you!
+
+<end>
+
+<ChatID:66>----------------------------------------
+//メーコvs.こいし
+
+Koishi0a:Ooh, that fur looks so warm and fluffy.
+
+Meko0b:Wait, what...?
+
+Koishi0a:What was the word again? Wool? Mutton? Lamb chops?
+
+Meko1b:You can just use wool. Those other two terms, you don't need to know!
+
+Koishi0a:Then how about Jingisukan?
+
+Meko0b:That's another term you don't have to know!
+
+<end>
+
+<ChatID:67>----------------------------------------
+//メーコvs.ナズーリン
+
+Nazrin0a:Looks like even this attack on Eientei was orchestrated by the mastermind.
+
+Nazrin0a:But it seems you're out of luck.
+
+Meko0b:S-So what if you've got reinforcements! Lady Makura's plan is still working!
+
+Nazrin0a:I get the feeling you've got your share of troubles ahead of you, but unfortunately these dowsing rods aren't for fortunetelling.
+
+<end>
+
+<ChatID:68>----------------------------------------
+//メーコvs.小傘
+
+Meko0a:Oh, you must be new. I've never seen you before.
+
+Kogasa0b:Oogly-boogly-boo!
+
+Meko0b:Wah?!
+
+Kogasa0a:Yay! Surprise successful!
+
+Meko0b:Th-That's not fair! Anyone would be surprised by something as sudden as that!
+
+Kogasa0a:You think I'd surprise anyone?! Yay!
+
+Meko0b:And now she's happy... What's your deal, anyway?!
+
+<end>
+
+<ChatID:69>----------------------------------------
+//メーコvs.一輪
+
+Unzan0a:...!!
+
+Meko0b:Whoa! He's huge!
+
+Ichirin1d:Looks like your size and glare are getting across loud and clear, Unzan. We're mad, you know.
+
+Ichirin1a:Don't expect to get out of this with just a knuckle sandwich or two! It's time for a spanking!
+
+Meko0b:B-Being that big is just cheating! I don't even have that many sheep left...
+
+<end>
+
+<ChatID:70>----------------------------------------
+//メーコvs.村紗
+
+Murasa1b:I can't believe an incident like this is happening right after we return with Hijiri.
+
+Meko1a:If you want what's best for the humans, you should realize why Lady Makura's doing this.
+
+Murasa0c:If we could understand you, then no one would be complaining. No one would be upset.
+
+Murasa1b:But we don't, which is why we'll protect the village! For Hijiri's ideals!
+
+<end>
+
+<ChatID:71>----------------------------------------
+//メーコvs.星
+
+Sho1a:Stop this, Mehko!
+
+Meko1b:This is all for the humans! Just think about it!
+
+Meko1b:I know you just started up the temple and all, but that's no match for Lady Makura's power.
+
+Sho0a:True, we've had a late start, but I'm finally walking on the same path as Hijiri.
+
+Sho1a:So for the village, and for Hijiri's ideals, we can't let you have your way!
+
+<end>
+
+<ChatID:72>----------------------------------------
+//メーコvs.白蓮
+
+Byakuren0a:First it was the power of Yatagarasu, then you attacked the bazaar, and now you're invading people's dreams?
+
+Byakuren0a:You must have a conscience. Doesn't doing all this hurt you too, deep down?
+
+Meko1c:...!
+
+Byakuren0a:I know you have a plan. But there's this thing called karmic retribution...
+
+Meko1b:Sh-Shut up! I don't care what you say to me, I'm not stopping the plan!
+
+Meko1b:Right, this is all for Lady Makura!
+
+<end>
+
+<ChatID:73>----------------------------------------
+//メーコvs.ぬえ
+
+Nue0a:Who'd have thought the master of the sheep would be such a kid herself?
+
+Nue0a:I was expecting someone more in control. I eat chumps like you for breakfast.
+
+Meko1d:H-Hey! You haven't even fought me yet!
+
+Nue0a:Look squirt, when you're a great youkai like me, you can just tell these things.
+
+Nue1a:Maybe it's time you learned to fear the unknown!
+
+<end>
+
+<ChatID:74>----------------------------------------
+//メーコvs.聖輦船
+
+Akyu1a:The power to control sleep is so troublesome. We have to find some way to counter it!
+
+Korin0a:Then it's a good thing I brought an item just for that.
+
+Kosuzu0a:What kind of item?
+
+Korin0a:It's called an alarm clock. It's a tool that awakens its user.
+
+Korin0a:It even has a curse that makes it activate on its own if you try to go back to sleep.
+
+Akyu1a:Goodness, how frightful...
+
+Meko1a:...
+
+Meko1b:Does that mean it wakes up even the stubbornest sleepers?
+
+Kosuzu0a:Huh...?
+
+Meko0b:N-Never mind! If you have something that dangerous, I just need to defeat you first!
+
+<end>
+
+<ChatID:75>----------------------------------------
+//メーコvs.小町
+
+Komachi0a:Yo. We finally meet again.
+
+Komachi0a:This time I'm with the Yama, so I've gotta do my job.
+
+Meko0a:What do you mean, your job?
+
+Komachi0a:I mean that I'm measuring the value of your life. Weighing your virtues.
+
+Komachi0a:Not enough virtue, and you ain't crossing the Sanzu. Now let's get started...
+
+Meko0b:N-No, stop! I don't wanna hear it!
+
+Komachi1a:Putting it off isn't gonna make it any easier, you know.
+
+<end>
+
+<ChatID:76>----------------------------------------
+//メーコvs.映姫
+
+Eiki0a:I've heard about what you've done from Komachi.
+
+Meko0b:Oh no, are you Gensokyo's Yama?!
+
+Eiki0a:I understand you've been resorting to underhanded methods to achieve you and your lady's goals.
+
+Eiki0a:What could be going through your head to motivate such selfish deeds?
+
+Meko1b:Hmph! I've got nothing to say to you!
+
+Eiki2a:Hey, get back here! I haven't even started my lecture yet!
+
+<end>
+
+<ChatID:77>----------------------------------------
+//メーコvs.メディスン
+
+Medicine0a:Hey! What're you doing to the medicine Eirin made?!
+
+Meko0b:Haven't seen you around before. And it sounds like you're close to those moon-dwellers.
+
+Medicine0a:What does the moon have to do with it? Eirin lives in the bamboo thicket.
+
+Meko1b:So you don't know anything, huh? Those people are outsiders from the moon.
+
+Meko1b:They use advanced Lunarian science, which is bad for humans.
+
+Medicine0a:You're the one who doesn't know anything! Eirin's medicine helps people!
+
+Meko1b:Even so, it shouldn't be allowed here! That's what Lady Makura says!
+
+<end>
+
+<ChatID:78>----------------------------------------
+//メーコvs.萃香
+
+Suika0a:Geez, you get all your buddies here together and then THAT happens. I feel ya, kid.
+
+Meko0b:Seriously. Where did those people even come from?
+
+Suika0a:But you gotta admit, you're the one that set yourself up for this.
+
+Meko1d:Hmph. I'm still gonna complete the mission I was given.
+
+Meko1d:I'll make certain to be useful to Lady Makura!
+
+<end>
+
+<ChatID:79>----------------------------------------
+//メーコvs.天子
+
+Tenshi0a:Last time you were somebody else's problem, but now it's different.
+
+Tenshi0a:Thanks to you, the whole village is in trouble.
+
+Meko0a:But you're a celestial. The village has nothing to do with you.
+
+Tenshi0a:What does that matter? I've fought alongside these people.
+
+Tenshi0a:"The wise are driven by responsibility. The petty are driven by profit." I don't know what you're planning, but I do what I want!
+
+<end>
+
+<ChatID:80>----------------------------------------
+//メーコvs.衣玖
+
+Iku0a:Because of this incident, there's an abnormal air hanging over the village.
+
+Iku0a:At this rate, Gensokyo will be enshrouded in a cloud of evil.
+
+Meko0a:Clouds? Looks sunny to me though...
+
+Meko0e:Wait, are you a weather forecaster?!
+
+Iku0a:No, I'm a messenger of the Dragon Palace.
+
+Iku0a:Although I don't see myself losing to someone who can't even understand a metaphor.
+
+Meko5c:Excuse me? You're the one who was spouting nonsense!
+
+<end>
+
+<ChatID:81>----------------------------------------
+//メーコvs.三妖精
+
+Luna0a:Wow... Our little Shiro is helping cause Gensokyo-wide incidents now.
+
+Star0a:We thought you were just a kedama, but I guess you beat us to the punch.
+
+Meko0c:Heh heh heh. Now do you realize how amazing I am?!
+
+Sunny0a:Why're you the one bragging? Isn't your master behind everything?
+
+Star0a:Roaring from behind a tiger.
+
+Meko0b:But Lady Makura's not a tiger...
+
+Luna1a:C'mon, are you THAT stupid?
+
+Sunny0a:Anyway, we just gotta beat you up and everything's solved! Easy peasy!
+
+<end>
+
+<ChatID:82>----------------------------------------
+//メーコvs.エリー
+
+Meko0a:I see Yuuka Kazami's minions are with the humans after all.
+
+Elliy0a:I mean, it's not like we've got anything better to do until we find her.
+
+Elliy0a:And wait, what do you know about Yuuka, Miss Sheep-formerly-known-as-Shiro?
+
+Meko0a:Not much, honestly. Just that she's not on Lady Makura's side, but not on the humans' either.
+
+Meko0a:And what's with this "formerly-known-as-Shiro"? I have a name—it's Mehko!
+
+Elliy1a:No offense, but some of us don't get all chummy right off the bat! You're just gonna have to deal.
+
+Meko0a:Eep, now you're getting onto me instead?!
+
+<end>
+
+<ChatID:83>----------------------------------------
+//メーコvs.くるみ
+
+Kurumi1a:I'm mad at you, Shiro!
+
+Meko0b:Kurumi...!
+
+Kurumi1a:I had a nightmare last night. I thought Yuuka was finally coming home...
+
+Kurumi2a:...But then she suddenly changed into Elly! It was awful!
+
+Meko0b:While that does sound awful on multiple levels, I don't think Lady Makura had anything to do with that...
+
+Kurumi1a:She totally did! Probably!
+
+Meko1b:Now you're just picking a fight! But if you want one so bad, I'll give you one!
+
+<end>
+
+<ChatID:84>----------------------------------------
+//メーコvs.魅魔
+
+Mima0a:I had high hopes when I heard you were the mastermind's right-hand woman. Who'd have thought you'd be such an inconsequential grunt?
+
+Meko1b:Now you're making fun of me...!
+
+Mima0a:Then will your power impress me?
+
+Mima0a:Putting on airs will only shorten your lifespan, you know.
+
+Meko1b:Hmph! Say what you like. You think you're better than me, but it's not like you can do anything either.
+
+Meko1d:Go ahead, try to fight back! Lady Makura will show you just how powerless you are!
+
+<end>
+
+<ChatID:85>----------------------------------------
+//メーコvs.神綺
+
+Shinki5a:To think a little girl like you is up to something so dangerous...
+
+Meko0a:This is for Lady Makura. I'm just happy to be useful to her.
+
+Shinki0a:That's your master?
+
+Meko0a:Yup. Everything I do is for Lady Makura's dream. I'll do whatever it takes to further it!
+
+Shinki0a:...I'm sure you have a reason to admire her so much.
+
+Shinki0a:But you must both be stopped, for the sake of Gensokyo.
+
+<end>
+
+<ChatID:86>----------------------------------------
+//メーコvs.夢子
+
+Yumeko0a:So you're the infamous sheep youkai.
+
+Yumeko0a:But if you're a sheep, then perhaps this blade is fitting...
+
+Meko0b:What? Shears?!
+
+Yumeko0a:If I lay bear both your body and your soul, perhaps you'll finally feel the shame of your folly.
+
+Meko1b:No, don't do it! I won't let you shear my sheep!
+
+Yumeko0a:Must I spell it out? The only wool I'm after is yours.
+
+<end>
+
+<ChatID:87>----------------------------------------
+//メーコvs.メーコ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Meko1d:You can't bully Eirin! She's doing her best to help people!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Meko0b:Wawa, what? Me?
+
+Meko1f:It must be some kinda weird magic. You won't fool me that easily!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Meko1a:Of course you'd think that... But even if this is a dream, I gotta stop you and quick!
+
+</nomove>
+
+<end>
+
+<ChatID:88>----------------------------------------
+//メーコvs.まくら
+
+Makura2a:Even harassing Eirin was all under my orders.
+
+Makura2b:I should be the one to bear the blame for this, not Mehko.
+
+Meko0b:L-Lady Makura?! Aren't you supposed to be saving up power in the Dreamscape?
+
+Makura1c:...Right. I came to check up on your work, Mehko.
+
+Makura2a:Please, face me in a match.
+
+<end>
+
+<ChatID:89>----------------------------------------
+//メーコvs.幽香
+
+Yuka2d:I see, so you were running rampant like this.
+
+Meko1d:Yuuka Kazami! Are you saying you're going to get in our way?!
+
+Yuka1a:Well, more or less. This incident is rather distasteful, so I think you need a thorough bullying.
+
+Meko3b:Ooh... I won't let you!
+
+<end>
+
+<ChatID:90>----------------------------------------
+//C70：メーコvs.非想天則
+
+Tensoku0a:...!
+
+Meko0b:Huh? A rampaging machine monster, straight out of a dream?!
+
+Meko1a:How in the world did you end up in reality though?
+
+Tensoku0a:...
+
+Meko1e:And here to stop me, even. Seems like your on Marisa's side.
+
+Meko3a:This doesn't make a lick of sense, but no choice but to fight!
+
+<end>

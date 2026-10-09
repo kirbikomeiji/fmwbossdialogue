@@ -1,0 +1,1069 @@
+○共通第三十三話「完全なる墨染の桜
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: first battle w/ Yuyuko 
+ 3: Yuyuko spell 1
+ 4: Yuyuko spell 2
+ 5: Yuyuko spell 3
+ 6: Yuyuko spell 4
+ 7: beat Yuyuko (spell 5)
+ 8: clear
+ 9-39: battle vs. Yuyuko
+40: lose
+
+<ChatID:0>----------------------------------------
+//1PP-1
+
+<hide=all>
+
+Yuyuko1b:Just a little longer...
+
+<pause>
+
+Yuyuko0a:A little longer and the Saigyou Ayakashi will be in full bloom...
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP-2
+
+Youmu1a:Lady Yuyuko!
+
+Yuyuko0a:Oh, Youmu. Are you done with work for the day?
+
+Nitori0a:So that's Youmu's master. I guess that means the tree behind her is...
+
+Meiling0b:That must be the Saigyou Ayakashi. Luckily it doesn't look like it's blooming yet.
+
+LilyW0a:Everybody look! This is where all of Gensokyo's spring has been gathered.
+
+Alice0a:It's like a sea of cherry blossoms. What an unearthly sight...
+
+Marisa2b:The stench of rot here is making me gag though. Never seen a spring this miserable before.
+
+Reimu0d:Ugh, and it's full of dead spirits too. What a pain.
+
+Yuyuko0a:So what business do you have here? Isn't it a bit rude to barge into someone else's garden with nothing but complaints?
+
+Mokou0a:Isn't it obvious? We're here to take back the spring you've stolen.
+
+Sanae3b:Both humans and youkai are suffering from the long winter...
+
+Sanae1a:We can't let this situation go on any longer!
+
+Yuyuko1b:Ah. What an artless thing to say in front of such a beautiful sight.
+
+Yuyuko0a:...Youmu, knowing what they were planning, you still led them to me?
+
+Youmu1a:Please listen, Lady Yuyuko! That cherry tree is actually a vicious youkai!
+
+Youmu3a:If the seal is broken, then even you won't be safe from it!
+
+Yuyuko1b:I believe I said that I wanted to make this tree bloom.
+
+Yuyuko0a:Did I ask anything else of you?
+
+Youmu3a:But Lady Yuyuko―
+
+Alice4a:She's not listening at all. I suppose telling her how dangerous it is won't work.
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Reimu0a:If she's not gonna listen, then we just have to settle this the old fashioned way.
+
+Reimu1a:I'm putting an end to this incident, and taking back Gensokyo's spring!
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Marisa2b:Hmph, maybe she'll listen to a blast of magic.
+
+Marisa1a:Winter ends today! I'm getting our spring back!
+
+</Cond>
+
+Yuyuko1b:No, the only ends accomplished today will be my own.
+
+Yuyuko0a:Once I partake of your meager spring, this tree will finally bloom.
+
+<end>
+
+<ChatID:2>----------------------------------------
+//妖夢の初戦闘
+
+Youmu0a:...
+
+Keine1a:Youmu, eyes forward! You can't afford to space out right now!
+
+Youmu3a:I'm sorry, but to take up arms in earnest against Lady Yuyuko...
+
+Shizuha0b:Do you want to try persuading her again? She might listen to you.
+
+Youmu3a:It's no use. As you just saw, she's not in a listening mood.
+
+Youmu0a:...And so there is only one method left to me.
+
+Sho0b:Don't tell me you really plan to take up arms against your master?
+
+Youmu3a:When all that remains for you is one path, there is nothing to do but walk it.
+
+Youmu1a:If I must fight her to stop her, then so be it! This is how I'll protect you, Lady Yuyuko!
+
+<end>
+
+<ChatID:3>----------------------------------------
+//幽々子通常撃破（「亡我郷発動）
+
+Meiling1a:What? Did the Saigyou Ayakashi just bloom a little?!
+
+LilyW0a:It's spring! The power of spring is gathering in that tree!
+
+Yuyuko0a:Oh? Thanks to you, it's finally started to blossom.
+
+Patchouli4d:It seems like we ended up bringing her the final bit of spring she needed...
+
+Momiji0a:Why do you even want to make the Saigyou Ayakashi bloom anyway?
+
+Yuyuko5b:Let's see, I suppose I might as well tell you. You've gone through all the trouble of helping me, after all.
+
+Yuyuko5a:It was just a short while ago. The summer, perhaps? I was doing some reading and happened across an old record. 
+
+Yuyuko5a:According to that record, beneath the Saigyou Ayakashi there rests the corpse of "the Fujimi girl".
+
+Sakuya5a:Who's this "Fujimi girl"?
+
+Yuyuko0a:Almost everything in the Netherworld is spiritual, so the idea of a physical corpse being buried here intrigued me.
+
+Yuyuko1b:I have no doubt that if I make the Saigyou Ayakashi bloom and break its seal, she will be revived along with it.
+
+Komachi0b:So that's your aim? To resurrect the dead?
+
+Hina4a:As the administrator of the Netherworld, you, of all people, should know not to disrupt the circle of transmigration...
+
+Minoriko2a:So you're saying you stole all of our spring just to revive this one person?
+
+LilyW2a:Just how many living things do you think you've made suffer for this?!
+
+Yuyuko1b:Oh, but wouldn't it be interesting to see the seasons in a different order?
+
+Shizuha3a:Of course it wouldn't! Don't mess with the seasons!
+
+Letty1b:I'll never let you do something so foolish to the cycle of seasons.
+
+Yuyuko1a:Oh but unfortunately for you, I've already gathered enough spring to do so.
+
+Yuyuko1b:Now, wandering soul, return to your place beneath the cherry blossoms!
+
+<end>
+
+<ChatID:4>----------------------------------------
+//「亡我郷撃破（「生者必滅の理発動）
+
+Yuyuko1b:I see, so this is the color of its blossoms.
+
+Koakuma1a:What do we do?! Her plan's coming together right before our eyes!
+
+Cirno5d:What's so fun about bringing back somebody who's dead, anyway?
+
+Yuyuko1a:Oh, but don't you want to find out too?
+
+Yuyuko5a:Exactly what it feels like to die beneath a cherry tree?
+
+Keine2b:You want to revive someone just so you can ask how they felt when they died?!
+
+Keine1a:Show some more respect for the dead! Think of all the people who are suffering for your hubris!
+
+Yuyuko1b:Well, I've never died before myself. I can call both people and youkai to their deaths for fun, though.
+
+Yuyuko0a:Perhaps you would care to try it out yourself?
+
+Keine1a:...!
+
+Meiling1a:Oh no, is she going to use her power over death?!
+
+Mokou0a:Stop!
+
+<pause>
+
+Mokou3a:To get to Keine, you'll have to go through me!
+
+Sanae1d:Mokou?!
+
+Patchouli5a:Don't be a fool! Whatever the circumstances may be, don't throw yourself into―
+
+Yuyuko5b:...
+
+Yuyuko5a:I see, so you're one of the Houraians. That quite startled me, when my power failed to work on you.
+
+Nitori2a:Huh? Why didn't it work?!
+
+Mokou0a:...I can't die. She has no power over me whatsoever.
+
+Komachi0b:Ahh. So that's why I couldn't see your remaining lifespan.
+
+Keine1a:But, Mokou, that was supposed to be―
+
+Mokou0a:It's fine, Keine. It's just some dumb secret.
+
+Mokou3b:Well, you all heard that too, right? If you value your lives, stay behind me.
+
+Reimu4a:No way. I'm not leaving this to you just because you can't die.
+
+Marisa0a:Even if we're mortal, all we gotta do is not get hit, right?
+
+Keine1a:Girls―
+
+Yuyuko2a:I see everyone here loves to fill the air with their flights of fancy.
+
+Yuyuko0a:However, I believe you will find that there is no easy escape from mortality. Come, let death's butterflies guide you.
+
+<end>
+
+<ChatID:5>----------------------------------------
+//「生者必滅の理撃破（「スワローテイルバタフライ発動）
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1) || (LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Aya2a:What an attack to fight through... Is everyone alright?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0) && (LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Yuyuko0a:Not bad. Who knew you had it in you?
+
+Aya2a:What an attack to dodge through... Is everyone alright?
+
+</Cond>
+
+Nazrin4c:Yeah, sheesh, that was a bother and a half...
+
+Youmu1a:Lady Yuyuko, please stop! Any more of this and you might be in danger!
+
+Youmu1a:Do you know what will really happen if you revive this tree?
+
+Yuyuko0a:My. First you refuse to listen, then you start telling me my business?
+
+Yuyuko1a:It's still not too late. We can watch the Saigyou Ayakashi bloom together.
+
+Youmu1a:...No. Even if it's you asking me, I can't do that.
+
+Youmu1a:Lady Yuyuko, you're more important to me than your orders!
+
+Yuyuko0a:...
+
+Marisa0a:Wow, you've got some spirit! I can respect that.
+
+Sho1a:Yes, Youmu's resolve is certainly praiseworthy!
+
+Yuyuko1b:...Then show me what that resolve can possibly accomplish.
+
+<end>
+
+<ChatID:6>----------------------------------------
+//「スワローテイルバタフライ撃破（「完全なる墨染の桜発動）
+
+Yuyuko5a:Just a little longer. A little longer and the Saigyou Ayakashi will be in full bloom...
+
+Yuyuko5a:Soon, all my questions will be answered with her revival.
+
+Reimu1a:What, you're still going on about that?
+
+Sakuya5a:She wants this so much that she's willing to spread the shadow of death over all of the ground below...
+
+Sakuya0b:And further, this rotten stench... Is this really what it's like when someone's about to be resurrected?
+
+Yuyuko5b:That too will soon be made clear.
+
+Yuyuko5b:This Fujimi girl, who gave up on life beneath these blossoms...
+
+Yuyuko5a:What was she thinking? What was she hoping for as she went to sleep beneath its boughs?
+
+<pause>
+
+Youmu1a:Lady Yuyuko!
+
+Yuyuko5a:Now, perfect cherry blossom... return her soul!
+
+<end>
+
+<ChatID:7>----------------------------------------
+//「完全なる墨染の桜撃破（「反魂蝶発動）
+
+Marisa1b:Did we get her?
+
+Reimu1a:No!
+
+<end>
+
+<ChatID:8>----------------------------------------
+//「反魂蝶撃破（ステージクリア）
+
+Sakuya3b:We defeated her this time... right?
+
+Patchouli4c:Yes, though it's amazing it managed to gather that much spring.
+
+<pause>
+
+Youmu0a:...It's gone quiet?
+
+Meiling0b:So we managed to stop the Saigyou Ayakashi's resurrection?
+
+LilyW0a:Yes, it's releasing the stolen spring.
+
+Shizuha1d:Mother Nature should take care of the rest, and gradually return it to Gensokyo.
+
+Nitori1a:Then that means the incident is resolved!
+
+Alice0d:Good work, everyone. Spring is coming to Gensokyo.
+
+Marisa0a:She was a toughie, but I knew we could do it.
+
+Reimu2b:She really was, I'm bushed.
+
+Youmu3a:...
+
+Youmu3a:Did... Did I do the right thing?
+
+Meiling3a:Youmu?
+
+Youmu3a:No matter how delusional she may have been, I turned my sword against Lady Yuyuko.
+
+Minoriko3a:No, I know you did the right thing.
+
+Youmu2b:I did?
+
+Sho0b:No matter how much it hurt, you never once looked away from the truth.
+
+Sho1a:You made me realize just how long I've been running away.
+
+Nazrin3a:Master...
+
+Sakuya0a:And putting aside that heavy topic for now, I think it's about time for us to go.
+
+Aya3b:I got tons of great pictures, so I'm ready for a vacation.
+
+<pause>
+
+Sanae0b:...
+
+Reimu0f:What, was there something else you needed to do?
+
+Sanae0a:Sorry, I was just fascinated by it.
+
+<pause>
+
+Sanae0a:It's called the cherry tree of death, but it's shedding its petals so peacefully.
+
+Alice0d:Yes, it makes the fight we just had feel like it was all a dream.
+
+Marisa0a:To be honest, ideally I kinda wanted to get to meet the girl she was trying to revive.
+
+Alice0c:Really, Marisa? I swear...
+
+Reimu0g:Well, don't hold your breath. And get a good, long look at these cherry blossoms while you still can.
+
+Reimu0a:Because once these petals are gone, it'll never bloom again.
+
+<nomove>
+
+<hide=all>
+
+<Code=(cursor_jump,320,304,1)>
+
+Yukari0a:Indeed. The Saigyou Ayakashi and all its sins will sleep forever more.
+
+</hide>
+
+<pause>
+
+Alice1a:It's those two from earlier, the youkai fox and the bakeneko. And―
+
+Reimu1a:Yukari!
+
+Yukari2a:What a loathsome tree. I'd hoped to never see it again.
+
+Yukari0a:...You, too, have had the misfortune of encountering it.
+
+Yukari0a:A wicked tree that must never, and will never, come to bloom.
+
+<end>
+
+<ChatID:9>----------------------------------------
+//幽々子vs.霊夢
+
+Reimu0a:I'm taking back spring. 
+
+Yuyuko1b:How direct. 
+
+Reimu0f:I'm not here to make small talk. I want to resolve this incident, and that tree's seal looks like it's about to break. 
+
+Yuyuko0a:But thanks to the spring you've brought me, we'll soon be covered by a sea of cherry blossoms. 
+
+Reimu0a:Sorry, but if that happens, it's not going to end well for anybody.
+
+Reimu1a:Return beneath the flowers, ghost of spring!
+
+<end>
+
+<ChatID:10>----------------------------------------
+//幽々子vs.魔理沙
+
+Marisa0a:To be honest, your plan sounds kinda interesting.
+
+Yuyuko0a:Oh, then why don't you help me gather spring?
+
+Marisa3a:Nah. It sounds dangerous. And anyway, I promised her I'd help.
+
+Marisa1a:With my magic, I'll take back all your miserable spring!
+
+<end>
+
+<ChatID:11>----------------------------------------
+//幽々子vs.慧音
+
+Yuyuko1b:Just a little bit more, and its flowers will finally open...
+
+Keine1a:What are you looking at?! Your opponent is right here!
+
+Yuyuko0a:Why do you think I gathered the spring? It certainly wasn't to start a fight with people like you.
+
+Yuyuko1a:If you don't mind, I think we could all sit and enjoy the flowers together.
+
+Keine1a:And leave the surface in that state?! Is there no end to the contempt you'll show us?
+
+Keine1a:Your actions are absolutely unacceptable! I'll be your opponent, whether you like it or not!
+
+<end>
+
+<ChatID:12>----------------------------------------
+//幽々子vs.アリス
+
+Alice1a:What you're doing is absolutely wrong! 
+
+Yuyuko0a:What an outspoken youkai. Why would you think that? 
+
+Alice1a:Everyone has people who care about them...
+
+Alice1a:Treating anyone's life so lightly is horridly disrespectful towards those feelings!
+
+Yuyuko0a:I'm sure it is. Yet doesn't that apply to the Fujimi girl too?
+
+Yuyuko1b:She threw away her own life... It must make you wonder why she would waste it like that, no?
+
+<end>
+
+<ChatID:13>----------------------------------------
+//幽々子vs.にとり
+
+Nitori2a:Hey, instead of reviving the Saigyou Ayakashi, why don't we just not do that?
+
+Nitori2a:I'm sure you'd be sad if you ended up killing someone with this incident...
+
+Yuyuko1b:Oh? But the more people called to their deaths, the livelier the Netherworld would become.
+
+Yuyuko0a:How could such a power possibly sadden me?
+
+Nitori2a:I have no idea where to even begin with that...
+
+<end>
+
+<ChatID:14>----------------------------------------
+//幽々子vs.ルーミア
+
+<end>
+
+<ChatID:15>----------------------------------------
+//幽々子vs.大妖精
+
+<end>
+
+<ChatID:16>----------------------------------------
+//幽々子vs.チルノ
+
+Cirno5b:So if we beat you up, spring comes back.
+
+Yuyuko0a:Even a fairy like you would bring back spring?
+
+Cirno1a:Course I would! It's so boring in winter 'cuz everything's already frozen.
+
+Cirno1a:When spring comes back, I can go to a flower-viewing party with Dai and Letty!
+
+<end>
+
+<ChatID:17>----------------------------------------
+//幽々子vs.咲夜さん
+
+Sakuya0a:If I beat you, I'll finally be able to deliver spring for the mistress.
+
+Yuyuko0a:If you continue to stand in my way, the only thing you'll have to deliver is notice of your untimely demise.
+
+Yuyuko1b:If you want to avoid making your mistress cry, then go home peacefully.
+
+Sakuya0a:I'm just a servant. I doubt she'd mourn me.
+
+Sakuya6a:But if I failed to complete my duties, I might let her down. More than anything else, that's what I wish to avoid.
+
+<end>
+
+<ChatID:18>----------------------------------------
+//幽々子vs.美鈴
+
+Meiling0b:I've always been prepared to put my life in danger for the sake of another.
+
+Meiling1a:But putting someone else's life in danger for the sake of another? There's definitely something wrong with that!
+
+Yuyuko0a:That's not something that was on my mind when I decided to gather spring.
+
+Yuyuko1b:There's only one thing I want to know. As long as I get my answer, nothing else matters.
+
+<end>
+
+<ChatID:19>----------------------------------------
+//幽々子vs.パチュリー
+
+Patchouli0c:...This opponent will be easy to categorize.
+
+Yuyuko1a:My goodness, is that how you greet someone?
+
+Patchouli1a:Undead are weak against fire. For that matter, so is wood.
+
+Yuyuko1b:Oh my, what should I do? Being set on fire would be quite a bother.
+
+Patchouli0d:Not for me. If you don't like it, then just surrender.
+
+<end>
+
+<ChatID:20>----------------------------------------
+//幽々子vs.小悪魔
+
+<end>
+
+<ChatID:21>----------------------------------------
+//幽々子vs.エリー
+
+Elliy0b:You know, I'm getting tired of the whole "half a joke, half serious" thing you have going.
+
+Yuyuko1b:That's a shame. And here I was hoping we could all enjoy ourselves.
+
+Elliy0b:I get the sentiment, but the cherry blossoms here just aren't the same.
+
+Elliy1a:We should all go back to the surface and welcome spring in together. That's the only way it counts!
+
+<end>
+
+<ChatID:22>----------------------------------------
+//幽々子vs.くるみ
+
+<end>
+
+<ChatID:23>----------------------------------------
+//幽々子vs.妹紅
+
+Yuyuko0a:One of the Houraians... To think we'd meet like this.
+
+Mokou3c:If that's made you lose your nerve, then feel free to throw in the towel right here and now.
+
+Mokou3a:Not that I have any desire to go easy on someone who toys with people's lives.
+
+Yuyuko1b:Oh? And why would someone who will never know death care about something like that?
+
+Mokou3c:I care plenty. I can't die, but that means I've seen my fill of it.
+
+Mokou3a:Your selfish plans are toast as long as I'm here!
+
+<end>
+
+<ChatID:24>----------------------------------------
+//幽々子vs.小町
+
+Komachi0b:So, the very manager of the Netherworld was the one behind the incident. Tsk, tsk.
+
+Yuyuko0a:Have we met? I could swear I've seen you before.
+
+Komachi1c:Sorry for not keeping in touch. I'm a shinigami, we've met before when I was here on business.
+
+Komachi4a:I'm sure you know what a grave matter it is to revive someone whose soul is within the cycle of reincarnation.
+
+Komachi0b:I mean, you do realize that resurrecting this Fujimi girl isn't small potatoes, right?
+
+Yuyuko1b:Does it matter how big the potatoes are? I simply want to talk with her, that's all.
+
+Komachi4b:Just pure curiosity, huh? I can't tell if that makes this better or worse...
+
+Komachi3a:Anyway, I'm taking all the spring you've gathered back to Gensokyo. Hand it over.
+
+<end>
+
+<ChatID:25>----------------------------------------
+//幽々子vs.サニー
+
+<end>
+
+<ChatID:26>----------------------------------------
+//幽々子vs.ルナ
+
+<end>
+
+<ChatID:27>----------------------------------------
+//幽々子vs.スター
+
+<end>
+
+<ChatID:28>----------------------------------------
+//幽々子vs.三月精
+
+Luna2a:Miss Yuyuko, please don't make the youkai tree bloom!
+
+Star2a:If the Saigyou Ayakashi wakes up, a whole bunch of people will be in danger...
+
+Yuyuko0a:Do you really think so? When I floated the idea to some other ghosts, it didn't seem to take their breath away.
+
+Star4b:Grrr, looks like we aren't getting through to her...
+
+Sunny2a:We were ready for this! Luna, Star, we've come this far together, so let's see this through together!
+
+<end>
+
+<ChatID:29>----------------------------------------
+//幽々子vs.穣子
+
+Minoriko0b:What were you thinking, reversing the seasons and the cycle of life like this?
+
+Minoriko0a:Life is born, grows, then bears fruit... This flow must never be disturbed.
+
+Yuyuko0a:And a harvest always comes hand in hand with a decline. Surely you know this?
+
+Yuyuko1b:Don't you think fiddling with that border is fine, if it's just a little bit?
+
+Minoriko1b:No, it's not. And us sisters will prove it to you!
+
+<end>
+
+<ChatID:30>----------------------------------------
+//幽々子vs.静葉
+
+Shizuha0b:We finally found you, the one behind the long winter.
+
+Shizuha3a:What you're doing is wrong. You can't just stop the seasons.
+
+Yuyuko0a:Has that theory of yours ever been put to the test?
+
+Yuyuko1b:We're so close―just a breath away from the Saigyou Ayakashi actually blooming... It'll be starting soon, so please enjoy the show.
+
+<end>
+
+<ChatID:31>----------------------------------------
+//幽々子vs.雛
+
+Yuyuko0a:That's quite a collection of miasma you have there. I'd prefer if don't track it all over the Netherworld.
+
+Hina1b:Should you really be throwing shade at my ominous aura, considering what you've already done with the place?
+
+Yuyuko1b:I just want to see this unblooming cherry tree in its full splendor.
+
+Hina1b:I don't care what your goal is, you're hurting people and it's going to stop.
+
+Hina1c:Your deadly poison will bring calamity to humanity just as surely as my misfortune would.
+
+<end>
+
+<ChatID:32>----------------------------------------
+//幽々子vs.早苗さん
+
+Sanae3b:If the Saigyou Ayakashi is revived, many people will be put in danger.
+
+Sanae2a:Have you ever thought about the feelings of the people you're hurting?
+
+Yuyuko0a:Who knows? I've been in the Netherworld for as long as I can remember.
+
+Yuyuko1b:I wonder... Have I ever lost someone to death?
+
+Sanae0b:I just can't believe you'd start an incident over something like this.
+
+Sanae1a:I'll put a stop to your plan AND this long winter!
+
+<end>
+
+<ChatID:33>----------------------------------------
+//幽々子vs.文
+
+Aya1a:So the culprit really did end up being a big-shot from the Netherworld. How sensational.
+
+Yuyuko0a:I haven't seen a tengu in a long while. It must be a slow news week on the surface, no?
+
+Aya0a:You're not wrong. During this long winter things've been pretty dead.
+
+Aya0b:There are some youkai who are taking it easy, but to the humans it's a disaster.
+
+Yuyuko1a:I went through all this trouble of extending the winter, so I wish they'd at least try to enjoy it.
+
+Aya5a:Part of me agrees with you, but if the smell of death gets too overpowering then I won't be able to write an article about it.
+
+<end>
+
+<ChatID:34>----------------------------------------
+//幽々子vs.椛
+
+Yuyuko0a:You too brought some spring for the Saigyou Ayakashi...
+
+Momiji3a:Huh? What are you talking about?
+
+Yuyuko0a:Can you see it? That tree is slowly but steadily flowering.
+
+Yuyuko1b:With just a bit more spring, we'd be able to see it in its full splendor.
+
+Momiji2a:...What's with her? It's like she's not even looking at me.
+
+<end>
+
+<ChatID:35>----------------------------------------
+//幽々子vs.レティ
+
+Letty0a:So you're the culprit behind this long winter. I've been looking for you.
+
+Yuyuko1a:A youkai of winter has come to the place where I've been making cherry blossoms bloom? How out of place.
+
+Letty0a:I wonder, which of us is out of place? I would think the one who stole spring is the bigger distortion of the seasons.
+
+Letty1b:I'll make you realize that, here and now.
+
+Yuyuko0a:How absurd. A youkai of winter flailing around, hoping for the return of spring.
+
+Letty0a:I can't deny that it's absurd. But once I beat you and eliminate the distortion in the seasons, I'll finally be able to get some rest.
+
+<end>
+
+<ChatID:36>----------------------------------------
+//幽々子vs.リリー
+
+LilyW0a:Return the spring you've stolen!
+
+Yuyuko0a:A fairy of spring... You must have come here looking for it.
+
+Yuyuko1b:You needn't worry, it will be returned once I'm done with it.
+
+LilyW3a:That's unacceptable. I can hear the life whispering, it doesn't want to be here...
+
+LilyW2a:Spring will never come to you!
+
+<end>
+
+<ChatID:37>----------------------------------------
+//幽々子vs.ナズーリン
+
+Nazrin0b:This is the place we were looking for. It's not even subtle, it's just overflowing with spring.
+
+Nazrin4a:But the stench of death is unbearable. It's enough to make even a mouse want to run.
+
+Yuyuko0a:If you leave your spring behind and scurry on home, I won't give chase.
+
+Nazrin6b:You know what? I'd love to, really. But my master is really into this, so I can't exactly turn tail at the moment...
+
+<end>
+
+<ChatID:38>----------------------------------------
+//幽々子vs.星
+
+Sho1b:Can you even imagine how Youmu must have felt, trying to convince you?! How could you just dismiss her like that...?!
+
+Yuyuko0a:My, my... It seems Youmu made some youkai friends while I was occupied.
+
+Yuyuko1b:But can you really afford to be worried about others right now?
+
+Sho0b:After seeing her resolve, there's no way I can back down.
+
+Sho1b:I'm going to put a stop to this, for Youmu and for all of us!
+
+<end>
+
+<ChatID:39>----------------------------------------
+//幽々子vs.妖夢
+
+Yuyuko2a:Surely you don't seriously intend to stand against me.
+
+Youmu1a:Lady Yuyuko.
+
+Yuyuko0a:Oh my, I've never seen such a stern face on you during fencing practice.
+
+Yuyuko5b:But your hands are shaking. What do you expect to cut with a wobbling sword?
+
+Youmu2a:(...This is bad. Even after managing to turn my sword on her, I still hesitate...)
+
+Youmu1a:(But I can't lose my way here!)
+
+<end>
+
+<ChatID:40>----------------------------------------
+//全滅時
+
+LilyW2a:Spring... Spring is fading away...
+
+Keine2a:We came so far, we can't just lose...!
+
+Yuyuko0a:The interlopers are gone. Now I can watch the Saigyou Ayakashi bloom in peace.
+
+Yuyuko0a:Just wait for me, Fujimi girl. I need to hear how you died.
+
+<end>
+
+<ChatID:41>----------------------------------------
+//「亡我郷撃破（もこけね不在パターン）
+
+Yuyuko1b:I see, so this is the color of its blossoms.
+
+Koakuma1a:What do we do?! Her plan's coming together right before our eyes!
+
+Cirno5d:What's so fun about bringing back somebody who's dead, anyway?
+
+Yuyuko1a:Oh, but don't you want to find out too?
+
+Yuyuko5a:Exactly what it feels like to die underneath a cherry tree?
+
+Keine2b:You want to revive someone just so you can ask how they felt when they died?!
+
+Keine1a:Show some more respect for the dead! Think of all the people who are suffering for your hubris!
+
+Yuyuko1b:Well, I've never died before myself. I can call both people and youkai to their deaths for fun, though.
+
+Yuyuko0a:Perhaps you would care to try it out yourself?
+
+Keine1a:...!
+
+Meiling1a:Oh no, is she going to use her power over death?!
+
+Mokou0a:Stop!
+
+Mokou3a:To get to Keine, you'll have to go through me!
+
+Sanae1d:Mokou?!
+
+Yuyuko5b:...
+
+Yuyuko5a:I see, so you're one of the Houraians. That quite startled me, when my power failed to work on you.
+
+Nitori2a:Huh? Why didn't it work?!
+
+Mokou0a:...I can't die. She has no power over me whatsoever.
+
+Komachi4b:Ahh. So that's why I couldn't see your remaining lifespan.
+
+Keine1a:But, Mokou, that was supposed to be―
+
+Mokou0a:It's fine, Keine. It's just some dumb secret.
+
+Mokou3b:Well, you all heard that too, right? If you value your lives, stay behind me.
+
+Reimu4a:No way. I'm not leaving this to you just because you can't die.
+
+Marisa0a:Even if we're mortal, all we gotta do is not get hit, right?
+
+Keine1a:Girls―
+
+Yuyuko2a:I see everyone here loves to fill the air with their flights of fancy.
+
+Yuyuko0a:However, I believe you will find that there is no easy escape from mortality. Come, let death's butterflies guide you.
+
+<end>
+
+<ChatID:42>----------------------------------------
+//幽々子vs.メーコ
+
+Meko1b:You're really gonna make this tree bloom just on a selfish whim?!
+
+Yuyuko0b:Selfish? Then would you allow it if I were doing it for someone else?
+
+Meko0b:Uh, well, no, I mean...
+
+Yuyuko2a:It's been on my mind ever since I first read about it.
+
+Yuyuko3a:I feel like I've seen it before, but also not. I can't help but wonder why.
+
+Meko0g:Don't ask me...
+
+Yuyuko3b:Indeed. Which is why I'll check for myself.
+
+<end>
+
+<ChatID:43>----------------------------------------
+//幽々子vs.まくら
+
+Makura2a:A beautiful, but even more sinister, cherry blossom...
+
+Yuyuko3a:Do you think you'd like to see it in full bloom as well?
+
+Makura1c:Knowing how dangerous it is, how could I ever wish for that?
+
+Makura0g:But why are you so insistent on resurrecting this Fujimi girl? Why do you want this so much?
+
+Yuyuko1a:Who can say? Surely all living beings instinctually want to know more.
+
+Yuyuko3a:What could she have been thinking, as she wished for her own death?
+
+Makura2a:This curiosity cannot be defied with a mere superficial dream.
+
+<end>
+
+<ChatID:44>----------------------------------------
+//幽々子vs.幽々子
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Yuyuko1c:What wonderful ninja arts! Bunshin no jutsu!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Yuyuko0b:Oh my, you're my identical twin.
+
+Yuyuko1a:And since you look just me, surely you understand how I feel in making this tree bloom?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Yuyuko1b:If you mean the Fujimi girl, then I'm also curious.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Yuyuko0b:Then will you help me?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Yuyuko3b:No. If you want to hear my answer, you can wait for this game to end.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Yuyuko1d:Game?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Yuyuko1b:A game between the Fujimi girl and her...
+
+Yuyuko5a:And as it will never end, feel free to imagine yourself playing, forever.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Yuyuko1d:...
+
+</nomove>
+
+<end>
+
+<ChatID:45>----------------------------------------
+//幽々子初戦闘（墨染後）
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Yuyuko1d:(...No doubt this will be the last time I see the Saigyou Ayakashi bloom.)
+
+Yuyuko3c:(The Fujimi girl, who had a similar power to mine...)
+
+Yuyuko2a:(What did you feel, what did you pray for, as you died under you died its blossoms? All I can do is guess, but...)
+
+Yuyuko3b:(I'm sure you were thinking of that precious someone.)
+
+Yuyuko1b:(She watched you with her own eyes to the very end, after all. May you rest in peace.)
+
+</nomove>
+
+<end>
+
+<ChatID:46>----------------------------------------
+//幽々子vs.紫
+
+Yukari4a:Yuyuko...
+
+Yuyuko1d:Yukari... or rather, her doppelganger. She's sound asleep right now, after all.
+
+Yuyuko3a:You might not be the person I mistook you for, but would you like to see the cherries bloom in her place?
+
+Yukari1a:...I would like that. Ever since we first met, watching you and this tree.
+
+Yuyuko0b:You met me...? Surely you're mistaking me for someone else too?
+
+Yukari5a:...Surely.
+
+Yukari4b:(Both you and the tree can never return to the cycle of reincarnation.)
+
+Yukari4a:(I know that, yet still I...)
+
+<end>
+
+<ChatID:47>----------------------------------------
+//幽々子または紫で初戦闘（両者がいる場合）
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+<Code=(icon_set_direction,Yukari,Yuyuko,0)>
+
+Yukari0a:...To think there'd come a day when I'd be watching this tree with you, Yuyuko.
+
+<Code=(icon_set_direction,Yuyuko,Yukari,0)>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Yuyuko1a:Doesn't it take you back, Yukari?
+
+Yukari5a:Perhaps.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Yuyuko1b:...
+
+Yukari0d:Do you remember? We first met beneath this tree.
+
+Yukari1a:And then we met again here as well.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Yuyuko3a:It sounds to me like you're talking about someone else.
+
+Yukari5a:Maybe you'd feel that way, forgetful as you are.
+
+Yukari0d:But I will always remember.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Yuyuko1b:...Right.
+
+<end>
+
+<ChatID:48>----------------------------------------
+//
+
+Stone Enjoy By 	
+Common Wealth	
+Brewdog Barley Wine
+BA Sour
+KBC Saison
+(US Beer)
+(Imp. Stout?)
+
+
+<end>
+
+<ChatID:49>----------------------------------------
+//C33：ゆゆ様vs.非想天則
+
+Tensoku0a:...
+
+Yuyuko0b:Oh my, what a bizarre visitor.
+
+Yuyuko1b:I can't see the flowers with you in the way. Do you think you could move?
+
+Tensoku0a:...
+
+Yuyuko2a:How tactless of you. But my power seems ineffective as well.
+
+Yuyuko3a:Then at the very least, could I ask you to behave yourself?
+
+<end>

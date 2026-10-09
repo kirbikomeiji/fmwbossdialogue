@@ -1,0 +1,1123 @@
+﻿○魔理沙第二十八話「幻想の風穴
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: 1EP
+ 3: vs. JKarasu
+ 4: Yamame spell start
+ 5: beat Kisume
+ 6: beat Yamame (clear)
+ 7: ADVB
+ 8-15: vs. Yamame
+16-21: vs. Kisume
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=10,FROM=人里への森,TO=湖への道,name=Animal Trail,icon=2>
+
+<BG=*bg_talk_Road_Winter2.png,fade=0,color=1,title=*bg_Road,bgm=bgm_talk_aoki>
+
+Hina0b:...
+
+Nitori4b:What's wrong, Hina? You're kinda spacing out.
+
+Hina3a:Nothing, just studying the scenery. 
+
+Elliy0a:I guess you ended up separated from the other gods, huh.
+
+Hina0a:It doesn't matter to me. The Aki sisters were just some people we picked up on the way.
+
+Hina3a:Besides, Nitori wanted to go this way.
+
+Koakuma3b:Komachi, are you sure about letting Mokou go off on her own?
+
+Koakuma0a:You were curious about her remaining lifespan.
+
+Komachi1c:Hey, it's not like I wanted to keep tabs on her or anything.
+
+Komachi0a:If anything, I'm glad to see her help out during an incident. 
+
+Sunny5b:It's so neat getting to trail a suspicious character. It's like we're detectives!
+
+Marisa0a:Yeah, magic detectives. We could join a martial arts tournament or something.
+
+Alice0c:Magic detectives, sure. That said...
+
+Elliy4a:Yeah, we completely lost track of her, huh?
+
+Luna4c:I'm sorry. It was my fault for bumping into that tree.
+
+Koakuma3d:Don't worry about it. Visibility's not the greatest here to begin with.
+
+Sakuya5b:But Youmu would have trouble navigating in this weather too. I doubt she's gotten far from us.
+
+Alice0d:I suppose you can't sense anything around us, Star?
+
+Star4b:Sorry, no...
+
+Star0a:I've been searching for a while now, so I'm pretty sure there's nobody.
+
+Kurumi4a:Aww. Guess we'll have to give up and go back to Reimu's group.
+
+Meiling1a:No, let's not give up the ghost yet! Maybe she's hiding somewhere.
+
+Marisa0a:Yeah! If we go back empty-handed, we're just gonna look stupid.
+
+Marisa0c:How about under the snow or ground or something? Search anywhere that she might be. 
+
+Star4b:But that's just silly. No one's going to be―
+
+Star6a:...?
+
+Luna0a:What is it, Star?
+
+Star3a:Was that my imagination? I thought I sensed someone for a bit.
+
+Sunny4a:Bwah? You just said nobody was around!
+
+Star4a:I did, but I know what I sensed...
+
+Star1a:...There it is again! I sensed it from that direction!
+
+Kurumi0b:You mean whoever it is, they're taking shelter over there? 
+
+Komachi0a:Not sure what's going on, but guess there's no harm in giving it a look-see.
+
+<MAP=10,FROM=湖への道,TO=地底入り口,name=Animal Trail,icon=2>
+
+<BG=bg_talk_Road_Winter2.png,fade=0,color=1,title=*bg_Road,bgm=bgm_talk_ningyo>
+
+Elliy0a:Well, here we are. This is where the fairy sensed it, right?
+
+Star4a:That's so weird... it's just gone.
+
+Kurumi1b:But you're supposed to have that whole radar thing going!
+
+Star4a:I'm just as confused as you are right now...
+
+Star0b:I remember focusing on it, but then I just kinda... forgot about it?
+
+Nitori0a:Hoo boy, now that's what I'd call a glitch in our radar system.
+
+Komachi4b:Fairies always get careless at the worst possible time.
+
+Star6b:Well, er, I did find another presence, if that's good enough!
+
+Star3b:I sense something inside that hole over there.
+
+Nitori0b:By hole you mean that eerie-looking cave?
+
+Hina2a:...That doesn't look like a place people should go anywhere near. And that says something, coming from me.
+
+Marisa0a:Alright, let's sneak in and investigate.
+
+Koakuma4b:Wait, you want to go charging in there completely unprepared?
+
+Marisa0b:That presence she's sensing could be Youmu. It's worth checking out.
+
+Sakuya0a:And even if it isn't Youmu, it's suspicious that anyone is in there at all.
+
+Alice4a:...There's just no stopping you, is there? I suppose we can take a look.
+
+Alice0a:But only to make sure no one's in there.
+
+Luna6a:S-Sure.
+
+<nowindow>
+
+<single>
+
+<Code=(demo_wait,45)>
+
+</nowindow>
+
+Zenki0a:...
+
+</single>
+
+<Code=(transition_out,c_black,15,1)>
+
+<Code=(demo_wait,60)>
+
+<BG=bg_talk_Chitei.png,fade=1,color=1,title=bg_Cave,bgm=bgm_talk_cave>
+
+Meiling3a:This goes a lot deeper than I expected.
+
+Elliy0b:Yeah, and the path keeps growing wider.
+
+Koakuma4b:It's so dark, I can barely see my hand in front of my face... Lady Patchouli, I'm scared.
+
+Marisa2b:Hey! That's my arm! Ever heard of personal space?
+
+Patchouli4a:Don't mind her, she's just terrified now that we're really doing this.
+
+Koakuma1a:Oh, I'm sorry! I didn't mean to―
+
+Sakuya5b:Star, are we any closer to that presence yet?
+
+Star0b:We'll reach it soon. It's smaller than I thought.
+
+Karasu0a:Caw...
+
+<Code=(map_shake,1,15,2)>
+
+Kurumi2a:Eek!
+
+Karasu0a:Caw.
+
+Marisa0b:...What the heck, it was just a youkai crow?
+
+Komachi0a:This must have been the presence you were sensing.
+
+Star4b:Yes, um, I think so. That sure isn't Youmu.
+
+Elliy3b:It's okay, we didn't have our hopes up!
+
+Karasu0a:...
+
+<single>
+
+Marisa0b:Well, we cleared that up. What now?
+
+Marisa0a:We're already pretty far in, so why don't we treat ourselves to a little spelunking?
+
+</single>
+
+Alice1b:Marisa, we're supposed to be dealing with an incident!
+
+Marisa0c:Yeah, but it'd be a real waste to just turn around and come back empty handed.
+
+Marisa0a:We've lost track of Youmu anyway, and maybe we'll hit paydirt somewhere down here.
+
+Luna4b:But we have no idea how deep this cave goes.
+
+Meiling5a:The way it's been going, we could end up in a giant mole's nest, or on the other side of the world.
+
+Patchouli0d:It's not inconceivable.
+
+Kurumi6a:What, really?!
+
+Patchouli0c:There's a world beneath our own, called the Underworld.
+
+Patchouli0b:I've read that it's where all the most reviled and dangerous youkai on the surface were sealed away.
+
+Meiling0a:No kidding? I was just joking around.
+
+Star0a:I've never heard of any place like that.
+
+Komachi1c:Most people wouldn't have. Travel between the Underworld and the surface was forbidden ages ago.
+
+Hina0b:The Underworld youkai must stay underground, and in return the surface youkai are not allowed to meddle down there.
+
+Hina0a:That was the agreement reached by the Youkai Sages and the youkai of the Underworld.
+
+Nitori2a:Oh yeah, I think I remember hearing about that. I'd totally forgotten.
+
+Elliy4a:Wow. No one's allowed to come or go? What a strict rule.
+
+Elliy0a:I hardly ever hear about youkai fighting each other, so why would they need it?
+
+Hina1a:It's peaceful now, but there used to be a lot of conflicts among youkai.
+
+Hina0a:It was resolved through the efforts of the Sages. Isolating the Underworld was a part of that.
+
+Kurumi4b:Huh. That's kind of depressing. 
+
+Marisa0c:Look, we don't even know for sure if this IS an entrance to the Underworld.
+
+Marisa0a:Shouldn't they have signs or something? Like, "Welcome to the Underworld!" with hearts and stuff?
+
+Patchouli4a:All I can tell you...
+
+Patchouli6b:All I can tell you... is that I have no clue.
+
+<SE=se_talk_zuko01.ogg,wait=0>
+
+<Code=(map_shake,1,15,2)>
+
+Marisa6b:Oh come on!
+
+Sakuya6a:Easy now. That part wasn't in the books, I imagine.
+
+Sakuya0a:It looks like we won't know for sure until we see for ourselves. 
+
+Meiling0a:And this is all just an assumption on our part, anyway.
+
+Koakuma0a:At any rate, if we want more information, the only way to get it is to continue onward.
+
+Marisa0a:With any luck we'll find something to help with the investigation. Worst comes to worst, at least it'll be an adventure!
+
+Sunny5a:Yay, it's like we're in an Inny Anna Jones movie! Inny Anna Jones and the Secret Underground Treasure! 
+
+Komachi5a:Yeesh. Now I'd feel like a jerk for saying no.
+
+Alice0a:Yes, quite. Let's just try to avoid any detours, please.
+
+Alice0c:And if we find nothing promising, we leave immediately. Agreed?
+
+Marisa0a:Fine, fine. Let's skip to next floor and get this adventure going!
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP
+
+<hide=name>
+
+Kisume0b:It kinda smells like the surface over that way...
+
+Kisume0a:The winds from up there sure are staying cold this year.
+
+Kisume2b:Hey, someone's coming!
+
+<end>
+
+<ChatID:1.5>---------------------------------------
+//1PP-2
+
+Marisa0b:Wow, this place is ginormous. Too dark to see much though.
+
+Alice0a:And there's a strong breeze. It's hard to believe we're inside a cave.
+
+Koakuma0b:Lady Patchouli, this really is the Underworld, isn't it?
+
+Patchouli4a:I don't know. Had I known we'd be doing this, I would have studied more.
+
+Komachi0a:Well, let's try going just a little further.
+
+Komachi1c:If we turned back now, our whole trip'd be for nothing.
+
+<pause>
+
+<hide=name>
+
+Kisume2b:Yamame, over here!
+
+</hide>
+
+Yamame0a:Whoa, they really are humans. What a rare find, Kisume. Nice work.
+
+Star6a:Uh, somebody else is here.
+
+Sunny4a:Youmu? Nope, doesn't look like it. Not even close.
+
+Alice0a:Do you two live in this cave? We're looking for someone.
+
+Alice0a:Have you seen a swordswoman with a bowl cut?
+
+Yamame0a:A girl with swords? That's a strange question for a visitor to ask.
+
+Yamame0a:I don't even know how long it's been since the last time we had visitors from the surface.
+
+Kurumi4a:Wait, from the surface? Does that mean what I think it means?
+
+Yamame0a:Oh, did you stumble on in unaware?
+
+Yamame1a:This is the entrance to the Underworld. I'm Yamame Kurodani. Come right on in, you're gonna have a blast.
+
+Patchouli4c:...Drat. This place really is connected to the Underworld.
+
+Nitori2a:Oh, geez... On top of that, just look at her...
+
+Yamame0a:Yeah? What about me?
+
+Nitori2a:Ack, it's true! A tsuchigumo! She's a tsuchigumo, I'm telling you!
+
+Nitori1b:Hey, you, tsuchigumo! I'll squish you flat!
+
+Elliy1b:Nitori, what's gotten into you?
+
+Nitori1b:Nothing's gotten into me! That's a tsuchigumo! They're rotten, despicable Underworld youkai that pollute rivers!
+
+Yamame0a:Oh hoh, I'd been curious why you came here, but I guess you want to rumble.
+
+Yamame1a:And hell yeah! Count me in. If you wanna go, let's go!
+
+Nitori4c:Well, you heard her, everybody! You can do it!
+
+Hina2a:Seriously, Nitori?
+
+Marisa0b:Hey, whatever floats her boat. An enemy of Nitori is an enemy of ours.
+
+Alice1b:Excuse me, didn't we agree that we couldn't stay here long?
+
+Sakuya0b:It's too late to back down now. Let's just clean this up quickly and get out of here.
+
+Kisume2b:Yamame, I don't like the way they're talking...
+
+Yamame0a:Hmph, talk big while you still can.
+
+Yamame1a:I'll show you the strength of the youkai who were banished below the surface!
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1EP
+
+Kisume2a:If Yamame's fighting, then count me in!
+
+<pause>
+
+Luna1a:Whoa! A bucket just flew at us!
+
+Patchouli0c:From these tactics, this is undoubtedly a tsurube-otoshi.
+
+Marisa1a:You know what this thing is, Patchouli?!
+
+Patchouli4a:Yes, I've read about them. They're apparently a dangerous and highly aggressive form of youkai.
+
+Patchouli0a:They're known for plunging down from overhead when people are walking down dark roads at night.
+
+Sunny3c:That doesn't sound dangerous to me. That just sounds pesky.
+
+Kisume2a:I am not! I'll scare you good!
+
+Yamame0a:Kisume's a little shy, but she gets the job done when she has to.
+
+Yamame0a:Don't underestimate her, or you're gonna end up with a nasty bump on your head.
+
+<end>
+
+<ChatID:3>---------------------------------------
+//地獄鴉と初戦闘
+
+Marisa0b:What's with these youkai crows? They're not like the usual kind...
+
+Yamame0a:Of course not. These crows grew up in a very harsh environment. Know what their favorite food is?
+
+Yamame0a:I'll give you all one guess, but either way you'll find out soon enough.
+
+Kurumi3d:Ooh, ooh.... um, I'm not sure! What is it?
+
+Meiling1a:That crow looks like it hungers for flesh. Be careful, everyone!
+
+<end>
+
+<ChatID:4>---------------------------------------
+//ヤマメ通常撃破
+
+Yamame0a:Not too shabby. You surface dwellers haven't been slacking off.
+
+Marisa0a:Hmph, well, for somebody who's supposedly so hated she had to be locked away underground, you sure aren't much to write home about.
+
+Kurumi3a:I bet living so long without the light of the sun took away all her energy.
+
+Nitori2a:No, she hasn't revealed her true colors yet...
+
+Nitori1b:A tsuchigumo's power is spreading disease. That's how they pollute rivers!
+
+Hina1b:I see. Disease, that terror which eats away at lives from the inside out...
+
+Sakuya5c:With a power like that, no wonder she ended up exiled down here.
+
+Yamame0a:Wow, I'm getting some real hateful vibes from you guys. I'll have you know that we hardly ever use our powers.
+
+Yamame0a:But I'm not just gonna let some surface dwellers come down here and mock me.
+
+Yamame1a:I haven't blighted any humans with disease in years. Let's see how fast I can get back in the groove!
+
+<end>
+
+<ChatID:5>---------------------------------------
+//キスメ撃破
+
+Kisume2a:Aaahh!
+
+Yamame0a:Kisume! Is your bucket okay?
+
+Kisume2b:Um, yeah. I'm okay, it just kinda hurt.
+
+Kisume2a:Sorry, Yamame. I've gotta go!
+
+<pause>
+
+Yamame0a:I knew you guys were nothing to sniff at, but I never thought you'd beat Kisume.
+
+Yamame1a:If I backed down now, we'd be the laughing stock of the whole Underworld.
+
+<end>
+
+<ChatID:6>---------------------------------------
+//ヤマメ撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Nitori0a:There! We did it, everybody!
+
+Marisa0b:No one could take that many nasty attacks and keep on kicking!
+
+Yamame0a:Whew, that was a blast. You guys sure know how to keep things flashy!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Yamame0a:Well aren't you a slippery bunch.
+
+Patchouli4a:...We managed to escape.
+
+Meiling3a:No one could manage to endure that kind of direct hit!
+
+Yamame0a:What a shame, I was hoping for a clean capture.
+
+</Cond>
+
+<Cond=(FIND_UNIT,Kisume_en,enemy,!=,-1) && (LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Kisume2b:Yamame, are you okay?
+
+Yamame0a:Eh, this is nothing. How about you? Your bucket still holding up?
+
+Marisa0b:Oh, hey, you're still standing. Guess we're gonna have to make one more push...
+
+</Cond>
+
+<Cond=(FIND_UNIT,Kisume_en,enemy,==,-1) || (LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Yamame0a:I'd love to go another round, but that's about all the time we have.
+
+Marisa0a:What? We can go all day if you want.
+
+</Cond>
+
+Yamame0a:Sorry, but I'm pretty sure it's time we bring this party to a close.
+
+Yamame0a:There's no way you could've come this close to the Underworld without HER noticing.
+
+Patchouli0c:Who are you talking about?
+
+Yamame0a:Someone super scary. Not gonna lie, I'd start running if I were you.
+
+<pause>
+
+Elliy4a:What's she talking about? Is this a bluff?
+
+Hina0b:Look, we can't stay too long down here. If we do, we're in for trouble.
+
+Alice1a:She's right, Marisa. We need to go back to the surface now.
+
+<pause>
+
+<Code=(icon_set_direction,Marisa,FD_RIGHT,0)>
+
+Marisa0c:Bleh, you girls are no fun. We could at least find ourselves a souven―
+
+Marisa0b:Huh.
+
+<pause>
+
+Marisa0b:What's that thing? There's something huge buried here.
+
+<Code=(icon_set_direction,Nitori,Marisa,0)>
+
+Nitori2a:You're right. It looks almost like a ship...
+
+Marisa0a:Hold on, I'm gonna go check this out.
+
+<Code=(icon_set_direction,All,Marisa,0)>
+
+<pause>
+
+<Code=(icon_set_direction,Marisa,FD_RIGHT,0)>
+
+Koakuma1a:Sheesh, Marisa. We're gonna end up leaving you behind!
+
+Marisa0c:C'mon, a quick peek won't hurt anything.
+
+Marisa0a:Whoa, it really is a ship. What's it doing buried underground here?
+
+Alice0c:Ugh, she's not listening. Maybe we should drag her out.
+
+Meiling1a:Yeah, sure, let me just...
+
+Patchouli5b:...!
+
+Patchouli4d:No, don't. We're surrounded!
+
+Nitori2a:Wha?!
+
+<pause>
+
+<Code=(icon_set_direction,All,FD_LEFT,0)>
+
+Luna6a:More Underworld crows! A bunch of them!
+
+Satori0a:You were right. There really are intruders.
+
+Karasu0a:...
+
+Satori0e:No, of course I didn't doubt you. You did a good job reporting to me.
+
+Orin3a:Wow, real humans. I haven't seen live ones in ages!
+
+UtsuhoB0a:...Unyu? I thought surface people weren't allowed down here.
+
+Satori0a:Hello. I am Satori Komeiji, ruler of the Palace of Earth Spirits.
+
+Satori0b:The last thing I was expecting was to find a group of surface youkai barging into the Underworld.
+
+Meiling6a:Um, about that! We didn't mean to intrude. We wandered here by accident!
+
+Orin6a:So she claims. What do we do, Miss Satori?
+
+Satori0b:Capture them. We'll make them tell us everything.
+
+Komachi2b:And that's our cue to leave! Marisa, come on, we're getting outta here!
+
+Marisa1a:Got it! I'll just swoop right on out of here...
+
+<pause>
+
+UtsuhoB5d:Whoa, she's fast!
+
+Orin3a:Don't just stand there admiring her―capture her!
+
+Satori0c:Orin. Okuu. That human will fly straight ahead. Block her path from the front.
+
+UtsuhoB0a:On it, Miss Satori!
+
+<pause>
+
+Marisa6b:Ugh, they're right out in front of my face!
+
+Marisa2b:In that case, I'll―
+
+Satori0c:Her movement is a feint. Corner her from the opposite side.
+
+Orin6a:Aye-aye, ma'am!
+
+<pause>
+
+Marisa1a:What in the―
+
+Satori0c:She will attempt to slip between you. Trap her in a pincer attack.
+
+<pause>
+
+UtsuhoB5d:Yeah! I caught a human!
+
+Marisa2b:Argh, lemme go! Let go of me!
+
+Kurumi6b:Ahh! They got Marisa!
+
+UtsuhoB0a:Miss Satori, should we capture the rest of them?
+
+Satori0b:No, one will suffice. You can do what you like with the rest.
+
+Satori0e:Don't squabble with each other. Remember, sharing is caring.
+
+Orin1b:Aw, it's not fair letting the crows have all the fun. Leave some for us, okay?
+
+<nomove>
+
+<Code=(cursor_jump,256,384,1)>
+
+JKarasu0a:...
+
+</nomove>
+
+Sunny4c:Yikes! Those crows wanna eat us!
+
+Meiling1a:And with this many of them, we can't go to Marisa's rescue!
+
+Satori0b:Now then, I'll be taking you to the Palace of Earth Spirits.
+
+Satori0a:There, you will tell me EXACTLY what you came to the Underworld for.
+
+Marisa2a:Stop it! I wasn't even―
+
+<pause>
+
+Alice1a:Marisa!
+
+Nitori2a:Marisaaaaa!
+
+<end>
+
+<ChatID:7>---------------------------------------
+//ADVB
+
+<Code=(demo_wait,30)>
+
+<BG=bg_talk_Chireiden.png,fade=0,color=1,title=bg_Chireiden,bgm=bgm_talk_kaikidan>
+
+Marisa2b:Ow! You don't have to tie me up so tight! Loosen it up a little!
+
+Utsuho0a:Oh, well... how loose is loose enough?
+
+Orin3a:Miss Satori told us not to tear off any limbs, remember?
+
+Orin6a:Once a birdbrain, always a birdbrain, I guess.
+
+Utsuho0a:Um, hmm.... Okay, how about this?
+
+<Code=(map_shake,1,45,2)>
+
+<SE=se_talk_muscle01.ogg,wait=1>
+
+Marisa2a:Owww, geez! You're gonna rip me apart!
+
+Marisa2b:What the heck's your problem, anyway? You're really doin' a number on your new guest!
+
+Utsuho0a:We have to be careful. It would be bad if you got loose and did anything to Miss Satori!
+
+Orin0a:Well, we took away your weird tool, so I doubt you can do much anyway.
+
+Marisa2b:Ugh...
+
+Satori0c:Looks like you're ready.
+
+Orin0a:Miss Satori, thank you for all your help.
+
+Marisa2b:Ah hah, so here's the youkai boss. What's the big idea, capturing me?
+
+Satori0e:As I said, I want to ask you some things.
+
+Marisa2b:Hmph, well, you don't have to tie someone up to talk to them.
+
+Marisa0a:But fine, if you've got questions, I've got answers.
+
+Satori0b:Compared to the others, your ideas are shallow at best. "I could totally take her if I just find the right opening," is it?
+
+Marisa3b:!
+
+Satori0b:"Escaping's a problem for later. First thing's first, I've gotta play along and figure out where my mini-hakkero is."
+
+Satori0c:Sorry to disappoint you, if that plan was the best you can come up with.
+
+Marisa3b:Wait, are you―
+
+Satori0b:Yes, that is precisely it. I can read minds.
+
+Utsuho0a:Isn't it neat? Miss Satori knows everything about us!
+
+Orin6a:Meaning, she can see through whatever you're thinking.
+
+Orin0a:Even vengeful spirits and starving beasts can't defy Miss Satori. 
+
+Marisa0b:Hmph. That explains how easy it was for you to capture me...
+
+Marisa0a:But revealing your own tricks? You might as well be begging me to find your weakness. 
+
+Satori0b:Please, by all means, find one.
+
+Marisa2b:Rrg...
+
+Satori0c:You're flustered. You don't know how to deal with this.
+
+Satori0c:You're hoping for your friends to come for you, but I'd give up on that if I were you. 
+
+Marisa2b:Why? They'll totally come for me!
+
+Orin0a:I hate to be the bearer of bad news, but we already got reports that they fled to the surface.
+
+Utsuho0a:Even if anyone did stay, wouldn't they be crow food by now?
+
+Marisa3a:Oh yeah? That just means they went to get backup.
+
+Marisa2b:There's tons of powerful youkai on the surface. If they bring some of those along...
+
+Satori0b:I see. I don't know much about the vampires, but Suika Ibuki and the mountain youkai are certainly strong.
+
+Satori0c:But they won't be able to come. The Sage would never permit them to aid someone who broke the agreement.
+
+Marisa3b:...!
+
+Satori0a:You have quite a lot of faith in your friends. But the gulf between the surface and the Underworld is far too vast to forgive your crime.
+
+Marisa3a:...
+
+Utsuho0a:She's not talking back. Good, she shouldn't!
+
+Satori0a:Now, allow me to ask. Why did you come to the Underworld?
+
+Marisa3a:No reason. I just stumbled across the entrance.
+
+Marisa3a:I was investigating an incident before that. It's pretty bad on the surface right now. 
+
+Utsuho0a:Something's going on up there?
+
+Orin3a:Watch it. Miss Satori can see right through your flimsy excuses.
+
+Satori0b:No, she seems to be telling the truth...
+
+Satori0b:An unending winter? It sounds like something strange indeed is happening on the surface. 
+
+Utsuho0a:But how does that lead to her getting into a fight?
+
+Marisa3a:Oh, that was just spur of the moment. We weren't here to pick a fight.
+
+Satori0c:...
+
+Marisa4a:O-Okay, maybe a little. I admit it. But we didn't mean any harm.
+
+Marisa2b:So, can you send me back to the surface now? 
+
+Satori0b:I can't allow that. You knew about the agreement and knowingly broke it for fun.
+
+Satori0a:I will keep you as a valuable piece of evidence to present to the Sage when I speak with her. 
+
+Marisa3b:Evidence? Don't you mean a witness?
+
+Orin0a:Nah, evidence. Nobody's gonna call a dead body to the stand.
+
+Marisa2b:Okay, this whole place is nuts. We're so not on the same page, I don't think we're even reading the same book.
+
+Satori0b:If you would, please take the human to the dungeons.
+
+Satori0a:Her place of imprisonment should afford her no opportunities to escape.
+
+Orin0a:Yes, ma'am! She'll get a one-way ticket for a corpse voyage, with a complimentary deserted hell lullaby!
+
+Utsuho0a:Come on, walk!
+
+Marisa2b:Dammit...
+
+<Code=(transition_out,c_black,35,1)>
+
+<Code=(demo_wait,20)>
+
+<BG=bg_talk_Chireiden.png,fade=1,color=1,title=bg_Chireiden,bgm=bgm_talk_ningyo>
+
+Utsuho0a:Miss Satori! We've got that human locked up!
+
+Satori0a:Good work, you two. Did she put up anymore of a fight?
+
+Orin0a:Nope. She looked like she was waiting for a chance to make a break for it while we were escorting her there.
+
+Orin6a:But once we put her the cell, she settled down nicely.
+
+Satori0b:I see. She's not lacking in courage, I'll give her that.
+
+Satori0a:Even coming here to the Underworld seems to have just been an adventure to her.
+
+Orin0a:Miss Satori, are you sure we can trust what she said?
+
+Orin1b:She's from the surface. She must be plotting something. 
+
+Satori0b:At the very least, I know her mind wasn't lying. I believe it really was a random whim on her part.
+
+Utsuho0a:Kay, guess we've got nothing to worry about.
+
+Utsuho2c:I was afraid Miss Koishi had done something on the surface, or―
+
+Satori0b:...
+
+Orin3a:Okuu! Don't say things like that in front of Miss Satori!
+
+Satori0b:It's okay. She's saying it because she's worried about Koishi.
+
+Satori0c:Speaking of Koishi, is she still not around today?
+
+Orin5a:Um, well... I saw her in the halls this morning.
+
+Orin0a:And the lunch I set out was gone, so I'm pretty sure she's at home.
+
+Satori0b:I see.
+
+Orin3a:Uh, um...
+
+Orin5a:(They're not even speaking to each other now? I want to ask why, but I can't.)
+
+Orin2c:(Ack, cut it out, me! Miss Satori will overhear it if I think it out loud!)
+
+Satori0c:...
+
+Satori0b:I'll have to notify the Youkai Sage about these events.
+
+Satori0b:I'll also need to heighten our security and address inquiries regarding this incident. And there's still the maintenance for reactor 6...
+
+Utsuho2c:Um, Miss Satori, we'd like to help if we can.
+
+Satori0e:That's okay, Okuu.
+
+Satori0e:I'll handle this. You two focus on your own jobs.
+
+Orin5a:Okay...
+
+<end>
+
+<ChatID:8>----------------------------------------
+//ヤマメvs.魔理沙
+
+Marisa0b:I've been in the youkai exterminating business for a long time now, but this is my first time meeting one of you Underworld folks.
+
+Yamame0a:Well for me, it's been absolute ages since I've fought a human from the surface.
+
+Yamame0a:Before you there was.... ahhh, what's-her-name...
+
+Marisa0a:Huh, so I'm basically in uncharted waters? That's pretty cool.
+
+Marisa1a:I'll show off as much as I can here! And spread the name of the magician Marisa Kirisame much wider than Reimu's!
+
+<end>
+
+<ChatID:9>----------------------------------------
+//ヤマメvs.アリス
+
+Yamame1a:Come at me!
+
+Yamame0a:With my power, it doesn't matter if you're a human or a youkai, you're gonna get sick.
+
+Alice0a:What a troublesome opponent. I'll have to stay at a distance and fight with my dolls.
+
+Alice4a:Sorry, Shanghai. I'll clean you up later.
+
+<nomove>
+
+Shanghai0a:Shanghai...
+
+<end>
+
+<ChatID:10>----------------------------------------
+//ヤマメvs.咲夜さん
+
+Sakuya0a:The Underworld youkai seem more amicable than I expected.
+
+Yamame0a:People who live on the fringe of society still have their own society. Plenty of us get along fine.
+
+Sakuya0a:You're right. It's not too bad, living a life on the fringe.
+
+<end>
+
+<ChatID:11>----------------------------------------
+//ヤマメvs.にとり
+
+Nitori1b:Hey, tsuchigumo! I'm not gonna let you get away from this in one piece!
+
+Yamame0a:My, that's a lot of hatred out of nowhere.
+
+Nitori0b:We kappa are super fussy about our water.
+
+Nitori1b:Anyone who pollutes a river is getting disinfected. With missiles!
+
+<end>
+
+<ChatID:12>----------------------------------------
+//ヤマメvs.パチュリー
+
+Patchouli4a:...Double drat. It really was an entrance to the Underworld.
+
+Yamame0a:Well, you've come this far, so why don't you just kick back and enjoy the scenery?
+
+Yamame0a:Though with the agreement and all, I can't exactly guarantee you'll get home in one piece.
+
+Patchouli4b:I've no intent to overstay my welcome.
+
+<end>
+
+<ChatID:13>----------------------------------------
+//ヤマメvs.小町
+
+Yamame0a:By the way, how'd you find the entrance?
+
+Komachi0b:It was just a coincidence. If we'd known it led to the Underworld, we wouldn't have come.
+
+Yamame0a:Nice story. Do you really expect me to believe that?
+
+<end>
+
+<ChatID:14>----------------------------------------
+//ヤマメvs.エリー
+
+Elliy4a:Sickness, huh? That reminds me, earlier I caught a cold.
+
+Yamame0a:Oh, so even youkai can get sick?
+
+Elliy0a:Even though I'm normally so healthy, I ended up making Yuuka worried...
+
+Elliy5a:But then again, I got to be nursed back to health. It makes me smile just thinking about it!
+
+<end>
+
+<ChatID:15>----------------------------------------
+//ヤマメvs.雛
+
+Hina1a:Your power over diseases is just too dangerous around humans.
+
+Yamame0a:Thanks, I try. So what are you gonna do about it?
+
+Hina3a:I'll take on your misfortune. I won't let you lay a hand on them!
+
+<end>
+
+<ChatID:16>----------------------------------------
+//キスメvs.美鈴
+
+Meiling3a:That bucket certainly looks tough. I wonder if I could break it like a board?
+
+Kisume2b:Don't treat me like a practice dummy!
+
+<end>
+
+<ChatID:17>----------------------------------------
+//キスメvs.小悪魔
+
+Koakuma4b:It seems like it would be really inconvenient to live in a bucket...
+
+Koakuma3d:Oh, but maybe it's actually really helpful to have your own bucket with you when you take a bath?
+
+Kisume2b:That's not really why I'm in one...
+
+<end>
+
+<ChatID:18>----------------------------------------
+//キスメvs.くるみ
+
+Kurumi3c:I've been wondering... Is it fun being in a bucket?
+
+Kisume0a:Huh? I've never thought about that.
+
+Kurumi3b:Well if it is, I'd like to try too!
+
+Kisume2a:Sorry, but this bucket only seats one!
+
+<end>
+
+<ChatID:19>----------------------------------------
+//キスメvs.サニー
+
+Sunny0a:I didn't see any of them around here, do people like us exist in the Underworld too?
+
+Kisume0a:Yeah, they're off playing zombie.
+
+Sunny4a:Zombie?!
+
+<end>
+
+<ChatID:20>----------------------------------------
+//キスメvs.ルナ
+
+Luna4a:Tsurube-otoshi make me think of bad memories.
+
+Luna4b:One time when we were playing behind the shrine, an apple fell on my head, all of a sudden...
+
+Kisume0a:That wasn't me, though...
+
+<end>
+
+<ChatID:21>----------------------------------------
+//キスメvs.スター
+
+Star0b:I heard that down here, there are awful youkai and dangerous youkai. Which one are you?
+
+Kisume0a:Well... I guess if I had to pick, the latter?
+
+Kisume0a:Really, it's because if I went to the surface there'd be all these strangers...
+
+Star3c:Oh I see, you're just shy.
+
+<end>
+
+<ChatID:22>----------------------------------------
+//全滅時
+
+Marisa2a:Aaaaaaah!
+
+Luna2a:Marisa!
+
+Komachi0b:She must be trying to eat us!
+
+Komachi3a:She's gonna trap us in a web and eat us!
+
+Sunny4c:Calm down! That's not gonna happen! We taste awful! We're absolutely inedible!
+
+Marisa2a:Argh, the web...
+
+Marisa2a:Argh, the web... The web, it's... GAAAH!
+
+Yamame0a:Haha, mwahahahaha!
+
+Yamame1a:Die, die! Let my web wrap around you and die! Ahahahahahaha!
+
+<end>
+
+<ChatID:23>----------------------------------------
+//キスメvs.メーコ
+
+Kisume0a:I've gotta do my best too!
+
+Meko1a:I'm doing my best too!
+
+Kisume1b:Then I'm doing my bester!
+
+Meko1d:Huh? Then I am too!
+
+Kisume2a:Then I'm doing my besterer!
+
+<end>
+
+<ChatID:24>----------------------------------------
+//ヤマメvs.まくら
+
+Yamame1d:A visitor from the surface, huh?
+
+Makura0f:"A visitor from a dream" might be more accurate.
+
+Yamame0d:What kinda half-asleep nonsense is that?
+
+Yamame1a:Whatever. You're here, so let's have some fun!
+
+<end>
+
+<ChatID:25>----------------------------------------
+//ヤマメvs.ヤマメ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Yamame1d:Are we kin? No...
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Yamame0b:We're almost, but not quite, the same. Because you see...
+
+Yamame3d:I'm Yamame-chan, the Idol of the Underworld!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Yamame1c:An Idol?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Yamame3a:Just saying that was an option too.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Yamame5c:And here I was taking you seriously. Whatever. You're here, so let's have some fun!
+
+</nomove>
+
+<end>
+
+<ChatID:26>----------------------------------------
+//キスメvs.キスメ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Kisume2b:Eek, another tsurube-otoshi!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Kisume2a:Eek!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Kisume0a:...
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Kisume0b:...
+
+Kisume4b:(I can't see anything from inside my bucket...)
+
+</nomove>
+
+<end>

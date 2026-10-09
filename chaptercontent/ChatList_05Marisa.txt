@@ -1,0 +1,650 @@
+﻿○魔理沙第五話「大妖精SOS
+
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=1,FROM=香霖堂,TO=人里への森,name=Forest,icon=2>
+
+<BG=bg_talk_Road.png,fade=0,color=1,title=*bg_Forest,bgm=bgm_talk_aoki>
+
+Marisa6a:*humming*
+
+Nitori4d:Invincible magic for us all... ♪
+
+Alice4a:...Can you stop singing? It's embarrassing.
+
+Alice5b:And I'd expect this from Marisa, but why are you singing along too, Nitori?
+
+Nitori4c:Huh? Every normal youngster knows that song.
+
+Marisa0c:If you wanted to be included, you could just say so.
+
+Nitori4b:Yeah, sing along with us too, Alice!
+
+Alice1a:No. Absolutely not.
+
+Alice4a:*sigh* That girl we were chasing may have ran off in this direction...
+
+Alice0a:But the actual culprit still remains unknown. Don't get too carried away. Try to think this through a bit.
+
+Nitori0b:Yeah Marisa, think about it a bit.
+
+Marisa3a:Whose side are you on?
+
+Marisa0a:Though you're right that we ain't got much info. Besides this scarlet mist and that maid being involved somehow, the rest is all a mystery.
+
+Nitori4b:That maid was strong, so the mastermind has to be a really powerful youkai.
+
+Marisa0a:Whatever kind of youkai the culprit is, my Master Spark will blow 'em away.
+
+Marisa0b:In fact, it's more fun when the opponent's strong. I'm gonna get a lot of enjoyment outta this.
+
+Nitori4b:You're really optimistic.
+
+Alice0c:She hasn't changed from the old days. It brings back memories of the first time we met.
+
+Marisa0b:Old days? It wasn't that long ago.
+
+Nitori4b:When did you two meet?
+
+Marisa0a:At an incident a little while back. It was before spellcards got popular, so I don't think you'd know about it.
+
+Nitori1a:Yeah, nothing comes to mind... You two have been friends for a long time, huh?
+
+Alice0d:I wouldn't say we were friends, exactly. And if you want to go by time, Reimu would win there, wouldn't she?
+
+Marisa0a:Always known her, for better and for worse. She used to have a really girlish giggle in the old days.
+
+Nitori1a:Huh. Reimu kinda gives off a different vibe now.
+
+Nitori0a:Anyway, Marisa and Alice, how did you two end up meeting? I want to know more about you two.
+
+Alice0c:Well... I don't remember it very well, and I don't want to either.
+
+Marisa0a:I remember it all. It was when I visited Makai.
+
+Nitori4b:Oh, 'cause Alice used to live in Makai, right. So did the two of you have a danmaku battle?
+
+Marisa0b:Well yeah. Back then, Alice was...
+
+Alice0c:There's no need to talk about that. It's not interesting anyway.
+
+Marisa0b:What? It's no big deal.
+
+Marisa0a:Oh ho, or is it that you don't like hearing about when you lost to me?
+
+Alice1a:Shut up!
+
+<SE=se_move_swing01.ogg,wait=1>
+
+Marisa0a:Whoa there! You ain't gonna catch me!
+
+<SE=se_move_bania01.ogg,wait=0>
+
+<Code=(map_shake,1,30,8)>
+
+<Code=(demo_wait,30)>
+
+Alice2a:Eek!
+
+Nitori2a:Whoa, are you okay, Alice?!
+
+Alice0a:...Great. Marisa's still worked up after using that spell back there.
+
+Nitori4b:Seriously. I can't even see her anymore.
+
+Alice0a:Oh well. Let's follow after her.
+
+<end>
+
+
+<ChatID:1>---------------------------------------
+//1PP
+
+<Code=(update_view,352,288)>
+
+<Code=(icon_set_direction,Daiyosei,FD_LEFT,0)>
+
+<Code=(demo_wait,30)>
+
+<Code=(icon_set_direction,Daiyosei,FD_RIGHT,0)>
+
+<Code=(demo_wait,30)>
+
+<Code=(icon_set_direction,Daiyosei,FD_LEFT,0)>
+
+Daiyosei0a:Cirnooo, Cirnooo?
+
+Daiyosei3b:...Aww, where could Cirno be?
+
+Daiyosei0a:Whenever we play hide-and-seek, she always goes and hides really far away.
+
+Daiyosei0a:She said she wanted to play near the shrine, but it seems she's here in the Forest of Magic...
+
+Daiyosei3b:I wish she'd spare me a thought as the one that's always it.
+
+<Code=(icon_set_direction,Daiyosei,FD_RIGHT,0)>
+
+Daiyosei2c:...Ah?
+
+<nomove>
+
+<Code=(cursor_jump,416,192,1)>
+
+Noname0a:...
+
+</nomove>
+
+Daiyosei0a:(Something just made a noise over there. It must be Cirno.)
+
+Daiyosei0b:(Hehe, I'll sneak up on her and scare her first.)
+
+<pause>
+
+<Code=(icon_set_direction,Daiyosei,FD_LEFT,0)>
+
+Daiyosei0b:Boo! Cirno, come ou...
+
+<pause>
+
+<Code=(icon_set_direction,KedamaB_en,Daiyosei,0)>
+
+Daiyosei2a:...Eek?!
+
+<pause>
+
+KedamaB0a:...
+
+Daiyosei0a:Huh? You're not Cirno...
+
+Daiyosei3b:Did I scare you? I'm sorry. I was looking for a friend, but I guess I have the wrong fairy—ah, wrong kedama.
+
+KedamaB0a:...
+
+<pause>
+
+Daiyosei3b:...Are you angry?
+
+Daiyosei0b:Um, was it your naptime? I'll stop bothering you, so please go back to sleep.
+
+KedamaB0a:...
+
+<pause>
+
+Daiyosei3b:Uh, um...
+
+<pause>
+
+Daiyosei2a:...!
+
+Daiyosei2a:Sorry, but I've gotta go now!
+
+<Code=(icon_set_direction,KedamaB_en,Daiyosei,0)>
+
+<pause>
+
+Daiyosei2c:!
+
+<pause>
+
+<Code=(cursor_jump,336,304,1)>
+
+<Code=(icon_set_direction,Daiyosei,FD_RIGHT,0)>
+
+<Code=(demo_wait,30)>
+
+<Code=(icon_set_direction,Daiyosei,FD_LEFT,0)>
+
+<Code=(demo_wait,30)>
+
+Daiyosei2c:Huh? Wha?!
+
+<nomove>
+
+<Code=(cursor_jump,272,272,0)>
+
+KedamaB0a:...
+
+</nomove>
+
+Daiyosei3b:Um...
+
+Daiyosei3b:You're all friends of that kedama, right? I need to find my friend. Could you let me through?
+
+<nomove>
+
+<Code=(cursor_jump,272,272,0)>
+
+KedamaB0a:...
+
+</nomove>
+
+<pause>
+
+Daiyosei2c:!
+
+Daiyosei1a:(What's going on?! These kedama are acting strange. They seem agitated somehow...)
+
+Daiyosei2a:(I can't get past them if they're surrounding me like this...!)
+
+<end>
+
+<ChatID:2>---------------------------------------
+//大妖精で毛玉に攻撃
+
+Daiyosei3b:I can't get past these kedama without defeating them...
+
+Daiyosei1a:I don't know if I can do it, but I'll give it a try.
+
+<end>
+
+<ChatID:3>---------------------------------------
+//3PP、会話イベント
+
+Daiyosei2a:*huff, huff*
+
+Daiyosei3b:It's hopeless, I can't get past this danmaku by myself.
+
+Daiyosei3b:And these kedama are serious too. They seem like they want to shoot me down...
+
+Daiyosei2a:Um, why are you not letting me through? You're not planning to eat me, right...?
+
+KedamaB0a:...
+
+<pause>
+
+Daiyosei2a:...!
+
+Daiyosei2b:...No! Stay away!
+
+<pause>
+
+KedamaB0a:...!
+
+<pause>
+
+<Code=(icon_set_direction,Daiyosei,FD_RIGHT,0)>
+
+Daiyosei2c:Oh no, they're already this close?!
+
+<pause>
+
+Daiyosei3a:What are you doing? Please stop... I'm not tasty, you know...?
+
+Daiyosei3a:Nooo... I'm scared...
+
+Daiyosei3a:Somebody... save me...
+
+Daiyosei2b:Save me, Cirno!!
+
+Noname0a:Hold it!
+
+<pause>
+
+<Code=(icon_set_direction,Marisa,Daiyosei,0)>
+
+Marisa0b:You're in a real tight spot, huh? Surrounded by kedama, bullying a lone fairy like you...
+
+Marisa0a:But now that the great Marisa Kirisame is here, there's nothing to be afraid of.
+
+Daiyosei2c:Who are you...?
+
+Marisa6a:I'm the hero of the forest. You can call me Marisa.
+
+Marisa0a:And as a bonus, the two behind me are my excellent support team...
+
+Marisa6b:And as a bonus, the two behind me are my excellent support team... Huh?
+
+<nowindow>
+
+<Code=(demo_wait,20)>
+
+<Code=(icon_set_direction,Marisa,FD_RIGHT,0)>
+
+<Code=(demo_wait,20)>
+
+<Code=(icon_set_direction,Marisa,FD_LEFT,0)>
+
+<Code=(demo_wait,20)>
+
+<Code=(icon_set_direction,Marisa,FD_RIGHT,0)>
+
+</nowindow>
+
+<pause>
+
+<Code=(icon_set_direction,Marisa,Daiyosei,0)>
+
+Marisa0b:Man, those two are taking their time. Maybe I flew a bit too far ahead?
+
+Daiyosei2c:The hero of the forest...
+
+Daiyosei1a:Um, I'm being attacked by these kedama! I was separated from my friend...
+
+Daiyosei3b:So, if you could, um...
+
+Marisa0b:Ahh, what are you saying now?
+
+Marisa0a:Ain't it obvious that I'm here to save you?
+
+Daiyosei2c:Then, you mean...
+
+<Code=(icon_set_direction,Marisa,FD_RIGHT,0)>
+
+Marisa2b:If you wanna get out of this safe and sound, don't leave my side. Got it?
+
+Daiyosei2c:...Okay!
+
+Daiyosei0a:(This person... She's a human, yet she's helping a fairy like me...?)
+
+<end>
+
+
+<ChatID:4>-------------------------------------------
+//4PP、アリスとにとりが増援
+
+Nitori1b:There she is!
+
+<Code=(icon_set_direction,Marisa,Nitori,0)>
+
+<Code=(icon_set_direction,Daiyosei,Nitori,0)>
+
+Marisa0b:Took you long enough.
+
+Alice0a:Marisa, you were the one who flew ahead too far.
+
+Alice1a:Alone, you're... Hm?
+
+Daiyosei0a:...
+
+KedamaB0a:...
+
+Nitori0b:Huh? Are you in the middle of a fight?
+
+Marisa0b:Yeah, take a look at the situation.
+
+Nitori0b:The situation...
+
+Alice0a:A lone injured fairy, surrounded by a swarm of kedama...
+
+Nitori4b:So you came to save the fairy. Simple enough!
+
+Daiyosei3b:Uh, um...
+
+Marisa0a:Don't worry, these are my allies. We'll punish these kedama good.
+
+Nitori1b:Yeah, bullying the weak is unforgivable!
+
+Alice1a:I'll help out too. Give me the full story later.
+
+<end>
+
+<ChatID:5>---------------------------------------
+//KedamaB0a:vs. Marisa
+
+Marisa1a:Only humans are allowed to bully fairies. You kedama should just shut up and get exterminated!
+
+<end>
+
+<ChatID:6>----------------------------------------
+//KedamaB0a:vs. Alice
+
+Alice1b:Menacing a little girl is deplorable, even for kedama. I'll have to teach you all a little lesson.
+
+<end>
+
+<ChatID:7>----------------------------------------
+//KedamaB0a:vs. Nitori
+
+Nitori1b:You're disgracing kedamakind by bullying a fairy like that. Prepare to be punished!
+
+<end>
+
+<ChatID:8>---------------------------------------
+//クリア時会話
+
+Marisa0b:Alright, cleanup complete. Those were some tough fuzzballs.
+
+Alice0a:Their appearance was slightly different from the kedama we fought before. Perhaps it's an effect of the scarlet mist?
+
+Daiyosei0a:...
+
+Marisa0a:Anyways, you can relax now. We've chased those kedama away.
+
+Daiyosei0a:...Um, thank you very much. You saved me from a really dangerous situation.
+
+Nitori1a:Glad we were in the neighborhood. We all gotta look out for each other.
+
+Alice0a:What were you doing around here in the first place?
+
+Alice0d:As you just saw, wandering around the Forest of Magic alone is not a great idea.
+
+Daiyosei0a:Actually, I'm searching for a friend right now.
+
+Nitori0b:You're searching for a friend...? Did your friend go missing?
+
+Daiyosei3b:No, we were just playing hide-and-seek, but since I'm it, I have to find her...
+
+Marisa0b:That's a heck of a way to wind up in danger.
+
+Nitori4c:Well, that's fairies for you.
+
+Daiyosei3b:I-I'm very sorry...
+
+Nitori4b:Ah, I didn't mean that in a bad way. Don't worry about it.
+
+Nitori0a:Anyway, what will you do now?
+
+Daiyosei0a:Ah... I've searched around here a lot already, so I was thinking of returning to the lake for now.
+
+Marisa0b:Hm? The lake?
+
+Marisa0a:What a coincidence, that's where we're heading too.
+
+Alice0d:Shall we go together, then? I'm sure you don't want to be attacked by kedama again.
+
+Daiyosei0a:Um, but... I'm sure everyone has their own things to do, and...
+
+Marisa0a:C'mon, you're a fairy. Don't start standing on ceremony. It's on the way for us regardless.
+
+Daiyosei3b:But...
+
+Daiyosei0a:...
+
+Daiyosei0a:In that case, since I've gone there plenty of times, please let me lead everyone to the Misty Lake.
+
+Marisa0a:Ooh, that'll be good. Since you offered, you're welcome to be our guide.
+
+Marisa0a:Alright, let's get a move on. The culprit behind this incident might be waiting around for us, but Reimu's definitely not.
+
+Nitori4b:Don't fly off ahead this time!
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,496,176,1)>
+
+<hide=all>
+
+Sanae0a:...
+
+<hide=all>
+
+Sanae0b:That magician seems to know about the shrine maiden.
+
+Sanae0a:Which means... If I follow behind her, I'll be able to find the Hakurei Shrine Maiden.
+
+Sanae0a:It makes me feel a bit like a stalker, but... I'll let you be my guide.
+
+</hide>
+
+<end>
+
+<ChatID:9>---------------------------------------
+//ADVB
+
+<MAP=1,FROM=人里への森,TO=湖への道,name=Forest,icon=2>
+
+<BG=bg_talk_Road.png,fade=0,color=1,title=*bg_Forest,bgm=bgm_talk_gag>
+
+Nitori4b:Whew, we've gone pretty far.
+
+Marisa0b:The mist is getting real thick too. We could easily get lost here...
+
+Daiyosei0a:Umm, here's the big tree branch...
+
+Daiyosei0b:This way, everyone. The lake is just up ahead.
+
+Marisa6b:Hey, is this random guiding really okay? There were plenty of tree branches on the ground earlier.
+
+Alice0a:There shouldn't be any need to worry. Fairies are able to perceive nature much better than us.
+
+Marisa0a:Huh, that so? I don't really get it, but it sounds handy.
+
+Marisa0b:...Hey, speaking of which, I never got your name.
+
+Daiyosei2c:Ehh... My name?
+
+Marisa0b:Yeah, it'd help to know it.
+
+Marisa0a:Oh right. I'm Marisa, a great magician.
+
+Alice0d:Great is taking it a bit far. I'm Alice, a magician.
+
+Nitori4c:I'm Nitori, nice to meet you.
+
+Daiyosei0a:Ah, um... Nice to meet you too.
+
+Daiyosei3b:...
+
+Marisa0b:Well? It's self-introduction time, y'know.
+
+Daiyosei3b:Ah, um. It's just the first time that I've had humans and youkai asking for my name, so I was a bit surprised...
+
+Daiyosei0a:Please call me Daiyousei. That's what everyone calls me.
+
+Marisa0a:Daiyousei, huh? Nice to meet ya.
+
+Alice0d:Does that name refer to you being stronger than other fairies? It seemed that way from that danmaku battle earlier.
+
+Daiyosei0a:Everyone just calls me that. I don't live up to the name myself.
+
+Daiyosei3b:Even my danmaku can't hold a candle to Cirno's...
+
+Nitori4b:Is that Cirno the friend you mentioned earlier?
+
+Daiyosei0b:Yes. Cirno is the strongest fairy of the lake, and my best friend.
+
+Daiyosei0a:But she always hides herself really well in hide-and-seek...
+
+Daiyosei3b:If I don't find her quickly, she might start thinking that something happened to me.
+
+Marisa0b:Considering she's the one hiding herself, that's pretty messed up.
+
+Alice0d:I can see what you put up with.
+
+Nitori0a:But I really admire how much a fairy like you cares for your friends.
+
+Nitori1a:Alright, your big sister Nitori is going to pitch in and help you find your friend!
+
+Marisa6a:You're too short to be somebody's big sister.
+
+Daiyosei0a:...
+
+Alice2b:...Hey.
+
+Daiyosei2c:...Yes?!
+
+Alice0d:We may be youkai, but there's no need to be so tense.
+
+Alice0d:We have no intention of eating you or anything like that.
+
+Daiyosei2b:O-Okay...
+
+Alice0d:And humans do normally punish fairies, so it's understandable if you're frightened of them...
+
+Alice0d:But, well, there are some rather eccentric humans too.
+
+Daiyosei0a:Ahh...
+
+Nitori0a:Your name really is cool though, Daiyousei. I kinda want a name like that.
+
+Marisa0a:Go ahead and add something to your name then. Like "Dainitori."
+
+Nitori4a:Hmm, I think I prefer "Giant Nitori" myself.
+
+Nitori1a:Ahh, but Full Armor Nitori or Nitori Sniper Custom sound pretty cool too.
+
+Marisa0b:But then you don't have the "Dai" anymore.
+
+Daiyosei0a:...
+
+Daiyosei0b:Heh... Hee hee...
+
+Daiyosei0a:(They're right, Marisa really is strange for a human.)
+
+Daiyosei0b:(I think she would get along well with Cirno.)
+
+Alice0d:Well, keep guiding us to the lake. We'll search for your friend as well.
+
+Daiyosei0a:Ahh, yes. Follow me.
+
+Daiyosei1a:(Wait for me, Cirno...!)
+
+<end>
+
+<ChatID:10>----------------------------------------
+//まくら初戦闘
+
+Makura1c:Attacking a single fairy en masse...
+
+Makura1a:I'll have to put a stop to this reprehensible act.
+
+<end>
+
+<ChatID:11>----------------------------------------
+//メーコ初戦闘
+
+Meko1d:No ganging up on people!
+
+Meko1a:We'll fight off those fluffy bullies for you!
+
+<end>
+
+<ChatID:12>----------------------------------------
+//大妖精初戦闘★発生しない
+
+Daiyosei3b:I was so scared back then. If Marisa hadn't come, then I'd have...
+
+Daiyosei5c:But I have to do my best too!
+
+<end>
+
+<ChatID:13>----------------------------------------
+//チルノ初戦闘
+
+Cirno2b:Hey, get away from Dai!
+
+Cirno3b:Just wait for me, I'll save you!
+
+<end>
+
+<ChatID:14>----------------------------------------
+//依姫初戦闘
+
+Yorihime0b:Cornering a scared little girl...
+
+Yorihime1b:Disgusting! Prepare to die!
+
+<end>
+
+<ChatID:15>----------------------------------------
+//レティ初戦闘
+
+Letty4a:...How cruel. My cold will send you off to an eternal slumber.
+
+<end>
+
+

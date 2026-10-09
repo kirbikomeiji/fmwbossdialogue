@@ -1,0 +1,2143 @@
+﻿○共通第五十話「地霊たちの起床
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: 2PP
+ 4: 3PP
+ 5: clear
+ 6: ADVB
+ 7: lose
+ 8: omake
+ 9-XX: battle vs. Onryo?
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<MAP=9,FROM=マーガトロイド邸,TO=マーガトロイド邸,name=Margatroid Residence,icon=5>
+
+<BG=*bg_talk_Alice_Winter.png,fade=0,color=1,title=*bg_Winter,bgm=bgm_talk_morning>
+
+Yousei11a:Take that! Snowball attack!
+
+<Code=(map_shake,1,10,2)>
+
+<SE=se_talk_hit03.ogg,wait=1>
+
+HYousei2a:Ow!
+
+HYousei1a:You think you can hit me with a snowball? Payback time!
+
+<Code=(map_shake,1,10,2)>
+
+<SE=se_talk_hit03.ogg,wait=1>
+
+Yousei11a:Ooh, you've done it now!
+
+Koishi0a:...
+
+Koishi1a:This looks like a fun game. How do you play?
+
+Yousei11a:...Alright, next I'll surprise her by throwing a HUGE one.
+
+Yousei10a:I'll need to use both hands for this...
+
+Koishi6c:Hyah!
+
+<Code=(map_shake,1,10,2)>
+
+<SE=se_talk_hit03.ogg,wait=1>
+
+Yousei12a:?! Ow!
+
+Yousei11a:No fair! You can't just throw one without warning like that!
+
+HYousei1a:Wait, what?! I haven't even thrown mine yet! 
+
+Koishi0b:Ahaha, bullseye. Okay, I see how it works now.
+
+Koishi0a:For my next one, I'll stick in a rock and...
+
+Yousei11a:Fine, I'll just come get you up close! 
+
+<Code=(map_shake,1,6,3)>
+
+<SE=se_talk_fall02.ogg,wait=1>
+
+Koishi2b:Ack...!
+
+Yousei12a:Ouch, I tripped...
+
+HYousei0a:Come on, that seems like a silly place to trip.
+
+Yousei10a:I dunno, maybe there's something under my feet? 
+
+<SE=se_talk_door_open05.ogg,wait=1>
+
+Nitori1b:Hey! Who's making all that ruckus out there?! 
+
+Yousei11a:...!
+
+HYousei1a:Uh-oh, we're gonna get yelled at! Everyone, run away! 
+
+<SE=se_talk_runaway01.ogg,wait=1>
+
+<single>
+
+Nitori1d:...Phew, looks like they're gone. 
+
+</single>
+
+Alice4a:Sorry about the noise. It seems they turned the place into a playground while I was out...
+
+Alice0d:But more importantly, you must be cold out here. I baked some sweets, so please, come in.
+
+Nitori1a:Oh, they smell great! Mmm, this is what I came for! 
+
+<SE=se_talk_door_close05.ogg,wait=1>
+
+<single>
+
+Koishi0a:...
+
+Koishi2b:My clothes are all wet... And I'm hungry too.
+
+Koishi5b:...Guess I'll head home to Satori. 
+
+</single>
+
+<BG=bg_talk_Chitei.png,fade=1,color=1,title=bg_Chitei,bgm=bgm_talk_inishie>
+
+Orin1f:Okuu, Okuuu!
+
+Orin5a:...Yeesh, I never see her around lately. What could she be up to?
+
+Orin0c:She doesn't show up at the Palace of Earth Spirits either, so Satori's getting worried...
+
+<SE=se_Letty_snap02.ogg,wait=0>
+
+<Code=(map_shake,1,40,2)>
+
+<Code=(demo_wait,30)>
+
+Orin2b:Whoa, that was close!
+
+Orin3a:What's this? Boiling water...? Why's it spouting out of the ground?
+
+Orin1f:Don't tell me Okuu messed up adjusting the temperature in the Ruins of Blazing Hell... 
+
+<hide=face>
+
+Utsuho0c:...
+
+</hide>
+
+Orin1f:...! That idiot, what's she doing over there?
+
+Orin3a:Hey, Okuu, what are you—
+
+<hide=face>
+
+Utsuho1a:There!
+
+</hide>
+
+<SE=se_shoot_laser_M02.ogg,wait=0>
+
+<Code=(map_shake,1,60,4)>
+
+<Code=(demo_wait,60)>
+
+Orin2c:...
+
+<hide=face>
+
+Utsuho1g:Ahahaha, burn! Burn more! This is my power!
+
+Utsuho0a:So, should I head to that furnace over there next, or...
+
+</hide>
+
+Orin3a:O... Okuu...?
+
+<hide=face>
+
+Utsuho0a:Oh, Orin! Haven't seen you for a while! Have you come to hang out? 
+
+</hide>
+
+Orin1b:Don't give me that nonsense about hanging out! What was THAT?!
+
+Utsuho0a:Oh, I was just trying out my new power. 
+
+<Code=(map_shake,1,10,2)>
+
+<SE=se_move_gachon05.ogg,wait=1>
+
+Orin3a:*gasp* Your hand...!
+
+Utsuho3c:Awesome, isn't it? The smoldering ruins are back the way they used to be!
+
+Utsuho0a:And I'm not even using my full power. 
+
+Orin3a:That's... not what I meant!
+
+Orin1f:What happened to you, Okuu?! 
+
+Utsuho0c:Whaddaya mean, what?
+
+Orin3a:Don't play dumb with me! Where's your arm?!
+
+Orin2c:And not just that! Your leg and your chest too...!
+
+Utsuho3a:Oh, I gave 'em away.
+
+Orin3a:You WHAT?!
+
+Utsuho3c:I gave 'em as offerings to the god in my body.
+
+Utsuho0a:It gives me ultimate power in exchange.
+
+Orin3a:Are you crazy? Nothing about giving your body as an offering makes sense.
+
+Utsuho0e:I don't really remember all that well, but someone said they'd give me power.
+
+Utsuho0a:...Oh yeah, Orin. I was thinking about conquering the surface. Wouldn't that be cool?
+
+Utsuho3c:Just a bit more practice, and it should be a piece of cake. 
+
+Orin5a:Something's definitely wrong with you. Conquering the surface? That's the stupidest thing I've heard out of your mouth...
+
+Utsuho1f:I could do it though. Look! 
+
+<SE=se_shoot_laser_M07.ogg,wait=0>
+
+<Code=(map_shake,1,60,4)>
+
+<Code=(demo_wait,60)>
+
+Orin3a:...! Furnace six is melting?!
+
+Utsuho1a:Hah! The way I am now, I can shoot out infinite amounts of fire way hotter than Blazing Hell!
+
+Utsuho0c:With this power, I'll become a subterranean sun...
+
+Utsuho1a:With this power, I'll become a subterranean sun... No, I'll be the surface's sun!
+
+Orin3a:The surface's sun...?!
+
+Utsuho3c:Just watch me, Orin. I'll make it so all of us can live up top.
+
+Utsuho0c:...I'm not the powerless old Okuu I used to be.
+
+<SE=se_talk_walk_outdoor01.ogg,wait=1>
+
+<single>
+
+Orin5a:...What happened Okuu?
+
+Orin5a:She suddenly started spouting complete nonsense about conquering the surface and getting power from someone else...
+
+Orin2c:There's no time to fret! I've gotta stop her!
+
+Orin5a:The way she's talking, she might really head to the surface.
+
+Orin5a:But I'm not powerful enough to stop her on my own. And if I told someone, they'd put her down for sure...
+
+Orin2c:What can I do to stop her? What would it take...?
+
+Orin3a:...Aha, I've got it!
+
+</single>
+
+<MAP=9,FROM=博麗神社,TO=博麗神社,name=Hakurei Shrine,icon=1>
+
+<BG=*bg_talk_Shrine_Winter.png,fade=1,color=1,title=*bg_Shrine,bgm=bgm_talk_aoki>
+
+<SE=se_talk_snow02.ogg,wait=1>
+
+Reimu3a:Ugh, all this stupid snow... Even keeping the walkway clear is a chore and a half.
+
+Yukari1a:Look at you, actually keeping up with your shrine maiden duties.
+
+Kaguya1a:I suppose even everyday tasks have a certain charm when you see them up close.
+
+Reimu3a:How about you two help out then, instead of just mouthing off?
+
+Reimu4a:And weren't you supposed to be holed up for the winter, Yukari? 
+
+Yukari0a:I'd planned to, but I seem to have woken up early. Perhaps it's a result of my sleeping in last year. 
+
+Yuyuko1b:And since she's up, I invited her and Eirin's group to come experience the true joys of winter. 
+
+Reimu4a:The true joys of winter...? Oh, I know what you're talking about now.
+
+Eirin3c:Yes, Tewi's been quite interested. 
+
+Tewi0a:As a health nut, I wouldn't miss it for the world. 
+
+Reimu3a:I guess I've been getting other visitors too...
+
+Reimu0f:...Hm?
+
+<SE=se_talk_snow03.ogg,wait=1>
+
+Akyu3a:Good afternoon, Reimu.
+
+Kosuzu3d:Good work clearing all this snow!
+
+Keine0a:We seem to have a surplus of dried persimmons, so we thought we'd come share them. 
+
+Mokou4a:I think they came out better than the ones from last year...
+
+Kaguya3b:Oh? Dried persimmons? What sort of food is that? 
+
+Mokou0b:Ugh, Kaguya? And her whole crew too. 
+
+Keine0a:We've run into Eirin and the others at both the shrine and the village quite often lately.
+
+Keine6c:You mentioned starting up a medicine business for humans, I believe?
+
+Eirin0c:Correct. In order to live on the surface, it is absolutely necessary to have some sort of job.
+
+Eirin3c:I wouldn't be able to run it so openly if you hadn't delivered my letter to the Watatsuki sisters.
+
+Reimu5c:It's ancient history by now. We made it back, that's what matters.
+
+Tewi5a:Reisen's been complaining a ton ever since, though...
+
+Akyu0a:Come to think of it, there seem to be quite a lot of people gathered at the shrine today.
+
+Akyu3c:From mountain youkai to fairies, it looks like everyone's here... 
+
+Kaguya0a:Oh, you came all this way without knowing?
+
+Kaguya3c:There's something quite interesting behind the shrine right now. It's all anyone's talking about. 
+
+Keine5a:And what would that be? 
+
+Kaguya2c:It's a hidden source of hot water gushing forth from an underground channel.
+
+Kaguya1a:As for what it's called...
+
+Reimu4a:It's a geyser. You don't have to build it up like that.
+
+Kaguya2a:Don't steal someone else's thunder. Even I can get mad, you know. 
+
+Keine0a:So basically it's a hot spring? I've never heard of one sprouting up in the area before.
+
+Kosuzu0c:Wow! If everybody's coming to see it, does that mean they go for a dip in it?!
+
+Reimu0d:Pretty much. They get to have all the fun while I have to keep the path clear of snow...
+
+Reimu2b:And would you believe they tell me to bring them sake? I'm not running an inn here, sheesh.
+
+Yukari0a:In that case, why don't we make the most of Reimu's hospitality and go for a dip ourselves?
+
+Yukari1a:If it's a hot spring, then surely it should have some positive effect on our beauty and health.
+
+Yuyuko1c:That sounds lovely. Would it help with longevity as well?
+
+Reimu0f:Hey! Are you seriously all gonna ditch me here?
+
+Keine5b:Why... No, of course not! Although I'll admit I was tempted to... 
+
+Kaguya1a:How about you, Mokou? I'm sure a bath would be a novel experience for you. 
+
+Mokou1c:What am I, a dog? I guess it has been a while since I've had a HOT bath though... 
+
+Eirin1a:Well, I'll be going on ahead to run a detailed analysis on the water quality.
+
+Akyu3a:If it does turn out to be healthy, please let me know.
+
+Reimu2b:...Yeesh, maybe I should be charging people for this. 
+
+<BG=bg_talk_Black.png,fade=1,color=1,title=*bg_Unknown>
+
+Marisa4b:...
+
+Noname0a:...sa, Marisa... 
+
+Marisa2c:I know this feeling...
+
+<BGM=bgm_talk_interlude02,0>
+
+Noname0a:I know you can hear me, Marisa.
+
+Marisa4a:You again? First time in a while. 
+
+Noname0a:That's right, we haven't spoken since the day you left for the moon in the flying ship. 
+
+Noname0a:Back then, you ignored my advice and insisted on taking the trip.
+
+Marisa1c:What, you're still sour about that?
+
+Marisa0b:We got back perfectly fine. It's nothing to get bent outta shape about.
+
+Noname0a:However, weren't you exposed to great danger en route?
+
+Noname0a:Didn't you provoke the moon's military and narrowly avoid capture? 
+
+Marisa4d:...And how do YOU know about that? Were you watching? 
+
+Noname0a:No, it was conjecture based on what the youkai have been talking about.
+
+Noname0a:My vision is limited to the ground level.
+
+Marisa0b:Yeah, okay, I guess there was a lot of buzz for a while after we got back.
+
+Noname0a:But that's not why I'm here. I've come to give you another warning.
+
+Noname0a:It is in regards to the gods living in the mountain shrine. Beware their ideas.
+
+Marisa1d:The mountain shrine? You mean Kanako and Suwako? 
+
+Noname0a:Yes. They live in this paradise while still possessing the culture and values of the Outside World.
+
+Noname0a:They've been showing concerning signs of activity over the past few days. They undoubtedly seek to introduce needless change—and with it, chaos.
+
+Marisa1d:Hey, what's all this about? They're our friends, you know.
+
+Marisa1b:Just 'cuz they know a lot about the Outside doesn't mean they're evil—
+
+Noname0a:Silence! 
+
+Marisa3b:?!
+
+Noname0a:Your group has courted disaster by ignoring my warnings.
+
+Noname0a:How can you not understand that that hubris will be a source of chaos for this peaceful paradise?
+
+Marisa3a:...What's gotten into you? You're sounding strange.
+
+Noname0a:...I'm at my wits' end. I've always believed that, when it came down to it, you humans would want to protect paradise with your own hands.
+
+Noname0a:But here you are, refusing to see things my way and embracing the Outside World's aberrant culture.
+
+Noname0a:Such dangerous factors are supposed to be removed without exception...
+
+Marisa2b:So what you're saying is you want us to chase suspicious folks out of Gensokyo.
+
+Marisa3a:Sorry, but that's not happening. 
+
+Noname0a:...
+
+Marisa0b:You've been a big help in resolving incidents. I appreciate it, honest.
+
+Marisa4a:But painting my friends as villains doesn't make me remotely inclined to help you.
+
+Noname0a:...I see. If I can't make you understand after saying all that, then I suppose nothing could.
+
+Noname0a:One day, you'll come to realize what a foolish choice you've made.
+
+Marisa3b:...
+
+<MAP=9,FROM=博麗神社,TO=博麗神社,name=Behind the Hakurei Shrine,icon=1>
+
+<BG=*bg_talk_Shrine_Winter.png,fade=1,color=1,title=*bg_Shrine_Back,bgm=bgm_talk_gag>
+
+<SE=se_talk_bath01.ogg,wait=1>
+
+Koakuma3d:...Ahh, this spring's so wonderfully hot.
+
+Aya7b:Sure is. Anyway, I'm gonna bail.
+
+<SE=se_talk_bath02.ogg,wait=1>
+
+Momiji6a:You're getting out already? Is this some crow thing? 
+
+Minoriko3a:What a waste! A bath this good practically demands some soaking! 
+
+Shizuha5a:The winter is as hateful as ever, but hot springs make it considerably more bearable.
+
+Suika1b:And hey, our second round of drinks hasn't arrived yet.
+
+Suika1a:Gotta have me a nice drink from a cold sake bottle floating on the water in a wooden tub...
+
+Komachi1c:Ooh, this is nice. It feels like paradise here. It's even melting off my day-to-day fatigue. 
+
+Meiling4a:You said it. Hot springs really help out with stiff shoulders. 
+
+Youmu0a:...
+
+Kurumi0a:...
+
+Ran3a:Hm? What is it?
+
+Youmu2b:Nothing! I was just thinking about how stiff my shoulders can get...
+
+Kurumi1a:What do you have to eat to get like that?! Is it milk?! 
+
+Komachi4a:Huh? Uh, I do drink milk...
+
+Ran3c:If you want to be a growing girl, don't be picky about what you eat. Just clear your plate. 
+
+Lyrica1b:Ahh, it was about food...
+
+<single>
+
+Sanae0a:Everyone over there looks so relaxed.
+
+Sanae6b:Meanwhile, on this end...
+
+</single>
+
+Udonge3b:Ugh, my mood's still down in the dumps...
+
+Sho0c:Are you okay, Reisen? You're going a little heavy on the sake.
+
+Murasa3c:You had a total one-rabbit show going before this.
+
+Cirno3a:I never knew that your power was what holds together the whole mansion in the bamboo forest.
+
+Udonge2b:Wait, did I say that?! My memory's kind of hazy...
+
+Alice0c:Chatting is fine and all, but make sure you keep warm after coming out of the bath.
+
+Alice0d:I doubt Cirno has to worry about it, but won't you catch a cold if you don't warm up, Lily? 
+
+LilyW3c:Yes, ma'am. Sorry...
+
+Murasa0d:Actually, since you're a fairy of spring, are you gonna be alright in this weather?
+
+Murasa0c:I mean I see you out with Cirno or Mystia every so often but... 
+
+LilyW3d:Letty should be coming back sometime soon. I wanted to see her face at least once... 
+
+Ichirin0d:Letty?
+
+Cirno3b:Yeah! Letty is a winter youkai and our friend! 
+
+Daiyosei0a:We resolved the snow incident with her, but after spring came we got separated...
+
+Daiyosei0b:When we said goodbye, we gave her a frozen frog as proof of our friendship.
+
+Murasa3a:Oh? A spring fairy and a winter youkai, huh? 
+
+Sanae0g:Speaking of friends, have you seen Nue since last time, Murasa?
+
+Sanae0b:You never did reach an understanding with her before setting out for the moon...
+
+Murasa2b:...Nope. I searched for her, but no luck there.
+
+Murasa3a:Then again, for all I know she could be hiding somewhere and watching us now.
+
+Ichirin0a:When Nue conceals her true form, it can be nearly impossible to find her.
+
+Alice0d:Let me know if there's anything I can do to help. If you get a chance to talk to her, I'm sure both of you could—
+
+<SE=se_talk_snow03s.ogg,wait=1>
+
+Yuka0b:As naive as always, I see. 
+
+Sho1c:...Yuuka?!
+
+Yuka0a:There was some fuss at the shrine, so I came to take a look. And what do I stumble upon but this hopelessly naive conversation.
+
+Yuka2d:If a youkai hates associating with people, forcing that upon them would only make them feel constrained.
+
+Murasa3a:That's a classic Yuuka opinion, alright. I've put a lot of thought into this myself, though.
+
+Alice0c:So what are you here for? If you're looking for the hot spring, the dressing room is that way. 
+
+Yuka2c:The hot spring? I didn't know the shrine had one.
+
+Sanae0a:It does now. Talk to Reimu and she should let you borrow a towel—
+
+<SE=se_talk_walk_outdoor01.ogg,wait=1>
+
+Reimu4a:Sorry, but I just lent the last one to Marisa. 
+
+Marisa6b:...Wow, it's really like a party here. Is everyone just crazy for hot springs or what? 
+
+Sanae0a:You must be tired, Reimu. Sorry for making you do all the work. 
+
+Reimu0c:It's fine. After all, you're gonna be the one cleaning the bathtubs afterward.
+
+Marisa0a:Oh hey, Yuuka's here too? That's perfect, actually.
+
+Marisa0b:I have something I wanted to talk with all of you about.
+
+Yuka2d:You do, do you?
+
+Marisa0d:Ah, it's about this little guy. 
+
+Shiro0a:...
+
+Sho0c:Oh, is that Shiro? The pet you've been keeping?
+
+Marisa0d:Yeah. Whenever this guy's around, some weird person shows up in our dreams and talks to us.
+
+Marisa0b:But lately, our dream visitor's been acting funny. 
+
+Murasa4a:What do you mean by funny? 
+
+Marisa4a:...They used to give out pretty normal advice, but ever since about the time we headed for the moon the help's gotten weird.
+
+Marisa1b:Like, they're saying that Lunar culture is bad for us, and that we need to beware of the Moriya Shrine's ideas. 
+
+Sanae1d:They're warning you about us?!
+
+Marisa4d:Yeah. Seems like they really hate new things and ways of thinking.
+
+Marisa4c:And at the end of our talk, they said something about how suspicious people should be removed from Gensokyo entirely.
+
+Alice0a:That's a bit extreme. 
+
+Marisa0d:That's what I thought too, which is why I wanted to get your opinions.
+
+Marisa0b:Yuuka, don't you know something about this dream person? 
+
+Yuka0f:...I see, so that's how she sees things.
+
+Yuka0a:If what you're describing is true, I don't see the harm in sharing a bit.
+
+Yuka0e:That said, all I really know is about that furball and her power. 
+
+Shiro0a:...
+
+Reimu0f:Who are you talking about?
+
+Yuka0a:The one who's been showing Marisa those dreams. You could also say she's Shiro's controller.
+
+Yuka0e:She has the power to manipulate the dreams of sleeping people.
+
+Yuka2d:If I had to put it in words, Shiro is something like her familiar. 
+
+Alice1a:A familiar and a controller...! So that's what it was.
+
+Marisa0e:So when I had dreams, those were things she was showing me using Shiro?
+
+Sho0c:But why would she do something like that?
+
+Sho0b:If she has some kind of objective, wouldn't it be easier to do it herself instead of asking Marisa? 
+
+Yuka2d:I couldn't begin to care, but maybe to her, getting humans to do the work is the point.
+
+Yuka0a:I wonder if that's why she's losing her patience with Marisa refusing her.
+
+Shiro0a:...
+
+Alice0a:...If all of this is true, then what should be done with Shiro?
+
+Alice2c:If we don't know what its user is thinking, I question how safe it would be to keep it with us—
+
+<SE=se_talk_scream01.ogg,wait=1>
+
+Alice1a:...!
+
+Sho1b:What was that? Did that scream come from over there...?! 
+
+Mystia2a:Heeelp! I just felt something slimy on my back!
+
+Suwako2a:Pervert! Scoundrel!
+
+Reimu1a:A pervert...?! In MY shrine?! 
+
+Marisa2b:And just when we finally got a chance to talk. There's never a dull moment at this shrine!
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP（出撃前）
+
+<SE=se_talk_scream01.ogg,wait=1>
+
+<nomove>
+
+<Code=(cursor_jump,288,224,1)>
+
+Hina1a:What's going on?!
+
+<Code=(cursor_jump,304,224,0)>
+
+Hatate2a:Some weird slimy thing touched our backs!
+
+<Code=(cursor_jump,288,352,1)>
+
+Mokou1c:What are you people yelling about?
+
+<Code=(cursor_jump,320,352,0)>
+
+Sanae1a:Lady Suwako, are you okay?! Oh no, was there a creep?!
+
+<Code=(cursor_jump,320,224,1)>
+
+Suwako1b:I dunno, but I can feel a strange presence!
+
+</nomove>
+
+Youmu2b:Then there WAS someone peeping?
+
+Udonge1c:That's horrible. Unbelievable!
+
+<nomove>
+
+<Code=(cursor_jump,336,224,1)>
+
+Kanako1d:...No, calm yourselves. I sense a strange spiritual presence in the area.
+
+Kanako1c:Found it. Over there!
+
+</nomove>
+
+<pause>
+
+Keine1a:Wh...?!
+
+Komachi3a:Are those vengeful spirits?! What're they doing here?!
+
+Yukari0b:...That's odd. There shouldn't be this many vengeful spirits on the surface.
+
+Eirin1c:Something strange is afoot, then. I don't suppose we can bathe like this.
+
+Keine1a:Vengeful spirits are dangerous! Everyone, get ready to fight!
+
+<nomove>
+
+<Code=(cursor_jump,320,224,1)>
+
+Suwako1b:We'll be out there as soon as we get dressed!
+
+</nomove>
+
+<end>
+
+<ChatID:2>----------------------------------------
+//1PP（出撃後）
+
+Reimu0d:Seriously, what's going on here? Vengeful spirits intruding on sacred ground?
+
+Sakuya5b:I don't know where they're coming from, but for now let's exterminate them.
+
+Udonge4a:I wouldn't want them ruining the bath, so I'll lend a hand too.
+
+Udonge0a:Princess, Master, just relax and I'll be done with this in no time.
+
+Eirin0a:True, if the Palanquin Ship is deployed against opponents of this level...
+
+Kaguya3a:Oh my, isn't it cruel of you to make us watch when we're already here?
+
+Kaguya3c:I'd enjoy a little fun too, you know.
+
+Tewi1c:Princess, don't tell me you're actually about to jump into this fight?
+
+Kaguya2c:Of course. It's just a bit of sport here on Earth. Eirin, Inabas, all of you join me.
+
+<pause>
+
+Mokou4a:Kaguya!
+
+Keine5b:Are you helping us fight?
+
+Kaguya2c:Certainly. Don't tell me you wanted to leave us out?
+
+Kaguya0a:As they say—if you look the fool whether dancing or spectating, why not get in some dancing?
+
+Tewi4a:...That's pretty apt, but I'm not a fan of you calling me a fool.
+
+Mokou3c:Yeesh, you never take anything seriously, do you?
+
+Mokou1a:Make sure your servants keep an eye on you, so you don't slow us down.
+
+Eirin1d:I'm well ahead of you there. Supporting the princess is our duty.
+
+Eirin0a:Now then, Yukari, I hope you'll let us cooperate with this spirit extermination.
+
+Yukari1a:Of course, I appreciate your assistance.
+
+Kaguya3b:Let's go, shall we? Those who resist shall be flattened!
+
+<end>
+
+<ChatID:3>----------------------------------------
+//1EP
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Yuka0a:...I see, so those are vengeful spirits. It's been quite some time since I've seen them on the surface.
+
+Shiro0a:...
+
+Yuka1a:My, I can feel your gaze on me. Perhaps you have some objections to me revealing your identity?
+
+Yuka0d:I'm afraid you're not exactly intimidating when you glare at me through a familiar.
+
+Shiro0a:...
+
+Yuka0a:...Heh, don't worry, I don't plan on interfering with whatever you're planning.
+
+Yuka1a:I'm perfectly content staying on the sidelines. Here's hoping it'll pan out into something at least a little entertaining.
+
+Shiro0a:...
+
+</nomove>
+
+<end>
+
+<ChatID:4>----------------------------------------
+//2PP
+
+Tewi4a:*huff* I thought I came here to relax in a hot spring.
+
+Youmu3a:Everyone here did. I was so ready to ease my fatigue...
+
+Lyrica1b:You just try too hard, Youmu. You gotta work smarter, not harder.
+
+Lyrica1a:Even when we're out in the fray, you can always take advantage of opportunities that others provide...
+
+Tewi3e:Oho, I think we're gonna get along just fine.
+
+Lyrica1a:Heheheh, you know it!
+
+Lunasa0b:...Good grief. One more "ally" I need to keep an eye on.
+
+Patchouli0c:...Come to think of it, Keine, why don't you try using that stone we were talking about?
+
+Patchouli0d:It's currently midday, and there's no reason to hold back on trash like this.
+
+Keine0c:Hm, you're right. This is the first time I'll be using it in actual combat...
+
+Remilia0e:Oh, what's that accessory? I sense some interesting waves coming from it. Almost like...
+
+Sunny1a:Good eye! That accessory is a rock that Luna picked up on the moon, reworked by Patchouli's group!
+
+Luna3a:It's a real, genuine moon rock, so it's got the power of the full moon stored inside.
+
+Tewi4b:Please, everybody knows "power stones" are a scam.
+
+Eirin1c:No, it definitely gives off power. It's made to amplify the lunar energies stored within, using the spiritual power of its holder.
+
+Eirin0a:Which means from now on she'll be able to transform into hakutaku mode even in broad daylight, as long as she can get her morale up.
+
+Keine6b:My hakutaku form is highly powerful, but I consume a lot of MP in it. I'll make sure to use this judiciously.
+
+<end>
+
+<ChatID:5>----------------------------------------
+//3PP
+
+Shizuha4a:*sigh* I was getting so excited for the hot spring, and then these spirits just had to show up...
+
+Minoriko1a:The snow's so white... Too white! Just send us back to the cellar already!
+
+Wriggle5b:Goodness gracious. They were so energetic until just a minute ago, and now they're down in the dumps.
+
+Nazrin6a:Wait, aren't they just sensitive to the cold?
+
+Nitori4b:Now now, we're in the middle of winter already, so you can just think of it as another sign of the season.
+
+Nitori0b:Of course, we still haven't seen the all-important winter youkai...
+
+Cirno4c:What's gotten into Letty, anyway?
+
+Cirno4a:She said she'd play with us again when winter rolls around.
+
+Daiyosei0b:Don't worry, Cirno. I'm sure she'll keep her promise.
+
+Mystia3c:Right, right. She sounds like a really nice person, so...
+
+<pause>
+
+Mystia0c:...!
+
+Kanako2a:More spirits? And they're coming from the spring!
+
+Yukari0a:...It seems they're pouring forth from the geyser, along with the hot water.
+
+Yukari0b:Could they be coming from underground...?
+
+Luna1a:What do we do?! Now we can't wait around for Letty!
+
+Meiling1a:Just stay focused on what's in front of you. We have no choice but to defeat the spirits!
+
+Cirno4a:But...
+
+<nomove>
+
+<Code=(cursor_jump,448,192,1)>
+
+<hide=all>
+
+Letty5a:I see I've kept some people waiting.
+
+</hide>
+
+<pause>
+
+LilyW4b:You're—!
+
+Shizuha2a:It's winter! The winter devil has arrived!
+
+Minoriko5a:It's all over! Give us back our autumn!
+
+Letty4a:...I see you two haven't changed at all. It does make me feel like I'm really back though.
+
+Cirno3a:Letty!
+
+Letty3a:It's been a long time, Cirno. Have you been well?
+
+Cirno0a:I've been great! But you're late, Letty.
+
+Cirno4c:Winter came, but you still didn't show up...
+
+Letty4b:I'm sorry. Last year I didn't get to sleep until very late.
+
+Wriggle3a:Oh, so this is the infamous Letty then?
+
+Udonge4c:The temperature suddenly dropped quite a few degrees. Is that her power...?
+
+LilyW0a:Yes, with her power to manipulate coldness, Letty increases the power of winter many times over.
+
+LilyW4c:She fought alongside us during the incident last year.
+
+Suika3c:In other words, winter itself is on our side. That's cool.
+
+Keine0c:Good timing, Letty. We're having trouble with all these spirits coming out of the ground.
+
+Keine0a:Sorry to ask this of you as soon as you got here, but could you lend us a hand?
+
+Letty3c:Indeed, we can save the reunion for after we've dealt with them.
+
+Letty1c:You vengeful spirits dare to disrupt this tranquil winter where even the mountain birds don't squawk? I'll crush you with the might of winter!
+
+<end>
+
+<ChatID:6>----------------------------------------
+//クリア時
+
+Suwako4b:...Phew, is that the last of them?
+
+Letty0d:There's no sign of more coming out. Maybe we can relax.
+
+Komachi0b:Why were vengeful spirits coming out of this geyser, anyway?
+
+Komachi0c:I don't think it's just a coincidence.
+
+Yukari0b:...This matter merits investigating.
+
+Yukari0b:If these spirits really are coming from the depths of the earth, then...
+
+Reimu0f:Then what?
+
+Yukari0b:I'll explain later. Why don't we return to the shrine for now?
+
+<end>
+
+<ChatID:7>----------------------------------------
+//ADVB
+
+<MAP=9,FROM=博麗神社,TO=博麗神社,name=Hakurei Shrine,icon=1>
+
+<BG=*bg_talk_Shrine_Winter.png,fade=0,color=1,title=*bg_Shrine,bgm=bgm_talk_ningyo>
+
+Tewi4a:Yeesh, what a chore that was.
+
+Kaguya0a:Vengeful spirits, hm? I think I've seen enough unusual sights for the day.
+
+Kaguya3c:Now that I've worked up a sweat though, I could really use a nice long soak in the bath. 
+
+Meiling3d:Taking a bath right after a fight? You really don't let anything get to you... 
+
+Letty0a:Oh, I thought you people were always doing this sort of thing? 
+
+Sakuya0a:Sorry for making you fight with us so soon, Letty. We haven't even met since the snow incident.
+
+Sakuya5b:So, you were late because you got to sleep late last year? 
+
+Letty0d:Yes, and it seems I've kept the fairies waiting as a result, much to my chagrin.
+
+Cirno3b:Letty...
+
+Letty3c:It's been a long time, Cirno. How nice to see you doing well.
+
+Letty0a:I can see you've been looking after your friends as promised.
+
+Cirno5b:Yup, and I even made more of them when you were gone.
+
+Cirno5b:Um, this is Wriggle, and this is Mystia, and this is Chen and um... 
+
+Wriggle3c:Nice to meet you, Letty.
+
+Mystia1b:I found a frigid looking fellow and tried a bite... ♪ 
+
+Chen4b:I dunno about all this. I'm bad at counting...
+
+Mystia3d:Silly Chen, you can just eyeball them! 
+
+Wriggle5b:...Do you really run a business like that? 
+
+Rumia0a:At Mystia's place, you just put everything on your tab! 
+
+Cirno0a:Oh, I know that! That's how you can eat for free, right? 
+
+Letty4b:...Good grief, it must be hard for Daiyousei to put up with all this. 
+
+Daiyosei5d:It's fine with me. Cirno's my friend, after all.
+
+Daiyosei0b:Plus, even if something bad happens, Nazrin's there to help us.
+
+Nazrin6b:...It's kind of a pain to be relied on like that, you know. 
+
+Keine3b:I'm glad we could meet again like this, but I'm afraid there's no time to celebrate.
+
+Keine0b:A large number of vengeful spirits are showing up, something that would never happen in ordinary circumstances.
+
+Letty0b:...True enough. I understand just how dangerous they can be. 
+
+Kaguya6a:What makes a vengeful spirit different from an ordinary ghost anyway?
+
+Komachi3a:Well, for starters, they're beings of pure resentment that haven't crossed the Sanzu River.
+
+Komachi0c:They're dangerous critters that possess both humans and youkai, filling them with resentment.
+
+Koakuma5b:So what exactly happens if you get possessed? 
+
+Ran6c:For humans, they'd create conflict and ultimately destroy the community. 
+
+Yukari0a:Even for youkai, it can be a grave matter. 
+
+Yukari0a:By destroying one's mental equilibrium with their resentment, they change the reason for one's existence.
+
+Yukari0b:It would be no exaggeration to say that this is death itself for a youkai. 
+
+Elliy1a:They start human conflicts and cause youkai to die?! That's a huge deal!
+
+Kanako1c:So if we leave this alone, it could be dangerous to everyone, both humans and youkai? 
+
+Reimu2b:The real question is why they're showing up in my backyard.
+
+Reimu0f:Oh yeah, Yukari, you were saying something about the geyser earlier? 
+
+Yukari0a:Yes, the spirits appeared at the same time as the spray of water.
+
+Yukari0a:In other words, the origin of this matter most likely lies in the existence of the geyser. 
+
+Sanae1a:Are you saying...?
+
+Alice0a:So you think the vengeful spirits are coming from the Underworld. 
+
+Yukari0a:Precisely. There are many such spirits sealed away there.
+
+Yukari0b:If the geyser is creating a channel to the Underworld, that would explain how they're showing up in such large numbers. 
+
+Aya0b:Of course, that still leaves the question of why they're showing up now.
+
+Aya5b:I don't want to believe that the Underworld youkai are sending them intentionally, but... 
+
+Marisa1c:It could be. I mean, we DO know a youkai who can control those spirits.
+
+Suwako0b:You do?
+
+Marisa1c:Yeah, some Underworld youkai called Orin.
+
+Marisa0d:She works for the Palace of Earth Spirits. She's like the ruler's right-hand lady, or something. 
+
+Kaguya2d:Nonetheless, something doesn't add up. What could the Underworld possibly have to gain from this?
+
+Kaguya1a:If they cause any harm on the surface, that would simply invite harsh retribution upon them.
+
+Alice2c:...Kaguya has a point. It's too soon to assume this was intentional.
+
+Tewi4a:Yeah, it could be either an accident or just bad luck. 
+
+Eirin0c:It may seem foolish, but that is the most natural way to approach this.
+
+Eirin0e:Of course, it's still possible they're actually hostile and plotting an invasion of the surface.
+
+Sunny3a:Hmm... I dunno, we're kinda thinking in circles here.
+
+Remilia1d:Exactly, standing around speculating is a waste of time.
+
+Remilia1a:We should just march into the Underworld and tie up the first suspicious person we find. 
+
+Yukari0b:...
+
+Reimu5a:I agree with Remilia. For now, I'm heading out to investigate.
+
+Reimu4a:The surface youkai can't go into the Underworld, right? So you all can stay up here and keep an eye on the geyser.
+
+Yukari0b:...No, I've already reached my own conclusion.
+
+Yukari1a:I'll be accompanying you to the Underworld. And I ask the other youkai to lend their assistance as well. 
+
+Nitori2a:You want OUR help?
+
+Meiling6a:Wait, you want us to go with you?! But wouldn't that break the noninterference pact?
+
+Yukari0a:Taking into account the seriousness of this incident, this counts as an emergency.
+
+Yukari0b:Furthermore, given our lack of information, we need to be prepared for any possible eventuality. 
+
+Patchouli4a:...That may be so, but asking all of us to go seems awfully cautious for you, Yukari.
+
+Patchouli0a:Do you truly think the Underworld youkai could be staging an invasion? 
+
+Yukari0b:I would need to connect many different dots before I confirm or deny that possibility.
+
+Yukari0b:That, and if this does involve the youkai of the Palace of Earth Spirits, then I'd like to judge the situation up close. 
+
+Momiji3c:We're certainly happy to assist if a Youkai Sage asks us to, but...
+
+Sanae1a:Lady Kanako, Lady Suwako, we'll be joining them as well, right?
+
+Suwako0b:...
+
+Sanae0g:Lady Suwako? 
+
+Suwako1c:(Hey Kanako, do you think this might have something do to with that girl?) 
+
+Kanako3a:(...I doubt it. It hasn't been that long since we met with Utsuho.)
+
+Kanako0b:(It should still be quite some time until she's fully surrendered her mind and body and fused with the god.) 
+
+Suwako0b:(Yeah, huh. There's no way she'd manifest its power this early...)
+
+Sanae0g:Is something wrong? You're having a private conversation... 
+
+Kanako0a:No, nothing at all. We were merely discussing the incident. 
+
+Suwako0a:This's definitely concerning for the whole surface. We gotta get this sorted out.
+
+Sanae0g:O... kay...
+
+<single>
+
+Elliy0a:We'd love to come, but we should probably go let Yuuka know first.
+
+</single>
+
+Kurumi4b:Where'd she get off to...? 
+
+<SE=se_talk_snow03s.ogg,wait=1>
+
+Yuka2d:Why, I'm right here. 
+
+Sakuya5b:Where have you been, Lady Yuuka? 
+
+Yuka0c:I was drinking tea in the shrine and watching how you fight.
+
+Yuka2d:Really now, to think the surface youkai are now conspiring to march into the Underworld.
+
+Yuka0b:Setting foot in the place that you yourselves sealed off... How scandalous. 
+
+Udonge4d:...You're a surface youkai too, aren't you? Are you going to be helping out?
+
+Udonge0a:If you leave this alone, you'll suffer just as much as anyone else. 
+
+Yuka2d:I think I'll pass. This is the Youkai Sage's job.
+
+Remilia1d:That's odd, you're not interested? Picking a fight with the Underworld sounds pretty fun to me. 
+
+Yuka0d:The gulf between the surface and the Underworld is deeper than you realize, Remilia.
+
+Yuka0a:Wouldn't it be better to leave this matter to the parties that planted those seeds?
+
+Yukari0b:...
+
+Reimu4a:No matter how you characterize it, I can't just ignore an incident.
+
+Reimu0a:Let's get ready and hit the road.
+
+Marisa1b:Right, lemme just tie Shiro to one of these pillars...
+
+Yuka2c:Oh, you're not taking the kedama with you? 
+
+Marisa0a:After a dream like that? No way. It can watch the house while we're gone.
+
+Marisa1c:Hey, could you make sure it doesn't run away or anything?
+
+Yuka2d:I think not. Staying here would just bore me, so I'm going home. 
+
+Keine0c:Well then, let's head out, everyone!
+
+Akyu0a:Right!
+
+Kosuzu0b:What to do, what to do? It'd be hard to get back to the village on my own...
+
+Reimu0a:...
+
+Reimu0e:You could board the ship if you like, Kosuzu.
+
+Kosuzu6b:Excuse me?
+
+Kosuzu3d:Oh, you mean you'll give me a ride. Thanks! But I know you're all busy with this investigation.
+
+Reimu3b:No, I meant you could come with us.
+
+Kosuzu0b:Bwuh?!
+
+Akyu4a:But Reimu, that's—
+
+Reimu5c:I've been thinking about it ever since she got wrapped up in the night incident.
+
+Reimu0f:She's managed to keep away from danger so far, but it might be better if we kept her where we can see her.
+
+Marisa0d:Oh right, weren't you attacked by youkai last time, when we were gone?
+
+Alice0a:...Kosuzu, compared to ordinary people, you might already be closer to the youkai side of things.
+
+Alice0b:No doubt all sorts of dangers are creeping up on you right under your nose.
+
+Kosuzu5a:Gah... Are you kidding me?!
+
+Yukari0a:When seen by an observer, even the most ambiguous position becomes crystal clear.
+
+Yukari6c:I believe this is a good opportunity for you to gain some self-awareness.
+
+Akyu0a:I see...
+
+Kosuzu6b:Okay, I get it. I mean, I don't REALLY get it, but if you're all saying so, who am I to argue?
+
+Nitori1a:Then it's settled. Welcome to the team, Kosuzu!
+
+Ichirin3c:Come on up to the bridge like last time.
+
+<Cond=(GLOBAL_VAR,c_Akyu,<,10) && (GLOBAL_VAR,is_NG0,==,0)>
+
+Murasa3b:You're already used to it, so I'll teach you how to handle some of the simpler stuff.
+
+Kosuzu3b:Thank you so much! I was always a little curious.
+
+Patchouli0a:Then once again, let's depart. We certainly don't have time to be wasting on this.
+
+Kosuzu0c:Then let's move out!
+
+Akyu3c:Ha, seems like the bridge will be a bit livelier now.
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,c_Akyu,>=,10) || (GLOBAL_VAR,is_NG0,>,0)>
+
+Kosuzu3d:Oh, should I deploy for battles too?
+
+Murasa4b:No no, let's not go crazy here.
+
+Mokou0d:Even Akyu would be a better choice than you.
+
+Akyu4a:Huh? Me?!
+
+Keine0a:True, she's certainly studied danmaku battles more than most.
+
+Keine6b:And didn't you even defeat a fairy, back when you got caught up in this for the umpteenth time?
+
+Akyu3c:...Surely you're not telling me to go fight, are you?
+
+Reimu0g:I mean, it's up to you.
+
+Akyu0a:I don't know, this is all a little sudden.
+
+Marisa6a:It's not like we're gonna keep bugging you about it. Just wanna hear your thoughts.
+
+Akyu0a:I...
+
+<Question=|I prefer the Palanquin Ship.|I'd like to try my hand at danmaku battles.|,face=Akyu0a>
+
+</Cond>
+
+<end>
+
+<ChatID:7a>----------------------------------------
+//「聖輦船に残るを選択した場合
+
+Akyu6c:Supporting everyone from the ship would suit me the best.
+
+Suika2a:Yeah, I guess so, huh?
+
+Akyu0d:Kosuzu, as your senior operator, there are all sorts of things I need to teach you.
+
+Kosuzu5a:Ugh, go easy on me, okay?
+
+Patchouli0c:Then once again, let's depart. We certainly don't have time to be wasting on this.
+
+Kosuzu0c:Then let's move out!
+
+Akyu3c:Ha, seems like the bridge will be a bit livelier now.
+
+<end>
+
+<ChatID:7b>----------------------------------------
+//「聖輦船を降りるを選択した場合
+
+Akyu0a:To be honest, I've always wanted to try my hand at danmaku.
+
+Ichirin0a:Got it, then Akyu will joining the battle...
+
+Murasa0a:Wait, what?!
+
+Reimu0a:Are you serious?! We were mostly just kidding back there.
+
+Keine1a:What are you thinking? There's no need to go so far when you can learn just as much from the bridge.
+
+Akyu0a:...I used to think so as well, but changed my mind after being with you all.
+
+Akyu0a:To have a deeper understanding of everyone, of Gensokyo, I do need to be in the thick of it.
+
+Keine1a:Even so, what about your body? You're not—
+
+Marisa0a:No, where there's a will there's a way, right?
+
+Marisa0a:Everyone's equal on the field of danmaku. She may not be strong, but I'm sure Akyu's got her own way of fighting.
+
+Murasa0a:Like making use of her knowledge to exploit the opponent's weaknesses?
+
+Suika2a:Whoa, that's a good point!
+
+Akyu0a:So what do you think? Of course I'm fully aware that I'm asking for something unreasonable.
+
+Reimu0b:Sounds like you've already given it a lot of thought. So what choice do I have but to cheer you on?
+
+Ichirin0a:Let's be sure to give her our full support when she's on the frontlines.
+
+Keine1a:...Fine. But please, don't be reckless out there.
+
+Akyu0a:Right, I'll be careful!
+
+Tewi0a:So Kosuzu's boarding the ship and Akyu's leaving it? I can't even follow what's going on anymore.
+
+Sanae0a:Maybe our actions inspired her?
+
+Patchouli0a:Then once again, let's depart. We certainly don't have time to be wasting on this.
+
+Kosuzu0a:Then let's move out!
+
+<end>
+
+<ChatID:8>----------------------------------------
+//全滅時
+
+Ichirin2a:Argh, I can't believe there are vengeful spirits in a sacred place like this...!
+
+Murasa0b:Ichirin, are you sure you didn't relax a bit TOO much in that hot spring?
+
+Ichirin1a:Hey, I don't need this from someone who was right there with me...
+
+Unzan0a:...
+
+Akyu1a:Ah, even I can tell what that expression means, Unzan.
+
+Akyu0b:Allow me to interpret: "Ichirin, have you been letting yourself go in more ways than one? Like, your weight for example..."
+
+Unzan0a:...?!
+
+Ichirin1a:Unzan, how could you say such things?!
+
+Unzan0a:...!
+...!
+...!!!
+
+Murasa0a:Y'know, you might stay a little sharper if you wore your robes a little tighter.
+
+Ichirin1a:Why are we even talking about this?! All these false accusations are gonna put you guys in hot water!
+
+<end>
+
+<ChatID:9>----------------------------------------
+//おまけ会話（温泉）
+
+<nomove>
+
+<Code=(cursor_jump,304,224,1)>
+
+Unzan0a:...!
+
+<Code=(cursor_jump,320,224,0)>
+
+Korin1a:Whoa! What are you all doing here?!
+
+Korin3a:...I see. I thought it was getting awfully noisy out there.
+
+Korin3a:So there are vengeful spirits on a rampage? And here we were, having a drink together.
+
+<Code=(cursor_jump,304,224,0)>
+
+Unzan0a:...
+
+<Code=(cursor_jump,320,224,0)>
+
+Korin0b:...Mm-hmm. Judging by the look on Unzan's face, he wants to say, "Expecting some kind of steamy scene? How outrageous!"
+
+Korin0b:I agree. Even if it's during the confusion of a danmaku battle, you really shouldn't be sneaking into a hot spring.
+
+Korin0a:Anyway, good luck with that spirit extermination out there. We're counting on you.
+
+</nomove>
+
+<end>
+
+<ChatID:10>----------------------------------------
+//レティ初戦闘
+
+Letty0c:Goodness gracious, somehow I managed to wake up just in time.
+
+Letty0a:My sleep seemed to last forever, just like this frog's.
+
+Star0a:Huh? Letty, is that thing you're holding a frozen frog?
+
+Cirno3a:Ooh, you held onto our mark of friendship!
+
+Letty0a:Of course. Though it's thawed a bit, so it's smaller now.
+
+Aya0c:Compared to when we first met, you've become much more broad-minded about fairies.
+
+LilyW0b:I'm so glad we can rely on you in top form.
+
+Letty0b:...Ah, you're here as well, Lily. Don't push yourself too hard.
+
+<end>
+
+<ChatID:11>----------------------------------------
+//戦闘前会話：プリバ
+
+Merlin2a:Augh, why'd they have to interrupt right when we were getting into the hot spring?!
+
+Lunasa0b:We'll have to drive them off if we ever want to bathe.
+
+Lyrica0a:...Changing the subject, but what do you eat, Merlin?
+
+Merlin0a:What's this about all of a sudden?
+
+Lyrica1b:Oh, I was just thinking that you're the biggest of us, and I'm the smallest, so...
+
+Lyrica1b:Do you like milk, or are you especially unpicky about food or anything?
+
+Lunasa0a:Hm, I don't know about that. We usually eat together, and Merlin's the pickiest eater of any of us.
+
+Merlin1a:Maybe some people are just born bigger or smaller!
+
+Lyrica2a:Gah, exactly what I didn't want to hear!
+
+<end>
+
+<ChatID:12>----------------------------------------
+//戦闘前会話：かなすわ
+
+Kanako0c:Vengeful spirits, hm. I feel like I've sensed their presence somewhere before...
+
+Suwako0b:Yeah. Wasn't it when we visited that girl...?
+
+Sanae0g:What are you two talking about?
+
+Kanako0a:Nothing, don't mind us. Let's focus on eliminating the vengeful spirits first and foremost.
+
+<end>
+
+<ChatID:13>----------------------------------------
+//戦闘前会話：秋姉妹
+
+Shizuha2b:Surely the vengeful spirits are also furious that autumn has been stolen away...
+
+Minoriko1b:We can relate, but we're still going to bury you in the ground and turn you into fertilizer!
+
+Kurumi0a:Oh, are they in better spirits now?
+
+Elliy0a:I think they got so sad they looped back around to chipper.
+
+Nitori2a:Talk about mood swings...
+
+<end>
+
+<ChatID:14>----------------------------------------
+//戦闘前会話：雛
+
+Hina0b:These spirits aren't like the ones that wander the land.
+
+Hina0c:I sense dark, deep-seated misfortune from them. What exactly are they?
+
+<end>
+
+<ChatID:15>----------------------------------------
+//戦闘前会話：早苗さん
+
+Sanae1a:If we leave these vengeful spirits as they are, the shrine will be a mess!
+
+Sanae1a:I was going to change out the water of the hot spring and wash out the bathtubs after this, too...
+
+Hatate0a:This is the Hakurei Shrine's hot spring, so shouldn't Reimu do that?
+
+Sanae0g:But I let her do all the snow-shoveling while I was just relaxing...
+
+Kanako3c:I'm fine with it if Sanae is, but she lets herself get signed up for so much extra work.
+
+Suwako4b:She visited to sweep the leaves after they got back from the moon, too.
+
+<end>
+
+<ChatID:16>----------------------------------------
+//戦闘前会話：魔理沙
+
+Marisa0e:I was all up for taking a dip in a hot spring, but I guess there's no way that's happening now.
+
+Marisa4c:...Well, not like I can do anything about it. And to be honest, I WAS kinda embarrassed.
+
+<end>
+
+<ChatID:17>----------------------------------------
+//戦闘前会話：霊夢
+
+Reimu0d:Oh come on! Just when the hot spring finally brings people over, you all show up and ruin everything.
+
+Reimu0d:I'm exterminating every last one of you.
+
+<end>
+
+<ChatID:18>----------------------------------------
+//戦闘前会話：アリス
+
+Alice0a:There's no way I can relax in the bath in this situation.
+
+Alice4a:Then again, so many people came that it wasn't all that calm in the first place... It was a tad bit off-putting, really.
+
+<end>
+
+<ChatID:19>----------------------------------------
+//戦闘前会話：チルノ（レティ増援後のみ）
+
+Cirno5a:Now that Letty's back, I'm feeling stronger than ever!
+
+Daiyosei0c:Yes, I'll do my best too!
+
+Letty0a:Oh, you two. That's very flattering, but don't get too hot-headed.
+
+Letty0a:In battle, it's important to keep your cool.
+
+Cirno5f:Keep my cool...? Cool... I got it, then I'll cover myself in snow!
+
+Daiyosei5b:Cirno! If you do that, you won't be able to see anything!
+
+Letty0a:Come to think of it, word choice is important too...
+
+<end>
+
+<ChatID:20>----------------------------------------
+//戦闘前会話：永琳
+
+Eirin0a:I should have no trouble stopping the movements of enemies as weak as this.
+
+Udonge1a:We're all relying on you, Master!
+
+Tewi0a:But Master, isn't this finally a good time to show off your skills as a doctor too?
+
+Eirin1a:Of course. Healing and Supplying are my specialities.
+
+Eirin0a:If anyone is wounded or exhausted, they should come to my side.
+
+<end>
+
+<ChatID:21>----------------------------------------
+//戦闘前会話：てゐ
+
+Tewi4b:Geez, when was the last time I saw a vengeful spirit...?
+
+Tewi4a:It's a real pain to deal with them since they don't listen to a word you say.
+
+Udonge4c:Hey, stop spacing out and fight, Tewi.
+
+Udonge4c:You should say something to her too, Master.
+
+Eirin0a:No need. Against indigenous enemies, there shouldn't be a problem letting Tewi handle it how she likes.
+
+Udonge3a:Sometimes it feels like Master's a little too soft on Tewi...
+
+Tewi3f:Okay, time to bust some ghosts.
+
+<end>
+
+<ChatID:22>----------------------------------------
+//戦闘前会話：鈴仙
+
+Udonge0a:...So I'm up against vengeful spirits again, huh?
+
+Udonge1a:These things are simple enough to pick off—
+
+Mystia3d:YOU CAN DO IT, REISEN!
+
+Cirno5a:You're the strongest person in Eientei, just like you said!
+
+Udonge5c:Wh... Don't say that in front of Master!
+
+Eirin1d:The strongest person in Eientei...? What's all that about?
+
+Udonge2b:Um, nothing at all! In fact I have no idea what they're talking about...
+
+Rumia3a:You can't play dumb when you were throwing a whole one-man show earlier.
+
+Sho3d:Yes, I hear your power is what holds Eientei together.
+
+Udonge2c:Please, just stooop!
+
+<end>
+
+<ChatID:23>----------------------------------------
+//戦闘前会話：妖夢
+
+Youmu1a:I thought some suspicious stranger had come, but to think it was some vengeful spirits...!
+
+Youmu3a:...Wait. Could it be that they wanted to bathe with Lady Yuyuko?
+
+Onryo0a:...
+
+Youmu1a:Your silence says it all! I'll cut you in two with my Roukanken!
+
+Nitori2a:Whoa, whoa, Youmu, calm down!
+
+Yuyuko1b:You know this uproar happened before we went in the bath, right?
+
+<end>
+
+<ChatID:24>----------------------------------------
+//戦闘前会話：パチェこぁ
+
+Patchouli0b:Vengeful spirits. I've fought them before, but...
+
+Koakuma4a:Getting all sweaty in battle right after a bath just feels icky, doesn't it?
+
+Koakuma5b:I didn't have time to dry your hair. Miss Patchouli, are you going to be alright?
+
+Patchouli0c:I'm just going to fight. You take care of my hair in the meantime.
+
+Koakuma5b:That's so slovenly...
+
+<end>
+
+<ChatID:25>----------------------------------------
+//戦闘前会話：幽々子
+
+Yuyuko2a:I really wanted a nice hot spring soak. What a shame.
+
+Yukari0a:Now that this has happened, there's no way we can go back to relaxing in the bath.
+
+Yukari2a:Still, in a way it's fortunate. I wouldn't want you going defenseless in a place with such filthy creatures.
+
+Yuyuko1a:You worry too much! We could always have a soak together another time.
+
+<end>
+
+<ChatID:26>----------------------------------------
+//戦闘前会話：ミスティア
+
+Mystia2a:I was just relaxing in a tub!
+
+Aya0a:You seem to enjoy baths, Mystia.
+
+Mystia0a:Us sparrows always like to bathe together.
+
+Mystia0a:Are you saying you don't like baths? That's no good, you know.
+
+Aya0a:No, I don't especially mind them. But I prefer a quick, refreshing clean-up over a long hot soak.
+
+<end>
+
+<ChatID:27>----------------------------------------
+//戦闘前会話：リグル
+
+Wriggle0a:Come to think of it, hot spring water's got a lot of elements in it...
+
+Wriggle0a:I wonder if it could, like, make you grow or stimulate your instincts or something.
+
+Rumia0a:What are you talking about, Wriggle?
+
+Wriggle0c:Oh, nothing! The thought just popped in my head...
+
+<end>
+
+<ChatID:28>----------------------------------------
+//戦闘前会話：ルーミア
+
+Rumia0a:I've never tried to eat a spirit before. Are you edible?
+
+Onryo0a:...
+
+Rumia4b:*drool*
+
+<end>
+
+<ChatID:29>----------------------------------------
+//藍橙
+
+Ran0b:Good grief. They just had to get in the way of us soaking in the tub.
+
+Chen4a:Yeah, I was practicing counting to a hundred and everything...
+
+Ran0a:Speaking of which, did you keep all your promises when you went to the moon?
+
+Chen3b:I did! I counted to one hundred in the bath and brushed my teeth before going to bed!
+
+Chen3a:And I even tried my best with Shou to eat all the vegetables I don't like.
+
+Ran6b:That's great! So Shou helped you... wait, what?
+
+Ran6b:So does that mean she was watching over you, or...?
+
+Sho0c:Th-That's enough, Chen!
+
+<end>
+
+<ChatID:30>----------------------------------------
+//戦闘前会話：三月精
+
+Sunny0a:I was thinking this when we went in the hot spring, but boy, Keine and the others sure are grown-up.
+
+Sunny1b:Well, out of the three of us I'm the most grown-up, so I'm not too worried.
+
+Luna3b:What? I'm obviously the most grown-up.
+
+Star3c:No, me!
+
+Sunny5a:Excuse me, it's totally me!
+
+Ichirin0a:From over here, they all seem about the same to me.
+
+Akyu0b:The best they can do is compare heights. Such children.
+
+Murasa0b:Hmm, I dunno if you have much room to talk there...
+
+<end>
+
+<ChatID:31>----------------------------------------
+//戦闘前会話：くるみ
+
+Kurumi1a:Elly, I'm ready to face the moosic and start drinking milk.
+
+Elliy1b:Huh? Milk?
+
+Elliy0b:What's gotten into you? Were you possessed by the spirit of a vengeful cow?
+
+Kurumi0b:The way things stand, that's not much of an exaggeration...
+
+Kurumi1a:Moo! You'd better pack milk with my bento!
+
+Elliy1a:...You're acting weird. Did something happen in the bath?
+
+<end>
+
+<ChatID:32>----------------------------------------
+//星
+
+Sho3b:Open air baths sure feel nice.
+
+Nazrin0a:Sounds like you were really enjoying yourself in there, Master.
+
+Sho0a:For the entire trip to the moon, I was stuck in that ship.
+
+Sho0a:This is really helping to drive home the fact that we're back on terrestrial soil.
+
+Nazrin0a:...You got that right. I'm sure everyone's been thinking the same thing.
+
+<end>
+
+<ChatID:33>----------------------------------------
+//橙
+
+Chen4b:Aww, I didn't wanna have to jump out of the water.
+
+Sho0a:Make sure to dry your hair so you don't get cold.
+
+Sho0a:If you head back to the shrine, there should be a spare towel lying around.
+
+Chen0b:Okay, Shou!
+
+Yukari0a:Well haven't they gotten close? Aren't you glad you left her with Shou?
+
+Ran0a:Indeed. It seems the trip has a been a good experience for Chen.
+
+Ran4b:That said, it's a bit lonely seeing her rely on someone other than me...
+
+Yukari1a:You worry too much. It's one of your few flaws.
+
+<end>
+
+<ChatID:34>----------------------------------------
+//静葉
+
+Shizuha2b:What a terrible way to interrupt a hot springs visit.
+
+Youmu0a:So you like hot springs, Shizuha? Aren't they normally associated with winter?
+
+Shizuha0a:Enjoying a hot spring while it's snowing isn't bad, but nothing can beat one with falling leaves.
+
+Shizuha0a:Actually, hot springs are a constant companion that should be enjoyed in all seasons.
+
+Youmu2b:So... this has nothing to do with autumn then? Just hot springs?
+
+Nitori0a:Don't worry, these sisters can twist ANYTHING into being about autumn.
+
+<end>
+
+<ChatID:35>----------------------------------------
+//ルーミア
+
+Rumia0a:So now there are ghosts in the bath? Why does all this stuff happen at the shrine?
+
+Mystia0c:Rumia, your shirt's not on right.
+
+Rumia0a:Oh, really?
+
+Keine0b:I know you were in a hurry, but you must always be mindful of your appearance.
+
+Keine0a:Maybe I should hold a lesson on how to dress yourself properly sometime.
+
+Rumia2b:Uuugh, that sounds lame.
+
+<end>
+
+<ChatID:36>----------------------------------------
+//萃香
+
+Suika1a:Vengeful spirits, huh? Been a while since I last saw one.
+
+Suika0a:But it's weird for there to be so many above ground.
+
+Onryo0a:...
+
+Suika0c:...It's kinda bugging me. So much for being able to relax at a hot spring.
+
+<end>
+
+<ChatID:37>----------------------------------------
+//紫
+
+Yukari4b:Vengeful spirits peeking in on the baths, hm? What sort of grudge could they be holding?
+
+Ran6e:Lady Yukari, I hope this isn't the case, but...
+
+Yukari4a:I know. But that's exactly why we need to stay calm and prevent the spread of panic.
+
+Yukari0b:First, we'll need to carefully verify where these spirits are coming from.
+
+Ran6c:Understood.
+
+<end>
+
+<ChatID:38>----------------------------------------
+//慧音
+
+Reimu0a:C'mon! I finally caught a break with these hot springs popping up, but now with these spirits I can't advertise them!
+
+Keine0b:...Is that what you were planning?
+
+Keine0a:Then again, establishing an attraction like that would've been a good way to get more visitors.
+
+Reimu0b:Yeah, exactly. And by charging a bathing fee, that's more donations coming in.
+
+Keine3a:They wouldn't be donations at that point, would they?
+
+<end>
+
+<ChatID:39>----------------------------------------
+//小町
+
+Komachi0c:Vengeful spirits? I've never heard of them popping up in a place like this before.
+
+Komachi0a:But what a disaster, showing up right when people were gathered at the shrine.
+
+Reimu0d:You got that right. And I was gonna sell hot spring buns and hot spring eggs...
+
+Komachi1c:I'll help you out once we deal with this. Even in Hell we put effort into our local specialties.
+
+Komachi1a:...But I guess we can save that chat for later. Gotta beat these guys up first.
+
+<end>
+
+<ChatID:40>----------------------------------------
+//リリー
+
+LilyW5c:Brr... I knew it'd be tough in the winter...
+
+Daiyosei4d:Don't push yourself, Lily.
+
+LilyW0b:But these spirits showing up might mean something weird is going on.
+
+LilyW0b:Which might have an effect on spring. I have to do my best too...
+
+Sanae0g:Still, please don't push yourself too hard!
+
+<end>
+
+<ChatID:41>----------------------------------------
+//大妖精
+
+Daiyosei0c:I never would've thought a hot spring would show up at the shrine.
+
+Daiyosei0b:But being around all these grown-ups makes me nervous.
+
+Rumia0a:Don't worry about it, Dai. Just relax and have fun!
+
+Cirno5a:And without clothes, you don't even have to worry about getting wet!
+
+Daiyosei4d:You're both so bold... I'd be embarrassed.
+
+<end>
+
+<ChatID:42>----------------------------------------
+//ナズーリン
+
+Nazrin0a:Hot springs, huh? Stuff likes this always stirs my dowser soul.
+
+Sho0c:How so?
+
+Nazrin1a:When scouring the world for treasure, the holy grail is a hot spring with people in it.
+
+Akyu0a:I'm not sure I get it, but hasn't everybody already gotten out?
+
+Nazrin1a:Yup. So much for that.
+
+<end>
+
+<ChatID:43>----------------------------------------
+//美鈴、咲夜
+
+Meiling5a:Aaaah, thanks to that hot spring my stiff shoulders feel much better now.
+
+Sakuya5b:That's a bold statement considering how little you work.
+
+Meiling0a:But haven't YOUR usual strains gone away too?
+
+Sakuya0a:True enough. I stand all the time for my job, so my legs were quite sore...
+
+Sakuya0a:I might come again by myself sometime.
+
+Meiling5a:I'll join you if you do!
+
+<end>
+
+<ChatID:44>----------------------------------------
+//輝夜
+
+Kaguya0a:I never would have expected to see vengeful spirits gushing out of a hot spring. Coming to the shrine was well worth the effort.
+
+Mokou1b:You're as relaxed as always. Is there anything that can surprise you?
+
+Komachi1a:Now that I think about it, you're a princess but you were ready to take a bath with all of us.
+
+Kaguya0a:This too is one of the charms of the Earth. I even took great care to bundle up my hair properly.
+
+Tewi0a:Well, that was the master's handiwork.
+
+Eirin0e:It's not that much work, but please don't get yourself dirty just because you have another change of clothes.
+
+Kaguya1a:No need to worry. I have no intention of giving those things the privilege of touching me.
+
+<end>
+
+<ChatID:45>----------------------------------------
+//妹紅
+
+Mokou0a:I just wanted to soak in a warm bath.
+
+Keine0a:You were looking forward to this after all, weren't you?
+
+Mokou1a:After all the excitement around it, of course. You don't see baths this big every day.
+
+Keine0a:But couldn't you just make one, with your power?
+
+Keine4a:And maybe I could dig the hole with my horns. Oh, but we'd also need to figure out how to handle the drainage...
+
+Mokou1b:...Keine, I think you're getting off topic.
+
+Keine2b:Oh, excuse me. I was just distracted by the thought of hot springs.
+
+Mokou1a:Eh, I guess as long as you're comfortable talking about stuff around me.
+
+<end>
+
+<ChatID:46>----------------------------------------
+//レミリア
+
+Remilia1d:How dare they! After I came all this way for the hot spring!
+
+Sakuya0a:Indeed. It's still daytime, so watch out for direct sunlight.
+
+Remilia1e:But still, I was impressed, Sakuya. You stopped time to change our clothes in an instant.
+
+Sakuya0a:Oh, you flatter me. If you'd ever like me to do it again, you need only ask.
+
+Remilia1c:No, that's not really what I meant...
+
+<end>
+
+<ChatID:47>----------------------------------------
+//フラン
+
+Flan2e:These girls are jerks. Remi and I were about to wash each other's backs, too.
+
+Koakuma3b:Please calm down. We can always just go in again.
+
+Marisa0a:You know, your relationship's gotten a lot better.
+
+Flan3f:Yeah, we've even got matching bathcaps.
+
+Alice2b:You wear caps when bathing? Does that mean...?
+
+Remilia1c:What does that matter? Hurry up and take them all out already!
+
+<end>
+
+<ChatID:48>----------------------------------------
+//にとり
+
+Nitori1d:Vengeful spirits, huh? Now to lure them into the bath...
+
+Tewi0a:You want to fight in the bath? But didn't you just change your clothes?
+
+Nitori1a:These clothes are amphibious. And this is like my only chance to take advantage of it!
+
+Marisa0d:But isn't it against the rules to wear your clothes in the bath?
+
+Marisa0b:Although apparently in the Outside World they sometimes let you wear a swimsuit...
+
+Alice0d:Oh, that's a good idea. And we even have those swimsuits from the moon.
+
+Marisa0c:..Well, I guess. Maybe I should try it too.
+
+<end>
+
+<ChatID:49>----------------------------------------
+//エリー
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Yuka0c:So you were fighting too, Elly?
+
+</nomove>
+
+Elliy0a:Oh, Yuuka! Did you come for the hot springs?
+
+Elliy1a:Wait, so does this mean that once we beat these guys I can go in the bath with you?!
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Yuka0c:Haven't you already been in though?
+
+</nomove>
+
+Elliy1a:Doesn't matter! I'll wash your back, Yuuka!
+
+Elliy1a:Prepare to die, spirits!
+
+<end>
+
+<ChatID:50>----------------------------------------
+//文
+
+Aya1b:"Dark shadows surround the hot springs! What lurks in steam, people, or spirits?"
+
+Aya5a:Hmm, could be better. And I haven't gotten a good picture yet.
+
+Hatate0a:Hold on Aya, don't tell me you're planning to put in pictures of us bathing?
+
+Aya7b:Oh, how about "Dark shadows surround the hot springs! The wet feathers of a shy crow!"
+
+Aya0c:Something like that? They'd be your feathers, of course, Hatate.
+
+Hatate0a:Hey! That's completely different from the first one! And your taglines are so last-year.
+
+Aya1a:You've gotten a real mouth on you these days. Then we'll just have to have another competition for best article. Starting right now!
+
+<end>
+
+<ChatID:51>----------------------------------------
+//椛
+
+Momiji5a:To think these vengeful spirits intruded on my watch...
+
+Momiji1b:I should have been keeping an eye on the bathtubs in the distance to prepare for situations like this!
+
+Nitori2a:Uh, Momiji, you probably shouldn't do that anyway.
+
+Momiji6a:Why not? It would give the rest of you more peace of mind.
+
+Sanae5d:I'm not sure being watched would give any of us more peace of mind, actually...
+
+Momiji6a:...?
+
+<end>
+
+<ChatID:52>----------------------------------------
+//はたて
+
+Hatate3c:I never thought I'd take a bath with other people.
+
+Keine6a:You're already in our circle of friends, so there's no need to be nervous.
+
+Komachi3b:You were kinda antsy for a friend, though...
+
+Hatate6a:Wh... No I wasn't! And you girls wouldn't understand anyway.
+
+Meiling0c:O...kay...
+
+<end>
+
+<ChatID:53>----------------------------------------
+//聖輦船
+
+Murasa2b:I got dressed so fast, my clothes are kinda wet.
+
+Ichirin0a:You actually care about that kind of thing? I thought you were a ship phantom.
+
+Murasa0b:Oof, sometimes your teasing hits a little close.
+
+Akyu0a:Actually, I'm curious. Do you ever get the urge to cause a drowning in a hot spring?
+
+Murasa0a:Eh, the most I feel like doing is tugging at someone's feet.
+
+Murasa0a:I try not to think about that sort of thing, though. Otherwise I could never face Hijiri.
+
+Akyu3a:Makes sense. There were a few people who tripped on wooden tubs, but that wasn't you, was it?
+
+Murasa0d:Uhh, well...
+
+Akyu4a:...Wait, what?!
+
+<end>
+
+<ChatID:54>----------------------------------------
+//初戦闘：メーコ、まくら
+
+Makura3a:That was a nice bath just now.
+
+Makura0h:We should visit again, once things calm down.
+
+Meko0b:...
+
+Makura0g:That's quite a face you're making. What's the matter?
+
+Meko0b:Ah, no, it's nothing!
+
+Meko1a:I definitely wasn't thinking that it's so unfair when all you do is sleep!
+
+Makura5g:...?
+
+Meko0g:(...I didn't even notice until we all went into the bath.)
+
+Meko5c:(I've gotta drink a lot more milk!)
+
+<end>
+
+<ChatID:55>----------------------------------------
+//初戦闘：非想天則
+
+Tensoku0a:...
+
+Makura0f:Are you interested in the bath, Hisoutensoku?
+
+Meko4c:Don't tell me you want to take a dip?
+
+Meko1a:But no. If you did, there wouldn't even be a bath anymore.
+
+Tensoku0a:...?!
+
+Tensoku0a:...
+
+Makura0g:And now you've switched from excitement to depression so thoroughly... I suppose that a little cruel of us.
+
+<end>

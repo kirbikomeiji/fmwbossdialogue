@@ -1,0 +1,604 @@
+﻿○咲夜第三話「掌の上のナイフ
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: Meiling beat enemy
+ 3: 2PP
+ 4: first enemy ally
+ 5: second enemy ally
+ 6: last enemy ally
+ 7: clear
+ 8: ADVB
+ 9: battle Sakuya
+10: battle Meiling
+11: battle Flan
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<BG=bg_talk_Koumakan_Int.png,fade=0,color=1,title=bg_Koumakan_Kitchen,bgm=bgm_talk_aoki>
+
+<update>
+
+Maid0b:Let's see. After the blueberries comes just one other ingredient...
+
+Maid1b:Huh? Where did the red berries go?
+
+</update>
+
+Sakuya5b:The cranberries should be at the edges of the storehouse. Fetch some quickly, if you would.
+
+Sakuya0b:The batter should be cold enough by now, so take it from the cold room as well.
+
+Maid2b:Yes, ma'am! I'll do that right now!
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+Sakuya0b:...
+
+Sakuya5c:(What am I doing, leisurely preparing tea cakes at a time like this...?)
+
+Sakuya5a:(Do as I please, huh. That's easy for others to say...)
+
+</single>
+
+Elliy5a:Ooh, something smells nice.
+
+Kurumi3b:Hi Sakuya! Is it snack time yet?
+
+Sakuya5b:...Lady Elly and Lady Kurumi. My apologies, but it's not quite ready yet.
+
+Elliy4a:Hey, don't pester Sakuya. Unlike you, she's a busy lady.
+
+Kurumi6b:I'm doing my best, you know! But Patchouli said I'm too rough with the books...
+
+Sakuya5c:(I can see how entrusting her with valuable books is a disaster waiting to happen.)
+
+Elliy4b:Sorry, we weren't trying to disturb you. We were just passing through.
+
+Elliy0a:Oh yeah, have you thought about Yuuka's offer?
+
+Sakuya5a:...
+
+Sakuya5c:I'm still considering it. I don't have an answer yet.
+
+Elliy4b:Yeah, that's understandable. It was kinda sudden...
+
+Kurumi3a:It's not like you need an immediate answer, either. Take your time and think about it.
+
+Elliy0a:Just remember, you don't have to stand on ceremony with her. Yuuka really does like you a lot.
+
+Sakuya5a:Yes, thank you...
+
+Elliy0b:...Anyway, it's about time for me to change shifts with Meiling. Kurumi, come with me.
+
+Kurumi6a:Wait, why do I have to go too?!
+
+Elliy5a:I'll be bored by myself. Meiling doesn't seem to be in the mood to talk either...
+
+Elliy3b:See you later, Sakuya.
+
+Sakuya5b:Yes, see you later.
+
+<BG=bg_talk_Koumakan_Int.png,fade=0,color=1,title=*bg_Koumakan_Int>
+
+Kurumi4b:...Sakuya seemed pretty listless back there.
+
+Elliy4b:Yeah. Maybe it was a bit too pushy after all...
+
+Kurumi3b:That's Yuuka's style, though. I'd sure love it if I could eat Sakuya's cooking every day.
+
+Elliy4a:If Remilia and Yuuka come to blows again, the mansion might actually collapse this time...
+
+Elliy0a:Whatever happens, I just hope it happens peacefully.
+
+<BG=bg_talk_Koumakan_Int.png,fade=1,color=1,title=*bg_Koumakan_Kitchen,bgm=bgm_talk_aoki>
+
+<SE=se_talk_knock02.ogg,wait=1>
+
+<SE=se_talk_door_open02.ogg,wait=1>
+
+Meiling0a:Excuse me...
+
+Sakuya5b:Meiling...
+
+Meiling3d:Um, Sakuya... Sorry to bother you while you're cooking. I came to report that I'm off shift and Elly's up now.
+
+Sakuya0b:I see, thank you. You did your job properly, I trust?
+
+Meiling7a:Oh, um, sure I did! Not even a rat got into the mansion on my watch.
+
+Sakuya5b:...Strange. The library was infested with rats from what I saw.
+
+Sakuya0b:Well, never mind. Get some rest until your night shift.
+
+Meiling3d:Thank you. I'll be going now...
+
+Meiling3a:...
+
+Sakuya5b:...Is there something else?
+
+Meiling0a:Ah, yes. Um...
+
+Meiling3a:Actually, I wanted to apologize...
+
+Sakuya5b:Apologize...?
+
+Meiling3a:Yes, for what happened when I heard about Lady Yuuka's offer.
+
+Meiling3b:When I heard you might be leaving the mansion, I was thrown for a loop, and...
+
+Sakuya5a:...Sorry, it was my fault that it was brought up so abruptly.
+
+Meiling3b:I've had time to think more about it since then.
+
+Meiling0a:Whenever your reasons are, if you decide to leave the mansion... I'll support your decision.
+
+Sakuya0b:Meiling...
+
+Meiling1a:So if you ever want to talk, please feel free to find me!
+
+Meiling5a:I mean, I AM technically older than you. It couldn't hurt to play big sister once in a while... y'know? Hahaha...
+
+Sakuya5a:...
+
+Sakuya5c:I don't actually want to leave the Scarlet Devil Mansion.
+
+Meiling6a:Really? You don't?
+
+Sakuya5c:It's just never occurred to me before that there could be a place for me outside of this mansion.
+
+Sakuya5a:And then she tells me to do as I wish. I'm not sure how to handle it.
+
+Meiling1b:Do as you wish? Did Lady Patchouli or someone tell you that?
+
+Sakuya5c:"Decide for yourself and go wherever," she said.
+
+Meiling3d:"Go wherever"...?
+
+Sakuya0b:She's not chasing me out. It's just, she's not stopping me either...
+
+Sakuya5c:In short, she wants me to decide for myself whether I wish to remain here.
+
+Meiling0b:Wow, Lady Patchouli really told you that, huh...
+
+Meiling3d:So, what are you planning to do?
+
+Sakuya5a:It's hard to say. I wonder what the mistress thinks of all this.
+
+Meiling3a:...
+
+Meiling0a:What about what you think of it, Sakuya?
+
+Sakuya5b:Me?
+
+Meiling0a:Yes, how do you feel about it? You've been working here for such a long time. There must've been a reason for that, right?
+
+Sakuya5a:I never thought too deeply about it. It was to live, I suppose. If I don't eat, I die.
+
+Meiling3a:Really? Surely there must have been some other—
+
+Flan2c:What are you two whispering about?
+
+Meiling6a:!
+
+Flan3f:Heh heh heh. If you're chatting, lemme in on it.
+
+Sakuya5b:...Lady Flan, it's not time for tea yet.
+
+Flan0a:No duh. But I can't go out, and no one else is paying any attention to me. I'm bored.
+
+Meiling3d:Umm, how about the entertainment area that was built in the basement recently?
+
+Meiling0a:Lady Remilia personally researched books from the outside to make that for you, Lady Flan...
+
+Flan2c:It was boring, so I squished it. She really has no taste at all.
+
+Meiling3c:Ahh, I was the one who built that...
+
+Sakuya5b:...You just copied it from the book. Maybe the book was wrong.
+
+Flan3d:But who cares about that? Is Marisa here? She'd play with me, right?
+
+Meiling0c:Umm, she hasn't come to visit today as far as I've seen...
+
+Flan2c:Aw, too bad. I'm so bored, maybe I'll go check up on the cooking.
+
+Sakuya0b:...
+
+Meiling3b:(That startled the heck out of me. She just popped up out of nowhere...)
+
+Meiling0b:(There's something strange about her, though. She seems to be surprisingly well-behaved today...)
+
+Sakuya0b:(Yes. Perhaps she's in a particularly good mood today...)
+
+Flan0f:Hey, is the cake ready yet? I'm hungry.
+
+Sakuya5b:The batter will be done soon, so please wait a moment...
+
+<SE=se_talk_door_open02.ogg,wait=1>
+
+Meiling0a:Oh, looks like it's done.
+
+Flan0f:Ahh, I'm hungry. Is it teatime yet?
+
+Meiling0c:Oh, my mistake. It's Lady Flan.
+
+Meiling3d:Uh, wait...
+
+Sakuya5b:Two Lady Flans...?
+
+<update>
+
+Flan0e:...Hm?
+
+Flan0a:Whoops, busted.
+
+</update>
+
+Meiling6a:Sakuya, this is...!
+
+Sakuya5b:Yes, it's Lady Flan's copy-image magic.
+
+Sakuya0b:Which means...
+
+<SE=se_bomb_long01.ogg,wait=0>
+
+<Code=(map_shake,1,60,4)>
+
+<Code=(demo_wait,80)>
+
+Meiling2a:Ahh, I knew it!
+
+<update>
+
+Flan2e:Ah, it's started.
+
+Flan1b:Ahaha, let's get back then!
+
+</update>
+
+<single>
+
+Meiling1a:The copies disappeared! And the shaking seem to be coming from the lobby!
+
+</single>
+
+Sakuya5c:Ah. I wasn't expecting her to take that approach.
+
+<SE=se_talk_door_open02.ogg,wait=1>
+
+Maid0b:Umm, Head Maid? I'm here with the tart batter from the cold room...
+
+Sakuya1b:I'm afraid you have bad timing. Just bake it and eyeball the time.
+
+Maid2b:Wait, what?!
+
+Meiling1a:Sakuya, let's go!
+
+Sakuya1a:Yes, time to head for that explosion!
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP
+
+Meiling1a:Here it is. There are bats and a few other lesser youkai around!
+
+Sakuya5b:...It seems her earlier behavior was a ploy to keep us occupied.
+
+Flan1a:Whoopsie, busted already? I thought I was gonna have you guys perfectly fooled.
+
+Meiling3d:It wasn't hard to figure out after the sound of those explosions...
+
+Sakuya5a:Lady Flan, I must ask you to behave.
+
+Sakuya0b:Lady Remilia will scold you if you destroy too much of the mansion.
+
+Flan2d:So what? Nobody's paying any attention to me, so I'm bored.
+
+Flan0a:You came running here on her orders to catch me again, huh? You've always been her most loyal dog.
+
+Sakuya5c:...You may say what you wish, but this is my job.
+
+Flan2b:All you ever care about is your job. Don't you have a mind of your own?
+
+Flan2c:She wouldn't look so constantly smug if she didn't have someone like you around.
+
+Sakuya5a:I'm not sure what to say to that...
+
+Meiling3a:...
+
+Flan0f:You guys are boring. I'm gonna play with these guys instead, so stop bothering me.
+
+Sakuya1b:...So be it. Meiling, I'm going to restrain Flan. Help me out.
+
+Meiling1a:No, Sakuya. Let's play together with Lady Flan!
+
+Flan2c:Wait, what?
+
+Sakuya5b:Meiling...?
+
+Meiling0a:You see, Lady Flan's just bored from all the free time she has. She'll feel much better if she can play and get all that energy out of her system.
+
+Meiling5a:So, there you go. Ready, Sakuya?
+
+Sakuya5b:To play? That's utterly ridiculous...
+
+Flan0f:...You're weird. You may say that, but you're still planning to capture me, right?
+
+Meiling5a:Not at all. I'll prove it... Watch!
+
+<pause>
+
+Sakuya0c:Meiling!
+
+Meiling5a:Don't worry about me! A few bats like these are no problem...
+
+Bat0a:...!
+
+<pause>
+
+Meiling7a:...Wait, what the heck?!
+
+Flan0f:Oh yeah, that's the extra batch I arranged. I forgot there were still so many.
+
+Meiling3d:Gah, there's more enemies than I thought... Um, what do we do, Sakuya?!
+
+Sakuya5c:Don't give me that "What do we do" nonsense. I swear...
+
+Sakuya0b:...Fine, so be it. In for a penny, in for a pound, I suppose.
+
+Meiling3b:A-Ahaha... Anyway, come join us, Lady Flan!
+
+Flan0e:...
+
+Flan0a:Fiiine. I'll play with you, if you INSIST.
+
+<end>
+
+<ChatID:2>----------------------------------------
+//美鈴敵撃墜後
+
+Meiling0a:Whew, that wasn't so bad.
+
+Flan0c:Hmm...
+
+Meiling0c:...Yes?
+
+Flan0c:You're better than I thought.
+
+Meiling0d:I am a gatekeeper, after all. Come on, I can keep going!
+
+<end>
+
+<ChatID:3>----------------------------------------
+//2PP
+
+Sakuya0b:Playing like this is not in my job description...
+
+Meiling0a:Don't worry about it, Sakuya. Just focus on taking all the bats out.
+
+Flan0a:...You really are Remi's yes-woman.
+
+Meiling0a:Lady Flan!
+
+Flan0a:What's so fun about dancing to her tune?
+
+Flan0a:When she doesn't need you anymore, she'll just toss you in the trash.
+
+Meiling0a:...Um, Lady Flan. The way Sakuya speaks just shows that she's worried about you.
+
+Meiling0a:Besides, we're not protecting you out of some blind loyalty to the mistress's orders!
+
+Sakuya0b:...
+
+Flan0a:Psh, whatever. Heads up, you've got more incoming.
+
+<end>
+
+<ChatID:4>----------------------------------------
+//最初の敵増援
+
+Meiling0a:Wah! More came out from the basement!
+
+Sakuya0b:Lady Flan...
+
+Flan0a:Yeah, I was bored, so I captured the ones there too.
+
+Flan0a:I'm pretty sure I captured more than this, so there's probably more coming later.
+
+Sakuya0b:...Nothing for it now, I suppose. We'll continue exterminating all of them.
+
+<end>
+
+<ChatID:5>----------------------------------------
+//次の敵増援
+
+Meiling0a:There's more of them!
+
+Sakuya0b:Meiling, don't let yourself get distracted. Focus them down one by one.
+
+<end>
+
+<ChatID:6>----------------------------------------
+//最後の敵増援
+
+Sakuya0b:There's still more?!
+
+Flan0a:Hmm, I think that's all of them? I could totally bring in more if this isn't enough, though.
+
+Sakuya0b:No offense, but I'll have to pass on that offer.
+
+Meiling1a:Well, Sakuya, this is it!
+
+Sakuya1a:Right. Let's mop this up!
+
+<end>
+
+<ChatID:7>----------------------------------------
+//敵全滅
+
+Sakuya0b:...It's finally over.
+
+Meiling0a:The mansion got a little busted up, though...
+
+Sakuya0b:What would happen if the mistress found out we did this?
+
+Meiling0a:Ahaha... Well, it was my choice, so I guess I signed up for the consequences too.
+
+Meiling0a:But hey, I think Lady Flan had fun.
+
+Flan0a:...You're weird. She might kick you out, you know.
+
+Meiling0a:I'm not worried. The mistress doesn't get cross with people who do things for a reason.
+
+Meiling0a:I guess she might deduct the costs from my pay, but... I'll cross that bridge when I get to it.
+
+Sakuya0b:...Don't forget that you got me involved too.
+
+Flan0a:...
+
+Flan0a:Well, whatever. I'm hungry after playing that hard. I wanna eat some cake!
+
+Sakuya0b:Our cake should be ready by now. Shall we go to the dining hall?
+
+<end>
+
+<ChatID:8>----------------------------------------
+//ADVB
+
+<BG=bg_talk_Koumakan_Int.png,fade=0,color=1,title=bg_Koumakan_Int,bgm=bgm_talk_aoki>
+
+Sakuya0b:...Whew. She's surprisingly energetic after all that fighting.
+
+Meiling0a:My sympathies. How's Flan doing?
+
+Sakuya0b:She's eating her cake quietly. Being hungry probably helps there.
+
+Sakuya0b:...So. What was that all about?
+
+Sakuya0b:It may have ended up settling her down, but wasn't it a little too reckless?
+
+Meiling0a:I'm sorry. When I saw how Lady Flan was acting, I just thought that would be the best way to handle it.
+
+Meiling0a:...And I figured that it would be a much-needed change of pace for you, Sakuya.
+
+Sakuya0b:A change of pace...?
+
+Meiling0a:Yeah. I know your job as the head maid is a huge deal to you. But it couldn't hurt to take it easy once in a while, right?
+
+Meiling0a:When I see you hard at work, it makes me wonder if maybe that's all you think about.
+
+Meiling0a:I'm sure you have other reasons to stay in this mansion.
+
+Sakuya5b:My reasons to stay in this mansion...
+
+Meiling0a:Why don't you take a breather and have some time to yourself to think about it all?
+
+Meiling0a:And whatever conclusion you come to, I'll support you all the way!
+
+Sakuya0b:...
+
+Sakuya0b:Alright. Taking time to consider things at length may well be my best option.
+
+Meiling0a:Really? In that case, I recommend a nice walk to clear your head.
+
+Meiling0a:It'll be autumn soon, so now's a good time to go see the summer landscape in the mountains.
+
+Sakuya0b:A walk? You weren't doing those on the clock, were you?
+
+Meiling0a:Um, well, I can kill two birds with one stone by patrolling the mansion's grounds...
+
+Sakuya0b:I'm kidding. I'll stay mum about this, but be careful about such things in the future.
+
+Sakuya0b:I'll be returning to my work now. Thank you for your assistance today.
+
+Meiling0a:Okay, Sakuya. I'm rooting for you!
+
+<single>
+
+Meiling0a:...
+
+Meiling0a:That may be what I said... But I really don't want Sakuya to leave...
+
+Meiling0a:Gah, I shouldn't grumble! I'll go and take care of the flower bed to cheer myself up.
+
+</single>
+
+Flan0a:Meiling!
+
+Meiling2a:Eek?!
+
+Flan0a:Ahaha. You make the funniest face when I scare you.
+
+Meiling0a:Lady Flan...? Please stop popping out of nowhere, it's scary.
+
+Flan0a:But that's the whole idea!
+
+Flan0a:Anyway, let's play, Meiling!
+
+Meiling0a:...Huh?
+
+Flan0a:How about tag? Or maybe house? Or hopscotch sounds good...
+
+Flan0a:Oh yeah, Marisa gave me some string to play cat's cradle. How do you do tie it around again?
+
+Meiling0a:Umm... Lady Flan, weren't you eating your cake?
+
+Flan0a:I finished it already. It wasn't as good as it usually is, though.
+
+Meiling0a:Ah, I see...
+
+Meiling0a:(That's odd, her attitude is completely different from before.)
+
+Meiling0a:(Does this mean Lady Flan likes me for some reason?!)
+
+Flan0a:Hey, Meiling, are you listening? I wanna play!
+
+<Code=(map_shake,1,15,4)>
+
+<Code=(demo_wait,15)>
+
+Meiling0a:Ah, right! Okay, okay! You don't have to tug at me!
+
+Meiling0a:What do you want to play, then?
+
+Flan0a:Hmm, we already busted some bats, and I don't feel like playing tag...
+
+Flan0a:I know, let's play horsie!
+
+Meiling0a:I'm getting the feeling I've made a very bad choice...
+
+<end>
+
+<ChatID:9>----------------------------------------
+//咲夜さん戦闘前
+
+Sakuya0b:What on earth is Meiling hoping to achieve here...?
+
+<end>
+
+<ChatID:10>----------------------------------------
+//美鈴戦闘前
+
+Meiling0a:Well, this was my idea. I'll have to stick it out to the end.
+
+<end>
+
+<ChatID:11>----------------------------------------
+//フランちゃん戦闘前
+
+Flan0a:...It's not like it's more fun because they're here or anything.
+
+<end>
+
+----------------------------------------
+
+
+

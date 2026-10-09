@@ -1,0 +1,1578 @@
+﻿○共通第九話「大図書館の罠
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: SLG
+ 2: 2PP
+ 3: 3PP or beat Kurumi before that
+ 4: beat Kurumi (after 3PP event)
+ 5: Patche speca01
+ 6: Patche speca02
+ 7: beat Patche (clear)
+ 8: ADVB
+ 9-17: battle vs. Patche
+18-26: battle vs. Koa
+27-35: battle vs. Kurumi
+36: extra (unused)
+37-41: Alice advice
+
+<ChatID:0>--------------------------------------------------
+//ADVA
+
+<BG=bg_talk_Koumakan_Library.png,fade=0,color=1,title=bg_Koumakan_Library,bgm=bgm_talk_aoki>
+
+Youmu2b:Is this... a library?
+
+Reimu0e:Seems like it. We barged straight in and wound up someplace weird.
+
+Reimu0a:...Actually, was this mansion this large from the outside?
+
+Keine0a:Good point, now that you mention it. Did we somehow walk into a basement level?
+
+Marisa0a:This place rules, though. It's books all the way down.
+
+Alice0a:Yes, it's a veritable mountain. Could someone even read this many?
+
+Rumia2b:Oof, my head's spinning.
+
+Marisa0a:That's 'cuz you don't read books to begin with. I'm getting excited!
+
+Cirno1a:Me too! It's adventure time!
+
+Keine0b:Now now, you two. Be quiet when you're in a library.
+
+Youmu0a:The sheer amount of books is mind-boggling. The living world has so many amazing places.
+
+Alice0a:Not only is the quantity boggling, there's plenty of variety too. This area seems to have books from the Outside World.
+
+Nitori0a:You're right. Gensokyo doesn't have many books with bindings this good.
+
+Nitori1a:What's this? Punch Cards for Dummies? Wow, this place really does cover all eras.
+
+Rumia1a:Hey, this is boring. I wanna move on.
+
+Marisa0a:Don't be silly. We can't just turn around and walk out when we find a place this cool.
+
+Keine3a:"Boring"? "Walk out"? We're supposed to be investigating an incident, remember?
+
+Youmu3a:Yes, and we're in enemy territory.
+
+Youmu0a:...Though to be honest, I'm a bit curious about this place myself.
+
+Youmu1a:With this many books around, maybe I can find something about making unblooming cherry blossoms bloom...
+
+Nitori0a:Making unblooming cherry blossoms bloom...? That's a weird topic to study.
+
+Youmu0a:Mistress's orders. I was investigating that when I met Reimu and Keine.
+
+Alice0a:Ah, that explains it.
+
+Alice0a:...I suppose that means you came up empty-handed on your initial investigation?
+
+Youmu3a:Sadly, yes.
+
+Youmu0a:If the owner of this library is suitably accommodating, I may pay this place another visit later.
+
+Keine0b:Why do you think the instigators of this mist would be accommodating?
+
+Keine0a:In either case, that's a topic that will have to wait until after we've resolved this.
+
+<single>
+
+Cirno0a:...Hmm, I can't read this at all.
+
+</single>
+
+Daiyosei0a:Cirno, the owner will get mad if you read their books without permission.
+
+Cirno0a:It's fine, we came in here without permission anyway.
+
+Daiyosei3b:You're missing the point...
+
+Cirno0a:Still, I don't get this at all.
+
+Reimu4a:I knew you were dumb, but now you're illiterate too?
+
+Cirno0a:You try and read this then. This is harder than reading kanji!
+
+Reimu0g:Pfft, whatever. Gimme that.
+
+Reimu2b:What the heck? I can't read this chickenscratch at all.
+
+Cirno0a:See? I told you so!
+
+Reimu1a:Oh, shush. As long as it's not Japanese, I've got a justification!
+
+Marisa0a:That's a grimoire, Reimu.
+
+Reimu0f:A grimoire?
+
+Marisa0a:Grimoires are books only magicians can create. They contain the secrets of using magic.
+
+Marisa0a:No surprise you wouldn't be able to read it.
+
+Alice0a:This book discusses elemental magic.
+
+Alice0a:This is very high-level material. Perhaps the owner of this library is an expert in elemental magic...
+
+Nitori0a:If you're that impressed, does that mean they're better than you and Marisa?
+
+Marisa3d:Youkai live really long, so they can research for ages too. Of course they'll learn a few things.
+
+Marisa0a:That's why I go for power over finesse. Nobody beats me in the firepower department!
+
+Alice0a:Mm, I have my own brand of magic as well.
+
+Reimu0f:Wow, sounds like you're both eager students.
+
+Marisa0a:Yup, I'm like a scholar. Always hungry for more knowledge.
+
+Marisa0a:Hmm, the books around here are comparatively easier to read. Okay, I'll start from this end and...
+
+Youmu2b:Marisa, that's stealing!
+
+Marisa0a:I'm just borrowing it 'til I die. You've got things you're looking for too, don't you? Go on, take 'em!
+
+<hide=all>
+
+Patchouli2a:How about you don't?
+
+</hide>
+
+Daiyosei1a:!
+
+Keine1a:That voice... Are we under attack?!
+
+<hide=name>
+
+Patchouli0a:Excuse me, I believe WE'RE the ones under attack by you people.
+
+Patchouli0a:Could you please save your violence for places that aren't my library?
+
+</hide>
+
+Reimu0a:About time. Are you the owner of the library?
+
+Patchouli0a:That's right. My name is Patchouli Knowledge... And I'm here to show you the door.
+
+<end>
+
+<ChatID:1>--------------------------------------------------
+//1PP
+
+Patchouli0a:So you're the invaders. Ragtag band, indeed.
+
+Reimu0d:Are you the one behind this incident? Your mist is getting out of hand. Could you put a lid on it, like, right now?
+
+Keine1a:The human village must not suffer any longer!
+
+Patchouli0a:I'm afraid it's out of my hands. I just live here. You'll have to take up any problems with the mistress.
+
+Marisa0a:Then how about stepping aside? We're pretty busy people, y'know.
+
+Patchouli0a:Oh, certainly... not. This place is basically my domain.
+
+Patchouli1a:Koakuma, Kurumi. Are you two ready?
+
+<pause>
+
+Koakuma1a:Yes, ma'am!
+
+Kurumi1a:Totally!
+
+Youmu2b:Two devils, and reinforcement eyeballs and tongues!
+
+Cirno2a:Eww, what are they doing here?
+
+Marisa2b:Seriously. We already beat up Elly.
+
+Marisa3b:Hey, wait a minute...
+
+Kurumi0a:Heheheh... It's been a long time since we last met, shrine maiden and magician! I'll be avenging Elly!
+
+Reimu0f:The tongued ghosts and that devil... I kind of remember seeing that grouping before.
+
+Marisa3a:You think so too, Reimu? That devil's name was...
+
+Reimu0f:It was two or three syllables and it sounded like something you'd eat, I think.
+
+Reimu2b:Sashimi? Cookie? No, hm...
+
+Kurumi0a:...
+
+Kurumi2a:Waaah... I fought so hard, yet I've been forgotten...
+
+Koakuma1a:L-Lady Kurumi! Compose yourself!
+
+Rumia0a:Wow, she's defeated already and all it took was an insult.
+
+Keine0b:Is that devil an acquaintance of yours?
+
+Marisa2b:...Ahh, I remember. She's the one who was with Elly back then. I think her name was Kurumi?
+
+Patchouli0a:There's no time for chitchat, you two. I presume you're prepared?
+
+Kurumi0a:*sniffle* That's right.
+
+Koakuma0a:Umm, spirit pressure distribution is normal, all vertexes have been activated...
+
+Koakuma0a:Condition: all green. Lady Patchouli, it's ready when you are!
+
+Patchouli0a:...Alright, start it up. Kurumi, don't leave your station. Koakuma, support her.
+
+Koakuma1a:Understood! EASIS System... Safety disengaged!
+
+<pause>
+
+Marisa3b:!
+
+Nitori2a:The heck? Some weird stones are firing out danmaku!
+
+Keine2b:I've never seen inorganic objects fire danmaku before!
+
+Cirno1a:Danmaku's still danmaku though. We'll just dodge it!
+
+Reimu5c:Yeah, what's to be scared of? They're not even moving.
+
+Alice0a:...
+
+Alice0a:No, be careful. They might have other tricks up their sleeves.
+
+Keine1a:Is there a reason for that assertion?
+
+Alice0a:A magician is always fully prepared when in her own territory.
+
+Alice0a:I strongly doubt she'd show her whole hand in the opening round.
+
+Patchouli0a:...
+
+Koakuma0a:...Lady Patchouli, that blonde magician has good intuition.
+
+Patchouli0a:There's no need to be worried. Our magic circle won't be broken.
+
+Patchouli0a:Now that it's started up, the rest is up to you, Kurumi. Try not to screw this up.
+
+Kurumi1a:Ah... On it!
+
+<end>
+
+<ChatID:2>--------------------------------------------------
+//2PP
+
+Nitori2a:Look, the danmaku's position has shifted!
+
+Rumia2b:What the heck! It's already so cramped I'm bumping into things left and right!
+
+Keine3a:Maybe if you looked where you were flying...
+
+Daiyosei3b:It's kind of scary never knowing where the danmaku will be coming from next, though...
+
+Marisa2b:The stones have five different colors. We should probably expect it to shift again.
+
+Daiyosei3b:Yes. We should be careful in case a different stone starts firing danmaku...
+
+Koakuma0a:They seem to be struggling. The EASIS system is doing its job!
+
+Patchouli1a:And so are you, Kurumi.
+
+Kurumi0a:Thank goodness. It's hard to get these in the right order...
+
+Patchouli0a:Then stop wasting your breath and concentrate on operating it.
+
+Kurumi0a:R-Right!
+
+Alice0a:...
+
+Marisa3a:What's up, Alice? You're frowning.
+
+Alice0c:...I was just thinking about what the blonde demon over there was whispering about.
+
+Alice0a:Could it have something to do with these stones' danmaku?
+
+Nitori2a:Does that mean we just need to destroy them? But we'll never reach them at this rate!
+
+Alice0c:I'm aware. But there must be some sort of rule governing them.
+
+Alice1b:Let's focus on the battle for now. Watch out for the enemy danmaku!
+
+<end>
+
+<ChatID:3>--------------------------------------------------
+//4PP、またはくるみ撃墜
+
+<Cond=(LOCAL_ARR,Char1,current_HP,0,>,0)>
+
+Marisa0a:Let's bet on which color it'll be next. I bet Shiro it'll be white.
+
+<nomove>
+
+Shiro0a:...?!
+
+</nomove>
+
+Cirno1a:I think it'll be green. I'll bet a rare frog!
+
+Nitori1a:Don't offer stuff nobody else wants. I bet my rocket pencil on black.
+
+Keine1a:Hey, don't just leave all the thinking to Alice! You all need to help to figure this out too!
+
+Koakuma0a:Keep it up, Lady Kurumi. You're doing great.
+
+Kurumi0a:Thanks, Koakuma! Redirecting all this magic is really hard.
+
+</Cond>
+
+<Cond=(LOCAL_ARR,Char1,current_HP,0,<=,0) && (FIND_UNIT,Koakuma_en,enemy,>,0)>
+
+Kurumi2a:Gyaaaah!
+
+Koakuma2a:Lady Patchouli, Lady Kurumi has fallen!
+
+Koakuma2a:Oh no, how are we supposed to maintain the EASIS system now?
+
+Kurumi2a:Augh... Sorry, Patchy. I don't think I can keep circulating that magical energy.
+
+</Cond>
+
+<Cond=(LOCAL_ARR,Char1,current_HP,0,<=,0) && (FIND_UNIT,Koakuma_en,enemy,<,0)>
+
+Kurumi2a:Gyaaaah!
+
+Kurumi2a:Augh... Sorry, Patchy. I don't think I can keep rotating that magical energy.
+
+</Cond>
+
+Alice1b:Circulating magical energy? And five-colored stones that alternate firing danmaku...
+
+Alice1a:...I get it. So that's the gimmick!
+
+Patchouli0a:!
+
+Nitori2a:Wait, what?!
+
+Youmu2b:You've actually figured out the gimmick?
+
+Alice0a:Yes. This magic circle uses the entire library.
+
+Alice0a:By cycling magical energy around, you can use less of it while still keeping the magic circle stable.
+
+Marisa0a:I getcha. So basically they keep swapping magic power around between the stones.
+
+Alice0a:That devil mentioning "circulating" magical energy was what sealed it for me.
+
+Kurumi0a:Uhh...
+
+Keine1a:Can you also tell what color of stone the danmaku will come from next?
+
+Alice0a:Yes. With the elements carried by the magical stones and their elemental affinities, it's possible to deduce the order.
+
+<Cond=(LOCAL_ARR,Char1,current_HP,0,>,0)>
+
+Alice1a:I predict that the danmaku will disappear from the red stone and start coming from the black stone.
+
+Koakuma2a:Oof... She hit the nail on the head.
+
+</Cond>
+
+Kurumi2a:What do we do now, Patchy? They've figured out the gimmick!
+
+Patchouli0a:...You were the one who let it slip to begin with. Good grief, this is why I hate babysitting.
+
+<Cond=(LOCAL_ARR,Char1,current_HP,0,<=,0)>
+
+Patchouli0a:Okay, that's enough. Just go. We won't be able to maintain the magic circle like this.
+
+Kurumi2a:Waah... You mean I don't have to work anymore?
+
+Patchouli0a:...I didn't say that. You were the one who gave it away and screwed up the balance of power to start with.
+
+Patchouli1a:I'll come up with your punishment later.
+
+Kurumi1a:Well, um... As long as I can get away, I win!
+
+<pause>
+
+Nitori0a:The danmaku's disappeared! I guess that demon was the key.
+
+Keine0a:It's a bit sad to see it gone now that we've managed to figure it out.
+
+Youmu1a:At least now we have nothing left to obstruct us!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,Char1,current_HP,0,>,0)>
+
+Kurumi0a:Augh... Okay, since that blonde girl figured it out, can I take a break from generating danmaku?
+
+Patchouli0a:What nonsense is this? You were the one who gave it away and screwed up the balance of power to start with.
+
+Patchouli1a:Take responsibility and work like a mule.
+
+Kurumi2a:Eek... But I'm already so tired!
+
+</Cond>
+
+Alice0b:Alright, now that the secret's out...
+
+Alice0a:I'll grant that you're quite capable, since you made this magic circle. It's a shame your planning was so slapdash in comparison.
+
+Patchouli0a:You talk a good game, if nothing else. But do you think you can make it to me with that street performer magic of yours?
+
+Alice0c:You're failing to give my dolls proper credit. Fine, I'll teach you a lesson myself.
+
+Alice1a:Let's go, Shanghai!
+
+<Cond=(FIND_UNIT,Shanghai,player,!=,-1)>
+
+Shanghai0a:Shanghai!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Shanghai,player,==,-1)>
+
+<nomove>
+
+Shanghai0a:Shanghai!
+
+</nomove>
+
+</Cond>
+
+Marisa2b:Wait, that doll wasn't just a mascot?!
+
+Alice0c:This is why you should always keep a trick up your sleeve. The same move can be drastically more effective when applied properly.
+
+Alice1a:...Danmaku is all about brains. That's common sense.
+
+<end>
+
+<ChatID:4>--------------------------------------------------
+//3PPイベント後にくるみ撃破
+
+Kurumi2a:Gyaaaah!
+
+Daiyosei2c:One of the devils has been defeated!
+
+Reimu0a:Yeah, no surprise there. How's that for a reunion?
+
+Kurumi2a:Ooh, it's gonna hurt real bad if I stay here any longer...
+
+Kurumi1a:As long as I can get away, I win!
+
+Patchouli0a:Ah, wait! If you leave your station...
+
+<pause>
+
+Nitori2a:The danmaku's disappeared! I guess that demon was the key.
+
+Keine0a:It's a bit sad to see it gone now that we've managed to figure it out.
+
+Youmu0a:At least now, we have nothing left to obstruct us!
+
+<Cond=(FIND_UNIT,Koakuma_en,enemy,>,0)>
+
+Koakuma1a:Lady Patchouli, Lady Kurumi has disappeared off to somewhere!
+
+Koakuma2a:What do we do now? Who will maintain the EASIS system...?
+
+</Cond>
+
+Patchouli0a:...
+
+Marisa0a:It's a blessing to have good subordinates, huh? Our shot at this just got a lot better.
+
+Patchouli0a:I wasn't relying on her to begin with. She's not one of mine, after all.
+
+Patchouli0a:This just means I can't sit back and relax. I'll handle the rest myself.
+
+<end>
+
+<ChatID:5>--------------------------------------------------
+//パチュリースペルカード一枚目（プリンセスウィンディネ）
+
+Patchouli0a:...I suppose this much isn't enough to stop you.
+
+Patchouli0a:It's about time I borrow the full power of the spirits.
+
+Youmu1a:Stay sharp. There's power gathering all around her!
+
+Reimu1a:Ah, now you're gonna do your ACTUAL thing, huh.
+
+Patchouli0a:This magic should be fitting for a group of troublemakers like you.
+
+Patchouli1a:Maybe the might of all-purifying water will teach you some respect.
+
+<end>
+
+<ChatID:6>--------------------------------------------------
+//一枚目終了
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Marisa1a:Alright, it's broken!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Marisa1a:Alright, we ran it out!
+
+</Cond>
+
+Nitori1b:Look more closely, Marisa. That magician's still looking fine!
+
+Marisa2b:Are you kidding me?! She's been using magic left and right!
+
+Reimu0a:Maybe when you read a lot of books, it improves how much spiritual power you can store up?
+
+Alice0a:Elemental magic lets you preserve as much power as you can borrow from the elemental spirits.
+
+Marisa3a:The tradeoff is that it's pretty jank. You have to keep swapping between elements. How tedious is that?
+
+Marisa0a:Why borrow power from elemental spirits when you can just use your own? That's way more satisfying anyway.
+
+Patchouli0a:You clearly need to read up more. Using a single element doesn't qualify something as elemental magic.
+
+Patchouli0a:By making use of the interaction between the seven elements, the power of each and every one of them is complemented and amplified.
+
+Youmu0a:Complementation and amplification through interaction...?
+
+Alice0c:Combining opposed elements cancels out their weaknesses, while combining synergistic elements improves their strengths. It makes sense on paper.
+
+Alice1b:But controlling them all together is no mean feat.
+
+Patchouli0a:Fire represents activity, and its intensity is amplified by wood's power of awakening.
+
+Patchouli1a:Learn the true essence of elemental magic as my raging flames consume you.
+
+<end>
+
+<ChatID:7>--------------------------------------------------
+//勝利条件充足（パチュリー撃破）
+
+Patchouli2a:Oof...
+
+Reimu1a:Got her this time!
+
+Keine0b:Goodness, that was hot. I thought I was going to burn up for a second.
+
+Cirno2a:Sorry Dai... We won't get to play in the nationals...
+
+Daiyosei2a:Eeeek! Cirno's half-melted!
+
+Nitori0a:Cirno aside, at least we can finally move on.
+
+Marisa0a:Yeah, that took more time than I thought. It's amazing that she's still standing.
+
+Patchouli2a:*cough, cough*
+
+Patchouli0a:I guess even enhancing my fire magic can't carry me forever. I'm not feeling great today, so that's it from me...
+
+Rumia0a:Or else you'd have won? What a sore loser!
+
+Reimu3b:Alright, you've lost. Now how about you do some talking?
+
+Patchouli0a:I don't mind, but let's talk in a more relaxing place. I'm out of breath.
+
+<Cond=(FIND_UNIT,Koakuma_en,enemy,<,0)>
+
+Alice0a:Alright. I saw that red-haired demon hiding behind those bookshelves earlier.
+
+Alice0a:Let's have a chat over there.
+
+</Cond>
+
+<end>
+
+<ChatID:8>--------------------------------------------------
+//ADVB
+
+<BG=bg_talk_Koumakan_Library.png,fade=0,color=1,title=bg_Koumakan_Library,bgm=bgm_talk_ningyo>
+
+Patchouli0a:I am so exhausted...
+
+Koakuma1a:Are you alright, Lady Patchouli? I'm sorry I couldn't be more useful.
+
+Patchouli0a:You did well. Those magic stones also worked better than I thought they would. The experiment was a success, I'd say.
+
+Koakuma0a:Yes, ma'am. We collected plenty of useful data.
+
+Patchouli0a:Have a report ready for me soon. And gather more of those stones.
+
+Koakuma1a:R-Right!
+
+Youmu0a:You don't seem too beaten up over this defeat.
+
+Patchouli0a:To be honest, I couldn't care less about the mist. I'd rather concentrate on improving my magic.
+
+Nitori0a:Wow, she really is all about magic and nothing else.
+
+Alice0a:That magic circle WAS quite fascinating. Would you mind telling me more about it sometime?
+
+Patchouli0a:You have an appreciation for quality. I'm afraid the details are classified, though.
+
+Reimu3b:You know, I was wondering how we ended up in this library in the first place. Was that your magic too?
+
+Patchouli0a:That wasn't me. There's a person in this mansion who enjoys tampering with space.
+
+Patchouli0a:The vastness of this library is also due to her power.
+
+Nitori2a:Tampering with space? That sounds like a huge deal.
+
+Patchouli0a:It's technically something else. That's just the basic idea.
+
+Keine0a:Oh yes, I have a question. You mentioned a mistress earlier. Is she related to this incident?
+
+Keine0a:And if so, could you tell us where she is?
+
+Patchouli0a:Sure, that's fine.
+
+Marisa0a:...The heck? Why're you so cooperative?
+
+Patchouli0a:As I said earlier, I couldn't care less about the mist. It's just something Remi insists on.
+
+Reimu0f:Remi?
+
+Patchouli0a:Remilia Scarlet. She's the mistress of the manor.
+
+Patchouli0a:She's a long-lived scarlet noble—a vampire, in short.
+
+Keine1a:A vampire? As in, a blood-sucking devil?
+
+Youmu0a:So it's quite literally a devil's mansion.
+
+Patchouli0a:Exactly. She's the one who's been releasing the scarlet mist.
+
+Marisa0a:A vampire, huh. Doesn't that mean she's weak to sunlight, stinky vegetables, and silver?
+
+Rumia0a:That's a lot of oddly specific weaknesses!
+
+Keine3a:You don't seem to understand how scary this actually is.
+
+Keine3a:Vampires are tyrannical rulers of the night, combining fearsome physical strength with magical power.
+
+Keine1a:If you dare underestimate them, you'll be torn apart in an instant.
+
+Reimu3a:Here we go with more of Keine's exaggerations.
+
+Youmu0a:She's right, actually. I've heard of vampires myself.
+
+Youmu1a:With their wings, they soar faster than the wind, and their immense strength can punch holes in mountains.
+
+Daiyosei2a:...
+
+Cirno1a:It'll be okay, Dai. I'm with you!
+
+Marisa0a:Says the girl who was half-melted earlier.
+
+Alice0a:So, how do we reach Remilia?
+
+Patchouli0a:Go out the door, take the first left, and go straight down the hall. Your next welcoming party should be there.
+
+Reimu0g:It'd be faster if you could talk the others down, but alright. Let's get going.
+
+<single>
+
+Youmu0a:...
+
+</single>
+
+Marisa0a:What's up, Youmu?
+
+Youmu1a:I just remembered something important. Um, excuse me?
+
+Patchouli0a:What is it now?
+
+Youmu0a:If it's not too much of an imposition, may I come back another time?
+
+Youmu0a:I'm trying to research something, and I was hoping this library might—
+
+Patchouli0a:No.
+
+Patchouli0a:This is my library. It's off-limits to outsiders.
+
+Youmu3a:You didn't even let me finish my sentence...
+
+Marisa0a:What's the big deal? We're inside of it now, so that makes us insiders.
+
+Marisa0a:Which means you'll be seeing me here again. Later!
+
+<single>
+
+<nowindow>
+
+<Code=(demo_wait,20)>
+
+</nowindow>
+
+Patchouli0a:...
+
+</single>
+
+Koakuma0a:...They were quite a noisy bunch.
+
+Patchouli0a:Agreed. How long has it been since the mansion's been this noisy?
+
+Koakuma0a:Was it truly alright for you to tell them about the mistress and how to reach her?
+
+Patchouli0a:It won't be a problem. They'd be more of a bother if we let them wander around the mansion randomly.
+
+Patchouli0a:And even though they know about Remi now, they can't just produce wooden stakes out of nowhere.
+
+Koakuma0a:That is true, but...
+
+Koakuma0a:Lady Patchouli, are you up to something?
+
+Patchouli1a:...Heh. Maybe.
+
+Patchouli1a:Knowing Remi, once she meets those invaders, she would definitely want to announce her name in a dramatic fashion.
+
+Patchouli0a:It's funnier to spoil it ahead of time and steal her thunder.
+
+Koakuma0a:I knew you were up to no good.
+
+Patchouli0a:I'm taking that as my reward for playing along with her games.
+
+Patchouli0a:Now then, I think I'll have some red tea before my next appearance. I'll settle for yours since Sakuya isn't around.
+
+Koakuma1a:Yes, ma'am. I'll have it ready in just a moment.
+
+<single>
+
+Patchouli0a:I imagine Sakuya will be up next.
+
+Patchouli0a:How much longer should I keep indulging Remi's game?
+
+<end>
+
+<ChatID:9>--------------------------------------------------
+//霊夢vsパチュリー
+
+Patchouli0a:You, in the red and white!
+
+Reimu0d:Huh?
+
+Patchouli0a:I've had enough of you getting rowdy in my library.
+
+Patchouli0a:Each book in this library is worth two years of donations at your shrine.
+
+Reimu1a:What? Two years' worth of my shrine's donations...?!
+
+Reimu2b:So your library's not worth much, then.
+
+Patchouli0a:...Make that ten years.
+
+<end>
+
+<ChatID:10>--------------------------------------------------
+//魔理沙vsパチュリー
+
+Patchouli0a:Your magic imitates stars, I see.
+
+Marisa0a:Yeah, it's flashy and pretty. That's what my magic's all about!
+
+Patchouli0a:One must have chaos within them to produce dancing stars.
+
+Patchouli0a:What manner of chaos do you possess within you?
+
+Marisa3a:Huh? The heck are you talkin' about? Granted, people tell me my room is chaotic, but still...
+
+<end>
+
+<ChatID:11>--------------------------------------------------
+//慧音vsパチュリー
+
+Keine0a:If you aren't the culprit, then couldn't you just let us pass through?
+
+Patchouli0a:Things are never that easy. Heroes have to undergo labors.
+
+Keine1a:I get that, but people are suffering! This needs to end FAST.
+
+Patchouli0a:You speak of efficiency when this is all a game? The labor is just an essential part of the game.
+
+Keine1a:Spare me the semantics. Here I go!
+
+<end>
+
+<ChatID:12>--------------------------------------------------
+//にとパチェ
+
+Nitori1a:If I'm facing a magician, I may be able to get through this okay.
+
+Patchouli0a:...And why would you be so confident?
+
+Nitori0a:I've been hanging around magicians all the time lately. I'm used to magic danmaku by now.
+
+Patchouli0a:I'd appreciate you not putting my magic on the same level as theirs.
+
+Patchouli0a:Have a taste of it, then rethink your view.
+
+<end>
+
+<ChatID:13>--------------------------------------------------
+//アリパチェ
+
+Patchouli0a:Doll-controlling magic is rather odd. That's all I can really say about it.
+
+Alice0c:Aren't you a little behind the times? Soul-string puppetry is just as deep a field as elemental magic.
+
+Alice1a:Do you think you can escape my dolls when you're so out of shape from doing nothing but reading?
+
+<end>
+
+<ChatID:14>--------------------------------------------------
+//パチェよーむ
+
+Youmu0a:This is extremely long-range fire. It's hard to close in through it.
+
+Patchouli0a:Of course. There's no way I'll let such a dangerous sword get anywhere near me.
+
+Youmu0a:...However, your movements are sluggish, unlike Marisa's.
+
+Youmu1a:So it will be a battle to see whether I can get into striking distance. Here I come!
+
+<end>
+
+<ChatID:15>--------------------------------------------------
+//ルーパチェ
+
+Patchouli0a:What are you doing here? You don't look like the type to go anywhere with an objective in mind.
+
+Rumia0a:This is just how things turned out. Besides, it's not like I lose anything from sticking around.
+
+Patchouli0a:I suppose ragtag bands can also have entirely disparate goals, or lack thereof.
+
+<end>
+
+<ChatID:16>--------------------------------------------------
+//大パチェ
+
+Patchouli0a:The power of nature dwells within fairies... You possess a particularly mysterious power.
+
+Daiyosei0a:...What do you mean?
+
+Patchouli0a:The power to heal people is like the fairies of certain legends... Do you happen to live in a spring?
+
+Daiyosei0a:I live in a lake. Why does that matter?
+
+Patchouli0a:Oh, just curious. Don't mind me.
+
+<end>
+
+<ChatID:17>--------------------------------------------------
+//チルパチェ
+
+Patchouli0a:Fairies possess the power of nature. I see you have the power of ice in you.
+
+Cirno0a:Yeah. Are you jealous?
+
+Patchouli0a:Of course not. While elemental magic utilizes the power of spirits and fairies...
+
+Patchouli0a:Fairies are more akin to grunts.
+
+Cirno2a:Grrr...! How dare you make fun of us!
+
+<end>
+
+<ChatID:18>--------------------------------------------------
+//レイこあ
+
+Reimu0e:Are you that magician's assistant?
+
+Koakuma1a:Yes. Helping Lady Patchouli in any fashion I can is my duty.
+
+Reimu4a:Must be real nice for her, not having to clean up or do chores herself.
+
+Reimu1a:But you're still a devil, and I'm gonna exterminate you like one!
+
+<end>
+
+<ChatID:19>--------------------------------------------------
+//マリこあ
+
+Marisa0a:Hey, you. Wanna come with me tonight?
+
+Koakuma1a:...Huh?! Where did this come from?
+
+Marisa0a:It's just, you look like one of those secretaries from the Outside World, right?
+
+Marisa0a:And presidents have that kinda banter with secretaries, apparently.
+
+Koakuma1a:Lady Patchouli would never say such vulgar things!
+
+Koakuma0a:But it would be nice if she asked me to join her for some things... Like reading books, and...
+
+Marisa0a:Ooh, she dropped her guard. Now's the time to attack!
+
+<end>
+
+<ChatID:20>--------------------------------------------------
+//こあけーね
+
+Keine1a:Ah, you're clearly using danmaku to keep us from reaching the magician.
+
+Koakuma1a:That's right. I'm willing to fight danmaku battles if that's what it takes to be of service to Lady Patchouli!
+
+Keine0a:Now I see. She can demonstrate her power to its fullest because of your support.
+
+Keine1a:I'll have to disrupt this teamwork by taking you down first!
+
+<end>
+
+<ChatID:21>--------------------------------------------------
+//こあにと
+
+Nitori0a:The way you dress makes you look like an ultra-capable secretary. Hmm, or maybe more like an OL...
+
+Koakuma0a:Um, OL...?
+
+Nitori0a:An office lady. It's a term for a woman who works in an office.
+
+Koakuma0a:I wouldn't call it work when all I do is sort books and transcribe copies of them.
+
+Nitori0a:Nope, that's it right there! The classic old-fashioned OL job description.
+
+Nitori0a:Though normal OLs don't fight in danmaku battles.
+
+<end>
+
+<ChatID:22>--------------------------------------------------
+//アリこあ
+
+Alice0a:Based on your appearance, I presume you're a devil?
+
+Koakuma0a:Yes, I am. Why?
+
+Alice0a:Hm... So devils do reside in Gensokyo. I have no idea how you came to be here, though.
+
+Alice0c:Well, given what that magician has shown, I guess she would be able to summon her own minions.
+
+Koakuma1a:I... I am not a minion! I assist Lady Patchouli because I want to.
+
+Alice0a:Huh, that's odd. I wouldn't have expected your mistress to be all that popular.
+
+<end>
+
+<ChatID:23>--------------------------------------------------
+//こあよーむ
+
+Youmu0a:You're quite brave to stand in front of your master and deploy your own danmaku.
+
+Koakuma2a:Honestly, I'm feeling kind of out of my element.
+
+Koakuma1a:But as long as it's for Lady Patchouli, I will be glad to muster what meager magic power I have!
+
+Youmu0a:You must have a lot of respect for your mistress. I know what that's like, believe me.
+
+Youmu1a:But that doesn't mean I'll stand down!
+
+<end>
+
+<ChatID:24>--------------------------------------------------
+//ルーこあ
+
+Rumia2a:Ooh, I feel my magical power being sucked away. Are you doing it?
+
+Koakuma0a:I am able to gather magical power, yes. I am a devil after all.
+
+Koakuma0a:Though I don't really know how to make use of what I gather...
+
+Rumia1a:Well, you're in the way anyway, so I'll beat you up first!
+
+<end>
+
+<ChatID:25>--------------------------------------------------
+//大こあ
+
+Daiyosei0a:You're... Koakuma, right? I'm Daiyousei. How do you do.
+
+Koakuma0a:I'm doing nicely, thank you. I'm Koakuma. How do you do.
+
+Daiyosei0b:I'm doing nicely, thank you. It's a pleasure to meet you, Koakuma.
+
+Koakuma0a:Likewise, it's a pleasure, Daiyousei.
+
+Daiyosei0a:...
+
+Koakuma0a:...
+
+Koakuma1a:Okay, I think that's enough exchanging of pleasantries.
+
+<end>
+
+<ChatID:26>--------------------------------------------------
+//チルこあ
+
+Cirno0a:You've got some strong-looking wings.
+
+Koakuma0a:Um... What?
+
+Cirno0a:And what's that on your head? Ears?
+
+Koakuma0a:These? Hmm... What ARE they?
+
+Cirno0a:They don't look like ears, or like a hairband...
+
+Cirno1a:Okay, only one way to find out!
+
+Koakuma2a:What do you mean, "one way"—Hey! Could you please stop tugging?!
+
+<end>
+
+<ChatID:27>--------------------------------------------------
+//くるみvs.霊夢
+
+Reimu0a:Oh yeah, you're from back then...
+
+Kurumi0a:Long time no see. I'm Kurumi, and I'm now the lake gatekeeper here.
+
+Kurumi1a:And I will defeat each and every one of you who dares to interfere!
+
+Reimu4a:Simple enough...
+
+Reimu0a:Simple enough... Wait, this isn't a lake. Should you even be here?
+
+Kurumi0a:Well, um... It's cold outside, so I'd rather be indoors.
+
+Reimu0f:Whatever. I'll just exterminate you either way.
+
+<end>
+
+<ChatID:28>--------------------------------------------------
+//くるみvs.魔理沙
+
+Marisa0a:You're in my way, Miruku.
+
+Kurumi1a:My name's Kurumi!
+
+Marisa0a:Whatever. I'm in a hurry.
+
+Marisa0a:...Hm, I feel like we've had this conversation before.
+
+Kurumi0a:That's right. I'm the gatekeeper of the lake, Kurumi. Nice to meet you.
+
+Marisa0a:We already passed the lake earlier though.
+
+Marisa0a:So if you're here, does that mean you're a grunt in the mansion now?
+
+Kurumi1a:Don't call me a grunt!
+
+Kurumi1a:Anyway, I don't show mercy to anyone I fight. Not even magicians!
+
+<end>
+
+<ChatID:29>--------------------------------------------------
+//くるみvs.慧音
+
+Keine0a:It's rare to see a devil in Gensokyo. I don't see many of those around the human village.
+
+Kurumi0a:The human village... I've heard about it secondhand, at least. It sounds like fun with all the shops it's got.
+
+Kurumi0a:But I don't have permission to go there. They don't trust me going by myself.
+
+Keine2b:They don't trust you, hm? I assume that means you attack humans at random when others aren't there to stop you.
+
+Keine1a:I'll punish you right now, evildoer!
+
+<end>
+
+<ChatID:30>--------------------------------------------------
+//くるみvs.にとり
+
+Nitori0a:Are you another of Marisa and Reimu's old friends? You all seem to know each other.
+
+Kurumi0a:We're not friends. We just fought a bit in the past.
+
+Nitori0a:Just fought a bit, huh... Knowing Marisa and Reimu, it was probably pretty one-sided.
+
+<end>
+
+<ChatID:31>--------------------------------------------------
+//くるみvs.アリス
+
+Alice0a:...
+
+Kurumi0a:Why are you staring at me like that? Do I have a grain of rice on my face?
+
+Alice0a:No, I'm just wondering about the strong magic I can feel emanating from you. And with what you said earlier...
+
+Alice0b:Perhaps these traps will cease functioning once you have been defeated.
+
+Kurumi1a:That's just silly. I know nothing about this EASIS thingie!
+
+Alice0a:...Is that a fact?
+
+<end>
+
+<ChatID:32>--------------------------------------------------
+//くるみvs.妖夢
+
+Kurumi4b:Wah, you're carrying a sword... I hate swords.
+
+Youmu3a:You don't have to look at me like you've swallowed a bug just because I'm holding a sword.
+
+Kurumi1b:It's more about hating sharp objects than swords specifically.
+
+Kurumi4c:Whenever I try to cook, I always end up cutting my finger...
+
+Youmu3b:...Please don't compare a kitchen knife to a sword.
+
+<end>
+
+<ChatID:33>--------------------------------------------------
+//くるみvs.ルーミア
+
+Rumia1a:Whoa, that wall's all broken.
+
+Kurumi1c:What? Why are you looking over there? I'm right here!
+
+Rumia0a:Ooh, ooh, something big must've happened to make the wall break like that. Was there an earthquake?
+
+Kurumi4a:Ah, you see, that wall...
+
+Kurumi1b:Ah, you see, that wall... Wait! Cut that out and fight me already!
+
+Rumia2a:Aww, fiiine.
+
+<end>
+
+<ChatID:34>--------------------------------------------------
+//くるみvs.大妖精
+
+Daiyosei2a:Eek, a little devil...
+
+Kurumi1a:Heheh, that's right. I'm a devil. Be afraid!
+
+Daiyosei4a:Wait, I thought I carried around some garlic in case of situations like these...
+
+Kurumi3d:Garlic? That doesn't really bother me, you know...
+
+Daiyosei3b:Ah, I only have these shishito peppers with me...
+
+Kurumi2a:Aieee! Shishito peppers?!
+
+Daiyosei4d:...Huh, these work?
+
+Kurumi2a:They've made me flinch ever since the time I ate a really spicy one!
+
+<end>
+
+<ChatID:35>--------------------------------------------------
+//くるみvs.チルノ
+
+Kurumi1a:This is for Elly!
+
+Cirno0a:Elly? You mean that twirly cornet head?
+
+Kurumi3c:Yep, her. I work hard every day to make sure that twirly hair...
+
+Kurumi1c:Hey, wait! You're making fun of Elly! I won't hold back now!
+
+<end>
+
+<ChatID:36>--------------------------------------------------
+//
+
+<end>
+
+<ChatID:37>--------------------------------------------------
+//5*nターン目
+
+Alice0a:Next, the yellow stone will stop its danmaku, and the green stone will activate its own.
+
+<end>
+
+<ChatID:38>--------------------------------------------------
+//5*n+1ターン目
+
+Alice0a:Next, the white stone will stop its danmaku, and the red stone will activate its own.
+
+<end>
+
+<ChatID:39>--------------------------------------------------
+//5*n+2ターン目
+
+Alice0a:Next, the black stone will stop its danmaku, and the yellow stone will activate its own.
+
+<end>
+
+<ChatID:40>--------------------------------------------------
+//5*n+3ターン目
+
+Alice0a:Next, the green stone will stop its danmaku, and the white stone will activate its own.
+
+<end>
+
+<ChatID:41>--------------------------------------------------
+//5*n+4ターン目
+
+Alice0a:Next, the red stone will stop its danmaku, and the black stone will activate its own.
+
+<end>
+
+<ChatID:42>--------------------------------------------------
+//小悪魔vs.まくら
+
+Makura0h:What a magnificent library. I'd love to drop by to browse sometime.
+
+Koakuma1b:How can you announce your intent to rob us so casually, with such a calm expression?!
+
+Makura0f:Ah, no, that's not what I meant...
+
+Koakuma2b:Work's been hard enough ever since she made that hole in the wall. I won't allow it to get any worse!
+
+<end>
+
+<ChatID:43>--------------------------------------------------
+//パチュリーvs.まくら
+
+Makura0h:This place is full of the scent of magic and knowledge. How cozy.
+
+Patchouli0c:You don't look like a magician though.
+
+Makura0c:I'm sure all who've lived a long life habitually seek knowledge.
+
+Makura3a:I'd love to borrow a book, if possible. One that wouldn't put me to sleep, of course.
+
+<end>
+
+<ChatID:44>--------------------------------------------------
+//小悪魔vs.メーコ
+
+Meko4c:You have to keep all these books in order? Sounds tough.
+
+Koakuma4a:It is! I work and work and it never ends...
+
+Koakuma3b:But I'm happy as long as I'm being useful to Lady Patchouli.
+
+Meko4b:I know exactly what you mean! I can do anything, if it's for Lady Makura!
+
+<end>
+
+<ChatID:45>--------------------------------------------------
+//パチュリーvs.メーコ
+
+Meko0g:All these books look so difficult...
+
+Patchouli0c:No doubt YOU'D struggle to read them.
+
+Meko1b:Hey, that's mean! You can't judge a book by its cover!
+
+Meko1a:I'll have you know that I can read ALL the letters!
+
+Patchouli4a:So we're reduced to discussing mere literacy?
+
+<end>
+
+<ChatID:46>--------------------------------------------------
+//パチュリーvs.パチュリー
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Patchouli0c:...Hello.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Patchouli0b:...
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Patchouli0d:Are you wondering whether I'm a doppelganger or an android?
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Patchouli4a:Something along those lines. Now where was that book on doppelgangers?
+
+</nomove>
+
+<end>
+
+<ChatID:47>--------------------------------------------------
+//くるみvs.くるみ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Kurumi3a:Hello, I'm Kurumi!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Kurumi3b:Hello, I'm Kurumi!
+
+Kurumi6a:Wait, it's me?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Kurumi0c:Ah, you're right!
+
+Kurumi0a:We both look and sound the same, it's like a mirror.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Kurumi3a:Yeah, I thought so too!
+
+</nomove>
+
+<end>
+
+<ChatID:48>--------------------------------------------------
+//小悪魔vs.くるみ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Koakuma5b:Huh, Kurumi?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Kurumi3a:Bzz. It's the slightly grown-up Kurumi!
+
+Koakuma1c:Slightly grown-up...?
+
+Koakuma4b:I'm sorry, could you explain exactly which parts of you have grown and how?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Kurumi6d:Wah! She didn't understand!
+
+</nomove>
+
+<end>
+
+<ChatID:49>--------------------------------------------------
+//エリーvs.くるみ
+
+Kurumi0c:Huh? Elly?!
+
+Elliy3a:Bzz. I'm Elly, but also not Elly.
+
+Elliy1a:That's right, I'm Dream☆Elly!
+
+Kurumi0a:?
+
+Elliy2b:Gah, nothing hurts worse than that "I don't get it" reaction!
+
+<end>
+
+<ChatID:50>--------------------------------------------------
+//小悪魔vs.小悪魔
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Koakuma1a:Huh, me?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Koakuma4a:You'd think so, wouldn't you?
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Koakuma1c:Or maybe there's been a sudden breakthrough in Lady Patchouli's secret research?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Koakuma5b:Oh, that sounds plausible.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Koakuma1b:In which case you're a valuable experiment! I have to capture you!
+
+</nomove>
+
+<end>
+
+<ChatID:51>--------------------------------------------------
+//小悪魔vs.神綺
+
+Shinki1c:...I knew it. These stones are from Makai.
+
+Koakuma1b:Huh, you can tell?!
+
+Shinki0c:Trace them back, and I created them myself.
+
+Koakuma5b:You say you created these stones? It doesn't seem like you're lying...
+
+Koakuma3b:Then we should bring Lady Patchouli into this conversation.
+
+Shinki5c:Hmm, that won't be possible, in various senses.
+
+Koakuma1a:Then I'll just have to capture you and make you talk!
+
+<end>
+
+<ChatID:52>--------------------------------------------------
+//パチュリーvs.レミリア
+
+Remilia1e:Hmm, you've been up to something interesting.
+
+Patchouli0c:Remi? What are you doing down here?
+
+Patchouli4a:With this, the brilliant idea I had is ruined.
+
+Remilia3d:That's our resident intellectual, always having ideas.
+
+Patchouli1a:Indeed. I thought you'd be extra frustrated if I spoiled the mastermind's identity for the invaders.
+
+<end>
+
+<ChatID:53>--------------------------------------------------
+//パチュリーvs.美鈴
+
+Patchouli0c:Meiling? What happened to the gate?
+
+Patchouli1c:Surely you didn't lead the intruders in?
+
+Meiling6a:Of course not! I swear on my name, Hong Meiling!
+
+Patchouli1c:So why are you accompanying them, then?
+
+Meiling7a:Um, that is, well...
+
+Patchouli1c:Spare me your excuses. The application of a little magic should cool your head.
+
+<end>
+
+<ChatID:54>--------------------------------------------------
+//パチュリーvs.フラン
+
+Flan3f:Patchouli! Let's play!
+
+Patchouli5a:The little sister? What are you doing here?!
+
+Patchouli1c:Don't tell me someone broke the seal?
+
+Flan2b:A seal like that goes *squeeze* then *boom*!
+
+Patchouli1c:...Don't be ridiculous. I researched that spell for centuries, specifically for you.
+
+Flan2f:Tee hee, forget that, let's play danmaku!
+
+Flan3b:If I win, I'll borrow whatever book I like.
+
+Patchouli4f:You want books...? What is even going on anymore?
+
+<end>
+
+<ChatID:55>--------------------------------------------------
+//パチュリーvs.咲夜さん
+
+Patchouli1d:What are you doing here, Sakuya?
+
+Sakuya0a:I came to exterminate some rats.
+
+Patchouli4e:Are you sure about that? I'm not sensing the murderous intent to back up those words.
+
+Patchouli1c:Don't tell me you're some sort of imposter?
+
+Sakuya6a:My only means of clearing your doubts is to show off some sleight of hand.
+
+<end>
+
+<ChatID:56>--------------------------------------------------
+//パチュリーvs.幽香
+
+Yuka0b:Good evening.
+
+Patchouli1c:You again? You have some nerve, showing your face here.
+
+Patchouli1b:Have you forgotten who blew open that hole in the wall?
+
+Yuka1b:How could I? I have once again come to claim this mansion.
+
+Patchouli4b:Oh dear, Remi certainly invited a troublesome guest.
+
+<end>
+
+<ChatID:57>--------------------------------------------------
+//パチュリーvs.神綺
+
+Shinki0a:That's my Alice, seeing through the trick of the magic stones.
+
+Patchouli4f:And why do YOU look so proud of that?
+
+Patchouli0c:That said, I didn't anticipate such a proper magician to be among the intruders.
+
+Shinki0d:I know, right? I'm so proud of her.
+
+Patchouli4a:Again, why are YOU proud of that?
+
+<end>
+
+<ChatID:58>--------------------------------------------------
+//パチュリーvs.夢子
+
+Yumeko5a:These stones are from Makai, aren't they?
+
+Patchouli0c:Yes, I had them specifically sent for.
+
+Yumeko5c:Sent for? Then you had someone assisting you?
+
+Yumeko4a:To think the objects of Makai are being circulated without permission. Do we need to put a lid on this?
+
+<end>
+
+<ChatID:59>--------------------------------------------------
+//パチュリーvs.魅魔
+
+Mima0c:I see, so you're still researching the movements of elemental spirits?
+
+Patchouli1d:You know of my research?
+
+Patchouli4b:And this unfamiliar mana... just who are you?
+
+Mima0e:Someone who came before you, in a lot of ways.
+
+Mima1a:Anyway, let me see. Might as well study with someone other than Marisa once in a while.
+
+Patchouli1c:I have no idea what you're talking about, but you are undeniably sklled. I can't let my guard down.
+
+<end>
+
+<ChatID:60>--------------------------------------------------
+//パチュリーvs.非想天則
+
+Patchouli5a:An enourmous puppet?! Sure this isn't the work of that puppeteer?
+
+Patchouli0c:Or is it formed from clay? Either way, the technology is incredible...
+
+Tensoku0a:...
+
+Patchouli1b:No use overthinking it. I'll capture it as I fight them off, then research it at my leisure.
+
+<end>
+
+<ChatID:61>----------------------------------------
+//くるみvs.非想天則
+
+Tensoku0a:...
+
+Kurumi6a:Whoa, so big!
+
+Kurumi3a:So the Giant of Light from that picture book was real!
+
+Kurumi1c:And Elly made so much fun of me for believing in it! I'll capture it and show her once and for all!
+
+<end>
+
+<ChatID:62>----------------------------------------
+//小悪魔vs.非想天則
+
+Tensoku0a:...
+
+Koakuma2b:Eek, you scared me!
+
+Koakuma4b:Um, and who might you be? You don't appear to be an ordinary youkai...
+
+Tensoku0a:...
+
+Koakuma1b:So you won't tell me. At least try not to knock over any bookshelves with that giant body, please.
+
+<end>

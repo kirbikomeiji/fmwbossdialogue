@@ -1,0 +1,91 @@
+﻿○幻想少女大戦永オープニング
+
+<ChatID:0>------------------------------
+//OP
+
+<BG=bg_talk_Road.png,fade=0,color=1,title=*bg_Unknown,bgm=bgm_talk_summer01>
+
+Elliy0a:Ugh, there's grass everywhere we go.
+
+Kurumi2a:Waah. It's so hot, if I was Remilia, I'd have evaporated by now...
+
+Yuka0a:Were you expecting summer to be cold? Keep up the pace.
+
+Yuka0a:I've got some more flowers I want to see, way over there.
+
+Elliy0a:What do you care about more? Us, or the flowers?
+
+Yuka0a:That's easy—
+
+Elliy2a:Never mind, forget I asked!
+
+<SE=se_talk_walk_outdoor02s,wait=0>
+
+<hide=all>
+
+Mima0a:I see your group is as lively as ever.
+
+</hide>
+
+Kurumi0a:Oh, it's...!
+
+Mima0a:You have a whole new set of expressions when you're dealing with flowers.
+
+Yuka0a:Why, Mima! How nice to see you.
+
+Elliy0a:You always come and go so fast.
+
+Elliy0a:Marisa was griping about that. "Just when we met again, BAM! She was gone."
+
+Yuka0a:If anything is your true specialty, it's probably vanishing without a word.
+
+Mima0a:I just don't like staying in one place for very long.
+
+Mima0a:So, is Reimu's group holding up okay?
+
+Kurumi0a:Yeah. The shrine's been bustling lately.
+
+Kurumi0a:Something about training to prepare for incidents.
+
+Mima0a:Wow. Reimu, actually training?
+
+Yuka0a:You don't know the half of it. Word has it, the Youkai Sage is overseeing her training personally.
+
+Yuka0a:Does that make you more curious about Marisa?
+
+Mima0a:...I'm not in any rush. I'll go see her skill in person when the time is right.
+
+Elliy0a:There she goes, turning her nose up again...
+
+Kurumi0a:Well, you probably won't have to go too far out of your way to see everyone in their element.
+
+Kurumi0a:They always come out in full force when an incident comes up.
+
+Yuka0a:Heheh, I've got another form of entertainment in these incidents now.
+
+Yuka0a:I'm betting that that one will lend a hand to the humans again.
+
+Mima0a:Come on. "That one"?
+
+Yuka0a:I told you before that I found someone interesting.
+
+Yuka0a:Maybe this time, I'll step in to make them sweat a bit.
+
+Elliy1a:Whoa, you mean...?!
+
+Yuka0a:Elly? Kurumi? Get me my parasol.
+
+Yuka0a:I can't wait to see how the girls' next rampage goes.
+
+Yuka0a:The bigger the incident, the more spectacular the flowers that will bloom from it.
+
+<Code=(transition_out,c_black,70,1)>
+
+<end>
+
+<ChatID:1>----------------------------------------
+//テロプ
+
+Fantasy Maiden Wars Part 3: Eternity
+
+<end>

@@ -1,0 +1,2657 @@
+﻿○共通第七十四話「Tribute
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: 2PP
+ 4: 3PP
+ 5: first battle before the event
+ 6: 5PP-1 (SLG-1)
+ 7: 5PP-2 (ADV)
+ 8: 5PP-3 (SLG-2)
+ 9: first battle after the event
+10: after first battle vs. SheepL
+11: beat SheepL (clear)
+12: lose (Prism beaten)
+13: lose (Seirensen beaten)
+14: ADVB
+15: beat Onamazu (any moment)
+16: after battle vs. SheepL (before event 10)
+17: extra
+18-36: battle (after the event)
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=18,FROM=メルヘン世界,TO=夢幻世界3,name=Dreamscape,icon=4>
+
+<BG=*bg_talk_Seirensen_Bridge_Mugen.png,fade=1,color=1,title=*bg_Seirensen_Bridge,bgm=bgm_talk_potion>
+
+Toyohime0b:...Okay, that should do it.
+
+Koishi6c:Ooh! Look how much further we can see now!
+
+Korin1b:This is amazing! Can just replacing the lens really have this much of an effect on our monitors?
+
+Eirin0a:This is femto-technology. With this, we shouldn't have to worry about being caught off-guard like earlier.
+
+Kosuzu6a:These tools of yours are incredible!
+
+<SE=se_talk_walk_indoor03.ogg,wait=1>
+
+LilyW0a:Hello everyone, need anything up here?
+
+Reisen0c:We brought warm drinks!
+
+Suwako3a:Well, aren't you thoughtful? Perfect timing too, I was starting to get thirsty.
+
+Shinki0b:Oh? Is this a plum flower?
+
+LilyW4d:Uh-huh! Miss Rabbit and I prepared them together!
+
+Reisen0d:It's spring on the surface, so we were thinking why not make it a little... spring-y.
+
+Kaguya3e:Are you sure you're a moon rabbit? Because that sounds like something an Earthling would say.
+
+Reisen0a:Well, that's just what Lily told me.
+
+LilyW4b:But weren't you excited about it too, Miss Rabbit?
+
+Toyohime2c:You two sure get along well. So this must be your friend from Earth we've heard so much about.
+
+Toyohime0c:And a fairy, of all things. You do know her kind is poison to the Lunar Capital, right?
+
+Reisen0c:I know, I know, but we're on Earth now.
+
+Toyohime0b:Fair enough. We're even getting the chance to work with Lady Yagokoro.
+
+Toyohime0c:Why don't we think of this investigation as something like a pleasant dream?
+
+Reisen0d:We're in the Dreamscape as it is, right?
+
+Korin2c:Sounds great, but does anyone know where exactly we're going?
+
+Korin0b:I know we're supposed to be looking for this Nighmare Core, but...
+
+Akyu4a:Ever since we came here, it's been nothing but the unexpected.
+
+Akyu3e:I doubt we'd fare any better at trying to predict what will be where.
+
+Satori0b:Does it all depend on the dreams of humanity then?
+
+Koishi3a:Dreams... hmm...
+
+Koishi1a:What ARE dreams anyway?
+
+LilyW0d:Huh?
+
+Korin0a:What do you mean? Youkai do dream, don't they?
+
+Koishi2b:We do? Hmm, I kinda know what you're talking about, but I kinda don't...
+
+Eirin0a:There are various answers, but the simplest one is that it's a projection of the mind, particularly for Gensokyo's humans.
+
+Eirin1d:To put it bluntly, you could say it's the otherworld they're most familiar with.
+
+Reisen0b:What do you mean, otherworld?
+
+Akyu0a:There are idioms about not being able to tell dreams from reality, but to us humans, dreams ARE another reality.
+
+Akyu3a:That's why we get happy when we have good dreams, or depressed when we have bad dreams.
+
+Koishi2b:So the incident is making people down in the dumps because...
+
+Korin2c:Because what's happening in the other reality we call dreams is instilling fear in them.
+
+Suwako0b:In the Outside World, they say dreams are just created by the brain, so they're able to draw a clear distinction, but...
+
+Satori0c:The more people in Gensokyo believe in a dream world, the more susceptible they become to them.
+
+Shinki0c:...Plus, I can feel the emotions of a lot of people floating around in here.
+
+Shinki0a:Those must be all the dreams taken from the people of Gensokyo.
+
+Toyohime0a:Anyway, all we can do is be ready for anything.
+
+Toyohime0b:We've already seen catfish and robots, so for all we know, we could be facing a dark lord next.
+
+Koishi0b:Ooh, a dark lord! That sounds neat...
+
+Koishi0a:...Hm?
+
+Satori0a:What's wrong, Koishi?
+
+Koishi6c:There's something floating in the mist over there! Looks like a person!
+
+Reisen0b:Really?
+
+Kosuzu0a:No way, that can't be right. Must be garbage from when we switched out the—
+
+Kosuzu1a:Wait, there really someone! And she's even smaller than me!
+
+Korin1c:What would a young girl be doing floating around in a place like this?
+
+Shinki5a:Oh no, what if she's lost?!
+
+Reisen0b:This is obviously weird! We can't take everything at face value, you know!
+
+Suwako1c:But I don't feel any special power from her or anything. Looks like she's unconscious.
+
+Suwako0a:We can't just leave her alone out there though. Let's bring her aboard for now, okay?
+
+Eirin1d:Yes. Please make some space for her in the infirmary.
+
+<BG=bg_talk_Seirensen_Hall.png,fade=1,color=1,title=bg_Seirensen_Hall,bgm=bgm_talk_ningyo>
+
+Lunasa1b:And finally... Presto!
+
+Merlin1c:Tada!
+
+<SE=se_talk_clap01.ogg,wait=1>
+
+Yuyuko1c:That was wonderful you three!
+
+Komachi1c:As lively as ever. Just the thing for a change of mood.
+
+Murasa3b:I like it! I can feel it reverberating right in my soul.
+
+Merlin1a:Thank you! But...
+
+Lyrica1b:What do you think, Sis?
+
+Lunasa0b:...No, that wasn't it either. Once again, from the top!
+
+Mima2a:You're still going? Haven't you been playing non-stop since the last battle?
+
+Youmu0b:Sounds like there's something bothering you, but your performances are as amazing as always.
+
+Merlin2a:Maybe you're right, maybe it's a problem with our feelings...
+
+<SE=se_talk_walk_indoor03.ogg,wait=1>
+
+Reimu0f:I thought it was noisy down here... so it's you three again?
+
+Sanae4a:We heard the music, so we came to take a look.
+
+Marisa0d:Even with everyone here, you're still practicing?
+
+Murasa0d:Oh, hey everyone...
+
+Youmu4b:The band said they wanted to check something, so we've been keeping them company while they practice.
+
+Alice0a:Check what?
+
+Merlin0b:Check our foundations.
+
+Lunasa0b:In other words, our raison d'etre.
+
+Reimu0e:Your what now?
+
+Marisa0e:It's just one thing after another, huh? So what happened?
+
+Lunasa0a:In the last battle, everyone managed to beat their nightmares because of their conviction in their own way of life.
+
+Lunasa0b:But we don't have that.
+
+Lyrica4a:We've always been a band, but we can't remember why we started, or anything like that that.
+
+Sanae0g:Oh? Really?
+
+Marisa0d:Well, isn't it enough that you're poltergeists? Do you really need anymore reason than that?
+
+Mima0c:I mentioned this earlier, but it's absolutely imperative for us ghosts without bodies to have a reason to live. Well, to exist, I guess.
+
+Mima2a:Without that, you'll still be a ghost, but you'll just wander aimlessly, or even turn violent.
+
+Sanae1a:Oh right, that's how the fake Mima acted, wasn't it?
+
+Komachi4a:Lady Shiki was also worried about something similar when she first talked to you.
+
+Komachi0a:Can't you make looking for a purpose your purpose?
+
+Alice2c:In that case, I've love to help out, but do you have any general directions to go in?
+
+Alice0d:If I remember correctly, that old house you live in seemed like it had a lot of history.
+
+Merlin0a:Yeah, but we've just been living there for as long as I can remember.
+
+Murasa0d:You've known them a long time, Yuyuko. Do you know anything?
+
+Yuyuko1d:Let's see... I feel like they've been coming to the Netherworld for a long time now, but...
+
+Yuyuko2a:Sorry, I can't remember anything more than that.
+
+Lunasa0a:Oh, you don't need to apologize for that.
+
+Lyrica0b:But at least we've confirmed that. We've been going to the Netherworld for a long time.
+
+Lyrica4a:...So why? Why were we going there? Does anyone remember?
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+Satori0a:...Then let's ask the people in here next.
+
+Shinki0b:If you think you know any of them, don't be shy, okay? You can tell me.
+
+<hide=all>
+
+Layla0a:Mm...
+
+</hide>
+
+Lunasa0a:...?
+
+Marisa0d:Are you girls here because you heard the music too?
+
+Alice1b:Mom, who's that girl?
+
+Shinki5a:Sorry about this. We found a lost child nearby so we took her aboard.
+
+Lyrica1b:What kind of lost child would be in a place like this?
+
+<hide=name>
+
+Layla0a:...
+
+</hide>
+
+Merlin2a:...?
+
+Lunasa0a:She's...
+
+Youmu2b:You know her?
+
+Lunasa0b:...No. I just thought she looked a little bit like my sisters.
+
+Reimu0e:Now that you mention it, I can see the resemblance too.
+
+<hide=name>
+
+Layla0a:...
+
+</hide>
+
+Satori0b:So no one knows her? We've been asking around because she can't tell us who she is either.
+
+Satori0c:It's not clear why, but she seems to be missing a lot of her memories.
+
+Lyrica1b:Really?
+
+Shinki5a:So she can't even remember the names of her family.
+
+Shinki5a:All she remembers is having three older sisters.
+
+Merlin1a:Three huh? Well, us three are sisters too, so we can sympathize.
+
+Lunasa1b:Then those sisters...
+
+<hide=name>
+
+Layla0a:My sisters...
+
+Layla1a:They went away. So I'm looking for them.
+
+</hide>
+
+Lyrica4a:You got separated from them? Poor thing.
+
+Mima0c:Still, it's weird that you're in the Dreamscape. How'd you wander here?
+
+<hide=name>
+
+Layla0a:...Dunno. Something... pulled me.
+
+Layla0a:A great power... somewhere.
+
+</hide>
+
+Reimu0f:A great power, huh? That's not much to go on.
+
+Sanae3b:Do you remember which way you were being pulled, or anything like that?
+
+<hide=name>
+
+Layla1a:The great power...
+
+Layla0a:...That way.
+
+</hide>
+
+Komachi0c:That way? Sounds like she can feel something we can't.
+
+Alice0a:Could this be that Nightmare Core the catfish mentioned?
+
+Satori0a:Either way, it's the only clue we have. I think it's worth investigating.
+
+Marisa0a:So I guess we'll be taking her to bridge to point the way then. The Prismrivers should come too.
+
+Lyrica5a:You want us up there?
+
+Merlin0b:Why us?
+
+Alice0d:Sounds like she's used to being around her sisters, so she might be more comfortable around you three.
+
+Satori0c:True, for whatever reason she does seem less shy around them.
+
+Lyrica4d:Sure, but you can't just drop babysitting duty on us.
+
+<hide=name>
+
+Layla0a:Sister Lyrica...
+
+</hide>
+
+Lyrica2a:Grk...!
+
+Shinki0b:Aww, she likes you.
+
+Marisa0a:So she thinks of you like a sister, huh? Good for you, you're the youngest so I'm sure you've always wanted to play the older sister.
+
+Lyrica5a:M-Maybe, but this is just too sudden! I'm not ready for the responsibility!
+
+Merlin2b:It's like we're four sisters! I'm fine with it!
+
+Lunasa0a:Oh right, we haven't even asked you your name yet.
+
+<hide=name>
+
+Layla0a:My name...
+
+</hide>
+
+Yuyuko3a:Don't tell me you forgot that too?
+
+<hide=name>
+
+Layla0a:No... I remember.
+
+</hide>
+
+Layla1a:I'm... Layla...
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP（出撃前）
+
+Lunasa0a:...This is where you feel that great power from?
+
+Layla1a:Mm. Farther up.
+
+Sunny5b:Good thing we found a guide.
+
+Tewi4b:Is it really a good idea to follow a complete stranger?
+
+Ran0a:She hasn't been acting suspicious, so I doubt there's cause for concern.
+
+Yuyuko2a:Still, we don't know who she is, and apparently her memory still hasn't returned.
+
+Layla0a:...
+
+Merlin2b:Geez, I get where you're coming from, but knock it off with those gloomy expressions!
+
+Merlin1a:Good things come to those who smile! Smiling is the secret to happiness!
+
+Lyrica0a:You remember your name, so I'm sure you'll remember your sisters sooner or later.
+
+Layla0a:...Thanks, Sis.
+
+Layla1a:But maybe my sisters are...
+
+Sanae3b:Sounds like she's really worried about her sisters.
+
+Alice0d:We're kind of busy right now, but we should go look for them when we're done with the investigation.
+
+Shinki0b:So play nice with Lyrica until then, okay?
+
+Lyrica3c:Yeah. Still not used to being the big sister though...
+
+Layla0a:...!
+
+Youmu0b:What's wrong, Layla?
+
+Layla0a:Bad feeling. Great power...
+
+Layla1a:Coming...
+
+<pause>
+
+Reimu2a:This power, it's...
+
+Akyu2a:Radar is down! This energy is off the scale!
+
+<pause>
+
+Marisa2b:...!
+
+Kogasa2b:What the heck? An ultra-huge sheep?!
+
+Ichirin1a:It's even bigger than the ship! It's like a small island!
+
+Satori0a:Not only that, it possesses—
+
+Satori5c:Hrk...!
+
+Orin1b:Miss Satori?!
+
+Utsuho1a:Are you okay?! I mean, when there's that much power, even I can feel it...
+
+Koishi3b:But that's not all. There's like, a bad feeling.
+
+Hina2a:There's a deep, dark misfortune spilling out from that sheep.
+
+Keine2a:So that energy we've been seeing was all coming from this giant sheep?
+
+<nomove>
+
+<hide=face>
+
+<Code=(cursor_jump,272,224,1)>
+
+Onamazu0a:Ho ho ho! That's the power of nightmare!
+
+</nomove>
+
+</hide>
+
+<pause>
+
+Onamazu1a:You wretched humans are earlier than expected.
+
+Meiling1a:So we were right, the giant catfish is still alive!
+
+Onamazu0a:I told you, didn't I? I'm immortal as long as we have the Nightmare Core.
+
+Onamazu0a:And the power stored inside this sheep is nigh inexhaustible!
+
+Youmu1a:So you're saying this giant youkai is the Nightmare Core?
+
+Sanae1a:Then we can defeat it to save the villagers from the nightmares!
+
+Onamazu1a:Ho ho ho! Don't get ahead of yourselves! Do you really think that's possible?
+
+Onamazu1a:This thing's body is connected the Gensokyo's nightmares through Makura's power.
+
+Onamazu1a:Its power is incomparable to the nightmares you've been fighting!
+
+Reimu1a:Yeah, yeah, keep talking. Might as well beat you too while we're at it!
+
+Marisa1a:Here we go!
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP（出撃後）
+
+Korin2c:Is it safe to touch this strange fog?
+
+Yumeko4b:It's a little different from the miasma of Makai...
+
+Satori5b:I can feel something like the noise of the heart coming from the fog.
+
+Satori5b:It's filled with fear, uncertainty, and sorrow.
+
+Eirin1c:Is all of this empowering the giant sheep?
+
+Onamazu0a:Ho ho ho! Looks like you clever girls have figured it out, but you're too late.
+
+Onamazu0a:Now that you're surrounded by nightmare mist, you're already in the belly of the beast!
+
+Onamazu1a:Your fate is already sealed!
+
+Remilia1b:Eh, more big talk from a loser. You'll go crying home to your mommy again soon enough.
+
+Onamazu1a:Show them, great sheep!
+
+SheepL0a:...!
+
+<pause>
+
+Sakuya2a:Rgh...!
+
+Momiji2a:What in the world...?!
+
+Marisa2a:It's like my strength's draining away...
+
+Byakuren2a:Could this mist be directly transmitting the nightmare energy?
+
+Mokou2a:Is that what he meant by "in the belly of the beast"?
+
+Onamazu1a:Have you realized it yet? Now that you're here, there's no escape!
+
+Onamazu1a:The nightmare will gnaw away at your heart, leaving you with nothing but uncertainty and despair!
+
+Yorihime1b:Despair? We'll never give in to despair!
+
+Utsuho1b:Yeah. And anxiety's something we can just beat up.
+
+Onamazu1a:I wonder how long you can keep up the tough act!
+
+<pause>
+
+Yorihime2a:Hrk...!
+
+Keine2a:Still not enough...
+
+Onamazu1a:Then how about even more?!
+
+<pause>
+
+Reimu2a:Rgh...
+
+Kanako2a:Doubling up on it? That's a petty ploy.
+
+Onamazu1a:Then how about a hundred times?! Or a thousand?!
+
+Onamazu1a:This sheep will NEVER run out of energy! Your resistance is futile!
+
+Akyu2a:This is getting dangerous. We should retreat for now and regroup!
+
+Korin1c:It's no good, the rudder isn't responding! Did they get our systems too?!
+
+Lunasa1b:If the Palanquin Ship won't move, then we'll just have to protect it. Use that time to try to find a way to escape!
+
+Onamazu1a:There is none! Your fates were sealed when you came here!
+
+Onamazu1a:Now, let the feast begin!
+
+<end>
+
+<ChatID:3>---------------------------------------
+//2PP
+
+Yamame2a:I wasn't expecting the Nightmare Core to be this strong.
+
+Ran2a:We knew going in that they'd have the advantage of home terrain, but...
+
+Mima2a:But with that lineup, looks like they're betting everything on this too.
+
+Lyrica2a:This is bad, we have to do something!
+
+<Cond=(CHECK_FLAG,SC_NOAKYU,==,1)>
+
+Keine2a:Akyu, what's the situation on the bridge?!
+
+Akyu2a:The hull's still intact, barely, but our weapons are completely down!
+
+</Cond>
+
+<Cond=(CHECK_FLAG,SC_AKYU,==,1)>
+
+Keine2a:Kosuzu, are things okay on the bridge?!
+
+Kosuzu2a:The ship's holding, but I don't think we can use the weapons!
+
+</Cond>
+
+Korin2a:I'm not sure how long all of us on the ship can hold out...
+
+Layla1a:Urgh...
+
+<pause>
+
+Akyu2b:...!
+
+Korin1c:What? Layla?!
+
+<Cond=(CHECK_FLAG,SC_NOAKYU,==,1)>
+
+Akyu1a:What's going on?! Her body is overflowing with mist!
+
+</Cond>
+
+<Cond=(CHECK_FLAG,SC_AKYU,==,1)>
+
+Kosuzu1a:What's this?! Her body is overflowing with mist!
+
+</Cond>
+
+Onamazu0a:Oh? I noticed this earlier, but you've picked up quite the odd passenger, haven't you?
+
+Lunasa1b:What are you talking about?
+
+Onamazu0a:That lass on your ship.
+
+Onamazu0a:She's the same sort of being as me.
+
+Lyrica1c:She is?!
+
+Onamazu0a:You never noticed? She's another materialized dream.
+
+Onamazu0a:She probably took form when someone's unconscious got mixed up with the power of the sheep.
+
+Daiyosei2c:But she's no different from any of us...
+
+Onamazu0a:Maybe her appearance, but she's just the same as any of this mist.
+
+Onamazu0a:In the end, the lass is just a defective dream given form.
+
+LilyW3b:He's calling her defective...?
+
+Reisen2c:That WOULD explain why she doesn't have any memories...
+
+Layla1a:Sis, I...
+
+Lyrica4a:Layla...
+
+Merlin4b:Don't worry. We'll—
+
+Onamazu1a:You'll what? Save her? In that case...
+
+SheepL0a:...!
+
+<pause>
+
+Merlin2a:Eek! What are you doing?!
+
+Lyrica2a:I'm losing strength... My instrument isn't working right!
+
+Lunasa4b:And I can't make any sound...
+
+Onamazu1a:Bwa ha ha ha! Still think you can save her like that?
+
+Onamazu1a:Risking your lives for a defect? Truly hilarious. But you may as well entertain me, like the clowns you are!
+
+Onamazu1a:Let your powers be gone, and perish with your hands tied!
+
+<end>
+
+<ChatID:4>---------------------------------------
+//3PP
+
+Flan2a:Augh, I just can't muster up any strength!
+
+Sakuya2a:No doubt he intends to lead us into depair through this slow torment.
+
+Kisume2a:Can we really win this?
+
+Daiyosei2a:C'mon, Kisume! Don't give up! We're not that weak!
+
+Satori0b:She's right. I, for one, don't intend to be swallowed up without a fight.
+
+Satori0b:If they're attacking our hearts, then we fight back with our hearts.
+
+Orin5d:Miss Satori...!
+
+Satori0b:We're all well aware of what it takes to not lose to worry and despair.
+
+Satori0c:Now's the time to connect our hearts and show him our power.
+
+Onamazu0a:Connect your hearts, you say? I don't like the sound of that one bit, coming from a satori youkai.
+
+Onamazu0a:I'm sure it's a bluff, but it's better to deal with nuisances sooner rather than later.
+
+Satori0c:Why don't you see for yourself if it's a bluff?
+
+Onamazu0a:Here, have a second helping of NIGHTMARE!
+
+<pause>
+
+Satori5c:Rgh...!
+
+Koishi3a:Sis...?
+
+Onamazu0a:Ho ho ho! I don't care if you're a satori, did you really think you could resist the power of the Great Sheep on your own?!
+
+Onamazu0a:Not to mention that other satori. The one looking on helplessly, biting her fingernails.
+
+Koishi2b:Huh...?
+
+Onamazu0a:You're just standing there while your kin's in danger. You must be worthless and powerless indeed.
+
+Onamazu0a:People like you should just sit on the sidelines and watch.
+
+Koishi3b:...
+
+Orin1b:How dare he mock Miss Koishi!
+
+Flan2b:You're a satori too, right Koishi? Are you gonna let him say all that?
+
+Nue1c:Yeah, shove it right back in his big fat face!
+
+Koishi2b:Huh? But...
+
+Koishi5e:But I can't connect hearts like Sis...
+
+Satori5a:Koishi...
+
+<end>
+
+<ChatID:5>---------------------------------------
+//イベント前に戦闘を行う
+
+Reimu2a:There are youkai right in front of me, and I'm powerless to do anything about it...
+
+Meiling2a:Looks like it's draining more than mental energy, our stamina is gone too!
+
+Patchouli2a:As goes the mind, so follows the body. It's a bit late to say this, but this sure is a troublesome place.
+
+Toyohime2a:If we fight defensively, we'll lose the war of attrition. We need to thin their ranks, if only a little.
+
+<end>
+
+<ChatID:6>---------------------------------------
+//4PP（SLG前半）
+
+Kurumi2a:Waaah! I feel so weak!
+
+Komachi2a:I'm feelin' a bit sluggish myself...
+
+Yorihime2a:Power through it. Once you let yourself succumb, that's it!
+
+Mokou2a:As long as we hold out, we'll get our chance! I know it!
+
+Onamazu0a:Hmm, you still haven't broken. I should have expected as much from anyone who made it this far.
+
+Onamazu0a:But it's time to end this.
+
+SheepL0a:...!
+
+<pause>
+
+Meiling2a:Augh, it's even worse now!
+
+Chen2a:Miss Raaan! My eyes are spinning...
+
+Ran2a:Stay with me, Chen!
+
+Yukari2a:We can't take anymore of this. Maybe the stronger-willed can withstand it, but the weaker among us...
+
+Layla2a:Aah...!
+
+<pause>
+
+<Cond=(CHECK_FLAG,SC_NOAKYU,==,1)>
+
+Akyu1a:Layla!
+
+</Cond>
+
+<Cond=(CHECK_FLAG,SC_AKYU,==,1)>
+
+Kosuzu1a:Layla?!
+
+</Cond>
+
+Korin1a:Oh no, the mist is enveloping Layla!
+
+Eirin2a:If it swallows her completely, she'll be...
+
+Merlin1b:Hang in there, Layla! You still have to find your sisters, right?!
+
+Layla1a:Sisters...
+
+Lyrica1c:Yeah! Your sisters are still waiting for you, Layla!
+
+Lyrica4a:Come on, stay strong...
+
+Layla2a:Stop it! My sisters are...
+
+Layla2a:My sisters are gone anyway!
+
+Lunasa4a:...!
+
+Merlin4a:Wh-What do you mean? I thought you said you got split up?
+
+Layla5b:Yeah... we were separated. Then I was the only one left.
+
+Layla5b:And no matter how long I waited, no one came home.
+
+Layla5b:I'm... alone...
+
+Lunasa4b:Layla...
+
+Merlin4a:That's terrible...
+
+Onamazu0a:Ho ho ho! Looks like she's succumbing to her anxiety and confusion!
+
+Onamazu0a:Now to absorb her so she can become part of the great sheep's power!
+
+Merlin1b:Stop it! I won't let you hurt Layla!
+
+Onamazu1a:Why do you care so much for a dream? A defective one at that.
+
+Lyrica1c:I've got no idea.
+
+Onamazu0a:Fair enough, but if you'd like to get swallowed by nightmare along with her, then go right ahead!
+
+Onamazu1a:Do it, Great Sheep! Use the girl to swallow up the humans!
+
+SheepL0a:...!
+
+Layla5a:Aaah!
+
+<end>
+
+<ChatID:7>---------------------------------------
+//4PP（ADVパート）
+
+<BG=bg_talk_Black.png,fade=0,color=1,title=*bg_Unknown>
+
+Akyu2a:Urgh, where are we...?
+
+Onamazu0a:Can't see a thing, can you? This is the nightmare mist that came from the girl.
+
+Onamazu0a:Even a defective dream can have its uses, if its anxiety is amplified.
+
+Onamazu0a:Meet your end drowning in despair.
+
+Marisa2b:Stupid catfish...!
+
+Luna1a:It's so dark. Is everyone here?
+
+Satori5b:I can sense a mind in here. But it's filled with anxiety and loneliness...
+
+Layla5b:*sniffle*
+
+Layla5b:Why did all my sisters disappear...?
+
+Layla5b:Why was I left alone...?
+
+Youmu2b:That's Layla's voice.
+
+Layla5b:Come home, please... I want to hear your voices again...
+
+Layla5b:Don't leave me alone...
+
+Lyrica4a:Sis, Layla's crying.
+
+Lunasa4b:...She said she was separated from her sisters.
+
+Lunasa4a:So this is her loneliness and anxiety.
+
+Layla5b:I'm sick of it... Everything...
+
+Layla5b:I don't want want to live if I have to be alone...
+
+Merlin4b:Keep it together, Layla. It might get lonely sometimes, but you have to keep your chin up—
+
+Layla5a:I can't!
+
+Merlin4a:...!
+
+Layla5a:I'm all alone in this house! No one ever talks to me!
+
+Layla5a:It's so quiet... I hate it...
+
+Yuyuko3c:Layla...
+
+Lyrica4d:...What do we do? I dunno what we're supposed to do in times like these.
+
+Lyrica4c:Layla is crying but we can't do anything...
+
+Sanae3b:Is there even anything we could do?
+
+Sanae3b:No matter what we say, it'll just be glossing over her loneliness.
+
+Lunasa4a:...
+
+Lunasa0a:Even so, let's make some noise.
+
+Lyrica4b:Make noise?
+
+Merlin4a:What do you mean? We can't even use our powers.
+
+Lunasa0a:It doesn't have to be a performance. Even clapping your hands makes noise.
+
+Lunasa3a:We can at least break the silence.
+
+Lyrica3a:...
+
+<single>
+
+<nowindow>
+
+<Code=(demo_wait,20)>
+
+<BGM=bgm_talk_applause01,0>
+
+<Code=(demo_wait,60)>
+
+</nowindow>
+
+Onamazu0a:Mm? What's this?
+
+</single>
+
+Layla5b:What's that noise?
+
+Layla5b:I can hear something...
+
+Onamazu0a:What, it's just clapping?
+
+Onamazu0a:Ho ho ho! And here I was wondering what you'd be scheming once you'd lost your abilities! Now you're clapping like children?!
+
+Onamazu0a:Poltergeists who can't even play their instruments, what a joke!
+
+Lunasa0a:True, I wouldn't call this music. But noise is enough.
+
+Merlin3a:That's right, we're poltergeists! We make noise!
+
+Lyrica1c:And if noise makes someone happy, that's good enough for me!
+
+Onamazu0a:Ridiculous. You think that nonsense is going to dispel her anxieties?
+
+Layla5d:I want to hear more...
+
+Onamazu0a:What?
+
+<Code=(set_variable,step_2,1)>
+
+<Code=(demo_wait,45)>
+
+Onamazu1a:What's this?! The nightmare mist is thinning?!
+
+Layla5b:If there's sound, that means I'm not alone. It's like my sisters are here...
+
+Layla5b:Sound is... fun...
+
+Onamazu1a:You simple-minded fool! It's just an illusion from the sound of clapping!
+
+Lunasa3c:Listen well, Layla. Listen to our sound.
+
+Merlin1a:We'll be right here by your side.
+
+Lyrica1a:Whenever you're lonely, we'll make as much noise as you want.
+
+Layla5d:Mm...
+
+<Code=(set_variable,step_2,3)>
+
+<Code=(demo_wait,90)>
+
+Onamazu1a:Impossible! Her anxiety is gone?!
+
+Byakuren0a:This sound seems to be a form of salvation for Layla.
+
+LilyW0a:In that case, we can help!
+
+<Code=(set_variable,step_2,5)>
+
+Onamazu1a:Gah, not you too! I don't like where this is going one bit!
+
+Onamazu1a:Stop! Stop it already! It's like nails on a chalkboard!
+
+Lunasa1b:We'll help you forget the uncertainty and loneliness of life.
+
+Merlin1a:As long as you're having fun, you can be truly happy!
+
+Lyrica0b:So stop crying...
+
+Lyrica3d:And smile, Layla!
+
+Layla5c:Right...!
+
+<Code=(transition_out,c_white,60,1)>
+
+<Code=(demo_wait,40)>
+
+<end>
+
+<ChatID:8>---------------------------------------
+//4PP（SLG後半）
+
+SheepL0a:...!
+
+Marisa0d:Looks like we escaped the darkness!
+
+Satori0a:And all the loneliness that was filling Layla's heart is gone.
+
+Murasa3c:The noise the Prismrivers were making must've worked wonders.
+
+Onamazu1a:I can't believe this is happening...
+
+<Code=(set_variable,step_2,1)>
+
+Lunasa0a:I remember what's most important now...
+
+Lyrica0b:It's to blow away loneliness and uncertainty.
+
+Merlin0b:It's to make someone smile.
+
+Lunasa0a:Right, that's what our noise is for.
+
+Lunasa1b:That's our purpose!
+
+<pause>
+
+Youmu1a:That light! Looks like it returned everyone's powers!
+
+Layla0b:Sisters...
+
+Lunasa3c:Thank you, Layla. You helped us remember something important.
+
+Lyrica0a:So this next song is dedicated to you, Layla.
+
+Layla1a:Really?
+
+Merlin1a:Yup! It's the debut of the new-and-improved Phantom Ensemble!
+
+Lyrica3d:And you get to have the best seat in the house.
+
+Lunasa0b:Alright Merlin, Lyrica. Let the Phantom Ensemble's special tribute concert...
+
+Lunasa1b:Begin!
+
+<pause>
+
+Reimu0e:...!
+
+Sunny1a:Ooh!
+
+Meiling0a:All the nightmare energy is dissipating... My body feels light again!
+
+Udonge1a:I'm feeling even better than before!
+
+Onamazu1a:Wh-What?! What's going on?!
+
+Shizuha1a:Everyone's sound is reverberating through our bodies!
+
+Minoriko1a:Even our minds are filled with power too!
+
+Elliy1a:That's just how great a Phantom Ensemble concert is!
+
+Onamazu1a:This is ridiculous! No matter how much energy you put into it, it's just noise!
+
+Onamazu1a:There has to be some kind of secret!
+
+Mima3a:Interesting. It's magic, isn't it?
+
+Onamazu1a:It is?!
+
+Shinki0b:I can feel a powerful magic behind the feelings in this song.
+
+Akyu0a:I've heard that poltergeists are a kind of magic only usable by young girls.
+
+Akyu0b:If that's true, then maybe the Prismrivers were originally created by someone's magic.
+
+Onamazu1a:This is all nonsense! As long as we have the power of the great sheep, we can send you to the depths of despair as many times as we need to!
+
+Lunasa1b:No. I won't let you put a frown on Layla's face again.
+
+Merlin3d:Our noise is there to protect her smile!
+
+Lyrica0c:Layla, you just relax and stay with us, okay?
+
+Layla0b:Right...!
+
+Marisa0a:We'll take care of the sheep, so you three keep playing!
+
+Reimu1a:With your music and our danmaku, this'll be a cinch!
+
+Lyrica1c:This'll be the greatest concert ever!
+
+<end>
+
+<ChatID:9>---------------------------------------
+//イベント後初戦闘
+
+Medicine2a:Amazing, my body feels so warm!
+
+Tenshi3b:Was their music always this powerful?
+
+Suika1a:I always liked their spirit, but this is something else.
+
+Yuyuko1a:Music that gives the strength to keep living, is it?
+
+Eiki0a:No doubt they're able to draw out this much power now because they've realized their reason for being.
+
+Eiki3b:I can certainly feel both desire and determination in their sound now.
+
+Suwako1a:So you're saying we need to make enough noise of our own to keep up, right?
+
+Kanako1a:Let's fill this grand stage with danmaku and blow these fiends away!
+
+Onamazu1a:Hmph. Aren't you getting a little ahead of yourselves?
+
+Onamazu1a:Work yourselves up all you like! The power of the sheep won't fall to something like that!
+
+<end>
+
+<ChatID:10>---------------------------------------
+//大羊と初戦闘後
+
+<Code=(icon_set_direction,All,SheepL_en,0)>
+
+Cirno1a:Mrr...
+
+Mystia0a:That's one tough sheep!
+
+Rumia0a:So if this is the boss sheep, do you think it tastes better?
+
+Wriggle1b:But the nightmare energy is gone! Now's our chance!
+
+Onamazu1a:Useless!
+
+<pause>
+
+Hatate1c:...!
+
+Momiji2a:Its injuries healed up?!
+
+Onamazu0a:Obviously. No matter how much you struggle, it doesn't change the fact that Gensokyo is gripped with anxiety.
+
+Onamazu1a:As long as that power exists, the great sheep's lifeforce is limitless!
+
+Aya0b:So you're saying you'll have the advantage as long as there's this mist.
+
+Momiji1a:Yeah, and we'll blow right through that uncertainty!
+
+Satori0b:...It's time to use my trump card.
+
+Utsuho0e:Miss Satori...?
+
+Satori0b:If this mist is being created from anxiety, then we should be able to dispel it using the power of the mind.
+
+Satori0c:And if we connect enough strong minds, we can get rid of it entirely.
+
+Parsee0a:Easier said then done. Connecting everyone's minds is no easy feat.
+
+Parsee0a:And if you screw up, it'll destroy you.
+
+Satori0b:But that's precisely why I have to be the one to do it, as the satori who's touched everyone's minds already.
+
+Satori0c:I trust in the possibilities that my third eye holds.
+
+Yugi1b:Satori...
+
+Yukari0a:Then we'll just have to bet on that possibility. But to do this alone...
+
+Koishi0b:No, she's not alone!
+
+<Cond=(LOCAL_VAR,ObjControl,is_SatoKoi,==,1)>
+
+<pause>
+
+</Cond>
+
+<Code=(icon_set_direction,Satori,Koishi,0)>
+
+<Code=(icon_set_direction,Koishi,Satori,0)>
+
+Satori0a:Koishi...?
+
+Koishi0a:Let's do it together, Sis.
+
+Koishi0a:I can't read minds like you can, but I'm still connected just like everyone else!
+
+Satori6b:Yes, Koishi. Help me.
+
+Satori6b:I've never relied on you for anything before, but...
+
+Satori6d:From now on, we do this together.
+
+Koishi6c:Yup!
+
+<pause>
+
+Satori0b:We can never be fully rid of anxiety. But we have the strength to match it.
+
+Satori0b:Picture a day that's better than today, if only a little.
+
+Koishi6e:Don't worry. It's not all bad!
+
+Satori0b:Pray for it. Hope.
+
+<pause>
+
+<Code=(icon_set_direction,Satori,FD_LEFT,0)>
+
+<Code=(icon_set_direction,Koishi,FD_LEFT,0)>
+
+SheepL0a:...!
+
+Onamazu1a:Rrr, what's this...?!
+
+Iku0e:The power of the mist is disappating. And the aura around the sheep too!
+
+Tenshi2e:Now we can beat this big guy!
+
+Koishi6c:We did it, Sis!
+
+Orin1a:I felt it! It was like all our hearts became one!
+
+Elliy3b:That's our team-up attack! Now that big fluffy nightmare is defenseless!
+
+Onamazu1a:How?! You've never had this much power before!
+
+Onamazu1a:How could adding a single broken satori make such a difference?!
+
+Satori0b:Someone like you who looks down on others without trying to understand their feelings could never understand...
+
+Satori0c:...The complexity of hearts, and the strength of bonds.
+
+Onamazu1a:This is a joke!
+
+Reimu1a:No more tricks!
+
+Marisa1a:This time we're putting this sheep out to pasture for good!
+
+<end>
+
+<ChatID:11>---------------------------------------
+//クリア時
+
+<Code=(icon_set_direction,All,SheepL_en,0)>
+
+SheepL0a:...!
+
+Onamazu1a:I-Impossible! The great sheep is losing?!
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Marisa1a:Bad timing! You caught us when we're invincible!
+
+Reimu1a:And we're getting some answers! I don't feel like losing today!
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Reimu1a:I'm pretty sure we can wipe the floor with you guys right now!
+
+Marisa1a:Come on, let's do this!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,0,==,1)>
+
+Reimu1a:Here we go, Danmaku Barrier!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,1,==,1)>
+
+Marisa1a:Here goes! Love Sign!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,2,==,1)>
+
+Sanae1a:Come forth, heavenly wind of the Qian god!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,3,==,1)>
+
+Alice1a:We're counting on you, Shanghai!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,4,==,1)>
+
+Rumia1a:Yah!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,5,==,1)>
+
+Daiyosei1a:I'll help!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,6,==,1)>
+
+Cirno1a:Here's one big block of ice, just for you!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,7,==,1)>
+
+Meiling1a:Hong Meiling, using her greatest attack!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,8,==,1)>
+
+Koakuma1b:More! More danmaku!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,9,==,1)>
+
+Patchouli1d:Fire. Water. Wood. Metal...
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,10,==,1)>
+
+Sakuya0a:Nothing up my sleeve...
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,11,==,1)>
+
+Remilia1c:The demonic spear that pierces all!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,12,==,1)>
+
+Flan1b:Hee hee hee, play with me!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,13,==,1)>
+
+Letty1b:Freeze!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,14,==,1)>
+
+Chen5b:Miss Ran, I'll help!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,15,==,1)>
+
+LilyW0a:Here I go!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,16,==,1)>
+
+Youmu1a:I shall face you!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,17,==,1)>
+
+Yuyuko1c:Goodbye!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,18,==,1)>
+
+Ran1a:Faster!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,19,==,1)>
+
+Yukari1a:You are invited to a wonderful place.
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,20,==,1)>
+
+Wriggle5e:Bug youkai ultimate technique!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,21,==,1)>
+
+Mystia1b:Go, go!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,22,==,1)>
+
+Keine1a:Sit right there!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,23,==,1)>
+
+Tewi3e:Deft hands, and clever words...
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,24,==,1)>
+
+Udonge1b:Lunatic Eyes, full drive!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,25,==,1)>
+
+Eirin5e:I will consign you to oblivion alongside this sky...
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,26,==,1)>
+
+Kaguya4f:And blend into the color of dreams...
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,27,==,1)>
+
+Mokou3e:I'll give everything I've got to the phoenix!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,28,==,1)>
+
+Yorihime1b:Come forth, Takemikazuchi!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,29,==,1)>
+
+Toyohime0b:Time for some cleaning.
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,30,==,1)>
+
+Reisen1a:Satellite, linked!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,31,==,1)>
+
+Shizuha1a:O autumn winds...
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,32,==,1)>
+
+Minoriko1a:Eat your sweet potatoes!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,33,==,1)>
+
+Hina1a:This misfortune will hollow you out.
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,34,==,1)>
+
+Nitori1b:Docking, go!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,35,==,1)>
+
+Momiji1a:Howl, Gansaiga!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,36,==,1)>
+
+Aya6b:Like a wind sweeping through fantasy!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,37,==,1)>
+
+Hatate1b:Telescopic thoughtography!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,38,==,1)>
+
+Kanako1a:Know my divine virtue.
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,39,==,1)>
+
+Suwako1e:This is the power of a native god!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,40,==,1)>
+
+Kisume2a:Fire!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,41,==,1)>
+
+Yamame5f:Dinner time!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,42,==,1)>
+
+Parsee2a:I don't give a damn if it's fair. I'm MAKING this your problem.
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,43,==,1)>
+
+Yugi1f:Aaand, bam!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,44,==,1)>
+
+Satori0c:Open your mind...
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,45,==,1)>
+
+Orin1b:Get 'em!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,46,==,1)>
+
+Utsuho1g:Temporarily disengaging limiter!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,47,==,1)>
+
+Koishi6c:Have some of this!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,48,==,1)>
+
+Nazrin1b:The more you dig, the more money comes out...
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,49,==,1)>
+
+Kogasa0b:Surprise!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,50,==,1)>
+
+Ichirin1a:Boss sheep, you were foreseen!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,51,==,1)>
+
+Murasa1b:I'll show you the watery depths!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,52,==,1)>
+
+Sho1b:Grant us your light, o pagoda!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,53,==,1)>
+
+Byakuren1c:Sorcerer's Sutra Scroll, auto-chant!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,54,==,1)>
+
+Nue1c:Annoying pest!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,55,==,1)>
+
+Korin1a:Missiles, horizontal fire!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,56,==,1)>
+
+Komachi3a:C'mere, Titanic!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,57,==,1)>
+
+Eiki1f:It's time for your judgment.
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,58,==,1)>
+
+Medicine1e:Poison, gather round!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,59,==,1)>
+
+Tenshi1b:Sword of Hisou!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,60,==,1)>
+
+Iku1f:If you'll pardon me.
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,61,==,1)>
+
+Sunny1a:Light!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,62,==,1)>
+
+Star1a:I help too, sometimes!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,63,==,1)>
+
+Luna1a:I'll just go for it!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,64,==,1)>
+
+Elliy1a:Elly rising!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,65,==,1)>
+
+Kurumi2a:Eep, so bright!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,66,==,1)>
+
+Mima1e:Disappear, great sheep!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,67,==,1)>
+
+Suika1e:No tricks, no gimmicks...
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,68,==,1)>
+
+Shinki5a:For now, entrust it all to me...
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,69,==,1)>
+
+Yumeko1e:Entree... Grand Adage... Coda!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,70,==,1)>
+
+Tensoku0a:...!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,is_on,71,==,1)>
+
+Akyu1a:The brush is mightier than the sword!
+
+</Cond>
+
+<pause>
+
+SheepL0a:...!!
+
+Onamazu1a:No! This can't be happening!
+
+Onamazu1a:But this isn't over! If we gather more anxiety, we can still do this...
+
+<pause>
+
+Nazrin2a:It's coming back AGAIN?
+
+Eirin1c:It seems that we'll need to utterly annihilate it to prevent its regeneration.
+
+Eirin0a:If we do that, then the catfish who's borrowing its power should be destroyed too.
+
+Yuyuko2a:But if all the dream manifestations disappear, then...
+
+LilyW1b:Does that mean Layla will go too?
+
+Merlin2a:...!
+
+Lyrica4a:But...
+
+<pause>
+
+Youmu2b:Everyone, stop the show—
+
+Layla0b:No, please don't.
+
+<pause>
+
+<Code=(icon_set_direction,Lyrica,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Lunasa,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Merlin,FD_RIGHT,0)>
+
+Lyrica5a:Layla...?
+
+Merlin2a:What do you mean, don't?
+
+Lyrica4a:You heard what they said, right?
+
+Lunasa0a:...
+
+Layla0b:I know. I'll disappear when that sheep does.
+
+Layla0b:But that's why I want to listen to your song right up to the end.
+
+Lyrica4a:To the end...
+
+Layla0b:Even though my sisters are gone, I'm having so much fun.
+
+Layla0b:So I want to keep having fun, right until I disappear.
+
+Lyrica4a:But we finally met you! That's just too sad!
+
+Layla0b:It's not sad. I'm not crying anymore.
+
+Merlin2a:Layla...
+
+Layla0b:So please...
+
+Lunasa0a:...Let's keep going.
+
+Merlin4a:Sis...
+
+Lunasa0a:If that's what Layla wants, we'll keep playing.
+
+Lunasa1b:I want to protect her smile to the very end.
+
+Lyrica1b:Protect her smile, huh...
+
+Merlin0a:...Gotcha. I feel the same way.
+
+Merlin3d:In that case, let's make this show our best yet!
+
+<pause>
+
+Onamazu1a:You don't know when to quit, fools! You think you can finish it off?!
+
+Lunasa1b:This one's a send-off for Layla.
+
+Lyrica1c:With our greatest sound!
+
+Merlin3d:And our greatest smiles!
+
+Lunasa0a:For you, who feels strangely familiar.
+
+<pause>
+
+Onamazu0a:The sheep... How could this be?!
+
+Onamazu0a:It's all gone! The anxiety, the despair!
+
+Merlin1b:You're finished too, catfish.
+
+Lyrica1b:How long can you keep up that form without your source of energy?
+
+Lunasa1b:Vanish, along with that disastrous power of yours.
+
+Onamazu1a:Cheeky to the end...
+
+Onamazu0a:But... why?
+
+Onamazu0a:Why does it feel so... peaceful...?
+
+<pause>
+
+Marisa0a:Looks like the sheep and the catfish are both gone.
+
+Reimu0a:Not even a trace of spiritual energy left. He's really gone this time.
+
+<Code=(icon_set_direction,Lunasa,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Merlin,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Lyrica,FD_RIGHT,0)>
+
+Lyrica0c:And our song reached Layla too.
+
+<Code=(icon_set_direction,All,Seirensen,0)>
+
+<Code=(icon_set_direction,Seirensen,Lunasa,0)>
+
+Layla0b:...
+
+<pause>
+
+Merlin2a:Layla, you're...
+
+Layla0b:Thank you, sisters. Your concert was so fun.
+
+Merlin1a:Don't be silly. We're the ones who should be thanking you!
+
+Lyrica0c:Yeah! You're the whole reason we...
+
+Lyrica3e:Isn't there anything we can do? I don't want to say goodbye like this!
+
+Layla0b:...
+
+Layla0b:Can you do one thing for me then?
+
+Lyrica3e:Absolutely. What is it?
+
+Layla0b:I love your sounds.
+
+Layla0b:So I want you to share them with lots and lots of people.
+
+Layla0b:That's my wish.
+
+Lunasa4a:Layla...
+
+Lunasa1a:It's a promise. Even without you, we'll keep making our noise.
+
+Merlin3g:That's what a band does!
+
+Lyrica3e:We're called the Prismriver Ensemble. I hope you remember the name.
+
+Layla0b:Prismriver? That sounds... familiar...
+
+Layla0a:Oh, right... I'm also...
+
+Merlin0b:Layla...?
+
+Layla0b:Actually, I want one more thing. If we ever meet again, can I still call you my sisters?
+
+Lyrica4c:O-Of course! But don't say "if", okay?
+
+Layla0b:Thank you, sisters...
+
+<pause>
+
+Lyrica4c:Layla...
+
+Lunasa4c:...
+
+Merlin4b:...This was a happy ending, right?
+
+Merlin3g:She stayed smiling right up to the end.
+
+Satori0c:It was. She was completely at peace when she vanished.
+
+Satori0b:She had only a transient existence, but she was as fulfilled as if she'd lived a full life.
+
+Lunasa4c:Alright. In that case...
+
+<Code=(set_variable,step_2,1)>
+
+Lyrica4c:She's gone now, but she was definitely born in Gensokyo, right?
+
+Lyrica4b:So she's gotta be somewhere, right? Alive, in the Netherworld, somewhere...
+
+Lyrica3a:So we'll definitely meet again.
+
+<end>
+
+<ChatID:12>---------------------------------------
+//全滅（三姉妹）
+
+Lunasa2a:We actually lost...
+
+Lyrica2a:Sorry, Layla.
+
+Merlin2a:We just can't cut it...
+
+Layla0a:Sisters...
+
+Onamazu0a:Ho ho ho! It's only natural, when facing fear and despair!
+
+Onamazu0a:You were never going to be saved!
+
+Layla5a:Nooo!
+
+<end>
+
+<ChatID:13>---------------------------------------
+//全滅（聖輦船）
+
+<Cond=(CHECK_BEATEN,Seirensen,==,1)>
+
+Akyu2a:No! The Palanquin Ship!
+
+Onamazu0a:Ho ho ho! It's only natural, when facing fear and despair!
+
+</Cond>
+
+<Cond=(CHECK_BEATEN,Seirensen,==,0)>
+
+Kosuzu1a:Ah! Everyone!
+
+Onamazu0a:Ho ho ho! Looks like your fighting force is all gone!
+
+</Cond>
+
+Onamazu0a:Now you shall become a part of the great sheep's nightmare!
+
+<end>
+
+<ChatID:14>---------------------------------------
+//ADVB
+
+<BG=bg_talk_Seirensen_Bridge_Mugen.png,fade=1,color=1,title=bg_Seirensen_Bridge,bgm=bgm_talk_hiroshige>
+
+Korin0a:So we've cleared another hurdle.
+
+Akyu0a:Yes, we managed to scrape out a victory against the sheep.
+
+Mima0c:If that was the Nightmare Core, then the business with the sheep in Gensokyo should be settled too.
+
+Mima0a:So we shouldn't have to worry about the nightmares for a while.
+
+Kosuzu3d:Whew, that's a relief.
+
+Eiki0a:It's a significant step forward for the incident investigation too.
+
+Youmu3b:At first, I wasn't sure how we'd get out of that trap.
+
+Marisa7c:Guess we have to thank Satori and the Prismrivers for that.
+
+Sanae3b:And Layla...
+
+Yuyuko3c:Yes...
+
+Reimu5d:Where'd the Prismrivers get off too anyway? I haven't seen 'em since we got back on the boat.
+
+Orin0c:They said they were a little tired and went to go get something to drink.
+
+Alice4a:After all that, I don't blame them.
+
+Shinki5b:True...
+
+Yukari0b:It may have been bittersweet, but the fact that we won this battle has incredible significance.
+
+Yukari5a:It proves that we can stand up to Makura's power here.
+
+Satori0b:Yes, we've finally understood how to use our mental strength as a weapon here in the Dreamscape.
+
+Yamame0a:So our bonds become our strength, huh?
+
+Yamame1b:Never figured Satori of all people would be taking the lead on that front.
+
+Utsuho5d:Miss Satori being optimistic was SO COOL.
+
+Orin6a:For sure. Seeing those two trying so hard was so moving.
+
+Satori2b:You're exaggerating...
+
+Koishi0a:But I was really happy too. I finally got to do something with you, Satori.
+
+Koishi0b:Because you trusted in me and relied on me.
+
+Satori6b:Koishi...?
+
+Koishi6c:I like you when you're desperately depending on me, you know.
+
+Satori6e:...
+
+Remilia1e:I don't think she said that. But that's Koishi for you.
+
+Satori6a:Er... Yes. I can sense that our hearts are on the same page.
+
+Patchouli0a:Anyway, shall we take a breather before we get back to the investigation? Prepare some tea, Koakuma.
+
+Koakuma3c:Right away! I should bring some to the Prismrivers too.
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+Lunasa0a:Here you all are.
+
+Lyrica1a:Whew... That was intense.
+
+Nitori2a:Wait, you're back already?
+
+Sanae0e:I thought you'd be taking it easy after working so hard that battle.
+
+Merlin2b:Non non! After a successful concert it's time to make even more noise!
+
+Reimu3c:What do you mean?
+
+Lunasa0b:We played an important role this time, to put it mildly.
+
+Merlin3d:We escaped our slump and put on our best performance yet!
+
+Lyrica1a:You all were feeling it too, right?
+
+Alice2b:...Yes, I suppose. I do agree it was an amazing performance.
+
+Marisa0c:...And here I thought you'd be depressed after all that. Looks like it's business as usual.
+
+Lyrica1a:What, were you WORRIED about us, Marisa?
+
+Marisa4c:I mean, you looked pretty down when we got back on the boat...
+
+Lunasa3c:I appreciate the concern, but the Prismriver Ensemble wouldn't be caught dead being gloomy.
+
+Merlin1a:Layla told us to work hard on the band too!
+
+Shinki5b:I see. So this is how you're answering her feelings.
+
+Byakuren0a:You choose to accept the wish she made of you.
+
+Byakuren3c:I'm sure she's happy to see you like this, wherever she is.
+
+Lunasa3d:...Thank you.
+
+Youmu0b:So... what exactly was Layla anyway?
+
+Youmu0a:If she was born from someone's unconscious, is the original person still out there somewhere?
+
+Yuyuko1d:...I think I might have met her, actually.
+
+Lyrica5a:Wait, you have?
+
+Yukari0a:Do you remember something, Yuyuko?
+
+Yuyuko1c:Nothing specific. It's just that her final words seemed strangely familiar.
+
+Yuyuko3a:I just feel like a girl with a strong wish like her has visited the Netherworld.
+
+Marisa0e:Then the original Layla may not be among the living anymore...
+
+Komachi1c:It's not like it's hard to visit the Netherworld these days. So it's not too bad.
+
+Merlin1c:And we ARE poltergeists.
+
+Yukari0a:Regardless, if you lack the means to find out now, that just means you'll have to look into it more.
+
+Yukari1a:Her words and her wish live on in all of us. To the survivors, that's all there is.
+
+Yuyuko3a:And I finally remembered something too... Why'd you have to go and wrap it up like that, Yukari?
+
+Yukari5a:Remembering the past doesn't suit you, Yuyuko.
+
+Yuyuko3c:...
+
+Eiki0a:Yukari Yakumo has a point. There's no need to be caught up in the past.
+
+Eiki0a:The ones living in Gensokyo now are you three sisters. What you should take from this is that you got a chance to reevaluate your way of life.
+
+Lunasa3a:Right... We're just thankful for today's encounter.
+
+Lunasa3b:It was meeting Layla that showed us our reason for being.
+
+Merlin3c:And thanks to that, I think we remembered a little of our past.
+
+Youmu2b:You did?
+
+Lunasa0b:Just that we were living in that mansion with someone important.
+
+Merlin3a:We made lots of noise because we wanted to see that person smile.
+
+Lyrica0b:That might even be why we started a band.
+
+Sanae0a:So this person was your pillar then.
+
+Lunasa3a:Right. We don't remember anymore than that though.
+
+Lyrica3c:But I'm sure it was someone just like Layla.
+
+Alice2b:Like her, hm...?
+
+Merlin0a:Uh-huh. Someone lonely, and sheltered from the world.
+
+Lyrica1a:Someone who'd always look up to her big sisters.
+
+Lunasa3b:And someone with the brightest smile you'd ever seen.
+
+Lunasa3c:We're going to keep making noise, just like Layla wanted.
+
+Merlin1c:We're poltergeists, after all!
+
+Lyrica1a:We need to make so much noise that Layla can hear us, wherever she is.
+
+Lyrica3b:Our performance will pierce the clouds and reach the heavens!
+
+Lyrica3c:(So we have to meet again someday, Layla.)
+
+Lyrica3e:(Your sisters are looking forward to it.)
+
+<Code=(transition_out,c_black,90,1)>
+
+<BG=bg_talk_Mugen_Deep.png,fade=1,color=1,title=bg_Mugen_Deep,bgm=bgm_talk_dream>
+
+Makura5a:...
+
+<Code=(transition_out,c_white,15,0)>
+
+<SE=se_f_damage10.ogg,wait=0>
+
+<Code=(demo_wait,50)>
+
+<Code=(map_shake,1,40,2)>
+
+<Code=(transition_in,c_white,15,0)>
+
+Makura5a:...!
+
+Meko0b:What was that?!
+
+Makura5a:You felt it too, Mehko?
+
+Meko0b:Yes, ma'am. The great sheep's power disappeared. I bet the catfish went with it.
+
+Meko0b:Don't tell me the humans defeated them?
+
+Makura5a:What else could it be? That much power should have been enough to swallow them whole though...
+
+Makura5a:What trick did they use? This should have been impossible.
+
+Meko0b:Lady Makura...
+
+Makura5a:This is a disaster. At this rate, all the dreams we've gathered will gradually wither away.
+
+Makura5a:We're so, so close... Why must my dream always be denied?!
+
+<Code=(map_shake,1,30,1)>
+
+<SE=se_talk_gashi01.ogg,wait=0>
+
+<Code=(demo_wait,30)>
+
+Meko1d:W-We're still okay! Your power is still unbeatable!
+
+Meko1b:Plus, I'll do anything to help realize your dream!
+
+Makura5a:Mehko...
+
+Meko0b:So, um...
+
+Makura5a:I'm sorry. I lost my composure there.
+
+Meko0a:No, it's okay... We've also got plenty of dreams gathered just in case, right?
+
+Meko1f:We can use their power to defeat the humans, and afterward we just have to revive the great sheep!
+
+Makura5a:...Yes, you're right. As long as we get rid of THEM, nothing will stand in our way.
+
+Makura5a:But now that it's come to this, we won't be able to avoid a battle.
+
+Meko0g:Right...
+
+Makura5a:We'll use all the dream power at our disposal to make this into a unbreakable fortress.
+
+Makura5a:But given who we're up against, I can't guarantee that you won't get caught up in this.
+
+Meko1a:Don't worry, I'll fight too.
+
+Meko1f:Even if you told me to leave, I wouldn't go anywhere!
+
+Makura5a:Of course you'd say that. How could I expect otherwise?
+
+Makura5a:But you've already been through battle after battle, Mehko. I can't put you on the front lines as you are now.
+
+Makura5a:If you wish, I could lend you a fraction of my power.
+
+Meko0b:Your power...?
+
+Makura5a:The power to manifest dreams. With that, you'd hold an overwhelming advantage here in the Dreamscape.
+
+Makura5a:It should protect you if you get into a fight with them.
+
+Meko0b:If I had your dream manifestation power, then...
+
+Makura5a:However, keep in mind that it's dangerous for a youkai to hold someone else's power within them.
+
+Makura5a:Normally, something like this would be—
+
+Meko1a:No, please! I want to be useful to you, Lady Makura!
+
+Meko1b:Your dream is my dream!
+
+Makura5a:Thank you, Mehko.
+
+Makura5a:Come here, then.
+
+Meko0a:Yes, ma'am...
+
+<Code=(transition_out,c_black,60,1)>
+
+<end>
+
+<ChatID:15>---------------------------------------
+//大ナマズを撃破
+
+Onamazu0a:Coming after me before the great sheep? Are you perhaps touched in the head?
+
+Onamazu1a:As long as the sheep's there, my lifeforce is limitless!
+
+<end>
+
+<ChatID:16>---------------------------------------
+//大羊との戦闘後（イベント前）
+
+SheepL0a:...
+
+<pause>
+
+Reimu0e:...!
+
+Marisa1a:It healed up?!
+
+Onamazu0a:Ho ho ho! As long as there is dream energy, the sheep's power is limitless!
+
+Onamazu1a:No matter what you do, you won't even scratch it!
+
+<end>
+
+<ChatID:17>---------------------------------------
+//予備枠
+
+<end>
+
+<ChatID:18>---------------------------------------
+//霊夢、魔理沙、アリス、早苗さん
+
+Marisa0a:What a surge of power! Is this from their song?
+
+Alice1a:The feelings they're channeling into their music are palpable through this magic...
+
+Sanae1a:Everyone's dreams, our bonds! I can feel them now, and turn them into strength!
+
+Reimu1a:Alright, let's crush that sheep and clear up this mist of anxiety!
+
+<end>
+
+<ChatID:19>---------------------------------------
+//永琳、輝夜、てゐ、豊姫、依姫
+
+Yorihime2a:What is this power, Sister...?
+
+Toyohime2c:I don't know. It's not spiritual energy, or even youkai energy.
+
+Eirin0a:It's because our hearts and minds are joined as one.
+
+Yorihime2a:A bond that generates power...?
+
+Eirin0a:I admit it's unscientific, but this surge of power should be proof enough.
+
+Udonge0a:And it's the power to overcome anxiety...
+
+Tewi0a:No need to look a gift horse in the mouth. If we can use it, we should.
+
+Toyohime0a:It's all so sudden and hard to believe, but how can we doubt it when it's right in front of us?
+
+Yorihime1b:And with this power, we'll smash that Nightmare core!
+
+Kaguya1a:Let's clean this up.
+
+<end>
+
+<ChatID:20>---------------------------------------
+//三月精
+
+Luna0a:Wow, the Prismrivers are so cool!
+
+Star0a:They're doing all of this to encourage Layla...
+
+Sunny0a:What a power up! We just need to ride this wave!
+
+Sunny1a:Let's make this concert even better with our danmaku!
+
+<end>
+
+<ChatID:21>---------------------------------------
+//神綺、夢子、魅魔、エリー、くるみ
+
+Mima0a:A magic only usable by girls, huh? Interesting.
+
+Yumeko0a:The magician behind it must have been considerably skilled.
+
+Shinki0b:No, I'm sure she just had a strong wish.
+
+Kurumi0a:What kind of wish...?
+
+Shinki0b:A wish to be happy, no matter what she went through.
+
+Shinki0b:That wish became magical energy, which is now coursing through us.
+
+Mima0a:Hah, a wish strong enough to become high magic?
+
+Elliy0a:Even if it's a rental, I for one am glad to have it!
+
+Elliy0a:Let's pay back all that fear and despair!
+
+<end>
+
+<ChatID:22>---------------------------------------
+//勇儀、パルスィ、ヤマメ、キスメ
+
+Parsee0a:The power of bonds, huh? I bet if I had that, I'd feel WAY better.
+
+Yugi0a:Considering who you are, yeah.
+
+Parsee2a:What's that supposed to mean, Yuugi?
+
+Yamame0a:Just that bonds don't have to be the same for everyone.
+
+Kisume0a:I mean, we don't live on the surface but we're friends with them now.
+
+Yugi0a:Even if they're not dressed up the same way, you have to be feeling these connections too, right?
+
+Parsee0a:O-Of course I do! But you don't have to go around shouting it out loud!
+
+Yamame1a:Good enough for me! So how about we go on a rampage with this?
+
+Kisume0a:Yup!
+
+<end>
+
+<ChatID:23>---------------------------------------
+//リリー、レイセン
+
+Reisen0b:What is this power...?
+
+LilyW0a:It's the power of bonds!
+
+Reisen1a:Wow, you just shouted that with no embarrassment at all. But I believe it.
+
+Reisen1a:I didn't really get it back when I was always running away, but now I do!
+
+LilyW0a:Let's beat up that big sheep, Miss Rabbit!
+
+Reisen1a:Alright, Lily!
+
+<end>
+
+<ChatID:24>---------------------------------------
+//妹紅、慧音
+
+Mokou0a:There's a strange feeling in this sound...
+
+Keine0a:Yeah. I can feel our bonds with everyone.
+
+Keine0a:Not a bad feeling, is it Mokou?
+
+Mokou0a:Yeah. This must be what you've been building up all this time, Keine.
+
+Mokou0a:And I'll fight with you to protect it!
+
+Keine0a:Together!
+
+<end>
+
+<ChatID:25>---------------------------------------
+//文、椛、はたて、神奈子、諏訪子
+
+Momiji1a:That grim atmosphere from before is completely gone now!
+
+Kanako0a:Defeat is no longer in the cards.
+
+Hatate0a:I know I've gotta gather material, but it'd be a waste to not ride this wave!
+
+Aya0a:Let's ride the wind and feel the sound with our bodies.
+
+Suwako0a:Right now, we're all connected. As long as we believe, we can muster any amount of power we want!
+
+Kanako1a:Let's go, everyone! We're crushing that Nightmare Core!
+
+<end>
+
+<ChatID:26>---------------------------------------
+//レミリア、フラン、咲夜、美鈴、パチュリー、小悪魔
+
+Meiling1a:I feel power welling up from deep inside!
+
+Koakuma1a:Yes, it's the power of high magic and sound...!
+
+Remilia0a:There's a tragic fate in there as well.
+
+Flan0b:Remi? Are you talking about the Prismrivers?
+
+Remilia0a:Yes. This is a power that arose from their encounter with Layla.
+
+Patchouli0a:A noise the likes of which they've never been able to make until now.
+
+Sakuya0a:It's the perfect song for a march. Let's keep up the pressure, shall we?
+
+<end>
+
+<ChatID:27>---------------------------------------
+//聖輦船
+
+Akyu1c:The Palanquin Ship is resonanting with the ensemble's performance!
+
+Kosuzu6a:Our energy's replenished. But how...?
+
+Korin0b:High magic? Or maybe a miracle?
+
+Korin0a:If so, then it's our turn to press the attack! Let's do this!
+
+<end>
+
+<ChatID:28>---------------------------------------
+//さとり、こいし、お燐、おくう
+
+Koishi0a:It's like, warm and fuzzy.
+
+Utsuho0a:Yeah, it's just like Lord Yatagarasu's light!
+
+Orin0a:We can all sense our hearts being connected!
+
+Satori0b:We won't lose to anxiety or despair anymore.
+
+Satori0c:It's like the sun is shining on our hearts.
+
+Koishi6c:Since we're all so warm, let's go beat 'em up!
+
+<end>
+
+<ChatID:29>---------------------------------------
+//メディスン、雛、にとり、アリス
+
+Medicine0a:It feels like I'm puffing up...
+
+Nitori1a:It's the power of friendship, right, Hina?
+
+Hina0a:Yes, and the power of bonds.
+
+Medicine0a:It is?
+
+Alice0a:You must feel it too, Medicine. It's like we're all holding hands.
+
+Shanghai0a:Shanghai!
+
+Alice0a:Yes, you too, Shanghai.
+
+Nitori1a:In that case, we're unbeatable now!
+
+Hina0a:Let's put an end to this fight against a grave misfortune.
+
+<end>
+
+<ChatID:30>---------------------------------------
+//白蓮、星、ナズーリン、一輪、村紗、ぬえ
+
+Nue2a:What's this? It feels totally different than it did a minute ago...
+
+Nazrin0a:Is the Phantom Ensemble's song drawing out everyone's power?
+
+Ichirin0a:Now we can put out even more Buddhist energy than before!
+
+Murasa0a:Alright, everyone!
+
+Sho1a:We'll clear away the nightmares, and light the path!
+
+Byakuren0a:Let's borrow the power of the bonds between human and youkai!
+
+Byakuren1a:Shine, o light of dharma!
+
+<end>
+
+<ChatID:31>---------------------------------------
+//チルノ、大妖精、ルーミア、ミスティア、リグル、レティ
+
+Wriggle0a:I feel stronger, listening to this music...
+
+Mystia0a:This music feels like it could use a song accompaniment.
+
+Daiyosei0a:It does?
+
+Letty0a:Oddly enough, I couldn't agree more.
+
+Rumia0a:Should someone in the Prismrivers do double-duty as a singer?
+
+Cirno0a:Anyway, it's making us like a bajillion times stronger-est!
+
+Cirno0a:Let's go beat that big ugly sheep!
+
+<end>
+
+<ChatID:32>---------------------------------------
+//秋姉妹
+
+Minoriko0a:This is so much power, it's hard to believe how much we were struggling just moments ago!
+
+Shizuha0a:Our autumn power is rising as well.
+
+Minoriko1a:This is an all new Aki Sisters!
+
+Shizuha1a:Now we're the Super Aki Sisters!
+
+Minoriko1a:Let's do it, Sis!
+
+Shizuha1a:Right, Minoriko!
+
+<end>
+
+<ChatID:33>---------------------------------------
+//妖夢、ゆゆ様、小町、映姫
+
+Youmu0a:Wow, the Prismriver's music is completely different from how it sounded in practice!
+
+Komachi0a:If this is because they meshed well with Layla, that's one wild coincidence.
+
+Yuyuko0a:Yes, she's...
+
+Eiki0a:Something the matter, Yuyuko Saigyouji?
+
+Yuyuko0a:Oh, it's nothing. Just a pang of nostalgia.
+
+Yuyuko0a:Kidding, kidding. Anyway, we need to liven up their concert even more!
+
+Eiki0a:Indeed, this is our chance to exorcise the nightmare.
+
+Youmu1a:Let's do this, everyone!
+
+<end>
+
+<ChatID:34>---------------------------------------
+//小傘、非想天則
+
+Kogasa0a:Who knew songs could cheer people up so much?
+
+Tensoku0a:...!
+
+Kogasa0a:Whoa! You too, Hisoutensoku?!
+
+Tensoku0a:...
+
+Kogasa0a:I think I understand. That feeling of being with everyone...
+
+Tensoku0a:...!
+
+Kogasa0a:Then let's go for it! This is our chance for a final inning comeback!
+
+Kogasa0a:SURPRISE!
+
+Tensoku0a:...!
+
+<end>
+
+<ChatID:35>---------------------------------------
+//紫、藍、橙、萃香
+
+Chen0a:Miss Ran, I'm feeling excited!
+
+Ran0a:Yes, I feel a strange surge of power...
+
+Suika0a:Thanks to the Prismrivers' song, all of our power has been gathered.
+
+Suika0a:With this much power, not even that big sheep stands a chance.
+
+Yukari0a:Then let us be one of their wings...
+
+Yukari0a:And show them a flash of danmaku.
+
+<end>
+
+<ChatID:36>---------------------------------------
+//天子、衣玖
+
+Tenshi0a:I can sense everyone's temperaments...
+
+Iku0a:With the mist cleared up, this space is filled with heart and sound.
+
+Iku0a:Eldest Daughter, now's the time to brandish the Sword of Hisou.
+
+Tenshi1a:I'm doing it! We've got heart and sound, so it's time to add ME!
+
+Tenshi1b:Blade of temperament, cut through this nightmare!
+
+<end>
+
+<ChatID:37>---------------------------------------
+//メーコ、まくら
+
+Meko0e:It's like we're gushing with energy!
+
+Makura3a:As if the Phantom Ensemble's music and everyone's emotions are flowing into us.
+
+Makura3c:So this is the warmth that they all felt.
+
+Meko0e:Us too, we're connected to everyone in the dream too!
+
+Makura3a:Yes, I agree.
+
+Makura1b:We should learn from the feeling of these bonds too. Let's give this everything we have!
+
+Meko1f:Right!
+
+<end>
+
+<ChatID:38>---------------------------------------
+//大ナマズvs.まくら（イベント後）
+
+Onamazu1a:Mm? Why would YOU be here?!
+
+Onamazu0a:No, she can't possibly have changed your mind. Which means you're an imposter!
+
+Makura1a:An imposter, you say? I suppose given my company, it's a reasonable guess.
+
+Onamazu0a:Awfully cheeky for an imposter.
+
+Onamazu1a:But with both me and this sheep, we are invincible!
+
+Makura1a:Let's see if you can say that AFTER you see our power.
+
+<end>
+
+<ChatID:39>---------------------------------------
+//大ナマズvs.メーコ（イベント後）
+
+Onamazu1a:Mm? Why would YOU be here?!
+
+Onamazu0a:An imposter? No, I'd recognize that shrimp anywhere.
+
+Meko1d:I told you, I'm not a shrimp!
+
+Onamazu1a:But you've joined forced with the humans. Such an eyesore!
+
+Onamazu0a:Real or fake, it matters not. All are equal in my belly!
+
+<end>
+
+<ChatID:40>---------------------------------------
+//幽香
+
+Yuka2d:So this surge of power is from connecting to everyone.
+
+Yuka0e:As if all of Gensokyo has braided its power into one.
+
+Yuka0b:I'll have to savor this while I can.
+
+<end>

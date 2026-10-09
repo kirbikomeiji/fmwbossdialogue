@@ -1,0 +1,734 @@
+﻿○「幻想少女大戦紅ED
+
+<ChatID:0>----------------------------------------
+//ED
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+<MAP=0,FROM=人間の里,TO=人間の里,name=Human Village,icon=5,fade=0>
+
+<BG=*bg_talk_Village.png,fade=0,color=1,title=*bg_Village,bgm=bgm_gen_ED01>
+
+Akyu0b:(Day X of Y—The weather remains clear. The fierce sunlight is slowly abating as Gensokyo prepares to welcome autumn.)
+
+Akyu0b:(The mist incident that visited us in the summer involved many humans and youkai. It will go down as a major event in the history of Gensokyo.)
+
+Akyu0b:(But thanks to Reimu and her allies, the threat was averted, and the village returned to its normal liveliness.)
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+Kosuzu3b:Oh, hello, Akyu!
+
+Akyu0a:Kosuzu? It's not every day I see you early in the morning. Shouldn't you be minding your store?
+
+Kosuzu3d:Heh heh, I'm actually preparing for a little outing.
+
+Akyu0a:Oh, really?
+
+Kosuzu3c:Alice came by just a little while ago. She was looking for cute stationery, so I pointed her to the store I get mine at.
+
+Kosuzu3b:And she said she'd take me to a second-hand store in the Forest of Magic as her way of thanking me!
+
+Akyu0a:In the Forest of Magic? ...Ah, to Kourindou.
+
+Akyu0a:I hear the owner's a little eccentric, but they deal in all kinds of strange goods.
+
+Kosuzu3c:Yup! They're supposed to carry books from the Outside World. I've always wanted to visit!
+
+Kosuzu3b:Mom wouldn't let me, since the forest is a dangerous place, but she said I can go as long as I'm accompanied by an adult.
+
+Akyu0a:Hmm... Well, be careful out there and come back safe.
+
+Kosuzu3d:I will!
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+<single>
+
+Akyu0b:(The incidents that occur in this land are dangerous ones. They can sometimes threaten the regular people living here.)
+
+Akyu0b:(But those same incidents can be cause for humans and youkai to meet in curious ways.)
+
+Akyu0b:(Sometimes I consider them worth the trouble, if they can improve relations between humans and youkai.)
+
+Akyu0b:(Having a perfect memory of the past doesn't let me predict the future. But uncertainty is what makes life so fun.)
+
+Akyu0b:(May I continue living this wonderful Gensokyo life for a long time to come...)
+
+</single>
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+<MAP=0,FROM=香霖堂,TO=香霖堂,name=Kourindou,icon=5,fade=0>
+
+<BG=*bg_talk_Korindo.png,fade=1,color=1,title=*bg_Korindo,bgm=bgm_gen_ED01>
+
+Korin0a:(The cicadas' short journey has ended, and now the store is greeted with silence in the afternoon. Summer is drawing to a close in Gensokyo.)
+
+Korin1b:(It's been some time since the mist incident. Marisa's been boasting nonstop, but she doesn't seem to be showing up today.)
+
+Korin0a:(She's in such high spirits when talking about her exploits. She must have REALLY liked her newly developed technique.)
+
+Korin1b:(Seeing that joy makes the tuning work I did on that hakkero all worth it. It's working wonders for my creative drive...)
+
+Nitori2a:Huh, it's not working. I'm pretty sure I put it back the way it was...
+
+Korin3a:...Why are you here again?
+
+Nitori3d:Look, I still haven't found what I've been looking for. I'm never gonna finish this invention!
+
+Korin2b:Oh, really. Is that why you've been dismantling all my stuff? My sales have plummeted because of you.
+
+Nitori1d:Bah. Don't the presents I bring when I come make up for it?
+
+Nitori1a:Speaking of which, here you go. The usual cucumbers.
+
+Korin3a:...
+
+Korin2a:(Alas, so much for my creative drive. This precious peace and quiet will soon be spoiled by the sound of me biting into a cucumber...)
+
+<SE=se_talk_door_open03.ogg,wait=1>
+
+Alice0d:Rinnosuke, are you there? I'm looking for some sealing wax...
+
+Kosuzu3b:Ooh, so this is the place!
+
+Korin0d:Ah, hello there, Alice. I see you've brought a new face with you.
+
+Nitori2a:Eep! Are you a friend of Alice's...?
+
+Kosuzu6a:Ack, a youkai!
+
+Alice0d:I see you're here as well, Nitori. This is Kosuzu. She's in the market for some books.
+
+Korin0d:I'm pretty sure there's a rental library in the village if it's books you're looking for...
+
+Kosuzu3d:Eheheh, I'm the daughter of the owner there.
+
+Kosuzu0a:So, do you have any Outside World books here? I've read most of our store's stock already...
+
+Korin1b:Wow, you're a regular bookworm. Are you here to stock up on more books at your store?
+
+Korin0a:In that case, I have some recommendations...
+
+Nitori1a:Careful, Kosuzu. Mr. Kourindou here never sells his favorite stuff.
+
+Alice2b:Is that right? And here I came to do some shopping.
+
+Korin2a:Come on, don't talk like that. This is why my sales drop whenever you're around.
+
+Korin0a:(The shop's been pretty noisy lately. I'm not a fan of things being so hectic, but there's something to be said for all the excitement.)
+
+Korin0d:(And it's all thanks to Marisa's adventures. I'm counting on you to keep it up, Marisa.)
+
+</Cond>
+
+<MAP=0,FROM=霧の湖,TO=霧の湖,name=Misty Lake,icon=5,fade=0>
+
+<BG=*bg_talk_Lake.png,fade=0,color=1,title=*bg_Lake>
+
+Cirno3b:...
+
+Cirno1a:Green light!
+
+Yousei11a:...Okay, now!
+
+Cirno1a:Nope! Ice Sign [Perfect Freeze]!
+
+<Code=(map_flash,1,30,c_white)>
+
+<SE=se_spirit_chokkan.ogg,wait=1>
+
+Yousei21a:Hey, what's the big idea?!
+
+Cirno5b:Heh heh, I've frozen you all so you can't move... It's the strongest idea.
+
+Yousei12a:Um, it's not much of a game if nobody can move...
+
+Daiyosei5a:Cirno, what are you doing?
+
+Cirno3b:Ah, Dai. We're playing Red Light Green Light! It's the next big thing after hide-and-seek.
+
+Cirno3a:Our goal is the next Red Light Green Light tournament, got it? We're definitely gonna win!
+
+Daiyosei0b:Red Light Green Light, huh... That sounds fun. I'll sit here and watch.
+
+Cirno5b:No way. You're gonna be playing too.
+
+Daiyosei3b:Me? I'd just slow the rest of you down.
+
+Cirno0a:Don't be silly! You gotta be with me no matter what.
+
+Cirno3a:Whether it's adventuring or playing Red Light Green Light, we've always gotta stick together!
+
+Daiyosei0b:...Yeah. We'll always be together!
+
+Yousei10a:Hey, Cirno? We're supposed to be playing, remember?
+
+Cirno2c:Oh, hold your horses! I'll be right there!
+
+Cirno3a:Okay, let's go, Dai!
+
+Daiyosei0b:Right, Cirno!
+
+<MAP=0,FROM=妹紅の家,TO=妹紅の家,name=Bamboo Thicket,icon=5,fade=0>
+
+<BG=*bg_talk_Bamboo.png,fade=0,color=1,title=*bg_Bamboo>
+
+<SE=se_talk_knock01.ogg,wait=1>
+
+Keine0a:Hey, are you there? I'm going to let myself in if you don't answer, okay?
+
+Keine0b:*sigh* As usual, no signs of normal living to be found. I take my eyes off you for a little while, and this is what I come back to...
+
+<hide=all>
+
+Mokou0a:Oh, it's you, Keine. Been a while.
+
+</hide>
+
+Keine0a:There you are, Mokou. Sorry for taking so long getting back. There was a lot of cleanup to do after that incident.
+
+Mokou1b:No worries. I know you worry about the humans.
+
+Mokou0a:And again, you don't have to come by at all if you're busy. I don't need food, you know.
+
+Keine0b:Absolutely not. You must eat and sleep properly. The constant repetition of trivial processes is what living is all about.
+
+Keine0a:Is that clear, Mokou? Then help me get supper ready.
+
+Mokou3c:Ugh, fiiine. Every time you come here, you get like this. There's no arguing with you.
+
+Mokou4a:Ooh, you brought rice? I haven't had that in a while, actually.
+
+Keine2b:What? You haven't even been eating RICE? You could easily get that and more if you just went to the village.
+
+Mokou0a:Eh, that's too much of a pain. I'm good as long as I find stuff and sear it.
+
+Mokou0d:On that note, be right back. I'm gonna catch some birds in the woods out back.
+
+<Code=(demo_wait,15)>
+
+<single>
+
+Keine3a:*sigh* What do I do with her? I wish she'd try to associate with more humans besides myself...
+
+Keine0a:...I'll try and take her outside the bamboo forest the next chance I get.
+
+</single>
+
+<MAP=11,FROM=白玉楼,TO=白玉楼,name=???,icon=5,fade=0>
+
+<BG=*bg_talk_Meikai.png,fade=0,color=1,title=*bg_Unknown>
+
+Youmu0b:Lady Yuyuko... Lady Yuyuko!
+
+Youmu2b:Oh, there you are.
+
+Yuyuko1a:Yes. Something's been on my mind, and I've been doing a little research.
+
+Youmu3a:About how to make unblooming cherry blossoms bloom, I take it? My apologies for not turning up anything on that subject so far.
+
+Youmu0a:The living world had some related literature, but nothing on that exact topic, I'm afraid...
+
+Yuyuko1b:It's fine, Youmu. It's immaterial anyway.
+
+Youmu0a:Right. Completely immaterial...
+
+Youmu2b:Wait, what?! What do you mean by that?
+
+Yuyuko0a:I'm working on pickling vegetables right now. No matter what I do, I just can't get the pickling to come out right in the Netherworld!
+
+Yuyuko1a:The works-in-progress are in the kitchen right now. Would you mind finishing them up for me?
+
+Youmu2b:Pickled vegetables...? What was the point of me spending so long investigating that?
+
+Yuyuko1b:Cherry blossoms are a reminder of spring. I'm sure an answer will present itself as the seasons change.
+
+Yuyuko0a:Sooo, that can wait for spring. In the meantime, I want my pickles extra-tasty, okay?
+
+Youmu2b:Yes, ma'am...
+
+<MAP=0,FROM=マーガトロイド邸,TO=マーガトロイド邸,name=Margatroid Residence,icon=5,fade=0>
+
+<BG=*bg_talk_Alice.png,fade=0,color=1,title=*bg_Alice>
+
+Alice3b:Dear Mom, I hope this letter finds you well. Things are the same as ever for me.
+
+Alice0d:A strange event occurred after the last letter I sent. I went to investigate an incident with several humans.
+
+Alice0d:My involvement was grudging at first, but I got to visit a library with magical grimoires from the Outside World, and I met many new people.
+
+Alice4a:That said, I also ended up meeting that flower youkai again, so it wasn't all pleasant.
+
+Alice0d:My life in Gensokyo is more enriching than I was expecting it to be, so you needn't worry on my account.
+
+Alice3b:Summer in Gensokyo is winding down. When the trees become more colorful, I will start sending beautiful autumn leaves with my letters.
+
+Alice0a:I will write again soon. Please take care of yourself as well, Mom.
+
+Alice3a:I will write again soon. Please take care of yourself as well, Mom. —Love, Alice
+
+<MAP=3,FROM=魔法の森,TO=魔法の森,name=Forest of Magic,icon=5,fade=0>
+
+<BG=*bg_talk_Road_Night.png,fade=0,color=1,title=*bg_Forest>
+
+Sunny2a:*hic*
+
+Sunny1a:So like, just because being freewheeling is our whole DEAL as fairies, that doesn't mean we can go on like this!
+
+Luna1a:Oh my gosh it's so true! You're so in touch with how all of us fairies feel!
+
+Luna0a:...Wait, go on like what again?
+
+Sunny0a:You know! When the vampire did the thing!
+
+Luna0a:The thing...where Gensokyo got covered in scarlet mist?
+
+Sunny3b:Yeah, that thing. Lemme tell you, as a sunlight fairy, that SUCKED for me.
+
+Star4b:I found the recent storm much scarier, personally. I was afraid the wind would blow our house down.
+
+Star0a:Anyway, here's more cold sake.
+
+Sunny3b:Ooh, thanks!
+
+<Code=(map_shake,1,30,8)>
+
+<SE=se_hit_bullet_L01.ogg,wait=1>
+
+Luna2a:Eep! What? Huh?!
+
+Star2a:I sense a presence outside!
+
+Rumia2a:Oww, that hurt... What's a huge tree doing here?
+
+Sunny2a:Oh, it's just you, Rumia. That crash of yours totally ruined my sake buzz.
+
+Rumia3a:Ooh, did you say sake? Yup, I smell some good stuff here. Lemme join you for some drinks!
+
+Luna0a:Do we even have any food left?
+
+Star0a:No, but I'll make more if I must. Come on in.
+
+<MAP=3,FROM=紅魔館,TO=紅魔館,name=Great Library,icon=5,fade=0>
+
+<BG=*bg_talk_Koumakan_Library.png,fade=0,color=1,title=*bg_Koumakan_Library>
+
+Koakuma4a:Whew, that takes care of today's work. What did Lady Patchouli even use this many books for...?
+
+Koakuma5b:...Oh?
+
+Kurumi4a:Ooh, this one looks neat. And this one... Nope. No pictures.
+
+Koakuma3d:Hello there, Lady Kurumi. Doing some reading?
+
+Kurumi3a:Oh, hi, Koakuma! I'm looking for picture books...
+
+Kurumi1a:Oh, hi, Koakuma! I'm looking for picture books... *cough* Um, for books Yuuka could read me!
+
+Koakuma3b:Wow, Lady Yuuka reads to you?
+
+Kurumi3a:Yup, sure does! Just a teensy bit before I go to bed, but still.
+
+Koakuma3d:I see, I see. In that case, allow me to recommend East Side Story.
+
+Koakuma6c:It's a short and satisfying love story. A twist of fate brings two people together through the power of pure love and...
+
+Kurumi1a:No way, those stories are lame! I want books about like, a devil-man destroying the world and stuff.
+
+Koakuma4b:Oh, really? You're missing out. This book could keep you so absorbed you'd forget to go to sleep at all.
+
+Koakuma0a:...Oh yes, that reminds me. Lady Patchouli was looking for you.
+
+Kurumi6b:Buh?
+
+Koakuma0a:It was something about a list you made having some inconsistencies in it...
+
+Kurumi0a:...Oof, ow, my stomach! Curse this totally sudden stomachache! Sorry, Koakuma, gotta go!
+
+Koakuma0a:Wait, Lady Kurumi? What about the picture books?!
+
+<MAP=3,FROM=紅魔館,TO=紅魔館,name=Scarlet Devil Mansion Gate,icon=5,fade=0>
+
+<BG=*bg_talk_Koumakan_Gate_Night.png,fade=0,color=1,title=*bg_Koumakan_Gate>
+
+Meiling2a:*yawn* Another peaceful day at the Scarlet Devil Mansion...
+
+Meiling4b:Surely nobody would visit this late at night. And I skipped lunch, so I'm pretty low on energy...
+
+Sakuya0b:Meiling.
+
+Meiling7b:Gyah! Sakuya?!
+
+Meiling7a:Look, um, I wasn't yawning just now! I was just getting ready to pump myself up...
+
+Sakuya0b:I wasn't going to ask. I brought something for you since you were on night shift, but if you don't need it, I'll take it back.
+
+Meiling0a:Wait, need what, exactly?
+
+Sakuya0b:Dinner. I made too much tonight, and it wouldn't do to let perfectly good food go to waste.
+
+Meiling5a:Oh wow, thank you! I've been running on an empty stomach for a while now...
+
+Yuka0a:...My, if it isn't Sakuya. It's rare to see you outside at this time of day.
+
+Elliy0a:Hello, Meiling! We're here for a late-night chit-chat!
+
+Sakuya0b:Lady Yuuka, your hands are dirty. Shall I bring you something to wipe your hands with?
+
+Yuka0a:Ah, don't worry about that. I've just been tending the flowers.
+
+Yuka0b:In particular, the Queen of the Night that blooms only one night... It's a tough yet ephemeral flower. I liken it to humans.
+
+Elliy5a:It was really pretty. You two should go take a look!
+
+Meiling0a:Well, they're offering. Want to see it together, Sakuya?
+
+Sakuya5b:Your shift isn't over, remember? I'm about to return to my station as well.
+
+Yuka0b:Alas, you've been rejected. Would you care for my company instead?
+
+Meiling3c:...That's okay, thanks.
+
+<MAP=3,FROM=紅魔館,TO=紅魔館,name=Scarlet Devil Mansion,icon=5,fade=0>
+
+<BG=*bg_talk_Koumakan_Int_Night.png,fade=0,color=1,title=*bg_Koumakan_Int>
+
+Remilia0a:I have an idea. Patchy, what would you say to making this space into a game room with billiards and roulette, that sort of thing?
+
+Patchouli4c:I'd say good luck finding a shop around here that sells pool tables or roulette wheels.
+
+Patchouli0a:If you're bored, you can always just go to the shrine. Unless you're bored of that already?
+
+Remilia0a:Not at all. It's simply that I've been informed autumn can have long rainy periods, so it makes sense to prepare for that in advance.
+
+Remilia1a:If my mansion is fully outfitted with amusements, I'd be able to entertain myself without needing to go out. Heh.
+
+<Code=(demo_wait,10)>
+
+Maid0b:Lady Flan, the dining hall is this way...
+
+Flan2c:...Shut up and stop following me around already. I want to find it myself.
+
+Patchouli4c:...? That voice...
+
+Flan0a:Why, hello there, Patchouli. Remi.
+
+Remilia0b:...Flan.
+
+Maid0a:Um, I'm trying to guide her to the dining hall, but she wouldn't listen to me...
+
+Patchouli0d:The dining hall is at the end of this corridor here. If you ask Sakuya, she'll make you a meal.
+
+Remilia1e:If you're that lost, I suppose I'd be willing to show you the way...
+
+Flan2b:No. I'll find it myself. I don't want your help.
+
+Remilia1b:Excuse me?! Did you just...
+
+Flan1a:I'm SO sorry I don't know where anything is! It's silly when I've lived here so long, I know!
+
+<SE=se_talk_walk_indoor03.ogg,wait=1>
+
+<single>
+
+Maid0a:And there she goes, by herself...
+
+</single>
+
+Remilia0b:...
+
+Remilia1d:You know what, Patchy? Never mind. I'm going to visit the shrine.
+
+Patchouli4c:Um, sure...
+
+<single>
+
+Patchouli4a:*sigh* It's going to be a long road for both of them...
+
+</single>
+
+<MAP=0,FROM=守矢神社,TO=守矢神社,name=Youkai Mountain,icon=5,fade=0>
+
+<BG=*bg_talk_Moriya.png,fade=0,color=1,title=*bg_Mountain>
+
+KTengu0a:Introducing Lady Kanako Yasaka and Lady Sanae Kochiya. They will be taking the stage on behalf of the mountain gods.
+
+<SE=se_talk_gaya.ogg,wait=1>
+
+Kanako1a:Youkai of the mountain. I am Kanako Yasaka, the enshrined deity of the Moriya Shrine.
+
+Kanako1a:As I am sure everyone is aware, our Moriya Shrine has made a home for itself in Youkai Mountain.
+
+Kanako0a:We had our conflicts at first, but now I'm confident that with your faith, we will foster a mutually beneficial relationship.
+
+Kanako0a:Remember, and remember well, that faith is the only way to gain our divine virtues.
+
+<Code=(demo_wait,15)>
+
+Sanae0a:Hello there. I'm Sanae Kochiya, a living god here on behalf of the mountain gods today. With the pleasantries out of the way...
+
+Sanae0g:Our mission is to save Gensokyo's faith. To wit, Lady Yasaka, the god of this mountain, will be...
+
+Momiji5a:...
+
+<Code=(map_flash,1,20,c_white)>
+
+<SE=se_talk_shutter.ogg,wait=1>
+
+<Code=(map_flash,1,20,c_white)>
+
+<SE=se_talk_shutter.ogg,wait=1>
+
+Aya1a:Heh heh heh, talk about a historic scoop! Who would've thought the gods who attacked Youkai Mountain would be joining forces with us tengu?
+
+Aya0a:What kind of ripples will this divine power send through mountain society? I'm gonna have material for DAYS.
+
+Momiji5a:Yes, I can see as much. I'll be going now.
+
+Aya0a:Why? Got something planned? You're gonna miss the party.
+
+Momiji0a:Watching Sanae Kochiya up there reminds me of when I fought those humans.
+
+Momiji5a:I challenged them, yet they decisively outmaneuvered me. As a tengu, I am ashamed.
+
+Aya0a:Yeah, fair. They're no ordinary humans, but that's not something you can lean too hard on as an excuse.
+
+Momiji2a:I need to get stronger. Then I won't make such a poor showing again.
+
+Momiji1a:Reimu Hakurei. Marisa Kirisame. One of these days, I'll settle the score with you.
+
+<Code=(demo_wait,15)>
+
+<single>
+
+Sanae4a:...And I, Sanae Kochiya, am ready to give this my fullest efforts. I look forward to working with all of you.
+
+<SE=se_talk_gaya.ogg,wait=1>
+
+</single>
+
+<update>
+
+KTengu0a:Wow... She looks like any old human, but there's something charming about her refinement.
+
+KTengu0a:Say, I hear they've got another god who isn't at the ceremony. What do you think they're like?
+
+</update>
+
+<single>
+
+<nowindow>
+
+<Code=(demo_wait,30)>
+
+</nowindow>
+
+Suwako0a:Wow, look at 'em go. All the big production stuff is definitely Kanako's bag, not mine.
+
+Suwako3a:They both look totally in their element, though. That's a good sign for our life on this mountain.
+
+Suwako1a:We came all the way to this remote land, so let's make the most of our final fun, Kanako!
+
+</single>
+
+<MAP=0,FROM=博麗神社,TO=博麗神社,name=Hakurei Shrine,icon=0,fade=0>
+
+<BG=*bg_talk_Shrine.png,fade=0,color=1,title=*bg_Shrine>
+
+Marisa4c:Boy, this late summer heat is especially brutal today.
+
+Marisa0a:Hey Reimu, got anything to drink around here besides hot tea?
+
+Reimu4a:If you don't like yours, give it back. Water isn't free, you know.
+
+Marisa0d:Look, I'd gladly drink this if it was cold. There's gotta be a way to cool off somehow...
+
+Reimu0g:Why don't you visit a graveyard? All the ghosts there should cool you off nicely.
+
+Marisa0a:Ooh, I like the sound of that. I could bottle one up and have my own portable cooler.
+
+Shiro0a:...
+
+Marisa0c:Whoops, oh yeah. My bottle's already occupied.
+
+Reimu0f:Wow, you're still keeping that kedama around? I guess you really did make it a pet.
+
+Marisa0a:It doesn't act up and it doesn't eat. What better pet could you ask for?
+
+Reimu2b:Is it even a pet at that point?
+
+Marisa0c:Not knowing what it is is half the fun. I'm actually experimenting with giving it stuff to see what it eats.
+
+Marisa0d:Take this mushroom I just recently picked, for example...
+
+Shiro0a:...!
+
+<Code=(map_shake,1,20,4)>
+
+<Code=(demo_wait,20)>
+
+Reimu0e:Doesn't look like it wants any. Put it away already.
+
+Marisa1b:No appreciation for your owner's love. Some pet you are. Guess I'll use this for magic experiments, then.
+
+Marisa0a:Anyways, it's getting late. I'll be heading back home to cool off.
+
+Reimu3b:Sure thing. Don't get too distracted playing with your pet, okay?
+
+<single>
+
+Reimu0b:Now that the complainer's gone, maybe I can sit back and relax with some tea...
+
+Reimu0f:...Hm?
+
+</single>
+
+<hide=all>
+
+Yukari0a:Hello, Reimu.
+
+</hide>
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Reimu0f:...!
+
+Reimu1a:Yukari Yakumo, and...
+
+Ran6a:...Ran Yakumo, Lady Yukari's shikigami.
+
+Yukari5a:We last met during the establishment of the spellcard rules, I believe. You've been doing well, I trust?
+
+Reimu4a:Pretty much. ...And haven't you been observing me constantly anyway?
+
+Yukari0a:Believe it or not, I have better things to do with my time. Ran's filled me in, though.
+
+Yukari1a:Excellent work subduing that powerful vampire and resolving the incident. You're upholding your duty nicely.
+
+Reimu4a:Okay, so what do you want? I resolved the incident like I'm supposed to, so you'd better not be here to complain.
+
+Yukari0a:Oh, I wouldn't dream of complaining. The way you battled, and the way you handled the incident... It was all superb.
+
+Yukari0a:Leading a large group of humans and youkai will be of great help to you in the incidents yet to come.
+
+Reimu0d:What do you mean, the incidents yet to come?
+
+Yukari0a:A great surge will be upon Gensokyo soon—one that will trigger battles even more intense than the ones you just fought.
+
+Yukari1a:You, Reimu, will undoubtedly be a central figure in the resolution of these incidents.
+
+Reimu0f:You came all the way out here just to tell me what I already know?
+
+Reimu0a:I'm a shrine maiden. When incidents come up, I resolve them, with or without you nagging me about them.
+
+Yukari0a:Indeed, you are the Hakurei Shrine Maiden. Keeping Gensokyo in harmony and maintaining the barrier is your duty.
+
+Yukari1a:...I'll be taking my leave now. I'll continue to expect nothing but the best from you.
+
+<Code=(demo_wait,15)>
+
+<single>
+
+Reimu4a:A great surge upon Gensokyo, huh. Could she be anymore vague?
+
+Reimu0g:Well, there's no point in mulling over it. I'll just put on some tea and relax.
+
+</single>
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+<MAP=0,FROM=霧雨邸,TO=霧雨邸,name=Kirisame Residence,icon=2,fade=0>
+
+<BG=*bg_talk_Marisa.png,fade=0,color=1,title=*bg_Marisa>
+
+Marisa4c:Ahh, made it home. The Forest of Magic really is more cooling.
+
+<SE=se_talk_door_open02.ogg,wait=1>
+
+Marisa0d:Guess I'll get back to that experiment I was about to start on...
+
+Shiro0a:...!
+
+Marisa0c:Wow, somebody's on edge. Look, I was kidding before, okay?
+
+Marisa0a:I know, I'll show you some of my magic stuff. Come over here.
+
+Shiro0a:...
+
+Marisa0a:This is called a grimoire. It's where you write down discoveries and ideas. You could basically call it a research notebook.
+
+Marisa0c:You know Alice, right? The book she carries around is one of those.
+
+<SE=se_sys_page.ogg,wait=1>
+
+Marisa0a:...This part is my most recent research. Ahh, I'll never forget that incredible sense of accomplishment I got when I perfected the Master Spark.
+
+Marisa0c:And this spell here...
+
+Shiro0a:...
+
+Marisa0a:All these spells are the reason I managed to resolve this incident at all. I'm gonna keep improving, one step at a time.
+
+Marisa0a:So I hope you'll watch over me, wherever you are, until the day I become a great magician... Lady Mima.
+
+</Cond>
+
+<BG=bg_talk_Black.png,fade=0,color=1,title=*bg_Unknown>
+
+Noname0a:The Scarlet Mist Incident that threatened Gensokyo has been resolved.
+
+Noname0a:The keys to the resolution were Reimu Hakurei and Marisa Kirisame. They put on quite an eye-opening display.
+
+Noname0a:Reimu's abundant wisdom and grounding give her a curious charisma far beyond that of others.
+
+Noname0a:On the other hand, Marisa brings her wit and power fully to bear when she fights, and her sheer momentum carries along everyone around her.
+
+Noname0a:Non-humans start incidents, and humans resolve them...
+
+Noname0a:Incidents are what join humans and youkai and preserve the harmony between them. That is what makes this land so akin to paradise.
+
+Noname0a:However, the girls are still human. Anything could potentially kill them as they continue fighting youkai.
+
+Noname0a:This was but a whim for me at first, but perhaps I'll be able to assist them as I did before.
+
+Noname0a:...
+
+Noname0a:My mind is made up. I'll continue to watch over you, moving forward.
+
+Noname0a:To ensure that humans can greet the light of day and dark of night with peace of mind.
+
+Noname0a:And to ensure that peace in paradise is properly upheld...
+
+<Code=(transition_out,c_white,75,1)>
+
+<end>
+
+<ChatID:1>----------------------------------------
+//両ルートクリア後
+
+<Code=(demo_wait,20)>
+
+<SE=se_talk_knock02.ogg,wait=1>
+
+<BG=bg_talk_Koumakan_Int.png,fade=0,color=1,title=*bg_Koumakan_Int>
+
+<Code=(demo_wait,15)>
+
+Sakuya0b:Yes? Who is it?
+
+<SE=se_talk_door_open02.ogg,wait=1>
+
+Yuka0b:Greetings, Sakuya. I've got something to discuss...
+
+<Code=(transition_out,c_black,45,0)>
+
+<Code=(demo_wait,15)>
+
+<end>
+

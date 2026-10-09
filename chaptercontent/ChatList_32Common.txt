@@ -1,0 +1,1677 @@
+﻿○共通第三十二話「白玉楼階段の死線
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: first battle w/ Youmu
+ 3: Youmu spell 1
+ 4: Youmu spell 2
+ 5: Youmu spell 3
+ 6: beat Youmu
+ 7: ADVB
+ 8-36: battle vs. Youmu
+37: lose
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=10,FROM=幽明結界,TO=白玉楼への階段,name=Netherworld,icon=0>
+
+<BG=*bg_talk_Meikai.png,fade=0,color=1,title=*bg_Meikai,bgm=bgm_talk_inishie>
+
+Luna6b:Wait up, everyone! 
+
+Rumia0a:You're so slow, Luna!
+
+Patchouli4b:These stairs are too long. I'm already exhausted. 
+
+Komachi0a:Easy, you're almost there. You can see the gate up ahead, right?
+
+Komachi1a:Past that is Hakugyokuro. The Saigyou Ayakashi will be in its garden.
+
+Alice0a:There really are cherry blossoms blooming here. There weren't any back on the ground...
+
+Letty2a:All this spring energy is making me sleepy all of a sudden...
+
+Cirno1b:Don't close your eyes, Letty! Don't go towards the light!
+
+Daiyosei0a:But something's strange about this. It doesn't feel like a normal springtime.
+
+Keine4a:I hear everything in the Netherworld is dead. Could that explain it? 
+
+LilyW3a:No, it's more than that. There's some other presence mixed in with the spring. 
+
+Shizuha4a:That must be the Saigyou Ayakashi. 
+
+Hina4a:So this is what's lured countless humans to their eternal rest...
+
+Hina1b:What an ominous aura... it befits its bloody legend.
+
+Sanae3b:I had a hard time believing it at first. But now, it's starting to sink in for me that it's real....
+
+Marisa0b:If this thing's that dangerous, why didn't they just chop it down?
+
+Marisa0a:We wouldn't be in this mess if they had.
+
+Hina4a:I'm sure they would have done that if they could.
+
+Hina0b:But I hear even Yukari Yakumo has a hard time doing anything to it.
+
+Reimu3b:Whoa, even her? 
+
+Hina0a:Yes. This is all hearsay for me, though. I can't give you any specifics. 
+
+Minoriko0b:The more I learn, the further away autumn feels. 
+
+Shizuha0b:What could they possibly stand to gain by reviving that tree? 
+
+Meiling0a:You've been to the Netherworld before, right Komachi? Do you have any idea who's doing this? 
+
+Komachi4b:Can't say I don't. Just never thought SHE of all people would start an incident. 
+
+Elliy0a:Who's "she"? 
+
+Komachi0a:Yuyuko Saigyouji. The ghost lady in charge of the Netherworld.
+
+Komachi0a:I've only met her a few times though.
+
+Aya0b:I've heard the name Saigyouji before.
+
+Aya0a:Something about some big-shot who's lived in the Netherworld for over a thousand years.
+
+Mokou0a:If she runs the Netherworld, then odds are good she's our culprit.
+
+Nitori0a:So Youmu must have been fighting us on her orders, right?
+
+Keine0a:That'd fit. She's a bit of a straight arrow, after all...
+
+Sho0b:What do you mean, "straight arrow"?
+
+Alice0a:To put it kindly, she's very earnest. To put it less kindly, she can be prone to tunnel vision.
+
+Alice4a:The next time we meet, I'm sure she'll come at us with everything she's got.
+
+Daiyosei3b:Do we really have to fight Youmu? Wasn't she our friend before? 
+
+Sakuya5a:If she won't yield, we can't simply sit back and let her have her way. 
+
+Reimu0a:Well, she's stealing spring, and we're here to get it back.
+
+Reimu1a:There's only one thing to do: come at her head on and beat her up!
+
+Marisa0a:If we're rushing into this, I'll race you there! 
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP
+
+Patchouli5a:These stairs are too long! Far too long!
+
+Koakuma1a:Hang in there, Lady Patchouli! It's just a bit further.
+
+Cirno3b:It's kinda funny to have nothing but stairs in front and behind.
+
+Luna6b:I am done with stairs! I just wanna sit down somewhere...
+
+<nomove>
+
+<hide=all>
+
+<Code=(cursor_jump,240,160,1)>
+
+Youmu0a:...So you made it this far.
+
+</hide>
+
+<pause>
+
+Marisa1a:Youmu!
+
+Youmu1a:I thought I told you that the next time we met, I would not stay my blade.
+
+Nitori3a:Didn't we fight alongside each other last summer, Youmu? Why are you starting an incident?!
+
+Youmu1a:Everything I've done has been under Lady Yuyuko's orders.
+
+Youmu1a:Leave behind your spring and go home peacefully. I promise it will be returned shortly.
+
+Daiyosei3b:It's no good, she's not listening!
+
+Marisa2b:We knew it'd come to this. We'll never hand over spring!
+
+Youmu1a:Very well, you leave me no choice!
+
+<pause>
+
+Nazrin0b:Looks like this won't be happening the easy way...
+
+Reimu0d:Big talk from someone who just needed to call for more lackeys.
+
+Youmu0a:It's common sense to use whatever methods it takes to achieve victory.
+
+Youmu1a:I will offer up your meager spring to my mistress!
+
+<end>
+
+<ChatID:2>---------------------------------------
+//妖夢と初戦闘
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Reimu1a:Alright, let's get on with this.
+
+Youmu0a:The last one standing can claim the rest of the spring as their own.
+
+Youmu1a:I won't hold back, even against you or your friends, Reimu. Please do me the courtesy of the same!
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Marisa0a:Alright, let's get this party started!
+
+Youmu0a:The last one standing can claim the rest of the spring as their own.
+
+Youmu1a:I won't hold back, even against you or your friends, Marisa. Please do me the courtesy of the same!
+
+</Cond>
+
+<end>
+
+<ChatID:3>---------------------------------------
+//妖夢通常撃破
+
+Marisa0a:Try that on for size!
+
+Youmu1a:I knew this wouldn't be so easy!
+
+Youmu3a:But just a little bit more and Lady Yuyuko's wish will be realized...
+
+Alice1a:By which you mean making that unblooming cherry tree, the Saigyou Ayakashi, bloom?
+
+Youmu2b:Wow, you figured it out? I'm impressed!
+
+Youmu0a:Yes. With just a bit more, the Saigyou Ayakashi will be in full bloom.
+
+Youmu0a:If I take the spring you carry, that should be enough to give it a final push.
+
+Minoriko2a:You're already that close to reviving it?!
+
+Alice1b:If you succeed, the power of death will be unleashed. The repercussions will be massive!
+
+Youmu2b:Wait, reviving? The power of death? What kind of nonsense are you talking about?
+
+Star4b:No way...
+
+Sanae1d:Youmu, do you really not know what the Saigyou Ayakashi is?!
+
+Youmu1a:Your petty trickery will never turn aside my blade!
+
+Youmu1a:This sword will cut through two hundred yojana in an instant!
+
+<end>
+
+<ChatID:4>---------------------------------------
+//妖夢スペル１撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Youmu2a:Nrgh!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Youmu2a:They got away...!
+
+</Cond>
+
+Marisa3a:What's wrong, Youmu? This can't be all you've got.
+
+Elliy3a:We've just got our engines warmed up!
+
+Youmu2a:So strong... You're certainly not foes I can treat lightly.
+
+Cirno1a:Course you can't! If you don't take us seriously, we'll knock you out ice-cold!
+
+Letty0a:Knocking someone out cold has nothing to do with low temperatures, you know.
+
+Youmu0a:These frivolous mid-battle conversations... It's just like back in summer.
+
+Youmu1a:However, that all ends here. I will not yield!
+
+<pause>
+
+Meiling1a:Her aura's growing?! But we're clearly pushing her back!
+
+Nazrin4a:Even at such a disadvantage, she still won't listen to reason. You weren't kidding about the tunnel vision.
+
+Youmu2a:My resolve is unwavering. My resolve is unwavering...
+
+Youmu1a:Now, come face me in battle! En garde!
+
+<end>
+
+<ChatID:5>---------------------------------------
+//妖夢スペル２撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Youmu2a:Ugh...! So you managed to break through even that technique...!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Youmu2a:To think that you could escape from that slash as well...
+
+</Cond>
+
+Sakuya0b:You've improved too. Your skill is incomparable to what it was before.
+
+Patchouli0c:But this time we're better.
+
+Sanae3b:Youmu, can we stop fighting already?
+
+Sanae0b:If you just stopped to listen to us, I'm sure you'd understand where we're coming from.
+
+Youmu2a:No. I cannot back down, nor take even a single step back.
+
+Youmu1a:We stand before the gate of Hakugyokuro. On my life, you shall not pass!
+
+Marisa3a:Sanae, she's not really the type you can talk down.
+
+Reimu1a:Yeah, we can save the talking for after we settle this!
+
+Youmu2a:There is nothing else. Everything I am is in this single moment, this single thought.
+
+Youmu1a:I will entrust everything to my blade... and cut my way through!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//妖夢スペル３撃破
+
+Youmu2a:Ngh!
+
+Letty0a:So, are you ready to behave yourself yet?
+
+Kurumi4a:We can go past now, right?
+
+Youmu2a:Ugh, I'm at my limit...
+
+Youmu1a:Yet I cannot afford to fall here!
+
+<pause>
+
+Momiji1a:Wha―?! She's going to stand up again in that condition?!
+
+Sho0b:Why would she go so far for this...?
+
+Youmu1a:Haaaaaaaa!
+
+<pause>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Keine)>
+
+Keine2a:Urgh!
+
+Mokou2a:Keine!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Alice) && (CHECK_FLAG,M29_ALICE,==,1)>
+
+Alice2a:Kyaaah!
+
+Marisa1a:Alice!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Alice) && (CHECK_FLAG,M29_ALICE,==,0)>
+
+Alice2a:Kyaaah!
+
+Shanghai0a:Shanghai!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Nitori) && (CHECK_FLAG,M29_NITORI,==,1)>
+
+Nitori2a:Waaah!
+
+Marisa1a:Nitori!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Nitori) && (CHECK_FLAG,M29_NITORI,==,0)>
+
+Nitori2a:Waaah!
+
+Hina1b:Nitori!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Rumia)>
+
+Rumia2b:Gwah!
+
+Daiyosei1a:Rumia!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Daiyosei)>
+
+Daiyosei2a:Eeek!
+
+Cirno1a:Dai!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Cirno)>
+
+Cirno2a:Gwaaah!
+
+Daiyosei1a:Cirno!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Sakuya)>
+
+Sakuya2a:Ngh!
+
+Meiling1a:Sakuya!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Meiling)>
+
+Meiling2a:Gaaah!
+
+Sakuya3a:Meiling!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Patchouli) && (CHECK_FLAG,M29_PATCHOULI,==,1)>
+
+Patchouli6c:Mukyu...
+
+Marisa1a:Patchouli!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Patchouli) && (CHECK_FLAG,M29_PATCHOULI,==,0)>
+
+Patchouli6c:Mukyu...
+
+Koakuma1a:Lady Patchouli!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Koakuma)>
+
+Koakuma2a:Eeek!
+
+Patchouli5a:Koakuma!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Elliy)>
+
+Elliy2a:Kyaaa!
+
+Kurumi6d:Elly!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Kurumi)>
+
+Kurumi4e:Eek, I'm being assaulted by a blade!
+
+Elliy1a:Kurumi!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Komachi)>
+
+Komachi2a:Ow, mother of... that caught me off-guard.
+
+Sakuya1a:Komachi!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Mokou)>
+
+Mokou2a:Kh...! Why you—!
+
+Keine1a:Mokou!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Sunny)>
+
+Sunny2a:Mugyu!
+
+Luna2a:Sunny!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Luna)>
+
+Luna2a:Gyaaah!
+
+Star2a:Luna!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Star)>
+
+Star2a:Uwaaah!
+
+Sunny1a:Star!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Faries)>
+
+Sunny2a:Yowch?!
+
+Alice1a:You three!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Minoriko)>
+
+Minoriko5a:Gerk!
+
+Shizuha3a:Minoriko!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Shizuha)>
+
+Shizuha5b:Gyaaah!
+
+Minoriko1b:Shizuha!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Hina)>
+
+Hina2a:Gyah!
+
+Nitori1b:Hina!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Sanae)>
+
+Sanae2a:Eeek!
+
+Momiji1a:Lady Kochiya!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Aya)>
+
+Aya2a:Ugh, let my guard down!
+
+Momiji1a:Aya!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Momiji)>
+
+Momiji2a:Gah, I was careless!
+
+Sanae1a:Miss Inubashiri!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Letty)>
+
+Letty2a:Nrgh!
+
+Cirno1a:Letty!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,LilyW)>
+
+LilyW2a:Ow...
+
+Shizuha3a:Lily!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Nazrin)>
+
+Nazrin2a:Crap, that caught me off-guard!
+
+Sho1b:Nazrin!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Sho)>
+
+Sho2a:Urgh!
+
+Nazrin2a:Master!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Reimu)>
+
+Reimu2a:Kyaaah!
+
+Marisa1a:Reimu!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Marisa)>
+
+Marisa2a:Why you—!
+
+Reimu1a:Marisa!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Remilia)>
+
+Remilia2a:Why you—!
+
+Sakuya1a:Mistress!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Flan)>
+
+Flan2a:Aaah!
+
+Meiling1a:Lady Flan!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Lunasa)>
+
+Lunasa2a:Ngh!
+
+Reimu1a:Lunasa!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Merlin)>
+
+Merlin2a:What the heeeeck!
+
+Sanae1a:Merlin!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Lyrica)>
+
+Lyrica2a:What the heck?!
+
+Marisa1a:Lyrica!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Ran)>
+
+Ran2a:Ngh!
+
+Sho1a:Ran!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Yukari)>
+
+Yukari2a:!
+
+Reimu1a:Yukari!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Yuyuko)>
+
+Yuyuko2a:Oh dear, oh dear...
+
+Sanae1a:Yuyuko!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Wriggle)>
+
+Wriggle2a:Uwaaah!
+
+Cirno1a:Wriggle!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Mystia)>
+
+Mystia2a:Aaah!
+
+Rumia0a:You okay, Mystia?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Tewi)>
+
+Tewi2a:Gah, too late to run!
+
+Daiyosei1a:Tewi!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Udonge)>
+
+Udonge2b:Wait, hold o―
+
+Keine1a:Reisen!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Eirin)>
+
+Eirin2a:A careless error!
+
+Keine1a:Eirin!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Kaguya)>
+
+Kaguya1a:Oh dear.
+
+Mokou0a:C'mon, eyes front, Kaguya!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Suika)>
+
+Suika2a:Oyoyoyo?!
+
+Reimu1a:Suika!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Yuka)>
+
+Yuka2a:...
+
+Elliy2a:Oh no, Yuuuka!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Medicine)>
+
+Medicine2a:Wawawa!
+
+Alice1a:Medi!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Eiki)>
+
+Eiki2a:Gah, this deserves punishment!
+
+Komachi0a:Man, picking a fight with the Yama?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Hatate)>
+
+Hatate2a:Hey!
+
+Momiji1a:Hatate!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Kanako)>
+
+Kanako2a:Nrgh!
+
+Sanae1a:Lady Kanako!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Suwako)>
+
+Suwako2a:Sheesh, why me?!
+
+Sanae1a:Lady Suwako!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Akyu)>
+
+Akyu2a:Gyah!
+
+Keine1a:Akyu!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Kisume)>
+
+Kisume2b:Wah!
+
+Daiyosei1a:Kisume!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Yamame)>
+
+Yamame0a:You hit me?!
+
+Nitori2a:Yamame!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Parsee)>
+
+Parsee2a:Why you—!
+
+Reimu0a:...
+
+Parsee2a:Why no reaction?! Someone worry about me!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Yugi)>
+
+Yugi2a:Whoa there!
+
+Aya0a:Are you unharmed, Yuugi?!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Satori)>
+
+Satori2a:Ngh!
+
+Marisa1a:Satori!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Orin)>
+
+Orin2a:Ow!
+
+Marisa1a:Orin!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Utsuho)>
+
+Utsuho2a:Nwah!
+
+Sanae1a:Okuu!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Koishi)>
+
+Koishi2a:Ouch!
+
+Marisa1a:Koishi!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Kogasa)>
+
+Kogasa2b:Wawawa!
+
+Sanae1a:Kogasa!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Ichirin)>
+
+Ichirin2a:Ngh!
+
+Unzan0a:!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Murasa)>
+
+Murasa2b:Ouch!
+
+Nazrin2a:Skipper!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Byakuren)>
+
+Byakuren2a:How careless of me...
+
+Sho1a:Hijiri!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Nue)>
+
+Nue2a:You little—!
+
+Sanae1a:Nue!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Tenshi)>
+
+Tenshi2c:Why you—!
+
+Keine1a:Tenshi!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Iku)>
+
+Iku2a:How could this happen?!
+
+Keine1a:Iku!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Yorihime)>
+
+Yorihime2a:Ngh!
+
+Reimu1a:Yorihime!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Toyohime)>
+
+Toyohime2b:Oh dear me...
+
+Marisa1a:Toyohime!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Reisen)>
+
+Reisen2a:Wawawa!
+
+LilyW0a:Miss Rabbit!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Mima)>
+
+Mima1a:Heh, not bad!
+
+Marisa1a:Lady Mima!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Yumeko)>
+
+Yumeko0a:...!
+
+Alice1a:Yumeko!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Shinki)>
+
+Shinki2a:Gyah!
+
+Alice1a:Mom!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Tensoku)>
+
+Tensoku0a:!
+
+Nitori2a:Ah, Hisoutensoku!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Meko)>
+
+Meko0b:Fwawawa!
+
+Makura2a:Mehko!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Makura)>
+
+Makura2a:Ngh!
+
+Meko0b:Lady Makura!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char2,char_code,==,Onamazu)>
+
+Onamazu1a:Tch!
+
+Meko0b:Catfish!
+
+</Cond>
+
+Meiling1a:She's going to keep fighting in that state?!
+
+Nitori2a:What do we do, Marisa? At this rate, it'll be a battle of attrition!
+
+Marisa2b:I guess it's kind of cool she's so tenacious? This is going too far though!
+
+<pause>
+
+<Code=(icon_set_direction,Marisa,Reimu,0)>
+
+Marisa1a:Hey, Reimu, let's get her together!
+
+Reimu0a:A combo attack with you?
+
+Marisa1a:Yeah. C'mon, there's no time to think it over!
+
+Marisa1a:I'll go first, you cover me!
+
+Reimu5c:Hmph. Cover you? Who do you think you're talking to?
+
+Reimu1a:I'll do whatever I want, and you can try to keep up!
+
+<pause>
+
+Youmu1a:Reimu! Marisa!
+
+Marisa1a:Youmu, we're ending this, right here, right now!
+
+Reimu0a:You can't stop us here!
+
+Reimu1a:We're going ahead, even if we have to go straight through you!
+
+<pause>
+
+Youmu2a:Urgh!
+
+Elliy1a:Was that a teamup attack between a shrine maiden and a magician?!
+
+Alice2b:Reimu... Marisa... did you just...?
+
+Marisa0a:Well, it was sink or swim there, so we pulled it off.
+
+Reimu0g:We don't really match up, but whatever.
+
+Keine0a:Red-white and black-white combined into tri-colored danmaku... A coordinated attack so splendid I can hardly believe it was off-the-cuff!
+
+Aya0a:Almost like the dance of a three-colored butterfly...
+
+Marisa1a:I call it the Trichromatic Lotus Butterfly!
+
+Sanae1a:So is Youmu really down this time?
+
+<pause>
+
+Youmu2a:I've failed you, Lady Yuyuko...
+
+Meiling1a:That settles it, we won!
+
+<end>
+
+<ChatID:7>----------------------------------------
+//ADVB
+
+<MAP=10,FROM=白玉楼への階段,TO=白玉楼への階段,name=Netherworld,icon=0>
+
+<BG=*bg_talk_Meikai.png,fade=0,color=1,title=*bg_Meikai,bgm=bgm_talk_kagaku>
+
+Youmu2a:Ow...
+
+Youmu2a:Forgive me, Lady Yuyuko. I was unable to carry out my duty...
+
+Keine1a:Youmu, are you okay?!
+
+Alice4a:That's what she gets for pushing herself so hard. We can talk while we treat her wounds. 
+
+Koakuma0a:I have the first aid kit.
+
+Youmu3a:Ugh... and now, to depend upon the mercy of those who defeated me...
+
+Aya0a:Just settle down already. It's not like we beat you up for no reason.
+
+Momiji0a:So do you really have no idea what the true nature of that dead cherry tree—the Saigyou Ayakashi—truly is? 
+
+Youmu2b:Its... true nature?
+
+Sakuya5b:It seems you've given not a moment's thought to this while trying to make it bloom...
+
+Sakuya5a:But that's no ordinary tree. It's a sealed youkai cherry tree. 
+
+Youmu2b:It's a youkai? 
+
+Nitori2a:Looks like she really didn't know, Keine. 
+
+Keine2a:Yes, she's been an unknowing accomplice to this incident. 
+
+Patchouli0b:The Saigyou Ayakashi is a youkai cherry tree of the most horrid kind. Those who view it are called to their deaths.
+
+Patchouli0a:If it reaches full bloom, the seal will be broken and its deadly powers released.
+
+Youmu2b:How could that be?! Lady Yuyuko never mentioned anything like that! 
+
+Komachi4b:Could be that she doesn't know herself.
+
+Komachi0b:Either way though, if the tree is revived, then even she could be in danger.
+
+Youmu2b:...!
+
+Letty0a:And so the spring you were so desperate to gather will only endanger your master. 
+
+Shizuha0a:We know you thought you were doing something good for her, but it's really the opposite.
+
+Youmu3a:How could this happen... How could I...
+
+Sho0a:You were doing what you thought right. Don't be disheartened. 
+
+Youmu3a:...
+
+Alice0b:There's more I want to ask, but let's leave it at this for now. 
+
+Sanae3b:Yes, I'm sure Youmu is still grappling with what we told her. 
+
+Youmu3a:...
+
+Youmu0a:Wait. Please allow me to aid you. 
+
+Nitori2a:Huh?
+
+Elliy1b:You want to help? But we might get in a fight with your mistress. 
+
+Youmu2a:I'm aware of that possibility. However, I cannot remain here.
+
+Youmu0a:Even as we speak, danger approaches Lady Yuyuko.
+
+Youmu1a:This is no time to shy away from the results of my own actions!
+
+Nazrin0b:...Well, you heard her. Can we trust her? 
+
+Keine0a:After such a long fight, I see no reason to doubt her. 
+
+Shizuha0b:Okay, let me ask you this. Why did you and your mistress start this incident? 
+
+Youmu0a:It started as a whim. She felt like making the tree in our garden finally bloom. 
+
+Letty0a:A whim? You messed with the flow of the seasons on a mere whim?!
+
+Youmu3a:Well, that's what it seemed like to me. Even I can't understand what Lady Yuyuko is thinking most of the time.
+
+Youmu0a:I've seen her lost in thought at times, gazing at the tree, and I've never been sure why.
+
+Shizuha4a:So, she might be trying to use the Saigyou Ayakashi's power for something?
+
+Youmu3a:I don't know. But she certainly wouldn't abuse its power over death.
+
+Youmu0a:After all, she already has the power to manipulate death. And I don't believe she's ever misused it.
+
+Luna6a:She has the power to call people to their deaths?!
+
+Kurumi6a:What the heck, that's super scary! She doesn't even need the Saigyou Ayakashi! 
+
+Minoriko4a:But that just makes her motivations all the more mysterious. 
+
+Marisa0b:We'll just have to ask her in person. 
+
+Mokou3c:A death-invoking tree, and a death-invoking dead lady. What better way to wrap this up? 
+
+Letty0a:We'll finally be meeting the real mastermind face to face. 
+
+Sakuya5b:This has taken up the whole day. The mistress must be getting impatient. 
+
+Patchouli4a:I just want to finish up here and relax with a warm cup of tea.
+
+Sanae0a:Everyone sounds pretty relaxed for a life-or-death situation... 
+
+Aya0a:Are you nervous, Sanae? You seem a little tense. 
+
+Momiji4a:Don't worry, we'll make sure you get home to Youkai Mountain safely.
+
+Sanae0a:O-Okay! Thank you very much, Miss Shameimaru, Miss Inubashiri. 
+
+Keine1a:Is everyone ready?
+
+Letty1a:To welcome in the proper season, 
+
+Hina1a:To save the humans who are suffering,
+
+LilyW0a:And for all life in Gensokyo waiting for spring! 
+
+Marisa1a:We're definitely stopping them! The ruler of the Netherworld, Yuyuko Saigyouji... 
+
+Reimu1a:And the revival of the youkai cherry tree, the Saigyou Ayakashi! 
+
+<end>
+
+<ChatID:8>----------------------------------------
+//妖夢vs.霊夢
+
+Youmu1a:I told you earlier, Reimu. I won't hold back, even against you!
+
+Reimu0a:Yeah? Well, no complaints here.
+
+Reimu1a:If someone gets in my way, I'll beat them up and move on, no matter who they are!
+
+Youmu1a:Very well. Then without further ado, allow me face you in earnest!
+
+<end>
+
+<ChatID:9>----------------------------------------
+//妖夢vs.魔理沙
+
+Marisa0b:I pegged you as pretty strait-laced last summer.
+
+Marisa0a:Never thought you had it in you to do something like steal spring.
+
+Youmu0a:If Lady Yuyuko wills it, I would turn my blade on even you, Marisa.
+
+Youmu1a:The gardener of Hakugyokuro asks you to face her in battle, fair and square!
+
+Marisa1a:Don't expect me to pull any punches either!
+
+<end>
+
+<ChatID:10>----------------------------------------
+//妖夢vs.慧音
+
+Keine0b:I'd ask you to hear me out, but I suppose it would be useless.
+
+Youmu1a:My duty requires that I must fight you all.
+
+Youmu1a:I will show no mercy, Keine. Not even to you.
+
+Keine1a:I'm ready for that. I'll stop that sword of yours right in its tracks!
+
+<end>
+
+<ChatID:11>----------------------------------------
+//妖夢vs.アリス
+
+Alice0b:And as usual, this turned into another fight.
+
+Youmu0a:You are all my enemies. Please do not even think about trying to persuade me.
+
+Alice0d:Well of course I thought about it, but you're far too stubborn.
+
+Alice0a:I knew this battle was inevitable.
+
+<end>
+
+<ChatID:12>----------------------------------------
+//妖夢vs.にとり
+
+Nitori2a:I don't want to fight with you, Youmu, but...
+
+Youmu0a:Yet I'm sure you've already thought long and hard about this, Nitori, and come to the same conclusion I have.
+
+Nitori3c:Sure, but I definitely don't want to let anything happen that I'd regret.
+
+Nitori1b:Let's see just how serious you are about this, Youmu!
+
+<end>
+
+<ChatID:13>----------------------------------------
+//妖夢vs.ルーミア
+
+Rumia0a:I wonder if you'll be able to hit me with that sword when you're surrounded in darkness!
+
+Youmu0a:...You said that the first time we met, too.
+
+Youmu1a:You can hide your form, but your presence will still leak out.
+
+Rumia5a:So then in the deepest corners of the darkness, you can feel my presence...
+
+<end>
+
+<ChatID:14>----------------------------------------
+//妖夢vs.大妖精
+
+Daiyosei2a:Youmu, please listen to us!
+
+Youmu1a:Daiyousei, it's dangerous for you to take the front.
+
+Daiyosei3b:I know, but everyone else is giving it their best, so...
+
+Youmu1a:...I must cut my way through, even against an opponent like you!
+
+<end>
+
+<ChatID:15>----------------------------------------
+//妖夢vs.チルノ
+
+Youmu0a:Again, you aid Reimu's group.
+
+Cirno5b:Well, duh. I'm the strongest! They'd be a mess without me around!
+
+Youmu0a:Having people like you on their team must be very reassuring. 
+
+Youmu1a:But this is no place for a mere fairy!
+
+<end>
+
+<ChatID:16>----------------------------------------
+//妖夢vs.咲夜さん
+
+Sakuya0a:In the summer, you were one of the invaders. But now our positions have switched.
+
+Youmu0a:You were very fierce back then, but you seem composed now.
+
+Sakuya5b:If you ask me, I've changed ever so slightly for the better since back then.
+
+Sakuya6a:Perhaps you could also use some time flat on the ground. It might bring you back to your senses.
+
+Youmu1a:Try it if you can!
+
+<end>
+
+<ChatID:17>----------------------------------------
+//妖夢vs.美鈴
+
+Meiling6a:You leave fewer openings than you used to... Your training is paying off.
+
+Youmu0a:When I have something I must protect, I can't afford to let myself stay weak.
+
+Youmu1a:Let's see if I can slash through the Guard of the Scarlet Devil Manor a second time!
+
+Meiling1a:Right back at you―Let's see if you can!
+
+<end>
+
+<ChatID:18>----------------------------------------
+//妖夢vs.パチュリー
+
+Youmu0a:I would have figured you'd never leave the mansion.
+
+Patchouli4d:I can't curl up and relax with a book when the temperature is so low.
+
+Patchouli4b:And when I try to turn on the heat, Sakuya gripes about how we should be conserving fuel. She doesn't complain when Remi does it...
+
+Youmu3a:Just keep conserving and waiting, and I'll return spring soon.
+
+Patchouli6d:Let me tell you two things I hate: noisy people and needing to show restraint.
+
+<end>
+
+<ChatID:19>----------------------------------------
+//妖夢vs.小悪魔
+
+Youmu0a:Even you're here with Reimu, Koakuma?
+
+Koakuma0a:I can't let you near Lady Patchouli when you're acting like this.
+
+Koakuma1a:I hope my danmaku can slow you down at least a little!
+
+<end>
+
+<ChatID:20>----------------------------------------
+//妖夢vs.エリー
+
+Elliy2a:Wait, wait, why do you feel way different from the last time we fought?!
+
+Youmu0a:I keep up with my sword training, and so of course I wouldn't remain stagnant.
+
+Youmu1a:My blade is more deft now than it was then. Can you withstand it?
+
+Elliy1a:That kinda puts me on the spot... But yeah, I think I can. With vigor and grit!
+
+<end>
+
+<ChatID:21>----------------------------------------
+//妖夢vs.くるみ
+
+Kurumi2a:Eek, I'm being assaulted by a blade!
+
+Youmu2b:Assaulted? You really don't like swords, do you?
+
+Kurumi4c:No, I can't even handle kitchen cutlery. I'm okay with safety scissors though.
+
+Kurumi3d:Also that means all I can do for cooking is throwing veggies in a pot.
+
+Youmu3a:So you're kind of a one-trick pony.
+
+<end>
+
+<ChatID:22>----------------------------------------
+//妖夢vs.小町
+
+Komachi0a:I never knew that the ghost princess had a servant like you around.
+
+Youmu2b:You've met Lady Yuyuko, then?
+
+Komachi1c:A while ago, while on the job. And only once or twice.
+
+Komachi4a:As someone else who works with the cycle of reincarnation, I have to see this settled.
+
+Youmu1a:So you say, but don't think I'll just let you get by me!
+
+<end>
+
+<ChatID:23>----------------------------------------
+//妖夢vs.妹紅
+
+Mokou3a:I don't get all sappy like the others here. I'll settle this, one way or another.
+
+Youmu1a:Train before you talk! Your posture is sloppy and full of openings!
+
+Mokou1a:You think so? Come get a piece, then.
+
+<end>
+
+<ChatID:24>----------------------------------------
+//妖夢vs.サニー
+
+Sunny4a:Y'know, this is the first time we've fought you, Youmu.
+
+Youmu0a:That's true, actually. When was the last time we met?
+
+Star3d:I think it was when Kurumi was scavenging for food.
+
+Luna3c:No, it was when we went off on an adventure to Alice's house.
+
+Youmu3a:I don't remember either of those things. Was I even invited?
+
+<end>
+
+<ChatID:25>----------------------------------------
+//妖夢vs.ルナ
+
+<end>
+
+Youmu0a:Luna
+
+<end>
+
+<ChatID:26>----------------------------------------
+//妖夢vs.スター
+
+<end>
+
+Youmu0a:Star
+
+<end>
+
+<ChatID:27>----------------------------------------
+//妖夢vs.穣子
+
+Minoriko4a:I hate violence. Just let us through already.
+
+Youmu0a:I drew my sword precisely because I can't let you do that.
+
+Youmu1a:You may be unarmed, but I will show no hesitation to strike.
+
+Minoriko1a:Bring it on, then! The divine power of the harvest gives at least as good as it gets!
+
+<end>
+
+<ChatID:28>----------------------------------------
+//妖夢vs.静葉
+
+Youmu1a:Not another step closer!
+
+Shizuha4a:Why are you so stubborn? Do you even realize how dangerous it is to disturb the cycle of the seasons?
+
+Youmu3a:This isn't like that. Spring will be returned once we've―
+
+Shizuha3a:Don't talk about this like you came over and asked to borrow somebody's pen!
+
+<end>
+
+<ChatID:29>----------------------------------------
+//妖夢vs.雛
+
+Hina0b:To think a blade as clear of purpose as yours would be wielded to revive the Saigyou Ayakashi...
+
+Hina4b:I don't get it. Why would someone like you get involved with that cherry tree?
+
+Youmu3a:I don't know what you're trying to imply.
+
+Hina1b:...Yes, talking has no point at the moment. We'll have to end the battle first.
+
+<end>
+
+<ChatID:30>----------------------------------------
+//妖夢vs.早苗さん
+
+Sanae1a:Didn't we work together last summer, Youmu?! Why are you starting an incident?!
+
+Youmu0a:I will gather the spring and cause the unblooming cherry tree to bloom. That is the duty I was entrusted with.
+
+Youmu1a:I have no interest in fighting for justice.
+
+Sanae2a:*sigh* It looks like she's not going to listen to me...
+
+Sanae5b:Is it my fault that we're not getting through to each other?
+
+<end>
+
+<ChatID:31>----------------------------------------
+//妖夢vs.文
+
+Aya0a:This is the first time I've been to the Netherworld, so I'd better make sure I get an interview...
+
+Youmu0a:What a distasteful intruder. I will leave that camera of yours in pieces.
+
+Aya1a:Don't write checks you can't cash. When Gensokyo's fastest takes flight, I'll disappear right before your―
+
+Youmu1a:I can still see you. When you've sharpened your mind, speed is but an illusion. To me, it's like you're standing still!
+
+Aya3a:So you've reached a deepest levels of swordsmanship? I really need to get an interview with you now.
+
+<end>
+
+<ChatID:32>----------------------------------------
+//妖夢vs.椛
+
+Momiji5a:This is the third time we've fought...
+
+Momiji0a:Let's settle this once and for all already.
+
+Youmu0a:I didn't think you were the type to bring personal feelings into a fight.
+
+Momiji0a:When I cross swords with someone, I automatically begin to think about them. Surely you're the same?
+
+Momiji1a:There is no greater blessing than an opponent to test yourself on!
+
+<end>
+
+<ChatID:33>----------------------------------------
+//妖夢vs.レティ
+
+Letty0a:You were complicit this incident without so much as a thought. How foolish can you be?
+
+Youmu2a:This cold wave...! Why would a youkai who controls the cold ally with them?
+
+Letty0a:The winter knows why. You've twisted and distorted it.
+
+Letty1b:If you can't see that for yourself, then I'll fight to make you see it.
+
+<end>
+
+<ChatID:34>----------------------------------------
+//妖夢vs.リリー
+
+LilyW2a:Stop gathering spring already!
+
+Youmu2b:Whoa there! If you suddenly step forward like that, you'll get yourself hurt.
+
+Youmu0a:We'll return it when we're done, so please wait just a bit longer.
+
+LilyW0b:I can't. All of Gensokyo's sleeping life... Everyone is waiting for spring!
+
+LilyW0a:So please, give back all of the spring you gathered!
+
+<end>
+
+<ChatID:35>----------------------------------------
+//妖夢vs.ナズーリン
+
+Youmu1a:Another unfamiliar face. But no matter how great the numbers you throw at me, I will not lose!
+
+Nazrin0a:Refusing to back down, even in a situation like this? I suppose that's another way of showing loyalty to your master.
+
+Youmu0a:You think this is the time to chat? If you show an opening, I'll cut you down.
+
+Nazrin4b:Right back at ya. Personally, I think just attacking me would have been a better strategy than offering advice to your enemy.
+
+Nazrin3b:You're just like they said: real earnest. You kinda remind me a bit of my master, actually.
+
+<end>
+
+<ChatID:36>----------------------------------------
+//妖夢vs.星
+
+Sho0b:So you took up your sword to fight for on behalf of your master?
+
+Youmu0a:Of course. I'd fight to the bitter end to fulfill Lady Yuyuko's wishes.
+
+Sho4b:Wielding your sword for the person at your side... Were that I could have done that.
+
+Sho1b:Nonetheless, for plunging Gensokyo into endless winter, you and your master are in the wrong!
+
+<end>
+
+<ChatID:37>----------------------------------------
+//全滅時
+
+Youmu1a:Victory is mine. I'll be taking your spring now!
+
+<Cond=(FIND_UNIT,Reimu,player,==,-1) && (FIND_UNIT,Marisa,player,!=,-1)>
+
+Reimu2a:Kh...! Not here!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Reimu,player,!=,-1) && (FIND_UNIT,Marisa,player,==,-1)>
+
+Marisa2a:Kh...! Not here!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Reimu,player,==,-1) && (FIND_UNIT,Marisa,player,==,-1)>
+
+Reimu2a:Kh...! Not here!
+
+Marisa2a:We got beaten as a pair?!
+
+</Cond>
+
+<end>
+
+<ChatID:38>----------------------------------------
+//EX条件クリア（ver.2.7.9追加）
+
+Youmu1a:You're quick!
+
+Marisa1a:You think you can stop us with piddly danmaku like that?!
+
+Reimu1a:I hope you're ready for this, Youmu!
+
+<end>
+
+<ChatID:39>----------------------------------------
+//妖夢vs.メーコ
+
+Meko1f:Return the spring, Youmu!
+
+Meko1c:At this rate, we'll run out of food and everyone's tummies will be rumbling!
+
+Youmu1a:I don't know who you are, but rest assured that it will be returned as soon as we've completed our objective!
+
+Meko0g:But actually, that's not the only thing...
+
+Meko1d:Fine, whatever! I'll stop you with danmaku!
+
+<end>
+
+<ChatID:40>----------------------------------------
+//妖夢vs.まくら
+
+Makura0g:So you'd cross swords even with old friends, for the sake of your master.
+
+Youmu1a:My duty is to protect Lady Yuyuko! That takes priority over everything else!
+
+Makura1c:That lack of hesitation is surely your greatest strength.
+
+Makura1a:However, this incident is far too dangerous. We SHALL pass.
+
+<end>
+
+<ChatID:41>----------------------------------------
+//妖夢vs.妖夢
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Youmu1b:It's a strange feeling, facing off against my former self.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Youmu2b:Who are you?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Youmu3b:Nothing I say will get through to me, as I was back then. I know that all too well.
+
+Youmu1c:Which is why I must stop you! And make you realize your mistakes!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Youmu1a:What are you saying, scoundrel?! I'll show no mercy to any who stand in my way!
+
+</nomove>
+
+<end>
+
+<ChatID:42>----------------------------------------
+//妖夢vs.幽々子
+
+Yuyuko1b:I can sense the presence of that cherry tree.
+
+Youmu0c:So you're here, Lady Yuyuko?
+
+Youmu1b:Worry not, I won't let anyone stop me.
+
+Yuyuko1a:Good, I'm counting on you. If that tree doesn't bloom, then I won't get to see what'll happen next.
+
+Youmu2b:I... see?
+
+Yuyuko3a:But are you sure you can manage it? I should give you a little test.
+
+<end>
+
+<ChatID:43>----------------------------------------
+//妖夢vs.紫
+
+Youmu0c:Lady Yukari! I see you've returned.
+
+Youmu4c:Lady Yuyuko has been quite bored, so I'm sure she'll appreciate the visit.
+
+Yukari2a:Bored, is she? Is that why she's gathering spring of all things, to make that cherry tree bloom?
+
+Youmu0b:You're familiar with the Saigyou Ayakashi then?
+
+Yukari4a:More than you or Yuyuko, I'm afraid.
+
+Youmu0d:In that case, would you like to go see it together?
+
+Youmu4c:With all the spring I've brought, surely it will reach full bloom.
+
+Yukari4b:...
+
+Youmu2b:Lady Yukari?
+
+Yukari4a:What a loathsome tree. I'd hoped to never see it again.
+
+Yukari2c:At the very least, I'll be recovering that meager spring you possess.
+
+Youmu2b:You're going to get in my way...?!
+
+<end>

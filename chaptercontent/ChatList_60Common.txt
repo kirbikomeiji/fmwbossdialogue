@@ -1,0 +1,1491 @@
+﻿○共通第六十話「イノセント・ポイズン
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: 1EP
+ 4: 2PP (unused)
+ 5: first battle vs. Medicine
+ 6: first battle vs. Yuka
+ 7: beat Yuka (first time)
+ 8: beat Yuka (thereafter)
+ 9: 6EP (Yuka starts using Teppeki)
+10: Medicine spell 1 start
+11: Medicine spell 2 start
+12: clear
+13: ADVB
+14: pursuade (Elliy)(unused)
+15: pursuade (Kurumi)(unused)
+16: lose
+17-34: battle vs. Medicine (including extras)
+35-52: battle vs. Yuka
+53: Hit Alice(unused)
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=11,FROM=鈴蘭畑,TO=鈴蘭畑,name=Suzuran Field,icon=5>
+
+<BG=*bg_talk_Suzuran.png,fade=1,color=1,title=*bg_Suzuran,bgm=bgm_talk_ningyo>
+
+<hide=name>
+
+Medicine3b:...You're really blooming today too, aren't you Sue?
+
+Medicine3c:Maybe that's why I'm in such good form.
+
+Medicine1a:If you stay in full bloom forever, then I'm sure my power will too...
+
+</hide>
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+<hide=all>
+
+Yuka3c:Heh. A flower that blooms forever is no flower at all.
+
+</hide>
+
+<hide=name>
+
+Medicine5a:Oh, that voice...
+
+</hide>
+
+Yuka0d:It's been a while, Medicine.
+
+Medicine3c:You came to see me, Yuuka.
+
+Yuka1b:It seems the suzurans here are blooming one step ahead of the rest.
+
+Yuka3f:I wonder if their poison has matured your power any?
+
+Medicine3b:Of course it has. I'm not the same as I was when we first met.
+
+Yuka0d:Good to hear. I see you're still as tiny as ever though.
+
+Medicine1b:Don't call me tiny! You always tease me like that...
+
+Medicine0a:Anyway, Yuuka, I've been talking about this with Sue.
+
+Medicine0b:I was thinking about leaving the flower field soon.
+
+Yuka3a:Oh? At long last?
+
+Medicine0a:With Sue in bloom like this, I'm sure I can finish off the humans.
+
+Medicine1a:And then I can free the suffering dolls.
+
+Yuka5a:Free the dolls, huh...? That's the only thing you've talked about since we met.
+
+Yuka0a:Don't you have anything else you want to do, Medi?
+
+Medicine4a:Nope. That's all I ever think about, day and night.
+
+Yuka1b:So you're saying that's your entire world?
+
+Medicine0d:Anyway, since you're here let's practice danmaku together.
+
+Medicine0a:You're the only person I ever see other than Sue.
+
+Yuka0d:Okay, okay. Always in such a hurry, little one.
+
+<MAP=11,FROM=鈴蘭畑まで1,TO=鈴蘭畑まで1,name=Animal Trail,icon=5>
+
+<BG=*bg_talk_Road_Spring.png,fade=1,color=1,title=*bg_Road,bgm=bgm_talk_aoki>
+
+<SE=se_talk_run.ogg,wait=1>
+
+Flan3i:This way, everyone!
+
+Meiling0c:Don't get too far ahead, Lady Flan!
+
+Tewi3c:Never seen a vampire so excited at high noon before.
+
+Lyrica0b:Actually, are you okay with letting her out of your sight, Remilia?
+
+Remilia3a:It's fine. I couldn't get rid of her even if I wanted to.
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+Flan0f:C'mon, Remi! You were supposed to chase me!
+
+Remilia3d:...See?
+
+Udonge4d:I see, you've gotten skilled at handling her.
+
+Elliy5a:Still, I never thought the day would come when FLAN was leading the way.
+
+Patchouli3a:We've been on walks here countless times. She should know the way.
+
+Meiling5a:Hardly anyone ever comes here, so it's a good place to get her used to being outside.
+
+Kurumi3c:Now that you mention it, I don't think I've seen anyone else the whole time.
+
+Hina0c:The Nameless Hill is a place that's easily forgotten, even for Gensokyo.
+
+Hina0a:And it's not just humans. Youkai rarely come here either.
+
+Elliy3a:That's weird. What's up with that?
+
+Lunasa0b:Well you see, souls who've lost their bodies had come to rest here before the hill was even given a name.
+
+Lunasa0a:It's just an old story, but it's true that there are plenty of ghosts here, so you'd best be careful.
+
+Merlin2b:If you bring a doll here, it might even suddenly start growing!
+
+Alice3b:Thanks for the warning. You be careful, Shanghai.
+
+Shanghai0a:Shanghai!
+
+Udonge4d:...Now that you mention it, I've been thinking this for a while Alice, but your dolls sure have some cute clothes.
+
+Udonge0a:Did you actually sew them all yourself?
+
+Lyrica3c:What, are you saying you want to try them on yourself or something, Reisen?
+
+Eirin3c:Ah, interesting. So you don't like having worn the same uniform since you came to Earth.
+
+Udonge2b:N-No! I was just thinking that since they're weapons used in combat maybe they've got some strange enchantments or something.
+
+Alice0a:Weapons... Hm. I've never once thought of them like that.
+
+Alice3b:I consider both Shanghai and Hourai as precious friends.
+
+Hina3a:I for one think it's good to treasure the things you've made yourself.
+
+Alice0d:Is it? It just seems normal to me; I've never really given it a second thought.
+
+Elliy1a:Grah, it sounds like you're trying to show off your good breeding, but I won't have it!
+
+Flan0f:But still, you have to make sure to tell them they're loved.
+
+Flan3b:Shanghai, you're having fun, right?
+
+Shanghai0a:Shanghai!
+
+Meiling0a:Heey! If you girls don't stop chatting we won't get there until nightfall!
+
+Remilia0e:It's only a bit further to the Nameless Hill.
+
+Kaguya5b:What?! More walking?! I've had about enough of this.
+
+Sakuya0a:This wouldn't be much of a search for Koishi if we just flew over everything. Try to bear it.
+
+Kaguya3b:Then I'll ride, thank you very much. Inaba, where's the cart?
+
+Patchouli4a:Or if we don't have a cart, a basket would be fine too.
+
+Koakuma4a:Geez, stop being so lazy and get some exercise!
+
+<MAP=11,FROM=鈴蘭畑まで1,TO=鈴蘭畑,name=Suzuran Field,icon=5>
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP（出撃前）
+
+Medicine5d:*huff* *huff* *wheeze*
+
+Yuka0d:What's wrong? Out of breath already?
+
+Medicine5b:I-I'm good! I just got a little too into it there.
+
+Yuka3a:You've released too much poison, Medi. Not only does that needlessly exhaust yourself, it also hurts the nearby flowers.
+
+Medicine0c:So? I don't care about anything but Sue.
+
+Yuka1b:Good grief, and you were planning to leave the suzuran field like this?
+
+Yuka5a:...? I know this presence...
+
+<Code=(icon_set_direction,All_en,FD_RIGHT,0)>
+
+<pause>
+
+Flan3i:And we're here! Close enough anyway!
+
+Koakuma3b:Is this a flower field? I never noticed it when we were here before.
+
+Meiling0a:Isn't it a bit early in the season for suzurans to be blooming?
+
+Medicine2a:Someone's coming from over there!
+
+Yuka0c:So I see. I wonder what brings them to a place like this?
+
+Kurumi3b:Ah! Yuuka spotted with an unknown youkai!
+
+Elliy3b:Yuuka! Heeey!
+
+Medicine2b:Wh-What?! You know them, Yuuka?
+
+Yuka0d:More or less. This is the first time you've met any youkai other than me, is it not?
+
+Alice0a:It's been a while, Yuuka. Never thought we'd run into each other in a place like this.
+
+Elliy0a:I don't mind you going touring around looking at flowers, but could you please contact us now and then?
+
+Elliy4a:It's been crazy while you were gone, Yuuka. Shiro went and made a big mess.
+
+Yuka2d:Oh, really? The kedama?
+
+Kaguya0a:No need to dance around the truth by calling her a kedama.
+
+Kaguya2c:We know she's a sheep youkai now.
+
+Eirin1d:Mehko, servant of the youkai who controls dreams Makura Muwatari. Now don't say you're unfamiliar with that name.
+
+Yuka0d:Well now, I may have a vague recollection.
+
+Patchouli4c:Then tell us what you know. I'm tired of this game you're playing.
+
+Yuka5a:I take it you're planning to pick a fight?
+
+Yuka3a:I'll simply be watching from the sidelines, waiting eagerly for the results.
+
+Remilia1e:So you're still not helping us.
+
+Yuka0d:When you find an unfamiliar plant, don't you just have to see what it will grow into?
+
+Yuka0a:Will it bloom into a flower? Can it coexist with the surrounding plants?
+
+Lunasa0b:So you're not going to answer us, but it sounds you have SOME kind of conviction anyway.
+
+Sakuya5b:Then I fear we may need to rely on brute force to get her to talk.
+
+Medicine5a:W-Wait, please! You're going to fight here?!
+
+Lyrica0a:Oh yeah, this is the first time we've seen this little shrimp, isn't it?
+
+Medicine1b:You're the shrimp! I'm Medicine Melancholy!
+
+Medicine0c:If you're going to bully Sue, then I won't let you!
+
+Udonge4d:Huh? Who's Sue?
+
+Medicine1c:She's right in front of you. All these suzurans.
+
+Medicine0c:You say you're going to fight Yuuka, but you're really here to to destroy this place, aren't you?
+
+Hina0c:What are you talking about? We just want to ask Yuuka Kazami some questions.
+
+Medicine5e:Hmph! I won't fall for that.
+
+Medicine1a:Oh, I know Yuuka! If I can beat these outsiders, I'll feel confident enough to go outside!
+
+Yuka0d:By all means, do what you please.
+
+Nitori2a:So not even you're gonna stop this, Yuuka? Not that I expected you to...
+
+Eirin0d:Either way, it seems the time for dialogue has passed. We accept your challenge.
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP（出撃後）
+
+Kurumi2a:Eeek! I can't believe we're fighting Yuuka!
+
+Elliy4b:But we can't exactly betray our comrades either... Darned human decency!
+
+Elliy1a:Oh, I know, let's show Yuuka the power of our burning friendships!
+
+Kurumi3b:Yeah, that's the spirit!
+
+Udonge3a:...Is it really a good thing to get so fired up about fighting your boss?
+
+Meiling5a:Looks like they're completely used to being on our side, at least.
+
+Tewi0b:That's all well and good, but who's this Medicine kid anyway? Even I've never seen her before.
+
+Yuka0a:That's no surprise. She's lived her entire life in this field, never once leaving.
+
+Flan0f:Her entire life?
+
+Yuka2d:Yes. And before that, she was just a doll.
+
+Alice0a:A doll youkai then? And one who's never been outside at that...
+
+Lunasa0a:You can't tell a youkai's power from their age. Be careful!
+
+<end>
+
+<ChatID:3>---------------------------------------
+//1EP
+
+Alice0a:So what kind of youkai is she... No, this isn't the time to be wondering that.
+
+Alice0d:For now, prepare yourself for danmaku, Shanghai.
+
+Shanghai0a:Shanghai!
+
+Medicine2a:A doll?! And you're controlling it!
+
+Medicine0b:Are you a puppeteer...?
+
+Alice0d:That's right. I'm sure you've never seen it, but outside there are—
+
+Medicine1b:Bleh! I'll never forgive puppeteers!
+
+Alice2c:What...?
+
+Medicine1c:You all just use dolls however you like and throw us away when you're done!
+
+Medicine1b:I'll beat you all and free the dolls!
+
+Alice2b:What are you talking about? I've done nothing of the sort...
+
+Hina0c:And what's this about freeing dolls?
+
+Nitori2a:We can talk later, you two! She's getting serious!
+
+Patchouli0c:She's completely focused on Alice. Let's all support her.
+
+<end>
+
+<ChatID:4>---------------------------------------
+//2PP（念のため）（没）
+
+<end>
+
+<ChatID:5>---------------------------------------
+//メディ初戦闘
+
+Medicine1a:Okay, Sue. Let's take them all out!
+
+Udonge4c:Are these flowers really that important? You even gave them a name.
+
+Elliy1a:Hey?! What if Yuuka heard that?! She'd twist you in half!
+
+Eirin1b:Save the idle talk for later. That doll is surrounded by highly concentrated poisons.
+
+Eirin1b:If you touch her carelessly, I can't guarantee even a youkai would suvive.
+
+Tewi2c:P-Poison?! Why would she be...?
+
+Medicine0a:Sue gave me poison, so now I can use it however I want.
+
+Medicine3b:I can take all of you out, easy-peasy!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//幽香初戦闘
+
+Eirin1d:We finally caught you... Or so I'd say, but it seems you have no intention of fleeing.
+
+Kaguya1a:And here I was sure you'd be scurrying away like that sheep.
+
+Yuka0b:And why would you think that? There's no reason for us to play cat and mouse.
+
+Yuka0c:More importantly, I'd like to observe Medicine's condition just a bit longer.
+
+Sakuya1c:Go ahead, but once we win you'll tell us everything you know about the mastermind.
+
+Yuka4c:Hmm, I'd prefer not to start the play without all the actors present.
+
+Remilia1e:Regardless, it's our first good chance to test our skills in a while.
+
+Remilia1a:We haven't fought in forever, so try to make this fun!
+
+<end>
+
+<ChatID:7>---------------------------------------
+//一定ターン以内に幽香のHPを一定値以下にする（一回目）
+
+<Cond=(LOCAL_ARR,Char1,current_HP,0,<=,0)>
+
+Yuka0a:Not bad at all. You might even be able to keep up with my full power.
+
+Flan0a:Tee hee hee, you feel like getting serious now?
+
+Yuka0b:I won't fall for your provocations. Going all out here would merely injure the flowers.
+
+</Cond>
+
+<Cond=(LOCAL_ARR,Char1,current_HP,0,>,0)>
+
+Yuka0b:You're putting in a great deal of effort, considering I already told you I wasn't sharing anything.
+
+Patchouli4f:So you expect us to take your word for it? "Okay, you can go now"?
+
+Yuka0f:...If we continue fighting, the flowers will be injured.
+
+</Cond>
+
+Yuka0d:I've played with you enough for today. I think I'll go get some rest.
+
+<pause>
+
+Meiling0c:...She's being completely passive. I suppose she didn't want a final showdown after all.
+
+Nitori2a:We can't do a thing to her. Let's just do something about this doll youkai for now!
+
+<end>
+
+<ChatID:8>---------------------------------------
+//幽香のHPを一定値以下にする（二回目以降）
+
+Yuka0b:Points for effort. But I believe I told you I have no intention of fighting here?
+
+<pause>
+
+Nitori2a:This is a waste of effort. Let's just do something about this doll youkai for now!
+
+<end>
+
+<ChatID:9>---------------------------------------
+//一定ターン経過
+
+Yuka0a:...Looks like Alice and the others are busy with Medi.
+
+Yuka0b:In which case, I'll just sit back and enjoy the show.
+
+<pause>
+
+Meiling0c:...She's being completely passive. She doesn't seem interested in fighting us.
+
+Nitori2a:We can't do a thing to her. Let's just do something about this doll youkai for now!
+
+<end>
+
+<ChatID:10>---------------------------------------
+//メディ通常撃破
+
+Medicine2a:N-Not bad!
+
+Tewi0a:Same to you. You're pretty strong for a newborn.
+
+Udonge0a:...Why do you say that as you back away, Tewi?
+
+Tewi4b:That's a lot of poison, you know. It's gotta be bad for my health.
+
+Patchouli0a:But this is strange. If she's just a spirit possessing the doll, she shouldn't have this much power.
+
+Koakuma1a:And not only that, I can't imagine she'd be able to control her body so freely.
+
+Medicine1a:So you finally realized my greatness then? This is all Sue's power.
+
+Lunasa0a:Suzurans are giving you power...?
+
+Medicine0b:Before I was a youkai, I was abandoned here.
+
+Medicine0a:I thought I'd be like that forever... but Sue's poison gave me life.
+
+Medicine1d:It's thanks to that that I can move how I want, and think what I want. All thanks to Sue's poison!
+
+Lunasa0a:So you're saying you're the soul of the doll itself, and the poison is a part of your body.
+
+Medicine1d:That's right! And I'll rise up to save my suffering comrades!
+
+Hina0b:...So that's what you meant by freeing the dolls.
+
+Alice1c:Medicine, I think you're operating under a misunderstanding. Humans don't treat dolls that way—
+
+Medicine1b:Shut up! I'll defeat you and sound the signal of doll revolution!
+
+Medicine1e:Conparo, Comparo, gather, poison!
+
+<end>
+
+<ChatID:11>---------------------------------------
+//メディスペル１撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Medicine2a:Oof, so this is the power of humans from outside...
+
+Sakuya6a:I'm the only human here, actually.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Medicine2c:You humans from outside are good at running away..
+
+Sakuya6a:I'm the only human here, actually.
+
+</Cond>
+
+Medicine1b:Stop splitting hairs! And stop interfering with my doll liberation!
+
+Elliy4a:The little shrimp sure is stubborn. She's going this far for her comrades...
+
+Kaguya2d:...I wouldn't be so sure about that. Something has been bothering me about this.
+
+Kaguya0b:This youkai has never left this place, correct?
+
+Nitori3b:So you're saying that even though she's talking about comrades, maybe she's never actually met any? Which means...
+
+Medicine1b:You people need to stop talking so much. I'll make sure you don't have a chance to!
+
+<pause>
+
+Meiling1a:Ugh, poison gas?! She has that much power?
+
+Eirin1c:Using that in THIS wind? She just doesn't know how to control herself.
+
+Eirin1d:Stop this at once. You'll affect all the surrounding organisms too.
+
+Medicine0c:So what?! Sue and I will be fine!
+
+Remilia1d:Wow, she really is a brat of a youkai.
+
+Alice1b:That's right, Medicine. You need to consider other people.
+
+Alice2c:In the world outside, everyone lives by thinking of one another.
+
+Patchouli4c:This isn't the time to persuade her; we need to do something about this or we'll be in serious danger.
+
+Medicine1e:Everyone who gets in my way, eeeveryone, sleep soundly in my poison!
+
+<end>
+
+<ChatID:12>---------------------------------------
+//メディスペル２撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Medicine2a:How can Sue and I have so much trouble here...?
+
+Koakuma3c:Thank goodness, we managed to stop her before the poison spread too far.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Medicine2a:How can you escape from Sue and I...?
+
+Koakuma3c:Thank goodness, we managed to steer clear before the poison spread too far.
+
+</Cond>
+
+Sakuya0a:Perhaps I should've kept some to accentuate my red teas with.
+
+Remilia3d:...I think that might be a bit too hazardous even for my health, Sakuya.
+
+Yuka0d:You lost, Medi. Was it at least a good experience for you?
+
+Medicine1b:No, I haven't lost yet! I just need more poison...!
+
+Medicine2a:...?
+
+Nitori2a:Huh, she stopped. Literally...
+
+Medicine2a:Wh-What's going on?! My left arm isn't moving...
+
+Eirin0d:You used too much poison. It's finally reached your own body.
+
+Remilia0a:I guess you could say it's what you get for throwing around your power indiscriminately?
+
+Medicine2a:Wh-What is this... Then... I'm broken?
+
+Medicine4b:No, Sue, stop. I don't wanna go back... I don't wanna stop moving again...
+
+Alice0b:...
+
+<pause>
+
+<Code=(icon_set_direction,Alice,Medicine_en,0)>
+
+<Code=(icon_set_direction,Medicine_en,Alice,0)>
+
+Alice0d:Stop trying to move. That might make it worse.
+
+Medicine2a:Are you going to finish me off, puppeteer?
+
+Alice0c:Of course not. Now show me your arm.
+
+Alice0d:Does it hurt? I should be able to repair it.
+
+Yuka3a:...
+
+Yuka0d:I suppose I can leave her to your group.
+
+<pause>
+
+<Code=(icon_set_direction,All,Yuka_en,0)>
+
+<Code=(icon_set_direction,All_en,Yuka_en,0)>
+
+Kurumi1a:Ah! Yuuka's leaving!
+
+Remilia0c:Where are you going? We're not done with you yet.
+
+<Code=(icon_set_direction,Yuka_en,Remilia,0)>
+
+Yuka0c:I've said again and again that you won't be hearing anything from me. Surely you understand by now?
+
+Yuka0d:I wanted to see Medi's fight with my own eyes, and I did. Hence, I'm done here.
+
+Medicine2c:Yuuka...
+
+Alice1a:Stop right there. Are you going to just leave her?
+
+<Code=(icon_set_direction,Yuka_en,Alice,0)>
+
+Yuka3a:I only came here on a whim to see the suzurans bloom. And now I'm off to the next flowers.
+
+Yuka1b:I'm sure Medi won't wither away once she goes outside, as long as all of you stay with her.
+
+Kurumi0b:Wait, us?
+
+<Code=(icon_set_direction,Yuka_en,Medicine_en,0)>
+
+Yuka0c:Farewell, Medi. If you ever leave the flower field, please come visit ME next time.
+
+Yuka3c:As for the rest of you, I'm sure we'll meet again, where the flowers bloom.
+
+Medicine2a:No, wait!
+
+<pause>
+
+Medicine2c:Yuuka...
+
+Merlin2a:She disappeared into the flowers. We'll never be able to chase her.
+
+Kaguya2d:Even if we forced a fight, we'd have nothing to gain from it. I say we let the matter go.
+
+Nitori1a:I guess we can rest easy for now, then. We can't exactly leave that youkai alone anyway.
+
+<end>
+
+<ChatID:13>---------------------------------------
+//ADVB
+
+<MAP=11,FROM=鈴蘭畑,TO=鈴蘭畑,name=Suzuran Field,icon=5>
+
+<BG=*bg_talk_Suzuran.png,fade=0,color=1,title=*bg_Suzuran,bgm=bgm_talk_ningyo>
+
+Kaguya3a:I'm glad we've all finally calmed down and have a chance to admire the suzurans.
+
+Kaguya3c:Up close, they're quite a reserved and elegant flower.
+
+Tewi4b:Please don't ask us to grow them back at the mansion. I've already had enough of their poison.
+
+Merlin4a:The poison user herself doesn't seem to happy about it though.
+
+Medicine4a:...
+
+Kurumi4b:It must've been a shock when her arm broke.
+
+Elliy0a:Now now, calm down, blondie said she could fix it.
+
+Medicine1b:Hmph, I'm just annoyed that I didn't get to punish you all.
+
+Medicine0c:I'm sure I could fix this on my own. I've always figured things out on my own.
+
+Patchouli0c:...It seems her mouth works properly, at least. Would you mind sewing it shut while you're fixing her?
+
+Alice0c:At least you've got energy. That counts for something. Now let me work.
+
+Medicine2a:Ah, the puppeteer...
+
+Alice1c:As I thought, as you ran out of energy your joints became damaged.
+
+Alice4c:It must've hurt taking this much damage.
+
+Medicine2c:...Hurt? Me?
+
+Hina2a:Yeah, you. If only you'd stopped a bit sooner...
+
+Medicine1b:Hmph. I'm a doll. I don't feel pain.
+
+Medicine5e:So if you were hoping to force me to tap out, then too bad for you.
+
+Meiling3a:What? No, we were just worried about you.
+
+Medicine2b:Worried...?
+
+Lunasa0a:It's called empathy. We sympathize with what you're feeling, and feel the pain ourselves.
+
+Lunasa3c:Maybe you wouldn't know, since you've lived in this flower field your whole life. It comes naturally when people interact with each other.
+
+Medicine4b:...That makes no sense. You're messing with me, aren't you?
+
+Alice3b:You don't need to get it right away. Everyone learns little by little.
+
+Alice0a:Anyway, for now I'll get working on this injury. I'm sure this all happened so suddenly, it came as a shock to you.
+
+Medicine2c:...
+
+Koakuma3a:Looks like she's decided to behave herself and accept our help.
+
+Nitori4b:We haven't made any progress on the search, but I guess that's settled, at least?
+
+Hina0a:So, while she's fixing you, can we ask you some questions?
+
+Hina0c:You mentioned freeing the dolls earlier. What exactly did you mean by that? It sounded like you thought the dolls were suffering.
+
+Medicine0b:It's just what it sounds like. I want to free my comrades from the tyranny of the humans.
+
+Medicine0c:They just use us as they please and then throw us away.
+
+Hina0c:Ah, so that's how you see it.
+
+Medicine1b:What? You don't agree?
+
+Hina2a:I think you're misunderstanding what dolls are.
+
+Hina0b:Which is no surprise, since you've been alone here all this time.
+
+Medicine1c:What's that supposed to mean?
+
+Hina0a:You haven't fully recovered yet, so let's save this for another time.
+
+Nitori3e:By the way, how's the repair going? If you need parts, I have spare Extending Arm parts...
+
+Alice3b:Don't worry, the first aid is complete.
+
+Medicine2a:No way! Already?!
+
+Alice0d:I tied a ribbon infused with magic around it, so it should be back to normal by tomorrow.
+
+Alice0a:It was simple enough, so while I was at it, I also examined other places you've been injured.
+
+Medicine2a:Sh-She's amazing, Sue! How is this possible?
+
+Medicine0b:I thought fixing my broken arm would take a lot more time...
+
+Flan2b:She did you a favor, so you're supposed to say thank you.
+
+Medicine5c:Hmph! I never asked for her help.
+
+Patchouli4a:...Antisocial to the end, I see.
+
+Sakuya5b:Anyway, now that we've reached a stopping point, let's consider our options.
+
+Sakuya5a:It doesn't seem like we'll have any luck finding Koishi, and we let Lady Yuuka get away.
+
+Remilia1c:Maybe we should just call it good for the day and regroup tomorrow.
+
+Elliy3b:Oh right, should we take the shrimp with us too?
+
+Medicine2b:Wait, me?
+
+Merlin0a:Isn't this the perfect chance for you to leave the flower field?
+
+Kurumi3b:Yeah, any friend of Yuuka's is a friend of mine!
+
+Eirin3c:I also happen to be well-versed in poisons. I could teach you to control your power if you like.
+
+Medicine1b:Why should I go with you? You want to get beat up again?
+
+Kaguya3f:You're the one who's beat up. Shall I lend you a mirror?
+
+Udonge4d:It's not like we're forcing you to come.
+
+Medicine4b:...
+
+Alice0d:You don't have to decide right away. I'll come see you tomorrow morning.
+
+Alice3b:If you feel ready to leave, wait for me in the open field just past the flowers.
+
+Sakuya0a:Alice must be very kind... Either that, or she just likes guiding people.
+
+Meiling3d:Come on, it's a practical thing. Medicine wouldn't know where to go otherwise.
+
+Elliy3b:Anyway, see ya tomorrow!
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+<single>
+
+Medicine1c:Hmph! What kind of idiots would take their enemies with them? Right, Sue?
+
+Medicine4b:At least I'm healing. That part's a lucky break.
+
+Medicine4a:...
+
+Medicine0b:But I never imagined there'd be people like that outside...
+
+Medicine4c:I... don't know anything about what's out there, do I?
+
+<end>
+
+<ChatID:14>---------------------------------------
+//説得（エリー）（没）
+
+<end>
+
+<ChatID:15>---------------------------------------
+//説得（くるみ）（没）
+
+<end>
+
+<ChatID:16>---------------------------------------
+//全滅
+
+Alice2a:Ugh, I let my guard down!
+
+Shanghai0a:Shanghai!
+
+Medicine3c:We did it, Sue! We beat the puppeteer!
+
+Medicine3d:Soon we'll beat them ALL, and my doll liberation will become a reality!
+
+<end>
+
+<ChatID:17>---------------------------------------
+//メディvs.アリス
+
+Medicine1g:There you are, puppeteer!
+
+Alice1a:Hold on, Medicine. Why do you hate me so much?
+
+Medicine1e:Who gave you permission to call me by name? You use dolls as tools and make them suffer!
+
+Alice1c:No I don't. Shanghai and Hourai are important to me...
+
+Medicine1f:Hmph! You think you can trick me just by saying whatever you like?
+
+Medicine1e:I hate you! Taking you out will be the first step of my doll liberation!
+
+<end>
+
+<ChatID:18>---------------------------------------
+//メディvs.ルナサ
+
+Lunasa0b:Your sound is... to be honest, I can't hear it well.
+
+Lunasa0a:In contrast to your strong words, your sound is faint and indistinct.
+
+Medicine0d:What are you talking about...? You're just trying to confuse me!
+
+Lunasa0b:Not at all. It's just that you're of a rare type, so it piqued my curiosity.
+
+<end>
+
+<ChatID:19>---------------------------------------
+//メディvs.メルラン
+
+Merlin1c:For some reason I'm feeling hyped!
+
+Medicine2a:Wait, are you saying you're actually ENJOYING Sue's poison?
+
+Merlin2b:My head's spinning, and it feels like I'm on fire! It's the best!
+
+Medicine2c:Th-That's a weird reaction. There are people like that too...?
+
+<end>
+
+<ChatID:20>---------------------------------------
+//メディvs.リリカ
+
+Medicine1b:You're the one who called me a shrimp!
+
+Lyrica1a:Well, you are. I'm just telling it like it is.
+
+Medicine1b:You're a shrimp yourself, you know.
+
+Lyrica1b:I'm just shorter than my sisters. I don't have to take that from someone even shorter than me!
+
+<end>
+
+<ChatID:21>---------------------------------------
+//メディvs.てゐ
+
+Tewi0a:Poisonous flowers, huh? Ooh, I bet Master could do some good business with those...
+
+Medicine2b:What are you muttering about?
+
+Tewi3d:I know a master pharmacist. I'm sure she could figure out a use for poison too.
+
+Tewi1d:If you just lend me a corner of this flower field, then getting rich quick can be more than a dream.
+
+Medicine1b:Ew, no! I'm not giving you my precious flowers! Who cares about money?
+
+Tewi4b:Hmm, was that the wrong pitch?
+
+<end>
+
+<ChatID:22>---------------------------------------
+//メディvs.鈴仙
+
+Udonge0a:You're a real eccentric to live in a toxic place like this.
+
+Medicine0d:Eccentric?
+
+Udonge3b:It means someone with strange tastes. Of all the flowers to love, you're going with suzurans...?
+
+Medicine1e:Stop making fun of me! No flowers are more amazing than Sue!
+
+<end>
+
+<ChatID:23>---------------------------------------
+//メディvs.咲夜
+
+Sakuya0a:I wonder if I could use these flowers for sweets or tea?
+
+Medicine2b:You want to eat Sue's poison? You'd die, stupid.
+
+Sakuya6a:It's not for me. I'm always on the lookout for something stimulating for certain acquaintances of mine.
+
+Medicine2c:I feel kind of bad for whoever those people are...
+
+<end>
+
+<ChatID:24>---------------------------------------
+//メディvs.雛
+
+Hina0b:...I suppose this isn't the best time to ask you to elaborate on this doll liberation of yours.
+
+Medicine0d:Wait, do you want to free the dolls too?
+
+Hina0a:Not quite. But I'm kind of an authority on the "comrades" you've mentioned.
+
+Hina0a:Although since humans are involved too, I can't say I'm on one side or the other.
+
+Medicine1e:Then you're no match for me!
+
+Hina4a:Yes, it's clear I'll have to save this chat for later.
+
+<end>
+
+<ChatID:25>---------------------------------------
+//メディvs.永琳
+
+Eirin1c:The power to control suzuran poison? Interesting. I don't suppose you could control other poisons as well?
+
+Medicine0d:Other poisons...? But there's only Sue here.
+
+Eirin1a:So there are many as-yet unknown variables at play. How intriguing.
+
+Medicine1b:B-Back off already! Are you trying to bully Sue?!
+
+Eirin1a:I'm a doctor, so naturally I have an interest in poisons. I daresay I know more about their properties and uses than you.
+
+Medicine1b:What?! I won't lose to you!
+
+<end>
+
+<ChatID:26>---------------------------------------
+//メディvs.にとり
+
+Nitori2a:An opponent who spews poisons, huh? I have just the thing! Now, uh, where did I put it...?
+
+Nitori1a:Tada! An anti-poison gas mask!
+
+Medicine2a:What? That tacky-looking thing?
+
+Nitori4d:It's a mask to block toxins of all kinds. We made them back when the river was being polluted. Never thought I'd need it here though!
+
+Medicine3b:You'll never block my poison with that!
+
+<end>
+
+<ChatID:27>---------------------------------------
+//メディvs.美鈴
+
+Meiling0a:Wow, all these suzurans in full bloom are beautiful. Is it like this every year?
+
+Medicine2b:Dunno, I don't know much about the past.
+
+Medicine3d:All I know is that this year Sue's happier than ever!
+
+Meiling0c:So it's unusual after all. Is there something going on with the weather or something then?
+
+<end>
+
+<ChatID:28>---------------------------------------
+//メディvs.パチュリー
+
+Patchouli0b:Even a doll youkai is still a youkai. That's different from an autonomous doll.
+
+Medicine0d:A... what?
+
+Patchouli0b:A doll that thinks and moves on its own. The subject of Alice's research.
+
+Medicine1b:What?! She's planning to make a bunch of slave dolls or something?!
+
+Patchouli0c:If she only wanted them to do as she says, then there's no reason to give them autonomy.
+
+Patchouli0b:What Alice is seeking is something more... honestly, I'm not sure myself.
+
+<end>
+
+<ChatID:29>---------------------------------------
+//メディvs.小悪魔
+
+Koakuma0a:With all this poison floating around, I'm worried about it soaking into the books. I'd better be careful...
+
+Medicine0e:What's wrong with that? Poison makes things more charming.
+
+Koakuma3c:True. It makes it easier to lead people astray when they're lightheaded...
+
+Koakuma5b:Wait, what am I even saying?! Is this also the poison?!
+
+<end>
+
+<ChatID:30>---------------------------------------
+//メディvs.エリー
+
+Elliy1b:So did Yuuka become friends with a cute little girl like you?
+
+Medicine3b:Well, she would come here sometimes and show me her danmaku.
+
+Elliy2a:That sounds so nice... And here she treats me like I'm nothing but lawn trimmings...
+
+Elliy1a:Sheesh, why is Yuuka so weak to all these blondies...?
+
+Medicine0c:But you're blonde too.
+
+Elliy1a:?!
+
+<end>
+
+<ChatID:31>---------------------------------------
+//メディvs.くるみ
+
+Kurumi3b:A friend of Yuuka's is a friend of mine!
+
+Medicine0d:You're Yuuka's friend?
+
+Kurumi3a:I'm sure she mentioned us, right? Something about me or Elly?
+
+Medicine0b:Nope. Not at all. She never really talked about outside stuff.
+
+Kurumi4e:Waaah! How could you, Yuuka?
+
+<end>
+
+<ChatID:32>---------------------------------------
+//メディvs.輝夜
+
+Kaguya0a:So you've been here ever since you were born? So you've never desired to leave then?
+
+Medicine2d:I'm supposed to take out the humans.
+
+Kaguya1c:In that case, why stay in this flower field until now?
+
+Medicine2a:What...?
+
+Kaguya2c:If you want to leave, then it's simple enough. Were you perhaps waiting for someone else to reach out to you?
+
+Medicine2a:D-Don't make fun of me!
+
+<end>
+
+<ChatID:33>---------------------------------------
+//メディvs.レミリア
+
+Remilia0c:Looks like she's using a powerful poison. I hope Sakuya will be okay.
+
+Medicine5e:Ah, you're afraid of my power!
+
+Remilia0a:Yes, someone's relative youth has no bearing on how dangerous their power can be.
+
+Remilia0b:If anything, a lack of control can make someone even more dangerous. So, I wonder where you fit into that.
+
+<end>
+
+<ChatID:34>---------------------------------------
+//メディvs.フラン
+
+Flan0e:This place is outdoors, but staying here by yourself forever sounds boring.
+
+Medicine2d:Not really. There's lots of Sue here, and Yuuka visits sometimes.
+
+Flan3b:Really? But you can go anywhere you want. Just seems like a waste to me.
+
+Medicine2a:Wh-What?! Just because you know a little more about the outside than me!
+
+<end>
+
+<ChatID:35>---------------------------------------
+//幽香vs.アリス
+
+Alice0a:Out of season suzurans... There's no way you're behind this, right Yuuka?
+
+Yuka0d:Of course not. It seems these flowers just couldn't bear to wait for the time to come.
+
+Alice2b:The time to come...?
+
+Yuka1b:Anyway, isn't she fascinating? She's never set foot outside this field, but she still views you and the humans with such hostility.
+
+Alice0a:It can't be good for her to hate so many people indiscriminately.
+
+Alice2b:She looks up to you, so why haven't set her straight?
+
+Yuka0c:It's simply something she should figure out for herself.
+
+Yuka0d:But to think her life would become entangled with yours, Alice... This certainly promises to be interesting.
+
+Alice1a:More of that nonsense then. We'll never get anywhere like this.
+
+<end>
+
+<ChatID:36>---------------------------------------
+//幽香vs.レミリア
+
+Yuka0c:It's been a while, Remilia. Have you been getting along well with Flan?
+
+Remilia0e:See for yourself. And I see you're still following your whims as usual.
+
+Remilia0a:...Just talking with you is making me want to go on a rampage like the old days.
+
+Remilia0a:Looks like you don't feel the same way though.
+
+Yuka1b:I'd hate to hurt these flowers. I'd be happy to help you with some warm-ups though.
+
+Remilia1a:Good enough for me! Try not to run out of breath stretching!
+
+<end>
+
+<ChatID:37>---------------------------------------
+//幽香vs.フラン
+
+Yuka0c:Looks like you're enjoying your time outdoors, Flandre.
+
+Flan3g:You're Remi's friend, right? Wanna play with me?
+
+Yuka0c:I don't mind, but I won't be going all-out today.
+
+Yuka0b:We'll have to save our destructive showdown for another time.
+
+Flan3e:Hmm, okay! That's not gonna stop me though!
+
+<end>
+
+<ChatID:38>---------------------------------------
+//幽香vs.エリー
+
+Elliy1a:So it's another blonde girl this time, Yuuka?!
+
+Elliy4a:I know being hard to contact is normal, but could you at least take us with you sometimes?
+
+Yuka5a:But then you wouldn't be able to help Reimu and the others, would you?
+
+Elliy0b:What are you talking about?
+
+Yuka0c:If there's something you want to do, then follow your heart.
+
+Yuka0c:Considering you're an associate of mine, surely you can pick up on what I mean by that.
+
+Elliy4b:...Even if it means fighting you?
+
+Yuka1b:I certainly don't mind it. It's more beautiful that way.
+
+<end>
+
+<ChatID:39>---------------------------------------
+//幽香vs.くるみ
+
+Kurumi3b:Long time, Yuuka!
+
+Yuka0d:Long time, Kurumi.
+
+Kurumi3a:Hee hee hee...
+
+Yuka1b:Come on, you can do better than that. So, have you two been imposing on Remilia's household again?
+
+Kurumi5d:Actually, we've been doing okay by ourselves. Surprisingly.
+
+Kurumi5b:Me and Elly divide up the cooking and cleaning and stuff.
+
+Yuka0d:Well, isn't that nice? So you don't need me there anymore then?
+
+Kurumi2a:Oh! That's not what I meant! Please come home, Yuuka!
+
+<end>
+
+<ChatID:40>---------------------------------------
+//幽香vs.パチュリー
+
+Patchouli6b:...
+
+Yuka0c:What? Are you still holding a grudge from when I broke down the wall of the library?
+
+Patchouli4f:No, I'm just speechless that you won't tell us anything about the mastermind.
+
+Patchouli4e:Though I'm sure you have your own reasons for that.
+
+Yuka0d:I don't want to interfere, that's all. I'll leave it entirely to your discretion, as it should be.
+
+Patchouli4c:So you're saying you won't get in our way.
+
+<end>
+
+<ChatID:41>---------------------------------------
+//幽香vs.永琳
+
+Yuka0a:To think the arrogant people of the moon would stoop to consorting with terrestrials.
+
+Yuka0b:So, have you come to understand the beauty of flowers yet? Even a little?
+
+Eirin1a:These suzurans are fascinating. Depending on your intentions, they can be effective as both a poison and a medicine.
+
+Yuka4a:So that's what interests you? Can you feel no love for the flowers themselves then?
+
+Eirin1d:I'm not friendly enough with you to phrase things in your terms.
+
+<end>
+
+<ChatID:42>---------------------------------------
+//幽香vs.輝夜
+
+Kaguya1c:I've been observing, and wow. There really is someone else as unbending as you are.
+
+Yuka0c:Wouldn't that make things more entertaining for you?
+
+Kaguya3f:Indeed. I've discovered that discarding your pride has more than a few perks.
+
+Yuka1b:I could have a very entertaining danmaku fight with you. Sadly, this isn't the time.
+
+Kaguya3e:That's okay. You'll find I'm very patient.
+
+<end>
+
+<ChatID:43>---------------------------------------
+//幽香vs.鈴仙
+
+Udonge4a:Yuuka Kazami. It's her pure physical prowess that's earned her renown as a senior youkai more than her powers.
+
+Udonge3a:The smart plan would be to avoid her. Now how can I can slip past...?
+
+Yuka0f:What are you muttering about?
+
+Udonge2b:Oh, nothing! Just talking to myself, pay it no mind.
+
+Yuka1a:It's unnerving having you stare at me like that. Shall I teach you some manners?
+
+Udonge5c:Aw, geez! This is why I didn't want to get involved!
+
+<end>
+
+<ChatID:44>---------------------------------------
+//幽香vs.美鈴
+
+Meiling0a:I've got all sorts of things I'd like to ask, but since this is a rare chance to meet in person, I'd like to talk about our flower garden...
+
+Yuka0c:Oh yes, you're the Scarlet Devil Mansion's caretaker. You're tending the flowers and not neglecting them, I trust?
+
+Meiling3a:Absolutely! Though there was this one time Lady Patchouli conducted a strange experiment, and I had no idea what to do...
+
+Yuka5a:What kind of experiment?
+
+Meiling3b:She mowed through the flowers to create patterns in the garden she called "mystery circles".
+
+Yuka4c:...Of course that girl would only touch grass to damage it. Clearly she needs a little lesson.
+
+<end>
+
+<ChatID:45>---------------------------------------
+//幽香vs.咲夜さん
+
+Sakuya0a:So it's finally time for us to fight, Lady Yuuka.
+
+Yuka0d:Indeed. I've been looking forward to this ever since you refused to serve under me.
+
+Yuka1b:But alas, we're still lacking some of the players.
+
+Sakuya5b:Are we not enough for you?
+
+Yuka0c:Oh, not at all. But I'm sure you'd shine even brighter on a larger stage.
+
+<end>
+
+<ChatID:46>----------------------------------------
+//メディスンvs.メーコ
+
+Medicine0d:You look kinda animal-ly...
+
+Medicine1b:Don't tell me you're here to eat Sue?!
+
+Meko0b:I don't eat weeds even when I'm hungry!
+
+Medicine1c:Yeah right. Beasts like you should be put to sleep with Sue's poison.
+
+Meko1b:Hey, putting people to sleep is MY power! We'll race to see who falls asleep first then!
+
+<end>
+
+<ChatID:47>----------------------------------------
+//メディスンvs.まくら
+
+Makura0h:What a beautiful yet lonely field of suzuran.
+
+Makura3a:You've lived alone here ever since you were born, haven't you?
+
+Medicine1b:Yeah, so what?
+
+Makura0g:Perhaps it's arrogant of me to call that lonely.
+
+Makura3a:But I sense a desire to know even more beautiful things.
+
+Medicine1c:What're you even talking about, weirdo?
+
+Medicine1b:If you like Sue so much, then you can go to sleep here!
+
+<end>
+
+<ChatID:48>----------------------------------------
+//メディスンvs.メディスン
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Medicine2a:Whoa, what?! What am I doing over there?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Medicine4b:What should we tell her, Sue?
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Medicine1b:Are there, like, a whole ton of youkai just like me outside the garden, or something?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Medicine2c:Ah, um, well, not exactly...
+
+Medicine3c:Oh, but why don't you go and see for yourself?
+
+</nomove>
+
+<end>
+
+<ChatID:49>----------------------------------------
+//メディスンvs.神綺
+
+Shinki5a:Medi!
+
+Medicine1b:Who're you and why are calling me a pet name?
+
+Shinki1c:The power you're using can hurt people.
+
+Shinki2a:Imagine how you'd feel if someone stepped on Sue. It's just like that!
+
+Medicine2c:If they stepped on...
+
+Medicine1b:I'd never let that happen! I'd get 'em all first!
+
+Shinki0c:Right, so never forget that pain.
+
+Shinki0a:It's okay to hit me in anger. As long as you listen to what I'm saying, even a little.
+
+Medicine1c:...Seriously, who are you?!
+
+<end>
+
+<ChatID:50>----------------------------------------
+//メディスンvs.夢子
+
+Yumeko5c:...So this is how she used to act. That's surprising.
+
+Yumeko3a:Alice is quite the miracle-worker if she's come this far.
+
+Medicine0d:Hey, you know that doll-user?!
+
+Yumeko3c:Oh yes, we're family.
+
+Medicine2c:Fami-ly?
+
+Yumeko0b:I suppose you might not even even understand that much yet.
+
+Medicine1c:...Are you calling me stupid?!
+
+Medicine0c:Hmph! I just have to put you to sleep with the others!
+
+<end>
+
+<ChatID:51>----------------------------------------
+//メディスンvs.幽香
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Yuka3f:Good day, Medi.
+
+Medicine2a:Yuuka?!
+
+Medicine2b:Huh? What? But you're over there too! How?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Yuka0d:I suppose I haven't shown you this technique yet?
+
+Yuka0a:There are all sorts of strange skills outside the flower field, you know.
+
+Medicine2d:Oh, really? And you'll show them to me, Yuuka?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Yuka3a:If you leave, as many as you want.
+
+Medicine4b:Then nevermind. How could I go outside...?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Yuka3b:Seeing you like this again is rather amusing at this point.
+
+Yuka0d:With how you are now, how about we enjoy your danmaku together?
+
+</nomove>
+
+<end>
+
+<ChatID:52>----------------------------------------
+//メディスンvs.非想天則
+
+Tensoku0a:...
+
+Medicine2a:Wah, what is this?! A big doll...?
+
+Medicine2c:Which means... you're one of us? And you're being used by that lady?
+
+Tensoku0a:...!
+
+Medicine1b:I know, I'll open your eyes with my poison!
+
+Tensoku0a:...!
+
+<end>
+
+<ChatID:53>----------------------------------------
+//幽香vs.まくら
+
+Makura1c:Yuuka Kazami...
+
+Yuka2d:Oh dear, why would you be here, of all places?
+
+Yuka3e:Not that I mind. Why don't you show me how you do things?
+
+Makura2a:...As expected, you don't plan to join either side.
+
+Yuka2c:Oh? But when you find an unknown flower, don't you want to see how it will grow?
+
+Yuka0a:I'm not interested in interfering. I want to see them as they are.
+
+Makura2a:...As unruly as ever.
+
+<end>
+
+<ChatID:54>----------------------------------------
+//幽香vs.メーコ
+
+Yuka2d:Oh, it's you. Up to more mischief?
+
+Yuka0a:Um... what was your name again?
+
+Meko1b:Mehko! You don't even remember?!
+
+Yuka0d:I mean, why would I remember every boring little youkai?
+
+Yuka2c:But now that you've introduced yourself, surely you're prepared for a duel?
+
+Meko0b:Uh, well...
+
+Yuka0b:Show me then. Depending how you do, I may even remember your name this time.
+
+<end>
+
+<ChatID:55>----------------------------------------
+//
+
+<end>

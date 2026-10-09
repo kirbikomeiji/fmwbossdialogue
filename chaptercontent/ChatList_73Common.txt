@@ -1,0 +1,2766 @@
+﻿○共通第七十三話「幻想郷ナイトメア
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: 1EP
+ 3: 3PP
+ 4: 4PP-1
+ 5: 4PP-2 (after player ally)
+ 6: first battle vs. Nightmare
+ 7: first battle vs. ByakurenN
+ 8: ByakurenN spell 1 start
+ 9: beat ByakurenN
+10: first battle vs. MimaN
+11: MimaN spell 1 start
+12: beat MimaN
+13: first battle vs. ToyohimeN (unused)
+14: ToyohimeN spell 1 start (unused)
+15: beat ToyohimeN (unused)
+16: clear
+17: ADVB
+18: lose (before 4PP) (unused)
+19: lose (thereafter) (unused)
+20-55 (even): first battle vs. Nightmares
+20-55 (odd): beat Nightmares
+56: lose (before 4PP)
+57: lose (thereafter)
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<BG=bg_talk_Mugen_Deep.png,fade=1,color=1,title=bg_Mugen_Deep,bgm=bgm_talk_dream>
+
+Makura5a:...
+
+Meko0f:Are you sure you don't need to rest, Lady Makura?
+
+Meko0g:You're usually taking your afternoon nap right around now...
+
+Makura5a:The invaders from Gensokyo are still in the Dreamscape. I can't rest until they've been driven out.
+
+Meko0a:Oh, okay... But if there's anything I can do to help...
+
+Makura5a:You've already done enough, Mehko. Feel free to rest.
+
+Meko0f:But...
+
+Makura5a:Just let the giant catfish dispose of them. Don't you trust his strength?
+
+Meko0b:It's not that! His personality rubs me the wrong way, but he's way stronger than ME, at least...
+
+Meko0g:But I have to do something, or you might start to think I'm useless.
+
+Makura5a:...You're still worried about that?
+
+Makura5a:I've told you time and again, you've helped me so much. Please, stop worrying and get some rest.
+
+Meko0g:Okay... If you say so...
+
+<SE=se_talk_walk_water01.ogg,wait=1>
+
+Meko0a:...!
+
+Makura5a:This presence...
+
+Onamazu0a:...I'm back.
+
+Meko0a:That was fast, giant catfish.
+
+Meko0b:Wait, you're not as giant now!
+
+Onamazu1a:Shut up! I lost most of my energy, what do you expect?!
+
+Meko0c:Now you're like... the little catfish.
+
+Onamazu0a:Zip it, shrimp.
+
+Meko5c:Again, don't call me that...!
+
+Makura5a:Stop arguing, both of you. I take it you failed?
+
+Onamazu0a:...Yes. They were stronger than we thought.
+
+Onamazu0a:And that Hisoutensoku you gave me double-crossed us too.
+
+Meko0b:What? It betrayed you?
+
+Onamazu0a:It was useless, so I tried to dispose of it. Then they took advantage of that.
+
+Onamazu0a:Seems like it's taken on all the humans' hopes and dreams.
+
+Meko0b:What's going on? I thought Lady Makura's power was supposed to be absolute here?
+
+Makura5a:Even if it's a dream manifestation, in the end it's still just a doll. They must have aimed for a gap in my own power.
+
+Makura5a:But allowing that to occur was your fault, catfish.
+
+Onamazu0a:Ho ho ho! Don't be so angry, or you'll give your beautiful face wrinkles!
+
+Onamazu0a:You aren't the type to let a little thing like this bother you, right?
+
+Makura5a:Of course not. They'll be dealt with soon enough, regardless.
+
+Meko0e:Wow, Lady Makura, you already have a plan?!
+
+Makura5a:If they've defeated the catfish, all that means is that we'll need more than fear to crush their spirits.
+
+Makura5a:If an outside force won't work, then we simply use what's on the inside.
+
+Meko1b:You mean...?
+
+Onamazu1a:Ho ho ho! You're quite the villain yourself, if that's your plan!
+
+Makura5a:...Those with power always carry a heavy karmic burden.
+
+Makura5a:Even they will yield when faced with the nightmare in their hearts.
+
+<MAP=17,FROM=科学の墓場,TO=科学の墓場,name=Dreamscape,icon=4>
+
+<BG=*bg_talk_Seirensen_Hall.png,fade=1,color=1,title=*bg_Seirensen_Hall,bgm=bgm_talk_potion>
+
+<hide=face>
+
+Sho0a:...
+
+Keine0a:...
+
+</hide>
+
+Byakuren1b:Katsu!
+
+<Code=(map_shake,1,30,1)>
+
+<SE=se_hit_dageki09.ogg,wait=1>
+
+Nue2a:Ow!
+
+Mokou2a:Hrk!
+
+Nue1c:Hey, what was that for?!
+
+Mokou1b:Yeah, we were just sitting here like you told us to!
+
+Byakuren0b:No, you were SLOUCHING. Poor posture is evidence of worldly thoughts!
+
+Koishi6c:You've a long way to go, grasshoppers. So, what were you thinking about?
+
+Nue5b:I was just thinking about how over this I am.
+
+Mokou3c:Wondering what's for dinner, mostly.
+
+Murasa4b:That's as worldly as it gets...
+
+Nazrin0b:...Hm?
+
+<SE=se_talk_walk_indoor03.ogg,wait=1>
+
+Yumeko0a:...Given that, Hisoutensoku's might should be on par with that of a titanic demon.
+
+Shinki0a:It's true! You'd never think it considering his charming face and general good-boy demeanor.
+
+Alice0d:I'd have made him a little bit cuter, personally.
+
+Keine5a:Oh, if it isn't the Makai family.
+
+Byakuren0a:What's the occasion?
+
+Yumeko3a:We came to chat with Hisoutensoku at Lady Shinki's insistence.
+
+Ichirin0d:You want to talk with him?
+
+Shinki0b:Yes. He may claim to be fine with the way things are, but it's sad when someone's born just to fight.
+
+Shinki0c:I was thinking how lovely it would be if he could help out with more general things, like drying laundry or transporting livestock.
+
+Keine6c:You feel love even for a mechanical being, huh? I shouldn't be surprised you'd come up such ideas, Shinki.
+
+Alice0d:Hisoutensoku's taken a liking to her as well. Despite his size, he's still just a child.
+
+Yumeko5c:That's all well and good, but why are you all sitting in that peculiar pose?
+
+Byakuren3b:Oh, right. Okay everyone, you can relax now.
+
+Mokou3b:Sheesh, that sucked.
+
+Nue1b:All that did was make us hurt. What do we get out of this?
+
+Murasa0b:Listen to you. And here I thought you were being cooperative for once...
+
+Sho0a:Since we managed to get Keine and Mokou here as well, let's take a short break and reconvene later.
+
+Shinki0c:I know what this is. It's zen, right?
+
+Byakuren0a:Right. But this is perfect timing. Would you three like to join us as well?
+
+Byakuren3c:It should help gird us a bit more against the mastermind's attacks.
+
+Alice0a:What do you mean by that?
+
+Ichirin1c:After what she did back there, she'll probably keep trying to break our spirits.
+
+Ichirin3c:So the idea is that we can build up some resistance to that through zen meditation.
+
+Yumeko3a:Then it's a form of mental training.
+
+Nazrin0a:Yeah. Gotta have all our bases covered, right?
+
+Sho0a:By closing your eyes and meditating, you can face yourself on a deeper level.
+
+Sho3a:That can potentially help you reflect back on your determination, and how you got here.
+
+Murasa3c:We're used to it by now, but it sounds like it's been a pain for our novices.
+
+Nue1a:Act smug while you still can, Minamitsu. I saw what you were drinking at the banquet.
+
+Byakuren5b:...Oh?
+
+Ichirin5b:Ack! Eep!
+
+Keine0a:Either way, it's true that this training should be helpful.
+
+Keine3b:Thinking back, how many times have we felt lost or conflicted? It's made me realize just how fraught our path has been.
+
+Keine0a:It certainly wasn't guaranteed that we'd all be working together like this now.
+
+Alice3a:...True, if just one tiny cog had been out of place, our entire future might've been different.
+
+Koishi2b:You mean we might still be fighting each other?
+
+Ichirin1d:Essentially, yes. Our group includes people who we've fought against in incidents, and others who'd lost their way.
+
+Nue4a:Hey, don't look at me. Isn't practically everyone here like that?
+
+Mokou3b:...You're not wrong.
+
+Nazrin3d:We're basically one big band of troublemakers with histories.
+
+Byakuren0a:But the fact that our paths have crossed like this is proof of the past we've lived.
+
+Byakuren3d:No matter how the mastermind tries to shake us, I know we have the strength to endure.
+
+Keine0c:Exactly. History isn't about what-ifs. Have faith in the choices you've made, and the path you've walked.
+
+Sho0a:So with that in mind, I was thinking we could continue meditating a bit longer. What do you all think?
+
+Shinki0b:Really?! Actually, I've always wanted to try that!
+
+Shinki0a:Let me go get the children from the deck too.
+
+Alice5b:H-Hold on, Mom. The others are all pretty busy...
+
+Byakuren3d:This is something everyone on board would benefit from. I'll join you, Lady Shinki.
+
+Shinki0b:You'd be welcome to, Byakuren.
+
+Mokou4a:...Probably should've realized this sooner, but those two sure are pushy, huh?
+
+Murasa4b:They mean well, at least...
+
+<BG=bg_talk_Grave.png,fade=1,color=1,title=bg_Seirensen_Deck,bgm=bgm_talk_gag>
+
+Cirno3a:Now do a victory pose, Hisoutensoku!
+
+<SE=se_move_gachon03.ogg,wait=0>
+
+Tensoku0a:...!
+
+Wriggle3b:Ooh, cool!
+
+Rumia3a:Hey, now let us ride on your shoulder!
+
+Mystia3d:And then we can sing! It'll be like, super galaxy!
+
+Tensoku0a:...
+
+<SE=se_move_gachon03_2.ogg,wait=1>
+
+<single>
+
+Daiyosei5e:Hey, it's dangerous up there!
+
+Daiyosei5f:Come on...!
+
+</single>
+
+Rumia3a:Wheee!
+
+Mystia1b:Take to the skies... Our Hisoutensoku...
+
+Daiyosei3b:I guess they can't hear me. I hope they don't slip and fall...
+
+Letty3a:Those four have been rather animated, wouldn't you say?
+
+Daiyosei0c:Letty...
+
+Letty0a:It's a little reckless, but not so much that they'll get hurt, I think.
+
+Letty3c:But what about you, Daiyousei? Are you just going to watch?
+
+Daiyosei5d:Umm... I'm scared of heights. I'll stay down here.
+
+Daiyosei0b:Plus, it's fun just watching Cirno and the others having fun.
+
+Letty3c:I know what you mean. It's strange, but even just watching them mess around feels oddly satisfying.
+
+Letty3b:Like we're basking in their warmth.
+
+Daiyosei0c:Letty...
+
+Daiyosei0b:...It makes me really happy you think of them that way.
+
+Letty3a:Sorry, was I being patronizing? You've been with them longer than I have.
+
+Daiyosei2c:N-No! I just wish I could be all grown-up like you, Letty.
+
+Daiyosei3b:...Lately I've been a little jealous of Wriggle and the others.
+
+Letty5a:Jealous...? Don't they play with you too?
+
+Daiyosei3b:Yeah, but when we're fighting, the four of them are special.
+
+Daiyosei3b:Everyone's so strong... and they can still match their danmaku together perfectly.
+
+Letty0a:Well, they certainly have a unique technique that only they can do.
+
+Daiyosei3b:...So I was kinda thinking that I don't fit in.
+
+Daiyosei3b:I'm not strong like them...
+
+Letty0a:What are you talking about? You've been fighting alongside us all this time, haven't you? Don't doubt yourself now.
+
+Letty3c:Besides, you have your own special power too, Daiyousei.
+
+Daiyosei4d:I do?
+
+Letty3a:You do. I don't think they've noticed it yet, but it's something they couldn't live without.
+
+Letty3c:Once you've realized what it is, I'm sure your bonds will grow even stronger.
+
+Daiyosei3b:But I don't have anything like that...
+
+Letty0d:Stop thinking of yourself as just another weak fairy. If you think your friends are important, then you have to learn to value yourself too.
+
+Letty3a:Once you do, I'm sure—
+
+<SE=se_hit_bullet_L03.ogg,wait=0>
+
+<Code=(map_shake,1,90,2)>
+
+<Code=(demo_wait,65)>
+
+Daiyosei2a:Eep!
+
+Letty1b:What?! That sound just came from Hisoutensoku!
+
+<BGM=bgm_talk_emergency,0>
+
+<single>
+
+Cirno2b:Hey, what's the big idea?!
+
+</single>
+
+Mystia1c:You can't just shoot at us out of nowhere! It's dangerous!
+
+<hide=name>
+
+MimaN0a:...
+
+ByakurenN0a:...
+
+</hide>
+
+Rumia1a:What's with these two? Say something already.
+
+Wriggle5e:Actually, I think that's...
+
+<SE=se_talk_run.ogg,wait=1>
+
+Daiyosei1a:Are you okay, everyone?!
+
+Letty1b:Are we under attack? Are you hurt?!
+
+Cirno2c:It's not safe, don't come any closer!
+
+<hide=name>
+
+ByakurenN0a:...
+
+</hide>
+
+<SE=se_hit_bullet_L03.ogg,wait=0>
+
+<Code=(map_shake,1,90,2)>
+
+<Code=(demo_wait,65)>
+
+Cirno2a:Aaah!
+
+Tensoku0a:...!
+
+Wriggle1d:Cirno! Hisoutensoku!
+
+<hide=name>
+
+MimaN0a:...
+
+</hide>
+
+<SE=se_shoot_laser_M04.ogg,wait=0>
+
+<Code=(map_shake,1,90,1)>
+
+<Code=(demo_wait,65)>
+
+Wriggle2a:Eeep!
+
+Rumia2b:Waaah!
+
+Mystia2a:Whaaa?!
+
+Letty1b:Wriggle! Rumia! Mystia!
+
+Daiyosei2c:Oh no, they fell overboard!
+
+<hide=name>
+
+MimaN0a:...
+
+</hide>
+
+<Code=(map_shake,1,20,1)>
+
+<SE=se_move_nuno04.ogg,wait=1>
+
+Letty0d:This is bad! They went after them!
+
+Daiyosei3a:What do we do? If we don't do something...
+
+<SE=se_talk_run.ogg,wait=1>
+
+Byakuren1b:What happened?!
+
+Shinki5a:We just heard a loud noise!
+
+Daiyosei3a:Byakuren! Shinki!
+
+Letty1b:Would you mind if we went off-ship? I'll fill you in on the way.
+
+Daiyosei3a:Cirno, please be safe...
+
+Daiyosei2a:Cirno, everyone...!
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP
+
+<hide=face>
+
+Rumia0a:...
+
+Cirno0a:Ngh...
+
+</hide>
+
+Wriggle0c:Everyone, wake up!
+
+<hide=face>
+
+Rumia0a:Zzz... So full...
+
+</hide>
+
+Wriggle1b:C"mon, get it together!
+
+Mystia4b:Huh? What happened to us...?
+
+Wriggle4b:Phew, you finally woke up.
+
+Wriggle0a:Is everyone okay? I think we fell off the ship.
+
+Mystia0b:Oh, right, we were attacked by some weird people...
+
+Tensoku0a:...
+
+Rumia0a:Oh hey, Hisoutensoku's with us.
+
+Cirno3b:You saved us after we fell, didn't you?
+
+<SE=se_talk_robot01.ogg,wait=0>
+
+Tensoku0a:...!
+
+Wriggle3c:Looks like no one's hurt. Thanks, Hisoutensoku!
+
+Mystia4b:But we got separated from everyone else. Where are we...?
+
+<pause>
+
+Cirno0b:What is this, candyland?!
+
+Wriggle1c:Looks like it. I guess there are just places like this in the Dreamscape.
+
+Wriggle1b:This might be a trap, so until Reimu gets here we shouldn't touch any—
+
+Rumia4a:*awmph*
+
+Wriggle5c:You're already eating?!
+
+Mystia1b:A full stomach, delicious, this giant chocolate...
+
+Wriggle6b:Not you too, Mystia!
+
+Rumia4a:When Reimu gets here we're gonna have to fight over this stuff, right?
+
+Cirno5g:So we should keep it to ourselves while we can!
+
+Wriggle5b:Is this really the best time for that...? It does look pretty sugary, but still...
+
+<pause>
+
+Tensoku0a:...!
+
+Cirno2b:Hey, it's them!
+
+ByakurenN0a:...
+
+MimaN0a:...
+
+Cirno2b:Looks like they decided to chase us after attacking!
+
+Mystia3a:Maybe they want all this candy?
+
+Rumia0a:Over my dead body!
+
+Wriggle4b:No, I don't think they're after the candy...
+
+Wriggle5b:*sigh* It's impossible to keep up with this many jokesters. I hope we get through this in one piece...
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1EP（または1PPまでに悪夢と戦闘）
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_turns,==,2)>
+
+Mystia0b:I didn't get a good look at them earlier, but those two over there are...
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_turns,<,2)>
+
+Mystia0b:I didn't get a good look at them earlier, but those two are...
+
+</Cond>
+
+ByakurenN0a:...
+
+MimaN0a:...
+
+Wriggle1c:They look just like Byakuren and Mima. But they feel completely different.
+
+Rumia0a:Are they evil minions? Do you know them, Hisoutensoku?
+
+Tensoku0a:...?
+
+Mystia0c:Guess not. New recruits then?
+
+<Cond=(LOCAL_VAR,ObjControl,phase_id,==,2)>
+
+Wriggle1b:They're coming, watch out!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,phase_id,==,1)>
+
+Wriggle1b:They're coming, watch out!
+
+</Cond>
+
+<end>
+
+<ChatID:3>---------------------------------------
+//3PP（または2EPまでに悪夢のHPを80％以下にする）
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_turns,==,3)>
+
+Cirno4c:These girls are tough.
+
+Wriggle4a:And Reimu isn't coming either... What do we do?
+
+Rumia1a:We'll just have to beat them ourselves!
+
+Wriggle0c:But they seem really strong...
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_turns,<,3) && (LOCAL_VAR,ObjControl,is_ByakurenN,==,1)>
+
+ByakurenN0a:...
+
+<pause>
+
+Cirno0b:Mrr. They're not letting this go.
+
+Wriggle4a:And Reimu isn't coming either... What do we do?
+
+Rumia1a:We'll just have to beat them ourselves!
+
+Wriggle0c:But they seem really strong...
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_turns,<,3) && (LOCAL_VAR,ObjControl,is_ByakurenN,==,0)>
+
+MimaN0a:...
+
+<pause>
+
+Cirno0b:Mrr. They're not letting this go.
+
+Wriggle4g:And Reimu isn't coming either... What do we do?
+
+Rumia1a:We'll just have to beat them ourselves!
+
+Wriggle0c:But they seem really strong...
+
+</Cond>
+
+Cirno2b:It's fiiine! We're the strongest!
+
+Mystia1b:Yes, yes, yay!
+
+Rumia3a:Who cares? It'll all work out.
+
+Wriggle1c:...Yeah. They may be a little tough, but if we put our danmaku together...
+
+Cirno1b:Then let's go!
+
+<Code=(icon_set_direction,Tensoku,ByakurenN_en,0)>
+
+<pause>
+
+Cirno1a:Ice!
+
+Rumia0a:And darkness!
+
+Wriggle1b:And bugs!
+
+Mystia1b:And song!
+
+Cirno2c:When we put our powers together, we're the strongest!
+
+Cirno1a:Take this!
+
+<pause>
+
+Rumia0a:Woo! Direct hit!
+
+Cirno3a:See? We ARE the strongest.
+
+Mystia1a:If we keep this up, couldn't we win on our own?
+
+Wriggle1a:Yeah, and they're...
+
+ByakurenN0a:...
+
+<pause>
+
+Mystia5a:Wait, what?!
+
+Wriggle6b:Did that just... not do anything?!
+
+Cirno2b:That can't be right. It was our special move!
+
+Rumia1a:Let's do it again, just to be sure!
+
+ByakurenN0a:...
+
+<pause>
+
+Cirno2a:Aaagh!
+
+Mystia2a:Eeep!
+
+<Code=(icon_set_direction,Wriggle,ByakurenN_en,0)>
+
+Wriggle2a:No, it didn't work! I can't believe she still has so much power left...
+
+Wriggle4c:Did she really just shrug off our danmaku?
+
+Cirno4a:...!
+
+<Code=(icon_set_direction,Mystia,Wriggle,0)>
+
+Mystia1c:Hey Wriggle, none of that weakling talk!
+
+Mystia4b:If that's true, then we're really in trouble!
+
+<Code=(icon_set_direction,Wriggle,Mystia,0)>
+
+Wriggle1d:Sorry, Mystia! But I think we really are in trouble!
+
+Wriggle4d:At this rate, we might lose before we meet up with everyone else.
+
+<Code=(icon_set_direction,Rumia,Wriggle,0)>
+
+Rumia2a:So that candy just now was our last meal?
+
+<Code=(icon_set_direction,Wriggle,ByakurenN_en,0)>
+
+Wriggle2b:I don't know, but...
+
+Cirno0b:...
+
+<Code=(icon_set_direction,Cirno,ByakurenN_en,0)>
+
+Cirno4a:(So if we failed just now, does that mean they're stronger than us...?)
+
+Cirno0a:(But we're supposed to be the strongest! We can't lose to these people...)
+
+Cirno4b:(...Right, Dai?)
+
+<end>
+
+<ChatID:4>---------------------------------------
+//4PP（または3EPまでに悪夢のHPを50％以下にする
+
+<Code=(icon_set_direction,All,ByakurenN_en,0)>
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_turns,<,4) && (LOCAL_VAR,ObjControl,is_ByakurenN,==,1)>
+
+ByakurenN0a:...
+
+<pause>
+
+Wriggle4a:Aah, not yet!
+
+Wriggle4d:...There's no end to this! When will the ship get here?!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_turns,<,4) && (LOCAL_VAR,ObjControl,is_ByakurenN,==,0)>
+
+MimaN0a:...
+
+<pause>
+
+Wriggle4a:Aah, not yet!
+
+Wriggle4d:...There's no end to this! When will the ship get here?!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_turns,==,4)>
+
+Wriggle4c:The Palanquin Ship still isn't here.
+
+</Cond>
+
+Rumia1a:Maybe they got lost?
+
+Cirno0b:...
+
+Mystia0c:Should we try our team-up attack again? Maybe it'll crit this time.
+
+<pause>
+
+<Code=(icon_set_direction,ByakurenN_en,FD_RIGHT,0)>
+
+Wriggle4g:...
+
+Wriggle4c:No... I think if we try again it'll end the same way.
+
+Wriggle4d:Our team-up attack won't work no matter how many times we try.
+
+<Code=(icon_set_direction,Mystia,Wriggle,0)>
+
+Mystia4b:But that's...
+
+Rumia2a:Yeah, maybe we're just too hungry.
+
+Mystia0c:Hey, not you too, Rumia!
+
+Mystia4b:What's wrong with you two? You aren't normally like this.
+
+Cirno4a:...But usually we have Dai with us.
+
+Cirno0b:Isn't she always here, cheering for us?
+
+Mystia4b:Dai...
+
+Wriggle4g:...You're right. Dai was always telling us we could do it, no matter what.
+
+Wriggle4b:I can't believe we didn't notice until we were separated.
+
+Cirno2a:Dai...!
+
+<pause>
+
+<Code=(icon_set_direction,All,Seirensen,0)>
+
+<Code=(icon_set_direction,All_en,Seirensen,0)>
+
+Cirno2b:...!
+
+Mystia3b:It's the Palanquin Ship!
+
+Murasa1b:Letty, is this where Cirno and the others were blown off?
+
+Letty1b:Right. Hisoutensoku was with them too, so we should be able to spot them.
+
+Lyrica1c:Wait, what is this place? Fairytale Land?
+
+Koakuma1c:If Makura did this, then she's got quite odd taste.
+
+Kurumi1a:Just 'cause I'm a glutton doesn't mean I'll fall for this!
+
+Rumia1a:Hey! Palanquin Ship!
+
+Wriggle3b:Thank goodness, they're all here!
+
+Sho1b:Oh, I can see Cirno and the others!
+
+Daiyosei3a:They're okay!
+
+Letty4a:Sorry it took so long. Looks like you aren't hurt, at least.
+
+Mystia3c:Yeah, Hisoutensoku saved us!
+
+Marisa0c:Whoa, really?
+
+Shinki0c:You're protecting the children? What a good boy you are.
+
+<SE=se_talk_robot01.ogg,wait=0>
+
+Tensoku0a:...!
+
+Yamame4a:So Wriggle, I take it those two are the ones who attacked you?
+
+Wriggle1e:Yeah. They're not talking, but...
+
+ByakurenN0a:...
+
+MimaN0a:...
+
+Byakuren1b:That's...
+
+Mima1c:Is that supposed to be me and Byakuren?
+
+Rumia0a:Looks like it. Maybe they were sent as assassins?
+
+Nazrin6b:Is this her dream power again? What's she playing at...?
+
+Korin1c:We can speculate later, we need to deploy!
+
+<end>
+
+<ChatID:5>---------------------------------------
+//4PP（配置後）
+
+Sakuya5b:So after the catfish comes a pair of imposters? Don't these people know when to give up?
+
+Komachi0c:If they're as strong as they look, then this'll be tough.
+
+Byakuren3a:I'm worried about those of us still on the ground. We should regroup with them first.
+
+Yamame1a:Break past them and get over here, Wriggle! We're regrouping!
+
+Wriggle6b:What? But...
+
+Cirno0b:...
+
+Sunny0d:Why're you going all quiet? You can just blow past 'em with your danmaku, right?
+
+Rumia0a:Uh-uh, I don't think it'll work.
+
+Mystia4b:We already tried that, and it did nothing.
+
+Star0c:What? Nothing?
+
+Luna1a:No way, wasn't that your strongest attack?
+
+Wriggle4b:...But it still didn't work. I don't think it'll work no matter how many times we try.
+
+Cirno4a:Maybe our strongest move wasn't the strongest after all...
+
+Daiyosei3b:Cirno... Everyone...
+
+Nazrin0b:This is bad, what happened to all that baseless self-confidence you've always had?
+
+Nazrin6a:I doubt they'd be much help in a fight in that state.
+
+Daiyosei3b:They can't fight...?
+
+<pause>
+
+Rumia2a:Waaah!
+
+Mystia2a:Eeep!
+
+LilyW1b:Rumia! Mystia!
+
+Kisume4a:They aren't acting like themselves! They're gonna be in danger!
+
+Daiyosei2b:I don't want this...!
+
+Luna4b:Dai...
+
+Daiyosei2b:At this rate, Cirno will... everyone will get hurt.
+
+Daiyosei2b:Please, somebody, save them!
+
+Letty0c:Daiyousei...
+
+Letty1a:No, you do it.
+
+<Code=(icon_set_direction,Daiyosei,Letty,0)>
+
+Daiyosei3a:Me?
+
+Letty0b:They lost their confidence because their four-person attack didn't work, right?
+
+Letty0a:You know them best, so you're the best person to encourage them.
+
+Daiyosei2b:But I don't have that kind of power...
+
+Letty1b:So we're back to this? Do you plan to just keep crying forever?
+
+Daiyosei3a:...!
+
+Letty3a:...I know you don't. No one believes in their strength more than you, Daiyousei.
+
+Letty3c:What Cirno needs now is that belief, your pure feelings, as you cheer them on.
+
+Daiyosei3a:Letty...
+
+Yamame4c:She's right. If anyone can do it, it's you.
+
+Kisume3c:Yeah, you'll do fine. Letty's right!
+
+Iku3a:Even a single word can have a mysterious power.
+
+Tenshi5a:It can be the truth or a bluff. If you have any words to share, then say them!
+
+Daiyosei0c:Everyone...
+
+Daiyosei1a:Okay!
+
+<pause>
+
+Rumia0a:Dai...?
+
+Cirno2c:It's not safe, don't come any closer!
+
+Daiyosei1a:No, I'm gonna fight with you!
+
+Wriggle6a:Huh?
+
+Mystia4a:Weren't you listening? We can't do anything against them.
+
+Daiyosei1a:Even so, I still believe in you!
+
+<pause>
+
+Cirno6a:...!
+
+Rumia1a:Is this Dai's power?
+
+Daiyosei1a:...Cirno never loses. None of you do.
+
+Daiyosei1a:It doesn't matter who you're fighting. I know exactly how amazing you all are!
+
+<pause>
+
+Rumia1a:What's this light?
+
+Wriggle1b:I feel power welling up...
+
+Mystia1b:It feels really nice!
+
+Cirno1a:This isn't like before. It's...
+
+Daiyosei1a:Cirno!
+
+Cirno2b:Dai!
+
+Daiyosei1a:No matter what happens, you'll always be the strongest.
+
+Daiyosei4c:So you all need to believe it too!
+
+Cirno0b:Belief... Will this really work?
+
+Daiyosei1a:Yeah! I guarantee it'll work! It always works!
+
+Daiyosei1a:Other people might say differently, but I'll always believe it!
+
+Daiyosei4c:So you have to try again! One more time!
+
+Wriggle6a:One more time...?
+
+Daiyosei1a:Show them your strongest danmaku. This time I'll fight with you.
+
+Rumia0a:Ooh, I getcha. One more time.
+
+Wriggle1c:One more time...
+
+Mystia1a:One more time!
+
+Cirno2b:Yeah, one more time!
+
+Cirno1a:Let's do it! The strongest attack, this time for real!
+
+<pause>
+
+Cirno2c:Ice!
+
+Rumia1a:And darkness!
+
+Wriggle5e:And bugs!
+
+Mystia1b:And song!
+
+Daiyosei1a:I believe in you all!
+
+Cirno1a:Now we're even better than the strongest!
+
+Cirno1a:Here we go!
+
+<pause>
+
+Mokou1a:They nailed it!
+
+Letty3c:Yes, with the power of five.
+
+Lyrica1a:Nice! It's like all that self-doubt never happened!
+
+Merlin1a:This is even more crazy-exciting than when it was four of them!
+
+Lunasa0a:With their self-confidence restored, they could perform as they originally did.
+
+Lunasa1a:But to think that one small addition would give birth to such harmony...
+
+Nazrin0a:Their deep, mutual trust in each other probably let them go beyond their limits.
+
+Cirno3a:We did it, Dai!
+
+Daiyosei0b:Cirno! Everyone!
+
+Wriggle1b:It's a little early to relax, she's still standing!
+
+Mystia3a:Oh, right. She is.
+
+Rumia1a:But if we keep this up, she'll be an afternoon snack.
+
+ByakurenN0a:...
+
+<pause>
+
+Murasa2b:...!
+
+Nazrin0b:She realized she was in trouble, so she called her friends?
+
+Ichirin1a:Wait, those are...
+
+RemiliaN0a:...
+
+FlanN0a:...
+
+KanakoN0a:...
+
+Keine1a:How can there be so many fakes?!
+
+Flan2c:Looks like it's me and Remi over there.
+
+Suwako1c:They got us over there too? Cheeky.
+
+YukariN0a:...
+
+YuyukoN0a:...
+
+Yuyuko1c:My goodness. Is that us?
+
+Chen5b:It's Miss Ran and Miss Yukari!
+
+KaguyaN0a:...
+
+MokouN0a:...
+
+Mokou3a:I'd know that insufferable face anywhere. Another Kaguya?
+
+Kaguya4b:I see there's also a fake Eirin and Mokou following me around.
+
+SuikaN0a:...
+
+TenshiN0a:...
+
+Suika2a:Wait a minute, that's me!
+
+Iku1c:And with that height, it can be none other than the eldest daughter.
+
+Tenshi4a:I know what you mean, but couldn't you have put that more nicely? The short one next to me must be...
+
+EikiN0a:...
+
+Komachi5b:Eep! Lady Shiki!
+
+Eiki1c:This isn't the time to joke around. Look over there.
+
+UtsuhoN0a:...
+
+KoishiN0a:...
+
+Utsuho5d:Look, Orin! They look just like me and Miss Koishi!
+
+Orin1b:Why do you sound so happy, stupid? Can't you feel their creepy aura?
+
+ShoN0a:...
+
+MurasaN0a:...
+
+Byakuren2a:And it's Shou and Murasa... I suppose they were called by my shadow?
+
+Tewi2c:And to top it all off...
+
+YorihimeN0a:...
+
+ToyohimeN0a:...
+
+Reisen2a:Eeeeek! Why do there have to be the Watatsukis too?!
+
+Udonge2a:Th-This is a nightmare! I-It's all just a bad dream!
+
+Eirin1c:Based on their auras, they seem to be about the same strength as the originals.
+
+Eirin1a:It appears the mastermind chose to create copies of the most powerful among us.
+
+Toyohime2b:So you could say this is their all-star line-up? What an honor to be included.
+
+Remilia1a:But isn't this the dream match?
+
+Mima1b:When else would I get the chance to fight you all at once?
+
+Kanako1a:A championship match then? How entertaining.
+
+Yugi3b:Yeah, I'm pumped for this!
+
+Marisa7a:At least some of us are excited. Not that this would be the first time that's happened...
+
+Reimu1a:Either way, we can't advance without exterminating them, so bring it on!
+
+Yukari0b:Byakuren and Mima's shadows are the ones who summoned the others. Once we defeat those two, the rest should vanish.
+
+Yukari0a:Also, be careful. The fakes are deploying powerful danmaku fields.
+
+Daiyosei1a:Right, let's do our best!
+
+Rumia0a:We won't lose to a bunch of final bosses!
+
+Wriggle1b:Even a tenth of an inch bug has a half-inch soul!
+
+Mystia1b:Fun danmaku... Small danmaku...
+
+Cirno1a:Just watch us, we'll show 'em who's the strongest!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//増援後、任意の悪夢と戦闘
+
+Murasa0c:Wow, these fakes really are just like us.
+
+Ichirin0d:What's Makura's game? Why go out of her way to beat us up with our own reflections?
+
+Nazrin6a:I doubt she just needed more pawns.
+
+Sho0c:Could this be an effort at psychological warfare?
+
+Akyu0a:How so?
+
+Byakuren0c:The fakes may resemble us, but not completely.
+
+Byakuren2a:It's as if we're seeing ourselves warped through the lens of a nightmare.
+
+Mima1b:So you're saying she means to crush our spirit with these? She's got some nerve.
+
+Nue1a:Yeah, rude. But whatever, we just gotta blow 'em away.
+
+Sho0a:Right. Defeating the nightmares should clear up the darkness of our hearts.
+
+Sho1b:We'll prove that!
+
+<end>
+
+<ChatID:7>---------------------------------------
+//悪夢（白蓮）と初戦闘
+
+ByakurenN0a:...
+
+Ichirin1d:The chief's fake... Or nightmare, I guess.
+
+Murasa1b:It isn't the Hijiri we know.
+
+Nazrin4b:She's beautifully powerful, but there's a devilishness to her.
+
+Byakuren2a:...That's how I was when my heart was held captive by black magic and I used others for my own ends.
+
+Byakuren5b:This could've been me, in a different future.
+
+Sho4b:Hijiri...
+
+Shinki5a:But it's NOT you. You use your power to help both humans and youkai.
+
+Byakuren2a:Yes, exactly. I won't let this nightmare lead me astray.
+
+Byakuren1c:I'll exorcise it!
+
+<end>
+
+<ChatID:8>---------------------------------------
+//悪夢（白蓮）通常撃破
+
+Patchouli0c:Even if it's a copy, it's still just an imitation of a great magician.
+
+Byakuren2a:You can't let your guard down. If this is me from when I was abusing the dark arts, then...
+
+ByakurenN0a:...
+
+<pause>
+
+Marisa2b:...!
+
+Mima1c:What tremendous magical power! But the way it's coiling around her...
+
+Byakuren5b:In the past, even when I was called a devil I never abandoned my human heart.
+
+Byakuren2a:But this nightmare is different. In order to surpass humanity, she's cast aside her human heart.
+
+Elliy1a:So you're saying this is Devil Byakuren?!
+
+Alice1a:You idiot, this isn't the time to be joking around!
+
+Sho1c:But even if this is a nightmare, I won't stand for anyone twisting your image like this, Hijiri.
+
+Sho1b:We'll send her back to the darkness with our own hands!
+
+<end>
+
+<ChatID:9>---------------------------------------
+//悪夢（白蓮）スペル１撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Nazrin0b:...Looks like she's down.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Nazrin0b:...Looks like we got away.
+
+</Cond>
+
+Murasa0b:I know she's a fake, but I hate seeing you like that, Hijiri.
+
+Byakuren5a:...But you shouldn't conclude that this is entirely a fantasy.
+
+Ichirin4b:Hijiri...
+
+Byakuren0c:Perhaps if I hadn't had people to support me, I really would have fallen into darkness.
+
+Byakuren0a:But I didn't because I met all of you, who healed my soul and set me on the right path.
+
+Byakuren3c:I promise that as long as you are my light, I will never be lost in the dark.
+
+Sho3d:Thank you, Hijiri.
+
+ByakurenN0a:...
+
+Byakuren1c:Now begone, nightmare. You've been a lesson I'll never forget.
+
+<end>
+
+<ChatID:10>---------------------------------------
+//悪夢（魅魔）と初戦闘
+
+MimaN0a:...
+
+Marisa1c:So this is Mima's imposter...
+
+Nitori1c:She's got a crazy amount of power, but isn't something off about her?
+
+Patchouli0a:Indeed. While the original may be rude and violent, she has the conviction of a trailblazer.
+
+Patchouli4a:Whereas this one is nothing more than an evil spirit possessed by her own power.
+
+Yuyuko1d:So without a foundation to her magic, she's just going berserk?
+
+Mima1b:Don't hesitate, Marisa. No matter what she does...
+
+Marisa0a:Don't worry, Mima. Actually, I'm looking forward to this.
+
+Mima0c:Why?
+
+Marisa7a:As my master, you'd never fight your own pupil seriously, right?
+
+Marisa7c:But if you did, I'd want to see just how far I could go.
+
+Nitori4a:You wanna surpass your master?
+
+Marisa0a:Well, that isn't really what magic's about... But since I won't get this chance again, what's wrong with testing my strength against you?
+
+Mima0d:...Hmph. Cheeky. But that does make me more interested in fighting this nightmare.
+
+Mima1a:Show me what you can do against my shadow, Marisa.
+
+Marisa1a:Right!
+
+<end>
+
+<ChatID:11>---------------------------------------
+//悪夢（魅魔）通常撃破
+
+Mima0c:Oho, you're making headway.
+
+Marisa2b:But if she's YOUR shadow, that can't be all she's got.
+
+MimaN0a:...
+
+<pause>
+
+Patchouli4e:...!
+
+Alice1a:Her magic increased! Not to mention this pure, undiluted bloodlust!
+
+Mima1b:...I see. If she wants to kill that much, then she really is just an evil spirit.
+
+Mima0a:So this is what happens when you abandon morality and the way of the magician, and seek power for its own sake.
+
+Nitori2a:You'll be okay, right, Marisa?
+
+Marisa2b:Yeah. Show me the power I never get to see, Mima!
+
+<end>
+
+<ChatID:12>---------------------------------------
+//悪夢（魅魔）スペル１撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Korin2c:...Looks like she's down.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Korin2c:...Looks like we got away.
+
+</Cond>
+
+Mima0a:If you defeated that nightmare, then you all aren't half-bad.
+
+Mima0e:So, how was it, Marisa?
+
+Marisa0a:I guess I won, so I've really come a long way, huh?
+
+Marisa0c:But it's you we're talking about, so you must still have even better magic up your sleeve.
+
+Mima2b:You overestimate me, Marisa. If I wanted to be an evil spirit like her, it'd be all too easy...
+
+Nitori2a:Wait, are you telling me that nightmare gave you ideas?!
+
+Korin1b:Stop unintentionally stirring the pot, Mima. Knowing you, that wasn't what you meant.
+
+Mima2a:Did you really have to butt in, Rinnosuke? We're talking here.
+
+Korin1b:Don't be ridiculous. Anyway, don't you have to meet the expectations of the pupil you've promised to watch over?
+
+Marisa1b:Yeah, Mima! What would I even do if I lost you as a goal?
+
+Marisa7c:I still haven't caught up yet, but one day I'll knock your socks off with my own personal magic!
+
+Mima3c:Heh. That's my pupil.
+
+<end>
+
+<ChatID:13>---------------------------------------
+//悪夢（豊姫）と初戦闘（没）
+
+<end>
+
+ToyohimeN0a:unused
+
+<end>
+
+<ChatID:14>---------------------------------------
+//悪夢（豊姫）通常撃破（没）
+
+<end>
+
+ToyohimeN0a:unused
+
+<pause>
+
+ToyohimeN0a:unused
+
+<end>
+
+<ChatID:15>---------------------------------------
+//悪夢（豊姫）スペル１撃破（没）
+
+<end>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Reimu0a:unused
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Reimu0a:unused
+
+</Cond>
+
+ToyohimeN0a:unused
+
+<end>
+
+<ChatID:16>---------------------------------------
+//悪夢（白蓮、魅魔、豊姫）を撃破（クリア）
+
+Akyu0a:...Looks like we've defeated both Byakuren and Mima's shadows.
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_enemies,>,0)>
+
+Reimu1b:Yeah. Which means the others...
+
+<pause>
+
+Sakuya5b:They're gone. As we suspected, those two were the source of their power.
+
+Sunny4a:They were all tough, but we made it through.
+
+Akyu0a:Then let's continue on our way. We do still have an investigation to do.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_enemies,==,0)>
+
+Ran1a:I never imagined we'd defeat the rest of the nightmares first though.
+
+Yukari1a:We could have gone straight for the two of them... but who'd have been satisfied with that?
+
+Reimu0g:C'mon, against that line-up? How could we resist?
+
+Marisa0c:A few years ago it would've been iffy, but now we're strong enough to take 'em all on at once.
+
+Keine6b:This is proof of how far we've come, both in raw strength and tactics.
+
+Akyu0a:Then let's continue on our way. We do still have an investigation to do.
+
+</Cond>
+
+Rumia0a:Aww, but wait!
+
+Mystia0c:There's candy everywhere! Aren't you gonna eat something?
+
+LilyW0d:What? Candy?
+
+Keine4a:Was that supposed to be a joke? I understand the sentiment, but...
+
+Mystia1b:What's better for a tired body than sugar intake?
+
+Wriggle3c:And it's just as safe to eat as it looks.
+
+Cirno5b:We thought about hogging it all, but instead we're sharing it with everyone! Aren't we awesome?
+
+Letty0a:So you want to take snack break in the middle of an investigation? It's not something I would've considered.
+
+Letty3c:But it does make sense, and if it's already been tested for poison, then why not?
+
+Byakuren3a:That said, we can't afford to stop moving. We can take some back to the ship with us.
+
+Rumia3a:Yay! Grab as much as you can, Hisoutensoku!
+
+Tensoku0a:...!
+
+<end>
+
+<ChatID:17>---------------------------------------
+//ADVB
+
+<BG=bg_talk_Mugen_Deep.png,fade=1,color=1,title=bg_Mugen_Deep,bgm=bgm_talk_dream>
+
+Onamazu0a:Hmm...
+
+Meko0c:It's your turn, catfish.
+
+Onamazu0a:I know, I know, stop yapping. But at this rate I'll lose my rook AND my bishop...
+
+Onamazu1a:Grah, forget it! This isn't even a good waste of time!
+
+Meko1d:Hey, you're the one who wanted to play!
+
+Onamazu0a:But how am I supposed to calm down when you won't sit still?!
+
+Onamazu0a:We went with Makura's plan, so why not just relax and get some rest? Our victory is just a matter of time.
+
+Meko0a:Well, yes, but still...
+
+Makura5a:...
+
+Meko0a:Is something troubling you, Lady Makura?
+
+Makura5a:...Yes. The nightmares are late. They should have reported back by now.
+
+Makura5a:I can't tell how the battle is going, but I fear...
+
+Onamazu0a:You worry too much. This plan is unbeatable.
+
+Onamazu0a:Once they see their own twisted selves, they'll be so shaken that they'll crumble right down to the bones.
+
+Makura5a:That's the plan, but...
+
+<Code=(map_flash,1,30,c_white)>
+
+<SE=se_kyupin01.ogg,wait=0>
+
+<Code=(demo_wait,26)>
+
+Makura5a:...!
+
+Onamazu1a:Hrm. This feeling...
+
+Meko0b:What's wrong, Lady Makura? Don't tell me they...
+
+Makura5a:...The nightmares have burst. The humans must have defeated them.
+
+<Cond=(CHECK_FLAG,C73_BEATALL,==,0)>
+
+Makura5a:They pinpointed the source of the power and skillfully broke through.
+
+Onamazu0a:They're a clever bunch, aren't they?
+
+Meko0b:They actually won?
+
+</Cond>
+
+<Cond=(CHECK_FLAG,C73_BEATALL,==,1)>
+
+Makura5a:Not only that, they beat every last nightmare.
+
+Meko0b:N-No way! That's impossible!
+
+Onamazu0a:I can't believe it either, but it's true that they've all stopped working.
+
+Onamazu0a:To think they had so much power...
+
+</Cond>
+
+Meko0b:What do we do now? If even that plan has failed, then...
+
+Onamazu0a:They'll keep advancing into our territory.
+
+Onamazu0a:The beings of Gensokyo deserve more credit than we've given them.
+
+Makura5a:Yes. After thwarting a few of our schemes, they're about to reach the Nightmare Core.
+
+Meko0b:Th-The core?!
+
+Meko1f:Isn't that, like, really bad? That's the thing sending the dreams out to all the sheep, right?
+
+Meko0b:If they manage to break it, the humans'll stop having the nightmares!
+
+Makura5a:...We have no choice. The Nightmare Core, or rather the Great Sheep, will have to deal with them directly.
+
+Meko0b:What...?
+
+Onamazu0a:But the Great Sheep is what they're after. Isn't it too dangerous to put it on the front lines?
+
+Makura5a:Even so, the power it possesses makes it the strongest piece I have on the board.
+
+Makura5a:Rather than spread out our forces to be defeated one at a time, it's best that we concentrate them into one unbreakable formation.
+
+Onamazu0a:...I see. If that's the plan, then I'm fine with it.
+
+Onamazu0a:Once that thing sends out its nightmare, even the bravest warriors will be rendered powerless.
+
+Makura5a:So with that in mind, I need you there too, catfish.
+
+Makura5a:By using the Great Sheep, our victory will be assured.
+
+Onamazu0a:Ho ho ho, leave it to me! I'll be back with their heads on a platter, I guarantee it!
+
+Meko1a:Lady Makura, I'll volunteer as well.
+
+Makura5a:...No. I want you to stay here, Mehko.
+
+Meko1b:But I can be useful!
+
+Makura5a:It's not that I don't trust you. Rather, I don't know if I'll be able to protect you if something goes wrong.
+
+Makura5a:Please, stay where I can watch over you, just in case.
+
+Meko0f:Lady Makura...
+
+<MAP=18,FROM=メルヘン世界,TO=メルヘン世界,name=Dreamscape,icon=4>
+
+<BG=*bg_talk_Seirensen_Dining.png,fade=1,color=1,title=*bg_Seirensen_Dining,bgm=bgm_talk_potion>
+
+Rumia3a:Phew, I'm full.
+
+Wriggle3c:Okay, I think I'll stow the rest for later.
+
+Rumia0a:*staaare*
+
+Daiyosei0a:Didn't she just say she was full...?
+
+Yamame0d:Why do I get the feeling that there won't be any left when Wriggle comes back for it later?
+
+Daiyosei4d:A-Anyway! Cirno and the others were right. This was a delicious snack.
+
+Kurumi3b:Yeah, I give first prize to the hard toffee!
+
+Nitori1a:Dried shirikodama for me, no contest!
+
+Toyohime0b:The cake and the peach manju were quite good as well.
+
+Yuyuko1c:So were these dango.
+
+Yorihime2a:Really, Toyohime? You don't get enough exercise as it is, and now you're eating all these sweets?
+
+Youmu2b:I should say the same to you, Lady Yuyuko.
+
+Toyohime2c:Oh, it's fine. We're not impure.
+
+Yuyuko1c:Exactly!
+
+Parsee0a:What kinda logic is that? But seriously, just look at them all, stuffing their faces...
+
+Yugi3b:If you're that bitter, why not go back and get some more?
+
+Yugi1a:I don't really get why, but sweets taste better when you're in a foul mood, right?
+
+Parsee2a:That's just stress eating! That's the kind of thing you always regret later!
+
+Satori0a:Given how relaxed everyone is, I can hardly believe we just fought such a fierce battle.
+
+Eiki3c:Naturally. No girl could turn down sweets.
+
+Akyu0a:Does that go for you as well, Lady Shiki?
+
+Shinki0b:Enjoying delicious food is an important part of mental nourishment, you know.
+
+Yumeko4a:An admirable philosophy, but you're still eating too much.
+
+Shinki2a:Hey, wait Yumeko! Don't take away my moment of pure joy!
+
+Keine0b:...This is certainly livelier than I was expecting.
+
+Keine3a:I was against taking a break at first, but...
+
+Alice0d:Ever since this dream incident started, everyone's been on edge.
+
+Alice3b:But it looks like Cirno's group has lifted everyone's spirits.
+
+Marisa0c:They've done a pretty good job of that the whole time they've been with us, haven't they?
+
+Reimu2b:I doubt it was intentional on their part...
+
+Cirno0b:What're you girls talking about?
+
+Mystia3d:Are you praising us?
+
+Reimu2b:Mm...
+
+Wriggle3d:Wow, getting praise from Reimu is like, the real deal!
+
+Rumia4a:I think this might be the first time she's praised me since I joined...
+
+Reimu5c:Don't let it go to your head. I know where this goes: next, you'll ask me for a reward.
+
+Rumia1a:You wouldn't give us one even if we asked!
+
+Merlin1c:Still, this danmaku battle was really uplifting!
+
+Lunasa0a:The moment four became five was like seeing a missing piece slide into place.
+
+Lunasa3c:It's incredible how much power your mutual trust and feelings gave rise to.
+
+Lyrica1a:And you looked pretty cool when you rushed out toward them, Daiyousei.
+
+Daiyosei4d:Oh, no, all I did was cheer for them...
+
+Daiyosei0b:And even that was only because Letty gave me a little nudge...
+
+Letty3c:No need to be so modest. Someone's praising you, so hold your head up with pride.
+
+Letty0a:Not just anyone could leap out there when faced with those nightmares, you know.
+
+Byakuren3a:And overcoming that battle was a huge success.
+
+Byakuren3e:Not a single one of us backed down when faced with twisted versions of our comrades.
+
+Marisa0a:Actually, it just reminded us of everything we've been through, and the convictions we carry.
+
+Alice0d:Right. We haven't lost yet, whether on the battlefield or in our hearts.
+
+Alice3b:I doubt Makura Muwatari ever expected this to renew our confidence.
+
+Keine0a:In a lot of ways, this latest fight was a good chance to reflect back on who we are.
+
+Lunasa4b:Who we are...
+
+Merlin4a:...
+
+Marisa0d:Hey, what's wrong, you three?
+
+Reimu0f:You suddenly got all quiet. That's not like you at all.
+
+Lyrica0c:Oh, yeah. We just can't exactly relate there.
+
+Lunasa0b:Compared to you all, we hardly know anything about ourselves.
+
+Daiyosei5e:You don't...?
+
+Merlin2a:Yeah. Not our past, or much of anything.
+
+Letty0a:I think it's fine not to worry about that and just be yourselves.
+
+Merlin0b:I hope you're right. This might be something for the three of us to solve, though.
+
+Lunasa0b:But either way, this isn't the time to bring this up.
+
+Lunasa0a:First we need to resolve this incident. Let's keep moving.
+
+Eiki0b:...
+
+<end>
+
+<ChatID:18>---------------------------------------
+//全滅（味方増援前）
+
+<end>
+
+Cirno2a:AAAH!
+
+<ChatID:19>---------------------------------------
+//全滅（味方増援後）
+
+<end>
+
+Akyu0a:unused
+
+<ChatID:20>----------------------------------------
+//悪夢（レミリア）と初戦闘
+
+RemiliaN0a:...
+
+Flan2c:This nightmare looks just like Remi.
+
+Meiling1a:This aura of terror and violence, it's like she's a real Devil Queen!
+
+Sakuya0a:She's somewhat lacking in elegance though.
+
+Remilia6a:Exactly. If you think being a queen is nothing more than acting like a big-shot, you've got another thing coming.
+
+Remilia1a:Let me teach you what true charisma is all about!
+
+<end>
+
+<ChatID:21>----------------------------------------
+//悪夢（レミリア）を撃破
+
+Satori0c:...We beat her.
+
+Komachi3c:I bet not even Sakuya could stand serving a mistress like that.
+
+Sakuya5b:Who can say? There's no point in speculating on what-ifs.
+
+Patchouli3c:Personally, I'd turn her down. She was just pure evil with no charm.
+
+Koakuma3a:Maybe that's what they mean by devilish charm?
+
+Remilia1c:Vampires don't reflect in mirrors. Trying to make a reflection of me was doomed from the start.
+
+Remilia1d:It's time for this unsightly imposter to leave the stage.
+
+RemiliaN0a:...
+
+<end>
+
+<ChatID:22>----------------------------------------
+//悪夢（フラン）と初戦闘
+
+FlanN0a:...
+
+Koishi2b:Huh? Is that Flan?
+
+Lyrica1b:It looks like her, but those eyes...
+
+Yorihime0b:It's like she hates the entire world. Like she's been lost to madness.
+
+Yorihime0a:Almost like... an avatar of destruction, maybe.
+
+Remilia1b:Just because it's a dream doesn't mean it's acceptable to let Flan see such things.
+
+Flan3b:Don't worry, Remi, I'm fine. I just have to break the fake, right?
+
+Minoriko2c:Watch out, she's attacking indiscriminately!
+
+<end>
+
+<ChatID:23>----------------------------------------
+//悪夢（フラン）を撃破
+
+Flan0b:Tee hee hee, I broke you.
+
+Meiling0a:Fake or not, I'd prefer if it didn't go on rampages with Lady Flan's form.
+
+Satori0b:This is a nightmare of a Flandre who never knew love, and was taken over by hatred and madness.
+
+Satori0b:Perhaps this could have been her future, if things had taken a different path.
+
+Remilia0a:Absolutely not.
+
+Flan0b:Yeah, 'cause I know Remi really cares about me.
+
+Flan0b:Who would ever hate someone forever? That's dumb.
+
+Sakuya0a:...Water under the bridge, I suppose?
+
+Patchouli0a:I wonder if Remi's unflappability is contagious.
+
+<end>
+
+<ChatID:24>----------------------------------------
+//悪夢（幽々子）と初戦闘
+
+YuyukoN0a:...
+
+Youmu2b:This nightmare looks like Lady Yuyuko!
+
+Yuyuko1c:Taste my amazing ninja shadow clone technique!
+
+Suika2a:Is this really the time to mess around? Sheesh, at least THIS one's easy to read. She's just full of hostility.
+
+Ran1b:If she uses Lady Yuyuko's power, this could get extremely troublesome.
+
+Yukari2a:...
+
+Chen4b:Ack, and now Lady Yukari's making a scary face too...
+
+Yukari4a:Even if this is just a fake, I absolutely cannot allow this mockery of her appearance.
+
+Yukari2c:Let's be rid of her before she does anything untoward.
+
+<end>
+
+<ChatID:25>----------------------------------------
+//悪夢（幽々子）を撃破
+
+Murasa2b:Well, we managed to beat her.
+
+Mima1c:Inviting everyone who approaches to their death? That's one evil spirit right there.
+
+Yukari2a:...
+
+Yuyuko1c:There's that scary face again, Yukari.
+
+Yukari4b:What do you expect? How dare that shadow use your power with your very visage.
+
+Yuyuko0b:I don't care what it does. It's just a fake, you know.
+
+Yuyuko1b:Plus, I don't remember ever using my powers like that.
+
+Yukari1b:...Right. If you thought nothing of it, then I suppose it's fine.
+
+Yuyuko3b:...
+
+Youmu2b:Still, this is another side of Lady Yuyuko's power...
+
+Eiki1a:Not that I'm worried, but if you did ever abuse your power in this manner, you wouldn't be trusted with running the Netherworld.
+
+Eiki0a:This is a fine opportunity to remind yourself of that fact.
+
+Yukari4c:Even now you have a lecture at the ready, Lady Shiki?
+
+<end>
+
+<ChatID:26>----------------------------------------
+//悪夢（紫）と初戦闘
+
+YukariN0a:...
+
+Reimu5d:A nightmare that looks like Yukari, huh...
+
+Yukari4c:My apologies if that makes it harder to deal with, Reimu.
+
+Reimu5c:Are you kidding? This is great. Normally I wouldn't be able to exterminate you even if I wanted to. Time for some catharsis!
+
+Ran6c:In that case, I'd like to test my strength against her as well.
+
+Tenshi1b:Oh no you don't! You're not going to beat me to the punch!
+
+Eiki1b:This is a fine opportunity to lay out some facts for you—even if it's an imposter and not actually you.
+
+Yukari0e:Wait, why are you all lining up for this...?
+
+Suika1a:You sound so petty about it, Yukari.
+
+Yuyuko1c:It just goes to show how popular you are with a wide range of people!
+
+Yukari1a:...That can mean a lot of things. Just don't bully me too much, hmm?
+
+Yukari3b:Let's have a firsthand look at how Makura Muwatari has twisted me.
+
+<end>
+
+<ChatID:27>----------------------------------------
+//悪夢（紫）を撃破
+
+Minoriko2b:Phew, we did it.
+
+Shizuha0b:She even copied your gap ability. What a well-made nightmare.
+
+Satori0c:...But she really wasn't like Yukari at all.
+
+Satori0b:She was willing to coldly draw lines in the sand in order to achieve her objectives.
+
+Reisen0b:You're saying the real Yukari DOESN'T do that?
+
+Toyohime2c:If an administrator can't make things clear, doesn't that make this one the real nightmare?
+
+Eiki0a:I don't disagree. The imposter would certainly have a much easier time in life.
+
+Eirin1c:Having reality be the true nightmare would be unpleasantly ironic.
+
+Eirin3c:Not that I would know where the reality lies.
+
+Yukari5a:...
+
+<end>
+
+<ChatID:28>----------------------------------------
+//悪夢（藍）と初戦闘
+
+RanN0a:...
+
+Chen2b:Whoa, Miss Ran?!
+
+Ran0b:Don't worry, Chen. The real one's right here.
+
+Chen4b:Whoa, ANOTHER Miss Ran?!
+
+Ran4a:Umm...
+
+Nazrin0b:They look the same, but they feel like completely different people.
+
+Sho1c:Right, it's like she's using her power and wisdom to simply trample over others!
+
+Ran1c:So she's forgotten her place as a shiki, and is acting more like a nine-tailed fox.
+
+Ran1e:Very interesting. Show me your true strength.
+
+<end>
+
+<ChatID:29>----------------------------------------
+//悪夢（藍）を撃破
+
+Sunny3a:Phew, that was crazy, as always.
+
+Luna1a:I guess you could say she was lively?
+
+Tewi4a:I guess it might be easier to abandon wisdom and live by the instincts of a beast youkai.
+
+Sho4a:But this nightmare had no dignity.
+
+Chen0b:The nice Miss Ran is the real Miss Ran!
+
+Ran3a:How nice of you to say. True, being a shiki is one aspect of many for me—
+
+Yukari1a:A Ran that isn't smart wouldn't be Ran.
+
+Ran6a:I couldn't agree more, Lady Yukari. I am the strongest beast, and your strongest shiki.
+
+<end>
+
+<ChatID:30>----------------------------------------
+//悪夢（永琳）と初戦闘
+
+EirinN0a:...
+
+Udonge2b:Eep! A nightmare of Master!
+
+Reisen2c:That look in her eye! I KNOW she's planning to slaughter us all!
+
+Yorihime2a:What are you saying, Reysen?!
+
+Toyohime2c:That's right! Our kind Lady Yagokoro would never make an expression like that.
+
+Toyohime2d:It's as if... she sees life on Earth as insignificant, as merely beings tainted by impurity.
+
+Kaguya1a:Oh, really.
+
+Tewi4a:Yeah, uh, no comment there.
+
+Yukari2a:But if this is a reflection of Eirin, we can't let our guard down.
+
+Udonge2b:Right! Who knows what spells the Sage of the Moon is gonna throw at us?
+
+Yorihime0b:...What the fake does is irrelevant, as long as you keep the teachings of the real one in mind.
+
+Yorihime1b:Using her form to deceive us... what a base, vulgar act. Be cleansed by my blade!
+
+<end>
+
+<ChatID:31>----------------------------------------
+//悪夢（永琳）を撃破
+
+Udonge3a:Whew, she's down...
+
+Eirin5e:Let that be a lesson to them—trying to copy me is an exercise in utter foolishness.
+
+Medicine2a:What a smug face...
+
+Nitori2a:I'm not sure which is scarier, her or the nightmare...
+
+Eirin0a:But good work you two, fighting me without hesitation.
+
+Toyohime2a:But of course, she was nothing more than an insult to you, Lady Yagokoro.
+
+Yorihime0b:I'd never be able to face you if I'd been tricked by a fake, Lady Yagokoro.
+
+Mima0d:Lady this, Lady that, they really love you, huh?
+
+Mima0e:For them to still talk about you like that after all you've done... You clearly don't know your own charms, Eirin.
+
+Eirin4a:If these girls love me, the only appropriate response is to try to live up to their expectations.
+
+Eirin0b:That's what it means to be a master, a sage.
+
+Mima3d:Heh. That's some credo.
+
+<end>
+
+<ChatID:32>----------------------------------------
+//悪夢（輝夜）と初戦闘
+
+KaguyaN0a:...
+
+Eirin2a:A nightmare taking on Lady Kaguya's form...
+
+Keine1a:Look at her eyes! It's like she's bored of the world, and looks down on everything!
+
+Mokou1a:Gee, that takes me back. Reminds me of how she used to be.
+
+Kaguya1a:Oh, really.
+
+Toyohime2c:Is that right? About how long ago was that?
+
+Mokou1e:I dunno, a few hundred years? Back when she stayed in Eirin's space and entertained herself by watching things outside her mansion.
+
+Elliy3a:Classic Lunarians! Always looking down on us!
+
+Kaguya5b:It's true I had a phase like that, but seeing my nightmare be based on that feels...
+
+Eirin1d:If it makes you uncomfortable, I can dispose of it.
+
+Kaguya1a:No, it's the opposite. Even if it's only a little, the fact that it resembles me is so fascinating.
+
+Kaguya3f:I expect this twisted self to be quite entertaining.
+
+<end>
+
+<ChatID:33>----------------------------------------
+//悪夢（輝夜）
+
+Udonge5a:...We beat her.
+
+Yugi1b:Okay, I'm confused now. Some of you are saying she was like that back then, and others are saying she wasn't.
+
+Yorihime0b:We never knew Kaguya back then. I don't intend to take this at face value, but...
+
+Kaguya2e:I'll leave that to your imagination.
+
+Toyohime2b:Are you sure? That's a lot of leeway to give us.
+
+Kaguya0a:How could I possibly know how I seemed to others? I'm the least qualified person to answer that.
+
+Kaguya2c:Anyway, I never intended to deny my past in the first place.
+
+Eirin2a:Ah...
+
+Kaguya3d:It represents a brief moment of my eternity that I spent with Eirin. And this one fact will never change: I'll treasure that time forever.
+
+Eirin3a:Kaguya...
+
+<end>
+
+<ChatID:34>----------------------------------------
+//悪夢（妹紅）と初戦闘
+
+MokouN0a:...
+
+Akyu1a:This one looks like Mokou, but, my goodness...
+
+Yugi1c:So much bloodthirst... She's like a rabid dog.
+
+Kaguya1a:It reminds me of the old Mokou. Ahh, the memories.
+
+Yamame1d:How so?
+
+Mokou1b:...Back when I couldn't fit in with humans but hated youkai too, huh?
+
+Mokou3c:I guess I could see myself being this bloodthirsty back then.
+
+Mystia0c:So, like, you'd attack anyone, human or youkai?! Turn everyone into grilled chicken?!
+
+Luna1a:Does that make her even stronger than she is now?!
+
+Kaguya3e:Care to find out, Mokou?
+
+Mokou1a:Oh, definitely. Did changing make me stronger, or weaker?
+
+Mokou3e:There's only one way to find out!
+
+<end>
+
+<ChatID:35>----------------------------------------
+//悪夢（妹紅）を撃破
+
+Letty0c:We finally beat her.
+
+Mokou1e:So, where did she fall compared to me?
+
+Komachi0b:Hm, let me think... She copied your immortality, but we already know how to handle that...
+
+Komachi1c:I think the real you is way tougher to deal with.
+
+Keine0c:...Probably because the nightmare version doesn't have any strong feelings toward life.
+
+Mokou3c:Strong feelings toward life, huh...
+
+Marisa0d:Until just a little while ago, weren't you saying stuff about being neither dead nor alive?
+
+Marisa7a:But you're looking pretty lively these days, if you ask me.
+
+Mokou3b:When you put it like that, I feel like I can finally say goodbye to that nightmare.
+
+Mokou1a:...Welp, so long, old me. I'm gonna keep on changing.
+
+MokouN0a:...
+
+<end>
+
+<ChatID:36>----------------------------------------
+//悪夢（依姫）と初戦闘
+
+YorihimeN0a:...
+
+Marisa2b:A nightmare of Yorihime, huh...
+
+Udonge2a:I'm sorry! I'm sorry!
+
+Tewi4b:Seriously, why are you apologizing Reisen?
+
+Youmu2b:It must be a reflex by now...
+
+Nitori3b:I kinda sympathize, though.
+
+Alice1a:We already had a nightmarish battle with her back in the sea of stars.
+
+Alice4a:We might not have gotten away if it weren't for Reimu.
+
+Sanae1a:But this time, we're acting as one! In both body and spirit!
+
+Sho1b:That's right. Now we have our full might assembled!
+
+Yugi1e:Y'know, I was never satisfied just hearing the stories.
+
+Mima1c:Let's push past her and dispel this nightmare!
+
+<end>
+
+<ChatID:37>----------------------------------------
+//悪夢（依姫）を撃破
+
+Kurumi3b:We did it! We beat her!
+
+<Cond=(CHECK_ITEM,MAGATAMA,>,0)>
+
+Elliy3b:And not just once, but twice! Complete victory over Yoyo!
+
+</Cond>
+
+<Cond=(CHECK_ITEM,MAGATAMA,==,0)>
+
+Elliy3b:What a grudge match! Victory over Yoyo!
+
+</Cond>
+
+Yorihime0b:...
+
+Shinki0a:Are you feeling a little frustrated, Yori?
+
+Yorihime2a:No, I wouldn't say that. It's just that, if she's supposed to be a copy of me, then...
+
+Eirin0a:Don't worry, I don't think that was your true power.
+
+Eirin3c:You're a hard worker, Yorihime. I know your talent can exceed even our imagination.
+
+Toyohime0c:Lady Yagokoro...
+
+Yorihime5c:R-Right! I've been training all this time because I wanted to show you how much I've improved!
+
+Yorihime5f:I've already reached the point where no one on the moon is a match for me!
+
+Orin5b:...She said that so innocently, but that's a pretty crazy declaration, huh?
+
+Elliy5c:Maybe I should tread more carefully around her.
+
+<end>
+
+<ChatID:38>----------------------------------------
+//悪夢（豊姫）と初戦闘
+
+ToyohimeN0a:...
+
+Reisen0b:It's a nightmare in Toyohime's form...
+
+Udonge2b:What cold eyes. She must be representing Lunarians at their peak.
+
+Tewi1c:It's like she wants to say the Earthlings are infinitesimally small to her.
+
+Elliy4a:Like if you piss her off, not even a flying prostration would satisfy her.
+
+Kurumi3a:And like she doesn't eat peaches.
+
+Toyohime2c:It may just be a fake, but could you not say all that right in front of me?
+
+Yorihime3a:That's enough chatter. The nightmare is holding the same fan as my sister.
+
+Yorihime0b:It's a weapon that can easily cause unfathomable destruction if wielded carelessly.
+
+Toyohime0b:Nowhere is safe, in the mountains or the seas. Be careful attacking her.
+
+<end>
+
+<ChatID:39>----------------------------------------
+//悪夢（豊姫）を撃破
+
+Ran0b:...Looks like she's stopped.
+
+Nitori2a:So that's the power of Lunar weaponry...
+
+Eirin1c:In terms of pure destructive force, it far exceeds anything on Earth.
+
+Eirin0e:If you dare to foolishly take them head-on, you won't stand a chance.
+
+Yukari1a:I learned that myself, once upon a time.
+
+Sanae0g:What do you mean, "once upon a time"?
+
+Toyohime2d:But that's what makes your danmaku in Gensokyo so peculiar.
+
+Toyohime0b:Ever since coming here, I've realized that you need both strength AND beauty.
+
+Suika2a:You sure catch on quick for someone who just got here.
+
+Reisen1a:I told them about all kinds of stuff back up on the moon.
+
+Yorihime0c:...And then she got all excited and looked into seeing if she could add it to her training.
+
+Toyohime0a:Oh, come on, it's one thing to hear about it, but everyone does danmaku a little differently, right? I needed to try it out for myself.
+
+Eirin0a:Even so, that flexibility and willingness to adapt to new things already makes you stand out from the other Lunarians.
+
+Eirin3c:With Yorihime to complement your weaknesses, I'm sure you'll make fine Lunar leaders.
+
+Toyohime0c:Thank you, Lady Yagokoro.
+
+<end>
+
+<ChatID:40>----------------------------------------
+//悪夢（神奈子）と初戦闘
+
+KanakoN0a:...
+
+Sanae1a:It's a nightmare of Lady Kanako...!
+
+Momiji1a:Fake or not, it's trying to create a schism among us.
+
+Hatate6b:What should we do, Lady Suwako?
+
+Suwako1e:Hmph. Just kill the old snake lady!
+
+Nitori2a:Wait, WHAT?!
+
+Suwako1b:Seeing her just reminds me of the last time we fought, back in the old days.
+
+Suwako1e:I may have lost then, but I sure won't now!
+
+Aya5a:The "old days" to you is pretty much the age of myths, right?
+
+Suika2a:And the nightmare brought back bad memories of that, huh...
+
+Kanako3a:Setting Suwako's commentary aside, I can somewhat relate to her animosity.
+
+Kanako1d:What an arrogant presence. It's like she believes people exist for the gods' benefit.
+
+Momiji3c:How dare this shadow use your form for such things.
+
+Sanae1a:For the dignity of the Moriya Shrine, I shall exorcise this nightmare!
+
+<end>
+
+<ChatID:41>----------------------------------------
+//悪夢（神奈子）を撃破
+
+Remilia1a:How about that?! Gods can never beat devils!
+
+Suwako1a:Learned your lesson yet, Kanako?!
+
+Kanako3b:I'm having mixed feelings about you being so happy about this...
+
+Momiji4a:But if Lady Kanako had been someone like that nightmare, I don't think things would've gone as well as they have.
+
+Aya0a:We were certainly shocked when you invaded the mountain, and what followed was a pretty bumpy ride at times.
+
+Aya5b:It's not easy getting accepted into our mountain's isolationist society, you know.
+
+Hatate3c:But you're approachable, and you step up and do a lot for us. Nowadays you're pretty popular!
+
+Momiji4b:The current innovation-friendly attitude on the mountain might be only thanks to your personality, Lady Kanako.
+
+Kanako3a:You can't have a proper shrine without believers. I should be the one thanking you.
+
+Kanako1a:I am a god. And to maintain my position as one, I shall do my utmost to reward faith through my divine virtues.
+
+Sanae4b:I'll do my part too, Lady Kanako!
+
+Suwako4b:Mrr. Look at you two, getting all determined...
+
+Kanako0d:Stop sulking. I'm counting on you too, Suwako.
+
+Kanako2c:You and I have shared each other's company for many long years now. I can't even imagine life without you anymore.
+
+Suwako5b:Wha?! You can't just drop something like that out of nowhere! That's cheating.
+
+<end>
+
+<ChatID:42>----------------------------------------
+//悪夢（諏訪子）と初戦闘
+
+SuwakoN0a:...
+
+Sanae1c:It looks like Lady Suwako's fake is ready to attack!
+
+Hina1a:She's overflowing with such terrible misfortune! She's trying to harm us with her curses!
+
+Shinki5a:Even though we have Kanako and Sanae over here...?
+
+Yumeko0a:For Lady Suwako's honor, we can't afford to ignore her.
+
+Kanako1a:I know exactly how to restrain her. Follow my lead.
+
+Cirno1a:If we need to freeze a frog, leave it to me!
+
+Suwako3a:...I take umbrage at both of those statements, but I'll let it slide this time.
+
+Suwako0b:Gods do more than just inflict curses that make people suffer.
+
+Suwako1b:Let's give her a good thrashing to drive that point home.
+
+<end>
+
+<ChatID:43>----------------------------------------
+//悪夢（諏訪子）撃破
+
+Hina1a:Looks like the misfortune around her is clearing up.
+
+Shinki0d:A victory for the Mom Alliance, right Suwako?
+
+Sanae0f:What? "Mom"?
+
+Suwako3a:Oh, you know how Shinki is. Don't worry about it, Sanae.
+
+Kanako4b:I'm actually amazed you'd take issue with that shadow and the giant catfish. I'd never have imagined that from you back when we first got here.
+
+Suwako0b:What's that mean?
+
+Momiji4a:I do get the impression you've left running the shrine to Sanae and Lady Kanako.
+
+Aya1a:You hardly ever show up, so a lot of the tengu don't even know what you look like.
+
+Suwako4b:...You're right. Back then, I was still resigned to the idea that I'd probably be forgotten.
+
+Suwako3b:But between the shrine and all these friends, maybe I've found something to latch onto in my second life in Gensokyo.
+
+<end>
+
+<ChatID:44>----------------------------------------
+//悪夢（空）と初戦闘
+
+UtsuhoN0a:...
+
+Utsuho0e:...!
+
+Orin1f:Is that Okuu...?
+
+Satori2b:No, it's not. She's been completely taken over by the berserk power of a god...
+
+Kanako2a:The hypothetical future of what happened back then, huh? Of all the things to manifest here.
+
+Utsuho2c:This is what I was like then...
+
+Orin1d:Don't worry about it, Okuu. We'll beat her.
+
+Koishi1a:Yeah! This isn't Okuu!
+
+Koishi0b:Why don't you show her how different you are by beating her?
+
+Utsuho1b:Right! The power of Yatagarasu is meant to help people!
+
+<end>
+
+<ChatID:45>----------------------------------------
+//悪夢（空）を撃破
+
+Iku1c:We stopped her.
+
+Tenshi2d:So much power... You all really fought that before?
+
+Kogasa2b:All I know about her power is that she's got a handle on it now. I never realized how dangerous it was.
+
+Utsuho2c:...
+
+Satori0c:Are you feeling anxious, Okuu?
+
+Utsuho4d:Huh? No! I'm not, but...
+
+Utsuho2c:It's just... when I went berserk, everyone stopped me like this, huh?
+
+Orin5a:Okuu...
+
+Orin0a:That just means that even on the off-chance it happens again, we'll just stop you again. As many times as it takes.
+
+Orin4c:Besides, everyone knows you know how to control it now. No one thinks you're making a mistake.
+
+Utsuho4a:...Okay!
+
+<end>
+
+<ChatID:46>----------------------------------------
+//悪夢（こいし）と初戦闘
+
+KoishiN0a:...
+
+Utsuho0d:It's a nightmare of Lady Koishi!
+
+Orin1b:But the air she gives off... It's nothing like the real Koishi.
+
+Satori5a:...Right. This must be the nightmare of a Koishi who's completely closed off her heart.
+
+Satori5b:It's my nightmare too, one I've seen more times than I can count.
+
+Shizuha4a:Satori...
+
+Remilia1c:What? Surely you're not shaken by the sight of a fake?
+
+Koishi3b:This mastermind's got a mean streak, showing Sis her trauma.
+
+Koishi0b:Let's finish this up real quick and go get back at her!
+
+Satori2b:Koishi...
+
+Satori0b:You're right. I can't lose to my anxiety anymore. I'm supposed to be stronger than that now.
+
+Satori0c:And with that strength, I'll dispel this nightmare.
+
+<end>
+
+<ChatID:47>----------------------------------------
+//悪夢（こいし）を撃破
+
+Lyrica3a:We beat her!
+
+Nue1b:So this is the power of a Koishi with her unconscious running wild...?
+
+Minoriko4a:If you think about it, we only barely avoided this future.
+
+Flan3g:Aren't you glad that didn't happen, Koishi?
+
+Koishi6c:Uh-huh! And it's all thanks to you and everyone else.
+
+Koishi0b:You don't need to worry anymore either, sis.
+
+Satori6a:...You're right. When I see your face, it gives me confidence too.
+
+Satori0c:Farewell, Nightmare Koishi. I doubt I'll ever dream of you again.
+
+KoishiN0a:...
+
+<end>
+
+<ChatID:48>----------------------------------------
+//悪夢（ぬえ）と初戦闘
+
+NueN0a:...
+
+Murasa2b:A nightmare with Nue's form...
+
+Nazrin6a:She's got a striking presence... but doesn't she seem lonely too?
+
+Sho0b:Agreed. It's less proudly independent and more just... isolated.
+
+Ichirin1d:So is this the Nue we never went back for...?
+
+Murasa5b:...
+
+Nue0c:What's with that gloomy face? Is she bothering you, Minamitsu?
+
+Murasa1b:Don't tease me, Nue.
+
+Nue1a:...They have some nerve, showing us something like this.
+
+Nue1e:Let me tell you, there's only one great and terrible Nue! And she has only one way of life!
+
+<end>
+
+<ChatID:49>----------------------------------------
+//悪夢（ぬえ）を撃破
+
+Shinki1b:Judgment! Tee hee, I've always wanted to do that.
+
+Yumeko0b:Something like this couldn't possibly disrupt our unity.
+
+Byakuren2c:I think anyone would agree that a great youkai has to stand apart from others.
+
+Byakuren0a:And Nue was so committed to that path that she even cut ties with her friends...
+
+Satori0b:But after meeting Murasa, she was able to overcome her trauma from being exterminated.
+
+Satori0c:So even though they'd walk separate paths, she wanted to show Murasa her proud way of life, as a great youkai.
+
+Flan4a:You threw away your friendship for the sake of your friendship? I don't get it.
+
+Nue2a:Oh, shut up. And you, you think you can just READ THE MIND of an unidentified youkai?! Geez, learn some manners.
+
+Murasa3c:Anyway, I'm just happy we're together again, Nue.
+
+Ichirin4c:We won't let you escape again!
+
+Nue4b:The way you put that is kinda scary... But whatever, this is fine too.
+
+<end>
+
+<ChatID:50>----------------------------------------
+//悪夢（映姫）と初戦闘
+
+EikiN0a:...
+
+Komachi0c:A nightmare with Lady Shiki's form, huh...
+
+Yukari0d:By the looks of it, she intends to use the Cleansed Crystal Mirror to cast down our sins.
+
+Iku1b:Right. Mercilessly, with no respect for the atmosphere.
+
+Sunny3a:...Uh, how is that any different from the real one?
+
+Komachi4a:Hm?
+
+Komachi1b:Hmmmm! Who knows! I sure don't!
+
+Sakuya5a:You're a bad liar, Komachi.
+
+Eiki4a:I resent being lumped together with this shadow. I give lectures to help people lead better lives.
+
+Eiki1b:It's time to give a proper judgment to this nightmare who's using my form to thoughtlessly lecture everyone!
+
+<end>
+
+<ChatID:51>----------------------------------------
+//悪夢（映姫）を撃破
+
+Komachi4b:Phew, is it over?
+
+Komachi4a:Even a fake Lady Shiki makes a fearsome opponent.
+
+Yukari1a:I'm disappointed, honestly. And here I thought you'd be giving a lecture to yourself.
+
+Eiki0c:In the end, it's just a fake. Please don't talk like we're the same person.
+
+Eiki3c:Actually, I was impressed that she tried to give out lectures despite being a fake.
+
+Akyu2c:Wow. Even fighting a nightmare does nothing to change your attitude...
+
+Komachi5a:Oh yeah, there's no besting her there.
+
+<end>
+
+<ChatID:52>----------------------------------------
+//悪夢（萃香）と初戦闘
+
+SuikaN0a:...
+
+Aya2a:A nightmare that looks like Suika...
+
+Hatate2a:She's so intimidating... Is this from back when she ruled Youkai Mountain?
+
+Yugi1b:Nah. Back then, she really treasured human-oni relations.
+
+Yugi1d:But I get the feeling that this one wouldn't give a rat's ass about that.
+
+Momiji1a:You mean she intends to use the strength of an oni to subjugate humanity?!
+
+Suika5a:Someone like that's pretending to be my fake, huh?
+
+Suika1e:I'll give you a good smack to wake you up and sober you up!
+
+<end>
+
+<ChatID:53>----------------------------------------
+//悪夢（萃香）を撃破
+
+Mokou1e:We're oni slayers now—well, no, more like nightmare slayers.
+
+Satori0b:...It was Suika's nightmare, betrayed by humans and mad with grief.
+
+Satori0c:When you consider her trauma, a future like this wasn't out of the question.
+
+Suika3a:Well... I guess maybe that didn't happen 'cause I met you all?
+
+Suika1a:But as long as I can keep drinking good sake, that's what counts.
+
+Reimu4a:You've got a thick skin. Or maybe you're just too drunk to care.
+
+Suika6c:And what's better than living out your whole life drunk?
+
+Suika1a:I like it when things are lively. Maybe they should be even livelier, huh?
+
+<end>
+
+<ChatID:54>----------------------------------------
+//悪夢（天子）と初戦闘
+
+TenshiN0a:...
+
+Iku1b:This is a reflection of the eldest daughter, hm.
+
+Yukari0d:Her arrogant demeanor is certainly fitting for a celestial.
+
+Eiki1a:She undoubtedly looks down on humans and considers herself above them.
+
+Tenshi4a:So she'll try to take all her frustrations from heaven out on the humans.
+
+Tenshi4b:Resorting to violence already? A little TOO desperate, aren't we?
+
+Iku5c:I can't say this is the most pleasant of sights.
+
+Tenshi1b:Agreed. Let's banish this nightmare ourselves!
+
+<end>
+
+<ChatID:55>----------------------------------------
+//悪夢（天子）を撃破
+
+Yukari1a:Ahh, much better.
+
+Eirin1c:It may have been a fake, but it had the iron build of a true celestial.
+
+Toyohime2c:If that's the power of peaches, then the peaches of heaven must be amazing.
+
+Iku1c:That nightmare was imitating the strength and toughness of the eldest daughter.
+
+Iku1a:But it seems it was unable to reflect her heart.
+
+Tenshi4a:...She wasn't accepted in heaven, so she distracted herself by acting all high and mighty in the terrestrial realm.
+
+Tenshi2d:I might have ended up like that too, if I'd stumbled along the way.
+
+Yorihime0d:But there's no reason for you to worry about it now.
+
+Tenshi3a:Yes, luckily for me I've been blessed with friends.
+
+Tenshi2d:So with that in mind, it's time to say goodbye to my nightmare.
+
+Tenshi6d:I'll always remember you, as an example of what not to do.
+
+TenshiN0a:...
+
+<end>
+
+<ChatID:56>---------------------------------------
+//全滅時（増援前）
+
+Cirno2a:Aaah!
+
+Rumia0a:We lost!
+
+Wriggle0a:What do we do?! If only we could get escape...
+
+Tensoku0a:...!
+
+Mystia0a:Huh? Hisoutensoku?!
+
+Cirno1a:Don't tell me you're gonna self-destruct to let us escape?!
+
+Wriggle2a:No, Hisoutensoku! You can't!
+
+Tensoku0a:...!
+
+<end>
+
+<ChatID:57>---------------------------------------
+//全滅時（増援後）
+
+Akyu2a:No! The Palanquin Ship!
+
+Korin0a:The nightmares are just as strong as us... Is even a single mistake fatal?
+
+Murasa2b:What's the call? If we retreat, we should be able to fight again, but...
+
+Wriggle0a:But will they even let us?
+
+Tensoku0a:...!
+
+Mystia0a:Huh? Hisoutensoku?!
+
+Cirno1a:Don't tell me you're gonna self-destruct to let us escape?!
+
+Wriggle2a:No, Hisoutensoku! You can't!
+
+Tensoku0a:...!
+
+<end>
+
+<ChatID:58>---------------------------------------
+//初戦闘：メーコ、まくら
+
+Meko0g:These nightmares look so strong...
+
+Makura1c:Yes, in order to defeat Reimu and the others I recreated their powers as offensively oriented as possible.
+
+Makura0f:Although I never imagined I'd be facing them myself.
+
+Meko1c:So this'll be a test of how much we've all grown!
+
+Makura1b:Indeed, let's do this carefully!
+
+<end>
+
+<ChatID:59>---------------------------------------
+//予備枠
+
+<end>
+
+<ChatID:60>---------------------------------------
+//予備枠
+
+<end>

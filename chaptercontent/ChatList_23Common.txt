@@ -1,0 +1,1626 @@
+﻿○共通第二十三話「あゝ天地よ人よ神湖の地に
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: Kanako 1st spell
+ 3: break Kanako 1st
+ 4: Suwako 1st spell
+ 5: break Suwako 1st
+ 6: start last spell
+ 7: clear (Kanako)
+ 8: clear (Suwako)
+ 9: ADVB
+10-28: battle vs. Kanako
+29-47: battle vs. Suwako
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<MAP=5,FROM=妖怪の山上部2,TO=妖怪の山上部2,name=Youkai Mountain,icon=5>
+
+<BG=*bg_talk_Mountain_Waterfall.png,fade=0,color=1,title=*bg_Mountain,bgm=bgm_talk_kaikidan>
+
+<update>
+
+Kappa3c:Hello there, honored tengu!
+
+Kappa0b:You've got some big bumps there, o great tengu. Are you okay?
+
+</update>
+
+KTenguA2a:Oh, shut up and leave me alone. My scoop got away from me, so I'm in a bad mood.
+
+KTenguA2b:Sheesh, I never thought the humans would do half that well.
+
+HTenguB1a:You're the ones who ignored me when I told you to call for reinforcements.
+
+KTenguA1b:Oh, who cares. Our mission's already over, so no point in bickering about it.
+
+KTenguA0b:The Greater Tengu say we don't have to chase the humans, either.
+
+Kappa3a:Does that mean they're still on the mountain?
+
+KTenguA2b:Probably. But I'm sure the god will handle it just fine.
+
+HTenguB0b:That's quite a laid-back attitude to take about invaders rampaging across the mountain.
+
+KTenguA1a:They're fighting Lady Yasaka, right? And when they fought with us, they were on our level. She'll make short work of 'em.
+
+KTenguA4c:Not that I care how the incident plays out when I can't get good pics out of it either way.
+
+<nowindow>
+
+<Code=(demo_wait,35)>
+
+<single>
+
+</nowindow>
+
+Aya0b:...And afterward, the humans headed for the Waterfall of Nine Heavens?
+
+</single>
+
+KappaC4a:Um, yeah. We tried to stop them, but they beat us...
+
+Aya1a:Hoho, I'm getting a better and better picture of their trail...
+
+Aya0d:Thanks, with this I should be able to write a detailed article.
+
+KappaC5a:Hey, no worries, I'm just happy to help! On that note I'll be going now—
+
+Aya5a:But you know, I just can't help but wonder how they knew to head for the Waterfall of Nine Heavens...
+
+Aya4b:Did somebody leak intel?
+
+KappaC2a:Grk!
+
+Momiji7a:...Interviewing at a time like this? You never change, do you?
+
+Aya0c:Oh, hey Momiji. I see you're back too.
+
+KappaC1a:Oh, honored tengu! You are my messiah!
+
+Momiji0a:...Huh? Messiah? Okay, I'm going to just ignore this kappa now.
+
+Momiji4d:Anyway, you're actually making an article about this, Aya?
+
+Aya0b:What's wrong with that?
+
+Momiji5a:If the youkai outside the mountain read an article about the humans invading us, we'd be laughingstocks.
+
+Momiji0a:We patrol tengu wouldn't exactly appreciate our internal disputes being made public either.
+
+Aya3a:I don't see how any of that's my problem. If there's an incident, it's a reporter's duty to cover it accurately.
+
+Aya0a:The best you can do now is cross your fingers that the article at least ends on a good note.
+
+Momiji0a:I suppose so. It's out of our hands now...
+
+Momiji4a:Honestly, if this whole mess serves to bring us and the Moriya Shrine closer together, I'd say we got something decent out of it.
+
+Aya3a:My goodness, I never thought I'd hear you say something like that.
+
+Momiji0a:I'm not exactly happy with our current relationship, you know.
+
+Momiji5a:And seeing Lady Kochiya's perseverance makes me wish we could talk in a more relaxed manner.
+
+Aya5a:So now you've ended up with a soft spot for her.
+
+Momiji4b:I would hardly call it that. I simply respect diligence when I see it.
+
+Momiji4c:It makes me want to sit at the same table and converse.
+
+Aya0a:It'd be a lot more relaxing for all sides if we could hang out like that.
+
+Aya1a:Well, everything depends on how those humans and the Moriya Shrine settle things.
+
+Aya0a:What kind of wind will this battle bring to the mountain? Let's all wait and see.
+
+<end>
+
+Aya0a:What kind of wind will blow through the mountain next? Let's all wait and see.
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP
+
+Sunny3a:What's with the heap of unsettling-looking pillars?
+
+Keine0a:They're quite the sight. These must be the onbashira Sanae mentioned.
+
+Meiling0b:That means this is the place, right?
+
+Reimu1a:Yup. Hey, get out here!
+
+<Code=(cursor_jump,336,256,1)>
+
+<nomove>
+
+<hide=all>
+
+Kanako0d:Who is it that calls for me?
+
+</hide>
+
+</nomove>
+
+<pause>
+
+Marisa1a:You're the string-puller behind this whole incident, aren't you?
+
+Kanako3a:Just so. I am the god of this shrine, and one who presides over countless mountains
+
+Kanako1a:I am Kanako Yasaka, this mountain's new god.
+
+<pause>
+
+Alice0a:The sheer presence she gives off just from revealing herself... She must be a formidable foe.
+
+Mokou0a:Yeah, she's different from the jokes of gods we've faced so far.
+
+Reimu2b:Taking over my shrine was your idea, right? I'd rather you didn't, so would you lay off?
+
+Kanako1a:Hmm. So you're the shrine maiden from the foot of the mountain, Reimu Hakurei... Which means you must be her followers.
+
+Marisa3a:Not exactly. We just came to help her tell you off.
+
+Keine1a:Your plan to steal the Hakurei Shrine and monopolize Gensokyo's faith won't go the way you want.
+
+Kanako0a:Heh, you're the ones defending the shrine? Sanae was right.
+
+Kanako0c:The shrine maiden from the foot of the mountain associates freely with youkai, discouraging humans from ever visiting her shrine...
+
+Kanako1b:AND she even dares lead youkai into battle herself? This goes beyond sacrilege against her shrine's deity!
+
+Luna2a:Wait, are we actually going to get divinely punished?!
+
+Meiling1a:Don't be scared. We should be strong enough to fight her!
+
+Kanako0d:The shrine at the foot of the mountain shall belong to the Moriya Shrine. This has been divinely decreed.
+
+Kanako1a:You who defy the will of a god—you shall bow before the divine might of Yasaka!
+
+<end>
+
+<ChatID:2>----------------------------------------
+//神奈子通常撃破
+
+Kanako0d:I was expecting somewhat more from those bold enough to challenge me.
+
+Kanako1a:Humans. Youkai. Fairies. Devils. At the end of the day, you're all no more than an unruly band of the faithless.
+
+Marisa2b:I've always wanted to be called unruly, thanks!
+
+Patchouli0a:You're really obsessed with this whole faith thing, aren't you?
+
+Koakuma2a:No matter how important faith is to you, stealing someone's shrine is a bit drastic...
+
+Kanako0a:Stealing? I'll have you know I would save it.
+
+Kanako0a:A shrine without faith is but a glorified shack. My intention is to gather humans there once more and restore its status as a shrine.
+
+Reimu1a:Look, I'd like more worshippers as much as the next girl!
+
+Reimu5f:But that's a problem for me to solve. I don't want your help.
+
+Kanako1a:Cease your prattling. A shrine does not exist to serve its shrine maiden. It is holy ground, a dwelling place for a god.
+
+Kanako1b:If you fail to grasp that, then experience a god's raging aramitama for yourself and reflect on the true significance of a shrine!
+
+<end>
+
+<ChatID:3>----------------------------------------
+//「エクスパンテド・オンバシラ撃破
+
+Kanako0a:You have yet to impress me. You are far from reaching the peaks of my divine might.
+
+Sakuya0b:...She's good. Worthy of reporting to the mistress.
+
+Meiling1a:But with the tengu gone, now is our best chance. We have to keep pushing on!
+
+Kanako1b:Fools. I hardly need aid from the mountain's denizens for a task as trivial as banishing the lot of you.
+
+Keine1a:Those "denizens" seem pretty far-removed from the Moriya Shrine in spirit.
+
+Keine1a:Isn't that evidence that there's a problem with the way you're operating?
+
+Kanako3a:Should they not understand us, we have but to teach them. It is a matter of patience, no more.
+
+Kanako1a:But as a first step, inspiring faith through the absolute power I use to subdue you couldn't hurt.
+
+Alice4a:As expected, she's leaving no room for discussion.
+
+Mokou0a:The solution's simple enough. There's one of her and lots of us. Just keep pushing and—
+
+<nomove>
+
+<Code=(cursor_jump,336,432,1)>
+
+<hide=all>
+
+Suwako1b:Not so fast! I want in on this!
+
+</hide>
+
+<pause>
+
+Suwako1a:C'mon, Kanako, no fair playing with the humans by yourself!
+
+Kanako4b:Suwako?! Why did you come out?!
+
+Marisa2b:What the heck? A kid?
+
+Cirno4c:Huh, where have I seen that strange hat?
+
+Kanako0b:Suwako, what are you doing? The plan was that I would do the talking.
+
+Suwako1a:C'mooon, just a little bit won't hurt. We've got all these guests. We can't send 'em home just like that, can we?
+
+Kurumi4a:Um, who's the child? She seems to know the god...
+
+Reimu0a:That's the god who showed up when I fought Sanae last summer.
+
+Suwako0a:Oh yeah, I never introduced myself.
+
+Suwako3b:Hi there. I'm Suwako, the Moriya Shrine's other god.
+
+Patchouli0a:"Other god"?
+
+Suwako0a:Yup, we've got two gods here—me and Kanako. Together, we're the dual pillars of the Moriya Shrine.
+
+Meiling0b:Did you know they have two gods, Nitori?
+
+Nitori3b:I've heard rumors, but this is my first time seeing her.
+
+Nitori3a:I can't believe the kid I saw at the Moriya Shrine turned out to be a god...
+
+Suwako1a:So anyway, lemme tag in, Kanako! I've been sitting it out this whole time, and I'm just itching for this.
+
+Kanako0b:...Fine, if you insist. But I'll be tagging back in again at a reasonable stopping point.
+
+<pause>
+
+Reimu1a:Hey, who said you could just barge in on our fight?
+
+Suwako3a:It's cool. I already shooed Kanako off anyway, so why not?
+
+Suwako0c:With that stick-in-the-mud gone, we can get back to the festival.
+
+Sunny3a:What festival?
+
+Suwako1b:Come on, this is basic stuff! Festivals are also called "kami-asobi"—when gods and humans play together.
+
+Elliy1b:So when you came out to face us, that was...
+
+Suwako3b:Yep! Just a bit of "kami-asobi". Now it's time for MY danmaku festival.
+
+Suwako1a:Get it now? Great. Now, why don't you play your hearts out?
+
+<end>
+
+<ChatID:4>----------------------------------------
+//諏訪子通常撃破
+
+Suwako3a:Nice! That'll do for a festival opener.
+
+Mokou0a:Tch. First she pops up outta nowhere, and now she's throwing me off.
+
+Keine0b:She carries herself so differently from Kanako Yasaka. Is she really another god of the shrine...?
+
+Elliy0b:What I'm wondering is how the two gods are even connected. Are they friends?
+
+Suwako2a:NOPE. Not in the least! She's an enemy!
+
+Suwako1c:I'll have you know she's the barbaric woman who took over my shrine by force.
+
+Alice1a:Your shrine? You mean...?
+
+Suwako4b:Yeaaah, this used to be my shrine. But I lost to Kanako, so now it's her shrine.
+
+Meiling3a:That sounds similar to what we're dealing with now.
+
+Marisa0b:So what does that make you? A freeloader here?
+
+Suwako1c:Rude. I just let Kanako take care of all the public-facing stuff.
+
+Suwako1e:I'm an apex native god. You'd better show me proper respect if you don't wanna get cursed.
+
+Reimu1a:Fine, whatever. Then I'll just beat you up too!
+
+Suwako3a:Looks like you're getting motivated. How about fighting my minions next?
+
+Suwako1e:Let there be limbs!
+
+<end>
+
+<ChatID:5>----------------------------------------
+//「手長足長さま撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Suwako0b:...Yeah, that's about what I expected. That's enough, Long Arms and Long Legs.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Suwako0b:Huh, you got away. That's enough, Long Arms and Long Legs.
+
+</Cond>
+
+Luna4b:That was really freaky for a god. Is she going to keep sending stuff like that out...?
+
+Patchouli0a:The holier-than-thou god's still around too. I'm getting a headache.
+
+Marisa0b:Say, couldn't you talk some sense into Kanako for us?
+
+Marisa0a:You had your shrine stolen yourself, so you should know where we're coming from.
+
+Suwako1c:Me? Talk sense into her?
+
+Daiyosei3b:Um, yes. Fighting really isn't good...
+
+Suwako3b:Ahahaha! Sorry, but I think you girls have the wrong idea.
+
+Suwako1c:I trust Kanako's judgment. Don't even think of trying to sow discord between us.
+
+Sakuya5c:I suppose you ARE fellow gods of the Moriya Shrine.
+
+Suwako1c:Well, yeah. We've been together a good long while, and I don't see that changing anytime soon.
+
+<nomove>
+
+<Cond=(GLOBAL_VAR,level,<,1)>
+
+<Code=(cursor_jump_unit,Char1,16,-16,1)>
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,level,>=,1)>
+
+<Code=(cursor_jump_unit,Char1,16,0,1)>
+
+</Cond>
+
+<hide=all>
+
+Kanako0a:Precisely. That's an encapsulation of the lengthy history of our kingdom as well.
+
+</hide>
+
+<pause>
+
+Marisa2b:Look who's back!
+
+Kanako0a:While it is now a thing of the past, we spent many a year governing it through rule of faith.
+
+Kanako0d:The trigram of heaven, Qian—the divine might that creates the heavens and glorifies form.
+
+Suwako0b:The trigram of earth, Kun—the divine might that creates the earth and solidifies substance.
+
+Suwako1b:Together, they build a nation. That won't change even after coming to Gensokyo!
+
+Mokou0a:Looks like they're ready to come at us together!
+
+Kanako1a:Behold the divine might born from Qian and Kun together.
+
+<double>
+
+Kanako1b:The Suwa Kingdom's central myth is about heavenly control!
+
+Suwako1e:The Suwa Kingdom's indigenous myth is about earthly subjugation!
+
+</double>
+
+<end>
+
+<ChatID:6>----------------------------------------
+//「諏訪大戦撃破
+
+<Cond=(CHECK_FLAG,C23_KANAKO,==,1) || (LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Kanako1a:You're quite capable, for humans.
+
+</Cond>
+
+<Cond=(CHECK_FLAG,C23_SUWAKO,==,1)>
+
+Suwako0c:You girls are doing way better than I expected!
+
+</Cond>
+
+Cirno1b:Get it now? We're strong!
+
+Elliy1a:After fighting this hard, you'd better not call us weak!
+
+Kanako0b:Indeed, with such strength, gathering faith should be simple for you.
+
+Kanako1a:Of course, faith unaccompanied by respect for the gods is mere lip service.
+
+Reimu0d:You're just not letting that go, huh? No offense, but your shrine doesn't seem to be doing too hot either.
+
+Marisa0b:The way you're operating is just out of touch.
+
+Marisa0a:You're never gonna get a following in Gensokyo if you stay so stuck on your image.
+
+Suwako1c:Is that how you see us? Stuck on our image?
+
+Sakuya5b:Well, aren't you? All you actually want is faith, but you carry on about rules and tributes.
+
+Sakuya0b:Frankly, your fixation on form to the exclusion of all else strikes me as pitiful.
+
+<Cond=(CHECK_FLAG,C23_KANAKO,==,1) || (LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Suwako3a:Ahaha, pitiful, huh? I can't even deny it.
+
+Suwako4a:It's a regular farce. The shrine maiden diligently safeguards the shrine, while the shrine gods can't even reciprocate...
+
+Meiling3a:The shrine maiden also mentioned you'd lost your faith in the Outside World.
+
+Kanako3c:Even the rains and winds no longer give rise to faith. The inevitable result of humanity no longer needing their gods.
+
+Marisa3a:And that's why you came to Gensokyo no matter how bad it made you look. You're determined to cling to your position as a god.
+
+Kanako3a:What choice did we have? Accept our fate and fade away along with our old glory?
+
+Kanako1b:Nay, for I am a god! My godhood will protect Moriya's history, its shrine maiden, and its shrine.
+
+Alice0b:Hence your staking everything to come to Gensokyo. Your sentiments ring true enough.
+
+Keine1a:But you won't get very far refusing to adapt to Gensokyo itself—and if you fail, you'll have defeated your own purpose.
+
+Kanako0c:Do any of you have a better suggestion?
+
+Reimu4a:Figure that out yourself. Either way, it's clear what I have to do.
+
+Reimu1a:I exterminate anyone who gets out of hand in Gensokyo—and that includes gods.
+
+Kanako1a:Very well, shrine maiden of Gensokyo. Let your answer be your sword. Show me you can reach even the foot of my mountain...
+
+Kanako1b:This mountain of faith, beyond the winds and the rains, where I stand at the peak!
+
+</Cond>
+
+<Cond=(CHECK_FLAG,C23_SUWAKO,==,1)>
+
+Kanako3a:Hmph. Pathetic, you say. I shan't deny it.
+
+Kanako3c:For it IS farcical—the shrine maiden so diligently safeguarding the shrine, the fading gods powerless to reciprocate...
+
+Suwako0b:Real talk, I wasn't too hung up on that society anyway.
+
+Suwako4a:If the people don't fear gods or want them around, then that's just the way the times are.
+
+Meiling3a:The shrine maiden also mentioned you'd lost your faith in the Outside World.
+
+Alice0a:Hence your abandonment of the Outside to come to Gensokyo.
+
+Suwako0b:Yup. Kanako said she was gonna take the plunge, and I decided to throw in with her.
+
+Suwako4a:Coming here together with Sanae and Kanako... I guess it's like one last game to me.
+
+Marisa0a:One last game, huh. In that case, you made the right call coming to Gensokyo.
+
+Marisa1a:I'll give you newcomers a warm welcome, Gensokyo-style!
+
+Suwako1a:Wow, that's the first time since we got here that anyone's said we're welcome.
+
+Reimu1a:I still exterminate anyone who gets out of hand like you, though!
+
+Suwako1d:Ooh, bold! In that case, let me show you why you should fear an ancient god of nature.
+
+Suwako1e:Will Gensokyo even accept this curse? Let's see your answer!
+
+</Cond>
+
+<end>
+
+<ChatID:7>----------------------------------------
+//「マウンテン・オブ・フェイス撃破
+
+Koakuma2a:We did it!
+
+Keine2a:Is it over now...?
+
+Kanako0c:I was not expecting you to best my divine might...
+
+Kanako3a:I suppose I'll have to accept your answer.
+
+Elliy3a:You mean...?
+
+Kanako1a:I shall let you win this battle.
+
+Reimu3a:Hm... Not a fan of how high-and-mighty you're still acting in defeat, but whatever.
+
+Keine0b:Let's just get back to discussing shrine affairs.
+
+Kanako0a:Certainly. Go ahead and enter the Moriya Shrine's main building.
+
+<end>
+
+<ChatID:8>----------------------------------------
+//「ミシャグジさま撃破
+
+Suwako3b:Ahaha, you got me. I built a whole kingdom but here I am, losing to humans.
+
+Keine2a:We won... That was an incredible spellcard, but we still managed to overcome it!
+
+Mokou1a:What now, Moriya god? Wanna keep the danmaku flying?
+
+Suwako0a:Nah, I've had enough fun. I think I'll call it a day.
+
+Meiling3a:"Call it a day"? You're so casual about all this stuff for a god.
+
+Suwako3a:Gods are pleased when they get to play together with humans.
+
+Suwako3b:Looks like I'll have a second lease on life here in Gensokyo.
+
+Reimu2b:I can see you're happy and all, but... We can't exactly turn around and walk away now.
+
+Suwako0a:Yeah, I get it. You wanna sort out this whole shrine business, right?
+
+Suwako3b:Come on into the main shrine building, everybody. I'm sure Kanako's ready to hear you out too.
+
+<end>
+
+<ChatID:9>----------------------------------------
+//ADVB
+
+<MAP=5,FROM=守矢神社,TO=守矢神社,name=Moriya Shrine,icon=0>
+
+<BG=*bg_talk_Moriya.png,fade=0,color=1,title=*bg_Moriya,bgm=bgm_talk_ningyo>
+
+Kanako0a:You're all here. Good, sit wherever you like.
+
+Kurumi6a:Okay, um, thanks...
+
+Star4a:I can't believe we're having a real conversation with a god... If we say the wrong thing, we could end up fighting again.
+
+Daiyosei3b:Rumia, please, whatever you do, stay quiet.
+
+Rumia0a:Aww, why me and not Cirno?
+
+Suwako3a:It's cool, no need to walk on eggshells with us. We've got tea and fruit and more, if anybody wants a snack.
+
+<Code=(map_shake,1,15,2)>
+
+<SE=se_talk_dosa01.ogg,wait=1>
+
+Elliy1b:Wow, look at all these different fruits and vegetables.
+
+Koakuma0a:I assume you got this food from the youkai?
+
+Kanako0d:Correct. They provide us with regular tribute as a show of faith.
+
+Rumia0a:Wow, you get free food? I'm jealous!
+
+Suwako0a:It's not for free. We bestow divine blessings in return.
+
+Keine0a:Blessings granted in return for offerings form the basis of the relationship between gods and humans.
+
+Keine0a:For example, the recent harvest festival held at the human village doubles as an offering to the autumn gods.
+
+Luna4a:I think we snuck into that festival...
+
+Meiling5a:I wanted to go to that, too. Didn't you put on a puppet show there, Alice?
+
+Alice0d:Yes. It was a passable debut performance, I suppose.
+
+Suwako3a:Whoa. Youkai attending human festivals? That's nuts.
+
+Komachi0a:It's normal here in Gensokyo. Who wants to miss out on a festival?
+
+Kanako0b:Here in Gensokyo, hm? Do tell me more.
+
+Kanako0a:Learning more about this land should help us gather even more faith.
+
+Marisa4a:You keep missing the point, don't you? I dunno much about this faith stuff, but it's like they say—you gotta do as the locals do.
+
+Marisa0a:What's the point of gathering a bunch of faith if you can't enjoy it?
+
+Cirno3b:Yeah! That shrine maiden girl didn't even have any friends!
+
+Kanako0a:Mrgh...
+
+Suwako4a:Hoo boy... They hit you right where it hurts, huh, Kanako?
+
+Kanako3c:Quiet, you. I know that we're not making life easy for Sanae.
+
+Kanako0a:But we can't do anything without first reclaiming the faith that we've lost.
+
+Elliy4a:Sure, that makes sense, but you could at least TALK to people.
+
+Komachi1a:Didn't some old wise man once say that man cannot live on faith alone?
+
+Patchouli0a:I've read that in the Outside World, fanatical humans like to hold self-hanging ceremonies.
+
+Kanako3b:Now you're all just spouting nonsense.
+
+Keine0b:It's still true that you have to live with your feet on the ground, though.
+
+Keine4a:That's something very important for humans, and she DID seem lonely.
+
+Kanako3b:What would you have me do? Leave the mountain and build a shrine in the village?
+
+Marisa0b:All we're saying is to stop turning your nose up and start hanging out with the mountain youkai.
+
+Marisa0a:A party every now and then should help break the ice, right?
+
+Suwako3b:Ooh, I like that idea. Sign me up!
+
+Kanako3c:Suwako, don't go agreeing to things on a whim!
+
+Suwako3b:But I had so much fun playing with everybody.
+
+Suwako0a:Besides, we haven't had any parties lately. Why not invite some people over and raise the roof?
+
+Kanako3c:Is that really the issue here? And who would throw a party on a shrine's grounds...?
+
+Alice2b:I think it's a nice idea, actually.
+
+Alice0a:The Hakurei Shrine is effectively a youkai hangout spot anyway, and it could help you be seen as more approachable.
+
+Kanako0c:The shrine, a hangout spot? Is that how this works?
+
+Kanako0a:More approachable, though... Perhaps...
+
+<hide=all>
+
+Sanae0a:...Ah, I've found you both.
+
+</hide>
+
+Luna3a:Oh, that voice...
+
+Suwako3a:Hey, Sanae, welcome back. Man, they got you good, huh?
+
+Sanae1c:Lady Yasaka, Lady Moriya. My deepest apologies for the state that I return in—
+
+Sanae1d:...!
+
+Reimu0e:Hi. Don't mind us.
+
+Rumia0a:You sure took a while getting here! Were you passed out somewhere outside?
+
+Sanae3b:Um, may I ask what Reimu's group is doing here? I thought you drove them off, Lady Yasaka.
+
+Suwako3b:Nnnope, as you can see, we lost the fight.
+
+Kanako3c:...That's one way to put it. It piqued my interest in them, so I let them in, and we've been hearing them out.
+
+Sanae3b:Oh no! If Reimu won, then all our plans are...
+
+Marisa0a:Up in smoke, sorry. We won fair and square though, so no complaining.
+
+Sanae1c:Then what does that mean for our future...?!
+
+Kanako0b:Don't worry, Sanae. I have a new approach in mind already.
+
+Kanako0a:I'll start by giving that a try and seeing how well it goes over.
+
+Suwako0a:Wait, you mean...?
+
+Kanako1b:Let us start by gathering the youkai of the mountain at the Moriya Shrine. Not for business, but instead a party.
+
+Sunny4b:Whoa, now you're throwing a party? What changed your mind so fast?
+
+Kanako0d:Now that we've come to Gensokyo, we need not cling to the past.
+
+Kanako0a:You're all welcome to join in, if you wish. I'll show you the power of the Moriya Shrine's faith, in the form of a splendid feast.
+
+Sanae2a:Wait a moment, Lady Yasaka. Are you sure about inviting youkai onto the shrine grounds...?
+
+Marisa0a:Your god just said to forget the old ways.
+
+Kanako0c:Let all upon the mountain be brought here, be they youkai, god, or anything else.
+
+Kanako1b:We shall hold a banquet!
+
+<MAP=6,FROM=守矢神社,TO=守矢神社,name=Moriya Shrine,icon=0>
+
+<BG=*bg_talk_Moriya_Night.png,fade=1,color=1,title=*bg_Moriya,bgm=bgm_talk_hiroshige>
+
+<SE=se_talk_gaya.ogg,wait=1>
+
+KTengu0a:...And that's why I think it's important to treasure your time off the clock instead of worrying about promotions.
+
+Komachi1a:Oh yeah, totes. I love taking things at my own pace. Gotta take regular breaks, too.
+
+Elliy4a:I guess people with real careers think differently. All I do is stand in front of a gate...
+
+Komachi0a:Hey, that's a big deal right there. Even just standing in front of a gate is a perfectly legitimate job.
+
+Elliy5a:Gosh, you think? Then I can be useful to Yuuka even just standing there!
+
+Kurumi4d:Hey, Elly, can we go home yet? Alice, Sakuya, and everyone else already left. I'm booored...
+
+Elliy4b:Hey, quit tugging on me! I just gave you some juice, Kurumi!
+
+Kurumi2b:I don't want any juice! I want to go back home and read a book!
+
+<single>
+
+Aya3b:Boy, I never thought I'd be granted an invitation from Lady Yasaka herself.
+
+</single>
+
+Kanako0d:There's no need to thank me. It will be enough for you to drink my sacred sake while basking in my divinity.
+
+Suwako0a:These tengu are pretty undignified though. How many of them are already smashed?
+
+Aya1a:Heheheh... Those tengu are just lightweights. Let me show you how a true tengu drinks!
+
+Aya3b:Hey! Momiji! Get another cask in here! One of those big ones!
+
+Momiji2a:*sigh* You want a large cask? Okay, I'm on my way...
+
+Sanae3b:Um, I'd like to help if I may.
+
+Momiji0a:Lady Kochiya? It's okay, you can stay seated.
+
+Sanae3b:But I really shouldn't. You're supposed to be our guests.
+
+Momiji0a:No, I'll do it. After all, I doubt you can even lift it.
+
+Momiji4b:Is this okay though? Letting us enter the forbidden shrine grounds?
+
+Sanae0b:I'm... not sure. At least those two seem to be enjoying it well enough.
+
+Sanae3b:Come to think of it, was there some significance to the fact that Reimu's group made it here?
+
+Momiji5a:Oh, yes. I guess we owe you an apology for letting them reach the shrine.
+
+Sanae5e:Please don't apologize, Inubashiri.
+
+Sanae2a:Considering how distant we were keeping all the youkai, it was bound to happen.
+
+Momiji0a:What do you mean, bound to happen?
+
+Sanae3b:The fact that we came to this mountain to earn back our faith doesn't change how rude we were to the youkai who live here.
+
+Sanae5f:So the youkai have every reason to see us as they do.
+
+Momiji5a:That's not exactly it. We didn't do it because we had something against you.
+
+Momiji5a:Maybe it would be easier for both sides if we let bygones be bygones.
+
+Sanae0b:You want it to be easier for both sides?
+
+Momiji0a:Yes. The current status quo is stifling to all of us.
+
+Momiji4b:Since we both live on this mountain, I'd prefer if we could talk things out normally when we have issues to raise or thoughts to share.
+
+Sanae3b:...
+
+Aya3b:Momiji! Where's that cask I asked for?!
+
+Momiji3a:Oops, forgot about that. Excuse me, I have to take care of this.
+
+Momiji0a:Actually, could you come with me, Aya? We have to present the Greater Tengu their sake.
+
+Aya0a:Ah, so we take advantage of the confusion to swipe some of their special reserve? 
+
+Aya1a:Good idea. You keep watch while I make my getaway. The perfect crime!
+
+Momiji4b:Are you drunk? That made no sense.
+
+Momiji2a:Ow! Don't pull on my ears!
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+Sanae0a:I see even youkai have good drunks and bad drunks...
+
+</single>
+
+Suwako2a:Sanaeee! I'm out of sake!
+
+<Code=(map_shake,1,20,1)>
+
+<SE=se_talk_gashi01.ogg,wait=1>
+
+Sanae2a:Eek! Lady Moriya?!
+
+Kanako3b:She can't go get more sake if you're holding onto her like that, Suwako. She was just about to get some.
+
+Kanako3c:Sorry about this, Sanae. I feel bad leaving you out of the drinking.
+
+Sanae3b:Oh, it's okay. I'd rather not partake anyway...
+
+Suwako0a:By the way, who was that gruff tengu? I feel like I've seen them somewhere before.
+
+Sanae0b:That was Inubashiri. She often visits the shrine to make offerings.
+
+Kanako0a:Ah yes, that's right. What did she say to you?
+
+Sanae0b:She said it'd be easier for everyone if we let bygones be bygones.
+
+Sanae3b:I haven't spoken with her much before, so I'm not sure how to approach this...
+
+Suwako1a:Hmm, that tengu's got a good head on her shoulders.
+
+Kanako0a:Agreed. Treating youkai as equals will become the key to a brand new faith.
+
+Sanae1a:A new faith...?
+
+Kanako0a:Though I call it faith, it differs not at all from a trust deep enough to raise our glasses together.
+
+Kanako3a:Gods and humans, befriending each other and playing together as equals. Maybe this is the faith I was seeking all along.
+
+Sanae0b:A trust deep enough to drink with each other, hm...
+
+Sanae1a:Alright. I'll strive to earn such trust as well.
+
+Kanako2b:There's no need to make it a specific goal. Just be yourself and don't force it. We have a long future here.
+
+Sanae3b:...Then, will you still require my services as the Moriya Shrine's wind priestess?
+
+<Cond=(CHECK_FLAG,C23_KANAKO,==,1)>
+
+Suwako3b:Of course we will. If not for you, we never would've come to Gensokyo in the first place.
+
+Kanako3a:Hold your head high, Sanae. They may have been late in coming, but the winds of Moriya are still with us.
+
+Kanako0a:You, me, Suwako. We'll live together once more at this divine lake.
+
+</Cond>
+
+<Cond=(CHECK_FLAG,C23_SUWAKO,==,1)>
+
+Suwako3b:Of course we will. If not for you, we never would've come to Gensokyo in the first place.
+
+Suwako0a:So cheer up! Now that you're in Gensokyo, your life is gonna be WAY more fun life than before.
+
+Suwako3b:You, me, Kanako. We'll live together once more at this divine lake.
+
+</Cond>
+
+Sanae5g:...Right!
+
+<Code=(transition_out,c_black,45,1)>
+
+<end>
+
+<ChatID:10>----------------------------------------
+//神奈子様vs.霊夢
+
+Reimu4a:I realized something while I was fighting my way here.
+
+Kanako1a:Oh, have you come to appreciate our divine virtues?
+
+Reimu5a:It's true that your power's incredible... but I definitely can't work with your methods.
+
+Reimu1a:I'll do something about my shrine with my own two hands. I don't need your help!
+
+Kanako1a:A shrine maiden who conspires with youkai is mouthing off in front of me...
+
+Kanako1b:In that case, I'll have to give you a direct demonstration of my might.
+
+<end>
+
+<ChatID:11>----------------------------------------
+//神奈子様vs.魔理沙
+
+Marisa1d:A god like you who can't read the mood oughta be scolded.
+
+Marisa4d:If you were on better terms with the mountain, Nitori and the tengu would have lent you a hand.
+
+Kanako0a:So Gensokyo even has strange humans who care about youkai.
+
+Marisa0a:You're the weird ones. I guess I'll just have to teach you how we do things around here.
+
+<end>
+
+<ChatID:12>----------------------------------------
+//神奈子様vs.慧音
+
+Keine1a:So you're the god of the Moriya Shrine, Kanako Yasaka?
+
+Keine1a:We're here to put an end to your plot to steal the Hakurei Shrine.
+
+Kanako1a:Heh, I'm sure you'll be taking those words back soon enough.
+
+Kanako1b:Prostrate yourself before Kanako Yasaka's divine might!
+
+<end>
+
+<ChatID:13>----------------------------------------
+//神奈子様vs.アリス
+
+Alice0a:You seek to monopolize Gensokyo's faith and weaponize it for yourself?
+
+Kanako0a:There are no better methods to preserve the future of faith.
+
+Kanako1a:I am willing to do anything for the sake of our goal.
+
+Alice1a:...Gods certainly aren't what I thought they'd be if they're willing to use such forceful methods.
+
+Alice0d:I believe gods should love all life equally.
+
+<end>
+
+<ChatID:14>----------------------------------------
+//神奈子様vs.ルーミア
+
+Kanako0a:Lowly youkai, just where exactly do you think you're treading?
+
+Rumia0a:I don't really know. I'm hungry though, so are you gonna serve me anything? Even bad tea like what Reimu gives me would be okay.
+
+Kanako0c:Why would I offer anything to people like YOU?
+
+Kanako0a:Furthermore, the gifts we receive from the youkai are all goods of the highest class. We have no inferior tea.
+
+Rumia3a:Well, if I get to be picky, I don't mind the good stuff either!
+
+<end>
+
+<ChatID:15>----------------------------------------
+//神奈子様vs.大妖精
+
+Daiyosei3b:Could you please stop fighting with Reimu and the others?
+
+Daiyosei3b:I'm sure even gods are happier when they can get along with others...
+
+Kanako0b:Not once in my life have I lent an ear to a mere fairy.
+
+Kanako0a:If you want those prayers to get through to me... Show me what you can do with your own strength.
+
+<end>
+
+<ChatID:16>----------------------------------------
+//神奈子様vs.チルノ
+
+Cirno1b:Whoa, you look cool! But aren't those things heavy?
+
+Kanako3a:They are, yes. They represent the duties that as a god I must bear.
+
+Cirno5b:Huh, I don't really get it, but I'd never wanna do that.
+
+Kanako1a:The idea of a mere fairy using objects as sacred as these is beyond laughable.
+
+<end>
+
+<ChatID:17>----------------------------------------
+//神奈子様vs.咲夜さん
+
+Sakuya5b:You have quite the intimidating presence. It's a sobering feeling.
+
+Kanako0a:Oh? In that case, why don't you surrender to us?
+
+Sakuya0b:I'd rather not. You're a bit too somber.
+
+Sakuya6a:I prefer to serve those with a bit more darkness to them, someone who sends a shiver down my spine.
+
+Kanako1a:You've been charmed by a devil, I see. I'll free your mind from their thrall.
+
+<end>
+
+<ChatID:18>----------------------------------------
+//神奈子様vs.美鈴
+
+Meiling1a:This sense of intimidation... So this is a god!
+
+Kanako0a:A mere youkai attempting to defy me? What recklessness is this?
+
+Meiling0b:That might be how you see it, but I've come this far so I'm not about to back down.
+
+Meiling1a:I'll play a big part here, and show everyone the power of the Scarlet Devil Mansion's gatekeeper!
+
+<end>
+
+<ChatID:19>----------------------------------------
+//神奈子様vs.パチュリー
+
+Patchouli0a:Your overflowing self-confidence and ambition remind me of Remi.
+
+Kanako0a:Oh? That person must have a bright future ahead of them then.
+
+Patchouli0a:Though if you two were to meet, you'd probably fight...
+
+Patchouli1a:Let's see if you hold up to her, power-wise.
+
+<end>
+
+<ChatID:20>----------------------------------------
+//神奈子様vs.小悪魔
+
+Koakuma0a:We're fighting a god? I can't calm myself down.
+
+Kanako0a:You seem to be a devil. Perhaps you fear my divine grace?
+
+Koakuma0a:I won't deny that I'm scared, but honestly I think my regular job is scarier.
+
+Kanako1a:So your daily struggles outweigh all. That too, I will save you from.
+
+<end>
+
+<ChatID:21>----------------------------------------
+//神奈子様vs.エリー
+
+Elliy1a:Turning my blade against a god... It's time for Elly's big role!
+
+Kanako0b:Heh, you plan to face ME? Surely you jest.
+
+Elliy3b:Gotta stay calm! The world is just packed with strong people, after all.
+
+Elliy1a:My special scythe combination attack will chop you right in two!
+
+<end>
+
+<ChatID:22>----------------------------------------
+//神奈子様vs.くるみ
+
+Kurumi3a:Wow, coming to a lake sure brings back memories.
+
+Kanako0a:Did you used to live by a lake as well?
+
+Kurumi0a:Near one, yeah. It's what you'd call a hometown of the heart, maybe?
+
+Kanako0a:I can't say I understand. Although as gods and devils, perhaps we were never meant to feel a kinship.
+
+<end>
+
+<ChatID:23>----------------------------------------
+//神奈子様vs.小町
+
+Komachi1c:Wow, isn't this view just great? I've gotta come here on my walks.
+
+Kanako0a:Hmph, you presume to visit our shrine for sightseeing?
+
+Komachi3b:I don't really have a stake in this fight of yours.
+
+Komachi4a:All this stuff about faith... You should just leisurely talk this sort of thing out over drinks.
+
+Komachi1a:And if you say you don't like sitting, I'll just scold you until your back goes out.
+
+<end>
+
+<ChatID:24>----------------------------------------
+//神奈子様vs.妹紅
+
+Mokou0a:Yasaka, god of the Moriya Shrine... I'll make you give up here and now.
+
+Kanako1a:So even a mere human would try to use that sort of bravado on me.
+
+Mokou3c:How about you just see for yourself whether I'm a "mere human" or not?
+
+Mokou3a:I'll beat you and close the curtains on this fight!
+
+<end>
+
+<ChatID:25>----------------------------------------
+//神奈子様vs.サニー
+
+Sunny6a:I guess I should have expected I'd need to psyche myself up for something like fighting a god...
+
+Kanako0a:If you're afraid, you can always run away. Puny fairies like you are of no interest to me.
+
+Sunny3a:Grrr, if I ran away after hearing that, then I'd be disgracing the name of the Three Fairies of Light!
+
+Sunny1a:I'm Sunny Milk, and my best trait is my spirit! Now let's do this fair and square!
+
+<end>
+
+<ChatID:26>----------------------------------------
+//神奈子様vs.スター
+
+Star4b:How am I supposed to fight against a god?
+
+Kanako0a:If you fear us, then simply obey us.
+
+Kanako1a:If you do what I say, I may well overlook this.
+
+Star5b:Oh, really? Then can I have some time to think about it?
+
+Star4b:No, wait, I can't. Who knows what the Hakurei Shrine Maiden would do to me...
+
+<end>
+
+<ChatID:27>----------------------------------------
+//神奈子様vs.ルナ
+
+Luna4b:Wh-Wh-What do I do? I never thought I'd be doing something like this.
+
+Luna3c:Oh, I know! I have to pick up a rock as a souvenir!
+
+Kanako1b:A rock?
+
+Luna3b:Yeah, a memento!
+
+Kanako1b:There are no rocks for mere fairies here. Remember that you stand upon sacred ground.
+
+<end>
+
+<ChatID:28>----------------------------------------
+//神奈子様vs.にとり
+
+Kanako0d:So you're a kappa? Why would a youkai of the mountain be HERE?
+
+Nitori3a:I'm sorry, Lady Yasaka! I know I'm going up against the Moriya Shrine!
+
+Nitori3c:But, Marisa and the others are my friends, and I want to fight alongside them...
+
+Kanako0b:...Hmm, it seems you fought with Sanae for the same reason.
+
+Kanako1a:Very well then. I'll hear the opinions of the rank and file youkai firsthand.
+
+<end>
+
+<ChatID:29>----------------------------------------
+//諏訪子様vs.霊夢
+
+Suwako0a:I remember you, Reimu.
+
+Suwako1a:Last summer you beat the tar out of Sanae while she was weak.
+
+Reimu0f:Oh yeah, I remember that. Just to be clear, though, I beat the tar out of her when she was strong, too.
+
+Suwako1a:I like your attitude. Where's the fun otherwise?
+
+Suwako1e:You're a shrine maiden, so act like one and entertain this god!
+
+<end>
+
+<ChatID:30>----------------------------------------
+//諏訪子様vs.魔理沙
+
+Marisa0b:I definitely wouldn't have pegged you as a god with a hat like that.
+
+Suwako0a:You won't be able to recognize my true strength with just your eyes alone.
+
+Suwako1a:Maybe you'll understand the meaning of a god if you play a game with me?
+
+Marisa0a:Well, you're confident, at least. In that case, I'll give you the best game I got!
+
+<end>
+
+<ChatID:31>----------------------------------------
+//諏訪子様vs.慧音
+
+Keine2b:Your attitude is completely different from Kanako Yasaka's. Are you really both gods of the same shrine?
+
+Suwako3b:Ahaha, you're just like Kanako. You're both so hardheaded.
+
+Suwako0a:You know something? People like that should just dance and make merry at a danmaku festival!
+
+Keine1a:She's definitely capable... I can't let my guard down!
+
+<end>
+
+<ChatID:32>----------------------------------------
+//諏訪子様vs.アリス
+
+Suwako0a:Are you a doll user? What kind of dolls do you make?
+
+Alice0c:We've just met and you're already acting so overly familiar... Well, I craft regular dolls, and I dress some of them up in foreign dresses, I suppose.
+
+Suwako3a:Wow, there are all kinds of youkai in Gensokyo, huh.
+
+Suwako1e:Mind making me an oshira-sama sometime?
+
+Alice0a:Huh...?
+
+<end>
+
+<ChatID:33>----------------------------------------
+//諏訪子様vs.ルーミア
+
+Rumia0a:Does the Moriya Shrine have a lot of food?
+
+Suwako1c:Pretty much. We have the faith of the mountain youkai so we basically live in luxury.
+
+Suwako0a:We have a scary amount of cucumbers too, so much that it's kinda unbalancing our diets.
+
+Rumia4a:I'm getting really interested now.
+
+<end>
+
+<ChatID:34>----------------------------------------
+//諏訪子様vs.大妖精
+
+Daiyosei2c:That hat...
+
+Suwako0a:What, you're curious about my Froggy hat?
+
+Suwako1a:That's just perfect! Froggy's interested in you too!
+
+Daiyosei2a:?!
+
+Daiyosei3b:Did that hat's eyes just... turn toward me?!
+
+<end>
+
+<ChatID:35>----------------------------------------
+//諏訪子様vs.チルノ
+
+Cirno0a:That funny hat and those clothes... Are you a frog?
+
+Cirno1b:If you are, then you're my specialty! I'll turn you into a frozen frog! 
+
+Suwako1c:Looks like somebody's itching for a curse. You're in for a world of hurt if you talk to me that way.
+
+<end>
+
+<ChatID:36>----------------------------------------
+//諏訪子様vs.咲夜さん
+
+Sakuya5b:Seeing you two gods reminds me of those sisters from earlier.
+
+Suwako0c:Oh?
+
+Sakuya0a:The gods called the Aki sisters. They governed autumn in some way...
+
+Suwako4b:Ah, I think I know who you're talking about. I saw 'em once while I was out taking a stroll.
+
+Suwako0a:But, well, you know how Kanako is, so we never got around to chatting.
+
+<end>
+
+<ChatID:37>----------------------------------------
+//諏訪子様vs.美鈴
+
+Meiling3a:A kid...? But I can feel a bottomless well of power from you.
+
+Suwako2a:Sheesh! How can you just walk up to a god this cute and say she's just some kid?!
+
+Suwako1a:But if you've come for some good old horseplay, then I'm game.
+
+Meiling3a:O-Okay? As long as I'm not the horse...
+
+<end>
+
+<ChatID:38>----------------------------------------
+//諏訪子様vs.パチュリー
+
+Patchouli0a:You both have distinctively unusual appearances.
+
+Suwako0a:Yeah, pretty much. Gods have to show their true natures through their bodies.
+
+Patchouli0a:So you take the form of a frog, and the other one's sacred ropes are snakes... Is that correct?
+
+Patchouli0a:I can't imagine things are simple between you two.
+
+<end>
+
+<ChatID:39>----------------------------------------
+//諏訪子様vs.小悪魔
+
+Koakuma0a:A child like this is a god of the Moriya Shrine...?
+
+Koakuma1a:Oh! Maybe this is another way of gathering faith?
+
+Suwako0a:What do you mean by that?
+
+Koakuma0a:Like, you act cute in order to make more people have faith in you?
+
+Suwako3a:That's not an angle I'm going for in the least. I have other ways of getting faith.
+
+<end>
+
+<ChatID:40>----------------------------------------
+//諏訪子様vs.エリー
+
+Elliy1b:Is that hat even allowed?!
+
+Suwako0c:Allowed by who?
+
+Elliy1a:I mean those eyeballs! They make you stand out so much! If I had a decoration like that, then—
+
+Suwako3b:Hey, who said they were for decoration?
+
+Elliy4b:Uh, what does that mean...?
+
+<end>
+
+<ChatID:41>----------------------------------------
+//諏訪子様vs.くるみ
+
+Kurumi1a:I feel like even I can do something against a little kid this!
+
+Suwako3a:I guess I'm used to it, but you're totally gonna give me the kid treatment, huh.
+
+Kurumi1b:C'mon, if you were a grown-up you'd be more... grown...?
+
+Suwako3a:...Well I can't deny THAT.
+
+<end>
+
+<ChatID:42>----------------------------------------
+//諏訪子様vs.小町
+
+<end>
+
+<ChatID:43>----------------------------------------
+//諏訪子様vs.妹紅
+
+Mokou0a:If you're the other god of the Moriya Shrine, do you have the same plan as Kanako?
+
+Suwako0a:Let's see... I guess I agree with palling around with the mountain youkai.
+
+Suwako3b:But hey, who needs to sweat all the serious stuff when we can have some fun?
+
+Mokou3a:...I hate dealing with these easygoing types. They remind me of HER.
+
+<end>
+
+<ChatID:44>----------------------------------------
+//諏訪子様vs.サニー
+
+<end>
+
+Sunny0a:「会話
+
+<end>
+
+<ChatID:45>----------------------------------------
+//諏訪子様vs.スター
+
+Star6a:You just popped out of nowhere, but where were you hiding before that?
+
+Suwako0c:If you want the full story, I was hiding out around there and watching the whole thing play out.
+
+Suwako0a:I thought I could control myself, but Kanako just looked like she was having so much fun!
+
+Star4b:...I didn't sense her at all. Is this another power of the gods?
+
+<end>
+
+<ChatID:46>----------------------------------------
+//諏訪子様vs.ルナ
+
+Luna3a:You look easier to talk to than that rope god...
+
+Suwako3b:Glad to hear it. Is that because I seem friendlier?
+
+Luna3d:Uh-huh! Like you'd be nicer to your believers too.
+
+Suwako1e:Well... I dunno about THAT.
+
+<end>
+
+<ChatID:47>----------------------------------------
+//諏訪子様vs.にとり
+
+Nitori3b:You're the other god of the Moriya Shrine, huh.
+
+Suwako0a:I don't show my face in public, so it's no surprise you've never heard of me.
+
+Suwako1d:But make sure you pay your respects in the future, or something awful might happen, okay?
+
+Nitori2b:Y-Yes, ma'am!
+
+Nitori2a:Y-Yes, ma'am! ...Wait, I can't talk like that now!
+
+<end>
+
+<ChatID:48>----------------------------------------
+//神奈子vs.まくら
+
+Makura0e:Restoring your divine power through the salvation of faith... This is the method you've attempted.
+
+Makura0g:I can also understand your feelings of pinning your hopes onto a new land.
+
+Kanako1d:You speak as if from experience. You do seem to have some divinity to you, at least.
+
+Makura3a:I gained popularity and turned it into strength, that much is the same.
+
+Kanako3a:I see, so we're in the same trade. I admit you've piqued my interest, so I have to ask.
+
+Kanako1a:Do you have any plans to create faith alongside humanity?
+
+Makura0g:Alongside them...?
+
+Kanako0d:There are no gods without humans. It is our duty to change ourselves to match how the humans of this land live.
+
+Makura1c:To match them... I see. So this is how you think.
+
+Makura1a:A mountain dream that chases the new. Allow me to ascertain its form.
+
+<end>
+
+<ChatID:49>----------------------------------------
+//神奈子vs.メーコ
+
+Kanako1a:So these sorts of minor youkai exist as well... Truly a chaotic flock.
+
+Meko1f:Gah, I'm getting made fun of. Don't look down on me!
+
+Kanako1c:What could you possibly amount to?
+
+Meko0g:Maybe nothing by myself. But with everyone else!
+
+Kanako1a:So you can accomplish nothing through your own effort. You are exactly the sort of person who needs our faith.
+
+<end>
+
+<ChatID:50>----------------------------------------
+//神奈子vs.神奈子
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Kanako0a:Oh? Now this is an interesting match-up.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Kanako3a:Not a trace of agitation even upon seeing me? As I'd expect of myself.
+
+Kanako1a:But you are yet immature. You fail to hide your desperation.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Kanako2a:Desperation, you say?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Kanako0d:You wish to protect both the history of Moriya you've built with Suwako, as well as your believer Sanae, do you not?
+
+Kanako1a:Which is why you would use any method to preserve your divine existence, even if it means ignoring your past glories.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Kanako3a:Hm. Whether you're a fragment of me enshrined elsewhere or what have you, you speak well.
+
+Kanako1b:If you know our situation so well, then return to your origin and lend me your power.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Kanako1c:I would say the same to you. For the future of the Moriya faith, you will become part of my strength!
+
+</nomove>
+
+<end>
+
+<ChatID:51>----------------------------------------
+//諏訪子vs.まくら
+
+Makura0c:You give off a slightly different aura from Kanako.
+
+Makura0d:Almost as if you have no attachment to the human world.
+
+Suwako0c:The Outside World changed, that's all. No sense crying over spilled milk.
+
+Makura0g:So you lost the humans, as well as your hope in life.
+
+Makura0a:But if so, then why go so far as to move to Gensokyo to preserve your existence?
+
+Suwako3a:Good question. Maybe because I'm a parent too?
+
+Makura0f:A parent?
+
+Suwako1a:That's enough chit-chat. If you wanna know more, then you have to play with me!
+
+<end>
+
+<ChatID:52>----------------------------------------
+//諏訪子vs.メーコ
+
+Meko4c:You're from the same shrine as Kanako, but you couldn't be more different, huh?
+
+Suwako3b:'Cuz I'm so easy to get along with?
+
+Meko0b:No, more like a kind of indescribable terror.
+
+Suwako0c:Haha, you sure are sharp in the weirdest ways.
+
+Suwako1e:Don't you think bad kids like you deserve to get cursed?
+
+Meko5a:Eek! And now the terror is way more describable!
+
+<end>
+
+<ChatID:53>----------------------------------------
+//諏訪子vs.諏訪子
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Suwako0d:Oh, what's up with this?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Suwako3b:Ha ha, what do you think?
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Suwako1a:A copycat, maybe? If so, I gotta admire the guts.
+
+Suwako1e:But do you know what'll happen next?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Suwako3b:Ha ha, yup, exactly! You got me down to a tee!
+
+</nomove>
+
+<end>
+
+<ChatID:54>----------------------------------------
+//神奈子vs.早苗
+
+Kanako2a:Sanae? What brings you here?
+
+Kanako3c:I'd heard you lost to the Hakurei Shrine Maiden and her group, but you seem well enough to me.
+
+Sanae3b:Yes, more or less...
+
+Kanako2c:That's good then. Leave the rest to me and leave this place.
+
+Kanako1c:Gensokyo's faith is ours to command. And as a god, I will continue to exist by your side.
+
+Sanae0c:(Right... Back then, all I wanted was to be by her side too.)
+
+<end>
+
+<ChatID:55>----------------------------------------
+//諏訪子vs.早苗
+
+Suwako0a:Oh hey, it's Sanae. Didn't you lose to Hakurei?
+
+Sanae3b:My deepest apologies Suwa— I mean, Lady Moriya.
+
+Suwako3a:Oh well, it happens. You win some, you lose some.
+
+Suwako1c:Anyway, are you here for a rematch with her? Or...?
+
+Sanae4a:What if I said I was here to play with you, Lady Moriya?
+
+Suwako5b:Well, why didn't you offer sooner?!
+
+Suwako3b:Let's do it, let's do it! That's a shrine maiden's job, isn't it?
+
+<end>
+
+<ChatID:56>----------------------------------------
+//神奈子vs.神綺
+
+Shinki5a:Whoa, how dignified.
+
+Kanako1b:What are you? Moreover, that divinity...
+
+Kanako1a:With that much power, it would be absurd to compare you to mere worldly dignity.
+
+Shinki0d:Ah ha ha... But as long as I can protect everyone, I'm happy.
+
+Kanako1d:Everyone, is it? The duty of a god is to save their followers.
+
+Shinki0c:I'm a little different, maybe. I want every living being to be happy.
+
+<end>
+
+<ChatID:57>----------------------------------------
+//C23：神奈子vs.非想天則
+
+Tensoku0a:...
+
+Kanako2a:Oh? Some sort of mechanical doll?
+
+Kanako0a:Sanae used to see this sort of thing on TV or in comics. To think there'd be one in Gensokyo.
+
+Tensoku0a:...
+
+Kanako1b:I'm deeply intrigued, but I note that you look down upon a god.
+
+Kanako1a:Submit, and become my servant.
+
+<end>
+
+<ChatID:58>----------------------------------------
+//C23：諏訪子vs.非想天則
+
+Tensoku0a:...
+
+Suwako0d:Ooh, it's one of those super robots. Sanae used to watch stuff like this on TV.
+
+Suwako0a:Gensokyo's a pretty crazy place, if it's got stuff like this.
+
+Suwako1e:I think I'll have you play with my minions a little!
+
+<end>

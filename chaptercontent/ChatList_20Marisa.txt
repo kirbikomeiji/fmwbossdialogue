@@ -1,0 +1,1017 @@
+﻿○魔理沙第二十話「友情の対岸
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: Marisa pursuade
+ 3: Alice pursuade
+ 4: speca start (no Alice pursuade)
+ 5: clear
+ 6: first attack to KappaC
+ 7: ADVB
+ 8-13: battle vs. Nitori
+14-19: battle vs. KappaC
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=5,FROM=妖怪の山中部,TO=妖怪の山中部,name=Youkai Mountain,icon=2>
+
+<BG=*bg_talk_Mountain_River.png,fade=1,color=1,title=*bg_Mountain,bgm=bgm_talk_aoki>
+
+Elliy4a:We're being a distraction! ...But there aren't any enemies here to distract.
+
+Marisa0b:Yeah, huh. What if we yell really loud?
+
+Alice0c:We don't need to go out of our way for this. Let's keep proceeding onward while we can.
+
+Kurumi3d:Ooh, in that case why don't we have lunch? I've got a bento that Sakuya specially made for...
+
+Kurumi6a:...Huh?
+
+Sakuya5b:What's the matter, Lady Kurumi?
+
+Kurumi6c:It's gone! My bento is gone! I know I had it carefully stowed away!
+
+Marisa6b:Huh? Well, none of us ate it.
+
+Elliy4b:Are you SURE you didn't accidentally leave it behind?
+
+Kurumi4d:Of course not! I put it in my clothes to make sure I wouldn't lose it.
+
+Kurumi2a:What should I do, Sakuya? My bento's missing... Where did it go...
+
+Sakuya5c:I'm not sure there's anything TO do about it...
+
+Alice0d:If it's gone, it's gone. I'll share some food with you later, so just be patient.
+
+Kurumi2a:*sniff* My bento...
+
+Elliy0a:Well, anyway. What's it looking like up ahead?
+
+Meiling0a:We should reach a river if we keep going straight. The smell of water's getting stronger as we go.
+
+Marisa0b:The smell of water, huh...
+
+Sakuya5b:Should we expect any new youkai at a river?
+
+Alice0d:Probably kappa. They're youkai with very skillful hands who craft all sorts of modern equipment.
+
+Sakuya0a:Modern equipment? Will the river have an oily sheen, then?
+
+Marisa0a:Heck no. The kappa are real serious business when it comes to water.
+
+Meiling0b:Now that you mention it, didn't you have a kappa friend? How's she doing?
+
+Marisa0b:Beats me. For all I know, she could be plotting with the mountain shrine maiden about how to take over the shrine right now.
+
+Kurumi0b:Huh? But the mountain shrine maiden's the one we're on our way to fight, right?
+
+Alice0c:Correct, Nitori is a mountain youkai. Therefore she is one of our enemies.
+
+Marisa2b:...Yup, if she pops up we'll have to fight her.
+
+Sakuya5b:So your friend is your enemy? This must be the downside of being so well-connected.
+
+Meiling0a:I see what's going on. In that case, let's try to avoid the kappa as much as possible.
+
+Marisa0b:Hey, don't worry about me. We're not gonna be very good decoys if we take the stealthy approach.
+
+Marisa0a:Besides, if we do run into each other, it'll be a good opportunity to clear the air.
+
+Sakuya6a:You're as positive as ever.
+
+Marisa0a:Yup, it wouldn't sit right with me if I didn't hear her side of this.
+
+Marisa0b:I want to know why she's working with Moriya Shrine.
+
+Alice0a:...
+
+<MAP=5,FROM=河童の谷,TO=河童の谷,name=Youkai Mountain,icon=5>
+
+<BG=*bg_talk_Mountain_River.png,fade=1,color=1,title=*bg_Mountain_Kappa,bgm=bgm_talk_ningyo>
+
+KappaC3c:Check out my invention for the month!
+
+KappaC0a:It's the natural evolution of the super popular seven-color glass panel: the 256-color interior lamp!
+
+Kappa5a:Ooh. The colors are blending in so much, it just looks white.
+
+KappaC6d:This beauty is so fantastic, it's a shame I can't share it with the person looking at the screen.
+
+Nitori3b:...
+
+KappaC4a:What's wrong, Kawashiro? You seem down.
+
+Nitori2a:No way, I'm totally fine! It looks amazing. It'd probably tire out the eyes, though.
+
+KappaC3b:So what? A little blindness is a small price to pay for a nice-looking interior.
+
+Kappa4b:Are you still worn out from what happened earlier? You've been out of it since we chased the humans off the mountain.
+
+KappaC3a:Oh yeah! You're friends with that human magician, right? You should tell us more about that, Kawashiro.
+
+Nitori3a:Um, sure...
+
+Momiji0a:Greetings. Is there anything amiss around here?
+
+KappaC5a:Whoop, we've got a tengu visitor!
+
+Kappa0a:Hello there! Nothing that we know about. Is there a reason you're asking?
+
+Momiji0a:I lost contact with a friend of mine who was out on patrol, so I'm making the rounds.
+
+Momiji5a:We may possibly have intruders.
+
+Kappa1a:What?! Who could possibly want to invade our...
+
+Nitori2a:...!
+
+Momiji0a:There's a high chance it's that shrine maiden's group.
+
+Momiji5a:I trust you know nothing about this, Nitori?
+
+Nitori2a:Of course not! I haven't left the mountain in days.
+
+Momiji4a:Glad to hear it. It's fine to befriend humans, but don't forget that you're a mountain youkai.
+
+Nitori0b:Yeah, I get it...
+
+KappaC6d:Say, Miss Tengu, what would you say to trying out this 256-color interior lamp?
+
+<Code=(map_flash,1,15,c_white)>
+
+<SE=se_Sakuya_psquare.ogg,wait=0>
+
+<Code=(demo_wait,15)>
+
+Momiji2a:Erk! Bright!
+
+Momiji0a:Erk! Bright! What's with this strange lantern...?
+
+Momiji5a:In any case, I need to get back to my duty. Just... stay vigilant.
+
+KappaC5a:Miss Tengu, wait!
+
+<single>
+
+Kappa0a:...Wow, Nitori. You're friends with a human, AND you can talk with a tengu on equal terms.
+
+</single>
+
+Nitori4b:I just happened to hit it off with the human, and with Momiji.
+
+KappaC4a:It would suck if there really were intruders, though.
+
+KappaC4b:If someone made it here after already beating up the tengu...
+
+Nitori3b:...
+
+Nitori3c:(Marisa's group is probably on their way. If they are, I'd better make them turn back here...)
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP-1
+
+Kappa4b:What if intruders really are coming?
+
+KappaC4b:Hmm. Maybe we should evacuate just to be on the safe side.
+
+Nitori0b:No, I say we stay here.
+
+Kappa3c:Good call. We just chased some people off. It'd be silly for more intruders to show up so soon after that.
+
+<Code=(cursor_jump,224,192,0)>
+
+<nomove>
+
+Kappa3d:Yeah! And even if they did come, we'd just crush them with our weapons.
+
+</nomove>
+
+Kappa3b:You bet! If we see any intruders around here, let's sink 'em to the bottom of the river.
+
+KappaC1a:Um, guys? I see some people coming our way!
+
+Nitori2a:Is it them...?!
+
+<end>
+
+<ChatID:1.5>----------------------------------------
+//1PP-2
+
+Meiling1a:Youkai spotted!
+
+Marisa0a:Alright, time to make some fireworks and—
+
+Marisa2b:Wait, hold up. One of them is...
+
+<pause>
+
+Nitori3b:I knew it was you, Marisa.
+
+Marisa1a:...Nitori!
+
+KappaC0b:Hey, is that the magician you're always talking about?
+
+Nitori3d:...
+
+Marisa3a:I was hoping to run into you, but I wasn't expecting it to actually happen.
+
+Marisa2b:C'mere, I've got a lot of questions for you.
+
+Nitori1b:Sorry, I can't do that. If you're opposing Youkai Mouintain, we're here to send you packing!
+
+Marisa2b:Rgh...
+
+Meiling3a:Oof, that was blunt.
+
+Kurumi4a:I thought she was Marisa's friend...
+
+Alice0a:I had a feeling it would come to this. I suppose a battle is inevitable.
+
+Sakuya0b:It certainly is if they want a fight. I trust that won't be an issue?
+
+Marisa2b:...Yeah, there's nothin' else for it. But I've still got questions.
+
+Marisa1a:This is personal. Sorry, but let me chat with Nitori for a bit!
+
+<end>
+
+<ChatID:2>----------------------------------------
+//魔理沙で説得
+
+Marisa1a:Nitori!
+
+Nitori1b:Marisa... Look, I've got nothing to discuss. Go home!
+
+Marisa2b:You might not, but I sure as heck do. Why are you siding with the Moriya Shrine? 
+
+Marisa1a:Don't tell me you're okay with them taking over the Hakurei Shrine!
+
+Nitori0b:Look... It's none of your business, Marisa.
+
+Nitori1b:If it's what Lady Kochiya wants, and what the powers that be on the mountain decided, then I have to abide by that decision!
+
+Alice4a:As expected, she's not interested in talking about this.
+
+Marisa2b:What's up with you calling her "Lady" Kochiya, anyway? Why would you treat her with that level of respect?
+
+Nitori0b:Things are a lot different than they were back in the summer. Youkai Mountain is cooperating with the god of Moriya Shrine now.
+
+Marisa2b:It's easy to SAY that, but do you even know what working with them means? 
+
+Marisa1a:It means you're helping them shut the Hakurei Shrine down!
+
+Alice2b:Settle down, Marisa. I'd like a word with her now.
+
+Alice1a:Allow me to ascertain whether Nitori's genuinely on their side.
+
+<end>
+
+<ChatID:3>----------------------------------------
+//魔理沙で説得後、アリスで説得
+
+Alice0d:Hello, Nitori. It's been a while.
+
+Nitori0b:Alice. I knew you'd come with Marisa.
+
+Alice0d:I never knew your faction had such strong ties to the Moriya Shrine.
+
+Alice0a:What's in it for your side to work with them?
+
+Nitori0b:The deal is that if we believe in Lady Yasaka and Lady Kochiya, Youkai Mountain will receive divine blessings.
+
+Nitori3c:Why do you want to know, Alice?
+
+Alice0d:It struck me as strange that they were at each other's throats last summer, yet they're working hand in hand now.
+
+Alice0c:Now I understand why—their interests just happen to coincide.
+
+Nitori0b:...What do you mean?
+
+Alice0a:I mean there's no trust between them. Has the Moriya Shrine ever shared what their angle is?
+
+Nitori3b:Their angle?
+
+Nitori3a:I've got no idea what that is. I barely talk with those gods at all.
+
+Nitori3d:Underlings like me aren't even allowed on the shrine grounds to start with.
+
+Meiling6a:Wait, they don't let you in?
+
+Sakuya0b:How strange of you to believe in someone you know nothing about.
+
+Marisa3a:...Nitori, do you REALLY want to side with the Moriya Shrine?
+
+Marisa3b:Are you ready to make enemies out of us for some random gods-come-lately?
+
+Nitori3d:Look...
+
+Nitori2b:Of course I want to help you! But I can't... 
+
+Nitori2b:The best I can do is send you home! You have to understand that!
+
+Marisa1a:Nitori!
+
+<end>
+
+<ChatID:4>----------------------------------------
+//アリスで説得せずに、にとり通常撃破
+
+<Cond=(LOCAL_LIST,ObjControl,event_done,0,==,1)>
+
+Nitori0b:Rgh! I guess both you and Alice are serious about this...
+
+Marisa3a:Uh, yeah? We've got no idea why you'd go to these lengths to help the Moriya Shrine.
+
+Nitori3c:Oh, I get it. I guess you guys didn't know.
+
+Nitori3b:If we have faith in these gods, they'll grant Youkai Mountain their blessings. It's a good deal for both sides.
+
+</Cond>
+
+<Cond=(LOCAL_LIST,ObjControl,event_done,0,==,0)>
+
+Nitori0b:Rgh, you guys definitely aren't pulling any punches!
+
+Meiling1a:We've thrown her off-balance. If you want to talk, now's the time!
+
+Marisa3a:I've got a question for you, Nitori. Why are you siding with the Moriya Shrine? 
+
+Marisa2b:The Hakurei Shrine's in danger of being taken over by those guys. Do you just not care?
+
+Nitori3c:Look... If it's what Lady Kochiya wants, and what the powers that be on the mountain decided, then I have to abide by that decision.
+
+Nitori3b:If we have faith in these gods, they'll grant Youkai Mountain their blessings. It's a good deal for both sides.
+
+</Cond>
+
+Alice0c:Ah. Since their interests happen to coincide, cooperation is to be expected, I take it.
+
+Marisa0b:Mountain policy, huh. Guess we can't do anything about that... 
+
+Marisa2b:In that case, could you just let us pass? Our only business is with the Moriya Shrine.
+
+Nitori3c:Sorry, I can't do that. It's seriously dangerous up ahead... 
+
+Nitori1b:So I'll send you home myself, before anything bad can happen to you!
+
+<end>
+
+<ChatID:5>----------------------------------------
+//ポロロカ撃破★逃げ切り時のpause連続は正しい状態
+
+<Code=(icon_set_direction,All,Nitori_FA_en,0)>
+
+<Cond=(LOCAL_VAR,ObjControl,stage_tot_spells_acquired,==,0)>
+
+Elliy1a:Whew, we got away from it!
+
+</Cond>
+
+<Cond=(LOCAL_LIST,ObjControl,event_done,1,==,0) || (LOCAL_VAR,ObjControl,stage_tot_spells_acquired,==,0)>
+
+Kurumi1b:Yeah, forget that. I hate water spells!
+
+Meiling5a:At least it's over. I know you sink like a rock in water, Kurumi.
+
+</Cond>
+
+<Cond=(FIND_UNIT,Kappa_en,enemy,!=,-1) && (FIND_UNIT,KappaC_en,enemy,!=,-1)>
+
+<Code=(icon_set_direction,Kappa_en,Nitori_FA_en,0)>
+
+<Code=(icon_set_direction,KappaC_en,Nitori_FA_en,0)>
+
+Kappa5a:They got Nitori?! We'd better get away!
+
+KappaC1a:Huh? No way... Wait for me!
+
+<pause>
+
+</Cond>
+
+<Cond=(FIND_UNIT,Kappa_en,enemy,!=,-1) && (FIND_UNIT,KappaC_en,enemy,==,-1)>
+
+<Code=(icon_set_direction,Kappa_en,Nitori_FA_en,0)>
+
+Kappa5a:They got Nitori?! We'd better get away!
+
+<pause>
+
+</Cond>
+
+<Cond=(LOCAL_LIST,ObjControl,event_done,1,==,1) && (LOCAL_VAR,ObjControl,stage_tot_spells_acquired,>,0)>
+
+Nitori3c:...
+
+Elliy4b:Hoo boy, we really did a number on her...
+
+Meiling0b:Are you sure this was for the best, Marisa?
+
+Marisa2b:It was this or nothing. Neither of us was gonna back down.
+
+Marisa2b:Nitori, are you SURE you don't want to come with us?
+
+Sakuya0b:Let it go, Marisa. You're making this harder for her.
+
+Sakuya5c:She doesn't agree with the mountain shrine, and she hasn't chosen to be our enemy. I think that might be the best we can ask for.
+
+Marisa4b:Yeah, I guess...
+
+Alice4a:...Nitori, we have to keep moving. I'm sorry, but please pretend you didn't see us.
+
+Nitori3d:...Alright. It's dangerous up ahead, so be careful.
+
+<pause>
+
+<Code=(icon_set_direction,All,Nitori_FA_en,0)>
+
+Marisa1a:Hey, Nitori! Once we kick the Moriya Shrine's divine butt, I'm coming back to tell you all about it, you hear me?
+
+Elliy1a:Yeah! You're gonna be SO upset you didn't come with us when you had the chance!
+
+Nitori3c:...
+
+<pause>
+
+Kurumi4b:The kappa left...
+
+Meiling3a:I wasn't expecting anyone to go easy on her, but you guys really gave her the works, huh?
+
+Sakuya5b:Getting a sound thrashing makes her less likely to be punished. Her report would be a lot less convincing if she was unharmed.
+
+Alice0a:In any case, we shouldn't linger here. I'd like us to figure out where we're going next and...
+
+Alice2b:...Hm?
+
+</Cond>
+
+<Cond=(LOCAL_LIST,ObjControl,event_done,1,==,1) && (LOCAL_VAR,ObjControl,stage_tot_spells_acquired,==,0)>
+
+Nitori3c:...
+
+Elliy4b:Hoo boy, we really did a number on her...
+
+Nitori3b:...Well, I can see that you're serious about this.
+
+Marisa2b:Nitori, are you SURE you don't want to come with us?
+
+Sakuya0b:Let it go, Marisa. You're making this harder for her.
+
+Sakuya5c:She doesn't agree with the mountain shrine, and she hasn't chosen to be our enemy. I think that might be the best we can ask for.
+
+Marisa4b:Yeah, I guess...
+
+Alice4a:...Nitori, we have to keep moving on. I'm sorry, but please pretend you didn't see us.
+
+Nitori3d:...Alright. It's dangerous up ahead, so be careful.
+
+<pause>
+
+<Code=(icon_set_direction,All,Nitori_FA_en,0)>
+
+Marisa1a:Hey, Nitori! Once we kick the Moriya Shrine's divine butt, I'm coming back to tell you all about it, you hear me?
+
+Elliy1a:Yeah! You're gonna be SO upset you didn't come with us when you had the chance!
+
+Nitori3c:...
+
+<pause>
+
+Kurumi4b:The kappa left...
+
+Meiling3a:I wasn't expecting anyone to go easy on her, but you guys really gave her the works, huh?
+
+Sakuya5b:Getting a sound thrashing makes her less likely to be punished. Her report would be a lot less convincing if she was unharmed.
+
+Alice0a:In any case, we shouldn't linger here. I'd like us to figure out where we're going next and...
+
+Alice2b:...Hm?
+
+</Cond>
+
+<Cond=(LOCAL_LIST,ObjControl,event_done,1,==,0) && (LOCAL_VAR,ObjControl,stage_tot_spells_acquired,>,0)>
+
+Nitori3b:...Well, I can see that you're serious about this.
+
+Marisa2b:We're going on ahead, Nitori. We're gonna have a word with that Moriya Shrine.
+
+Nitori3c:Well, I lost, so I can't exactly stop you. Be careful, everyone.
+
+<pause>
+
+<Code=(icon_set_direction,All,Nitori_FA_en,0)>
+
+Alice0a:So, where do we head next? I'd prefer to keep standing out as much as we...
+
+Alice2b:...Hm?
+
+</Cond>
+
+<Cond=(LOCAL_LIST,ObjControl,event_done,1,==,0) && (LOCAL_VAR,ObjControl,stage_tot_spells_acquired,==,0)>
+
+Nitori3b:...Well, I can see that you're serious about this.
+
+Marisa2b:We're going on ahead, Nitori. We're gonna have a word with that Moriya Shrine.
+
+Nitori3c:Well, I lost, so I can't exactly stop you. Be careful, everyone.
+
+<pause>
+
+<Code=(icon_set_direction,All,Nitori_FA_en,0)>
+
+Alice0a:So, where do we head next? I'd prefer to keep standing out as much as we...
+
+Alice2b:...Hm?
+
+</Cond>
+
+<Code=(icon_set_direction,Alice,KappaC_en,0)>
+
+<Cond=(FIND_UNIT,KappaC_en,enemy,==,-1) || (FIND_UNIT,Meiling,player,==,-1)>
+
+Kurumi0b:What's wrong?
+
+Alice0a:It appears one kappa has yet to escape. Let's follow her and have a word with her.
+
+</Cond>
+
+<Cond=(FIND_UNIT,KappaC_en,enemy,!=,-1) && (FIND_UNIT,Meiling,player,!=,-1)>
+
+<pause>
+
+<Code=(icon_set_direction,All,KappaC_en,0)>
+
+KappaC6a:Slowly, slowly... 
+
+KappaC4b:Oh crud, I fell behind without noticing. I gotta get out before they see me...
+
+Elliy3a:...One of the kappa didn't get away. Wanna capture her and question her?
+
+Sakuya6a:Good idea. Meiling?
+
+Meiling1a:Okay, I got this!
+
+<pause>
+
+<Code=(icon_set_direction,Meiling,FD_LEFT,0)>
+
+KappaC5a:Ack, they saw me! Gotta run, before—
+
+Meiling1a:You're not getting away!
+
+<pause>
+
+KappaC2a:Gaaah! I've got bad joints, go easy on me!
+
+Sakuya0a:There, we've caught her. Let's get right to the interrogation then.
+
+Kurumi4a:...Remind me to never try to sneak a bite of food in front of Sakuya.
+
+</Cond>
+
+<end>
+
+<ChatID:6>----------------------------------------
+//河童Cとの初戦闘時
+
+KappaC4b:Oh, man. I didn't think I'd really come across humans...
+
+Marisa0b:What's up with this kappa? She's acting really suspicious compared to the others.
+
+KappaC5a:No, no, you've got it all wrong! Please, no violence!
+
+<end>
+
+<ChatID:7>----------------------------------------
+//ADVB
+
+<MAP=5,FROM=河童の谷,TO=河童の谷,name=Youkai Mountain,icon=2>
+
+<BG=*bg_talk_Mountain_River.png,fade=0,color=1,title=*bg_Mountain_Kappa,bgm=bgm_talk_aoki>
+
+KappaC2a:Hrk! What do you think you're doing, capturing a kappa?!
+
+Sakuya5b:It's nothing bad. Just a bit of trussing up and interrogation.
+
+KappaC5a:WAT. Are you going to sell me to a freak show and then mummify me?!
+
+Marisa2b:Geez you're loud. Pipe down!
+
+<Code=(map_shake,1,15,2)>
+
+<SE=se_talk_hit01.ogg,wait=1>
+
+KappaC2a:Gah!
+
+Meiling0b:Wow, you shoved your broom in her mouth...
+
+Marisa0b:Well, kappa are noisy. A while back, I shut Nitori up the same way.
+
+Elliy4a:Violence isn't the answer! ...Just putting that out there for your consideration.
+
+Alice0a:Relax, you don't need to make a fuss. I just want to ask you a few questions.
+
+KappaC4a:Oh reeeally. I may be a sworn friend of humanity, but if you expect me to cooperate with intruders...
+
+Marisa0a:Lemme cut to the chase. Tell us the most noticeable place around here.
+
+Elliy0b:Why would you want to know that...? Wait, are we going to make a big distraction there?
+
+Marisa0a:Yup. We've already made a big splash, so we might as well ride the wave.
+
+Marisa6b:So, where should we go? Upstream? The peak?
+
+KappaC6a:Now, come on. You can't possibly expect me to share intel about the mountain.
+
+Sakuya5b:Say, I seem to recall the mistress mentioning a desire to try some fresh soft-shelled turtle blood.
+
+KappaC0b:The most noticeable place around is the Waterfall of Nine Heavens. It's the most important spot around these parts.
+
+Meiling5a:Wow, that was quick.
+
+Alice2b:Since it's a waterfall, I trust we can reach it by simply following the river upstream?
+
+KappaC0a:Yeah, this river's basically a Youkai Mountain thoroughfare. You won't get lost following it.
+
+Kurumi0b:Does that mean we'll run into a bunch of youkai on the way?
+
+KappaC3c:Oh yeah, you'll find mountains of 'em. Y'know, mountains of youkai? Youkai Mountain? Get it?
+
+Sakuya4a:...
+
+KappaC2a:Nooo, not the knife! Knives hurt!
+
+KappaC0a:Okay but seriously, there was a summons from the Moriya Shrine, so the tengu roads are gonna be especially busy.
+
+Marisa0b:The Moriya Shrine, huh. Nitori mentioned them being a big deal, but are they really?
+
+Marisa3a:Why would the tengu let one lousy human shrine maiden order them around?
+
+KappaC4b:Well, I mean, she's also a god people believe in...
+
+KappaC0a:There's apparently an even bigger god above her, but I've only seen her once.
+
+Elliy0b:A human that's also a god? Neat. What's she like?
+
+KappaC4a:Hmm, hard to say. I've only ever seen her by herself...
+
+Kurumi0b:Really? You live on the same mountain. Surely you've at least chatted?
+
+KappaC4a:Nope, no way. The gods' rules are strict enough as it is. I wouldn't dare to try to talk to her.
+
+KappaC0a:I can tell she's always giving her best, but she's a lone human on a mountain full of youkai, AND a god. How would I even begin to approach her?
+
+Sakuya5b:It's quite a different air from the Hakurei Shrine's. That would give anyone stiff shoulders.
+
+Alice0d:Alright, you're free to go. Thank you for your help.
+
+KappaC5a:Aww, really? But I got to meet humans! Could I at least get a handprint for posterity, or—
+
+Meiling3a:Just get going before we change our mind and take you hostage.
+
+KappaC2a:Erk?! ...Okay, bye now!
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+Sakuya0a:My, you let her go? And here I thought taking a hostage was a fine tactic.
+
+</single>
+
+Meiling3a:I wasn't serious. Why would I want to make a villain out of myself?
+
+Elliy3a:So, does this mean we have our next destination?
+
+Alice0d:Yes, the Waterfall of Nine Heavens. Let's proceed with caution. We should expect some fierce resistance there.
+
+<Cond=(CHECK_FLAG,M02_ALICE,==,0) && (CHECK_FLAG,M20_NITORI,==,1)>
+
+<single>
+
+Marisa4b:...
+
+</single>
+
+Kurumi4b:Are you upset about your kappa friend, Marisa?
+
+Marisa0b:Nah, I'm not. I know what the deal is now.
+
+Kurumi3d:Really? Well, if you say so...
+
+Kurumi3a:But hey, cheer up! I'm sure she was just itching to come with us.
+
+Marisa0c:You think? Yeah, maybe...
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M02_ALICE,==,1) && (CHECK_FLAG,M20_NITORI,==,1)>
+
+<single>
+
+Marisa4b:...
+
+</single>
+
+Alice4a:It's a shame about Nitori.
+
+Marisa0b:Hm? What are you talking about? We know what the deal is there now, so it's nothin' to fret about.
+
+Alice0a:If you say so. Just don't dwell too much on it.
+
+Alice0d:I'm sure if Nitori had a choice in the matter, she would've loved to come with us.
+
+Marisa0c:You think? Yeah, maybe...
+
+<MAP=5,FROM=河童の谷,TO=妖怪の山中部2,name=Youkai Mountain,icon=2>
+
+</Cond>
+
+<end>
+
+<ChatID:8>----------------------------------------
+//にとりvs.魔理沙
+
+Marisa1a:Nitori, listen to me!
+
+Nitori1b:No. I'm sending you all home, and that's that.
+
+Nitori1b:Your Master Spark won't work on me when I'm underwater!
+
+Marisa2b:Rgh, stupid Nitori, exploiting my weak points... Is she that serious about this?
+
+<end>
+
+<ChatID:9>----------------------------------------
+//にとりvs.アリス
+
+Nitori3b:Must be nice for you, Alice... Always getting to be on Marisa's side.
+
+Alice0a:Why would you say that?
+
+Nitori3a:Because it's true! If I had a say in this at all, I'd...
+
+Alice0b:...
+
+<end>
+
+<ChatID:10>----------------------------------------
+//にとりvs.咲夜
+
+Sakuya0a:A river filled with kappa? That makes this little mountain sojourn worthwhile.
+
+Nitori0b:You're so carefree about this. Do you not get that this is really dangerous?
+
+Sakuya6a:I'm just along for the ride. You can save the serious talk for Marisa.
+
+<end>
+
+<ChatID:11>----------------------------------------
+//にとりvs.美鈴
+
+Nitori0b:Will the Scarlet Devil Mansion be okay without its gatekeeper?
+
+Meiling5a:Don't worry, the mistress and Lady Patchouli will deal with any intruders.
+
+Nitori3b:That's fine and all, but in that case, why even have a gatekeeper job at—
+
+Meiling1a:Please don't finish that sentence!
+
+<end>
+
+<ChatID:12>----------------------------------------
+//にとりvs.エリー
+
+Elliy4a:So yesterday's friend is today's enemy... This is hitting me kinda hard.
+
+Nitori1b:Come on, none of that. You don't have to go easy on me!
+
+Elliy5a:Yeah, I know. Besides, it's important to keep things in perspective!
+
+<end>
+
+<ChatID:13>----------------------------------------
+//にとりvs.くるみ
+
+Nitori1b:You want some of this?! Well, I'll sink you to the bottom of the river if you...
+
+Nitori0b:Wait, you're a devil, right? Are you sure you want to be out over the river like this?
+
+Kurumi4b:Yeah, uh, I'm not the best with water... I probably have it better than Remilia at least.
+
+Kurumi3b:The stronger the devil, the more weaknesses they have. It's not easy being a devil!
+
+Nitori3c:Uh, by that logic, aren't you calling yourself weak?
+
+Kurumi1b:Look, I'm getting there! One of these days I won't be able to cross rivers, and I'll evaporate in sunlight!
+
+<end>
+
+<ChatID:14>----------------------------------------
+//河童Cvs.魔理沙
+
+Marisa0b:Say, why are you the only one with a different outfit color?
+
+KappaC6c:Oh, this is the C Custom spec. It provides 30% more propulsion, letting me move three times faster than a normal kappa.
+
+Marisa0b:Wait, how do you go from 30% more to three times faster?
+
+KappaC6a:It comes from exceptional handling. One theory has it that you can kick off ship decks and flotsam to get even more propulsion...
+
+Marisa4b:You know what, never mind. Talking with you is exhausting.
+
+<end>
+
+<ChatID:15>----------------------------------------
+//河童Cvs.アリス
+
+KappaC6c:Ooh, dolls? NICE. Do you have any chic ones that would fit nicely on a person of culture's shelf?
+
+Alice0d:Chic...? Well, I suppose I have Kyo dolls.
+
+KappaC4b:Japanese dolls are like, horror material! I'm talking something more modern, that tickles a certain fancy...
+
+Alice1b:...I'm afraid you're losing me, but if this is your way of mocking my dolls, I won't stand for it.
+
+<end>
+
+<ChatID:16>----------------------------------------
+//河童Cvs.咲夜
+
+KappaC3b:Ooh, maid spotted! It's so different seeing one IRL!
+
+KappaC4a:But getting a maid outfit wet detracts somewhat from its charm...
+
+Sakuya5b:I have no idea what you're on about, but I get the distinct impression you're mocking me.
+
+<end>
+
+<ChatID:17>----------------------------------------
+//河童Cvs.美鈴
+
+Meiling5a:It must be nice swimming in such a vast, beautiful river.
+
+KappaC0a:Well of course, it's our pride and joy.
+
+KappaC3b:You can catch fresh fish, or just ride the river all the way downstream! A perfect riverside life is here and waiting for you!
+
+<end>
+
+<ChatID:18>----------------------------------------
+//河童Cvs.エリー
+
+Elliy3b:What a beautiful river. On a day this nice, I could spend all day doing laundry here.
+
+KappaC2a:Laundry?! You'll pollute the river, you fool!
+
+<end>
+
+<ChatID:19>----------------------------------------
+//河童Cvs.くるみ
+
+KappaC3b:Ooh, those wings... Are you a devil? Now there's a genre that thrives in every age and culture!
+
+KappaC0a:Manga, video games, anime, light novels... And not only action stories, you're also big in romantic comedies.
+
+Kurumi3b:Ooh, I know one of those! Elly picked up this one book with someone who has to survive by kissing...
+
+KappaC6a:Hm, so that's your angle. You've made a choice that tickles the fancy of my YA heart...
+
+<end>
+
+<ChatID:20>----------------------------------------
+//にとりvs.メーコ
+
+Meko0g:I can't believe Nitori is fighting Marisa. Is this really okay?
+
+Nitori1b:It's not about whether it's okay or not, I have to do this!
+
+Meko1a:But I'm guessing those aren't your real feelings!
+
+Meko1b:Didn't you used to go over to her house and sleep over and stuff?
+
+Nitori2c:How do you know that?!
+
+<end>
+
+<ChatID:21>----------------------------------------
+//にとりvs.まくら
+
+Makura0g:Nitori, to think you'd stand in our way...
+
+Nitori1b:I'm a mountain youkai too! You won't get past me!
+
+Makura1c:So you're prioritizing your status. But that's not where your heart is.
+
+Nitori2b:Sh-Shut up! When I say I'll do something, I do it!
+
+<end>
+
+<ChatID:22>----------------------------------------
+//にとりvs.にとり
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Nitori2a:Huh? Me?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Nitori4b:Sorry, my bad. I'm sure you're confused, but if you'll let me explain—
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Nitori1a:No need, I think I get it!
+
+Nitori4c:Could it be that we're the same person from parallel universes?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Nitori2a:Great minds think alike! Well, that speeds this up.
+
+</nomove>
+
+<end>
+
+<ChatID:23>----------------------------------------
+//河童Cvs.にとり
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+KappaC1a:Hey, Kawashiro?!
+
+KappaC5a:I didn't want to believe it, but are you betraying us?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Nitori3b:No, not really... But I guess, sort of, in the end?
+
+Nitori4a:Well, whatever. For now I'll just beat you.
+
+KappaC2b:A-Alert! Scramble all fighters!
+
+</nomove>
+
+<end>
+
+<ChatID:24>----------------------------------------
+//河童Cvs.まくら
+
+Makura0f:My clothes are drenched...
+
+KappaC6c:Oho, that get-up looks like it'd absorb a lot of water.
+
+KappaC6a:Would you consider switching to this Kappa brand waterproof futon?
+
+Makura0h:Kappa brand? You mean the latest new product?
+
+KappaC1b:Buy now, and I'll throw in a swimsuit!
+
+KappaC6d:C'mon, that thin innerwear of yours is already turning transparent!
+
+Makura0f:I understand what you're saying, but the way you're staring at me is making me uncomfortable.
+
+<end>
+
+<ChatID:25>----------------------------------------
+//河童Cvs.メーコ
+
+Meko0b:Hawawa, my wool's soaked!
+
+KappaC1b:Oho! That get-up looks pretty water-absorbent.
+
+KappaC3c:You should try our Kappa brand waterproof suit!
+
+Meko0e:Don't worry about me, I'm wearing a swimsuit underneath!
+
+KappaC3c:Are you a little kid come to play in the water?!
+
+<end>
+
+<ChatID:26>----------------------------------------
+//M20：にとりvs.非想天則
+
+Tensoku0a:...
+
+Nitori2a:No way, a giant robot?!
+
+Nitori1d:It's not papier-mache either, it's the real deal! Could it have been made in Gensokyo?
+
+Tensoku0a:...
+
+Nitori2c:What do I do? The more I look the more curious I get, but this isn't the time for this!
+
+Nitori1b:Alright, first I'll win, then I'll have all the time in the world to study it!
+
+Tensoku0a:?!
+
+<end>

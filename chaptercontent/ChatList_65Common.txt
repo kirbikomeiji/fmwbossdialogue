@@ -1,0 +1,3069 @@
+﻿○共通第六十五話「ミスティク・ヴォヤージュ
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA-1
+ 1: ADVA-2 (Telop)
+ 2: ADVA-3
+ 3: 1PP-1
+ 4: 1PP-2
+ 5: first battle (Koishi)
+ 6: first battle vs. enemies
+ 7: 3PP
+ 8: first battle (Mima)
+ 9: first battle vs. Yumeko
+10: Yumeko spell 1 start
+11: Yumeko spell 2 start
+12: Yumeko spell 3 start
+13: clear 
+14: ADVB
+15: lose
+16: first use of special attack (Meiling)
+17: first use of special attack (Aki)
+18: first miss of special attack (Aki)
+19: first use of special attack (Korin)
+20: first use of special attack (Sanyosei)(unused)
+21: first use of special attack (SatoKoi)
+22: extra
+23-87: battle vs. Yumeko
+
+<ChatID:0>---------------------------------------
+//ADVA-1
+
+<MAP=11,FROM=紅魔館,TO=紅魔館,name=Scarlet Devil Mansion,icon=1>
+
+<BG=*bg_talk_Koumakan_Gate.png,fade=1,color=1,title=*bg_Koumakan,bgm=bgm_talk_gag>
+
+Kogasa3b:Hmm, what's the best way to do this...?
+
+Koishi0a:Is your surprise danmaku ready yet?
+
+Kogasa2c:It's coming! It's hard when they're expecting it, but I have my pride, so...
+
+Kogasa0b:Oogly-boogly-boo!
+
+Koishi0b:Heh heh.
+
+Kogasa3c:What? Are you surprised?
+
+Koishi5b:Oogly-boogly-boo!
+
+Kogasa2c:Eep! Oogly AND boogly AND boo?!
+
+Flan3b:She's got you in the palm of her hand. But this is Koishi we're talking about, so don't feel too bad.
+
+Flan1a:Anyway, let's play loot and kill next!
+
+Kogasa2b:Wait, what?! Loot and kill?! I know I said I'd be your danmaku opponent, but that sounds a little—
+
+Koishi5b:Yay, sounds fun!
+
+<single>
+
+Shizuha1d:...Sounds like they're enjoying themselves over there. Okay, let's continue our special training.
+
+</single>
+
+Meiling1b:Listen, the most important parts are the breathing and the flow of qi.
+
+Minoriko1a:In... and out!
+
+Sanae1a:Just breathing like this make my blood feel energized.
+
+Meiling1a:You should join us, Reimu!
+
+Reimu2b:...I'll pass.
+
+Minoriko4a:What, embarrassed? You'll never be a proper autumn warrior with an attitude like that.
+
+Reimu3a:And I don't want to be. I'll train when I feel like it.
+
+Sanae0a:Haven't you been saying that and doing nothing but lounging at the shrine ever since what happened with Koishi?
+
+Sanae0d:If you don't keep up with your training, you'll regret it when you need it the most.
+
+Reimu3a:We can't find Mehko, and it's not like there's an incident going on, so what's the point?
+
+Reimu0f:Oh, right, didn't Shou say they were going to go rescue Byakuren?
+
+Sanae0g:I hear they're still making preparations back on the mountain. Once they're ready, I'm sure they'll invite us to help.
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+Nue1a:What a sorry state to find the youkai exterminating shrine maiden in. Talk about a fool.
+
+Reimu0f:Oh, it's Nue. What're you doing here?
+
+Nue0a:That's my question. What are YOU all doing here? Some weird dance?
+
+Minoriko0a:It's not a dance. We're practicing tai chi.
+
+Shizuha1d:This is part of our training. Boosting our chi is good for both health and danmaku.
+
+Nue0b:Training, huh? Those girls over there look like they're just playing around though.
+
+Koishi0a:Cause we are! I think Satori's buried in a book somewhere though.
+
+Nue0c:Ah, right, I saw both the bean sprout and blondie over at the library.
+
+Flan0b:You went to the library? That's unusual for you.
+
+Nue0a:It was a favor for Minamitsu. She asked me to deliver a little message.
+
+Nue0c:Wanted me to ask the magician over there to look into Makai.
+
+Meiling0a:Oh, that's where Byakuren was sealed, right?
+
+Sanae6a:Does that mean they're finally ready to go rescue her?
+
+Nue0a:Seems like it'll be just a little longer. They're all running around getting the boat ready and loading supplies and whatnot.
+
+Reimu4a:I see. So that's why they need you to run errands for them.
+
+Reimu4a:But I'm surprised you'd actually be helping Shou.
+
+Nue5b:I don't give a flip about that Hijiri lady, but this is Minamitsu's greatest wish, so...
+
+Koishi0a:Mmm... Sounds tricky.
+
+Nue1a:Maybe. When you're a youkai as great as me, your life starts getting complicated.
+
+Nue3c:Anyway, I'm done here, so I'll be on my way...
+
+<Code=(map_shake,1,10,2)>
+
+<SE=se_talk_gashi01.ogg,wait=1>
+
+Kogasa3d:Hold on, you have to play with me!
+
+Nue2a:Uh, what.
+
+Flan0f:Oh right, I never got to keep playing danmaku with you.
+
+Nue2b:What are you talking about? I'm kind of busy...
+
+Koishi6c:Yay! Let's protect the Earth from the alien!
+
+Nue2a:C'mon, did no one ever teach you two to listen when people are talking?
+
+Flan3b:Remi never listens to anyone!
+
+Koishi0b:Sis always says that to get by in this world, it's better to make people listen to YOU.
+
+Nue4a:Okay, there's no reasoning with these people. I've gotta do something before—
+
+Flan0a:What are you waiting for? C'mon!
+
+Koishi6c:Hey, Miss Alien, where do your UFOs come from? Here?
+
+Nue4a:Hey, stupid! Watch where you're touching!
+
+Reimu3a:...Sounds like things are getting lively over there. Maybe I should get in a little exercise before they drag me into it too.
+
+Sanae4a:Oh, finally getting motivated?
+
+Reimu5c:I can't afford to slack off now that I hear we're going to Makai.
+
+Shizuha0b:Makai must be really dangerous if you of all people are talking about it like that.
+
+Meiling1a:Minoriko, Shizuha, let's make sure we perfect our new special moves while we can!
+
+Minoriko1a:Yeah! Let's show 'em our guts!
+
+<BG=bg_talk_Koumakan_Library.png,fade=1,color=1,title=bg_Koumakan_Library,bgm=bgm_talk_aoki>
+
+Satori0a:...
+
+Patchouli0a:...
+
+<SE=se_talk_paper01.ogg,wait=0>
+
+Alice0a:...
+
+Remilia1b:*yawn*
+
+Sakuya0a:Your tea, Mistress.
+
+Remilia3d:Ah, very thoughtful of you. It's so quiet in here that I'm getting drowsy.
+
+Sakuya0a:I hear there will be more to research later, so I added something to help keep you awake.
+
+<SE=se_talk_walk_indoor01.ogg,wait=1>
+
+Marisa0c:Yo, I'm here. There's this book I was hoping to take a look at...
+
+Marisa0a:Huh, someone's already in my chair. This is rare, what's the occasion?
+
+Satori0c:Oh, pardon me. I didn't realize this was your special seat.
+
+Marisa0e:Nah, it's fine. You don't come up here often, right? I'll just sit wherever, don't mind me.
+
+Satori0b:"Good, looks like everyone's busy with something."
+
+Satori0c:"Now's my chance to go borrow that grimoire I've had my eye on." You might want to keep an eye out, Patchouli.
+
+Alice4a:So that's what you were plotting, Marisa.
+
+Patchouli1b:Despicable.
+
+Marisa4c:C'mon, Satori...
+
+Satori0c:"I'd forgotten how much of a character she was." Why thank you, Marisa.
+
+Remilia1a:Judging from your tone, you seem to be in good spirits again.
+
+Satori3e:Yes, actually. I can't remember the last time I had a pleasant day out like this.
+
+Satori0a:And just look at all the books I've been missing out on by not visiting the surface.
+
+Patchouli3a:This is a pleasant surprise for me as well. I didn't know you were such an avid reader.
+
+Satori0a:To someone who can read minds, trying to infer the feelings of a character in a book is just so mentally stimulating.
+
+Satori3c:I believe that by practicing this skill, maybe I'll be able to understand Koishi some day.
+
+Sakuya5b:Koishi, huh? I often see her on the surface lately, but I'm worried about her education. Is it your policy to let her run around unattended?
+
+Satori0a:As long as she comes home every day, I intend to let her do whatever she wants.
+
+Satori3f:I want her to discover things for herself.
+
+Patchouli0d:A nice thought. And on our end, I'm just glad Flan has someone else to play with now.
+
+Remilia0c:Speaking of leaving children unattended, what about the one you brought, Alice? Is it okay to leave her alone?
+
+Remilia0a:Considering her height, don't blame me if she ends up buried under a pile of books.
+
+Alice0d:Hmm. Koakuma took her to go looking for books earlier...
+
+<SE=se_talk_walk_indoor01.ogg,wait=1>
+
+<Code=(map_shake,1,15,2)>
+
+<SE=se_move_nuno06.ogg,wait=0>
+
+Medicine0c:Hup!
+
+Koakuma3b:Lady Patchouli, Miss Alice, I've brought the books you requested.
+
+Sakuya0a:Ah, there they are now.
+
+Alice0d:Thank you for finding them for me, Koakuma. And welcome back, Medicine.
+
+Alice0a:You're carrying a lot of books there. Can you really read all those?
+
+Medicine3d:I'll be fine. I'll read these in a flash. Then I'll be all worldly like you, Alice.
+
+Marisa0a:Wow, I look away for a moment and suddenly you two are getting along like bees and honey.
+
+Alice0d:She still doesn't really know how people do things outside the suzuran field, so she's been staying with me sometimes.
+
+Medicine0a:Alice is nice to Sue, and she teaches me all kinds of stuff.
+
+Medicine5e:Like today. I said I wanted to know more about medicine, so she took me here.
+
+Marisa0d:Oh yeah? You're into medicine now?
+
+Satori0c:...I see, so Eirin told you that she'd like to make medicine out of your poison.
+
+Medicine1a:Yeah. I want to show everyone how awesome Sue is!
+
+Satori0c:You want to be useful to someone... In which case, I think studying the bonds of society will be a good opportunity for you.
+
+Medicine2a:Y-You can't just read my mind like that! That's cheating!
+
+Marisa0a:By the way, what books were you looking for, Koakuma?
+
+Koakuma3b:Anything about Makai. Everything from treatises to grimoires. Even tour guides.
+
+Patchouli3a:Shou asked us to do some research in preparation for the trip to Makai.
+
+Marisa0b:Makes sense. But wouldn't it be faster to just ask Alice? You're from there, aren't you?
+
+Alice0d:Makai is enormous, so there are plenty of things I know nothing about either.
+
+Medicine2a:You're from somewhere else...? So you didn't always live in that house, Alice?
+
+Marisa0d:Yeah, she's originally from Makai. She used to be so tiny too.
+
+Marisa0a:Not as short as you though, Medicine. A little while ago she left her mother's home to come study magic in Gensokyo.
+
+Sakuya5b:Come to think of it, you've never talked about your past before, have you?
+
+Koakuma5b:But if you have family there, why did you move?
+
+Koakuma0a:There shouldn't be anything stopping you from doing magic research in Makai...
+
+Alice0d:Part of it is that I wanted to be independent, but there was something I wanted to think about on my own.
+
+Alice2b:You might even say my research into doll magic is part of that too.
+
+Medicine0a:Hmm... So you had a lot of reasons...
+
+Medicine3d:I wanna see where you grew up too!
+
+Marisa7c:Yeah, I've always wanted to go back to Makai someday.
+
+Satori0a:I hear it's a dangerous place, so we can't let our guard down there.
+
+Remilia1e:But why not go visit? It'll be a good chance to test our strength.
+
+Patchouli0c:I'd also like to test the new magic I'm researching once it's complete.
+
+Sakuya5b:It seems like we all have our own expectations from Makai.
+
+Koakuma3c:We haven't had an overnight trip since we went to the moon. We'd better start packing!
+
+<MAP=11,FROM=迷いの竹林,TO=迷いの竹林,name=Bamboo Thicket,icon=5>
+
+<BG=*bg_talk_Bamboo.png,fade=1,color=1,title=*bg_Bamboo,bgm=bgm_talk_kaikidan>
+
+Meko1a:Okay, gotta look both ways... Right... check. Left... check.
+
+Meko0f:Phew... Good, no one's here.
+
+Meko0a:Lately this place has been crawling with tengu and other creatures, so I gotta make sure no one spots me.
+
+Meko0a:There are more and more every day, so maybe it's just a matter of time until they catch me...
+
+Meko1a:N-No! I can't be scared! Lady Makura says it'll be okay, so I just have to do what she says!
+
+Meko1a:I think this is around where that hospital the humans go to is... right?
+
+<SE=se_talk_kasakasa02.ogg,wait=1>
+
+Meko0b:Wah, someone's coming!
+
+Kaguya0a:You should be able to find your way home from here.
+
+Sho0a:Thank you for going out of your way to guide us this far.
+
+Kaguya3c:Think nothing of it. You're the ones buying medicine from us, so I should be thanking you.
+
+Kaguya6a:To be honest, we don't want for money. But I'm told this is another part of functioning in society.
+
+Nazrin3c:Well, we couldn't possibly accept this much medicine without giving you something in return.
+
+Sho0a:But thanks to you, our preparations for the journey to Makai are going smoothly.
+
+Kaguya3c:Wonderful. Do let us known when you'll be departing.
+
+Kaguya3a:Everyone is eager to witness your savior's rescue.
+
+Nazrin3b:Good to hear. Naturally, we'd love to have you with us.
+
+Sho3a:Now then, we had better be going.
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+<single>
+
+Meko0b:...Phew, they left. Boy, I can't ever afford to relax.
+
+Meko0a:But didn't they just say they were going somewhere? Maybe we can use that...
+
+Meko1e:In which case, I'd better go make a few preparations myself!
+
+Meko0e:Please be patient, Lady Makura, I'm doing my best to make your dream come true!
+
+</single>
+
+<end>
+
+<ChatID:1>---------------------------------------
+//ADVA-2 (Telop)
+
+As people worked in determination, time marched onward.
+
+Preparations to enter Makai proceeded steadily...
+
+And now the group is ready to carry out their plan for entry.
+
+<end>
+
+<ChatID:2>---------------------------------------
+//ADVA-3
+
+<BG=bg_talk_Shrine_Spring.png,fade=1,color=1,title=bg_Shrine,bgm=bgm_talk_aoki>
+
+<SE=se_talk_gaya.ogg,wait=0>
+
+<Code=(demo_wait,60)>
+
+Rumia0a:Reimu! I want tea!
+
+Elliy1a:Water for me! With a big ol' pile of salt!
+
+Reimu4a:Get it yourself. There's a teapot over there somewhere.
+
+Reimu2b:Sheesh. Why was I looking forward to this get-together again?
+
+Sanae0a:Everyone's just eager because it's finally time to go to Makai. 
+
+Marisa0a:Some of 'em are a little overeager if you ask me, but at least people are motivated.
+
+Daiyosei0a:Overeager? How so?
+
+Mystia1b:How long will you sleep~? 'Til the Earth's final day~?
+
+Cirno1a:I'm gonna meet people even stronger than me!
+
+Orin4d:...True, their excitement is taking off in a pretty weird direction.
+
+Udonge1c:I don't mind if you're noisy, but at least take this strategy briefing seriously.
+
+Youmu4a:You're always so pragmatic at times like this, Reisen.
+
+Satori0c:It's a good attitude to take when you're feeling nervous. We could all learn from that.
+
+Utsuho0a:Yeah! So when do we eat these lunches we packed?
+
+Koishi6e:Not now, Okuu. Those are for the trip.
+
+Satori0a:...
+
+Komachi5a:Well, this is their last chance for fun and games. Let them get it out of their system.
+
+Komachi0a:I mean, once Lady Shiki gets here, fun time will be over in a snap.
+
+Tenshi3a:Hello, hello, good work, good to see everyone again, and all that.
+
+Iku5c:As you can see we're here on the surface as well.
+
+Mokou0d:Always glad to have more help. This is shaping up to be pretty serious business again.
+
+Mokou0b:The temple crew, Yukari, and the other big-shots are having a meeting right now.
+
+<SE=se_talk_walk_outdoor01.ogg,wait=1>
+
+Eiki0a:Hm. I see everyone's assembled.
+
+Sunny0d:Oh, looks like they're done.
+
+Kanako0d:It seems there's already a lively conversation here, but let's get started, shall we?
+
+Akyu0a:Anyone with a cup of tea, please put it down and listen carefully.
+
+Keine0a:I'll leave the introduction to you, Shou.
+
+Sho1c:R-Right! Then...
+
+Sho0a:I hereby call this strategy meeting to order.
+
+<Code=(sound_fadeout,BGM,60,0)>
+
+<BGM=bgm_talk_kagaku,0>
+
+Sho0a:First, allow me to thank you all for gathering here today.
+
+Sho0c:Our purpose for venturing into Makai is to rescue Byakuren Hijiri.
+
+Sho0b:Hijiri is a pure-hearted person who is admired by many, human and youkai alike. She's currently sealed in Makai.
+
+Sho4a:I implore everyone present to lend us your aid in getting her out of there.
+
+Sakuya6a:Need you even ask? That's what we're here for.
+
+Ichirin1d:Specifically, she's sealed in a dimension called Hokkai, which is in Makai.
+
+Ichirin0b:There are two seals. We'll use the Flying Granary—that is, the Palanquin Ship—to open the door to Hokkai. Then we'll use the pagoda to free her.
+
+Nazrin0b:So the thrust of the plan is to take the Palanquin Ship and the pagoda to those two seals.
+
+Sho3c:Once we reach that point, we'll draw on the Buddhist artifacts' power.
+
+Wriggle3a:I get the gist of it, but what kind of place is Makai?
+
+Tewi0b:The rumors say it's pretty dangerous.
+
+Keine0c:Alice and Patchouli are the experts here, so we'll turn the floor to them.
+
+<SE=se_talk_walk_outdoor01.ogg,wait=1>
+
+Alice2b:...Okay, allow me to explain what you'll be seeing in Makai.
+
+Alice0a:Makai is another Otherworld, distinct from Gensokyo. As the name implies, it can be considered a magical realm.
+
+Alice2c:Think of it as a harsh environment where the rules of Gensokyo don't apply. Even the air is filled with miasma.
+
+Patchouli0c:An ordinary person would succumb within minutes, but we should be fine. With that in mind...
+
+Marisa1c:Hey, don't just handwave that detail!
+
+<Cond=(CHECK_FLAG,SC_AKYU,==,1)>
+
+Akyu0b:I do worry about my own health, but I think I can handle it in my current shape.
+
+Kosuzu4b:Are you sure?
+
+</Cond>
+
+<Cond=(CHECK_FLAG,SC_NOAKYU,==,1)>
+
+Akyu3c:I do worry about my own health, but I don't plan on leaving the boat.
+
+</Cond>
+
+Patchouli0c:Picking up where I left off, the miasma of Makai boosts the effect of magical energies.
+
+Patchouli0a:That's why it's the best place to practice sorcery, and is even called the Holy Land of Magic.
+
+Alice1b:But thanks to that, it's also the home to powerful monsters.
+
+Alice0a:So as you'd expect, the people who live there are fairly cautious.
+
+Reimu4a:Marisa and I have been there before, but they aren't exactly good memories.
+
+Rumia0a:So, is there a shortcut to Hokkai or anything?
+
+Alice2b:I wish there was, but I hadn't even heard of it before, and it wasn't recorded in any of the documents we studied either.
+
+Sho0c:The seal is a thousand years old, and Makai is said to be infinitely vast.
+
+Sho0b:I took part in the sealing, but even I couldn't tell you precisely where it is.
+
+Iku1b:So you're saying we'll have to search for the entrance to Hokkai after we arrive in Makai.
+
+Murasa0c:Yeah. Luckily, as the key to the seal, the Flying Granary should show some sort of reaction when we get close to it.
+
+Kogasa0b:Then it's a stab-in-the-dark surprise Makai tour! Heck yeah!
+
+Kisume4a:But now I'm getting worried. What if we collapse from the hostile environment?
+
+Nitori1a:Don't worry, we've made all sorts of preparations to prevent that.
+
+Meiling0a:Yeah, we've even done special training to polish up our moves.
+
+Keine0a:...Hm, on that note, maybe we should discuss that in more detail, so we all have a better idea of our combat capacity.
+
+Minoriko1b:Then we'll go first. We trained a lot and perfected our super move!
+
+Shizuha3a:Who cares if it's spring?! Witness the golden gleam of autumn!
+
+Letty4a:They're even worse than usual... I wonder what kind of act they'll show us this time?
+
+Shizuha4a:It's not an act, it's a special move...
+
+Meiling1a:I've also mastered a new technique, one that everyone's been waiting for!
+
+Sakuya0a:Oh, really? Have you mastered a certain predecessor's signature judo throw?
+
+Elliy3b:Or did you pull off a Boomerang or a Home Run?
+
+Meiling5a:No no no, you'd need to train with a three-man team for at least two of those...
+
+Patchouli4c:...
+
+Koakuma5b:Are you not going to speak up, Lady Patchouli? You've been doing so much research these past few days...
+
+Patchouli4a:...It's still one last step away from completion. Unfortunately, I failed to meet our deadline.
+
+Udonge0a:So far so good. I've also been doing some danmaku training.
+
+Youmu1a:They're the same techniques as always, but my power and accuracy should be improved.
+
+Yuyuko1a:Mmhm! Speaking of combat proficiency, I hear the mountain youkai have been hard at work as well.
+
+Yugi2a:Wait, when you say mountain youkai, do you mean...?
+
+KappaC3b:Of course! Kappa are friends to good boys and girls everywhere!
+
+Nitori4b:The tengu have been patrolling on land and doing their part, so I asked my friends to help out with the preparations.
+
+KappaC6c:Our power is also the driving force behind the Palanquin Ship reaching its final stage!
+
+Marisa0d:Final? You mean you gave the boat an upgrade?
+
+Ichirin3a:We commissioned them to do it. It's the cornerstone of our strategy.
+
+KappaC1a:The centerpiece of it is its brand new weapon, a heavy-class missile loaded with the Flying Granary's Buddhist energy!
+
+KappaC6d:You've never seen such power! It could even wipe the shrine right off the map in a single shot!
+
+Reimu2b:Wait, why is the shrine your measuring stick?!
+
+KappaC4a:But the handling is extremely finicky, so the firing mechanism requires autopilot to be active for it to work.
+
+Murasa0d:So I can't use it when I'm in command.
+
+Murasa2b:It's a bit of a shame, but I just like to keep my hand on the rudder, you know?
+
+Kosuzu0a:Mister Kourindou is used to working with autopilot, so I'm sure he could make use of it.
+
+Korin1b:I'll do what I can, as the acting captain.
+
+Nitori3e:We also expanded the refrigerator and added a button to reheat the bath. Stuff like that.
+
+Nitori1a:Oh right, and there was that other thing we haven't told Murasa about yet.
+
+Murasa0d:Wait, what?
+
+Nitori3e:We also added a spirit-powered emergency booster. You know, just in case.
+
+Nitori1a:By using all of the ship's spiritual energy, you can exceed its maximum speed for a few dozen seconds.
+
+KappaC4b:However, based on our calculations, it would be nearly impossible to use the rudder at those speeds.
+
+KappaC4a:It's for emergency escapes only. I strongly suggest not touching it unless there's a very compelling need.
+
+Akyu3c:Oh my, that sounds ominous.
+
+Murasa4b:...Okay, thanks for explaining it. I think I'll cover that switch with glass.
+
+Ichirin0a:And I think that's everything we needed to talk about before we go?
+
+Yukari0a:Then we should start gearing up too.
+
+Yukari1a:We'll be carrying out this plan immediately. Board the ship as soon as you're ready to leave.
+
+Kanako0a:There's no telling what will happen after we arrive. Be ready to deploy at a moment's notice.
+
+LilyW1d:Steady as she goes!
+
+<single>
+
+Alice0b:Back to Makai, hm. I can only hope this is an uneventful trip...
+
+</single>
+
+Sanae0g:This is a trip home for you, right, Alice? If you'd like to visit your family, I'm sure that could be arranged...
+
+Alice0d:No, I'm still just partway down my path. I have no plans to visit them.
+
+Alice4a:Although I did send a letter about what we're doing, and it worries me that I never got a response...
+
+Marisa7a:Don't worry, it's not like they're going to forget your face. I'm sure we can talk our way out of any problems that come up.
+
+Reimu0c:But first we have to get to Makai. Let's all be sure to stay sharp.
+
+<end>
+
+<ChatID:3>---------------------------------------
+//1PP（出撃前）
+
+Reimu2a:Augh, that was a lot of shaking.
+
+Akyu2a:At least we've made it through, I think...
+
+Yukari0a:We passed through the barrier between worlds. Be glad the impact was this minimal.
+
+Yuyuko0a:Is everyone alright?
+
+Murasa0a:Looks like it. Now to check out our surroundings.
+
+Youmu1a:Look at that!
+
+<pause>
+
+Hina1a:This ominous magic, and a sea the color of blood...
+
+Eiki1b:There can be no doubt. This is the miasma and monster-filled world of...
+
+Marisa1d:Makai...
+
+Kanako0a:...They may both be called Otherworlds, but this place is nothing like Gensokyo.
+
+Medicine2a:Did you really grow up in a place like this, Alice?
+
+Elliy0a:So, Blondie, can you tell where we are?
+
+Alice2c:This seems to be quite a distance from where I lived. Sorry, but I don't think my guidance will be of much use here.
+
+Nazrin0b:With any luck we're right next to Hokkai, but somehow I doubt that.
+
+Nazrin0a:Okay, Skipper, let's set out. We can look for the entrance while we move.
+
+<pause>
+
+Daiyosei2c:...!
+
+Wriggle6c:Eek! These scary looking creatures just showed up!
+
+Eirin1c:I'm used to seeing youkai by now, but these seem to have grown enormous due to the miasma.
+
+Koishi6c:Aw, they're so cute! You think they wanna play with us?
+
+Koakuma4a:...They're not cute, and I don't want to play with them either.
+
+Satori0c:But they do seem to be interested in us. They're excited by our otherworldly scent.
+
+Suika1a:Ah, okay. Then they DO want to play.
+
+Eiki1a:We won't be able to search while being targeted by monsters. Let's dispatch them and move on.
+
+Korin0c:All hands to danmaku stations.
+
+Korin1b:The atmosphere here is similar to nighttime, so prepare accordingly.
+
+<end>
+
+<ChatID:4>---------------------------------------
+//1PP（出撃後）
+
+Kosuzu0a:How is it outside, everyone?
+
+Keine2a:...This miasma certainly is harsh to humans. I can feel it seeping in.
+
+Iku1b:In which case, we can't afford to spend too much time out here.
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Kosuzu0b:Right, we need to break through the enemy formation as quickly as possible.
+
+Kosuzu6b:Wait, what...?
+
+Murasa0d:What's wrong, Kosuzu?
+
+Kosuzu2a:There's an enormous magic reading approaching. But it's different from the monsters...
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Akyu1a:Right, we need to break through the enemy formation as quickly as possible.
+
+Akyu2b:Wait, what's this...?
+
+Murasa0d:What's wrong, Akyu?
+
+Akyu1a:I'm getting an enormous magic reading. But it's different from the monsters...
+
+</Cond>
+
+Tenshi1e:It's not a monster? Then maybe someone from Makai?
+
+Alice1c:But who would have enough power to show up on the sensor...?
+
+Alice1a:No, wait, that's...!
+
+<pause>
+
+Reimu0e:...!
+
+Marisa1c:Hey, don't tell me it's...
+
+<hide=name>
+
+Yumeko0a:So that boat was the source of the dimensional warp then. It doesn't appear to be an adrift cruise liner...
+
+Yumeko5a:Hm? That's...
+
+</hide>
+
+Alice3c:Yumeko!
+
+Yumeko0a:Alice?
+
+Sakuya5b:Who is this feral maid?
+
+Marisa1b:You might not wanna mock her. That's a maid employed by the god of Makai.
+
+Sunny1c:Employed by a god?! We're running into a big-shot already?!
+
+Alice0a:What are you doing here, Yumeko?
+
+Yumeko4a:These outskirts have been terrorized by outlaws as of late. I'm on patrol for them.
+
+Yumeko0a:But more importantly, what about you, Alice? If you're going to return home, at least send us word ahead of time.
+
+Alice2b:I did send word. I sent a letter a little while ago.
+
+Yumeko5c:We never received it. Perhaps the route was thrown into disorder by the recent disturbance.
+
+Reimu0e:You mean that disturbance you're patrolling for? I guess things are pretty hectic in Makai too.
+
+Yumeko0b:At any rate, this is the first I've seen of you since you left, Alice.
+
+Yumeko0a:I'm glad to see you're doing well. So, would you all be Alice's friends?
+
+Nitori2a:Oh, yeah! We're her buddies in Gensokyo.
+
+Nitori2a:That said, we're not just here to visit.
+
+Sho0c:We're here to rescue our savior, who's been sealed in Makai.
+
+Yumeko0a:To rescue your savior?
+
+Sho0b:Yes. To that end, would you mind telling us whatever you might know about a place called Hokkai?
+
+Alice0d:We'll leave as soon as we're done, so we won't get in your way, Yumeko.
+
+Marisa0a:Actually, if you know where it is, could you just tell us?
+
+Yumeko4a:...You're here to rescue a savior in Hokkai, is it? Now I understand.
+
+Yumeko0a:However, I cannot allow you to do that.
+
+Sho1b:...!
+
+Alice2b:Why not, Yumeko? You can trust these people, I'll vouch for them.
+
+Yumeko1b:That's not the problem, Alice. You may not know this, but Hokkai is a prison for powerful monsters.
+
+Yumeko0a:If you open the door and let those monsters out, all of Makai would be thrown into unfathomable chaos.
+
+Alice4a:Oh, no...
+
+Orin1d:Sounds like our destination is somewhere pretty special.
+
+Koishi0a:If that happens, we can just beat the monsters up.
+
+Ichirin1b:Indeed. We were prepared to do at least that much to save the Chief!
+
+Yumeko0a:Ignorant tourists should stop talking before they make themselves appear even more foolish.
+
+Yumeko1b:If you won't listen to reason, then I'll have no choice but to expel you with my own hands.
+
+Yugi1f:Now we're talking! I'd like to see you try!
+
+Remilia1a:A servant of a god, hm? That should make for a suitable enough opponent.
+
+Yumeko1g:Quick to excite, are we? Alas, you shall all wind up as fodder before my blades.
+
+<end>
+
+<ChatID:5>---------------------------------------
+//こいし初戦闘
+
+Koishi6c:Wooo! Danmaku fight!
+
+Lyrica0a:I'm surprised you can be so cheerful in a place like this, Koishi.
+
+Lunasa0b:I'm sure she's excited BECAUSE she's in a strange new world.
+
+Orin0d:Looks like there are plenty of things for her to fight here, at least. Just go along with her for now, okay?
+
+Flan0b:Wait, aren't you moving a bit differently now, Koishi?
+
+Koishi0a:Dunno. Maybe?
+
+Satori0b:All danmaku is speech. Let's hear what you have to say.
+
+Koishi6c:Okay! You all taught me how to play, so I'll show you all the danmaku you want!
+
+Koishi0a:This affectionate slaughter... Doesn't it just bring tears to your eye?
+
+<end>
+
+<ChatID:6>---------------------------------------
+//任意の敵と初戦闘
+
+Wriggle1c:I didn't know bugs and doofy ghosts could get this big.
+
+Yamame1d:It's due to the environment of Makai, probably. Looks like their shells and jaws are especially well developed.
+
+Kosuzu6b:That bug looks just like the ones that came out of my Youma book!
+
+Alice1a:The carapace of these bugs repels danmaku, and the other monsters have their own special powers too.
+
+Alice1a:Check the enemies' abilities and be sure to choose the most effective attack against your target.
+
+<end>
+
+<ChatID:7>---------------------------------------
+//3PP（魅魔増援）
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_turns,<,3)>
+
+Yumeko0a:You seem a little impatient...
+
+<pause>
+
+Udonge4d:This toughness! She's not a Makai maid for nothing!
+
+Komachi4b:Plus we're still choking on all this miasma.
+
+Mokou1a:It's like working out at high altitudes. You could get some good training done here.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_turns,==,3)>
+
+Momiji3c:So these are the beasts of Makai? They've even tougher than we heard.
+
+Komachi4b:Plus we're still choking on all this miasma.
+
+Mokou1a:It's like working out at high altitudes. You could get some good training done here.
+
+</Cond>
+
+Keine2a:But we don't have the luxury for that.
+
+Keine0c:If Hokkai is as dangerous as she says, we need to preserve as much of our strength as we can.
+
+<pause>
+
+Lunasa1b:...!
+
+Hatate6b:Hold on, where'd all those come from?!
+
+Aya1a:It's like a den of monsters. I bet they'd make for a thrilling article.
+
+Yumeko0a:Do you really think this is the time for such casual banter? Return to Gensokyo, before you're seriously injured...
+
+<pause>
+
+Yumeko4b:...?
+
+Nitori2a:Wha?! Someone got them all in one blast!
+
+Patchouli0a:That magic just now... It may have been somewhat barbaric, but that was executed perfectly.
+
+Marisa1c:That spell, it couldn't be...
+
+<Code=(cursor_jump,144,320,1)>
+
+<nomove>
+
+<hide=all>
+
+Mima2a:Hmph, that was a disappointment.
+
+</hide>
+
+</nomove>
+
+<pause>
+
+Mima0c:Looks like this place is running out of monsters to fight.
+
+Yumeko5a:It's...
+
+Marisa7c:I knew I'd seen that magic before!
+
+Korin1a:...!
+
+Reimu1a:Hold on, that's Mima!
+
+Mima1a:Marisa and Reimu? Never thought I'd bump into you two in Makai.
+
+Marisa0a:Hey, I'M the one who's surprised. I thought I'd never see you again.
+
+Korin0d:I'd heard you were going to Makai, but what an unlikely coincidence.
+
+Mima0c:Hm? Is that you, Rinnosuke? What're you doing on the ship?
+
+Mima0a:Well, whatever. If the Palanquin Ship is here, you all must be ready to free Byakuren.
+
+Sho0c:Mima, how do you know about Hijiri...?
+
+Yumeko0a:More importantly, I've been looking for you, Mima.
+
+Mima0c:God's maid, huh? Long time no see.
+
+Mima3d:What are you doing all the way out here? Taking a walk?
+
+Yumeko1b:Don't feign ignorance. Haven't you been indiscriminately attacking monsters around here?
+
+Nitori2a:Wait, attacking monsters...?
+
+Korin2c:Don't tell me that the outlaw you mentioned earlier was...?
+
+Mima3c:It's been good practice. Give your master my thanks.
+
+Yugi3d:Ha ha ha! I like it! I think we'll get along just fine, outlaw!
+
+Yumeko4b:...I'm astounded. Do you intend to throw Makai into chaos once again?
+
+Yumeko0a:Although if you'd like to be sent to Hokkai, I'm sure that can be arranged.
+
+Mima0c:That could be fun too. Sounds like the monsters there would make for some great practice.
+
+Mima0a:I mean, there's that little catch where you can't leave, but as long as you're strong it doesn't seem half-bad.
+
+Marisa7c:Haha, that's ridiculous... but that's the Mima I know.
+
+Marisa0a:So how about this—if you help us out, we'll take you to Hokkai. Sound good?
+
+Mima0c:Wow, so the little chick thinks she can make a deal with ME?
+
+Marisa0c:Our cruise offers a full suite of amenities, you know.
+
+Marisa0a:And you won't even need a return ticket, since we'll just drop you off at Hokkai.
+
+Mima0d:...Heh, looks like my little chick turned into a full-grown chicken when I wasn't watching.
+
+Mima1a:But sure, sounds fun. I'm in.
+
+Yumeko4a:Good grief, it's just one thing after another.
+
+Yumeko4a:*sigh* How can I possibly report that our dear little Alice is associating with these sorts of ruffians?
+
+Alice4a:I'm sorry, Yumeko. I didn't know about Hokkai, but—
+
+Yumeko0b:But, nevertheless, you won't back down. Is that correct?
+
+Alice4b:I'm afraid so...
+
+Yumeko0b:This will be a good chance, Alice. It's time to test how strong you've become.
+
+Yumeko1b:Why don't you show me what you've learned in Gensokyo?
+
+<end>
+
+<ChatID:8>---------------------------------------
+//魅魔初戦闘時
+
+Mima0a:I can't believe I ran into Marisa again so soon.
+
+Korin1b:It's been so long since you saw her. Are you relieved?
+
+Mima0d:Well, it's not like I was worried or anything, but it's nice to see that she's okay.
+
+Mima3a:She's also gotten more powerful. That's what I like to see.
+
+Korin0a:Yeah. She's overcome a lot of major battles even after you parted ways.
+
+Korin0d:And during that, Marisa never looked away from her own sky.
+
+Mima3d:Heh... Good to hear.
+
+Marisa0d:What're you two chatting about over there?
+
+Mima1a:None of your business. Anyway, why don't I show you the results of my training in the Holy Land of Magic?
+
+Mima1c:Feast your eyes on my magic!
+
+<end>
+
+<ChatID:9>---------------------------------------
+//夢子と初戦闘
+
+Yumeko0a:I see you have the courage to press on even in a strange land.
+
+Yumeko0b:But you don't seem to be able to handle Makai's miasma yet.
+
+Parsee0a:But you can, so you're gonna rub it in our faces, huh?
+
+Alice0a:We can't let our guards down. Yumeko's strength is top-class, even for Makai.
+
+Alice1c:I've seen her fight huge monsters with only a single knife.
+
+Reimu0c:Well, she'd better be top-class, if she expects to keep up with us.
+
+Marisa1b:We've grown too, and we've got most of Gensokyo on our side.
+
+Yumeko0a:I can only hope you aren't exaggerating.
+
+Yumeko1c:Now allow me to show you the strength of a Makai maid.
+
+<end>
+
+<ChatID:10>---------------------------------------
+//夢子通常撃破
+
+Cirno1a:What do you think now? We'll never lose a contest of strength!
+
+Minoriko1b:Now do you understand our guts?!
+
+Yumeko1a:Indeed, I understand. It appears you all have the strength I'd expect from Alice's friends.
+
+Hatate0c:Wait, can we back up? You've both been talking like you know each other, but what exactly is your relationship again?
+
+Alice0d:Yumeko's watched over me every day ever since I was little.
+
+Alice5a:To me, she's always been part of the family. I suppose you could say she's like my older sister.
+
+Yumeko0a:...
+
+Elliy1a:S-Sister?! Blondie has a blonde older sister?! News to me!
+
+Sanae0g:But if you're family, then are the two of you really okay with fighting like this?
+
+Yumeko0a:I've been granted the role of maid, and I have no intention of shirking my duty in favor of personal interests.
+
+Yumeko4a:I'm sure you understand, Alice. And not only that, you feel similarly, correct?
+
+Alice1c:...Yes. We have our own reasons that we can't back down.
+
+Merlin1a:What's this? Is it already time to ring the gong for yet another sisterly showdown?!
+
+Koishi6c:You should try it, it's really fun!
+
+Nue5b:Talk about failing to read the room...
+
+Yumeko4a:...Good grief, I suppose I'll need to teach our guests some manners.
+
+Yumeko0a:Correcting the guest's behavior is yet another duty of the maid hosting the party.
+
+<end>
+
+<ChatID:11>---------------------------------------
+//夢子スペル１通過
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Yumeko0a:It seems I shouldn't make light of the power of otherworldly youkai.
+
+Youmu1a:We could say the same to you... You leave no openings at all. I see you hold complete mastery of the blade!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Yumeko0a:Is this the best that otherworldly youkai have to offer?
+
+Youmu1a:You leave no openings to close in. I see you hold complete mastery of the blade!
+
+</Cond>
+
+Kanako0a:But this feeling. You're still hiding your true strength, aren't you?
+
+Yumeko1f:Naturally. If that were all, how could I possibly work as Lady Shinki's maid?
+
+Sakuya0b:Shinki, hm? Is she...?
+
+Reimu0e:Oh, right, that was her name. Yumeko's master, and the god of Makai.
+
+Marisa0b:I think she created everything in Makai, right?
+
+Chen2b:Wha? Everything?! Even the rocks and the mountains?! Everything?!
+
+Yumeko0a:Indeed, and not just the world either. Every resident of Makai was also created by Lady Shinki.
+
+Yumeko0b:She is our Creator, an irreplaceable being. That's what makes Lady Shinki the god of Makai.
+
+Mystia4b:This is too much. I can't even imagine creating people and a whole world...
+
+Suwako0b:Not only that, it's no joke to say that she rules the world.
+
+Alice2c:Yes. She really is amazing.
+
+Alice0a:Even the peaceful life of its residents is thanks to her making that her top priority.
+
+Medicine2c:Um, so if you're from Makai, Alice, does that mean Shinki made you too?
+
+Alice0d:In my case, no, but it's true that she's my mother.
+
+Mima0c:You can explain later. Doesn't look like Yumeko's going to wait any longer.
+
+Yumeko1f:A sharp eye, as expected. Now, the danmaku dance floor is already warmed up.
+
+Yumeko1e:Flashing steel and midair twirls... I wonder, can you follow my lead in this blade dance?
+
+<end>
+
+<ChatID:12>---------------------------------------
+//夢子スペル２通過
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Yumeko0a:So you could even follow my lead through that.
+
+Kaguya1a:It was a wonderful dance, but power isn't everything.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Yumeko0a:...At least you're skilled at running away.
+
+Star4a:It was the same dance, but we were just doing the part where we whirl away.
+
+</Cond>
+
+Mokou1b:But don't get sloppy. There's no hesitation in her movements.
+
+Mokou0c:I doubt she'd flinch even we gave her a little beating.
+
+Ran6b:Indeed, it's almost like she's treating her body as one of her weapons.
+
+Yumeko1f:A weapon... Yes, that is my role.
+
+Hina0c:What do you mean, your role?
+
+Yumeko1f:I am a doll created by Lady Shinki. I serve as an extension of her.
+
+Yumeko1g:My body is devoted to that purpose. So I fight without fear or doubt. You cannot break my will.
+
+Daiyosei3b:No way, you think of yourself as a weapon...?
+
+Satori0c:There's not a trace of doubt in her heart. She has a conviction like steel.
+
+Hina1a:The unwavering belief of a created being. That's what supports her.
+
+Sakuya0b:But that's not all. I can also feel her loyalty to her master.
+
+Sakuya0a:I'm sure she holds a deep respect for this Shinki person.
+
+Yumeko5a:What?
+
+Sho0a:There are those who would swear loyalty only to their creator...
+
+Sho3a:These two unbreakable bonds are what you give you your strength.
+
+Yumeko4a:...I don't understand you people. Why would you talk about your enemy in the middle of a fight?
+
+Alice2c:Because we didn't come here to fight with you, Yumeko.
+
+Alice0d:If we just talk this out, maybe we can figure out a way to safely open up Hokkai.
+
+Yumeko0a:I won't invalidate your sentiments, but I'm not in a position to affirm them either.
+
+Yumeko1b:The protection of Makai isn't so simple a matter as to be moved by sentiment alone, Alice.
+
+Alice1b:But...
+
+Yumeko0a:Half-hearted mercy will only lead to tragedy. Someone needs to wield the blade.
+
+Yumeko1d:And that's why I will be that blade. Lady Shinki's blade.
+
+<end>
+
+<ChatID:13>---------------------------------------
+//夢子スペル３通過（クリア）
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Yumeko5a:You've made it this far?!
+
+Suika1a:C'mon, we came all this way to another world. We can't just let ourselves get kicked out right away.
+
+Tenshi6a:Do you see our power now?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Yumeko5a:You've made it this far?!
+
+Kurumi3b:Hehehe, amazing, right?
+
+Sunny5a:We're top-class in Gensokyo at running away!
+
+</Cond>
+
+Yumeko0a:...Yes, I'll admit it. You certainly are strong.
+
+Yumeko4a:But I cannot let you through.
+
+<pause>
+
+Tewi2b:Gah, she's still going?!
+
+Kaguya2c:I've half a mind to praise her for it, but this is turning into a quagmire.
+
+Udonge4d:We don't know what's going to be in Hokkai, so I'd like to save our strength for it, but...
+
+Alice1b:Yumeko, can we stop this?
+
+<pause>
+
+Yumeko1d:What's this about, Alice?
+
+Alice1c:Let's stop this pointless fighting and try to talk to out.
+
+Alice1b:You understand that we harbor no ill intent, right?
+
+Yumeko0a:Even so, I still can't risk Hokkai being unsealed.
+
+Yumeko1b:If you make a single mistake, the monsters inside will be released.
+
+Alice4b:If that happens, we'll handle it.
+
+Yumeko1b:What you're saying is naive. Is this what you left Makai to study? How to make friends?
+
+Alice2b:...!
+
+Yumeko0a:If you've abandoned Makai and become a resident of Gensokyo—
+
+Alice1c:You're wrong, Yumeko. I never abandoned Makai.
+
+Alice4b:I had my own reasons for going to Gensokyo.
+
+Yumeko0a:Doll-making, was it...? I'm sure you got that from Lady Shinki.
+
+Alice4b:I'm afraid so...
+
+Yumeko0a:But the question is whether that's really in your best interest.
+
+Yumeko1b:No matter how much you imitate her, you will never have Lady Shinki's power.
+
+Alice2b:...I know that. I never wanted more power. I just wanted to be like Mom.
+
+Yumeko5a:What...?
+
+Alice2c:Mom is the god who created all of Makai. But that's not the part that's most amazing about her.
+
+Alice0d:What's amazing is how she's always thinking of her people, and how they all adore her back.
+
+Yumeko0a:...
+
+Alice1c:It's something more than simple creation. It's...
+
+Alice0a:Anyway, I wanted to learn more about my mother by following her footsteps and creating.
+
+Yumeko4b:That's what you were thinking...?
+
+Yumeko0a:But even so, if you're siding with the Otherworld you left for...
+
+Alice1a:This isn't about Makai or Gensokyo! It's about my friends desperately fighting for something, so I can't just sit back and do nothing!
+
+<pause>
+
+Yumeko5a:...!
+
+Alice2a:I'm sorry, Yumeko. We can't stop here!
+
+Alice1b:This is the magic I've polished all this time... and it's going to open our path!
+
+<pause>
+
+Lyrica3b:Very nice, Alice!
+
+Mima1a:Danmaku featuring dolls and performer working together... The culmination of her doll magic.
+
+Lunasa3a:It's the result of Alice's skill combined with the passion she put into her dolls. You showed us a nice performance.
+
+Yumeko1b:...I see. So this is the magic you invented for yourself by leaving Makai.
+
+Alice1c:That's right. Not even you could...
+
+<pause>
+
+Alice1a:...!
+
+Kurumi1a:Just how much energy do you have?! Are you going to keep going?!
+
+Medicine5b:E-Enough already! You won't like it if we keep going!
+
+Nitori1b:She's right, even if you're Alice's sister, we've still got spare ammo back in the boat!
+
+Alice0a:Everyone...
+
+Yumeko4a:I see, so now they all cover for you. I suppose I should be glad that you've made good friends?
+
+Medicine5a:Huh?
+
+Yumeko0a:In deference to your courage, I'll ask again. Despite knowing the dangers, will you still head to Hokkai?
+
+Sho1b:Yes. That is something we must do to rescue Hijiri.
+
+Alice2c:We won't cause any trouble for you and yours, Yumeko. And we'll see this through.
+
+Yumeko0a:...
+
+Yumeko4a:For all your empty ideals, you're certainly stubborn.
+
+<pause>
+
+Utsuho0e:Huh? She left?
+
+Reimu0f:You're letting us go? That leaves a bad taste in my mouth.
+
+<Code=(icon_set_direction,Yumeko_en,FD_RIGHT,0)>
+
+Yumeko0a:I simply wasn't fully prepared. I need to report this to Lady Shinki.
+
+Yumeko0a:The next time we meet, I'll expel you from Makai.
+
+Alice1c:Yumeko...
+
+Satori0c:She means every word of that. Let's take this chance and keep moving.
+
+Korin0c:Alright, everyone. Return to ship.
+
+<pause>
+
+Yumeko4b:...Good grief. That naivete AND that stubbornness...
+
+Yumeko0a:Just who does she get that from? To think she'd go so far out of sympathy for her friends.
+
+Yumeko0b:...If their positions were reversed, I'm sure Lady Shinki would do the same thing.
+
+Yumeko0b:She wanted to be like her mother, hm?
+
+<end>
+
+<ChatID:14>---------------------------------------
+//ADVB
+
+<BG=bg_talk_Seirensen_Bridge_Makai.png,fade=0,color=1,title=bg_Seirensen_Bridge,bgm=bgm_talk_ningyo>
+
+<SE=se_talk_door_open06b.ogg,wait=1>
+
+LilyW3c:Whew, back to safety.
+
+Tewi4a:Never thought I'd be so grateful just to breathe normally.
+
+Akyu3a:Good work, everyone.
+
+Tenshi4a:Seriously, that WAS work. First the miasma was thicker than I expected, and then we suddenly get a top-class warrior out of nowhere.
+
+Iku4a:It was like a full-immersion Makai baptism.
+
+Parsee2a:This is nothing to laugh about. I still feel on edge here.
+
+Sakuya0b:That Makai maid hasn't given up either.
+
+Satori0a:Let's just be grateful that she withdrew for now.
+
+Satori0e:Yumeko seemed to have some thoughts of her own as she spoke with Alice.
+
+Alice0d:Truly? She does chide me at times...
+
+Nitori2a:Considering how dependable you are? If she's in a position to chide you, she must be something else.
+
+Sanae0d:Even if she was a little harsh, I could see her as a good sister.
+
+Koishi0b:It might be fun to get scolded like that... My sister is more the naggy type.
+
+Satori5b:Naggy...?
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+Mima0c:Ah, I see you've settled in already.
+
+Marisa0a:You're late, Lady Mima.
+
+Mima2b:It was tough getting rid of all the miasma I had stuck to me before boarding the ship. We had to pour some concoction over it.
+
+<Cond=(CHECK_FLAG,SC_NOAKYU,==,1)>
+
+Akyu0b:That's the bare minimum. If I breathe that stuff I'll be poisoned, you know.
+
+</Cond>
+
+<Cond=(CHECK_FLAG,SC_AKYU,==,1)>
+
+Akyu0b:That's the bare minimum. If Kosuzu breathes that stuff, she'll be poisoned, you know.
+
+</Cond>
+
+Patchouli4a:Anyway, you're acting all cocky, but isn't it your fault that we ran into Yumeko out there? All that rampaging.
+
+Mima2b:I'm not sure what you expect me to say there. And don't lie, you enjoyed that too, right?
+
+Yugi3d:You know it! I can't believe we ran into another battle maniac in Makai.
+
+Yugi0a:I'm Yuugi the Strong, one of the Four Devas of the Mountain. We should have a fight sometime.
+
+Mima1a:You're calling YOURSELF "the Strong"? Interesting.
+
+Korin2c:Sheesh, I'm glad you get along, but take it outside please?
+
+Mima0c:So that really was you in the boat then, Rinnosuke.
+
+Korin0a:They're calling me acting captain now. But it's only for when Murasa is out fighting, so it's really in-name-only.
+
+Mima3c:But still. You? In a group? Giving orders?
+
+Korin2b:Don't tease me. I know I'm not suited for this sort of thing.
+
+Marisa3c:...
+
+Korin0c:Marisa? Something wrong?
+
+Marisa3c:No, it's just, I never knew you and Mima were so friendly.
+
+Marisa3d:For that matter, can't you be a little more touched that you're finally reunited with your pupil?
+
+Mima0d:Sorry, but I'm saving that for the moment your magic manages to illuminate the tip of my nose.
+
+Marisa3d:Hmph, always with a comeback.
+
+Reimu0b:Now now, you're both like that so why don't you three play nice now?
+
+Murasa3a:I'm sure you have a lot to catch up on, but we still need to decide what we're going to do.
+
+Mima0c:Oh, right. For now, let's go over what we know.
+
+Mima0a:It sounded like you were heading for Hokkai?
+
+Sho0c:Yes, at first we were planning on taking our time searching for the entrance.
+
+Nazrin6a:That plan went south when Yumeko showed up to chase us off.
+
+Ichirin4b:I'm sure she'll block the road to Hokkai, and if worst comes to worst, the god of Makai herself might show up.
+
+Alice0a:Yes. Once she hears Yumeko's report, she's definitely going to take action.
+
+Alice0c:Mom—I mean, Lady Shinki's first priority is Makai's peace.
+
+Mima0c:What, is that how you're going to treat your mother?
+
+Alice4a:Considering her position, I can't let myself get used to calling her that in public.
+
+Merlin1a:C'mon, you can call your mom your mom around us.
+
+Medicine0e:This Shinki lady is actually your mom, Alice?
+
+Nitori1a:Yeah, that surprised me too. I never thought Alice would turn out to be the daughter of a god.
+
+Momiji4a:But in a certain sense, if Shinki created this entire world and everyone in it, then isn't it obvious?
+
+Alice2b:I mentioned this before, but Mom didn't create me.
+
+Alice0a:I was born outside of Makai. She's my adoptive mother.
+
+Iku0e:Adoptive, hm?
+
+Alice0b:...I was originally human. Apparently I wandered into Makai when I was very young.
+
+Alice0a:Mom's the one who found me and raised me.
+
+Alice0d:She didn't care that she'd never seen me before, or that I was a different race, she just took me in and cared for me.
+
+Alice3b:Without Mom, I doubt I would have survived.
+
+Elliy1a:Wh-What's all this...? You were always saying you were cosmopolitan or whatever, but you had a tragic backstory the whole time?!
+
+Sanae0g:So, when you call Yumeko your sister...
+
+Alice0d:If I had to put it in Earth terms, I suppose she's my stepsister.
+
+Alice5a:But that's just the past. What matters now is that Lady Shinki is my mom, and Yumeko and the rest of Makai are my beloved family.
+
+Nitori2a:Wow, who'd have thought it'd be so complicated...
+
+Tenshi4a:...So even you have had your share of hardships in life.
+
+Ichirin4b:...Then maybe we shouldn't have gotten you wrapped up in this.
+
+Ichirin4a:At this rate, you'll eventually have to fight Shinki and Yumeko.
+
+Sho1c:It's not too late. If you don't want to go up against your family, you can always turn back...
+
+Alice3b:No. And I already told this to Yumeko—I want to help rescue Byakuren.
+
+Alice0a:Actually, it's because I went and made that clear that I want to make this plan a success.
+
+Murasa5d:...Thank you. We'll be counting on you then.
+
+Nue0c:But Minamitsu, we're still missing the important part—how are we going to find Hokkai?
+
+Nue0b:If we don't have any leads, it'll take way too long to—
+
+Mima0a:I know where it is.
+
+Sho1c:What, really?!
+
+Mima0c:I mean, not EXACTLY where is it, it's not on the map.
+
+Mima0a:The entrance is in a space enclosed by rock, with these pagoda-looking things around it.
+
+Nazrin0a:I see... That does match what I heard from the master.
+
+Murasa3b:If you could get us in the general vicinity, the Palanquin Ship's sensors should be able to do the rest.
+
+Ichirin3c:Thank you, Mima. This is huge step forward for us.
+
+Mima0a:Save your thanks. I just hope we can actually rescue Byakuren.
+
+Sho0c:But why would you go so far...?
+
+Sho0b:You also knew about Byakuren's sealing, and even about the Flying Granary.
+
+Mima1b:I'll tell you later. First I want to take a breather.
+
+Lyrica1b:Whaaat? C'mon, just tell us already! What's the big deal?
+
+Mima0a:That was a tough battle just now. It's important to get some rest when you can.
+
+Mima3c:Plus, I miss having creature comforts. I think I'll have some of that tea.
+
+Korin0a:...I see. Well, do what you like.
+
+<BG=bg_talk_Black.png,fade=1,color=1,title=bg_Unknown>
+
+<hide=all>
+
+Byakuren0a:...
+
+Byakuren2a:Was that a faint fluctuation I saw just now?
+
+Byakuren0a:...No, it must have been my imagination. There is no light here in Hokkai.
+
+<SE=se_move_tame03.ogg,wait=1>
+
+Byakuren0a:...This presence... Is there someone outside the barrier?
+
+Shinki1a:How have you been, Byakuren?
+
+<BG=bg_talk_Makai.png,fade=1,color=1,title=*bg_Unknown,bgm=bgm_talk_ningyo>
+
+<hide=name>
+
+Shinki0a:How have you been, Byakuren?
+
+<hide=face>
+
+Byakuren0a:Ah, Lady Shinki.
+
+</hide>
+
+Shinki0c:Thank goodness, my voice reached you. I can't see past the barrier from this side, so I worry every time I come here.
+
+<hide=face>
+
+Byakuren0a:...Thank you for sparing some consideration for one such as I.
+
+Byakuren0a:I am honored to have the great god of Makai personally grace me with her presence.
+
+</hide>
+
+Shinki0c:Please don't be so formal. I look forward to sneaking out to chat with you like this too.
+
+Shinki0d:I had only known you from the rumors, but you turned out to be such a kind person.
+
+Shinki0d:If only we could speak without this boundary separating us.
+
+<hide=face>
+
+Byakuren0a:You're too kind. I have nothing but my own depravity to blame for being sealed.
+
+</hide>
+
+Shinki5a:But you gave everything you had to help those around you. How could those feelings possibly be depraved?
+
+<hide=face>
+
+Byakuren0a:...That was after I cleansed my heart. Long ago, I practiced dark arts, and used both humans and youkai to fulfill my own twisted desires.
+
+Byakuren0a:Even if I later realized the error of my ways and became someone who lives for others, it was always my fate to accept this punishment.
+
+</hide>
+
+Shinki5c:What a sad soul...
+
+<hide=face>
+
+Byakuren0a:Please, the ruler of Makai mustn't feel such sympathy for a sinner.
+
+Byakuren0a:I'm prepared to remain here for the rest of eternity.
+
+</hide>
+
+Shinki5c:...
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+Yumeko0a:So you were here after all, Lady Shinki.
+
+Shinki0a:You finished your patrol already, Yumeko? I expected it to take longer than that.
+
+Shinki0b:Oh, you're covered in dirt. Don't tell me you ran into that scoundrel?
+
+Yumeko0a:I did, but that's not why I'm here. I exchanged blows with some visitors from Earth.
+
+Yumeko4b:The infamous shrine maiden and magician. And... Alice was with them.
+
+Shinki0a:She was?!
+
+Yumeko4a:...It appeared their goal was to rescue Lady Byakuren from Hokkai.
+
+<hide=face>
+
+Byakuren0a:...!
+
+</hide>
+
+Shinki5a:Then, they must be...
+
+Yumeko0a:Yes, there's no doubt that they were working with the former colleagues Lady Byakuren's spoken of.
+
+Yumeko4a:I tried to stop them, but they were incredibly persistent. They were very strong-willed.
+
+<hide=face>
+
+Byakuren0a:...Truly? Did they truly come to Makai for my sake?
+
+Byakuren0a:But that would mean...
+
+</hide>
+
+Shinki5c:...I always knew this day would come eventually.
+
+Yumeko4b:Lady Shinki...
+
+Shinki5c:You're important to them. I was sure they'd risk their lives coming here.
+
+Shinki5c:But if they break the seal of Hokkai...
+
+<hide=face>
+
+Byakuren0a:You needn't finish that statement, Lady Shinki.
+
+Byakuren0a:...I wouldn't dream of negating your wish to protect Makai.
+
+Byakuren0a:If you must expel them in pursuit of that goal...
+
+Byakuren0a:All I can do is pray that no harm befalls anyone.
+
+</hide>
+
+Shinki5b:Byakuren...
+
+<hide=face>
+
+Byakuren0a:But to think there are still those who would miss me, even after a thousand years...
+
+Byakuren0a:It makes me happy just knowing that.
+
+</hide>
+
+Shinki5b:...
+
+Yumeko0a:...Lady Shinki, let's return to Pandemonium and prepare to intercept them.
+
+Yumeko0a:It's only a matter of time until Alice and the others arrive. Please sort out your feelings before then.
+
+Shinki5c:Yes, I suppose so...
+
+Shinki5b:...We need to protect the seal of Hokkai at all costs. For the sake of everyone in Makai.
+
+<Code=(transition_out,c_black,60,1)>
+
+<end>
+
+<ChatID:15>---------------------------------------
+//全滅時
+
+<Cond=(CHECK_BEATEN,Seirensen,==,1)>
+
+Kosuzu1a:No! The Palanquin Ship!
+
+Yumeko0a:Consider this a Makai baptism. If you get the message now, then give this up and return to Gensokyo.
+
+Korin0a:Do we have no choice but the retreat for now?
+
+</Cond>
+
+<Cond=(CHECK_BEATEN,Seirensen,==,0) && (CHECK_BEATEN,Alice,==,1)>
+
+Alice2a:But we can't...!
+
+Yumeko0a:Is that all you have to show for yourself, Alice?
+
+Yumeko0a:If I knew your studies would be so fruitless, maybe I should have stopped you from leaving in the first place—forcibly, if necessary.
+
+Alice1a:But, Yumeko...!
+
+Yumeko0a:You're the daughter of the god of Makai. And I personally have my pride as the one charged with your education.
+
+Yumeko0a:If there's something you absolutely must say, you can say your piece after landing a suitable blow.
+
+</Cond>
+
+<end>
+
+<ChatID:16>---------------------------------------
+//「彩光蓮華掌を使用
+
+Meiling0a:It's time to test out the fruits of my training!
+
+Sakuya0a:You sound confident, Meiling.
+
+Meiling0a:Of course. This is the pinnacle of all my techniques, the ultimate fist!
+
+Meiling0a:The torrent of finely honed ki should show my opponents a mirage.
+
+Remilia1a:Well, what are you waiting for? Show us already! The power of MY gatekeeper!
+
+Meiling1a:Right! Witness what the Scarlet Devil's Dragon is truly made of!
+
+<end>
+
+<ChatID:17>---------------------------------------
+//「スーパー秋姉妹キク改を使用
+
+Minoriko0a:Sis, the time has come for us to use it.
+
+Shizuha0a:Agreed.
+
+Minoriko1a:By the tenets of Tai Chi Fist, we gather all the autumn in the atmosphere!
+
+Shizuha1a:Aki sisters activation!
+
+Shizuha1a:Super!
+
+Minoriko1a:Aki Sisters...
+
+Shizuha1a:Kick!
+
+Minoriko1a:Let our true power be unleashed!
+
+<end>
+
+<ChatID:18>---------------------------------------
+//「スーパー秋姉妹キク改をミス
+
+Shizuha2a:AAAH!
+
+Minoriko1a:SIIIS!
+
+Marisa0a:...Is it just me, or was that explosion way flashier than it used to be?
+
+Keine0a:That's the kind of technique it is—a passionate, impactful performance to make the viewer forget it's spring.
+
+Reimu3a:That's not a compliment, is it...?
+
+<end>
+
+<ChatID:19>---------------------------------------
+//「重法力ミサイルを使用
+
+Korin0a:Let's try using the new armament the kappa added, shall we?
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Kosuzu6b:Yes, sir. Following the steps listed out in the manual now...
+
+Kosuzu2a:Angle adjustment and blast radius calculations complete. Sending an alert to the area!
+
+Korin0a:Autopilot fully engaged. Acquiring super long-range target!
+
+Kosuzu2a:This could be disastrous if we miss, so be careful!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Akyu0a:Yes, sir. Following the steps listed out in the manual now...
+
+Akyu1a:Angle adjustment and blast radius calculations complete. Sending an alert to the area!
+
+Korin0a:Autopilot fully engaged. Acquiring super long-range target!
+
+Akyu1a:This could be disastrous if we miss, so be careful!
+
+</Cond>
+
+Korin0a:Ready the Buddhist Missile!
+
+<end>
+
+<ChatID:20>---------------------------------------
+//FODを使用（没）
+
+<end>
+
+Sunny0a:Use special move
+
+<end>
+
+<ChatID:21>---------------------------------------
+//KHBを使用
+
+Satori6b:I know we've practiced this danmaku a lot, but...
+
+Satori6e:Are we really doing this, Koishi?
+
+Koishi1a:Yeah! Orin and Okuu were said they were really looking forward to seeing it!
+
+Koishi0b:Although with everyone watching I'm getting kinda embarrassed.
+
+Satori6e:If even YOU'RE embarrassed, how do you think I feel...?
+
+Koishi1a:You've gotta stop being so shy, Sis! Smile! Smile!
+
+Satori6c:Like this...?
+
+Koishi0b:Uh-huh! Now we're ready to go!
+
+Koishi6c:C'mon, Satori! Now's the time for our...
+
+Satori6c:Danmaku of the heart...
+
+<end>
+
+<ChatID:22>---------------------------------------
+//予備２
+
+<end>
+
+<ChatID:23>---------------------------------------
+//夢子vs.霊夢
+
+Yumeko0a:It's been a while, shrine maiden of Gensokyo.
+
+Reimu0a:Never thought I'd jump straight into a fight with you when I got here. What's your master up to these days?
+
+Yumeko0a:I don't have to share such things with a criminal who's trespassed on Makai.
+
+Yumeko0a:More importantly, where's that turtle of yours?
+
+Reimu0a:I released him in the pond behind the shrine. I bet he's enjoying his freedom right about now...
+
+Reimu1a:Wait, I don't have to answer you either!
+
+Yumeko0a:It seems your personality is the same as ever, but I can see that you've improved enough to fly under your own power.
+
+Reimu1a:Heh, more than that. Shrine maidens these days can even form danmaku barriers. Let me show you!
+
+<end>
+
+<ChatID:24>---------------------------------------
+//夢子vs.魔理沙
+
+Marisa0a:Been a while since we last fought, huh?
+
+Yumeko0a:...
+
+Marisa0a:C'mon, you haven't forgotten, have you?
+
+Yumeko0a:You've changed the way you speak, so I was wondering who you were.
+
+Marisa0a:Hey, we don't talk about that!
+
+Marisa0a:And weren't you the one who started sobbing when you lost?
+
+Yumeko0a:Whatever could you be referring to?
+
+Marisa0a:...Fine, I get it. Neither of us will talk about the past. But anyway, we're coming through so outta the way!
+
+Yumeko0a:You never learn, human. Rampaging through Makai carries a heavy sin.
+
+<end>
+
+<ChatID:25>---------------------------------------
+//夢子vs.早苗さん
+
+Sanae0a:I can't believe we have to fight someone Alice knows...
+
+Yumeko0a:So there's a shrine maiden other than the red and white one. Are you another of Alice's acquaintances?
+
+Sanae0a:Yes. We often have tea together at the Hakurei Shrine.
+
+Sanae0a:Alice is a wonderful person. She's good at making sweets, and she's always looking out for others.
+
+Yumeko0a:I see. I'm glad to hear that she's managed to make friends.
+
+Yumeko0a:If not for the current situation, I'd love to hear more about it.
+
+Sanae0a:Talking really isn't an option?
+
+Yumeko0a:I believe we've been over this. I'd prefer for you to leave for now. We can continue this another day.
+
+<end>
+
+<ChatID:26>---------------------------------------
+//夢子vs.アリス
+
+Yumeko0a:How long has it been since we last had a match?
+
+Alice0a:Yumeko...
+
+Yumeko0a:Not since you moved all the way to Gensokyo. I assume you now have strength befitting that resolve?
+
+Yumeko0a:Although, to be frank, I don't see how your doll magic could possibly threaten me.
+
+Alice0a:...It's not like I've been studying magic to beat you, Yumeko.
+
+Yumeko0a:Then what are you saying? You'd already possessed power equivalent to the ultimate magic.
+
+Yumeko0a:Are you going to tell me you have some lofty goal that you'd go so far as to seal that grimoire to achieve?
+
+Alice0a:To me, nothing is more noble. Although maybe that isn't something I can say when I'm still only halfway there.
+
+Alice1a:But more importantly, today I'm just here to help Shou. So let them talk!
+
+Yumeko0a:Always being swayed by the feelings of others. You haven't changed, Alice!
+
+<end>
+
+<ChatID:27>---------------------------------------
+//夢子vs.咲夜さん
+
+Sakuya0a:A skilled, blade-using maid who knows Alice...
+
+Sakuya0a:No doubt you're the one she mentioned earlier.
+
+Yumeko0a:And who might you be?
+
+Sakuya0a:The maid of Gensokyo's devil. It makes an excellent contrast with the maid of Makai's god, wouldn't you agree?
+
+Sakuya0a:I've wanted a spar with you ever since I first heard about you. I wonder which of us is stronger?
+
+Yumeko0a:Would you like to find out for yourself?
+
+Sakuya0a:Just what I was hoping to hear. Please enjoy my deceitless slight of hand.
+
+Yumeko0a:Yes, and I'll be responding with blades and swords.
+
+<end>
+
+<ChatID:28>---------------------------------------
+//夢子vs.三妖精
+
+Luna0a:I never knew Alice knew someone like you.
+
+Yumeko0a:Are you more friends of hers?
+
+Star0a:Y-Yeah! But I guess it's more like we just live in the same forest...
+
+Yumeko0a:Hmm. I see. Is that so? Hmm...
+
+Sunny4a:...I don't like the way she's looking at us. Like, she's judging us.
+
+<end>
+
+<ChatID:29>---------------------------------------
+//夢子vs.ルーミア
+
+Rumia0a:Wow, you've got all kinds of stuff up your skirt, huh?
+
+Yumeko0a:Why are you staring at me like that?
+
+Rumia0a:Do you have any... food?
+
+Yumeko0a:Even if I did, you wouldn't steal it and eat it, would you?
+
+Rumia0a:*drool*
+
+<end>
+
+<ChatID:30>---------------------------------------
+//夢子vs.ナズーリン
+
+Nazrin0a:Never thought that Hokkai would be a forbidden land to the residents of Makai.
+
+Yumeko0a:Bold of you to trespass here without even knowing that much.
+
+Nazrin0a:Eh, we expected this to be reckless at best. That's just how much my master wants to meet her savior.
+
+Nazrin0a:If there's no room for negotiation, then we'll just have to force you to let us through.
+
+Yumeko0a:Unfortunately for you, catching rats is one of the duties of a maid.
+
+<end>
+
+<ChatID:31>---------------------------------------
+//夢子vs.星
+
+Sho0a:So you won't be letting us through to Hokkai after all?
+
+Sho0a:Hijiri is my savior. I'll gladly brave any danger to save her!
+
+Yumeko0a:How repetitive. It's simply not allowed, and nothing you can say will change that.
+
+Yumeko0a:I acknowledge both the strength of your feelings and the character of the one you're seeking, but it's just not that simple.
+
+<end>
+
+<ChatID:32>---------------------------------------
+//夢子vs.一輪
+
+Unzan0a:...
+
+Yumeko0a:Don't expect me to back down from that glare.
+
+Unzan0a:...!
+
+Ichirin0a:Not even fazed by Unzan's glare, huh? You must have nerves of steel.
+
+Yumeko0a:I've dealt with plenty of large monsters. And your own resolve must be at least as hardened, no?
+
+Ichirin0a:Absolutely. Unzan and I are both willing to do whatever it takes to save the Chief!
+
+<end>
+
+<ChatID:33>---------------------------------------
+//夢子vs.村紗
+
+Murasa0a:Hijiri's somewhere in this world, huh...?
+
+Yumeko0a:I wonder, do you think the same as that tiger youkai from before?
+
+Murasa0a:Yeah. I'm here because Hijiri saved me.
+
+Murasa0a:Now it's our turn to save her, and to shine light on our future!
+
+Yumeko0a:Hijiri... Hmm. She seems to be quite beloved.
+
+Yumeko0a:What a shame then, that your determination will never reach her.
+
+Murasa0a:Who knows? Care to test it?
+
+<end>
+
+<ChatID:34>---------------------------------------
+//夢子vs.キスメ
+
+Yumeko0a:I take it that vehicle is some sort of otherworldly device?
+
+Kisume0a:Vehicle? It's just a bucket...
+
+Yumeko0a:A bucket. Hm. I suppose the wooden design is very Gensokyo.
+
+Yumeko0a:So then it's a weapon for hitting the head and causing concussions?
+
+Kisume0a:Th-That's only when I use it! It's supposed to be for drawing water!
+
+<end>
+
+<ChatID:35>---------------------------------------
+//夢子vs.慧音
+
+Keine0a:I never knew Hokkai was so essential to maintaining order in Makai.
+
+Yumeko0a:Sometimes exceptionally powerful monsters refused to obey the commands of their creator.
+
+Yumeko0a:It's a place for beings of that temperament to live out their days in peace.
+
+Keine1a:So it's for their own benefit? But regardless, there's no way we can back down now.
+
+Yumeko0a:How hard-headed of you. Now I'm worried that I'll chip a blade.
+
+<end>
+
+<ChatID:36>---------------------------------------
+//夢子vs.リリー
+
+LilyW0a:Ugh... I'm feeling kind of dizzy...
+
+Yumeko0a:That would be from the miasma. What did you expect when you barged into Makai?
+
+LilyW0a:But I can still help! I'm sure Byakuren wants to see spring too!
+
+Yumeko0a:I wonder. Does she herself actually wish to see the light again?
+
+<end>
+
+<ChatID:37>---------------------------------------
+//夢子vs.空
+
+Utsuho0a:Even in Makai, Lord Yatagarasu is doing great!
+
+Yumeko0a:That eye in your chest... You seem to have a sun god inside you.
+
+Yumeko0a:You're wielding incredible power, but can control your output...
+
+Utsuho0a:Yeah, 'cause we always get along now! You wanna try touching the nuclear flame?
+
+Yumeko0a:Certainly. I'll do just that when it gets cold.
+
+<end>
+
+<ChatID:38>---------------------------------------
+//夢子vs.お燐
+
+Orin0a:I wonder if Miss Satori and Miss Koishi are doing alright in this battle...
+
+Orin0a:Satori's doing her best to keep up with Koishi's charm, but...
+
+Yumeko0a:Do you really have the luxury to look away in this fight?
+
+Orin0a:Whoa, sorry 'bout that! Just a little worried about my family.
+
+Orin0a:But it's when you're in a pinch that your danmaku really shines on stage. You should watch too, lady.
+
+Yumeko0a:...The stage of Makai, is it? I'm watching.
+
+<end>
+
+<ChatID:39>---------------------------------------
+//夢子vs.猫お燐
+
+OrinC0a:Meow.
+
+Yumeko0a:...!
+
+OrinC0a:Meow...
+
+Yumeko0a:(So cute...)
+
+<end>
+
+<ChatID:40>---------------------------------------
+//夢子vs.諏訪子
+
+Yumeko0a:I sense the power of an ominous god.
+
+Suwako0a:Good instincts. Just what I'd expect from a maid who serves a god.
+
+Yumeko0a:I meant that I'd use those instincts to stop you.
+
+Suwako1a:Can you? I'm in pretty good form today, y'know.
+
+<end>
+
+<ChatID:41>---------------------------------------
+//夢子vs.紫
+
+Yumeko0a:Based on your demeanor, you must be the leader of these outworlders.
+
+Yukari0a:Well spotted. I hope you'll forgive us for this intrusion.
+
+Yumeko0a:Your presence is disruptive. I'd prefer if you left immediately.
+
+Yukari0a:Reimu and the others are free to do so if they choose, but I'll be observing the situation a while longer.
+
+Yukari0a:You hardly have room to complain. Have you forgotten about the time Makai caused a fuss in Gensokyo?
+
+Yumeko0a:But even then, the shrine maiden and the magician trespassed here.
+
+Yumeko0a:If you cannot be convinced, then I'll have to use force.
+
+<end>
+
+<ChatID:42>---------------------------------------
+//夢子vs.パチュリー
+
+Yumeko0a:A magician from Gensokyo, is it?
+
+Patchouli0a:It seems you want to parade Makai's status as the home of magic.
+
+Yumeko0a:And it seems you want to parade your disregard for that.
+
+Patchouli0a:There's no law that the birthplace of something must always be the best at it.
+
+Patchouli0a:Feast your eyes on our own styles of magic, ones you'd never see in Makai.
+
+<end>
+
+<ChatID:43>---------------------------------------
+//夢子vs.橙
+
+Chen1a:Even against strong people, I won't lose in a foot race!
+
+Yumeko0a:Would you even be able to use your legs in terrain like this?
+
+Chen0a:Uhh...
+
+Yumeko0a:Lose your footing, and you'll spill headfirst into the bottomless blood-colored lake.
+
+Yumeko0a:Don't assume the geography of Makai is anything like Gensokyo's.
+
+<end>
+
+<ChatID:44>---------------------------------------
+//夢子vs.大妖精
+
+Daiyosei0a:Wow, maid uniforms really are cute.
+
+Yumeko0a:Did you say something about my uniform?
+
+Daiyosei0a:Um, no! Nothing at all!
+
+Yumeko0a:It's not as if there's a shortage of maid jobs. If you can withstand the training, that is.
+
+Daiyosei0a:O-Oh, really? You seem a little more serious than the Scarlet Devil Mansion maids...
+
+<end>
+
+<ChatID:45>---------------------------------------
+//夢子vs.文
+
+Aya0a:It's our first Makai resident! Mind if I do a quick interview?
+
+Yumeko0a:Right now?
+
+Aya0a:Yup, totally.
+
+Yumeko0a:I'm afraid right away wouldn't be feasible. You'll need to make an appointment.
+
+Yumeko0a:More specifically, come back on another day.
+
+Aya0a:Hmm, I see, I see. "Makai maids are very strict about their schedules..."
+
+<end>
+
+<ChatID:46>---------------------------------------
+//夢子vs.リグル
+
+Yumeko0a:So you even brought along insects from Earth.
+
+Wriggle0a:Yeah, I'm a youkai that controls bugs.
+
+Wriggle0a:I wanna know more about Makai bugs too, but I guess I can just ask Alice?
+
+Yumeko0a:Perhaps. Although I'd love to see the look on her face when you do.
+
+Yumeko0a:She's never gotten along well with the less beautiful things in life.
+
+Wriggle0a:Now that you mention it, I might've heard that from her too...
+
+<end>
+
+<ChatID:47>---------------------------------------
+//夢子vs.ヤマメ
+
+Yumeko0a:Fighting you seems hazardous to my health.
+
+Yamame0a:Sounds like you understand the power of diseases. Guess it's different from the miasma here?
+
+Yumeko0a:A proper maid must be able to manage her own health.
+
+Yumeko0a:I even have a surgical mask on me, just in case.
+
+Yamame0a:...Guess you're well-prepared, huh? Not that that'll help you against me.
+
+<end>
+
+<ChatID:48>---------------------------------------
+//夢子vs.にとり
+
+Yumeko0a:Are you by any chance Nitori the kappa?
+
+Nitori2a:Whoa, you know who I am?
+
+Yumeko0a:Alice wrote about you in her letters.
+
+Yumeko0a:I hear you've been a friend for her ever since shortly after she went to Gensokyo.
+
+Nitori2a:Oh, not at all, she's the one that's been a friend to me. She lets us come hang out at her house and stuff.
+
+Yumeko0a:Her house in Gensokyo, hm. She's never invited us to visit...
+
+Yumeko0a:But no matter. Allow me to test whether you're strong enough to be Alice's friend.
+
+Nitori2a:Wait, is that where you were going with this?!
+
+<end>
+
+<ChatID:49>---------------------------------------
+//夢子vs.リリカ
+
+Lyrica0a:This opponent looks tough. Time to rally my sisters and—
+
+Yumeko0a:You must depend on your sisters a great deal.
+
+Lyrica0a:Sure. Doesn't everyone with siblings?
+
+Yumeko0a:Not necessarily. Sometimes the younger ones have a hidden self-confidence.
+
+Yumeko0a:The two of them are interesting, so it's a shame I can't let you meet.
+
+<end>
+
+<ChatID:50>---------------------------------------
+//夢子vs.小傘
+
+Kogasa0a:Now, how far will my surprise techniques take me in Makai...?
+
+Kogasa0b:Oogly-boogly-boo!
+
+Yumeko0a:Three points.
+
+Kogasa0a:You're grading me?!
+
+Kogasa0b:Okay, so like... Is that three outta three? A perfect score?!
+
+Yumeko0a:Don't flatter yourself. It was out of 100.
+
+Yumeko0a:If you wish to be a street performer in Makai, then go back and learn the basics.
+
+Kogasa0a:*sniffle* You're treating me as a performer, not a youkai...
+
+<end>
+
+<ChatID:51>---------------------------------------
+//夢子vs.チルノ
+
+Cirno0a:You're the strongest in Makai, right? Let's have a strongest battle!
+
+Yumeko0a:I accept your challenge, but I am not the strongest.
+
+Cirno0a:Oh, you're not?
+
+Yumeko0a:My master is the real strongest in Makai. Unfortunately, you'll fall here before you can meet her.
+
+Cirno0a:Grr! Then I'll just beat you first and go after her!
+
+<end>
+
+<ChatID:52>---------------------------------------
+//夢子vs.聖輦船
+
+Yumeko0a:So this is the Palanquin Ship.
+
+Kosuzu0a:You know about it?
+
+Yumeko0a:...It made the voyage to Makai, so I was a little curious.
+
+Yumeko0a:But more importantly, I strongly suggest you all board the ship immediately and return to your own world.
+
+Korin0a:We appreciate the advice, but that's not what the captain wants.
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Kosuzu2a:And as the crew, we'll be helping out Shou to the end!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Akyu1a:And as the crew, we'll be sticking to Shou's plan until the end!
+
+</Cond>
+
+<end>
+
+<ChatID:53>---------------------------------------
+//夢子vs.ぬえ
+
+Nue0a:Why do all these troublesome people pop up whenever Minamitsu goes ANYWHERE?
+
+Nue0a:I mean, I'm only tagging along, but still.
+
+Yumeko0a:With that attitude, you seem plenty troublesome yourself.
+
+Nue1a:As a youkai of the unidentified, I'll take that as a compliment. I'm make you regret trying to provoke me!
+
+<end>
+
+<ChatID:54>---------------------------------------
+//夢子vs.メディ
+
+Medicine0a:So this is where Alice grew up...? And you're that fa-mi-ly thing, um... What was it...?
+
+Yumeko0a:Are you another friend of Alice?
+
+Medicine2a:Huh? Friend?! Oh yeah, friends are, um, that thing where... Don't tell me, I know it...
+
+Medicine0a:A-Anyway, Alice is really nice and teaches me lots of stuff!
+
+Yumeko0a:Oh really now? Her? So she's gone from one side of the nurturing relationship to the other?
+
+Medicine2a:Huh...?
+
+Yumeko0a:Very well then. Why don't you show me what you've learned from her?
+
+Medicine0a:I don't really get it, but we can't lose after that! Let's get her, Sue!
+
+<end>
+
+<ChatID:55>---------------------------------------
+//夢子vs.天子
+
+Tenshi0a:I don't care if you're the strongest class of whatever, but you're not going to drag me down.
+
+Tenshi1a:If you think your precious blades can cut me, then give it a try.
+
+Yumeko0a:I see you're proud of your toughness. Then I'll take you up on that offer.
+
+Tenshi0a:Um, well, you weren't supposed respond with a straight face...
+
+Tenshi2a:No! "Forbearance is the door through which all things pass!" I just have to endure it!
+
+<end>
+
+<ChatID:56>---------------------------------------
+//夢子vs.衣玖
+
+Yumeko0a:This is my last warning. Return to your own world at once.
+
+Iku0a:*sigh*
+
+Yumeko0a:That's a rather listless response.
+
+Iku0a:I certainly admire your work ethic. How many times do you suppose you've repeated that warning?
+
+Yumeko0a:I was HOPING that you'd read into that and see just how important this is.
+
+Iku0a:Yet when I read the mood, I feel that now is the time for us to keep up the momentum. Please excuse me.
+
+<end>
+
+<ChatID:57>---------------------------------------
+//夢子vs.はたて
+
+Hatate0a:And suddenly, blades everywhere! A maid's skirt sure is full of dreams...
+
+Yumeko0a:So it is.
+
+Hatate0a:Oh, you just acknowledged it like it's normal...
+
+Yumeko0a:That's just common practice for a blade-using maid. If they can't do at least that much, then they're not even worth considering.
+
+Hatate0a:You say some interesting stuff. Forget getting permission, I'm snapping some pics!
+
+<end>
+
+<ChatID:58>---------------------------------------
+//夢子vs.椛
+
+Momiji0a:At first glance you seem unarmed, but something about you says otherwise.
+
+Yumeko0a:Can you even sniff out the scent of steel?
+
+Momiji1a:It's your presence I'm sniffing out!
+
+Yumeko0a:Well, either way, I'm certainly not equipped like a soldier.
+
+Yumeko0a:I'm a maid, all I'm permitted to carry is a bit of cutlery.
+
+Momiji0a:So is it a matter of aesthetics...?
+
+<end>
+
+<ChatID:59>---------------------------------------
+//夢子vs.レミリア
+
+Remilia0a:You say you're the maid of a god, but you don't seem all that special compared to Sakuya.
+
+Yumeko0a:By what standard?
+
+Remilia0a:The only standard I hold is how much you can entertain me!
+
+Yumeko0a:Is that what you want from your maids?
+
+Remilia0a:It's how Sakuya said she wanted to live. So I've got to enjoy it as much as I can.
+
+Yumeko0a:A maid who serves as her master's jester... I suppose it takes all kinds.
+
+<end>
+
+<ChatID:60>---------------------------------------
+//夢子vs.フラン
+
+Flan0a:A tough looking one from Makai! You look like you'd be fun to play with!
+
+Yumeko0a:My job doesn't include babysitting.
+
+Flan0a:But it does include patrolling, right? So if I start going wild, you'll have to stop me!
+
+Yumeko0a:How selfish. But if want to be disciplined so badly, then I'll comply.
+
+<end>
+
+<ChatID:61>---------------------------------------
+//夢子vs.こいし
+
+Koishi0a:Hello!
+
+Yumeko0a:Did I just hear a voice...?
+
+Koishi0a:Hello? I'm right in front of you!
+
+Yumeko0a:Ah! Where did you come from?
+
+Koishi0a:Hey Satori, there's a person here! Maybe we can ask her to guide us!
+
+Yumeko0a:Guide? What are you saying, all of a sudden...?
+
+Yumeko0a:Not that I mind guiding you, as long as it's back home to Gensokyo.
+
+Koishi0a:Cool, thanks! In return, I think I'll give you a one-way ticket to hell!
+
+<end>
+
+<ChatID:62>---------------------------------------
+//夢子vs.ミスティア
+
+Mystia1b:Ero eeero, indulgences... Ero eeero, lucid dreams...
+
+Yumeko0a:Those lyrics are completely inappropriate.
+
+Mystia0a:What, you gonna stop me?
+
+Yumeko0a:While a devilish theme is fine, you certainly don't have permission to use those lyrics.
+
+Yumeko0a:The snare of Makai creeps up on you. And my knife is aiming for your throat.
+
+Mystia0a:Ooh! That's just perfect! I'll use those lyrics instead!
+
+<end>
+
+<ChatID:63>---------------------------------------
+//夢子vs.藍
+
+Ran0a:One of the strongest beings in Makai, are you? I wonder if it's safe to have high expectations.
+
+Yumeko0a:If you wish to.
+
+Ran0a:Oho.
+
+Yumeko0a:I'm not clear on what the standards of other worlds are, though. Would I meet them if I crushed you in battle?
+
+Ran0a:I don't mind a woman with confidence. But would you say the same if you knew I was the strongest beast youkai?
+
+<end>
+
+<ChatID:64>---------------------------------------
+//夢子vs.ルナサ
+
+Lunasa0a:Your sound is the sound of steel.
+
+Lunasa0a:It's very orderly yet highly distinct.
+
+Yumeko0a:What an interesting thing to say. I can appreciate modern art.
+
+Lunasa0a:Your characterization of it that way is another distinguishing trait.
+
+<end>
+
+<ChatID:65>---------------------------------------
+//夢子vs.メルラン
+
+Merlin1a:What a stern look. You'll miss your happiness like that!
+
+Yumeko0a:I'm plenty happy.
+
+Merlin0a:Wow! No hesitation! But really though?
+
+Yumeko0a:This isn't something to discuss on the battlefield. Stop joking around, I know you feel the tension as well.
+
+<end>
+
+<ChatID:66>---------------------------------------
+//夢子vs.小悪魔
+
+Yumeko0a:You're a devil, yet also someone's servant.
+
+Koakuma0a:I think of myself as more of a caretaker...
+
+Koakuma0a:But to the top aide of a god, I'm sure I must seem like a powerless little devil only good for serving tea, huh?!
+
+Yumeko0a:Wait, I never said that...
+
+Koakuma0a:Oh, sorry about that. Patchouli's experiments aren't going well, so you kind of hit a nerve.
+
+<end>
+
+<ChatID:67>---------------------------------------
+//夢子vs.レティ
+
+Letty0a:You're very adept.
+
+Yumeko0a:As a maid should be.
+
+Letty0a:That's not what I mean. You maintain that professional distance even with the people close to you.
+
+Yumeko0a:Alice should understand my duties. I can do that precisely because we know each other so well.
+
+<end>
+
+<ChatID:68>---------------------------------------
+//夢子vs.妖夢
+
+Youmu1a:This swordsmanship! That agility! You're master class!
+
+Yumeko0a:Is this the power of otherworldly youkai? Is that all?
+
+Youmu1a:You don't seem arrogant either. But when it comes to dual wielding, I can hold my own...!
+
+Yumeko0a:I hope you're not all talk. The true two sword style is reached after severing bone one-handed.
+
+<end>
+
+<ChatID:69>---------------------------------------
+//夢子vs.美鈴
+
+Meiling0a:A calm mind, excellent technique, and a tempered body. Truly, you have the heart, skill, and body of a warrior.
+
+Yumeko0a:What do you hope to gain by flattering your enemy?
+
+Meiling0a:I'm just excited to fight such a worthy opponent.
+
+Meiling0a:I couldn't ask for a better opportunity to test the fruits of my training. Please ready yourself!
+
+<end>
+
+<ChatID:70>---------------------------------------
+//夢子vs.萃香
+
+Suika0a:Makai seems pretty fun. Plenty of backbone to go around.
+
+Yumeko0a:Are you certain you don't just find it fun because you're drunk?
+
+Suika2a:That's just stupid. It's the opposite—I drink because it's fun!
+
+Suika1a:You should have a drink yourself. It'll be fun!
+
+Yumeko0a:The incoherent ramblings of a drunkard. Alice's acquaintances had better not all be like this.
+
+<end>
+
+<ChatID:71>---------------------------------------
+//夢子vs.パルスィ
+
+Parsee0a:If you're the attendant of god, you must be living the high life.
+
+Parsee2a:I bet you live in her palace, and they have like, dance parties every night.
+
+Yumeko0a:But I would be working, not participating, so having that many would actually be even more troublesome.
+
+Parsee2a:Sure, just shrug it off, like it's completely normal! That's how great your position is!
+
+Parsee2a:I don't care how worldly you think you are, I'm gonna make you realize how differently the masses live!
+
+<end>
+
+<ChatID:72>---------------------------------------
+//夢子vs.てゐ
+
+Tewi0a:The attendant of a god? This is a once in a lifetime business opportunity!
+
+Tewi0a:Take a look at this! For a limited time only, I'm selling this special medicine for stiff shoulders at CRAZY low prices!
+
+Yumeko0a:Leave.
+
+Tewi0a:C'mon, at least hear me out!
+
+Yumeko0a:I'm close to a rather gullible individual. I can't risk even the slightest chance that you'll reach her ears.
+
+Tewi0a:Aha. Hope I can find 'em while I'm here in Makai.
+
+<end>
+
+<ChatID:73>---------------------------------------
+//夢子vs.妹紅
+
+Mokou0a:You look like the capable sort. It's times like these I'm glad I'm immortal.
+
+Yumeko0a:Oh, really? I'm glad to hear that.
+
+Mokou0a:You are?
+
+Yumeko0a:Ordinary humans are so fragile. If you can't die, then it means I don't have to hold back. That's so much easier.
+
+Mokou0a:...You're welcome? But I don't plan on giving up my limbs without a fight.
+
+<end>
+
+<ChatID:74>---------------------------------------
+//夢子vs.永琳
+
+Eirin0a:I'm interested in your physical abilities. You wouldn't mind a dissection, would you?
+
+Yumeko0a:A dissection...?
+
+Yumeko0a:You would commit such an act to learn the inner workings of life? That's blasphemy toward the creator.
+
+Eirin0a:What an antiquated line of thought. And here I thought a resident of the homeland of magic would understand the spirit of scientific inquiry.
+
+Eirin0a:I'm quite used to being called a blasphemer, though.
+
+Yumeko0a:With your every word, I come to respect you less and less.
+
+<end>
+
+<ChatID:75>---------------------------------------
+//夢子vs.幽々子
+
+Yuyuko0a:This is the first time I've been here, but the air in Makai is just so delicious!
+
+Yumeko0a:How crude. You say that knowing the power of the miasma?
+
+Yuyuko0a:It's just so tingly! I wonder, is that the part that threatens lives?
+
+Yumeko0a:How carefree of you. That said, your lax demeanor is a little different from hers...
+
+Yumeko0a:I think I'll keep my guard up around you.
+
+Yuyuko0a:Oh, my. How scary.
+
+<end>
+
+<ChatID:76>---------------------------------------
+//夢子vs.鈴仙
+
+Udonge0a:Wow, we're fighting someone like you right out the gate...
+
+Yumeko0a:I see... So that's where you entered from.
+
+Yumeko0a:It should be quite difficult to intentionally open a gate without the magic of Makai...
+
+Udonge3b:What are you talking about?
+
+Yumeko0a:Nothing that concerns you. Let's get started, shall we?
+
+<end>
+
+<ChatID:77>---------------------------------------
+//夢子vs.輝夜
+
+Kaguya0a:I've always wanted to come visit Makai.
+
+Yumeko0a:Are you here as a tourist?
+
+Kaguya0a:Not particularly, but I'd love to go on a tour if we get the chance.
+
+Kaguya0a:I don't suppose there's anyone here who could put together a travel plan for me?
+
+Yumeko0a:We've had a problem in the past with a private travel agency setting up their own tours without permission. Don't get your hopes up.
+
+<end>
+
+<ChatID:78>---------------------------------------
+//夢子vs.エリー
+
+Elliy0a:Blondie's from Makai, so there's a lot I wanna discuss. For our sake.
+
+Yumeko0a:Are you referring to Alice?
+
+Elliy0a:Yeah, her. Like, she keeps saying she's all "cosmopolitan" or whatever.
+
+Yumeko0a:It's true she was raised in a good environment, though she does tend to overreach at times.
+
+Yumeko0a:But I find it quite vexatious hearing such remarks from a bit character like you.
+
+<end>
+
+<ChatID:79>---------------------------------------
+//夢子vs.くるみ
+
+Kurumi0a:Oh yeah, I think Yuuka might've told us about some really strong maid in Makai before.
+
+Yumeko0a:Yuuka... You mean Yuuka Kazami? Don't tell me she's here too?
+
+Kurumi0a:Well, she's been kinda wandering around lately. I haven't had a chance to see her at all.
+
+Yumeko0a:I see she never changes. But rest assured that if I ever see her in Makai, I'll expel her on the spot.
+
+<end>
+
+<ChatID:80>---------------------------------------
+//夢子vs.魅魔
+
+Yumeko0a:So you were the outlaw tearing through Makai.
+
+Mima0a:This is the best place to train magic, so I'll be doing as I please, thank you very much.
+
+Yumeko0a:That black and white magician is your apprentice, correct? To think her mentor would be so ill-mannered...
+
+Mima0a:I'm here for myself first, and for anyone else a distant second.
+
+Mima0a:Plus, Marisa's not gonna be influenced by what she sees me do anymore. She's way beyond that.
+
+Yumeko0a:So you're saying that it's precisely because you've recognized her as a successor that you will persist in this?
+
+Yumeko0a:I can follow the logic, but a sin must be weighed as a sin.
+
+Mima0a:Hmph, so you want a fight? Fine with me!
+
+<end>
+
+<ChatID:81>---------------------------------------
+//夢子vs.秋姉妹
+
+Shizuha0a:This person is really good at performing with knives and swords...
+
+Minoriko0a:But we're perfectly good performers in our own right!
+
+Yumeko0a:Oho?
+
+Minoriko0a:Take out the umbrella and the ball, Shizuha!
+
+Shizuha0a:Wait, that's the wrong one, Minoriko! Weren't we supposed to unveil a new move here?
+
+Minoriko0a:Oh, right. Force of habit.
+
+Yumeko0a:I don't care which you do, but is this trick really all that impressive?
+
+Minoriko0a:Obviously! Allow us to show you our true prowess, which comes near the top of the Yaoyorozu charts!
+
+<end>
+
+<ChatID:82>---------------------------------------
+//夢子vs.雛
+
+Hina0a:We were distracted by how ominous this place is, but strangely enough, I can't sense any misfortune.
+
+Yumeko0a:The people of Makai live in peace. Hardly anyone suffers from misfortune.
+
+Yumeko0a:That, too, is thanks to the god who rules over us.
+
+Hina0a:...I wish I could meet her.
+
+Yumeko0a:That depends on her schedule. But today at least, I'll have you leave immediately.
+
+<end>
+
+<ChatID:83>---------------------------------------
+//夢子vs.神奈子
+
+Kanako0a:A maid who works directly for a god, hm? I'll have to see what you're capable of.
+
+Yumeko0a:Don't expect to get through this unscathed.
+
+Kanako0a:Who do you think you're talking to? I am the mountain god Kanako Yasaka.
+
+Yumeko0a:You certainly possess a godlike bearing. That's a pleasant, if rare, sight.
+
+Kanako0a:Is it that rare?
+
+Yumeko0a:Not every god carries herself with your dignity.
+
+<end>
+
+<ChatID:84>---------------------------------------
+//夢子vs.さとり
+
+Satori0c:...You said you were the maid of the Makai god, but you seem to have a complicated relationship with Alice.
+
+Yumeko0a:That eye on your chest. Are you...?
+
+Satori0b:Indeed, I'm a satori, capable of reading minds.
+
+Satori0c:While you're harsh with everything, you're actually rather thoughtful, deep down.
+
+Yumeko0a:I have no idea what you're talking about.
+
+Satori0b:Don't worry, I don't plan to go blurting these things out to others.
+
+Satori0c:But I think it would be for the best if you shared those thoughts with Alice.
+
+Yumeko0a:...We're not having this conversation. I'll send you home before you speak another word.
+
+<end>
+
+<ChatID:85>---------------------------------------
+//夢子vs.小町
+
+Komachi0a:Wow, maids work hard in every world, huh?
+
+Yumeko0a:If you don't work, you don't live.
+
+Komachi0a:Dang, are you serious?
+
+Yumeko0a:It's something of an exaggeration. But I need those who work with me to be conscious of that or there will be problems.
+
+Komachi0a:Hoo boy. Loyal types have to make even being a maid more complicated...
+
+<end>
+
+<ChatID:86>---------------------------------------
+//夢子vs.映姫
+
+Eiki0a:I lack jurisdiction to pass judgement in an otherworld, but this is an excellent opportunity for me to impart a lesson.
+
+Yumeko0a:Don't tell me you're the Yama of Gensokyo?
+
+Eiki0a:I am. This Cleansed Crystal Mirror will reveal your karma.
+
+Eiki0a:...I see. It's good that you're taking care of someone, but on the other hand you habitually use harsh words with them.
+
+Eiki0a:Indeed, you're a bit too strict.
+
+Yumeko0a:I consider that my duty, though.
+
+Eiki0a:I am merely stating the simple truth. By reflecting back and changing your attitude, your days will be spent better.
+
+Eiki0a:Before you decide how things ought to be, you should reevaluate with an open heart!
+
+<end>
+
+<ChatID:87>---------------------------------------
+//夢子vs.勇儀
+
+Yugi1a:We get to fight someone with top-tier prowess right out the gate? It's my lucky day!
+
+Yumeko0a:Why would you say that?
+
+Yugi0a:I mean, we came all this way to invade Makai. A boring fight would sober me up real quick.
+
+Yumeko0a:It seems you do not know your place. Or your manners.
+
+Yugi1a:Too bad for you, I was BORN without manners!
+
+<end>
+
+<ChatID:88>---------------------------------------
+//夢子vs.メーコ
+
+Yumeko0a:To think even a youkai like you would come to Makai.
+
+Yumeko5c:If you value your safety even slightly, I'd recommend returning at once.
+
+Meko0b:Ooh, I mean, both you and the monsters seem pretty strong...
+
+Meko1c:But if I can't get used to it here, then I won't be able to sell wool either.
+
+Yumeko4b:Wool? You're in the wool trade?
+
+Meko1b:Ah, yeah! I'm scraping by back on Earth.
+
+Yumeko3c:Excellent, I've been looking for a supplier. If you do mail orders as well I'd be happy to give you an introduction.
+
+Yumeko0b:However, that's a conversation for another time.
+
+<end>
+
+<ChatID:89>---------------------------------------
+//夢子vs.まくら
+
+Makura2b:(That voice from earlier was...)
+
+Yumeko1c:Do you really think you have the luxury of ignoring me?
+
+Makura1b:...!
+
+Yumeko0a:If you wish to survive long in Makai, you should never let your guard down.
+
+Makura1c:True enough. Even moreso against you, Yumeko.
+
+Makura1b:Whatever else, first I must make it through this fight!
+
+Yumeko1f:If you can, that is.
+
+<end>
+
+<ChatID:90>---------------------------------------
+//夢子vs.夢子
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Yumeko0a:Some with the same appearance and power as myself...
+
+Yumeko4a:I don't suppose Lady Shinki made a replica of me?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Yumeko4b:How distressingly plausible. If so, most likely as some sort of body double.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Yumeko4a:Indeed... Either way, I'll need to ask her in person.
+
+Yumeko1c:And my apologies, but you're coming with me. By force, if necessary.
+
+</nomove>
+
+<end>
+
+<ChatID:91>---------------------------------------
+//夢子vs.神綺
+
+Shinki0c:Hello.
+
+Yumeko5a:Lady Shinki?
+
+Yumeko0b:You came here? I was certain you'd go to meet her instead.
+
+Shinki0b:Now that you mention it, I suppose this was the day for my secret chat with Byakuren.
+
+Yumeko4a:...I've said this many times, but please, try not to let your feelings sway.
+
+Yumeko4b:As it is now, her very existence supports Hokkai.
+
+Shinki5b:I know. And protecting everyone in Makai is my top priority.
+
+Yumeko0b:It seems I was worried for nothing. If you'd enjoy a little danmaku battling, feel free to join the other side.
+
+<end>
+
+<ChatID:92>---------------------------------------
+//夢子vs.阿求52より分離
+
+Yumeko1a:So this is the Palanquin Ship.
+
+Akyu1b:You're familiar with it?
+
+Yumeko4b:...It made the voyage to Makai, so I was a little curious.
+
+Yumeko0a:But more importantly, I strongly suggest you all board the ship immediately and return to your own world.
+
+Korin1b:We appreciate the advice, but that's not what the captain wants.
+
+Kosuzu2a:And as the crew, we'll be helping Shou to the end!
+
+<end>
+
+<ChatID:93>----------------------------------------
+//C65：夢子vs.非想天則
+
+Tensoku0a:...
+
+Yumeko1b:Even something like this made the journey to Makai?
+
+Yumeko0a:But it's no larger than some of our colossal monsters.
+
+Yumeko4a:While I can't speak for the other residents, this isn't enough to intimidate me.
+
+<end>

@@ -1,0 +1,1246 @@
+﻿〇Bルート第74話「
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: 1PP-2: Choice 1
+ 4: 1PP-2: Choice 2
+ 5: 1PP-2: Choice 3
+ 6: first battle (wave 1)
+ 7: finished wave 1
+ 8: first battle (wave 2)
+ 9: finished wave 2
+10: first battle (wave 3)
+11: finished wave 3
+12: first battle (wave 4)
+13: clear (finished wave 4)
+14: ADVB
+15: lose
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<BG=bg_talk_Seirensen_Dining_Night.png,fade=1,color=1,title=bg_Seirensen_Dining,bgm=bgm_talk_ningyo>
+
+<SE=se_talk_dish01.ogg,wait=1>
+
+Meko4c:...So how is it, Sakuya?
+
+Sakuya6a:Not bad. It's got a simple and calming sweetness to it.
+
+Youmu4a:Sounds like you have a knack for making these Western sweets, Mehko.
+
+Meko0b:Really?! I guess I usually make sweet potato fries...
+
+<SE=se_talk_door_open06b.ogg,wait=1>
+
+Koishi2a:Ahh, I'm so hungry!
+
+Minoriko3b:I'll make you some top-class snacks, so hold on just a little longer.
+
+Reimu3a:I mean, it's just going to be more baked sweet potatoes.
+
+Marisa7a:And what's wrong with that? We can all make them together.
+
+Satori0e:Oh? It seems we aren't the first ones here.
+
+Meko4c:Ah, hello everyone. Sorry for taking the kitchen.
+
+Sanae0a:So you were here cooking with Sakuya?
+
+Meko4b:Yeah, I thought Lady Makura might feel better after eating something yummy.
+
+Alice3b:That's our Mehko, always so quick to take action.
+
+Utsuho3c:I'm sure Makura will love whatever it is too!
+
+Sakuya5b:So, seeing as you all came to the dining hall together...
+
+Sakuya0a:I take it you're hungry and are here to procure food?
+
+Orin4c:You sure catch on quick, lady.
+
+Marisa6a:An army marches on its stomach. That's Logistics 101.
+
+Youmu0d:Oh, but we made enough for everyone, so go ahead and take some.
+
+Koishi0b:Alright! Don't mind if I do!
+
+Orin1e:Still, cooking huh? Seeing you like this is sort of a relief, Mehko.
+
+Meko4c:Huh? What do you mean?
+
+Orin0c:I mean that after that clingy Shitone lady did all that stuff to Makura.
+
+Orin5b:I thought you might be worried about her and feeling gloomy.
+
+Meko4a:I mean, of course I'm worried, but Lady Makura must be feeling even worse.
+
+Meko1e:How am I supposed to pull her out of her funk if I start feeling depressed too?
+
+Reimu0g:Oh, an optimist, huh?
+
+Satori3c:It seems our worries were misplaced.
+
+Shizuha0a:You sure have changed a lot from before, though.
+
+Shizuha1c:Back when we fought in the Dream Changing Incident, I doubt you'd have even considered taking the lead with her like that.
+
+Meko0a:Now that you mention it...
+
+Koishi5b:You've really grown up!
+
+Meko0f:Um, I dunno about that.
+
+Meko0a:Once I got to know you all, I just challenged myself to learn more and more things.
+
+Alice4c:Makura might be the most surprised at how much you've matured, considering how long you've spent together.
+
+Reimu0e:Oh, speaking of which, were you with her before you came to Gensokyo? I forgot.
+
+Meko4a:Yeah, we went on a journey together after we met.
+
+Meko4b:And in the end, we ended up in Gensokyo.
+
+Orin4a:I think we've heard this story before, but none of the details.
+
+Sanae0d:Well, since we've already asked Makura...
+
+Sanae0a:This time it's your turn. How did you meet her, if you don't mind me asking?
+
+Meko4c:I don't mind, but I'm not much a storyteller...
+
+Meko0a:You know that they stopped counting sheep in the Outside World, right?
+
+Meko0g:So because of that, I lost all my power, and right as I was wondering what to do, I ran into Lady Makura.
+
+Meko4a:I was so lonely, and she was so nice to me, so we got close right away.
+
+Youmu0c:So you could say you owe her a lot.
+
+Minoriko0b:But I heard she was pretty weak by then too.
+
+Meko0g:Right, we were both down-and-out with nowhere to go.
+
+Meko4a:But just being together cheered us up.
+
+Satori3c:Two helpless strangers huddling together for warmth.
+
+Meko4c:So we kinda wandered around to all sorts of places.
+
+Meko4f:And when it was raining or windy, she'd let me into her kimono.
+
+Utsuho2c:This sounds kinda sad...
+
+Sakuya5a:What would you expect from the journey of a pair of powerless youkai?
+
+Meko3a:Oh, but it wasn't all doom and gloom!
+
+Meko4a:Lady Makura would always tell me that everything was going to be alright, no matter what.
+
+Meko0c:That the people of the past treated dreams as precious.
+
+Meko4b:And that someday, somewhere, we'd find a place like that and live happily ever after.
+
+Marisa0d:Someday, huh...
+
+Alice0b:It's not like Makura to make empty promises like that.
+
+Sanae3b:Maybe she was putting up a strong front for Mehko's sake.
+
+Satori0b:From what she told us, the two of you supported each other.
+
+Meko0a:Yeah, I don't think I could've gone on if she hadn't.
+
+Meko0g:Still, I was on the verge of giving up hope that a place like that even existed.
+
+Meko4b:Which is why we were so happy when we arrived in Gensokyo.
+
+Shizuha0a:A stroke of good fortune you never even imagined.
+
+Meko1e:Here, it seemed like what Lady Makura was talking about could come true.
+
+Meko4b:When we were talking about our new dream of protecting Gensokyo's humans, we thought we'd have to grant it together.
+
+Minoriko0a:Huh... So that's what you were thinking back then.
+
+Sakuya5b:Your methods may have been a little extreme, but now that I know your circumstances I can see where you were coming from.
+
+Reimu3b:Okay, so I get why you've been so eager to help her all this time.
+
+Reimu1b:But doesn't it seem like she's hit a wall? You seem to have lost your drive too.
+
+Meko4a:Uh-uh, Lady Makura's just taking a little breather.
+
+Meko1f:Which is why I gotta keep cheering her on until she recharges!
+
+Utsuho3d:Yeah! That's the spirit!
+
+Satori0b:While Makura does seem to be shaken by Shitone's words...
+
+Satori3e:I'm sure only Mehko's encouragement can truly support her.
+
+Shizuha1b:We'll help you out too, so do your best together!
+
+Meko4e:Yeah!
+
+Sakuya5b:...Oh, it seems the sweets finished baking while we were talking.
+
+Sakuya6a:Shall we take them up to the bridge while they're still warm?
+
+Youmu4a:I'm sorry, but could you all lend us a hand?
+
+Koishi6c:Kaaay!
+
+<BG=bg_talk_Seirensen_Bridge_Mugen.png,fade=1,color=1,title=bg_Seirensen_Bridge,bgm=bgm_talk_kagaku>
+
+Hina3a:They were delicious, thank you.
+
+Akyu3a:Eating sweets always makes my clear head even clearer.
+
+Meko4b:What about you, Lady Makura? Do you feel any better after having something sweet?
+
+Makura3b:I'm much more relaxed now, thank you.
+
+Yukari0a:Then if we've all calmed down, I'd like to decide on our next destination.
+
+Eirin1d:I don't see an option other than the deepest depths of the Dreamscape.
+
+Meko4c:Why there...?
+
+Ran6b:Even for Shitone, controlling the Dream World should be consuming an equivalent amount of energy.
+
+Ran6c:In which case, I have no doubt that she'd go to where the most dreams are gathered, and thus the most energy is stored.
+
+Koakuma1a:Can we really just sail into a place like that without a plan though?
+
+Kanako1b:If she can track our movements, then there's not much point in having one.
+
+Yumeko5c:So our only option is to cut our way through in a frontal attack.
+
+Yugi3b:Great, 'cuz that's our specialty!
+
+Makura1c:She is incredibly strong. I can't see this not ending with a fierce battle.
+
+Meko1b:Don't worry, Lady Makura!
+
+Meiling1c:When we put our powers together, we always win!
+
+Makura3a:True enough. Let's hold onto those feelings tightly.
+
+Akyu1c:Still, Shitone may come after Makura again.
+
+Akyu0a:Just to be safe, I'd recommend she stay in the back.
+
+Makura0h:...No, I'll fight with you.
+
+Makura1a:My presence on the front lines should draw her attention.
+
+Makura1c:But more importantly, I can't just sit back and do nothing while Gensokyo faces a crisis.
+
+Yukari1a:Very well then. We'll respect your wishes.
+
+Makura1c:...
+
+Makura1c:(I have to put a stop to Shitone's ambitions...)
+
+Makura2a:(But she was born from my past ideals. This may never be truly resolved until I can part with them entirely.)
+
+Makura2a:(...Can I really prepare my heart for that, though?)
+
+Meko6c:...
+
+Meko0g:(Lady Makura really is worried, huh...)
+
+Meko1e:(I don't get all this complicated stuff, but I'll make it work out, no matter what!)
+
+Meko6c:(Right, for our dream of living together!)
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP
+
+Akyu3a:It seems we've arrived at a familiar location.
+
+Utsuho0b:This is where we fought Mehko in the Dream Incident!
+
+Murasa1a:Which means if we keep going forward, we'll reach the deepest part.
+
+Ichirin1d:And if our guess is right, that's where Shitone will be.
+
+Makura0a:...Indeed, I can sense her presence getting closer.
+
+Makura1c:I have almost no doubt that she's at the dreamspirit fountain.
+
+Kogasa1a:Alright! Then let's get a move on!
+
+<nomove>
+
+<Code=(cursor_jump,160,384,1)>
+
+<hide=all>
+
+MekoB1d:Not so fast!
+
+</nomove>
+
+</hide>
+
+Kogasa2b:Bwuh?!
+
+Star6a:Someone's over there!
+
+<nomove>
+
+<Code=(cursor_jump,160,384,1)>
+
+<hide=all>
+
+MekoB1i:Heh heh heh. You wanna move on? Not if I can help it.
+
+MekoB1a:I'm gonna expel everyone but Makura!
+
+</hide>
+
+</nomove>
+
+Reimu1b:Oh, I get it. This must be a popular place for ambushes.
+
+Daiyosei4d:But that voice...
+
+<pause>
+
+<hide=name>
+
+MekoB1d:Babaan!
+
+</hide>
+
+<Code=(icon_set_direction,Seirensen,FD_LEFT,0)>
+
+Meko0b:Huh?!
+
+Nitori2a:No way, she looks just like—!
+
+MekoB1e:Hah hah hah! My name is Black Mehko!
+
+MekoB1i:Lady Shitone gave me her dark dream power to take care of you girls!
+
+Keine2b:Black Mehko?!
+
+Mystia5a:Dark dream power?!
+
+Akyu3c:That's, umm, quite the sense for names.
+
+Momiji3c:She does look like Mehko, but how do I put this...?
+
+Hatate6a:They only look the same. Her aura feels completely different.
+
+Aya7b:Probably just a familiar copying her appearance then.
+
+Marisa7a:You think? She's got that same useless klutz feel to her.
+
+Meko5c:I'm not that bad!
+
+Makura1b:She's not useless either!
+
+Suwako1a:Well, whoever she is, it's pretty obvious what we gotta do here.
+
+Iku1f:If she intends to stand in our path, then we fight our way through.
+
+MekoB1j:Heh heh. That's the plan.
+
+MekoB0a:But I'm not your opponent!
+
+Tenshi1d:What's that supposed to mean?
+
+MekoB1b:Go get 'em, teach!
+
+<pause>
+
+Luna6a:That's—?!
+
+Sunny3a:Copies of Remilia and the rest, just like before?
+
+MekoB1b:How do like them apples? Lady Shitone's special deluxe super nightmares!
+
+MekoB1i:Not even you girls are a match for my teachers!
+
+Flan1a:But if it's just like before...
+
+Patchouli1d:Hold on, something's different here.
+
+Byakuren0d:I feel a darker, more powerful spiritual energy from them than the ones Makura made.
+
+Byakuren2c:It seems Shitone indeed wields tremendous power within the Dream World.
+
+MekoB1g:You finally get it? Then let's get this over with!
+
+<pause>
+
+Hina1a:...!
+
+Nitori2a:Spellcards right off the bat?!
+
+MekoB1i:Heh. Lady Shitone's a bit nasty.
+
+MekoB1c:She ordered us to beat you with a no pity, all-out alpha strike!
+
+Mokou1e:Tch, guess she's finally taking us seriously.
+
+Nazrin6a:Their general's head is right in front of us, but somehow I doubt it'll be that simple.
+
+MekoB1a:Anyway, I did what I came here for, so...
+
+<pause>
+
+Tewi2c:Hey, she's gonna run!
+
+<Code=(icon_set_direction,MekoB_en,FD_RIGHT,0)>
+
+MekoB1i:Duh? I'm more of the commander type.
+
+MekoB1g:I'll just watch and learn while I hide in those bushes over there.
+
+<pause>
+
+Lyrica5a:Wah, she's fast!
+
+Udonge3a:What kind of commander hides in the bushes?
+
+Merlin3d:At least it seems like Black Mehko herself is a weakling!
+
+Lunasa0b:But given how strong the other nightmares are, why wouldn't she be granted any combat ability?
+
+Korin1c:Feel free to ponder it, but our first priority is the battle at hand.
+
+Akyu1a:All hands, deploy!
+
+<end>
+
+<ChatID:2>---------------------------------------
+//出撃後
+
+Kisume4b:Fighting our own fakes again, huh?
+
+Satori0e:I doubt this will be easy, but there's no cause for concern.
+
+Satori0b:The previous nightmares had a sense of being exaggerations of the dark sides of their respective originals.
+
+Satori0c:However, these ones have nothing like that.
+
+Toyohime0c:In other words, they have nothing but physical attacks.
+
+Suika3d:Then we just need to go wild ourselves!
+
+Yugi1f:A brawl, huh? Just the way I like it.
+
+Keine4a:It bothers me that we haven't seen hide nor hair of Black Mehko though.
+
+Keine0c:No doubt she plans on keeping an eye on the flow of battles and sending reinforcements as necessary.
+
+Makura1c:True, I can sense manymore nightmares than these.
+
+Makura1a:I believe we could end this quickly if we caught Black Mehko, but...
+
+Letty0c:You mean fight the minimum amount needed to drag her out of hiding?
+
+Mima0c:Eh, I'm sure she'll turn up after we smash all her pawns.
+
+Makura1a:In that case...
+
+<Question=|Keep the fighting to a minimum|Fight a standard amount|Show 'em what for|,face=Makura0a>
+
+<end>
+
+<ChatID:3>----------------------------------------
+//「Keep the fighting to a minimumを選んだ場合
+
+Makura0h:Let's fight as little as possible to conserve our energy.
+
+Makura1a:We can't very well exhaust ourselves before our showdown with Shitone.
+
+Akyu0f:Roger that. Please dispatch the nightmares where you can.
+
+Akyu1a:If we can endure long enough, Black Mehko will get impatient and pop out of hiding.
+
+Merlin3d:Then let's get hyped!
+
+<pause>
+
+Marisa2b:Yeah, we're doing this!
+
+<end>
+
+<ChatID:4>----------------------------------------
+//「いつも通りに戦いましょうを選んだ場合
+
+Makura0h:Let's do this nice and steady, like usual.
+
+Sakuya6a:Yes, that sounds about right.
+
+Lunasa1a:"Like usual," sure, but I don't see them giving us a chance for a breather.
+
+Merlin3c:Then let's get hyped!
+
+<pause>
+
+Akyu0f:Once we defeat the nightmares, Black Mehko should show herself.
+
+Akyu1a:Take out every enemy you see!
+
+<end>
+
+<ChatID:5>----------------------------------------
+//「Show 'em what forを選んだ場合
+
+Makura1b:...She's in for a beating.
+
+Kogasa3c:Whoa?!
+
+Suika3b:What's got YOU so worked up? It's not like you.
+
+Makura0f:Ah, no, it's just a figure of speech.
+
+Makura1c:Even if she's a fake, it's rather... unpleasant to see Mehko's appearance act so twisted.
+
+Makura1a:Let's defeat every last nightmare and make her repent.
+
+Reimu0g:Oh, seems you're getting into it for once.
+
+Sanae5c:You must be ticked off at her using Mehko like that.
+
+Lunasa3a:Then our performance will respond in kind.
+
+Merlin3d:Let's get hyped, everyone!
+
+<pause>
+
+Marisa2b:Alright, now that it's come this, let's show 'em what for!
+
+Alice1c:We should probably assume that we'll be facing one powerful nightmare after another.
+
+Alice1b:But once we defeat them, Black Mehko should show herself.
+
+Akyu1a:Take out every enemy you see!
+
+<end>
+
+<ChatID:6>----------------------------------------
+//悪夢（レミリアまたはフラン）と初戦闘
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,RemiliaN)>
+
+RemiliaN0a:...
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,FlanN)>
+
+FlanN0a:...
+
+</Cond>
+
+Kosuzu1a:Look how twisted and menacing these nightmares are!
+
+Patchouli0c:Unfortunately, the originals look just like that too.
+
+Byakuren2c:...But unlike before, they're beings of pure force, with no will of their own.
+
+Byakuren0d:No matter how powerful they are, their danmaku will lack intention.
+
+Nue1a:So basically they're just dolls. Who'd be scared of that?
+
+Flan1b:Tee hee, I love playing with dolls!
+
+Remilia1a:No need to hesitate, let's torment them to our heart's content!
+
+<end>
+
+<ChatID:7>----------------------------------------
+//悪夢（第一波）を撃破
+
+Koishi1a:That was fun!
+
+Orin1e:Not sure we'd all agree, but we beat them, at least.
+
+Meiling1b:But that's not all of them.
+
+<pause>
+
+Chen2b:Wah, here they come!
+
+Youmu1c:Not only that, this presence...!
+
+<pause>
+
+Yuyuko1c:Oh dear, looks like we'll be busy.
+
+Komachi4b:This battle's already becoming more of a pain than I thought.
+
+Eiki1a:No doubt there are even more where these came from. Don't forget to conserve your energy.
+
+<end>
+
+<ChatID:8>----------------------------------------
+//悪夢（第二波）と戦闘
+
+Iku0e:This time their lineup is quite diverse.
+
+Ran6c:They have more than a few melee fighters. I'd assume they intend to take the fight to us.
+
+Yugi1f:Just how I like it. Bring it on!
+
+Yorihime0b:Either that, or we exploit their weakness and fight on our own terms.
+
+Tenshi2a:The willow bends yet binds, was it? That's not my style though.
+
+Kaguya2b:Then do this however you please, as long as you put them all down.
+
+<end>
+
+<ChatID:9>----------------------------------------
+//悪夢（第二波）を撃破
+
+Sunny3a:Phew, we made it...
+
+Reisen2c:It's a bit late for this, but it's kinda scary that I'm friends with people like that...
+
+<pause>
+
+Aya0c:Ayaya, more just arrived!
+
+Hatate1c:Not only that, it's Yuuka and Toyohime...
+
+<pause>
+
+Wriggle6e:Eeek! Not that!
+
+Momiji2a:They intend to roast us from both sides with heavy firepower!
+
+Meko2a:Wh-Which way do we run?!
+
+Medicine5a:Calm down, Mehko!
+
+Byakuren1c:Recoiling in fear is just what they want. We should handle this calmly!
+
+<end>
+
+<ChatID:10>----------------------------------------
+//悪夢（第三波）と戦闘
+
+Sho1b:To think we'd ever face this many spellcards at once...
+
+Murasa2c:This time they're totally trying to overpower us with brute force.
+
+Ichirin1d:I guess they don't care what happens to the rest of us as long as they secure Makura.
+
+Nazrin4c:Yeesh, just how pathetic does she think we are?
+
+Eirin1c:Feel free to say that to Shitone directly when you get the chance.
+
+Eirin0a:But for now, we need to deal with them quickly but not impatiently.
+
+Udonge3a:That's a tough order...
+
+<end>
+
+<ChatID:11>----------------------------------------
+//悪夢（第三波）を撃破
+
+Shinki1c:Is everyone alright?!
+
+Daiyosei4c:Yes, somehow...
+
+Kurumi2a:Not if this keeps up much longer though!
+
+Alice2b:Makura, can you sense even more nightmares?
+
+Makura1b:Yes, but their numbers have decreased.
+
+Makura2a:The next wave should be the last of her pawns.
+
+<pause>
+
+MekoB0b:Hmm, I was just gonna sit back and watch, but you girls are real persistent.
+
+Utsuho1c:Ah, it's Fake-o!
+
+Letty0d:So her patience reached its limit and she showed herself, just as planned.
+
+Yumeko1b:Now's our opportunity to catch her.
+
+MekoB1b:Whoa there, did you really think it'd be that easy?
+
+MekoB1c:I've been keeping an ace or two up my sleeve, all the better to finish you off!
+
+<pause>
+
+Reisen2c:Gyah, what is this lineup?!
+
+Kogasa2b:Seriously?! The fourth wave is all aces?!
+
+MekoB1i:You know it! Truly, the dream team.
+
+MekoB1g:But, nightmares!
+
+Elliy2b:Somehow that line just doesn't work at all!
+
+Korin1a:It's a powerful lineup, but this is all over once we beat them!
+
+Akyu1b:This is when it counts! Use everything we have left!
+
+<end>
+
+<ChatID:12>----------------------------------------
+//悪夢（第四波）と初戦闘
+
+<end>
+
+<ChatID:13>----------------------------------------
+//悪夢（第四波）を撃破
+
+Koakuma3d:We did it, everyone!
+
+<pause>
+
+<Cond=(LOCAL_MAP,ObjControl,tent_vnames,choice,==,0)>
+
+MekoB2a:No way! Those were my best pieces!
+
+MekoB0b:Maybe I looked down on your girls too much.
+
+</Cond>
+
+<Cond=(LOCAL_MAP,ObjControl,tent_vnames,choice,==,1)>
+
+MekoB2b:No way! Those were my best pieces!
+
+MekoB0b:If I knew this would happen, I would've brought more.
+
+</Cond>
+
+<Cond=(LOCAL_MAP,ObjControl,tent_vnames,choice,==,2)>
+
+MekoB2b:No way! Those were my best pieces!
+
+MekoB2a:I've got no way of making nightmares any worse than that.
+
+</Cond>
+
+<Code=(icon_set_direction,All,MekoB,0)>
+
+Yamame0e:That's what you get for not taking us seriously. How is it that you people never learn?
+
+Mima1e:So what next? You going to fight us now?
+
+MekoB2c:N-No way, no how! I'm useless in combat!
+
+MekoB1f:But I can't exactly go back empty-handed either.
+
+Tewi5a:Yeah, your Makura seems like the type to come up with some nasty punishments.
+
+MekoB1i:Uh-huh, exactly.
+
+<pause>
+
+<Code=(icon_set_direction,All,MekoB,0)>
+
+Sanae1c:So what are you planning?
+
+MekoB1g:I did get one last nightmare I didn't think I'd use.
+
+MekoB0b:She's weak, but she should at least annoy you.
+
+Wriggle5c:Whaaat? There're more?!
+
+Makura1b:This feeling, could it be?
+
+MekoB1d:Now, bring it on!
+
+<pause>
+
+<Code=(icon_set_direction,All,MekoM,0)>
+
+Meko3a:Huh? Me?!
+
+Alice1b:But she's different from Black Mehko.
+
+Youmu3a:If anything, her appearance and aura are just like the real one.
+
+Makura1b:...Indeed, it seems she's recreated the Mehko of the past.
+
+Reimu0d:She's just like the ones that showed up in the dream voyage, huh.
+
+Makura1c:Yes, but...
+
+<pause>
+
+Meko1a:...!
+
+MekoM0a:*huff, huff*
+
+Akyu1b:That light... is that Makura's dream power?!
+
+Sanae1c:Then this is the Mehko from where her power went out of control?!
+
+MekoB1j:Heh heh, so you noticed.
+
+MekoB0a:But we made a little modification.
+
+MekoM0e:...I know I can stop you with this dream power.
+
+MekoM0a:If it'll help Lady Makura fulfill her dream, I don't care what happens to me!
+
+Utsuho1e:No Mehko, don't!
+
+Parsee1b:You're just being used by the one behind you!
+
+MekoM0a:Behind me...?
+
+MekoM0c:What're you talking about, I'm the only one here!
+
+Nitori1d:Huh?!
+
+Tenshi5b:Can she not tell what's going on?!
+
+MekoB1g:I told you we made some modifications. She doesn't know a thing about me!
+
+MekoB1f:All she can see are you all, getting in the way of the incident!
+
+Orin3a:Tch, what a pain!
+
+MekoM0e:Look away, will you?!
+
+<pause>
+
+Kosuzu1a:Eeek!
+
+Akyu1a:Portside bombardment, damage unclear!
+
+Korin2b:She's going right for the throat, just like back then!
+
+Udonge1c:What do we do?! We have to return fire or we'll never make it out!
+
+Makura2a:Gah!
+
+MekoB1i:What's wrong? If you wanna take her out, go ahead.
+
+MekoB1f:She seriously believes in the old Makura's ideals.
+
+MekoB1g:So smash her right along with them, and say goodbye to your past. What a twofer!
+
+MekoB1d:Or if you can't, I guess that means you really can't let go!
+
+Toyohime2d:I see, so she's using the past Mehko to try to shake her resolve.
+
+Reimu4a:Sorry, but I don't feel like playing along with your crap.
+
+Marisa2b:We beat her once, doing it again shouldn't be—
+
+MekoB1g:Oh really? A certain someone seems to be hesitating though.
+
+Makura2b:...
+
+Meko0g:Lady Makura...
+
+Makura2a:I'm sorry, it's not that I'm letting her provocations get to me, but...
+
+Makura4a:I don't suppose there's any way we could at least stop her without fighting?
+
+Kisume2c:Stop her?
+
+Satori0c:Even if it's merely a recreation, you can't bear to abandon Mehko while she's suffering.
+
+Shinki5a:We don't want to see her like that either.
+
+LilyW3a:Right, there has to be something we can do...
+
+MekoM0e:Ooh... you're still standing.
+
+MekoM0f:Which means I need more power!
+
+Makura4b:No, you mustn't!
+
+<pause>
+
+<Code=(icon_set_direction,All,Makura,0)>
+
+<Code=(icon_set_direction,Makura,MekoM,0)>
+
+Makura1b:Mehko!
+
+MekoM0e:Huh, Lady Makura?!
+
+MekoM0f:You're supposed to be back there gathering power...
+
+Makura2b:...I'm sorry, for pushing you so far.
+
+Makura2a:The path we've been striving for until now was the wrong one.
+
+Makura2b:Please don't hurt yourself anymore for a mistaken dream.
+
+MekoM1b:A mistaken dream...
+
+MekoM1c:...No. It's not a mistake.
+
+Makura2b:Wha...?
+
+MekoM0e:Aren't you always saying it yourself, Lady Makura?
+
+MekoM0f:That Gensokyo is a wonderful place that still believes in the Dream World?
+
+MekoM0e:So we have to do everything we can can to protect that mindset?
+
+Makura2a:Yes, that's right, but...
+
+Makura1c:Gensokyo is a place that accepts change and continues on. I've realized that it was wrong to seek eternity like that.
+
+MekoM1b:Then you're okay with losing yet another place we could've escaped to?!
+
+Makura2b:But...
+
+MekoM1b:We... We just want a place we can live in peace.
+
+MekoM1d:Right, how could you say our dream was a mistake...?
+
+MekoM1c:You're not Lady Makura! You're a fake!
+
+Makura2b:...!
+
+Makura2a:I'm... a fake?
+
+MekoB1i:Tee hee, I guess you were trying to stop her, but got your own argument destroyed instead!
+
+MekoB1b:That just goes to show that Shitone is the real you!
+
+Makura4a:That can't be...
+
+<Code=(icon_set_direction,Meko,MekoM,0)>
+
+Meko1f:I can't believe my past self would say that to Lady Makura!
+
+Alice1c:But if you think about the state you were in back then, maybe it's only natural.
+
+Alice1b:You were fighting with all your heart and soul to fulfill her dream.
+
+Alice1a:So to hear it denied like that, you wouldn't have been able to believe it even from Makura herself.
+
+Patchouli1c:If this version of her was manifested with that in mind, how crafty of them.
+
+Youmu1c:Even if it's a dream manifestation, there's no way Makura wouldn't be hurt by a rejection from Mehko.
+
+Meko0g:Right... Back then I was...
+
+Meko1a:Then the current me has to step up!
+
+<pause>
+
+<Code=(icon_set_direction,Meko,Makura,0)>
+
+Meko1d:Don't worry, Lady Makura! There's no way you're the fake!
+
+<Code=(icon_set_direction,Makura,Meko,0)>
+
+Makura2b:Mehko...
+
+MekoM0f:Wha— Now it's a copy of me?!
+
+<Code=(icon_set_direction,Meko,MekoM,0)>
+
+Meko1b:Uh-uh! Me and Lady Makura are both from the future!
+
+MekoM0e:Time travel...?
+
+MekoM0f:How am I supposed to believe that?!
+
+Meko1a:Then I'll guess what's in your left pocket.
+
+Meko1f:It's a half-eaten sweet potato you were saving for later, right?!
+
+MekoM0e:How'd you—?
+
+MekoM0a:If you're telling the truth, then how could you say our dream was a mistake?
+
+MekoM0b:I get it... we must've lost and abandoned it.
+
+Makura2a:No, that's...
+
+Meko1a:...Hearing that just made me realize something.
+
+Meko0a:I still haven't abandoned our old dream.
+
+Meko1f:Our old dream and our new dream are both real!
+
+MekoM0f:Wha...?
+
+<pause>
+
+Meko1a:In the past, we definitely caused an incident in Gensokyo.
+
+Meko0g:And it's true that it was bad, and we failed.
+
+Meko1a:But that doesn't mean the whole thing was wrong from top to bottom.
+
+Makura1c:It wasn't...?
+
+Meko1a:Our old feelings of not wanting the wonderful place we finally found to change.
+
+Meko0a:Our new feelings of wanting to become a part of Gensokyo and live happily with everyone else...
+
+Meko4a:Both of them are super important, and both of them are real.
+
+MekoB0b:Hmph, I wasn't sure where you were going with that, but...
+
+MekoB1b:Both are real? Now you're just being defiant!
+
+Meko1b:Yeah, I am!
+
+MekoB2a:Wha—?!
+
+Meko1d:Both are real, and that's all there is to it!
+
+MekoB1b:That's way too convenient! You think you anyone would accept a half-baked—
+
+Rumia1a:Eh? Why not?
+
+MekoB2a:What...?
+
+Kaguya3c:Only acknowledging one or the other is such a tired line of thought.
+
+Suwako1a:If that's what she wants to do, then why not let her give it a shot?
+
+Nue1a:Live however you want. No one's gonna say anything.
+
+MekoB1j:W-Wait, back up. What is this?
+
+MekoB1e:Lady Shitone never told me it'd go like this!
+
+Yukari0d:That would be because both of you are merely constructs.
+
+MekoB0b:What...?
+
+Kanako1d:Mehko's interacted with her environment, and learned from from experience how to live in Gensokyo.
+
+Kanako1c:Someone just born like you could never understand the weight of her words.
+
+MekoB2a:But...
+
+Reimu0c:And there you have it, Mehko. Do whatever you like.
+
+Meko1a:Yeah!
+
+<pause>
+
+MekoM0d:...
+
+Meko3b:I'm sorry, past me. I know this must be such a surprise.
+
+Meko0a:But I just wanted to say that your dream hasn't gone anywhere. It's still here.
+
+Meko4b:So let's stop worrying about which is real, and dream freely.
+
+MekoM0a:Freely...
+
+MekoM0a:But someone like me could never...
+
+Meko1f:You can. As the future you, I guarantee it!
+
+Meko4a:Even if it's tough now, someday you'll be able to laugh, for sure.
+
+Meko4f:Try looking for the best path along with Lady Makura and everyone else.
+
+MekoM0a:...
+
+MekoM1b:Thank you...
+
+<pause>
+
+MekoB2b:What?! The nightmare disappeared? How?
+
+Satori0e:Mehko's manifestation was created to defeat us.
+
+Satori0c:When she lost her hostility, she lost her form along with it.
+
+Yuyuko1a:But that doesn't look like the only reason.
+
+<pause>
+
+Medicine2a:Huh? That light!
+
+Ran3b:Has the past Mehko's power become your own?
+
+MekoB2a:What is this?! Why would her power...?
+
+Meko1a:The old me entrusted her dream to the new me!
+
+Meko4a:Plus the new dream I found with everyone's help...
+
+Meko1a:All our dreams are becoming one!
+
+<end>
+
+<ChatID:14>----------------------------------------
+//ADVB
+
+<BG=bg_talk_Mugen.png,fade=1,color=1,title=bg_Mugen,bgm=bgm_talk_hiroshige>
+
+Meko3a:*huff, huff*
+
+Wriggle0d:Hey, Mehko!
+
+Meko3a:Ah, everyone...
+
+Yugi3b:Great job. Never figured YOU'D be the one landing the finisher.
+
+Hatate3c:That dream power stuff sure is, like, flashy!
+
+Meko3b:Oh, right, I was in some kinda trance...
+
+Meko0b:Wait, what happened to Black Mehko?
+
+Orin0b:You blew her up. She wasn't lying about being useless in battle.
+
+Parsee1b:I guess in the end, she was just another pawn to Shitone.
+
+Makura0d:True, she doesn't seem to have much of an attachment to her.
+
+Makura0c:I think that's exactly why she'd use the past Mehko like that.
+
+Minoriko2b:Yeah, using her to hit you over the head and shake your beliefs like that sure was in bad taste.
+
+Shizuha0b:And I bet she never imagined she'd get done in by the real Mehko.
+
+Eiki3c:Speaking of which, well done persuading your self of days past.
+
+Meko0h:Ah, well, I just said whatever came to mind...
+
+Marisa7a:But both dreams are important, huh? Greedy little sheep, aren't ya?
+
+Marisa7c:Who knew you'd come so far?
+
+Alice0d:The logic itself could've been used by anyone else, but...
+
+Alice3b:I'm sure the overflowing confidence of it coming from you resounded in her heart.
+
+Kaguya3c:They were powerful words backed by lived experiences.
+
+Makura0g:...
+
+Makura3c:Yes, I learned quite a bit from her myself.
+
+Sanae0a:Makura?
+
+Makura1a:...I was truly shaken when the past Mehko called me a "fake."
+
+Makura1c:That more than my old ideals, I had denied her very desperation.
+
+Eiki0b:Hmm...
+
+Makura1a:But Mehko's answer to her was different.
+
+Makura0h:Both the old dream and the new dream are real.
+
+Makura3a:When I heard that, it was like something opened up inside of me.
+
+Eirin0d:By which you mean...
+
+Makura1c:Naturally, I'm not affirming the mistakes I've committed.
+
+Makura1a:On the other hand, those earnest feelings were never fake, and even now live on in Mehko.
+
+Makura3a:Right. There's a difference between reflecting on your actions and denying your old feelings.
+
+Makura3c:Mehko living so vivaciously while treasuring both dreams is proof enough of that.
+
+Meko3a:Lady Makura...
+
+Meko4e:...
+
+Merlin2b:That's a face that says "I didn't think about it that much" if I ever saw one!
+
+Meko5c:How can you tell?!
+
+Akyu3a:Regardless, it's still a valuable way of thinking.
+
+Keine6a:Learning from history is more than just denying the past.
+
+Makura3a:Right, I agree.
+
+Makura0a:Until now, I thought the only way to separate myself from my past was to eliminate my old ideals.
+
+Makura0b:But after seeing Mehko take the hand of her past self, I feel like there must be another way.
+
+Makura3c:No doubt this will be an important hint for defeating Shitone.
+
+Mima3b:Heh... Your expression looks better now, at least.
+
+Iku3c:It definitely feels as though you've made a breakthrough.
+
+Eiki0c:While the answer that hint leads you towards is entirely up to you...
+
+Eiki0a:Now that you've caught a glimpse of hope, there's no fault in using it to guide your path.
+
+Byakuren3b:I have no doubt that you'll find an even better way of life.
+
+Makura3c:Yes. That's exactly why I need to face Shitone... and my past self.
+
+Suwako3b:Welp, we're counting on you there. Of course, we were born ready to help with the danmaku battle part!
+
+Sanae1a:So next up is our final showdown with Shitone!
+
+Alice0d:While I never imagined our dream journey would end up like this...
+
+Sunny5a:This is how an adventure's gotta be!
+
+Mystia1b:The world's most thrilling ride. ♪
+
+Udonge1c:Still, I'm not going to let her keep doing whatever she wants!
+
+Youmu1b:Right, and if she takes Makura, Gensokyo could be in danger.
+
+Sakuya5b:After all the work we've put into protecting it already, that'd be quite a nuisance.
+
+Sho1b:We cannot lose, for the sake of Gensokyo's tomorrow!
+
+Tenshi5a:Let's beat Shitone and get back to reality!
+
+Meko4a:And then we'll all go back our normal lives...
+
+Meko4f:With me and Lady Makura living carefree in Gensokyo too!
+
+Yukari6c:...As of now, Shitone is herself the dark clouds hiding Gensokyo's dreams from view.
+
+Yukari6a:We MUST win, and we must burn those clouds away.
+
+Reimu1a:No need to tell me twice, I always resolve incidents!
+
+Marisa7c:I sure don't need an undercooked incident that's been put back in the oven!
+
+Makura1a:...I will defeat her, and bring peace and tranquility to Gensokyo's dreams.
+
+Makura2a:That's my duty, and I WILL accomplish it.
+
+Korin4b:Then I suppose we're as ready as we'll ever be?
+
+Akyu1b:Route, all clear!
+
+Murasa1b:Set sail for the deepest depths of the Dreamscape!
+
+Meko1a:Lady Makura...!
+
+Makura3c:Yes, we're going together.
+
+Makura1a:To a dream's distant end.
+
+<end>
+
+<ChatID:15>----------------------------------------
+//全滅
+
+<end>
+

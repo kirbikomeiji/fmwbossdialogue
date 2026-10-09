@@ -1,0 +1,835 @@
+﻿魔理沙第四話「魔砲!マスタースパーク
+
+<ChatID:0>----------------------------------------------
+//ADVA
+
+<MAP=1,FROM=霧雨邸,TO=霧雨邸,name=Kirisame Residence,icon=2>
+
+<BG=*bg_talk_Marisa.png,fade=0,color=1,title=*bg_Marisa,bgm=bgm_talk_aoki>
+
+<SE=se_talk_knock01.ogg,wait=1>
+
+Alice0c:Marisa? You're home, aren't you? Hello, Marisa?
+
+Alice0a:That's odd... With the state of things out here, I would've thought she'd be up and making a fuss.
+
+Alice0b:Well, whatever. I'm coming in, alright? I can't believe she'd leave her door unlocked...
+
+<SE=se_talk_door_open02.ogg,wait=1>
+
+Alice2a:Ugh, what a pigsty!
+
+Alice2b:...It's particularly messy today. There's unfinished books and unfinished experiments strewn around everywhere.
+
+Alice0a:...
+
+Alice0d:(But she handles her laundry properly, at least. Surprising.)
+
+Marisa4b:Zzz...
+
+Nitori3c:*snore*
+
+Alice0b:Ah, there they are. Look at them, all sprawled out...
+
+Alice0c:Marisa, Nitori. It's time to wake up.
+
+Marisa6a:Mmm... muh...
+
+Nitori4c:Mrgh... *yawn*
+
+Alice1a:Get up already! Things are really bad out there!
+
+Marisa4b:Mmm...
+
+Marisa6a:Mmm... Alice...
+
+Alice0a:...?
+
+Marisa6a:Alice... The windowsill's all dusty. And is dinner ready yet...?
+
+Alice0b:...
+
+<SE=se_talk_hit01.ogg,wait=0>
+
+<Code=(map_shake,1,10,4)>
+
+Alice1a:...Who do you think you are, my sister-in-law?!
+
+Marisa2a:Guh!
+
+Alice1a:Wake up! It's gotten really bad outside while you two have been sleeping in!
+
+Marisa0c:Wha?! What are you doing here, Alice?!
+
+Alice2b:I knocked plenty of times. I came to check on you since there's trouble afoot.
+
+Marisa3b:Trouble?
+
+Alice1a:Yes. Take a look outside.
+
+Marisa4a:What could possibly be so...
+
+Marisa3b:Wait, what the heck? There's mist everywhere!
+
+Alice0a:It's been like this since this morning. With all this mist in the air, the human village must be in an awful state right now.
+
+Marisa0b:So the mist got thick overnight? Oh man, this is getting good.
+
+Marisa0a:Time for an early departure! C'mon Nitori, get up!
+
+Nitori3a:Fuweh? Mrph... Just five more minutes, Mom...
+
+Marisa2b:Forget the corny jokes. We're heading off to investigate!
+
+Alice2b:Wait... Investigating is good and all, but you don't have any leads, do you?
+
+Alice0a:We don't know where all this mist is coming from in the first place...
+
+Marisa4a:Oof. Oh yeah...
+
+Marisa0b:Wait, hold on. The source of the mist...
+
+<BG=bg_talk_Black.png,fade=0,color=1,title=*bg_Kaiso>
+
+<single>
+
+Noname0a:Head for the scarlet mansion that lies beyond the lake.
+
+Noname0a:The source of the scarlet mist lies beyond the lake, in a scarlet mansion.
+
+</single>
+
+<BG=bg_talk_Marisa.png,fade=0,color=1,title=bg_Marisa>
+
+Marisa0a:...
+
+Nitori4b:Hey, Marisa, where's my toothbrush?
+
+Nitori0a:...Hm? Why do you look so spaced out?
+
+Marisa0c:It's nothing. I just thought of a place I wanna check out.
+
+Marisa0a:Since we don't have any clues, how about checking the lake?
+
+Nitori0b:The lake? That's fine by me, but it's pretty random. Why there?
+
+Marisa0b:Well, I had this dream last night...
+
+Marisa4b:(Wait. If I tell them about the dream, Alice is gonna make fun of me.)
+
+Marisa0a:...Ah, it just came in a flash to me. Like, zing! When you're as good as I am, inspiration can strike at any time.
+
+Alice0a:Hmm... I could believe it coming from Reimu. But can we really rely on your intuition?
+
+Marisa3d:Only one way to find out. Let's get moving before Reimu sets out!
+
+Nitori4b:Huh? I thought you two were gonna work together like yesterday. Are you competing or something?
+
+Marisa0a:Not exactly. I just want some bragging rights if I beat her to the punch.
+
+Nitori4b:Well, if you say so...
+
+Marisa6a:I'll use my super-special magicannon to resolve this in no time, and steal Reimu's thunder.
+
+Marisa0a:...Oh yeah, that reminds me. My hakkero's adjustments should be finished today.
+
+Marisa0c:Perfect timing. You two come along with me, and I'll show you the magic I've finished working on!
+
+Alice0d:My, someone's confident. Alright, I'll see what you've got.
+
+<MAP=1,FROM=香霖堂,TO=香霖堂,name=Kourindou,icon=5>
+
+<BG=*bg_talk_Korindo.png,fade=1,color=1,title=*bg_Korindo,bgm=bgm_talk_aoki>
+
+<SE=se_talk_door_open03.ogg,wait=1>
+
+Korin0a:Hey, Marisa. You're here later than I...
+
+Korin0b:...Hm?
+
+<hide=all>
+
+Elliy5a:...Good day.
+
+</hide>
+
+Korin0a:Oops, I mistook you for somebody else. Sorry about that.
+
+<hide=all>
+
+Elliy0b:What?
+
+</hide>
+
+Korin0b:Ah, never mind. I was just expecting a visit from an acquaintance of mine.
+
+Korin0a:I believe you would be...
+
+<hide=all>
+
+Elliy0a:Yes. I'm here to collect the parasol that was left here for repairs some time ago.
+
+</hide>
+
+Korin0a:That's right. As it happens, the repairs are all done now.
+
+Korin0a:Here you go, one fixed parasol.
+
+<hide=all>
+
+Elliy3b:Received, thank you!
+
+Elliy0a:Wow, it's like it's brand new. You're good.
+
+</hide>
+
+Korin0a:I've mended broken bones before. Something like this is comparatively simple.
+
+Korin0b:This is a fine piece of work, though. It guards against UV rays and danmaku, and I can sense a mysterious magical power emanating from it.
+
+Korin0a:If this was an article for sale, I wouldn't have the heart to sell it.
+
+<hide=all>
+
+Elliy3b:I don't think you'd look very good using it. It was made with women in mind.
+
+</hide>
+
+Korin0b:Items are for more than just being used. Just decorating the store with this would bring me more prosperity, I bet.
+
+<hide=all>
+
+Elliy4a:...You run quite the curio store here.
+
+</hide>
+
+<end>
+
+<ChatID:1>----------------------------------------------
+//1PP
+
+<nomove>
+
+<Code=(cursor_jump,384,288,1)>
+
+<hide=all>
+
+Elliy3a:Thank you very much.
+
+</hide>
+
+Korin0a:I hope you'll come by again.
+
+</nomove>
+
+<pause>
+
+Marisa0b:There's Kourindou. Man, flying through mist this thick is a pain.
+
+Nitori2a:There's so much of it. I wonder if the humans are okay...
+
+Alice0a:Normal humans are probably suffering from it right now. If you're worried, we could go check up on them.
+
+Marisa0a:There isn't much we can do for them there. Resolving this incident takes first priority.
+
+Nitori1a:I guess you're right. Let's pick up your order and get moving, then.
+
+Nitori0b:...Hm?
+
+<pause>
+
+Nitori0b:Did someone just come out of Kourindou?
+
+Marisa6b:Huh, isn't that...?
+
+<hide=name>
+
+Elliy1b:...You!
+
+</hide>
+
+Marisa1a:...!
+
+Alice1b:Marisa, do you know her?
+
+<hide=name>
+
+Elliy0b:That shameless attitude written all over your face, and that broom...
+
+Elliy1a:You're that magician from before!
+
+</hide>
+
+Marisa1a:And you're...
+
+Marisa4b:And you're... uh, who?
+
+<hide=name>
+
+<SE=se_talk_zuko01.ogg,wait=0>
+
+Elliy2a:OOF.
+
+Elliy2a:Geez, this always happens! I'll never forget the time you flew into my home and made a mess of it!
+
+</hide>
+
+Alice4a:Flew into her home and made a mess...? Do you steal from other people too?
+
+Marisa6b:Hey, I resent that. It was mostly in self-defense.
+
+Marisa0b:I remember now, though. She's Elly.
+
+Marisa0a:She was this youkai who stood at the gate of a mansion I went to a while ago. She got in my way, so I beat her up.
+
+Nitori0b:She was just standing in front of a door?
+
+Nitori4b:Guess she hasn't changed a bit.
+
+Alice4a:...I feel kind of sympathetic now.
+
+Elliy0b:What did you come here for? Don't tell me you're here to steal this parasol...
+
+Marisa0b:Please. Not everything is about you. I've got no business with you, so go away.
+
+Marisa0a:I'm busy investigating this scarlet mist.
+
+Elliy0b:...This scarlet mist, you say?
+
+Marisa0b:Yep. I'm gonna find the culprit and teach 'em a lesson.
+
+Elliy5a:Hmm... I'm not sure what your reasons are, but it seems you'll be opposing us once again.
+
+Elliy1a:Now that I've heard that, there's no way I can let you go so easily.
+
+Alice1a:Don't tell me she's...
+
+Nitori2a:An ally of that maid?!
+
+Elliy5a:That maid? Ahh, so you've met Sakuya.
+
+Elliy0b:You were lucky enough to get out of that alive, but now you've had the misfortune of encountering me.
+
+Elliy1a:Get out here, everyone!
+
+<pause>
+
+Nitori2a:Marisa, I've never seen these enemies before!
+
+Marisa0b:Huh. Between Elly and these guys, this is a whole parade of familiar faces.
+
+Marisa3b:Too bad they're still fodder. It's easy enough to take 'em out. We'll be turning the screw on you soon enough!
+
+Elliy5a:Heh heh heh... By all means, try me.
+
+Alice0a:She's rather confident for having lost once already.
+
+Nitori1b:Marisa, be careful.
+
+Marisa2b:I'm not gonna let someone like her slow me down. We'll clean them up in no time!
+
+Elliy5a:(Heh heh, I knew I was right to bring my secret weapon just in case.)
+
+Elliy0a:(You're all gonna be my guinea pigs!)
+
+<end>
+
+<ChatID:2>----------------------------------------------
+//魔理沙vsエリー
+
+Marisa0b:Long time no see. I didn't think you'd still be alive.
+
+Elliy0a:I should be saying that. You've lived rather long for a human.
+
+Marisa0a:You may carry a scythe like a shinigami, but it's sure not shaving off my lifespan.
+
+Elliy1a:That isn't my job anyway. I can certainly cut you, though!
+
+<end>
+
+<ChatID:3>----------------------------------------------
+//アリスvsエリー
+
+Alice0c:Considering you lost to the old Marisa, you're nowhere near as intimidating as you look.
+
+Elliy0a:Real cheeky, coming from someone who hasn't even fought me yet.
+
+Elliy5a:And where does some nameless magician calling herself Alice get off talking about...
+
+Elliy0b:...Wait.
+
+Alice0a:What?
+
+Elliy0b:Hold on. I've heard the name Alice before.
+
+Alice0a:...Is that so? I have no clue who you are, myself.
+
+Elliy0b:What was that in reference to again? I feel like it was something that was depressing to me...
+
+<end>
+
+<ChatID:4>----------------------------------------------
+//にとりvsエリー
+
+Nitori4b:Marisa seems to know you, but I guess you two weren't exactly friends.
+
+Elliy1a:Of course not. She tormented me the whole time!
+
+Nitori1a:Ahh, in that case, she's not much different nowadays.
+
+Nitori4c:But still, you and Marisa go that far back... I'm kinda jealous.
+
+<end>
+
+<ChatID:5>----------------------------------------------
+//床弾幕イベント
+
+Marisa0b:Hah, you ain't got the walk to back up your talk.
+
+Alice0c:That maid from yesterday was much stronger than you.
+
+Elliy2a:Oof, I can't believe I took such a beating...
+
+Marisa2b:Learned your lesson yet? If you tell me all you know about the scarlet mist, then I'll let you off with that.
+
+Elliy2a:Oh, gosh... If I don't do something, I'm just gonna get trounced again.
+
+Nitori0b:When Marisa talks like that, it's in your best interests to play along and spill what you know.
+
+Nitori4c:If you don't, well, sometimes Marisa goes a little overboard, y'know?
+
+Elliy2a:Yeah... There really wasn't any way that I could win...
+
+Elliy1a:...Is what you were hoping I'd say, I bet!
+
+Marisa1a:What?!
+
+Elliy1a:Come, my floor tiles!
+
+<pause>
+
+Marisa3b:The heck? Some floor tiles are flyin' at me?
+
+Nitori0b:Floor tiles in the middle of the Forest of Magic... Where are they coming from?
+
+Marisa0b:If that was your idea of a sucker punch, it wasn't a very good one.
+
+Marisa0a:A basic attack like that is never gonna hit me, no matter how many times you use it.
+
+Elliy4a:Yep, those attacks won't hit you.
+
+Elliy0a:...Because they're not supposed to.
+
+Marisa2b:All this sore loser talk is embarrassing, y'know. Hope you're ready for what comes next!
+
+Alice1a:!
+
+Alice1a:Marisa, wait!
+
+Elliy1a:Too late!
+
+<pause>
+
+Marisa3b:!
+
+Nitori2a:What's this?!
+
+Marisa6b:What's going on?! These floor tiles are covering us from all sides!
+
+Elliy3b:Ahahahaha, how do you like that?! This is my secret weapon, floor tile danmaku!
+
+Elliy0a:With all these floor tiles surrounding you, you won't be able to move at all!
+
+Nitori2a:Those first floor tiles she shot off were decoys! But how could she move these tiles around so precisely...?
+
+Alice0a:They're probably a type of familiar. I assume she controls them by getting spirits to possess them.
+
+Elliy5a:Very perceptive. This is the first time I've tried using them, and they're working out swimmingly.
+
+Elliy1a:I'll give you a bit of time to appreciate the power of floor tiles!
+
+<end>
+
+<ChatID:6>--------------------------------------------------------
+//マスパイベント
+
+<Code=(icon_set_direction,Marisa,Elliy_en,0)>
+
+Marisa2a:Rgh...
+
+<Code=(icon_set_direction,Nitori,Elliy_en,0)>
+
+Nitori2a:This isn't good...
+
+Elliy0a:My, what happened to all that spunk you had before?
+
+Marisa3c:Stupid floor tiles... I can't move an inch.
+
+<Code=(icon_set_direction,Alice,Elliy_en,0)>
+
+Alice1a:We can't counterattack like this or retreat. We walked right into her trap.
+
+Elliy5a:Ahahaha, this feels great. You're completely immobilized by my floor tiles.
+
+Elliy0b:Do you want to be taken down bit by bit, or would you prefer to get it over with quickly? Feel free to pick whichever you want.
+
+Marisa2b:Hmph, these floor tiles are nothing for...
+
+Elliy1a:That's enough of your bluffing!
+
+<pause>
+
+Marisa2a:Ugh!
+
+Nitori2a:Marisa!
+
+Nitori2a:This is going from bad to worse! What are we gonna do? Alice, got any tricks up your sleeve?
+
+Alice1a:...My dolls won't be able to get through the floor tiles either. There's nothing I can do.
+
+Nitori2a:No way...!
+
+Elliy5a:Ahaha, so it was all just hot air. Don't worry, I'll finish you off now!
+
+Elliy0a:You're first up, you cheeky blonde!
+
+<pause>
+
+Alice2a:Eek!
+
+Marisa1a:Alice!
+
+Nitori1b:Attacking while she can't do a thing... That's messed up!
+
+Elliy5a:It's her own fault for falling into my trap. People pay when they get too careless in a danmaku battle...
+
+Elliy1a:...And it's time to give you the check!
+
+<pause>
+
+Nitori2a:Waaah!
+
+Marisa1a:Nitori!
+
+Elliy0b:You're up next. Hope you're ready!
+
+Nitori3c:Oof... Marisa, if you can get away, go!
+
+Alice2a:We'll buy you some time...
+
+Marisa3b:My attacks don't work... and Nitori and Alice are down...
+
+Marisa2a:Dammit, is there nothing I can do?!
+
+Elliy5a:Absolutely nothing. I've won! Chapter 4, THE END!
+
+<nomove>
+
+<Code=(cursor_jump,368,288,1)>
+
+<hide=all>
+
+Korin1a:I don't think so!
+
+</nomove>
+
+</hide>
+
+<pause>
+
+<Code=(icon_set_direction,Marisa,Korin,0)>
+
+<Code=(icon_set_direction,Nitori,Korin,0)>
+
+<Code=(icon_set_direction,Alice,Korin,0)>
+
+Marisa5a:Kourin?!
+
+Nitori2a:Mr. Kourindou?!
+
+Alice2b:Kourin... So you're the one Marisa's always talking about.
+
+Marisa2b:Kourin! We're in the middle of a danmaku battle. Get back.
+
+Marisa1a:You've got no way to defend yourself against stray bullets!
+
+Korin2a:Not happening, sorry. I'm not going to hide in my room while you girls lose right in front of me.
+
+Korin0b:And even a secondhand shop owner has something he can do.
+
+Marisa6b:Wait, you don't mean...
+
+Elliy1b:The store's owner?! Maybe you think you can give Marisa a new item?
+
+Elliy1a:Well, not on my watch!
+
+<pause>
+
+Korin2a:Gaaah!
+
+<pause>
+
+Marisa5a:Kourin!
+
+<nomove>
+
+<Code=(cursor_jump,368,288,1)>
+
+Korin1a:Forget about me. Marisa, use this!
+
+</nomove>
+
+<pause>
+
+Marisa6b:It's...
+
+<nomove>
+
+<Code=(cursor_jump,368,288,1)>
+
+Korin1a:Listen up, Marisa!
+
+Korin2b:The mini-hakkero I just gave you has been fully tuned-up and customized for you.
+
+Korin0a:No matter how flashy or strong the magic is, you can use it. It will give you all the power that you need.
+
+Korin1a:Don't worry. Just go all-out! The mini-hakkero will answer your call!
+
+Marisa2b:Kourin...
+
+Marisa1a:...Alright. You've delivered the reborn mini-hakkero to me.
+
+Elliy1b:Oh no, he handed it off to Marisa!
+
+Elliy1a:But what can a little box like that really do? It's no match for my floor tiles!
+
+<Code=(icon_set_direction,Marisa,Elliy_en,0)>
+
+Marisa1a:Don't underestimate a tool made by Kourin. This thing might be small, but it'll knock your socks off!
+
+Marisa2b:Lemme introduce you to my new magicannon spell.
+
+Marisa5a:Eat this!
+
+<pause>
+
+<Code=(icon_set_direction,Nitori,Elliy_en,0)>
+
+<Code=(icon_set_direction,Alice,Elliy_en,0)>
+
+Elliy2a:Aieee!
+
+Nitori4a:The floor tiles vanished!
+
+Alice1a:If those floor tiles prevent you from attacking, then just blow them all away? What kind of approach is that?
+
+Alice0a:(But still, that strength... Is this Marisa's new power?)
+
+Marisa2b:Hah, how'd you like that? This is my magicannon special technique...
+
+Marisa1a:Love Sign [Master Spark]!
+
+Nitori0b:Love Sign...
+
+Alice0a:Master Spark...
+
+Elliy2a:*cough* *cough*
+
+Elliy2a:Ooh, this stinks! I was so close!
+
+Marisa0a:Sucks for you. Bring some floor tiles that won't be blown apart by my magicannon next time.
+
+Elliy4a:How could a human use a technique that relies so much on brute-force power...
+
+Elliy2a:You won't get off so easily the next time we meet! Just you wait!
+
+<pause>
+
+Nitori4d:You did it, Marisa!
+
+Alice0c:Channeling all the magical power that you have and firing it all at once... What an absurdly reckless technique.
+
+Alice0d:But there's no arguing with results, I suppose.
+
+Marisa6a:The intensity's the most important part of a danmaku barrage. You gotta go big or go home.
+
+Marisa0a:In the end, danmaku is all about power!
+
+Nitori4b:And let's not forget Mr. Kourindou, who actually made the gadget that let you pull off that spell.
+
+Marisa0a:Yeah, I owe him big time for this. Thanks a bunch, Kourin...
+
+Marisa6b:...Wait, Kourin?! Where are you?!
+
+<nomove>
+
+<Code=(cursor_jump,368,288,1)>
+
+Korin2a:...I'm here. Oof.
+
+</nomove>
+
+Marisa1a:You okay, Kourin?!
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,368,288,1)>
+
+Korin2a:Oh, don't worry about me. These injuries weren't as bad as I thought.
+
+Korin2a:You girls have a duty to resolve this mist incident. Forget about me and just get going.
+
+</nomove>
+
+Marisa4a:Kourin...
+
+<Code=(icon_set_direction,Nitori,Marisa,0)>
+
+<Code=(icon_set_direction,Alice,Marisa,0)>
+
+Nitori3d:Mr. Kourindou...
+
+Nitori1a:Actually, now that I look closer, it seems like you've only got a few minor scrapes?
+
+<nomove>
+
+<Code=(cursor_jump,368,288,1)>
+
+Korin3a:...Ahem. Anyway, I'll handle these myself, so you girls should get a move on.
+
+</nomove>
+
+Marisa0a:Alright. Thanks, Kourin. I'll take good care of this new mini-hakkero.
+
+<nomove>
+
+<Code=(cursor_jump,368,288,1)>
+
+Korin0a:No need to thank me. By the way, I picked out some items for danmaku battles for you. Why don't you take them with you?
+
+Korin0d:I'm sure they'll come in handy.
+
+</nomove>
+
+Marisa0a:Wow, you've just got everything covered. I'll gladly take you up on that.
+
+Marisa1a:Okay, Nitori, Alice—let's get going.
+
+Alice0a:We're really going to the lake?
+
+Nitori4b:That youkai ran off in the direction of the lake too, actually.
+
+Marisa0b:Wow, there's really something there...?
+
+Nitori0b:Hm? Did you say something?
+
+Marisa0a:Nah. Just thinkin' to myself that the lake's real sus. I'm heading there at full speed. Don't fall behind!
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,368,288,1)>
+
+Korin2a:Whew, ouch... I did need to get the mini-hakkero over to her, but I might have overdone the theatrics.
+
+Korin0a:But now, I finally feel like I've seen Marisa off on her journey.
+
+Korin4a:Marisa. I'm sure you'll be faced with enemies stronger than anything you've faced before.
+
+Korin0a:But as long as you've got that mini-hakkero, you should be able to handle any fight.
+
+Korin0b:Once you finally become a great magician...
+
+Korin0a:You'd better let everyone know you couldn't have done it without the support of Kourindou.
+
+Korin4b:Now go, Marisa. I'll be watching you from afar.
+
+</nomove>
+
+<end>
+
+<ChatID:7>----------------------------------------
+//エリーvs.まくら
+
+Elliy0b:I've never seen you around. What's your name?
+
+Makura3a:I am Makura Muwatari.
+
+Elliy3b:Ooh, Macky! I can't really explain it, but you've got kind of a motherly aura...
+
+Elliy1a:Whoops, if we keep chatting I'll lose my edge! Time to fight!
+
+Makura3c:Sure, I'd love to study your danmaku too, Elly.
+
+<end>
+
+<ChatID:8>----------------------------------------
+//エリーvs.メーコ
+
+Elliy1b:Oh, you're...
+
+Meko4c:What?
+
+Elliy5a:There's so much fluff in your head, you seem like you'd get along with Kurumi.
+
+Meko4f:Yay! I've always wanted to get along with her!
+
+Elliy4a:(This is what I mean by a head full of fluff...)
+
+<end>
+
+<ChatID:9>----------------------------------------
+//エリーvs.エリー（M04流用）
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Elliy3b:Ooh, found a pretty girl!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Elliy1a:So just who are you, Pretty?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Elliy4a:I can't tell my name, but this is all I can say.
+
+Elliy3b:You're so pretty!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Elliy5a:Yeah, you too!
+
+</nomove>
+
+<end>
+
+<ChatID:10>----------------------------------------
+//エリーvs.幽香（M04流用）
+
+Elliy1b:Eh? Yuuka?!
+
+Elliy1a:...No, it can't be. I must be hallucinating from wanting to see her too much...
+
+Yuka1a:I don't quite understand, but if you're satisfied, than shall I tear you to pieces?
+
+Elliy2b:That's my Yuuka! Even my hallucination's merciless!
+
+<end>
+
+<ChatID:11>----------------------------------------
+//エリーvs.くるみ（M04流用）
+
+Elliy0a:Oh, it's Kurumi. What're you doing here?
+
+Kurumi1c:Um, uh, taking a walk!
+
+Elliy3a:Oh, you. Just don't slack off on the job Pathoucli gave you.
+
+Kurumi6a:Kay... Whoops, I answered normally.
+
+<end>

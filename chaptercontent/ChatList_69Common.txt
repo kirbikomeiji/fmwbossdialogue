@@ -1,0 +1,872 @@
+﻿○共通第六十九話「凶兆
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: 2PP
+ 4: 3PP (player ally)
+ 5: first battle (Shinki)
+ 6: first ballte (Alice)
+ 7: clear
+ 8: lose
+ 9: ADVB
+10: telop
+11: omake
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=11,FROM=マーガトロイド邸,TO=マーガトロイド邸,name=Margatroid Residence,icon=5>
+
+<BG=*bg_talk_Alice.png,fade=1,color=1,title=*bg_Alice,bgm=bgm_talk_aoki>
+
+Alice0d:Dear Mom and Yumeko. Are you doing well?
+
+Alice0d:I can't believe it's already been a week since we met in Makai.
+
+Alice0b:Nothing in particular has been happening, so you could say things have calmed down.
+
+Alice0d:I'm trying to live each day to the fullest. I want to be able to look back on my life without regret.
+
+Alice0a:Speaking of which, today some friends came over to...
+
+Elliy5a:Ooh, so we're your friends?
+
+Alice5b:H-Hey! Stop reading over my shoulder.
+
+Kurumi3a:Yeah, stop it Elly. Just let her write her letter.
+
+Elliy4a:But why does Blondie get to ignore us when we came all this way just to hang out with her?
+
+Elliy0a:Back me up, Nitori. Aren't you bored? No one's even talking!
+
+Nitori4c:Nah, I'm doing my own research...
+
+Nitori4b:How about you stop bugging people and try reading a book or something?
+
+Elliy4b:It's boring at home when Yuuka's not around, but I guess coming to visit YOU was a mistake, Blondie.
+
+Kurumi4b:That'd be a little more convincing if your mouth wasn't stuffed with cookies.
+
+Alice0a:...So neither of you two have seen Yuuka recently either?
+
+Alice0b:I heard from Medi that she hasn't seen Yuuka since she said farewell back in the flower field.
+
+Kurumi0a:Yeah. We're already used to that though. I wonder what she's up to right now?
+
+Elliy3a:Anyway, it looked like you were writing a letter to Shinki, right Blondie?
+
+Elliy0a:If you're already homesick, you can always just go visit her, you know.
+
+Alice0d:You're right. But while I'd be lying if I said I didn't miss her...
+
+Alice3a:Mom told me that she'd always be watching over me from afar.
+
+Alice0d:I want to respect that by doing as much as I can on my own.
+
+Nitori1a:You're pretty amazing, Alice. But if that's the promise you made with Shinki...
+
+<SE=se_talk_knock02.ogg,wait=1>
+
+Kurumi3c:Huh. Sounds like someone's here.
+
+Alice2c:You're right. But I'm not expecting anyone...
+
+Elliy5a:Maybe it's some fairy prank?
+
+Alice0d:On the other hand, it could be someone who got lost in the forest.
+
+<SE=se_talk_door_open05.ogg,wait=1>
+
+Alice0d:Hello?
+
+Shinki0c:We're here!
+
+Alice4a:...
+
+Alice1a:M-Mom?!
+
+Nitori2a:It's Shinki?!
+
+<Code=(sound_fadeout,BGM,30,0)>
+
+<BGM=bgm_talk_gag,0>
+
+Shinki0b:Wow, so this is your house, Alice?
+
+Shinki0d:It's lovely. So many dolls, and you have all these adorable decorations.
+
+Yumeko3a:I see your tastes haven't changed since you were a child. But it's certainly a well-kept house.
+
+Yumeko3c:I take it you won't mind if I bring in our luggage, Alice?
+
+Alice1a:W-Wait! What are you two doing here?
+
+Kurumi1c:...I guess it's still too soon to say "it's been a while"?
+
+Shinki0c:Oh my, you have company. Hello there.
+
+Alice0a:...What's going on? You never told me you'd be coming.
+
+Shinki0b:Tee hee, did we surprise you? Then it went just as planned!
+
+Shinki0c:I worked all night to clear up my schedule for this, you know.
+
+Alice4a:I don't mind, but... didn't you say you'd watch over me from afar?
+
+Shinki2a:!
+
+Shinki0a:U-Um, well! There are very complicated reasons for this!
+
+Elliy4a:You mean you missed her, right?
+
+Yumeko0b:That's half of it. The other half is that she wanted to say hello to Lady Byakuren.
+
+Kurumi4a:So we're half-right, at least.
+
+Nitori3e:That reminds me, everyone's talking about Byakuren these days, even on the mountain.
+
+Nitori4b:About how she's going to bring humans and youkai together.
+
+Shinki0a:Yes, exactly! She's even remodeled the temple where Shou used to live for that.
+
+Kurumi0a:Uh, how would you know that? Don't you live in Makai?
+
+Shinki0c:Oh, because we're... what's the word... pen pals! We've kept in touch since she left.
+
+Shinki0b:And then she asked me if I'd like to come visit. *giggle*
+
+Nitori2a:So as soon as you read that you dropped everything and came here. Wow...
+
+Alice3b:So that's what happened. In that case, let me show you the way to Byakuren's temple.
+
+Alice0d:You two don't know your way around Gensokyo yet, after all.
+
+Yumeko3a:Thank you. We were planning to stay for two or three days.
+
+Shinki5a:So we need a place to stay, but I'm a little anxious about the human village, so...
+
+Alice0c:You were planning to stay here from the beginning, weren't you? Well, it's a little cramped, but make yourselves at home.
+
+Yumeko3c:Thank goodness, Lady Shinki. Shall I take in the rest of our luggage then?
+
+Yumeko3b:First, I'll need to clear that desk over there.
+
+Shinki0a:Oh? Is that a letter?
+
+Yumeko0a:It appears so. And it's addressed to us.
+
+Shinki0a:Wow, that makes me so happy! I've been keeping all your letters, you know.
+
+Shinki0d:I keep them in stasis with magic. Hey, do you remember that scarf you knit me when you were little, Alice? I still have it in—
+
+Alice5b:S-Stop! We can reminisce about that sort of thing later!
+
+Kurumi3b:I knew she was cheerful, but she's almost as annoying as US.
+
+Elliy1b:I think even I'm no match for THAT. Look at how well she controls the mood...
+
+Nitori4c:But hey, that's the warm and fuzzy nature of family. ...I think.
+
+Nitori1a:Anyway, why don't we all show you around Gensokyo with Alice? After a little break.
+
+Shinki0b:Really? Thanks, I think I'd like that.
+
+<MAP=11,FROM=博麗神社,TO=博麗神社,name=Hakurei Shrine,icon=1>
+
+<BG=*bg_talk_Shrine_Spring.png,fade=1,color=1,title=*bg_Shrine,bgm=bgm_talk_aoki>
+
+Murasa0a:So, this was in this morning's Bunbunmaru Newspaper.
+
+Reimu4a:Let's see here...
+
+<SE=se_talk_kasakasa04.ogg,wait=1>
+
+Reimu5c:"Shocking! Mysterious Priest Runs Youkai Temple?!"
+
+Reimu5c:"An exclusive interview with the head monk! What will this new faction bring to Gensokyo?!"
+
+Marisa0d:Wow, you've got the whole front page.
+
+Byakuren3c:Yes... I thought it would be rude to turn down her interview, but...
+
+Byakuren0a:I certainly never expected to be included in a feature like that.
+
+Kanako0a:Well, a temple that accepts youkai is practically unheard of. I imagine you'll be the talk of the town for a while to come.
+
+Marisa0b:Akyu said she wanted to cover this too. She even invited me to host a discussion, as a local youkai expert.
+
+Sanae0a:Didn't Shou start holding Buddhist services at her old temple too?
+
+Ichirin3d:Yeah, and thanks to that we've been popular with both humans AND youkai.
+
+Byakuren3c:As a novice who's yet to achieve enlightenment, the response has been a truly humbling experience.
+
+Suwako3a:Humbling? Yeah right. Your massive popularity is all the proof you need.
+
+Kanako0a:Then we can't let our religion fall behind either now, can we, Reimu?
+
+Reimu5c:Don't care. If you wanna go around advertising or whatever, then knock yourselves out.
+
+Reimu4a:But...
+
+Orin4b:Meow?
+
+Kogasa3a:What?
+
+Koishi0a:Hmm?
+
+Marisa4c:I get bringing Murasa and Ichirin, but what's with the crowd of weirdos?
+
+Kogasa2b:Hey, that's rude! I'm not a weirdo!
+
+Murasa3c:Kogasa's been hanging around the temple lately.
+
+Murasa0a:Not that any of the sutras have rubbed off on her.
+
+Kogasa3c:Hey, it's not like I joined the temple! I'm just there for the humans!
+
+Kogasa0b:Just by being there, my chances of surprising someone have gone way way way up!
+
+Orin0a:Just so you know, Miss Koishi is different. She was personally invited by the priest.
+
+Sanae0g:Invited? Why?
+
+Byakuren0b:Koishi has the power to act entirely from her unconscious mind. But if you think about it, that's one of the deepest goals of Buddhism.
+
+Byakuren0a:I thought I'd like to get a better grasp on the characteristics of their species, to better serve our own training.
+
+Reimu0f:Huh. What about her sister then?
+
+Koishi6c:Satori was invited too, but she said it didn't suit her. She told me I could do what I want.
+
+Nue0a:Eh, she's always been one to overthink everything.
+
+Nue5b:But frankly, anyone who just joins the temple without thinking is crazy, if you ask me.
+
+Koishi0a:Aren't you always there, yourself?
+
+Nue1a:I'm different. As a great youkai, I've got a duty to make sure she isn't an enemy to youkai...
+
+Koishi6c:Oh, but if you joined the temple anyway, wouldn't it have been better to join as a priest?
+
+Nue2a:Let me finish!
+
+Byakuren3c:...As you can see, it's been quite lively at Myouren Temple.
+
+Byakuren0a:But this is just the beginning of our efforts to bring equality to both human and...
+
+Byakuren0c:...Oh?
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+Keine1a:Hey! Reimu!
+
+Mokou1b:Wow, you've got a real crowd here.
+
+Reimu0f:Oh, Keine. And Mokou too. What's the occasion?
+
+Keine0c:...Something urgent came up that I wanted to speak with you about.
+
+Mokou0a:And with Kanako and Byakuren here, that saves us some time.
+
+Sanae0b:Something urgent...?
+
+Marisa0d:I've got a bad feeling about this. Don't tell me something happened in the village?
+
+Keine1a:Unfortunately, yes. Black sheep youkai have been sighted in the village.
+
+Reimu1a:What?!
+
+<Code=(sound_fadeout,BGM,45,0)>
+
+<BGM=bgm_talk_inishie,0>
+
+Sanae1a:Black sheep youkai? Those are Mehko's familiars, right?!
+
+Kanako1c:Is that true, Keine?
+
+Keine1a:It is. I haven't seen them myself, but I've heard directly from villagers who have. There's no doubt.
+
+Mokou1b:It's not just one or two either, people've been seeing 'em all over the place.
+
+Marisa2b:...Gotcha. If we've got all these sightings happening at once, this can't be a coincidence.
+
+Reimu0a:So they're up to something.
+
+Byakuren0c:Excuse me, but what's this about sheep...?
+
+Murasa2c:Oh yeah, we never really told you about this, Hijiri. There's this group that's been causing trouble for a while now.
+
+Murasa0c:And one of them uses black sheep youkai as familiars.
+
+Ichirin1d:They've been quiet lately, but it looks like they're finally showing themselves.
+
+Byakuren5a:I see.
+
+Orin1f:So is the village alright? If they're attacking like before, then...
+
+Keine0c:That's the strange part. They don't seem to be doing anything.
+
+Kogasa3a:Huh?
+
+Mokou1b:According to the humans who saw them, they're just sitting quietly in the shadows.
+
+Mokou0a:And as soon as they realize they've been spotted, they vanish.
+
+Suwako1c:That IS strange. I mean, we know they've been planning something.
+
+Keine1a:But even if they haven't done anything yet, we can't just ignore the problem.
+
+Keine0c:Which is why I thought we should go around letting everyone know.
+
+Marisa0a:Gotcha. We can give you a hand with that.
+
+Marisa1b:Heck, we might even spot some sheep on the way.
+
+Reimu1a:Yeah, first we'll need to see them for ourselves so we can...
+
+Reimu5d:Hm?
+
+Byakuren6b:Is something the matter, Reimu?
+
+Reimu5d:...Looks like we won't need to go looking for them after all.
+
+Reimu1a:Get out here! I know you're there!
+
+<Code=(map_shake,1,30,2)>
+
+<SE=se_hit_bullet_S01.ogg,wait=0>
+
+<Code=(demo_wait,40)>
+
+Sheep0a:...
+
+Sanae1a:!
+
+Nue2a:It's them...!
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP（出撃前）
+
+Marisa1a:Hey, Reimu. Was that...?
+
+Reimu1a:Yeah, it ran over there!
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,304,384,0)>
+
+Sheep0a:...
+
+</nomove>
+
+<pause>
+
+Orin1b:Speak of the devil!
+
+Keine1a:So it wasn't just the village? They've even infiltrated the shrine?
+
+Kanako1c:Shoot first, ask questions later!
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP（出撃後）
+
+Byakuren2a:So these are the youkai you were just discussing.
+
+Sanae1c:I'm not seeing Mehko around anywhere.
+
+Mokou1a:We shouldn't let our guards down, but this might be a good chance to get a feel for how they fight.
+
+Mokou3d:Let's stay observant and take them down cleanly.
+
+<end>
+
+<ChatID:3>---------------------------------------
+//2PP
+
+Sheep0a:...
+
+Reimu1b:I wonder... What are you all up to?
+
+Marisa1b:It's just a familiar, it's not gonna know anything.
+
+Byakuren0a:But if we can speak to them, why shouldn't we be able to ascertain their motives?
+
+Suwako0d:Speak to it, huh... Like you did with those monsters in Hokkai?
+
+Nue0b:Not happening. If they're anything like my familiars, they don't think on their own.
+
+Nue1b:Trying to pull something stupid like again will just create an opening they can pounce on.
+
+Byakuren5a:An opening, hm...?
+
+Nue1c:Yeah. For that matter, you're way too trusting.
+
+Nue1a:Plenty of the youkai joining your temple have ulterior motives, you know.
+
+Mokou1a:Huh. For someone who hates Byakuren so much, she sure watches out for her.
+
+Murasa0a:Yeah, maybe she could work on her language, but that's Nue being nice.
+
+Murasa3c:Looks like Hijiri's made it clear she's not an enemy.
+
+Ichirin3c:She's gotten to know her true character after living in the same temple.
+
+Koishi0b:You should follow her lead too, Orin. Come listen to a sermon some time.
+
+Orin7a:What? Why me?
+
+Koishi0b:C'mon, I've seen that look in your eye when you come to the temple and see the graves.
+
+Orin1a:N-No! I wasn't planning on stealing the corpses or anything! I was just there to pick you up, Miss Koishi...
+
+Keine0b:Can we just leave it at that? We ARE in the middle of a battle.
+
+Keine0b:Although I'm a little worried that all of your reckless behavior might start to disillusion Byakuren...
+
+Byakuren0a:Oh no, this just shows how comfortable the youkai are in their exultation of life.
+
+Byakuren3c:Protecting this peace and freedom is exactly why we must fight.
+
+Marisa1a:And there you have it. No need to hold back on these chumps!
+
+<end>
+
+<ChatID:4>---------------------------------------
+//3PP
+
+Sheep0a:...
+
+Kogasa3c:They aren't running or anything, but it's a little creepy how they're just staring at us.
+
+Sanae0g:Yes, they also don't appear to have any particular goal here...
+
+Mokou0a:Maybe they're just attacking in response to our own danmaku?
+
+Reimu0e:Who cares? We still need to exterminate them.
+
+Unzan0a:...!
+
+Koishi2b:What's the matter, Mr. Nyudo?
+
+Kanako1d:Someone incredibly powerful is approaching. Their presence is familiar...
+
+Byakuren1a:Is this magic what I think it is...?
+
+<nomove>
+
+<Code=(cursor_jump,288,688,1)>
+
+<hide=face>
+
+Shinki0a:I've finally found you, Byakuren.
+
+</nomove>
+
+</hide>
+
+<pause>
+
+Shinki0c:Thank goodness. So this is the Hakurei Shrine?
+
+Shinki0d:The path just kept going and going. I was starting to think we'd gotten lost.
+
+Yumeko0a:That's because when we told you it was east, you started heading toward the sunset.
+
+Shinki2b:Again, I went to the right! And east is right!
+
+Nitori2a:Whew, that was rough. I've never seen anyone go exactly the wrong way so confidently.
+
+Alice4a:Mom isn't so great at directions...
+
+Elliy5b:Wait, is Shinki terrible at everything but creation and magic?
+
+Reimu3c:Shinki and Yumeko...? What are you two doing here?
+
+Shinki0a:Hello, Reimu. I heard Byakuren was opening up her temple, so I came to say hello.
+
+Shinki0c:But when we visited the temple on the mountain, they told us you'd come to the shrine.
+
+Byakuren3c:Oh, I'm sorry. We must have just missed each other. I never imagined you'd be here so soon.
+
+Yumeko3b:Oh, there's no need to apologize. On reflection, we may have been a bit hasty ourselves.
+
+Yumeko0a:But more importantly, what's going on here?
+
+Alice1a:Ah, I see Mehko's sheep minions have finally shown up.
+
+Nitori2a:What happened, Marisa?!
+
+Marisa2b:Long story short, they were hiding at the shrine.
+
+Marisa2b:But not just the shrine, I hear they've been seen in the village too.
+
+Elliy1a:No way! That's serious!
+
+Keine1a:That about sums it up. Sorry, we can explain the details later.
+
+Shinki5a:Oh my, it seems we picked quite the time to visit.
+
+Byakuren5a:My apologies, you must have traveled so far. Do you mind waiting until we settle this matter?
+
+Shinki1a:Of course I mind! If a friend's in trouble then we're helping out.
+
+Shinki0a:That's alright with you, right, Yumeko?
+
+Yumeko0b:Indeed. There's no reason to hesitate in a situation like this.
+
+Yumeko4a:That said, maybe it would be wise to refrain from any especially... showy uses of magic.
+
+Shinki0b:I know, I know. I'm both a mother and a god, after all.
+
+<end>
+
+<ChatID:5>---------------------------------------
+//神綺・夢子ペア初戦闘
+
+Shinki0a:So these fluffy things are Alice's enemies?
+
+Yumeko0a:I don't know where they come from, but they appear to be familiar-level youkai.
+
+Yumeko0a:They may be cannon fodder, but please be careful regardless.
+
+Shinki0d:I could say the same to you, Yumeko. Don't push yourself to the breaking point.
+
+Marisa0c:...A tag team of Shinki and Yumeko, huh? That kinda seems like overkill for these little guys.
+
+Byakuren3d:I'm delighted to fight alongside you regardless, Lady Shinki.
+
+Shinki0c:Likewise, Byakuren. I hope we can continue to be good friends.
+
+Shinki0b:That's all the more reason to get this settled quickly.
+
+<end>
+
+<ChatID:6>---------------------------------------
+//アリス・にとりペア初戦闘
+
+Alice1c:It seems Mehko's finally made her move.
+
+Nitori3e:Are things okay? Didn't they say something happened in the village too?
+
+Alice1b:I don't care what they throw at us, we can't let them do do as they please to our Gensokyo.
+
+Shinki0b:My my, Alice. How dependable you sound.
+
+Yumeko3c:Perhaps you don't need any offers of protection from us.
+
+Marisa0d:...Y'know, you DO seem a little different lately, Alice. It's like, you're more... centered, or something.
+
+Alice3b:I'm my mother's daughter, after all. I can't just let myself be protected forever.
+
+Alice0a:(Right. Someday I'll be the one protecting her.)
+
+Alice3a:(And Mom's the one who gave me the confidence to think that.)
+
+<end>
+
+<ChatID:7>---------------------------------------
+//クリア時
+
+Koishi0b:That's all of them!
+
+Shinki0a:Yes, I don't see anymore of them in hiding.
+
+Byakuren3e:Thank you very much for helping us, both of you.
+
+Shinki0a:Oh, no need to thank us. We're just here to...
+
+Shinki5a:Oh no, what happened to that bouquet we brought to congratulate her?! Was it ruined in the fight?!
+
+Yumeko3a:I made sure to set it aside. Don't worry.
+
+Shinki0d:Thank goodness! Just what I'd expect from you, Yumeko!
+
+Mokou3c:She's like a completely different person in battle. She's so composed while fighting, and so... not at other times.
+
+Suwako0a:But, well, I sure am glad she's on our side.
+
+Yumeko0a:That aside, do you suppose you could explain what's going on here?
+
+Nitori0b:Yeah, what's happening? This is all so sudden.
+
+Keine0b:Good idea. We should probably give ourselves a chance to cool down after the fight, though.
+
+Keine0c:Let's go take a seat in the shrine.
+
+<end>
+
+<ChatID:8>---------------------------------------
+//全滅時
+
+Reimu2a:Are you KIDDING? Not like this...!
+
+<Cond=(LOCAL_LIST,ObjControl,event_done,1,==,1)>
+
+Yumeko4a:It's absurd that you'd actually lose with us here on your side.
+
+Yumeko0a:Naturally, we'll do a retake.
+
+</Cond>
+
+<end>
+
+<ChatID:9>---------------------------------------
+//ADVB
+
+<MAP=11,FROM=博麗神社,TO=博麗神社,name=Hakurei Shrine,icon=1>
+
+<BG=*bg_talk_Shrine_Spring.png,fade=1,color=1,title=*bg_Shrine,bgm=bgm_talk_ningyo>
+
+Marisa0b:We got rid of the familiars, but Mehko herself never showed up, huh?
+
+Sanae0g:What did the sheep even come here for...?
+
+Reimu0f:I'm not sure what it was, but something was definitely off about them compared to what we've seen before.
+
+Elliy0b:So... What exactly happened before we got here?
+
+Shinki5a:I could tell that those sheep have been causing trouble for Alice, but that's about it.
+
+Byakuren0c:I don't know much about this either. Would you mind explaining?
+
+Keine0c:Hmm, this will be a good chance for us to summarize everything that's happened so far.
+
+Keine3b:Those black sheep youkai are the familiars of someone who's been hostile toward us.
+
+Keine0c:A sheep youkai called Mehko.
+
+Keine1a:And her master is a youkai named Makura Muwatari.
+
+Byakuren0c:So Mehko and Makura...
+
+Marisa1b:Seems like they hate any new technology or ideas getting into Gensokyo.
+
+Marisa2b:So far they've tried to take away Utsuho's power of nuclear fusion and attacked Nitori's bazaar and stuff like that.
+
+Shinki5b:With brute force? How awful.
+
+Reimu4a:Obviously we tried to track them down, but without much luck.
+
+Reimu0d:Until just now anyway, when they suddenly started appearing in the shrine and the village.
+
+Yumeko0a:Now I see. That explains your surprise.
+
+Yumeko4b:I take it you know very little about your enemy?
+
+Suwako4b:Pretty much. We've only ever fought Mehko so far.
+
+Suwako0b:But we are learning more about them, little by little.
+
+Mokou1b:First of all, it sounds like they're both youkai originally from the Outside World.
+
+Mokou0a:That probably explains why they hate technology so much.
+
+Marisa1b:Plus, they have the power to mess with people's dreams.
+
+Marisa0b:Before, they used to help us resolve incidents by showing up in our dreams, but...
+
+Alice0b:We eventually reached a point of irreconcilable differences and had a falling out.
+
+Kogasa3c:Oh, gosh. What a surprising story...
+
+Sanae0a:Oh, right, we never told you any of this either, Kogasa.
+
+Kanako3b:The fact is that we don't know anything more than that.
+
+Kanako0c:We still have no idea why the sheep are showing up.
+
+Ichirin2a:That really worries me. Until now they've always had a clear target they were attacking, but this time they just stared at us in silence...
+
+Ichirin1d:And you said the ones found in the human village were just hiding in dark corners too.
+
+Nitori3c:So they're just sitting there, not doing anything?
+
+Koishi6c:I think they're up to no good!
+
+Alice2c:A reasonable guess, but we haven't seen enough of them to say for sure.
+
+Alice4a:Best case, this is the worst that happens, but I wouldn't count on it.
+
+Shinki5b:Yes, I agree.
+
+Shinki0e:...
+
+Marisa0e:Why the long face? Stomachache?
+
+Shinki5b:No, my stomach's fine, I've just got a bad feeling about this.
+
+Shinki5b:How do I put this...? It's like there's something sinister in the air.
+
+Elliy4b:Could you be a little more specific? Or are you, like, literally picking up evil radio waves?
+
+Yumeko0a:This is simply Lady Shinki's divine intuition.
+
+Byakuren5a:I agree though. This whole situation makes me concerned as well.
+
+Murasa2b:Why is that?
+
+Byakuren0c:From what you've said, this Makura Muwatari is likely acting based on some ideal of hers.
+
+Byakuren2a:I very much doubt a youkai like that would send her minions here without a plan.
+
+Orin5c:Yeah, up until now she's always had some dirty trick up her sleeve.
+
+Keine0c:I think it's only natural to be worried, but at least this time we were lucky enough to notice beforehand.
+
+Keine0a:Our best bet at this point is to be ready for anything.
+
+Kanako1c:For our part, we'll speak with the tengu and ask them to tighten their security.
+
+Sanae1a:And I'll return to the village and gather up eyewitness reports.
+
+Orin3a:Then we'll visit with the Underworld youkai.
+
+Ichirin1b:Don't forget us! We can talk to the humans who come to the temple to see what the word on the street is.
+
+Shinki5b:...This wasn't the best time to visit, was it? I'd hate to get in the way.
+
+Shinki5b:Do you think there's any way we could help?
+
+Suwako3a:This is Gensokyo's problem, you don't need to worry about it.
+
+Suwako0a:You're a god, so I'm sure you're already busy enough with Makai.
+
+Shinki0c:Thank you, Suwako. But I'm worried about the people here.
+
+Shinki0a:Oh, I know, I can just extend my vacation here a bit.
+
+Alice2b:What do you mean, extend it?
+
+Yumeko3a:It means she wants to be on standby to help out at a moment's notice.
+
+Yumeko4b:But on that note, what about your job in Makai?
+
+Shinki0d:It'll be fine! I'll just make a body double to handle the simple tasks.
+
+Nitori2a:...That sounds a little fishy to me, but if you wanna help then you're always welcome.
+
+Byakuren3c:In any case, I'd love to have you stop by the temple today. We don't have much to offer you, but you're very welcome.
+
+Shinki0c:Ooh, I've always wanted to try a meal made from only tofu!
+
+Reimu1b:...Anyway, we're finally getting somewhere with the whole Mehko thing.
+
+Reimu1a:This time, let's make sure we catch her and drag this Makura lady out of hiding!
+
+Marisa2b:Yeah! I don't care what she's planning, we'll be ready for her.
+
+Marisa1a:We've resolved all the other incidents so far, and this'll be no different!
+
+<Code=(transition_out,c_black,45,0)>
+
+<Code=(demo_wait,30)>
+
+<end>
+
+<ChatID:10>---------------------------------------
+//Telop
+
+Sheep familiars continued to be found all across Gensokyo.
+
+The sheep shadows simply lurked out of view. Waiting.
+
+While it was an eerie sight, they never initiated any form of hostile action.
+
+However, the incident was secretly unfolding.
+
+In a place of respite, a repository for people's thoughts and feelings...
+
+In the humans' dreams.
+
+<end>
+
+<ChatID:11>---------------------------------------
+//裏の池に待機
+
+<nomove>
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Reimu0f:This pond is just a hot spring now, huh?
+
+Reimu0c:I've tried looking for Genji before. I hope he's doing well for himself after I let him go free.
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Marisa0c:This pond is just a hot spring now, huh?
+
+Marisa0a:Didn't you release that turtle you used to ride on here, Reimu?
+
+Reimu4a:Pretty much. Sometimes I stop by to check up on him. Wonder where he is and what he's up to these days...
+
+</Cond>
+
+<hide=all>
+
+Genji0a:Finally...
+
+</hide>
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Reimu0f:!
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Marisa2b:!
+
+</Cond>
+
+Reimu1a:I sense a presence. Is someone here?!
+
+</nomove>
+
+<pause>
+
+<nomove>
+
+<hide=all>
+
+Genji0a:...You've finally found me.
+
+</hide>
+
+Genji0a:I, Genji, have been watching everything you've done, Master.
+
+Genji0a:I know that in my absence, you've gained many companions and resolved many incidents.
+
+Genji0a:...But you're not the only one who's mastered the art of flying and combat.
+
+Genji0a:As an old man, I had thought I should stay retired and let you handle things on your own, but I suppose—
+
+Reimu5c:Never mind, I was just imagining it.
+
+Genji0a:Huh?! You can't hear me?!
+
+Genji0a:...Maybe that's for the best. I'm just a relic of a forgotten era. Showing up like this was but a whim of fate.
+
+Genji0a:But I will always support my master from the shadows.
+
+</nomove>
+
+<end>
+
+<ChatID:12>---------------------------------------
+//
+
+<end>

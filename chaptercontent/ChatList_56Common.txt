@@ -1,0 +1,1698 @@
+﻿○共通第五十六話「雪解けの神社
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: 1EP
+ 4: 3PP
+ 5: clear
+ 6: first battle (Seirensen)
+ 7: first battle (Murasa)
+ 8: first battle (Ichirin)
+ 9: first battle vs. Iku
+10: first battle vs. Baka
+11: lose
+12: ADVB
+13: first battle (Yugi & Parsee)
+14: first use of Cannon ball
+15-41: battle vs. Iku
+42-44: battle vs. Wriggle
+46-48: battle vs. Cirno
+49: omake
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=11,FROM=玄武の沢,TO=香霖堂,name=Animal Trail,icon=4>
+
+<BG=*bg_talk_Road_Spring,fade=0,color=1,title=*bg_Road,bgm=bgm_talk_aoki>
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+Korin2c:Phew, that was nerve-wracking.
+
+Akyu3c:I found it more than a little thrilling, myself. It's so different when it's just the three of us.
+
+Kosuzu3b:That's for sure. I was a little worried at first, though.
+
+Nazrin0a:Good work, everyone. You're improving every time.
+
+Sho3a:I could only see from the ground, but things seemed to be going smoothly from start to finish.
+
+Korin1b:Glad to hear it. Personally, I spent the whole time worrying that I'd lose control at any moment.
+
+Murasa1a:C'mon, have a little more faith in the Flying Granary, now that it's complete.
+
+Ichirin3c:Not only does it have its autopilot again, we upped the Buddhist reactor output too.
+
+Ichirin0a:It's finally back to peak performance.
+
+Korin0a:Still, not that I'm complaining, but you really don't mind teaching someone like me how to fly it?
+
+Korin2d:From what I hear, this ship's pretty important to you.
+
+Murasa3c:I'm willing to make an allowance for you all. We're comrades who've fought together.
+
+Murasa0a:Not only that, but bringing humans and youkai together like this was always Hijiri's dream.
+
+Korin1b:I see. Well, I'm certainly not going to look a gift horse in the mouth.
+
+Sho3c:In that case, why don't we take the ship out again for a trip to the Hakurei Shrine?
+
+Sho3a:We had plans to gather up there before heading out to Youkai Mountain.
+
+Akyu3a:Oh, that's right, the kappa are holding that bazaar of theirs today.
+
+Korin0d:Doesn't that sort of thing excite you as a dowser, Nazrin?
+
+Nazrin3d:Oh yeah, I'm pumped.
+
+<MAP=11,FROM=博麗神社,TO=博麗神社,name=Hakurei Shrine,icon=1>
+
+<BG=*bg_talk_Shrine_Spring.png,fade=0,color=1,title=*bg_Shrine,bgm=bgm_talk_aoki>
+
+Reimu0c:Ah... what a nice day...
+
+Reimu0c:Why ruin it by exerting ourselves?
+
+Sanae0a:You'll catch a cold if you fall asleep there, Reimu.
+
+Marisa0a:If you don't get eaten by a youkai first.
+
+Youmu4a:The wind's still chilly, so why don't we head inside?
+
+Keine0b:Don't get too comfortable, girls, we're heading out later.
+
+Alice0b:The meeting's at noon, so shouldn't you be getting ready?
+
+Reimu4a:Fine, fine, but not many people are showing up, are they?
+
+Reimu4a:It's just you all and...
+
+Suika1a:Heeey! Got anything to snack on?!
+
+Yuyuko1a:Reimu, would you be a dear and fetch me some tea?
+
+Reimu3a:Ugh, fiiine.
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+Remilia0e:I see someone's slacking. I'm also in the mood for some red tea now.
+
+Sakuya5b:I'm afraid I left the tea set back at the manor.
+
+Komachi1c:Been a while since I visited the world of the living. It's so nice and chill here. That's good for my health.
+
+Reimu0e:Wow, we're getting a whole crowd now.
+
+Meiling0c:Are we late? It took a while to get everyone ready.
+
+Elliy3b:We had nothing better to do, so we came along for the ride!
+
+Marisa0d:You're right. I can't imagine you having anything better to do. So are you gonna be okay in the daylight Flan?
+
+Flan3f:Uh-huh. Haven't I gotten good at holding a parasol by myself?
+
+Patchouli3a:A kappa bazaar... What a fascinating event.
+
+Patchouli3b:I've read about it, of course, but this will be my first time visiting it in person.
+
+Sanae0d:Our shrine is helping out this year, so it'll be a bigger event than usual.
+
+Sanae0a:We've been advertising in the human village instead of just the mountain this time.
+
+Koakuma3b:The Moriya gods are lending a hand, huh?
+
+Reimu4a:Apparently. I'm sure that's why they invited us all.
+
+Keine6c:Come to think of it, this is the first time we've met up like this since the incident.
+
+Keine0a:To think we wouldn't be able to go on day trips like this if we hadn't stopped Utsuho...
+
+Suika0a:At least the foothills are recovering. And nowadays Yuugi and the other Underworlders can visit the village without causing a huge scene.
+
+Youmu4a:Things have become so peaceful here, little by little.
+
+Youmu3a:I am worried that we haven't been able to find Shiro though...
+
+Marisa3a:Shiro...
+
+Sanae0b:No one's seen a trace of it since then.
+
+Sanae1e:We've even asked around the village, but haven't found a single lead.
+
+Remilia1d:Sakuya and I have a done a little investigating of our own.
+
+Reimu0e:Really? Didn't think you'd be interested in that sort of thing.
+
+Sakuya5c:The mistress got bored before we found anything though.
+
+Meiling0a:Is Yuuka the only one with even the slightest clue who we're dealing with?
+
+Alice0b:Maybe so. I haven't seen her since winter though.
+
+Marisa0d:This is your time to shine, Elly. Aren't you her henchmen or something?
+
+Elliy1a:What do mean "or something"?! But, uh, we haven't heard anymore than the rest of you. All we know is that she knows Shiro and the mastermind.
+
+Sakuya5b:I expected as much. But you do live with her, don't you?
+
+Kurumi1c:Well, sure, but she's never home, and she NEVER talks about herself!
+
+Elliy3b:In this season, I'm sure she's off looking at flowers somewhere!
+
+Reimu4a:So basically, you never got any details from her.
+
+Patchouli4a:To be fair, none of us expected anything from you two anyway.
+
+Koakuma4a:But as long as we don't know anything about who we're dealing with, they'll always have the initiative.
+
+Koakuma1c:And it's weird that she hasn't made any moves since then, too.
+
+Reimu0a:...
+
+Suika6a:I get why it bugs you, but what can we do?
+
+Yuyuko1c:If we can't see anything by squinting, then why not broaden our view instead?
+
+Komachi1c:Sometimes you just need a change of pace.
+
+<SE=se_Lily_SE.ogg,wait=0>
+
+<Code=(demo_wait,45)>
+
+Marisa0e:Hey, that sound...
+
+LilyW0a:We're here, everyone!
+
+Flan3e:Oh, it's Lily. And... Sunny, right?
+
+Sunny3b:Sorry we're late, Luna was being a goof.
+
+Luna1a:Well, excuuuse me. You're the one who overslept.
+
+Luna0a:Wait, why's everyone look all serious?
+
+Reimu4a:It's nothing. We were just talking.
+
+Letty4a:It must've been an unpleasant topic then.
+
+Keine5a:You're here too, Letty? It must be tough for you, given the season.
+
+Letty3c:It's fine, the snow hasn't melted yet. More importantly, is Cirno not here?
+
+Remilia3a:Not yet, anyway. Wasn't she always with you though?
+
+Daiyosei0b:She didn't show up to the meeting spot. We're also missing Rumia and the others...
+
+Star3c:Well, I told Mystia that we were all going to the bazaar.
+
+Kurumi6a:You did?
+
+Star3d:Yeah, when we were at her stall.
+
+Marisa0e:...Sure, but it's Mystia we're talking about. She probably forgot all about it over the next three seconds.
+
+Elliy3a:Well, the Palanquin Ship isn't here yet either, so why don't we just wait a little longer?
+
+<MAP=11,FROM=神社に続く小道,TO=神社に続く小道,name=Animal Trail,icon=5>
+
+<BG=*bg_talk_Road_Spring.png,fade=1,color=1,title=*bg_Road,bgm=bgm_talk_gag>
+
+Wriggle3b:So you're saying now's our chance for the ultimate prank?
+
+Cirno5b:Yeah! I just saw Sakuya and the rest head to the shrine.
+
+Cirno5d:So we can prank them all in one fe- fel... felt swamp!
+
+Rumia3a:Fell swoop?
+
+Cirno5a:Yeah, that!
+
+Wriggle0c:I dunno... I'd feel better about this if Letty and Dai were with us...
+
+Wriggle6a:Oh yeah, I haven't seen either of them at all today. Has anyone heard anything?
+
+Mystia0c:Not me!
+
+Wriggle3a:Okay then. Oh well.
+
+Rumia1a:So, why are they all at the shrine today?
+
+Cirno0a:All the grown-ups have been all serious and stuff these days. I bet they don't even play.
+
+Wriggle3d:Oh, I get it, so we're gonna cheer 'em up!
+
+Rumia0a:You always look on the bright side of things, huh Wriggle...
+
+Mystia3d:So anyway, we're playing at the shrine then?
+
+Cirno0b:Yeah. So now that that's settled...
+
+Rumia0a:...Huh?
+
+<nowindow>
+
+<SE=se_talk_kasakasa02.ogg,wait=1>
+
+<single>
+
+<hide=all>
+
+</nowindow>
+
+Iku4a:...No sign of her. Where could she have gone?
+
+Iku4c:I had hoped to find her before noon so I could enjoy the rest of my day, but I suppose it won't be that easy.
+
+</hide>
+
+</single>
+
+Wriggle0b:Who's that? Never seen her before.
+
+Cirno0a:Her clothes are all fluttery... looks like she'll be fun.
+
+Cirno3a:Hey, what're you doing?
+
+<hide=name>
+
+Iku0c:Hm? What have we here?
+
+</hide>
+
+Mystia3a:...
+
+<hide=name>
+
+Iku3a:...
+
+Iku5d:No, of course not. Even the eldest daughter wouldn't be running around with a gang of young youkai.
+
+Iku3a:Sorry for bothering you. Now if you'll excuse me.
+
+</hide>
+
+Mystia2a:Hey! Don't just stare at someone and then leave!
+
+<hide=name>
+
+Iku0d:Do you have some business with me then? I'm afraid I'm in something of a hurry.
+
+</hide>
+
+Wriggle6a:Business...? Are you not from around here?
+
+Iku3c:Oh, excuse me. I am Iku Nagae, an envoy of the Dragon Palace from heaven.
+
+Iku0a:I'm here looking for a young lady who ran off with a valuable treasure.
+
+Rumia1a:Heaven? Young lady?
+
+Iku5d:Indeed. I doubt you'd have run into her though.
+
+Mystia4a:Doesn't ring any bells, yeah.
+
+Iku3c:As I thought. Thank you anyway, though. Now if you'll excuse me.
+
+Cirno2c:Geez! Stop treating us like we're useless!
+
+Cirno5b:If you're looking for someone, then I know just the spot!
+
+Iku1c:You do?
+
+Cirno5b:We were on our way to this place with TONS of people.
+
+Wriggle0d:Huh? You want to bring her with us?
+
+Cirno0b:C'mon, doesn't getting ignored make you mad? We gotta show her how awesome we are.
+
+Iku1a:A place with lots of people... That certainly piques my interest.
+
+Iku3b:Is it nearby?
+
+Rumia0a:Pretty much. It's the shrine over that way.
+
+Iku1b:A shrine on the surface? I assume you mean where the shrine maiden maintains the Great Barrier then.
+
+Iku3a:To tell the truth, I'm not very familiar with the terrestrial world, so thank you. Do you think you could guide me there?
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP（出撃前）
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Reimu1b:So all that's left are Cirno's friends and the temple group, right?
+
+Alice0d:They have the Palanquin Ship, so I'd expect them to arrive any minute now.
+
+<pause>
+
+Murasa4a:Sorry, we're a bit late.
+
+Korin1b:Looks like everyone else is here already, more or less.
+
+<nomove>
+
+<Code=(cursor_jump,304,352,0)>
+
+Marisa0d:Hm? Is that Kourin? You're up there on the bridge too?
+
+</nomove>
+
+Korin0a:Didn't I already tell you that they've been teaching me to fly this thing?
+
+Ichirin0a:So is this everyone coming to the bazaar with us?
+
+<nomove>
+
+<Code=(cursor_jump,304,352,0)>
+
+Daiyosei4a:No, Cirno's still not here yet...
+
+</nomove>
+
+<pause>
+
+Cirno3a:See, here's the shrine!
+
+Iku0a:I see. There truly is quite a crowd gathered here.
+
+<nomove>
+
+<Code=(cursor_jump,304,352,0)>
+
+Youmu0b:Speak of the devil.
+
+Letty0c:Looks like she's brought a stranger along.
+
+</nomove>
+
+Rumia0a:Huh? Why are Dai and Letty here?
+
+<nomove>
+
+<Code=(cursor_jump,304,352,0)>
+
+Daiyosei0b:Uh, you didn't hear that we were all going to the bazaar together?
+
+Daiyosei0c:Isn't that why you're here, Cirno?
+
+</nomove>
+
+Wriggle0c:Bazaar? No one told me anything about that.
+
+<nomove>
+
+<Code=(cursor_jump,304,352,0)>
+
+Star1c:Mystia, I told you to tell everyone!
+
+</nomove>
+
+Mystia3d:Never looking back... ♪
+
+<nomove>
+
+<Code=(cursor_jump,304,352,0)>
+
+Luna6b:Yup, she totally forgot.
+
+</nomove>
+
+Wriggle3c:But it does sound fun. Are we going with Reimu and the others then?
+
+Cirno4c:Yeah, it does... But I was all ready to play a prank and everything...
+
+Cirno2b:Okay, got it! We'll defeat all of you and THEN go to the bazaar together!
+
+<nomove>
+
+<Code=(cursor_jump,304,352,0)>
+
+Daiyosei4a:Wait, how does that work?!
+
+</nomove>
+
+Cirno4a:Sorry, Dai. Sometimes a fairy just can't back down.
+
+Rumia1a:If we win, we'll take the shrine's donations as an allowance!
+
+Mystia3b:Ooh, that's a good plan!
+
+<nomove>
+
+<Code=(cursor_jump,304,352,0)>
+
+Reimu1a:You think I'd let you get away with that?!
+
+Marisa0c:C'mon, it's been a while since we've dealt with a danmaku prank like this. Why not just go along with it?
+
+</nomove>
+
+Iku4c:Oh dear. I'd been hoping to avoid any commotion.
+
+Mystia1a:Well now that you're here, you should help us out!
+
+Iku1d:Hmm...
+
+<nomove>
+
+<Code=(cursor_jump,304,352,0)>
+
+Sakuya5b:I don't know who you are or what you're doing here, but you really don't have to play along with this, you know.
+
+</nomove>
+
+Iku5d:No, I DO owe these children a debt of gratitude for guiding me here.
+
+Iku1d:And most importantly, I've read the mood. I'm in.
+
+<nomove>
+
+<Code=(cursor_jump,304,352,0)>
+
+Patchouli4a:I'm not sure what she means by that, but it looks like we're fighting her.
+
+Keine0b:Oh well. Now that it's come to this, we might as well join in.
+
+Keine0a:These may be familiar opponents, but it's been a while since we had a full blown danmaku battle. Make sure our preparations are in order.
+
+</nomove>
+
+Akyu3a:Obviously we'll need to review our formation, but don't forget to check your skills and equipment too.
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP（出撃後）
+
+Cirno5b:Ready?
+
+Flan3d:Ready!
+
+Iku3a:You call it a prank, but you're willing to wait for your opponents to ready themselves?
+
+Mystia3c:It's like, you know. Read the mood.
+
+Murasa3b:A danmaku battle with everyone, huh? It makes me want to stretch my legs too.
+
+Unzan0a:...
+
+Ichirin1c:Yeah, Unzan wants to expand too. Let's head to the front.
+
+<Cond=(CHECK_FLAG,SC_AKYU,==,1)>
+
+Kosuzu6b:Wait, what about the ship?
+
+Nazrin0a:What do you think you two have been practicing for? This is your big chance.
+
+Murasa3c:And since we're only up against Cirno, it could make a good test run.
+
+Korin2d:Good grief, I never thought I'd actually be made acting captain.
+
+Kosuzu3b:I'll be supporting you, so let's do our best, okay?
+
+</Cond>
+
+<Cond=(CHECK_FLAG,SC_NOAKYU,==,1)>
+
+Akyu2b:Hold on, what about the ship then?
+
+Nazrin0a:What do you think you two have been practicing for? This is your big chance.
+
+Murasa3c:And since we're only up against Cirno, it could make a good test run.
+
+Korin2d:Good grief, I never thought I'd actually be made acting captain.
+
+Kosuzu3d:I'll be supporting you, so let's do our best, okay?
+
+</Cond>
+
+Ichirin1b:You hear that, Murasa?
+
+Murasa1b:Yeah! Minamitsu Murasa and Ichirin Kumoi are heading out!
+
+<end>
+
+<ChatID:3>---------------------------------------
+//1EP（没）
+
+Korin1b:I've never seen fairy danmaku from so close-up before...
+
+Marisa0c:Do you know how to deal with it, Kourin?
+
+Korin0d:Of course. You've told me all about it exhaustively. First—entering the enemy's danmaku field lowers your evasion, defense, and movement.
+
+Korin0a:You can ignore that by shifting into focus mode, but in exchange you'll take graze damage even when you dodge.
+
+Alice0d:But watch out even focusing won't stop any special danmaku effects.
+
+Korin0d:And you can erase the fields by either defeating the enemy or using a bomb, right?
+
+Ichirin3c:You really did your research, huh? Sounds like you'll be fine.
+
+Korin0c:There's a big difference between theory and practice though. I'll just have to try it out.
+
+<end>
+
+<ChatID:4>---------------------------------------
+//3PP（またはその前に衣玖撃墜）
+
+<Cond=(LOCAL_VAR,ObjControl,num_of_turns,<,3)>
+
+Iku1c:Not bad at all.
+
+<pause>
+
+Korin1c:I see, looks like ordinary methods won't work.
+
+</Cond>
+
+Ichirin3a:How's the ship doing, you two?
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Kosuzu0a:No problems. Thanks to the autopilot, we can operate just like before.
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Akyu3a:No problems. Thanks to the autopilot, we can operate just like before.
+
+</Cond>
+
+Korin0d:I think I'm starting to get the knack for these danmaku battles too.
+
+Murasa1a:Great! Then sounds like we can leave the ship to you whenever we deploy.
+
+Korin1b:And obviously I'll try to work with you as much as possible.
+
+Ichirin3c:Okay, so we'll be asking you to switch with Murasa in the future.
+
+Kosuzu0a:I'm an operator too, so I'll do what I can to—
+
+Kosuzu0a:Wait...
+
+Korin0b:What's wrong, Kosuzu?
+
+Kosuzu2a:I'm getting a radar reading. If I'm not mistaken, this is...
+
+<nomove>
+
+<hide=all>
+
+<Code=(cursor_jump,176,384,1)>
+
+Yamame3a:Yo! Sure is lively up here, huh?
+
+</hide>
+
+<pause>
+
+Kisume3c:Are you all playing danmaku?
+
+Parsee0d:I'm so jealous of how well you all get along!
+
+Koakuma1a:Whoa, Underworlders?
+
+Suika3d:Hey, it's Yuugi. What'd you bring the whole gang for?
+
+Yugi1a:Eh, we have a little business up here, so we came over to talk about it.
+
+Yugi0a:But I'm guessing this isn't the best time for that.
+
+Flan3c:We're in the middle of a game of danmaku! You girls wanna join in?
+
+Yugi1b:Hmm. We didn't come here just to hang out, but I'd never turn down an invitation!
+
+Parsee0a:Hey, have you ever considered LOOKING before you leap into things?
+
+Yugi2a:YOU take a look, Parsee. They've got someone interesting with them.
+
+Yugi0a:Hey, you! It's time for the ultimate showdown between heaven and earth! You in?
+
+Iku5b:Huh? ...Oh, yes. As you say.
+
+Yugi3e:There, see?
+
+Parsee2a:What do you mean "see?" At least have a proper conversation with her!
+
+Mystia5a:What do we do? It looks like Yuugi's joining the other side...
+
+Wriggle5b:Then we should get Yamame and Kisume, right?
+
+Yamame3c:What are you talking about? This is the perfect chance to put your scrawny butt through boot camp.
+
+Yamame1a:You'll need a lot of work before you're fit to be called the leader of the surface bugs.
+
+Kisume1a:If that's what Yamame wants, then I'm gonna help her out!
+
+Wriggle5c:Eeek!
+
+Rumia3a:Don't be a coward! CHAAARGE!
+
+<end>
+
+<ChatID:5>---------------------------------------
+//クリア
+
+Yuyuko0a:We finally got them all.
+
+Reimu0a:There's no way I'm losing a battle with my donations on the line.
+
+Keine0a:I'm sure Cirno has learned that the hard way by now.
+
+Cirno0a:Oof, guess we lose.
+
+Rumia0a:There's goes our spending money for the bazaar...
+
+Letty0a:No need to look so down. I'd be willing to give you a little pocket money.
+
+Cirno0a:What?! Really?!
+
+Nazrin0a:It's good to look out for people, but it looks like this is becoming routine for you.
+
+Letty0a:They don't get a chance like this every day, you know. I don't want them to feel like they can't do anything there.
+
+Yugi0a:You're heading out then? But there's something we need to talk about before that.
+
+Keine0a:Oh that's right, you said you had some business here.
+
+Keine0a:I'd like to hear what you're doing here as well, ma'am.
+
+Iku0a:Very well. It won't take long.
+
+Sho0a:Alright then, let's go inside.
+
+<end>
+
+<ChatID:6>---------------------------------------
+//初戦闘（聖輦船）
+
+Korin0b:I suppose this will be my first danmaku battle.
+
+Kosuzu0a:Don't worry, the ship takes care of all the tricky stuff automatically.
+
+Akyu0a:You can just concentrate on making judgment calls and issuing orders, Rinnosuke.
+
+Murasa0a:Here's my tip: you'll sound like a proper skipper if you just say things with an authoritative yell.
+
+Ichirin2b:Is that really all it takes, Murasa?
+
+Korin0a:If that's the trick, I'll give it a shot.
+
+Korin1a:All hands, prepare to fire! We're beginning danmaku combat!
+
+<end>
+
+<ChatID:7>---------------------------------------
+//初戦闘（村紗）
+
+Murasa3a:Fighting on the front lines, huh? Can't wait to show my stuff.
+
+Murasa3c:It's got my ship phantom blood boiling.
+
+Ichirin1b:You do understand how dangerous this is, right?
+
+Murasa3d:Don't worry, I'll be careful not to get into any dicey situations.
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Kosuzu3d:Rinnosuke and I will cover you from the ship. Let's begin our combined assault!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Korin0a:We'll be covering you from the ship as well. Let's begin the combined assault.
+
+</Cond>
+
+Murasa1a:Yeah! Time to show everyone the power of me and the completed Palanquin Ship!
+
+<end>
+
+<ChatID:8>---------------------------------------
+//初戦闘（一輪）
+
+Unzan0a:...
+
+Ichirin0a:You must've been feeling so cramped all this time, Unzan. But now we can finally stretch our legs.
+
+Sunny0d:"We"? So you mean...
+
+Ichirin3c:Unzan and I are always together. Even in battle.
+
+Ichirin1b:If anyone lets their guard down thinking I'm alone, they're going to eat a fist to the face.
+
+Elliy1a:That's our nyudo-user! Two hearts beating as one!
+
+Sho3d:And Unzan's quiet too, so you don't have to worry about him yelling right in your ear every time you dodge.
+
+Nazrin4a:Uh... What are you talking about, Master?
+
+Ichirin1b:It's time to show off our perfect harmony!
+
+<end>
+
+<ChatID:9>---------------------------------------
+//衣玖と初戦闘
+
+Iku0e:So far I don't see the eldest daughter around.
+
+Iku0a:However, with so many present, surely SOMEONE knows something.
+
+Akyu0a:Are you talking to yourself? I can't quite make out what you're saying.
+
+Elliy1b:You came here with Cirno, but who are you, exactly?
+
+Iku0a:I am Iku Nagae, an envoy of the Dragon Palace from heaven. I've come to the terrestrial realm on some business.
+
+Komachi2b:An envoy of the Dragon Palace? Why would someone like that be down here?
+
+Reimu1b:You know what that is?
+
+Komachi0a:They're a kind of youkai that lives in the sea of clouds. They hardly ever come down to the surface.
+
+Komachi0b:And when they do, it's to deliver the warning of the dragon god that there's going to be a huge earthquake.
+
+Kurumi6a:An earthquake?!
+
+Iku0a:Don't worry, that's not what I'm here for today.
+
+Iku0a:But this isn't exactly the right atmosphere for a pleasant chat, so let's continue this later.
+
+Youmu0b:I can't tell if she's being sporting or not...
+
+Marisa0a:Either way, if we're going to fight we might as well enjoy it!
+
+<end>
+
+<ChatID:10>---------------------------------------
+//バカルテトと初戦闘
+
+Cirno1a:Let's show them our spirit, girls!
+
+Wriggle1a:You can count on me!
+
+Mystia1d:Fiiire!
+
+Rumia0a:I'm hungry!
+
+Meiling0c:They're sure fired up. They must really want that money.
+
+Rumia3a:Nah, there's probably not much anyway.
+
+Sanae0g:Adding our branch shrine might even double it.
+
+Reimu2b:Really, people?
+
+Daiyosei5e:But maybe Cirno was actually worried about us.
+
+Daiyosei5f:Everyone looked down, so she's playing a prank to cheer us up.
+
+LilyW0a:If YOU think so, Dai, then maybe there's something to it.
+
+Patchouli4e:That's all well and good, but I think I'd have preferred a back rub.
+
+Sakuya6a:Well, let's try to let them succeed at that, shall we?
+
+<end>
+
+<ChatID:11>---------------------------------------
+//敗北時
+
+Korin3a:Gwaaah!
+
+Marisa2b:Kourin!
+
+Korin2a:I should have known I wasn't cut out to be acting captain.
+
+Korin3a:Now I could see myself getting entangled in a romantic affair on a supply ship or letting a child act as ship captain...
+
+Ichirin5a:You're kind of losing me. Are you complaining?
+
+Korin1a:And what's wrong with that? The rest of you have it good. You can just continue if you feel any sympathy.
+
+Akyu3c:Now now, let's just take this from the top.
+
+<end>
+
+<ChatID:12>---------------------------------------
+//ADVB
+
+<MAP=11,FROM=博麗神社,TO=博麗神社,name=Hakurei Shrine,icon=1>
+
+<BG=*bg_talk_Shrine_Spring.png,fade=0,color=1,title=*bg_Shrine,bgm=bgm_talk_ningyo>
+
+Wriggle2b:Oof, that hurt.
+
+Yamame3c:You're the ones who started it, aren't you? You're lucky we let you off with just that.
+
+Kisume3c:But it was pretty cool seeing all four of your personal danmaku at once.
+
+Kisume0a:It'd make something incredible if you combined them all together.
+
+Cirno5b:Heh heh, with my ice, Rumia's darkness, Wriggle's bugs, and Mystia's songs...
+
+Rumia3a:It's all you can eat!
+
+Mystia3d:That's fine for a special move. You should join in too, Dai!
+
+Daiyosei4d:Who, me? Wouldn't I mess it up...?
+
+<single>
+
+Parsee0a:We came all the way up here just to ask something, so why'd you make us do all this "moderate exercise"?
+
+</single>
+
+Iku0d:Isn't moderate exercise a good thing?
+
+Elliy4b:You're asking for trouble if you interject with her. Please wait warmly. Maybe lukewarmly.
+
+Reimu0f:Anyway, why don't we hear you out first?
+
+Iku3a:Very well. Once again, my name is Iku Nagae. I came to the terrestrial realm to look for someone.
+
+Sanae0g:May I ask who?
+
+Iku0b:Her name is Tenshi Hinanawi. She's a rather infamous young lady from heaven.
+
+Iku4c:She's always been something of a unruly child, but this time she was apparently tired of having nothing to do in heaven and left entirely.
+
+Sunny1c:So, uh, what was heaven again...?
+
+Yuyuko1a:It's a world inhabited by ghosts who've achieved Nirvana, as well as those who become celestials through ascetic training.
+
+Yuyuko1c:It's bigger than the Netherworld, and I hear the view is quite nice too.
+
+Marisa1c:So what'd you come all the way here for...?
+
+Iku4a:Because the eldest daughter, or rather Lady Tenshi Hinanawi, took a heavenly treasure, the Sword of Hisou, and left.
+
+Iku3a:And since I happened to available at the time, the task of retrieving her fell to me.
+
+Nazrin4c:So you got the job no one else wanted?
+
+Patchouli4c:I'd recommend ditching this "Eldest Daughter" for your own sanity, but I suppose that's not an option.
+
+Akyu3e:I'd love to help, but unfortunately there haven't been any reports of such a person in the human village.
+
+Kosuzu0a:I haven't been hearing any rumors or anything either.
+
+Parsee0a:Ditto in the Underworld, obviously. It isn't exactly the kind of place a high and mighty celestial would deign to visit.
+
+Iku4a:I see. I had hoped I could find some sort of clue here, but...
+
+Yugi4a:Looking for someone sounds like such a pain. I wish I could say I wasn't in the same boat though.
+
+Suika0a:What, you're looking for someone too, Yuugi?
+
+Yugi0d:Yeah, that's why we're here.
+
+Parsee0a:It's Satori's sister, Koishi. You girls know her, right?
+
+Parsee0a:No one's seen her around for a while now.
+
+Flan0b:Isn't she just wandering around like before then?
+
+Meiling1b:Plus, with her power no one would notice her, right?
+
+Kisume0b:That's true, but the situation's a little different this time.
+
+Yamame0d:Until now she'd always pop up out of nowhere, but at least we SAW her.
+
+Yamame0b:Like, she'd suddenly start talking to you, or suddenly appear in your room...
+
+Kisume4a:But recently, no one's seen her at all.
+
+Marisa1b:She vanished without a trace, huh? That does seem odd.
+
+Luna4b:So she ran away from home?
+
+Yugi1g:That's our best guess, anyway. So, any of you surface folks know anything?
+
+Youmu0a:Hmm, we haven't seen her either...
+
+Alice0a:Have you asked Satori about this?
+
+Parsee0d:Of course we have! But she won't give us a straight answer.
+
+Parsee0a:I guess she doesn't want outsiders getting involved in household matters.
+
+Marisa4a:What do you expect? She's always been like that.
+
+Keine0c:Hearing that does sound worrying though.
+
+Meiling0a:Would you mind if we helped you look for her?
+
+Kisume3b:Really? I mean, if you're offering...
+
+<SE=se_sys_sukima01.ogg,wait=1>
+
+Yukari0a:I see. So that's why she would come to the surface.
+
+Parsee0d:Whoa, geez, you scared me!
+
+Yugi1a:Yukari, huh? Hope you don't mind us popping by real quick.
+
+Iku0d:Yukari... You're the Youkai Sage?
+
+Yukari1a:Indeed I am, heavenly office worker. Although I should add that you're most welcome here. You've made quite a journey.
+
+Reimu4a:So if you're popping out now, can we assume that you've been eavesdropping all this time?
+
+Ran6a:Lady Yukari merely wished to avoid interrupting the conversation.
+
+Chen3d:So a celestial and Koishi... We haven't seen either of them.
+
+Yukari0b:Yes. And neither matter can afford to be left alone.
+
+Yukari0a:We're still in the midst of another investigation, but I'd hope we can keep our eyes peeled for all three at once.
+
+Yamame4a:You're talking about Shiro? Still no leads, huh.
+
+Ran6c:Yes, we plan to continue our surveillance.
+
+Sakuya0b:But for now, Koishi and the celestial are more urgent.
+
+Sakuya5b:Not that we have any leads for them either...
+
+Iku4c:Yes, it's quite the conundrum.
+
+Marisa0a:How about we head to the bazaar then?
+
+Iku3a:Bazaar? Oh yes, I believe you mentioned that earlier?
+
+Sanae4a:The kappa hold it at the mountain to sell their devices.
+
+Sanae0a:This time they're combining it with a flea market, so we're expecting a bigger turnout than usual.
+
+Iku3b:I see. Well, the eldest daughter certainly enjoys crowds.
+
+Yugi3a:And if there are a lot of people, maybe someone there has seen Koishi.
+
+Marisa0a:What are we waiting for then? Let's all head to Youkai Mountain.
+
+Koakuma3b:You learned to fly the ship, right Mr. Kourindou? Can I watch from up close?
+
+Patchouli0c:I don't care if you're still a trainee. If you rock the boat, I'll make you regret it.
+
+Korin2b:Goodness gracious. Go easy on me, would you?
+
+<end>
+
+<ChatID:13>---------------------------------------
+//勇儀＆パルスィ
+
+Yugi3a:Hell yeah, fight time!
+
+Parsee0a:Just don't get tunnel vision, okay? I'm here too, remember?
+
+Yugi3d:I know, I know. I'll make sure you get some time to shine.
+
+Kurumi0a:Some time for Parsee to shine? I thought the danmaku you used before was everything you had.
+
+Parsee0a:Excuse me, I just wasn't properly prepared last time. Some of these moves need props, you know.
+
+Parsee0a:But this time I'm ready to fan the flames of jealousy by any means necessary!
+
+Elliy1b:Uh, glad to see you're so into it, but, uh, is this really gonna be okay? Are you gonna make someone go mad with jealousy?!
+
+Yugi1a:Hah hah hah!
+
+Elliy2a:Why are you laughing?! It's not funny!
+
+Parsee2a:I'm jealous of EVERY damn thing up here! Everyone, become consumed with envy!
+
+<end>
+
+<ChatID:14>---------------------------------------
+//ヤマメ＆キスメ
+
+Yamame0d:We haven't fought on the surface since Utsuho, huh?
+
+Kisume3c:...Where am I going to hang from?
+
+Yuyuko0a:As our acquaintances, there shouldn't be a problem with you fighting up here. But even so, you two do stand out.
+
+Yamame0a:Fine, fine, I'll try to hold back on the whole plague thing. Good thing we came up with another way to fight already.
+
+Youmu0a:Another way?
+
+Kisume2b:Y-Yamame... we're really doing that?!
+
+Yamame1b:You're the star here, Kisume, don't chicken out now!
+
+Yamame1a:Show them our burning Underworld spirit! Safely!
+
+<end>
+
+<ChatID:15>---------------------------------------
+//衣玖vs.霊夢
+
+Iku0e:So this is the Hakurei Shrine that manages the barrier... Have you considered reinforcing the building?
+
+Reimu1b:Huh? Why?
+
+Iku1b:Earthquake-proofing. You can tell at a glance that the structure is old.
+
+Iku1c:Although even if you did heed my warning, there's no guarantee you'd finish in time.
+
+Reimu0c:Eh, it'll be fine. If it comes, it comes. No need to worry too much about stuff like that.
+
+Iku4c:That's what the surface dwellers always say. Have they no sense of danger?
+
+<end>
+
+<ChatID:16>---------------------------------------
+//衣玖vs.魔理沙
+
+Marisa0b:Looks like you use electricity. Is that some kind of spell?
+
+Iku0a:No, I'm simply an envoy of the Dragon Palace.
+
+Iku0a:As a representative of the dragon god, calling forth lightning from the atmosphere is simple enough.
+
+Marisa4c:What I got out of that is that it's not easily imitated.
+
+Marisa0a:But it'd be so cool if I could pull it off. Show me some more, will ya?
+
+<end>
+
+<ChatID:17>---------------------------------------
+//衣玖vs.アリス
+
+Alice0a:Earthquakes, huh? I suppose I'll have to be ready for them if I'm living in Gensokyo.
+
+Iku0e:Have you never experienced an earthquake?
+
+Alice4a:I've heard of them, of course, but I wasn't raised here.
+
+Iku0a:Preparation is the foundation of disaster response.
+
+<end>
+
+<ChatID:18>---------------------------------------
+//衣玖vs.小悪魔
+
+Koakuma0a:Those lines!
+
+Iku0d:Lines?
+
+Koakuma3d:Your clothes show off your body lines so clearly! You need a lot of guts to wear an outfit like that!
+
+Iku5b:Uhh...
+
+<end>
+
+<ChatID:19>---------------------------------------
+//衣玖vs.パチュリー
+
+Patchouli0b:You said your job is to convey the words of the dragon god, correct?
+
+Patchouli0c:Are you really not here to warn us of a disaster?
+
+Iku0a:You needn't worry. I'm here on another matter entirely.
+
+Patchouli4f:So it's like seeing a typhoon change course right before it hits us.
+
+Patchouli4a:Just seeing you is enough cause for alarm. I'd like you to keep that in mind in the future.
+
+<end>
+
+<ChatID:20>---------------------------------------
+//衣玖vs.エリー
+
+Elliy2a:My oh my, my signature drill hair is surging with electricity!
+
+Iku0b:Is it, now?
+
+Elliy1a:So are you generating all that yourself? Does anyone ever ask you to try holding a light bulb or anything?
+
+Iku0b:Not really.
+
+Elliy2b:C'mon! What's with those half-hearted responses?! This is clearly a setup for putting yourself out there!
+
+<end>
+
+<ChatID:21>---------------------------------------
+//衣玖vs.くるみ
+
+Kurumi0a:I've heard of heaven before. Is it true you can eat all the peaches you want up there?
+
+Iku0a:Indeed. You can even eat them right off the trees and no one will say anything.
+
+Kurumi3b:Peaches for breakfast, lunch, AND dinner... I wish I could live there...
+
+Iku0c:We do have foods other than peaches too. Although perhaps not ones you'd want to eat.
+
+<end>
+
+<ChatID:22>---------------------------------------
+//衣玖vs.村紗
+
+Murasa0a:Those clothes of yours remind me of a fish.
+
+Murasa0a:I never saw one in my part of the ocean, but the envoy of the Dragon Palace is also a kind of fish, right? An oarfish.
+
+Iku0a:The humans must've named it that out of admiration for the Dragon Palace.
+
+Iku0e:Are you familiar with the ocean?
+
+Murasa3b:Eh, that was a long time ago. Now I know what it's like to swim in the sky too.
+
+<end>
+
+<ChatID:23>---------------------------------------
+//衣玖vs.一輪
+
+Unzan0a:...
+
+Iku0e:Interesting, you've brought an older youkai with you.
+
+Iku0b:I've never heard of a youkai who controls a nyudo though.
+
+Ichirin0a:I used to be human, and it just sort of ended up this way.
+
+Ichirin1c:Our bond is one-of-a-kind, so once you see us in action you'll never forget it!
+
+<end>
+
+<ChatID:24>---------------------------------------
+//衣玖vs.早苗さん
+
+Sanae0a:Those fluttery clothes remind me of a heavenly raiment.
+
+Sanae0g:So are the stories true? Would you get into a lot of trouble if you lost it?
+
+Iku0a:Yes, it's company property, so if we dirty it we have to provide a full written explanation of how it happened.
+
+Sanae0g:I was expecting fantasy, but that's surprisingly mundane...
+
+<end>
+
+<ChatID:25>---------------------------------------
+//衣玖vs.聖輦船（阿求）
+
+Akyu0a:The duty of an envoy of the Dragon Palace is to convey the words of the Dragon God, correct?
+
+Akyu0a:But disasters aren't happening constantly. Does that mean you have quite a lot of free time?
+
+Iku0a:Indeed. We have plenty of time to ourselves, but because of that we're often given other tasks.
+
+Iku0a:But I can understand. It's hardly fair if I'm the only one doing nothing.
+
+Akyu3c:So you find ways to stay busy during work hours.
+
+<end>
+
+<ChatID:26>---------------------------------------
+//衣玖vs.フラン
+
+Flan0b:So you're from heaven, huh?
+
+Flan3f:But I've already been somewhere heaven-ish before.
+
+Iku0d:Heaven-ish? You couldn't possibly mean...?
+
+Flan3b:The moon. It was a little too quiet though. No fun at all.
+
+Iku4c:...So there are still youkai who visit the moon. And it seems the Lunarians still imitate heaven.
+
+<end>
+
+<ChatID:27>---------------------------------------
+//衣玖vs.幽々子
+
+Yuyuko1a:An envoy of the Dragon Palace is one of THOSE, right? Good with soy sauce or grilled.
+
+Iku0b:I'm sure you're mistaken.
+
+Yuyuko0a:So if you're here, does that mean we can expect an earthquake?
+
+Iku0a:As I said earlier, I'm here on different business this time. You needn't worry about an earthquake.
+
+Yuyuko0a:Is that so? So I don't need to earthquake-proof the mansion?
+
+<end>
+
+<ChatID:28>---------------------------------------
+//衣玖vs.美鈴
+
+Meiling0c:Those movements... It's almost like you're reading my aura.
+
+Iku1a:That's my specialty, in fact. Even if you use qigong, I'll see right through it.
+
+Meiling5a:Then I'll have to attack directly. Hmm, a strike or a joint lock?
+
+Iku2a:...Please don't do anything painful.
+
+<end>
+
+<ChatID:29>---------------------------------------
+//衣玖vs.妖夢
+
+Youmu4a:So you're a visitor from heaven? Thanks you for coming all this way.
+
+Iku0a:Oh, not at all. I should thanking YOU for your hospitality.
+
+Youmu0a:Have you managed to clear up any room in heaven? I hear it's been quite crowded lately.
+
+Iku0b:I'm sorry, that's not in my jurisdiction. I would have to ask my superiors.
+
+Youmu0a:I feel like I've been skillfully deflected...
+
+<end>
+
+<ChatID:30>---------------------------------------
+//衣玖vs.萃香
+
+Suika3b:An envoy of the Dragon Palace, huh? So you're heading back to heaven when you're done here?
+
+Iku0a:Yes, as soon as possible.
+
+Suika3d:Cool, could you take me with you when you go? I've always wanted to try the sake of heaven.
+
+Iku0b:I don't have the authority for that. I'd suggest asking someone else instead.
+
+Suika6b:Someone else? All the higher-ups in heaven never come down here!
+
+Iku0b:Precisely. I'm afraid you'll have to let that idea go.
+
+<end>
+
+<ChatID:31>---------------------------------------
+//衣玖vs.小町
+
+Komachi3b:Heaven, huh? Hmm...
+
+Iku1b:You appear to be a shinigami.
+
+Iku1b:If you have any complaints about heaven, I suggest you direct them to the correct office—which isn't me.
+
+Komachi1c:Nah, I ain't one of those shinigami who there to claim lives.
+
+Komachi1b:They could stand to be a little nicer when colleagues visit, though.
+
+Iku4c:I'd prefer they refrain from rampaging in heaven.
+
+<end>
+
+<ChatID:32>---------------------------------------
+//衣玖vs.レミリア
+
+Remilia0a:I've heard of these "envoy of the Dragon Palace" fish from my bookworm. They're supposed to be highly rare.
+
+Iku0e:Rare? Well, I suppose we don't come down the surface often.
+
+Remilia1e:Watch out for Sakuya. She's always keeping an eye out for rare ingredients.
+
+<end>
+
+<ChatID:33>---------------------------------------
+//衣玖vs.咲夜さん
+
+Sakuya0a:I've heard of these "envoys of the Dragon Palace".
+
+Sakuya0a:Some sort of rare fish, was it?
+
+Iku0a:Something like that.
+
+Sakuya3b:Would you mind letting me have one of the ends of that veil? I've always got my eye out for rare ingredients.
+
+Iku0e:You want to cook something with my veil?
+
+Sakuya6a:Most things are edible when boiled or roasted.
+
+Iku4c:...I worry for your master's stomach.
+
+<end>
+
+<ChatID:34>---------------------------------------
+//衣玖vs.慧音
+
+Keine0a:An envoy of the Dragon Palace, hm? I've heard of those.
+
+Keine0a:They're reliable, so you can count on them to let you know when earthquakes are coming.
+
+Iku0a:Naturally. Of course, it's up to all of you to decide to heed my warning.
+
+Keine0a:You can't prevent a disaster simply by studying history, but what's most important is to be prepared.
+
+<end>
+
+<ChatID:35>---------------------------------------
+//衣玖vs.勇儀
+
+Iku0d:Are you... an oni? I didn't realize your kind were still in the terrestrial realm.
+
+Yugi0a:I'm not a surface oni, I came here from the Underworld.
+
+Yugi1a:I'm glad I did too, if I can run into interestin' folks like you up here.
+
+<end>
+
+<ChatID:36>---------------------------------------
+//衣玖vs.パルスィ
+
+Parsee0a:The way you carry yourself, and that fluttery raiment of yours...
+
+Parsee2a:I'm so jealous! It's nothing like my lowly life down in the Underworld!
+
+Iku0b:I wouldn't say so. The only difference is altitude.
+
+Parsee2a:And you're so open-minded too! Oooh, I hate it!
+
+<end>
+
+<ChatID:37>---------------------------------------
+//衣玖vs.星
+
+Sho0a:It sounds like you've come from heaven, but why were you with Cirno and her friends?
+
+Iku0a:I'm just going with the flow. We met up on the road by coincidence.
+
+Sho0c:Oh, I see.
+
+Iku0a:And thanks to the flow of conversation, they ended up guiding me to the shrine.
+
+Sho0a:And that flow within a flow led you to helping them with their prank...?
+
+<end>
+
+<ChatID:38>---------------------------------------
+//衣玖vs.ナズーリン
+
+Nazrin0a:A Messenger of the Dragon Palace, huh? Thank you for your service.
+
+Nazrin0a:But what from what I've heard, you're not here to deliver the words of the Dragon God, are you?
+
+Iku1a:That can come later. For now, I'm going with the flow and pranking you.
+
+Nazrin6b:So you can even flow with fairies when you want to? Not half bad.
+
+<end>
+
+<ChatID:39>---------------------------------------
+//衣玖vs.リリー
+
+LilyW0d:Miss Iku, is it true that you go around giving people bad news?
+
+LilyW0a:Because I do something similar. I go around telling people that spring is here.
+
+Iku0c:I see... I suppose good news needs to be delivered too.
+
+Iku0b:Personally, no one's ever glad to see me. It's to be expected though, so I don't mind.
+
+<end>
+
+<ChatID:40>---------------------------------------
+//衣玖vs.大妖精
+
+Daiyosei5f:I'm so sorry Cirno roped you into her prank.
+
+Iku0a:You needn't worry. The people I normally deal with are even more forceful.
+
+Daiyosei5e:Wow, you're so mature... Celestial maidens sure are amazing...
+
+<end>
+
+<ChatID:41>---------------------------------------
+//衣玖vs.聖輦船（霖之助）
+
+Korin0a:A envoy of the Dragon Palace? I've heard the rumors, but this is the first time I've seen one.
+
+Korin0a:She's got something of a mature, angelic air about her.
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Kosuzu2a:Don't let that fool you, Mr. Kourindou!
+
+Akyu1a:Envoys like her normally only appear on the surface to warn us of disasters.
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Akyu2a:Don't let her appearance fool you, Mr. Kourindou!
+
+Akyu1a:Envoys like her normally only appear on the surface to warn us of disasters.
+
+</Cond>
+
+Korin0b:It's not every day that we can run into a celestial maiden on earth though... It's a tough world.
+
+<end>
+
+<ChatID:42>---------------------------------------
+//リグルvs.ヤマメ
+
+Wriggle6a:Were you serious about that boot camp thing?
+
+Yamame1c:Of course I was. Gonna chicken out now?
+
+Yamame5c:Just look at it this way I'm expecting great things from you. Now get ready for some pain!
+
+Wriggle5c:Eeep...!
+
+<end>
+
+<ChatID:43>---------------------------------------
+//リグルvs.キスメ
+
+Wriggle0c:I can't believe you're on Reimu's side too, Kisume...
+
+Kisume2b:Look, I mean, Yamame said we were...
+
+Kisume3d:Plus, I wanted to play with you too, Wriggle.
+
+Wriggle3b:Really? That doesn't sound so bad then...
+
+<end>
+
+<ChatID:44>---------------------------------------
+//リグルvs.大妖精
+
+Daiyosei3b:I know it's a prank, but I can't believe I have to fight you all again...
+
+Wriggle4a:Sorry Dai. It's too late to back down now though.
+
+Wriggle3d:But you can switch to our side whenever you want.
+
+Daiyosei2a:I can't do that! That would mean betraying Reimu and the others!
+
+<end>
+
+<ChatID:45>---------------------------------------
+//
+
+<end>
+
+<ChatID:46>---------------------------------------
+//チルノvs.レティ
+
+Letty0c:A prank huh? You sure are lively.
+
+Cirno3a:Oh! Letty! Wanna be on our side?
+
+Letty0a:Sorry, today I'm on the other side with Daiyousei.
+
+Letty3c:It's nice to mix things up every now and then, isn't it?
+
+Cirno5a:Yeah, true. Then let's play danmaku!
+
+<end>
+
+<ChatID:47>---------------------------------------
+//チルノvs.三月精
+
+Sunny1a:The time has come for us to fight again, Cirno.
+
+Luna1a:The outbreak of the Second Great Fairy War!
+
+Cirno5b:Heh heh heh, but this time I've got 3 others on my side! We won't lose!
+
+Star1a:We may lose in numbers, but no one can beat our teamwork!
+
+<end>
+
+<ChatID:48>---------------------------------------
+//チルノvs.大妖精
+
+Daiyosei3b:Cirno, you said sometimes a fairy can't back down, right?
+
+Cirno0a:Yup. And I know you're not very big on the whole danmaku thing.
+
+Daiyosei3a:I'm not, but I do my best when I'm with you. How could you just leave me behind...?
+
+Daiyosei2b:Cirno you stupid-head! Just take my fire and melt!
+
+Cirno2a:Wha?! Sorry Dai! Anything but that!
+
+<end>
+
+<ChatID:49>---------------------------------------
+//おまけ会話（温泉）
+
+Youmu4b:Seems like the shrine's hot spring is still warm.
+
+Reimu0b:The vengeful spirit thing is over, but the geyser's still been going steady.
+
+Reimu0c:The Underworld seems to be doing fine regardless, so I was thinking it'd guarantee me some customers.
+
+Marisa0a:Have you thought about selling hot spring eggs and other goods to increase your profits?
+
+Sakuya0a:If you can get the tengu to write about it, you'll get some free advertising.
+
+Reimu0b:Good ideas, both of you. Maybe I should start by enshrining a hot spring god...
+
+Alice0b:Are you sure this is going to work out? You tend to get taken in by these schemes of yours.
+
+Sanae5b:You already let others do all the cleaning work. This does not bode well for your shrine's future...
+
+<end>
+
+<ChatID:50>---------------------------------------
+//霊夢、魔理沙換装追加時（ver.3.0.0.1追加）
+
+<Cond=(CHECK_FLAG,SC_REIMU,==,1) && (CHECK_FLAG,SC_MARISA,==,1)>
+
+Sanae0g:By the way, Reimu, what's with that outfit?
+
+Alice0a:You too, Marisa. What's going on?
+
+Marisa0a:Ah, you know how it is, my usual outfit's in the wash so I dug something up from the back of my closet.
+
+Reimu0b:It's hard to move like I'm used to, but there are some spells I can only use like this.
+
+</Cond>
+
+<Cond=(CHECK_FLAG,SC_REIMU,==,1) && (CHECK_FLAG,SC_MARISA,==,0)>
+
+Sanae0g:By the way, Reimu, what's with that outfit?
+
+Reimu0b:My usual's in the wash, so I picked an older one.
+
+Reimu0b:It's hard to move like I'm used to, but there are some spells I can only use like this.
+
+</Cond>
+
+<Cond=(CHECK_FLAG,SC_REIMU,==,0) && (CHECK_FLAG,SC_MARISA,==,1)>
+
+Alice0a:Oh? What's going on with your clothes, Marisa?
+
+Marisa0a:Ah, you know how it is, my usual outfit's in the wash so I dug something up from the back of my closet.
+
+Marisa0a:I can't really move like I'm used to, but I can use a bunch of different spells with it.
+
+</Cond>
+
+Kurumi0a:Huh. It feels kinda fresh, in a weird backwards way.
+
+Keine0a:In that case, be sure to use the best outfit for the situation.
+
+Keine0a:We'll leave the other one in the ship, so you can change whenever you want.
+
+<end>
+
+<ChatID:51>---------------------------------------
+//衣玖vs.天子
+
+Iku0e:Eldest daughter?
+
+Tenshi1d:Geh, really not looking forward to this conversation.
+
+Iku1c:I finally found you. Why would you steal the treasure and run?
+
+Tenshi5b:Ah, yeah, it's a long story, so, um...
+
+Tenshi1b:Geez, what a pain! If you've got a problem then defeat me!
+
+Iku4c:Ha... If you insist.
+
+<end>
+
+<ChatID:52>---------------------------------------
+//衣玖vs.衣玖
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Iku0e:Oh?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Iku0c:...Well then.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Iku1b:My very own look-alike? What tidings does this foretell?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Iku3c:Everyone knows doppelgangers are a bad omen. Do be careful.
+
+</nomove>
+
+<end>
+
+<ChatID:53>---------------------------------------
+//衣玖vs.まくら
+
+Makura1c:...
+
+Makura2a:(What was that voice I heard back then?)
+
+Makura2b:(And besides, on this journey, I...)
+
+Iku0e:Are you not feeling well?
+
+Makura0g:Oh, no, nothing like that.
+
+Makura0f:To think you'd worry about your opponent though...
+
+Iku4c:I just sensed an atmosphere of complete exhaustion from you.
+
+Iku3a:I'd recommend avoiding any unnecessary exercise.
+
+<end>
+
+<ChatID:54>---------------------------------------
+//衣玖vs.メーコ
+
+Meko0g:Lady Makura's been so down since then...
+
+Meko0f:Something seems a little off about her too...
+
+Iku4c:Hmm...
+
+Meko1b:Oh, sorry, just talking to myself!
+
+Iku0e:I see. Your face seemed so downcast I was about to ask how you were doing.
+
+<end>
+
+<ChatID:55>----------------------------------------
+//C56：衣玖vs.非想天則
+
+Iku0e:What a large youkai. But you seem gentle, somehow.
+
+Tensoku0a:...!
+
+Iku1a:You're asking how I knew? Reading the atmosphere is my specialty, after all.
+
+Iku0a:It's worth getting a read on you silent types.
+
+<end>

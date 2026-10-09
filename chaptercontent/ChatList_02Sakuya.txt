@@ -1,0 +1,695 @@
+﻿○咲夜第二話「揺れる月時計
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: player ally reaches the book
+ 3: enemy ally reaches the book
+ 4: player ally got 2nd books
+ 5: Marisa got 2nd books
+ 6: Resume
+ 7: defeat
+ 8: clear
+ 9: ADVB
+10: Sakuya_pl battle
+11: Alice battle
+12: Patchouli_pl battle
+13: Koakuma_pl battle
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<BG=bg_talk_Koumakan_Int.png,fade=0,color=1,title=bg_Koumakan_Int,bgm=bgm_talk_aoki>
+
+Sakuya0b:That finishes up the cleaning here. Next up is...
+
+Sakuya5c:...
+
+Sakuya5a:(The world outside the mansion...)
+
+Sakuya5c:(Those humans may have spoke to me about it, but I never thought Lady Yuuka would do the same.)
+
+Maid1a:Chief maid?
+
+Sakuya0b:What is it? Are you done with the cleaning?
+
+Maid0b:Ah, no ma'am! I have a message from Lady Patchouli...
+
+Maid0a:She wants two cups of tea sent to the library.
+
+Sakuya0b:...Alright. Tell her I'll be right there.
+
+<BG=bg_talk_Koumakan_Library.png,fade=0,color=1,title=bg_Koumakan_Library>
+
+<SE=se_Alice_nsoso01.ogg,wait=0>
+
+Shanghai0a:Shang.
+
+Hourai0a:Hou-rai.
+
+Alice4c:...And so, the evil magician was punished, and the girl returned to her peaceful everyday life.
+
+Alice0d:...Alright, bow.
+
+Shanghai0a:Shang-hai.
+
+Hourai0a:*bow*
+
+Alice4c:And that was the story of the evil magician and the girl from the forest. Thank you, everyone.
+
+<SE=se_talk_clap01.ogg,wait=1>
+
+Patchouli3e:That was superb. You do fine work.
+
+Alice0d:They ARE soul-string puppets. I've researched on how to use them this way too.
+
+Alice3b:Now, I believe our deal was for you to show me those magical stones in return?
+
+Patchouli3b:Right. Hold this and channel your magic into it.
+
+Alice3b:Let's see here...
+
+<SE=se_kyupin01.ogg,wait=0>
+
+<Code=(map_flash,1,30,c_white)>
+
+Alice0d:...It glows as you pour magic power into it. That's a fascinating property it has.
+
+Patchouli3a:Mm, it's a special type of stone that reacts to magical power. Releasing that energy as danmaku is the basis of the EASIS system.
+
+Patchouli4a:It's been an idea in my head for a while, but I couldn't get just the right stones for it. I had to send for them from Makai.
+
+Alice2b:Makai? No wonder.
+
+Patchouli0c:My, you don't seem very surprised at that.
+
+Alice0d:I lived in Makai before I came here.
+
+Patchouli3e:...Would that mean the grimoire that you're always carrying around is from Makai as well?
+
+Alice3b:Just so. Carrying this book with me makes me feel close to the people I used to be with.
+
+<SE=se_talk_knock02.ogg,wait=1>
+
+<SE=se_talk_door_open02.ogg,wait=1>
+
+Sakuya0b:Excuse me. I've brought your tea.
+
+Patchouli3e:Thank you. Leave it here.
+
+Alice0d:Thanks for the tea.
+
+Sakuya5b:Now this is an unusual visitor.
+
+Patchouli3c:Mm, she's my guest here. Unlike a certain constant black-and-white intruder, you won't need to run her off.
+
+Alice3b:I've been curious about this place for a long time now. Coming here and chatting has certainly been worth my while.
+
+Sakuya0b:I see. Please call for me again if you need anything.
+
+Alice2c:...?
+
+Alice0d:My, why not stay for some conversation? We haven't seen each other since the Flandre affair.
+
+Sakuya5a:I'm afraid I have work to do.
+
+Patchouli0a:...
+
+Alice4a:...Alright. Sorry for keeping you.
+
+Sakuya5a:...
+
+<SE=se_talk_door_close02.ogg,wait=1>
+
+<single>
+
+Alice0a:Is something wrong? Sakuya looks troubled.
+
+</single>
+
+Patchouli4a:Kind of. It's nothing you need to worry about.
+
+Alice2c:I see. I won't inquire any further, then...
+
+Alice0d:Ah, speaking of Sakuya, there was some talk about her before.
+
+Patchouli0c:Oh?
+
+Alice0a:Yes. You may not be the most fitting person to be saying this to as you aren't her employer, but...
+
+Alice0d:During the recent party, there was talk of finding work for Sakuya. She went with Keine to the village to see what was there.
+
+Patchouli4c:...Did Sakuya say that she wanted to work in the human village?
+
+Alice0c:No, the conversation just went in that direction. Keine thought that since Sakuya is human, she should get acquainted with the village.
+
+Alice0a:We were just talking about it, and we had no intention on pushing the issue, but...
+
+Patchouli4a:...Hmm.
+
+Alice4a:...I apologize. I suppose it was meddling on our part.
+
+Patchouli3a:Don't worry about it. I understand the point the teacher's trying to make as well.
+
+Patchouli3c:Let's have that tea, shall we? We should enjoy the lack of extra company.
+
+Alice2b:Extra company? You mean Marisa?
+
+Patchouli4c:Yes. She's always lurking around here, acting like she owns the place.
+
+Patchouli4a:Every time she comes, Koakuma treats her with pointless hospitality, which makes her feel right at home, much to my annoyance.
+
+Alice4a:...I know what you mean. Give her one cup of tea, and she always comes back for more.
+
+Patchouli4c:Exactly. I would leave it at that, but Koakuma takes everything very seriously, for better or for worse.
+
+Alice4a:Well, this IS Marisa. Give her an inch and she takes a mile...
+
+<Code=(map_shake,1,60,4)>
+
+<SE=se_bomb_long01.ogg,wait=0>
+
+Alice2a:...?!
+
+Patchouli1d:I know that shaking...
+
+Alice1c:What was that sound? Do you recognize it?
+
+Patchouli1c:You'll see if you step out. Come with me.
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP
+
+Sakuya2a:What was that noise just now?!
+
+Alice1b:Sakuya, you came back!
+
+Patchouli1c:Careful. I have a feeling I know exactly what this is.
+
+<pause>
+
+Marisa7a:Yo, I'm here.
+
+Alice1b:Marisa?
+
+Marisa7c:Hey Patchouli, I'm here to borrow that book for real today...
+
+Marisa0d:Huh, Alice and Sakuya are here too?
+
+Sakuya1b:Ah. The magician is back again.
+
+Patchouli4a:Yes. Her M.O. has become more and more outrageous.
+
+Alice1c:Again? So it's not only me you've been stealing books from, I take it.
+
+Marisa1d:Hey, don't besmirch my reputation. I'm just borrowing them for a little while.
+
+Patchouli1d:You never learn, do you? I've told you that you can't borrow them.
+
+Marisa7a:Heh, I knew you were gonna say that.
+
+Marisa1a:Alright you all, come on out!
+
+<pause>
+
+Sakuya0c:Lady Patchouli's grimoires...?!
+
+Alice2c:What's going on? How could Marisa be using them...?
+
+Marisa7c:Heh heh heh, I learned how to use them from her.
+
+<pause>
+
+<Code=(icon_set_direction,Koakuma,FD_RIGHT,0)>
+
+Koakuma2a:I'm so sorry, Lady Patchouli!
+
+Sakuya1b:Koakuma...?!
+
+Patchouli4d:You heard from her how to use it? So you mean...
+
+Sakuya5c:...You captured and interrogated her. I can't imagine a more deplorable act.
+
+Alice1a:So you've finally stooped to kidnapping? Or are you planning on using her as a hostage?
+
+Marisa1d:Look, this is Patchouli's fault for not sharing her books. Of course that would make me wanna resort to drastic measures.
+
+Marisa0a:Besides, I'm gonna release her now that I know how to control these familiars.
+
+<pause>
+
+<Code=(icon_set_direction,Koakuma,FD_LEFT,0)>
+
+Koakuma2a:*sniff* I was so scared...
+
+Patchouli1d:...Why did you tell her how to control them? You could've guessed that it'd turn out like this.
+
+Koakuma4a:*sniffle* She took my mug hostage. The one that makes a matching set with yours.
+
+Koakuma4b:And so I told Marisa how to use the grimoires through my tears...
+
+Patchouli4e:Matching...? We have others. You could have let her have it.
+
+Alice4a:What kind of hostage is a mug, anyway?
+
+Sakuya1d:Achieving your goals no matter what depths you have to sink to... Such a human way of thinking.
+
+Marisa7a:It's better for these books to be used by me. Otherwise they just sit here and collect dust.
+
+Marisa1a:Alright, grimoires, keep 'em occupied. I'm going for the books!
+
+Patchouli1d:...It seems there's no other way. Sakuya, Alice, lend me a hand. I'm going to protect the books from her.
+
+Alice1b:My pleasure. Let's teach Marisa a lesson right here, right now.
+
+Sakuya0b:Would you let us know where the books are located?
+
+Patchouli1d:Listen, this is where she's aiming for.
+
+<pause>
+
+Patchouli0c:Get to these areas first and retrieve the books. She should give up if we secure more than half of them.
+
+Sakuya1d:...Understood. Exterminating rats is a maid's job.
+
+Marisa0a:I'm getting those books for sure this time!
+
+<end>
+
+<ChatID:2>----------------------------------------
+//味方ユニトが初めて本を回収した場合
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Alice)>
+
+Alice0d:I've recovered a book. How many are left?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Koakuma)>
+
+Koakuma3d:Lady Patchouli, I got one! How manymore do we need to secure?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Sakuya)>
+
+Sakuya1b:Lady Patchouli, I've retrieved a book. How many books still require protection?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Patchouli)>
+
+Patchouli1d:...That's one book recovered.
+
+</Cond>
+
+Patchouli1d:There's still more. Make sure to recover at least 3 more books!
+
+<end>
+
+<ChatID:3>----------------------------------------
+//魔理沙が初めて本を回収した場合
+
+Marisa7a:Heh, too slow. I've gotten one of the books I was gunning for.
+
+Patchouli1c:...We've lost one. Make sure to recover at least 3 of them!
+
+<end>
+
+<ChatID:4>----------------------------------------
+//自軍が二冊目の本を回収
+
+Koakuma3b:There we go! Just 1 more to go!
+
+Marisa1a:Hmm, this is bad. Guess I'd better step it up!
+
+<end>
+
+<ChatID:5>----------------------------------------
+//魔理沙が二冊目の本を回収
+
+Marisa7a:Alright, that's 2 for me. Time to head for the last one.
+
+<pause>
+
+Koakuma2b:Lady Patchouli, I think we're in trouble!
+
+Patchouli1b:She's close to recovering more than half of the books. Be careful not to let anymore get taken.
+
+<end>
+
+<ChatID:6>----------------------------------------
+//ロード時
+
+<Cond=(LOCAL_ARR,ObjControl,WP_val,0,==,0)>
+
+Patchouli1d:We haven't secured even a single book. Please secure at least 3!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,WP_val,0,==,1)>
+
+Patchouli3b:One book has been secured. Please secure the remaining 2!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,WP_val,0,==,2)>
+
+Patchouli1d:Two books have been secured. Please secure the last one!
+
+</Cond>
+
+<end>
+
+<ChatID:7>----------------------------------------
+//魔理沙が三冊以上回収
+
+<end>
+
+Marisa7c:Alright, got 'em! Time to blow this place.
+
+Patchouli4b:...The operation's a failure. Let's try this again.
+
+<end>
+
+<ChatID:8>----------------------------------------
+//勝利条件達成
+
+<Cond=(FIND_UNIT,Marisa_en,enemy,==,-1)>
+
+Marisa2a:Oof... You got all serious.
+
+</Cond>
+
+Koakuma3d:We did it! We defended the books successfully!
+
+Marisa3d:Tch. These things were completely useless.
+
+Patchouli0c:You just didn't know how to use them effectively. I pity those poor grimoires.
+
+Alice1c:What were you expecting from familiars that weren't yours to begin with?
+
+Marisa4c:Bah. Guess using helpers just isn't my style.
+
+Patchouli3e:Your excuses are music to my ears. I'll be taking back those books you have.
+
+Marisa4c:Fine, fine. I lost, so you get to call the shots. You can have the books back.
+
+<end>
+
+<ChatID:9>----------------------------------------
+//ADVB
+
+<BG=bg_talk_Koumakan_Library.png,fade=0,color=1,title=bg_Koumakan_Library,bgm=bgm_talk_ningyo>
+
+Marisa4c:Here's the books I took. Happy now?
+
+Koakuma4a:You were the one giving us a hard time, yet here you are acting righteously indignant.
+
+Alice0c:Don't bother trying to reason with her. She hasn't returned the books she borrowed from me either.
+
+Alice0a:Hm, so these are the books Marisa was aiming for...
+
+Marisa1d:Ah, hey! Don't go peeking into my hobbies!
+
+Alice0c:Grimoires aren't a hobby. Let's see...
+
+Alice0a:Why, these are books on elemental magic.
+
+Marisa4a:...Bah, yeah. I've gotten interested in it after that fight with Patchouli.
+
+Patchouli0c:You've got a long way to go before you can try that. You don't even understand your own element.
+
+Marisa4b:That's why I wanted to borrow this book. I need time to grasp it, y'know.
+
+Alice0d:Hmm... It is a good idea to study the styles of the opponents you have faced.
+
+Alice0a:But wouldn't it be better to just ask normally rather than sneaking around?
+
+Marisa1b:Ain't no sneaking around here. I always go right through the front door.
+
+Sakuya0b:The front door...? What on earth is Meiling doing, letting a thief through in broad daylight?
+
+Patchouli4a:Probably napping again.
+
+Marisa1b:She usually is, but today, she was kinda absent-minded.
+
+Marisa0a:She never even noticed me. She must be mulling over something serious.
+
+Sakuya5c:...
+
+Patchouli1c:And then you entered the Scarlet Devil Mansion and captured Koakuma.
+
+Koakuma1c:Yes, I was attacked by Marisa while I was making tea.
+
+Koakuma4a:She came at me from behind and forcibly...
+
+Alice1a:...You really are the worst.
+
+Marisa0e:Hey, wait a sec! She's making it sound way worse than it really was.
+
+Sakuya1b:That's enough excuses out of you. Your business here is done, so go back home.
+
+Patchouli0c:Mm. And make sure to put those books back where they belong on your way out.
+
+Marisa4a:...Geez, what's the big problem with me borrowing them for a bit?
+
+Marisa3d:Y'all are gonna live a lot longer than me. You can just take them back after I die.
+
+Sakuya1b:Get them back after you die...? Do you really think that logic would work on anyone?
+
+Marisa7c:Welp, that's enough of your lecturing. I'm heading out, I'm real busy myself.
+
+Alice4a:*sigh* You're just like a fairy. Steadfastly refusing to learn anything from your misdeeds.
+
+Alice0a:Anyway, I'll be following you back, Marisa.
+
+Marisa0d:Huh? Why are you coming along?
+
+Alice0c:We won, so I'll be coming along to take my books back as well.
+
+Patchouli0d:...You lost in a danmaku battle. You're supposed to swallow your pride and do as the victor says.
+
+Marisa4c:...Tch, you all like kicking a girl when she's down. Ganging up on me is messed up.
+
+Alice0d:Anyway, we'll be heading back now.
+
+Koakuma3d:Okay, take care. I hope you get your books back!
+
+<SE=se_talk_walk.ogg,wait=1>
+
+<single>
+
+Koakuma4a:*sigh* At least I got my precious mug back. I always use it for teatime...
+
+</single>
+
+Patchouli4c:...Today was quite the spectacle. Do remember to stay vigilant at all times from now on.
+
+Patchouli3e:Now that it's over, make copies of those books.
+
+Sakuya5b:You mean the ones Marisa was aiming for?
+
+Patchouli0c:Yes. From the way she looked, she likely hasn't given up on them yet.
+
+Koakuma5b:Are you sure about this? From what she said earlier, she probably won't give them back until she dies.
+
+Patchouli4a:That's why we'll be making copies. That way, there's no need to worry even if they get stolen.
+
+Sakuya0b:...
+
+Sakuya5b:Lady Patchouli, are you actually going to allow her selfishness?
+
+Patchouli0c:What do you mean, selfishness?
+
+Sakuya5a:That human doesn't think about anything beyond her own nose.
+
+Sakuya0b:She seems to be of the self-righteous opinion that because she'll die one day, she's entitled to do as she pleases in the present.
+
+Patchouli3a:Perhaps. It IS an annoyance, but I don't think it's a bad thing.
+
+Patchouli3c:Her life is short, so she lives her life to its fullest. It's a very human thing to do.
+
+Sakuya5a:...Is that how it works?
+
+Patchouli0d:Mm. Humans are fundamentally all like that, I believe.
+
+Patchouli0c:Aren't you doing what you want by staying at this mansion too?
+
+Sakuya5b:What do you mean by that?
+
+Patchouli0d:You may say that you have nowhere else that you belong, but Yuuka did invite you to go with her, didn't she?
+
+Patchouli0c:I'm sure you could find work in the human village as well. It's certainly not necessary to stick to the Scarlet Devil Mansion.
+
+Koakuma4b:Um... Maybe so, but if Sakuya wasn't around, the Scarlet Devil Mansion's domestic chores would never get done...
+
+Sakuya5a:...She is correct. Furthermore, I continue to work here because the mistress requires my presence.
+
+Sakuya5b:So I prefer to focus solely on the mansion.
+
+Patchouli4a:...
+
+Patchouli4c:You seem to be slightly mistaken. Allow me to educate you.
+
+Patchouli0c:Remi did indeed bring you here, but she never asked you to stay.
+
+Sakuya5b:...!
+
+Sakuya5c:Does that mean she wants me to leave?
+
+Patchouli0d:Not at all. I just think you should keep in mind that no one is holding you here.
+
+Patchouli0c:Whether you wish to remain here or leave is entirely your decision. Choose the way you wish to live.
+
+Sakuya5a:...
+
+Sakuya5c:I understand. Please excuse me.
+
+<SE=se_talk_door_close02.ogg,wait=1>
+
+<single>
+
+Koakuma4b:Um, Lady Patchouli... That was kind of blunt...
+
+</single>
+
+Patchouli4a:...I simply spoke my mind. She seems be uncertain of herself due to Yuuka's proposal, but it's not our place to dictate her answer.
+
+Patchouli0a:Whatever choice she makes needs to be her decision.
+
+Koakuma4a:Maybe so, but still...
+
+Patchouli0d:Now then, I want another cup of tea. The tea Sakuya brought has gone cold.
+
+Koakuma4b:Understood. I will go check up on Sakuya as well...
+
+Patchouli0c:Don't go meddling. Just go fetch my tea.
+
+Koakuma2b:Y-Yes, ma'am!
+
+<single>
+
+Patchouli4a:*sigh* It's noisy day in and day out, and Sakuya's acting like that...
+
+Patchouli4e:We may have come to Gensokyo, but no matter how long we spend here, I still have yet to be able to relax.
+
+<end>
+
+<ChatID:10>----------------------------------------
+//咲夜さんvs.グリモワ
+
+Sakuya5c:...It's always something with this mansion, isn't it?
+
+<end>
+
+<ChatID:11>----------------------------------------
+//アリスvs.グリモワ
+
+Alice1c:I was not expecting her to steal grimoires... Is there no end to her antics?
+
+<end>
+
+<ChatID:12>----------------------------------------
+//パチュリーvs.グリモワ
+
+Patchouli1c:They may be familiars I created, but I can't afford to spend time wringing my hands over this.
+
+<end>
+
+<ChatID:13>----------------------------------------
+//小悪魔vs.グリモワ
+
+Koakuma1a:This is partly my fault. I'll have to do my part to make this right!
+
+<end>
+
+<ChatID:14>----------------------------------------
+//2PP会話
+
+Marisa0a:Sakuya, you've got a guest right here. How's about getting me a cup of tea?
+
+Sakuya1b:Not funny. Entertaining thieves is not part of my job description.
+
+Sakuya1d:I've gotten reports from Koakuma that several books from the Scarlet Devil Mansion have gone missing since you first came here.
+
+Koakuma1b:Yes, I keep logs of what we loan out to others, so there's no mistake!
+
+Marisa1d:Sheesh, everybody here's a workaholic. You guys should chill out more.
+
+Sakuya0b:A maid who "chills out" is unfit for her job. Not that you'd know anything about that.
+
+Marisa4c:You're always such a stick-in-the-mud. It's actually worse because of how good you are in a fight.
+
+Marisa0a:Oh well, that's what I have these grimoires for. You guys better do some good work!
+
+<end>
+
+<ChatID:15>----------------------------------------
+//魔理沙を初攻撃
+
+Marisa0d:Ah, you're choosing to beat me up instead of protecting the books.
+
+Marisa0a:Works for me. If you want a fight, I'm ready to rock!
+
+<end>
+
+<ChatID:16>----------------------------------------
+//魔理沙vs.咲夜
+
+Sakuya1a:I can't let you escape!
+
+Marisa7a:Yeah, real diligent of you. Catch me if you can!
+
+<end>
+
+<ChatID:17>----------------------------------------
+//魔理沙vs.アリス
+
+Alice1a:Marisa, return the books you took from Patchouli!
+
+Marisa0d:What? You're on her side, Alice?
+
+Alice1a:Of course I am. You haven't returned the books you took from me either.
+
+Marisa2b:Sheesh, you just don't let things go, huh? Time to break through the hard way!
+
+<end>
+
+<ChatID:18>----------------------------------------
+//魔理沙vs.パチュリー
+
+Patchouli1c:Marisa. If you continue to behave improperly, I will ban you from entering or leaving entirely.
+
+Marisa1c:Wait, what? I thought it was cool if I hung out here since you didn't chase me out too hard.
+
+Marisa0a:They serve tea here, and it's quiet too. I like this place a lot.
+
+Patchouli4c:...Yup, we gave you an inch and you took a mile.
+
+<end>
+
+<ChatID:19>----------------------------------------
+//魔理沙vs.小悪魔
+
+Koakuma1a:This is for my mug!
+
+Marisa0e:Whoa, hey! I'm taking good care of it, remember?
+
+Koakuma4a:That's true, but if by any chance it were to break, I...
+
+Marisa4a:Sheesh... Okay, I'm sorry. Stop making that face already.
+
+<end>
+
+<ChatID:20>----------------------------------------
+//魔理沙を撃破
+
+Marisa2b:No bad. But I won't give up that easily!
+
+<end>
+

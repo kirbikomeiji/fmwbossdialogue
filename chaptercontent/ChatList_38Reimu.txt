@@ -1,0 +1,1278 @@
+﻿○霊夢三十八話「UNDEFINED
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: 2PP (about song)
+ 4: 2EP
+ 5: 4PP
+ 6: clear
+ 7: ADVB
+ 8-26: battle vs. UFO
+27-45: battle vs. Nue
+46: lose
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=3,FROM=ミスティアの屋台,TO=ミスティアの屋台,name=Palanquin Ship,icon=4>
+
+<BG=*bg_talk_Seirensen_Hall_Night.png,fade=0,color=1,title=*bg_Seirensen_Hall,bgm=bgm_talk_gag>
+
+Cirno3b:My ice can freeze the froggies...
+
+Cirno3a:I'm Cirno, the strongest fairy!
+
+Cirno5b:Dai, what do you think? My lyrics are pretty strong, right?
+
+Daiyosei0b:Um, it might be nice if you could sing about something other than frogs sometimes...?
+
+Rumia0a:Kay, it's our turn now!
+
+Rumia3a:The meat I found on the ground was real tasty... ♪
+
+Chen3a:Tomorrow we're having fish sticks... ♪
+
+Daiyosei3b:Rumia's lyrics are creepy, and something's off about Chen's singing...
+
+Nazrin0a:So what're you up to? You practicing strangling cats?
+
+Chen2a:Ah, it's the mouse!
+
+Cirno5b:You came at just the right time. We're trying to come up with our theme song.
+
+Cirno1a:Mystia's song just looked so fun!
+
+Daiyosei0b:You could join in with the rest of us kids, if you want!
+
+Nazrin6a:...Rest of the kids, huh?
+
+Nazrin0b:Oh, over there, isn't that―
+
+Mystia1b:La la la! Mic test, test test!
+
+Nazrin3c:Is that Mystia? Even just while wandering around she's still singing, huh?
+
+Rumia0a:Like I said, she's really good at that!
+
+Rumia4a:Maybe we should all go ask her for some tips.
+
+Cirno3a:Well, she'd know best. Hey, Mystia!
+
+Mystia3a:Hm? Why's there such a big crowd over here?
+
+Daiyosei0a:Right now we're trying to come up with a song together.
+
+Daiyosei0b:You could join in, if you like!
+
+Mystia0b:Together...?
+
+Cirno3b:We've got all these people on this boat, so isn't it kind of dumb how boring everyone's acting?
+
+Cirno0a:As soon as they start talking about incidents or whatever, Reimu and company get all serious.
+
+Mystia4b:Um... You girls JUST captured me and all. I'm not gonna be your caged songbird.
+
+Mystia1b:I live for the song, my song lives for me.... I just want to be free...
+
+Nazrin4a:It's a bit hard to take that seriously when you can't go two seconds without bursting into song.
+
+Mystia5a:Oops! Wasn't thinking...
+
+Cirno5b:Just as planned!
+
+Cirno1b:Let's all start practicing right now then!
+
+Mystia4b:Hey, wait! You can't just decide I'm participating!
+
+Mystia3c:...Though I guess there's nothing else I'm busy with right now.
+
+Daiyosei0b:That settles it. You should come sing together with the rest of the group, Nazrin!
+
+Nazrin6b:Look, I'm not so sure about including me here...
+
+<BG=bg_talk_Seirensen_Dining_Night,fade=1,color=1,title=bg_Seirensen_Dining,bgm=bgm_talk_aoki>
+
+Yukari0a:This is the dining room, isn't it? I'm tired of wandering around, let's take a moment.
+
+Yuyuko1a:I never knew ships could be this interesting, though.
+
+Yuyuko0a:There's an entire temple on top, and guns that pop out of little hatches in the side!
+
+Momiji4c:...Just for the record, most ships aren't like this.
+
+Minoriko3a:Normally, they aren't powered by a Buddhist reactor. Whatever THAT is. 
+
+Yuyuko0a:Oh, really?
+
+Ran0a:I'd already heard the reports, but being aboard it myself is still quite the experience.
+
+Ran3a:To think a ritual implement of such an enormous scale was buried in Gensokyo all along...
+
+Shizuha0b:Speaking of ritual implements, what happened with Reimu's new equipment?
+
+Shizuha0a:Didn't you say you'd make some for her a little while ago, Yukari?
+
+Yukari0b:The tools themselves are prepared, but I'm still in the midst of some delicate calibrations.
+
+Yukari0a:In their current state, it would be difficult to use them in actual combat.
+
+Aya5b:They're really that hard to use? 
+
+Ran3a:A complex series of spells have been applied to them in countless layers.
+
+Ran0b:Even I would find the spells challenging to parse. I can't imagine a mere human being able to use them.
+
+Momiji0a:So you're giving Reimu something that even Ran can't handle?
+
+Yuyuko1b:Any pie Yukari's got her finger in is sure to be dubious.
+
+Yukari6c:I beg to differ. She has undertaken significant training in preparation for this.
+
+Yukari0b:As her power as a shrine maiden grows, so will the balance of Gensokyo be stabilized.
+
+Yukari0a:Through her new equipment, I will have the Hakurei Shrine Maiden become the new boundary for Gensokyo.
+
+Yuyuko0a:...
+
+<BG=bg_talk_Seirensen_Bridge_Night.png,fade=1,color=1,title=bg_Seirensen_Bridge,bgm=bgm_talk_ningyo>
+
+Suika1b:Aaah, all this darkness just makes me wanna drink.
+
+Suika3c:Hey Reimu, come with me for a bit.
+
+Reimu4a:I'm not going to go drinking with you in the middle of an investigation. 
+
+Sho4a:And you shouldn't be drinking on the bridge anyway, please.
+
+Suika1b:Buzzkills. And I wanted to try soaking this thing in sake too.
+
+Shiro0a:...!
+
+Sanae0a:Oh, is that Shiro? How come it's on the ship with us? 
+
+Reimu0f:Marisa left it in a bottle back at the shrine.
+
+Reimu0e:Someone must've brought it here. Sanae, you take care of it.
+
+Sanae5c:Uh, okay...
+
+Suika0b:Man, you priests sure are stubborn, putting a ban on drinking and all...
+
+Youmu0a:Drinking alcohol is against Buddhist teachings, right?
+
+Ichirin0a:Well, don't spread this around too much, but we do a little drinking behind closed doors every now and then.
+
+Ichirin0a:I've never seen the Chief drink though. Not once.
+
+Akyu2b:Wow, not even a drop? Hijiri must be really committed. 
+
+Sho3d:Of course she is. She was the most pious and noble person I've ever met. 
+
+Sanae4a:You all really idolize her, don't you? 
+
+Ichirin0a:We owe everything to her.
+
+Ichirin0a:Even this ship, actually. Murasa got it from her.
+
+Youmu2b:The whole ship?!
+
+Murasa0a:Hard to believe, right? But it's true.
+
+Murasa2a:Back when I was bound to the bottom of the ocean, I'd drown ships just like how I was drowning in my own regrets.
+
+Murasa0a:But Hijiri saved me. She gave me this ship, and showed me how to be a captain. Someone like me...
+
+Akyu0b:A ship-sinking youkai protecting a ship is quite... 
+
+Ichirin0a:Maybe some people would say it's just hubris to try to change a youkai's purpose.
+
+Ichirin0a:But that doesn't change that it's how she saved us.
+
+Sho0a:She continued to preach Buddhism in order to bring equality to humans and youkai. 
+
+Youmu4a:I never knew there used to be such an amazing person around in Gensokyo...
+
+Youmu0a:But why did she get sealed away then? 
+
+Sho4b:...!
+
+Murasa2b:Because she hid the fact that she saved us from the humans. 
+
+Sanae1d:She did?
+
+Ichirin2a:Maybe it was our fault too, for acting like we were human...
+
+Ichirin0a:The humans couldn't forgive her for interacting with youkai behind their backs. 
+
+Murasa0b:And Hijiri herself wasn't human, since she had become a magician youkai.
+
+Murasa2b:They called her horrible stuff like "the devil with the human face" and set fire to the temple.
+
+Unzan0a:...
+
+Sanae3b:Just because she wanted to save youkai...
+
+Akyu3e:I do feel sorry for her, but things were different between humans and youkai in Gensokyo back then.
+
+Akyu1a:No one would have ever accepted her ideals in that era. 
+
+Reimu3b:Well, I think it's natural for humans to exterminate youkai. 
+
+Suika1a:I think your real opinions are a bit different.
+
+Suika0c:If everyone were like you, Reimu, we oni would never have needed to leave the surface. 
+
+Youmu3b:...Sorry, I didn't mean to bring up painful memories. 
+
+Murasa1a:No worries, that's all in the past! We're finally back on the surface, so we gotta stay positive.
+
+Murasa0a:And even the Underworld wasn't all that bad. 
+
+Ichirin0a:Especially for Murasa. She made some new friends, and they really got up to some shenanigans together. 
+
+Murasa0b:C'mon, don't make it sound like I was just playing around all the time... 
+
+Suika3a:Well, if you could enjoy yourself down there, then you're plenty tough enough.
+
+Suika1a:First we'll resolve this incident, then you can go revive Hijiri. 
+
+Sho4b:...Yes, let's give this our all.
+
+Sho4a:...
+
+Youmu2b:Shou, is everything alright?
+
+Sho1b:Oh, it's nothing! Let's just keep investigating.
+
+Sho0b:We're almost out of the forest. It looks like we'll come out near the village.
+
+<MAP=3,FROM=ミスティアの屋台,TO=人里近くの田んぼ,name=Human Village Outskirts,icon=4>
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP-1
+
+Youmu1b:...I don't see any youkai in the area.
+
+Akyu0a:We're near the human village, so they probably won't get too close.
+
+Sanae3b:The people of the village must be so uneasy, not knowing how much longer the night will last...
+
+Reimu0a:They can't be happy with the night dragging on like this.
+
+Reimu0d:Some upstart youkai might attack the village at any moment.
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,240,208,1)>
+
+<hide=all>
+
+Noname0a:...
+
+</hide>
+
+</nomove>
+
+Akyu4a:...? Did something just move over there?
+
+Youmu1b:Yes, I can feel someone's presence approaching...
+
+Youmu1a:Although with that kind of simple-minded movement, it's probably just some kedama or something.
+
+<pause>
+
+Sho1b:You're right, there are feral youkai out there!
+
+Murasa2b:We're heading right for them... What do we do?
+
+Reimu1a:I'm not in the mood for detours. Let's charge right through!
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP-2没
+
+<end>
+
+<ChatID:3>---------------------------------------
+//2PP
+
+Cirno4c:We never decided what our strongest song was.
+
+Rumia3a:Maybe we should just let Mystia sing whatever she likes?
+
+Daiyosei1a:Rumia, we can't push it all onto her!
+
+Mystia4b:I told you, I only sing when the mood strikes me...
+
+Nazrin0a:Well, sure, but do you ever NOT want to sing?
+
+Nazrin3b:Feels like you've been singing 24-7.
+
+Mystia4a:Huh. Maybe you're right...
+
+Mystia0a:Well in that case!
+
+<pause>
+
+Reimu3b:Hey, what do you think you're doing? You want to be on the front lines or something?
+
+Mystia0a:I just feel like singing.
+
+Mystia1b:Bird of the night, song of the night...
+
+<pause>
+
+Aya0a:Oh, hey!
+
+Sanae4b:I feel so much better now... This must be the power of music!
+
+Ran0a:I see. It seems her songs have the power to bolster her comrades.
+
+Ran3b:When an ally hears her song, they receive a special boost to their stats.
+
+Mystia3d:Alright! Since I'm gonna fight with my song danmaku...
+
+Mystia1c:Pipe down, everyone! Listen to my song!
+
+<Cond=(GLOBAL_VAR,is_NG0,==,0)>
+
+<TIPS=SONG>
+
+</Cond>
+
+<end>
+
+<ChatID:4>---------------------------------------
+//2EP
+
+Hatate0a:Aren't these fairies and kedamas acting a bit creepy?
+
+Shizuha4a:You're right, they aren't saying a word. And they're moving oddly too.
+
+Yuyuko1b:Heh heh heh. What if a spoooooky ghost is hiding nearby?
+
+Youmu3a:St-Stop it, Lady Yuyuko! You know that sort of thing gives me the heebie-jeebies...
+
+<pause>
+
+Ran0b:...? Did something just move over there?
+
+Youmu2b:No way...
+
+<pause>
+
+Youmu2a:Eeeeek! Ghosts! It's horrible, everyone!
+
+Youmu1a:There's a huge number of ghosts in our way!
+
+Reimu2b:Um... Aren't you a spirit yourself?
+
+Youmu1a:That has nothing to do with anything! Hurry up and exterminate them!
+
+<end>
+
+<ChatID:5>---------------------------------------
+//4PP
+
+Momiji2a:...This isn't working. No matter what we do, they're not going down easily.
+
+Chen2a:These girls are way too strong for fairies!
+
+Sanae3b:And they're not saying anything, so it's kind of creepy...
+
+Shizuha4a:The ghosts have a strange way of attacking too.
+
+Shizuha0a:Did ghosts always shoot lasers like that, or move around so jerkily?
+
+Reimu0d:Someone's messing with us. I bet we're up against some youkai.
+
+Ichirin2a:...You've noticed, right, Murasa?
+
+Murasa2b:Yeah, there aren't many people who could pull this off...
+
+<nomove>
+
+<Code=(cursor_jump,304,304,1)>
+
+<hide=all>
+
+Nue0a:...Heheh. They're scared, so scared.
+
+</nomove>
+
+</hide>
+
+Murasa1b:If it's her, she'd be hiding right around... THERE!
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,304,304,1)>
+
+<hide=all>
+
+Nue2a:...?! How'd they know I was here?
+
+</hide>
+
+<pause>
+
+Murasa1b:Found you. Show yourself, Nue!
+
+<pause>
+
+Nue2a:H-Hey! Don't just spoil my identity right away!
+
+Mystia5a:?! The enemies from before look really weird now...
+
+Sanae1a:They're UFOs! Ghosts were really aliens all along?! It's the discovery of the century!
+
+Aya7a:Discovery of the century, you say?! This is definitely going in an article!
+
+Hatate2a:I'm not letting you scoop me!
+
+Minoriko0b:So you know that youkai, Ichirin?
+
+Ichirin0a:Yeah. They call her Nue Houjuu.
+
+Akyu2b:Wait, when you say "Nue", do you mean THE legendary Japanese chimera?!
+
+Akyu1a:The one that's said to have the power to deprive anything of its true appearance? But I thought it was sealed away a thousand years ago...
+
+Ichirin0a:We happened to run into each other back in the Underworld.
+
+Ichirin0a:I wasn't completely sure until now, but apparently she came to the surface too.
+
+Nue1a:Haha, it's been ages, Minamitsu! How've ya been?
+
+Murasa0a:After all this time, just "how've ya been?"...
+
+Murasa0a:I was a bit worried, since we left without saying anything.
+
+Nue0a:Yeah, that was pretty heartless of you. I turn my eyes away for a second and next thing I know the whole ship's gone.
+
+Nue5a:And even after coming all the way to the surface, I still couldn't find you.
+
+Nazrin0b:Probably because we've been on Youkai Mountain. They've got pretty strict security there.
+
+Murasa5a:Ugh, you've really been looking for me? Sorry for leaving you behind like that.
+
+Nue0a:Water under the bridge. Let's just forget all that. How about you and me go have some fun in the village?
+
+Nue1a:Should be a fun night on the town, drowning humans who're busy being terrified of the unknown. They won't know what hit 'em!
+
+Minoriko4a:Don't be ridiculous, we're here to investigate the incident.
+
+Nue0a:...Who're YOU? I don't know any of you people.
+
+Youmu4a:We're friends of Murasa. We're all here to resolve the incident together.
+
+Cirno3a:Ever since the boat came up to the surface, we play together a lot.
+
+Nue0a:Friends...? Humans, with youkai?
+
+Sho0a:I've heard about you from Murasa and Ichirin, Nue.
+
+Sho3d:I'm Shou Toramaru. I'm pleased to meet you.
+
+Nue0a:Meanwhile I've never heard a word about you, but whatever.
+
+Nue0a:...
+
+<pause>
+
+Murasa0a:Nue?
+
+Nue0a:Look, why don't you ditch those losers and come hang out with me?
+
+Nue1a:I guarantee it'll be more fun than resolving some "incident".
+
+<pause>
+
+Minoriko1b:Ugh, more enemies?! A lot more!
+
+Shizuha0b:Aren't you friends with her? Is this really okay?
+
+Ichirin2a:...When she gets like this, there's no way we'll talk her out of it.
+
+Nue0a:Humans are at their best when they're wetting themselves in terror.
+
+Nue1a:I am the great and terrible Nue, feared by all of the Heian period! Take a good look at my unidentified flying danmaku!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//勝利条件達成
+
+Reimu0d:So, you satisfied now?
+
+Nazrin6a:Sorry, Nue. We just don't have time to play with you right now.
+
+Sho4a:We must resolve this incident before it's too late.
+
+Sho0b:And then we'll revive Hijiri...
+
+Nue0a:Hijiri? Minamitsu used to yammer on about her...
+
+Murasa0a:Yeah, you remember, our savior!
+
+Murasa2b:We've gotta find some stuff first though, like the pagoda, and some fragments of Myouren's Flying Granary.
+
+Nue0a:Hmmm, you mean... these?
+
+<pause>
+
+Momiji1a:Could those be...?
+
+Sho1b:Those are fragments of the Flying Granary! You have them?!
+
+Nue1a:I picked 'em up here and there when I came to the surface.
+
+Nue0a:These are pretty important to you, right Minamitsu? Along with that boat?
+
+Murasa0a:This is wonderful, Nue! Are those a gift for me?
+
+Murasa0a:Thank you so much, everyone will be so happy! And then you can come with us and―
+
+Nue1a:PSYCH!
+
+<pause>
+
+Murasa1b:Wh... what?!
+
+<Code=(icon_set_direction,Nue,Seirensen,0)>
+
+Nue0a:Got your hopes up? I'm not handing 'em over that easy.
+
+Nue1a:If you want 'em, come and get 'em!
+
+Murasa1b:Nue, stop messing around...
+
+<Code=(icon_set_direction,Sho,Nue,0)>
+
+Sho1b:Miss Nue, please, PLEASE turn those over to us!
+
+<Code=(icon_set_direction,Nue,Sho,0)>
+
+Nue0a:Hmph, I don't really care about this Hijiri chick.
+
+Nue1a:Wasn't she supposed to be on the humans' side anyway?
+
+Sho2a:Please!
+
+<pause>
+
+<Code=(icon_set_direction,Nue,Sho,0)>
+
+Nue2a:Whoa, that was close!
+
+Nue0a:So something's been bugging me. What the heck is the deal with you?
+
+Nue1a:The whole time Minamitsu was in the Underworld, she never even got so much as one word from you.
+
+Sho4a:...
+
+<pause>
+
+<Code=(icon_set_direction,Nue,Seirensen,0)>
+
+Nue1a:Anyway, I'm not giving you these fragments!
+
+Nue0a:See ya later, Minamitsu, Ichirin. Just try and catch me!
+
+Murasa1b:Hey, get back―
+
+<pause>
+
+Murasa2b:...And there she goes.
+
+Akyu3e:Well, based on the direction she ran off in, at least we don't have to worry about her attacking the village.
+
+Akyu1a:So, what should we do? Should we pursue her?
+
+Ichirin2a:...No. Even if we followed after her, I doubt we'd be able to settle this.
+
+Ichirin0a:For now, let's just turn back and think about what to do next.
+
+Sho4a:Yes, you're right...
+
+<end>
+
+<ChatID:7>----------------------------------------
+//ADVB
+
+<MAP=3,FROM=人里近くの田んぼ,TO=人里近くの田んぼ,name=Human Village Outskirts,icon=4>
+
+<BG=*bg_talk_Seirensen_Bridge_Night.png,fade=0,color=1,title=*bg_Seirensen_Bridge,bgm=bgm_talk_ningyo>
+
+Reimu2b:What a hassle. So just who was she, anyway?
+
+Ichirin0a:As we said before, she's a friend from when we were in the Underworld. 
+
+Murasa0a:She wasn't around back when you all dug out the Palanquin Ship.
+
+Murasa2a:I've been worrying about what happened to her after that...
+
+Youmu0a:I guess she somehow got to the surface on her own. 
+
+Unzan0a:...
+
+Murasa2b:Ugh, stupid Nue, what does she think she's doing...
+
+Murasa5a:Maybe I upset her?
+
+Yuyuko1b:I wouldn't worry about it. If she were really angry at you, she'd be doing something much worse. 
+
+Suika3c:Eh, I'm sure she'll come back around to take some shots at you again. You can talk it out properly then.
+
+Murasa0a:...You're right. I'll have to do that. 
+
+Sho4b:...
+
+Nazrin6a:You seem down, Master. 
+
+Sho4a:Yes. Because I can't deny what Nue said to me back there.
+
+Sho4b:For the entire thousand years that Murasa and the others were sealed away, I did nothing. 
+
+Minoriko0a:Don't beat yourself up over it. You're still the one who rescued them in the end. 
+
+Shizuha1c:Right. They needed you two to run away from danger so you could come back for them when it was safe. 
+
+Sho4a:That's not really true. Back at the start...
+
+Nazrin6a:Master, are you really sure?
+
+Sho0b:Yes, I'm sure. Now's my chance to come clean.
+
+Sho4b:The truth is, it would be no exaggeration to say that I sealed away Hijiri and Murasa myself. 
+
+Youmu2b:She did?
+
+Daiyosei2c:But weren't you their friend...? 
+
+Sho4b:I was. However, back then I had a duty. I was Bishamonten's Avatar.
+
+Sho0b:I conducted myself as Bishamonten would. The people put their faith and trust in me.
+
+Nazrin6b:To be frank, she was a little too good at it.
+
+Nazrin0a:She more than met Hijiri's expectations, and the crowds loved her. 
+
+Sanae3b:So, then, when Byakuren was revealed as a youkai... 
+
+Ichirin2a:Not a single person doubted Shou.
+
+Ichirin0a:Just the opposite, in fact. The people gathered and begged her to exterminate a devil for them. 
+
+Youmu1a:In other words, you disposed of your own friends?!
+
+Nazrin6a:I doubt the humans knew that when they asked her to do it.
+
+Nazrin4b:They had no one else but my master to turn to, after Hijiri disappointed them so dramatically.
+
+Nazrin6b:Hijiri was aware of all this too, so she didn't put up any resistance.
+
+Sanae3b:That's so sad...
+
+Youmu1a:I can understand the logic, but I would never!
+
+Sho4b:Regardless, nothing can change the fact that I abandoned everyone in their hour of need.
+
+Sho4a:That's why all I can do now is―
+
+Unzan0a:...
+
+Ichirin0a:Unzan says, "You're being too hard on yourself, Shou."
+
+Murasa0a:Yeah, we already decided to let bygones be bygones. 
+
+Sho4a:But still, I feel―
+
+Suika3d:You don't gotta say anything more, just be glad you've got friends and love 'em back!
+
+Ran0a:Facing your past is not an easy thing for anyone.
+
+Ran0a:I admire the fact that you did it at all, and I'm sure everyone else does too. 
+
+Sho0a:...Thank you.
+
+Minoriko3a:...Alright! I'm sure we're all a bit tired after all that, so how about a breather?
+
+Minoriko0a:We've got a long road ahead of us, so maybe we should rest in shifts or something. 
+
+Sanae0a:Come to think of it, what's going on with that girl we helped out earlier?
+
+Akyu0a:I told Kosuzu to remain in an interior room during the danmaku battle, but...
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+Kosuzu3c:...Hello!
+
+Ichirin0d:Speak of the devil. You're not hurt, are you?
+
+Kosuzu3b:No, but it was a pretty near thing there. Thanks for saving me!
+
+Kosuzu0b:I was so shocked. What the heck is going on?
+
+Akyu1a:That's what we should be asking you. Why were you being chased? Did something happen?
+
+Kosuzu4a:I'm not too sure myself, but no matter how much time passed, morning never came.
+
+Kosuzu4b:And just when I was getting worried, the youma books in the library started opening on their own.
+
+Youmu2b:I can hardly believe this. But surely it's another effect of the incident, right?
+
+Yuyuko2a:So as the night goes on and on, even the youma books are getting excited.
+
+Yuyuko0a:That said, I doubt this would happen to just anyone.
+
+Reimu1b:Meaning?
+
+Ran0b:It's difficult to imagine the books activating on their own just from the increased night energy.
+
+Ran6b:Most likely, this human is the source of the phenomenon, serving as a kind of key.
+
+Kosuzu6a:What? Me?
+
+Akyu0a:...With your power to read any writing, you've been reading an awful lot of youma books too.
+
+Akyu3e:But by doing so, you must have strengthened your connection to them.
+
+Ran6c:That's one possibility. At the very least, it's probably dangerous to let her return to her library.
+
+Sanae0g:Are you saying we should keep her aboard the ship during the incident, for her own protection?
+
+Murasa0a:Sounds like a plan to me. Are you okay with that, Kosuzu?
+
+Kosuzu3d:O-Of course! I hope we'll work well together!
+
+Akyu0a:Now then, let's take that rest we were speaking of earlier.
+
+Akyu3a:If anything happens, we'll announce it over the internal broadcasting system, so feel free to do whatever you like in the meantime. 
+
+Momiji5a:Understood. In that case, I have some training to do.
+
+Aya3a:I'd better get started on my article while it's still fresh in my head. 
+
+Hatate3c:And I got a pretty sensational picture back there! 
+
+Nazrin0a:Do you want to lie down for a bit, Sanae? Unlike Reimu, you didn't sleep in.
+
+Reimu2b:You don't need to bring me into this.
+
+Sanae0g:Is that alright with you? I'd feel bad about leaving you alone... 
+
+Reimu0g:Fine with me. But if something happens, I'm slapping you awake. 
+
+Sanae5b:I'd prefer it a more normal wake-up call...
+
+<end>
+
+<ChatID:27>---------------------------------------
+//ぬえvs.霊夢
+
+Reimu0a:Just when I thought I had a bad feeling about all this, the infamous nue shows up.
+
+Nue0a:Shocking, isn't it? It's not every day that I show myself before a human.
+
+Reimu0a:Yeah, sorry, but I couldn't care less about your true form or whatever.
+
+Reimu0a:If I see a youkai, I exterminate it. So let's get this show on the road!
+
+<end>
+
+<ChatID:28>---------------------------------------
+//ぬえvs.早苗
+
+Sanae3c:I'm so happy! I never thought I'd meet the person behind UFOs!
+
+Sanae0a:Does this mean aliens were just youkai all along too?
+
+Nue0a:Hm. Well, technically speaking, what's an "alien"?
+
+Sanae0a:Technically it refers to anyone from a foreign country you've never seen before, but normally we use it for people from space.
+
+Nue0a:Hmm. In other words, it's something unknown and unknowable.
+
+Nue1a:That's perfect! Fear me all you wish!
+
+<end>
+
+<ChatID:29>---------------------------------------
+//ぬえvs.大妖精
+
+Daiyosei0c:Hey there, Nue.
+
+Nue0a:What's up with you, acting all buddy-buddy?
+
+Daiyosei0a:Most of my friends right now are people we fought before.
+
+Daiyosei0b:So I'm sure you'll become our friend too, Nue!
+
+Nue2a:...I hate dealing with kids.
+
+<end>
+
+<ChatID:30>---------------------------------------
+//ぬえvs.ルーミア
+
+Rumia0a:The nue is a youkai that hides in the dark, right?
+
+Rumia3a:I can make it dark, so you wanna step in?
+
+Nue2a:Nothing good's gonna come from taking an invitation by a youkai.
+
+Nue0a:And even if I accepted, you'd just take a bite out of me, wouldn't you?
+
+Rumia5a:Shoot, you figured it out.
+
+<end>
+
+<ChatID:31>---------------------------------------
+//ぬえvs.チルノ
+
+Cirno2b:Hey, you! Where'd you put my frog?!
+
+Nue1a:Oh no, where could it have gone off to?
+
+Nue0a:Looks to me like there's a frog on your head though.
+
+Cirno5f:What? Where?! Can you point it out?! Get over here and check for me, Dai!
+
+Nue1a:Heh heh. Messing with idiots is always worth it.
+
+<end>
+
+<ChatID:32>---------------------------------------
+//ぬえvs.ミスティア
+
+Mystia0a:I know all about the nue. It's famous for its weird cry, right?
+
+Nue0a:Yup. The mysterious call of the nue is the worst omen there is.
+
+Nue1a:It's far more fearsome than some mere night sparrow.
+
+Mystia1d:What?! Okay, that's it, we're having a chirp-off!
+
+<end>
+
+<ChatID:33>---------------------------------------
+//ぬえvs.穣子
+
+Minoriko2a:So were those flying sweet potatoes your doing too?!
+
+Nue1a:Man, that's a new one. Thanks for keeping this entertaining.
+
+Nue0a:You know, most people don't see ordinary root vegetables when I hide something's true form.
+
+Minoriko1b:Sh-Shut up! I won't stand by while you mock my innocent love for the harvest!
+
+<end>
+
+<ChatID:34>---------------------------------------
+//ぬえvs.静葉
+
+Shizuha0b:Hey, so what exactly does it mean to hide your true form?
+
+Nue2a:You seriously think a youkai based on the unknown is gonna want to shed light on her own nature?
+
+Nue0a:...Though I guess there'd be no harm to it if it's just in words.
+
+Nue1a:As long as you can't grasp my true form, it won't change a thing!
+
+<end>
+
+<ChatID:35>---------------------------------------
+//ぬえvs.文
+
+Aya0a:It's just amazing to be able to meet the legendary nue in the flesh.
+
+Aya0c:Though, is it really okay if I write about your true form in my article?
+
+Nue0a:One little newspaper can't possibly reveal my unknowable nature.
+
+Nue1a:No matter what you write, all I need to do is avoid showing the humans this form!
+
+<end>
+
+<ChatID:36>---------------------------------------
+//ぬえvs.椛
+
+Momiji3c:So you were the one behind those strange techniques earlier!
+
+Nue0a:Pipe down, I eat youkai like you for breakfast.
+
+Nue0a:I just need to play around with what you can see, and you'll be shaking in your boots in no time.
+
+Momiji2a:Why you... If my eyes don't work, then I'll just use my nose!
+
+<end>
+
+<ChatID:37>---------------------------------------
+//ぬえvs.萃香
+
+Suika1a:Haven't seen a youkai like you in a while. This calls for some sake, to celebrate the occasion.
+
+Nue2a:Never thought I'd run into an oni here of all places either.
+
+Nue0a:Honestly, I like you guys. Your kind knows that we're humanity's enemy.
+
+Suika0a:Well, that depends on the oni. A lot of 'em have pretty much decided to ignore humanity.
+
+<end>
+
+<ChatID:38>---------------------------------------
+//ぬえvs.妖夢
+
+Nue0a:People like you are just perfect for my power.
+
+Nue1a:Like just a minute ago when you freaked yourself out over ghosts or whatever.
+
+Youmu2a:Ugh... that's true, I may have lost my composure back there...
+
+Yuyuko0a:Youmu, it's time to use that hidden technique. See with your mind's eye.
+
+Youmu2b:That's it! I'll use my mind's eye...
+
+Nue2a:...?!
+
+Youmu2a:It's not working, Lady Yuyuko! Everything's all dark and I can't see anything!
+
+Nue2a:So she's just an idiot...
+
+<end>
+
+<ChatID:39>---------------------------------------
+//ぬえvs.幽々子
+
+Yuyuko0a:Something that lurks in the dark, its true form unknown...
+
+Yukari0a:I know exactly what you mean, Yuyuko. The ingredients to mystery meat.
+
+Nue2a:Wait, you're not talking about eating me, are you?
+
+Yukari5a:No, Yuyuko speaks of a matter far less pleasant for you.
+
+Yukari0a:That no matter how you alter its appearance, the true nature of an object remains unchanged.
+
+Yuyuko1a:What? Yukari, I was just talking about eating her.
+
+<end>
+
+<ChatID:40>---------------------------------------
+//ぬえvs.紫
+
+Yukari0a:How nostalgic, a nue.
+
+Nue2a:The heck are you acting so buddy-buddy for? I've never seen you before.
+
+Yukari0a:Oh, but I have. I know your true form as a youkai...
+
+Yukari1a:...not to mention the particulars of how and why you were sealed in the Underworld.
+
+Nue2a:...! You jerk!
+
+<end>
+
+<ChatID:41>---------------------------------------
+//ぬえvs.藍
+
+Ran0a:So you're the great youkai of the Heian, the nue? I've heard the stories.
+
+Nue0a:Good. Feels like you and me could get along fine.
+
+Nue0a:Foxes and tanuki have always loved to toy with humans, just like me, right?
+
+Ran6a:...I'm not so sure about that comparison. Fox schemes are much craftier than tanuki ones.
+
+<end>
+
+<ChatID:42>---------------------------------------
+//ぬえvs.橙
+
+Chen2b:What's with those weird wings...? What kind of youkai are you?
+
+Nue1a:Well, what do you think? Try taking a guess.
+
+Chen0c:Umm... Your wings are weird, and you've got a snake wrapped around you, so...
+
+Chen4b:Uh... I've got nothing.
+
+<end>
+
+<ChatID:43>---------------------------------------
+//ぬえvs.ナズーリン
+
+Nue2a:You must be one of the ones Minamitsu told me about...
+
+Nazrin0a:Oh, you've heard about us from the skipper?
+
+Nue2a:What was it again? She said the mouse youkai was...
+
+Nue0a:A real tricky one, somebody who's great at getting her hands on stuff that people leave lying around.
+
+Nazrin4a:...I'm sure she meant well, but I wish she'd chosen her words more carefully.
+
+<end>
+
+<ChatID:44>---------------------------------------
+//ぬえvs.星
+
+Sho0a:So you must be Nue. I hear Murasa and Ichirin owe a lot to you.
+
+Nue2a:Huh? Who the heck are you?
+
+Sho0a:I'm a friend of Murasa's, from back when she was on the surface.
+
+Sho0a:Both of us now share the same goal―to save Hijiri.
+
+Nue0a:Hmm... So that's the kind of person you are. You say that like you're bragging or something.
+
+Nue1a:But I'm the one who knew her back in the Underworld! Don't you dare think you're better than me!
+
+Sho0c:Huh? What do you mean by that?
+
+<end>
+
+<ChatID:45>---------------------------------------
+//ぬえvs.聖輦船★
+
+Nue0a:Hahaha! It's been a while, Minamitsu.
+
+Murasa0a:So you made it to the surface too, Nue...
+
+Murasa0a:...I dunno what to say really. I'm just really glad to see you again. Looks like you've been doing okay for yourself.
+
+Nue0a:I'm touched. You were really worried about me?
+
+Murasa0b:Of course I was. Sorry about not being able to contact you either.
+
+Akyu0a:...So you two really WERE friends with the legendary nue.
+
+Akyu3a:I don't suppose I could pull some strings with you and get me an interview with her?
+
+Ichirin2a:...I wouldn't have expected this kind of opportunism out of you, Akyu.
+
+<end>
+
+<ChatID:46>---------------------------------------
+//ぬえvs.はたて★
+
+Hatate1a:A legendary, unidentifiable youkai? Huh, you learn something new every day.
+
+Nue0a:How pathetic, you've never heard of me?
+
+Nue0a:Humans tremble in fear just from the sound of my voice.
+
+Hatate0a:...Sounds like you could cause an awful lot of trouble in the human village. We'd better keep an eye on you.
+
+<end>
+
+<ChatID:47>---------------------------------------
+//敗北時
+
+Murasa0b:Aw come on, how did we lose?!
+
+Nue0a:Don't worry about it, you can always just use a continue.
+
+Nue0a:So while I only came to chat...
+
+Nue1a:This is as far as you go!!
+
+<end>
+
+<ChatID:48>---------------------------------------
+//3PP
+
+Youmu4a:Thanks to Mystia's song, our morale has improved!
+
+Momiji5a:Yes, if we keep this up, then... Oh?
+
+Sanae0g:What's the matter, Momiji?
+
+Momiji0a:There's a human nearby. And she seems to be running from something.
+
+<nomove>
+
+<Code=(cursor_jump,608,368,1)>
+
+Kosuzu1a:Ahhh! Ahhh!
+
+</nomove>
+
+Akyu4a:Kosuzu?!
+
+Reimu1a:Hey, what're you doing in a place like this?
+
+<nomove>
+
+<Code=(cursor_jump,608,368,1)>
+
+Kosuzu6b:The Palanquin Ship... And that voice, Miss Reimu?!
+
+Kosuzu1a:It's awful, please help me!
+
+</nomove>
+
+Ichirin1b:What's awful? Are you in some kind of trouble?
+
+<nomove>
+
+<Code=(cursor_jump,608,368,1)>
+
+Kosuzu4b:It's a long story, but—
+
+</nomove>
+
+<pause>
+
+Youmu2b:Youkai! And they seem to be chasing her!
+
+Sho1b:Murasa!
+
+Murasa1b:Got it!
+
+<pause>
+
+Akyu1a:I've opened the hatch. Get in, Kosuzu!
+
+<nomove>
+
+<Code=(cursor_jump,608,368,1)>
+
+Kosuzu6b:Akyu?! You're on the ship?
+
+</nomove>
+
+Murasa1b:Save it for later. Get in before the youkai get here!
+
+<nomove>
+
+<Code=(cursor_jump,608,368,1)>
+
+Kosuzu6a:Okay, got it! I just need to climb this ladder, right?
+
+</nomove>
+
+<pause>
+
+Aya0a:But those youkai chasing her certainly look strange. Where in the world did they come from?
+
+Momiji0a:And why would they be chasing her in the first place?
+
+Reimu1a:It's not like I don't have any guesses, but how about we clean them up and just ask her?
+
+<end>
+
+<ChatID:49>----------------------------------------
+//ぬえvs.メーコ
+
+Meko0b:The ghosties weren't ghosties?!
+
+Nue0a:Ha ha ha, like a moth to a flame!
+
+Nue0a:Weak-minded people like you are nothing but prey to the unknown!
+
+Meko0b:Ooh, she's strong!
+
+<end>
+
+<ChatID:50>----------------------------------------
+//ぬえvs.まくら
+
+Makura0a:Wasn't a nue supposed to have the head of a money, the limbs of a tiger, and the tail of a snake?
+
+Nue0a:Ah, yeah, some people say that.
+
+Nue0a:But I get the feeling you've got something similar going on, don't you?
+
+Makura0a:The nose of an elephant and the eyes of a rhino and so forth... My form is decided by humanity.
+
+<end>
+
+<ChatID:51>----------------------------------------
+//ぬえvs.ぬえ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Nue0a:Who the heck are you?
+
+Nue0a:You've sure got guts, trying to trick me with my own form.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Nue0a:So, can you tell who I am?
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Nue0a:Challenging ME in unidentifiability? You're getting gutsier by the second.
+
+Nue0a:Take your time and savor the terror of the great and terrible Nue!
+
+</nomove>
+
+<end>
+
+<ChatID:52>----------------------------------------
+//ぬえvs.白蓮
+
+Byakuren0a:Thank you for looking out for Murasa and Ichirin.
+
+Nue0a:And who're you?
+
+Byakuren0a:I am called Byakuren. A pleasure to make your acquaintance.
+
+Nue0a:Byakuren? I feel like I've heard that name before...
+
+Nue0a:But if you're a friend of Minamitsu's, then stay out of my way!
+
+Byakuren0a:With everyone behind me, that I cannot do!
+
+<end>
+
+<ChatID:53>----------------------------------------
+//ぬえvs.こいし
+
+Koishi0a:Tee hee hee.
+
+Nue0a:And who're you supposed to be?
+
+Koishi0a:I'm pretending to be Flan!
+
+Nue0a:Flan? Who the heck's that?
+
+Nue0a:I step away for a hot second, and suddenly the surface is full of youkai like you?
+
+Koishi0a:I'm from the Underworld though!
+
+Nue0a:Like I care! Stop bothering me!
+
+<end>
+
+<ChatID:54>----------------------------------------
+//ぬえvs.フラン
+
+Flan0a:Tee hee hee.
+
+Nue0a:What's with this girl's power?!
+
+Nue0a:Why's someone like this with Minamitsu's crew?
+
+Flan0a:We're friends. And I wanna play with you too.
+
+Nue0a:Friends? Since when was she friends with someone like you?!
+
+<end>

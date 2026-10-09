@@ -1,0 +1,1965 @@
+﻿○共通第五十七話「有頂天は止まらない
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: 2PP (Aya-Hata)
+ 4: 3PP (Bakaltet)
+ 5: first battle vs. Tenshi
+ 6: Tenshi spell 1
+ 7: Tenshi spell 2
+ 8: clear
+ 9: ADVB
+10: omake
+11: lose
+12-66: battle vs. Tenshi
+67: first battle vs. Kappa
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=11,FROM=バザー,TO=バザー,name=Bazaar Grounds,icon=5>
+
+<BG=*bg_talk_Road_Spring.png,fade=0,color=1,title=*bg_Bazaar,bgm=bgm_talk_gag>
+
+<update>
+
+Kappa3d:Welcome to the Aquatic Youkai's Future Bazaar!
+
+Kappa3c:Please take a look at our convenient kappa appliances!
+
+</update>
+
+Minoriko3a:Ooh, look at how busy it is.
+
+Hina0a:I've never been here before, but I can tell the kappa are in their element.
+
+Mokou3b:If only they'd been that friendly when I was guiding humans here.
+
+Nitori4b:They hardly ever see humans, so they're not used to it.
+
+<update>
+
+Kappa3b:Hey, you beautiful autumn gods over there! Can I interest you in this fine device?
+
+Kappa1a:It tills fields with the power of machinery. We call it Metal Farmer Tractor!
+
+</update>
+
+Shizuha5a:What do we do, Minoriko? She's calling us beautiful...
+
+Minoriko3b:Normally I like to do everything by hand, but since they said they were blinded by my dazzling beauty...
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=0>
+
+Keine0b:Don't be fooled by that, they just say that to get your attention.
+
+Kappa5a:Geh, humans?!
+
+<hide=face>
+
+<update>
+
+Kappa4a:Uh, sworn friends of kappa-kind, if you see something you like, let us know.
+
+Kappa0a:And if you don't know how to use it, we'll throw in an instruction manual too.
+
+</update>
+
+</hide>
+
+Meiling3d:Huh, now they're hiding.
+
+Sanae5d:Looks like they're shy when there are too many strangers.
+
+Mokou0d:You're late, Keine.
+
+Remilia0a:We just landed the ship. Reimu and some others went over that way to look around.
+
+Keine6c:Good work guiding the humans here, Mokou.
+
+Mokou5b:It's just dangerous in these foothills. I do it because I want to.
+
+Sakuya0a:I can't believe they hold this event so nearby and we've never heard of it.
+
+Nitori3e:Well, until now it's only been for residents of the mountain.
+
+Nitori4b:But this time we came to an agreement with Lady Kanako and advertised to humans too.
+
+Elliy0a:Speaking of which, wasn't Kanako supposed to be helping out somehow?
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+Kanako0a:Worry not, my divine splendor will become apparent soon enough.
+
+Suwako3a:Heheheh, I hope you're ready to take pictures, Aya.
+
+Aya1b:Just leave it me, I bought a brand new lens for this.
+
+Sanae4a:So if you two are here, I assume that preparations are going smoothly?
+
+Kanako1a:Indeed. We need only cheer them on for one last push and it should be ready to appear over the horizon.
+
+Patchouli0b:Excuse me, preparations for what exactly?
+
+Momiji4c:They haven't explained yet? They made something to help with publicity.
+
+Hatate5b:It's an advertising balloon. It's filled with hot air, and it's based on outside technology.
+
+Flan0f:Wow! I've only seen hot air balloons in books!
+
+Koakuma3b:You seem awfully excited about it though.
+
+Nitori1a:Of course we are! If we can sell all our merchandise, just think of all the research funds we'd have!
+
+Keine1a:...
+
+Nitori2a:I mean, er, just kidding? We really just wanted a bunch of people to come to the mountain.
+
+Flan0f:But why?
+
+Momiji4b:Well you see, just past here is the area where Yatagarasu went berserk.
+
+Kanako3a:Thanks to everyone's cooperation, spring has come even there, with fresh new leaves sprouting.
+
+Kanako0a:Once they see that, they'll rethink their feelings on recent events.
+
+Meiling3b:True, Gensokyo's been in a slump ever since that incident...
+
+Kurumi3b:So you're trying to show everyone that it's not all bad!
+
+Suwako3b:That's the least we can do, as gods trying to appeal to both humans and youkai.
+
+Sanae3c:It's going to be really cool, so make sure you don't miss it.
+
+Sakuya0a:In the meantime, why don't we make some progress on our manhunt?
+
+Hina0c:Manhunt? Is someone missing?
+
+Patchouli4c:It's a long story, but if you really want to hear it...
+
+Aya0b:I'd love to, really, but if I don't hurry the other tengu will get the drop on the latest scoops.
+
+Aya0c:I'll leave Momiji here so she can listen for me while I'm off reporting.
+
+Hatate6a:Hey, Aya! Trying to get a head start on me?!
+
+Aya3a:The advertisers rely on us. A reporter can never forget their mission.
+
+Aya7b:First, I'll need to secure myself a good photography vantage point...
+
+Hatate1c:Wait for me! I'm coming too!
+
+<Code=(map_shake,1,10,1)>
+
+<SE=se_talk_fly01.ogg,wait=1>
+
+<single>
+
+Shizuha1c:Oh my, so much rivalry.
+
+</single>
+
+Kanako0a:It's fine. If anything, the articles will come out better for it.
+
+Suwako0c:Anyway, we'd better go check on that balloon.
+
+<BG=bg_talk_Mountain_Spring.png,fade=1,color=1,title=bg_Bazaar,bgm=bgm_talk_aoki>
+
+Kaguya3a:Eirin, what is this?
+
+Eirin0a:A primitive magnetic storage device, and a projector for it.
+
+Kaguya6a:Hmm, doesn't seem especially interesting.
+
+KappaC2a:What?! That's slander!
+
+Tewi4b:I guess kappa tech isn't gonna seem very impressive to the princess.
+
+Kaguya3b:Oh, but I am interested these things over here. Like the ones with round discs on the bottom, and all these other unfamiliar objects.
+
+Kappa3d:Oh, really? That's stuff we don't need on the mountain, or stuff we find on the bottom of the river.
+
+Tewi3a:If you're selling your old junk here, maybe we should sell some of the stuff we have lying around the mansion.
+
+Lyrica1a:We have some old things like that too, that we just can't seem to get rid of.
+
+Merlin2b:Yeah. It just feels like we shouldn't, for some reason.
+
+Udonge3a:What, are they cursed?
+
+Lunasa0b:No... Well, probably not... Either way, it does seem strange now that you mention it.
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+Yugi2a:Yo! So you girls came to the bazaar too?
+
+Parsee0a:Look at you, walking together like a bunch of friends. It's enough to make a girl jealous.
+
+Kappa1a:Gah! You're one of the Four Devas of the Mountain! Yuugi the Strong...
+
+Yugi0d:No need to make a big deal of it, I'm just here for a little errand.
+
+Kaguya3a:It's been a while, hasn't it? So you're not here to enjoy the bazaar then?
+
+Yamame0d:Yeah. Actually, we're looking for someone.
+
+Ichirin4b:Apparently Satori's little sister Koishi has been hiding her presence for a while now.
+
+Ichirin0b:So we're going around the bazaar together looking for her.
+
+Eirin1c:I see. That is concerning.
+
+Kisume3a:You look like you've been here for a while. You wouldn't know anything, would you?
+
+Udonge3b:Hm, let's see... I don't think we've seen anyone like that...
+
+Lyrica0b:Even if she were here, how could we tell when she can hide herself?
+
+Murasa0c:Fair, but until we have a better plan it can't hurt to ask around.
+
+Nazrin0b:Yeah. We've got another person to find anyway.
+
+Korin1b:By the way, what's that you've been looking at?
+
+Kaguya3c:I don't know. Some kind of machine. All the rest of this is secondhand goods, or things the kappa found.
+
+Korin3c:So they sell things they find on the mountain? Perhaps I can replenish my stock here then. Interesting.
+
+Sho0c:You don't suppose they might have found the Pagoda, do you?
+
+Merlin3a:Pagoda? Oh right, that thing you were looking for.
+
+Sho4a:Right. We've been searching for some time, but so far in vain.
+
+Sho0c:However, if we're lucky we might just be able to find it here!
+
+Lunasa0a:If you've been patient for so long, I don't think it's a good idea to get your hopes up over this.
+
+Sho4a:You're right... I don't know what came over me.
+
+Yamame1b:But it can't hurt to go look, can it? We'll just be wandering around anyway.
+
+Ichirin0a:Sure, I'll take you up on that. Why don't we meet up some time later?
+
+<BG=bg_talk_Mountain_Spring.png,fade=0,color=1,title=bg_Bazaar>
+
+Marisa0d:Whew, that's just about everything.
+
+Suika0a:I take my eyes off these kappa for just a second, and suddenly their tech is generations ahead.
+
+Suika6c:Find anything you wanna buy, Reimu?
+
+Reimu0e:I was interested in this electric blanket, but it's not like I could use it at home.
+
+Alice0a:We still haven't been able to find either Tenshi or Koishi.
+
+Iku0c:Yes... I thought she might come here because it's so bustling, but no such luck.
+
+Ran6b:Still, it's quite unusual for a celestial to come to the surface out of boredom.
+
+Chen2b:Why is that, Miss Ran?
+
+Yuyuko1a:Celestials earn the right to live in Heaven through their ascetic training.
+
+Yuyuko0a:Since they abandon all desire, it shouldn't be possible for them to be bored of anything, even a life of singing and dancing all day.
+
+Youmu3a:So why would this Tenshi want to leave?
+
+Iku4a:The circumstances of how the eldest daughter's family became celestials are somewhat unique.
+
+Alice2c:How so?
+
+Iku0e:The Hinanawis were a priest family serving the Nawi clan. When the Nawi clan was deified, they were allowed into Heaven in recognition of their service.
+
+Reimu1b:So they got to be celestials as a hand-out from their masters?
+
+Iku0b:That's right. The Eldest Daughter in particular was quite young when it happened.
+
+Iku4c:Unlike the others, she hadn't yet cultivated herself as a priest.
+
+Marisa0e:So it was nepotism, gotcha.
+
+Iku4b:Indeed. She's sometimes been mocked as the delinquent celestial.
+
+Yukari4c:Given that she stole one of their treasures, that's somewhat inevitable.
+
+Yukari1a:Considering their rigid social hierarchy, she should at least know her place and act like it.
+
+Iku3c:To be fair, she does read classical literature and eat peaches like the other celestials.
+
+Iku5c:Though I must admit she's excessively unruly all the same.
+
+Ran4a:So her selfishness is ingrained in her...
+
+Ran6b:Ah, I believe there's a commotion over there.
+
+<single>
+
+Kappa4b:Excuse me Miss, you're causing a scene!
+
+</single>
+
+<hide=name>
+
+Tenshi5a:What are you on about? I just want to give this back because I don't need it.
+
+</hide>
+
+Kappa4a:I told you, we have a strict no-returns policy.
+
+Tenshi0c:"A lifetime of yielding the road won't lose you more than a hundred paces."
+
+Tenshi6a:So stop making a big deal of it and find it in your heart to yield!
+
+Kappa4b:I'm sorry Miss, but that doesn't mean you can just—
+
+Tenshi2a:I'm giving you a chance to put that into practice.
+
+Iku1c:Eldest daughter! So this is where you were.
+
+Tenshi1d:Ugh, Iku?!
+
+Iku4c:I apologize for whatever trouble she's caused, shopkeep.
+
+Letty0d:This is the infamous Tenshi?
+
+Iku0e:I've been looking for you. I can't believe you stole the Sword of Hisou.
+
+Tenshi1e:Just leave me alone, I need it for...
+
+Tenshi0d:Wait, what's going on here? Are you mingling with humans?
+
+Iku0a:I believe you mean terrestrials. And they've been kind enough to help me search for you.
+
+Marisa0c:Don't think of me as just any human, though. We're incident resolution experts.
+
+Tenshi0e:Incident resolution? Then that shrine maiden over there must be...
+
+Reimu0b:Reimu Hakurei, yes. I'm the real expert here.
+
+Tenshi1e:Who'd have though that Iku would bring people like THIS with her?
+
+Tenshi6a:Heh heh heh, as always, the Heavens must be on my side!
+
+Youmu2b:Huh...?
+
+Tenshi1a:I came to Gensokyo to start an incident.
+
+Tenshi1c:So if the specialists are already here, then that just speeds things along!
+
+Iku1c:What are you saying, Lady Tenshi?
+
+Tenshi3a:Maybe things are moving a bit TOO fast, but a little excitement's healthy, right?
+
+Alice1b:Are you serious? You plan to cause an incident?
+
+Reimu4a:If you're just joking, I suggest you take it back fast.
+
+Tenshi1b:Please, I've got better things to do than joke around. Now, show me that strength I've heard so much about!
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP（出撃前）
+
+<Code=(icon_set_direction,Tenshi_en,FD_LEFT,0)>
+
+Tenshi1c:Come at me! I'm over here!
+
+<nomove>
+
+<Code=(cursor_jump,272,272,1)>
+
+Reimu0d:Geez, looks like she really is trying to start something.
+
+<Code=(cursor_jump,352,208,0)>
+
+Remilia4a:Oh, it's you girls. What's got you all so flustered?
+
+<Code=(cursor_jump,304,208,0)>
+
+Udonge4b:And who's that person shouting?
+
+<Code=(cursor_jump,272,272,0)>
+
+Marisa1d:That's Tenshi. We managed to find her, but now she's saying she's going to start an incident.
+
+<Code=(cursor_jump,352,208,0)>
+
+Minoriko1a:What? An incident?
+
+</nomove>
+
+Tenshi6a:Hmph, it seems my glorious presence is drawing the rats out of the woodwork.
+
+Tenshi1b:Now, come at me together!
+
+<nomove>
+
+<Code=(cursor_jump,352,208,1)>
+
+Shizuha2b:Uh, what? We're just here to see the thing.
+
+</nomove>
+
+Tenshi0c:What thing?
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,144,336,1)>
+
+Suwako0d:Well, up it goes. One custom-made ad balloon.
+
+Kanako1a:A prayer for peace, and a symbol of progress.
+
+Sanae3c:The giant youkai-style automatic doll, Hisoutensoku!
+
+<pause>
+
+Tenshi1b:Wh-What is that?!
+
+<nomove>
+
+<Code=(cursor_jump,272,272,1)>
+
+Cirno1a:Ooh, cool!
+
+<Code=(cursor_jump,304,208,0)>
+
+Akyu1a:That form... It's like I'm seeing the great youkai Daidarabocchi!
+
+Meiling1a:It's big enough to shock even the herald of calamity, Taisui Xingjun!
+
+Murasa3c:Looks like the sort of thing that would be popular with the village kids too.
+
+Unzan0a:...!
+
+Ichirin1a:Calm down, Unzan, we're not fighting it!
+
+</nomove>
+
+Tenshi5b:Hey! What's all this about? Why does that look so cool?
+
+Tenshi1b:No, that doesn't matter! Look at ME, not that thing!
+
+<nomove>
+
+<Code=(set_variable,step_2,1)>
+
+<Code=(chat_set_auto,1,75)>
+
+<Code=(cursor_jump,304,208,1)>
+
+Yamame1d:Oh, right. You're still here.
+
+<pause>
+
+<Code=(chat_set_auto,0,75)>
+
+Tenshi1e:Now unplug your ear and listen to me! I am a celestial come here from Heaven, Tenshi Hinanawi!
+
+Tenshi1c:With the power of the Sword of Hisou, I will bring chaos and ruin to the terrestrial realm!
+
+<nomove>
+
+<Code=(cursor_jump,352,208,1)>
+
+Patchouli0a:So she's the "Eldest Daughter" I've heard so much about. I'm finding it difficult to take her seriously.
+
+<Code=(cursor_jump,272,272,1)>
+
+Iku1b:Eldest daughter! Please stop this at once!
+
+</nomove>
+
+Tenshi2c:Shut up! And anyway, why are YOU here, Iku?
+
+Tenshi4a:It's not your job to babysit celestials, is it? So why come all the way after me?
+
+<nomove>
+
+<Code=(cursor_jump,272,272,1)>
+
+Iku4c:There was an opening in my schedule, so they pushed the task onto me.
+
+</nomove>
+
+Tenshi2e:...Figures. But fine! I'll just do as I please down here and then head home, okay?
+
+<nomove>
+
+<Code=(cursor_jump,304,208,1)>
+
+Kosuzu6a:It's looking less and less likely that she'll listen to reason.
+
+<Code=(cursor_jump,272,272,0)>
+
+Iku4c:Indeed. It seems our only choice is to let her get it out of her system.
+
+<Code=(cursor_jump,304,208,0)>
+
+Parsee0c:If she's going to start a fuss, we can't exactly leave her alone.
+
+Korin1c:Get ready to deploy, everyone!
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP（出撃後）
+
+Tenshi1c:I see I've drawn a whole crowd. Excellent! I hope you can entertain me.
+
+Tewi4a:You talk big, but do you even know who you're up against?
+
+Chen4b:Someone from Heaven wouldn't know much about the world, right?
+
+Yukari1a:More to the point, I doubt we should expect much in the way of common knowledge from someone with such a sheltered upbringing.
+
+Suwako3a:I don't know much about the situation here, but can we get this dealt with before the bazaar is over?
+
+Sakuya6a:At least we were given advance warning this time. Let's nip this incident in the bud, shall we?
+
+<end>
+
+<ChatID:3>---------------------------------------
+//2PP（あやはた）
+
+Parsee0c:I know the celestial's been confusing matters, but have any of you learned anything about Koishi?
+
+Youmu3a:Unfortunately, no.
+
+Nazrin6a:We've been looking for the pagoda too, but haven't found that either.
+
+Minoriko4a:So I guess our harvest isn't looking so good, other than Tenshi.
+
+Minoriko0b:And even that has us thrown into a danmaku battle for no reason.
+
+Aya1a:But what's life without a few surprises?
+
+Aya7b:With this incident, on top of Hisoutensoku, the readers are sure to have their eyes glued to the papers.
+
+Hatate4a:You can't think of your articles just in terms of their shock value.
+
+Hatate5b:You have to find the best theme, and carefully consider your wording...
+
+Aya0c:But events like these attract readers. What newspapers need is impact!
+
+Hatate1c:Then they'll just read it once and throw it away! You need to write articles that convey the truth!
+
+Meiling0a:Looks like they're at it again.
+
+Momiji4c:I'm sure a rivalry like that will do them good.
+
+Sanae0d:That's right. If they're getting angry it just means they're taking each other seriously.
+
+Hatate6a:Huh? What do you mean by that?
+
+Momiji4a:Don't you compliment each other's work when you've got no one else to talk with about it?
+
+Aya5a:Well I wouldn't say that. But despite the plainness of Hatate's articles, I do appreciate how refined they are. Relatively.
+
+Hatate6b:Yeah, and I do think it's impressive how in-your-face Aya's articles are, but...
+
+Lunasa3c:Then you understand each other's strengths. That's how a competition should be.
+
+Sho0c:Competition? Can't they just cooperate?
+
+Lyrica1a:No, we use competition even in our concerts!
+
+Merlin3d:The burning spirit of rivalry brings out your best performance!
+
+Aya1a:I certainly don't need you to tell me that. Allow me to show you how a senior reporter handles things, Hatate!
+
+Hatate1a:What about you Aya? Think you can keep up with me without giving it your all?!
+
+<end>
+
+<ChatID:4>---------------------------------------
+//3PP
+
+Mystia0c:Is she serious about starting an incident?
+
+Wriggle4b:Sure looks like it. She must be confident to fight us on her own too...
+
+Rumia0a:I bet she just doesn't have any friends.
+
+Tenshi1b:Shut up! I can hear you, you know!
+
+Cirno2b:Then the power of friendship is on our side!
+
+Mystia1a:Friendship, huh... Oh yeah, should we try out that thing we were talking about?
+
+Wriggle3d:Our own personal special move, with all our powers combined!
+
+Cirno1b:The strength of four in one attack!
+
+<end>
+
+<ChatID:5>---------------------------------------
+//天子初戦闘
+
+Tenshi1c:Finally! How long do you think I've been waiting here for you? Let's get this started already!
+
+Ran6a:She may be childish, but I can sense her strength. Don't underestimate her.
+
+Suika6a:So even if she's a delinquent celestial, she's still as strong as one? Is that it?
+
+Tenshi1d:Hey! Where'd you hear that?! Did Iku call me that?
+
+Letty1a:Although after seeing you cause all this fuss, it does seem appropriate.
+
+Tenshi2c:Shut up. I don't care what the other celestials call me.
+
+Tenshi0a:Today I'm going to show you commoners what it means to be a celestial!
+
+Iku0b:I know its hard to take her seriously, but she's not all talk. Make sure to watch out for the Sword of Hisou too.
+
+Iku1c:It reads the opponent's temperament and attacks their weaknesses.
+
+Patchouli0c:"Temperament"? In other words the emotions and personality that form your true nature?
+
+Marisa1b:Can a spoiled brat like you even use something as amazing as that?
+
+Tenshi2e:Training has no bearing on it. It's a weapon that can be used by any celestial.
+
+Tenshi1b:Now, prepare to have your temperaments laid bare and chopped clean through!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//天子通常撃破
+
+Sakuya0a:You're quite sturdy. Even with a blade, I don't seem to be scratching you.
+
+Tenshi2a:This is nothing. I guess it tickles a bit.
+
+Nitori2a:She really is tough...
+
+Tenshi6a:It seems you all DO have the power to oppose me though.
+
+Tenshi1a:But I'm the type who shines under pressure!
+
+Murasa0d:What are you planning?
+
+Tenshi0b:Heh. THIS!
+
+<pause>
+
+Meiling3d:Are those... rocks?
+
+Sanae1a:Those are no ordinary rocks! I can feel some kind of spiritual significance to them!
+
+Tenshi5a:Good eye. They're what's called keystones, which have the power to suppress earthquakes.
+
+Tenshi6a:If you stick them in, they control the land... but if you pull them out, it causes an earthquake. I wonder, can you see what I'm getting at?
+
+Eirin1d:Don't tell me you plan to stick those into Gensokyo and take its fate into your own hands?
+
+Eirin0d:I wasn't taking you lightly to start with, but you're proving more troublesome than I imagined.
+
+Tenshi1a:And I've already chosen my target! That run-down old shrine to the east!
+
+Reimu1a:Run-down?! Are you talking about my place?!
+
+Yukari2a:That serves as the lynchpin of the Great Barrier. I cannot allow this.
+
+Tenshi6a:Then try and stop me! Struggle with all your might!
+
+Tenshi1b:One false move and your precious land is getting keystoned!
+
+<end>
+
+<ChatID:7>---------------------------------------
+//天子スペル１撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Tenshi2a:How could you earthbound fools have seen through the movements of the keystones?!
+
+Reimu1a:You think we'd let you use dangerous rocks like those?!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Tenshi6a:So... you didn't see through it after all?
+
+Reimu0f:No, I saw it.
+
+Sanae0a:Me too, somehow.
+
+Aya3a:That sort of thing doesn't come free with seniority, it takes practice.
+
+</Cond>
+
+Tenshi2a:But I haven't forgotten my trump card!
+
+Tenshi1b:The Sword of Hisou!
+
+<pause>
+
+Youmu1a:Its blade is made of a scarlet mist!
+
+Remilia1c:And it's not just magical energy either, it's the embodiment of that temperament stuff.
+
+Iku1c:Eldest daughter, you can't just use a Heavenly treasure as you please.
+
+Tenshi2c:Shut up, Iku. Isn't it their fault for not noticing when I took it?
+
+Tenshi2e:Everyone in Heaven is always just performing boring songs and dances. They never pay attention to anyone else.
+
+Tenshi1c:That's why it doesn't matter what I do!
+
+Keine1a:What kind of logic is that for a celestial?! Aren't you supposed to be guiding humanity?
+
+Yamame0d:Just calm down already! Can't we start this over from the top?
+
+Tenshi0e:I don't care what you say, in the end I'm a real celestial! I can use this sword, can't I?!
+
+Tenshi1b:Sword of Hisou, draw out these people's scarlet hearts!
+
+<end>
+
+<ChatID:8>---------------------------------------
+//天子スペル２撃破（クリア）
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Tenshi4a:No way... I lost?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Tenshi1d:Ugh, they got away!
+
+</Cond>
+
+Yugi3b:You've got a lot of power in that stream, but it's not quite there yet.
+
+Kaguya2c:That uncontrolled flow of temperament was nothing but brute force.
+
+Kaguya0a:That treasure of yours should be capable of far more than that.
+
+Tenshi2d:I get enough lectures at home. And it'd be the same no matter who was using it.
+
+Tenshi0c:No celestial is going to pay that much attention to every little surface dweller's temperament.
+
+Keine0b:Is that how they think in Heaven then?
+
+Iku0c:Regardless, Eldest Daughter, you've gotten what you wanted.
+
+Iku0b:With that out of your system, let's return to Heaven.
+
+Tenshi4a:H-Hey! Give a girl a little break after she goes on a rampage!
+
+Tenshi0a:And I'm sure the commoners would be HONORED to receive my words of wisdom.
+
+Akyu0b:Not particularly...
+
+Kurumi0a:Wait, are you saying you just want to talk with us?
+
+Yukari0a:Very well then, we can have a little chat before you leave.
+
+Yukari4c:Let's land somewhere and have a nice.... leisurely... conversation.
+
+<end>
+
+<ChatID:9>---------------------------------------
+//ADVB
+
+<MAP=11,FROM=バザー,TO=バザー,name=Bazaar Grounds,icon=4>
+
+<BG=*bg_talk_Mountain_Spring.png,fade=1,color=1,title=*bg_Bazaar,bgm=bgm_talk_ningyo>
+
+Tenshi3c:Whew, I'm beat.
+
+Patchouli4a:You do realize that you're the one who picked a fight and caused everything, right?
+
+Sakuya5b:You seem awfully relaxed for someone whose plans were just foiled.
+
+Hina0c:You were saying all that about causing an incident, but what was your aim exactly?
+
+Tenshi0a:Well, you know, I was bored of Heaven so I just wanted some excitement.
+
+Tenshi0b:And I heard that if I caused an incident on the surface, I'd be able to have some fun with the incident resolution specialists.
+
+Akyu3c:It's actually refreshing to hear such an honest answer.
+
+Reimu2b:Not that we don't have other people with similar motives here.
+
+Remilia3d:Hm? Why are you looking at me?
+
+Suika1a:I can totally relate too!
+
+Yukari0b:But even so, attempting to put a keystone into the shrine for such a flimsy reason can only be called shortsighted.
+
+Yukari2a:I cannot forgive that simply because you were playing around.
+
+Tenshi6a:What's the problem? Even if I'd succeeded, that would just bond me to this place.
+
+Yukari0a:So even with the surplus of land in Heaven, you'd seek to create a second residence here?
+
+Tenshi1e:Shut up? And who do you think you are anyway?
+
+Tenshi4c:You're all just jealous that you're stuck on the surface.
+
+Yukari1a:Goodness gracious, it seems taking you seriously for even a moment was a waste of my time.
+
+Yukari2b:I had planned to lecture you, but at this point, engaging you further would just give me a headache.
+
+Youmu2b:I'm impressed, Tenshi, I've never seen anyone drive Lady Yukari to say all that.
+
+Udonge3b:And you're praising her for that? They just have opposing wavelengths. They'd annihilate each other before they got along.
+
+Iku1b:Anyway, I'm glad you've been taking good care of it, but you still stole the Sword of Hisou. Please reflect on the error of your ways.
+
+Iku0a:Once we get back to Heaven, I'm sure you'll get plenty of scolding.
+
+Tenshi2a:Hmph. It was just collecting dust in a storehouse. No one's going to miss it.
+
+Tenshi0a:Anyway, no one up there cares what I do.
+
+Meiling0c:No one cares? But aren't you all celestials?
+
+Tenshi0d:As far as they're concerned, I'm just the delinquent celestial. No one gives two flips about me.
+
+Tenshi0b:So even if I study my butt off and live by the proverbs, it's just not that easy.
+
+Minoriko4a:Sounds like life in Heaven has its share of troubles too, huh?
+
+Koakuma0a:So you came here to take your mind off things?
+
+Tenshi3c:Pretty much, yeah. I'm feeling better already.
+
+Sunny0a:Then why not come play with us here WITHOUT starting an incident?
+
+Daiyosei0b:Yeah! If you don't mind, that is...
+
+Tenshi4c:Huh? With you all? Are you out of your mind?
+
+Parsee0a:Yeah yeah, I bet you'll be back in no time.
+
+Parsee0c:Just so you know, it's cuter to admit it after you've been exposed.
+
+Tenshi4b:Ugh... Fine, if you care that much I might show up every now and then.
+
+Elliy4b:Can't you just accept an invitation gracefully?
+
+Keine0b:In any case, I suppose we can consider the Tenshi case closed.
+
+Keine0a:I'm sure you have to report this, so be careful on the way back to Heaven.
+
+Iku3c:Yes, thank you. You have my deepest gratitude. I'll be sure to pay you back some day.
+
+Tenshi3b:Watching you grovel before the surface dwellers like that is—
+
+Tenshi1d:Watching you grovel before the surface dwellers like that is— mmph!
+
+Iku4c:Eldest daughter, please consider your position before you speak.
+
+Yugi1a:Anyhow, guess we'll get back to looking for Koishi.
+
+Suika1a:Good idea. We should cover more ground while it's still daylight.
+
+<Code=(map_shake,1,60,2)>
+
+<SE=se_talk_quake.ogg,wait=1>
+
+Reimu0e:..!
+
+Tenshi1e:Huh? What's that sound?
+
+<Code=(sound_fadeout,BGM,30,0)>
+
+<BGM=bgm_talk_emergency,0>
+
+Kappa2a:E-Emergency! It's an emergency!
+
+KappaC2b:M-Miss Kawashiro! Something terrible happened!
+
+Nitori2a:Wh-What is it? Does it have something to do with that noise?
+
+Kappa2a:A kedama... a bunch of black kedama attacked!
+
+KappaC2b:At this rate, they'll ruin our bazaar!
+
+Marisa2b:Black kedama?!
+
+Reimu1a:Let's go, everyone!
+
+<end>
+
+<ChatID:10>---------------------------------------
+//おまけ会話（非想天則）
+
+Meiling0a:Ooh, so this is the balloon the Moriya Shrine made.
+
+Reimu1b:Huh. The more I stare, the weirder it looks.
+
+Sanae6b:Don't call it weird! We all worked together on that design!
+
+Reimu3a:Geez, excuse me.
+
+Kanako2b:It really takes me back. I remember watching these cartoons on TV with Sanae when she was a kid.
+
+Sanae3c:Yeah... Shooting its arm, or docking with its wings...
+
+Marisa0a:That does sound cool as heck, admittedly.
+
+Shizuha0a:So can this balloon move on its own?
+
+Nitori3c:Eh, that'd be difficult, even for us.
+
+Nitori3e:But speaking of which, it may not necessarily be just a balloon.
+
+Youmu0b:What do you mean?
+
+Suwako0d:If we're not careful, it could become a tsukumogami.
+
+Suwako0a:That's why we made it a mindless doll that runs on hot air.
+
+Nazrin0a:Hisoutensoku... Just like the name implies, it ignores natural law.
+
+Sho0a:Its thoughtless form is close to the state of enlightenment though. I can tell.
+
+Minoriko3a:But doesn't it kinda look like someone could hop inside and make it move around?
+
+Patchouli4e:Try to keep your ridiculous daydreams to yourself please.
+
+<end>
+
+<ChatID:11>---------------------------------------
+//敗北時
+
+Reimu2a:Ugh... She got us good.
+
+Keine2a:Is that it then? We have no choice but to let her do this?
+
+Tenshi5a:What are you, stupid? If it's over already then what was the point?
+
+Tenshi5a:Use a continue and entertain me more.
+
+Elliy4a:Actually, I'm tired. I'mma take a break.
+
+Aya1a:Then I'll take this opportunity to get a good picture of Hisoutensoku.
+
+Tenshi1d:Hey, where are you going?! Look at ME!
+
+Tenshi1c:"The only true mistake is not correcting your mistakes." I'll give you another chance, so figure what you did wrong and come at me again!
+
+<end>
+
+<ChatID:12>---------------------------------------
+//天子vs.霊夢
+
+Tenshi1a:I've been waiting for you, incident-resolving shrine maiden.
+
+Reimu0d:Gee, thanks for the warm welcome.
+
+Tenshi5a:Living in Heaven is so boring. It's just singing and dancing and drinking every day, forever.
+
+Tenshi1c:But you of all people should be able to relieve my boredom!
+
+Reimu1a:Your problem, not mine. I don't care if you're a celestial or just some weirdo, anyone who starts an incident gets exterminated!
+
+<end>
+
+<ChatID:13>---------------------------------------
+//天子vs.魔理沙
+
+Marisa0a:You're the first mastermind to openly declare war on us, you know.
+
+Marisa1d:Oh wait, since you haven't actually done anything yet I guess you're just a mastermind wannabe?
+
+Tenshi0b:Laugh while you can, foolish commoner!
+
+Tenshi0a:The very land itself is under my direct—
+
+Marisa0a:Your speech is too long! Stop rambling and fight me already!
+
+Tenshi1b:How dare you take that tone with me. But you'll be crying soon enough!
+
+<end>
+
+<ChatID:14>---------------------------------------
+//天子vs.早苗さん
+
+Tenshi1e:"To boast of one's talents is to lose one's merits." You should remember this if you wish to win people's hearts.
+
+Tenshi5a:It's precisely because you have the power of a god that you need to be careful how you use it.
+
+Sanae1a:Y-Yes! I'll be careful!
+
+Sanae1d:Oops, I reflexively bowed.
+
+Tenshi1a:A natural reaction to a celestial bestowing their wisdom.
+
+Sanae0g:That kind of sounds like boasting to me...
+
+Tenshi5a:No talking back! Giving advice is MY job!
+
+<end>
+
+<ChatID:15>---------------------------------------
+//天子vs.アリス
+
+Alice0a:So apparently you used to be a human living on the land, long ago?
+
+Alice0a:That said, you don't seem to think like a human.
+
+Tenshi0b:Right. I may have been born on the earth, but I was raised in Heaven.
+
+Alice2b:I've heard that you haven't been fitting in, but you certainly have a lot of pride as a celestial.
+
+Tenshi0a:Of course I do! What could be more wretched than belonging NOWHERE?
+
+<end>
+
+<ChatID:16>---------------------------------------
+//天子vs.妖夢
+
+Youmu0b:Phantoms are the embodiment of temperament... So a sword that controls temperament could...
+
+Tenshi0b:Yup. You could even call it a ghost cutter.
+
+Youmu1a:With that, you could disrupt the entire cycle of reincarnation!
+
+Tenshi0a:Not a bad idea... Sounds like it'd make a great incident. So, just try and stop me!
+
+<end>
+
+<ChatID:17>---------------------------------------
+//天子vs.咲夜さん
+
+Tenshi0e:Are you a servant? I have no business with you.
+
+Sakuya3b:That's quite an attitude.
+
+Tenshi0e:I wanted to fight the incident resolution specialists, not some mere maid.
+
+Sakuya0a:Then rest assured, I happen to dabble in incident resolution. I'm Gensokyo's number one maid.
+
+<end>
+
+<ChatID:18>---------------------------------------
+//天子vs.鈴仙
+
+Udonge4a:Giving advance warning of your crimes? Aren't you just being a nuisance?
+
+Tenshi0b:Fine by me, if I can play with the Earth's big-shots.
+
+Tenshi0e:Well, that said, it looks like you're not from Earth. So I guess I don't really care what you do.
+
+Udonge1b:Take this seriously!
+
+<end>
+
+<ChatID:19>---------------------------------------
+//天子vs.小町
+
+Tenshi1d:You're a shinigami, aren't you? Don't tell me you came here for me?
+
+Komachi1b:Oh, not at all, I'm just a humble Sanzu ferrywoman. I don't handle the pick-ups.
+
+Komachi1a:But even so, I can't exactly leave you swinging around that sword and cutting temperament.
+
+Tenshi1a:Heh heh heh, to think the Sword of Hisou would serve as bait for even a shinigami!
+
+Tenshi1c:Defeating shinigami who come after me has been one of my few pleasures in Heaven. You can entertain me too!
+
+<end>
+
+<ChatID:20>---------------------------------------
+//天子vs.萃香
+
+Tenshi5a:Are you an oni? They still have those in the terrestrial realm?
+
+Suika1a:I came here recently. I've been focused on trying to find a good place to hang out.
+
+Suika6d:Say, you've got a lot of space up in Heaven, right? Think I could borrow some to hold parties?
+
+Tenshi1b:What a joke! You may have thrown your weight around on the surface, but that will never work on me!
+
+<end>
+
+<ChatID:21>---------------------------------------
+//天子vs.勇儀
+
+Tenshi1e:You're an oni, right? And quite a capable one at that...
+
+Yugi0a:Life sure is full of surprises, huh? I get to fight someone like you.
+
+Yugi1a:So why don't we get this started already? Or did you have something to ask me?
+
+Tenshi5a:Speak not of supernatural phenomena. Using words with someone like you would be in poor taste.
+
+<end>
+
+<ChatID:22>---------------------------------------
+//天子vs.リグル
+
+Tenshi1e:"It is easy to muster an army, but hard to find a general." You won't scare me with just numbers.
+
+Wriggle0c:That's why I have to be the leader!
+
+Tenshi1c:"Actions are the best teacher." Your words are meaningless if you can't back them up!
+
+<end>
+
+<ChatID:23>---------------------------------------
+//天子vs.ミスティア
+
+Mystia0a:So you can sing all you want in Heaven? Sounds fun!
+
+Tenshi0e:Give it up. They aren't like the songs you sing.
+
+Tenshi0e:The folks up there would just consider you noise pollution.
+
+Mystia1d:I'm used to that! Music is all about tearing down society!
+
+Tenshi1d:That's a rather radical view...
+
+<end>
+
+<ChatID:24>---------------------------------------
+//天子vs.衣玖
+
+Iku0c:So you're planning to start an incident on the surface? How barbaric.
+
+Iku1b:It seems I'll need to give you a scolding.
+
+Tenshi5a:You're just a servant, Iku. Why should you care?
+
+Iku0b:But I have orders to bring you back.
+
+Tenshi1e:Hmph, orders. If you're only here on orders, then why're you meddling in my business?
+
+Tenshi1c:Just leave me alone, or I'll make you!
+
+Iku1b:I suppose I have no choice.
+
+<end>
+
+<ChatID:25>---------------------------------------
+//天子vs.パチュリー
+
+Patchouli0b:So that sword of yours is turning temperament into mist. Which means if you gather enough then...
+
+Tenshi0b:It can change the atmosphere, in other words the weather.
+
+Tenshi0a:If I wanted to, I could show this place a weather that no one's ever seen before.
+
+Patchouli0c:Weather changing magic, hmm. I'd be more interested if we were still keeping Flan locked up.
+
+<end>
+
+<ChatID:26>---------------------------------------
+//天子vs.チルノ
+
+Cirno1a:I'm the strongest, so I'm gonna beat you!
+
+Tenshi0b:So even before a celestial like me, you feel no fear and can even enjoy yourself.
+
+Tenshi0a:With passion you forget to eat, with joy you forget your worries. Maybe the lifestyle that Confucius strived for was one like yours.
+
+Cirno5d:Uh... Confucius? Strive? What's that mean Dai?
+
+Daiyosei4d:D-Don't ask me! Miss Keine would know...
+
+Tenshi0d:...Although you still need a bare minimum amount of intelligence.
+
+<end>
+
+<ChatID:27>---------------------------------------
+//天子vs.ルーミア
+
+Tenshi1c:"Whiling away the days with gluttony." Since it seems like you don't think much either, you're beyond saving, even for a youkai.
+
+Rumia0a:Ooh, really?
+
+Tenshi5a:Are you even listening? I'm saying you're dumb.
+
+Rumia1a:Why should I care what you say?
+
+Tenshi2c:Geez, giving these people advice isn't even any fun.
+
+<end>
+
+<ChatID:28>---------------------------------------
+//天子vs.永琳
+
+Tenshi1c:"Too much of a medicine is a poison." If you're ensnared by your own values, then—
+
+Eirin1a:I see you've forced yourself to study the classics in order to seem more "Heavenly".
+
+Tenshi1d:I-It's not like I had to force myself!
+
+Eirin0e:I do agree that sort of education is necessary though. I start my own students on it from a young age.
+
+Tenshi5a:Hmph! You're just a terrestrial. Don't try to act cool!
+
+Eirin4a:If you've failed to recognize me for who I am, then I suppose even Heaven sits below the moon.
+
+Eirin5d:"A frog in a well knows nothing of the ocean." Perhaps that one won't go over your head?
+
+Tenshi2e:Now you're just making fun of me!
+
+<end>
+
+<ChatID:29>---------------------------------------
+//天子vs.レミリア
+
+Remilia4a:Really, now. If you're going to cause an incident, at least make it one worth investigating.
+
+Tenshi5a:What do you mean by that?
+
+Remilia0a:You know, like one where I'd have to interview each suspect one by one in a library or something.
+
+Remilia4a:If the culprit just blurts it out right away, then where's the fun in that?
+
+Tenshi1b:Who are you supposed to be, anyway? Whatever, just make this fun for me!
+
+<end>
+
+<ChatID:30>---------------------------------------
+//天子vs.妹紅
+
+Tenshi0d:Your temperament is different from the other humans...
+
+Mokou4a:Yeah, yeah, spare me the sermon.
+
+Tenshi1b:Hey! How often do you get the chance to be bestowed words of wisdom by an honest-to-god celestial?!
+
+Mokou0b:I've heard enough lectures to last a lifetime. How about you tell me all about Heaven instead? Not like I'm ever going to see it myself.
+
+<end>
+
+<ChatID:31>---------------------------------------
+//天子vs.慧音
+
+Tenshi1a:"Those who study are no match for those who practice." Knowledge itself is nothing to brag about.
+
+Keine0a:Hm, I'd hear you were a delinquent, but you're quite well-read. I respect that.
+
+Keine0b:But can you really say that you yourself are putting those words into practice?
+
+Tenshi1d:Huh? Um... I mean, probably?
+
+Keine2b:Speak clearly. If you're going to give advice, you need to be able to follow it first.
+
+Tenshi0a:Fine, fine, I get it...
+
+Keine1a:Are you even listening, you fool?!
+
+<end>
+
+<ChatID:32>---------------------------------------
+//天子vs.紫
+
+Yukari0b:We've caught you.
+
+Tenshi5a:I LET you catch me. It wouldn't be any fun otherwise.
+
+Yukari0a:Feel free to start incidents, but could you refrain from anything that would threaten Gensokyo?
+
+Tenshi1a:Like a smelly youkai crawling in the dirt could ever stop me.
+
+Tenshi1c:To be poor without grumbling is difficult. No wonder you earth-dwellers are so twisted!
+
+Yukari4c:To be rich without pride is easy. Learn from the dirt, even if you must lick it.
+
+<end>
+
+<ChatID:33>---------------------------------------
+//天子vs.ゆゆ様
+
+Yuyuko0a:Controlling temperament? What an interesting toy you've got there. I'll borrow it for a bit.
+
+Tenshi1b:Is this a snowy temperament...? Are you controlling it?
+
+Yuyuko1a:Humans really can do anything if we put our minds to it, you know?
+
+Yuyuko1c:I live freely by emptying my mind and thinking of nothing. Well, not LIVE exactly, but you know.
+
+Tenshi0d:If you're making fun of me, you'll regret it.
+
+Yuyuko1a:Why would I make fun of someone who's reached Bhavagra? Why don't we just enjoy the snow together?
+
+<end>
+
+<ChatID:34>---------------------------------------
+//天子vs.文
+
+Aya0a:Even if you're an honored celestial, now that you've come to the surface I'll be taking pictures, thank you very much.
+
+Tenshi1a:So you wish to capture me in action, huh? In that case, I'll make this interesting...
+
+Aya0a:No no no, that's not the theme here. I already took the pictures anyway.
+
+Aya7b:See? Look at your dumb expression when you first saw Hisoutensoku. Isn't it the best?
+
+Tenshi1b:Hey, when did you take that?! Hand it over!
+
+<end>
+
+<ChatID:35>---------------------------------------
+//天子vs.パルスィ
+
+Parsee0d:A celestial, huh? I bet you sing and dance all day without a care in the world.
+
+Tenshi5a:Yeah, and it gets real old real fast.
+
+Parsee2a:And there it is! That condescending attitude of someone who doesn't know how good they have it!
+
+Parsee0a:Ah... What I wouldn't give for one day, just one day, in the shoes of a celebrity...
+
+Tenshi1e:If they're just going to be jealous of me, then this whole thing was a waste of time.
+
+<end>
+
+<ChatID:36>---------------------------------------
+//天子vs.キスメ
+
+Tenshi0b:Your bucket looks pretty sturdy.
+
+Kisume3d:Yeah, I'm proud of it.
+
+Tenshi1a:But it should be nothing to one such as I, who's achieved freedom from worldly thoughts.
+
+Tenshi1c:Now, care to test it out?
+
+Kisume2b:Wh-What do you mean by test...?
+
+Tenshi1c:Isn't it obvious! Now, what's wrong?!
+
+Kisume2b:Y-You're kinda scaring me...!
+
+<end>
+
+<ChatID:37>---------------------------------------
+//天子vs.ヤマメ
+
+Yamame0a:A celestial, huh? Just as arrogant as they say.
+
+Tenshi0a:Ugh, one of those dirt-dwellers. So gloomy and... petty.
+
+Tenshi0b:Even the word "dirt" sounds lame.
+
+Yamame1d:Says the girl who has the word "Heaven" right in her name. Pretentious much?
+
+Tenshi0a:The name represents the body. It's perfectly suited for a resident of Heaven.
+
+<end>
+
+<ChatID:38>---------------------------------------
+//天子vs.てゐ
+
+Tewi0a:The Hinanawis, huh? I've heard they were a pretty upstart family.
+
+Tenshi5a:You speak as if you know us.
+
+Tewi0a:When you've been around as long as I have you pick up some gossip here and there.
+
+Tewi0a:I don't know of you personally, but I pretty much know the whole family structure.
+
+Tenshi1b:Don't act so proud over such shallow knowledge.
+
+<end>
+
+<ChatID:39>---------------------------------------
+//天子vs.大妖精
+
+Daiyosei0a:You'll just be troubling people if you start an incident...
+
+Tenshi0b:Then stop me. You're right here, aren't you?
+
+Daiyosei2c:Y-Yeah! I am! I need to do my best too...
+
+Tenshi0a:How admirable. But a pig doesn't grow wings.
+
+<end>
+
+<ChatID:40>---------------------------------------
+//天子vs.三月精
+
+Sunny5a:Um, I have a question, Miss Tenshi. How do you get to Heaven?
+
+Tenshi5a:What, you wish to become a celestial?
+
+Luna3c:I mean, they say that in Heaven you can just sing and dance every day...
+
+Tenshi5a:Life isn't that sweet up there.
+
+Tenshi1e:Well, I suppose I couldn't dictate how you'd personally feel about it.
+
+<end>
+
+<ChatID:41>---------------------------------------
+//天子vs.ルナサ
+
+Lunasa0a:From you, I hear the sound of the earth...
+
+Tenshi5a:Of course, since I manipulate the land.
+
+Lunasa0a:No, that's not it. It's the sound of one raised in the soil.
+
+Lunasa0b:With this sound, you'll never make a good celestial.
+
+<end>
+
+<ChatID:42>---------------------------------------
+//天子vs.メルラン
+
+Tenshi1a:"Disaster can be transmuted into fortune." Even misfortune is nothing to worry over.
+
+Merlin1c:Nope! "Fortune only comes through a smiling door!"
+
+Tenshi5a:Wh... Did you just contradict me?
+
+Merlin2b:Unless you keep your face happy, your happiness will slip away!
+
+Tenshi1b:I didn't ask for your advice! I know how to have fun on my own!
+
+<end>
+
+<ChatID:43>---------------------------------------
+//天子vs.リリカ
+
+Tenshi1a:"Rely on yourself before others." Know that in the end, you're the only one you can count on.
+
+Lyrica1b:Huh, so you're saying it's wrong to lean too much on others? But that's the easiest way!
+
+Lyrica0c:Still, I like the rhythm of that little phrase. I think I'll be borrowing that!
+
+Tenshi1b:Now hold on, the wisdom of a celestial isn't just cheap music!
+
+<end>
+
+<ChatID:44>---------------------------------------
+//天子vs.藍
+
+Ran0a:I've heard much about the celestials from Lady Yukari.
+
+Ran0a:That they believe themselves to be chosen ones, and look down on others.
+
+Tenshi1c:That's just natural when you have our status.
+
+Ran6a:And that's why I'll teach you here and now that it's nothing but conceit.
+
+<end>
+
+<ChatID:45>---------------------------------------
+//天子vs.橙
+
+Chen4b:Ooh, what do I do? Miss Ran told me not to play with delinquents.
+
+Tenshi1c:...If you're saying that, I have my doubts as to whether you really want to play with me at all.
+
+Tenshi1c:But, well, "the company of a wise man is as plain as water." Be more broad-minded.
+
+Chen2b:Sh-She's an educated delinquent!
+
+<end>
+
+<ChatID:46>---------------------------------------
+//天子vs.村紗
+
+Tenshi0e:Despite the way you carry yourself, your true disposition is rather gloomy.
+
+Murasa0a:I mean, I'm a ship phantom. What did you expect?
+
+Tenshi0b:But if you let that spirit loose, won't that make fighting feel even better?
+
+Murasa1b:Keep your advice to yourself. I won't let anyone else tell me how to live my life.
+
+<end>
+
+<ChatID:47>---------------------------------------
+//天子vs.一輪
+
+Tenshi0b:That nyudo has quite the violent disposition... If I unleash it with the Sword of Hisou—
+
+Unzan0a:...!
+
+Ichirin1a:N-No, Unzan! You can't go wild here!
+
+Tenshi0a:See? His brutality is emerging.
+
+Ichirin1b:No no no, Unzan was saying "I'd like a word with this brat's parents!"
+
+Tenshi2c:Geez, what an old man...
+
+<end>
+
+<ChatID:48>---------------------------------------
+//天子vs.霖之助
+
+Kosuzu3e:Wooow! That sword of light is so cool!
+
+Korin0a:The Sword of Hisou, huh? Heaven sure has some interesting things.
+
+Tenshi0b:And what about you? A flying ship is pretty notable itself.
+
+Tenshi0b:An earthbound human might even look up and mistake you for a denizen of Heaven.
+
+Korin0b:Hm, owning something high-status can definitely impart some prestige by association, but this boat is just borrowed.
+
+Korin0b:Although if you're fine with second-hand dignity from something you've borrowed, I suppose that's your own business.
+
+Tenshi5a:Hey! What are you implying?!
+
+<end>
+
+<ChatID:49>---------------------------------------
+//天子vs.秋姉妹
+
+Tenshi1c:With this Sword of Hisou, I'll draw out your true nature and—
+
+Minoriko1b:No need for that, I already know what my temperament is!
+
+Tenshi5a:What?
+
+Minoriko1a:It's autumn, duh! And my sister's is also autumn!
+
+Shizuha1a:And together we're the autumn sisters!
+
+Tenshi1d:That's... That's not a temperament. That doesn't exist.
+
+<end>
+
+<ChatID:50>---------------------------------------
+//天子vs.神奈子
+
+Kanako0b:I can feel something like divine power from those stones of yours.
+
+Tenshi1a:Good eye. It's no surprise though, since they were enshrined for their power to stop earthquakes.
+
+Kanako1b:Then comport yourself with more grace. Faith cannot emerge without both form and reality together.
+
+Tenshi1c:I'll think about it—after I drive mine into the ground and create a dwelling for myself.
+
+<end>
+
+<ChatID:51>---------------------------------------
+//天子vs.諏訪子
+
+Tenshi0a:Virtue is the source of vendetta. Curse gods originally manifested from divine virtues.
+
+Tenshi0a:If you're going to call yourself a god, you should understand your own nature—
+
+Suwako0d:Yeah, no duh.
+
+Tenshi5a:Oh, uh... Well, as long as you get that...
+
+Suwako1c:You're only reciting that secondhand. I, on the other hand, have been a god for a long time now.
+
+Suwako1e:Virtues and curses are two side of the same coin. Now choose—worship me, or suffer my curse!
+
+<end>
+
+<ChatID:52>---------------------------------------
+//天子vs.雛
+
+Tenshi1d:Ew, you're covered with misfortune. Sucks to be a surface dweller, I guess.
+
+Hina0a:Even Heaven should have its own misfortune. It's not good form to act like you're above such things.
+
+Tenshi5a:But that's what Heaven does best. And not just with misfortune, either—they do the same thing it comes to people's feelings.
+
+<end>
+
+<ChatID:53>---------------------------------------
+//天子vs.美鈴
+
+Tenshi1a:Mount Tai does not let its soil run. You should thank the one who left you here.
+
+Meiling6a:Ooh! So you've read the Chinese classics?!
+
+Tenshi1d:Uh, well, a little...
+
+Meiling5a:Finally, someone I can talk to about this stuff! Lady Patchouli and Yukari are just so... hard to approach.
+
+Tenshi1d:S-Sorry, but I don't hang out with geeks.
+
+<end>
+
+<ChatID:54>---------------------------------------
+//天子vs.小悪魔
+
+Koakuma5b:I hear Heaven's specialty is peaches, but would you really get enough nutrition just from them?
+
+Koakuma0b:Like, wouldn't your skin start chapping, or you'd lose a lot of weight?
+
+Tenshi0b:What a useless thing to worry about. But don't worry, the peaches of Heaven are special.
+
+Koakuma3d:Wow, that sounds amazing! Can you please bring a few sometime?
+
+<end>
+
+<ChatID:55>---------------------------------------
+//天子vs.フラン
+
+Flan0b:If I said I wanted to see Heaven, I wonder if Remi would take me there...
+
+Tenshi5a:Who knows? But the people up there don't take too kindly to terrestrial creatures. I'd be ready for that, if I were you.
+
+Flan0a:Tee hee hee, then I can play as much as I want!
+
+Tenshi1e:I get the feeling I shouldn't let her anywhere near Heaven...
+
+<end>
+
+<ChatID:56>---------------------------------------
+//天子vs.椛
+
+Momiji0a:So you're saying we can reach Heaven just by traveling a long way up from Youkai Mountain?
+
+Tenshi5a:I wouldn't recommend trespassing in our territory.
+
+Momiji0a:Certainly, I respect that. In which case, you shouldn't come down and trespass in ours either.
+
+Tenshi1a:Remind me again, which of us is the celestial? And which of us isn't?
+
+Momiji3c:Good grief, this person...
+
+<end>
+
+<ChatID:57>---------------------------------------
+//天子vs.にとり
+
+Nitori1d:I heard from the other kappa that you've been forcing them to accept returns?
+
+Tenshi5a:What does force have to do with this?
+
+Tenshi5a:If I don't need something I return it. I don't want clutter.
+
+Nitori1c:You're calling our inventions clutter? Wow.
+
+Nitori1b:Okay, I'm mad now. When we win, you're taking home ALL our surplus inventory!
+
+Tenshi1d:What? Inventory?
+
+<end>
+
+<ChatID:58>---------------------------------------
+//天子vs.はたて
+
+Hatate4a:Celestials don't usually like leaving Heaven, do they?
+
+Hatate0c:Of the humans, the intellectual sinners go to Hell, the foolish majority go to the Netherworld, and the truly unusual go to Heaven, right?
+
+Tenshi5a:Where did you hear that?
+
+Hatate6a:Wait, is it not true?!
+
+Tenshi1c:Well, you're not wrong that celestials are special. Be respectful, though.
+
+<end>
+
+<ChatID:59>---------------------------------------
+//天子vs.輝夜
+
+Kaguya0a:I agree that a life without change is nothing but boredom.
+
+Kaguya1b:But then wouldn't the quickest way to escape that life be to commit some great sin and be banished from Heaven?
+
+Tenshi5a:Don't be ridiculous. If I did that I couldn't call myself a celestial anymore.
+
+Kaguya2c:Fair enough. The higher you climb, the harder it is to let go of that status.
+
+Kaguya1c:But in that case, you shouldn't complain about the very things you refuse to give up.
+
+Tenshi2c:And who are you to give me advice?!
+
+<end>
+
+<ChatID:60>---------------------------------------
+//天子vs.エリくる
+
+Elliy0a:So, uh, if we become best buddies, could you let us into Heaven?
+
+Kurumi0a:Yeah, like a friend who works at a movie theater!
+
+Tenshi5a:Huh? I mean, I suppose it's not impossible...
+
+Tenshi5a:But don't bother. There's nothing but boredom up there.
+
+Elliy3b:You say that, but it's really super-mega-fun up there, right?
+
+Tenshi5a:Think about it for a second. If it were, why would I be down here?
+
+<end>
+
+<ChatID:61>---------------------------------------
+//天子vs.リリー
+
+LilyW0d:So Heaven is above the sky, right? Can you see our spring from up there?
+
+Tenshi0a:Well, I guess it's pretty when the cherry blossoms bloom and all that.
+
+LilyW0a:Really? Then she can see it from the moon too!
+
+Tenshi0e:What are you talking about...?
+
+<end>
+
+<ChatID:62>---------------------------------------
+//天子vs.レティ
+
+Letty0c:Given your selfishness, I have to say the name "delinquent celestial" really suits you.
+
+Tenshi5a:I really wish you'd surface dwellers would stop talking like you know me.
+
+Letty4b:And you're a terrible listener, at that. I may spend time with that child, but that doesn't mean I have the patience for this.
+
+<end>
+
+<ChatID:63>---------------------------------------
+//天子vs.ナズーリン
+
+Tenshi1a:The large contains the small. A tiny thing like you could never stand up to a great power.
+
+Nazrin4c:I won't deny that, but couldn't you have at least used a less boring proverb?
+
+Tenshi1d:Uh... Is there another one?
+
+Nazrin1a:No shame in asking. Want me to give you a hint?
+
+Tenshi1d:I-I take it back! I know I've got it written down somewhere!
+
+<end>
+
+<ChatID:64>---------------------------------------
+//天子vs.星
+
+Tenshi1a:"Half of what we teach is learned by ourselves." As you teach dharma, you necessarily reflect back on yourself.
+
+Sho0a:I see. So I should give sermons that will reach even myself.
+
+Sho3d:I'd love to use the hall in the Palanquin Ship for that someday.
+
+Tenshi1a:I wouldn't mind joining in, but only to offer criticism as a celestial.
+
+<end>
+
+<ChatID:65>---------------------------------------
+//天子vs.三月精②
+
+Luna1b:I don't care what you said, Tenshi, I still wanna live in Heaven...
+
+Star0c:Maybe we could disguise ourselves as celestial maidens and sneak in?
+
+Tenshi0e:You're still going on about that? Just so you know, not all celestial maidens live in luxury.
+
+Sunny4c:Ugh... Then we have to be celestials to live that perfect life?
+
+Star4b:But training sounds so hard... Maybe we could follow Tenshi's example and find someone to adopt us in?
+
+Tenshi0d:They don't have a care in the world, do they...?
+
+<end>
+
+<ChatID:66>---------------------------------------
+//天子vs.三月精③
+
+Tenshi1a:"When three take action, one must be the master." Try to follow the example of the humans around you.
+
+Star0a:Three, huh? Doesn't that work out perfectly if we all learn from each other?
+
+Sunny1c:Whaaat? But I don't wanna learn from a klutz like Luna!
+
+Luna1a:I don't wanna learn from a sleepyhead like you either, Sunny!
+
+Tenshi5a:Let me finish. It means you're supposed to learn from the good parts of others, but correct the bad parts.
+
+Luna4a:Good parts... Hmm...
+
+Sunny6b:What if they don't have any though?
+
+Tenshi5a:Come on, everyone has SOMETHING good about them, don't they?
+
+Star0a:I see... So basically you're just trying to give us a pep talk.
+
+<end>
+
+<ChatID:67>---------------------------------------
+//河童と初戦闘
+
+Elliy1b:Oh? Why are you kappa fighting too?
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Kappa3d:Actually, we thought we'd test out our new weapons, the Long Range Monster Cucumbers.
+
+Kappa3c:It was the perfect chance, so we just kinda barged in.
+
+</nomove>
+
+Suwako1a:Gotta take what you can get, right? I can respect that.
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Kappa1a:Okay, here we go everyone! Let's fire a volley to commemorate the bazaar!
+
+<end>
+
+<ChatID:68>----------------------------------------
+//天子vs.メーコ
+
+Meko1c:A kappa bazaar on a big river, huh...
+
+Tenshi2d:You stand before me and dare to let your thoughts stray?
+
+Meko0b:Oh, uh, sorry!
+
+Tenshi1a:Perhaps a fool like you needs a reminder.
+
+Tenshi6a:I am Tenshi Hinanawi, celestial! And in order throw the surface world into chaos, I've—
+
+Meko1e:Oh right, this is when I—
+
+Tenshi1b:C'mon, pay attention to me already!
+
+<end>
+
+<ChatID:69>----------------------------------------
+//天子vs.まくら
+
+Makura1c:Provoking Gensokyo like this is a little...
+
+Tenshi2a:If you've got a problem with it, then just try and stop me.
+
+Makura2a:Regrets belong solely to the one who committed the mistake.
+
+Makura2b:Please rethink this before you have to endure that.
+
+Tenshi1d:Whoa, you're taking this pretty seriously...
+
+Tenshi2e:Well, whatever. If you're here to get in my way, then that's just dandy!
+
+Tenshi1b:"The grass knows to bend in a strong gale." The more you resist, the greater the test of will!
+
+<end>
+
+<ChatID:70>----------------------------------------
+//天子vs.天子
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Tenshi1d:What, you look just like...!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Tenshi4a:Right...
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Tenshi0e:What, are you my biggest fan or something?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Tenshi1b:N-No!
+
+Tenshi2c:That weird bias of yours makes it so obvious that you'll never do anything right.
+
+Tenshi0a:Just be a little more honest with yourself and take others in consideration, and you could even get along with Iku.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Tenshi5b:What does she have to do with anything?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Tenshi6f:Huh?! Well, uh...
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Tenshi2d:Besides, why should I listen to a pervert dressed up like me?
+
+Tenshi2e:"You don't play a koto for a cow." You're wasting your breath!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Tenshi1b:"You're looking at the ceiling through your skull!" Broaden your horizons!
+
+</nomove>
+
+<end>
+
+<ChatID:71>----------------------------------------
+//天子vs.依姫
+
+Yorihime0a:...So this is you from a little earlier.
+
+Tenshi1d:Ha?
+
+Yorihime0b:A lack of confidence will always come through in your swordsmanship.
+
+Yorihime1a:As you are now, you fail to recognize your own effort or worth.
+
+Tenshi2c:What, you show up out of nowhere just to talk down to me?
+
+Tenshi1b:I'll reveal your temperament with this Sword of Hisou!
+
+Yorihime1b:You're not even worth my time! Come at me head on!
+
+<end>
+
+<ChatID:72>----------------------------------------
+//天子vs.豊姫
+
+Toyohime2c:So you're a celestial? Huh...
+
+Tenshi2e:And what are you supposed to be, then?
+
+Toyohime0b:Shall we say, a Lunarian?
+
+Tenshi1e:!
+
+Tenshi1c:Then what, a high and mighty Lunarian came down just to give me a lecture?
+
+Toyohime1a:It's not like I have a duty to. But I will say you give off a different impression from the other celestials I know.
+
+Tenshi2d:No need to mince words, just say I'm a delinquent. Not like anyone else holds back.
+
+Tenshi1b:But still, I won't let you get in the way of my fun!
+
+Toyohime0b:It's not like I have a duty to, so maybe I'll join in!
+
+<end>
+
+<ChatID:73>----------------------------------------
+//
+
+<end>
+
+<ChatID:74>----------------------------------------
+//C57：天子vs.非想天則
+
+Tensoku0a:...
+
+Tenshi5a:That balloon from earlier? No, it's moving!
+
+Tenshi0d:What the heck? I thought it was paper-mache or something.
+
+Tensoku0a:...
+
+Tenshi2d:Whatever. If that's how you want it, then let's do this.
+
+Tenshi1b:Seeing is believing! My danmaku will reveal what you really are!
+
+<end>
+

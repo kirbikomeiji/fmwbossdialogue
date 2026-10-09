@@ -1,0 +1,1130 @@
+﻿○幕間「魔界の稀覯本
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<MAP=0,from=人間の里,to=人間の里,name=Human Village,icon=0>
+
+<BG=*bg_talk_Hieda.png,fade=1,color=1,title=*bg_Hieda,bgm=bgm_talk_aoki>
+
+<SE=se_talk_gaya.ogg,wait=0>
+
+Reimu0c:Mmm, love that sunshine. Resolving the incident was so worth it.
+
+Reimu0g:Not that it's helping the shrine out any, financially...
+
+Reimu0b:Oh, I know! Time to finally get my hands on some of that taiyaki!
+
+Alice2b:Oh, if it isn't Reimu.
+
+Keine0a:What a coincidence. Are you here to patrol the town too?
+
+Marisa1b:As if. Just look at her.
+
+Reimu0e:So are you all here together then?
+
+Keine0a:Alice and I came to check on the village now that the incident's over.
+
+Marisa0a:And I just bumped into them around the corner.
+
+Reimu0e:Huh. You girls are pretty serious about this...
+
+Alice2c:And what about you, Reimu? You seemed like you were in a hurry.
+
+Marisa4a:If you're here for Daimonji's taiyaki, they're already sold out.
+
+Reimu3c:Seriously?!
+
+Marisa4b:I wanted some too, but the guy in front of me got the last one.
+
+Marisa0a:Sounds like the town's running low on supplies. And with nowhere else to ask for help, it's kinda a problem, y'know?
+
+Reimu5f:But my taiyaki...
+
+Alice2b:Yes, you've made it quite clear that was all you came here for.
+
+Marisa6a:When I visited the shrine yesterday all you had were rice crackers, so I figured you'd get a hankering for some sweets soon.
+
+Keine6c:Don't worry. With the incident resolved, you can come back for them anytime.
+
+Alice0d:If running out of taiyaki is our biggest concern, then I'd say the village is doing alright.
+
+Alice4c:I'm sure Nitori and Youmu would be happy to hear how peaceful things are around here.
+
+Marisa0a:Yeah, those two were pretty worried.
+
+Keine0a:When the next volume of the Gensokyo Chronicle is ready, maybe we could send it to them along with a letter.
+
+Alice2b:What's the Gensokyo Chronicle?
+
+Keine0a:It's a set of books written for humans, recording the status and powers of various youkai.
+
+Keine0a:They also record incidents and anyone related to them, so I'm sure our exploits will be in there too.
+
+Marisa6a:Whoa. You're saying there's gonna be a BOOK about me?
+
+Alice0c:About US.
+
+Reimu0e:The girl who writes them is really smart for a kid too.
+
+Reimu0g:I had to give her shelter at the shrine during the incident.
+
+Marisa1b:Hieda no Akyu, right? The one who keeps reincarnating and writing more books?
+
+Alice2c:Wait, really? Is repeat reincarnation even possible?
+
+Keine0a:As the Child of Miare, she's gotten special permission from the Yama.
+
+Keine0a:On top of that, she has the power of Gumonji: she never forgets anything she's seen or heard, even in passing.
+
+Keine0a:She may look young, but her knowledge of youkai is second to none.
+
+Marisa0a:Whoa, if even a teacher like you thinks she's all that, I'm kinda starting to want to meet her too.
+
+Reimu4a:Sometimes you can see her around the village. She's, um, about as tall as that girl over there...
+
+<hide=face>
+
+Akyu0a:...
+
+</hide>
+
+Reimu3b:Wait, I think that's her right there.
+
+Alice2b:Who are you pointing at? I can't tell with this crowd.
+
+Marisa0a:Well, if it's really her we should go say hi.
+
+Keine0a:You're right, this could be a good chance for you two to meet her.
+
+Keine0a:Looked like she was heading over there.
+
+<BG=bg_talk_Village.png,fade=1,color=1,title=*bg_Suzunaan,bgm=bgm_talk_gag>
+
+<hide=name>
+
+Kosuzu0a:...
+
+<SE=se_talk_paper01.ogg,wait=0>
+
+Kosuzu0a:...
+
+<SE=se_talk_patan01.ogg,wait=1>
+
+Kosuzu0b:What a disappointment... I thought I'd gotten my hands on a rare import, but this is nothing special.
+
+Kosuzu4a:I guess even books from the Outside World are written by boring old humans... I'm sick of them.
+
+Kosuzu0a:What I'm REALLY after are...
+
+</hide>
+
+<SE=se_talk_bell01.ogg,wait=1>
+
+Akyu3a:Hello!
+
+<hide=name>
+
+Kosuzu3d:Oh! Welcome to—
+
+Kosuzu4b:Oh... It's just you, Akyu.
+
+</hide>
+
+Akyu3d:Wow, Kosuzu. What's that supposed to mean?
+
+Kosuzu3c:Sorry, it's just that you dropped in so suddenly.
+
+Akyu3d:And how is that different from any other customer? I'd expect more from a shop clerk, Kosuzu.
+
+Akyu0a:But anyway, here. I'm returning the books I borrowed.
+
+Kosuzu0a:Pleasure doing business. You had them out for quite a while this time, huh?
+
+Akyu0a:What did you expect? It was hardly the time to be writing, what with the mist incident and all.
+
+Kosuzu3b:Oh, that was an incident? I thought maybe it was that air pollution thing I've read about.
+
+Akyu0a:You read too many imports then. Keine tells me it was the doing of the latest youkai to come to Gensokyo.
+
+Akyu0b:The villagers are calling it the Scarlet Mist Incident.
+
+Kosuzu0b:Huh. Dad wouldn't let me go out so I never knew.
+
+Kosuzu5b:But I bet you've been shut up indoors too, Akyu.
+
+Akyu0a:Actually, I had a bit of a health alert and had to take shelter at the shrine.
+
+Kosuzu6b:What?! Are you okay?!
+
+Akyu0a:Yes, the mist hadn't reached the shrine. I was attacked by fairies on the way though...
+
+Kosuzu4b:Whoa, sounds like a real adventure...
+
+Kosuzu3b:Wait, so did you get to see Reimu exterminating youkai from up close then?
+
+Akyu0b:Just a glimpse. And then I watched the shrine for her while she was out.
+
+Kosuzu4b:Sounds about right. Youkai are scary, and us normal people are always kept out of the loop with these incident investigations anyway.
+
+Akyu3e:True...
+
+Kosuzu3b:So, how did you like the books?
+
+Akyu3c:Honestly, they weren't very useful as reference. I realize that they're youma books, but I could barely decipher them.
+
+Akyu0a:I have no memory of any script like this.
+
+Kosuzu4b:Yeah, I guess they wouldn't help much if you can't read them...
+
+Kosuzu0a:Here, let me take a look.
+
+Akyu0b:If I couldn't read them, do you really expect to—
+
+Kosuzu3g:Oh, I see, this one's in Ancient Tengu.
+
+Kosuzu0b:And it's, um, looks like a field guide to the flora of Hell.
+
+Akyu0b:Ooh, I see...
+
+Akyu4a:Wait, how can you read that?
+
+Kosuzu5a:Well, you see...
+
+<SE=se_talk_bell01.ogg,wait=1>
+
+Keine0a:Hello there.
+
+Kosuzu3c:Hi! Welcome!
+
+Marisa0d:Can't believe we followed her to Suzunaan of all places.
+
+Alice0d:A book rental store? What lovely ambience.
+
+Akyu3a:Oh, good to see you, Reimu. It's been a while.
+
+Reimu0g:So it really was you. Good.
+
+Kosuzu3b:Hello Reimu. And you brought Marisa too? Even Miss Keine is here...
+
+Kosuzu6b:What brings you all here together?
+
+Reimu0b:Sorry, we're not here for you, we're here for Akyu.
+
+Akyu0a:Me?
+
+Keine6b:We wanted to introduce you to the other people who helped resolve the incident.
+
+Keine6c:This is Marisa and Alice. There were others too, but these two happened to be in the area.
+
+Marisa0a:Yo. Nice to meetcha.
+
+Alice3b:I'm Alice Margatroid, a magician from the Forest of Magic. Nice to meet you.
+
+Akyu3a:The pleasure's all mine. Thank you for dealing with the mist.
+
+Marisa0d:I don't think Alice and Kosuzu have met before either?
+
+Kosuzu3d:Nope! I'm Kosuzu Motoori. I work here at Suzunaan.
+
+Alice0d:And as you heard, I'm Alice. The shop is beautiful enough, but to think it has such an adorable shopkeeper too.
+
+Kosuzu5b:Aw geez, you're embarrassing me...
+
+Kosuzu3d:(This is crazy! She's so pretty, and with those fancy western clothes she looks just like a doll!)
+
+Kosuzu3a:(She's so composed and mature too!)
+
+Kosuzu3c:A magician, huh? So they're not all like Marisa...
+
+Marisa4c:Not sure what you mean by that, but I assume you didn't mean to say that out loud.
+
+Alice0d:So all three of you have been here before then?
+
+Keine0a:Mhm. I often come here looking for reference books.
+
+Keine0a:Suzunaan has a lot of valuable youma books, which they don't keep in the Hieda library.
+
+Alice2c:Youma books? If I remember correctly, those are...
+
+Akyu0a:Anything written by a youkai, from picture books to correspondence. Some are said to contain strange energies as well.
+
+Marisa0b:I've sure never seen any other store keep 'em around.
+
+Kosuzu3c:I'm Gensokyo's biggest youma book collector, after all!
+
+Reimu0g:But obviously you have to be careful around them too. Like, they can be possessed by evil spirits and stuff.
+
+Reimu0b:And since I'm here, might as well do my usual check.
+
+Kosuzu3c:Thanks for always doing this, Miss Reimu. I keep the new arrivals over here.
+
+Marisa0d:Ooh! Can I see them too?
+
+Marisa0a:Huh... I can feel a little magic coming from this one.
+
+Keine0a:What? True, I don't recognize this writing...
+
+Alice2c:...I've seen it before. In the storehouse back at home.
+
+Reimu0e:Oh? You mean in the Forest of Magic?
+
+Alice2c:No. I meant back in my hometown. That said, it's not like I can read it either.
+
+Marisa0d:Right. Makes sense that you'd find stuff like that in Makai.
+
+Marisa0a:So what kinda book is it, Kosuzu?
+
+Kosuzu4a:Not sure. It just came in so I haven't had a chance to take a look.
+
+Kosuzu0a:I could get it ready to lend out to you, if you like.
+
+Marisa7c:That'd be great, thanks!
+
+Kosuzu3c:Okay, just a second please.
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+Alice4a:Marisa? Borrowing books? That's a little worrying.
+
+</single>
+
+Akyu3c:Hm? Does Marisa have a habit of—
+
+Marisa1c:Hey, I'm standing right here. And I always return stuff when I'm borrowing from a human.
+
+Reimu0f:By the way, what do you think she meant by taking a look at it?
+
+Reimu1b:I mean, if neither Keine or Alice could read it, what's there to check?
+
+Keine0b:Maybe she meant more like the physical condition of it? Checking it for missing or out of order pages.
+
+Akyu3d:Good question...
+
+Akyu0a:(She somehow knew that the book I borrowed was written in Ancient Tengu too...)
+
+Akyu3b:(Just how did you know that, Kosuzu...?)
+
+<BG=bg_talk_Village.png,fade=1,color=1,title=*bg_Suzunaan,bgm=bgm_talk_ningyo>
+
+Kosuzu0b:So not even Miss Keine can read it? This one's pretty special then.
+
+Kosuzu4b:And from what Marisa said, it might even be from Makai!
+
+Kosuzu3c:I should check the contents so I can set the right price.
+
+<SE=se_talk_paper01.ogg,wait=0>
+
+Kosuzu3g:...
+
+<SE=se_talk_paper01.ogg,wait=0>
+
+Kosuzu0b:So I can read this one too... I guess my power is the real deal.
+
+Kosuzu4a:Let's see here... "Its face is a little... I wonder where you'd raise something like this."
+
+Kosuzu0b:"It can be a teensy bit scary, but that'll just give everyone the push they need."
+
+Kosuzu4b:...What is this? It reads like someone's personal notes...
+
+<SE=se_talk_walk_indoor01.ogg,wait=1>
+
+Akyu0a:Hey, Kosuzu, do you think you could serve some tea while we're waiting?
+
+Kosuzu3f:...
+
+Akyu4a:Eeek!
+
+Kosuzu0a:?
+
+Kosuzu4b:Is that any way to react to seeing someone's face, Akyu?
+
+Akyu4a:N-No! There's something there! Look up!
+
+Kosuzu2a:What could possibly be freaking you out so—
+
+<hide=name>
+
+InsectC0a:...
+
+</hide>
+
+Kosuzu1a:AAAH!
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP
+
+Kosuzu1a:AAAH!
+
+Akyu4a:EEEK!
+
+<pause>
+
+Alice1a:Hold on, where are you going?!
+
+Keine1a:What happened back there? You both suddenly ran out of the store!
+
+<nomove>
+
+<Code=(cursor_jump,176,400,0)>
+
+Akyu4a:But something came out of nowhere and...
+
+</nomove>
+
+Marisa1d:What thing?
+
+Reimu1a:I can sense something... And it's not friendly.
+
+<pause>
+
+InsectC0a:...
+
+Alice2a:AAAH!
+
+<nomove>
+
+<Code=(cursor_jump,176,400,0)>
+
+Akyu4a:Eeek!
+
+Kosuzu1a:AAAH!
+
+</nomove>
+
+Marisa1a:What is that thing?!
+
+<nomove>
+
+<Code=(cursor_jump,176,400,0)>
+
+Kosuzu1a:I don't know! I was reading the book, when suddenly it was there!
+
+</nomove>
+
+Marisa1c:You expect me to believe you didn't notice something that huge sneaking up on you?!
+
+Keine1a:I've never even seen a youkai like that before!
+
+Reimu1a:We can figure that out later. If this thing gets out, the whole village will panic.
+
+Reimu1a:Time for some bug extermination!
+
+Keine1a:You two, hide inside!
+
+<nomove>
+
+<Code=(cursor_jump,176,400,0)>
+
+Akyu1a:Yes, ma'am!
+
+</nomove>
+
+<end>
+
+<ChatID:2>---------------------------------------
+//2PP
+
+<nomove>
+
+<Code=(cursor_jump,176,384,0)>
+
+Akyu4a:This is the first time I've seen a youkai like this. What in the world did you do?!
+
+Kosuzu0a:That's what I want to know! That THING just suddenly popped up out of nowhere!
+
+Kosuzu0a:Anyway, shouldn't we go find someplace safe to hide?
+
+Akyu0a:Good idea, we wouldn't want to get wrapped up in the danmaku battle!
+
+</nomove>
+
+<pause>
+
+Keine1a:Why are you still outside, you two?!
+
+Alice1a:It's not safe out here, get back in the store!
+
+<nomove>
+
+<Code=(cursor_jump,176,400,0)>
+
+Kosuzu0a:But but but what if another one pops up in there?!
+
+</nomove>
+
+Akyu1a:We'll try to slip away while you're fighting it.
+
+Reimu0a:Fine, just don't get hit by any stray shots!
+
+Alice0a:In that case...
+
+<pause>
+
+Alice1b:You should be safe over there. We'll clear a route, so stay right behind us!
+
+Akyu1a:Will do!
+
+<end>
+
+<ChatID:3>---------------------------------------
+//魔界蟲と初戦闘
+
+InsectC0a:...
+
+Marisa0a:Well, whatever it is, it looks like a bug.
+
+Keine1a:What a sinister appearance! It reminds me of a beast from Makai!
+
+Alice0a:Wait, don't tell me...
+
+Keine0a:Have you realized something, Alice?
+
+Alice0a:This monster looks just like the ones that live in Makai...
+
+Alice0a:And didn't we see that book earlier that resembled one from Makai too?
+
+Keine0a:Are you saying there's a connection?
+
+Marisa1a:Save the speculation for later, we've got a bug to squash!
+
+Alice1a:If I'm right, this could be dangerous. Be careful, everyone!
+
+<end>
+
+<ChatID:4>---------------------------------------
+//魔界蟲との初戦闘後
+
+Reimu1a:Are we even hurting it?!
+
+Keine1a:Looks like that hard carapace is repelling our attacks.
+
+Marisa0a:So danmaku doesn't work? If that thing's from Makai, then what kinda place did it grow up in?
+
+Alice0a:Because of all the mana, the ecosystem of Makai is very different from Gensokyo's.
+
+Reimu1a:Who cares?! How do we kill it?
+
+Alice0a:Hm... There are two ways... First, we can smash through its defenses with overwhelming firepower, like with Master Spark.
+
+Alice0a:Second, we can use focused attacks that pierce its shell.
+
+Marisa0a:Something that can pierce its shell, huh? Do we even have anything like that...?
+
+Marisa1a:Oh right, duh! Use your headbutt, Keine!
+
+Keine0a:What?
+
+Reimu0a:Of course! How could we forget!
+
+Alice1a:With Keine's thick skull, that might just work!
+
+Keine1a:I'm not sure how to take that... but it can't hurt to try!
+
+<end>
+
+<ChatID:5>---------------------------------------
+//阿求で妖精と戦闘
+
+Akyu4a:Eeek!
+
+Kosuzu0a:Oh no, Akyu, the fairies are—
+
+Akyu1a:I can see that! But it's too late to turn back now!
+
+Marisa1a:Akyu's in trouble, shouldn't we go save her?!
+
+Keine2a:This happened before and she made it through alright, but...
+
+Akyu1a:Don't worry about me. As long as I stay Alert I should be able to dodge anything. Well, at least one thing.
+
+Akyu1a:Besides, if it comes down to it, I always have my brush!
+
+Kosuzu0a:This isn't the time to joke around, Akyu!
+
+Alice1a:Yeah, don't do anything rash! We'll be right there!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//魔界蟲vs.阿求
+
+Akyu1a:As long as I have my brush, maybe even I can help!
+
+Kosuzu0a:Stop it, Akyu! Are you out of your mind?!
+
+Akyu1a:I'm an expert on youkai! With my knowledge, I should be able to find a gap in its armor...
+
+Keine1a:Don't be ridiculous! Just leave the fighting to us and get to safety!
+
+Akyu0a:Y-You're right... What was I thinking...?
+
+<end>
+
+<ChatID:7>---------------------------------------
+//阿求が指定ポイントに到達
+
+Akyu2a:*huff, huff* We should be safe here.
+
+Kosuzu0b:Are you okay? I know you're not healthy, so don't push yourself.
+
+Kosuzu0b:We can hide in these bushes for now.
+
+Akyu6g:Right... I think I need a little breather.
+
+Kosuzu6b:Anyway, so that's a youkai, huh? Youkai extermination sure is scary...
+
+<end>
+
+<ChatID:8>---------------------------------------
+//魔界蟲を撃墜
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Reimu)>
+
+Reimu0a:Phew, extermination complete.
+
+Alice0a:And without causing an uproar in the village.
+
+<nomove>
+
+<Code=(cursor_jump_unit,Akyu,0,0,0)>
+
+Kosuzu3b:You're all incredible! You absolutely crushed that big nasty monster!
+
+</nomove>
+
+Reimu0a:Eh, no big deal. I'm not the Hakurei Shrine Maiden for nothing, you know.
+
+<nomove>
+
+<Code=(cursor_jump_unit,Akyu,0,0,0)>
+
+Kosuzu0c:You're so cool, Reimu!
+
+</nomove>
+
+Akyu2b:Is it just me or are you a little TOO excited by all this?
+
+Marisa0a:Well, looks like you two are okay, so I guess that wraps everything up.
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Marisa)>
+
+Marisa0a:Phew, was that all?
+
+Alice0a:And without causing an uproar in the village.
+
+<nomove>
+
+<Code=(cursor_jump_unit,Akyu,0,0,0)>
+
+Kosuzu3b:You're all incredible! You absolutely crushed that big nasty monster!
+
+</nomove>
+
+Marisa0a:That was nothing. We're the ones who resolved the incident, remember?
+
+<nomove>
+
+<Code=(cursor_jump_unit,Akyu,0,0,0)>
+
+Kosuzu3d:Wow, you're so strong, Marisa!
+
+</nomove>
+
+Akyu2b:Is it just me or are you a little TOO excited by all this?
+
+Reimu0a:Well, looks like you two are alright, so case closed.
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Keine)>
+
+Keine0a:Phew, is it over?
+
+Alice0a:And without causing an uproar in the village.
+
+<nomove>
+
+<Code=(cursor_jump_unit,Akyu,0,0,0)>
+
+Kosuzu3b:You're all incredible! You absolutely crushed that big nasty monster!
+
+</nomove>
+
+Keine0a:Don't mention it. What matters is that no one's hurt.
+
+<nomove>
+
+<Code=(cursor_jump_unit,Akyu,0,0,0)>
+
+Kosuzu3d:You're so mature, Miss Keine!
+
+</nomove>
+
+Akyu2b:Is it just me or are you a little TOO excited by all this?
+
+Reimu0a:Well, looks like you two are alright, so case closed.
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Alice)>
+
+Alice0a:Phew, looks like it's dead.
+
+Reimu0a:And without causing an uproar in the village.
+
+<nomove>
+
+<Code=(cursor_jump_unit,Akyu,0,0,0)>
+
+Kosuzu3b:You're all incredible! You absolutely crushed that big nasty monster!
+
+</nomove>
+
+Alice0a:That was nothing. More importantly, are either of you two hurt?
+
+<nomove>
+
+<Code=(cursor_jump_unit,Akyu,0,0,0)>
+
+Kosuzu3d:Nope! You're so strong AND kind, Miss Alice!
+
+</nomove>
+
+Akyu2b:Is it just me or are you a little TOO excited by all this?
+
+Marisa0a:Well, looks like you two are okay, so I guess that wraps everything up.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Akyu)>
+
+Akyu5a:I did it!
+
+Marisa0a:Are you kidding me?!
+
+Alice1a:I can't believe you managed to accurately pierce its vitals with that brush...
+
+Akyu6e:I can't be hiding behind people forever. I can do it too if I put my mind to it!
+
+<nomove>
+
+<Code=(cursor_jump_unit,Akyu,0,0,0)>
+
+Kosuzu1a:Well, test your limits when you're alone next time! Geez, that was terrifying!
+
+</nomove>
+
+Keine0a:Still, you actually managed to slay that monster... You might have a knack for this.
+
+Reimu0a:Anyway, all's well that ends well. And we did it without causing an uproar in the village too.
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Reimu)>
+
+Reimu0a:Phew, extermination complete.
+
+Alice0a:And without causing an uproar in the village.
+
+<nomove>
+
+<Code=(cursor_jump,368,272,0)>
+
+Kosuzu3b:You're all incredible! You absolutely crushed that big nasty monster!
+
+</nomove>
+
+Reimu0a:Eh, no big deal. I'm not the Hakurei Shrine Maiden for nothing, you know.
+
+<nomove>
+
+<Code=(cursor_jump,368,272,0)>
+
+Kosuzu0c:You're so cool, Reimu!
+
+Akyu2b:Is it just me or are you a little TOO excited by all this?
+
+</nomove>
+
+Marisa0a:Well, looks like you two are okay, so I guess that wraps everything up.
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Marisa)>
+
+Marisa0a:Phew, was that all?
+
+Alice0a:And without causing an uproar in the village.
+
+<nomove>
+
+<Code=(cursor_jump,368,272,0)>
+
+Kosuzu3b:You're all incredible! You absolutely crushed that big nasty monster!
+
+</nomove>
+
+Marisa0a:That was nothing. We're resolved the incident, remember?
+
+<nomove>
+
+<Code=(cursor_jump,368,272,0)>
+
+Kosuzu3d:Wow, you're so strong, Marisa!
+
+Akyu2b:Is it just me or are you a little TOO excited by all this?
+
+</nomove>
+
+Reimu0a:Well, looks like you two are alright, so case closed.
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Keine)>
+
+Keine0a:Phew, is it over?
+
+Alice0a:And without causing an uproar in the village.
+
+<nomove>
+
+<Code=(cursor_jump,368,272,0)>
+
+Kosuzu3b:You're all incredible! You absolutely crushed that big nasty monster!
+
+</nomove>
+
+Keine0a:Don't mention it. What matters is that no one's hurt.
+
+<nomove>
+
+<Code=(cursor_jump,368,272,0)>
+
+Kosuzu3d:You're so mature, Miss Keine!
+
+Akyu2b:Is it just me or are you a little TOO excited by all this?
+
+</nomove>
+
+Reimu0a:Well, looks like you two are alright, so case closed.
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+<Cond=(LOCAL_VAR,Char0,char_code,==,Alice)>
+
+Alice0a:Phew, looks like it's dead.
+
+Reimu0a:And without causing an uproar in the village.
+
+<nomove>
+
+<Code=(cursor_jump,368,272,0)>
+
+Kosuzu3b:You're all incredible! You absolutely crushed that big nasty monster!
+
+</nomove>
+
+Alice0a:That was nothing. More importantly, are either of you two hurt?
+
+<nomove>
+
+<Code=(cursor_jump,368,272,0)>
+
+Kosuzu3d:Nope! You're so strong AND kind, Miss Alice!
+
+Akyu2b:Is it just me or are you a little TOO excited by all this?
+
+</nomove>
+
+Marisa0a:Well, looks like you two are okay, so I guess that wraps everything up.
+
+</Cond>
+
+Alice0a:But what was that creature doing in Suzunaan in the first place?
+
+Keine0a:You're right, it worries me that we still don't know how it got there. You'll have to tell us exactly what happened, Kosuzu.
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+<nomove>
+
+<Code=(cursor_jump_unit,Akyu,0,0,0)>
+
+Kosuzu0a:Oh... Right, of course!
+
+</nomove>
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+<nomove>
+
+<Code=(cursor_jump,368,272,0)>
+
+Kosuzu0a:Oh... Right, of course!
+
+</nomove>
+
+</Cond>
+
+<end>
+
+<ChatID:9>---------------------------------------
+//ADVB
+
+<BG=bg_talk_Village.png,fade=1,color=1,title=bg_Village,bgm=bgm_talk_gag>
+
+Marisa4c:Phew, what a workout.
+
+Keine0b:That was surprisingly tough.
+
+Kosuzu4b:I wonder what that monster even was...
+
+Kosuzu3c:But hey, on the plus side, at least I got to see you all doing cool stuff up close!
+
+Akyu3b:Don't even joke about that, Kosuzu.
+
+Reimu0f:I'm just glad it didn't mess up the store. You said it appeared inside Suzunaan, right?
+
+Akyu3e:Right. It showed up out of nowhere, right in front of her.
+
+Alice0a:So you didn't see where it came from either, Kosuzu?
+
+Kosuzu4a:Nope, not a clue.
+
+Kosuzu6a:No, wait...
+
+<SE=se_talk_run.ogg,wait=1>
+
+Marisa1b:Oh, thought of something?
+
+Kosuzu2a:This!
+
+<Code=(map_shake,1,20,2)>
+
+<SE=se_talk_dosa01.ogg,wait=1>
+
+Akyu0a:Is this that book you had earlier?
+
+Marisa0d:Figures. That thing was pretty sketchy.
+
+Reimu0f:You said you were going to take a look at it earlier. Did you realize something?
+
+Kosuzu0a:Right. I tried reading it a little and it said something about some kind of creature.
+
+Kosuzu4b:I think it's like a field guide, or some kind of pet raising diary...
+
+Alice2b:Oh? Let me have a look.
+
+Alice0a:You're right. I can't read anything, but the drawings really capture the features of that monster.
+
+Alice4a:But this curly handwriting seems somehow familiar...
+
+Reimu0d:So long story short, the book is about youkai from Makai.
+
+Marisa0d:Or to get straight to the point, you think there's a connection between the book and the monster?
+
+Marisa0b:But if it was some sort of cursed book sealing a monster, wouldn't we have been able to sense that?
+
+Akyu3b:Hm... If my guess is correct, maybe we did unseal it, in a sense.
+
+Alice0a:Meaning?
+
+Akyu0a:Youkai are spiritual, mental beings. They gain strength from being recognized by others.
+
+Akyu3d:So that monster just now might have become real precisely because someone learned of its existence through the book.
+
+Keine0a:Makes sense. Youkai disappear when forgotten, so this is just the reverse of that.
+
+Kosuzu0b:Now that you mention it, a lot of youma books work similarly.
+
+Kosuzu0a:Youkai on the verge of being forgotten will sometimes record their own existence so they'll be remembered.
+
+Reimu0f:Hmm. So basically, the monster drawn here came to life because Kosuzu read the book.
+
+Akyu3b:So this is all Kosuzu's fault.
+
+Kosuzu5a:I mean, I wouldn't go that far...
+
+Alice0d:It wasn't your fault, you couldn't have known.
+
+Alice3b:You're lucky we were around when it happened though.
+
+Kosuzu3c:That's for sure!
+
+Kosuzu3d:But wow... You're like, so mature and understanding, Alice.
+
+Marisa1b:Wait, back up. How did you manage to read this in the first place? It's written in some crazy Makai language.
+
+Kosuzu3a:Yeah, about that... I kind of awakened a special power recently.
+
+Keine2b:What do you mean "awakened"?
+
+Kosuzu4a:I can read things written in youkai languages. It just kind of clicks with me.
+
+Marisa4a:Literacy isn't a thing that just "clicks"...
+
+Reimu2b:Eh, I wouldn't overthink it. It's Gensokyo. These things happen.
+
+Alice0a:It's dangerous if there are more youkai sealed in these books though.
+
+Kosuzu3b:But I'm so bored of the usual imports! Reading youma books is way more fun.
+
+Kosuzu3c:I mean, sure, youkai are scary, but worst comes to worst, I've always got you all to save me, right?
+
+Marisa1b:"Youkai are scary," she says... Talk about the understatement of the year.
+
+Marisa0a:Alice ain't human either, y'know.
+
+Kosuzu6b:What?! No way!
+
+Alice0d:It's true. Although a magician isn't quite the same thing as a youkai.
+
+Kosuzu0a:I had no idea... I mean, you look just like a human!
+
+Kosuzu3c:But if you're a youkai, then maybe youkai aren't all bad.
+
+Akyu0a:I see where you're coming from, but that doesn't mean you should stick your nose where it doesn't belong.
+
+Akyu0b:In the end, youkai are youkai. You never know what'll happen if us normal humans let our guards down around one.
+
+Kosuzu0b:But you're a normal human and you get along with Alice just fine!
+
+Akyu0b:Who do you think you're talking to? Since when has the Child of Miare ever been normal?
+
+Reimu0a:...
+
+Reimu0c:(I always thought of Akyu as so polite and well-behaved, but this is how she acts around her friends, huh?)
+
+Keine6c:(I'm surprised too. Seems like she gets along well with Kosuzu's more pushy personality.)
+
+Alice0a:Anyway, I think I'll be getting rid of this book.
+
+Alice0d:Just make sure not to ever read a youma book by yourself, and call Reimu if anything happens.
+
+Kosuzu3b:Ooh, does that mean I can read them as long as you're with me, Alice?
+
+Akyu3b:Kosuzu!
+
+Kosuzu5b:Tee hee!
+
+Alice0d:We'll be heading home now, but I'll stop by to check out some books some time.
+
+Kosuzu3d:Okay! My door's always open!
+
+Kosuzu3b:Also, if anything else happens I'll be counting on you!
+
+Reimu3a:How can you say that so easily...?
+
+Kosuzu3c:Because you're so reliable!
+
+Marisa4c:Sheesh, what have we got ourselves into?
+
+<end>
+
+<ChatID:10>---------------------------------------
+//ゲームオーバー阿求以外全滅（Ver.1.0.2以降で没）
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Akyu2b:AAH! Everyone!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+<nomove>
+
+<Code=(cursor_jump,368,272,0)>
+
+Akyu2b:AAH! Everyone!
+
+</nomove>
+
+</Cond>
+
+<Code=(icon_set_direction,InsectC_en,Akyu,0)>
+
+InsectC0a:...
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Akyu4a:Eep! It's coming this way!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+<nomove>
+
+<Code=(cursor_jump,368,272,0)>
+
+Akyu4a:Eep! It's coming this way!
+
+</nomove>
+
+</Cond>
+
+Kosuzu1a:Akyu, RUN!
+
+<end>
+
+<ChatID:11>---------------------------------------
+//ゲームオーバー阿求撃墜
+
+Akyu3e:Augh! It got me...
+
+Kosuzu1a:AKYUUU!
+
+<end>
+
+<ChatID:12>---------------------------------------
+//阿求で敵を撃墜
+
+Akyu1a:I did it!
+
+Kosuzu6a:Bwha? Akyu?!
+
+Alice1a:I'm shocked. I was not expecting to see someone slay a youkai with a brush.
+
+Akyu4a:I'm just as stunned. I never knew I had it in me.
+
+Marisa7c:If you keep that up, maybe you can hold your own in a danmaku battle.
+
+Reimu3d:Hey, don't make jokes like that or she'll take it seriously.
+
+Keine0b:Akyu, please don't let them give you any ideas.
+
+Akyu3a:...I'll think about it.
+
+<end>

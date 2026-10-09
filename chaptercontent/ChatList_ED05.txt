@@ -1,0 +1,231 @@
+﻿○幻想少女大戦エンディング
+
+<ChatID:0>---------------------------------------
+//ED
+
+<BG=bg_talk_Village.png,fade=1,color=1,title=bg_Village,bgm=bgm_gen_ED04>
+
+<SE=se_talk_gaya.ogg,wait=1>
+
+<update>
+
+Human0a:Come one, come all, take a look at my wares!
+
+Human0a:Got plenty of baku picture talismans in today!
+
+</update>
+
+Alice0d:Oh, it seems that shop's still doing well.
+
+Sanae3b:I guess...
+
+Kogasa3b:Oh? What's wrong, Sanae? You seem down.
+
+Tenshi2e:If it's about the taiyaki, I'm not splitting it. I had to line up all morning for this.
+
+Sanae0c:No, it's not that. I'm not hungry anyway.
+
+Kosuzu4b:You really are feeling down then.
+
+Akyu0f:We're always here to lend an ear, if you like.
+
+Sanae5b:...The thing is, we've been having fewer and fewer visitors to Moriya Shrine these days.
+
+Nitori3a:Ah, now that you mention it...
+
+Sanae3b:It seems it's due to the recent popularity of Byakuren's sermons and Makura's dreams.
+
+Sanae0b:Lady Kanako and Lady Suwako have been brainstorming ways to reel our worshippers back in.
+
+Tenshi0d:Hmm... Fighting over faith sounds like a real pain.
+
+Akyu0a:Come to think of it, I did hear that baku talismans and the futon sets Mehko made are quite popular.
+
+Akyu3a:Not to mention that, just for today, if you buy a full set they'll throw in another one for free.
+
+Kogasa2b:What?! That's a steal!
+
+Sanae0b:I've also heard they've started a service where the sheep familiars deliver the talismans every month.
+
+Sanae5b:And they've started working with Eientei to sell them together with the Butterfly Dream Pills...
+
+Nitori1c:A subscription package deal, huh... They're more business savvy than I thought.
+
+Alice4c:No doubt making use of their experiences in the Outside World.
+
+Kosuzu3d:I guess despite it all, they're tougher than they seem!
+
+Akyu3a:Sounds like rather than being caught up in tradition, they're seeking out the latest methods.
+
+Sanae5b:I mean, that's great for them and all, but I have no idea how we can turn this around.
+
+Kogasa3b:Hmm, what would work...?
+
+Tenshi1c:I know! If you can't beat them, why not join them?
+
+Tenshi3c:Birds of a feather flock together. If you all want faith, then you should all get along.
+
+Sanae1d:Of course! Why didn't I think of that?
+
+Sanae3c:This New Year we can have a three-way collaboration and make special treasure ship talismans!
+
+Kosuzu3d:Ooh, sounds like things are looking up!
+
+Akyu3a:"The greatest victory is that which requires no battle," was it?
+
+Kogasa0b:If the more's the merrier, then why not have everyone join in?
+
+Kogasa1a:I bet Nitori and the kappa could do surprisingly well too!
+
+Nitori1d:You've got a point. If we bundle our latest sleep-aids with the talismans...
+
+Nitori4d:It's a win-win! Easy money for all!
+
+Alice0d:...It almost sounds like a scam when you put it like that, but if faith can coexist with science, then that's a good thing.
+
+Akyu0a:Ever since Makura and Mehko joined in, the village is even more lively than ever.
+
+Akyu3a:They'll certainly need an article in the Gensokyo Chronicle.
+
+<BG=bg_talk_Shrine.png,fade=0,color=1,title=bg_Shrine>
+
+Reimu5c:*yawn* There's nothing to do around here.
+
+Marisa0b:Like you've even finished sweeping.
+
+Reimu4a:Sounds to me like you're volunteering for the job.
+
+Reimu2b:When the weather's nice like this, I just can't find the motivation.
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+Meko4a:Hello!
+
+Reimu0e:Oh, Mehko?
+
+Marisa0a:Perfect timing. The broom's over there.
+
+Meko4c:Huh, the what?
+
+Meko0a:Uh, anyway, have you two seen Lady Makura?
+
+Marisa0b:Makura, huh?
+
+Reimu0e:Ah, if you're looking for her...
+
+Makura5c:Zzz...
+
+Meko1d:Ah! There she is!
+
+Reimu2b:She just showed up and dozed off on the porch. Must be nice, having it that easy.
+
+Meko0g:I'm sorry. I've heard sunbathing at the shrine is a new fad.
+
+Meko0f:I'll get her out of your hair.
+
+Meko1f:Lady Makura! Wake up!
+
+<SE=se_talk_garagara01.ogg,wait=1>
+
+Makura5f:...Mmm.
+
+Makura3b:Oh, Mehko. Good morning.
+
+Meko1d:It's already past noon, you know!
+
+Meko1b:Sheesh, I turn around for one moment and suddenly you're off who-knows-where.
+
+Makura3c:I'm sorry, sleeping here is just so comfortable...
+
+Reimu4a:The shrine's not your personal bed you know.
+
+Marisa0c:Sounds like you're really serious about finding the best spot to sleep, huh?
+
+Reimu5e:Actually, pay up. I'm charging rent.
+
+Reimu0d:I bet you're making big bucks down in the village.
+
+Makura0b:Indeed I am, thank you.
+
+Makura0a:I don't care much for money, but I'm glad that my dreams are needed.
+
+Makura3b:Both my name and my face are now well known.
+
+Reimu0e:Name and face, huh...
+
+Marisa0b:Setting aside the face, are you sure about your name being known?
+
+Marisa0a:Cause it's not YOUR name I've been hearing.
+
+Makura3c:...Right, well, I thought I'd go by that in the Dream World after all.
+
+Makura3d:Dreams are an entirely different world, so in order for both to accept each other...
+
+Marisa0b:Huh. Well, as long as you're happy.
+
+Reimu0g:Either way, seems like you two have found something that works for you.
+
+Meko0a:Uh-huh. Gensokyo is always changing so it probably won't work forever, but...
+
+Meko4a:We'll cross that bridge when we come to it.
+
+Makura3a:No matter what happens, we can always come talk to all of you about it.
+
+Marisa7c:Hah, you know it!
+
+Reimu0c:Still, the more relaxed about it you are, the better.
+
+Reimu0g:I mean, so if you ever get up to no good, I just have to exterminate you.
+
+Marisa7a:Whoa there, not if I beat you to the punch.
+
+Reimu4c:Whatever. First come, first served.
+
+Makura3c:Hehe, it's so reassuring to see you both like that.
+
+Makura6f:Naturally, I'll try to avoid doing anything to incur your wrath though.
+
+Reimu0b:That'd be great, thanks.
+
+Meko4c:Oh yeah, have you girls eaten lunch yet?
+
+Meko0a:I thought I'd eat with Lady Makura, so I brought lunchboxes.
+
+Marisa0a:Ooh, you have enough for us too? Don't mind if I do!
+
+Reimu0g:Then I guess we'll need tea. You help out, Mehko.
+
+Meko4g:Okay!
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+Makura3a:...Mehko is completely comfortable at the shrine now.
+
+Makura3c:I'd love nothing more than for this tranquility to continue, but...
+
+Makura0b:Just as in the Outside World, nothing lasts forever.
+
+Makura3a:Even so, I feel like as long as I'm with Mehko and everyone else, everything will be alright.
+
+Makura0a:...Every dream eventually comes to an end.
+
+Makura3a:But as long as there's a dreamer, the next will spread out before them.
+
+Makura3d:Weaving, patching, endlessly wishing for a future.
+
+Makura1a:At the end of the dream, we see another dream.
+
+<Code=(transition_out,c_white,120,1)>
+
+<end>
+
+<ChatID:1>----------------------------------------
+//テロプ
+
+幻想少女大戦終幕
+
+And Next is Your Dream...
+
+<end>

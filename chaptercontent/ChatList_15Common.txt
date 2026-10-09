@@ -1,0 +1,1122 @@
+﻿○共通第十五話「Scarlets
+
+<ChatID:0>----------------------------------------
+//1PP
+
+Flan2a:Mm, so bright...
+
+Marisa1a:Flan, you're okay!
+
+Flan0b:Oh, hey Marisa. Wow, I'm outside again...
+
+Reimu0b:So that's Flandre? Yeah, I can see the resemblance. She's got a vibe like Remilia's.
+
+Youmu0a:It's hard to imagine that this was the girl who was just wielding enough power to shake the whole mansion.
+
+Flan0b:I don't see Patchouli here. Did you let me out, Marisa?
+
+Marisa0a:It worked out that way, at least. I've got some stuff to ask you—
+
+Flan0a:Aww, thanks! You removed that nuisance for me!
+
+Flan1a:Hee hee hee, it feels good to see that conceited jerk get what she deserves. Serves her right!
+
+Youmu1a:Is that any way to talk about someone?
+
+Flan0b:Hey, Marisa. Now that all the nuisances are gone, let's continue playing from where we left off!
+
+Keine0a:Sorry, but we didn't come here to play. We have business with you.
+
+Flan0b:Huh, there's so many people here. Who are you?
+
+Alice0a:We came to check on you. Your elder sister Remilia asked us to.
+
+Flan0b:Remilia...?
+
+Flan0a:...You know her?
+
+Reimu0e:Yeah. She's always coming to my shrine and making a mess of things.
+
+Flan0a:...
+
+Flan1a:Hehe, hehehehe. Remilia. Big sister Remilia.
+
+Flan1a:Yeah, of course. She locks me inside a room, while she goes outside to play.
+
+Marisa2b:Flan, wait. This has nothing to do with Remilia. We're here to talk to you...
+
+Flan0a:You've got it wrong, Marisa. I'm really, really happy right now.
+
+Flan0a:Because my elder sister, who never cared about me up till now... has given me so many toys to play with.
+
+Cirno0a:Toys? Are you talking about us?
+
+Flan0a:Ooh, which do I start with? There's so many to choose from...
+
+Nitori2a:Hrk?!
+
+Keine1a:This pressure... Be careful, there's no telling what's coming!
+
+Flan0a:Hehe, hehehehe. Nine dolls from my big sister. One, two, three dolls...
+
+Flan1a:I'll keep playing with you until all your doll heads pop off!
+
+Marisa1a:FLAN!
+
+Youmu1a:She's not responding to reason at all, Marisa. This is nothing like you described.
+
+Reimu0a:I guess we're doing this, then.
+
+Flan0a:I've always wanted to play together with you, Big Sister. And now, my dream has finally come true.
+
+Flan1a:Okay, let's play! We'll play and play until everybody breaks!
+
+<end>
+
+<ChatID:1>----------------------------------------
+//3PP咲夜さん援軍
+
+Sakuya1a:Lady Flan!
+
+<Code=(icon_set_direction,Flan_en,Sakuya,0)>
+
+Flan0a:...!
+
+Reimu3b:That's... Sakuya?!
+
+Marisa0a:Meiling and Elly are here too!
+
+Meiling1a:Sakuya, if Patchouli's not here, then...
+
+Sakuya0b:Indeed, it seems the sealing has failed.
+
+Flan0a:...You're my sister's dog. Why are you here?
+
+Sakuya0b:Mistress's orders. I'm here to take you back to your room.
+
+Nitori2a:...So you're gonna help us out?!
+
+Elliy0a:Oh, totes!
+
+Meiling1a:We should be the ones thanking you for helping US!
+
+Keine0a:Unexpected reinforcements then. And even Elly and Kurumi at that.
+
+Elliy0a:We heard from Sakuya. It sounded important enough that it got through even to Kurumi's flabby brain!
+
+Kurumi1a:How can we NOT help when we're freeloading here?
+
+Flan0a:Didn't Remi really like that dog called Sakuya?
+
+Flan0a:If even she's here, then my sis must really wanna play with me.
+
+Flan1a:I feel the same way. I really want to play with you, Remi. I really want to make you scream!
+
+<end>
+
+<ChatID:2>----------------------------------------
+//通常撃破（レバ剣発動）
+
+Flan0a:Ehehe, so much fun. Just as I would expect from toys of hers!
+
+Keine2a:At least one of us is enjoying this. We're having a hard time just getting close to you.
+
+Flan0a:I really like having durable dolls. What should I play next...
+
+Flan1a:Ooh, let's do some busting. I'm always playing it with bats. Doing that with dolls might be more fun!
+
+Cirno0a:Uh, that sounds kinda scary. Is she serious?
+
+Alice1a:...She doesn't appear to be joking. That sword has an abnormal amount of magical power focused into it!
+
+Marisa1a:Watch out, that sword ain't normal.. It'll take you out easily if it hits!
+
+Flan0a:How will it feel, how will it sound, how will it taste... It makes me excited just thinking about it!
+
+Flan1a:Ahaha! Let 'er rip!
+
+<end>
+
+<ChatID:3>----------------------------------------
+//レバ剣撃破（FOK発動）
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Flan0a:...You didn't break.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Flan0a:...You got away.
+
+</Cond>
+
+Marisa0a:Did she work off some energy there? Maybe now we can talk.
+
+Youmu1a:Surely Flan can come to understand us if we can just get through to her!
+
+Flan0a:Um, what?
+
+Flan2a:Seriously, WHAT? You must think real highly of yourselves for HER minions.
+
+Youmu1a:Look, we're not Remilia's minions!
+
+Keine1a:We just want to know why she imprisoned you here.
+
+Flan0a:Oh, that's easy. She's scared of me. If she doesn't lock me up, she can't go outside and play without worrying.
+
+Sakuya0b:That's not true, Lady Remilia does not think that at—
+
+Flan2a:SHUT UP, DOG. Keep her name out of your dog mouth!
+
+Sakuya2a:...!
+
+Flan0a:You're all no different. You look at me with fear in your eyes.
+
+Daiyosei3b:That's not...
+
+<Code=(icon_set_direction,Marisa,Flan_en,0)>
+
+Marisa2b:You've got it wrong, Flan! That's not why we're here!
+
+<Code=(icon_set_direction,Flan_en,Marisa,0)>
+
+Flan2a:You're lying! You're the same too, Marisa! You're scared of me, so you came to lock me up again!
+
+Flan1a:Everyone's scared of me. So, so, so scared that they leave me behind and run away...
+
+Flan1a:So I'll surround them, corner them, catch them, and tear them apart... Then they won't ever run away again!
+
+<end>
+
+<ChatID:4>----------------------------------------
+//FOK撃破（そして誰もいなくなるか?発動）
+
+Flan1a:Even this doesn't make you break... How?! You're just a bunch of stupid minions!
+
+Alice1b:Her pressure hasn't faltered even slightly... She still has ample energy to spare.
+
+Rumia0a:Makes sense to me! Remilia DID call her a monster.
+
+<Code=(icon_set_direction,Flan_en,Rumia,0)>
+
+Flan0b:...?!
+
+Flan0a:My sister called me WHAT?
+
+Rumia3a:Umm, a monster? She also said you were mad and we should take you down with prejudice.
+
+<Code=(icon_set_direction,Sakuya,Rumia,0)>
+
+Sakuya1a:How can you say that to Lady Flan?!
+
+<Code=(icon_set_direction,Rumia,Sakuya,0)>
+
+Rumia0a:But she did say that.
+
+Flan0a:...
+
+Flan0a:A... monster? I'm mad...?
+
+<Code=(icon_set_direction,Sakuya,Flan_en,0)>
+
+<Code=(icon_set_direction,Meiling,Flan_en,0)>
+
+Meiling1a:Please calm down, Lady Flan! People don't always mean exactly what they say!
+
+Flan1a:Ehe... hehehe. That's not true...
+
+Flan1a:I'm not mad. I just want to play outside...
+
+<Code=(demo_wait,15)>
+
+Flan0b:I don't get it... I'm not a monster. I'm her little sister...
+
+<pause>
+
+Elliy1a:What's this bad feeling...?
+
+Meiling0b:Lady Flan...
+
+Flan0b:...I don't wanna play anymore. I'm sick of everything.
+
+Flan0b:Who needs you people? Or my sister? Or anything?
+
+Flan0b:Now, there will be none.
+
+<pause>
+
+Daiyosei1a:...!
+
+Nitori2a:Flandre disappeared?!
+
+Youmu1a:But this whole area is filled with energy... It's a wide-area danmaku attack!
+
+Reimu1a:Hiding herself and taking us all out at once, huh?
+
+Rumia0a:Then there'll really be no one left!
+
+Marisa2b:Eliminating everyone but herself... Is that really Flan's wish?
+
+Marisa2b:No, I won't let it end like this!
+
+Alice1a:You can worry about that later, if you stop moving you'll take a direct hit!
+
+Keine1a:As long as we can avoid it, she should reappear!
+
+<Cond=(GLOBAL_VAR,is_NG0,==,0)>
+
+<TIPS=RUN>
+
+</Cond>
+
+<end>
+
+<ChatID:5>----------------------------------------
+//495年の波紋
+
+Flan0b:Why...? Why won't you all disappear?
+
+Flan2a:You were supposed to vanish. Then there would be none. Why aren't you gone?
+
+Kurumi4b:Flan...
+
+Flan1a:...Fine, if you're all still here, then I'll just destroy you!
+
+Flan1a:Each and every one of you. Even the big sister I've missed for so long. I'll just break all of you myself.
+
+Nitori2a:You're... going to break Remilia too? You can't be serious!
+
+Alice1a:What are you thinking...?! If Remilia is dead, who will provide you with your basic necessities?
+
+Flan1a:Ehehe... What are you, stupid? It's simple. If I break my sister, she won't ever look at anyone else again.
+
+Flan1a:She'll just keep hating me and me alone. Forever and ever.
+
+Youmu1a:That's nonsense. We'll never allow it!
+
+Daiyosei3b:Is there really no other way to stop Flandre?
+
+Flan0a:All this time I've been waiting here, hugging my knees, hoping that one day my sister would open the door and come for me...
+
+Flan0a:But I never heard anything. Nothing ever changed.
+
+Flan0a:All I ever heard was the same sound—th-thump, th-thump.
+
+Reimu0a:...
+
+Flan0a:That's it. If I destroy that sound, then everything will definitely change. Even my sister will break. Then in this room, there will be none...
+
+Flan1a:That's the solution to everything. Q.E.D.
+
+Meiling7a:Wait, destroying that sound would mean—!
+
+Marisa1a:You're wrong, Flan. That's not how this story ends!
+
+Meiling0b:Marisa!
+
+Marisa2b:You really think this can end with destroying yourself and leaving no one left?!
+
+Marisa1a:You're dead wrong, and we'll prove it!
+
+Flan1a:You won't. The sound that never changes is proof that things will never change!
+
+Flan1a:I'll make you all hear the 495 years' worth of throbbing that I hear even when I cover my ears!
+
+<end>
+
+<ChatID:6>----------------------------------------
+//フラン撃破
+
+Flan0a:Even that didn't break you...?
+
+Flan0a:If I don't break you, nothing will change... Why won't you break?
+
+<Code=(icon_set_direction,All,Flan_en,0)>
+
+<Code=(icon_set_direction,Flan_en,Marisa,0)>
+
+Marisa0a:It's simple. You can't get the right answer from your proof.
+
+Marisa0a:The last one didn't hang herself. The real song wasn't like that.
+
+Flan0a:The real song...?
+
+Marisa0a:She got married and then there were none...
+
+Marisa0a:She didn't hang herself, she got married. Someone will come for you and take you out of here.
+
+Flan0a:Someone will come...?
+
+Marisa0a:That's how it goes. I couldn't tell you who though.
+
+Reimu0a:Anyway, cool your head and talk things out with your sister.
+
+<Code=(icon_set_direction,Flan_en,Reimu,0)>
+
+Flan0a:...We can't talk. She hates me, and I hate her too.
+
+Reimu0a:It's not that simple. The outside is filled with humans and youkai, and all of them are complicated people.
+
+Reimu0a:At least, they're way more complicated than you think.
+
+Flan0a:...
+
+Flan0b:Who in the world are you people...?
+
+Youmu2b:You're asking that NOW?
+
+Meiling0a:At least she's calmed down. We can relax for now.
+
+<pause>
+
+Patchouli0a:I see it's over.
+
+<Code=(icon_set_direction,Reimu,Patchouli_en,0)>
+
+Reimu4a:Took you long enough, Patchouli. We've taken care of Flan as promised.
+
+Patchouli0a:Yes, good work. I didn't think you had it in you.
+
+Patchouli0a:Now, as for Flan—
+
+<Code=(icon_set_direction,Flan_en,Patchouli_en,0)>
+
+Flan0b:Oh, it's you Patchouli. Marisa didn't do you in?
+
+Patchouli0a:...?!
+
+Patchouli0a:Flan is behaving...?
+
+Keine0a:All that tantrum-throwing had to catch up with her eventually.
+
+Flan0b:I've given up. You're going to lock me up again anyway, right? Go ahead. Boil me, stew me, roast me on a spit.
+
+Reimu4a:I know some people eat humans, but I doubt anyone would eat a devil.
+
+Flan0b:It's just a figure of speech. Do humans not know what those are?
+
+Patchouli0a:...
+
+Patchouli0a:Sakuya, prepare a hot bath for Flan. After that, let her rest in a random guest room.
+
+<Code=(icon_set_direction,Sakuya,Patchouli_en,0)>
+
+Sakuya5b:Lady Patchouli...?!
+
+Flan0b:Wait, what? You're not going to lock me up?
+
+Patchouli0a:Oh, do you WANT to be locked up? You're so filthy, you should at least clean up first.
+
+<Code=(icon_set_direction,Sakuya,Flan_en,0)>
+
+Sakuya0b:Lady Flan, please follow me.
+
+Flan0b:...Okay.
+
+<pause>
+
+Alice0a:What brought this on? Your attitude is completely different from before.
+
+Patchouli0a:I changed my mind a little. To be honest, I never thought I'd see the day Flan actually behaved herself.
+
+Patchouli0a:The rest of you, come with me. I'll have some tea prepared to repay you for the favor you've done for us.
+
+Keine3a:We'll take you up on that offer. It was a really long battle...
+
+Reimu0d:All that's left is Remilia. She'd better give us a proper explanation for that whole mess.
+
+Marisa1a:Once she gets back, we're all having a long talk!
+
+<end>
+
+<ChatID:7>----------------------------------------
+//ADVB
+
+<MAP=0,FROM=紅魔館,TO=紅魔館,name=Scarlet Devil Mansion,icon=0>
+
+<BG=*bg_talk_Koumakan_Int.png,fade=0,color=1,title=*bg_Koumakan_Int,bgm=bgm_talk_hiroshige>
+
+<SE=se_talk_door_open04.ogg,wait=1>
+
+Remilia6a:It's quiet...
+
+Remilia0b:Good work. I know that was all very sudden. Flan didn't manage to get out, did she?
+
+Meiling0a:No, ma'am. Sakuya and the others worked together to stop her.
+
+Elliy0a:Little sis hasn't set a foot outside.
+
+Remilia6a:...She'd better not have.
+
+Patchouli0a:You're late.
+
+Remilia0a:Patchy, I see you're okay!
+
+Remilia0b:I suppose the sealing went fine, then? That's good. I sent Sakuya and Reimu over, were they of any help?
+
+Patchouli0a:Ahh, about that.
+
+Reimu4a:We've dealt with her. It definitely wasn't easy, though.
+
+Marisa0a:She should be relaxing in the bath right now, I think.
+
+Remilia1b:...?!
+
+Remilia0b:Reimu, and... Marisa? She's in the bath, you say?
+
+Patchouli0a:Bad news first: the sealing was a failure. Flan was very close to escaping outside.
+
+Patchouli0a:But this group managed to calm her down, and Sakuya's watching over her now.
+
+Remilia0b:They calmed her down? That's preposterous. She has to be sealed no matter what.
+
+Marisa3a:Yeah, about that. We've got a question for you.
+
+Reimu0f:Why did you lock Flan up in that room?
+
+Remilia1b:...What?
+
+Patchouli0a:...
+
+Youmu3a:After fighting her, I can see why you wouldn't want her going outside, with that power of destruction.
+
+Alice0a:But to imprison your own younger sister, and to incite us to get rid of her... Isn't that a bit cold of you?
+
+Meiling7b:Hey, who are you to tell the mistress her business?!
+
+Nitori2a:Look, if we'd known she was Remilia's sister to start with, we could have approached this whole thing differently!
+
+Nitori3a:It just doesn't make sense to me that she'd purposely hide that fact from us.
+
+Remilia6a:...
+
+Remilia0b:If she isn't acting violently, that will make things easier. Patchy, begin preparations for re-sealing at once.
+
+Marisa2b:Hey! We're not done here!
+
+Remilia0b:I appreciate your help, but this matter is none of your concern. Your opinions on the matter are unwelcome.
+
+Remilia0b:I will be returning to my room. Inform me when preparations are complete.
+
+<SE=se_talk_door_close02.ogg,wait=1>
+
+<single>
+
+Cirno0a:That sucked. What's up with her?
+
+</single>
+
+Rumia1a:Yeah! We even fulfilled her request and this is what we get.
+
+Keine0b:She didn't want to listen at all. What is going through her head?
+
+Marisa3a:She's gotta be hiding something, right? Otherwise none of this makes sense.
+
+Patchouli0a:...You know what, this is as good an opportunity as any.
+
+Patchouli0a:I'm willing to share the real reason why Flan was sealed.
+
+Alice0a:The real reason...?
+
+Patchouli0a:Flan's power is dangerous, so we don't want her to go outside. That part is true.
+
+Patchouli0a:But even if she ended up outside, we'd still be able to keep her in check. That's not what we're afraid of.
+
+Nitori3a:Makes sense. After all, we managed to beat her ourselves.
+
+Daiyosei3b:Then what are you afraid of?
+
+Patchouli0a:...If Flan goes outside, she might hurt herself. That's what Remi's afraid of.
+
+Patchouli0a:As you've seen for yourselves, Flan isn't stable. There's no telling what she'd do when exposed to the stimuli outside the mansion.
+
+Marisa2b:She's worried about stimuli from outside? That's it? That's why Flan's been locked up all these years?
+
+Youmu1a:Surely there must be a solution that doesn't involve imprisoning her.
+
+Patchouli0a:Remi's working on other solutions, of course. But right now this is the best we've got.
+
+Cirno0a:If that's all you're worried about, why not just explain that to Flan?
+
+Alice0a:I'm not sure that would work. She didn't seem like someone who could be reasoned with.
+
+Patchouli0a:Correct. This isn't the kind of problem we can solve by just talking it out.
+
+Patchouli0a:Remi knows better than anyone else just how vexing this problem is. Leave her alone for now, please.
+
+Marisa3a:...
+
+Marisa3a:Alright. If Remilia's got her own ideas about it, I'll stop telling her her business.
+
+Marisa3a:But still...
+
+Youmu3a:Letting Flan be sealed off again just doesn't sit right with me.
+
+Youmu3a:Is there really no other alternative?
+
+Patchouli0a:Well, Flan does seem interested in your group. It'd be nice if that was enough to keep her distracted.
+
+Reimu0g:I wouldn't mind paying her a visit every now and then, if danmaku battles are enough for her to work off all that energy.
+
+Alice0a:But we can only do that if she doesn't get sealed. I can only hope Remilia thinks long and hard about this before acting.
+
+Patchouli0a:...Right. I'll talk with her about it.
+
+Patchouli0a:Anyway, thanks for the help. Feel free to go home and rest up now.
+
+Keine0a:That's a great idea. We'll see ourselves out, then.
+
+Cirno0a:Tell Flan that it was nice to meet her!
+
+<BG=bg_talk_Koumakan_Int.png,fade=0,color=1,title=bg_Koumakan_Remilia>
+
+<SE=se_talk_knock02.ogg,wait=1>
+
+Remilia0b:...Who's there?
+
+<SE=se_talk_door_open02.ogg,wait=1>
+
+Sakuya0b:Sakuya and Meiling, ma'am. We're here to deliver a report on Lady Flan.
+
+Remilia0a:My, that was quick. The preparations for sealing have been completed, I take...
+
+Flan0b:...Remi.
+
+Remilia1b:Flan...?!
+
+Sakuya0b:...Lady Flan wished to meet with you face-to-face, at least once.
+
+Meiling3a:I know we just sprung this on you, but since she's already here...
+
+Remilia0b:...
+
+Flan0b:...Hi, Remi. It's been a long time. Have you been well?
+
+Flan0a:Hee hee, of course you have. I could hear you and the humans having fun all the way in my room, you know.
+
+Remilia6a:...
+
+Meiling6a:Mistress...?
+
+Sakuya5a:I may be overstepping my bounds here, but I don't see the harm in at least letting her see your face.
+
+Flan0a:It's okay. Even if she's looking down, I know exactly what look she's got on her face right now.
+
+Flan0a:Ehehe... You're smiling, aren't you, Remi?
+
+Flan1a:After all, you're scared of me. You must be relieved now that I've been recaptured.
+
+Remilia5a:...
+
+Remilia6a:Sakuya, Meiling. Return Flan to her room.
+
+Meiling6a:Huh?!
+
+Sakuya5b:Mistress?
+
+Flan0a:...!
+
+Flan2a:Now, come on. Say something to me! You locked me up all those years, and now you can't offer me a single word?
+
+Flan0a:You're weak, but you always act like you're better than me. Like you've got all the answers.
+
+Remilia5a:...Take her away.
+
+Sakuya0b:...
+
+Sakuya0b:Understood. Come along, Lady Flan.
+
+Flan2a:No! Let me go!
+
+Flan0b:Why? Am I a monster to you? Would you rather I just disappear?
+
+Flan0b:Look at me, Remi... It's been so long since we last saw each other, let's talk some more...
+
+Flan2a:Remi!
+
+<SE=se_talk_door_close02.ogg,wait=1>
+
+<single>
+
+Remilia5b:...
+
+Remilia5a:I'm sorry, Flan...
+
+</single>
+
+<hide=all>
+
+Yuka0a:...You really are bad at this.
+
+</hide>
+
+Remilia1b:Yuuka! How long have you been there?
+
+Yuka0a:Well? How did it feel to have your precious box opened?
+
+Remilia0b:The only thing I felt was a mild amount of surprise that they managed to defeat Flan.
+
+Yuka0b:My goodness. You're completely unperturbed even after that display just now. You devils are something else.
+
+Remilia0b:What are you getting at?
+
+Yuka0a:You're far too clumsy with the people you care about.
+
+Yuka0a:And you know how clumsy you are, so you're afraid to touch her. That's why you kept her in a place out of your reach.
+
+Yuka0a:It's one wall separating you. You're so close, yet that wall is so impenetrable.
+
+Remilia0b:...Stay out of this, Yuuka. You don't know anything about us.
+
+Remilia6a:I'm in a very bad mood as it is. I suggest you don't sour it any further.
+
+Yuka0a:My, my. And here I came to visit out of concern for my friend.
+
+Yuka0a:Well, that's all I had to say.
+
+<SE=se_talk_door_close02.ogg,wait=1>
+
+<single>
+
+Remilia0b:...
+
+</single>
+
+<SE=se_talk_door_open02.ogg,wait=1>
+
+Patchouli0a:...Remi, I'm coming in.
+
+Remilia0b:Patchy, has the seal been prepared?
+
+Patchouli0a:That's what I came here to discuss. Though it may be uncouth to ask now...
+
+Patchouli0a:...Remi, are you really okay with things staying the way they are?
+
+Remilia5b:This is the best we can do for her. There are no other options.
+
+Remilia5a:If she goes out of the mansion, who knows what would happen to her? If I lose Flan...
+
+Patchouli0a:I understand how you feel, but the situation isn't what it used to be. Things could actually work out.
+
+Remilia0b:How is it different now?
+
+Patchouli0a:Flan's taken a genuine interest in humans after meeting Reimu and Marisa. She's been acting more mentally stable than before.
+
+Patchouli0a:You know those two well by now. I'm sure you understand what I mean.
+
+Remilia0b:You think that's enough to let Flan outside? If it was such an easy problem to solve, it would've been solved long ago.
+
+Patchouli0a:Nonetheless, I suspect you're aware that the status quo isn't working.
+
+Remilia5a:Well...
+
+Patchouli0a:...I've made progress in the research you requested. I can now erect a barrier of confinement around the entire mansion.
+
+Patchouli0a:The final call is yours to make, of course.
+
+Remilia5a:...
+
+Remilia0b:I'm under no illusions that I can start acting chummy with her at this point.
+
+Remilia0a:But this must be some form of fate. Very well, Patchy. Ready the barrier.
+
+Patchouli0a:...Alright. I'll let Sakuya and Meiling know too.
+
+<SE=se_talk_door_close02.ogg,wait=1>
+
+<single>
+
+Remilia0b:...
+
+Remilia6a:Gensokyo... What a faraway land we've come to.
+
+Remilia5b:Now, the only vampires left are you and I.
+
+Remilia5a:I'm sure you'll hate me for as long as you live...
+
+Remilia5b:But all I want is for your noble scarlet blood to survive.
+
+<Code=(transition_out,c_white,90,1)>
+
+</single>
+
+<end>
+
+<ChatID:8>----------------------------------------
+//フランvs.霊夢
+
+Reimu0a:That repugnant presence of yours is pretty distinctive. You're her sister, alright.
+
+Reimu0d:So I'll complain to you at least. Your big sister Replica keeps coming to my shrine and being a nuisance, you know.
+
+Flan2a:It's Remilia! My sister's name is Remilia!
+
+Flan0a:I know all about how she goes out and plays while I stay locked up in my room.
+
+Reimu4a:If you're a problem child, what else is she gonna do?
+
+Flan0a:But now I have a flying toy over here...
+
+Reimu0b:What do you want to play?
+
+Flan0a:Danmaku.
+
+Reimu1a:Well, I've got some bad news: nobody beats me in danmaku!
+
+<end>
+
+<ChatID:9>----------------------------------------
+//フランvs.魔理沙
+
+Marisa1a:Flan!
+
+Flan0a:Marisa! It's Marisa! Did you come to play with me?
+
+Marisa2b:Nope, there's something I need to know. Why are you...
+
+Flan0a:Ehehe. I'm so glad you came, Marisa!
+
+Flan1a:I really like you, so I'll play with you lots and lots until you break!
+
+Marisa1a:...Dammit, she ain't listening. Guess we're doin' this the hard way!
+
+<end>
+
+<ChatID:10>----------------------------------------
+//フランvs.慧音
+
+Flan0a:Big dolls, small dolls... Which should I play with first?
+
+Keine0a:She's completely lost it. I can see why Remilia warned us about her...
+
+Keine0a:But it's hard to make a final call without a proper explanation.
+
+Flan1a:Hm? What are you muttering to yourself about? I guess I should break you next!
+
+Keine1a:If I'm going to get that explanation, I need you to behave for a little while!
+
+<end>
+
+<ChatID:11>----------------------------------------
+//フランvs.にとり
+
+Flan0a:Ooh, hey, you're her doll, right? Are you good friends with her?
+
+Nitori0a:Huh? Uh... I can't speak for Reimu or the others, but I wouldn't say I am.
+
+Flan0a:Ehehe, makes sense. Being all alone suits her better anyway.
+
+Flan1a:I'll destroy all her toys so she can truly be alone!
+
+<end>
+
+<ChatID:12>----------------------------------------
+//フランvs.アリス
+
+Alice0a:So you're calling a puppeteer a doll... I can't decide if that's clever or just silly.
+
+Alice3a:If you want to play with dolls, perhaps mine will do?
+
+Flan0a:Nope, no way. I'm tired of playing with dolls.
+
+Alice0a:Why not? Once you learn how to deal with them, dolls are gentle and wonderful beings.
+
+Flan0a:Nah, they're boring. You can whack them and tear them and they won't say a thing...
+
+Flan1a:But you're different. Right, doll?
+
+<end>
+
+<ChatID:13>----------------------------------------
+//フランvs.妖夢
+
+Youmu1a:Flan, you shouldn't get too rowdy!
+
+Flan0a:Who are you? Don't talk like you know me.
+
+Youmu1a:I've heard about your situation from Marisa. We're here to help you. Please, hear us out.
+
+Flan0a:I don't WANT your help. I already made it outside!
+
+Flan1a:So next up is to play. I'm gonna play lots and lots!
+
+Youmu1a:I'm not getting through to her at all... I guess fighting is our only option!
+
+<end>
+
+<ChatID:14>----------------------------------------
+//フランvs.ルーミア
+
+Rumia1a:I'm fighting a vampire again? I'll make you lost in the middle of my darkness!
+
+Flan0c:Darkness...?
+
+Flan1a:Ehehe, I know ALL about being in the dark. Way more than you!
+
+<end>
+
+<ChatID:15>----------------------------------------
+//フランvs.大妖精
+
+Flan0a:You've got real wings? So you're not a human?
+
+Daiyosei0b:No, Cirno and I are fairies.
+
+Daiyosei3b:Um, it's not good to act too rowdy. If you want to play together, there's always tag or hopscotch...
+
+Flan0a:That's boring. I wanna do something more fun.
+
+Flan1a:With so many dolls around, playing danmaku will be the most fun for sure!
+
+Daiyosei3b:...No, there are definitely more fun ways to play.
+
+Daiyosei1a:I know I'm not a match for you... But I want you to understand that at least!
+
+<end>
+
+<ChatID:16>----------------------------------------
+//フランvs.チルノ
+
+Cirno0a:Didn't you ever get bored hanging out here?
+
+Flan0a:Of course I did. That happens when you spend ages in the same place.
+
+Cirno0a:Heh, in that case I win! I know tons more fun places.
+
+Flan0a:Are these "fun places" outside? Can I get to them by going out?
+
+Cirno1a:Sure you can! I'll even show you to them.
+
+Flan1a:Ehehe, okay! I'll go play outside once I'm done with you dolls!
+
+<end>
+
+<ChatID:17>----------------------------------------
+//フランvs.咲夜さん
+
+Flan1c:Ugh, you smell like a dog. What do you want?
+
+Sakuya1b:Just what I previously said. Lady Remilia has ordered me to show you back to your room.
+
+Flan1d:Remilia, Remilia, it's always about her...
+
+Flan1b:Ooh, will she cry if I destroy her favorite toy?
+
+Flan1e:Anything Remi likes is something I hate. I'm gonna take you away from her and crush you!
+
+<end>
+
+<ChatID:18>----------------------------------------
+//フランvs.美鈴
+
+Meiling1a:Lady Flan!
+
+Flan0b:I feel like I've seen you before...
+
+Meiling0a:I'm Meiling, the gatekeeper. We haven't had many chances to meet, but...
+
+Meiling1a:As one of the Scarlet Devil Mansion family, I have a duty to stop you!
+
+Flan0b:Family? You and me...?
+
+Flan1a:Don't be stupid! You're my what?!
+
+Flan1a:You, my sister, and everyone all just think I'm in the way!
+
+Meiling1a:No we don't! I want to protect you!
+
+Flan0a:Shut up! You're just saying that!
+
+Flan1a:Someone like you isn't even any good as a toy!
+
+Meiling1a:No, I don't think that!
+
+<end>
+
+<ChatID:19>----------------------------------------
+//フランvs.エリー
+
+Elliy1a:Hey there little sis, can we get a time out?
+
+Flan0f:Who're you?
+
+<SE=se_talk_zuko01.ogg,wait=0>
+
+Elliy2a:Erk!
+
+Elliy4a:I mean, I guess I'm just a freeloader so we've never met.
+
+Flan1c:Freeloader? She lets you stay?
+
+Flan2a:This is my house too, but... But I guess she doesn't think so!
+
+Flan1d:Fine, I'll break you with everything I've got!
+
+<end>
+
+<ChatID:20>----------------------------------------
+//フランvs.くるみ
+
+Kurumi3b:Hello! I'm Kurumi the vampire!
+
+Flan0f:Vampire? You?
+
+Kurumi3a:Yup, a vam— er, a blood-sucking girl.
+
+Flan2c:Why'd you correct yourself?
+
+Kurumi1a:Don't sweat the details! Us last-minute guests are here to help Sakuya!
+
+Kurumi5b:We've gotta be a little helpful and stop you!
+
+<end>
+
+<ChatID:21>----------------------------------------
+//フランvs.まくら
+
+Makura1b:What destructive power!
+
+Flan1c:So you're my next playmate?
+
+Makura1c:Flandre, what do you hope for when this is all over?
+
+Flan1b:First, I'll go outside. Then I want to see my sister suffer.
+
+Flan2d:If I break everything however I can, maybe my sister will come play with me?
+
+Makura1a:Hm, I suppose that nightmarish insanity of yours will need to be cleared away with danmaku.
+
+Flan1d:Tee hee, nightmarish? Nice! Then I'll show you too!
+
+<end>
+
+<ChatID:22>----------------------------------------
+//フランvs.メーコ
+
+Flan1a:Ooh, found a good toy!
+
+Meko0b:Eep!
+
+Flan1b:Stretched or crushed, which would you like?
+
+Meko2b:Neither! You can't treat people like toys!
+
+Flan1b:Then roast or sheared?
+
+Meko2a:Again, neither!
+
+<end>
+
+<ChatID:23>----------------------------------------
+//フランvs.フラン
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Flan2d:Oh? When did I make this clone?
+
+Flan1b:Whatever. Let's go play outside!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Flan4b:No. Remi said I couldn't.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Flan0c:Remi said—
+
+Flan1c:Hey, you're just my clone! Why are you acting like you know her better?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Flan3d:Cuz I do, duh! Should I tell you all about her?
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Flan1c:Hmph, from someone like you?!
+
+Flan1e:I don't need you! I'll destroy you and make you disappear!
+
+</nomove>
+
+<end>
+
+<ChatID:24>----------------------------------------
+//フランvs.レミリア
+
+Remilia5a:Flan...
+
+Flan2c:Remi?
+
+Flan2d:No, that's impossible. I'd never see you straight up like this.
+
+Flan2a:You're scared of me, you hate me.
+
+Remilia5a:...
+
+Remilia6a:(It hurts me to think that I drove you into such a corner back then.)
+
+Remilia1d:(My inescapable past... No, I should be thankful to this dream journey for letting me face it head on.)
+
+<end>
+
+<ChatID:25>----------------------------------------
+//フランvs.こいし
+
+Koishi6c:Let's play together, Flan! I'll help you get out of here.
+
+Flan2c:You'll help me...?
+
+Flan2f:I don't need help though. I can beat them all and go outside on my own.
+
+Koishi2b:But even if you go outside, you can never get out of here.
+
+Koishi5b:So I'll guide you. I'm just returning the favor, Flan.
+
+Flan1c:What's with you...?
+
+<end>
+
+<ChatID:26>----------------------------------------
+//パチュリーvs.フラン
+
+Patchouli0c:Flan.
+
+Flan1c:Patchouli! You came to seal me again, huh?
+
+Flan1d:I let my guard down before, but the same trick won't work twice!
+
+Patchouli4a:No, I'm only here for a danmaku battle with you.
+
+Flan1c:Danmaku... with me...?
+
+Patchouli0c:...Maybe I want to understand Remi and my actions through you, as you are now.
+
+Flan1c:Gross. If you wanna play that much, let's play until you break!
+
+<end>
+
+<ChatID:27>----------------------------------------
+//フランvs.小悪魔
+
+Flan0a:「vs. Koakuma
+
+<end>
+
+<ChatID:28>----------------------------------------
+//C15：フランvs.非想天則
+
+Flan0c:What is this, a big doll?
+
+Flan1b:Tee hee, I love playing with dolls!
+
+Tensoku0a:...!
+
+Flan1c:You look tough so you won't break so easily!
+
+Flan1b:Now play with me until I'm done!
+
+<end>

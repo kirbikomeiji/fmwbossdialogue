@@ -1,0 +1,637 @@
+﻿○共通第十四話「封じられた闇の底で
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: 2EP (NPCs show up)
+ 3: Royal Flare
+ 4: stage end
+ 5-6: battle vs. Patche
+
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+<MAP=2,FROM=博麗神社,TO=博麗神社,name=Hakurei Shrine,icon=5>
+
+<BG=*bg_talk_Shrine.png,fade=0,color=1,title=*bg_Shrine,bgm=bgm_talk_ningyo>
+
+Remilia0b:...Do you think they've arrived by now?
+
+Yuka0a:You've been constantly standing up and sitting down. You can't relax, mm?
+
+Remilia0b:How could I? I'm worried about leaving Reimu's group in charge of handling it.
+
+Yuka0a:What terrible manners you have. Those humans have far more class than you do.
+
+Akyu3c:*sigh*
+
+Akyu3e:...
+
+Akyu0a:(Remilia Scarlet and Yuuka Kazami. I've heard that both of them are ruthless upper-ranking youkai.)
+
+Akyu0b:(But when I talk with them, they seem very calm and composed. Surely their reputations must be exaggerated...)
+
+Yuka0b:That said, I'm dreadfully bored. I wonder if there are any humans worth bullying around here.
+
+Akyu3d:...Never mind. I take it back.
+
+Remilia0b:Ah, I know. Sakuya, you should go join them.
+
+Sakuya0b:Me, Milady?
+
+Remilia0a:Yes. You know enough about her, don't you? Your presence would be a boon to the humans.
+
+Sakuya0b:As you wish. I will do as much as I can.
+
+<SE=se_move_bania02.ogg,wait=1>
+
+<single>
+
+<Code=(demo_wait,15)>
+
+Yuka0a:You could've just sent her along with Alice's group to start with, you know.
+
+</single>
+
+Remilia0b:Look, I was a little out of sorts, okay? It all happened so suddenly.
+
+Remilia0b:I hardly expected her seal to come undone at random.
+
+Yuka0b:If it's that worrying, you shouldn't have taken your eyes off her after going to all the trouble of stowing her away safe and sound.
+
+Remilia0b:...What does that mean?
+
+Yuka0a:Exactly what I said. You were afraid to deal with her yourself, so you put her someplace where nobody could reach her.
+
+Remilia6a:...
+
+Yuka0a:...Ahh, your precious sheltered girl. I wonder how she's doing now?
+
+<MAP=2,FROM=紅魔館,TO=紅魔館,name=Scarlet Devil Mansion,icon=0>
+
+<BG=*bg_talk_Koumakan_Int.png,fade=1,color=1,title=*bg_Koumakan_Int,bgm=bgm_talk_rain02>
+
+<SE=se_talk_door_open04.ogg,wait=1>
+
+Cirno0a:We're here. Wow, the rain really is only falling around here.
+
+Reimu0a:Vampires can't walk through a light drizzle like this? Maybe they're weaker than I thought.
+
+Keine0a:They have immense power, but they also possess many weaknesses. That precarious balance is but one of their many trademarks.
+
+Nitori0a:Sounds to me like it would've been easier for them to exterminate this one rather than sealing it away.
+
+Nitori1a:They could just flood the mansion and be done with it, right?
+
+Reimu0f:Yeah, actually. Remilia said they had a monster sealed away, but she never said why that was.
+
+Keine0a:Regardless, we need to find Flandre fast, before she gets outside—
+
+<Code=(map_shake,1,100,4)>
+
+<SE=se_bomb_long01.ogg,wait=0>
+
+<Code=(demo_wait,100)>
+
+Daiyosei2c:!
+
+Rumia1a:Wah! It's shaking!
+
+Cirno1a:That sound came from over there!
+
+Reimu1a:Alright, let's hurry!
+
+<BG=bg_talk_Koumakan_Int.png,fade=1,color=1,title=*bg_Koumakan_Int,bgm=bgm_talk_interlude02>
+
+Nitori2a:Hey, is this really the place?
+
+Reimu4a:I don't know. We should've gotten more details from Remilia.
+
+Keine0a:We followed the tremors here, so this SHOULD be the right way...
+
+Alice0a:Hey, is that...?
+
+<hide=all>
+
+Youmu1a:There's no mistake. It must be that staircase, Marisa!
+
+Marisa1a:Yeah, and down there is...
+
+</hide>
+
+Reimu1a:Hey, you two!
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+<BG=bg_talk_Koumakan_Int.png,fade=1,color=1,title=bg_Koumakan_Int,bgm=bgm_talk_interlude02>
+
+<Code=(map_shake,1,120,4)>
+
+<SE=se_bomb_long01.ogg,wait=1>
+
+Youmu1a:There it is again. The mansion is shaking.
+
+Marisa2b:Yeah, looks like we've got no time to waste.
+
+Marisa1a:It was left here, then next is right... I think. Don't fall behind, Youmu!
+
+Youmu1a:Marisa, are you sure you are heading in the right direction?
+
+Marisa2b:Absolutely. Patchouli said she was gonna seal Flan away again... It's gotta be in the room that Flan was in to begin with.
+
+Marisa2b:I sure wasn't expecting any of THIS the first time I met her.
+
+Youmu1a:...I'm still shocked myself. Hearing that Remilia wants to seal away her little sister makes no sense to me.
+
+Youmu3a:Surely there must be extenuating circumstances involved.
+
+Marisa3a:We won't know until we ask. But I can't just turn around and walk away.
+
+<Code=(map_shake,1,90,6)>
+
+<SE=se_bomb_long01.ogg,wait=0>
+
+<Code=(demo_wait,90)>
+
+Marisa2a:...Whoa! That was the worst one yet.
+
+Youmu1a:What could these tremors be, anyway? Could Patchouli already be sealing her away?!
+
+Marisa1a:It's possible. Let's hurry, Youmu. Full speed ahead!
+
+<BG=bg_talk_Koumakan_Int.png,fade=1,color=1,title=*bg_Koumakan_Int,bgm=bgm_talk_interlude01>
+
+Marisa2b:I remember this area. We'll be there soon.
+
+Youmu1a:There's no mistake. It must be that staircase, Marisa!
+
+Marisa1a:Yeah, and down there is...
+
+<hide=all>
+
+Reimu1a:Hey, you two!
+
+</hide>
+
+</Cond>
+
+Marisa3b:Hm? That voice...
+
+Cirno0a:Hey, it's the girl in black and white.
+
+Nitori2a:So this is where you've been, Marisa!
+
+Rumia0a:Ohh, she really showed up here.
+
+Youmu2b:Rumia? And Keine too... Everyone is here!
+
+Keine1a:Ah, you're here as well, Youmu.
+
+Marisa0a:What's with the whole rogues' gallery, anyway?
+
+Alice0c:That should be our question. I certainly didn't expect to meet you here.
+
+Daiyosei0a:Alice and Nitori have been looking for you, Marisa.
+
+Marisa2b:Wha? Looking for me? Why would...
+
+Marisa0a:...Wait, when did you come back down from the mountain, Nitori?
+
+Nitori0a:Just recently. It's a long story.
+
+Marisa0a:Ahh, let's save that for later then. I'm kinda busy right now.
+
+Reimu3b:Busy? Are you looking for this Flandre person?
+
+Marisa0a:Well, yeah. You guys know about Flan too?
+
+Keine1a:More specifically, Remilia asked us to exterminate someone here.
+
+Keine1a:A monster by the name of Flandre.
+
+Marisa3b:...!
+
+Marisa3a:A monster...? Did Remilia really call her that?
+
+Daiyosei2c:...?
+
+Daiyosei0a:Yes, she said Flandre was a mad monster that we should take down with prejudice.
+
+Marisa3b:So that's how Remilia sees her...
+
+Marisa3a:...
+
+Cirno0a:Why are you scowling like that?
+
+Marisa2b:Well, I don't know if you heard... but Flandre is Remilia's little sister.
+
+Keine1a:What?!
+
+Alice1a:Remilia's... little sister?
+
+Nitori2a:What the heck? So she's calling her own sister a monster?
+
+Reimu0d:Remilia never mentioned anything about a sister to us.
+
+Marisa2b:I don't know what Remilia said, but Flan said that herself.
+
+Keine0a:So you've met Flandre... Did you fight with her?
+
+Marisa0a:No, it wasn't a fight. You could say we were playing, I guess...
+
+Marisa0a:It's true that she's stupidly strong, but she's not a bad person at all... I think.
+
+Alice0a:...That's rather different from what we heard from Remilia. According to her, Flandre is supposed to be a dangerous monster...
+
+<Code=(map_shake,1,100,6)>
+
+<SE=se_bomb_long01.ogg,wait=0>
+
+<Code=(demo_wait,100)>
+
+Rumia2b:Wah!
+
+Reimu0a:I'm not sure what the deal is there, but I don't think we have time to discuss it.
+
+Marisa2b:Yeah. This shaking... She's gotta be close.
+
+Marisa1a:Follow me. I'll take you to Flan!
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP
+
+Marisa2b:This is it. This is where I first met Flan.
+
+Keine0a:Such a creepy place... Is Remilia's sister really here?
+
+Youmu0a:Speaking of Remilia, why isn't she here if this concerns her own sister?
+
+Reimu4a:She's at the shrine. There's rain falling around the mansion, so she can't get in.
+
+Marisa0a:Ahh right. Vampires are weak to the rain, so that also keeps Flan inside the mansion.
+
+Marisa3a:As for who's responsible for that rain, well, that's an easy guess...
+
+<Code=(cursor_jump,384,256,1)>
+
+<nomove>
+
+<hide=all>
+
+Patchouli0a:You guess rightly.
+
+</hide>
+
+</nomove>
+
+<pause>
+
+Marisa1a:Patchouli!
+
+Patchouli1a:You're still here? You really don't know how to take a hint when someone tells you to leave.
+
+Marisa1a:As if. What kind of girl would just turn around and ditch someone like that?
+
+Marisa1a:Where's Flan? I've got a lot of questions for the both of you.
+
+Patchouli0a:Well, I'm not giving any answers. And where do you get off, bringing the red-and-white shrine maiden in here with you?
+
+Reimu4a:She didn't "bring" us anywhere. Remilia asked us to check up on what's going on.
+
+Patchouli0a:I'm the one who made it rain, in order to keep the young mistress inside.
+
+Patchouli0a:If you've heard about her from Remi, that spares me a lengthy explanation. The re-sealing will be done shortly, so let me finish and don't interfere.
+
+Keine0a:So you put the little sister inside that room?
+
+Patchouli0a:Just barely, yes. I was worried for a while there, after SOMEONE in black and white broke the seal.
+
+Nitori2a:Really, Marisa? You broke it?
+
+Marisa0a:All I did was open a door. Must've been one real lousy seal if that was all it took to break it.
+
+Patchouli0a:You're lying. The magic stones anchoring the seal in place are missing. You took them, didn't you?
+
+Cirno0a:Hm? Stones...?
+
+Keine0b:...What's the matter, Cirno?
+
+Cirno0a:That kinda rings a bell...
+
+Patchouli0a:In any case, I have no time to deal with outsiders. I must hurry before the barrier breaks...
+
+<nomove>
+
+<Code=(cursor_jump,384,208,1)>
+
+<hide=all>
+
+Flan2a:...!!
+
+</hide>
+
+</nomove>
+
+<Code=(map_shake,1,120,6)>
+
+<SE=se_bomb_long01.ogg,wait=1>
+
+Nitori2a:She must be pitching a real fit in there!
+
+Patchouli0a:You see? I'm running out of time. Get out of here!
+
+Alice1a:...I'll be doing no such thing.
+
+Patchouli0a:Excuse me?
+
+Alice1a:Something doesn't add up here. Remilia locked her own little sister up in a room, then asked us to exterminate her without telling us that.
+
+Keine1a:...Yes, and we have to take what Marisa said into account as well. Let us meet this Flandre!
+
+Youmu1a:Everyone!
+
+Patchouli0a:You're one nosy group. Curiosity killed the cat, you know.
+
+Reimu0c:Okay, let's calm down and review this rationally. This Flandre person is the source of all this fuss, and you're the one who made the rain fall.
+
+Reimu1a:In that case, all we have to do is defeat you to make the rain stop, then take down the person in the room too. Problem solved!
+
+Patchouli0a:How is THAT the conclusion you drew from any of this?
+
+Patchouli1a:Fine, so be it. I'm in good form for spell recitation today. I'll use my finest magic to make you all disappear!
+
+<end>
+
+<ChatID:2>----------------------------------------
+//2EP
+
+<Code=(move_view,384,208,4)>
+
+<Code=(cursor_jump,384,208,0)>
+
+<Code=(map_shake,1,120,6)>
+
+<SE=se_bomb_long01.ogg,wait=1>
+
+Cirno2a:Ack! More shaking!
+
+Daiyosei2a:The tremors are so strong... Is this place going to collapse?
+
+Patchouli2a:...That's not good. The barrier is getting weaker.
+
+<nomove>
+
+<Code=(cursor_jump,384,208,1)>
+
+<hide=all>
+
+Flan2a:Open up!
+
+</hide>
+
+</nomove>
+
+Marisa1a:Flan!
+
+Reimu0a:Remilia's little sister is beyond that door, I take it.
+
+<nomove>
+
+<Code=(cursor_jump,384,208,1)>
+
+<hide=all>
+
+Flan2a:Let me out, Patchouli! OPEN THE DOOR!
+
+</hide>
+
+</nomove>
+
+<pause>
+
+Alice1b:Those are vampire familiars!
+
+Patchouli0a:Flan... So you're going to interfere.
+
+Keine2a:She can summon her familiars outside the barrier from inside it... What power!
+
+Nitori2a:Heads up, I think they're attacking us too!
+
+<end>
+
+<ChatID:3>----------------------------------------
+//サイレントセレナ→ロイヤルフレア
+
+Patchouli0a:Why are you stopping me? Flan's going to get outside if I don't act now!
+
+Marisa1a:Why are you people locking her up to begin with?!
+
+Patchouli0a:What does it matter? This is what Remi wants. You have no place butting in.
+
+Nitori1b:All we're asking is for you to explain Remilia's reasoning to us!
+
+Keine1a:Imprisoning her little sister, then asking us to vanquish her... None of this makes sense on its own.
+
+Marisa1a:If you don't spit it out now, we're gonna ask Remilia directly, and we're gonna take Flan with us when we do.
+
+Patchouli0a:...You know nothing. This is how we've always handled this. You can't just come in here and ruin everything on a whim!
+
+Youmu1a:She's gearing up for an attack! Get back, everyone!
+
+Patchouli0a:Too late. You will be immolated by the power of the furious sun!
+
+<end>
+
+<ChatID:4>----------------------------------------
+//ロイヤルフレア終了
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Patchouli0a:You people, I swear...
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Patchouli2a:Ugh, my stamina is at its limit...
+
+</Cond>
+
+Nitori1b:It's broken! So now...
+
+Rumia1a:We get to fight the one they were sealing!
+
+Patchouli0a:What do you hope to accomplish by meeting her in person? She's not someone you can have a reasonable conversation with.
+
+Marisa0a:I spoke with her just fine before you came along. Maybe you guys just haven't given it a fair shake.
+
+Patchouli0a:Fools, all of you. That careless attitude will see you blown away by her power of destruction...
+
+<pause>
+
+Reimu0f:...!
+
+Patchouli2a:...I'm very nearly at my limit. I no longer have the strength to renew the seal.
+
+Patchouli0a:I'll have to turn to Remi. And just by the way, if I have to redraw my map of Gensokyo, I'm holding you all responsible.
+
+Marisa2b:...
+
+Reimu0g:Oh, relax and stop with the gloom-and-doom. If she's that bad, we'll just take her down ourselves.
+
+Reimu0a:We came here to perform a youkai extermination anyway.
+
+Marisa0a:...Yeah, good point. If Flan gets violent, we'll just have to cool her head.
+
+Patchouli0a:...
+
+Patchouli0a:Fine. At this point, there's no one else who can stop her anyway...
+
+Patchouli0a:Since you've stuck your nose into our affairs, I expect you to see this through to the end.
+
+Keine1a:You don't have to tell us that. We won't back down after coming this far!
+
+Youmu1a:Yes, we're ready for whatever happens next.
+
+<pause>
+
+Patchouli0a:...You'd better be. The seal's breaking.
+
+<end>
+
+<ChatID:5>----------------------------------------
+//霊夢vs.パチュリー
+
+Patchouli0a:If Remi asked you all to come here, then we have no reason to fight. Would you kindly leave?
+
+Reimu0a:I don't know anything about this whole mess. I don't give a fig who's locking up who.
+
+Reimu1a:I'm here to resolve things by beating everyone up.
+
+Patchouli0a:Great. THIS is what Remilia sent over.
+
+Patchouli1a:I'll just defeat you and seal Flan away. You'll rue your own recklessness in challenging me!
+
+<end>
+
+<ChatID:6>----------------------------------------
+//魔理沙vs.パチュリー
+
+Marisa1a:If you don't wanna talk, then I'll just force my way through!
+
+Patchouli0a:...You don't learn at all. I told you that this is none of your concern.
+
+Marisa2b:I was powerless to do anything last time, but I don't take that kind of thing lying down.
+
+Marisa1a:Step aside. I'm gonna talk with Flan!
+
+<end>
+
+<ChatID:7>----------------------------------------
+//
+
+Marisa0a:Let's do this, Alice. Patchouli's stronger than usual today, we gotta force her back with our combination technique!
+
+Alice0a:I don't think this is the best of plans... But this isn't the time for nitpicking, I suppose.
+
+Patchouli0a:You're both coming at the same time? That just proves neither of you are a match for me alone.
+
+Marisa0a:She's a decoy. I'll sting like a bee while you're distracted by Alice.
+
+Alice0a:Wouldn't you be the decoy? Your speed is your redeeming feature after all.
+
+Patchouli0a:...Do they even want to work together?
+
+<end>
+
+<ChatID:8>----------------------------------------
+//パチュリーvs.まくら
+
+Makura1a:So you insist on locking up Flan.
+
+Makura0d:While I understand your reasoning, when I see it happening right in front of me, I—
+
+Patchouli1c:Your opinion is irrelevant, outsider.
+
+Makura1a:Perhaps... but allow me to see how this plays out for myself.
+
+<end>
+
+<ChatID:9>----------------------------------------
+//パチュリーvs.メーコ
+
+Meko0b:Phew, finally made it.
+
+Patchouli1c:Why have you cut your way in here?
+
+Meko1d:Isn't it obvious? To have you tell us what's going on with Flandre!
+
+Patchouli1b:Silence, outsider. If you're going to get in my way, then I'll have you leave.
+
+<end>
+
+<ChatID:10>----------------------------------------
+//パチュリーvs.パチュリー
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Patchouli0c:Starting off with a wide-range danmaku? Not a bad reaction.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Patchouli1c:Don't speak as if you're here to watch.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Patchouli4a:I am here to watch, though. As such, I even know the countermeasure.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Patchouli1a:How suspicious... Unfortunately I don't have time to entertain you.
+
+</nomove>
+
+<end>
+
+<ChatID:11>----------------------------------------
+//パチュリーvs.神綺
+
+Shinki0a:How could you forcefully seal Flandre?
+
+Patchouli0a:When you consider the risk, it's only natural. Will you take responsibility if she hurts someone?
+
+Shinki0a:Hm... I do understand your feelings, as well as what you're trying to say.
+
+Shinki0a:But there must be a way to handle this that makes everyone happier.
+
+Patchouli0a:...
+
+<end>
+
+<ChatID:12>----------------------------------------
+//パチュリーvs.フラン
+
+Flan0a:Heyo!
+
+Patchouli0a:Flan?! When did you get outside?!
+
+Flan0a:Tee hee. I've never seen you so flustered before.
+
+Patchouli0a:The barrier is untouched, so what happened?!
+
+Flan0a:Hee hee, and this reaction is pretty funny too.
+
+Flan0a:C'mon, let's play!
+
+<end>

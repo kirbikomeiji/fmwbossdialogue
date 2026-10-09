@@ -1,0 +1,1308 @@
+﻿○特別篇第三話「夢宙の幻想少女
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: 1EP
+ 4: 2EP
+ 5: 3EP
+ 6: 5EP (unused)
+ 7: 6PP (unused)
+ 8: first battle vs. Yorihime
+ 9: beat Yorihime (first time)
+10: beat Yorihime (thereafter)
+11: reach near Toyohime
+12: first battle vs. Toyohime
+13: Toyohime spell 1 start
+14: beat Toyohime (first time)
+15: clear
+16: ADVB
+17: beat Toyohime (thereafter)
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=13,FROM=宇宙B,TO=宇宙B,name=Palanquin Ship,icon=4>
+
+<BG=*bg_talk_Seirensen_Bridge_Space.png,fade=0,color=1,title=*bg_Seirensen_Bridge,bgm=bgm_talk_ningyo>
+
+Korin2a:Whew, we managed to get away.
+
+Akyu0a:Your ability to move everyone in an instant is truly amazing, Toyohime.
+
+Toyohime2c:I'm the one who's amazed. I was waiting for just the right time, but you all made the right time for yourselves.
+
+Toyohime0b:I can't believe you even had a smoke bomb on hand.
+
+Nitori1a:We use smokescreens a lot, so I've been iterating on them over time.
+
+Murasa3c:Nue also did a great job at immediately following that up.
+
+Nue1a:Considering everyone you surround yourself with, I'm pretty used to it, Minamitsu.
+
+<hide=video>
+
+Makura0a:Then it's your live combat experience that's helped you reach this point.
+
+Makura3c:The more I watch, the more impressed I become.
+
+</hide>
+
+Marisa6a:Well yeah, an army that's seen a hundred battles is gonna get somethin' out of it.
+
+Reimu0c:It's not like we meant to train, it's just kind of happened after being together for so many years.
+
+<hide=video>
+
+Makura3c:This is another form of the power of bonds...
+
+Meko1a:That's so cool! I wish I could look that smug!
+
+</hide>
+
+Akyu3c:For what was meant to be a nice trip, we still had to make a break for it, didn't we?
+
+Akyu0a:I wish we'd had more time to take in the sights.
+
+Youmu0a:I guess it was pretty unlikely you'd be able to relive the whole trip vicariously.
+
+Sanae0c:Anyway, I hope we can at least take it easy after this.
+
+Sanae0a:You mentioned we'd able to stay in this dream until morning, right?
+
+<hide=video>
+
+Makura3c:Yes, there's still a little bit of time left.
+
+Makura3b:But everyone appears to be tired. I can take you back to reality sooner if you'd like.
+
+</hide>
+
+Utsuho2d:Hmm, what should we do? I'm feeling fine, so I could stick around...
+
+Udonge3b:Let's not push our luck. Lady Yorihime's group will be on us any second now.
+
+Korin1b:About that, actually—the radar's not picking up any pursuit readings.
+
+Korin0a:Thanks to our clever escape, it seems we've managed to put quite some distance between our groups.
+
+Murasa3b:Wait, really?!
+
+Ichirin0a:The Palanquin Ship's output is rising, too. We might be in the clear here.
+
+Sakuya6a:That's not what really happened, but I'm sure the full roster helped.
+
+Aya1a:Which means...
+
+Koishi6c:Yaaay, I'm going to the deck!
+
+Nitori1a:I'll join you!
+
+Orin4b:Okuu, what about us?
+
+Utsuho5d:Hmm, Yatagarasu says he wants to go too!
+
+<SE=se_talk_run.ogg,wait=1>
+
+<SE=se_talk_door_open06.ogg,wait=1>
+
+<single>
+
+Yukari4c:Goodness gracious. We were just in a heated battle, but they're still so quick to switch gears.
+
+</single>
+
+Satori0c:We rarely get this kind of opportunity, so I think it's fine as long as we're not in any danger.
+
+Marisa0c:When you put it that way, seems like it'd be a shame to not do anything.
+
+Marisa0a:Ooh, here's an idea. Why don't we have a drink while admiring the sea of stars?
+
+Reimu0g:How romantic.
+
+Sanae4b:That's a great idea. Let's make some snacks!
+
+Youmu4b:Okay. Sakuya, what if you and I split the work?
+
+Sakuya0a:How about a collaboration between maids?
+
+Yumeko3c:Sounds like fun, I'll show you what I can do.
+
+Shinki0a:Everyone's so lively. This mom's worn out from all the excitement.
+
+Medicine3b:Don't say that, Shinki. You should join us.
+
+Alice3a:Medi's been looking forward to seeing the sea of stars with everyone else.
+
+Shinki0c:Goodness. In that case, I could stick it out a little longer...
+
+<SE=se_talk_siren01.ogg,wait=0>
+
+<Code=(demo_wait,39)>
+
+Shinki0c:...Hmm?
+
+Kosuzu5a:This sound, it can't be...
+
+<Code=(sound_fadeout,BGM,45,0)>
+
+<BGM=bgm_talk_emergency,0>
+
+Ichirin1a:A proximity alert...? Could it be our pursuers?!
+
+Youmu1a:What's going on? I thought we weren't getting any readings!
+
+Kosuzu2a:We are now, though. And there's more and more of them!
+
+Reimu1a:Hey, what's going on? Isn't this a little sudden even for a dream?!
+
+<hide=video>
+
+Meko0b:Lady Makura, what's happening?
+
+Makura2a:I don't know either. Not without taking a look outside...
+
+</hide>
+
+Marisa1a:Yeesh. Guess we've still got one fight left before we wake up!
+
+Alice1a:Anyway, let's head out too!
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP（出撃前）
+
+<nomove>
+
+<Code=(cursor_jump,192,288,1)>
+
+GyokutoT0a:We've spotted the Earthlings' ship, Lady Yorihime!
+
+</nomove>
+
+YorihimeD0a:I'm surprised they made it out this far. They almost evaded our net.
+
+Sanae3a:I-Is that Yorihime...?!
+
+Marisa1a:What happened out here?!
+
+Kogasa2b:I don't know! The lunar troops just appeared all of a sudden like fwoosh!
+
+Udonge2b:Did they teleport here...? No, they must've used space jumping!
+
+Eirin2a:Instantly sending in an entire battalion at once? Not just anyone could do that...
+
+Yukari2a:Yes... That's a feat only one person is capable of.
+
+<nomove>
+
+<Code=(cursor_jump,144,304,1)>
+
+<hide=all>
+
+ToyohimeD0b:Greetings!
+
+</hide>
+
+</nomove>
+
+<pause>
+
+Reimu0f:...!
+
+Daiyosei2c:No way, that's...!
+
+YorihimeD0a:Sister, thank you for the prompt response.
+
+ToyohimeD0a:Considering they were good enough to escape you, I knew I'd need to step in.
+
+ToyohimeD0b:I've issued permission to use the anti-ship neutron launcher, so let's get this over with quickly.
+
+YorihimeD0b:Right. You're in command.
+
+Nazrin2a:T-Toyohime?! Why is she here...?!
+
+Toyohime2c:Ooh, of course. Since they have me as well, they used the same method we did to bridge the distance. Well played.
+
+Elliy1a:Hold on, is this really the time for admiration?! Toyohime wasn't around at all the first time!
+
+Kurumi2a:Come to think of it, no one here has any memory of fighting her!
+
+<hide=video>
+
+Makura0a:I don't understand the cause either. If I had to guess, it might be that someone's strong image of her has slipped into everyone's dream...
+
+</hide>
+
+Satori0c:A strong image... Or a trauma, perhaps.
+
+<hide=video>
+
+Meko5b:Oh no! Her fan's getting all glowy...!
+
+</hide>
+
+Elliy2a:It was you!
+
+Akyu3c:Well, if anyone suffered due to Toyohime's fan, it was definitely Mehko.
+
+Yuyuko0a:No need to go finger-pointing, of course. It just means both sides have wild-card elements.
+
+Byakuren1a:At any rate, this situation is extremely concerning. We should prepare to intercept them.
+
+Korin0a:Everyone, deploy!
+
+<end>
+
+<ChatID:2>----------------------------------------
+//1PP（配置後）
+
+ToyohimeD0a:...I see, so those are the intruders from the report.
+
+ToyohimeD0a:Judging from the presences I'm picking up, they really do have perfect imposters of you and me.
+
+YorihimeD0a:They say they're from an alternate universe, but I can't determine the truth of that. Regardless, since they've trespassed on the moon...
+
+ToyohimeD0a:Mmhm. We do our utmost to ensure the public safety of the moon against any and all who threaten it.
+
+ToyohimeD0a:This is precisely the mission we've been tasked with as the ones to carry on her will.
+
+YorihimeD0a:Yes, Sister!
+
+Nazrin0a:...Yikes, that's a lovely vow and all, but on this particular day it's a problem for us.
+
+Udonge2b:Yeah, there's no way we can fight both of them at once...!
+
+<hide=video>
+
+Meko0b:What should we do, Lady Makura? Should we go back to reality right now?!
+
+Makura0a:It's not out of the question, but... If it's too sudden, they won't have a very pleasant awakening.
+
+Makura0a:Would you mind stalling for time while I get things ready?
+
+</hide>
+
+Marisa0a:Sure thing. How long do you want?
+
+<hide=video>
+
+Makura0a:8 minutes. That should be more than enough.
+
+</hide>
+
+Reimu3a:Great. We have to fight anyway, AND we get an extra opponent for our trouble.
+
+Kanako1a:Don't forget that we have ample forces at our disposal as well.
+
+Suwako1a:We've got our own space manipulator, and our own powerhouses. And if we have to, we can even play dirty.
+
+Yukari0a:Our top priority is to withdraw from the moon. You can fight if you like, but be careful not to go in too deep.
+
+Korin0a:Everyone, prepare for space combat. Fight off the attackers and make sure we have an escape route!
+
+<end>
+
+<ChatID:3>----------------------------------------
+//1EP
+
+<Cond=(FIND_UNIT,GyokutoS2_en,enemy,!=,-1)>
+
+<nomove>
+
+<Code=(cursor_jump,320,256,1)>
+
+GyokutoS20a:Um, we brought them out, but how do we use these again?
+
+<Code=(cursor_jump,320,240,0)>
+
+GyokutoS0a:The manual says these things are so powerful, you can pretty much just point them in the general direction of whatever you wanna hit, right...?
+
+</nomove>
+
+Koakuma1a:It looks like they're planning to use those huge cannons!
+
+Nitori2a:Watch out, everyone. That firepower's gonna be—
+
+<nomove>
+
+<Code=(cursor_jump,320,256,1)>
+
+GyokutoS21a:Here we go, fire!
+
+<pause>
+
+Kogasa2b:BWHAAA?!
+
+Minoriko1a:Such pure destructive power... Are they trying to roast all my sweet potatoes?!
+
+Toyohime0a:You can't fire that in quick succession, so don't take any wasteful shots.
+
+<nomove>
+
+<Code=(cursor_jump,320,256,1)>
+
+GyokutoS21b:O-Oh, right. The next volley will be charged in 2 minutes.
+
+GyokutoS21b:Wait, hold on, was that the fake Lady Toyohime?
+
+<Code=(cursor_jump,320,240,0)>
+
+GyokutoS0b:What's going on? I'm confused!
+
+</nomove>
+
+Toyohime0b:Heheh. Seems like I could give some fake orders and they'd still obey.
+
+Yorihime2a:Sister, now is not the time to for such...
+
+Toyohime2c:I'm just kidding. That weapon will fire once every 3 minutes, so be careful to stay out of its line of fire.
+
+Ran0a:...Meanwhile, the other Toyohime is simply standing by in the back.
+
+Ran0a:I have a hard time believing she's only here to give orders, though. We'd better keep an eye on her.
+
+</Cond>
+
+<Cond=(FIND_UNIT,GyokutoS2_en,enemy,==,-1)>
+
+ToyohimeD2c:Aiming for our frontmost neutron cannons... How cunning of them.
+
+ToyohimeD2c:It's almost as if they've fought us many times before...
+
+YorihimeD0b:No matter their approach, we need only intercept them.
+
+ToyohimeD0b:Indeed. I'll leave the front lines to you.
+
+Ran0a:It seems the other Toyohime is simply standing by in the back.
+
+Ran0a:I have a hard time believing she's only here to give orders, though. We'd better keep an eye on her.
+
+</Cond>
+
+<end>
+
+<ChatID:4>----------------------------------------
+//2EP
+
+Koishi6c:Look, it's like the stars are about to fall!
+
+Utsuho0a:Yatagarasu says he's happy to see so many friends!
+
+Mima0a:Almost all of those lights are living stars. He must sense that.
+
+Korin0a:A little stargazing's fine, but don't get too distracted. We're still in enemy territory.
+
+<pause>
+
+Luna1a:And there's more of them, right on cue!
+
+Star0a:I was so panicked back then, most of it's a blur now...
+
+Akyu1a:There's no telling where and when more enemy reinforcements will show up. Get us away from the enemy's ranks as quickly as possible!
+
+<end>
+
+<ChatID:5>----------------------------------------
+//3EP
+
+Hina1a:Watch out, enemies are coming from over there too!
+
+Letty0a:Their troops live up to their reputation.
+
+GyokutoS1a:Alright, let's start with the biggest targets. First up is that mysterious weapon!
+
+Daiyosei0a:Weapon...?
+
+Tensoku0a:...!
+
+Reimu4a:Oh, this guy. I mean, when they put it that way, he does kinda look like one.
+
+Mystia0a:Well, we won't let them touch Hisoutensoku!
+
+Wriggle1a:You can fight us instead!
+
+ToyohimeD2c:Is it really such a valuable weapon, for you all to protect it like this?
+
+Cirno0a:Don't be silly, Hisoutensoku is our friend!
+
+<hide=video>
+
+Makura0a:Your friend...?
+
+</hide>
+
+Rumia0a:Yeah! He lets us ride on his shoulders.
+
+Sanae1a:He's a wonderful being who inspires us with dreams and shares his spirit with us!
+
+Medicine0a:He's a fellow doll!
+
+Kogasa0b:And a junior tsukumogami!
+
+<hide=video>
+
+Meko0b:The way everyone thinks of Hisoutensoku....
+
+Makura0a:They acknowledge a being newly-made in a dream as a member of their team, on equal standing with themselves?
+
+Makura0a:I've heard that accepting everything is the way of Gensokyo but....
+
+</hide>
+
+Tensoku0a:...
+
+<hide=video>
+
+Makura0a:...Hisoutensoku. Do you also see them as your friends?
+
+Makura0a:(Their mutual acceptance has enabled Hisoutensoku to build up a bond of trust with everyone.)
+
+Makura0a:(It's as if he's no different from everyone else in Gensokyo...)
+
+<end>
+
+<ChatID:6>----------------------------------------
+//5EP
+
+<end>
+
+<ChatID:7>----------------------------------------
+//6PP
+
+<end>
+
+<ChatID:8>----------------------------------------
+//依姫初戦闘時
+
+<Cond=(LOCAL_VAR,ObjControl,prev_phase_id,==,1)>
+
+YorihimeD0a:I wasn't expecting them to make the first move.
+
+Mima0a:We're used to being chased. There's only one thing to do in situations like these.
+
+Remilia1a:We'll teach you cheeky pursuers not to mess with us!
+
+YorihimeD0b:Have a look around you before spouting such nonsense.
+
+Yuka1a:Heehee, oh yes. I might actually be able to have a little fun facing down the leaders of the moon backed by this huge army.
+
+Yuka1a:I was just thinking that the Dreamscape wasn't giving me the kind of satisfying fights I wanted.
+
+Yugi1a:It's adversity that really kindles my fighting spirit!
+
+YorihimeD0b:It seems words are of no further use. Now that we're no longer on the Pure Land of the Moon, I will show no mercy.
+
+YorihimeD1b:Witness the power of the Watatsuki bloodline!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,prev_phase_id,==,2)>
+
+Kisume2b:Eeep! She got in close!
+
+YorihimeD0b:Did you really think you could escape like this?
+
+Ran0a:If she pins us down here, we won't be able to dodge Toyohime's attacks. This is a tricky pattern.
+
+Mima0a:Then why don't we just stand our ground and take them down head-on?
+
+Remilia1a:Once we repel your advance, we'll beat up your sister too.
+
+YorihimeD0b:Are you suggesting you can beat me? Have you taken a look around?
+
+Yuka1a:Heehee, oh yes. I might actually be able to have a little fun facing down the leaders of the moon backed by this huge army.
+
+Yuka1a:I was just thinking that the Dreamscape wasn't giving me the kind of satisfying fights I wanted.
+
+Yugi1a:It's adversity that really kindles my fighting spirit!
+
+YorihimeD0b:It seems words are of no further use. Now that we're no longer on the Pure Land of the Moon, I will show no mercy.
+
+YorihimeD1b:Witness the power of the Watatsuki bloodline!
+
+</Cond>
+
+<end>
+
+<ChatID:9>----------------------------------------
+//依姫を撃破（一回目）
+
+YorihimeD0a:Even after that earlier fight, you managed to come out on top against me...
+
+Cirno0a:You get it now? In all of space, I'm number one!
+
+<SE=se_talk_robot01.ogg,wait=0>
+
+Tensoku0a:...!
+
+YorihimeD0b:I didn't expect this much resistance. I'll acknowledge that you're capable.
+
+YorihimeD1b:But it won't be enough!
+
+<pause>
+
+Meiling1a:She just healed up!
+
+<Cond=(CHECK_TOT_ITEM,MAGATAMA,>,0)>
+
+Flan0b:Oh yeah, this happened last time too.
+
+Sunny0a:Can't she at least let us have a little break after we beat her?
+
+</Cond>
+
+<Cond=(CHECK_TOT_ITEM,MAGATAMA,==,0)>
+
+Koishi0a:Aww, but we worked so hard to beat her.
+
+Nazrin0a:That's just how tough the image of her in everyone's minds is.
+
+</Cond>
+
+YorihimeD0a:It wouldn't do to put on an unworthy display in my sister's presence.
+
+YorihimeD1b:You will soon realize that resistance against the two of us is utterly futile!
+
+<end>
+
+<ChatID:10>----------------------------------------
+//依姫を撃破（二回目以降）
+
+YorihimeD2a:Rgh, this is unbelievable...
+
+YorihimeD1b:But!
+
+<pause>
+
+Yuyuko0a:Ooh, she's practically immortal.
+
+Ran0a:It seems fighting Yorihime is a waste of our resources.
+
+Yukari0a:Everyone, prioritize reaching our destination.
+
+<end>
+
+<ChatID:11>----------------------------------------
+//豊姫の一定距離内に侵入
+
+<Cond=(LOCAL_VAR,ObjControl,prev_phase_id,==,1)>
+
+GyokutoS0a:How dare they head over there!
+
+GyokutoT0a:Lady Toyohime, please be careful! They're bound to attack our leader!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,prev_phase_id,==,2)>
+
+GyokutoS0a:They're so slippery, we can't catch them...
+
+GyokutoT0a:Lady Toyohime, if we're not careful, they could get away!
+
+</Cond>
+
+ToyohimeD0b:I'm aware. It just so happens that I've finished my own preparations.
+
+Kurumi0a:Preparations...?
+
+<pause>
+
+Kogasa2b:Wha? What-what-what?!
+
+Youmu2b:That cutting-edge lunar weapon Toyohime's holding...
+
+Yumeko0a:We should have expected this. Perhaps it's anothe result of Mehko's trauma.
+
+<hide=video>
+
+Meko5f:NOOO!!
+
+Makura0a:Mehko...! Please calm down...
+
+</hide>
+
+Lyrica0a:She's awfully shaken for someone who isn't even fighting on the field.
+
+Momiji1a:To be fair, it has the same power as the real thing. We certainly need to be on guard!
+
+ToyohimeD1a:Listen well, Earthlings. That was a warning shot.
+
+ToyohimeD1a:This fan will purify anything. Think hard about what will happen if you attempt to continue your escape.
+
+Mokou0a:Tch. So this was what she was going for while she was staying in the back.
+
+Keine1a:Yorihime cuts into the front lines, then Toyohime crushes them from behind... They may be our enemies, but their coordination is incredible.
+
+ToyohimeD0b:I'm quite well-aware of your strength. You'll receive no mercy from me.
+
+ToyohimeD1a:If you wish to surrender, now's the time.
+
+<end>
+
+<ChatID:12>----------------------------------------
+//豊姫初戦闘
+
+Momiji1a:Alright, she's within reach!
+
+ToyohimeD0a:Well done. I trust you're prepared for the consequences of pressing this far inward.
+
+Sakuya0a:No, I trust your plans have been thrown off entirely by our approach.
+
+Youmu1a:If we surround her, even a lunar weapon shouldn't be able to stop us!
+
+ToyohimeD0b:Why, that's right. By all means, give it a try.
+
+Marisa0a:...She's creeping me out. Got no idea what she's thinking.
+
+Luna0a:What if she's even harder to fight than Yorihime...?
+
+Eirin0a:Toyohime is fairly laid-back, but she also has the intelligence to grasp the big picture and the discipline to put logic over emotions.
+
+Eirin0a:She's at her very best in large-scale battles where tactics are everything.
+
+Sunny3a:Yikes. You know she's bad news when Eirin's talking her up...
+
+Yorihime0b:It's just as Lady Yagokoro says. My sister is one of the last people you'd ever want as an enemy.
+
+Reisen0a:She's popular for her soothing presence, but not just for that.
+
+Reisen0a:If you had Toyohime on your side in a mock battle, you'd win before you even knew it!
+
+Youmu1a:So if Yorihime is the fierce general, Toyohime is the clever one...
+
+Yumeko0a:It seems she has talents befitting a leader of the Lunar Emissaries.
+
+ToyohimeD0a:Not to interrupt whatever conversation you're having, but I'm going to start a danmaku battle now.
+
+ToyohimeD0c:One that will not bring shame to the Watatsuki name, a battle most beautiful...
+
+<end>
+
+<ChatID:13>----------------------------------------
+//豊姫通常撃破
+
+ToyohimeD2c:Goodness. I'm amazed Earthlings could achieve this much.
+
+ToyohimeD2c:You said something about a parallel universe? Your world's Earth must be far more advanced than our own.
+
+Yukari0a:I'm sure you meant that as a compliment, but you're being rather condescending, don't you think?
+
+ToyohimeD0b:Lunarians have their pride. I'm sure you Earthlings are no different in that regard.
+
+Koakuma0a:She's elegant and refined, but she's also very hard to read.
+
+Akyu3c:I guess Gensokyo isn't the only place where the idea of "Beware of people smiling" applies.
+
+Sanae0a:Her demeanor somehow reminds me of Eirin.
+
+Eirin0a:I suppose it would. After all, no one has inherited my wisdom and ideas as strongly as Toyohime.
+
+Eirin0a:Her ability to connect the mountains and the sea is something she mastered after being the fastest to grasp all of my teachings.
+
+Tenshi0a:Wait, you mean she LEARNED that?
+
+Toyohime0a:Mmhm! It was an application of all of Lady Yagokoro's lessons on quantum theory.
+
+Toyohime0b:You can intertwine any two points to enable transfer exceeding the bounds of the Theory of Relativity—
+
+Reimu5c:So basically, it's a superpowered spiriting away.
+
+Toyohime2c:Isn't it awfully rude to interrupt?
+
+ToyohimeD0a:The me over there seems to get along quite well with the Earthlings.
+
+ToyohimeD0b:If you don't mind, I'd like to hear all about the world you're from.
+
+Toyohime0b:Alas, that will have to wait for another time.
+
+Toyohime0a:You were planning to turn the situation to your advantage as you drew out the conversation, right?
+
+ToyohimeD0b:Great minds think alike. However, your realization comes too late.
+
+ToyohimeD0a:I've released the limiter on my fan. Now I'll show you my power.
+
+ToyohimeD0c:A path that connects the mountains and the sea. Here and now...
+
+<end>
+
+<ChatID:14>----------------------------------------
+//豊姫スペル１撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+ToyohimeD2c:My, you really are strong.
+
+Nitori2a:Whew, we managed to keep Toyohime at bay...
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+ToyohimeD2c:Oh dear, you got away.
+
+Nitori2a:Whew, we managed to wait it out...
+
+</Cond>
+
+Marisa0a:We've brought our spellcards with us. It'd be a waste NOT to do some danmaku.
+
+Akyu1a:But we've gone too far in! We need to hurry and get away from enemy lines...
+
+ToyohimeD0a:I won't allow it.
+
+<pause>
+
+Keine2a:Rgh, she healed up...
+
+Alice1a:It's like she anticipated this situation well in advance.
+
+Yamame0a:But she's given us an opening. This is our only chance to pull away.
+
+Yukari0a:Everyone, let's get out of here.
+
+<end>
+
+<ChatID:15>----------------------------------------
+//勝利条件を達成
+
+Korin0a:Yes, we've managed to buy enough time!
+
+Marisa1a:Makura, how's the prep going for taking us out of the dream?
+
+<Cond=(LOCAL_LIST,ObjControl,event_done,16,==,1)>
+
+<hide=video>
+
+Makura0a:Preparations complete. At this distance, there shouldn't even be a million in one chance of failure.
+
+Makura1a:Everyone, please stay near the Palanquin Ship.
+
+</hide>
+
+</Cond>
+
+<Cond=(LOCAL_LIST,ObjControl,event_done,16,==,0)>
+
+<hide=video>
+
+Makura0a:Preparations complete. Everyone, please gather around the Palanquin Ship.
+
+</hide>
+
+<pause>
+
+</Cond>
+
+YorihimeD1b:Hold it right there. If you try anything funny...
+
+<hide=video>
+
+Makura1a:...And now, let the dream waver.
+
+Makura1a:Farewell, dreamland moon...
+
+</hide>
+
+<pause>
+
+YorihimeD2a:...!
+
+ToyohimeD2c:Goodness, they've vanished without a trace.
+
+YorihimeD2a:What in the world is going on? Was it your imposter again?
+
+ToyohimeD0a:If it was, I would have sensed it. This was something else.
+
+ToyohimeD0a:If I had to describe it, it's as though spacetime shifted, yet didn't shift...
+
+YorihimeD2a:Huh...?
+
+ToyohimeD0a:At any rate, it seems they no longer exist in this world.
+
+YorihimeD0a:...It does seem that way. I can't sense them either.
+
+YorihimeD0a:You don't think they really came from another world and returned there?
+
+ToyohimeD0a:Either that, or it could have been an illusion like you suggested.
+
+ToyohimeD0a:Regardless, let's just consider it a good thing that we were able to protect the moon.
+
+YorihimeD0a:But we need to investigate the cause and and make efforts to prevent a recurrence...
+
+ToyohimeD2c:Oh, but I would welcome a recurrence. I don't know if she was the real Eirin, but at least we were able to see her again.
+
+ToyohimeD0a:And we were by her side. I can't be too upset when they let us imagine such a future.
+
+YorihimeD2a:Toyohime...
+
+ToyohimeD0c:...It would be nice if someday that became a reality, no matter how fleeting.
+
+ToyohimeD0c:If it does, our thousand years of waiting will have been worth it.
+
+YorihimeD5a:Right...
+
+ToyohimeD0b:Now, let's return to the Lunar Capital, shall we? We've got some reports to submit.
+
+YorihimeD2a:But how should we report such inexplicable events?
+
+ToyohimeD0a:Well, our opponents are gone for good, so let's say as much in our report.
+
+ToyohimeD0b:We can claim that the insolent trespassers have been erased from this world.
+
+YorihimeD0d:Honestly...
+
+<end>
+
+<ChatID:16>----------------------------------------
+//ADVB
+
+<BG=bg_talk_Seirensen_Bridge_Space.png,fade=0,color=1,title=bg_Seirensen_Bridge,bgm=bgm_talk_hiroshige>
+
+Reimu5a:N-Nnngh...
+
+Sanae0a:Reimu, wake up!
+
+Reimu5c:Huh? Is the dream over...?
+
+Reimu3c:Wait, the Palanquin Ship? Does that mean we're still in the dream...?
+
+Makura0a:This is a place between dreams and reality. A world between sleeping and waking.
+
+Meko0e:We've left the moon safely, so you can relax!
+
+Marisa0a:Huh, so this is the kinda place we pass through before we wake up.
+
+Kogasa2b:Wait, the real Makura and Mehko are here?!
+
+Meko0c:C'mon, Lady Makura made this dream, so that much was a piece of cake.
+
+Makura0a:...I was only supposed to be a bystander, but I wanted to greet you in person before the dream ends.
+
+Makura0a:I'll serve as your guide back to reality.
+
+Keine0a:So what you're saying is, there's still some time left before daybreak?
+
+Makura0a:No, the sky is already beginning to brighten.
+
+Makura0a:I simply didn't want your waking to be abrupt, so I thought it might be nice to let you doze a bit longer.
+
+Sunny0a:Wow, talk about thoughtful. That's our oversleeping nut!
+
+Komachi0a:It'd be a shame to just all go our separate ways so soon after reuniting, huh?
+
+Tenshi0a:But that means our dream voyage really is at an end.
+
+Tenshi0a:That's equal parts relieving and disappointing...
+
+Iku0a:It certainly flew by.
+
+Alice0a:And in the end, it was just one danmaku battle after another...
+
+Marisa0a:I mean, that's how it always is.
+
+Akyu3a:Heheh, that's true. It was a very fitting journey for us.
+
+Akyu0a:I'm glad I was able to personally witness things I had only heard about.
+
+Makura0a:I feel much the same.
+
+Elliy0a:Just remember, the real version was way more wild and intense!
+
+Kurumi0a:That's right! Miss Rabbit got captured, and Reimu went on a whole tear...
+
+Sho0a:And that was also when Reisen reconciled with Yorihime.
+
+Meko0b:Wait, that happened?!
+
+Reisen2c:Uh, more or less...
+
+Reimu3a:Don't remind me too much. That was a pretty demoralizing time for me.
+
+Sanae0a:Come on, you bounced back quickly enough.
+
+Makura0a:It goes to show how much more you've all been through than we know.
+
+Makura0a:And here I was mainly distracted by the strength of your bonds over the course of this journey...
+
+Marisa0a:It definitely wasn't an easy road getting where we are now.
+
+Eiki0a:I trust this dream was a useful learning experience for you.
+
+Makura0a:...Yes, it was originally a dream to learn about the moon, but I was able to learn so much more than that.
+
+Makura0a:What you've experienced, how you've grown...
+
+Makura0a:I think being able to see even just a little of that will support us as we live on.
+
+Rumia0a:You don't have to make a big deal out of it. We had fun too.
+
+Wriggle0a:Yeah, and you revived Hisoutensoku for us!
+
+Meko0a:You're counting that...?
+
+Makura0a:That was for my own atonement. You needn't feel indebted over that.
+
+Letty0a:Even so, Hisoutensoku is our friend. We're happy about him being here regardless.
+
+Daiyosei0a:I'm sure Hisoutensoku is grateful to you too, Makura.
+
+<hide=video>
+
+Tensoku0a:...
+
+</hide>
+
+Makura0a:Hisoutensoku, you...
+
+Makura0a:Would you truly say that to the one who used you?
+
+Makura0a:That you forgive and accept us, as Gensokyo has?
+
+Meko0b:You're just like Reimu and Marisa...
+
+<hide=video>
+
+Tensoku0a:...
+
+</hide>
+
+Kanako0a:There's no need for you to act like you're beneath us.
+
+Suwako0a:Your dream helped us all get back together again, too.
+
+Makura0a:I wouldn't say that...
+
+Lyrica0a:It'll be sad to part ways again once the dream's over, though.
+
+Merlin0a:We're all going to split up, and Hisoutensoku's going to disappear too...
+
+Makura0a:About that—I will leave Hisoutensoku's body as-is.
+
+Makura0a:Moving forward, you should be able to see him again in your dreams.
+
+Mystia0a:Wow, really?!
+
+Cirno0a:Yay! Hisoutensoku, we can play together again!
+
+<hide=video>
+
+Tensoku0a:...!
+
+</hide>
+
+Mima0a:That's going a little overboard for atonement. Don't tell me all their feelings were contagious?
+
+Makura0a:Now that you've shown me your bonds, I can't bring myself to take them away.
+
+Minoriko0a:...You know, just hearing this makes me feel better about returning to reality.
+
+Shizuha0a:Mmhm. It's not like everything will disappear when we wake up.
+
+Marisa0a:By the way, are we still okay with daybreak just about to happen?
+
+Meko0b:Oh, Lady Makura. It's about time...
+
+Makura0a:...That's right. It's time.
+
+Makura0a:I will now bring you with me.
+
+Reimu0f:Where are we going?
+
+<pause>
+
+<BG=bg_talk_Earth.png,fade=1,color=1,title=*bg_Unknown>
+
+Reimu0f:...!
+
+Byakuren1a:This is outside the ship...
+
+Ran0a:Is that the dream Earth that we can see over there....?
+
+Kaguya0a:No, it's not a dream. That said, it's also not the real thing.
+
+Makura0a:...This is the final boundary before awakening. The boundary between dreams and reality.
+
+Makura0a:Your real bodies are about to awaken and call you all back.
+
+Marisa0a:Does this mean you brought us here so you could see us off?
+
+Remilia0a:And you even went out of your way to prepare such an amazing view. How tasteful.
+
+Meko4b:No, that's not something Lady Makura made. It's something that's within all of you.
+
+Sanae0a:Within us...?
+
+Yukari0a:...I see, so that's a manifestation of the Gensokyo within us.
+
+Yukari0a:Just as the moon is reflected in water, so Gensokyo's dream and reality are reflected in the boundary.
+
+Meko0e:It's so pretty. Even we were surprised!
+
+Makura0a:...The Gensokyo you've all built is so very beautiful.
+
+Makura0a:Every time I look at it, I'm once again reminded of how precious a place it is.
+
+Udonge0a:Yeah, seeing it like this makes me think returning to reality might not be so bad after all.
+
+Sakuya0a:It's not something we normally think about or notice...
+
+Makura0a:If you can take that feeling with you, then my efforts as your guide have been worth it.
+
+Makura0a:Please, return to reality without dwelling on this dream. Keep developing and telling the story of that beautiful world.
+
+Makura0a:After all, even if this dream ends, Gensokyo will continue.
+
+Reimu0g:It's not like we need you to tell us that.
+
+Yukari0a:It's her expression of goodwill toward Gensokyo. I'll always remember these words.
+
+<pause>
+
+Patchouli0a:What's this...?
+
+Makura0a:...It would appear that the time has come to say goodbye.
+
+Meko4b:As each of you wakes up in the real world, your body will be taken along.
+
+Remilia0a:We're going first. I suppose that's the fate of those at the top.
+
+Meiling0a:Even if it wasn't for very long, I had a lot of fun playing with you all again!
+
+Sakuya0a:Gensokyo's only so big. If we want to meet again, we always can.
+
+Flan0b:When we do, let's play again just like we did today!
+
+Koishi0a:Yeah, that's a promise!
+
+<pause>
+
+<single>
+
+Suika2a:And they're gone... Guess they're back in the real world.
+
+</single>
+
+<pause>
+
+Aya0a:Ayayaya, is it our turn now?
+
+Merlin1a:Then let's get a closing speech from our MC!
+
+Lunasa0b:This was a fun encore to perform with all of you.
+
+Youmu0a:The boundary between the real world and the Netherworld is still thin. You'd be welcome to come visit us again.
+
+Yuyuko0a:And if you don't make it in time, we can always meet again after you die.
+
+Mokou1a:Heh. Not in my case.
+
+Kanako0a:I'll look forward to meeting again somewhere.
+
+Yukari0a:Good day to you all.
+
+<pause>
+
+<Code=(demo_wait,2)>
+
+<pause>
+
+<single>
+
+Eirin0a:...It seems we're next.
+
+</single>
+
+Parsee0a:I'm not really sure why, but us too, it looks like.
+
+Kaguya1a:Though we part ways for the moment, I am sure our paths will cross again.
+
+Yorihime0a:Whether that's next year, or a thousand years later...
+
+Satori0c:We can connect our hearts, so I'm sure we'll find each other again.
+
+Toyohime0c:Take care of yourselves.
+
+<pause>
+
+<Code=(demo_wait,2)>
+
+<pause>
+
+<single>
+
+Iku0a:...Oh, it looks like the rest of us will all awaken en masse.
+
+</single>
+
+Byakuren0a:I truly enjoyed this dreamlike journey.
+
+Shinki5b:...With everyone living their own lives and building their own happiness, eventually we won't be able to meet whenever we'd like.
+
+Shinki0c:So it was truly wonderful for us to be able to spend today together.
+
+Alice3a:Even if our bodies are separated, our dreams are connected as one...
+
+Alice3a:Now I believe that through those dreams, we'll be able to meet again.
+
+Tenshi0a:I'll grace you with my presence again sometime. I suppose that IS what friends are for.
+
+Sanae0a:Right! I hope we can stay friends forever.
+
+Yuka0a:Minor details aside, it's been fun.
+
+Mima0a:Heh, that about sums it up.
+
+Marisa0a:Welp, let's go!
+
+Reimu0g:See you all around.
+
+<pause>
+
+<single>
+
+Meko0a:They're all gone. That just leaves...
+
+</single>
+
+Tensoku0a:...
+
+Makura0a:...No, I should be the one thanking you, Hisoutensoku.
+
+Makura0a:Through your bonds with everyone, I've learned a little of what it means to be part of Gensokyo.
+
+Makura0a:Coming to understand each other, accepting each other, giving and taking with each other...
+
+Makura0a:...I'm a little envious of you for being able to do that.
+
+Tensoku0a:...
+
+Makura0a:That body belongs to you now. From now on, you can live close to them in their dreams.
+
+Makura0a:Goodbye, Hisoutensoku. May you also have sweet dreams.
+
+Tensoku0a:...
+
+<pause>
+
+<single>
+
+Meko0a:Lady Makura...
+
+</single>
+
+Makura0a:...We should head back too. Our real lives are waiting for us.
+
+Meko4d:Yes, but before we go...
+
+Meko4a:...This journey was fun, wasn't it?
+
+Makura0a:...
+
+Meko4b:I had fun! And I bet all the people playing with danmaku had even more fun with it.
+
+Meko4a:In fact, it makes me just a teensy bit jealous.
+
+Makura0a:If you can be that honest about your feelings, I'm sure you'll do just fine, Mehko.
+
+Makura0a:I can't say the same for myself, of course...
+
+Meko4b:Don't worry about that, Lady Makura. We can move forward together!
+
+Makura0b:Heh. Your brightness is quite encouraging.
+
+Makura0b:...It's about time to wake up. Before we cross the boundary, why don't you rest here with me?
+
+Makura0b:Sweet dreams, Mehko.
+
+Meko4a:Sweet dreams, Lady Makura...
+
+<BG=bg_talk_Black.png,fade=0,color=1,title=*bg_Unknown>
+
+Makura0a:(...It was a journey that gave me a glimpse into everyone's history. One filled with discoveries and surprises.)
+
+Makura0a:(Reimu and her friends must have learned so many things on their own journey, much longer than this.)
+
+Makura0a:(What did they think, right at the very end, during their battle with us?)
+
+Makura0a:(...Why did they say they would accept us?)
+
+Makura0a:(At this point, I still couldn't say, but doing so left us a tomorrow I'm loath to part with.)
+
+Makura0a:(I'm certain it will be a bright future for Mehko.)
+
+Makura0b:(At the end of one dream comes another...)
+
+<Code=(transition_out,c_black,60,0)>
+
+<end>
+
+<ChatID:17>----------------------------------------
+//豊姫スペル１撃破
+
+ToyohimeD1a:You're quite capable. However...
+
+<pause>
+
+Momiji2a:Gah, she's going to heal after all!
+
+Keine1a:Fighting Toyohime will only exhaust us. Hurry and escape to the exit point!
+
+<end>
+
+<ChatID:18>----------------------------------------
+//依姫初戦闘時
+
+<Cond=(LOCAL_VAR,ObjControl,prev_phase_id,==,1)>
+
+YorihimeD0a:I wasn't expecting them to make the first move.
+
+Mima0a:We're used to being chased. There's only one thing to do in situations like these.
+
+Remilia1a:We'll teach you cheeky pursuers not to mess with us!
+
+YorihimeD0b:Have a look around you before spouting such nonsense.
+
+Yuka1a:Heehee, oh yes. I might actually be able to have a little fun facing down the leaders of the moon backed by this huge army.
+
+Yuka1a:I was just thinking that the Dreamscape wasn't giving me the kind of satisfying fights I wanted.
+
+Yugi1a:It's adversity that really kindles my fighting spirit!
+
+YorihimeD0b:It seems words are of no further use. Now that we're no longer on the Pure Land of the Moon, I will show no mercy.
+
+YorihimeD1b:Witness the power of the Watatsuki bloodline!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,prev_phase_id,==,2)>
+
+Kisume2b:Eeep! She got in close!
+
+YorihimeD0b:Did you really think you could escape like this?
+
+Ran0a:If she pins us down here, we won't be able to dodge Toyohime's attacks. This is a tricky pattern.
+
+Mima0a:Then why don't we just stand our ground and take them down head-on?
+
+Remilia1a:Once we repel your advance, we'll beat up your sister too.
+
+YorihimeD0b:Are you suggesting you can beat me? Have you taken a look around?
+
+Yuka1a:Heehee, oh yes. I might actually be able to have a little fun facing down the leaders of the moon backed by this huge army.
+
+Yuka1a:I was just thinking that the Dreamscape wasn't giving me the kind of satisfying fights I wanted.
+
+Yugi1a:It's adversity that really kindles my fighting spirit!
+
+YorihimeD0b:It seems words are of no further use. Now that we're no longer on the Pure Land of the Moon, I will show no mercy.
+
+YorihimeD1b:Witness the power of the Watatsuki bloodline!
+
+</Cond>
+
+<end>

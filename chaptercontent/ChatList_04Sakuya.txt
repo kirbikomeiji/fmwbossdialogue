@@ -1,0 +1,631 @@
+﻿○咲夜第四話「完全で瀟洒なメイド
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: 2PP
+ 3: battle vs. Onryo
+ 4: clear
+ 5: ADVB
+ 6: battle Sakuya
+ 7: battle Komachi
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<MAP=0,FROM=紅魔館,TO=紅魔館,name=Scarlet Devil Mansion,icon=5>
+
+<BG=*bg_talk_Koumakan_Int.png,fade=0,color=1,title=*bg_Koumakan_Remilia,bgm=bgm_talk_aoki>
+
+<SE=se_talk_door_open02.ogg,wait=1>
+
+Patchouli0a:...Remi, I'm coming in.
+
+Remilia0a:Hello, Patchy. Good morning.
+
+Patchouli0c:My, you woke up early. It's barely late afternoon.
+
+Remilia0d:Yes, well, sometimes that happens.
+
+Remilia0a:So, what brings you here?
+
+Patchouli0b:I'm not sure if you've heard about it yet, but...
+
+Patchouli0c:Yuuka wants Sakuya to join her when she leaves. Did you know about that?
+
+Remilia0a:Yes, Yuuka told me herself a little while ago.
+
+Patchouli0c:I suppose there was no need to dance around the subject then.
+
+Remilia0a:Has Sakuya said anything about it?
+
+Patchouli4a:She seems unsure of what to do. To be fair, it was rather sudden.
+
+Remilia0b:Hm.
+
+Patchouli0c:...If you were to request it, I'm sure Sakuya would stay.
+
+Remilia1a:You must be joking. A master should never ask favors of her servant.
+
+Patchouli0c:Would you really be fine if it happens? You like Sakuya a lot yourself.
+
+Remilia0a:Indeed I do. Seeing how that girl gets on in Gensokyo has been my latest source of fun.
+
+Remilia0d:That's why I've entrusted the choice to Sakuya. Wouldn't it be boring simply having everything go my way?
+
+Patchouli0b:...If that's how you see it, then I have nothing more to say.
+
+Patchouli0c:I hope you don't end up regretting it. Don't even think of coming crying to me later.
+
+Remilia0e:How unsympathetic. Sakuya will never leave me anyway.
+
+Remilia0a:She's my Sakuya after all!
+
+Patchouli4a:...Says the person who woke up early, completely out of character.
+
+<MAP=0,FROM=妖怪の樹海,TO=妖怪の樹海,name=Great Youkai Forest,icon=5>
+
+<BG=*bg_talk_Pond.png,fade=1,color=1,title=*bg_Pond,bgm=bgm_talk_aoki>
+
+Sakuya0b:Dianthus flowers are blooming here. One of the seven autumn flowers. They wouldn't make for a very good congee...
+
+Sakuya1b:And I suppose these are the hoofprints of a deer. At least, they don't seem to belong to a horse...
+
+Sakuya5a:...
+
+Sakuya5c:*huff* A relaxing walk was the plan, but it's not working out that way at all.
+
+Sakuya5a:I've never seriously thought about my reason for staying at the mansion...
+
+Noname0a:...lovely...
+
+Sakuya5b:...?
+
+Noname0a:...yeah...
+
+Sakuya0b:Did I just hear someone talking? It seems to be coming from this direction...
+
+<BG=bg_talk_Pond.png,fade=0,color=1,title=*bg_Pond>
+
+<hide=name>
+
+Komachi1a:Ooh, what a cute bellflower. It's already the season for that, huh? It looks so tasteful.
+
+Komachi5a:Ooh, this maple tree looks amazing too. The wonders of nature...
+
+</hide>
+
+Sakuya5a:...
+
+<hide=name>
+
+Komachi0a:Ohh, a girl in western clothing? The late summer brings rather strange things with it.
+
+</hide>
+
+Sakuya0b:...Who are you, and what are you doing here?
+
+<hide=name>
+
+Komachi3c:Hey, one question at a time, okay? I'm nobody important enough to bother naming. Just a regular ol' shinigami.
+
+</hide>
+
+Sakuya5b:Shinigami...?
+
+Komachi4a:I'm not here to take your life, though. That isn't really my job, anyway.
+
+Sakuya5a:I see. I'm not exactly an expert on these things.
+
+Sakuya5b:Still, you're quite the refined shinigami, if you're out observing the flowers.
+
+Komachi0a:Oh, I'm nothing that fancy. I couldn't tell a good flower from a bad one.
+
+Komachi5a:The lingering summer heat is brutal at my post, so I came here for a bit to cool off.
+
+Sakuya1b:...You just walked off your job while on the clock? How brazen.
+
+Komachi0a:Hey, don't say that. If you're out here, you're probably in the same boat...
+
+Komachi0c:Wait, hold up. Ooohh, I get it.
+
+Sakuya0b:...?
+
+Sakuya5a:No matter. I'll be going now.
+
+Komachi3a:It's not too late to start fresh. Think this through!
+
+Sakuya5b:...Huh?
+
+Komachi0c:I see the cold look on your face. Ugh, you people and your death wishes!
+
+Komachi3a:Those who commit suicide aren't qualified to cross the Sanzu River. Buck up and enjoy your life!
+
+Sakuya5a:...Suicide? I beg your pardon. I appreciate my life just fine, thank you very much.
+
+Komachi2b:Ah, was I wrong? What're you doing here, then?
+
+Sakuya5a:Just having a stroll and thinking to myself.
+
+Komachi0a:Huh. If that's what you want, I think you've come to the wrong place AND the wrong time.
+
+Sakuya5b:The wrong place and time...?
+
+Komachi3c:Yep. Dusk is the time of evil spirits. You encounter ghosts and youkai more often during that period.
+
+Komachi4b:Especially here, which houses some pretty mean ghosts. You might get drawn in and killed.
+
+Sakuya5a:...No wonder the atmosphere here is so dark. If you know they're around here, why are you here yourself?
+
+Komachi0b:...To be honest, I'm here specifically for those ghosts.
+
+Komachi4b:They're pretty dangerous, so I'd rather not get you involved...
+
+<hide=name>
+
+OnryoR0a:...
+
+</hide>
+
+Sakuya0c:...!
+
+Komachi0c:...Guess we talked too long. They're coming out in droves.
+
+<hide=name>
+
+<update>
+
+Onryo0a:...
+
+Onryo0a:...
+
+</update>
+
+</hide>
+
+Sakuya5a:We're surrounded. They don't look like they'll turn around and leave, either.
+
+Komachi1a:Sounds about right. You look pretty capable. Lend me a hand, would you?
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP
+
+Onryo0a:...
+
+Komachi0a:Boy, there's a lotta these guys. Well? Will you help me out?
+
+Sakuya0b:At this point, I have no other choice. Besides...
+
+OnryoR0a:...
+
+Sakuya5b:...Even if I refused, I somehow doubt they'd let me go.
+
+Komachi0c:Yep, they're no ordinary ghosts. They're a dangerous group called vengeful spirits.
+
+Sakuya5b:Would you care to elaborate there?
+
+Komachi0a:Sure. They never crossed the Sanzu River, so their spirits of resentment wander alone.
+
+Komachi3a:If you're not careful, they'll possess you. Stay sharp.
+
+Sakuya5b:Ah. So that's what you meant when you said they were dangerous.
+
+Sakuya0b:Is sending these ghosts to the Netherworld supposed to be a shinigami's job?
+
+Komachi5a:Nah, this is more for funsies, really. Where's the fun in a plain old cool evening with no action?
+
+Sakuya5a:Then you're still shirking your duties.
+
+Komachi0a:Maybe. But if I'm not careful, this'll wear me out more than my real job. Taking these guys lightly is a one-way trip to Paintown.
+
+Komachi1a:Okay, time to beat the heat with a fun night of vengeful spirit hunting!
+
+<end>
+
+<ChatID:2>----------------------------------------
+//2PP
+
+OnryoR0a:...
+
+Sakuya5b:...What's that one doing? It seems to be staring at me.
+
+Komachi0b:Ooh, it really is. Looks like it's more interested in you than me.
+
+Komachi0c:From what I can sense... They're hateful toward humans.
+
+Sakuya5b:Hateful toward humans...?
+
+Komachi0c:Yeah, especially the one in the back. I'm sensing a real powerful grudge from it.
+
+Komachi2b:I can't tell too much about them unless I get close... But that one's gotta be the boss.
+
+Sakuya5a:...I see. I don't suppose we could just focus our efforts on taking that one out?
+
+Komachi3c:Weren't you the one complaining about shirking duties?
+
+<end>
+
+<ChatID:3>----------------------------------------
+//ボス怨霊と戦闘
+
+OnryoR0a:...
+
+Sakuya0b:This is the vengeful spirit that you said was especially powerful, correct?
+
+Komachi0b:Yep. It isn't moving at all, so it's probably an earthbound spirit who died here.
+
+Sakuya5b:An earthbound spirit? So it's a ghost with a lingering attachment to this place?
+
+Komachi4a:Right. I'm betting it met its end here.
+
+Komachi4b:If it passed away here, I'm willing to bet it got kicked out of its home or something along those lines.
+
+Sakuya5b:Kicked out of its home...
+
+Komachi2b:Whoa there, don't sympathize with it. Its grudge might draw you in.
+
+Komachi1a:You're free to take an interest in it, but any talk about it comes after it's down.
+
+Sakuya5a:Then I'll keep my guard up. Duly noted.
+
+<end>
+
+<ChatID:4>----------------------------------------
+//最後の怨霊撃破
+
+Sakuya0b:That should be it, right?
+
+Komachi0a:Yep, it should quiet down a bit now.
+
+Sakuya5b:You were saying that it was an earthbound spirit...?
+
+Komachi0b:That thing? It was a pretty old ghost. It seems it was a therianthrope while it was alive.
+
+Sakuya0b:A therianthrope... That would be a human who becomes a beast under special conditions.
+
+Komachi0c:Yup. Its hometown had no others like it, so it was never considered part of the village's in-group, and it eventually left.
+
+Sakuya5b:It left the village all alone...
+
+Komachi4a:It happens more often than you'd think. Anyway, it wandered aimlessly, collapsed, and died with a grudge against the humans of the village.
+
+Komachi4b:I can only wonder why nobody understood it or gave it a place to belong.
+
+<Cond=(FIND_UNIT,OnryoR_en,enemy,==,-1)>
+
+Onryo0a:...
+
+</Cond>
+
+<Cond=(FIND_UNIT,OnryoR_en,enemy,!=,-1)>
+
+OnryoR0a:...
+
+</Cond>
+
+Komachi0a:Alright, you must be tired from holding a grudge for so long. Get some nice rest now.
+
+<end>
+
+<ChatID:5>----------------------------------------
+//ADVB
+
+<MAP=0,FROM=妖怪の樹海,TO=妖怪の樹海,name=Great Youkai Forest,icon=5>
+
+<BG=*bg_talk_Pond.png,fade=0,color=1,title=*bg_Pond,bgm=bgm_talk_hiroshige>
+
+Komachi0b:...Okay, that was all the vengeful spirits around here.
+
+Komachi1a:I'll be taking these with me. Sorry to pull you into that mess.
+
+Sakuya0b:Don't worry. It was pure happenstance, not your fault in the least.
+
+Sakuya5b:What will happen to those vengeful spirits now?
+
+Komachi3c:I'll ferry them across the Sanzu River, and they'll move on. A reeeal harsh lecture from the Yama will be waiting for them there.
+
+Sakuya5a:The Yama? So they'll be going to Hell?
+
+Komachi0a:We can't be sure yet. But don't worry about it.
+
+Komachi3c:Our Yama's super serious. She treats everything in terms of black and white, but her judgment's never wrong.
+
+Komachi4b:If only her lectures weren't so long...
+
+Sakuya0b:...I see. I suppose I don't need to worry too much then.
+
+Sakuya5a:The humans in the therianthrope's village bear part of the blame for it leaving the village to start with.
+
+Komachi0a:Yeah, humans tend not to accept anything different from them. That's the same wherever you go, really.
+
+Komachi3b:But it has to hold some of the blame too. That was the village where it was born. There must've been another way for it to handle that.
+
+Sakuya0b:...But didn't it leave the village specifically because there was no other way?
+
+Komachi0b:Hard to say. Humans come in all stripes. I'll bet there was someone there who treated it with kindness.
+
+Komachi4b:This spirit just lost sight of that. It let itself be swayed and forgot what really mattered.
+
+Sakuya5b:What would you say really mattered?
+
+Komachi3c:Simple—When you're happy, you're happy. When you're having fun, you're having fun. It's not hard to figure out when you're honest with yourself.
+
+Sakuya5b:Being happy and honest with yourself...
+
+<BG=bg_talk_Black.png,fade=0,color=1,title=*bg_Kaiso>
+
+Remilia1e:You look like you'd keep me entertained. Would you like to try living a little longer?
+
+Remilia0c:We may not have known each other for long, but I'll give you the honor of standing by my side.
+
+Remilia0a:Your name is Sakuya Izayoi. You will be my maid from this day forth.
+
+<BG=bg_talk_Pond.png,fade=0,color=1,title=*bg_Pond>
+
+Sakuya0b:...
+
+Komachi0b:Hm? Something wrong?
+
+Sakuya5b:...It was then.
+
+Komachi2b:Huh?
+
+Sakuya0b:...At that moment, I was happy.
+
+Sakuya5c:It was when I met the mistress. She took my hand, and that was how I gained the privilege of coming to the mansion.
+
+Sakuya1c:That's it. Ever since that moment, to me the mistress has been truly—
+
+Komachi3b:Uhh... Did you get possessed by one of the vengeful spirits?
+
+Sakuya0a:No, I've found the answer to a question I've been pondering for a while now.
+
+Sakuya0c:I now understand what matters most to me... The reason why I stay at the mansion.
+
+Komachi2b:Huh? You stay at a... mansion?
+
+Komachi1a:Well, I'm still lost, but you look a lot happier than before. That's something, right?
+
+Sakuya6a:Heh, maybe it is.
+
+Sakuya0c:...Oh, I'm sorry. It's gotten rather late. I'd better return to the mansion.
+
+Komachi5a:Ooh, right right. You've got a place to go back to, huh?
+
+Sakuya0a:Yes. I work in the scarlet building at the lake.
+
+Komachi3c:The lake? Ah, the Misty Lake. It looks like a nice place to while away an afternoon.
+
+Komachi0a:Y'know what? I like you. Mind telling me your name?
+
+Sakuya0a:Sakuya. Sakuya Izayoi.
+
+Komachi1a:Sakuya, huh? That's a nice name.
+
+Sakuya6a:I think so, too. Thanks for your help. I'll be going now.
+
+<single>
+
+Komachi5a:...Thanks for my help, huh? I guess occasionally helping people out isn't so bad.
+
+Komachi3b:But what did I do again...?
+
+</single>
+
+<MAP=0,FROM=紅魔館,TO=紅魔館,name=Scarlet Devil Mansion,icon=5>
+
+<BG=*bg_talk_Koumakan_Gate.png,fade=0,color=1,title=*bg_Koumakan_Gate,bgm=bgm_gen_ED_Sakuya>
+
+Meiling2a:*yaaaawn*
+
+Meiling4a:That's odd. I guess being so nervous is making me more tired than usual...
+
+Sakuya0a:Sorry for making you nervous.
+
+Meiling7a:Gyaaah! Sakuya!
+
+Sakuya0c:That was an amusing yelp. Working hard, or hardly working?
+
+Meiling3d:Augh, don't startle me like that. You jolted me right awake.
+
+Sakuya0a:Glad to hear it. The walk turned out much better than I thought.
+
+Meiling5a:Ohh, really? I'm glad my suggestion worked out...
+
+Meiling0c:Huh? What's that plant you've got with you?
+
+Sakuya0a:It's a rare herb I found on the way back. I was thinking of adding it to some tea.
+
+Meiling3a:A rare herb, huh? I've never seen that type before, that's for sure... Is it good?
+
+Sakuya6a:Who knows?
+
+Meiling0c:...
+
+Meiling3d:(Okay, Sakuya's definitely not back to normal if she's saying weird things like that.)
+
+Sakuya5b:You're thinking something rude about me, aren't you?
+
+Meiling1a:N-Not in the slightest!
+
+Sakuya6a:I hope it makes the tea taste differently. Adding rare ingredients into tea is a way to give it some class, right?
+
+Meiling0c:Well, you know what you're doing, so I assume it'll be fine.
+
+Sakuya0a:Alright. I'll see you later, Meiling.
+
+Sakuya5b:Oh, wait...
+
+Meiling0a:Hm?
+
+Sakuya0a:Would you mind teaching me more about how to cook Chinese cuisine sometime?
+
+Sakuya6a:I'm interested in adding to my repertoire.
+
+Meiling0c:Chinese cuisine...? And, you said "sometime"...
+
+Meiling5a:Does that mean what I think it does?
+
+Sakuya0a:...
+
+<BG=bg_talk_Koumakan_Int.png,fade=0,color=1,title=*bg_Koumakan_Int>
+
+Yuka0a:...Mm, so that's your answer?
+
+Sakuya0a:Yes. I wish to stay at the mansion after all.
+
+Yuka2d:You would expand your horizons greatly if you came with me. Are you willing to let go of that opportunity?
+
+Sakuya5a:I've made up my mind, ma'am. I appreciate your gracious invitation, but I must decline it.
+
+Yuka0d:That's unfortunate, but if that's what you chose, I won't push the issue.
+
+Sakuya0a:Thank you for your understanding.
+
+Sakuya5b:...Lady Yuuka, will you be leaving the Scarlet Devil Mansion?
+
+Yuka0c:Yes, I live to chase after the most beautiful flower in the world.
+
+Yuka0d:Now that I've seen all the flowers around here, it's about time for me to move on.
+
+Sakuya5a:...I see. The mansion will be a lot more quiet once you're gone.
+
+Yuka2d:I doubt that. You've been getting a wide range of visitors practically every day.
+
+Yuka1b:...The next time we meet, we may well be enemies.
+
+Sakuya6a:I will meet you at my fullest strength if that time ever comes.
+
+Yuka0d:I'll be looking forward to it. I never did manage to fight you in the end.
+
+Yuka0c:Anyway, I think I'll spend some time tending the flowers for now. I won't be able to do that once I'm gone.
+
+Sakuya0a:Very well. I'll prepare a dinner for when you return.
+
+Yuka0d:...
+
+Yuka2c:That reminds me. The Queen of the Night in the backyard withered away.
+
+Yuka0a:I wonder what it feels like to be a flower that blooms for only one night.
+
+Sakuya0a:That "one night" represents an entire lifetime to that flower.
+
+Sakuya6a:Perhaps it blooms to its fullest to extol that life.
+
+Yuka1b:...
+
+Yuka0d:Heh, I see. You are a flower that blooms for only one night as well. Make sure to bloom facing your master.
+
+<BG=bg_talk_Koumakan_Int.png,fade=0,color=1,title=bg_Koumakan_Remilia>
+
+<SE=se_talk_knock02.ogg,wait=1>
+
+Sakuya0a:...Coming in, Mistress.
+
+<SE=se_talk_door_open02.ogg,wait=1>
+
+Remilia0b:...
+
+Sakuya5b:Ah, pardon me. I see you're already awake.
+
+Remilia0c:...I just woke up a little while ago. And you've apparently been out somewhere?
+
+Sakuya0a:Yes, I was able to get a bit of time to myself. I ended up going quite far, so I was late in returning.
+
+Remilia0a:I see. Did you find your way back alright?
+
+Sakuya6a:Of course. Animals have a homing instinct after all.
+
+Remilia1b:...Do humans have something like that?
+
+Remilia0d:Well, no matter. Welcome home, Sakuya.
+
+Sakuya0a:Thank you. I'm glad to be home.
+
+Remilia0a:...Heh.
+
+Sakuya5b:Oh, yes. I have added a bit of extra flavoring to your morning cup of tea, Mistress.
+
+Remilia0c:My, that doesn't happen often. What you normally make is plenty good already.
+
+Sakuya0a:I thought that making tea the same way every time could get a bit dull...
+
+Sakuya6a:So I've worked to give it a new and unique flavor. I used a rare type of plant for it today.
+
+Remilia1e:Hmm. Have you sampled it yourself?
+
+Sakuya0a:It would be impudent for me, Sakuya Izayoi, to allow my mistress's tea to pass through my undeserving lips.
+
+Remilia0a:...Very well, I'll give it a try.
+
+Sakuya0a:I shall return to preparing the food, then.
+
+<SE=se_talk_door_close02.ogg,wait=1>
+
+<single>
+
+Remilia0a:...
+
+<SE=se_talk_dish02.ogg,wait=1>
+
+<Code=(map_shake,1,10,4)>
+
+Remilia1b:*SPUTTER*
+
+Remilia4a:What the... Sakuya! Did you expect me to drink tea this bitter?!
+
+Remilia1b:Patchy! I'll even take Meiling! Replace this tea! Sakuya's gone nuts!
+
+</single>
+
+<BG=bg_talk_Koumakan_Int.png,fade=0,color=1,title=*bg_Koumakan_Int>
+
+<SE=se_talk_walk.ogg,wait=0>
+
+Maid0a:Greetings, Head Maid.
+
+Sakuya0a:Hello. Is the dining hall all cleaned?
+
+Maid0b:Head Maid, Lady Meiling is in the kitchen for some reason.
+
+Sakuya0c:...Tell her to return to her post.
+
+Maid1a:Head Maid, Lady Flan destroyed one of the pots!
+
+Sakuya0b:Clean up the pieces, and give her some cake to lighten her mood.
+
+Maid2b:Head Maid, what about the tea for the library?
+
+Sakuya0a:It's been made. Bring it there while it's still warm.
+
+<single>
+
+Sakuya5a:...Whew, it's going to be a long night. I can't relax for a moment.
+
+Sakuya0a:A place to eat and sleep. A place to live... That's not enough for me as I am now.
+
+Sakuya6a:My name is Sakuya Izayoi, and I am a maid of the Scarlet Devil Mansion.
+
+<Code=(transition_out,c_black,90,1)>
+
+<end>
+
+<ChatID:6>----------------------------------------
+//咲夜さん戦闘前
+
+Sakuya0b:If I go back all beaten and bruised, what would Meiling say...?
+
+Sakuya1d:In that case, I'd best not hold back.
+
+<end>
+
+<ChatID:7>----------------------------------------
+//小町戦闘前
+
+Komachi1a:Alright, it's time for you guys to move on. Put up a good fight now and get it all out of your system, okay?
+
+<end>

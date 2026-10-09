@@ -1,0 +1,1484 @@
+﻿○共通第二十四話「弾幕戦イキコール
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: 1st enemy ally
+ 3: 2nd enemy ally
+ 4: 3rd enemy ally
+ 5: Suika shows up
+ 6: Suika spell start
+ 7: clear
+ 8: ADVB
+ 9-30: battle vs. Kanako
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<MAP=5,FROM=博麗神社,TO=博麗神社,name=Hakurei Shrine,icon=0>
+
+<BG=*bg_talk_Shrine_Fall.png,fade=0,color=1,title=*bg_Shrine,bgm=bgm_talk_gag>
+
+Shizuha1c:Alright, just a bit further toward me.
+
+KTenguA2a:Gah! Could someone tell me again why I'M doing manual labor?
+
+HTenguB1a:Stop griping and just do it! This is why I hate working with these scrawny crows.
+
+<Code=(map_shake,1,40,2)>
+
+<SE=se_hit_bullet_L03.ogg,wait=1>
+
+Minoriko3b:That should just about do it. Thank you for your assistance, tengu.
+
+Meiling0a:Ooh, it's finally here. The famous sake cask.
+
+Koakuma5b:Wow! It's so big! Even the tengu need all these people to move it.
+
+Shizuha0a:Yeah. Apparently they had to dredge it up from the depths of some cellar for today's party.
+
+Shizuha1d:The barrel was originally made for an oni, but since they're not around anymore the tengu don't get a chance to use it very often.
+
+Meiling5a:Wow, they're really going all out for this, aren't they?
+
+Minoriko0a:It was a request from the new gods. They said that the only way to befriend the shrine at the foot of the mountain was sake.
+
+Shizuha0a:Then, as senior gods of the mountain, we'd better give this our best.
+
+Minoriko3b:Since we're handling all of today's food, and even the color of the leaves, I hope they show some appreciation.
+
+Patchouli4e:Do these people ever shut up? Is a little peace and quiet too much to ask?
+
+Koakuma1a:L-Lady Patchouli! They went out of their way to invite you, so maybe you could be a little nicer...
+
+Sakuya5b:So, Lady Patchouli, you were able to make it to the party after all?
+
+Sakuya0a:When I reached out to you earlier, you said you'd spend the rest of the day locked up in the library again.
+
+Patchouli0d:Well, sometimes the mood strikes even me... Although, hmm. Did it?
+
+Meiling3b:Don't ask me.
+
+Patchouli0a:Whatever. I'm here now.
+
+Minoriko1b:Hey, you four. You came all this way for the party, so isn't it a waste to spend it only talking to people you already know? Go mingle!
+
+Shizuha0b:You need to leave your comfort zones. There are so many different people here you could talk to!
+
+Meiling0a:I guess so. Well then, Sakuya, shall we go mingle somewhere?
+
+Sakuya0a:Why not? I'll have a drink as well. I don't drink often as it is.
+
+Koakuma3c:We should go too. I saw someone over there who I think you might enjoy talking to.
+
+Patchouli4c:Really?
+
+Meiling5a:Ah, you mean Akyu? I heard she owns Gensokyo's greatest archive.
+
+Patchouli1a:Well, I suppose that could be interesting. Koakuma, fetch her for me.
+
+Koakuma2a:We're at a party! Just walk up to her!
+
+<BG=bg_talk_Shrine_Fall.png,fade=0,color=1,title=*bg_Shrine>
+
+<Code=(demo_wait,20)>
+
+Kanako0a:Hakurei, my glass is empty. Bring more sake.
+
+Reimu4a:Get your own shrine maiden to do that. You can't just barge in here and treat me like a servant.
+
+Sanae3c:Yes, actually, I'll go!
+
+Suwako0a:Sit down, Sanae. Since we brought this sake, we're this party's majority shareholders.
+
+Kanako0a:Precisely. What's wrong with gods being at shrine, anyway?
+
+Reimu4a:Then you can go stay in the branch shrine. I built it for you two, you know.
+
+Kanako0d:Ridiculous. It's so small you couldn't even squeeze a bottle of sake in there.
+
+Aya3a:Now, now, it may be a bit shabby, but it should attract people eventually. I'll be featuring it in my newspaper, after all.
+
+Reimu2b:That's it, I'm tearing it down right now.
+
+Akyu3a:That's Reimu for you. She won't budge an inch, even when facing a god or a tengu.
+
+Momiji0a:We've never met, have we? Are you a friend of the Hakurei Shrine Maiden?
+
+Akyu0a:Yes. The arrival of new gods piqued my curiosity, so I decided to join the festivities.
+
+Akyu3a:If you don't mind, I'd like to hear the details of your relationship with the youkai of the mountain.
+
+Suwako3b:There's nothing to tell. We just drank together and really hit it off.
+
+Aya0a:That's right. Actually, from our perspective, the biggest issue was that the human invaders got away scot-free.
+
+Aya5a:They had some complicated plan involving a diversion, after all. And I doubt they came up with it themselves.
+
+Akyu4a:*cough*
+
+Reimu4a:I'm kinda lost, but if this means there won't be anymore fighting, great.
+
+Kanako0a:As you can see, I'm making an effort to associate with both humans and youkai equally.
+
+Aya3b:That good enough for you, Lady Kochiya? Here, have another drink.
+
+Sanae5c:Um, okay. I'll try... Urp...
+
+Momiji3a:Are you okay, Lady Kochiya? You shouldn't force yourself.
+
+Sanae1c:I... I'm good. Having enough trust to drink is necessary for new faith...
+
+Momiji0a:Huh? Drinking is faith?
+
+Reimu3b:If this has her already talking nonsense, is she gonna be okay?
+
+Akyu3c:I'd heard there was conflict between the mountain shrine and the youkai, but after seeing this I can't even imagine that.
+
+Kanako0a:We're still getting our start here, but we're managing through trial and error.
+
+Suwako3b:Sake washes away all grudges. Let's all drink together and forget our differences!
+
+<BG=bg_talk_Shrine_Fall.png,fade=0,color=1,title=*bg_Shrine>
+
+<Code=(demo_wait,20)>
+
+Alice0c:...Phew. I think I may be a bit tipsy.
+
+Marisa0d:What, you're done already, Alice? C'mon, you can mingle a little longer.
+
+Kosuzu3d:Yeah! Let's have some fun, Alice!
+
+Alice0b:I'll pass. I never overindulge in drinking.
+
+Alice0d:It looks like you're blending with the group nicely now, Kosuzu.
+
+Komachi1c:You were so surprised at being surrounded by tengu, but I guess you got used to it?
+
+Kosuzu0c:How could I not?! You're so interesting, Komachi! A shinigami, seriously?
+
+Marisa4c:I get the feeling we can pin her lack of inhibitions on the alcohol.
+
+Alice0d:You were avoiding youkai just a little while ago, but I suppose you might have gotten used to it from that too?
+
+Kosuzu0a:Well, when I'm with you girls, whatever happens I know it'll all work out somehow.
+
+Kosuzu3d:And that map really came in handy, right? Just keep on counting on me!
+
+Komachi3c:Hah. I appreciate the thought, at any rate.
+
+Alice2b:It certainly was useful, but this incident was the exception among exceptions.
+
+Alice0d:I'll try to keep you out of things in the future. I don't want to worry your mom and dad, after all.
+
+Kosuzu4b:What?! How could you say that...?
+
+Marisa0d:I'm not one to give a fig about parents, but danmaku battles and danger go hand in hand.
+
+Marisa0b:No matter what happens, just stay put at home, got it?
+
+Kosuzu4a:Fiiine. I get it.
+
+Kappa4b:Hey, Nitori, is it really safe being so close to humans?
+
+Nitori0a:Of course it is! Just talk to them and you'll be friends in no time.
+
+Nitori1b:I've even spent the night at a human's house. They aren't scary at all!
+
+KappaC5a:Sp-Spent the night?! Maybe you're trying a bit too hard, Kawashiro.
+
+Kappa3c:That's amazing, Nitori! Maybe you can tell us all about the human in its natural habitat.
+
+Nitori1a:Heh heh, of course. Let's see... Oh, I know!
+
+Nitori1b:Did you know that humans can never stay still while sleeping?
+
+KappaC2a:You saw one sleeping?! Don't tell me you and that human...
+
+Nitori3e:Sure did. The room was so messy that there was nowhere else to sit, and before I knew it we were sound asleep.
+
+Nitori1a:Actually, I believe I've conclusively proven that, at least on a species level, kappa and humans are quite compatible.
+
+KappaC2a:Say WHAT?!
+
+Alice4a:Well, she's certainly got a loose tongue over there. Are you sure you should let her keep going like that?
+
+Marisa4b:Eh, we owe her for what she did back there. Let her do what she wants.
+
+Hina2a:Sorry, she's been like this for a while now.
+
+Marisa0b:Uh, you're...?
+
+Hina0a:Hina Kagiyama, a misfortune god. I'm a friend of Nitori's. I owe a debt to that shinigami over there.
+
+Komachi0a:Oh, it's you. Never thought we'd meet in a place like this.
+
+Alice0d:Hina? As in, the hina doll festival? I heard about you from the fairies.
+
+Hina0a:What did you hear, exactly...?
+
+Marisa4b:What was it again? Something about spinning and bad luck.
+
+Marisa0a:I wasn't really listening. I guess you were getting dirty stuff everywhere? Oh, and you have cooties.
+
+Hina4a:I'm sure they didn't mean anything by it, but they could have worded it a bit more tactfully...
+
+Alice0d:But your clothes! You look as lovely as a doll. Do you mind if I take a look at your outfit later?
+
+Hina3b:You think I'm lovely?
+
+Alice0d:Absolutely. I'd love to dress my dolls up like you.
+
+Hina4b:...
+
+Nitori1b:Hey, Marisa! My kappa friends want to talk to you!
+
+<Cond=(CHECK_FLAG,M20_KAPPAC,==,1)>
+
+KappaC0a:Um, hello there, Kirisame. My provisional name is Kappa C. I hope you'll remember it.
+
+Marisa4a:Hoo boy, this one's a real winner. I'm outta here.
+
+Nitori2a:Ack! Marisa, hold on!
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M20_KAPPAC,==,0)>
+
+Kappa0a:Hey, um, you're Marisa's friend, right? Could you autograph my toolbox?
+
+Marisa4a:Hoo boy, this one's a real winner. I'm outta here.
+
+Nitori2a:Ack! Marisa, hold on!
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M02_ALICE,==,0)>
+
+Hina0a:I'm guessing she'll be like this for a while longer. Please look after Nitori for me.
+
+Alice0d:Of course. And feel free to drop by my house if you ever feel like it.
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M02_ALICE,==,1)>
+
+Komachi0a:...She's really getting carried away. Are you okay with this?
+
+Alice0c:It's better than fighting. Besides, persuasion is Marisa's thing, not mine.
+
+</Cond>
+
+<BG=bg_talk_Shrine_Fall.png,fade=0,color=1,title=*bg_Shrine>
+
+<Code=(demo_wait,20)>
+
+Star1a:Here it is, we found it! The famous sake cask.
+
+Luna0a:It's bigger than I thought. I'm not sure our plan to drink it all is gonna work.
+
+Daiyosei3b:Are you three serious? Can't we just wait for someone else to open it?
+
+Sunny3b:That wouldn't be a prank at all. It's only funny if the humans find it already empty when they open it.
+
+Cirno0a:I could freeze it instead, but it's kinda hard to freeze sake.
+
+Keine0a:Whew, we're a bit late, but at least we're at the shrine.
+
+Sunny4a:Great, busted already.
+
+Rumia0a:Hey, you're...
+
+Mokou0a:This wasn't the deal, Keine. You told me the shrine collapsed and we needed to clear the rubble.
+
+Keine3a:Ah... Ahaha... You wouldn't have come if I'd been honest.
+
+Keine0a:So I decided to tell a slightly tall tale... Are you angry?
+
+Mokou3c:Not really. But geez, Keine. You've really gotten more comfortable acting pushy.
+
+Rumia0a:Ooh, are you leaving without eating? I'm gonna take your share of the food then.
+
+Mokou0a:Hold on, youkai, nobody said anything about skipping out on food. I don't mind the occasional nice meal.
+
+Luna0c:If this is only an occasional thing, what do you normally eat?
+
+Mokou0a:Nothing unusual. Grilled bird, grilled fish, grilled rabbit, grilled boar...
+
+Sunny3a:You gotta eat your veggies too!
+
+Star4a:Or at least try stewing something.
+
+Mokou0a:Shut up, it's all the same in your stomach.
+
+Keine3a:Now, now, I'll make sure you get a balanced diet...
+
+Keine0a:...Hm?
+
+Elliy3b:Heya!
+
+Kurumi3d:Yay, it's the shrine! Wait, the shrine?
+
+Elliy4b:That's definitely the shrine. Why the shrine though?
+
+Daiyosei0a:Elly and Kurumi?
+
+Keine0a:Ah, you're here too? We just arrived, ourselves. Come join us for some drinks.
+
+Elliy0a:Wait, drinks? Oh hey, it looks like there's a party here.
+
+Star3b:You didn't come for the party?
+
+Elliy0a:No, no way. I came here to buy dinner.
+
+Kurumi1b:Yeah, Elly told me she'd buy candy for me. This sure isn't a candy store though.
+
+Mokou0a:Talking to you two gives me a headache. Don't tell me you got lost and wandered here by accident?
+
+Cirno3b:You know who makes people lost? Fairies!
+
+Elliy4a:Huh... I remember leaving the house to get groceries, but next thing I knew I was here.
+
+<Code=(map_shake,1,20,3)>
+
+<SE=se_hit_bullet_S01.ogg,wait=1>
+
+Sunny2a:What now?!
+
+<SE=se_talk_run.ogg,wait=1>
+
+Minoriko1b:We need to postpone the party!
+
+Koakuma1a:Something strange is going on. Prepare for a danmaku battle!
+
+Elliy2a:Wait, hold on, what's happened?
+
+Shizuha1a:We're under attack by fairies!
+
+Keine1a:Fairies? Why would they attack unprovoked...?
+
+Mokou0a:Act first, think later. Let's move, Keine!
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP-1
+
+Yousei11a:Oh, it's the shrine. It looks as worn-down as always.
+
+Yousei10a:So, what are we doing here again?
+
+Yousei20a:Umm, we were playing with danmaku, and then...
+
+HYousei1a:Ooh, maybe something about the danmaku's power sent us into the future?
+
+<Code=(update_view,304,352)>
+
+Reimu2b:Okay, what's all the hubbub?
+
+Keine0a:I'm not sure. A bunch of fairies came out of nowhere and gathered here.
+
+Keine0b:They don't seem to be plotting anything, from what I see. What is this about?
+
+Akyu3b:I don't see any youkai around. Maybe it's just a prank...
+
+Akyu1a:But regardless, it's the perfect chance to let off some steam!
+
+Marisa0a:Not my usual way of venting, but let's get this party started!
+
+<end>
+
+<ChatID:1.5>----------------------------------------
+//1PP-2
+
+Minoriko1a:Aww, we were just getting into the swing of things... And now you've spoiled it!
+
+Shizuha3a:Witness the full wrath of autumn!
+
+Nitori0a:Huh? You're going to fight too, Hina?
+
+Hina0a:I wouldn't want to let our party get ruined. I can chase off a few fairies.
+
+Sakuya6a:And you two are friendlier than I expected. If I'd known that, I would've gone easier on you back on the mountain.
+
+Shizuha4a:I'm pretty sure we've always been friendly...
+
+Reimu0g:Well, the other gods are doing their part. Are you two just going to twiddle your thumbs?
+
+Kanako3a:I see no reason for us to step in for mere fairies.
+
+Kanako0a:You can entertain us with your skills while we drink.
+
+Suwako5a:You just don't wanna get up.
+
+Sanae1a:In that case, I could step in instead...
+
+Sanae5b:In that case, I could step in instead... Urp...
+
+Momiji6a:I told you to not to force yourself. Come on, turn around.
+
+Sanae5b:Sorry...
+
+Aya3a:Lady Kochiya's a real lightweight, huh?
+
+Suwako3a:Sanae's just not used to drinking. She's only ever tasted the foam from a beer before.
+
+Kanako3b:Momiji, get Sanae somewhere where she can lie down, if you would.
+
+Reimu3a:Hey, that's MY futon! Don't use that without asking!
+
+Alice4a:...I don't think we can expect much from them. We'll have to handle this one ourselves.
+
+Marisa0a:Yeah, let's finish this before we sober up!
+
+<end>
+
+<ChatID:2>----------------------------------------
+//妖精を一定数撃墜、または2EP
+
+<Code=(cursor_jump,304,352,1)>
+
+Luna1a:Now we've got wild evil eyes popping up!
+
+Alice0a:Wild ones? Those aren't Elly and Kurumi's familiars?
+
+Elliy0b:Yes, there shouldn't be any in Gensokyo except for the ones we summon.
+
+Elliy1a:Kurumi, was it you?!
+
+Kurumi4e:Waah, I'm sorry, Elly! They wouldn't listen to me, so I ditched them on the mountain!
+
+Kurumi2a:And now it looks like they've multiplied...
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Kosuzu0a:Is this one of those invasive species I've read about in my imported books?
+
+</nomove>
+
+Meiling3a:Why would they be gathering at the shrine, though? Something's fishy about this.
+
+Mokou3c:Who cares? Just exterminate them and be done with it.
+
+<end>
+
+<ChatID:3>----------------------------------------
+//増援１を一定数撃墜、または3EP
+
+<Code=(cursor_jump,304,352,1)>
+
+Minoriko3a:Oh, hey. It's some crows from the mountain.
+
+Cirno1b:Maybe that means they want our food!
+
+Sakuya5a:It's always unpleasant when crows hover around waiting for people to throw out scraps of food.
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Akyu3c:I'm fairly certain that's just regular crow behavior, not youkai crow behavior...
+
+</nomove>
+
+<end>
+
+<ChatID:4>----------------------------------------
+//増援2を一定数撃墜、または4EP
+
+<Code=(cursor_jump,304,352,1)>
+
+Alice1a:Now there's even more. Wait, those are...
+
+Keine1a:The grimoires we saw at the Great Library!
+
+Koakuma1a:Marisa, what have you done this time?!
+
+Marisa3d:Whoa, don't pin this one on ME. Maybe Patchouli summoned them?
+
+Patchouli0a:No, I haven't done anything, and they don't act without orders.
+
+Nitori1b:This is too much to chalk up to coincidence at this point. Something's going on!
+
+Reimu2b:Yeah, I can sense a strange presence, too. We need to locate it.
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Suwako0c:Hey, Kanako, could this be what I think it is?
+
+Kanako1a:Why, yes. I think we have a lurker with a rather amusing power.
+
+</nomove>
+
+<end>
+
+<ChatID:5>----------------------------------------
+//増援3を撃破、または5EP
+
+<Code=(cursor_jump,304,352,1)>
+
+Cirno2a:Augh, there's no end to them!
+
+Komachi4a:They're all small fry, but it's just exhausting dealing with them one after another.
+
+Reimu0f:That strange presence is getting more noticeable. Is this an incident?
+
+<nomove>
+
+<Code=(cursor_jump,400,336,1)>
+
+<hide=all>
+
+Yukari0a:You're as clever as I thought.
+
+</hide>
+
+<pause>
+
+Yukari1a:Sorry to interrupt all the lovely revelry.
+
+Marisa2b:Yukari Yakumo!
+
+Reimu1a:You finally show yourself. You're the reason for all these waves of youkai, aren't you?
+
+Yukari0a:Hardly. What reason would I have to do that?
+
+Reimu4a:Appearing out of nowhere means it's patently your gimmick.
+
+Yukari1a:Patent pending, actually.
+
+Alice0a:Alright, if you have nothing to do with this, what are you here for?
+
+Yukari0a:An old acquaintance of mine seems to be here, so I came to survey the situation.
+
+Yukari1a:This is her way of killing time. If you don't stop her, this commotion will become a daily routine for you.
+
+Marisa0b:You know who's doing this?
+
+Yukari0a:Of course. Here, allow me to make her visible to you.
+
+<pause>
+
+Suika2a:Whoa! What's the big idea, Yukari—
+
+Suika0a:Whoa! What's the big idea, Yukari— Oh, she's gone.
+
+<Code=(cursor_jump,304,352,1)>
+
+Aya2a:...!
+
+Meiling6a:Uh, who are you and where did you pop out from?
+
+Suika1a:I've been here the whole time. You girls just didn't notice me.
+
+Mokou3a:Uh, I'm afraid to ask, but looking at your horns... Did we just win the world's worst lottery?
+
+<Code=(cursor_jump,304,352,1)>
+
+Akyu1a:That's a good way to put it. That's an oni, said to be the most powerful youkai in all of Gensokyo... And hostile to humans!
+
+Marisa2b:An oni?!
+
+Keine1a:That's impossible! There shouldn't be any oni left in Gensokyo!
+
+<Code=(cursor_jump,304,352,1)>
+
+Aya5b:Yes, they left Youkai Mountain long ago, and no one knows where they went.
+
+Aya0b:I never thought I'd see YOU again, Suika.
+
+Suika0a:Oh, if it isn't Aya the speed demon! Looks like you're doing fine.
+
+<Code=(cursor_jump,304,352,1)>
+
+Aya3a:I'm honored you remember me.
+
+Marisa0b:So, what's a youkai big-shot doing throwing youkai at us?
+
+Suika0a:Isn't it obvious? I'm having fun.
+
+Suika1a:What's better than a bustling party with rivers of sake and flashy danmaku? Can't you make it more exciting?
+
+Reimu2b:Exciting? What kind of jerk does this for her own amusement?
+
+Reimu1a:I don't care if you're an oni or not. If you're the mastermind, we just have to beat you!
+
+Suika1a:That's what I was waiting to hear!
+
+Suika0a:But first I'll have to see if you're even worth fighting!
+
+<end>
+
+<ChatID:6>----------------------------------------
+//スペカ発動
+
+Suika0a:What's wrong? It's okay to hit me at full strength, you know.
+
+Elliy2a:This is an oni's power? I think we're in over our heads!
+
+Mokou0a:Of course, they're the world's strongest kidnappers.
+
+Mokou3c:You can't exterminate them with normal methods. In the past, they used to have specialists for that, but...
+
+<Code=(cursor_jump,304,352,1)>
+
+Akyu1a:Now that art has been lost. How do we deal with this?
+
+Suika1a:This isn't even a fight. Are you throwing in the towel already?
+
+Suika0a:If you are, then I'm gonna gather even more youkai, and you'll have a pandemonium of 'em knocking on your door every day.
+
+Keine2a:I can't believe humans are facing the threat of the oni again!
+
+Reimu4a:So what? They're still youkai. Nothing to be afraid of.
+
+Suika0a:Oho, talking big even when up against an oni?
+
+Reimu1a:Of course I am. Youkai extermination is my job. I can beat you, no problem!
+
+Suika1a:Ahaha! I wasn't expecting to find any humans willing to face me head-on.
+
+Suika0a:Let's make sure you can feel the missing power of the oni, the power to gather, deep in your bones!
+
+<end>
+
+<ChatID:7>----------------------------------------
+//「ミシングパワー撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Suika0a:Hey, not bad! That was a good fight.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Suika0a:Oh, you ran away. Well, you did a pretty decent job for humans.
+
+</Cond>
+
+Cirno5b:I wasn't expecting her to grow gigantic. I can't let her beat me!
+
+Patchouli0a:So, what next? Will you split into miniature bodies? Or grow even bigger?
+
+Suika0a:Both of those sound like fun, but I think I'm good for today.
+
+<Code=(cursor_jump,304,352,1)>
+
+Kanako2a:Oh, done so soon? What a shame, the show wasn't nearly long enough.
+
+Suika0a:Look, you guys have some amazing sake back there!
+
+Suika1a:If I keep fighting, you'll drink it all up!
+
+<Code=(cursor_jump,304,352,1)>
+
+Suwako3a:You noticed our sake? Guess nobody's a bigger boozehound than an oni.
+
+Hina2a:Is she planning to just join the party like nothing happened?
+
+Suika0a:Great! Later, humans! How about we make it a drinking contest next time?
+
+<end>
+
+<ChatID:8>----------------------------------------
+//ADVB
+
+<MAP=5,FROM=博麗神社,TO=博麗神社,name=Hakurei Shrine,icon=0>
+
+<BG=*bg_talk_Shrine_Fall.png,fade=0,color=1,title=*bg_Shrine,bgm=bgm_talk_gag>
+
+Marisa4b:Man, what the heck even was that?
+
+Suwako0a:Pretty sure those're called a "free-for-all". It was pretty fun to watch.
+
+Suika1a:I had fun too. Yup, sure do love a rowdy party.
+
+Kanako0a:I'm pleased to welcome an unexpected guest as famous as an oni. Feel free to help yourself to any of the refreshments.
+
+Suika0a:Oh yeah, that's right. Bring on the sake—
+
+Nitori2a:I-In that case, please, rest on this cushion!
+
+Momiji3a:Um, I've put your chopsticks here so...
+
+Elliy0b:What's up with those two? They're practically waiting on her hand and foot.
+
+Aya5a:Originally, the oni were the rulers of Youkai Mountain.
+
+Aya0a:So Suika is essentially our ex-boss. I used to work with her way back when.
+
+Suika0a:And you've grown a lot since then, huh Aya? You used to be such a cute little chick.
+
+Aya5b:I may be a crow, but I was never a chick.
+
+Aya0a:You could've said something if you were coming, you know. If this was Youkai Mountain, there would've been chaos.
+
+Suika0a:What? Have you guys been doing stuff that we'd disapprove of?
+
+Aya0a:No, we're just working on forming a society with our own style of order.
+
+Suika0a:Well, you can relax. I'm not here to take back the mountain.
+
+Suika1a:I just saw the humans and youkai having a good time and figured I'd join in the fun.
+
+Reimu3a:I'd appreciate it if you wouldn't use that as a reason to attack my shrine.
+
+Yukari0a:Isn't that fairly standard, though?
+
+Reimu1a:!
+
+Suika0a:Oh, hey, Yukari. I didn't appreciate you butting in when you did, you know.
+
+Yukari1a:I was hardly butting in. I made your job easier, if anything.
+
+Yukari0a:So, have you had your fun?
+
+Suika0a:Yeah, I'd say that qualified as fun.
+
+Reimu0f:That's great and all, but... How do you two know each other?
+
+Suika0a:Eh, we're friends, I guess.
+
+Yukari1a:Hardly a ringing endorsement.
+
+Patchouli0b:You do show up with the strangest timing, though. I wonder what magic you use?
+
+Akyu0a:Yukari Yakumo, Youkai Sage. Said to wield power over boundaries.
+
+Akyu0b:This ability's logical extreme is the ability to control creation and destruction. A power rivalling that of gods.
+
+Marisa3b:Yeesh, no wonder she makes teleportation look so easy.
+
+Yukari0a:I'm honored by your praise, but I would be no match for a real god.
+
+Kanako1a:Hmph, you're lying through your teeth. You won't find any gaps to enter my shrine through.
+
+Suika0a:Easy there. We're here to drink as buddies, not get all snippy.
+
+Suika1a:I've got lots of drinking to catch up on with Aya and her tengu buddy!
+
+Momiji3a:Er, I've had more than enough already. I'll pass, if you don't mind.
+
+Suika1a:What's that? You sayin' you can't drink my sake, tengu?
+
+Aya4a:Momiji! This is Suika's sake!
+
+Momiji5a:Fine, if you insist...
+
+Suika0a:Huh? I can't hear you!
+
+Momiji2a:Er, I, Momiji Inubashiri, would be honored to be your drinking partner, Suika!
+
+Suika1a:That's better! I'll teach you how an oni drinks!
+
+Nitori3c:I'll give you a proper burial afterward, Momiji.
+
+<MAP=6,FROM=人里への森,TO=人里への森,name=Animal Trail,icon=2>
+
+<BG=*bg_talk_Road_Night.png,fade=1,color=1,title=*bg_RoadtoShrine,bgm=bgm_talk_aoki>
+
+Marisa6a:Whew, that was some good booze! Now it's time to go home and pass out.
+
+Alice4a:With your indolent lifestyle, you'll turn into a cow someday.
+
+Meiling3a:We've got work of our own to get back to. It's just the mistress and her sister at the manor right now...
+
+Sakuya5c:Yes, and when work doesn't get done there, it piles up fast.
+
+Koakuma0a:I can't believe all that sake disappeared by the end... Everyone drank so heavily.
+
+Komachi0a:That's pretty normal for a party. The tengu and oni were such loud drunks, though...
+
+Elliy3a:Speaking of which, that oni was a lot friendlier than I was expecting.
+
+Akyu0b:Oni are frightening creatures, but they can be very broad-minded and compassionate.
+
+Akyu3a:They don't have to be dangerous to humans, if you properly develop relationships of mutual trust.
+
+Alice0d:You're as knowledgeable as always. Is that all from Hieda family documents?
+
+Akyu0a:Yes. We have several fragmented descriptions in our old literature.
+
+Patchouli3a:Fascinating. Would you let me borrow them sometime?
+
+Akyu0b:Sorry, our literature isn't allowed to leave the house. You're welcome to drop by and peruse it, though.
+
+Kosuzu0a:If you're looking to borrow books, then by all means, please visit my shop!
+
+Patchouli0a:You run a rental bookstore in the village, right? I can't imagine you have much of a collection...
+
+Marisa0a:Her place is special. They even have rare grimoires and stuff.
+
+Alice0d:I think even you'd be pleasantly surprised by what you can find there.
+
+Koakuma0a:Did you hear that, Lady Patchouli? We should visit sometime!
+
+Patchouli4a:I'll consider it.
+
+Daiyosei0a:So, if these oni are so strong, why did they go away?
+
+Daiyosei3b:I can't imagine anyone chasing them out...
+
+Mokou3c:Long story short, they ran out of goodwill for humankind.
+
+Kurumi4b:What does that mean?
+
+Keine4a:As much as it pains me to say it, the humans used cowardly methods in their fight against the oni. That's why they're gone now.
+
+Sakuya5b:Cowardly, hm? Sounds to me more like they did what they had to, to survive.
+
+Mokou0a:It's normal for humans to fear things they don't understand.
+
+Mokou3c:It's more peaceful all around for both sides to live separately.
+
+Keine4a:...
+
+Komachi0b:You sound like you're speaking from experience. You live apart from humans yourself, don't you?
+
+Mokou3c:Let's go, Keine.
+
+Keine1a:Mokou, wait up!
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+Sakuya5b:What's the matter with her? Any idea, Komachi?
+
+</single>
+
+Komachi4a:Nope, sorry. But something's been bugging me.
+
+Komachi0a:We shinigami can see people's remaining lifespans.
+
+Komachi0b:But not hers. For some reason, I couldn't see it.
+
+Elliy0b:Is it bad to not know someone's lifespan?
+
+Komachi4b:Not really. Lifespans can change pretty quickly. But I've never encountered one I just plain couldn't see.
+
+Komachi0a:So more than it being good or bad, I'm just not sure what to make of it at all.
+
+Alice0b:She does have a mysterious air to her.
+
+Alice2b:Like she's not alive, but not dead, either...
+
+Meiling0b:I see, that IS strange. Do you think she's got a secret?
+
+Marisa0b:She doesn't seem like a bad person or anything. And if she wanted to share, she would.
+
+Komachi0a:Probably, yeah. I'll just keep an eye on her for now.
+
+Komachi1c:I'd better head back, too. I'll come back on another stroll sometime.
+
+<MAP=6,FROM=博麗神社,TO=博麗神社,name=Hakurei Shrine,icon=0>
+
+<BG=*bg_talk_Shrine_Night.png,fade=1,color=1,title=*bg_Shrine,bgm=bgm_talk_ningyo>
+
+<SE=se_talk_dish01.ogg,wait=1>
+
+Reimu0e:*sigh* I guess I should have expected this.
+
+Reimu0a:Good grief, everyone just drank and ate all they wanted. I wish they'd think about the person who has to clean up after them.
+
+Sanae3b:...Um, can I help too?
+
+Reimu0f:Oh, it's you. Are you feeling better yet?
+
+Sanae0a:I'm feeling much better now, thank you.
+
+Sanae0a:I've folded up the futon. Where should I put it?
+
+Reimu0g:Anywhere is fine. I'll handle it later.
+
+Sanae0a:Alright. My apologies for imposing, but I'll do what I can...
+
+Sanae0b:...
+
+Reimu3b:What, is there still something wrong?
+
+Sanae1a:Y-Yes, there is! To be honest, I'd like to talk about my previous behavior.
+
+Reimu0f:Which behavior?
+
+Sanae2a:My attempt to shut your shrine down. I was desperate to do what I thought was right, but I didn't spare a thought for anyone else...
+
+Reimu3a:Ugh, are you still stuck on that?
+
+Sanae1d:What do you mean, stuck on that?
+
+Reimu0g:I won our fight, so it's all water under the bridge now.
+
+Reimu4a:I barely know you, but I'm sure you meant well enough.
+
+Sanae3b:Do you really mean that?
+
+Suwako0a:Sanaeee, let's go home alreadyyy.
+
+Sanae0a:Oh, that voice... Lady Yasaka and Lady Moriya must be coming.
+
+Kanako0d:Ah, Hakurei Shrine Maiden. Fine work on the cleanup.
+
+Reimu4a:I'm guessing you're not interested in chipping in.
+
+Suwako3b:We were the guests here, you know. And we brought all that sake too.
+
+Sanae5b:Sorry, I'll be helping now.
+
+Reimu0g:Don't worry about it. I'm almost done anyway. How about you go home and rest up?
+
+Suwako3a:Thanks, Hakurei Shrine Maiden. I hope we can keep on counting on you.
+
+Suwako0a:This girl's still pretty new to Gensokyo, so help her out if she needs it, okay?
+
+Sanae5a:Wait, you're asking Reimu to help me?!
+
+Reimu4a:What? You have a problem with that?
+
+Sanae5c:Oh, um, no, that's not what I meant...
+
+Sanae5a:I was just, um, nervous...
+
+Kanako3a:There's much that we can learn from Hakurei about life here. I too look forward to working with you.
+
+Suwako3b:Well, we'll be going now. You thank her too, Sanae.
+
+Sanae4a:Ah, yes, thank you very much.
+
+<SE=se_talk_walk.ogg,wait=1>
+
+<single>
+
+Reimu0f:...
+
+</single>
+
+Yukari1a:They call people like that guardians. Not that you'd know much about that, of course.
+
+Reimu3c:Whoa! You scared me. Don't just pop out of nowhere.
+
+Yukari0a:Really? That was a normal enough approach.
+
+Yukari1a:But still, you seem to have lost your usual spirit. Have you developed a sense of kinship with your fellow shrine maiden?
+
+Reimu4a:Not really, I was just thinking that she wouldn't listen even if I said something.
+
+Reimu0f:And what about you? I'm sure you had some other reason for coming here today. Other than that oni, I mean.
+
+Yukari0a:That's right. I wanted to see the results of the shrine conflict with my own eyes.
+
+Yukari0a:I've been worrying about what would happen ever since summer. With this though, things should calm down.
+
+Reimu0a:I hope so. I'd like to have some time to take it easy.
+
+Yukari1a:That would be best. I have to start preparing for winter soon.
+
+Reimu0e:What do you have to prepare for?
+
+Yukari0a:Every winter I take a long nap. I won't come out even if you get lonely and call on me, you know.
+
+Reimu2b:You mean you hibernate like a bear or something?
+
+Yukari0a:You can think of it as that if you like. Be sure not to slack off on managing the barrier while I'm indisposed.
+
+Yukari1a:I'll see you in spring.
+
+<SE=se_sys_sukima01.ogg,wait=1>
+
+<single>
+
+Reimu0a:...
+
+</single>
+
+Minoriko3a:Finally! We're done taking out all the trash!
+
+Shizuha1c:So what's next? The shrine is spotless, even the donation box.
+
+Reimu0g:Oh, hey. I guess I enlisted some help from you, huh.
+
+Shizuha1d:We're happy to help out. A big mess being left behind is just proof of how lively the party got.
+
+Minoriko3a:Just leave it to us, the gods of autumn! By the way, we're packing all the leftover food into boxes.
+
+Reimu0g:Sorry about that. I need to start stocking up now that autumn's coming to an end.
+
+Minoriko5a:...!!
+
+Shizuha5b:Autumn's... ending...?
+
+Reimu3a:...What?
+
+Shizuha5a:That's right, the end is coming soon.
+
+Minoriko4a:The seasons are as cruel as they are bountiful. To think autumn will soon be torn away from us!
+
+Reimu2b:...You ladies are weird.
+
+Reimu0f:Still, I wasn't expecting Yukari of all people to prepare for winter. I'd better make some preparations myself.
+
+Shizuha3a:Preparing for...
+
+Minoriko1b:...Winter?!
+
+Minoriko5a:Shizuhaaa! What are we gonna do?! Once SHE arrives, how are we gonna survive?! What are we gonna eat?!
+
+Shizuha5b:Don't worry, I'm here with you. We'll fight this together.
+
+Shizuha4a:But once winter's here, our fleeting autumn will be...
+
+Minoriko5a:Nooo, it's all over for us!
+
+Reimu0a:...
+
+<SE=se_talk_hit01.ogg,wait=0>
+
+<Code=(map_shake,1,20,4)>
+
+Reimu1a:Would you knock it off?!
+
+<end>
+
+<ChatID:9>----------------------------------------
+//萃香vs.霊夢
+
+Reimu0e:So according to Yukari, you're the one behind this mess.
+
+Reimu0d:When exactly did you get here, and where were you hiding?
+
+Suika0a:I was at the party the whole time. Well, I was spread out as mist so I guess only the sensitive ones noticed.
+
+Suika1a:There were youkai, witches, gods, and fairies. It seemed like a really fun pandemonium.
+
+Reimu0a:I see, so the strange youkai presence was the culprit.
+
+Reimu4a:That's why I didn't get it. What a relief.
+
+Suika0a:How's that a relief?
+
+Reimu1a:It means my intuition hasn't gotten dull. So the feeling I have that I should beat you can't be wrong either!
+
+Suika1a:It's nice meeting someone so bold. Alright, come at me with everything you've got!
+
+<end>
+
+<ChatID:10>----------------------------------------
+//萃香vs.魔理沙
+
+Marisa0a:So I'm up against a youkai big-shot, huh? This is gonna be good.
+
+Suika0a:Should an ordinary human really be so bold?
+
+Marisa0b:I guess you wouldn't know, but lately Gensokyo's gotten something called the Spellcard Rules.
+
+Marisa0a:If we use those, anybody can fight as equals.
+
+Suika1a:Huh, I heard people talking about them but didn't think they'd be something like that...
+
+Suika0a:Sounds like fun. I'm looking forward to my first fight with a human in ages!
+
+<end>
+
+<ChatID:11>----------------------------------------
+//萃香vs.慧音
+
+Keine0a:I never thought I'd come across a real oni.
+
+Keine0b:Where did you all disappear to? I've heard all sorts of rumors, like a country of oni, or maybe Hell.
+
+Suika0a:You meet an oni and that's the first thing you ask? What a blockheaded move.
+
+Suika1a:C'mon, we're at a party. So let's party!
+
+<end>
+
+<ChatID:12>----------------------------------------
+//萃香vs.アリス
+
+Alice0a:I never imagined that the one behind this uproar would be one of the legendary oni...
+
+Suika0a:You don't have to be so nervous, I'm not gonna eat ya.
+
+Suika0a:Or are you just relieved to be up against such a tough opponent?
+
+Alice2b:Relieved...? What part of me looks relieved?
+
+Suika1a:If you win, you can be proud of yourself, but if you lose, you've got a ready-made excuse.
+
+Suika0a:You're cute, even if not overly so. Guess whatever catches my eye catches my eye.
+
+Alice0a:...
+
+<end>
+
+<ChatID:13>----------------------------------------
+//萃香vs.ルーミア
+
+Suika0a:A youkai who controls the dark would be just the thing for taking an afternoon nap.
+
+Rumia3a:I know, right? But after a little while it goes away, so sometimes I wake up.
+
+Suika0a:Okay, you do the darkness and I do the sleeping. Problem solved.
+
+<end>
+
+<ChatID:14>----------------------------------------
+//萃香vs.大妖精
+
+Daiyosei0a:I've heard about oni in a story before.
+
+Daiyosei3b:It was about a nice oni who becomes hated by the humans for the sake of the other oni...
+
+Suika0a:An oni who'd go to those lengths for their fellow oni? Thinking on it, it's not too farfetched.
+
+<end>
+
+<ChatID:15>----------------------------------------
+//萃香vs.チルノ
+
+Cirno5b:You're pretty good for someone so tiny.
+
+Cirno1b:I'm not gonna let you take my place as the strongest though!
+
+Suika1a:I like your spirit, but I don't have time to play with small fry.
+
+<end>
+
+<ChatID:16>----------------------------------------
+//萃香vs.咲夜さん
+
+Suika0a:Hmm? There's the scent of a youkai I've never smelled before on your clothes.
+
+Sakuya5b:Is that so? Well, my mistress is a vampire. I believe those are considered a type of oni?
+
+Suika0a:I dunno what kind of person your mistress is, but it takes real guts to put yourself on an oni's level.
+
+Sakuya6a:You may be an oni, but the mistress is both an oni and a devil. That makes her better than you.
+
+<end>
+
+<ChatID:17>----------------------------------------
+//萃香vs.美鈴
+
+Meiling1a:Fighting while drunk... You must be using the drunken fist!
+
+Suika0a:The drunken fist?
+
+Meiling0a:It's a style that gets stronger the more you've had to drink. Aren't you doing something like that?
+
+Suika2a:I dunno, I'm never sober.
+
+<end>
+
+<ChatID:18>----------------------------------------
+//萃香vs.パチュリー
+
+Patchouli0c:They don't appear in any of the books at home, but once I saw those horns I knew there was no mistake.
+
+Suika0a:Just so you know, I'm not a deer.
+
+Patchouli4c:I know that. Roasted beans, sardine heads... Oni have many weakness.
+
+Suika0a:Just telling me that you know your stuff isn't gonna scare me off, you know.
+
+Suika1a:Why don't you show me what you can put into practice, here and now?
+
+<end>
+
+<ChatID:19>----------------------------------------
+//萃香vs.小悪魔
+
+Koakuma0a:You're staggering so much... Are you feeling ill?
+
+Koakuma0a:If you've got a hangover, then there's something I brought just in case.
+
+Suika0a:Don't worry about it, I'm fine. Being tipsy makes me stronger.
+
+<end>
+
+<ChatID:20>----------------------------------------
+//萃香vs.エリー
+
+Elliy4a:Now that I think about it, when we ended up here without realizing it...
+
+Elliy0a:You must have summoned us here like those other youkai.
+
+Suika0a:Yup. You seemed bored though, so wasn't it just perfect?
+
+Elliy1a:No, I wasn't bored! Now I'll never get the shopping done, and Yuuka's gonna be mad at me!
+
+<end>
+
+<ChatID:21>----------------------------------------
+//萃香vs.くるみ
+
+Kurumi4a:I went with Elly to buy candy... But then we somehow ended up here.
+
+Suika0a:Yup, looks like. You seemed bored though, so wasn't it just perfect?
+
+Kurumi6a:This is awful! The candy store's going to close...
+
+Kurumi1a:And if we can't go shopping, we'll have nothing to eat for dinner but rice and dried sardines!
+
+<end>
+
+<ChatID:22>----------------------------------------
+//萃香vs.小町
+
+Suika0a:A shinigami? Look, this is a party. Nobody needs any buzzkills around.
+
+Komachi1c:Yeah, I know. Even the thought of doing my job while surrounded by such great sake feels sacrilegious.
+
+Komachi0a:How about we liven this up instead? It can't hurt to give our audience a good show.
+
+Suika0a:Ooh, you're a way better sport than I thought.
+
+<end>
+
+<ChatID:23>----------------------------------------
+//萃香vs.妹紅
+
+Mokou0a:Meeting an oni is like winning the world's worst lottery.
+
+Suika0a:Sounds like you know what you're in for.
+
+Mokou3c:I used to do youkai extermination, long ago.
+
+Mokou3a:I'd ruthlessly exterminate any youkai that crossed my path. Even an oni would laugh at how pathetic I was, playing demon like that.
+
+<end>
+
+<ChatID:24>----------------------------------------
+//萃香vs.サニー
+
+Sunny1a:When you think oni, you think Setsubun! You eat as many beans as your age.
+
+Suika1a:Oh? So does a fairy like you actually know how old you are?
+
+Sunny3a:Uh, well, no. When it's Setsubun I usually just have some random number.
+
+<end>
+
+<ChatID:25>----------------------------------------
+//萃香vs.ルナ
+
+Luna0c:An oni? Nowadays, no one ever talks about them except on Setsubun.
+
+Luna3b:And we just put on masks and throw beans.
+
+Suika0a:Sounds fun. Mind if I join in next time?
+
+Luna3d:Of course you can—
+
+Luna6a:Of course you can—wait, an oni wants in?!
+
+<end>
+
+<ChatID:26>----------------------------------------
+//萃香vs.スター
+
+Star4a:So you were that strange presence from before.
+
+Star3b:It was like you were everywhere, but also nowhere...
+
+Suika1a:That's a good way to put it. I get diluted when I'm spread out, and concentrated when I'm together. The total never changes though.
+
+<end>
+
+<ChatID:27>----------------------------------------
+//萃香vs.にとり
+
+Nitori2a:Um, greetings, great oni...!
+
+Suika0a:Oh, a kappa! You look like you're doing well.
+
+Suika0a:By the way, not that I care all that much, but what's the occasion for this party?
+
+Nitori2a:Um, you see, it's to deepen the friendship between the new gods on Youkai Mountain and the people living off the mountain.
+
+Suika0a:A friendship between Youkai Mountain and the everyone else...? Even with Aya and the other senior tengu still around?
+
+Suika0a:Sounds like things have gotten pretty interesting. Maybe I'll ask more about it later.
+
+<end>
+
+<ChatID:28>----------------------------------------
+//萃香vs.穣子
+
+Suika0a:Oh, it's one of the Aki sisters. Seeing you again brings back memories.
+
+Suika1a:Though...
+
+Minoriko4a:...What?
+
+Suika0a:Didja put on some weight?
+
+Minoriko1a:I did no such thing!
+
+<end>
+
+<ChatID:29>----------------------------------------
+//萃香vs.静葉
+
+Shizuha0a:It's been a while since I've met an oni. I bet you've missed that giant barrel.
+
+Suika0a:Sure did. We used to use it for drinking contests.
+
+Suika0a:You haven't changed a bit. Still doing your duty?
+
+Shizuha1c:Of course. We're popular among humans.
+
+Shizuha0a:So as long as the seasons keep changing, my job will never change.
+
+<end>
+
+<ChatID:30>----------------------------------------
+//萃香vs.雛
+
+Suika0a:You a misfortune god? It's not every day I see one of those among humans.
+
+Hina3a:I can't deny that. If I wasn't here with a friend I probably wouldn't have come.
+
+Suika0a:Humans avoid you like the plague, even though you're the reason they live in peace...
+
+Suika0a:Humans just never accept the things that are inconvenient to them, do they?
+
+<end>
+
+<ChatID:31>----------------------------------------
+//玄爺会話（念のため）
+
+Reimu0e:I figured I wouldn't find him here...
+
+Marisa0b:Hey, what are you doing?
+
+Reimu0f:It's kind of a habit of mine to try and find my old pet.
+
+Reimu0a:I guess I don't have to look for him, though. He'll come out when he wants to.
+
+Marisa0a:He sounds pretty useless if that's how it is.
+
+<end>
+
+<ChatID:32>----------------------------------------
+//EX条件達成（ver.2.7.9追加）
+
+Suika2a:Whoa, you're not half-bad!
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Reimu5c:I'm a youkai extermination specialist. If you underestimate me, it's your funeral.
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Marisa0a:I'm pretty used to this whole youkai extermination thing. Can't have youkai looking down on me, y'know?
+
+</Cond>
+
+Suika1a:Ooh, I like, I like. Then time to ramp up the rampage!
+
+<end>
+
+<end>
+
+<ChatID:33>----------------------------------------
+//萃香vs.まくら
+
+Makura3a:You certainly like things lively, don't you?
+
+Suika1a:Duh. You don't?
+
+Makura0f:I wouldn't say I hate it, but drinking always makes me so sleepy.
+
+Suika2a:Then you need more training! Some folks can even drink while sleeping, y'know!
+
+Suika1e:I mean, we can still MAKE 'em drink!
+
+Makura6d:...Someone should report you to HR.
+
+<end>
+
+<ChatID:34>----------------------------------------
+//萃香vs.メーコ
+
+Meko4c:I wonder if my sleep power works better on someone drunk?
+
+Meko1d:Here goes! Sleep!
+
+Suika1a:*snooore*
+
+Meko0c:Yay, it worked.
+
+Suika2a:Seriously? C'mon.
+
+Meko0b:She was just going along with it as a joke?!
+
+<end>
+
+<ChatID:35>----------------------------------------
+//萃香vs.萃香
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Suika5a:"Don't rush, don't rush..."
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Suika1a:"...just rest a bit!"
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Suika2a:What the what? Someone else with the same vibe as me! The heck?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Suika3c:I'm surprised too! What a stroke of luck!
+
+Suika6d:But, well, this sorta thing happens when it gets lively enough!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Suika3d:Sure does!
+
+</nomove>
+
+<end>
+
+<ChatID:36>----------------------------------------
+//萃香vs.勇儀
+
+Suika2a:Huh? It's Yuugi! When did you come up to the surface?
+
+Yugi0d:I should be asking you that. Didn't you have something against humans?
+
+Suika3c:I guess, but after watching these girls it just started getting fun.
+
+Suika1e:Oh right, you should get over here and play too!
+
+Yugi1f:Don't mind if I do!
+
+<end>
+
+<ChatID:37>----------------------------------------
+//C24：萃香vs.非想天則
+
+Tensoku0a:...
+
+Suika2a:Whoa, what an absolute unit!
+
+Suika3b:How did I not see this guy before?
+
+Suika1e:Alright, let's see who's stronger after I'm big!
+
+<end>

@@ -1,0 +1,1940 @@
+﻿○共通第十九話「突入! 秋の霊山
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: 3PP
+ 3: first Aki kick
+ 4: WP (evade Aki kick)
+ 5: beat Aki sisters
+ 6: win
+ 7: ADVB
+ 8-55: battle
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=5,FROM=博麗神社,TO=博麗神社,name=Hakurei Shrine,icon=0>
+
+<BG=*bg_talk_Shrine_Fall.png,fade=1,color=1,title=*bg_Shrine,bgm=bgm_talk_aoki>
+
+Reimu0f:Today's kind of chilly. Maybe it's the lack of clouds.
+
+Reimu2b:Whoops, gotta be careful not to let myself get too distracted. We're gearing up for a fight here.
+
+Marisa0a:Hey Reimu, we're here.
+
+Alice0a:Good morning. My apologies for being late.
+
+Reimu0e:Come on in. We've already got a crowd.
+
+Marisa0c:Wow, people are early. They must really be itching for some danmaku fights.
+
+Reimu4a:We're not going there to play around. I wish you'd be more like Keine.
+
+Alice0a:Why her?
+
+Reimu5c:She's really gung-ho about this. Right now she's setting up a planning session inside.
+
+Alice0b:How like her. But considering who we're up against, I can understand going that far.
+
+Marisa0a:She sure likes lecturing people, huh. Well, we're already here so we might as well sit in on it.
+
+<BG=bg_talk_Shrine_Fall.png,fade=1,color=1,title=*bg_Shrine,bgm=bgm_talk_kagaku>
+
+Keine1a:Alright, it's time. Let's get this planning meeting started.
+
+Alice0a:Why don't we start with a round of introductions?
+
+Keine0a:That sounds like a good idea. First, from the Scarlet Devil Mansion, Sakuya and Meiling.
+
+Sakuya0a:Pleasure to be here.
+
+Meiling5a:Thanks for having me!
+
+Reimu3b:Don't you have jobs back at the mansion? It doesn't look like Remilia's coming with you.
+
+Sakuya0a:It was the mistress's orders. Our duty is to observe the mountain and then report back to her.
+
+Meiling0a:It's a place people don't usually enter, so it's piqued her interest.
+
+Reimu2b:Huh. She can't make a decent cup of tea on her own. How's she gonna manage?
+
+Sakuya5b:Koakuma's there, and once I get back, I can clean the whole place... though I don't think I'll have to.
+
+Reimu0a:Actually, where's that one magician? I thought she was on good terms with you, Marisa.
+
+Marisa0b:You mean Patchouli. We invited her, but she wanted to stay home and read books instead.
+
+Alice0a:Though if she changes her mind I'm sure she'll come. In any case, in her stead we have...
+
+Keine0a:Ah, Yuuka's servants, Elly and Kurumi.
+
+Elliy3a:Greetings!
+
+Kurumi3b:Hello there!
+
+Reimu4a:...Why are YOU two here?
+
+Elliy1a:Wow, rude!
+
+Reimu4a:Well, didn't you get kicked out of the Scarlet Devil Mansion? What's going on with Yuuka, anyway?
+
+Sakuya0a:Lady Yuuka and her entourage moved to a new house. We did not kick them out.
+
+Elliy0a:Right. Yuuka's out of the house today, so we came over to play.
+
+Kurumi3a:Lookie, Sakuya made a bento for me!
+
+Rumia0a:Ooh, is it a fancy bento?
+
+Daiyosei3b:Rumia, you shouldn't interrupt...!
+
+Marisa6b:Oh hey, Daiyousei and Rumia are here.
+
+Alice0a:Are you two aware of how dangerous Youkai Mountain is?
+
+Daiyosei3b:We actually came here looking for Cirno...
+
+Keine0a:...Who isn't here, oddly enough, despite her enthusiasm the day before yesterday.
+
+Marisa0b:This is Cirno we're talking about. Maybe she just forgot the time and place.
+
+Rumia3a:I could see it!
+
+Daiyosei0a:I think we should join you anyway, though. I do want to help.
+
+Alice0d:You're more than welcome here.
+
+Keine0a:Next up: three visitors who are offering some non-danmaku assistance.
+
+Marisa1b:What kind of... Wait, YOU?
+
+Korin2b:Wow, just "you"? That's a little cold, Marisa.
+
+Akyu3a:Hello and thank you for your gracious invitation.
+
+Marisa6b:Kourin and Akyu? Why'd you two come here? You're not exactly danmaku veterans.
+
+Kurumi0b:Wait, I thought there were three of them.
+
+Akyu4a:Oh? Now where could she have gotten off to...
+
+Akyu0a:Found her. Could you come join us, Kosuzu?
+
+Kosuzu1a:Eep! I'm not mentally prepared for this yet...
+
+Reimu0g:Oh hey, Kosuzu. You're here too, huh?
+
+Meiling0c:May I ask what kind of assistance they'll be offering?
+
+Keine6a:We're up against powerful mountain youkai, so we'll need proper planning and equipment. I asked them to help with that.
+
+Keine0a:I'll start with Akyu. She's the head of a well-established family that writes Gensokyo's histories.
+
+Keine6c:She's also been reincarnated repeatedly, so you'd have a hard time finding a better expert on Gensokyo's youkai.
+
+Akyu3a:Yes, I'm fairly certain I'm the most knowledgeable human in Gensokyo.
+
+Kurumi0a:Wow, and you're only as tall as me.
+
+Daiyosei0b:Yes, she's my height too...
+
+Akyu3b:Excuse me, I have the mind of a grown-up, thank you very much!
+
+Sakuya0a:She sounds like quite the asset. Then can we assume the man is also a scholar?
+
+Marisa0b:Oh, the guy wearing glasses is Kourin. He runs a shady second-hand store out in the Forest of Magic.
+
+Korin2a:What a rude introduction. My name is Rinnosuke Morichika. I'm the proprietor of a curio shop called Kourindou.
+
+Korin0a:I have a considerable selection of rare goods.
+
+Sakuya5b:Oho. Rare goods, hm.
+
+Korin1b:It's near the entrance to the forest. Feel free to stop by if you ever feel like it.
+
+Elliy0a:Okay, so what about the little lady?
+
+Kosuzu3c:Oh, um, you can just call me Kosuzu. My family runs a popular rental bookstore in the village.
+
+Rumia0a:A what now?
+
+Alice0d:It's called Suzunaan. They have a fine selection of books, so we've gotten quite close.
+
+Kosuzu4b:It's aimed at humans though, so we don't exactly let just anyone borrow from us...
+
+Elliy5a:Hmm, but blondie over there is a magician, right?
+
+Kosuzu3c:Well, let's just say I owe her a lot.
+
+Reimu2b:Akyu's knowledge is one thing, but I doubt Rinnosuke and Kosuzu would contribute much here.
+
+Korin2d:That's a rather rude thing to say. Just be patient.
+
+Keine0a:That's the end of roll call. But not everyone's here yet...
+
+Elliy0b:Yeah, isn't Sakuya's friend coming too?
+
+Sakuya5b:Perhaps the scary boss she tells me about is holding her up. I don't think she would just forget.
+
+Marisa0b:Anyway, Reimu, couldn't your group find anybody else?
+
+Marisa7a:You should be more like us and try harder.
+
+Reimu4a:Hey, I'll have you know we went all the way into the bamboo forest.
+
+Keine0b:We got a commitment from the trip, but she hasn't shown up yet...
+
+Rumia0a:Maybe she changed her mind? She wasn't exactly enthused about going.
+
+Keine2a:Hmm...
+
+<hide=all>
+
+Mokou3c:I'm right here.
+
+</hide>
+
+Reimu0f:!
+
+Keine2b:Mokou, you came!
+
+Mokou3c:I've been here for a while. I was listening from the shadows.
+
+Marisa0b:Lemme guess: you're a friend of Teach over here?
+
+Mokou0a:Pretty much. I'm Fujiwara no Mokou, and I'll be joining your little Youkai Mountain outing.
+
+Kurumi1c:Hey, if you're late you should apologize. That's what Elly always says...
+
+Mokou3a:...What was that?
+
+Kurumi2a:Um, nothing...
+
+Alice2c:If Keine thinks you can be relied on, you must be quite capable.
+
+Mokou0a:Well, I'm committed now. Don't worry, I'll pull my weight.
+
+Reimu4a:Is standing back and eavesdropping your idea of working with us?
+
+Mokou1b:This is my first time meeting most of you, so I figured I should watch for a bit.
+
+Mokou1a:Though it was kind of anticlimactic. You're all so carefree.
+
+Reimu2b:Don't just lump us all together like that. I'll have you know I'm very diligent.
+
+Mokou0c:Is that so? From what Keine's told me, the Hakurei Shrine Maiden's the most carefree person around.
+
+Meiling3a:They keep sniping at each other. Have they been like this since yesterday?
+
+Daiyosei3b:Yes, they don't seem to get along very well...
+
+Sakuya5b:Well, now that we're all introduced, can we get on with the meeting?
+
+Keine2a:Y-Yes, of course. Let me explain the plan I've come up with.
+
+Keine0b:As you all know, Youkai Mountain is a dangerous place. When we stormed the mountain the other day, we got chased off before we could even fight.
+
+Daiyosei3b:Goodness, Reimu's group actually got chased off?
+
+Keine0a:But we have to reach the Moriya Shrine up on the mountain to prevent a takeover of the Hakurei Shrine.
+
+Keine1a:And we'd like all of you to help us get there.
+
+Marisa1a:Yup, that's why we're here.
+
+Sakuya5b:But if we don't have a plan, what good is it to increase our numbers? Won't the result stay the same?
+
+Keine0a:Exactly. That's why Akyu, Rinnosuke, and I have come up with a plan.
+
+Keine0a:Akyu, you're up first.
+
+Akyu3a:Thank you. I'll go over it now.
+
+Akyu0a:I believe you're all familiar with Youkai Mountain and the youkai who live there.
+
+Elliy0a:It's a bunch of powerful youkai that like to crow about their territory, right?
+
+Akyu0a:Correct. Furthermore, we have no inside intel on them, so they're highly difficult to contend with.
+
+Meiling3d:The more I hear about these guys, the tougher they sound.
+
+Kurumi0b:How are we supposed to fight them?
+
+Akyu0b:We'll use this drawing.
+
+<SE=se_talk_paper01.ogg,wait=1>
+
+Marisa0e:What's that supposed to be? The paper looks old as heck.
+
+Mokou1b:That looks like ancient youkai writing.
+
+Akyu0a:It's said to be a map of Gensokyo, drawn centuries past.
+
+Akyu3e:Of course, by the time I obtained it two generations ago, no one knew how to read it anymore.
+
+Sakuya5b:So it's indecipherable. Why bring it out then?
+
+Kosuzu5b:This is where I come in.
+
+Meiling1b:How so?
+
+Kosuzu0c:I awakened a weird power recently. I can read anything, no matter how it's written!
+
+Keine0a:And we made use of that ability to carefully study the map.
+
+Kosuzu0a:It's written in Ancient Tengu and was drawn up by the residents of Youkai Mountain at the time.
+
+Kosuzu5b:Here, I made a copy you all can read.
+
+<SE=se_talk_paper01.ogg,wait=1>
+
+Marisa1b:Ooh, now this, I get.
+
+Meiling5a:It shows all the key locations on the mountain! What more could an invader want?
+
+Reimu0e:Looks like there are two paths to the summit. Which one do we take?
+
+Korin1b:Both.
+
+Reimu3c:Huh?
+
+Korin0d:I think it'd be best to split our forces into two groups.
+
+Korin1b:We can't put TOO much faith in one old map, and one side can create a diversion.
+
+Akyu0a:By confusing the enemy, we can advance while avoiding a head-on confrontation.
+
+Korin1b:And if all goes well, we can regroup once we're there and be in a perfect position to take on the shrine.
+
+Mokou1a:Huh. That's actually a halfway decent plan.
+
+Korin3c:Why, thank you. I can't be sure it'll work on youkai, of course. They do tend to be beyond human knowledge.
+
+Mokou0d:It's not the worst start. When you fight a giant youkai, the soundest strategy is to hit them where they don't expect it.
+
+Akyu3a:That's true. Are you an expert on youkai extermination?
+
+Mokou0a:Eh, I dabble.
+
+Alice2c:I'm concerned about splitting our forces, though. I wouldn't want us to get picked off separately.
+
+Meiling3a:And I'm worried about whether this map will match the actual terrain.
+
+Korin3c:Excellent points—which is where my merchandise comes in.
+
+Marisa0c:Oh man, is it the telepathic tool you showed me this summer?
+
+Korin2d:The mobile phone? Sadly it doesn't work at all.
+
+Korin0a:This isn't exactly the perfect replacement, but... Here.
+
+Reimu2b:What's this black iron box? It looks heavy.
+
+Korin1b:It's a tool called a transceiver. If I speak into it...
+
+<hide=face>
+
+<SE=se_talk_noise01.ogg,wait=0>
+
+Korin0a:Testing, testing. This is Rinnosuke. Over.
+
+</hide>
+
+Marisa6b:Whoa, what the heck was that creepy voice?
+
+Elliy4b:Forget about creepy, the important part is that it sounds a little like him.
+
+Korin3a:...
+
+Kurumi0a:Wow, that's really cool. Is it some kind of enchanted item?
+
+Korin0a:No, it's from the Outside World. My store deals in goods like that.
+
+Korin0d:The purpose of this tool is to allow people at a distance to converse with each other. It should allow us to stay in contact.
+
+Sakuya5b:How convenient. If it doesn't use magic, how does it work?
+
+Marisa0b:Sorry, but you're not getting an answer. This guy's power only tells him the name of a tool and how to use it, nothing else.
+
+Sakuya5a:Ah, that's unfortunate.
+
+Meiling5a:But still, with this Trance Seer thing, the two groups will be able to stay in touch!
+
+Keine0a:Precisely. That covers all of our plan, but...
+
+Keine0b:Cirno and Sakuya's friend still have yet to show up, hm.
+
+Sakuya5b:There's no point waiting forever. For now we should go on without them.
+
+Rumia4b:Yeah, I'm hungry... *drool*
+
+Kurumi1a:You can't have my bento, no matter how much you keep eyeballing it!
+
+Akyu3a:Well, good luck out there.
+
+Akyu0a:The entrance will likely have the strictest security, so it would be best to split up after you make it in.
+
+Kosuzu3d:Reimu! Alice! Good luck!
+
+Kosuzu3b:Oh, and Miss Keine and Marisa too, of course!
+
+Elliy2a:Kosuzu, right? You can cheer us on too!
+
+Keine3a:You'll have to forgive her. She's not very accustomed to dealing with youkai.
+
+Marisa1a:Anyway, it's go time!
+
+Korin1c:It's probably pointless to even ask, but be careful with that transceiver!
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Shizuha0b:All of these autumn leaves will eventually fall.
+
+Shizuha0a:Their beauty heralds a temporary end. It's neither lonely nor sad.
+
+Shizuha1d:...
+
+<pause>
+
+Shizuha5a:But it wouldn't hurt to sing for them once in a while. Nobody's watching either...
+
+Shizuha1b:The eeelegance of faaalll...
+
+<pause>
+
+Minoriko0a:I thought I'd find you'd here, Shizuha.
+
+Shizuha5b:The eeelegance of—eep!
+
+<Code=(icon_set_direction,Shizuha_en,Minoriko_en,0)>
+
+Shizuha5a:*cough* Why, hello there, Minoriko. What's going on?
+
+Minoriko4a:That's what I wanna know. Why were you caterwauling?
+
+Minoriko1b:Well, whatever. Anyway, have you read the tengu newspaper today?!
+
+Shizuha0b:Today's paper? You mean the one that says...
+
+Shizuha0a:"Villainous Humans Invade Mountain; Easily Repelled By Tengu Alliance"? That one?
+
+Minoriko1b:The problem is the next line! We're described as "two gods victimized by the humans"! We're laughingstocks!
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Minoriko1a:Aaaah, offerings from humans are nice and all, but there's just something satisfying about doing your own harvest.
+
+Minoriko0a:The autumn harvest is just like life. The only way to experience its full richness is to put in the effort yourself.
+
+<Code=(cursor_jump,288,256,0)>
+
+<Code=(move_view,288,256,3)>
+
+<Code=(demo_wait,20)>
+
+Minoriko0a:Ooh, that area's already giving off that classic fragrance of ripening...
+
+<pause>
+
+Minoriko3b:I just love that smell. I'll have to be careful not to overeat.
+
+Minoriko0a:...
+
+Minoriko3a:Shizuha told me to only eat one a day, but just one more couldn't hurt—
+
+<pause>
+
+Shizuha0a:Ah, there you are, Minoriko.
+
+<Code=(icon_set_direction,Minoriko_en,Shizuha_en,0)>
+
+Minoriko5a:Gah, Shizuha! I'm not eating any roasted sweet potatoes, okay?!
+
+Shizuha0b:Why would you bring that up? I know you like them, but...
+
+Minoriko1a:No reason at all! Anyway, did you need something?
+
+Shizuha0a:Yes, actually. I was reading that tengu newspaper you told me about, and I saw today's headline...
+
+Shizuha0b:"Villainous Humans Invade Mountain; Easily Repelled By Tengu Alliance".
+
+Minoriko1b:Yeah, and the line after that is atrocious! We're introduced as "two gods victimized by the humans". We're laughingstocks!
+
+</Cond>
+
+Minoriko4a:They even put in pictures of us that make us look pathetic!
+
+Shizuha4a:Yeah, now that you mention it. The fact that we're smiling in it actually makes it look more pitiful.
+
+Shizuha5a:What do we do about it, though? This is our season. We should use the power of autumn leaves to reclaim our divine dignity...
+
+Minoriko3a:No, no, this is where sweet potato power comes in—
+
+Minoriko2a:!
+
+<Code=(icon_set_direction,Minoriko_en,FD_RIGHT,0)>
+
+<Code=(icon_set_direction,Shizuha_en,FD_RIGHT,0)>
+
+<end>
+
+<ChatID:1.5>---------------------------------------
+//1PP-2
+
+Marisa0b:We're finally here. And just two days after we got chased off.
+
+Sakuya5b:This isn't what I was expecting from a place called Youkai Mountain.
+
+Sakuya0a:Shouldn't it be full of wild youkai living all over the place?
+
+Meiling0a:Maybe wild animals, but youkai aren't animals...
+
+Rumia0a:Hey, someone's over there!
+
+<Code=(check_special,19Common)>
+
+Shizuha5a:...I see you all haven't learned your lesson yet.
+
+Alice0a:It's the sister gods we fought before.
+
+Reimu2b:Let's see, they were... the Scarlet Sisters?
+
+Meiling5a:That sounds like our mistresses back at the mansion.
+
+Marisa6b:You two are like landmarks. Do you just not have anything to do?
+
+Minoriko1b:Quiet! We are the AKI Sisters.
+
+Minoriko2a:Grr... We're being treated like dirt again. I've had it with this, Shizuha!
+
+Shizuha3a:I have as well. But getting frustrated won't help.
+
+Shizuha0a:Haven't the two of us been practicing a technique for an occasion like this?
+
+Minoriko1b:Oh yeah! Let's do it, Minoriko!
+
+Shizuha3a:Yes, let's show these fools who belittle autumn our might!
+
+Daiyosei3b:They seem super fired up now. Should we be fighting them? We're supposed to be moving forward, right?
+
+Mokou0a:If they want a fight, what's the big deal? The fastest way forward is through them.
+
+Marisa0a:Time to do the usual!
+
+<end>
+
+<ChatID:2>---------------------------------------
+//3PP
+
+Elliy0a:Say, did something happen between you girls and the gods? You were arguing earlier.
+
+Keine0a:Sort of. We might have gone a bit overboard and beaten them when we were storming the mountain last time.
+
+Keine0b:They're gods with close ties to humans, so the ideal outcome would be to avoid fighting entirely, but...
+
+Marisa0b:Yeah, you two heard the lady. If you're friendly to humans, it wouldn't hurt you to let us by.
+
+Shizuha1d:You have it backwards. We're stopping you BECAUSE we're friendly to humans.
+
+Shizuha0a:Don't you know how dangerous this mountain is?
+
+Alice0a:Your consideration is appreciated, but we did come here for a reason.
+
+Alice1b:No offense, but we'll have to push our way through—
+
+<Code=(cursor_jump,112,320,1)>
+
+<nomove>
+
+<hide=all>
+
+Komachi0a:Excuse me, Youkai Mountain storming group? Hold up a sec!
+
+</hide>
+
+</nomove>
+
+<pause>
+
+Shizuha3a:!
+
+Elliy0a:Oh, that voice is...
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+<hide=name>
+
+Komachi0a:Whew, looks like I made it in time for the party.
+
+</hide>
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Komachi0a:Whew, looks like I made it in time for the party.
+
+</Cond>
+
+Keine0a:Who's this? I haven't seen her before. Is she a friend of your group, Sakuya?
+
+Kurumi0a:Yes, she's the friend of Sakuya's we were talking about earlier.
+
+Sakuya0a:You're late, Komachi. I half-wondered if you changed your mind about helping.
+
+Komachi0a:Hey, I promised I'd come. There's no way I'd be a no-show.
+
+Komachi1a:I might have spent a little too much time chatting with the kid at the souvenir shop... But hey, I'm on time, and that's what counts.
+
+Sakuya5b:I'd be curious to learn more about what your idea of "on time" entails.
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Komachi0a:Anyways, I'm Komachi Onozuka. Pleasure to be here.
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Komachi0a:Anyways, I'm Komachi Onozuka. Pleasure to be here.
+
+</Cond>
+
+Komachi0a:I heard the current Hakurei Shrine Maiden's with you guys?
+
+Reimu0f:Yeah, that's me. Why do you ask?
+
+Komachi0a:Ah, it's you. We hear rumors about the living world's famous attraction, the Hakurei Shrine Maiden, even in the hereafter.
+
+Daiyosei2c:Famous attraction? And, did you say "the hereafter"?
+
+Komachi0a:Oh, they didn't tell you? Yeah, I'm a shinigami and resident of Hell.
+
+Keine1a:Why would a shinigami want to help us?
+
+Komachi1a:Hey, relax. No need to act spooked. I've got the day off, and I can assure you I'm not sus.
+
+Marisa4a:Uh, I think being a shinigami makes you sus by default.
+
+Reimu4a:Eh, I don't actually care what your deal is. If you're here now, you'd better help out.
+
+Komachi1a:You got it. I'll ferry the Hakurei Shrine Maiden's group over to the Whaddayacallit Shrine, safe and sound!
+
+<end>
+
+<ChatID:3>---------------------------------------
+//秋姉妹キク初使用
+
+Minoriko1a:We're in just the right range! Ready to go, Shizuha?
+
+Shizuha1a:Absolutely!
+
+Marisa6b:Huh, why're they suddenly all lively?
+
+Alice1a:Be careful, they're up to something!
+
+Minoriko1b:Take a good look. This is our sisterly combination! You'll never expect what's coming!
+
+<end>
+
+<ChatID:4>---------------------------------------
+//秋姉妹キクミス時
+
+Shizuha2a:Aieee!
+
+Minoriko5a:Shizuha!
+
+Marisa0b:What was that? They just blew right past us into the air.
+
+Sakuya6a:It was quite the striking visual. I must include this in my report to the mistress.
+
+Shizuha4a:Rgh... Look, that was just a minor misstep!
+
+<Cond=(LOCAL_ARR,ObjControl,WP_val,1,==,1)>
+
+Minoriko1b:Come on, you could at least let us hit ONCE!
+
+Reimu1a:You're not helping your case any. Now come on and fight us!
+
+Minoriko1b:Argh! We're gonna land it next time!
+
+</Cond>
+
+<Cond=(LOCAL_ARR,ObjControl,WP_val,1,>,1)>
+
+Minoriko1b:That's right, next time we'll definitely hit!
+
+</Cond>
+
+<end>
+
+<ChatID:5>---------------------------------------
+//穣子、または静葉撃破時
+
+Keine0a:Regardless, the fight's over now. No offense to the gods, but we need to hurry on.
+
+Kurumi1a:Everyone, look!
+
+<pause>
+
+HTenguB1a:That's as far as you go, humans!
+
+Shizuha0a:A tengu patrol? They must have noticed the invaders.
+
+Minoriko1a:See, we warned you! Now you're REALLY in for it!
+
+Shizuha0a:I think that's our cue to go hide somewhere close by.
+
+<pause>
+
+HTenguB0a:I knew you'd be back. Good thing we were staying vigilant for exactly that.
+
+Meiling1a:You're the tengu who invaded the Scarlet Devil Mansion yesterday!
+
+Elliy1a:Pretty brave of you to show your face again after losing to us!
+
+HTenguB0a:I've learned from yesterday's misstep. Reinforcements should be arriving momentarily.
+
+<pause>
+
+Daiyosei1a:...! They're already here!
+
+Keine1a:Rgh... If we get caught here, our whole plan will be moot!
+
+Komachi0a:Actually, there's way less of them than you'd normally expect from reinforcements...
+
+KTenguA3a:Ooh, I smell some great photos. I knew it was a good idea to double back!
+
+HTenguB1a:Wh... I was counting on you to contact the main troops. Why did you come back?!
+
+KTenguA0a:Well, I didn't wanna miss out on a hot scoop. Sometimes reporting takes priority!
+
+Keine1a:This irksome feeling I'm getting... That must be the crow tengu who attacked Mokou's house!
+
+Mokou0a:She's still up and kicking, huh. Maybe I went a little too easy on her before.
+
+HTenguB0a:For crying out loud... Ugh, this is the problem with crow tengu. All they care about is sating their own curiosity.
+
+KTenguA0a:You wolf tengu are way too uptight. Relax, I'll get my material and reach the main force with time to space.
+
+Alice0a:Things seem to be proceeding nicely so far.
+
+Elliy0a:Could you be a little less vague, blondie?
+
+Sakuya5b:What she means is that the mountain youkai aren't aware we're here yet.
+
+Sakuya0b:So all we have to do is make sure this lot keeps their mouths shut.
+
+HTenguB2a:Geh, curses! We'll just have to stop you here!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//勝利条件充足時
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,KTenguA_en)>
+
+KTenguA2a:Oh, for... Why won't you just let me get my article material in peace?!
+
+Keine0a:How can you expect us to give you the time of day when you act so violent?
+
+Keine1a:If you want to have a conversation with us, you should learn some manners. Or at least mind your tone!
+
+Daiyosei0a:...I think Keine's still holding a grudge from the other day.
+
+Reimu0f:Eh, something tells me they weren't gonna get along anyway.
+
+KTenguA2a:I'm not giving up. I'll get my story from you one of these days!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,KTengu_en)>
+
+KTengu2a:Wow, this group's better than I thought. Here I was expecting some easy coverage...
+
+Komachi0a:I don't mind doing interviews, but could we do this some other time? We're kinda busy right now.
+
+KTengu2a:Rgh...
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,HTenguB_en)>
+
+HTenguB2a:Augh, I wasn't expecting them to be this good...
+
+Elliy1a:You lasted longer than yesterday. I have to praise such an impressive gatekeeper spirit!
+
+Sakuya0a:Is there such a thing?
+
+Komachi0a:Maybe Benkei Musashibou's spirit. I never ferried the guy, but he probably had that kind of fortitude.
+
+HTenguB2a:To fail in my duties twice, I'm so ashamed...
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,HTengu_en)>
+
+HTengu0a:Augh, I wasn't expecting them to be this good...
+
+Elliy0a:You lasted longer than yesterday. I have to praise such an impressive gatekeeper spirit!
+
+Sakuya0a:Is there such a thing?
+
+Komachi0a:Maybe Benkei Musashibou's spirit. I never ferried the guy, but he probably had that kind of fortitude.
+
+HTengu2a:To fail in my duties twice, I'm so ashamed...
+
+</Cond>
+
+<pause>
+
+Marisa6b:Alright, we're done here.
+
+Meiling1a:We've defeated the tengu, and nobody else seems aware we're here.
+
+Keine1a:Now it's time to split into two teams. Let's have a quick group huddle!
+
+<pause>
+
+Shizuha4a:...They're gone.
+
+Minoriko4a:Yup. They sure are strong. They even beat the tengu.
+
+Shizuha0b:That only makes me more worried. That kind of strength will lead to an even stronger resistance.
+
+Shizuha0a:I can only hope they don't slip up and end up taking the brunt of the mountain's forces head-on...
+
+Minoriko4a:Wow, you're still worried about them even after what they did to us? You're so soft-hearted, Shizuha.
+
+Minoriko0a:Oh well, time to buck up and get back to work.
+
+Shizuha1c:You're right. Our purpose is to preside over autumn... Let's bring this autumn into full swing, with colorful leaves...
+
+Minoriko3a:No way, sweet potatoes are where it's at.
+
+<end>
+
+<ChatID:7>---------------------------------------
+//ADVB
+
+<MAP=5,FROM=妖怪の山下部,TO=妖怪の山下部,name=Youkai Mountain,icon=0>
+
+<BG=*bg_talk_Mountain_River.png,fade=0,color=1,title=*bg_Mountain,bgm=bgm_talk_aoki>
+
+Daiyosei0b:Wow, it's so pretty...
+
+Elliy0a:So this is Youkai Mountain. The air's nice and clear, and the autumn leaves are gorgeous.
+
+Reimu4a:Yeah, and we just beat up the administrators in charge of that beautiful autumn.
+
+Meiling0b:What do you mean?
+
+Alice0a:The two gods from earlier govern autumn.
+
+Alice0a:These leaves you see, those persimmons growing over there, they're all the blessing of those two... Apparently.
+
+Meiling5a:Is that so? They weren't much in a danmaku battle, but I suppose there's all sorts of gods.
+
+Sakuya5b:So what kind of power does Reimu's god hold?
+
+Reimu0f:Who could say? Why don't you buy a talisman and find out?
+
+Marisa6b:Wow, you're shameless. This is why you get weirdos coming to the shrine to give you grief.
+
+Reimu5c:It's MY shrine, so you can mind your own business.
+
+Alice0a:...
+
+Keine0a:In any case, let me explain the plan once more.
+
+Keine0a:From here on out, we will be splitting into two groups. One will act as a decoy while the other will take a different route to the shrine.
+
+Keine0a:We'll be going by an old map for our routes, and we'll be staying in contact with a special communicator as needed.
+
+Meiling0a:Understood. So, how are we splitting up?
+
+Keine0a:The decoy group should be as flashy as possible. It'll be dangerous, so I'd prefer this side to have more people.
+
+Keine0a:As for the other group, expediency is the key. I think it'd be best if it was just Reimu and a few others.
+
+Marisa0a:Then I'll be going with the decoys. Flashy's my middle name.
+
+Alice0a:I will also be a decoy. It would be helpful if we had people specialized in frontal assaults as well.
+
+Meiling5a:If that's what you need, I'll go. Sakuya, Elly, how about you?
+
+Sakuya0a:I don't mind.
+
+Elliy0a:As former co-workers, it'd be easy to work together.
+
+Keine0a:I think I'll go with the other group. The members should be me, Reimu, and—
+
+Mokou0a:I'm going with you, Keine.
+
+Daiyosei3b:Which side should I go with...?
+
+Alice0d:It'll be less dangerous with Keine, so how about you go with her?
+
+Rumia0a:I'm good at hiding, so I'll go with Keine too!
+
+Sakuya0a:You're the only one left. Who will you go with?
+
+Komachi0a:Huh, good question. Your group has more familiar faces so...
+
+Komachi1a:Hm?
+
+Mokou0a:What? Do I have something on my face?
+
+Komachi0a:Now that I'm looking more closely... You're not human, are you?
+
+Mokou4a:!
+
+Marisa0b:Wait, what are you talking about?
+
+Komachi0a:That's what I wanna know. What ARE you?
+
+Mokou3a:...
+
+Keine0a:Um, look... We don't have the time to go into that. Could this wait for later?
+
+Komachi0a:...Fine. But I'll be going with you.
+
+Marisa0a:Okay, that's everyone. Reimu, you take the transceiver. And you'd better not drop it or break it.
+
+Reimu0f:Yeah, okay. I'll mess with it until I get it to work.
+
+Keine0a:Remember, everyone—if we miss this chance, there's no telling when we'll be able to reach the Moriya Shrine again.
+
+Keine0a:Let's all do our part so that we can figure out what their real game is.
+
+Reimu5c:Well you heard her. Don't get bored and back out midway now.
+
+Marisa3d:What, don't you have any trust in us?
+
+Reimu4a:Not really. I don't even know why you're so motivated to help.
+
+Elliy1a:I'm totally motivated AND uninterested!
+
+Meiling0a:That's not something to brag about...
+
+Sakuya0a:I don't see the harm in people having different reasons for being here. Don't worry. I won't do anything to hinder your progress.
+
+Reimu5e:If you say so. For my part, I'm gonna do things my way.
+
+<nowindow>
+
+<Code=(demo_wait,30)>
+
+<single>
+
+</nowindow>
+
+Alice0a:...
+
+Alice0a:(Keine?)
+
+</single>
+
+Keine0a:(What is it? It's rare for you to want a private conversation.)
+
+Alice0a:(Reimu seems out of sorts to me. It's like she's got no energy... and she's oddly snappy.)
+
+Keine0a:(Yeah, she's seemed like she's had something on her mind ever since this whole shrine dispute started.)
+
+Keine0a:(I think she's out of sorts because this isn't technically incident resolution.)
+
+Alice0a:(That's true, now that you mention it. This issue doesn't have anything to do with Gensokyo at large...)
+
+Alice0a:(I'm sure she'll be fine with you there, but please look out for her.)
+
+Keine0a:(Of course. You can count on that.)
+
+Reimu4a:What are you two whispering about? Weren't we supposed to be going?
+
+Alice0b:Ah, I believe that's our cue. Safe travels.
+
+Keine0a:Likewise.
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+<MAP=5,FROM=妖怪の山下部,TO=妖怪の山下部2,name=Youkai Mountain,icon=0>
+
+<BG=*bg_talk_Mountain_River.png,fade=1,color=1,title=*bg_Mountain,bgm=bgm_talk_ningyo>
+
+Reimu0a:According to the map, this is the right way. What do you think?
+
+Daiyosei0a:...
+
+Reimu4a:Hey, are you listening?
+
+Daiyosei2c:Oh, excuse me! Do you need something?
+
+Keine0a:We were trying to figure out which path would take us toward the summit.
+
+Keine0a:I'm guessing you're still looking around for Cirno?
+
+Daiyosei0a:Yes, I think she might have come to Youkai Mountain...
+
+Komachi0a:Is Cirno the name of this fairy's friend?
+
+Keine0a:Yes, and she's a bit of an odd one. She's the reckless type who'd pick a fight with youkai.
+
+Rumia0a:And she's not exactly smart!
+
+Komachi0a:Oh man, she sounds like a real character. You gotta introduce me sometime.
+
+Daiyosei3b:Certainly... Um...
+
+Komachi0a:Why the hesitation there?
+
+Rumia0a:She's scared of you. You're hauling around a big ol' scythe!
+
+Komachi0a:Oh, this? I just carry it around because it makes me look more like a proper shinigami.
+
+Komachi0a:C'mon, don't be scared. Here, I'll give you some Rod of Remorse rice crackers.
+
+Reimu0f:Wow, you're sharing souvenir snacks? That's nice of you.
+
+Komachi0a:Hell's fallen on some hard times too, so it's also my job to advertise our local products.
+
+Komachi0a:By the way, any of you have water? These crackers really dry you out.
+
+Rumia0a:I've got some tea right here!
+
+Daiyosei0a:Wow, I didn't know you carried around tea, Rumia. It smells so nice...
+
+Rumia4b:I took it from the devil. Her bento's all fancy, too!
+
+Keine1a:Rumia, when you say "took it," I assume you mean without permission...
+
+Reimu4a:Well, hey. She's offering it now. You might as well take her up on it, right?
+
+Keine0b:...You're hopeless. Oh well, we have rice crackers now, so I'll see if Mokou wants any.
+
+<SE=se_talk_walk.ogg,wait=1>
+
+<single>
+
+Komachi0a:...
+
+Komachi0a:So hey, about that Mokou girl...
+
+</single>
+
+Reimu0f:Hm? What about her?
+
+Komachi1a:What kind of person is she?
+
+Reimu3a:Hard to say. We only met yesterday.
+
+Reimu0f:All I've heard is that she's a misanthrope, and she's lived for a long time in the bamboo forest.
+
+Rumia0a:For some reason, I feel like eating her would be a bad idea.
+
+Komachi0a:Gotcha, thanks.
+
+Komachi0a:...Guess I should've figured doing this indirectly wouldn't work.
+
+Reimu0d:Weirdo. Hey, Rumia, that tea's mine!
+
+<BG=bg_talk_Mountain_River.png,fade=0,color=1,title=*bg_Mountain>
+
+Mokou3a:...
+
+Keine0a:There you are, Mokou.
+
+Mokou0a:...Keine. You need something?
+
+Keine0a:That shinigami from earlier shared some souvenir rice crackers. I was thinking we could eat them together.
+
+Mokou0a:I'll pass. You're all so carefree, I decided to stand watch myself.
+
+Mokou1a:I'm amazed you can stand babysitting this group nonstop.
+
+Keine0a:I figured you'd think that. But their carefree attitude has its upsides.
+
+Keine0a:Take Komachi, for example. We just met, but she's already fitting right in.
+
+Mokou0a:Yeah, because the shinigami's like them.
+
+Keine4a:Mokou...
+
+Mokou0a:And hey, if a carefree shrine maiden and carefree shinigami hit it off, good for them.
+
+Mokou0a:But I'm not here to be buddy-buddy with them, no offense.
+
+Keine4a:...No, that's fine.
+
+Keine4a:You came here to help us. That's good enough for me.
+
+Keine0a:Thank you, Mokou.
+
+Mokou3c:...
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+<MAP=5,FROM=妖怪の山下部,TO=妖怪の山中部,name=Youkai Mountain,icon=2>
+
+<BG=bg_talk_Mountain_River.png,fade=1,color=1,title=*bg_Mountain,bgm=bgm_talk_ningyo>
+
+Meiling0a:Hm, both this gingko nut and this leaf are pretty...
+
+Meiling0a:Hey, Sakuya, check out this leaf. Isn't it shaped like the young mistress's wings?
+
+Sakuya5b:Shapes, hm... Would the mistress like it if I cut one into the shape of a bat?
+
+Meiling0a:No, that would be cheating.
+
+Marisa4a:Okay, that's enough dawdling. We're the decoys. We don't have time to drag our feet.
+
+Meiling0a:Oh, right. Sorry, I promised the young mistress I'd bring her back a souvenir, so I got to thinking about that...
+
+Elliy0a:If we rush, the enemy could spot us. I'd be worried about fighting with our numbers.
+
+Alice0a:Being spotted is the whole point of being a decoy.
+
+Elliy0a:Oof, oh yeah...
+
+Sakuya0b:But Lady Elly is right that it's no simple matter.
+
+Sakuya0a:The difficulty of being a decoy is that we have to draw enemy attention AND proceed onward without losing any group members.
+
+Alice0b:It's good that we have a map, but we still don't know how the enemy will attack. So there's always going to be an element of luck involved.
+
+Kurumi0a:In that case, what if we just draw a bunch of attention and beat the enemy up?
+
+Kurumi0a:If only Yuuka were here, she could spin around with that laser of hers.
+
+Sakuya5a:...That would be quite the fearsome spectacle.
+
+Marisa6b:That'd be something to see. "Mayhem on the Mountain: Yuuka Vs. Gods and Tengu".
+
+Meiling0a:Anyway, let's stay sharp and keep moving. We ARE in enemy territory here.
+
+Sakuya0a:But don't get too paranoid and exhaust yourself.
+
+Alice0a:Right. We don't need to hurry when we know the enemy will come to us. Then the real test begins.
+
+Marisa0a:Yeah!
+
+</Cond>
+
+<end>
+
+<ChatID:8>---------------------------------------
+//穣子vs.霊夢
+
+Reimu0g:You still smell like sweet potatoes. Do you eat them every day?
+
+Minoriko3b:Didn't I tell you last time? Sweet potatoes are my perfume.
+
+Minoriko1b:Also, I don't appreciate you suggesting I'm one-note. I eat other foods besides sweet potatoes!
+
+Reimu2b:Even when talking about other foods, you still bring up sweet potatoes. Look, I'm not gonna judge your taste in food.
+
+<end>
+
+<ChatID:9>---------------------------------------
+//穣子vs.魔理沙
+
+Marisa0a:You two are always together, huh. I bet you know everything about each other.
+
+Minoriko0a:Oh, totally. When we're nearby, I think we get stronger through the power of trust!
+
+Marisa6b:Ooh, so that's how it works. I guess feelings are nothing to sniff at.
+
+<end>
+
+<ChatID:10>---------------------------------------
+//穣子vs.慧音
+
+Keine0a:I see you've added a new trick to your act since last time.
+
+Minoriko1a:Don't call it an act! We're being serious here!
+
+<end>
+
+<ChatID:11>---------------------------------------
+//穣子vs.アリス
+
+Minoriko1a:You clearly need more time in the sun. I'm going to give you some exercise in the form of farmwork!
+
+Alice0a:How did you get that idea in your head? Manual labor isn't my strong point.
+
+Alice0a:If the soil needs tilling, my dolls can handle that.
+
+Minoriko1b:Deplorable. Indoor types, am I right?
+
+<end>
+
+<ChatID:12>---------------------------------------
+//穣子vs.ルーミア
+
+Rumia0a:You know, I never thought about it before but...
+
+Minoriko4a:What?
+
+Rumia4b:Are gods tasty to eat?
+
+Minoriko5a:Yikes, that's a creepy thing to say! And it's not a very funny joke.
+
+Rumia3a:Maybe I should look into this new flavor!
+
+<end>
+
+<ChatID:13>----------------------------------------
+//穣子vs.大妖精
+
+Minoriko0a:So they brought that fairy again...? No, wait, this one seems different.
+
+Daiyosei3b:...? Is she talking about Cirno?
+
+Daiyosei0a:Excuse me, did that fairy from before happen to pass by?
+
+Minoriko1a:You think I'd just sit back and watch her pass by after the way she mocked us?
+
+Daiyosei0a:...Ah, I guess Cirno had a fight with this god.
+
+<end>
+
+<ChatID:14>----------------------------------------
+//穣子vs.咲夜
+
+Minoriko1a:Now I'll send you away with autumn's power! Take this, a sweet autumn aroma!
+
+Sakuya5b:Hm? This is certainly a very nice scent.
+
+Sakuya0a:Hmm, what to do for dinner tonight... Chestnut rice, pork and miso soup, sweet potato fries...
+
+Minoriko2a:Gah, now I'm hungry...
+
+Sakuya6b:Wow, I see this spell works wonders on gods. Wild greens over rice, grilled saury, candied yams...
+
+Minoriko5a:Gyaaah!
+
+Minoriko1b:Gyaaah! Hey, quit messing with a god!
+
+<end>
+
+<ChatID:15>----------------------------------------
+//穣子vs.美鈴
+
+Meiling0a:I wonder if some autumn crops would make a good souvenir for the young mistress?
+
+Minoriko3a:Now there's an idea. If you want, I can share some of my fruit with you.
+
+Meiling5a:Really?! But then again, if I add too much to our luggage, Sakuya will get annoyed...
+
+Meiling3a:Would it be okay for me to pick them up on our way back down the mountain later?
+
+Minoriko3b:Fine, if I must. I'll grab the least bruised fruits and stow them in a box for...
+
+Minoriko1a:Wait, I'm telling you to go back down right now, not later!
+
+<end>
+
+<ChatID:16>----------------------------------------
+//穣子vs.小町
+
+Minoriko0b:You there, that thing you're holding...
+
+Komachi0a:Hm? It's just an ordinary scythe. What about it?
+
+Minoriko0b:Scythes are supposed to be farming tools. They're not weapons, you know.
+
+Komachi0a:Ah, that. From what I hear, it's supposed to give off the image of shinigami reaping souls, or something like that.
+
+Komachi1a:Well, I don't know much about it myself. It's just part of the uniform.
+
+Minoriko4a:...So a tool of the harvest became a symbol of death? How ironic.
+
+Minoriko1a:I'll teach you how to use that properly! Go reap that field, now!
+
+<end>
+
+<ChatID:17>----------------------------------------
+//穣子vs.エリー
+
+Elliy1a:If I come home with a god's head, Yuuka will definitely praise me. Prepare yourself!
+
+Minoriko1a:What kind of bizarre motive is that? I'm sending you packing with sweet potato power!
+
+Elliy1a:What kind of bizarre power is that? Love trumps sweet potatoes every time!
+
+<end>
+
+<ChatID:18>----------------------------------------
+//穣子vs.くるみ
+
+Minoriko1b:Wah! What villainous youkai is this?!
+
+Kurumi0a:...
+
+Minoriko4a:What?
+
+Kurumi0a:Hey, could you say that one more time? "Villainous." Does that mean I look strong?
+
+Minoriko4a:Um, well, I mean you've got those wings...?
+
+Kurumi0a:Hehehe, yay! I'm one step closer to being an upper-ranking devil!
+
+<end>
+
+<ChatID:19>----------------------------------------
+//穣子vs.妹紅
+
+Mokou0a:A god of the harvest, eh? Want some help cooking the potatoes? I could roast 'em in a flash.
+
+Minoriko1a:What?! Absolutely not!
+
+Mokou0a:Huh? Why not?
+
+Minoriko3b:Roasting sweet potatoes requires a delicate touch, a gentle flame, and love for the potatoes.
+
+Minoriko1a:Say what you want about me, but insulting sweet potatoes is where I draw the line!
+
+Mokou3c:...Okay, you've completely lost me.
+
+<end>
+
+<ChatID:20>----------------------------------------
+//静葉vs.霊夢
+
+Reimu4a:I've been meaning to say something to you. Could you PLEASE do something about these leaves falling every year?
+
+Reimu5c:They're pretty and all, but cleaning them up is such a hassle.
+
+Shizuha1c:There seems to be a slight misunderstanding. The lonely autumn leaves are an integral part of the autumn scenery.
+
+Reimu0f:Sure, whatever. What'd be really nice is if a certain somebody would clean up afterwards...
+
+<end>
+
+<ChatID:21>----------------------------------------
+//静葉vs.魔理沙
+
+Marisa0a:You say you're a god of autumn, but autumn leaves are just scenery. Kinda lacks impact, if you ask me.
+
+Shizuha0a:Oh, but appearances are important. Can you tell it's autumn just staying in doors?
+
+Marisa6b:Sure I can. Once it gets less humid and I feel comfier while reading my books, I know it's autumn.
+
+<end>
+
+<ChatID:22>----------------------------------------
+//静葉vs.慧音
+
+Shizuha0a:You were driven off by the tengu the day before yesterday, huh. I saw it in the paper.
+
+Keine2a:...And now they're writing articles about us too? I can't imagine they were very flattering.
+
+Shizuha3a:Yeah, they were really rude!
+
+Keine5a:...? So why are YOU getting angry about it?
+
+<end>
+
+<ChatID:23>----------------------------------------
+//静葉vs.アリス
+
+Shizuha0a:So you've come again. If you're in the mood for leaf peeping, I'd be happy to show you a nice viewing location.
+
+Alice0a:That's very nice of you. I'd love to take you up on that once the shrine's affairs are sorted out.
+
+<end>
+
+<ChatID:24>----------------------------------------
+//静葉vs.ルーミア
+
+Rumia0a:Now that I'm looking, there's all sorts of yummy things around here. Like in that field...
+
+Shizuha3a:Hey, that's Minoriko's field! Don't touch it without permission!
+
+<end>
+
+<ChatID:25>----------------------------------------
+//静葉vs.大妖精
+
+Shizuha0a:I saw another fairy a little while ago. She had a chilly, winter-like atmosphere about her.
+
+Daiyosei0a:When you say "chilly," do you mean she was an ice fairy? Did she have a green ribbon?
+
+Shizuha3a:Yeah, that's the one. She was practically radiating cold air. You'd better watch out if you meet her.
+
+Daiyosei3b:Huh? Does she hate the cold or something...?
+
+<end>
+
+<ChatID:26>----------------------------------------
+//静葉vs.咲夜
+
+Sakuya0a:Greetings. This is the first time I've ever seen any of the Yaoyorozu no Kami.
+
+Shizuha0a:Oh, is that so? In that case, I suppose I'll have to act the part.
+
+Shizuha3a:Listen, it's dangerous up ahead, so I'm going to stop you for your own good—
+
+Sakuya6a:No thank you. If you plan to get in our way, I'll show no mercy.
+
+Shizuha5c:...
+
+<end>
+
+<ChatID:27>----------------------------------------
+//静葉vs.美鈴
+
+Meiling0a:Maybe autumn leaves really would make a good souvenir for the young mistress.
+
+Shizuha1b:How admirable. But when it comes to souvenirs, most people bring snacks.
+
+Meiling3a:Yes, that's the thing. The young mistress has very particular tastes...
+
+Meiling1a:So which should I bring... Oh, I know, I'll just bring both!
+
+Shizuha5a:...I suppose there's that option too.
+
+<end>
+
+<ChatID:28>----------------------------------------
+//穣子vs.小町
+
+Komachi0a:Yo, autumn god! I see you're staying as busy as ever this year.
+
+Shizuha0a:Oh, you're a shinigami. Why would a resident of hell be working with humans?
+
+Komachi0a:Coincidence, mostly. I just ended up tagging along.
+
+Komachi0a:And please, no need to regard me as a shinigami. Just think of me as good ol' friendly, laid-back Big Sis Komachi.
+
+Shizuha4a:You certainly don't act the part of a shinigami...
+
+<end>
+
+<ChatID:29>----------------------------------------
+//静葉vs.エリー
+
+Elliy0a:So if you're the god of autumn leaves, does that mean you can make them turn red?
+
+Shizuha0a:...? That's a sudden change of topic.
+
+Elliy0a:Well, I'm just wondering why you don't make them red all year round.
+
+Elliy0a:I hear Yuuka can also make flowers from any season bloom whenever she likes, but she hardly ever bothers.
+
+Shizuha1c:I wouldn't know for certain, but it sounds like that person appreciates the four seasons.
+
+Shizuha3a:The autumn scenery has meaning because it's only in autumn. If the leaves were always red, they wouldn't be special!
+
+<end>
+
+<ChatID:30>----------------------------------------
+//静葉vs.くるみ
+
+Kurumi0a:Both the changing colors and the falling leaves sure are pretty. Are those because of you?
+
+Shizuha1c:Yes, exactly. So you can appreciate my work?
+
+Kurumi0a:Of course I do. I even wrote an essay about it with Yuuka.
+
+Kurumi1a:It was titled "Autumn Leaves Are Cool And All, But I Wanna Eat A Roasted Sweet Potato."
+
+Shizuha4a:...I'm not expecting much from it after hearing the title.
+
+<end>
+
+<ChatID:31>----------------------------------------
+//静葉vs.妹紅
+
+Mokou0a:You don't seem to have much combat experience. You really think you can pick a fight with ME with a timid stance like that?
+
+Shizuha0a:I warn people when they're about to do something dangerous. For a god, this is entirely normal.
+
+Mokou3c:Ah, you're just a busybody. Man, seems like that goes for everybody around here...
+
+<end>
+
+<ChatID:32>----------------------------------------
+//天狗Avs.霊夢
+
+KTenguA1a:Last time was one thing, but this time I'm getting my article!
+
+Reimu1a:Sheesh, you're annoying. I'm gonna smack you down if you keep getting in my way!
+
+<end>
+
+<ChatID:33>----------------------------------------
+//天狗Avs.魔理沙
+
+KTenguA1a:You seem kinda ordinary. I'm not getting a scoop out of you, that's for sure!
+
+Marisa6b:You don't get it at all, do you? Writing ordinary articles about ordinary stuff is what matters most.
+
+KTenguA2a:Ugh, that sounds so boring!
+
+<end>
+
+<ChatID:34>----------------------------------------
+//天狗Avs.慧音
+
+KTenguA1a:There she is! The beauty of the bamboo forest!
+
+Keine1a:...You're not going to keep throwing me off with that line. I'm teaching you a lesson this time!
+
+<end>
+
+<ChatID:35>----------------------------------------
+//天狗Avs.アリス
+
+KTenguA3a:Now this is what I call an excellent photography subject!
+
+Alice0a:Photography? What are you talking about?
+
+KTenguA0a:You know, taking pictures. That's kind of secondary to what I'm actually here for, of course...
+
+<end>
+
+<ChatID:36>----------------------------------------
+//天狗Avs.ルーミア
+
+Rumia0a:I was wondering, is it fun writing for a paper?
+
+KTenguA1a:Of course it us! If you write an article, you get attention from everyone!
+
+Rumia4a:...Is that really an answer?
+
+<end>
+
+<ChatID:37>----------------------------------------
+//天狗Avs.大妖精
+
+KTenguA2a:Hmm, nah, fairies just don't make for exciting articles.
+
+Daiyosei2c:Huh? Do they have to be exciting...?
+
+<end>
+
+<ChatID:38>----------------------------------------
+//天狗Avs.咲夜
+
+KTenguA1a:What's this? I've spotted a woman wearing some weird clothing!
+
+KTenguA0a:So, is that the latest fashion? Mind if I take a photo?
+
+Sakuya5b:This is the precious uniform I received from my mistress. It's not for display.
+
+<end>
+
+<ChatID:39>----------------------------------------
+//天狗Avs.美鈴
+
+KTenguA1a:Whoa there, showing some fanservice with that leg, are we?
+
+Meiling3a:Excuse me? Fanservice...? It's just easy to move in.
+
+KTenguA3a:That's okay by me. C'mon, gimme a nice aggressive high kick!
+
+Meiling3a:Hmm, that sounds awkward... Would any kick suffice?
+
+<end>
+
+<ChatID:40>----------------------------------------
+//天狗Avs.小町
+
+KTenguA1a:I sense the presence of a slacker!
+
+Komachi0a:Wow, listen to you. You know, there's a difference between being a slacker and just slacking off.
+
+<end>
+
+<ChatID:41>----------------------------------------
+//天狗Avs.エリー
+
+KTenguA0a:What's with you? You look flashy at first glance, but you're actually kinda plain.
+
+Elliy0a:Shows what you know! My life is WAY flashy.
+
+Elliy1a:Like, um... My pajamas have some flashy embroidery!
+
+KTenguA1a:Talk about a Plain Jane! No scoop here!
+
+<end>
+
+<ChatID:42>----------------------------------------
+//天狗Avs.くるみ
+
+Kurumi0a:I heard from Elly that tengu are super fast.
+
+KTenguA0a:Well, you heard right. Admittedly I'm just upper-middle rank myself.
+
+Kurumi0a:Wow, so there are ones who are even faster...?
+
+<end>
+
+<ChatID:43>----------------------------------------
+//天狗Avs.妹紅
+
+Mokou0a:You again. I guess you didn't learn your lesson the first time.
+
+KTenguA0a:Let's be real, you wouldn't let me off even if I apologized.
+
+KTenguA1a:I'll get a good article out of you, even if it means chasing you to the ends of the Underworld!
+
+<end>
+
+<ChatID:44>----------------------------------------
+//白狼天狗vs.霊夢
+
+HTenguB1a:Hakurei Shrine Maiden! Turn back now and we'll let this go. Otherwise...
+
+Reimu4a:I didn't come all the way out here just to go "Yeah, okay, I'll leave."
+
+Reimu5a:Why are you guys so hung up on keeping me out? Are you really that eager to defend Sanae?
+
+HTenguB1a:All we defend is order on Youkai Mountain. We're only cooperating with the shrine because of the powers that be!
+
+<end>
+
+<ChatID:45>----------------------------------------
+//白狼天狗vs.魔理沙
+
+Marisa2b:You sure are persistent. Are you mountain youkai scared of us or something?
+
+HTenguB0a:Why would we ever be afraid of humans? The only reason we're on the lookout for you is because Lady Kochiya requested it.
+
+Marisa3a:So it's her idea? If she's pushing you around like that, she must be a big deal.
+
+HTenguB1a:Don't get me wrong. We're cooperating with them because of the powers that be. We do NOT answer to them!
+
+<end>
+
+<ChatID:46>----------------------------------------
+//白狼天狗vs.慧音
+
+Keine0a:You're a white wolf tengu. Does that make you one of Momiji's companions?
+
+HTenguB0a:Inubashiri? I'm familiar with her.
+
+HTenguB0a:Poor girl can't catch a break. She's been paired up with an especially troublesome crow.
+
+Keine0b:A troublesome crow...? Could it be that tengu we met this past summer?
+
+<end>
+
+<ChatID:47>----------------------------------------
+//白狼天狗vs.アリス
+
+Alice0a:I'm actually getting used to fighting tengu now.
+
+HTenguB1a:Wow, someone's cheeky. There's no "getting used" to the way we fight!
+
+Alice0c:Research can let you contend with any enemy. You're free to speak boldly, but have you considered brushing up on our tactics?
+
+<end>
+
+<ChatID:48>----------------------------------------
+//白狼天狗vs.ルーミア
+
+HTenguB0a:You're a low-ranking youkai taking advantage of this human invasion to attack the mountain, hm?
+
+Rumia0a:I'm not "taking advantage" of anything. I'm just tagging along.
+
+Rumia5a:But hey, I might as well get a taste of an upper-ranking youkai while I'm here!
+
+<end>
+
+<ChatID:49>----------------------------------------
+//白狼天狗vs.大妖精
+
+Daiyosei3b:Excuse me, um, have you seen a fairy enter this mountain?
+
+Daiyosei3b:She has a green ribbon, and wears blue clothes...
+
+HTenguB0a:Why would I bother paying attention to random fairies?
+
+HTenguB0a:Besides, even if I did know, why should I tell YOU anything?
+
+Daiyosei3a:*sniffle* That's so mean. You didn't have to say that...
+
+HTenguB2a:Whoa, don't cry! Now you're making me look like a jerk!
+
+<end>
+
+<ChatID:50>----------------------------------------
+//白狼天狗vs.咲夜
+
+Sakuya5b:It's interesting how your shield can release danmaku. Where might I be able to buy one?
+
+HTenguB0a:This was made with kappa technology. It's not something a human could buy.
+
+Sakuya6a:That's a shame. I suppose I'll have to make you give me yours, then.
+
+<end>
+
+<ChatID:51>----------------------------------------
+//白狼天狗vs.美鈴
+
+Meiling1a:I love fighting sturdy opponents. Those are the ones I can punch at full strength!
+
+HTenguB1a:Bold words. I won't be holding back either!
+
+<end>
+
+<ChatID:52>----------------------------------------
+//白狼天狗vs.小町
+
+Komachi0a:The Hakurei Shrine Maiden's sure got it rough. She even has to deal with workaholic tengu.
+
+HTenguB1a:How rude! I'll have you know we carry out our duty faithfully for the good of mountain society...
+
+Komachi0a:Yeah, and that's what makes you a workoholic. What good is all this work gonna do?
+
+Komachi1a:Alright, that's it, I'm gonna hurt you so bad you'll need sick leave. Think about the real meaning of a job while resting in bed!
+
+<end>
+
+<ChatID:53>----------------------------------------
+//白狼天狗vs.エリー
+
+Elliy0a:Oh, this is bad. You're putting way too much strength into this and nowhere near enough speed.
+
+HTenguB0a:...What are you talking about?
+
+Elliy1a:How to swing a weapon properly. You gotta snap it in and out like me!
+
+<end>
+
+<ChatID:54>----------------------------------------
+//白狼天狗vs.くるみ
+
+HTenguB0a:I was not expecting to encounter any children here. But I'm on a mission. Be warned, I'll show you no mercy.
+
+Kurumi1a:Don't make fun of me! I'm way more grown-up than I look!
+
+<end>
+
+<ChatID:55>----------------------------------------
+//白狼天狗vs.妹紅
+
+Mokou0a:Oh, you're a different kind of tengu from the crows. Can YOU guys put up a halfway decent fight?
+
+HTenguB0a:You're rather insulting. You clearly don't know what we're capable of.
+
+Mokou3a:Right back at you, buddy.
+
+<end>
+
+<ChatID:56>----------------------------------------
+//小町増援前に秋姉妹を撃墜
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Minoriko_en)>
+
+Minoriko1a:I haven't lost just yet!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,char_code,==,Shizuha_en)>
+
+Shizuha3a:I can keep going!
+
+</Cond>
+
+<end>
+
+<ChatID:57>----------------------------------------
+//穣子vs.メーコ
+
+Meko1b:Oh, right!
+
+Minoriko0c:Huh?
+
+Meko0c:Tada! A sweet potato! I brought it as a snack.
+
+Minoriko2b:You brought a sweet potato as a snack?!
+
+Minoriko3a:Ooh, I like you! And so a new warrior of autumn has ripened!
+
+<end>
+
+<ChatID:58>----------------------------------------
+//穣子vs.まくら
+
+Minoriko0b:Oh, you're...
+
+Makura0h:Yes? What it is?
+
+Minoriko2c:You're so skinny! Are you eating properly?!
+
+Minoriko0d:C'mon, your big sis here's got some sweet potatoes and she's willing to share.
+
+Makura0g:"Eat up, eat up" is it? You're reminding me a little of Mehko.
+
+<end>
+
+<ChatID:59>----------------------------------------
+//静葉vs.まくら
+
+Makura0f:I deeply, deeply, apologize.
+
+Shizuha2b:If you're going to go that far, can't you just back down?
+
+Makura3a:That, I cannot do. This is the strategy we came up with together.
+
+Shizuha3a:Then don't blame me for what happens!
+
+<end>
+
+<ChatID:60>----------------------------------------
+//静葉vs.メーコ
+
+Meko1a:...If I were in kedama form, I could just sneak in.
+
+Shizuha0b:What was that?
+
+Meko0b:Uh... nothing!
+
+Meko1a:We could be in big trouble if I acted on my own and got caught... We'll do our best, together!
+
+<end>
+
+<ChatID:61>----------------------------------------
+//穣子vs.穣子
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Minoriko3b:Listen to this, I'm—
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Minoriko1b:No need to say it, I can tell. You're my little sister.
+
+Minoriko2a:So what's your name?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Minoriko2c:...Aki, er, Neji Aki.
+
+</nomove>
+
+<end>
+
+<ChatID:62>----------------------------------------
+//穣子vs.静葉
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Minoriko2b:What are you doing, Shizuha?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Shizuha1d:Isn't it obvious? Settling what the true autumn is, once and for all.
+
+Shizuha3a:It's gotta be the red leaves!
+
+Minoriko1b:No, it's the sweet potatoes!
+
+<end>
+
+<ChatID:63>----------------------------------------
+//静葉vs.穣子
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Shizuha5a:I knew it. I'm feeling motivated.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Minoriko2b:With the power of sweet potatoes, I'll dye your autumn in my colors, Shizuha!
+
+Shizuha3a:No, you dye your autumn in mine!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Minoriko1b:With autumn...
+
+Shizuha3a:Control autumn!
+
+<end>
+
+<ChatID:64>----------------------------------------
+//白狼天狗Bvs.メーコ
+
+HTenguB1a:A mere sheep, defying a wolf?!
+
+Meko1d:I'm no mere sheep!
+
+HTenguB2a:What?!
+
+Meko1d:I'm a youkai sheep!
+
+HTenguB1a:That's the same thing, you fool!
+
+<end>
+
+<ChatID:65>----------------------------------------
+//天狗Avs.まくら
+
+KTenguA1b:I found it! A futon youkai!
+
+Makura0f:I'm not a futon youkai though?
+
+KTenguA3a:Does that mean if I tear it off you, you won't be able to move or something?
+
+Makura1c:...I see you have no plans on listening. No matter how you stare, I won't remove it.
+
+<end>
+
+<ChatID:66>---------------------------------------
+//ID:.
+
+Minoriko2a:Can you believe these people? We're trying to help them here!
+
+Shizuha3a:You just don't want to listen, do you? Just remember you brought this on yourselves.
+
+Meiling3a:Um, I'm pretty sure you two attacked us, not the other way around...
+
+<end>
+
+<ChatID:67>---------------------------------------
+//ID:.
+
+Minoriko2a:Can you believe these people? We're trying to help them here!
+
+Shizuha3a:You just don't want to listen, do you? Just remember you brought this on yourselves.
+
+Meiling0c:Say, they mentioned having some secret technique. What was the deal there?
+
+Sakuya5b:Who knows? We defeated them before we could see it.
+
+<end>
+
+<ChatID:68>---------------------------------------
+//秋姉妹vs.レティ（C19）
+
+Shizuha3a:Winter! This is not a drill, it's winter!
+
+Minoriko1b:A pesky season-thief just turned up!
+
+Letty4b:Why would want to disrupt the cycle of the seasons?
+
+Letty1a:Not that you two would ever listen. How about I cool your heads for you?
+
+<end>

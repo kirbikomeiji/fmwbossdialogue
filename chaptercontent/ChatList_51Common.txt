@@ -1,0 +1,1758 @@
+﻿○共通第五十一話「闇に沈む怨嗟の糸
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=9,FROM=地底入り口,TO=地底入り口,name=Underworld Entrance,icon=4>
+
+<BG=*bg_talk_Seirensen_Bridge_Chitei.png,fade=0,color=1,title=*bg_Seirensen_Bridge,bgm=bgm_talk_ningyo>
+
+Akyu1a:Carefully, please. Be veeery careful.
+
+Murasa1b:I know, I know. I'll try not to run into any rocks.
+
+Ichirin0d:I never thought we'd be coming back to the Underworld like THIS.
+
+Ichirin0a:I'm surprised the path we used to get the surface is still usable too. 
+
+Suika3a:This place is close to the surface, so I bet no one ever bothered to come plug the hole. 
+
+Aya1a:But this place is even darker and more depressing than I expected.
+
+Aya5a:That's clearly gonna reflect the personalities of the youkai who live here.
+
+Hatate4a:I hope we can just finish up down here and get out before we run into anyone.
+
+Akyu3c:Well, this is a surprise. I would have expected you two crow tengu to be jumping with joy over the chance to interview new people. 
+
+Aya5a:I thought about it some, but I just can't work up the mood for it.
+
+Momiji5a:Now that we're breaking the noninterference pact, we should remain on our best behavior. 
+
+Eirin0d:You seem to be very cautious about this. Is this noninterference pact of yours really so important?
+
+Eirin0a:Then again, we don't know much about what kind of place the Underworld is...
+
+Yukari0a:...To put it simply, the Underworld is a subterranean realm isolated from the surface.
+
+Yukari1a:Its origins can be traced back to when the oni all left the surface en masse to settle in the ruins of Hell. 
+
+Kaguya6a:All of them? Does that include you too, Suika? 
+
+Suika3d:Yeah, I guess. This place was supposed to be a new home for the oni.
+
+Suika0a:But nowadays it's just a nest for all the most hated youkai. 
+
+Kaguya2d:Why are they so universally hated?
+
+Yukari0a:There are all manner of them. In some cases, no one likes them because of their powers. In others, their very existence is shunned.
+
+Yukari0b:The one commonality they share is that they find it difficult to coexist with the humans above-ground.
+
+Ran6b:Whether through their power or by instinct, their mere presence on the surface would cause harm.
+
+Ran0b:Had we not segregated them, Gensokyo's continued existence would have been jeopardized.
+
+Eirin0d:I see, so it was a means of crisis management. Very prudent. 
+
+Kosuzu0a:There are many books that describe how dangerous the Underworld youkai are.
+
+Kanako0b:But isn't that reasoning biased toward the surface dwellers?
+
+Kanako0a:I'm sure there must be some youkai with good in them in the Underworld too.
+
+Momiji0a:Maybe so, but at the very least the noninterference pact was a mutual agreement from both sides. 
+
+Eirin1d:So it wasn't a unilateral expulsion of those who would be inconvenient to Gensokyo?
+
+Yukari0b:I couldn't say how the Underworld youkai feel about the issue, and I have no intention of making excuses for it.
+
+Yukari4a:However, I'll admit that as a result, we've been unable to establish cordial relations.
+
+Suwako4b:So you didn't have any better options. Must be tough being the manager. 
+
+Yuyuko2a:I'd say so...
+
+Akyu0b:Anyway, that's the sort of dangerous place we'll be trespassing in.
+
+Akyu0a:We'll need to be even more vigilant than usual.
+
+Yukari1a:If we run into any Underworld youkai, allow me to negotiate first.
+
+Yukari0a:Be sure to pass that on to everyone we have out scouting.
+
+Ichirin3a:Will do. I hope morale doesn't drop from the cold though...
+
+<BG=bg_talk_Chitei.png,fade=1,color=1,title=bg_Seirensen_Deck,bgm=bgm_talk_aoki>
+
+Udonge2b:Brr, it's freezing...
+
+Reimu4a:For crying out loud, isn't this where the hot spring was coming from? Shouldn't it be warmer?
+
+Chen3b:Hey, there's a bat flying around over there! 
+
+Flan3e:Where, where? I wonder what kind of lasers it shoots.
+
+Keine3b:Settle down, you two. We're not here to play.
+
+Rumia0a:Why not? It's the first time we've been to the Underworld.
+
+Mystia3d:The sounds really echo nicely down here. I bet it would great place to sing.
+
+Merlin1a:I can't believe I never thought of that! An all-natural music venue! 
+
+Letty4b:Good grief. Something tells me that won't be happening. 
+
+Alice2b:Don't forget to keep an eye on your surroundings.
+
+Alice0a:If this is a trap, then it's possible we'll be ambushed.
+
+Marisa0b:Right. Just a bit further and the cave should start to open up.
+
+Tewi0b:You know your stuff. Oh right, didn't you come down here before or something? 
+
+Patchouli4a:Correct, although at first we were just lost and didn't realize that this was the Underworld.
+
+Patchouli0a:By the time we noticed, the local youkai had already taken notice of us and we ended up fighting.
+
+Minoriko4a:Hmm, I'd heard about their viciousness through the grapevine, but it sounds like it's really true.
+
+Shizuha0a:So, what were the monsters you saw like?
+
+Shizuha0b:Were they wearing skulls on their necklaces or brandishing sickles and chains? 
+
+Meiling3d:What exactly are you imagining...? 
+
+Shizuha4a:Well, I've only heard stories about the place! I've never actually seen it for myself. 
+
+Marisa0a:It wasn't spiked pauldrons and leather or anything. It was actually pretty normal.
+
+Marisa1b:I mean, sure, the first ones we met were a bucket youkai and that one tsuchigumo...
+
+Nitori1b:Yeah, her name was Yamame. You gotta be careful around her!
+
+Letty0d:Oh, is it someone Nitori knows then? 
+
+Nitori3e:The tsuchigumo used to live on Youkai Mountain way back when.
+
+Nitori1b:They're dangerous creatures that pollute our rivers!
+
+Wriggle3b:A spider youkai, huh? I guess they have bug youkai down here too.
+
+Wriggle3c:So what kind of youkai was she? Since we're both bugs, maybe...
+
+Patchouli4d:She's not the kind that makes many friends.
+
+Patchouli4b:She possesses the power to control diseases. According to what I've read, she can freely inflict incurable infections.
+
+Tewi2a:Ew. Yeah, no thanks...
+
+Wriggle0a:...But still, I'd like to meet her at least once. Since we're down here and all.
+
+Wriggle3c:Even if her power is dangerous, maybe we can reason with her.
+
+Sanae0a:True, since some of us met her before and came away healthy, surely dialogue isn't out of the question...
+
+Nitori1c:No way. Who knows what she'll do to you if you let your guard down?
+
+Nitori1d:We've never gotten along with the tsuchigumo. And I can guarantee they hate us right back. 
+
+Wriggle4b:You're right, that really makes this complicated.
+
+Reimu0f:If we do run into her, do whatever you like. But don't forget why we're down here.
+
+Reimu0a:Focus on figuring out where the vengeful spirits are coming from. We've still gotta clean up that mess.
+
+Youmu1c:True, that's another reason to stay vigilant. 
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP（出撃前）
+
+Yamame0b:...Hm, looks like nothing's out of the ordinary.
+
+Yamame0d:I've been hearing some weird rumors about the groundwater heating up down below though...
+
+<pause>
+
+Kisume3c:Hi again, Yamame.
+
+<Code=(icon_set_direction,Yamame_en,Kisume_en,0)>
+
+Yamame0a:Find anything on your end, Kisume?
+
+Kisume0a:Nope. Nothing unusual anyway.
+
+Kisume3c:Plenty of places where the ground is hot though.
+
+Yamame1d:Maybe they messed up the adjustments down in the Ruins of Blazing Hell.
+
+Yamame0b:Well, how about we stop worrying about it and just head home for the day?
+
+Kisume3a:Oh, in that case I found a blocked off old well nearby. Is it okay if I go check it out?
+
+Yamame0b:Better not. If it leads to the surface then that'll be nothing but trouble.
+
+Yamame1d:...!
+
+<Code=(icon_set_direction,Yamame_en,FD_RIGHT,0)>
+
+<pause>
+
+Letty0c:The cave really did open up.
+
+Alice1c:Right. First we need to check out our surroundings.
+
+Sunny0d:Hey, over there, that's...
+
+Kisume2b:Yamame! It's a big boat from the direction of the surface!
+
+Yamame0b:I can see that. And are those surface dwellers around it?
+
+Minoriko4a:I guess we got caught right away. Isn't that...?
+
+Nitori1b:Yeah, it's the tsuchigumo we were just talking about!
+
+Udonge1c:Bridge, do you read me? Multiple Underworld youkai sighted, dead ahead!
+
+Kosuzu2a:Um, yes, copy that! We see them as well!
+
+Tewi4b:Okay, what's the play? I can't exactly tell how they're gonna treat us...
+
+Yukari0b:First, allow me.
+
+<pause>
+
+Kisume2b:...! Someone came out!
+
+Keine0a:You're going to talk to them for us, Yukari?
+
+Yukari0a:Well, we certainly haven't come here to start a war with the Underworld.
+
+Yukari0b:Besides, I'm acquainted with those youkai. There should be ample room to negotiate.
+
+Yamame2b:Sage of the surface, I can't believe you came this far down!
+
+Yukari0a:It's been quite some time, tsuchigumo Yamame Kurodani and tsurube-otoshi Kisume.
+
+Yukari1a:We haven't met since spring of last year, but do you remember me by any chance?
+
+Kisume4b:Of course we do. It's not every day that we get a visitor like that...
+
+Yukari0a:We're on an investigation that has taken us into the Underworld.
+
+Yukari0a:I'd very much like it if you could let us by peacefully.
+
+Yamame1d:An investigation? What could you need THAT many people to investigate?
+
+Yukari0a:Currently, an unprecedented amount of vengeful spirits are erupting onto the surface from below ground.
+
+Yukari0b:We believe that the cause of this lies in the Underworld.
+
+Kisume0b:Vengeful spirits on the surface...? First I've heard of that.
+
+Yamame0d:Aren't you just using that as a lame excuse to keep an eye on the Underworld?
+
+Yukari0b:Not in the least. It's an emergency, which is the only reason—
+
+<pause>
+
+Ichirin1d:...!
+
+Murasa1b:We're surrounded by hell crows?! And they look angry!
+
+Momiji1a:It seems our presence here has provoked the youkai!
+
+Yamame0a:There's too much surface stench here now. This was bound to happen.
+
+Yamame1a:You're not supposed to be here, so go on and skedaddle!
+
+Kisume1b:We can't just sit back and let you walk by!
+
+Keine2a:Rgh, it seems like negotiations have broken down...
+
+Yukari0b:...I suppose violence is the only resolution left to us now.
+
+Akyu1a:Okay, everybody, deploy!
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP（出撃後）
+
+Sho4a:I'd have preferred to settle this with a reasonable discussion...
+
+Lunasa0b:It's almost as if we're being rejected out of instinct, rather than through reason.
+
+Yamame4a:You people just don't learn. You waltz into the Underworld like you own the place.
+
+Yamame5d:I'll give you an Underworld welcome. Enjoy it on your way to the next life!
+
+<end>
+
+<ChatID:3>---------------------------------------
+//2PP
+
+Shizuha4a:I guess I was naive to think they'd let us through if we explained ourselves.
+
+Hina0c:I suppose this is what Yuuka meant when she was talking about the seeds that had been planted.
+
+Hina1b:All sorts of bad luck has piled up here, leaving it full of a strange misfortune.
+
+Yamame5b:You're talking like it just kind of happened.
+
+Yamame5a:It was you surface youkai that dumped all this stuff here, wasn't it?
+
+Nitori1d:Hey, YOU polluted the river first.
+
+Nitori2c:Do you even know how much everyone on the mountain has suffered because of that?
+
+Yamame4a:Oh, you're that kappa. Yeah, I don't do that whole playing nice thing.
+
+Luna4a:...Umm, it doesn't sound like she's going to hear us out.
+
+Luna4b:Maybe the surface and Underworld youkai will never get along.
+
+Wriggle0b:...
+
+Wriggle0a:But don't you have friends you get along with?
+
+Yamame1d:Huh? Who're you?
+
+Wriggle0a:I'm Wriggle, a bug youkai from the surface.
+
+Wriggle3c:On the surface, we bugs get by by helping each other out. If you're a bug youkai too, then surely...
+
+Yamame4c:That's just the opinion of a brat who can't survive without leeching off others.
+
+Wriggle1c:...!
+
+Yamame0b:Where does some know-nothing toddler like you get off calling yourself the same as me?
+
+Yamame1c:How about you stop talking like you know the first thing about us?
+
+Wriggle4d:I-I... That wasn't...
+
+<end>
+
+<ChatID:4>---------------------------------------
+//地獄鴉と初戦闘
+
+Hatate4a:How dare you mere crows attack us crow tengu!
+
+Hatate1c:Hey, you. You're in my way. Scram.
+
+JKarasu0a:...
+
+Hatate2a:What?! You're ignoring me?!
+
+Meiling1a:Please be careful, hell crows aren't the same as surface crows!
+
+Meiling1b:They're physically stronger and their favorite food is carrion!
+
+Mystia5a:I-I'm opposed to cannibalism!
+
+Sakuya6a:Maybe I could take one home for leftover disposal.
+
+Rumia1a:No way, don't waste perfectly good food on a crow!
+
+Momiji1a:This isn't the time to chat, people. Here it comes!
+
+<end>
+
+<ChatID:5>---------------------------------------
+//キスメ初戦闘
+
+Kisume0b:This might be the first time I've seen so many surface youkai at once.
+
+Kisume2a:But I've gotta pull my weight and fight like Yamame!
+
+Hatate6a:Who is this youkai anyway? The avatar of a bucket?
+
+Akyu1a:No, she's an extremely terrifying youkai called a tsurube-otoshi!
+
+Akyu1a:When you're walking along on dark nights, she'll suddenly fall from above and hit your head.
+
+Sanae5c:That IS pretty scary.
+
+Merlin3d:Sounds like quite a performance for someone who looks and acts so shy.
+
+Kisume4a:...It sounds like you're not taking me seriously, but I'm an Underworld youkai too!
+
+Kisume1d:Let your guard down and your head will be feeling it in the morning!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//ヤマメ初戦闘時
+
+Youmu1c:Now that we've closed the distance, I wonder what sort of attack she has in store for us...
+
+Yamame0d:A human from the surface? If you had just gotten lost, I would've had a warmer welcome for you!
+
+Yamame5d:But it's your bad luck that you were traveling with these surface youkai!
+
+Aya5a:Good grief, I knew us coming along could only backfire.
+
+Nitori1b:Watch out everyone! Yamame's starting her attack!
+
+<end>
+
+<ChatID:7>---------------------------------------
+//キスメ通常撃破
+
+Kisume4b:Oof, you're strong...
+
+Kaguya3c:They even have a youkai in a bucket. I knew the Underworld would be entertaining.
+
+Kaguya3d:What do you think of taking this bucket back with us, to decorate the mansion with?
+
+Eirin1d:It wouldn't match our other decor, so I think something else would be more appropriate.
+
+Tewi3d:It's a crazy rare find though, so I bet we could sell it for a lot.
+
+Mokou3c:...The Underworlders may be vicious, but the moon crew could give them a run for their money.
+
+Udonge3a:Tewi's an Earth rabbit. I may be a moon rabbit, but I have the good sense to know—
+
+Kisume0b:Wait, the moon? There are people from the moon up there too?
+
+Kaguya0a:Yes, though until recently we've been hiding ourselves.
+
+Kisume0a:Oh, wow. I had no idea...
+
+Keine0a:Could it be that you're curious about the surface?
+
+Kisume2b:N-No way! We're getting along just fine down in the Underworld.
+
+Kisume3c:Who wants to go to the surface when I could hang out here with Yamame? That's way more relaxing.
+
+Elliy3a:Looks like Underworld youkai are no strangers to burning friendship.
+
+Kisume2a:And that's exactly why we're gonna protect our homes!
+
+<end>
+
+<ChatID:8>---------------------------------------
+//キスメスペカ１撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Kisume5b:Eep!
+
+Yamame2b:You okay, Kisume?
+
+Kisume4b:Yeah, this bucket is pretty sturdy...
+
+Kisume4b:But it looks like that's it for me. Sorry, Yamame.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Kisume4a:Ugh, they got away.
+
+Yamame0b:I'm not sure your bucket can take much more of that.
+
+Yamame0a:Get outta here, while I take care of the rest of these goons.
+
+Kisume4b:Okay. Thanks, Yamame.
+
+</Cond>
+
+<end>
+
+<ChatID:9>---------------------------------------
+//ヤマメ通常撃破
+
+Yamame0b:Hmph. I can see why you're willing to just brazenly march into the Underworld.
+
+Momiji2a:What a tough opponent. So this is the power to manipulate diseases...
+
+Yukari0b:This very danger is why we sealed these youkai in the Underworld.
+
+Yukari2a:Yamame's abominable power is one we could never permit on the surface.
+
+Kurumi1a:Makes sense. It would be awful if there was an epidemic on the surface.
+
+Yamame2b:Do you even hear yourselves? We're just minding our own business, living locked up in the Underworld.
+
+Yamame4c:Or what, were we supposed to consider you merciful for not completely exterminating us?
+
+Nitori2a:Er, nobody said that...
+
+Wriggle1c:...But Yamame. Do we really have to fight?
+
+Mystia4b:You still haven't given up on talking to her, Wriggle?
+
+Wriggle0b:I just can't imagine her as a bad youkai.
+
+Wriggle3b:We're all youkai, so we should be helping each other out...
+
+Yamame0d:Oh, for crying out loud... How naive can you get?
+
+Yamame0b:Even if we did act all chummy here, it wouldn't make the history between the surface and Underworld just disappear.
+
+Yamame4a:Eventually things would get out of hand, and any friendships would get abandoned.
+
+Lunasa0a:So you're saying that one or two people getting along isn't going to meaningfully change anything?
+
+Yamame5a:Of course. There's no such thing as hope down here.
+
+Yamame5e:Let me show you just how deep this abyss you're peering into goes!
+
+<end>
+
+<ChatID:10>---------------------------------------
+//カンダタロープ撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1) && (FIND_UNIT,Kisume_en,enemy,==,-1)>
+
+Yamame2a:Ugh! Well, I guess I AM up against a Youkai Sage and her entourage...
+
+<nomove>
+
+<Code=(cursor_jump,160,368,1)>
+
+Kisume2b:Yamame!
+
+</nomove>
+
+<pause>
+
+Yamame4a:I got out-fought by surface youkai. I must be really losing my touch.
+
+Letty1a:You did well, but our teamwork pulled through in the end.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1) && (FIND_UNIT,Kisume_en,enemy,!=,-1)>
+
+Yamame2a:Ugh! Well, I guess I AM up against a Youkai Sage and her entourage...
+
+Kisume2b:Yamame!
+
+<pause>
+
+Yamame4a:I got out-fought by surface youkai. I must be really losing my touch.
+
+Letty1a:You did well, but our teamwork pulled through in the end.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+<pause>
+
+Kisume4a:Yamame, are you hurt?
+
+Yamame0b:I'm good. Just wore myself out.
+
+Yamame4a:I got out-fought by surface youkai. I must be really losing my touch.
+
+</Cond>
+
+Reimu0f:You know, you've been ranting about the surface this and the Underworld that, but none of that stuff matters to us.
+
+Reimu0a:It's my job as a human to exterminate youkai who do anything bad. That's it.
+
+Daiyosei3b:...Plus, I'd like this to be the last time we fight.
+
+Yamame4a:This again? You're wasting your breath.
+
+Yamame0c:The rift between the surface and the Underworld is too deep to allow what you want.
+
+Wriggle1c:Maybe, but you'll never know if don't TRY.
+
+Wriggle0a:I don't know what's going to happen in the future, and you don't either.
+
+Kisume0b:The... future?
+
+Yamame0d:Have YOU considered what comes next?
+
+Yamame4a:...Fine, whatever, do what you like. We fought, you won, so I'm not gonna get in the way of this "investigation" of yours or whatever.
+
+Sanae0c:Thank you very much. In that case, we'd like to ask a few questions about the vengeful spirits.
+
+Marisa1b:Which place in the Underworld seems like it would have spirits popping out of it?
+
+Yamame1d:No clue. All I know is that nothing strange has been happening around here.
+
+Yamame0b:Vengeful spirits don't really hang out near the entrance anyway.
+
+Kanako1d:Is that so? I suppose we'll need to proceed deeper in then.
+
+Suwako0d:Then, have you heard anything about any kind of spirit incident, or about anyone manipulating the spirits?
+
+Yamame1b:That's not ringing a bell either. How about you, Kisume?
+
+Kisume0a:I don't know anything either, but if you wanna know about spirits then you should ask someone at the Palace of Earth Spirits.
+
+Kisume0b:They handle all of the spirit management stuff...
+
+Yukari0b:...So it comes to the Palace of Earth Spirits after all.
+
+Keine1a:We should get moving then. We don't have time to relax.
+
+Keine3a:While we may have had a good reason, I'd still like to apologize to you two for trespassing in the Underworld.
+
+Yamame1d:Didn't I tell you to do whatever you want? Sounds like you were telling the truth about that spirit problem too.
+
+Yamame0a:It'll get even more dangerous up ahead. Good luck.
+
+Ichirin3a:Thanks for the warning. Shall we get going then?
+
+<pause>
+
+Yamame0b:...Looks like they're gone.
+
+Kisume0a:Those youkai weren't as bad as I expected.
+
+Yamame4b:Not you too, Kisume. They're from the surface, you know.
+
+Kisume3c:Yeah, but it didn't seem like they hated us or anything.
+
+Kisume0a:The firefly girl was talking like she wanted us to be better friends in the future.
+
+Yamame4c:...Her. As cheeky as she sounded, her eyes were serious.
+
+Yamame0a:I never thought I'd hear someone seriously talk about the future for the surface and the Underworld.
+
+Kisume3c:...Maybe the surface youkai are a bit different from how they used to be.
+
+Yamame0a:I don't know about that, but why don't we keep an eye on what they're up to?
+
+Yamame4c:This is only the first stop in the Underworld, after all. How exactly are they planning on resolving this spirit incident of theirs?
+
+<end>
+
+<ChatID:11>---------------------------------------
+//ADVB
+
+<BG=bg_talk_Seirensen_Bridge_Chitei.png,fade=0,color=1,title=bg_Seirensen_Bridge,bgm=bgm_talk_ningyo>
+
+Meiling3d:...Whew, at least we made it through. 
+
+Koakuma4a:Given who our opponent was, I'm worried that we brought back some germs... 
+
+Eirin0a:If anyone's feeling out of sorts, speak up. I've mixed some basic medicine. 
+
+Shizuha1c:Ooh, that's good to hear. It's great having a capable doctor with us.
+
+Akyu0a:That's very reassuring, but everyone, please wash your hands and rinse your mouths. Just in case.
+
+Akyu0b:I have a fragile constitution, and any kind of illness would be very unpleasant for me.
+
+Patchouli4c:You seem tougher than you claim, though. 
+
+Kosuzu3d:You think so too, Patchouli?
+
+Elliy0a:Still, I can't believe we got tag teamed by a pair of youkai. The Underworld doesn't mess around!
+
+Elliy4a:Are we gonna have to keep fighting without rest from here on out? 
+
+Alice0a:We're uninvited guests. You should be prepared for at least that much. 
+
+Daiyosei5d:...But the Underworlders seemed nicer than we'd heard.
+
+Daiyosei0b:Yamame even told us all sorts of things in the end... 
+
+Merlin3a:I heard they were nothing but bad news, but now that we've fought, I'm wondering if there's more to them than that. 
+
+Nitori1c:...
+
+Hina0a:Nitori, you look like you're thinking about something.
+
+Nitori3b:Yeah, I've actually lost a bit of confidence.
+
+Alice0a:How do you mean? 
+
+Nitori0b:It's true that the tsuchigumo have been a real pain to the kappa.
+
+Nitori1d:But, after hearing Wriggle and Yamame's conversation, I'm not so sure that the current status quo's all that great.
+
+Letty0c:Are you thinking that maybe you could get along better, regardless of your history?
+
+Nitori4b:Yeah, exactly. I'd never even considered being friends with a tsuchigumo before.
+
+Nitori3c:But that's because in mountain society, we try to follow rules to the letter...
+
+Keine0c:...Yamame mentioned something similar, that even if a few people's attitudes changed, it wouldn't affect the bigger picture.
+
+Keine4a:I'm sure it's precisely because she knows how deep the gulf between us is that she has no hopes for relations with the surface.
+
+Minoriko0a:But that doesn't mean we have to hate each other, right?
+
+Minoriko3b:It's exactly these sorts of grassroots movements that sow the seeds for...
+
+Yukari0b:I understand your feelings, but you should focus on resolving the incident.
+
+Yukari5a:Matters between the Underworld and the surface aren't easy to make judgments about.
+
+<nowindow>
+
+<Code=(demo_wait,45)>
+
+<single>
+
+</nowindow>
+
+Lyrica1b:My, my, my, sounds like they're talking about complicated stuff over there. Again. 
+
+</single>
+
+Marisa0d:Yukari always gets like that whenever people bring up the Underworld.
+
+Marisa0b:It's like she's tense... Like there's no room for fun banter.
+
+Momiji0a:That just goes to show how seriously she takes this, I'm sure. 
+
+Hatate4a:What if she's soured on all relations with the Underworld?
+
+Hatate0a:I mean, they've been making things pretty hard for her.
+
+Yuyuko1b:No, I'm sure that's not it. 
+
+Youmu2b:Lady Yuyuko...? 
+
+Sanae0g:What exactly do you mean by that?
+
+Sanae0a:She's making it pretty apparent that this Underworld matter is troubling her deeply.
+
+Yuyuko0a:Perhaps so, but if she truly didn't want them around, she would have shunted them off to the Outside World.
+
+Yuyuko1a:But she hasn't. I think that's because she still considers the Underworld to be part of Gensokyo.
+
+Sho0c:So she's being overly cautious with all of this because she's concerned on their behalf? 
+
+Reimu0f:Then why doesn't she just say so?
+
+Reimu4a:It's simple enough to understand. Then again, it IS a habit of hers to try to take on tough problems all by herself...
+
+Yuyuko1c:Yes, and that's why our best options here are being supportive or taking action from the sidelines. 
+
+Sunny0d:But it's Yukari we're talking about. What could we even do for her? I've never even thought about it. 
+
+Shizuha0b:We're talking about re-thinking our relationship with the Underworld. We can't just leave that up to someone else.
+
+Shizuha0a:As a part of this investigation, we have a stake in that relationship.
+
+Aya0a:Looking at it from another angle, isn't this an opportunity to see the relationship from both ends with our own eyes?
+
+Aya3a:If it is, sign me up. This humble reporter has her notepad ready to go.
+
+Udonge4c:That's fine, but don't forget why we came down here in the first place.
+
+Udonge4a:We're heading to the Palace of Earth Spirits next, right? To ask about the vengeful spirits?
+
+Youmu0b:Oh, right. I wish we had a map...
+
+Suika1a:If that's the problem, then I can lead the way.
+
+Suika0a:The Palace was thataway... I think.
+
+<end>
+
+<ChatID:12>---------------------------------------
+//全滅時
+
+Akyu2a:Oh no, the Palanquin Ship!
+
+Yamame5d:Looks like this place'll be your grave.
+
+Yamame5f:What do you think will happen to you after that? Will you become vengeful spirits? Or maybe get devoured by the dead...?
+
+Kisume1d:The Underworld's a fun place. Have fun dying!
+
+<end>
+
+<ChatID:13>---------------------------------------
+//ヤマメvs.霊夢
+
+Yamame0e:I've heard the rumors about you. You're that human shrine maiden.
+
+Yamame0a:They say that no matter what kind of incident happens up top, you'll be right there resolving it.
+
+Reimu0a:Up top or down here, if a youkai's up to no good then I'll exterminate them.
+
+Reimu1a:And that includes anyone who gets in the way of my investigation. Prepare to get squished!
+
+<end>
+
+<ChatID:14>---------------------------------------
+//ヤマメvs.魔理沙
+
+Yamame0d:Aren't you one of the humans who slipped into the Underworld the other day?
+
+Yamame0a:You never learn, do you? Here you are, back in the Underworld.
+
+Marisa0a:Look, this time is special. There's an incident going on up above.
+
+Marisa2b:We'll get this wrapped up real quick-like if you stop interfering in our investigation!
+
+<end>
+
+<ChatID:15>---------------------------------------
+//ヤマメvs.早苗さん
+
+Sanae0g:So this is the person Marisa ran into before.
+
+Sanae0g:Of course, acting combative is hardly different from what a surface youkai would do...
+
+Yamame1c:What are you muttering to yourself about over there?
+
+Sanae6b:N-Nothing. Here I come!
+
+<end>
+
+<ChatID:16>---------------------------------------
+//ヤマメvs.アリス
+
+Yamame0a:I remember that face. You're that youkai I fought before.
+
+Alice2b:I am, yes. At the time, we were just trespassing by accident...
+
+Alice0a:The surface is going to suffer if we don't get to the bottom of what's happening. Would you mind letting us investigate in peace?
+
+Yamame1c:You're asking an Underworld youkai to play nice? You're one naive lady!
+
+<end>
+
+<ChatID:17>---------------------------------------
+//ヤマメvs.妖夢
+
+Youmu0a:I've heard that tsuchigumo control diseases.
+
+Yamame1b:You heard right. Not exactly something that can be cut by a sword.
+
+Youmu1a:My Hakurouken can cut through confusion. I'll cut through disease as well!
+
+<end>
+
+<ChatID:18>---------------------------------------
+//ヤマメvs.咲夜
+
+Sakuya0a:If you'll pardon my boldness, doesn't the term "tsuchigumo" basically mean "dirt spider"?
+
+Sakuya0a:Isn't it demeaning? Humans use terms like that, but usually only in a deprecating way.
+
+Yamame0a:Well, aren't you sharp? Just what I'd expect from a human.
+
+Yamame0e:In return, why don't I show you the power of this loathsome youkai!
+
+<end>
+
+<ChatID:19>---------------------------------------
+//ヤマメvs.レミリア
+
+Remilia4a:And here I was wondering what sort of place this "Underworld" was. I can't believe you're so uptight around here.
+
+Remilia0a:A hole in the ground like this is no stage for a vampire like me.
+
+Yamame0b:Yeah, says the person who hates the sun and turns into a freaking bat.
+
+Remilia1a:And yet we vampires still rule the surface. That's just how great we are.
+
+<end>
+
+<ChatID:20>---------------------------------------
+//ヤマメvs.フラン
+
+Flan2f:Spider youkai are nothing like normal spiders, huh?
+
+Yamame0a:Oh, you seem pretty young to have an appreciation for spiders.
+
+Flan4b:There weren't many other things living in the basement of the mansion.
+
+Flan1a:Hee hee hee, they have lots of babies in their bellies.
+
+Yamame4a:...Y'know what, I'm just not gonna take this conversation any further.
+
+<end>
+
+<ChatID:21>---------------------------------------
+//ヤマメvs.美鈴
+
+Meiling1b:Even against someone who wields disease, as long as you give me an opening I can use...!
+
+Yamame1b:Oh? I bet you're thinking you'd never lose in a fistfight.
+
+Yamame5c:Well, this tsuchigumo's about to give you a rude awakening!
+
+<end>
+
+<ChatID:22>---------------------------------------
+//ヤマメvs.パチュリー
+
+Patchouli0b:Tsuchigumo—an archetypal Underworld youkai possessing a very loathsome power.
+
+Patchouli4e:I strongly suggest you be careful to avoid letting Sakuya capture.
+
+Yamame1c:Huh? Where are you going with this?
+
+Patchouli4b:I couldn't take it if she caught you and served you up as a delicacy.
+
+Patchouli4d:Tsuchigumo aren't healthy to eat.
+
+Yamame0b:...If you already know I'm unhealthy, then you could just not eat me.
+
+<end>
+
+<ChatID:23>---------------------------------------
+//ヤマメvs.小悪魔
+
+Koakuma4a:Oh no, what if Miss Patchouli catches some horrible disease?
+
+Koakuma1a:At least I came prepared for this!
+
+Yamame1d:How so?
+
+Koakuma0a:I brought a surgical mask, some extra soap, and...
+
+Yamame4a:Look, I'm not going around spreading disease willy-nilly.
+
+Yamame5b:People with poor constitutions just happen to get themselves infected and grow weaker on their own.
+
+Koakuma4b:That's what I'm afraid of...
+
+<end>
+
+<ChatID:24>---------------------------------------
+//ヤマメvs.紫
+
+Yamame5a:Youkai Sage. What do you think you're doing, strolling into a place like this?
+
+Yamame5g:You do realize that we hate you down here, right?
+
+Yukari0a:I understand your hostility. But we're here out of necessity, for the investigation.
+
+Yukari0a:(...If this vengeful spirit uproar is the result of someone's plan, then the agreement with the surface is already falling apart.)
+
+Yukari0a:(I doubt there are any grudges being held over the incident with the Komeiji sisters, but still...)
+
+<end>
+
+<ChatID:25>---------------------------------------
+//ヤマメvs.幽々子
+
+Yuyuko1a:You were called Yamame, I believe? 
+
+Yamame1c:A phantom from the surface? No, a ghost? 
+
+Yuyuko0a:There's one thing I'd like to ask you. How do the youkai of the Underworld feel about the sages of the surface?
+
+Yamame4a:Huh? Depends on who you ask, but...
+
+Yamame5a:The Sages are basically the ringleaders who decided to cut us off. I doubt you'll find anyone down here ready to play nice with them.
+
+Yuyuko3c:I suppose that makes sense...
+
+<end>
+
+<ChatID:26>---------------------------------------
+//ヤマメvs.藍
+
+Ran0b:This wasn't entirely unexpected, but it's still a shame that we ended up fighting.
+
+Ran6b:It's only logical that we'd need to investigate when the cause of the incident is underground.
+
+Yamame0c:Yeah, we don't care. You still shouldn't make that decision for us.
+
+Yamame0b:You'll find no shortage of youkai down here that would oppose anything a surface youkai said.
+
+Ran4a:But it's so obvious when you look at it logically. Emotions are such a bothersome thing.
+
+<end>
+
+<ChatID:27>---------------------------------------
+//ヤマメvs.ナズーリン
+
+Nazrin4a:Ugh, a tsuchigumo. Just my luck.
+
+Yamame0d:Who're you? You don't look like a regular young'un.
+
+Nazrin0a:Well, I know a thing or two about your situation. Relations with the surface aren't simple at all.
+
+Nazrin0a:My honest advice? Just let us do our investigation.
+
+<end>
+
+<ChatID:28>---------------------------------------
+//ヤマメvs.星
+
+Sho4b:...I would never forget this place. It's where the Flying Granary was buried.
+
+Sho4b:And where Murasa and the others were sealed away, by none other than the will of the surface humans...
+
+Yamame0b:Isn't it a bit late for a post-mortem review?
+
+Yamame0c:The strong survive and the weak die out. Hasn't it always been like that?
+
+Sho1c:...You're not wrong, I admit. But that doesn't mean we should just resign ourselves to that indefinitely!
+
+<end>
+
+<ChatID:29>---------------------------------------
+//ヤマメvs.村紗
+
+Ichirin0a:A tsuchigumo. I wonder how she'll approach...
+
+Akyu0a:You and Murasa don't have many acquaintances in the Underworld, do you? 
+
+Murasa0c:Well, we were sealed here. We couldn't exactly go out for a stroll.
+
+Murasa0c:But I can still sympathize with her in the sense of being an oppressed youkai.
+
+Ichirin0a:...We were originally surface youkai. I wonder how they feel about us. 
+
+<end>
+
+<ChatID:30>---------------------------------------
+//ヤマメvs.諏訪子
+
+Suwako0d:Nitori said you tsuchigumo pollute the rivers. That takes perfectly good homes away from little froggies, you know!
+
+Yamame0c:With a power like this, it's kinda harder NOT to pollute.
+
+Yamame4d:And aren't you giving off your own weird miasma anyway?
+
+Suwako3b:Eh, curses are fine. They only really hurt humans.
+
+<end>
+
+<ChatID:31>---------------------------------------
+//ヤマメvs.文
+
+Yamame0c:A tengu from the surface? Oh yeah, I've heard about someone up there who writes funny articles.
+
+Yamame5a:Don't tell me you're here to make a spectacle out of us for that paper of yours?
+
+Aya5a:Oh no, not at all. Frankly, I didn't want to come down here in the first place.
+
+Aya0a:Once we're done here, I'm OUTTA here. So I'd appreciate it if you could just ignore me.
+
+Yamame5d:Yeah, a likely story. I'll wrap you up in webbing and toss you back to the mountain!
+
+Aya2b:See! This is exactly why I hate dealing with the Underworld!
+
+<end>
+
+<ChatID:32>---------------------------------------
+//ヤマメvs.椛
+
+Momiji0a:Now that it's come to combat, we have no choice but to cross swords with the Underworld.
+
+Momiji5a:Though considering Yukari has her own backers, I probably won't have to write an explanation and apology...
+
+Yamame0a:A surface tengu, huh? If you just scram right away I'll forget I ever saw you.
+
+Momiji3c:Sorry, but I'll have to decline. A shield never retreats and leaves the ones it's protecting undefended.
+
+<end>
+
+<ChatID:33>---------------------------------------
+//ヤマメvs.はたて
+
+Hatate0a:Aw geez, I wonder what people will say about me if they ever learn I went to the Underworld...
+
+Hatate0a:A rotten tengu with a bad personality, a bringer of bad luck, a lawbreaker...
+
+Yamame0c:Sheesh, this is how you surface folk always are.
+
+Yamame0b:To you, us Underworlders are always just "dirty" or something.
+
+Hatate0a:Hey, I never said that. I don't get along with the types of people who say that stuff either.
+
+<end>
+
+<ChatID:34>---------------------------------------
+//ヤマメvs.妹紅
+
+Mokou0a:Loathed by all, driven away from the surface...
+
+Mokou3c:One wrong step and maybe I would have ended up like the rest of you.
+
+Yamame0d:You mean a human like you has been shunned by other humans?
+
+Yamame4a:Those surface dwellers... none of them are innocent, are they?
+
+Mokou0a:It's all in the past now, and they had their reasons. I don't blame the modern humans for it.
+
+<end>
+
+<ChatID:35>---------------------------------------
+//ヤマメvs.慧音
+
+Keine3b:Yamame Kurodani. I had hoped we could perform this investigation without fighting, but you've forced our hand.
+
+Yamame1d:You're acting like you're the reasonable one here, but didn't you come down here with all the rest of 'em?
+
+Yamame1c:You've got no right to say anything after you stepped into OUR territory.
+
+Keine1a:Better than sending Reimu by herself. Us adults have our responsibilities!
+
+<end>
+
+<ChatID:36>---------------------------------------
+//ヤマメvs.穣子
+
+Minoriko2a:Nitori's already said all sorts of things, but I've got my own bone to pick with tsuchigumo.
+
+Yamame0d:A harvest god? How would we have affected you...?
+
+Minoriko1b:The river wasn't the only thing you were polluting. The soil itself was getting mucked up too!
+
+Minoriko1b:This is for all the crops that never grew! This grudge ends here and now!
+
+Yamame1c:You dare try to take out a grudge on an Underworld youkai? You've definitely got some guts.
+
+<end>
+
+<ChatID:37>---------------------------------------
+//ヤマメvs.静葉
+
+Shizuha0a:Once the fallen leaves rot away, they return to the earth. In a certain sense, doesn't that mean that... they become the Underworld's ceiling?
+
+Yamame4a:In a hole this deep, it doesn't matter what they end up as.
+
+Yamame0a:The world you live in and ours are just too different to compare.
+
+Shizuha0b:But soil is soil. I'm sure we're sharing it, somewhere...
+
+<end>
+
+<ChatID:38>---------------------------------------
+//ヤマメvs.レティ
+
+Letty0b:So winter has come here as well... I see that even in this underground world, there are still the four seasons. 
+
+Yamame0a:When the heat escapes it gets cold, and when it builds up it gets hot. That's all it is.
+
+Yamame0a:Don't try to lump the surface and the Underworld together like that. 
+
+Letty0a:Such distinctions are meaningless before nature.
+
+Letty0a:The two places are no different in the sense that the changing seasons still signify the circle of life.
+
+Yamame0c:Well, SOMEONE clearly likes to run their mouth like they know everything...! 
+
+<end>
+
+<ChatID:39>---------------------------------------
+//ヤマメvs.小町
+
+Komachi4b:Man... I finally get a chance to relax in some hot springs, and now it looks like my shoulders are gonna get stiff all over again.
+
+Komachi4a:I just wanna take a day off, drink some tea, and chat with my friends.
+
+Yamame4a:Yeah, I hear that. I was just about to head back to my web for some R&R. 
+
+Komachi1a:Oh, someone gets it. You wouldn't happen to know of any hot springs around here...?
+
+Yamame0e:I'd love to keep chatting, but now isn't really the time. You should swing by again sometime.
+
+<end>
+
+<ChatID:40>---------------------------------------
+//ヤマメvs.萃香
+
+Suika3b:Hey, tsuchigumo. How ya been?
+
+Yamame1c:...! You're Suika Ibuki!
+
+Yamame0b:Haven't seen you around. So you've been with the surface dwellers?
+
+Suika0a:I went out to have a little fun. Then I just kinda stuck around.
+
+Yamame0a:...Sounds just like every oni I know. Nothing stops you girls.
+
+Yamame0d:That reminds me, though—Yuugi Hoshiguma was wondering about you.
+
+Suika6a:Oh yeah? I should have drinks with her again sometime.
+
+<end>
+
+<ChatID:41>---------------------------------------
+//ヤマメvs.雛
+
+Hina0a:You said earlier that the surface had forced all of its misfortune underground, but...
+
+Hina0a:Accepting Gensokyo's misfortune is my duty as a misfortune god.
+
+Yamame0b:True, looks like you could take care of the misfortune that's already built up.
+
+Yamame0d:But what about the sources of that misfortune? Not even you have the power to do anything about those.
+
+Hina0b:Actually, if these people are willing to aid me, then...
+
+<end>
+
+<ChatID:42>---------------------------------------
+//ヤマメvs.ルナサ
+
+Lunasa0a:...From you, it seems like all sound is being absorbed.
+
+Yamame0d:Huh? Sound...?
+
+Lunasa0a:It just gets sucked into your depths, never to return.
+
+Lunasa0a:That's how deep-rooted your experiences are.
+
+<end>
+
+<ChatID:43>---------------------------------------
+//ヤマメvs.メルラン
+
+Merlin0a:Being sick isn't happy at all!
+
+Yamame1c:Happy? What kind of nonsense are you coming into the Underworld spouting?
+
+Yamame1c:Save your babbling for the surface.
+
+Merlin0a:Being happy has nothing to do with either the surface or the Underworld!
+
+<end>
+
+<ChatID:44>---------------------------------------
+//ヤマメvs.リリカ
+
+Lyrica1b:Disease, huh? Not what I'd call a feel-good experience.
+
+Lyrica0a:Seeing someone stuck in bed all day gets me worried.
+
+Yamame4a:Look, I'm not going around spreading disease willy-nilly.
+
+Yamame0d:Do you ghosts even get sick?
+
+Lyrica0a:Good point. Why was I worrying about this again?
+
+<end>
+
+<ChatID:45>---------------------------------------
+//ヤマメvs.永琳
+
+Eirin0a:So this is a tsuchigumo, a youkai that spreads diseases. 
+
+Yamame0b:What's with you? I can smell something, but...
+
+Yamame1c:Wait, I know that smell!
+
+Eirin0a:Indeed, I'm a Lunarian doctor. I cure any and all diseases.
+
+Yamame0e:A natural enemy then. But can the wisdom of the surface really handle my diseases? 
+
+Eirin1a:If you think my wisdom is confined to surface matters, then you are gravely mistaken. 
+
+<end>
+
+<ChatID:46>---------------------------------------
+//ヤマメvs.輝夜
+
+Kaguya0a:So this is what a tsuchigumo looks like. I should get a closer look.
+
+Yamame0d:You wanna get closer? You're one reckless human.
+
+Yamame0a:Scrawny girls like you easily succumb to diseases, you know.
+
+Kaguya0a:No need to worry. I do hate to suffer, but I've got Eirin.
+
+Yamame4b:What's that supposed to mean? Are you surface dwellers touched in the head or something?
+
+<end>
+
+<ChatID:47>---------------------------------------
+//ヤマメvs.鈴仙
+
+Udonge4b:A youkai who spreads disease? Ugh, I'd just as soon not deal with this.
+
+Udonge4b:I don't think I have much to worry about with Master around though.
+
+Yamame1c:Whoa, that body of yours...!
+
+Udonge2b:Huh? What about it?
+
+Yamame0b:Your antibodies are so built up, most diseases wouldn't remotely faze you.
+
+Yamame0c:This isn't normal. Has someone been using you as a test subject?
+
+Udonge3a:I've got no idea what you're talking about...
+
+<end>
+
+<ChatID:48>---------------------------------------
+//ヤマメvs.てゐ
+
+Tewi2a:Ew, I'm up against some disgusting youkai...
+
+Yamame0a:An Earth rabbit? You look young, but you're quite the veteran. 
+
+Tewi0b:I've gotten this far by paying close attention to my health.
+
+Tewi4a:And now I run into a disease youkai? Of all the luck...
+
+<end>
+
+<ChatID:49>---------------------------------------
+//ヤマメvs.にとり
+
+Nitori1b:Hey, tsuchigumo! This time I'm gonna squish you good!
+
+Nitori1b:Even the higher-ups on the mountain told me to watch out for tsuchigumo!
+
+Yamame4a:I haven't broken any of your laws, but fine, whatever.
+
+Yamame5d:If you want a fight, then I'm game. I'll hit you right back!
+
+<end>
+
+<ChatID:50>---------------------------------------
+//ヤマメvs.リグル
+
+Yamame5a:Oh, you're that firefly youkai from before. You were really into that lecture you were giving me.
+
+Wriggle0c:Um, sorry about that. I just suddenly started saying whatever popped into my head.
+
+Wriggle0a:But I really do believe we bug youkai should look out for each other.
+
+Yamame5a:Hmph. Look out for each other?
+
+Yamame5g:Let me ask you something. Do you know how tsuchigumo are born?
+
+Wriggle0c:Huh? What do you mean, how?
+
+Yamame5a:See, you don't know a thing about me. All that talk about looking out for each other is a bunch of idealistic nonsense.
+
+Yamame5g:If you got that, then shut up and get out of my face!
+
+<end>
+
+<ChatID:51>---------------------------------------
+//キスメvs.神奈子
+
+Kanako0b:A bucket youkai... I think Yukari called you Kisume earlier?
+
+Kanako1b:Answer me. What do you think of the non-aggression agreement?
+
+Kisume2b:Huh?! This is a bit sudden...
+
+Kisume0a:I guess it just kind of is what it is. Some youkai can live carefree lives thanks to that agreement.
+
+Kanako0b:(Interesting... She seems to be a fairly down-to-earth youkai like Okuu was.)
+
+Kanako3c:(But I suppose the sharp division is there because not everyone is like her...)
+
+<end>
+
+<ChatID:52>---------------------------------------
+//キスメvs.エリー
+
+Elliy3b:Bucket Girl! Long time no see!
+
+Kisume2b:Whoa, overly friendly much?
+
+Elliy0a:We've met once, good enough. I believe friendliness is extremely important.
+
+Kisume1b:Maybe for surface youkai. I think it's better to give people some space...
+
+Elliy4b:Now that you mention it, there's that whole agreement thing too, so maybe this was a bit weird.
+
+Elliy1a:Okay, I get it. I won't call you Bucket Girl anymore. I'll just stick with Kisume.
+
+Kisume2b:Uh... that wasn't really my point...
+
+<end>
+
+<ChatID:53>---------------------------------------
+//キスメvs.くるみ
+
+Kurumi3d:Hello Kisume, I'm Kurumi!
+
+Kisume2b:Huh? You're introducing yourself?
+
+Kurumi3c:I'm a bit shy myself, so I'm just so happy to meet someone like me.
+
+Kurumi3d:We should go to the surface and look for ant colonies together sometime!
+
+Kisume4b:A-Ants? I'd rather go explore an abandoned well or something...
+
+Kurumi3b:A well, huh? That sounds fun too.
+
+<end>
+
+<ChatID:54>---------------------------------------
+//キスメvs.チルノ
+
+Cirno1a:That thing you're riding in is so cool!
+
+Kisume3b:Wow, you think?
+
+Cirno0a:And you look tougher than anyone in my group...
+
+Cirno3b:I know! Why don't you join our team?
+
+Kisume2b:Y-Your team? This is so sudden...
+
+<end>
+
+<ChatID:55>---------------------------------------
+//キスメvs.大妖精
+
+Daiyosei5e:Ah! Um... Hello there.
+
+Kisume2b:Uhh, hello to you too.
+
+Daiyosei5d:...
+
+Kisume3a:...
+
+Daiyosei5c:(What do I do? This is my first time talking to a girl from the Underworld. I'm so nervous...)
+
+Kisume0b:(It's a fairy from the surface... What should I talk about?)
+
+<end>
+
+<ChatID:56>---------------------------------------
+//キスメvs.三月精
+
+Kisume0a:These fairies came down here before too... right?
+
+Sunny1a:Youkai spotted! Keep your eyes forward, everyone!
+
+Star1a:No, Sunny. Shouldn't we be looking up?
+
+Star1b:She's supposed to drop down on us from above with her bucket.
+
+Luna1c:Good thing I have a helmet...
+
+Sunny1c:Hey, not fair Luna! Give me one too!
+
+Luna6a:No! I only brought one!
+
+Kisume1b:...
+
+Kisume4a:(They're such good friends. It makes me feel a little bad about spooking them.)
+
+<end>
+
+<ChatID:57>---------------------------------------
+//キスメvs.ルーミア
+
+Rumia0a:Are you an Underworld youkai?
+
+Kisume1d:Y... Yeah! You're never getting past me! 
+
+Rumia0a:...
+
+Kisume2b:Huh, no reaction?!
+
+Kisume4a:(What's she thinking? I can't tell...) 
+
+Rumia5a:That bucket looks like it'd be nice to chew on. 
+
+Kisume1b:Huh? What's wrong with you?!
+
+<end>
+
+<ChatID:58>---------------------------------------
+//キスメvs.ミスティア
+
+Mystia1b:What a niiice bath that waaas... ♪
+
+Kisume2b:What's with that song?
+
+Mystia3c:Back on the surface just now, I had a really nice dip in a hot spring.
+
+Mystia3d:So once you showed up in that bucket, I can't help but sing! Ah-hah-hah... ♪
+
+Kisume3a:...That sounds kinda wrong.
+
+<end>
+
+<ChatID:59>---------------------------------------
+//キスメvs.リグル
+
+Wriggle0a:You're another Underworld youkai, just like Yamame.
+
+Wriggle0a:You were talking earlier, so do you two know each other? 
+
+Kisume3c:Um, yeah. Yamame is my friend.
+
+Kisume3c:Whenever I'm in trouble, Yamame's always got my back. 
+
+Wriggle3b:So she looks out for her friends. She can't be a bad person. 
+
+<end>
+
+<ChatID:60>---------------------------------------
+//キスメvs.リリー
+
+LilyW0d:It's faint, but I can feel a bit of spring sleeping here too.
+
+LilyW0d:The spring in the Underworld is pretty different from the spring on the surface, right?
+
+Kisume0a:I don't know what it's like on the surface, so how would I know...?
+
+Kisume0a:I admit I'm a little jealous all of you get to admire cherry blossoms under the sun, though.
+
+<end>
+
+<ChatID:61>---------------------------------------
+//キスメvs.橙
+
+Kisume2b:This youkai looks nimble and hard to catch...
+
+Chen2b:This youkai looks hard and tough...
+
+Kisume1b:...I won't lose!
+
+Chen1a:Me neither!
+
+<end>
+
+<ChatID:62>---------------------------------------
+//キスメvs.プリバ
+
+Lunasa0a:...Your sound is, the sound of a bucket.
+
+Kisume2b:What...?
+
+Merlin1a:Like, booong! A great sound!
+
+Lyrica1a:If you hit buckets in the bath, they're like drums!
+
+Kisume1b:Could you not involve me in your rambling?
+
+<end>
+
+<ChatID:63>----------------------------------------
+//ヤマメvs.まくら
+
+Makura0g:Yes, we're violating the agreement, but we have good reason.
+
+Makura2b:Could you please let us through, for the humans of the surface?
+
+Yamame0c:And why should we have to do anything just 'cause you're sad and worried about something?
+
+Makura0f:I suppose that's logical from your standpoint...
+
+Makura1c:But I'm sorry, we'll do this by force if we have to.
+
+Yamame5g:Well, I hope you had fun pretending we had a say in this.
+
+<end>
+
+<ChatID:64>----------------------------------------
+//ヤマメvs.メーコ
+
+Yamame0d:You do know about the agreement, right?
+
+Meko0b:Um, uh, well...
+
+Yamame1d:Sheesh, they aren't even telling the next generation up there? What the hell is that Sage doing?
+
+Yamame0d:Look, we've got a non-interference agreement between the surface and the Underworld. And when you break it...
+
+Meko4c:...What? What happens?
+
+Yamame5d:Then you're dinner!
+
+Meko5b:Hawawawa!
+
+<end>
+
+<ChatID:65>----------------------------------------
+//ヤマメvs.ヤマメ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Yamame0d:Sheesh, a lookalike, huh?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Yamame0e:You look pretty happy about it though?
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Yamame3c:I mean, c'mon, you don't get something this crazy every day, right? You've gotta at least have the skills to make this fun.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Yamame0e:Good point. In that case...
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Yamame5e:Since we're here, let's make this worth remembering!
+
+</nomove>
+
+<end>
+
+<ChatID:66>----------------------------------------
+//キスメvs.キスメ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Kisume4b:...Hmm.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Kisume2b:Wah, she's looking this way?!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Kisume0b:I mean, I can't see you well when you're hiding.
+
+Kisume2b:Wah, I knew it! You look just like me!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Kisume4b:Now I'm getting embarrassed...
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Kisume2c:Wait, don't hide!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Kisume5b:That doesn't make me want to be seen!
+
+</nomove>
+
+<end>
+
+<ChatID:67>----------------------------------------
+//ヤマメvs.キスメ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Yamame0d:Wait, you're with the humans, Kisume?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Kisume2c:Wah! I'm so sorry, Yamame!
+
+Yamame4d:You're sorry? Then you really are with 'em?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Kisume4a:Ah, that's not what I meant...
+
+Kisume4b:(I just blurted that out, and now she's got a weird misunderstanding.)
+
+Kisume3c:(But maybe this is a good excuse to have some fun playing with Yamame.)
+
+</nomove>
+
+<end>
+
+<ChatID:68>----------------------------------------
+//キスメvs.ヤマメ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Kisume2c:Why are you with the humans, Yamame?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Yamame3a:Who knows? Wanna find out?
+
+Kisume2b:What?! How'd it come that that?
+
+Kisume4b:I just wish you'd talked to me about it first...
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Yamame4a:Y-Yeah, my bad.
+
+Yamame3c:But relax, I'll explain it properly after our match.
+
+</nomove>
+
+<end>
+
+<ChatID:69>----------------------------------------
+//キスメvs.神綺
+
+Shinki0c:Oh my, I've seen those in stories before. What an adorable Japanese trinket.
+
+Kisume2c:A what?
+
+Shinki1a:The thing you're riding in. What did they call it again...?
+
+Shinki0a:A geta?
+
+Kisume2a:It's just a wooden bucket!
+
+<end>
+
+<ChatID:70>----------------------------------------
+//キスメvs.まくら
+
+Kisume0b:...Hey, is that kimono comfy?
+
+Makura0h:You mean my futon? Yes, it's very warm and pleasant.
+
+Kisume3a:Hm... and does it block danmaku?
+
+Makura0f:Er, well, it's not quite that strong...
+
+Makura3a:Were you possibly thinking of entering it like your bucket?
+
+Kisume3d:Just a little curious, that's all!
+
+<end>
+
+<ChatID:71>----------------------------------------
+//キスメvs.メーコ
+
+Meko4b:Oh right, I wanted to ask you something, Kisume.
+
+Kisume2c:What? Me?
+
+Meko4c:I went to a new hot spring on the surface recently.
+
+Meko0a:So I was wondering if you'd take a dip with that bucket? Or would you come out first?
+
+Kisume4b:Hmm, in that case I'd—
+
+Kisume2c:Wait, new hot springs on the surface? When did that happen?
+
+<end>
+
+<ChatID:72>----------------------------------------
+//C51：ヤマメvs.非想天則
+
+Tensoku0a:...
+
+Yamame1c:Wait, is this thing with the surface dwellers?
+
+Yamame0b:With something like this coming underground, there's no way this isn't turning into a big deal.
+
+Yamame5c:Then I'd guess I'd better greet you properly!
+
+<end>
+
+<ChatID:73>----------------------------------------
+//C51：キスメvs.非想天則
+
+Tensoku0a:...
+
+Kisume2b:What?!
+
+Kisume0b:I never knew there were such big youkai on the surface...
+
+Tensoku0a:...
+
+Kisume3c:...Well, being all quiet makes you a little more approachable, at least.
+
+<end>
+

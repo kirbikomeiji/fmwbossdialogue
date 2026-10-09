@@ -1,0 +1,91 @@
+﻿//OP
+
+<ChatID:0>------------------------------
+//OP
+
+<BG=bg_talk_Road_Night.png,fade=0,color=1,title=bg_Mountain,bgm=bgm_talk_rain02>
+
+<SE=se_talk_lightening01.ogg,wait=0>
+
+<Code=(demo_wait,90)>
+
+KTengu0a:Currently, the northbound unit has surrounded their target and is deploying danmaku...
+
+KTengu1a:Ah! Unit down!
+
+KTengu0b:It's no use, we can't hold! Requesting immediate reinforcements!
+
+<update>
+
+KTengu2a:What? How can you be having such a hard time against a single enemy?!
+
+KTengu1a:Look, that's what's happening, okay? We're attacking in large numbers, but it's like we're being toyed with!
+
+</update>
+
+KTengu2b:Just hurry up and alert the Greater Tengu. At this rate we'll be overrun!
+
+<update>
+
+KTengu2a:Understood. I'll dispatch anyone I can find who isn't busy as well.
+
+</update>
+
+<single>
+
+<nowindow>
+
+<Code=(demo_wait,45)>
+
+</nowindow>
+
+Momiji0a:...Okay. Looks like the kappa followed their orders and took shelter.
+
+Momiji2b:All that's left is the settlement over there. I'd better wrap up my patrol quickly...
+
+</single>
+
+KTengu2b:Hey, you! Patrol tengu! What are you doing over here? You should be on the front line.
+
+Momiji5a:I'm on a different assignment. The Greater Tengu ordered me to confirm that no kappa were wandering about.
+
+KTengu2a:No kappa would be stupid enough to be out and about on such a stormy night.
+
+Momiji0a:I agree completely, but there's always a chance that someone might do something reckless.
+
+KTengu1a:...Alright. Well, give us some backup once your hands are free. We need all the forces we can muster right now!
+
+Momiji5a:That's the plan. I'll be there shortly.
+
+<Code=(demo_wait,15)>
+
+<single>
+
+Momiji7c:It'll be fine, right? We're in a state of emergency here. I'll just focus on my assignment for now.
+
+<nowindow>
+
+<Code=(demo_wait,45)>
+
+</nowindow>
+
+Nitori1c:...Phew. Did she pass me?
+
+Nitori3c:Sorry about this, everyone. I can tell there's some sort of big fuss going on, but I really have to leave.
+
+<Code=(map_flash,1,30,c_white)>
+
+<Code=(demo_wait,30)>
+
+Nitori2a:Whoa! That's some loud thunder. I'd better get down the mountain while I can...
+
+<Code=(transition_out,c_black,120,1)>
+
+<end>
+
+<ChatID:1>------------------------------
+//テロプ
+
+――That night, a scarlet mist enveloped Gensokyo.
+
+<end>

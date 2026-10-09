@@ -1,0 +1,2842 @@
+﻿○共通第七十二話「ぼくらの非想天則
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: 2PP
+ 4: first battle vs. TensokuE
+ 5: TensokuE HP < 2000
+ 6: first battle Tensoku
+ 7: first battle vs. Onamazu
+ 8: Onamazu spell 1 start
+ 9: Onamazu spell 2 start
+10: Onamazu spell 3 start
+11: clear
+12: ADVB
+13: lose (beat TensokuE)
+14: lose (Seirensen beaten)
+15: beat Onamazu before Tensoku joins
+16: extra
+17: extra
+18-86: battle vs. Onamazu
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=16,FROM=夢幻世界入口,TO=夢幻世界1,name=Dreamscape,icon=4>
+
+<BG=*bg_talk_Seirensen_Bridge_Mugen.png,fade=1,color=1,title=*bg_Seirensen_Bridge,bgm=bgm_talk_ningyo>
+
+Akyu0a:...There's no end to this fog.
+
+Byakuren0c:Elly said it should clear up soon.
+
+Byakuren0a:Continue at this speed please, Murasa.
+
+Murasa1b:Aye-aye, Hijiri!
+
+Korin0d:...This is the first time I've seen you using your special seat, Byakuren, but it seems like you're already used to it.
+
+Mima3a:So how about it, Byakuren? Want Rinnosuke to step down as acting captain and take over yourself?
+
+Byakuren0a:Oh no, I'm a complete novice at giving orders in battle. Please, continue as you have been.
+
+Byakuren3c:But even so, I hope you won't mind me being up on the bridge.
+
+Korin0a:Not at all. It's a pleasure to have you here.
+
+Minoriko0b:But still, is this really the Dreamscape? There's nothing here so it's hard to tell.
+
+Shizuha0b:They said it was between Gensokyo and the Dream World, but what does that mean exactly?
+
+Nitori1a:Is it something like the space between the ocean and the land?
+
+Sho0c:Hmm, it seems to be filled with aura...
+
+Yuyuko1b:To put it simply, it's the world where dreams and reality get mixed up.
+
+Yuyuko0a:It borders Gensokyo, but the influence of the Dream World is strong here too.
+
+Chen0c:What kind of influence?
+
+Ran6a:It's constantly changing its nature based on the dreams of those in Gensokyo.
+
+Ran6e:What we find up ahead will depend on what the humans are dreaming.
+
+Elliy4a:The Dreamscape we know is pretty peaceful, but...
+
+Elliy4b:With all the nightmares Makura is throwing around, somehow I'm guessing it's not anymore.
+
+Hina4a:The nightmares she's throwing around, huh...
+
+Korin0c:You know, I hadn't asked before—what kind of nightmares have these been?
+
+Akyu3b:...They were creepy. Gensokyo was being attacked by weapons I've never seen before.
+
+Akyu3e:In the end, everything was in ruins. The village, the forest, everything.
+
+Korin1c:Ruined by what exactly?
+
+Ichirin1d:According the humans, there was some kind of giant going on a rampage.
+
+Byakuren2a:I wouldn't know what it looks like, but apparently it was using the power of machines somehow.
+
+Nitori3b:Geez, she really hates technology, doesn't she? Why do the poor innocent machines have to be the victim here?
+
+Yukari0b:But from what we know of her motives, this isn't limited to just technology.
+
+Yukari0b:She takes a hostile view toward any change brought on by outside influences.
+
+Murasa0d:So she's rejecting the idea of change?
+
+Shizuha2b:True, from what Marisa told us about those dreams she was having, she was badmouthing the Moriya shrine too, just because they're new here.
+
+Minoriko2a:I guess new technology is just the easiest part of that to understand, so she's starting with that.
+
+Minoriko0b:Which is why she had her eye on the kappa for always inventing stuff, and the power of Yatagarasu for having the potential to revolutionize things.
+
+Shizuha4a:What a pain. Just because there's new technology doesn't mean everyone's gonna use it.
+
+Minoriko2a:Yeah! All our produce is hand grown! We'll show her!
+
+Mima0d:Farmwork aside, you're all pretty accepting of cultural change.
+
+Mima1b:To her, I bet even that open-minded attitude is unpleasant.
+
+Ran4b:Indeed. The mastermind is trying to reject anything that doesn't fit within her ideals.
+
+Ran6c:She'll likely be ruthless in her attempts to force us out of the Dreamscape.
+
+Shizuha4a:And we kinda made a big flashy scene at the front door... Maybe we should be careful.
+
+Akyu0b:We know Makura controls dreams, but we're still not sure how that works.
+
+Akyu1a:We should proceed with even more caution from here on out.
+
+<BG=bg_talk_Seirensen_Hall_Night.png,fade=1,color=1,title=bg_Seirensen_Hall,bgm=bgm_talk_potion>
+
+Aya3a:Reimu, could you please make your expression seem a little more natural?
+
+Hatate3b:We need a good "on the case" shot.
+
+Reimu3a:And how am I supposed to do that?
+
+Marisa0a:Oh, wasn't that a great expression just now?
+
+Hatate3b:Okay, I'm taking the picture now!
+
+<Code=(map_flash,1,20,c_white)>
+
+<SE=se_talk_shutter02.ogg,wait=0>
+
+<Code=(demo_wait,10)>
+
+<Code=(map_flash,1,20,c_white)>
+
+<SE=se_talk_shutter02.ogg,wait=1>
+
+Hatate3d:Look Aya! Don't you think it turned out pretty well?
+
+Aya1b:It's workable. I think some pictures in the lounge would look good though.
+
+Reimu3a:...Um, how many photos do you NEED for this article?
+
+Reimu3a:We're kinda in the middle of the enemy's stronghold, you know. Don't you have better things to do?
+
+Sanae5c:But weren't you just relaxing and drinking tea, Reimu?
+
+Reimu5c:That's irrelevant.
+
+Momiji6a:I'm so sorry about them. They've been like this since last night.
+
+Momiji0a:It seems they're getting excited to write an article about this investigation having the largest crew yet.
+
+Kanako0d:That could be good PR. Make sure you include us as well.
+
+Kogasa1a:Ooh, me too! Me too!
+
+Alice0b:Good grief, do you think we're on a field trip...?
+
+Marisa0d:The tengu are one thing, but you usually don't see Kanako or Sanae joining in the fun.
+
+Marisa0a:Don't you usually take command from the bridge?
+
+Suwako3a:Well, yeah. But this time's a little different.
+
+Kanako0d:This may sound odd, but part of me is finding this refreshing. It doesn't feel tense.
+
+Alice0a:What do you mean?
+
+Suwako1a:I mean, isn't it a strange twist of fate for us outsiders to suddenly be fighting for Gensokyo's future?
+
+Suwako3b:It just feels nice to know that we're really a part of this.
+
+Sanae0a:Right. We only just got here a little while ago, but you'd never know it now.
+
+Sanae0d:When I think back to how I was racing around, wracked with worry, desperately trying to do everything on my own... It all feels so silly now.
+
+Sanae5e:We were desperate to survive, and lost sight of everything around us.
+
+Momiji5a:...
+
+Sanae0a:But it's been such a relief to have people around who accepted us despite all that.
+
+Sanae6a:So this time, I want to help. To do something for others, not just ourselves.
+
+Alice0d:So that's your motivation for coming on the investigation.
+
+Kanako1a:Yes, and as a part of Gensokyo, it's our duty too.
+
+Marisa0e:That's pretty amazing. Us natives wouldn't have thought of it like that.
+
+Marisa7c:But you've already changed things for the better around here, you know.
+
+Sanae0d:Have we...?
+
+Momiji4c:If you all hadn't come to the mountain when you did, I'm not sure we'd ever have opened up to the rest of Gensokyo.
+
+Momiji4a:We've been more than a little influenced by your resolve and earnestness too.
+
+Reimu0b:Besides, how many other people from the Outside World do you see hanging out with us?
+
+Reimu0g:It's obvious that you put a lot of effort into this.
+
+Sanae0d:Thank you, Momiji. Reimu. That means a lot to me.
+
+Aya1a:Alright, now that we're in a good mood, do you mind if I take another picture?
+
+Aya0a:You know, I've never actually gotten a shot of us all together, even after all this time.
+
+Marisa0d:Really? Well it's now or never. Should we give everyone a call then?
+
+Hatate3c:We've got more than 70 people here, could we even get them all into the same room?
+
+Sanae4a:Ooh, this is a nice idea. It reminds me of school photos.
+
+Aya0a:Then it's settled. Okay, so we'll need to get the bridge to make a broadcast...
+
+<SE=se_talk_call01.ogg,wait=1>
+
+Reimu0f:...Hm?
+
+Alice0a:Looks like the bridge called us first. I wonder what they want?
+
+<SE=se_talk_console01.ogg,wait=0>
+
+<hide=video>
+
+Akyu1a:Oh good, you're there. We need to gather everyone up immediately!
+
+</hide>
+
+Kogasa3b:Hm? What's this?
+
+Sanae0e:This sounds urgent. What happened?
+
+<hide=video>
+
+Akyu1a:The fog cleared up but... Where do I start...?
+
+Akyu1a:Actually, it might be faster if you just took a look out the window!
+
+</hide>
+
+Hatate0b:The window? Is there something-
+
+Momiji1a:...!
+
+Kanako2a:My word...
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP（出撃前）
+
+Nazrin2a:What is this place?!
+
+Nue2a:We were surrounded by fog, and then suddenly...
+
+Toyohime2d:We weren't teleported. It's more like the structure of the world suddenly changed around us.
+
+Shizuha2b:I guess that's just what it means to be in the Dreamscape.
+
+Minoriko2a:But seriously...
+
+<Code=(move_view,464,224,2)>
+
+<Code=(demo_wait,35)>
+
+Hina1a:What a strange place. I've never seen anything like it.
+
+Marisa2b:No, it's not just strange.
+
+Reimu1a:It's...
+
+Aya0c:Are you picking up on something?
+
+Sanae1a:Yes. This is the same place we saw in the nightmares.
+
+Kosuzu2a:It's the world that's left after being destroyed by the power of machines.
+
+Korin2a:So this is it...
+
+Kosuzu2a:Scary machines show up and ruin everything!
+
+Nitori2a:Yikes, did this set off something for Kosuzu?
+
+Alice0a:She's a sensitive type. Calm down, now.
+
+Eirin1c:I see. Everything submerged beneath the waves, with not a single living creature in sight.
+
+Star4b:Yes, it's just...
+
+<hide=all>
+
+<nomove>
+
+<Code=(cursor_jump,272,400,1)>
+
+Onamazu0a:At a loss for words, eh? I can't blame ya.
+
+</nomove>
+
+</hide>
+
+Reimu1a:...!
+
+Sanae1a:Is someone there?
+
+<hide=all>
+
+<nomove>
+
+<Code=(cursor_jump,272,400,1)>
+
+Onamazu0a:Heh heh heh. So you finally made it. What you see before you is the Graveyard of Science.
+
+</nomove>
+
+</hide>
+
+<pause>
+
+<hide=name>
+
+Onamazu1a:You got that? This is where you'll be buried!
+
+</hide>
+
+Shizuha1a:...?!
+
+Cirno2b:What in the world...?
+
+Hatate1c:A fish?! A huge catfish?!
+
+Onamazu0a:Heh, intimidated by my splendor? Can't blame ya for that either.
+
+Onamazu0a:This is just a temporary body made from the power of dreams, but still, I'm gonna enjoy this.
+
+Reimu1a:Wait, power of dreams? You don't mean...
+
+<nomove>
+
+<Code=(cursor_jump,288,416,1)>
+
+<hide=face>
+
+Meko0d:Ha! Surprised?!
+
+</hide>
+
+</nomove>
+
+<pause>
+
+Meko0c:This giant catfish is a youkai made real by Lady Makura!
+
+Marisa2b:There you are, Mehko.
+
+Meko1e:Looks like you ignored my warning and just strolled on in.
+
+Meko1f:Lady Makura's power is absolute here! You can't win!
+
+Keine1a:We're aware of the danger, but this has gone far enough!
+
+Orin1b:And what about you? You were just about roast mutton yesterday. Aren't you pushing your luck?
+
+Meko1d:Well today is gonna be different!
+
+Meko0c:Because this time, I—
+
+Onamazu1a:Your journey ends here! You'll never get past me!
+
+Meko0c:...
+
+Meko0e:Uh, yeah, that. So—
+
+Onamazu1a:Your luck ran out the moment you ran into me!
+
+Meko0c:So—
+
+Onamazu1a:I'll sing a requiem for you, in Makura Muwatari's place!
+
+Meko5c:Geez, stop interrupting me! I'm trying to threaten them!
+
+Onamazu1a:What, the little runt has something to say? Shut your trap, kid.
+
+Meko5c:Little runt?!
+
+Yugi1c:What's this, in-fighting? Already?
+
+Parsee0d:We don't have time to wait for your stupid comedy routine.
+
+Meko5c:Sh-Shut up! I'm gonna—
+
+Onamazu0a:Hold your horses, runt. Don't you remember Makura's orders?
+
+Onamazu0a:Leave this to me and go brush your flock or whatever.
+
+Meko0b:But...
+
+Onamazu0a:Look kid, I like your moxie. But if ya rush into things you'll just screw up again.
+
+Onamazu0a:Try to rest up and heal those wounds, like Makura wanted.
+
+Meko1c:...Fine. I get it.
+
+<pause>
+
+Reisen2b:Hey! Running away again?!
+
+<Code=(icon_set_direction,Meko_en,FD_RIGHT,0)>
+
+Meko1f:It's not my choice. But don't forget that you're up against the Giant Catfish!
+
+Meko0d:By the time he's done with you, YOU'LL be the roast mutton! Er... rabbit!
+
+<pause>
+
+Momiji2a:Ugh, she's good at running away, at least...
+
+Mima1b:We can deal with a chump like her any time we want. Focus on the enemy in front of us.
+
+Korin1a:He may look strange, but we don't know what he's capable of! Be careful, everyone!
+
+Akyu1a:All hands to level 1 battle stations!
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP（出撃後）
+
+Reimu1b:Who'd have thought our first opponent in the Dreamscape would be a catfish...?
+
+Suwako1c:It sounds like he's working for the mastermind, so try to take him at least a little seriously.
+
+Hina1c:She's right, I can feel a bottomless well of misfortune coming from him.
+
+Onamazu0a:Ho ho ho! You can sense my power? Not half bad!
+
+Onamazu0a:But ya still don't realize the true terror of this world.
+
+Letty1c:You talk big, but you're just one fish. What could you possibly do to stop us by yourself?
+
+Onamazu0a:Ha! By myself? Maybe by real-world logic. But that ain't how things work when dreams're real too.
+
+Onamazu0a:I bet you'll get it once you see this thing.
+
+Mystia0c:What thing?
+
+Onamazu1a:Come on out!
+
+<pause>
+
+Kanako2a:...!
+
+Nitori2a:It's...
+
+Nazrin2a:Didn't we see that at the kappa bazaar?
+
+Sanae1a:It's Hisoutensoku!
+
+Hatate4a:Isn't that the papier-mache ad balloon? Why would you bring out something like that...?
+
+Onamazu0a:Ho ho ho! Check your eyes, little missy! You really think it's just paper?!
+
+<pause>
+
+Kosuzu1a:Eeep!
+
+Korin1a:Missiles?! Did Hisoutensoku just shoot at us?!
+
+Minoriko1a:Then that's...
+
+Onamazu1a:Right! It's the metal giant from your nightmares!
+
+Onamazu1a:The heartless engine of destruction! The Thermonuclear Titan, Hisoutensoku!
+
+<SE=se_talk_robot02.ogg,wait=0>
+
+TensokuE0a:...!
+
+Utsuho1d:Thermonuclear Titan...?!
+
+Nitori2a:So Makura made a real, working robot with the power of dreams?!
+
+Onamazu1a:Bwahaha! Why the surprise?! Anything is possible in the Dreamscape!
+
+Kosuzu0a:Then we're going to end up like the city from those dreams...?
+
+Onamazu1a:That's right! You'll be ground beneath the heels of a heartless engine of destruction!
+
+Sunny4a:But... engine of destruction? Was that really how it was supposed to be?
+
+Suwako0d:Of course not, Hisoutensoku was a symbol of innovation, growth, and peace.
+
+Sanae1a:Right! We were praying for Gensokyo's future!
+
+Onamazu0a:Heh heh, and that's exactly why Makura used it.
+
+Sho1b:What...?
+
+Onamazu0a:Given birth to by dreams of innovation, but its power leads only to destruction.
+
+Onamazu0a:We couldn't ask for a better morality play! Who could see this and still want technology?
+
+Momiji1a:So then, the giant that's been showing up in the nightmares was...
+
+Onamazu0a:Exactly! It was this ridiculous doll!
+
+Keine1a:How cowardly! Stealing a symbol of hope and corrupting it for your own ends!
+
+Onamazu0a:Cowardly? You mean clever! It may symbolize hope to you, but now it means despair to everyone else!
+
+Onamazu1a:Go forth, Hisoutensoku! Tear them to shreds!
+
+<SE=se_talk_robot02.ogg,wait=0>
+
+TensokuE0a:...!
+
+<end>
+
+<ChatID:3>---------------------------------------
+//2PP、またはその前にヒソウテンソクと初戦闘
+
+Tenshi0e:...I can't believe that balloon turned into a real mechanical doll.
+
+Nitori2a:And now he's a minion of evil too...
+
+Yorihime0a:But it's clear that he's hostile. He attacked the ship.
+
+Yorihime0a:We can't afford to hold back against him.
+
+Yumeko4b:Yes. We may have to fully immobilize him by—
+
+Onamazu0a:Ho ho ho! If you want to destroy him, by all means!
+
+Nue2a:What...?
+
+Flan2c:But isn't he on your side? You really want us to destroy him?
+
+Onamazu0a:Sure, why not? I mean, he's YOUR symbol of hope.
+
+Onamazu0a:Attacking your own symbol of hope is the same as admitting you've lost.
+
+Minoriko2a:Wait, so if we attack him we're playing right into their hands?!
+
+Alice1a:Yes, it seems his goal was to get us to fight Hisoutensoku.
+
+Alice1a:He wants us to directly destroy our own dreams of innovation.
+
+Patchouli4d:What a twisted individual, using that form as a mouthpiece for your own ideas.
+
+Sanae3b:I won't stand for anyone using Hisoutensoku's form for something like this.
+
+Hatate4a:Sanae...
+
+Sanae3b:We were all thinking of Gensokyo's future when we made him!
+
+Nitori1b:Yeah! He's a robot of justice, filled with our dreams! We can't destroy him!
+
+Sanae1a:Can't we just disable him somehow? And use that chance to defeat the catfish?
+
+Ran6e:I don't see much choice other than to try. Perhaps we can stop him by damaging him just enough to bring him to the brink of defeat.
+
+Akyu1a:Alright everyone, ignore the catfish for now! Please focus on the mechanical doll!
+
+Alice1a:Make sure to use mercy. We don't want to destroy him by accident!
+
+<end>
+
+<ChatID:4>---------------------------------------
+//ヒソウテンソクと初戦闘
+
+Cirno2c:Hey, Hisoutensoku! Do you remember us?!
+
+Mystia3b:Actually, we came up with a theme song for you!
+
+TensokuE0a:...
+
+Letty0c:...No response. It seems he really is a heartless doll.
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Kosuzu0a:Prepare for battle, everyone!
+
+Kosuzu6a:Prepare for battle, everyone! ...Wait, what?!
+
+Murasa0c:What is it, Akyu?
+
+Kosuzu2a:I'm getting a high energy reading from the target! He's gathering heat under his chestplate!
+
+Kosuzu2a:These readings... It's probably nuclear fusion!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Akyu0a:Prepare for battle, everyone!
+
+Akyu1a:Prepare for battle, everyone! ...Wait, what?!
+
+Murasa0c:What is it, Akyu?
+
+Akyu1a:I'm getting a high energy reading from the target! He's gathering heat under his chestplate!
+
+Akyu1a:These readings... It's probably nuclear fusion!
+
+</Cond>
+
+Utsuho1b:That's the same power as Lord Yatagarasu?!
+
+Orin1b:Misusing that power right in from Okuu?! How low can you sink!
+
+Parsee2a:You really love rubbing people the wrong way, huh?!
+
+Yugi1c:No time to talk. Incoming!
+
+<end>
+
+<ChatID:5>---------------------------------------
+//ヒソウテンソクのHPを2000以下にする
+
+TensokuE0a:...!
+
+Minoriko1a:Alright! We disabled Hisoutensoku!
+
+<Cond=(LOCAL_ARR,Char1,current_HP,0,<=,100)>
+
+Yuyuko1c:Good thing we had mercy. See, it comes in handy sometimes.
+
+</Cond>
+
+<Cond=(LOCAL_ARR,Char1,current_HP,0,>,100)>
+
+Shizuha0a:That should be enough, right?
+
+</Cond>
+
+Onamazu0a:Hm. What are you playing at? Stopping it without destroying it...?
+
+Onamazu1a:And what are you doing, Hisoutensoku! Have you forgetten your orders?!
+
+Onamazu1a:If you have even a single gear still turning, then get moving! Destroy them!
+
+TensokuE0a:...!
+
+<pause>
+
+Keine2a:Gah, he's still on a rampage?!
+
+Alice1a:He's being pushed to extreme lengths despite being immobilized.
+
+Medicine2a:If you move when you're all beat up like that, you'll fall apart!
+
+Sanae1a:Please, Hisoutensoku, stop this!
+
+TensokuE0a:...!
+
+Sanae5f:You're not an engine of destruction! That's not what you were born for!
+
+Sanae1a:Please stop listening to them! Don't hurt yourself, or anyone else!
+
+Nitori1b:She's right! Open your eyes!
+
+Onamazu0a:Oho? Now you're trying to CONVINCE it?
+
+Onamazu0a:Ho ho ho! This is hilarious! What a joke!
+
+Onamazu0a:You think this metal blockhead will listen to you?! Oh, I'm crying from laughter!
+
+Shinki5a:Don't you dare laugh at people's feelings! You... awful person!
+
+Onamazu0a:But what else can I do? What are you even thinking? That's just a doll powered by nightmares!
+
+Onamazu0a:You can say whatever you want, it's not gonna—
+
+TensokuE0a:...!
+
+<pause>
+
+Onamazu0a:...?!
+
+Onamazu0a:What? What happened...?
+
+Udonge4d:Looks like he stopped moving. But the catfish didn't order him to.
+
+LilyW3d:Is... Is he pained?
+
+Reisen2b:Pained?
+
+Satori0c:Right. It's possible that the hopes placed into his form are in conflict with the nightmare inside him.
+
+Satori0b:I'm guessing he stopped moving because of that conflict.
+
+Onamazu1a:Conflict...? What kind of conflict could a doll have?!
+
+Onamazu1a:You're just a puppet, so act like one! Stop whining and follow your orders!
+
+TensokuE0a:...
+
+Onamazu0a:Hmph. Looks like there's a bug in its programming. A downside of stealing the design, I guess?
+
+Onamazu1a:Then I have no more use for you!
+
+<pause>
+
+Cirno2c:Ah! Hisoutensoku!
+
+TensokuE5a:...
+
+Korin2c:He's completely stopped moving... Seems like he's powered down.
+
+Onamazu0a:A useless doll to the end. Guess it couldn't handle the power of nightmares.
+
+Onamazu1a:But I might as well make good use of that nuclear-powered body!
+
+<pause>
+
+Youmu1a:The catfish's energy is rising!
+
+Marisa2b:What are you doing?
+
+Onamazu1a:THIS!
+
+<pause>
+
+Kanako2a:What...?!
+
+Minoriko1b:He's attacking Hisoutensoku!
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Kosuzu2a:That's not all, its internal temperature suddenly spiked!
+
+Kosuzu2a:At this rate, it'll melt!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Akyu1a:That's not all, his internal temperature suddenly spiked!
+
+Akyu1a:At this rate, it'll melt!
+
+</Cond>
+
+Onamazu1a:There's just one use for this hunk of scrap now.
+
+Onamazu1a:I'll activate its self-destruct and blow you all away!
+
+Sanae1d:A self-destruct?!
+
+Kogasa2b:You're not just abandoning him, you're destroying him?!
+
+Onamazu1a:What's wrong with that? I'm just getting some use out of this worthless blockhead!
+
+Onamazu1a:At least this stupid mechanical doll will be useful in death!
+
+Momiji1a:How dare you treat one of your own that way...
+
+Yorihime0b:Your utter lack of scruples makes me sick to my stomach.
+
+Kosuzu0a:He's a scary machine, but he didn't do anything to deserve this...
+
+Onamazu1a:Keep talking! I'm taking all of your words as compliments!
+
+Nitori3a:Do you even know how much of ourselves we put into making Hisoutensoku?
+
+Nitori2c:I can't stand letting it end like this...
+
+Marisa2b:Nitori...
+
+Marisa5a:And what about you, Hisoutensoku?! Do YOU want it to end like this?!
+
+Lyrica1c:Marisa!
+
+Marisa2b:You were born bearing the weight of all kinds of feelings, right?!
+
+Marisa2b:But here you are, destroying people's dreams at the bidding of some villain?!
+
+Marisa5a:If you have any pride at all, then resist!
+
+Nitori1b:Yeah! Keep fighting and don't give up!
+
+Sanae1a:Please, accept the dreams we put into you, one last time!
+
+Sanae2a:Our hopes, our wishes, our dreams for Gensokyo's future!
+
+Onamazu0a:Ho ho ho! Shouldn't you be running for your lives? I can't believe you're still trying to convince it!
+
+Onamazu1a:Now, you dumb mechanical doll, be useful for once!
+
+Keine2a:Rgh, it's not working...?
+
+<pause>
+
+Onamazu1a:WHAT?!
+
+Youmu2b:Hisoutensoku just moved?!
+
+Nue2a:I thought he was powered down! How...?
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Kosuzu6b:No, look at these readings!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Akyu1a:No, look at these readings!
+
+</Cond>
+
+<pause>
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Kosuzu6b:...Internal energy rising. Reactor temperature stabilizing!
+
+Korin1c:He's not self-destructing. HIs entire body is filled with spiritual energy!
+
+Kosuzu3b:Hisoutensoku has reactivated!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Akyu1a:...Internal energy rising. Reactor temperature stabilizing!
+
+Korin1c:He's not self-destructing. HIs entire body is filled with spiritual energy!
+
+Akyu1a:Hisoutensoku has reactivated!
+
+</Cond>
+
+Onamazu1a:Reactivated?! But I took all of its power! How?!
+
+Kanako1a:Hmph, I suppose you underestimated the feelings we put into him.
+
+Onamazu1a:What...?!
+
+Suwako1c:He's not an engine of destruction. He's our prayer for the future.
+
+Suwako1b:So now, without the nightmare to take over his body...
+
+Kanako1a:He's been reborn as a youkai powered by our dreams.
+
+Onamazu1a:Stop spouting nonsense! It's just a doll! Your dreams are just—
+
+Sanae1a:No, YOU shut up!
+
+Onamazu1a:Hrgh...!
+
+Aya1a:...Unaware of the Law of Heaven. Just like the name implies, he used to be a doll with no self-awareness.
+
+Momiji1a:But now he's filled with the dreams of the people!
+
+Hatate1c:Right. What you see before you isn't some Thermonuclear Titan...
+
+Suwako1b:It's the Giant Youkai Automatic Doll! Reborn!
+
+Kanako1a:Dreams and peace!
+
+Nitori1b:Youkai robot!
+
+Tensoku0a:...!
+
+<pause>
+
+Onamazu1a:Dr-dreams and peace?! Youkai robot?!
+
+Onamazu1a:Ridiculous! You'd disobey my orders and side with the humans?!
+
+Onamazu1a:Then I'll just have to destroy you myself!
+
+<pause>
+
+Tensoku0a:...!
+
+Minoriko1b:Ah! Hisoutensoku!
+
+Shizuha3a:The catfish is pretty powerful too! If we don't do something...
+
+Reimu1a:Does he have any weapons?!
+
+Nitori1a:Don't worry, we designed him ourselves!
+
+Nitori1b:We know the best way to draw out his max power!
+
+Suwako1b:He'll respond to our cheers! Are you ready, Sanae?!
+
+Sanae1a:Yes, Lady Suwako!
+
+<pause>
+
+Kurumi3d:Ooh, look...
+
+Elliy1a:See? He won't lose to a big catfish!
+
+Reisen2c:Wait, wasn't that completely different from how he moved before?!
+
+Kanako1c:Sanae and the others used to dream up even the smallest details. It's responding to those thoughts.
+
+Sanae1a:In Gensokyo, Hisoutensoku was just an advertising balloon. But here in the Dreamscape, it can be so much more!
+
+Sanae1a:We're unconstrained by the laws of reality!
+
+Udonge3a:...You're really into this. But what I'm getting out of this whole thing is that it's a product of delusions.
+
+Nitori4b:I mean, you should see how many notebooks we filled.
+
+Onamazu1a:No, impossible! How could it stand up to ME?!
+
+Onamazu1a:Fine, I'll just have to deal with you all personally!
+
+<pause>
+
+Tenshi1b:The catfish's temperament has changed. He's going to attack us directly now!
+
+Marisa2b:Fine, bring it on! The real battle starts here!
+
+Suwako1b:You too, Hisoutensoku. Be sure to listen to everyone!
+
+Tensoku0a:...!
+
+Kanako1c:Let us fight!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//非想天則初戦闘
+
+Tensoku0a:...
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Kosuzu0a:All parts are overflowing with energy. 100%... no, 200%!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Akyu1a:All parts are overflowing with energy. 100%... no, 200%!
+
+</Cond>
+
+Nitori1a:Hisoutensoku answered our prayers!
+
+Korin2d:Unbelievable. This can't actually be happening...
+
+Meiling5a:But it is! Our dream became real!
+
+Sanae1c:Absolutely!
+
+Tenshi3a:I hate to admit it, but it's a LITTLE cool. I guess.
+
+Patchouli3a:...Good grief, aren't we all excited? Not that I can't understand.
+
+Yukari0a:In the Outside World, a realistic giant robot wouldn't even be able to walk.
+
+Yorihime1c:But is it really necessary for someone to shout when attacking, like they did earlier?
+
+Alice0d:He should be alright on his own, but I think he'd appreciate some occasional moral support.
+
+Suwako3b:So make sure to give him a cheer if you're ever nearby, okay?
+
+<end>
+
+<ChatID:7>---------------------------------------
+//大ナマズ初戦闘
+
+Hatate4c:Too bad for you Hisoutensoku switched sides!
+
+Momiji1a:Don't think everything's going to go just the way you planned!
+
+Onamazu0a:Hmph, a little early to be counting your chickens...
+
+Onamazu0a:After all, I've been entrusted with far more dream power than that...thing.
+
+Minoriko2a:...Oh, right. The catfish was also made by Makura.
+
+Shizuha4a:But unlike Hisoutensoku, it has a strong sense of self...
+
+Onamazu0a:Ho ho ho! That's because I've been created as a youkai!
+
+Onamazu1a:And I have the strength to back it up! I'll feast upon your despair!
+
+<end>
+
+<ChatID:8>---------------------------------------
+//大ナマズ通常撃破
+
+Onamazu0a:Hm. A little hard to chew, aren't you?
+
+Remilia1a:I'm at the top of the food chain. You think I'd lose to a fish?
+
+Youmu2b:But even though the battle has just begun, I can tell he's still hiding his true strength.
+
+Youmu1a:What kind of youkai would take on the form of a catfish, anyway...?
+
+Iku0e:Come to think of it, isn't there supposed to be a giant catfish lurking beneath the ground that causes devastating earthquakes?
+
+Tenshi0c:Yeah, I've heard of that. I think these keystones were supposed to keep him pinned down or something?
+
+Onamazu0a:Oho. It seems some of you aren't as foolish as you look.
+
+Onamazu0a:Indeed! My very movement shakes the land itself, bringing ruin to the surface! The likes of you won't even scratch me!
+
+Onamazu1a:I am the shadow of the most despicable and disastrous youkai of all, Taisui Xingjun!
+
+Keine1a:T-Taisui Xingjun?! From the legends?!
+
+Meiling1a:The god of calamity from the motherland?!
+
+Tewi4a:But, well, you're still just a dream of him, right? What's the big deal?
+
+Onamazu1a:You fool! Where do you think we are? This is the Dreamscape, where dreams are reality!
+
+Onamazu1a:I am the symbol of mankind's downfall!
+
+Onamazu1a:Witness the true terror of calamity!
+
+<end>
+
+<ChatID:9>---------------------------------------
+//大ナマズスペル１通過
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Kanako1b:What, that's it?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Kanako1b:What, that's it?
+
+</Cond>
+
+Suika1d:Don't get cocky just 'cause you're a little bigger than us.
+
+Meiling1a:Even if you're just a dream, we can't let someone like you into Gensokyo!
+
+Onamazu0a:Ho ho ho! Still so chipper, are we? You're even more foolish than I imagined!
+
+Onamazu0a:Can you keep that up once you've seen my TRUE power?
+
+Suwako0d:You have a true power?
+
+Onamazu1a:That's right. Get a load of this!
+
+<pause>
+
+Hina1a:This presence...
+
+Nitori2a:What is it, Hina?
+
+Hina1c:That catfish's body is overflowing with ill omen.
+
+Hina1b:This pure, absolute misfortune is—
+
+Onamazu1a:Indeed, calamity itself! Along with the primal fear of it!
+
+Onamazu1a:I am a being which controls mankind's terror of calamity!
+
+Nitori1c:So natural disasters then? He's a catfish, so like earthquakes? What else...?
+
+Minoriko1b:Um... Winter?
+
+Shizuha3a:And... winter?
+
+Letty4a:Enough already! That's not a disaster, you just don't like it.
+
+Suwako1c:Still, aren't you just a fake made by Makura?
+
+Suwako0a:The REAL Taisui Xingjun would be a venerable curse god.
+
+Suwako1b:A fish throwing his weight around for fun is just another two-bit villain.
+
+Onamazu1a:Bold words. But even this temporary form is more than enough to symbolize the fear of catastrophe!
+
+Onamazu0a:Humanity's pain, suffering, grief and sorrow! These are my joys!
+
+Onamazu1a:And all of you will be my feed!
+
+<end>
+
+<ChatID:10>---------------------------------------
+//大ナマズスペル２通過
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Momiji1a:Is everyone okay?!
+
+Hatate2a:I'm managing, but now my shoes are all muddy and gross!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Momiji1a:Is everyone okay?!
+
+Hatate2a:I'm managing, but now my shoes are all muddy and gross!
+
+</Cond>
+
+Byakuren2a:Even if he's a creation of Makura's, we can't underestimate his power.
+
+Onamazu1a:Bwa ha ha, now you're getting it! You all aren't half-bad yourselves!
+
+Onamazu0a:As a reward for all that wasted effort, I'll show you my strongest move!
+
+<pause>
+
+Lyrica1c:...!
+
+Merlin0b:Whoa, things are shaking!
+
+Lunasa1b:It's not just the ground either, even the air is creaking.
+
+Yumeko5a:Is he affecting space itself?!
+
+Onamazu1a:Indeed! And this is but a fraction of Makura's accumulated dream power.
+
+Onamazu1a:All the original dreams that were replaced by this nightmare are in her hands now!
+
+Onamazu1a:And by borrowing just a bit of that, well... You get the idea.
+
+Keine2a:Ugh, so the dream incident is giving them this much power?!
+
+Mokou1b:You're acting awfully proud of a power you stole from others.
+
+Onamazu0a:Spoken like sore loser. What's wrong with using what we've taken?
+
+Orin1b:I'm getting real tired of your attitude...!
+
+Tensoku0a:...
+
+Onamazu0a:Ho ho ho! What's wrong? Too scared to think? Lost your words in the face of your own powerlessness?
+
+Onamazu0a:Then give up! Lose yourself to the raging storm within!
+
+Nitori1b:We're not gonna fall for that!
+
+Onamazu0a:What?
+
+Hatate5b:You've been trying to make us lose our cool and draw us into your own pace this whole time, haven't you? Well, I'm not some third rate reporter!
+
+Aya6a:No self-respecting reporter would allow themselves to be swayed so easily.
+
+Sanae3b:...True, there's always going to be uncertainties in life, and sometimes that fear can shake us.
+
+Sanae1a:But the will to keep on living gives us the power to stand up to that!
+
+Onamazu0a:Your words are but platitudes that crumble in the face of a stiff breeze.
+
+Momiji0a:Then we support each other!
+
+Nitori1b:If it's too hard alone, then we just have to face it together!
+
+Suwako1a:And if that's still not enough, they have the gods watching over them.
+
+Kanako1a:That's right. Our continued existence depends on mutual trust and respect.
+
+Kanako1c:This is the faith we've found, one that surpasses fear of the divine.
+
+Onamazu0a:...It would be a waste of time to say anything more to such fools.
+
+Onamazu1a:No more mercy! Carve this fear into your bodies and perish!
+
+Hina1b:Watch out, he's releasing the power of calamity!
+
+Onamazu1a:The footsteps of destruction, the melody of despair! It's time to grant the salvation of extinction!
+
+Onamazu1a:With this ends our fleeting world!
+
+<end>
+
+<ChatID:11>---------------------------------------
+//大ナマズスペル３通過（クリア）
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Onamazu0a:Impossible! I failed?!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Onamazu0a:Impossible! They escaped?!
+
+</Cond>
+
+Hina1a:I can't sense anymore misfortune from the catfish. It's over.
+
+Minoriko3b:You had a lot of power, but not enough to make us surrender!
+
+Momiji1a:You lost because you underestimated both the dreams built into Hisoutensoku as well as the power of our bonds!
+
+Onamazu1a:Grr...
+
+Koakuma3b:Since we beat one of the mastermind's minions, do you think less people will be seeing the nightmares?
+
+Meiling0a:Probably. At the very least, we're whittling away at her power.
+
+Onamazu0a:Less nightmares, huh?
+
+Onamazu0a:Heh heh heh. Ha ha ha ha ha!
+
+Koishi2b:What's this? Have you finally snapped?
+
+Onamazu0a:Naive fools to the very end. You really think defeating me will hurt Makura at all?
+
+Onamazu0a:What you're doing won't have even the slightest effect on Gensokyo.
+
+Reimu0e:What do you mean?
+
+Onamazu0a:The humans' dreams are being ensnared by the Nightmare Core Makura made.
+
+Onamazu0a:Kill me a thousand times over, it won't matter as long as we have that.
+
+Sakuya1b:So there's some kind of Nightmare Core we need to find?
+
+Kogasa1a:Then we can just go beat that and fix everything!
+
+Onamazu0a:The amount of power Makura's put into it makes me or Hisoutensoku seem like a drop in the ocean.
+
+Onamazu0a:Enjoy the rest of your short lives!
+
+<SE=se_laugh.ogg,wait=0>
+
+Onamazu0a:Heh heh heh, Bwa ha ha ha!
+
+<pause>
+
+Mokou1c:He's gone...
+
+Tenshi6a:For all the airs he put on, he left with a classic third-rate villain parting shot.
+
+Iku1c:But didn't he imply that he could be resurrected? We need to be careful.
+
+Yamame0d:Either way, sounds like they've still got a lot of power left.
+
+Keine0c:There are a lot things bothering me about this situation. Let's head back the ship and review what we've learned.
+
+Nitori4b:That, and...
+
+Tensoku0a:...
+
+Wriggle0b:We've got Hisoutensoku to consider too, huh?
+
+Mystia3a:He's another dream like the catfish, but he didn't disappear.
+
+Murasa0a:Well, we can't just leave him here. Why don't we get him to join up with the ship for now?
+
+Kosuzu0a:Everyone, return to ship.
+
+<end>
+
+<ChatID:12>---------------------------------------
+//ADVB
+
+<MAP=17,FROM=科学の墓場,TO=科学の墓場,name=Dreamscape,icon=4>
+
+<BG=*bg_talk_Grave.png,fade=1,color=1,title=*bg_Seirensen_Deck,bgm=bgm_talk_potion>
+
+Nitori1a:Alright, keep going, keep going!
+
+Sanae4a:Um, a little to right, please?
+
+Tensoku0a:...
+
+Murasa3b:Okay, you can grab on there. But you're strong, so don't grab on TOO hard.
+
+Tensoku0a:...!
+
+<SE=se_hit_bullet_L03.ogg,wait=0>
+
+<Code=(map_shake,1,70,1)>
+
+<Code=(demo_wait,65)>
+
+Patchouli3a:...Looks like the docking went smoothly.
+
+Reimu2b:It's less "docking" and more "hanging on by gripping the outer edge of the deck".
+
+Satori0b:Well, he can't very well stand on top, or he'd put a hole right through the deck. We'll just have to live with this.
+
+Alice3b:Thank you, Hisoutensoku. It might be a little uncomfortable, but this way you can rest your wings.
+
+<SE=se_talk_robot01.ogg,wait=0>
+
+Tensoku0a:...
+
+Medicine2b:He really is huge... I wonder how many Sues tall that is.
+
+Nitori1a:Well, he's just like the designs we drew up. Even the equipment and the materials he's made of.
+
+Nue4b:What's the point of making it accurate down to the last detail? This mastermind of ours is serious about the weirdest stuff.
+
+Flan0f:But I bet she never in her wildest dreams imagined he'd end up joining us though.
+
+Koishi0a:I was a little worried at first, but thank goodness we didn't have to break him.
+
+Koishi0b:He woke up because he heard our voices, right?
+
+Alice0d:Yes, I think his dream body taking in all of our feelings gave him self-awareness.
+
+Alice3b:He's probably something close to a tsukumogami now.
+
+Patchouli0c:If you consider the fact that he kept his form even after escaping from Makura's control...
+
+Patchouli0b:Hisoutensoku is likely a fully independent youkai now.
+
+Marisa0d:So in other words, he's just like Kogasa or Medicine?
+
+Medicine0d:Oh! So he's a doll youkai too...
+
+Medicine3d:You hear that, Sue? We have a new friend!
+
+Kogasa0b:Alright! I'm not the newbie anymore! Respect your elders!
+
+Reimu3a:You're calling yourselves his friends AND his elders? I mean, it makes sense, but it's a little hard to picture with that height difference...
+
+Nitori1a:Eh, that's just what it means to be friends with a robot.
+
+Kosuzu0a:He was scary at first, but now that I'm seeing him up close, he's got a surprising amount of charm.
+
+Murasa0d:More friends are always welcome, but what do we do with him now?
+
+Murasa2b:He betrayed Makura, so if we just leave him, she might hold that against him.
+
+<SE=se_move_gachon03_2.ogg,wait=0>
+
+Tensoku0a:...!
+
+Nitori2a:Whoa! What?
+
+Sanae0g:Did he just react to what we said?
+
+Tensoku0a:...
+
+Koishi0a:Is he saying he wants to come with us?
+
+Satori0c:...Yes. He can't speak, but he certainly has the will of a youkai.
+
+Satori0c:And he has a strong desire to go with us.
+
+Alice2c:Our journey will be dangerous, and you might end up fighting your mother. Are you okay with that?
+
+<SE=se_talk_robot01.ogg,wait=0>
+
+Tensoku0a:...!
+
+Marisa0a:...Still wanna go, huh? Welp, welcome aboard then. We can always use new allies.
+
+Kogasa1a:Aw, a little baby tsukumogami! I'm gonna teach you so much!
+
+Nitori4a:Then we'd better hurry back and report this to—
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+Wriggle3b:There it is! Over here!
+
+</single>
+
+Korin1b:So this is Hisoutensoku? Seeing it up close makes me even more interested.
+
+Udonge0a:Still crude compared to the weapons of the moon, of course.
+
+Cirno5a:But it's so COOL!
+
+Sanae4a:I'm delighted you've all come to meet Hisoutensoku.
+
+Kaguya3b:Yes, I wanted to see it from up close.
+
+Kaguya3e:I've never seen a humanoid weapon before.
+
+Udonge3b:Well, frankly there's no reason to make it bipedal. A design as inefficient as this would never have cut it on the moon.
+
+Udonge3b:Right, Master?
+
+Eirin2a:It's nearly perfect...
+
+Udonge2b:Bwha?!
+
+Eirin3a:Not as a military weapon, obviously. But for danmaku, where beauty is paramount, it's an incredibly logical and exceptional design.
+
+Korin1b:You think so too, Eirin? I was struck by the same thought.
+
+Korin0a:The head ornament is a crown of leaves, representing a prayer for the coexistence of man and nature. The ideals of the designers come through clearly.
+
+Eirin3c:Fascinating. I'd like to hear more of your insights.
+
+Udonge2b:Um... Hello...?
+
+Marisa4c:...Knowing Kourin, this will take a while. Let's just go report to the bridge.
+
+Nitori4d:Once again—welcome aboard, Hisoutensoku!
+
+<SE=se_talk_robot01.ogg,wait=0>
+
+Tensoku0a:...!
+
+<BG=bg_talk_Seirensen_Bridge_Grave.png,fade=1,color=1,title=bg_Seirensen_Bridge,bgm=bgm_talk_ningyo>
+
+<hide=video>
+
+Reimu4a:...And so, Hisoutensoku's coming with us.
+
+Sanae3c:His desire to help seems genuine. I think he'll be a reliable ally.
+
+Nitori1a:How do we classify him, anyway? Danmaku giant? Multi-purpose humanoid danmaku combat weapon?
+
+</hide>
+
+Akyu3a:Understood. We'll go over the details later.
+
+</hide>
+
+<SE=se_talk_console02.ogg,wait=1>
+
+Akyu3c:It seems very lively on the deck.
+
+Tenshi5c:Sheesh, aren't they embarrassed? They're acting like children.
+
+Yorihime0b:Even Lady Yagokoro is getting in on it...
+
+Iku3c:Aren't you two awfully fidgety too?
+
+Toyohime0b:You don't have to watch through the monitor, you know. Just go with them!
+
+Yorihime5e:I'm... hardly interested in such things...
+
+Tenshi6d:L-Likewise...
+
+Kanako0d:I can understand their excitement, but this isn't the time for this.
+
+Yukari0a:Indeed. We need to remain vigilant, as we were just made painfully aware of the scope of Makura's power.
+
+Yukari0b:The Graveyard of Science, the giant catfish, and Hisoutensoku...
+
+Ran6e:The mastermind's pulled out quite a few pawns right from the beginning.
+
+Yuyuko2a:Do you suppose that means she can whip them up at a moment's notice?
+
+Suwako1c:Probably. It seems true that she has absolute power here in the Dreamscape.
+
+Byakuren0c:Her methods are rather troubling as well.
+
+Byakuren5a:By making us fight Hisoutensoku, she was testing our very ideals.
+
+Yumeko4b:So she intends to crush us not just physically, but psychologically as well.
+
+Shinki5a:Yes, and in the Dreamscape, your strength is deeply connected to the state of your mind.
+
+Shinki5a:So if we ever lose hope...
+
+Iku1b:Then that's when the mastermind wins.
+
+Remilia1d:But it's not all bad news.
+
+Remilia0a:That catfish said something about a Nightmare Core. If we smash that, then we can stop all the nightmares.
+
+Akyu3d:If it's really stronger than the catfish, then I'm a little worried, but...
+
+Suika3d:I mean, either way we have to beat it. Worrying doesn't change what we gotta do.
+
+Yukari0a:For now, our goal will be finding and destroying this Nightmare Core.
+
+Akyu1a:Right!
+
+<end>
+
+<ChatID:13>---------------------------------------
+//全滅時（ヒソウテンソクを撃墜した場合）
+
+Marisa1a:Oh, no! Hisoutensoku!
+
+Onamazu0a:Ho ho ho! By destroying Hisoutensoku, you've effectively admitted it's evil!
+
+Onamazu1a:Your words are meaningless now! Join me and surrender to Makura!
+
+<end>
+
+<ChatID:14>---------------------------------------
+//全滅時（聖輦船が撃墜された場合）
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Kosuzu1a:The Palanquin Ship's taken critical damage!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Akyu2a:The Palanquin Ship's taken critical damage!
+
+</Cond>
+
+Korin0a:We need to escape... but there's no time, is there?
+
+<Cond=(FIND_UNIT,TensokuE_en,enemy,!=,-1)>
+
+Nitori2b:Sorry, Hisoutensoku. We couldn't... save you...
+
+</Cond>
+
+<end>
+
+<ChatID:15>---------------------------------------
+//ヒソウテンソクを倒す前に大ナマズを撃墜
+
+Onamazu0a:Ho ho ho! Impatient, aren't we? But don't be so hasty.
+
+Onamazu1a:Your opponent is Hisoutensoku!
+
+<end>
+
+<ChatID:16>---------------------------------------
+//予備枠
+
+<end>
+
+<ChatID:17>---------------------------------------
+//予備枠
+
+<end>
+
+<ChatID:18>----------------------------------------
+//大ナマズvs.霊夢R
+
+Reimu3a:Now we're fighting fish, huh? I'm starting to feel kind of over this.
+
+Onamazu0a:Ho ho ho! You call me a fish, but all I see is a green young lass!
+
+Onamazu1a:Perhaps you need a demonstration of my power. The embodiment of calamity, Taisui Xingjun!
+
+Reimu4a:Sure, why not? This'll go down easier if I can think of you as a youkai.
+
+Reimu1a:If you think I'm just a little girl, think again!
+
+<end>
+
+<ChatID:19>----------------------------------------
+//大ナマズvs.魔理沙R
+
+Marisa0a:So this catfish is supposed to be some big-shot youkai? Never would've guessed...
+
+Onamazu0a:There've have been many humans ignorant of my power, and they've all perished!
+
+Onamazu0a:Perhaps you'll catch a glimpse of it as I show you the end and drag you into the depths of despair?
+
+Marisa0a:I hate to disappoint, but you just gave me even less reason to go easy on you.
+
+Marisa1a:Petty villains like you only exist so the hero can show off while blowing them away! I hope you're ready!
+
+<end>
+
+<ChatID:20>----------------------------------------
+//大ナマズvs.早苗さん
+
+Onamazu1a:You! It's your fault that the doll betrayed me, lass!
+
+Sanae1a:Hisoutensoku didn't betray anyone! He responded to our feelings!
+
+Sanae1a:Your villainy ends here, Taisui Xingjun!
+
+Onamazu1a:You think you're some kind of hero?! What's ending is this farce!
+
+Onamazu1a:I'll make you realize that I am invincible here!
+
+<end>
+
+<ChatID:21>----------------------------------------
+//大ナマズvs.アリス
+
+Onamazu0a:Oho, what a tasty looking treat.
+
+Alice1a:Eugh...
+
+Onamazu0a:Come closer. I'll end it in one gulp.
+
+Alice1a:Stop it. You disgust me. Viscerally.
+
+Alice1a:It's like you have no beauty at all.
+
+Onamazu1a:Ho ho ho! I don't mind! Putting up a little fight makes your despair all more delicious!
+
+Onamazu1a:Despair is the ultimate seasoning!
+
+<end>
+
+<ChatID:22>----------------------------------------
+//大ナマズvs.ルーミア
+
+Rumia0a:You'd probably taste all muddy, but there's gotta be some way to eat you. Maybe?
+
+Onamazu0a:Ho ho ho! This little lass wants to eat ME?
+
+Onamazu0a:With a tiny body like that, you wouldn't be able to swallow one whisker.
+
+Rumia0a:I chew pretty good, you know.
+
+Onamazu0a:Hm. You're serious. Then go ahead and try.
+
+Onamazu0a:We'll devour each other! Just another diversion in this long life of mine!
+
+<end>
+
+<ChatID:23>----------------------------------------
+//大ナマズvs.大妖精
+
+Daiyosei2b:Ooh, I'm scared...
+
+Onamazu0a:What's this? A little winged treat came my way? Not very filling though.
+
+Onamazu0a:...Oh, I know. Which do you prefer, soy sauce or sugar?
+
+Daiyosei1a:What?! Er, uh, I guess I like sweet things better...?
+
+Onamazu0a:Then it's settled. I'll preserve you in sugar before I eat you!
+
+Daiyosei2b:N-No! Save me, Cirno!
+
+<end>
+
+<ChatID:24>----------------------------------------
+//大ナマズvs.チルノ
+
+Cirno1a:We're gonna smash your dreams!
+
+Onamazu0a:Ho ho ho! What a lively little runt.
+
+Onamazu0a:Feel free to frolic in my belly after I swallow you whole.
+
+Cirno1a:W-Wait, you're gonna swallow me?! Hold on, back up...
+
+Onamazu0a:Did I bring up a bad memory? That just makes me even hungrier!
+
+Onamazu0a:Now come to me! I'll gobble you right up!
+
+<end>
+
+<ChatID:25>----------------------------------------
+//大ナマズvs.美鈴
+
+Meiling1a:I won't let you trample all over Gensokyo, catfish! Prepare yourself!
+
+Onamazu0a:Ho ho ho! Who do you think you are, little lass?
+
+Onamazu0a:I'm the youkai of disaster, a shadow of Taisui Xingjun. What could you possibly do against me?
+
+Meiling0a:...
+
+Onamazu0a:Heh, cat got your tongue?
+
+Meiling0a:No. I was just thinking about how you'll be a stepping stone for my legend.
+
+Onamazu0a:Oho?
+
+Meiling1a:You're a being that must never come to Gensokyo! So Gensokyo's number one gatekeeper is going to stop you! A legend is born, right here, right now!
+
+<end>
+
+<ChatID:26>----------------------------------------
+//大ナマズvs.小悪魔
+
+Onamazu0a:You look rather scrumptious.
+
+Koakuma1a:Stay away from me!
+
+Onamazu0a:A good response. Your fear only makes me stronger.
+
+Onamazu1a:And the more you're cornered, the stronger your fear!
+
+<end>
+
+<ChatID:27>----------------------------------------
+//大ナマズvs.パチュリー
+
+Patchouli0a:Taisui Xingjun is a great youkai who's left his mark on literature.
+
+Patchouli0a:It may be simply a shadow, but to think he'd appear as a fish...
+
+Onamazu0a:Ho ho ho! Feisty! Is that any way to talk to the legendary giant catfish?
+
+Onamazu0a:But you must be that type... You look normal, but inside is unadulterated raw magic. Yes, you'd make a fine delicacy.
+
+Patchouli0a:Sorry, but I'm not interested in letting a fish eat me.
+
+Onamazu0a:Don't be like that! Give me a taste of that magic!
+
+<end>
+
+<ChatID:28>----------------------------------------
+//大ナマズvs.咲夜
+
+Sakuya0a:Catfish are so muddy. Even cleaning them is a labor-intensive process.
+
+Onamazu0a:Ho ho ho! Think you can treat me as just another fish?!
+
+Onamazu0a:I like you, lass. Tell you what, you can have a little of one of my fins.
+
+Sakuya0a:I have no use for commonplace ingredients.
+
+<end>
+
+<ChatID:29>----------------------------------------
+//大ナマズvs.レミリア
+
+Remilia0a:This strange fish is calling himself the worst youkai?
+
+Remilia0a:I think the title of "most disastrous" would suit a vampire like me better though.
+
+Onamazu0a:Hmph, you're a saucy little brat with only a few centuries under your belt.
+
+Onamazu0a:I am the god Taisui! There's no comparison to a lowly bat like you.
+
+Remilia0a:I'm okay with that. I'll just have to tear you to pieces and start my own legend!
+
+<end>
+
+<ChatID:30>----------------------------------------
+//大ナマズvs.フラン
+
+Flan0a:Hee hee hee, you're so big!
+
+Onamazu0a:Indeed, I'm gargantuan—wait, are you giggling?
+
+Flan0a:Yeah! I mean, any doll I play hard enough with always breaks.
+
+Flan0a:But since you're so big, maybe I'll get a little more playtime out of you.
+
+Onamazu0a:Ho ho ho! For such a little brat, you certainly talk big!
+
+Onamazu1a:Go ahead and try! But when you touch my misfortune, you're the one who will break!
+
+<end>
+
+<ChatID:31>----------------------------------------
+//大ナマズvs.レティ
+
+Onamazu0a:Isn't this the wrong season for a yuki-onna?
+
+Letty0a:You're not wrong. And thanks to that, you had the misfortune of running into me.
+
+Onamazu0a:Ho ho ho! Let's see how long you can talk back!
+
+Onamazu0a:But meeting me was your misfortune as well. Because you'll end here before the next winter!
+
+Letty0a:True, you're making the place unbearably stuffy. I'll just have to end this quick.
+
+<end>
+
+<ChatID:32>----------------------------------------
+//大ナマズvs.橙
+
+Onamazu0a:Not enough meat on those bones. Barely an appetizer.
+
+Chen2a:M-Miss Ran! I'm scared!
+
+Onamazu0a:Ho ho ho! What a wonderful expression of terror!
+
+Onamazu0a:You may not be filling, but at least you'll be an easy meal.
+
+Chen0a:What do I do? What do I do? I'm gonna get eaten unless I do something...
+
+Onamazu1a:That's right, cry, shout, squirm! That's what makes this worth my while!
+
+<end>
+
+<ChatID:33>----------------------------------------
+//大ナマズvs.リリー
+
+LilyW1a:Hisoutensoku is our friend now!
+
+Onamazu0a:Hmph. It was a mistake to bring that doll here in the first place.
+
+Onamazu0a:Once I take you people down, maybe I'll start appearing in the humans' nightmares instead.
+
+LilyW0a:That won't happen if we defeat you here.
+
+Onamazu0a:Ho ho ho! So the spring fairy has some bark in her!
+
+Onamazu1a:But why not celebrate the spring with my own rebirth in Gensokyo?
+
+LilyW0a:We will never allow that!
+
+<end>
+
+<ChatID:34>----------------------------------------
+//大ナマズvs.三姉妹
+
+Onamazu0a:And now we're reduced to street performers. But calamity could use an accompaniment.
+
+Onamazu0a:Blow your horns and pluck your strings! Play the melody of fear to the tune of despair!
+
+Lyrica0a:Uh, that's kind of a tall order...
+
+Lunasa0b:Seeing you... lowers my morale.
+
+Onamazu0a:What? But when else will you get to work with a star of my calibur?
+
+Merlin1a:Sorry, we don't do non-happy gigs!
+
+Lyrica1b:We don't mind playing encores, but we call the shots on what we play!
+
+Lunasa0a:And the noise we should be making now is...
+
+Onamazu0a:A pandemonium of screams to celebrate my revival!
+
+Lunasa0a:No. A theme song for a robot awakening to justice!
+
+<end>
+
+<ChatID:35>----------------------------------------
+//大ナマズvs.妖夢
+
+Youmu1a:I can't believe we ran into a shadow of Taisui Xingjun!
+
+Onamazu0a:That's a cheeky little knife you're carrying there. Do you really think you can take me down?
+
+Youmu1a:I have to try. Or else, Gensokyo will suffer for it!
+
+Onamazu0a:Ho ho ho! And what does one girl's spirit mean in the face of my calamity?
+
+Youmu1a:There's hardly anything my youkai-forged Roukanken cannot cleave!
+
+<end>
+
+<ChatID:36>----------------------------------------
+//大ナマズvs.幽々子
+
+Yuyuko0a:Hmm, catfish tastes a little muddy...
+
+Onamazu0a:I wouldn't mind being eaten by a pretty lady like you.
+
+Yuyuko0a:But you're a dream, right? Even if we beat you, won't you just pop up again?
+
+Onamazu0a:That's a secret.
+
+Yuyuko0a:Meanie.
+
+Onamazu1a:There we are, music to my ears! Entertain me a little while longer!
+
+<end>
+
+<ChatID:37>----------------------------------------
+//大ナマズvs.紫
+
+Yukari0a:So that dream body was given to you by Makura Muwatari.
+
+Yukari0a:To think she would manifest Taisui, the embodiment of calamity.
+
+Onamazu1a:Ho ho ho! Her strength is beyond imagination!
+
+Onamazu1a:Even I'm shocked at what Makura can do!
+
+Yukari0a:But in the end, you're just a portion of her power. We can't afford to lose here.
+
+Onamazu1a:It's still your fate to lose to this portion!
+
+<end>
+
+<ChatID:38>----------------------------------------
+//大ナマズvs.藍
+
+Ran0a:You may be a fake, but to call yourself the god of Taisui while working under another? Have you no shame?
+
+Onamazu0a:Makura gave me flesh. Even I understand that.
+
+Onamazu0a:But aren't you an interesting one.
+
+Ran0a:How so?
+
+Onamazu0a:That calm face of yours. You face me without the slightest nervousness.
+
+Onamazu1a:Such a shame then that I'll bury you here and now!
+
+<end>
+
+<ChatID:39>----------------------------------------
+//大ナマズvs.リグル
+
+Onamazu0a:Oh, a child...
+
+Wriggle0a:Child...? I'm the leader of the bugs!
+
+Onamazu0a:And how does that change the fact that you're powerless before me?
+
+Wriggle0a:I just need to ask for help from the ones stronger than a catfish!
+
+Onamazu1a:Hmm, I see, so that's how it is. Parasites would certainly be a bother!
+
+Wriggle1a:Besides, fireflies are aquatic as larva. I'll show you that even a tenth of an inch bug has a half-inch soul!
+
+<end>
+
+<ChatID:40>----------------------------------------
+//大ナマズvs.ミスティア
+
+Mystia1b:Catfish, catfish... Scale-less catfish...
+
+Onamazu0a:Hm? What's this song?!
+
+Mystia1b:Catfish whiskers are deelish...
+
+Onamazu0a:What an indescribable elation. You are no ordinary youkai!
+
+Onamazu0a:Your lyrics are sharp enough to slay hearts, yet warm enough to be called a blessing!
+
+Mystia0a:Huh...?
+
+Onamazu0a:Together we would be perfection itself! Yet alas, it is not so simple.
+
+<end>
+
+<ChatID:41>----------------------------------------
+//大ナマズvs.慧音
+
+Keine1a:As a teacher of the village, I won't let you run wild!
+
+Onamazu0a:Ho ho ho! I love teachers! I can never get enough of them!
+
+Onamazu0a:How about we begin a one-on-one lesson?
+
+Keine1a:Enough of your jokes. Even now, you still mock us?
+
+Onamazu1a:I've never told a joke in my life. Worry not, your hearts will break once you see the difference in our power.
+
+Onamazu1a:I'll teach you a lesson of my own—a lesson of danmaku, stained in fear and despair!
+
+<end>
+
+<ChatID:42>----------------------------------------
+//大ナマズvs.てゐ
+
+Tewi0a:Aaah! Kuwabara, kuwabara...
+
+Onamazu0a:At least SOMEONE here knows of my power.
+
+Tewi0a:Course I do! In fact, I was even thinking we could help each other out...
+
+Tewi0a:Team up with me, and I'll give you a special deal on this drug that makes you 10 times stronger!
+
+Onamazu0a:Team up with you? This sounds suspicious...
+
+Onamazu0a:You'd better not be trying to give me a sedative.
+
+Tewi2a:Why, I wouldn't dream of it!
+
+Onamazu0a:Then take it yourself, right now! You can't, can you?
+
+Tewi0a:Welp, negotations broke down. I'd better skedaddle.
+
+<end>
+
+<ChatID:43>----------------------------------------
+//大ナマズvs.優曇華
+
+Onamazu0a:Hoh hoh hoh! A bunny girl, eh?
+
+Udonge2b:Excuse me?!
+
+Onamazu0a:Not bad at all. So you'd go that far to stand out?
+
+Udonge1c:I don't even want to know what you're talking about... But I don't remember giving you permission to act familiar with me.
+
+Onamazu0a:And feisty too! What an amusing combination.
+
+Onamazu1a:Now to show this little bunny girl true fear!
+
+Udonge2b:Again, excuse me?!
+
+<end>
+
+<ChatID:44>----------------------------------------
+//大ナマズvs.永琳
+
+Onamazu0a:Ah, a nurse.
+
+Eirin0a:I'm a doctor.
+
+Onamazu0a:Ho ho ho! I'm fine with either! Either way, you'll make a healthy snack!
+
+Onamazu1a:You'll be the miracle drug to strengthen this dream body of mine!
+
+Eirin1a:You can try to eat me, but you'll find I don't agree with you.
+
+Onamazu1a:That fearless smirk! I like you! Tell you what, you can perform an examination of my danmaku!
+
+<end>
+
+<ChatID:45>----------------------------------------
+//大ナマズvs.輝夜
+
+Onamazu0a:Those clothes... Are you a princess?
+
+Kaguya1a:If I said I was, would you call upon me?
+
+Onamazu0a:Ho ho ho! Gracious, you'd joke even with me?
+
+Kaguya0a:Oh? But I was dead serious. I've never met a imposter of the Taisui god, after all.
+
+Kaguya1a:But in exchange, I'd have to give you one or two... difficult tasks.
+
+Onamazu1a:That haughty attitude is what makes you a princess. I can't wait to break that arrogant smile!
+
+<end>
+
+<ChatID:46>----------------------------------------
+//大ナマズvs.妹紅
+
+Mokou0a:I can sense that you're nothing to sniff at...
+
+Onamazu0a:You look like you taste disgusting. So you're immortal, huh?
+
+Onamazu1a:Excellent! Then wallow in fear for eternity! Your inescapable suffering will—
+
+Mokou1a:Keep that up, and I'm setting your whiskers on fire. Got it?
+
+Onamazu1a:At least let me give my speech! Sheesh, you're inedible in more ways than one.
+
+<end>
+
+<ChatID:47>----------------------------------------
+//大ナマズvs.依姫
+
+Yorihime0b:Scum like you is only fit to be cut and discarded.
+
+Onamazu0a:Such strong will. Not bad. Now how should I defeat you?
+
+Onamazu1a:Maybe entangle you in my whiskers to show you difference in our strength?
+
+Yorihime2a:You lowly brute! What are you thinking?!
+
+Onamazu1a:I'm thinking of the despair you'll show me when I trample all over you with my might!
+
+Yorihime2a:Eugh. I'd sooner die in one hit...!
+
+Yorihime2a:No, calm down, Yorihime. Don't let him get to you.
+
+Onamazu1a:Hoh hoh hoh! We'll find out just how long your spirit will hold out!
+
+<end>
+
+<ChatID:48>----------------------------------------
+//大ナマズvs.豊姫
+
+Onamazu0a:You look delicious. Truly a heavenly peach.
+
+Toyohime0b:What a low-brow tone you're taking.
+
+Onamazu0a:Hoh?!
+
+Toyohime0b:Kidding. I just didn't want you being the only one throwing verbal punches.
+
+Onamazu0a:Even so, that was quite uncalled-for...
+
+Onamazu0a:This won't do at all, I'll just have to eat you before you get another word in!
+
+Toyohime0b:You'll be tangled in this thread before you reach me.
+
+<end>
+
+<ChatID:49>----------------------------------------
+//大ナマズvs.レイセン
+
+Reisen2c:So this is the kind of youkai you find on the surface?!
+
+Onamazu0a:Cowering before my grandeur? A perfectly natural response.
+
+Onamazu0a:At this rate, my power will grow enough to affect even the real world.
+
+Reisen0b:The Watatsuki sisters won't let you do that!
+
+Onamazu1a:Really now? You still haven't seen my true power!
+
+<end>
+
+<ChatID:50>----------------------------------------
+//大ナマズvs.秋姉妹
+
+Shizuha0a:What an awful world, not a single tree in sight.
+
+Onamazu0a:Ho ho ho! This is where science will take you!
+
+Onamazu0a:Just imagine it. A ruined land, a world where nature is gradually replaced with artifice!
+
+Minoriko1a:S-Stop it! What's gonna happen to my fields?!
+
+Onamazu0a:Marvelous, delicious! That despair will become my power!
+
+Onamazu0a:Gnash your teeth and wail in the depths of terror!
+
+<end>
+
+<ChatID:51>----------------------------------------
+//大ナマズvs.雛
+
+Hina0a:There's this much misfortune gathered inside a single youkai...?
+
+Onamazu0a:I am the embodiment of calamity. Fear and despair are my power.
+
+Onamazu0a:Catastrophe draws out misfortune, which in turn invites despair! Granting me even more power!
+
+Hina1a:I'll put an end to your vicious cycle!
+
+Onamazu0a:It's futile! You could never bear my misfortune!
+
+Onamazu0a:The cycle of misfortune ends only in ruin! Watch helplessly and despair!
+
+<end>
+
+<ChatID:52>----------------------------------------
+//大ナマズvs.にとり
+
+Nitori2a:You said this place was the Graveyard of Science...?
+
+Onamazu0a:Indeed! The final resting place of civilization!
+
+Onamazu0a:Why can't you kappa realize that your technology is leading to the same mistakes all over again?
+
+Nitori1b:We're different! Our inventions are so everyone in Gensokyo can live more comfortably!
+
+Onamazu0a:You know nothing! Progress itself is a mistake!
+
+Onamazu1a:But all your tools are nothing before me!
+
+<end>
+
+<ChatID:53>----------------------------------------
+//大ナマズvs.椛
+
+Momiji1a:What malevolent spiritual power...
+
+Onamazu0a:Why thank you. My duty is to teach the humans fear, after all.
+
+Momiji1a:All of our prior enemies have been fighting for something, but you're different.
+
+Momiji1a:If all you seek is chaos, then as a tengu I'll have to stop you!
+
+Onamazu1a:You? A lone soldier? A pawn? If you can take my head then take it!
+
+<end>
+
+<ChatID:54>----------------------------------------
+//大ナマズvs.文
+
+Aya0a:"An omen of calamity?! Taisui Xingjun appears in the Dreamscape!"
+
+Aya0a:Hmm... It's a catchy headline, but I'm not sure I want to start a panic.
+
+Onamazu0a:Ho ho ho! A tengu playing journalist! How amusing!
+
+Onamazu0a:By all means, give my power more public exposure and stoke fear among the humans!
+
+Aya0a:I've got a better idea. I defeat you here and go with this one instead...
+
+Aya1a:"The shadow of Taisui falls before human and youkai team!"
+
+<end>
+
+<ChatID:55>----------------------------------------
+//大ナマズvs.はたて
+
+Onamazu0a:A sweet young treat like you would hit the spot right about now.
+
+Hatate0a:Eww, I'm gonna hurl.
+
+Onamazu1a:What? How could you use such crass language?!
+
+Onamazu1a:Is this what all the young youkai are like these days?
+
+Hatate0a:Don't ask me. And wait, aren't you, like, a day old? Why're you acting like an old man?
+
+<end>
+
+<ChatID:56>----------------------------------------
+//大ナマズvs.神奈子
+
+Kanako1a:You never dreamed that Hisoutensoku would side with us, did you?
+
+Onamazu1a:I don't like your smug attitude...
+
+Onamazu0a:What have you got to brag about, anyway? You got one oversized hunk of metal.
+
+Kanako1a:I have an understanding of them after seeing the shows Sanae used to watch on TV.
+
+Onamazu0a:What...?
+
+Kanako1a:The youkai robot Hisoutensoku is a castle of steel soaring through dreams!
+
+Kanako1a:Now have a firsthand glimpse of the power that never yields to evil!
+
+<end>
+
+<ChatID:57>----------------------------------------
+//大ナマズvs.諏訪子
+
+Suwako0a:Taisui Xingjun... A curse god from the continent.
+
+Onamazu0a:And you're one of the native gods?
+
+Onamazu1a:How reckless of you to abandon your homeland and fight in the Dreamscape.
+
+Suwako0a:Save it for after you beat us.
+
+Suwako1a:Manipulating the earth is MY job. Froggy won't lose to a catfish!
+
+<end>
+
+<ChatID:58>----------------------------------------
+//大ナマズvs.キスメ
+
+Kisume2a:This is so scary... But I've still got my bucket!
+
+Onamazu1a:Grr, hiding in your shell? That'll be tough to chew through.
+
+Onamazu0a:No, wait, I don't even have teeth.
+
+Kisume2b:Erk...
+
+Onamazu1a:I'm a catfish! I'll just swallow you in one gulp!
+
+<end>
+
+<ChatID:59>----------------------------------------
+//大ナマズvs.ヤマメ
+
+Yamame0a:You know, even in the Underworld we don't get many jerks as nasty as you.
+
+Onamazu0a:Ho ho ho! That's quite a thing to say, coming from a tsuchigumo!
+
+Onamazu0a:Say, why don't we team up? Invade their dreams together?
+
+Yamame0a:What...?
+
+Onamazu1a:We'll conquer the land with plagues and earthquakes! Once we do, you can have half the surface realm.
+
+Yamame0a:Even an outcast has something to protect. Not happening.
+
+Yamame1a:You're the only one who'll be suffering from this plague, catfish!
+
+<end>
+
+<ChatID:60>----------------------------------------
+//大ナマズvs.パルスィ
+
+Onamazu0a:A jealous girl, huh? That's not so bad, once in a while.
+
+Parsee2a:Why am I listening to absolute trash calling me trash again?!
+
+Onamazu0a:I never called you that...
+
+Parsee2a:You're just a fake created by Makura, but I'm so jealous of your confidence!
+
+Parsee2a:Don't tell me you live in some great catfish neighborhood too?! Spill it!
+
+Onamazu0a:Sheesh, what a pain... There goes my appetite.
+
+<end>
+
+<ChatID:61>----------------------------------------
+//大ナマズvs.勇儀
+
+Yugi0a:The bigger they are, the harder they fall!
+
+Onamazu0a:Ho ho ho! Challenging ME to a fight? Talk about reckless!
+
+Onamazu0a:I'll accept, of course, but you don't mind me eating you if I win, do you?
+
+Yugi0a:Sure, but if I win we're roasting you on a spit. Fair's fair.
+
+Onamazu0a:Amusing! This is a match to see who's belly we'll end up in!
+
+<end>
+
+<ChatID:62>----------------------------------------
+//大ナマズvs.さとり
+
+Onamazu0a:You seem like a rather meek youkai. Then you won't—
+
+Satori0c:No, I will mind if you treat me that way. I'm not that patient.
+
+Onamazu1a:You read my mind! A satori then?
+
+Satori0b:"Wretched reality-dwellers. Why'd they have to bring one of those along?"
+
+Satori0c:"I'd better put a stop to her, fast..." Is that a fact? You seem to think very highly of yourself.
+
+Onamazu1a:And what about you? Saying everything out loud.
+
+Onamazu1a:Any power that touches the mind is a nuisance. I'll put an end to you right now!
+
+<end>
+
+<ChatID:63>----------------------------------------
+//大ナマズvs.お燐
+
+Orin1a:You count as a fish, right?! But...
+
+Onamazu0a:Yes, I'm a fish. I'm also one of you.
+
+Orin1b:How's that?
+
+Onamazu0a:I mean I'm a CAT-fish. Ho ho ho, I'm so clever I astound myself.
+
+Orin0a:Are you actually suggesting you're on the same level as someone with my cute looks?
+
+Onamazu0a:My whiskers are every bit as cute as your braids, wouldn't you say?
+
+Orin1a:I can't believe how brazen you are. I'll pull out those whiskers so you can never say that again!
+
+<end>
+
+<ChatID:64>----------------------------------------
+//大ナマズvs.空
+
+Onamazu0a:Ah, you're that one crow.
+
+Utsuho0a:You know me?
+
+Onamazu0a:You have the power of nuclear fusion, do you not? The runt told me all about you.
+
+Onamazu0a:I'm not sure why, but she seemed quite interested in you.
+
+Utsuho0a:I mean, we fought a couple of times. ...I should probably remember her name, huh?
+
+Utsuho1a:Uhh... Pehko?
+
+Onamazu0a:Mehko. She might have a runt's height, but you've got a runt's brain.
+
+<end>
+
+<ChatID:65>----------------------------------------
+//大ナマズvs.こいし
+
+Koishi6c:The hidden Koishi slew the terrible catfish!
+
+Onamazu0a:Huh? What are you talking about?
+
+Koishi0b:And everyone lived happily ever after, the end.
+
+Onamazu0a:...You make no sense. Not even I can predict your actions. Are you broken?
+
+Onamazu0a:Based on that eye on your chest, you're a satori...
+
+Koishi0a:Have you ever heard the phrase, "If you love something, set it free"?
+
+Onamazu0a:Seriously, what in the world are you talking about?
+
+Koishi0b:I'll do it for you.
+
+<end>
+
+<ChatID:66>----------------------------------------
+//大ナマズvs.ナズーリン
+
+Nazrin2a:The shadow of Taisui Xingjun... Not someone I'd generally want to come across, even if you are artificial.
+
+Onamazu0a:If you know of my legend, then you must fear me.
+
+Onamazu0a:But this is reality! You cannot escape your destiny of ruin!
+
+Nazrin0a:Who said I was gonna escape?
+
+Nazrin0a:I won't let your shadow block my master's light of dharma.
+
+Onamazu1a:Your threats are as puny as you!
+
+<end>
+
+<ChatID:67>----------------------------------------
+//大ナマズvs.小傘
+
+Kogasa0a:This is one big catfish! But anyway...
+
+Kogasa1a:SURPRISE!
+
+Onamazu0a:Hoh hoh hoh, I'm surprised, alright!
+
+Kogasa2b:Wait, really?!
+
+Onamazu0a:I'm surprised that anyone would think to try such a amateurish trick on me!
+
+Kogasa0a:*sniffle* Amateurish...?!
+
+Onamazu0a:Your sadness is pitiful to see. I'll end your suffering in a single gulp.
+
+<end>
+
+<ChatID:68>----------------------------------------
+//大ナマズvs.一輪
+
+Unzan0a:...!
+
+Ichirin0a:What, you're feeling jealous of Hisoutensoku, Unzan? I mean, I guess he's huge AND popular with the kids...
+
+Onamazu0a:Ho ho ho! I'm a pretty strong competitor, myself!
+
+Onamazu0a:With my massive form and charming face, I'm bound to be a whole new level of popular!
+
+Unzan0a:...
+
+Ichirin0a:...
+
+Onamazu1a:What? Nothing?!
+
+Ichirin0a:The massive part, I get. Fair enough.
+
+Ichirin1a:It's a clash of the titans! Get him, Unzan!
+
+Unzan0a:...!
+
+<end>
+
+<ChatID:69>----------------------------------------
+//大ナマズvs.村紗
+
+Murasa0a:There's water all around us, but something about it seems off...
+
+Onamazu0a:This is a sea of death.
+
+Murasa0a:A sea of death?
+
+Onamazu0a:At the end of innovation came extinction. Nothing lives in these waters.
+
+Onamazu0a:It must be disheartening for a ship phantom to hear that there's no one left to drown.
+
+Murasa1b:But you're a fish. I'm no stranger to fighting those after all the time I've spent under the waves!
+
+<end>
+
+<ChatID:70>----------------------------------------
+//大ナマズvs.星
+
+Sho1a:Taisui Xingjun... I've heard the stories.
+
+Onamazu1a:How irritating. A youkai, yet you hold a divine treasure.
+
+Onamazu1a:I'll just have to smash you along with it!
+
+Sho1a:I will not yield to unprincipled evil! You're the one who will fall to ruin with the light of justice!
+
+<end>
+
+<ChatID:71>----------------------------------------
+//大ナマズvs.白蓮
+
+Byakuren1a:I cannot stand back and let a villain like you go free!
+
+Onamazu0a:Was that supposed to be an insult? It sounded like a compliment to me.
+
+Onamazu1a:Fear, despair! All of it is my joy!
+
+Byakuren1a:You cannot be allowed free rein!
+
+Onamazu1a:Hoh hoh hoh! A mere nun's Buddhist power is no match for my massive form!
+
+<end>
+
+<ChatID:72>----------------------------------------
+//大ナマズvs.ぬえ
+
+Nue1a:You're putting on a lot of airs in MY presence.
+
+Onamazu1a:Grr... You're the one putting on airs with me!
+
+Nue0a:You say you're the Taisui god, but in the end you're just a fake made from dreams, aren't you?
+
+Nue1a:As for me, I'm the real deal. The Terror of Heian, in the flesh. You couldn't hold a candle to me.
+
+Onamazu1a:Cheeky little brat. You talk big, but I saw your mask slip. You're scared of me.
+
+Onamazu1a:There's only room for one great youkai here!
+
+<end>
+
+<ChatID:73>----------------------------------------
+//大ナマズvs.聖輦船
+
+Akyu2b:It's almost as big as the Palanquin Ship itself!
+
+Onamazu0a:Ho ho ho! Terrified by my stature?
+
+Onamazu1a:As you should be! Stab me all you wish, I'll feel nothing but a prick!
+
+Korin0a:That doesn't mean we'll let you win.
+
+Korin0a:The Palanquin Ship will face this threat head-on!
+
+Kosuzu0a:Y... Yes, of course! I'd better do my part!
+
+<end>
+
+<ChatID:74>----------------------------------------
+//大ナマズvs.小町
+
+Komachi0a:Even if he's just a dream, the shadow of Taisui Xingjun is still a pretty big deal.
+
+Komachi0a:So what kind of person is giving YOU orders?
+
+Onamazu0a:Makura is my creator. She also lets me do as I please, like this.
+
+Onamazu0a:I get the feeling that sticking with her is going to keep my life interesting from here on out.
+
+Komachi0a:So it's not just a whim? What a pain...
+
+Komachi0a:Well, we need to finish this investigation, so I'm gonna be showing you to the other shore!
+
+<end>
+
+<ChatID:75>----------------------------------------
+//大ナマズvs.映姫
+
+Eiki0a:The shadow of Taisui Xingjun. Although the embodiment of a dream, to think you would manifest with sentience...
+
+Onamazu0a:Even the power of the Yama isn't enough to stop my calamity.
+
+Eiki0a:You are truly self-aggrandizing. You forget your transient nature and instead spout nonsense and insults to Gensokyo.
+
+Eiki0a:Indeed, you're a bit too excessive.
+
+Onamazu0a:Hoh hoh hoh! That's the highest compliment I could ask for!
+
+Eiki0a:This is your final warning. If you're nothing but pure malice, then you're a threat to Gensokyo.
+
+Eiki0a:This won't end with a mere judgment. I will erase you from existence!
+
+<end>
+
+<ChatID:76>----------------------------------------
+//大ナマズvs.メディスン
+
+Onamazu0a:Hmm. So there was another runt here too?
+
+Medicine0a:That's just mean, right Sue? Why does everyone call me names?
+
+Medicine1a:Oh, I know, I can just use your poison until he stops moving.
+
+Onamazu0a:Using poison, huh? You may be small, but I can't overlook you.
+
+Onamazu1a:Very well. Try me, runt!
+
+Medicine2a:I told you not to call me that!
+
+<end>
+
+<ChatID:77>----------------------------------------
+//大ナマズvs.萃香
+
+Suika2a:Whoa, you really are a catfish!
+
+Onamazu0a:An oni? Must be nice to do nothing but drink all day.
+
+Suika0a:Care to join me? Well... maybe inviting a villain to a drink is a bit much, even for me.
+
+Onamazu1a:Big talk for such a tiny creature!
+
+Suika1a:That's my line. How'd you like to try picking on someone your own size?
+
+<end>
+
+<ChatID:78>----------------------------------------
+//大ナマズvs.天子
+
+Onamazu1a:What's that stone...?!
+
+Tenshi0a:A keystone, to pacify the land.
+
+Tenshi0a:If you're supposed to be the giant catfish that causes earthquakes, then I need to make sure I do this right.
+
+Onamazu1a:Only a select few are able to use those! Don't tell me this stubborn-looking lass is one of them!
+
+Tenshi0a:How is being stubborn relevant?! Anyway, if you hate these then that's just perfect.
+
+Tenshi0a:It's okay if you're just a manifestation in a dream. I'll carry out my family duty for once!
+
+<end>
+
+<ChatID:79>----------------------------------------
+//大ナマズvs.衣玖
+
+Iku0a:So the giant catfish deep in the earth really exists...
+
+Iku0a:No, wait, excuse me. You're just a shadow created by the mastermind, right.
+
+Onamazu0a:Ho ho ho! But my power is real enough!
+
+Onamazu1a:I'll cause an earthquake that will plunge you all into the depths of terror!
+
+Iku0a:I can't have that. I haven't even given out my warning yet.
+
+Onamazu1a:What do I care? I'll show no mercy, even to a stylish celestial maiden!
+
+Onamazu1a:Tremble before my power!
+
+<end>
+
+<ChatID:80>----------------------------------------
+//大ナマズvs.三妖精
+
+Sunny0a:I didn't know Mehko had other friends.
+
+Onamazu0a:I'm new to the team. That scrawny little runt is more of an old-timer than me.
+
+Luna1a:Then why do you talk like you're so much older and smarter than the rest of us?
+
+Star0a:The way you just described Mehko was pretty mean, too...
+
+Onamazu0a:That's the difference between us. I'm far more valuable to Makura.
+
+Sunny0a:Still, shouldn't you respect your senior a little more?
+
+Onamazu1a:Excuse me, I'm a VILLAINOUS middle-aged gent. I don't do nice!
+
+<end>
+
+<ChatID:81>----------------------------------------
+//大ナマズvs.エリー
+
+Elliy0a:Hey, Fishcake, have you seen Yuuka anywhere around here?
+
+Onamazu0a:Who are you to call me by that name?!
+
+Onamazu0a:And who's Yuuka?
+
+Elliy0a:A beautifully, powerfully cruel flower kinda lady.
+
+Onamazu1a:Never heard of her. And I wouldn't tell you even if I did.
+
+Onamazu0a:I'll crush you, you cheeky little curly-haired brat!
+
+Elliy2a:Huh?! Yuuka, save me!
+
+<end>
+
+<ChatID:82>----------------------------------------
+//大ナマズvs.くるみ
+
+Kurumi1a:Giant catfish! I, Kurumi, will—
+
+Onamazu0a:You don't look too appetizing.
+
+Kurumi2a:Wah! What's with that dismissive reaction?!
+
+Onamazu0a:You're not even big enough to eat. Get outta here and come back after you've had some milk.
+
+Kurumi1a:Hey! I drink milk every day of my life!
+
+Kurumi1a:Now I'm angry! I'm gonna tear you to itty bitty pieces!
+
+Onamazu0a:...? Did I touch a nerve or something?
+
+<end>
+
+<ChatID:83>----------------------------------------
+//大ナマズvs.魅魔
+
+Mima0a:The shadow of Taisui Xingjun, the embodiment of calamity, huh? Now this is an interesting opponent.
+
+Onamazu0a:Hoh hoh hoh! You dare to challenge me?
+
+Onamazu0a:What can you possibly do in the face of an embodiment of disaster?
+
+Mima0a:Well, that's what I want to find out. Glad we're on the same page! Hope you don't die too quick!
+
+<end>
+
+<ChatID:84>----------------------------------------
+//大ナマズvs.神綺
+
+Shinki5a:You're a generator of disaster... I'll put a stop to you!
+
+Onamazu0a:Ho ho ho! How noble of you! I could almost cry!
+
+Onamazu0a:But I see you're flinching away. Can't handle my glorious slimy body?
+
+Shinki0a:Well, uh...
+
+Onamazu0a:Do you really think you can stop me like that? Maybe you should try playing with my whiskers?
+
+Shinki2a:St-Stop! I'll call for help!
+
+Onamazu1a:What a sight! Your terror is whetting my appetite!
+
+Onamazu1a:Calling for help is futile! All are powerless before me!
+
+<end>
+
+<ChatID:85>----------------------------------------
+//大ナマズvs.夢子
+
+Yumeko0a:...
+
+Onamazu0a:A well-toned body, and a sharp glare. My favorite kind of snack.
+
+Yumeko0a:Go ahead and eat me. I've always been meaning to try this out.
+
+Onamazu0a:Try... what?
+
+Onamazu1a:Hold up, is that steel I smell?!
+
+Yumeko0a:I've never cut my way out of a stomach before. Even if my blades rust, I have plenty to spare.
+
+<end>
+
+<ChatID:86>----------------------------------------
+//大ナマズvs.非想天則
+
+Tensoku0a:...!
+
+Onamazu1a:Foolish puppet, you think you can stand against ME?
+
+Onamazu1a:Don't think that Makura will forgive this.
+
+Tensoku0a:...
+
+Onamazu1a:Hmph, you're prepared for that? Who do you think you are, puppet?
+
+Onamazu1a:So what if you're Hisoutensoku?! So what if you're a youkai robot?! I am the shadow of Taisui Xingjun, and I will be your doom!
+
+<end>
+
+<ChatID:87>----------------------------------------
+//大ナマズvs.メーコ
+
+Onamazu1a:And what are YOU doing here, runt? Didn't you leave?
+
+Meko4c:Oh, right. The past me was just here.
+
+Meko1b:No, wait, I'm not a runt!
+
+Onamazu0a:Ho ho ho, if it looks like a runt and sounds like a runt.
+
+Onamazu1a:But surely you didn't come back here just to object to that?
+
+Meko1b:I've had enough of you. It's time you learned that I can fight too!
+
+<end>
+
+<ChatID:88>----------------------------------------
+//大ナマズvs.まくら
+
+Onamazu1a:Ho?! What portent brings YOU here?
+
+Onamazu0a:...No, a dream copy? Here to check up on me, I take it?
+
+Makura1a:Take it however you like. And if you wish to fight with me, by all means, continue.
+
+Onamazu0a:Ho ho ho! That haughtiness! I could never have my fill.
+
+Onamazu1a:I suppose I'll have to bring you to your knees in terror before I swallow you whole!
+
+Makura1a:No matter how vulgar your words are, they're useless against me.
+
+Onamazu1a:Feisty! Just how I like it!
+
+<end>
+
+<ChatID:89>----------------------------------------
+//大ナマズvs.幽香
+
+Onamazu0a:Hmph, a flower youkai?
+
+Onamazu1a:What a shame then, that not even the weeds will bloom in the wake of the calamity I bring!
+
+Yuka2a:How ugly.
+
+Onamazu1a:What?!
+
+Yuka2d:Natural disasters are fine, they're part of the cycle too.
+
+Yuka2a:But there's no place for one led by the nose by a youkai, let alone a catfish.
+
+Onamazu0a:Ho ho ho, what a chatty flower!
+
+Onamazu1a:I suppose I'll have to pluck out that confidence, roots and all!
+
+<end>
+
+<ChatID:90>----------------------------------------
+//ヒソウテンソクvs.メーコ
+
+TensokuE0a:...
+
+Meko0g:It's the evil Hisoutensoku Lady Makura made...
+
+Meko1a:It looks the same on the outside, but its movements are so stuff.
+
+TensokuE0a:...
+
+Meko1e:And it won't react even after all that. I like the other Hisoutensoku better.
+
+Meko1b:Which is why I'm gonna fight alongside everyone else to stop you!
+
+<end>
+
+<ChatID:91>----------------------------------------
+//ヒソウテンソクvs.非想天則
+
+TensokuE0a:...!
+
+Tensoku0a:...
+
+Meko1e:Hisoutensoku must be really mad, huh?
+
+Makura1c:No, it's closer to sorrow.
+
+Makura1a:He feels the pain of being made a villain's puppet, and is trying to save the other one.
+
+Meko1b:I know just how you feel, then! As a fellow giant robot, you've gotta stop them!
+
+Tensoku0a:...!
+
+<end>
+
+<ChatID:92>----------------------------------------
+//ヒソウテンソクvs.まくら
+
+TensokuE0a:...
+
+Makura1c:I made this evil Hisoutensoku myself...
+
+Makura2a:To think I'd tremble before it. I may have been more scared of them than anyone else.
+
+TensokuE0a:...
+
+Makura1c:But avoiding battle would only confirm that fear.
+
+Makura1b:If I'm going to change, I need to work together with everyone to stop you!
+
+<end>
+

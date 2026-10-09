@@ -1,0 +1,826 @@
+﻿○霊夢第二話「人里への来訪者
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2-4: first battle vs. Rumia
+ 5: Rumia spell 1 start (unused)
+ 6: clear
+ 7: ADVB
+ 8: 2PP (unused)
+
+<ChatID:0>-----------------------------------------------
+//ADVA
+
+<MAP=0,FROM=人間の里,TO=人間の里,name=Human Village,icon=0>
+
+<BG=*bg_talk_Village.png,fade=0,color=1,title=*bg_Village,bgm=bgm_talk_aoki>
+
+Reimu0c:I haven't been to the human village in a while. The busy atmosphere isn't so bad every now and then.
+
+HumanA0a:Hey, look.
+
+HumanB0a:Going by the outfit, that's gotta be the shrine maiden.
+
+HumanC0a:She must be so cold, wearing that. Does she not have enough cloth for anything warmer?
+
+Reimu0f:...
+
+Reimu0a:Well, the humans seem to be doing okay. It doesn't look like the mist has done much here yet.
+
+Reimu0b:Ah, here's Daimonji. I hope Keine gets here soon...
+
+<SE=se_talk_door_open03.ogg,wait=1>
+
+Tenshu0a:Thanks for stopping by!
+
+Keine6c:My pleasure. That was delicious.
+
+Reimu3c:...Huh? Keine?
+
+Keine0a:Good afternoon, Reimu. It's nice to see you're on time.
+
+Reimu3d:Um, Keine, did you just...
+
+Keine1a:What kind of greeting is that?
+
+Reimu2b:Oh, sorry. Good afternoon, Keine.
+
+Reimu1a:Oh, sorry. Good afternoon, Keine. ...Wait, what am I saying?!
+
+Keine0b:What's all this fuss about? Is something wrong?
+
+Reimu1a:You just came out of Daimonji just now, didn't you? What's the meaning of this?
+
+Keine0a:What do you mean? I just finished eating. The taiyaki was really good.
+
+Reimu1a:I was waiting outside because I thought we were going to eat together!
+
+Reimu2b:Fine. I'll just go buy mine, then.
+
+Keine0c:In that case, you'd better hurry. I think they were almost out of red bean paste...
+
+Tenshu0a:Thanks for stopping by!
+
+<hide=name>
+
+Meiling5b:Thanks for the food!
+
+Meiling4a:Boy am I full. I ended up staying longer than I thought.
+
+Meiling0a:Well, I'm off duty today, so even if Sakuya sees me it's okay! Working on the shift system is great.
+
+</hide>
+
+Reimu0d:Taiyaki... My taiyaki...
+
+<hide=name>
+
+Meiling0c:If you're looking for taiyaki, they just sold out, shrine maiden.
+
+</hide>
+
+Reimu3c:What did you say? It's not even night yet!
+
+<hide=name>
+
+Meiling3a:Well, yeah, but...
+
+Meiling0a:Apparently someone bought a whole bunch this morning, so they ran out of red bean paste earlier than usual.
+
+</hide>
+
+Reimu5f:Nooo... My taiyaki...
+
+Keine0c:What's wrong, Reimu? You don't look too good. Do you have a stomachache?
+
+Reimu1a:No!
+
+Reimu0d:...By the way, I've been meaning to ask, but why did you want to meet here?
+
+Keine6c:Ah. I come here for a snack every now and then when the school has a day off.
+
+Keine0a:It's pretty well-known, so I thought it would be perfect for a meeting place.
+
+Reimu3a:...Keine, do people ever say you're thickheaded?
+
+Keine0c:Yes, I do get that a lot. How did you know?
+
+Reimu2b:...
+
+Keine0b:Also, this taiyaki's a gift for someone. You can't have it.
+
+Reimu4a:I wouldn't just take it from you! Sheesh. Let's just get this over with.
+
+Keine0a:Sure. Why don't we share the information we gathered first? Did you find anything out?
+
+Reimu0a:I took a look around in the afternoon and didn't find anything, so I'm thinking I'll check around at night next.
+
+Reimu0f:What about you?
+
+Keine0a:I tried doing some research with the material I keep at home.
+
+Keine4a:I was hoping there was a previous incident of this sort I could refer back to...
+
+Reimu0c:Figures the history teacher would start by hitting the books.
+
+Keine0a:Yup. That's the foundation of investigation.
+
+Reimu0b:History's pretty convenient. You can find out everything that happened in the past that way.
+
+Keine0b:Convenient...? Reimu, are you sure you aren't misunderstanding the nature of history?
+
+Keine0a:History isn't just listing out events that happened in the past in order, you know.
+
+Keine1a:Building a history involves connecting the dots between events and tying together the threads of causality...
+
+Reimu5c:Lalala, I can't hear you!
+
+Keine0b:Hey! I'm in the middle of talking!
+
+Reimu3d:You're taking too long to explain!
+
+Reimu0d:Spare me the history lecture. Did you find anything useful or not?
+
+Keine0c:As far as I researched, no.
+
+Reimu4a:Then just say that!
+
+Reimu5a:It's fine, though. We wouldn't be able to get anything useful out of a past reference anyway.
+
+Keine0a:Why do you say that? Are you saying you've never learned from something that's happened in the past?
+
+Reimu0a:There's no youkai that would repeat the same incident twice, and if there was, they wouldn't be anyone special.
+
+Reimu0b:Which means knowing about previous incidents and which youkai started them is useless to us.
+
+Keine0a:I see. So that's how you think.
+
+Reimu0c:If you want to resolve an incident, all you need is momentum and good intuition.
+
+Keine4a:Is that how it works? In any case, we might find something at the place where we're about to visit.
+
+Reimu0e:Did you have some sort of special plans for today?
+
+Keine0a:I thought we could head to the Hieda manor and ask if we could take a look at their archives.
+
+Reimu0e:Hieda... You mean THAT Hieda family?
+
+Keine0a:Yes, the Hieda family that compiles the history of Gensokyo.
+
+Keine6c:They have the best information on youkai in all of Gensokyo, and the head of the family, Akyu, is very knowledgeable.
+
+Reimu0b:I know. She repeatedly reincarnates and compiles the Gensokyo Chronicle across generations.
+
+Keine0a:Right. In addition to her mystical reincarnations, she also has the ability to never forget anything she's seen.
+
+Reimu0f:That sounds handy. Don't they call it the Power of Gumonji or something?
+
+Keine5a:My, aren't you well-informed?
+
+Reimu0b:Only because I've met with the current one, Hieda no Akyu. She's real darn smart.
+
+Keine3a:Don't speak so bluntly.
+
+<BG=bg_talk_Hieda.png,fade=1,color=1,title=bg_Hieda,bgm=bgm_talk_aoki>
+
+Keine6a:Here we are. I made an appointment, so she should be here.
+
+Reimu0g:I'm always wowed by what a fancy place this is, no matter how many times I see it.
+
+<SE=se_talk_knock02.ogg,wait=1>
+
+Keine0c:Excuse me. I'm Keine, the teacher at the schoolhouse. Is Akyu present?
+
+<hide=all>
+
+Akyu0a:May I ask who's visiting?
+
+</hide>
+
+Akyu3a:Oh, good afternoon, Keine. I'm delighted you came.
+
+Keine6c:Good afternoon. I'm here to discuss the matter we went over previously.
+
+Keine0a:I also brought a modest gift for the Hieda family to share.
+
+Akyu0b:What a pleasant aroma... Is that taiyaki from Daimonji?
+
+Akyu3a:Oh, my family loves that. Thank you so much!
+
+Reimu0b:Haven't seen you in a while, Akyu. Looks like you've grown a bit since I last saw you.
+
+Akyu3a:Ahaha, my height's hardly different.
+
+Akyu3c:Though, my knowledge has increased quite a bit.
+
+Keine0c:Anyway, I'd like to talk to you about this scarlet mist...
+
+Akyu0a:Ah, yes. I heard about the mist from my family. I'm rather frail myself, so I haven't seen it personally.
+
+Akyu1a:Is this a serious incident?
+
+Keine1a:The mist grows thicker by the day. At this rate, it might start damaging the human body.
+
+Keine3b:That's why I started investigating with Reimu, but so far we have no idea where to even start looking.
+
+Akyu3a:I'd be happy to aid you in any way I can.
+
+Keine0a:Thank you. In that case, let's have a look around your archives. We can hear your thoughts on the matter afterward.
+
+Akyu0a:You're more than welcome to browse them. Feel free to ask any of our house staff for assistance if you need any.
+
+Keine0a:Then I think we'll do just that.
+
+Reimu3a:Really? Let's take a break and have some tea first.
+
+Keine0b:What are you talking about? I'm full, anyway.
+
+Reimu1a:I'll bet you are!
+
+Keine3b:Come along, now.
+
+<single>
+
+Akyu3a:Heh heh. Those two never change. I'll put some tea on.
+
+</single>
+
+<BG=bg_talk_Hieda.png,fade=1,color=1,title=*bg_Hieda,bgm=bgm_talk_ningyo>
+
+Keine3a:...No luck at all. All this research, and it's still given us nothing to go on.
+
+Reimu0g:Well, she went to the trouble of brewing us this strange tea, so we might as well stick around a bit longer and enjoy it.
+
+Akyu0b:It's called red tea. The leaves are left to age longer than with green tea, so it has quite a pleasant aroma.
+
+Reimu0c:Borrowing the power of the gods, huh? That explains why it's kind of sweet.
+
+Keine2a:After we finish teatime I'd like to keep at it a bit longer, but I don't even know where to start.
+
+Reimu0a:I know. Mist by itself isn't much of a hint.
+
+Akyu0a:I'm not sure if it will help, but you might try the bookshelf over there.
+
+<SE=se_talk_door_open01.ogg,wait=1>
+
+<hide=name>
+
+Youmu4a:Excuse me. I've finished my research for today.
+
+</hide>
+
+Akyu0a:You have certainly been working hard. Have you made any progress?
+
+<hide=name>
+
+Youmu3a:No, unfortunately. Old books are difficult to read.
+
+Youmu0a:I'd rather keep at it a bit longer, but I have to get dinner ready. I hope you won't mind if I come back again another day.
+
+</hide>
+
+Reimu0e:Who's this?
+
+Keine5a:No idea. I haven't seen her around the village.
+
+<hide=name>
+
+Youmu2b:Oh, you have guests over? Pardon me. I'll take my leave now.
+
+</hide>
+
+Keine0c:No, please. We don't mind.
+
+Keine0a:That aside, that's quite a dangerous-looking sword you're carrying. Are you...?
+
+<hide=name>
+
+Youmu2b:Oh, um, I'm not here for any trouble.
+
+</hide>
+
+Youmu4a:My name is Youmu Konpaku. I'm here looking into something.
+
+Akyu3a:Youmu came all the way here from the Netherworld to conduct her research.
+
+Reimu0e:The Netherworld? Wait, are you dead?
+
+Youmu0c:No, I'm half-human, half-ghost. As a hybrid, only half of me is dead.
+
+Youmu0a:This floaty little thing here is my ghost half. I'm the living half.
+
+Reimu0f:Huh. Never knew that could happen. I have heard of human and youkai hybrids, though.
+
+Keine0a:Half-ghosts are pretty rare. You wouldn't happen to be investigating this scarlet mist, would you?
+
+Youmu0c:No. My mistress assigned me to look into something else.
+
+Reimu0e:What's that?
+
+Youmu1b:She asked me to find out how to make an unblooming cherry tree bloom. I wasn't informed of the details as to why.
+
+Reimu0a:Hm... That's a weird research topic.
+
+Youmu3a:Unfortunately, I have yet to find a single clue.
+
+Youmu0a:Oh. Child of Miare, Akyu? Would you happen to know anything about it?
+
+Youmu4a:You've inherited the memories of your predecessors, right? Then if you happen to have any hints you could share...
+
+Akyu3e:My apologies, but nothing comes to mind. Although I have my predecessors' memories, it's still only bits and pieces.
+
+Akyu3c:The closest thing I can think of is the fairy tale Hanasaka Jiisan.
+
+Youmu3b:Oh... Yes, that makes sense. Thank you anyway.
+
+Youmu3a:Of course a human wouldn't know something that Lady Yuyuko herself doesn't know...
+
+Akyu3b:...Mrph.
+
+Akyu3d:If you want to know things I don't know, why don't you try visiting the Youkai Sages?
+
+Youmu2a:Ack, I'm sorry, that was rude of me! I'm just gonna go now...
+
+<SE=se_talk_run.ogg,wait=1>
+
+Reimu2b:...What was that all about?
+
+Keine4a:Who knows? Anyway, let's get back to our research.
+
+Reimu0a:Sure. I've got someplace to visit, so I can't stay for TOO long, but...
+
+<SE=se_talk_quake.ogg,wait=0>
+
+<Code=(map_shake,1,40,8)>
+
+<Code=(demo_wait,40)>
+
+<BGM=bgm_talk_emergency,0>
+
+Reimu2a:Wah!
+
+Keine2a:What was that?!
+
+Akyu2a:An earthquake...? No, that was too small of a tremor!
+
+<SE=se_talk_quake.ogg,wait=0>
+
+<Code=(map_shake,1,40,8)>
+
+<Code=(demo_wait,40)>
+
+Keine1a:This is no earthquake. Something's hitting the house!
+
+Reimu1a:Keine, let's head outside!
+
+<end>
+
+<ChatID:1>-----------------------------------------------
+//1PP
+
+Keine1a:What?! That darkness is eating away at the mansion...?
+
+Youmu1a:Are you two alright?
+
+Reimu1a:It's that girl from before!
+
+Keine1a:...No, she's not causing this. Your name was Youmu, right? What in the world is going on?
+
+Youmu1a:Something crashed into the mansion just as I was stepping outside. Then that darkness appeared...
+
+<nomove>
+
+<Code=(cursor_jump,368,352,0)>
+
+<hide=all>
+
+Rumia0a:*munch munch*
+
+</hide>
+
+</nomove>
+
+Keine1a:There's a voice coming from the darkness. It's a youkai!
+
+Reimu1a:In that case, why don't I say thank you with some of my amulets?
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,368,352,0)>
+
+<hide=all>
+
+Rumia2a:Owie!
+
+</hide>
+
+</nomove>
+
+<pause>
+
+<hide=name>
+
+Rumia2b:What was that for?
+
+</hide>
+
+Reimu0d:That's my line. What's the big idea, attacking a house?
+
+<hide=name>
+
+Rumia4a:Oh, this is a house? No wonder it's not tasty.
+
+</hide>
+
+Reimu1a:Why would you eat it?!
+
+<hide=name>
+
+Rumia0a:I was hungry, okay?
+
+</hide>
+
+Keine1a:You were HUNGRY? How does it follow that you'd eat a house?!
+
+Reimu2b:Somehow I don't think she has anything to do with the scarlet mist.
+
+<hide=name>
+
+Rumia0a:Scarlet mist? Ooh, there it is, you're right! It's all pretty like a ground cherry.
+
+Rumia5a:Hey, you're humans, right? You look tasty...
+
+</hide>
+
+Reimu0g:Oh? Who looks the tastiest?
+
+<hide=name>
+
+Rumia3a:I'm not picky about my food.
+
+</hide>
+
+Keine0a:As admirable as that is, it's not mealtime right now.
+
+<hide=name>
+
+Rumia2a:Mealtime is whenever you're hungry, if you ask me.
+
+</hide>
+
+Akyu2b:Ah! She's biting into the wall!
+
+Youmu1a:Stay back, Akyu! It is dangerous to be out here!
+
+Akyu1a:I can manage for a short while. Anyway, this youkai's name is Rumia. She has the power to control darkness.
+
+Youmu0a:It doesn't look like she can see in her own darkness, though.
+
+Akyu1a:A youkai is still a youkai. The darkness surrounding Rumia blocks lasers, so be careful.
+
+Keine1a:Understood. Please get back, Akyu. It's dangerous here.
+
+Youmu1a:I'm sure something brought us together for this. I'll assist you!
+
+Akyu1a:She deserves payback for my wall. Beat the tar out of her!
+
+Reimu1a:I don't really care about the wall, but I'm up for some youkai extermination!
+
+<Cond=(GLOBAL_VAR,is_NG0,==,0)>
+
+<TIPS=SKILL>
+
+</Cond>
+
+<Code=(cursor_jump,368,352,0)>
+
+<end>
+
+<ChatID:2>-----------------------------------------------
+//霊夢vsルーミア
+
+Rumia0a:I think you look the tastiest. Those other two aren't nearly as lean.
+
+Reimu2b:Lean...?
+
+Reimu0a:Anyway, I didn't expect to find a youkai here. It's finally starting to feel like I'm resolving an incident.
+
+<end>
+
+<ChatID:3>-----------------------------------------------
+//慧音vsルーミア
+
+Keine0a:The power to control darkness sounds pretty powerful, but it seems like you'd bump into things a lot.
+
+Rumia1a:You just don't get it. Bumping into things is a trademark feature of darkness!
+
+<end>
+
+<ChatID:4>-----------------------------------------------
+//妖夢vsルーミア
+
+Youmu0a:I never imagined that I'd end up crossing swords with a youkai while running errands...
+
+Rumia3a:I wonder if you'll be able to hit me with that sword when you're surrounded in darkness!
+
+Youmu1a:Oh, I can. The cover of darkness doesn't make you incorporeal!
+
+<end>
+
+<ChatID:6>-----------------------------------------------
+//霊夢第二話ステージ終了時会話
+
+Rumia2b:You got me!
+
+Reimu1a:Take that! Ahh, nothing beats a good youkai hunt.
+
+<nomove>
+
+<Code=(cursor_jump,368,368,0)>
+
+Akyu1a:This is payback for my wall!
+
+</nomove>
+
+Keine0b:I thought we were past the wall thing already...
+
+<nomove>
+
+<Code=(cursor_jump,368,368,0)>
+
+Akyu3e:I made that wall myself back when I was Ana. I'd made a hobby out of do-it-yourself projects back then.
+
+Akyu4b:I poured my blood, sweat, and tears into finishing it...
+
+</nomove>
+
+Youmu3a:That's... surprisingly menial labor for you.
+
+Reimu2b:Reincarnation can be confusing sometimes.
+
+Rumia2a:Rgh...
+
+Reimu4a:Oh yeah, you can go now. Let this be a lesson to live a more peaceful life.
+
+Rumia2b:Y-You're mean...
+
+Keine1a:If you act up again, I'll teach you an even more thorough lesson.
+
+Rumia1a:Grr! You haven't seen the last of me!
+
+<end>
+
+<ChatID:7>-----------------------------------------------
+//ADVB
+
+<BG=bg_talk_Hieda.png,fade=1,color=1,title=bg_Hieda,bgm=bgm_talk_aoki>
+
+Youmu3b:Whew. Well, that settles that.
+
+Reimu4a:What a disaster. No one got eaten, did they?
+
+Akyu0a:No. Fortunately, everyone seems to be okay.
+
+Keine0a:That's good. Looks like we were able to defend the place.
+
+Keine0b:I'm curious, though. Are all the youkai these days like that one just now?
+
+Keine1a:Just ambling around aimlessly like that? It didn't feel like she had any goals or convictions.
+
+Reimu3a:That's just how youkai are. Threatening humans is what gives their existence meaning.
+
+Keine3a:These simple types think they can get by just threatening and attacking, all without realizing that makes them LESS threatening to humans.
+
+Keine1a:I think the youkai might be in need of some historical education to improve their baseline knowledge...
+
+Reimu5c:Yeah, yeah, we all know how zealous you are about teaching.
+
+Keine3b:I'm completely serious, you know. If you're a specialist in resolving incidents, you should at least try to learn from history a bit.
+
+Keine1a:What do you think, Youmu?
+
+Youmu2b:Huh? You're asking me now?!
+
+Akyu3c:Now now, I'm sure you're all worn out after that.
+
+Akyu0a:Besides, simple-minded youkai aren't really something worth worrying about.
+
+Akyu0a:It may be true that the number of youkai unaware of their own existential significance is on the rise...
+
+Akyu3a:However, that diversity in types of youkai is part of what makes them so fascinating.
+
+Akyu3a:In fact, I hear that nowadays there are youkai that run food carts.
+
+Keine6a:Hmm... That does sound more convincing coming from you, Akyu.
+
+Akyu0a:Well, I've been observing Gensokyo's youkai for a long time.
+
+Akyu0b:I look forward to seeing how the growing youkai of today will mature as they get older.
+
+Keine6c:When you put it like that, it makes me want to watch over the youkai and see how they end up as well.
+
+Reimu0b:You'd have to live even longer for that, Keine.
+
+Keine0b:How rude. I'm not that old...
+
+Youmu0c:Come on, you two.
+
+Youmu2b:Oh, I'd actually better get going now.
+
+Akyu0a:Ah, of course. Thank you for the unexpected offer of aid today.
+
+Youmu4c:I should be thanking you for letting me look through your archives. So long for now.
+
+Reimu0g:Well, should we head out too? I want to do some shopping in the market.
+
+Keine0a:Now that you mention it, I need to go shopping too. Mind if I tag along?
+
+Reimu0b:Not at all. They're gonna close if we don't hurry, though.
+
+Keine6c:Well, it's time for us to head off, Akyu. Thank you for having us today.
+
+Akyu3a:Certainly. Feel free to visit again whenever you like.
+
+<Code=(demo_wait,15)>
+
+<single>
+
+Akyu3e:*sigh* Now my wall's a mess.
+
+Akyu0b:"The Youkai of Twilight, Rumia. If she crashes into your wall, be sure to punish the heck out of her." ...There, done.
+
+Akyu3a:I think I'll add this to the Gensokyo Chronicle.
+
+<end>
+
+<ChatID:9>-------------------------------------
+//WP条件達成
+
+Reimu0b:Wow, you move pretty well.
+
+Youmu0a:I'm staying in measure like my master taught me: at my sword's ideal range.
+
+Youmu0a:I'm more suited for melee combat than maintaining distance.
+
+Keine0a:That's your unique ability, Youmu. Let's make good use of our specialties in combat.
+
+Reimu0b:Yeah, so leave the youkai extermination to me!
+
+<end>
+
+<ChatID:10>-------------------------------------
+//メーコ初戦闘
+
+<end>
+
+<ChatID:11>-------------------------------------
+//まくら初戦闘
+
+<end>
+
+<ChatID:12>-------------------------------------
+//メーコvs.ルーミア
+
+Meko7b:Heh heh heh...
+
+Rumia0a:Ooh, what is it?
+
+Meko0e:If it's the Rumia from back then, then even I could stand a chance!
+
+Meko1f:C'mon Shirakawa, let's do this!
+
+Rumia4a:*chomp* *chomp*
+
+Meko5c:Hey, stop! Don't eat him!
+
+<end>
+
+<ChatID:13>-------------------------------------
+//まくらvs.ルーミア
+
+Makura0f:Did you eat the Hieda manor...?
+
+Rumia3a:Tasted pretty bad though. All those walls and stuff.
+
+Makura0g:...Always taking shots in the dark. But she has a completely uninhibited simplicity.
+
+Makura3c:A threatening way of life like that is truly beautiful.
+
+<end>
+
+<ChatID:14>-------------------------------------
+//ルーミアvs.ルーミア
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Rumia1a:Huh? It's me?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Rumia3a:Weird!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Rumia4a:Sure is.
+
+Rumia3a:But kinda fun too.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Rumia0a:I really get you, me.
+
+</nomove>
+
+<end>
+
+<ChatID:15>-------------------------------------
+//神綺vs.ルーミア
+
+Shinki0c:Akyu has such a lovely Japanese-style manor.
+
+Rumia1a:Tastes bad though!
+
+Shinki2b:I'm sure you'd go "Ew!" Some things go in your mouth, and some don't!
+
+Rumia3a:Oh, really?
+
+<end>
+
+<ChatID:16>-------------------------------------
+//依姫vs.ルーミア（要否は検討）
+
+Yorihime0b:Wasn't there a rule about youkai not attacking the village?
+
+Rumia0a:I just found myself there, so what could I do?
+
+Yorihime0a:How barabaric. Is that what everyday life is like in Gensokyo?
+
+<end>
+
+<ChatID:17>-------------------------------------
+//豊姫vs.ルーミア（要否は検討）
+
+Toyohime0a:Being near the village is bothersome in so many ways.
+
+Rumia0a:Yeah?
+
+Toyohime0b:I have to adjust my fan's power output, for one. Can't very well go disintegrating it, now can I?
+
+<end>
+
+<ChatID:18>-------------------------------------
+//鈴仙vs.ルーミア（要否は検討）
+
+Udonge0a:You ran into a wall and... bit it? And you never get any less crazy...
+
+Rumia0a:What?
+
+Udonge0a:Just talking to myself. Even in darkness, I'll find your wavelength!
+
+<end>
+
+<ChatID:19>-------------------------------------
+//早苗さんvs.ルーミア（要否は検討）
+
+Sanae0a:Right, this is how Reimu and Keine felt when I first met them.
+
+Sanae0a:The cool Reimu is great and all, but I thought the sloppy Reimu was cute in her own way.
+
+Rumia0a:What're you talking about?
+
+Sanae0a:N-Nothing.
+
+<end>
+
+<ChatID:20>-------------------------------------
+//ゆゆ様vs.ルーミア（要否は検討）
+
+Yuyuko0a:Oh right, I'd asked Youmu to investigate something.
+
+Rumia0a:You...mu?
+
+Yuyuko0a:I mean my gardener over there. Her immature side is just as cute back then as it is now.
+
+<end>
+
+<ChatID:21>----------------------------------------
+//R02：ルーミアvs.非想天則
+
+Tensoku0a:...
+
+Rumia1a:Wow, you're kinda amazing.
+
+Rumia0a:You look hard, but it feels like you're alive.
+
+Rumia5a:I'd better give it a bite and make sure.
+
+Tensoku0a:...?!
+
+<end>

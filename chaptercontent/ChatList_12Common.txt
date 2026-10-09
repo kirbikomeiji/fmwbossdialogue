@@ -1,0 +1,1863 @@
+﻿○共通第十二話「夏の別荘
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: S Formation
+ 3: 3PP about Combi attack
+ 4: after Proto Marice
+ 5: 4PP about Amaterasu
+ 6: win
+ 7: ADVB
+ 8: Sunny beaten
+ 9: Star beaten
+10: Luna beaten
+11-: battle vs. ...
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<MAP=3,FROM=霧雨邸,TO=霧雨邸,name=Kirisame Residence,icon=2>
+
+<BG=*bg_talk_Marisa.png,fade=1,color=1,title=*bg_Fewdayslater>
+
+<hide=face>
+
+Marisa0a:Zzz...
+
+</hide>
+
+<Code=(demo_wait,15)>
+
+<BG=bg_talk_Black.png,fade=1,color=1,title=*bg_Unknown>
+
+<Code=(demo_wait,15)>
+
+Noname0a:...sa... Ma...ri...sa... Can y... ...ear me?
+
+Marisa2a:Mm... Mrgh...
+
+Noname0a:Mari... sa.... Marisa.
+
+Marisa0a:Ooh, is this what I think it is?
+
+Noname0a:Marisa, you did well in solving the mystery of the mist.
+
+Noname0a:You possess great power for a human, as does the girl named Reimu.
+
+Marisa3a:This feeling... It's the same as the dream I had before resolving the incident...
+
+Marisa3a:Okay, who are you? Why did you tell me about the Scarlet Devil Mansion?
+
+Noname0a:I couldn't stand seeing humans suffer over that scarlet mist.
+
+Marisa3b:...
+
+Noname0a:This has given me a small understanding of how supernatural affairs work in this land.
+
+Noname0a:Rest well, and be in good health.
+
+Marisa1a:Wait! I've got questions for you—
+
+<BG=bg_talk_Marisa.png,fade=1,color=0,title=*bg_Marisa,bgm=bgm_talk_aoki>
+
+Marisa1a:...!
+
+Marisa3a:That dream... again.
+
+Marisa3a:The heck is going on? I can't be cursed or something, can I? Or maybe some evil spirit is haunting me...
+
+Marisa0a:Well, it doesn't seem to be causing any harm, so I won't take it too seriously.
+
+<SE=se_talk_hit02.ogg,wait=0>
+
+<Code=(map_shake,1,10,4)>
+
+<Code=(demo_wait,10)>
+
+Marisa0a:Ohh, what's up now?
+
+Bat0a:...
+
+Marisa0a:...You're one of Remilia's bats. What are you doing here?
+
+Bat0a:...
+
+Marisa0a:A letter? From Remilia, I'm guessing. Lessee...
+
+<Code=(demo_wait,15)>
+
+Marisa3a:...A party?
+
+<Code=(transition_out,c_black,15,1)>
+
+<MAP=0,FROM=霧の湖,TO=霧の湖,name=Misty Lake,icon=5>
+
+<BG=*bg_talk_Lake.png,fade=0,color=1,title=*bg_Lake,bgm=bgm_talk_aoki>
+
+Yousei10a:Rock, paper, scissors!
+
+Yousei22a:Ahh, I lost...
+
+Yousei10a:You're it, then! Count to a hundred then shout "ready or not"!
+
+Yousei20a:Aww, I wanted to hide too...
+
+Yousei20a:...Huh? Isn't that Daiyousei heading this way?
+
+Daiyosei0a:Cirnooo? Cirnooo!
+
+Daiyosei3b:...That's odd. Where did she go off to?
+
+Yousei10a:Looking for Cirno, Daiyousei?
+
+Daiyosei0a:Ah, yeah. I can't find her anywhere...
+
+Yousei20a:I saw her just now. She was flying that way with that trio.
+
+Daiyosei2c:Huh...? She was with someone else?
+
+Yousei20a:Yeah. They were heading to the red house.
+
+Yousei10a:Oh yeah, remember how Cirno said that she beat up a devil in that house? What a weird lie.
+
+Yousei20a:Yeah! Not even Cirno would go to some creepy place like that.
+
+Daiyosei0a:Um, she did, actually...
+
+Daiyosei3b:...But why did she go off without me?
+
+Yousei10a:...Are you lonely, Daiyousei? I guess you would be, since you're always with Cirno.
+
+Daiyosei2c:N-No! I am not!
+
+Daiyosei0a:I was just thinking that going to that red house isn't the best idea...
+
+Yousei20a:Just let her be, she'll be fine.
+
+Yousei10a:Yeah, come and play hide-and-seek with us!
+
+Daiyosei0a:...Yeah, okay. I won't be able to catch up with her now anyway...
+
+Daiyosei0a:...
+
+Daiyosei0a:(So she was going to the red house... I hope she's not doing anything dangerous.)
+
+<MAP=0,FROM=紅魔館,TO=紅魔館,name=Scarlet Devil Mansion,icon=5>
+
+<BG=*bg_talk_Koumakan_Int.png,fade=1,color=1,title=*bg_Koumakan_Kitchen,bgm=bgm_talk_gag>
+
+Cirno1a:Ooh, I smell something good. We came out in the perfect place.
+
+Rumia0a:Yeah, this is the kitchen. It was worth it to tag along!
+
+Star0a:With all the sneaking around we've been doing recently, we won't feel out of place in a thieves' guild now.
+
+Sunny0a:We might as well live here. This place is so big, as long as we're careful, we won't ever be caught.
+
+Sunny0a:And if anything happens, I'll just make us disappear.
+
+Cirno0a:Your power is really amazing. That gatekeeper didn't notice us at all.
+
+Luna0a:Yep, we're the ultimate fairies for hide-and-seek.
+
+Sunny0a:Speaking of that, your power's kinda disappointing.
+
+Rumia0a:Aww, why's that?
+
+Sunny0a:I brought you along thinking that your power over darkness would be amazing in hide-and-seek...
+
+Sunny3a:But darkness in the afternoon stands out way too much. It ends up revealing your position to everyone.
+
+Star0a:And you're supposed to be a youkai, but you don't feel like one.
+
+Rumia1a:Wow, rude. I can let you all cool off in my darkness, you know.
+
+Luna0a:It's true that it's very cooling inside that darkness, but it's also really cramped.
+
+Star0a:Besides, with Cirno around, it's cooling to begin with.
+
+Rumia2b:There's no pleasing this group!
+
+Sunny0a:Hey, let's hurry up and play some pranks. That's what we brought the grass for.
+
+Star0a:Ahh, that's one of the ingredients for bitter dumplings. What are you going to do with that?
+
+Sunny0a:Hehe... We'll use that bread there to make a bitter grass sandwich.
+
+Sunny0a:Once it's done, we'll place it on the floor over there.
+
+Luna0a:Place it on the floor...? Would that really count as a prank?
+
+Sunny0a:Yep. When there's a tasty-looking sandwich just sitting out, there's bound to be someone greedy enough to go for it.
+
+Rumia0a:Ahh, I getcha.
+
+Cirno1a:Hmhm, so it's a decoy operation!
+
+Star1a:...Wait, someone's coming!
+
+<single>
+
+<nowindow>
+
+<SE=se_talk_walk.ogg,wait=1>
+
+</nowindow>
+
+Remilia2a:*yaaawn*
+
+</single>
+
+Sakuya0b:You're up early today. It's still the afternoon, you know.
+
+Remilia0a:Yes. All my recent noontime outings have messed up my sleep schedule...
+
+Remilia0a:So, are you feeling better now?
+
+Sakuya0a:Yes, thank you. My apologies for not being able to serve you during my week of rest.
+
+Sakuya0b:I will be resuming my duties from today onwards, so please let me know if you need anything at all.
+
+Remilia0a:It's good that you're healthy again. It was rather inconvenient without you around.
+
+Remilia1a:Oh yes, let's hold a party tonight to celebrate your recovery.
+
+Sakuya0b:...Huh?
+
+Remilia0a:It'll provide a break for the maids as well. They must rest every now and then to preserve their mental health.
+
+Sakuya5a:Surely a maid who's neglected her professional duties doesn't deserve a party in her honor...
+
+Sakuya0a:Furthermore, there's no need to worry. The maids are all happily performing their work.
+
+Remilia0a:My, does that apply to you as well?
+
+Sakuya0b:...?
+
+Sakuya0b:Why, yes, of course...
+
+Remilia0a:...Regardless, we're having a party, and that's that. Ready the preparations, if you would.
+
+Sakuya0b:...Very well. It will soon be colder in the fall, so it should be nice holding an outdoor party while we still can.
+
+<Code=(demo_wait,15)>
+
+Cirno0a:...Heheh, it's kinda thrilling hiding from someone who's right in front of you.
+
+Sunny0a:We're old pros at this. There's limits to what I can do with optical illusions in a building though, so don't make too much of a fuss.
+
+Rumia1a:Aww, but there's so much tasty-looking meat right in front of me...
+
+Rumia4a:Well, whatever. *chomp*
+
+Luna1a:You idiot, they can see that disappearing!
+
+Sakuya0b:...Oh?
+
+Star1a:Uh-oh, she noticed!
+
+Sunny1a:Hide somewhere before she blows our cover!
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+Remilia0a:What's the matter, Sakuya?
+
+</single>
+
+Sakuya0b:I thought I saw the pork over there mysteriously disappear...
+
+Remilia0a:Surely you're imagining it. Do you need some more rest?
+
+Sakuya0b:...No, I'll be fine. I'll begin preparations for the party at once.
+
+<BG=bg_talk_Koumakan_Basement.png,fade=1,color=1,title=bg_Koumakan_Basement,bgm=bgm_talk_interlude02>
+
+Cirno0a:...Whew, she didn't find us. That's the maid and the devil of the mansion.
+
+Luna0a:That was scary. From what I just saw, that devil seems really powerful too...
+
+Star0a:Where are we, anyway? It seems we ended up hiding in a strange place...
+
+Sunny0a:What an eerie door. It's got this ominous vibe, like it's a forbidden door that must never be opened.
+
+Sunny0a:Through this door is the remains of the wife that the devil killed...
+
+Luna2a:H-Hey... Cut that out. Besides, the devil here is a girl.
+
+Rumia0a:Who cares? Let's open it.
+
+Star0a:Ah, we should probably investigate it a bit further...
+
+<Code=(demo_wait,15)>
+
+Rumia0a:Huh, it won't open.
+
+Luna0a:What a strange door... How does it even open? There's no handle.
+
+Star0a:The jewels on the front are pretty though. I want to take one with us when we go.
+
+Cirno1a:Ooh, that's it!
+
+Sunny0a:Ack, you scared me! Why did you shout like that?
+
+Cirno0a:The fairies at the lake don't believe anything about the adventure I went on.
+
+Cirno1a:So I'm gonna bring one of these jewels back and show 'em who's right and who's wrong!
+
+Luna0a:You're actually taking one? Don't come crying to me if you get cursed by it.
+
+Star0a:It should be fine. There's so many of them here, taking one shouldn't make a big difference.
+
+Sunny1a:Yeah, there you go. Hrrgh!
+
+<Code=(map_flash,1,10,c_white)>
+
+<SE=se_kyupin01.ogg,wait=1>
+
+Cirno1a:Ahh, I called dibs first! No fair!
+
+Sunny0a:You snooze, you lose. Can't you just take another one anyway?
+
+Cirno0a:Mrr... I'm gonna take the blue and green one then. It'll match Dai!
+
+Luna0a:I'm not sure taking this many is a good idea...
+
+Rumia0a:...Ooh, I smell something good. The party may have started.
+
+Sunny0a:Good timing. Let's go grab a bite!
+
+<Code=(demo_wait,10)>
+
+Noname0a:...
+
+Star0a:...?
+
+Cirno0a:Hm? What's up?
+
+Star0a:Oh, I thought I sensed something for a moment...
+
+Sunny0a:Huh? There can't be any living things around here.
+
+Sunny0a:Anyway, I'm hungry! Let's get to that party, quick!
+
+<nowindow>
+
+<Code=(demo_wait,45)>
+
+<MAP=0,FROM=紅魔館,TO=紅魔館,name=Scarlet Devil Mansion Garden,icon=5>
+
+<BG=*bg_talk_Koumakan_Gate.png,fade=1,color=1,title=*bg_Party,bgm=bgm_talk_aoki>
+
+</nowindow>
+
+<SE=se_talk_gaya.ogg,wait=1>
+
+Remilia0a:*chuckle* My, but you DO work fast, Sakuya.
+
+Sakuya0b:You humble me with your praise. By all means, help yourselves.
+
+Remilia0a:In that case, I would like to make a toast... But what shall we toast to?
+
+Marisa0a:Wasn't it supposed to be for her recovery?
+
+Remilia0a:She rejected that notion herself.
+
+Sakuya1a:Wh... What are you all doing here?
+
+Reimu4a:You get a perfect excuse to have a drink, and you don't want to take it? Every time I learn something about you, you just seem weirder.
+
+Keine0a:Thank you for having us.
+
+Alice0c:We were invited here by Reimu, and weren't busy, so...
+
+Sakuya0b:...I never sent you any invitations. Would you mind leaving?
+
+Reimu0e:Hey, don't be like that. Your mistress is always crashing the parties at my place, so fair's fair.
+
+Marisa0a:Yeah. We have our hands full dealing with her antics.
+
+Sakuya0b:She keeps crashing human parties...?
+
+Sakuya5b:...Mistress, is this true?
+
+Remilia0a:Indeed it is. The food was humble, but it was better than having Chinese every day.
+
+Sakuya0b:...
+
+Keine0a:I suppose you won't have prepared any food for us then. We'll have to snack on whatever's left.
+
+Marisa0a:Why let all these unusual dishes go to waste? Check it out, this one's got vinegar and lemon in it.
+
+Alice0a:Ugh, do you have ANY manners? You're going to stand out like a sore thumb if you don't behave yourself.
+
+Reimu4a:Oh, really? The way I see it, you're the one standing out.
+
+Reimu0g:You've dressed up so much... Do you like Western parties a lot?
+
+Alice1a:Quiet, you. You're supposed to dress up nicely for parties.
+
+Remilia1a:My, so there's someone here with class. I didn't establish a dress code, since I figured no one would follow it anyway.
+
+Alice0c:You see? If there was a dress code, I would've prepared a nice dress for Keine too.
+
+Keine2b:Why me?! I don't need one. That's not my style.
+
+Alice0a:Really? I think you'd look good in one.
+
+Reimu0g:Now that you mention it, Keine would fill something like that out nicely...
+
+Keine5a:I'm not sure I care for where you're looking as you say that. Enough about me, concentrate on your food!
+
+Marisa0a:Hmm, there don't seem to be any human guests besides us. It's all fairy maids.
+
+Remilia0a:Sorry about that. I don't know that many humans to invite to my parties.
+
+Reimu0c:Doesn't bother me. Just means more food for us.
+
+Keine3a:Can't you go five minutes without saying something crass? Have you heard of enjoying fine food quietly?
+
+Keine0b:...Hm?
+
+<hide=all>
+
+Sunny2a:Run away!
+
+Rumia0a:We're running now?
+
+Kurumi1a:Wait! You're not getting away!
+
+</hide>
+
+Sakuya1a:Those voices...
+
+Marisa0a:Hey, I remember them.
+
+Cirno0a:Gah, now we've been spotted by the maid!
+
+Star0a:And there's the shrine maiden and magician we met before!
+
+Kurumi1a:You're not getting away! I'll definitely catch you, then I'll make you...
+
+Sakuya0b:Lady Kurumi, what's all the fuss about?
+
+Kurumi2a:Ahh, listen Sakuya! They fed me a sandwich that was reaaaally bitter!
+
+Kurumi2a:It was about as bitter as persimmon or bitter melon! It was horrible!
+
+Sunny1a:What's your problem? We just left it on the floor, you're the one who picked it up and ate it! You greedy pig!
+
+Reimu4a:It was left on the floor...?
+
+Alice0b:...They have a point. Most people generally don't eat food that's sitting on the floor.
+
+Kurumi0a:Look... I was hungry, okay?
+
+Marisa0a:Even then, it's a bad idea.
+
+Kurumi1a:Oh, shut up! Whatever the case, I'm not letting those fairies escape!
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP
+
+<Code=(icon_set_direction,Kurumi,FD_RIGHT,0)>
+
+Kurumi1a:Hah, I've got you now!
+
+Luna1a:Hey, she's getting closer!
+
+Sunny0a:Hmm, she flies faster than I thought... We won't be able to shake her.
+
+Rumia0a:Wait, do we actually need to run away from her?
+
+Cirno0a:Ahh, that's true. It'd be faster if I just freeze her into a block of ice.
+
+Kurumi1a:Grrr, don't make fun of me! I'll use that technique Elly taught me...
+
+Kurumi1a:Come out, evil eyes and ghosts!
+
+<pause>
+
+Star2a:Eep! It's those monster eyeballs and ghosties!
+
+Rumia0a:Huh, so she can actually do devil stuff!
+
+Kurumi0a:Hehehe, were you surprised? Even I can do stuff like this!
+
+Kurumi1a:Alright, everyone. Punish them with all your might!
+
+Sunny2a:Uh-oh, they're coming our way!
+
+Evileye0a:...
+
+Kurumi0a:...
+
+Kurumi0a:Uh... Hello? Do the thing!
+
+Evileye0a:...!
+
+<pause>
+
+Kurumi2a:Wah?!
+
+Kurumi0a:Hey! What are you doing? Your targets are the fairies over there!
+
+Evileye0a:...!
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,192,224,0)>
+
+Maid0b:Nooo! The food we made!
+
+</nomove>
+
+Kurumi0a:What's going on?!
+
+<nomove>
+
+<Code=(cursor_jump,304,272,1)>
+
+Alice0a:...It seems those eyeball youkai aren't listening to orders.
+
+</nomove>
+
+<nomove>
+
+<Code=(cursor_jump,272,272,0)>
+
+Remilia0a:She lacks the charisma to command them. That's how you get familiars attacking you.
+
+</nomove>
+
+<nomove>
+
+<Code=(cursor_jump,224,240,0)>
+
+Marisa0a:Heh, guess controlling familiars ain't easy.
+
+</nomove>
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,224,240,0)>
+
+Marisa0a:Whoa there!
+
+</nomove>
+
+<nomove>
+
+<Code=(cursor_jump,192,272,0)>
+
+Reimu3c:Ahh! My prosciutto e melone!
+
+Reimu0d:That was the last of it. I was saving that for last! What's the big idea?!
+
+</nomove>
+
+<nomove>
+
+<Code=(cursor_jump,272,272,0)>
+
+Remilia0a:It doesn't look like they're stopping anytime soon. If you wish to relax and enjoy your meal, why not get rid of them yourself?
+
+</nomove>
+
+<nomove>
+
+<Code=(cursor_jump,192,272,0)>
+
+Reimu2b:Aaaugh... Oh fine.
+
+</nomove>
+
+<nomove>
+
+<Code=(cursor_jump,224,240,0)>
+
+Marisa0a:Exercise before the meal, huh? Let's do this!
+
+</nomove>
+
+<end>
+
+<ChatID:2>----------------------------------------
+//1PP-2
+
+Kurumi0a:Huh? Are you here to help?!
+
+Reimu0g:Yeah, it works out that way.
+
+Marisa0a:We're gonna clean up these crazed evil eyes... then get those fairies while we're at it.
+
+Star1a:Wait, this doesn't have anything to do with you all!
+
+Alice0c:Reimu's prosciutto e melone would beg to differ, if it wasn't a pile of ash. Consider this punishment for messing with people's food.
+
+Keine1a:This is also a good chance to test out my new spellcard.
+
+Luna0a:Oh, no! First the melon gets burned, then we get the same treatment?
+
+Kurumi0a:Well, take it away, everybody!
+
+<end>
+
+<ChatID:3>----------------------------------------
+//1EP、Sフォーメーションイベント
+
+Luna0a:We're going to be backed into a corner at this rate.
+
+Star0a:Then our only choice is to work together to get through this.
+
+Sunny1a:Okay, let's do what we practiced before!
+
+Marisa0a:What are they up to? They've all moved next to each other...?
+
+Sunny0a:Check THIS out. We may be mere fairies by ourselves, but together, we are three fairies!
+
+Sunny1a:This is the true power of the Three Fairies of Light!
+
+<pause>
+
+Keine1a:They all attacked simultaneously...?!
+
+Cirno1a:That ruled!
+
+Rumia0a:You think? All they did was attack together.
+
+Alice0a:Since they each have low firepower, they combined their potency together... It's simple, but logical.
+
+Marisa0a:That's pretty clever, actually. I'm impressed fairies came up with that.
+
+Marisa0a:In fact...
+
+Alice0a:Hm? What is it?
+
+Marisa0a:I just got an idea. Hear me out, okay?
+
+<end>
+
+<ChatID:4>----------------------------------------
+//2PP会話：合体攻撃について
+
+Marisa0a:So that's about it, Alice. Let's try attacking together too.
+
+Alice0a:Attacking together? You mean like that combined attack we just saw?
+
+Alice0c:Why me, anyway? Surely you're more in sync with Reimu.
+
+Marisa0a:We're both magicians, that makes us a good match. Now get over here.
+
+Keine0a:By attacking simultaneously, you should be able to reduce your energy consumption.
+
+Keine0a:In addition, you might be able to use more powerful spells you couldn't use apart.
+
+Marisa0a:C'mon, just try it with me once, for science.
+
+Alice0c:...Oh, fine. If you insist.
+
+<end>
+
+Marisa0a:Miss Keine, mind explaining that?
+
+Keine0a:Allow me to explain. Combination Attacks are exactly what they sound like. Several units combine their power to deliver an attack.
+
+Keine0a:You can use them as long as the participants are adjacent, either vertically, horizontally, or diagonally.
+
+Alice0a:...I see, so Marisa and I must be next to each other in order to perform it.
+
+Keine0a:Basically, yes. There are Power and MP requirements as well.
+
+Keine0a:In order to perform a Combination Attack, all involved units must have the required Power and MP.
+
+Marisa0a:That about sums it up. Let's give it a try.
+
+Alice0c:...Oh, fine. If you insist.
+
+<end>
+
+<ChatID:5>----------------------------------------
+//プロトマリス砲使用後会話
+
+Marisa0a:There we go. Nothin' to it.
+
+Alice0a:That WAS rather high potency.
+
+Keine0b:Not to belabor the obvious for such an ad hoc attack, but that really was just two people attacking together.
+
+Reimu4a:Yeah, your timing and cues were totally out of sync.
+
+Marisa3d:That's okay. That's something to iterate on later.
+
+Alice0a:Ah, so you're not simply calling it done now.
+
+<end>
+
+<ChatID:6>----------------------------------------
+//3PP開始時：アマテラスについての会話
+
+Reimu0e:Oh yeah. You brought a new spellcard, didn't you, Keine?
+
+Keine0a:Yes. I realized in the battle against the vampire that for some enemies, you can't simply charge in and expect it to work.
+
+Keine1a:My new spellcard Amaterasu uses the power of the sun to brighten the darkness. No evil will be able to escape it.
+
+Marisa0a:Personally, I think you're at your best when you're charging in.
+
+Keine0b:What, do you think I'm some wild boar or bull?
+
+Alice3a:Your new spellcard seems useful, though. We'll be counting on you.
+
+<end>
+
+<ChatID:7>----------------------------------------
+//勝利条件達成時
+
+Marisa0a:Alright, that's all of 'em dealt with.
+
+Kurumi0a:Thanks a lot, everyone. This takes a load off my mind!
+
+Reimu3b:That's good to hear. Though we didn't really do this for you.
+
+Kurumi0a:C'mon Reimu, would it hurt you to be happy for me?
+
+Reimu1a:Since when are we that close?!
+
+<nomove>
+
+<Code=(cursor_jump,272,272,1)>
+
+Remilia0a:Nicely done. There's plenty of food left on the table for everyone.
+
+</nomove>
+
+Keine0a:Glad to hear it. Back to the party for us, then.
+
+Alice0a:...Speaking of which. Your name was Kurumi, right? Would you like to join us?
+
+Kurumi0a:Huh? Wait, me?!
+
+Alice3a:Yes. You said you were eating food off the floor earlier, right? There's plenty of proper food to be had here.
+
+Kurumi0a:Oh, gosh. A formal invitation? You're making me blush...
+
+Kurumi0a:Okay, do you girls mind if I join you?
+
+Marisa0a:Why would I? What's one more partygoer in a big crowd?
+
+Reimu0g:Alright, let's continue the party!
+
+<end>
+
+<ChatID:8>----------------------------------------
+//ADVB
+
+<MAP=0,FROM=紅魔館,TO=紅魔館,name=Scarlet Devil Mansion Garden,icon=0>
+
+<BG=*bg_talk_Koumakan_Gate.png,fade=0,color=1,title=*bg_Party,bgm=bgm_talk_aoki>
+
+Sakuya0b:The commotion appears to have abated.
+
+Remilia0a:Good thing it was settled so quickly. Otherwise your feast would have gone cold.
+
+Sakuya0b:I apologize for the humans and fairies causing trouble.
+
+Remilia0a:Oh, I hardly mind. What's a party without a little entertainment?
+
+Remilia0a:In fact, you could stand to talk with those humans more. They're quite fun.
+
+Sakuya0b:...You think so?
+
+Remilia0a:Certainly. I might be inclined to send them proper invitations to my future parties.
+
+Remilia1a:...Yes, that will do. I've decided what my toast will be to.
+
+Sakuya0b:What might that be?
+
+Remilia1a:It will be a toast to celebrate today... When the relations between the Scarlet Devil Mansion and Gensokyo entered a new stage.
+
+Sakuya0b:...
+
+<SE=se_talk_glass01.ogg,wait=1>
+
+<Code=(demo_wait,10)>
+
+<BG=bg_talk_Koumakan_Gate.png,fade=1,color=1,title=*bg_Party,bgm=bgm_talk_aoki>
+
+Marisa0a:Mm, this is really great. I'm so glad there was still some food left.
+
+Reimu0b:Seriously. Who made all this, anyway?
+
+Alice0a:...Still eating, are you?
+
+Keine0a:Ah, Alice. You're back. Kurumi took quite a shine to you, didn't she?
+
+Alice0a:Well, she's gone back to her room to rest now. She must be drowsy after filling up on all that food.
+
+Remilia0a:I hope you're all enjoying this terrestrial party.
+
+Marisa0a:Ah, here's the hostess now. Yeah, we've been having a lotta fun.
+
+Reimu0g:Terrestrial? As opposed to what? Subterranean? Lunar?
+
+Keine0a:Allow me to thank you again. The music is good, and the food is wonderful. You have a very capable chef.
+
+Remilia0b:To be clear, we don't have a chef team. All of this food is made by Sakuya.
+
+Reimu3c:Huh? ALL of it?
+
+Alice0a:...This massive amount of food was made by one person?
+
+Sakuya0b:Yes, that's right.
+
+Remilia0a:It's nothing special. Sakuya can prepare this much in three minutes.
+
+Marisa0a:C'mon, you're pullin' my leg. I've seen instant noodles before, but that was nothing compared to THIS.
+
+Alice0a:Even if she can teleport, that doesn't mean she has extra sets of hands.
+
+Remilia0a:My, you never noticed what Sakuya's power was?
+
+Keine0a:We never heard the details. What kind of power is it?
+
+Sakuya0b:I possess the ability to manipulate time... Teleportation is merely an application of that.
+
+Alice0a:The ability to... manipulate time?
+
+Keine0a:That's incredible.
+
+Remilia0a:Heh heh. Isn't it, though? There's no human like Sakuya around.
+
+Marisa0a:It sounds pretty fun though. There's so many things you can get away with if you can stop time.
+
+Reimu0c:It sounds like she stays busy, though.
+
+Sakuya5b:...?
+
+Marisa0a:You look like somebody just cast a confusion spell on you. What's up?
+
+Sakuya0b:...Don't mind me. I just thought you'd be a little more surprised.
+
+Keine0a:Oh, I am, I assure you. I've never heard of a human possessing a power like that.
+
+Marisa0a:Being able to clean a house in an instant is the perfect maid power. You should come clean up my place sometime.
+
+Alice0c:Don't invite people to the Forest of Magic so freely. They'll end up lost and unable to find their way out.
+
+Sakuya0b:You live in the Forest of Magic?
+
+Marisa0a:Yeah? Why?
+
+Sakuya0b:If you live outside the village, I suppose that means you're also...
+
+Remilia0a:Ah, Sakuya? Where's my glass?
+
+Sakuya0b:I believe you left it somewhere... Shall I search for it?
+
+Remilia0a:No, that's alright. I'll go looking myself for once.
+
+<single>
+
+Keine0a:I'm sorry, you were saying?
+
+</single>
+
+Sakuya0b:You said you lived outside the village. That means you're like me, I take it—unable to feel at home there.
+
+Marisa0a:Huh? Nah, that ain't it. I didn't start living in the forest 'cuz I hated the village.
+
+Reimu4a:Oh? I thought you found it awkward. You left home years ago, after all.
+
+Marisa2b:Hey, don't bring that up.
+
+Alice0a:Marisa left home?
+
+Keine0b:I hadn't heard about that. You ran away from home, then?
+
+Marisa3a:Ugh, why are we even talking about this? Oh well, it's not like I'm trying to hide it.
+
+Marisa3d:My parents run a store in town. I had a little fight with them years back, and they kicked me out.
+
+Sakuya0b:...
+
+Alice0b:...So that's how it is. I was wondering why you never talked about your family.
+
+Sakuya0b:Did they kick you out because you could use magic?
+
+Marisa0a:Not exactly. I wanted to STUDY magic, and they just weren't having it.
+
+Sakuya0b:...Yet you ended up living in a remote place like the Forest of Magic. That means people don't understand you, right?
+
+Marisa0a:Hmm... Not really. We just saw things differently.
+
+Marisa0a:In the end, it was my decision to leave home. And now I get to use magic, so I'm happy enough with that.
+
+Reimu0g:Yeah, and Rinnosuke lives near you too.
+
+Marisa3d:He's got nothin' to do with this. We just happen to live kinda close together.
+
+Sakuya0b:...
+
+Alice0a:When I first saw you at the Scarlet Devil Mansion, I thought you were one of them.
+
+Sakuya0b:What do you mean?
+
+Alice0a:I thought you lived here because you wanted to be among devils.
+
+Alice0a:Now I see that I was mistaken.
+
+Sakuya0b:...Yes, as I said before, I work here to put food on the table. I'm not doing this because I enjoy it.
+
+Keine0a:It can't be easy working in a way that fits a youkai's lifestyle.
+
+Keine0a:You know, I could refer you to other work if you're interested.
+
+Sakuya5b:...Pardon?
+
+Keine0a:I won't force the matter, of course. But if you're truly not here because you want to be, you could always find other accommodations.
+
+Marisa0a:She's got a point. A cook as good as you could find work anywhere.
+
+Sakuya0b:Let's not get ahead of ourselves. For one thing, I highly doubt there are any openings for me. And humans and I don't tend to get along well.
+
+Reimu0g:That's not true. You're about the only person around here that could chill out and have drinks with humans and youkai together.
+
+Keine0a:And I'm sure you have personal connections with the devils here too. But give it some thought, and let me know if you ever change your mind.
+
+Sakuya0b:...
+
+Marisa0a:Well, how's about we get going? We can drink some more at the shrine.
+
+Reimu2b:...It's always about that with you. Just be warned, I don't have anything to drink there.
+
+Alice0a:Thank you for having us. Give our regards to Remilia.
+
+Sakuya0b:...I will. See you again.
+
+<single>
+
+Sakuya0b:...
+
+</single>
+
+Remilia0a:Oh, Sakuya. Did they leave already?
+
+Sakuya0b:Yes, Mistress. They just departed.
+
+Remilia0a:What were you talking about with them?
+
+Sakuya0b:Nothing particularly important.
+
+Sakuya0b:...But I have learned more about the human village. Apparently, they treat nonhumans the same as they treat humans.
+
+Remilia0b:So I hear. Rather cheeky behavior, for humans.
+
+Remilia0a:...But looking at them, it's hard to say that it's undeserved.
+
+Sakuya0b:Yes, ma'am.
+
+Remilia0a:Anyway, let's get back inside. Since you're human, I expect you to rest your body when you're supposed to be convalescing.
+
+Sakuya0b:Understood. I will return to the mansion after I clean up here.
+
+Remilia0a:What did I just say? Oh well, you do that.
+
+<SE=se_talk_walk.ogg,wait=1>
+
+<single>
+
+Sakuya0b:A place where I belong... outside the mansion, huh...
+
+</single>
+
+<Code=(sound_close,1)>
+
+<MAP=0,FROM=紅魔館,TO=紅魔館,name=Scarlet Devil Mansion,icon=5>
+
+<BG=*bg_talk_Koumakan_Int.png,fade=1,color=1,title=*bg_Koumakan_Kitchen>
+
+<Code=(sound_load_se,se_talk_dish01.ogg,1)>
+
+Maid0a:Done, and done...
+
+Maid0a:Gosh, look at how much we still have to do. We're never gonna be done!
+
+<update>
+
+Maid0a:Hey, let's leave the rest for tomorrow and go to sleep. I'm really tired.
+
+</update>
+
+Maid0a:Yeah. Let's go before the head maid finds...
+
+<Code=(map_shake,1,25,4)>
+
+<Code=(demo_wait,45)>
+
+Maid0a:...Huh? Is it just me, or did the place shake just now?
+
+<update>
+
+Maid0a:It's just you. You're probably so tired you're imagining things. Let's call it a night.
+
+Maid0a:Yeah, okay. We can save the rest of the dishes for another time.
+
+</update>
+
+<Code=(sound_close,1)>
+
+<BG=bg_talk_Koumakan_Basement.png,fade=1,color=1,title=*bg_Koumakan_Basement>
+
+<Code=(demo_wait,60)>
+
+Noname0a:...
+
+<Code=(demo_wait,15)>
+
+Noname0a:Ready or nooot...
+
+<Code=(transition_out,c_black,50,1)>
+
+<end>
+
+<ChatID:12>----------------------------------------
+//頭突きでチルノまたはルーミアを撃墜
+
+Keine1a:Honestly, they'll never learn unless I do this.
+
+Reimu2b:...
+
+Keine0a:What is it, Reimu?
+
+Reimu2b:I was just thinking that despite your new spellcard, it has to be the headbutt for you.
+
+Keine0a:Ahh, yes. In the end, it's the best way to deliver punishment.
+
+Marisa0a:...It's pretty fitting for you, though.
+
+<end>
+
+<ChatID:13>----------------------------------------
+//サニーvs.霊夢
+
+Reimu0a:You're that fairy who's always up to no good near my shrine. What are you doing here?
+
+Sunny3a:Gah, the shrine maiden's caught me...
+
+Sunny0a:W-Well, you see, since the scarlet mist disappeared, we've been investigating why...
+
+Reimu0d:Huh? Excuse me, I resolved that... before the last full moon, I think.
+
+Sunny0a:Oh, really?
+
+Reimu1a:Yeah. Which is why you're not invited!
+
+<end>
+
+<ChatID:14>----------------------------------------
+//サニーvs.魔理沙
+
+Sunny1a:Yikes, Marisa! ...Um, what might you be doing here?
+
+Sunny0a:Oh, you're with Alice as well.
+
+Marisa0a:Yeah, I invited her to tag along since I figured she wouldn't have anything better to do anyway.
+
+<Cond=(CHECK_FLAG,M02_ALICE,==,1)>
+
+Sunny0a:Really? Wow. After the way you were arguing before...
+
+Sunny0a:Maybe Alice is pretty okay with you, too?
+
+Marisa0a:The heck are you talking about? And why are you acting all buddy-buddy with me?
+
+</Cond>
+
+<Cond=(CHECK_FLAG,M02_ALICE,==,0)>
+
+Sunny0a:Huh, but you argued so much back then. Oh well, it's nice to see you've made up. Good for you!
+
+Marisa3a:Why are you acting all buddy-buddy with me?
+
+</Cond>
+
+<end>
+
+<ChatID:15>----------------------------------------
+//サニーvs.慧音
+
+Keine0a:Hm. Based on appearances, you seem to be guiding the rest of the fairies...
+
+Sunny3a:Uh-oh, busted by someone who looks like they're bad news. Better make up something good...
+
+Sunny0a:Nooo, not at all! Whenever I say I'm going to play some pranks, those two just follow me around.
+
+Keine0a:Is that so? From my standpoint, you looked like a leader among prankster fairies.
+
+Sunny0a:Hm, a leader...?
+
+Sunny1a:Heh, yeah. Calling me a leader wouldn't be exaggerating. I'm the type everyone goes to for help.
+
+Keine0b:...I see, so I was correct. I can now strike this evil down at its source.
+
+<end>
+
+<ChatID:16>----------------------------------------
+//サニーvs.アリス
+
+Sunny0a:Hey, Alice! How's it going?
+
+Alice0c:Don't give me that. You just ruined a perfectly fine party.
+
+Alice0a:Yumeko gifted me this dress when I moved, you know.
+
+Sunny3a:Ooh, uhh... How about you throw your own party then?
+
+Alice0a:With me as the host?
+
+Sunny0a:Yeah, sure! Then you can have a party any day you want, right?
+
+Alice0a:You know, I hadn't thought of that. My house is a bit small, though. Maybe a tea party...
+
+Sunny0a:See, there you go! Don't forget to invite us when you have it!
+
+Alice0c:You're one brazen fairy. Did you really think that would work on me?
+
+<end>
+
+<ChatID:17>----------------------------------------
+//サニーvs.くるみ
+
+Kurumi0a:You're the one who said you made those dumplings, right? Have you ever eaten them yourself?
+
+Sunny0a:Luna loves 'em. I hate bitter stuff though.
+
+Kurumi1a:So you haven't!
+
+Sunny0a:Ah, yeah, sure. I guess not.
+
+Kurumi2a:Then try some of my leftovers! It was sooo bitter!
+
+<end>
+
+<ChatID:18>----------------------------------------
+//スターvs.霊夢
+
+Reimu3b:You seem a little smarter than the company you keep.
+
+Star0a:You can tell, huh? Sunny's a sleepyhead, and Luna's always tripping over her own feet... I really don't know what to do with those two.
+
+Star0a:Ah, and they argue with each other all the time too.
+
+Reimu0c:Uh-huh. I'll kick all of you out here at once, then.
+
+Star2a:Uh-oh, she's not listening at all...
+
+<end>
+
+<ChatID:19>----------------------------------------
+//スターvs.魔理沙
+
+Star0a:Ah, Marisa! What brings you here?
+
+Marisa0a:I'm here to investigate an unidentified creature. I heard it's a mysterious bat that can emit mist.
+
+Star0a:Mist, huh... Speaking of which, I just saw that suspicious maid that we talked about before. She's in the mansion there.
+
+Marisa0a:Ahh, that's all done and dusted. The mist incident's been resolved, and everything with the maid is settled now.
+
+Star0a:Wait, what? You resolved it?
+
+Marisa0a:I'm not filling you in on the rest, though. You can let rumors fill in the blanks.
+
+<end>
+
+<ChatID:20>----------------------------------------
+//スターvs.慧音
+
+Keine0a:You're good at putting distance between yourself and your opponent. Do you have some secret skill?
+
+Star0a:Yes, I have the ability to sense anything that moves. I'm always the first one to notice patrolling teachers.
+
+Keine0a:I see, that makes you quite the formidable opponent... As long as you're around, no matter how vigilant I am, I'll always be one step behind...
+
+Keine3a:But then again, I could just put you in the same room as me. That would save me a lot of trouble.
+
+Star0a:...I don't think a teacher should be saying that.
+
+<end>
+
+<ChatID:21>----------------------------------------
+//スターvs.アリス
+
+Star0a:Hello, Alice. How have you been?
+
+Alice0c:Don't give me that. Your attack has been giving Marisa funny ideas.
+
+Star0a:Huh... You mean the combination attack we just did?
+
+Alice0a:Yes. Have a little thought for the people she drags along with her whims—namely, me.
+
+Star0a:Aww, I think you two make a great team. You might wind up more in sync than you expect.
+
+Alice0c:I wonder. Could I really pair up with someone as overbearing as her...?
+
+<end>
+
+<ChatID:22>----------------------------------------
+//スターvs.くるみ
+
+Kurumi1a:I've finally caught you. Have some of that bitter sandwich back!
+
+Star0a:Now now, calm down. Think about it.
+
+Star0a:You've just eaten something really bitter, right? That means the next sweet thing you eat will seem much sweeter than usual.
+
+Kurumi0a:...Ooh, wow! If I think about it that way, then maybe eating it wasn't a waste.
+
+Star0a:Exactly. Feel free to gulp down the rest of it too!
+
+Kurumi1a:...Hey, even I won't fall for that!
+
+<end>
+
+<ChatID:23>----------------------------------------
+//ルナvs.霊夢
+
+Reimu0a:You know, when I went back to the shrine after the incident, I noticed something strange...
+
+Luna0a:Something strange...?
+
+Reimu0d:The rice crackers in the cupboard had disappeared. Well, technically they were still there, but the seaweed had been carefully removed.
+
+Luna0a:Ahh, the rice crackers. They were so damp, I figured they probably weren't edible anymore...
+
+Reimu0d:Obviously you can't eat them as-is. You're supposed to heat them up to get them nice and crunchy.
+
+Reimu4a:...But with the way you're talking, you know something about it, don't you?
+
+Luna0a:...Ack, I pulled a Sunny and blabbed too much!
+
+<end>
+
+<ChatID:24>----------------------------------------
+//ルナvs.魔理沙
+
+Luna1a:Gah, Marisa! ...Um, hello, what brings you here?
+
+Marisa0a:Who cares about that? Anyway, let's talk moves. How'd you think out that attack you just used? You need to be totally in sync for it, right?
+
+Luna0a:Umm, you mean our Formation Attack?
+
+Luna0a:I'm not sure there's much to describe. We're always together, so the timing comes to us naturally.
+
+Marisa3a:...I see, so sticking together is important. That sounds like a chore.
+
+Luna0a:Ah, but you don't have to be together ALL the time. We stay in separate rooms. When we try to room together, our tastes always clash.
+
+Marisa0a:I wasn't asking, but whatever. Demonstrate it for me again, will ya? I gotta study it before I rip it off.
+
+<end>
+
+<ChatID:25>----------------------------------------
+//ルナvs.慧音
+
+Keine0a:The area around you appears to be eerily silent.
+
+Luna0a:Yes, I'm muffling the sound around me. When I chat all night in sleepovers, the chaperone never catches me.
+
+Keine0b:...That's certainly one way to be a formidable foe. If no one can hear you, that means no one can scold you for late-night chatting.
+
+Luna0a:If I'm not loud, and I'm not waking the other kids up, then what's the problem?
+
+Keine1a:I'll tell you what the problem is—a lack of discipline!
+
+<end>
+
+<ChatID:26>----------------------------------------
+//ルナvs.アリス
+
+Luna0a:Ah, Alice. Hello there.
+
+Alice0c:Don't give me that. You spoiled this whole party. You were planning this, weren't you?
+
+Luna0a:Wait, did we really? I had no idea there was a party.
+
+Luna0a:...Oh yeah, you were wearing really pretty clothes earlier. What happened to them?
+
+Alice1b:I got changed. I'm not fighting a danmaku battle in that.
+
+Alice2a:That was my first party in so long... And now it's ruined.
+
+<end>
+
+<ChatID:27>----------------------------------------
+//ルナvs.くるみ
+
+Kurumi1a:Heh heh, I'm a devil! I won't lose to some fairies!
+
+Luna0a:Hmm... Yeah, we're kind of at a disadvantage here. But Sunny told me to carry garlic around for situations like these...
+
+Luna0a:Oh, whoops. These are scallions, not garlic.
+
+Kurumi0a:...
+
+Kurumi0a:Wait, really? Hey, this girl keeps scallions in her pocket.
+
+Sunny0a:Wow, you're right. I was wondering why you've been kinda stinky, Luna!
+
+Star0a:Of course she'd be, if she was carrying scallions around. Just dump them somewhere. They smell.
+
+Kurumi0a:Yeah, I don't wanna fight you anymore. Forget about the whole bitter sandwich thing!
+
+Luna0a:Wait, what's going on? Are you all bullying me? Now I'm sad.
+
+<end>
+
+<ChatID:28>----------------------------------------
+//ルーミアvs.霊夢
+
+Rumia4a:Hm, you smell really good.
+
+Reimu3c:Really? I didn't use any perfume or anything...
+
+Rumia3a:Yeah, you smell like fish! it's making my tummy rumble.
+
+Reimu4a:Ahh, you mean that kind of smell... In that case, why not eat some leftovers?
+
+Rumia0a:Yeah! I should've gone with you instead of Cirno.
+
+<end>
+
+<ChatID:29>----------------------------------------
+//ルーミアvs.魔理沙
+
+Rumia0a:Hey, Marisa. Long time no see!
+
+Marisa0a:It hasn't really been that long. Ain't this the first time we've fought?
+
+Rumia1a:Hm, I think so. I'll add some extra darkness just for you!
+
+Marisa0a:...Right, her darkness protects her from lasers. This ain't the best matchup for me.
+
+<end>
+
+<ChatID:30>----------------------------------------
+//ルーミアvs.慧音
+
+Keine1a:Hey, Rumia!
+
+Rumia2a:Wah?!
+
+Keine1a:Don't you think it's embarrassing for a youkai like you to be running around playing pranks with fairies?
+
+Rumia1a:What's wrong with that? I can do what I want!
+
+Keine0b:So you've forgotten my lectures? Just because you want to act like a wild child doesn't mean you'll earn any respect playing a few lousy pranks.
+
+Keine1a:If you've forgotten my lessons, I'll just make my point again, the hard way.
+
+<end>
+
+<ChatID:31>----------------------------------------
+//ルーミアvs.アリス
+
+Rumia0a:...
+
+Alice0a:...Why are you staring at me?
+
+Rumia0a:You don't have any good smells. You didn't eat much, did you?
+
+Alice0c:No, not really. I don't eat like Reimu and Marisa. One must be mindful of their manners during dinners.
+
+Alice0a:And even if I was hungry, wolfing down my food would make me look ridiculous.
+
+Rumia0a:Hmm, you're weird. If there's food, you should just eat it.
+
+<end>
+
+<ChatID:32>----------------------------------------
+//ルーミアvs.くるみ
+
+Kurumi0a:Uuugh. I never should've eaten that sandwich, even if I WAS hungry. I didn't have an afternoon snack today after all...
+
+Rumia0a:Wow, is it really that hard to eat? I don't have a problem with it.
+
+Kurumi0a:You think it's fine...? Have you ever eaten something as bitter as that?
+
+Rumia3a:Yep. It was pretty filling, I think.
+
+Kurumi0a:Youkai really do come in all kinds. I could never stomach something like that...
+
+<end>
+
+<ChatID:33>----------------------------------------
+//チルノvs.霊夢
+
+Reimu0c:Being around you is so nice and cool.
+
+Cirno0a:Really? Dai told me not to freeze other people's stomachs.
+
+Cirno0a:But you're always going around with your bellybutton exposed... Won't you catch a cold like that?
+
+Reimu0g:It's different. I wear clothes like this all year long, so I can deal with a little chill.
+
+Cirno0a:Whoa. You're more powerful than I thought.
+
+<end>
+
+<ChatID:34>----------------------------------------
+//チルノvs.魔理沙１
+
+Marisa0a:Hey Cirno, here's a riddle for you. What kind of cake can't be eaten?
+
+Cirno2a:Huh? Where did this come from? And a cake that can't be eaten...?
+
+Marisa0a:Yep. Here's a hint: It's solid and slippery.
+
+Cirno0a:I see, a cake that's solid and slippery...
+
+Cirno0a:...
+
+Cirno0a:...A frozen sponge cake?
+
+Marisa0a:...Heh, messing with Cirno never gets old.
+
+<end>
+
+<ChatID:35>----------------------------------------
+//チルノvs.慧音
+
+Keine0a:You're playing around near the lake as always, I see.
+
+Cirno0a:Hm? Have we met before?
+
+Keine2a:What...?
+
+Cirno0a:I'm kidding. You're that teacher, Keine! There's no way I could forget you.
+
+Keine3a:...You had me going for a second. You need to learn to respect teachers.
+
+<end>
+
+<ChatID:36>----------------------------------------
+//チルノvs.アリス
+
+Alice0a:My, you're with a different group of kids today. What happened to Daiyousei?
+
+Cirno0a:She seemed to be really enjoying her afternoon nap, so I didn't wanna wake her up.
+
+Cirno0a:Heheheh, I've snagged a souvenir for her though! She's gonna love it.
+
+Alice3a:Ah, it's good you're still getting along well. I was worried over nothing.
+
+Alice0a:You always seem stronger whenever you're next to Daiyousei, though... I wonder if the reverse holds true.
+
+<end>
+
+<ChatID:37>----------------------------------------
+//チルノvs.くるみ
+
+Kurumi0a:Ahh, that was so bitter... Thank goodness the aftertaste just wore off.
+
+Cirno0a:You gave up eating it halfway through! I'd have fought on to the bitter end.
+
+Kurumi1a:Are you good with bitter things?
+
+Cirno0a:Heh. Compared to that grass sandwich, a taste of my bitter cold is like a walk through a field of flowers.
+
+Kurumi0a:...
+
+Kurumi1a:Wow! Please teach me your ways, master of bitterness!
+
+<end>
+
+<ChatID:38>----------------------------------------
+//チルノvs.魔理沙２
+
+Marisa0a:By the way, the answer to my riddle is a soap cake. It's solid and you won't eat it, right?
+
+Cirno1a:Mrgh! That's not fair. A soap cake isn't a cake!
+
+Marisa0a:Sure it is. People call it a cake of soap normally. There's also oil cakes, press cakes, ice cakes...
+
+Marisa0a:There's tons of types of cakes out there.
+
+Cirno0a:...
+
+Cirno0a:An ice cake sounds kinda tasty...
+
+Marisa0a:...Heh, messing with Cirno never gets old.
+
+<end>
+
+<ChatID:39>----------------------------------------
+//くるみvs.イビルアイ
+
+Kurumi0a:Aww... Elly went to the trouble of teaching me. Why can't I do this right?
+
+Kurumi1a:...Oh well. If you're not going to listen to me, then it's punishment time! That's what Yuuka always says!
+
+<end>
+
+<ChatID:40>----------------------------------------
+//アズキング霊夢
+
+Reimu1a:This is... Taiyaki Maryuu Azking?!
+
+Reimu2b:What's it doing on the ground here? It doesn't look too dirty...
+
+Reimu3a:But then again, it IS on the ground...
+
+Keine0a:Reimu, what's going on? Why do you look so conflicted?
+
+Reimu3c:N-No reason!
+
+Reimu1a:Anyway, Keine, you said you would buy me some taiyaki after the incident was resolved, right? I'm holding you to that!
+
+Keine0a:Yes, I know. I'll buy some and bring it over another time. Just be patient.
+
+<end>
+
+<ChatID:41>----------------------------------------
+//アズキング魔理沙
+
+Marisa0a:Ohh? Something's here... Isn't this that taiyaki everyone was talking about?
+
+Marisa0a:It's still warm too... Someone in the Scarlet Devil Mansion must've dropped it.
+
+Marisa0a:Oh well. I'll get Alice to treat me to one again the next time I go to the human village.
+
+<end>
+
+<ChatID:42>----------------------------------------
+//アズキング慧音
+
+Keine0a:Oh, there's some taiyaki from Daimonji here.
+
+Keine0a:It's hard enough to get. Who just left it out here like this? What a waste of perfectly good food.
+
+<end>
+
+<ChatID:43>----------------------------------------
+//アズキングアリス
+
+Alice0a:...?
+
+Alice0a:What's this? It's like taiyaki, but with some kind of horn sticking out of it.
+
+Alice0c:Even if it was edible, it's hardly appetizing.
+
+<end>
+
+<ChatID:44>----------------------------------------
+//アズキングくるみ
+
+Kurumi0a:Oh, is this...?!
+
+Kurumi0a:No, I can't! Elly told me not to eat food off the ground!
+
+Kurumi0a:But that sandwich just now turned out to be so bitter...
+
+Kurumi0a:...
+
+Kurumi0a:Yeah, I'm fine! I'm not greedy!
+
+<end>
+
+<ChatID:45>----------------------------------------
+//アズキングまくら
+
+Makura0h:As I recall, these are popular in the village.
+
+Makura3a:People even dream about these taiyaki. Maybe I should study them more closely, for reference.
+
+<end>
+
+<ChatID:46>----------------------------------------
+//アズキングメーコ
+
+Meko4b:Ooh, taiyaki!
+
+Meko0c:I mean, I'm hungry, but I can't just eat stuff off the ground...
+
+Meko1d:Hey, stop it! You all can't eat it either!
+
+<end>
+
+<ChatID:47>----------------------------------------
+//アズキング早苗さん
+
+Sanae0g:Oh look, these are what Reimu never gets to eat.
+
+Sanae0c:...No way, not a chance. They've been dropped on the floor, nobody should eat that.
+
+<end>
+
+<ChatID:48>----------------------------------------
+//アズキング神綺
+
+Shinki1a:Oh no, someone dropped this taiyaki.
+
+Shinki0d:It'd be awful if someone picked it up off the ground and ate it. Now where's the waste bin?
+
+<end>
+
+<ChatID:49>----------------------------------------
+//アズキング依姫
+
+Yorihime2a:?!
+
+Yorihime5d:Th-That scared me. It seems to be just food.
+
+Yorihime3a:But why does it have to look like... that. What on Earth was the creator thinking?
+
+<end>
+
+<ChatID:50>----------------------------------------
+//サニーvs.メーコ
+
+Meko1a:Combination attacks are so cool!
+
+Sunny1b:Right? When it's the three of us, anything is!
+
+Meko1d:But the trio of Ryooma, Payato, and Musachi are no slouches either!
+
+Sunny4c:Those names are pretty cool too!
+
+<end>
+
+<ChatID:51>----------------------------------------
+//スターvs.まくら
+
+Makura0f:I'm still rather uncomfortable at parties...
+
+Star3b:Can't you just let loose and enjoy yourself?
+
+Makura2b:Don't they throw them at night? I wouldn't be able to wake up.
+
+Star3d:Then come to daytime parties!
+
+Makura4b:I still wouldn't be able to wake up...
+
+<end>
+
+<ChatID:52>----------------------------------------
+//サニーvs.まくら
+
+Makura0h:Alice is wearing a dress, huh?
+
+Sunny5b:She really stands out! I think it's nice.
+
+Makura0f:But exposing her shoulders like that is a bit...
+
+Sunny4a:Aren't you exposing your shoulders, like, all the time?
+
+Makura6b:...My clothes are just in disarray. It's certainly not intentional.
+
+<end>
+
+<ChatID:53>----------------------------------------
+//ルナvs.まくら
+
+Makura0g:A bitter sandwich... Is it really that bitter?
+
+Luna3a:I like them, but they are pretty bitter, yeah.
+
+Makura0g:I see. If you wouldn't mind sharing some...?
+
+Luna3b:You like bitter stuff, huh?
+
+<end>
+
+<ChatID:54>----------------------------------------
+//サニーvs.神綺
+
+Shinki0c:Alice's dress looks so good on her!
+
+Shinki0b:As I thought, it's necessary even after moving out.
+
+Sunny4a:Um, aren't you gonna fight me?
+
+Shinki1a:Don't you think it makes her look so mature? Yumeko tailored it for her, you know.
+
+Sunny4c:She's not listening.
+
+<end>
+
+<ChatID:55>----------------------------------------
+//サニーvs.サニー
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Sunny1c:Gah, who're you?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Sunny4a:Gah, explaining would be a pain.
+
+Sunny1b:(I know! I can control light to look different!)
+
+Sunny5a:Too bad! I'm actually Luna changing how I look with light!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Sunny4a:Huh. But I'm the only one who controls light?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Sunny3a:Gah, you're right!
+
+</nomove>
+
+<end>
+
+<ChatID:56>----------------------------------------
+//ルナvs.ルナ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Luna6a:Eek, why am I over there?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Luna1a:Ah, um, well...
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Luna4a:Oh, I get it. It's one of Sunny's pranks.
+
+Luna1a:Hey, Sunny! I can tell you're controlling light to change how you look!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Luna6c:Hold on, you can't tell me apart from Sunny?! How rude.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Luna2a:Stop messing around, Sunny!
+
+</nomove>
+
+<end>
+
+<ChatID:57>----------------------------------------
+//スターvs.スター
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Star6a:Huh?! You're...
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Star0b:What do I do? It's too hard to explain.
+
+Star3c:Oh, I know. I've heard tanuki have been showing up around here. You're transformed, right?
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Star4a:Not sure how to feel about being told that by myself...
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Star1c:Oh, okay...
+
+</nomove>
+
+<end>
+
+<ChatID:58>----------------------------------------
+//チルノvs.チルノ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Cirno2c:Eh? Me?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Cirno3a:I'm me!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Cirno2b:No, I'm me!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Cirno0b:Are you even listening? I'm me!
+
+Cirno4c:Ugh, this getting messy...
+
+</nomove>
+
+<end>
+
+<ChatID:59>----------------------------------------
+//ルーミアvs.ルーミア
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char1,0,0,1)>
+
+Rumia4a:I wanna eat more fresh meat.
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Rumia3a:I just ate some!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Rumia0a:Whoa, lucky...
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Rumia5a:The kitchen stuff is fine, but if you want the deep, red stuff, you gotta go to the storehouse.
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Rumia4a:...So, who are you anyway?
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Rumia1a:Oh no!
+
+</nomove>
+
+<end>
+
+<ChatID:60>----------------------------------------
+//C12：三妖精vs.非想天則
+
+Tensoku0a:...
+
+Sunny4c:Whoa, crazy, what is this?!
+
+Star2a:It's too big to be a doll, but too angular to be a youkai...
+
+Luna6a:Hey, shouldn't we be running away?!
+
+Sunny1c:And leave behind something this fun?!
+
+Sunny1a:Luna, Star, let's combine our power and catch it!
+
+Luna2a:Wha?!
+
+<end>

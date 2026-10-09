@@ -1,0 +1,2075 @@
+﻿○共通第五十五話「歪められた明日
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: 2PP
+ 4: first battle vs. UtsuhoH
+ 5: UtsuhoH spell 1 start
+ 6: UtsuhoH spell 2 start
+ 7: UtsuhoH spell 3 start
+ 8: UtsuhoH spell 4 start
+ 9: UtsuhoH spell 5 start
+10: clear
+11: ADVB
+12: tellop
+13: first battle (Orin)
+14: first battle (Nue)
+15-nn:
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP（出撃前）
+
+UtsuhoH5c:*huff, huff*
+
+<pause>
+
+<Code=(icon_set_direction,UtsuhoH_en,FD_LEFT,0)>
+
+UtsuhoH5c:...!
+
+<pause>
+
+UtsuhoH5c:Rgh...
+
+UtsuhoH5d:AAAGH!
+
+<pause>
+
+UtsuhoH5c:...!
+
+<pause>
+
+<nomove>
+
+ShiroB0a:...
+
+<pause>
+
+<hide=face>
+
+UtsuhoH1a:AAAUGH!
+
+</hide>
+
+<nomove>
+
+ShiroB0a:...
+
+<pause>
+
+<hide=face>
+
+UtsuhoH5c:AAAaah...
+
+UtsuhoH1a:...aaaAAAAGH!
+
+</hide>
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,208,448,1)>
+
+Nue2b:...!
+
+<pause>
+
+Nue5b:Ow ow ow, didn't expect THAT. Was there an explosion nearby?
+
+<Code=(icon_set_direction,UtsuhoH_en,FD_LEFT,0)>
+
+Nue0c:What could be happening in a remote place like this...?
+
+Nue2a:...!!
+
+<pause>
+
+Nue2b:What is THIS?
+
+Nue2a:This all used to be forest, didn't it...? But now...
+
+<hide=face>
+
+UtsuhoH0a:...
+
+</hide>
+
+Nue2a:...Don't tell me SHE did this?!
+
+<pause>
+
+Nue2a:Ah! Minamitsu's ship!
+
+<pause>
+
+Akyu1a:We made it to the surface!
+
+Murasa0c:We're near the base of the mountain, so what's it look like outside?
+
+Murasa4a:...!
+
+Minoriko2a:No way, it's all burnt...
+
+Sanae1a:Did Okuu do all this...?
+
+Yukari2a:Locate the enemy, and fast. I can't believe we're letting this much damage happen like this...
+
+Momiji1a:Utsuho's over there, everyone!
+
+<Code=(icon_set_direction,UtsuhoH_en,FD_LEFT,0)>
+
+<pause>
+
+<hide=face>
+
+UtsuhoH0a:...
+
+</hide>
+
+Marisa2b:Utsuho! Has she dealt with Shiro's minions already?
+
+Alice1a:She must have damaged the area when she did.
+
+Youmu1a:Let's just get over to her!
+
+<pause>
+
+Orin1b:Okuu, can you hear me?!
+
+Akyu1a:Are you okay?! We followed you here—
+
+UtsuhoH1a:...aaagh!
+
+<pause>
+
+Patchouli5b:...!
+
+Orin1f:What's wrong? Don't you recognize us...?
+
+Kanako2a:Did she really go berserk from that earlier attack?
+
+Satori5b:...I can't read her mind.
+
+Satori5c:Her mind's voice is being drowned out by all the fear from the youkai she's attacked, as well as the god's raging power.
+
+Keine1a:So she's completely lost sight of herself?!
+
+Meiling1a:What do we do?! Do we go find help, or...?
+
+Mokou1c:You think we have time for that?! We leave her alone, and the whole surface world becomes a sea of fire!
+
+Yukari2a:...Our top priority is protecting the surface. We'll use our full strength to suppress Utsuho's.
+
+Akyu1a:Okay, everybody launch!
+
+<Code=(icon_set_direction,UtsuhoH_en,FD_LEFT,0)>
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP（出撃後）
+
+Hina1c:...What devastation. So this is what happens when Yatagarasu's power is unleashed without restraints.
+
+Shizuha4a:It's like a natural disaster! How can we stop THAT?!
+
+Aya0b:Worrying about the safety of the surface is fine and dandy, but make sure to keep yourselves safe too!
+
+Momiji1a:I don't think Utsuho's even registering that we're here...
+
+UtsuhoH0a:Ugh... Urgh...
+
+Orin2b:...Grr, I can't just watch this!
+
+<pause>
+
+Satori2b:You're going too, Orin?!
+
+Orin5c:If we can restrain the god's power, then I'm sure she'll settle back down!
+
+Orin1b:You're still hurt from earlier though, Miss Satori, so direct us from the ship!
+
+Satori2b:...Okay. Just don't endanger yourself.
+
+Nue0b:(...Those humans look like they're gonna fight that youkai.)
+
+Nue1b:(Not even they can do anything about that ridiculous power of hers.)
+
+Nue5b:(Minamitsu should just forget about them and get outta here...)
+
+Marisa2b:...Okay, people. We can't afford to go anything less than all out.
+
+Reimu1a:If we don't stop her here, then this will only be the start of something a whole lot worse.
+
+Reimu1a:Come on, everyone. Let's do this!
+
+<end>
+
+<ChatID:3>---------------------------------------
+//2PP
+
+Ichirin1d:...We're only a bit closer, but I can already feel the heat.
+
+Kosuzu2a:All the trees nearby are already burnt!
+
+Murasa1b:Let's keep moving forward. We're not gonna let it get any worse!
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Kosuzu2a:Right, maximize output to the barrier!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Akyu1a:Right, maximize output to the barrier!
+
+</Cond>
+
+Nue0b:(...So Minamitsu and Ichirin really ARE planning on fighting for the humans.)
+
+Nue1b:(Why can't youkai just act like youkai and stop caring what happens to strangers?)
+
+Nue5a:(If they keep fighting like that, they're gonna be in danger real soon...)
+
+<pause>
+
+Nue2a:...! She's gathering energy again?!
+
+<pause>
+
+Nue1c:Minamitsu, watch out!
+
+Murasa0d:Nue?! What are you doing here?
+
+Nue2a:Who cares?! Just MOVE!
+
+Nue1e:That crow's about to shoot!
+
+Murasa0d:What?! At this distance?!
+
+<Code=(icon_set_direction,UtsuhoH_en,Seirensen,0)>
+
+<pause>
+
+Ichirin5a:...!
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Kosuzu2a:Incoming bombardment!
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Akyu1a:Incoming bombardment!
+
+</Cond>
+
+<pause>
+
+Nue1e:Minamitsu! Ichirin!
+
+Nitori2a:The Palanquin Ship crashed?! What about everyone on the bridge?!
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Kosuzu1a:Owww...
+
+Kosuzu6a:Okay, the ship looks...
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Akyu2a:*cough, cough*
+
+Kosuzu2a:Are you okay, Akyu?!
+
+Akyu2a:I'm fine. What's the ship's status?!
+
+Kosuzu2a:It's you I'm worried about—
+
+Akyu1a:Forget me, give me the damage report!
+
+Kosuzu2a:Rgh... Okay!
+
+</Cond>
+
+Kosuzu2a:Heavy damage on the port side! Buddhist reactor power is falling!
+
+Kosuzu2a:We can't fly like this!
+
+Meiling1a:Oh, no... If they take another hit, they're done for!
+
+Nazrin2a:If only we'd completed the Flying Granary, we might've been able to dodge that...
+
+Nue2b:...!
+
+Yukari2a:...This is looking bad. We need to protect the ship somehow.
+
+Murasa2a:No, we can still fly. If we all draw on our own spirit energy...
+
+Murasa1b:Ichirin, ask Unzan to help out too!
+
+Ichirin1b:Okay. Unzan!
+
+Unzan0a:...!
+
+<pause>
+
+Patchouli1d:You can't supplement the Buddhist reactor's energy with power from a few youkai. Even trying is reckless!
+
+Ichirin1a:Anything is better than being dead weight!
+
+Murasa2b:We can't just run away when this is happening to the surface!
+
+Nue2a:Hold on, you're seriously going to keep fighting?!
+
+Murasa1b:If we don't, then we'll never protect anything. And it's only thanks to you that the spirit cannon is still functional, Nue!
+
+Nue5b:...
+
+Nue5a:Why...?
+
+Akyu1a:Nue?
+
+Nue1b:Why are you sticking out your necks like this?!
+
+Nue1c:Just run away! Isn't that the best way to protect that precious ship of yours?!
+
+Ichirin4b:Nue...
+
+Nue1b:And wouldn't you have been able to dodge better if you had all those fragments I hid?!
+
+Nue1c:Why aren't you mad at me?! Or can you not even do THAT when you're trying to look cool for the humans?!
+
+Murasa2b:Sorry, Nue. This isn't really the best time to talk about this, but...
+
+Murasa0c:We're not trying to lick any human boots here. We're doing this because we have something to protect.
+
+Nue2a:What are you talking about...?
+
+Murasa0a:My home is in both the Palanquin Ship Hijiri gave me, and in all the bonds I've formed since then.
+
+Murasa0a:You're one of those people too, so why shouldn't I want to protect you?
+
+Nue2a:Of all the...
+
+Kosuzu2a:Okay, the ship's stabilized. We can still fight!
+
+Murasa1b:Okay. Nue, let's put a pin in this for now!
+
+<pause>
+
+Nue5a:But Minamitsu, I still...
+
+Nue1b:Gah, this really isn't the place to talk, is it?!
+
+<pause>
+
+Ichirin1a:Nue?! Are you supporting us?!
+
+Nue1b:Don't get me wrong, it's not like I was convinced by your little speech or anything.
+
+Nue1c:...I just don't want to let Minamitsu's precious ship get anymore damaged than it already is!
+
+Murasa5d:Nue...!
+
+<end>
+
+<ChatID:4>---------------------------------------
+//空初戦闘
+
+Marisa1a:Hey, Utsuho!
+
+Kanako1c:Do you recognize us?! If you can hear me, then power down.
+
+UtsuhoH0a:Ugh...
+
+Hatate4a:It's no use, she's totally out of it.
+
+Parsee0a:Looks like Satori was right. Her consciousness is getting displaced by the god's raging power.
+
+UtsuhoH1a:Rgh... Aaagh...
+
+Marisa2b:Here she comes!
+
+<end>
+
+<ChatID:5>---------------------------------------
+//空通常撃破
+
+Udonge4a:We beat her... But she's still not stopping!
+
+Youmu1a:Actually, she's getting even stronger...
+
+<pause>
+
+Ichirin1d:...!
+
+Nitori2a:Her heat is starting to melt her surroundings!
+
+Kanako2a:Her power is on an entirely different level from before... The nuclear fusion is accelerating nonstop.
+
+Kanako1c:If this keeps up and she completely loses consciousness, this will get MUCH worse.
+
+Koakuma1a:How so?
+
+Suwako1b:Yatagarasu's immense power is still being held in check by Okuu's mental faculties.
+
+Suwako1c:So if she loses those completely...
+
+Ran6c:Yatagarasu will most likely have nothing left to stop him, and he'll keep generating tremendous amounts of energy.
+
+Ran1b:Everything nearby will be burnt to ash, without exception!
+
+Elliy1a:It'd be like if the sun fell out of the sky onto the Earth!
+
+UtsuhoH1a:Rgh... Aaagh...
+
+Momiji1a:She's moving!
+
+Nazrin2a:Watch out, here she comes!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//空スペル１撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+UtsuhoH0a:Rrgh...
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+UtsuhoH0a:Rrgh...
+
+</Cond>
+
+Tewi2a:...Just how much power IS that?! We can't take that head on!
+
+Cirno2a:It's too hot, I'm gonna melt!
+
+Mystia1c:I don't think we have time to hope she calms down and lets us talk to her.
+
+Komachi3a:We have to prioritize protecting the surface, and ourselves.
+
+Orin3a:But hold on, we can't just KILL her! 
+
+LilyW3d:Orin...
+
+Orin2b:She's just swallowed by the power of a god, right? It's not like she wants to do this!
+
+Satori5a:Yes, that much I can tell even if I can't hear her inner voice.
+
+Nue2a:Do you realize the situation you're in? This is no time for dragging your feet!
+
+Orin5a:But if we can just stop her, then—
+
+Letty1b:Everyone, look up ahead!
+
+<pause>
+
+Yamame1c:She's gathering power in her cannon! Is that the same spell she used underground?!
+
+Nitori2a:No, it's not! It's WAY worse!
+
+Nitori2a:It's a thousand times stronger... No, another thousand times on top of that!
+
+Wriggle1b:Is that even a number anymore?!
+
+Koakuma1a:If she keeps raising her power this quickly...
+
+Kisume2a:Utsuho, no!
+
+<end>
+
+<ChatID:7>---------------------------------------
+//空スペル２撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Merlin1b:How about that?! That seemed like it worked, a little...
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Merlin1b:How about that?! You should be worn out at least a little, right?
+
+</Cond>
+
+UtsuhoH0a:Gh... AAAugh... Urgh...
+
+Merlin0b:...!
+
+Rumia1a:Her breathing's getting all ragged.
+
+Satori5a:Okuu's in pain.
+
+Lyrica4a:So even though she's lost consciousness, she's still feeling pain...
+
+Lunasa4a:Not just her body either, I'm sure her mind is in pain as well.
+
+Lunasa0a:Deep down, she must be desperately fighting to stop herself.
+
+Orin5a:...
+
+Sanae3b:...Isn't there some way we can reach her inner voice?
+
+Sanae3b:If we do, maybe that could help us beat her divine power.
+
+Suika1d:Satori, can you still not hear her voice?!
+
+Satori5b:It's indistinct, but I feel like I'm closer than I was before.
+
+Satori5b:I might just be able to find a chance to communicate with her!
+
+Yugi1c:We can't exactly give up on her after hearing that.
+
+Sho1b:Right. No matter what fiery hoops we'll have to jump through.
+
+<pause>
+
+Mokou3d:...Bring it, we'll see who's tougher.
+
+Meiling1a:I'll do my best to endure, so you do the same!
+
+<end>
+
+<ChatID:8>---------------------------------------
+//空スペル３撃破
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+UtsuhoH2a:Gh... Rrgh...
+
+Chen2b:We actually stopped it!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+UtsuhoH2a:Gh... Rrgh...
+
+Chen2b:We actually got away!
+
+</Cond>
+
+Aya5b:Looks like Utsuho's attacks have eased up for now.
+
+Kanako1d:And only for now. After this, her rampage will accelerate even further.
+
+Kanako1c:If we're going to talk to her, this is our only chance!
+
+Satori5b:...But Okuu's voice is still so faint.
+
+Satori5b:I need to get right next to her to communicate...
+
+Luna2a:You can't possibly want to approach her while she's rampaging!
+
+Orin1b:...I'll go!
+
+<pause>
+
+<Code=(icon_set_direction,Orin,UtsuhoH_en,0)>
+
+<Code=(icon_set_direction,UtsuhoH_en,FD_LEFT,0)>
+
+Yugi1c:Are you sure about this?! Yatagarasu could flare up at any moment!
+
+<nomove>
+
+<Code=(cursor_jump_variable,ppos_xa,0,ppos_ya,0,0,0,0)>
+
+Orin1b:This is our only chance, right? I can't just sit back and watch!
+
+Orin2c:We've always been together... So let me do this now!
+
+</nomove>
+
+UtsuhoH2a:...!
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump_variable,ppos_xa,0,ppos_ya,0,0,0,0)>
+
+Orin2b:GWAAAGH!
+
+</nomove>
+
+Satori0a:Orin!
+
+<nomove>
+
+<Code=(cursor_jump_variable,ppos_xa,0,ppos_ya,0,0,0,0)>
+
+Orin2b:This is nothing! She's suffering just as bad as I am...!
+
+Orin1b:Okuu, it's me! Orin!
+
+</nomove>
+
+<pause>
+
+UtsuhoH5b:...Rgh...
+
+<Code=(icon_set_direction,UtsuhoH_en,FD_RIGHT,0)>
+
+UtsuhoH5a:O... rin...?
+
+Alice1a:Utsuho heard her?!
+
+<nomove>
+
+<Code=(cursor_jump_variable,ppos_xa,0,ppos_ya,0,0,0,0)>
+
+Orin1f:Okuu! You know who I am, right? It's me!
+
+</nomove>
+
+UtsuhoH5a:Orin... Why are you here...?
+
+<nomove>
+
+<Code=(cursor_jump_variable,ppos_xa,0,ppos_ya,0,0,0,0)>
+
+Orin1b:Why else?! I came to get you!
+
+Orin1f:Those youkai from before are all gone now, so you don't need to use the power of the god anymore!
+
+</nomove>
+
+UtsuhoH5a:...Good, I can talk. I have something I want to say to everyone.
+
+UtsuhoH5a:I've been trying my best, but...
+
+<nomove>
+
+<Code=(cursor_jump_variable,ppos_xa,0,ppos_ya,0,0,0,0)>
+
+Orin5a:We know you have! Miss Satori and the surface dwellers are all worried about you.
+
+</nomove>
+
+UtsuhoH5a:No, that's not what I wanted to say...
+
+UtsuhoH5f:...I don't think I can make it.
+
+<nomove>
+
+<Code=(cursor_jump_variable,ppos_xa,0,ppos_ya,0,0,0,0)>
+
+Orin1f:What are you talking about?
+
+</nomove>
+
+UtsuhoH5f:Pretty soon I'll be swallowed up by Lord Yatagarasu, and I won't be able to hold him back...
+
+UtsuhoH5f:So, before that happens, I need you to—
+
+Satori5d:How could you say that?! That's ridiculous!
+
+<nomove>
+
+<Code=(cursor_jump_variable,ppos_xa,0,ppos_ya,0,0,0,0)>
+
+Orin2b:You can't just resign yourself like that! Aren't we right here with you?!
+
+Orin1c:Who cares if it's some stupid god?! Just keep holding him back, and we'll go home together!
+
+Orin2b:And then, from now on, we'll...
+
+</nomove>
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump_variable,ppos_xa,0,ppos_ya,0,0,0,0)>
+
+Orin3a:...!
+
+</nomove>
+
+Kanako1c:This is bad, she's starting to go even more out of control!
+
+UtsuhoH5e:What should I have done, Orin...?
+
+UtsuhoH5e:I wanted power, but all I did was cause more trouble for Miss Satori...
+
+UtsuhoH5e:I just can't do anything...
+
+<nomove>
+
+<Code=(cursor_jump_variable,ppos_xa,0,ppos_ya,0,0,0,0)>
+
+Orin2b:OKUU!
+
+<pause>
+
+UtsuhoH5e:Miss Satori, Miss Koishi...
+
+<hide=face>
+
+UtsuhoH5f:...s... rry...
+
+</hide>
+
+<end>
+
+<ChatID:9>---------------------------------------
+//空スペル４撃破
+
+Sunny2a:Did we do it?!
+
+Keine1a:How's Utsuho? Can we talk to her again?!
+
+<hide=face>
+
+UtsuhoH0a:...
+
+</hide>
+
+Shizuha4a:It's no use. She's totally lost consciousness.
+
+Daiyosei3b:Then we can't talk to her...?
+
+<pause>
+
+Ichirin1d:Hrk?!
+
+Murasa2c:What's all this shaking?! I'm losing control of the rudder!
+
+Udonge1b:It feels like there's some power drawing everything toward her!
+
+Suwako1b:...Oh no. This is our worst case scenario!
+
+Hatate1b:How can this possibly get any worse than it already is?!
+
+Suwako1b:The runaway fusion reaction has reached its limit, and now it's about to enter its final stage!
+
+Kanako1d:When stars burn up their lifeforce, they become unable to support their own body and collapse in upon themselves.
+
+Nitori2a:A gravitational collapse?! If that happens, then...
+
+Ran1b:The energy of the collapse will raze Gensokyo in an instant!
+
+Ran2a:And obviously, as its core, Utsuho won't survive either...
+
+Star2b:Oh, no... Is there any way to stop it?!
+
+Yukari2a:...There's only one. Suppress Yatagarasu's power and stop all nuclear fusion.
+
+Yukari4a:But stopping the runaway reactor core could potentially spell doom for Utsuho herself...
+
+Orin5a:...
+
+Orin1f:I'm still not giving up on saving her!
+
+Marisa1b:Orin...
+
+Orin5a:Even in the state she was in, she was still thinking of US!
+
+Orin2b:I can't just abandon someone like that!
+
+Satori5a:...I'll ask as well.
+
+Yugi4a:Satori...
+
+Satori5b:Right before her inner voice vanished, she was crying.
+
+Satori5b:And apologizing, over and over again.
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Reimu0a:...
+
+Satori5b:After hearing that, I don't want to even consider losing her.
+
+Satori5c:I beg of you, save Okuu.
+
+Reimu0a:Oh, I'm gonna save her. You don't have to beg.
+
+Reimu1a:I'm not letting this end any other way!
+
+Yamame4a:You'll seal Yatagarasu's power without hurting her?!
+
+Reimu1a:I said I was gonna save her, and I will!
+
+<pause>
+
+Ran1b:Ridiculous! If we stake our full strength on this again...!
+
+Yukari2a:You know just how dangerous it is to release an individual's boundaries.
+
+Reimu1a:I can't afford to dwell on that now! I'll take on Utsuho's power AND her mind.
+
+Reimu1a:Follow me, everyone! We're stopping this sun ourselves!
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Marisa2b:...
+
+Satori5b:After hearing that, I don't want to even consider losing her.
+
+Satori5c:I beg of you, save Okuu.
+
+Marisa4d:...I'd save her even if you hadn't asked.
+
+Marisa2b:Nobody wants this to end any other way!
+
+Yamame4a:You'll seal Yatagarasu's power without hurting her?!
+
+Marisa1a:I said I was gonna save her, and I will!
+
+<pause>
+
+Kanako2a:Ridiculous! If we stake our full strength on this again...!
+
+Suwako1b:Even you have to realize how dangerous this is!
+
+Marisa2b:We don't have time to whine about danger! I'll take on both her power and her feelings!
+
+Marisa1a:Follow my lead, everybody! We're gonna stop the sun!
+
+</Cond>
+
+<end>
+
+<ChatID:10>---------------------------------------
+//クリア
+
+<Code=(icon_set_direction,All,UtsuhoH_en,0)>
+
+Sanae3b:Is it... over?
+
+Alice0a:All that pressure from earlier is gone. I think the runaway reaction's stopped.
+
+Sho1c:But what about Utsuho?! Look, she landed in a strange way!
+
+Orin5a:Okuu!
+
+<Cond=(FIND_UNIT,Orin,player,!=,-1)>
+
+<pause>
+
+<Code=(icon_set_direction,Orin,UtsuhoH_en,0)>
+
+</Cond>
+
+UtsuhoH5b:...
+
+Orin5a:You're just passed out, right? Just... tired after using up all your strength...
+
+Orin2b:Someone, please examine her! Anyone, it can be a surface dweller for all I care!
+
+Eirin1b:...Udonge, make preparations immediately.
+
+Udonge1b:Ah... Right away, ma'am!
+
+<pause>
+
+Sakuya5a:Yatagarasu's power has truly abated now, right?
+
+Keine2a:Yes, but...
+
+Daiyosei3b:It's all burnt. All the trees and grass that used to be here...
+
+Nue5b:...
+
+<pause>
+
+Akyu1a:Nue? Where are you going?
+
+Nue5a:We're even now.
+
+<pause>
+
+Murasa0b:Nue...
+
+Ichirin4b:Let's lower the boat. It can't fly much longer.
+
+<Cond=(FIND_UNIT,Akyu,player,!=,-1)>
+
+Kosuzu4b:Right. Somewhere that's not on fire, preferably.
+
+</Cond>
+
+<Cond=(FIND_UNIT,Akyu,player,==,-1)>
+
+Akyu3e:Right. Somewhere that's not on fire, preferably.
+
+</Cond>
+
+Yukari0b:Let's return to the ship, everyone.
+
+<pause>
+
+Koishi0a:...
+
+<end>
+
+<ChatID:11>---------------------------------------
+//ADVB
+
+<MAP=10,FROM=爆心地,TO=爆心地,name=Scorched Earth,icon=4>
+
+<BG=*bg_talk_Burned.png,fade=0,color=1,title=*bg_Burned,bgm=bgm_talk_rain01>
+
+<SE=se_talk_walk_water01.ogg,wait=1>
+
+Momiji0a:Is everyone alright?
+
+Sunny4a:I'm in one piece, I guess...
+
+Hatate4b:It starts raining the moment the fight ends, huh. I can't believe the heat even reached the clouds.
+
+Remilia1d:It works out nicely. That should put a stop to the wildfires.
+
+Sakuya5b:Mistress, shouldn't you be getting shelter somewhere with a roof?
+
+Remilia1c:There's still the matter with Utsuho. I have an umbrella anyway; I can deal with a small amount.
+
+Aya5b:Eirin's examination is taking longer than I expected... 
+
+Satori5b:...
+
+Orin5a:I'm sure it'll be fine, Miss Satori.
+
+Orin5a:That surface doctor's supposed to even be good at examining youkai.
+
+Flan2c:...Is she gonna be okay, Meiling? 
+
+Meiling0a:You're worried about Utsuho too, huh, Lady Flan?
+
+Flan0f:She was in pain the whole time we were fighting.
+
+Flan4b:I could tell she didn't really want to break us.
+
+Hina4a:...At least we can take comfort in the fact that no other humans or youkai got caught up in this. 
+
+Lunasa4a:Now, if only we could confirm Utsuho's safety... 
+
+<SE=se_talk_walk_water01.ogg,wait=1>
+
+Eirin0a:...Thank you for the assistance. You can set her down out of the rain over there. 
+
+Yugi1b:Sure thing.
+
+Udonge4a:Okay everyone, we're done with the treatment.
+
+Satori2b:Okuu!
+
+<SE=se_talk_run_water01.ogg,wait=1>
+
+UtsuhoH5f:...
+
+Satori5a:Okuu, you're covered with wounds...
+
+Satori5b:Will she be alright? I can't hear her inner voice! 
+
+Udonge2b:Whoa, calm down! She's only unconscious for now. 
+
+Eirin0e:I examined her thoroughly, and she's in stable condition.
+
+Orin7a:Really?! Then she'll get better soon, right?
+
+Eirin0d:We're lucky we stopped her when we did.
+
+Eirin0e:Just a little longer, and she would have exceeded her body's limits. 
+
+Sanae3b:Oh, thank goodness. I was worried for a little while there.
+
+Udonge4d:Her life may not be in danger, but you should still let her rest for a while.
+
+Udonge4a:The strain of bearing the power of a god, and her own drained spiritual power, have left her pretty debilitated.
+
+Eirin1c:You'll need to wait for her to recover energy on her own before she wakes up.
+
+Satori5b:Alright. But...
+
+Orin5a:Isn't there anything else we can do? I don't want to just sit and wait... 
+
+Eirin0a:Staying by her side will encourage her.
+
+Eirin0b:And, if you like, I'm willing to head down the Underworld for a follow-up examination. 
+
+Orin5a:Okay, I'll trust you...
+
+Satori5b:...
+
+Kanako3c:...Satori Komeiji, if there's anything we can do to help, please don't hesitate to ask.
+
+Satori5a:Kanako Yasaka... 
+
+Kanako3b:I know a thing or two about how to handle a god. I think you'd find me rather helpful.
+
+Satori5a:...The surface has also been damaged. I think all sides should take some time to themselves to think.
+
+Satori5b:And for now, I think we should give Okuu some quiet.
+
+Suwako4a:...Alright. Go ahead and take her back to the Palace of Earth Spirits.
+
+Yugi1c:You'll need someone to carry her, right? Leave it to me.
+
+Yugi1b:You stick around and listen to what they have to say, Parsee. 
+
+Parsee0a:...Okay. Watch yourself. 
+
+<SE=se_talk_walk_water01.ogg,wait=1>
+
+<single>
+
+LilyW0b:There they go...
+
+</single>
+
+Kisume4a:Okuu's definitely gonna wake up, right? 
+
+Tewi0b:...If the master says so, then you can bet on it.
+
+Tewi4b:Unless you only said that to make them feel better. Please tell me you didn't do that.
+
+Eirin1c:It's just as I told Satori. Although how long it will take depends on Utsuho herself. 
+
+Kaguya2d:If you're going to examine her, then do it properly.
+
+Kaguya0a:Everyone here was waiting for the good news with bated breath. 
+
+Eirin4a:...I'll keep that in mind. 
+
+Keine0b:But we've got more to worry about than people right now.
+
+Keine7b:The whole region's been badly burned, and the Palanquin Ship's taken its fair share of damage as well. 
+
+Yuyuko1d:I wonder how the ship's doing. 
+
+Nitori3e:The port side's been wrecked, and half the crew quarters are unusable.
+
+Nitori1d:The Buddhist reactor isn't starting up either... I don't think it'll be flying for a while. 
+
+Murasa2b:I see...
+
+Sho0b:I would say this is still better than the alternative, though.
+
+Sho0a:Surely it would have been even worse if you hadn't moved. 
+
+Nazrin0a:Yeah. You made the right call, Skipper. And, you know, the whole bridge crew. 
+
+Ichirin4c:...Thanks, Nazrin. 
+
+Youmu3b:...
+
+Youmu3a:How did any of this even happen, though?
+
+Udonge5b:Youmu...
+
+Youmu1a:Utsuho was behaving herself after the fight underground. The incident was resolved.
+
+Youmu2a:But then Yatagarasu's power went out of control and damaged the surface...
+
+Marisa2b:It's 'cuz Shiro attacked Utsuho. 
+
+Reimu0a:...
+
+Marisa2b:Is this what Shiro—or more to the point, the person in the dream—wanted to happen?
+
+Marisa2b:Where does she get off hurting people and trying to purge them just 'cuz she doesn't like 'em?
+
+<SE=se_talk_walk_water01.ogg,wait=1>
+
+Alice1a:Marisa, where are you going?
+
+Marisa2b:I'm gonna find Shiro. I'll grab it and get some answers! 
+
+Patchouli1d:Calm down, Marisa. There's no trace of the kedama's aura anywhere nearby. 
+
+Sakuya5b:Plus, I'm sure that person sees us as enemies now.
+
+Sakuya0b:It's dangerous to act rashly when you're so exhausted. 
+
+Marisa2a:Dammit...!
+
+Parsee0d:I don't know who they are, but dragging the Underworld into this mess was extremely rude.
+
+Parsee0a:So, how do you surface youkai plan to deal with this? 
+
+Ran4b:And by "deal with" you mean...
+
+Parsee0a:I get that the white kedama is no friend of yours.
+
+Parsee0d:Surely you're not planning on letting it roam free.
+
+Yukari2a:...Naturally, we'll be looking into it. I will not be leaving this matter unaddressed.
+
+Kisume4a:Utsuho ended up messing up the surface big time... What about her?
+
+Yukari4a:Utsuho, and even Yatagarasu, were merely victims here.
+
+Yukari4c:If anything, I must express my gratitude to the youkai of the Underworld for helping to protect the surface. 
+
+Yamame4a:No need to thank us. It was our problem as much as anyone else's.
+
+Yamame0b:Call us up whenever you go after that youkai. We've got some payback to deliver.
+
+Parsee0a:Alright, I've heard what I needed to hear. Let's get back to the Underworld.
+
+Kisume4a:Right...
+
+<SE=se_talk_walk_water01.ogg,wait=1>
+
+<single>
+
+Wriggle4a:...They said that they'd help us out again. 
+
+</single>
+
+Daiyosei3b:We could have chatted longer if we weren't forced to the surface like that... 
+
+Nitori3e:Do you think we've gotten a little closer with them?
+
+Yukari0a:...
+
+Ran0b:...When we first set out for the Underworld, I never imagined we'd form this kind of bond with them.
+
+Ran0a:Perhaps this will facilitate some changes in the relationship between the surface and the Underworld.
+
+Yukari0b:That's something for all of Gensokyo to decide over time.
+
+Yukari0a:Still, we should all treasure what we observed and felt during this investigation. 
+
+Yuyuko3b:Yes, we wouldn't want our encounters to go to waste.
+
+Elliy0a:...So, what do we do now?
+
+Elliy4a:We have to clean up after this incident, there's the whole thing with Shiro... There's tons to do. 
+
+Keine0c:...First of all, let's get some rest. Both our minds and bodies need to relax.
+
+Kosuzu4b:No kidding. I can barely move.
+
+Akyu0a:So where is the crew of the Palanquin Ship going to stay? I can arrange some accommodations if needed.
+
+Ichirin4b:I appreciate the thought, but we're just gonna stay with the ship. 
+
+Murasa2b:We've gotta tidy things up here until it's livable, at least. 
+
+Kanako3a:...
+
+Sanae3b:...Let's go too, Lady Kanako. I'll catch a cold if we stay out in the rain. 
+
+Kanako3c:I suppose we should. I was just doing some thinking...
+
+Kanako0c:After we fought underground, I'd hoped that moving forward, Utsuho would put Yatagarasu's power to proper use. But now... 
+
+Suwako2b:If only we could've stopped Shiro from butting in and ruining everything...
+
+Suika1b:I get why you'd be upset, but you two gotta focus on what you can actually do.
+
+Suika3c:That way you can be there to help when Utsuho wakes up.
+
+Kanako3b:I suppose so...
+
+Alice0a:Reimu, Marisa, why don't we head back too? The rain's getting stronger.
+
+Marisa2b:...It bugs me leaving this half-done, but I guess there's nothing else we can do. 
+
+Reimu0a:Guess this investigation's adjourned now...
+
+<Code=(transition_out,c_black,80,1)>
+
+<BG=bg_talk_Chireiden.png,fade=1,color=1,title=bg_Chireiden,bgm=bgm_talk_heartfelt>
+
+<SE=se_talk_walk_indoor04.ogg,wait=1>
+
+Yugi1b:...I can leave her here, right? 
+
+Orin5a:Yeah, thanks. We'll handle the rest. 
+
+Satori5b:Sorry. Normally I'd serve you some tea...
+
+Yugi3c:Don't mind me, you've gotta take care of Okuu, right?
+
+Yugi0a:Give us a holler if anything happens. 
+
+Satori5b:Thank you.
+
+<SE=se_talk_walk_indoor04.ogg,wait=1>
+
+<single>
+
+Orin1e:...Welp, I'm gonna get started changing her bandages. 
+
+</single>
+
+Satori5a:...
+
+Orin4a:...C'mon, don't make that face, Miss Satori. Okuu'll be up and about in no time!
+
+Orin4c:The doctor from the surface said she'd be fine, right?
+
+Satori5a:...Thank you, Orin.
+
+Satori5b:You're right, we just need to wait for her to wake up. 
+
+Orin4a:Right...
+
+Orin5a:...
+
+Satori0d:Orin...
+
+Orin2a:...What happened today still doesn't sit right with me!
+
+Orin5a:At first Okuu only talked about conquering the surface, but she was really giving it a lot more thought than that.
+
+Orin3a:I should've known that this was coming from somewhere genuine...
+
+Satori5a:...You sympathize with her desperation.
+
+Orin5a:Of course. I get why she wanted power so much.
+
+Orin2c:We were both frustrated that we couldn't do anything to help Miss Koishi. 
+
+Satori5a:That's not...
+
+Orin5a:That's why we went looking for her on the surface. We were just trying to do whatever we could.
+
+Orin5a:We knew it was wrong, but we didn't have any better ideas.
+
+Orin2a:We didn't know what to do... 
+
+Satori5a:...
+
+Orin5a:And nothing's changed. I STILL don't know what to do.
+
+Orin5a:I should've talked to you about Okuu.
+
+Orin2c:No, I should've swallowed that god myself. If I'd done that, then—
+
+Satori5b:Orin, don't.
+
+Orin3a:...!
+
+Satori5b:Don't talk about taking her place, or what might have been.
+
+Satori5b:I'm well aware that you were trying to do everything you could.
+
+Orin5a:I'm sorry. I don't know what came over me... 
+
+Satori5a:Besides...
+
+Satori5b:I don't know what to do either. 
+
+Orin3a:Huh?
+
+Satori5b:What can I do for me and Koishi to live together like we used to?
+
+Satori5b:What could I have done to keep Koishi from closing her third eye?
+
+Satori5b:I keep thinking, if it wasn't for all of this, our minds might still be connected...
+
+Orin5a:Miss Satori...
+
+Satori5b:The truth is, I'm never sure about anything. I'm always racked with worry.
+
+Satori5b:How could I possibly know what to do?
+
+Orin5a:So you were troubled by it too...
+
+Satori5b:I'm sorry. I know talking like that won't help matters any.
+
+Orin5a:No, I want you to. This is the first time I've heard your real feelings.
+
+Orin5a:If anything, I'm honored you'd share them with me...
+
+<SE=se_talk_walk_indoor04.ogg,wait=1>
+
+Koishi2b:Oh, hey. Whatcha doin', Sis? Orin?
+
+Satori2b:...!
+
+Orin1f:Miss Koishi! You came home?
+
+Koishi0a:Yup. I went ahead and took the first bath.
+
+Koishi0b:I figured you all might have gotten pretty muddy while you were up top.
+
+Orin1f:Up top? You were watching us?
+
+Koishi0b:Just a bit. This crazy light was coming out of Okuu.
+
+Koishi0a:What was that, anyway? She could never do anything like that before. 
+
+Satori5b:Yes, she couldn't. Okuu offered her body to a god and received the power of the sun.
+
+Satori5b:And now she's hurt and resting.
+
+Koishi2b:Ooh. She'll get better soon, right? I want her to play with me too sometime.
+
+Koishi0a:I mean, she's so much stronger than she used to be. 
+
+Orin5a:Play with you? That's not quite what she had in mind when she got that power.
+
+Orin5a:She did it for you and Miss Satori—
+
+Satori0d:Okuu.
+
+Koishi2b:For us?
+
+Orin5a:Yes. She wanted to let you two live happily again. 
+
+Koishi0a:...
+
+Koishi5a:Why?
+
+Orin7a:Huh?
+
+Koishi0a:Every day is fun for me. No one hates me, and I can spend my time with everyone.
+
+Koishi5a:Did something bad happen to you or Satori?
+
+Orin1f:Well, ah...
+
+Koishi1a:So when's Okuu gonna open her eyes? I wanna see her new power again.
+
+Satori5a:...
+
+Satori5b:Don't worry, she'll wake up soon enough. 
+
+Orin3a:Miss Satori...
+
+Satori5b:This is our house. We can just keep living here, right?
+
+Koishi5a:Sis...?
+
+Satori5e:It's not your fault that you don't know what's been happening in the palace, or to Okuu.
+
+Satori5e:It's because you can't read minds anymore...
+
+Koishi2b:...!
+
+Koishi0a:Is that a bad thing?
+
+Satori2b:...!
+
+Satori0d:I'm sorry Koishi, that's not what I meant! 
+
+Koishi5c:Do you think I'm no good because I can't read minds?
+
+Koishi5c:I'm still me. Nothing's changed. 
+
+Satori2b:You know what I meant...
+
+Koishi5c:...No, I don't know. After all, I closed my third eye.
+
+Koishi5i:I loved you and the others all this time, Sis!
+
+Satori2b:Koishi—!
+
+<nowindow>
+
+<single>
+
+<Code=(demo_wait,35)>
+
+</nowindow>
+
+Orin3a:Ah! She's...
+
+</single>
+
+Satori2b:Where are you, Koishi?
+
+Satori2b:Are you over there? Just let me hear your voice...
+
+Satori2b:Answer me, Koishi! Please!
+
+<Code=(transition_out,c_black,80,0)>
+
+<end>
+
+<ChatID:12>---------------------------------------
+//テロプ
+
+The rain eventually stopped, giving way to snow.
+
+A single set of footsteps from the Underworld crossed the white-blanketed land.
+
+Time passed...
+
+And life slowly began to return to normal on the surface.
+
+<end>
+
+<ChatID:13>---------------------------------------
+//全滅
+
+<Cond=(CHECK_BEATEN,Seirensen,==,1)>
+
+Murasa2c:The ship's going down!
+
+</Cond>
+
+<Cond=(CHECK_BEATEN,Seirensen,==,0)>
+
+Reimu2a:No, not here...!
+
+</Cond>
+
+Ichirin1b:Now there's no stopping Utsuho!
+
+Nitori2b:The surface is done for...
+
+<end>
+
+<ChatID:14>---------------------------------------
+//お燐初戦闘（没）
+
+<end>
+
+<ChatID:15>---------------------------------------
+//ぬえ初戦闘（没）
+
+<end>
+
+<ChatID:16>---------------------------------------
+//霊夢、魔理沙、にとり、早苗さん、アリス
+
+<Cond=(GLOBAL_VAR,route,==,Reimu)>
+
+Alice4b:Utsuho, you've been suppressing Yatagarasu's power all this time...
+
+Marisa3a:Seriously, she went through all this for US?
+
+Marisa2b:Nobody wants anyone to end up hurt, though.
+
+Sanae3b:...We have to save her, no matter what. We won't consider any other options.
+
+Reimu0a:Darn right we won't. You think I said all that just to let myself become a liar?
+
+Reimu0a:We're stopping Utsuho and fixing this. And I know we can do it.
+
+Sanae1a:We can reach her if we all put our strength together.
+
+Reimu0a:We'll push forward once again...!
+
+</Cond>
+
+<Cond=(GLOBAL_VAR,route,==,Marisa)>
+
+Sanae3b:Okuu's been trying to suppress Yatagarasu's power all this time...
+
+Reimu0d:This whole thing is just messed up. I've even got youkai asking me for help.
+
+Alice1c:You said saving her was the only acceptable option, right, Marisa?
+
+Marisa3a:Yeah. This is all wrong.
+
+Marisa2b:I won't let anything else get hurt! Not Gensokyo, and not Utsuho!
+
+Alice1b:We can reach her if we all put our strength together.
+
+Marisa2b:We'll push forward once again...!
+
+</Cond>
+
+<end>
+
+<ChatID:17>---------------------------------------
+//レミリア、フラン、咲夜さん、美鈴、パチュリー、こぁ
+
+Koakuma4b:How are we supposed to go up against the SUN...?
+
+Flan2c:Remi, everyone, let's stop her.
+
+Koakuma5b:Lady Flan...
+
+Flan4b:She's been suffering so much, just to stop herself from breaking Gensokyo.
+
+Flan4a:But if we don't do something, SHE'S gonna break.
+
+Meiling1a:You're right, there's no need for her to suffer anymore pain. That's why we'll work together...
+
+Remilia1c:Of course we'll stop her. That star is fated to be destroyed, though...
+
+Sakuya0a:If we don't like what a fate has in store, I say we show it the door.
+
+Patchouli4a:...But the method for doing so isn't written in any book.
+
+Patchouli1d:There's only one thing we can do.
+
+Remilia1d:Keep moving forward. And then suppress that cheeky sun.
+
+Remilia1e:We'll tear that undesired fate to shreds ourselves.
+
+<end>
+
+<ChatID:18>---------------------------------------
+//エリー、くるみ、雛、小町
+
+Kurumi4c:Sorry, Utsy. I know this must be hard for you...
+
+Hina4a:Fighting to stop the sun is going to be hard for us, too.
+
+Elliy0b:Kurumi, stay back there.
+
+Kurumi4d:Elly?
+
+Elliy1a:I'm the one who has to go first in times like these. How else am I gonna show Yuuka how cool I am?
+
+Hina4b:Hmm, it's true that if we have one person bear the brunt of the damage...
+
+Kurumi4e:No way! Then we wouldn't all get to go home!
+
+Nitori1b:She's right. No one would be happy if we settled this by sacrificing someone.
+
+Komachi0c:If we're doing this, then we're doing it together. And then we all go home together.
+
+Hina1a:I see. With all our feelings together as one, this might just work.
+
+Komachi3a:Let's go. We still need to deliver her ticket back to the Underworld.
+
+<end>
+
+<ChatID:19>---------------------------------------
+//神奈子、諏訪子、文、椛、はたて、（早苗さん）
+
+Momiji1b:...So all this heat is from burning Utsuho's lifeforce like a candle.
+
+Hatate1c:But we can do something, right? We'll figure out some way to deal with that ridiculous power of hers?
+
+Kanako1d:...Everyone, I ask you to lend me your aid.
+
+Hatate0b:Lady Kanako...
+
+Kanako0b:I know that's not something we can simply demand of you.
+
+Kanako1c:But I just want to save Utsuho. Do it for her.
+
+Aya0a:C'mon, don't be silly. We're all in the same boat here.
+
+Suwako0d:Aya...?
+
+Aya0c:What self-respecting mountain youkai would turn down a heartfelt request for help?
+
+Momiji3c:Exactly. There's not a youkai here who'd stand back and let someone die right in front of our eyes!
+
+Suwako0c:Thank you, everyone... Then this isn't a request from us at all.
+
+Suwako0d:Let's work together and save her!
+
+Kanako1b:Advance onward to Utsuho's position.
+
+<end>
+
+<ChatID:20>---------------------------------------
+//紫、ゆゆ様、藍、橙、妖夢、萃香
+
+UtsuhoH5b:...
+
+Yuyuko3c:It's almost as if she's just sleeping, but...
+
+Ran0b:She's steadily crumbling away. There isn't much time left.
+
+Yukari4a:I've already said this, but to Utsuho, the surface was a place of hope.
+
+Suika4b:Despair, huh?
+
+Yukari4b:Those feelings would surely have become the light that binds the surface and the Underworld.
+
+Yukari4b:And even now, she's burning her life away to protect other youkai from Yatagarasu's power.
+
+Chen0c:Then, Lady Yukari...
+
+Yukari0b:I refuse to let those feelings be lost to something like this.
+
+Ran6a:If that's how you feel, Lady Yukari, then we're ready any time.
+
+Youmu0b:We'll stop this berserk power, whatever it takes!
+
+Yuyuko0a:Anything is possible if we all work together. Even stopping the raging sun.
+
+Yukari0a:Amidst this devastation, we'll find a new hope.
+
+<end>
+
+<ChatID:21>---------------------------------------
+//星、ナズーリン、村紗、ぬえ、一輪、阿求
+
+Akyu2b:The pressure's increasing... I'm sure we don't have much time left.
+
+Nue2a:What's up with those Underworlders? They're begging for help so desperately...
+
+Nue2a:And from what I can tell, wasn't the bird the one who asked for this power? This is ridiculous.
+
+Ichirin4b:They made mistakes, yes. But if we let it end here, no one will be forgiven. No one will be saved.
+
+Murasa5c:Plus, we have our own reasons for wanting to save her.
+
+Murasa0a:You know what I mean, right Shou?
+
+Sho4a:Maybe it's impertinent of me, who has never saved anyone, to think I could save her.
+
+Sho0c:But if we can reach our hands out to her...
+
+Nazrin0a:I've already made my peace too. All that's left is to get over to her.
+
+Nazrin3d:Then we'll take her home with us, safe and sound.
+
+Sho1a:Yes, of course!
+
+<end>
+
+<ChatID:22>---------------------------------------
+//輝夜、永琳、妹紅、慧音、鈴仙、てゐ
+
+Tewi2b:This girl's an idiot right to the very end. While all this is happening to her, she's STILL worried about other people.
+
+Tewi0b:Satori and the others too. They really suck at this whole "living" thing.
+
+Udonge4a:...You're right. All this begging for help, and throwing themselves into the flames and whatever.
+
+Udonge2c:It's so pathetic I can hardly take it. I don't wanna see all this.
+
+Mokou0b:There's only one solution then—we stop her ourselves.
+
+Mokou3d:We won't let a place like this be her grave.
+
+Keine1a:Let's fight together, as fellow residents of the same land.
+
+Kaguya0a:Fellow residents of the same land, hm. Right now we're all covered in mud together, fighting for the land.
+
+Kaguya2c:If the Lunarians who banished us saw us now, I'm sure they'd laugh.
+
+Eirin0e:But you were prepared for this, weren't you?
+
+Kaguya2e:Of course. That's why I won't avert my gaze, and face this head on.
+
+Kaguya2d:These chains of life that support each other... I won't let them be extinguished.
+
+<end>
+
+<ChatID:23>---------------------------------------
+//チルノ、大妖精、ルーミア、ミスティア、リグル
+
+Daiyosei3b:There's no way Utsuho wanted any of this.
+
+Daiyosei3b:I'm sure hurting us is making her miserable...
+
+Cirno4c:She's not a baddie.
+
+Cirno0b:After we stop Yatagarasu, I wanna play with her someday.
+
+Mystia4b:Yeah, I don't mind her either.
+
+Wriggle4a:Just when it was looking like the surface and the Underworld might get along...
+
+Wriggle1c:If we can work together to help her, even just a little bit...
+
+Rumia3a:You gotta tone down the heat if you wanna warm yourself up by a fire, right?
+
+Cirno2b:We've totally got this!
+
+<end>
+
+<ChatID:24>---------------------------------------
+//ルナサ、メルラン、リリカ
+
+Lyrica4a:Utsuho, you must have used the last of your strength to talk to us...
+
+Lunasa0a:All I can hear now is the sound of her lifeforce gradually crumbling away.
+
+Merlin1b:The only kind of ending I like is a happy one.
+
+Lyrica1b:Merlin?
+
+Merlin1b:Why did she even do all this? Because she wanted to smile, right?
+
+Merlin1b:She wanted to be a sun that would bring everyone joy... Right?
+
+Lunasa1a:For sure. And no matter how you spin it, we're the ones who made things worse.
+
+Lyrica0c:We won't lose to some out-of-control noise, will we? We know how to cheer up Utsuho, right?
+
+Lunasa0a:...We spin together the sounds of everything standing up to this, and send them all her way.
+
+Lunasa1a:We're an ensemble!
+
+<end>
+
+<ChatID:25>---------------------------------------
+//サニー、ルナ、スター、リリー、レティ、穣子、静葉
+
+Luna4b:Yatagarasu's got so much power, and Utsuho's trying to suppress it all...
+
+Star4b:Are we really strong enough to stop her?
+
+Letty0b:You say all that, but I don't see any of you running.
+
+Sunny0b:Well, yeah. This is burning us up inside. We wanna help her.
+
+LilyW1c:I don't know if I can do anything, but I do know that I can't do nothing.
+
+Letty0a:True. Our group's made up of lots of different species, at lots of different levels of power, but everyone here feels the same.
+
+Minoriko0a:The power of the sun... That should be a blessing that brings people happiness.
+
+Minoriko0a:I'm sure that's what Utsuho wanted too.
+
+Shizuha0b:Let's do this, so she won't lose that desire here. So we can all face the new season together.
+
+Minoriko1b:Let's bring our power together!
+
+<end>
+
+<ChatID:26>---------------------------------------
+//お燐、勇儀、パルスィ、ヤマメ、キスメ
+
+UtsuhoH5b:...
+
+Satori5a:Okuu...
+
+Orin5a:I was so sure everything would just work out in the end.
+
+Orin2b:You and I would get a scolding we'd never forget... and then Miss Satori and Miss Koishi... and the two of us... We'd all...
+
+Yugi1a:Chin up, Orin. We're saving her, aren't we?
+
+Orin2b:But it's already too late, isn't it?! My voice and my power will never reach her now...
+
+Yamame0c:Maybe not by yourself. But we all heard her too.
+
+Kisume2b:We're not gonna let it end like this. We're all in this together, even the surface dwellers!
+
+Parsee0a:I'm almost jealous of how desperate you two are. I can practically see it in your eyes.
+
+Satori5b:...You're right. Everyone here is thinking about Okuu.
+
+Parsee0a:This isn't just about you two, you know. We've all got things we wanna to say to her.
+
+Parsee1a:So we're gonna grab her and give her an earful, got it?
+
+Orin2a:...That's right, Okuu. Didn't you always give it your best, no matter where you were or what you were doing?
+
+Orin2a:You should never have to say you couldn't do anything.
+
+Orin5a:So please, stay with us moving forward...
+
+<end>
+
+<ChatID:27>---------------------------------------
+//空vs.メーコ、まくら
+
+Meko1d:Okuu!
+
+UtsuhoH5b:...
+
+Meko2b:I'm so sorry, I didn't think this would—!
+
+Makura2b:What have I done...?
+
+Meko2c:Lady Makura...
+
+Makura2a:I hurt them. I hurt the world, so much.
+
+Makura4a:I set all this sorrow in motion. I—!
+
+Meko0g:...
+
+Meko1a:But we can't leave things like this.
+
+Makura1c:Mehko...
+
+Meko1f:We can't give up now and let it end like this!
+
+Meko1d:I know you think so too!
+
+Makura2a:That's not...
+
+Meko0g:Okuu was fighting. Even as she was melting down, she was thinking of everyone...
+
+Meko2c:Everyone else here wants to cry too, but they're not giving up!
+
+Makura2a:...
+
+Meko6b:Even if I'm useless, I don't wanna give up!
+
+Makura1c:...Right. Let's fight.
+
+Makura2a:I can wallow in guilt later. For now, we should follow our hearts...
+
+Makura1b:And risk everything to save her!
+
+<end>
+
+<ChatID:28>---------------------------------------
+//空vs.メディ、幽香（両者を引き継いだ場合のみ）
+
+Medicine5c:Utsuho! Say something, Ustuho!
+
+UtsuhoH5b:...
+
+Medicine4b:What do I do? What do I do? C'mon, tell me what to do, Yuuka!
+
+Yuka4a:...This is a recreation of the past. There's no need to get so worked up.
+
+Medicine4a:But I don't wanna see her hurting so much!
+
+Medicine4b:What do I have to do to stop this?!
+
+Yuka3a:...
+
+Yuka3f:I don't know either. What do you WANT to do?
+
+Medicine2b:Huh?
+
+Yuka5a:You're not alone in that suzuran field anymore.
+
+Yuka3a:You can empathize with the pain of others. If you can't reach her alone, then I'm sure you know what to do.
+
+Medicine2c:What I can do now that I'm not alone...
+
+Medicine1b:Okay, I got it. I wanna save her!
+
+Medicine4a:But I don't think I can do that alone.
+
+Medicine1c:So help me, Yuuka!
+
+Yuka3c:Tee hee, to think you'd ask me a favor.
+
+Yuka1b:I'd rather not see the grass and the flowers burnt to a crisp either.
+
+Yuka2b:Now Medi, let's send this burnt-out old sun back to the suzuran field.
+
+<end>
+
+<ChatID:29>----------------------------------------
+//空vs.依姫、豊姫（両者を引き継いだ場合のみ）
+
+Yorihime0b:How can she be channeling this much of the flames of Yatagarasu?!
+
+Toyohime2a:...Its power is eroding her mind, and starting to burn away at her very life.
+
+Toyohime2d:I've heard the accounts, but to think the circumstances were this tragic.
+
+Yorihime0c:...Forcefully removing Yatagarasu would simply endanger the host.
+
+Yorihime0a:If we're going to stop her rampage anyway, that leaves us one option.
+
+Toyohime2a:Indeed, we must bet on Utsuho Reiuji's heart.
+
+Toyohime0c:If she's still resisting the abyss of her mind, then there's a chance we can reach her.
+
+Yorihime0b:But to bet on that possibility, we must approach the abyss ourselves.
+
+Yorihime3a:We won't pray for a miracle. We'll make it happen ourselves!
+
+<end>
+
+<ChatID:30>----------------------------------------
+//空vs.天子、衣玖（両者を引き継いだ場合のみ。当面封印）
+
+Iku1b:...Utsuho's been fighting Yatagarasu's rampage to the very end.
+
+Iku4a:But anymore of this, and...
+
+Tenshi2e:Geez, what the heck?!
+
+Iku0e:My lady...
+
+Tenshi5a:Sure, she made mistakes, but she was giving it her all in her own way!
+
+Tenshi2c:And all she gets out of it is this torment? That's not right! That just isn't right!
+
+Iku0b:...Please calm your feelings. This is a recreation of the past.
+
+Tenshi1b:Is this really the time for that, Iku?!
+
+Iku3c:I don't want to see her suffer anymore either.
+
+Iku1f:But that's why all we can do is stop Yatagarasu as quickly as possible.
+
+Tenshi2d:Iku...
+
+Tenshi0d:(Right. Reimu and the others fought while dealing with this frustration too.)
+
+Tenshi2c:(Pull yourself together, Tenshi! Don't lose, don't run, and fight!)
+
+Iku0a:You seem to have settled yourself.
+
+Tenshi0e:Right, I don't care if this is the past. If I don't like this fate, I'll cut it into pieces!
+
+Tenshi1b:Dammiiit!
+
+<end>
+
+<ChatID:31>----------------------------------------
+//空vs.神綺、夢子（両者を引き継いだ場合のみ）
+
+Yumeko5a:Not even Makai gets this hot!
+
+Yumeko4b:She most likely has only a little life remaining before she burns out.
+
+Shinki0c:I'll leave the rest to you, Yumeko.
+
+Yumeko5b:What do you mean...?
+
+Shinki1c:I'll stop the flames. So use that opening to get through to her!
+
+Yumeko4a:...This is merely a recreation of the past. Please don't do anything reckless.
+
+Shinki2b:But!
+
+Yumeko2a:You can still feel pain in a dream. Please think of those who'd suffer if you were hurt.
+
+Yumeko4a:But if you still insist on charging ahead...
+
+Yumeko0b:Then allow me to stay by your side and protect you.
+
+Shinki0a:Yumeko...
+
+Shinki5b:I'm sorry, I...
+
+Yumeko0a:...So is that an order?
+
+Shinki0e:It is. Let's stop this sun god together.
+
+Shinki0c:For Utsuho, for everyone's happiness, and so something like this never happens again.
+
+<end>
+
+<ChatID:32>----------------------------------------
+//空vs.小傘（両者を引き継いだ場合のみ）
+
+Kogasa0a:Licky licky!
+
+UtsuhoH5b:...
+
+Meko0a:It's dangerous to get that close, Kogasa!
+
+Makura0a:Besides, her consciousness is currently subsumed by Yatagarasu.
+
+Makura0a:I'm sorry, but she can't even hear you.
+
+Kogasa0a:Like that's a reason to give up! I just need to surprise Yatagarasu then, and maybe he'll stop!
+
+Kogasa0a:Even a sun god is no match for my pranks!
+
+<end>
+
+<ChatID:33>----------------------------------------
+//空vs.非想天則
+
+Tensoku0a:...
+
+Meko1e:Hisoutensoku, are you...?
+
+Makura1c:Not even a steel body can withstand a nuclear flame.
+
+Makura2a:We can't say what will happen if you get too close.
+
+Tensoku0a:...!
+
+Makura1c:Even so, you wish to save her, it seems.
+
+Meko1f:Fine, got it! Then on your name as a youkai robot, stop Yatagarasu whatever it takes!
+
+Meko0e:And then go home safely, whatever it takes!
+
+Tensoku0a:...!
+
+<end>
+
+<ChatID:34>----------------------------------------
+//空vs.白蓮
+
+Byakuren2d:We're coming for you, Utsuho!
+
+Meko3a:You're getting too close, Byakuren!
+
+Byakuren2a:My body has been tempered in Makai, this is nothing I can't handle!
+
+Byakuren2d:Utsuho's feelings of enduring everything on her own, her desire to help Satori... I must save them both!
+
+Makura2a:This horrific surge of spiritual energy... Is that you?
+
+Byakuren1c:Sorcerer's Sutra Scroll, Auto-Chant Mode!
+
+Byakuren2b:Namusan!
+
+<end>
+
+<ChatID:35>----------------------------------------
+//空vs.魅魔
+
+Mima1c:Tch, talk about heat!
+
+Korin1c:Don't be reckless, Mima!
+
+Mima0d:Since when have you ever needed to worry about me?
+
+Korin1a:Of course I'm worried! You're up against a nuclear reactor!
+
+Korin2d:I know very well how strong you are, but still!
+
+Mima0d:Stopping a runaway sun, huh? Great.
+
+Mima1a:It's not every day you get an opponent like this.
+
+Korin3b:Do you really have to take the lead though? There's a limit to acting cool...
+
+Korin1a:But I believe in you. Show me how you'll stop that sun!
+
+Mima1g:Don't need to ask me twice!
+
+<end>
+
+<ChatID:36>----------------------------------------
+//空vs.さとり
+
+Satori3a:Okuu!
+
+UtsuhoH0a:...
+
+Satori0b:I knew it... Even after coming closer than last time, I still can't hear your voice.
+
+Satori0d:But this time, I won't just watch from the sidelines. I'll step forward and stop you too.
+
+Satori3a:Because now even the despair I gave into before is no match for me.
+
+<end>
+
+<ChatID:37>----------------------------------------
+//空vs.こいし
+
+Koishi1a:Okuu. Hey, Okuu!
+
+Koishi1a:You were looking for me, weren't you? Welp, here I am!
+
+UtsuhoH0a:...
+
+Koishi3b:...
+
+Koishi5e:Sorry, it hurts doesn't it? And it's my fault.
+
+Koishi4a:I know I can't change the past, but... The me right now wants to go home with you.
+
+Koishi4a:I'll come to greet you, so wait for me, Okuu.
+
+<end>

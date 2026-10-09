@@ -1,0 +1,1099 @@
+﻿○霊夢第十三話「鳴り響く、風神の鐘
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP
+ 2: 1EP
+ 3: after first battle w/ Sanaesan
+ 4: after battle; Sanaesan HP < 50%
+ 5: before battle; Sanaesan HP < 30%
+ 6: ADVB
+
+<ChatID:0>----------------------------------------
+//ADVA
+
+<MAP=0,FROM=妖怪の山上部,TO=妖怪の山上部,name=Youkai Mountain,icon=5>
+
+<BG=*bg_talk_Road.png,fade=0,color=1,title=*bg_Mountain,bgm=bgm_talk_aoki>
+
+Aya0a:Hmm. I've been on the lookout the whole morning, but they haven't left the place even once...
+
+Aya0a:If it's taking this long, maybe the negotiations aren't going too smoothly...
+
+Momiji0a:Aya... What are you doing here?
+
+Aya0a:Oh, it's you, Momiji. What are YOU doing here?
+
+Momiji5a:Patrolling. There's nothing else to do.
+
+Momiji0a:I'm guessing you're getting material for an article?
+
+Aya0a:Well, I'm waiting for some. All the newspapers are running stories about the scarlet mist, so I thought I'd get the jump on them with a big scoop.
+
+Momiji0a:What are you waiting for, exactly?
+
+Aya0a:...The negotiations between Lord Tenma and the god are supposedly reaching the final stages.
+
+Momiji3a:...!
+
+Momiji0a:It's been about two weeks since the storm... Now things between us and them are finally coming to a resolution.
+
+Aya0a:Yup, which means soon we'll know exactly where we stand with the shrine.
+
+Aya0a:I'm gonna be sharing this extra edition everywhere. You should grab a copy yourself. "Shady Shrine's Secrets Exposed!" This stuff writes itself!
+
+Momiji0a:Let me know when it's out. I want to know what their deal is myself.
+
+Momiji4b:...Especially that shrine maiden, since she appears to have learned nothing and is still trying to leave the mountain.
+
+Aya0a:Oh, are you still shadowing that girl? I thought the surveillance order was rescinded.
+
+Momiji0a:No, I'm not. But when you come and go as much as she does, you're bound to stand out.
+
+Aya0a:Oh, really? I hadn't noticed at all.
+
+Aya1a:Ooh, have you actually grown attached to her after spending all that time watching over her?
+
+Momiji5a:Don't even imply that. If not for the Greater Tengu's orders, I'd have nothing to do with a human like her.
+
+Momiji0a:I'm just naturally wary of trusting someone who's already breached an agreement once.
+
+Aya0a:...Yeah, that's fair. If she does anything shady, use your thousand-li vision to keep an eye on her.
+
+Aya0a:She's gotten permission to leave, but that doesn't mean she's got a free pass to hatch nefarious schemes.
+
+Momiji0a:Agreed. I'll get back to work, then. Keep it up on your end.
+
+Aya0a:Sure thing. You can look forward to today's extra!
+
+<MAP=0,FROM=博麗神社,TO=博麗神社,name=Hakurei Shrine,icon=0>
+
+<BG=*bg_talk_Shrine.png,fade=1,color=1,title=*bg_Shrine,bgm=bgm_talk_gag>
+
+Daiyosei0a:Okay. Rock, paper...
+
+Keine1a:Scissors!
+
+Akyu1a:It's a tie! Rock, paper...
+
+Keine1a:Scissors!
+
+Cirno1a:All the ones who threw out rock win!
+
+Rumia0a:Wow, I won.
+
+Akyu3c:Oh dear, I've lost.
+
+Daiyosei0b:Okay, the winners do rock-paper-scissors for one more round.
+
+<Code=(demo_wait,10)>
+
+Remilia0a:...This is dull. Isn't there a faster way to agree on a turn order?
+
+Yuka0b:Now now, it's better to make fights fair, isn't it? We would win the game instantly otherwise.
+
+Remilia0b:Being fair is nice and all, but they could stand to pick up the pace. Sakuya, are the cards shuffled?
+
+Sakuya0b:Yes, ma'am.
+
+Akyu3c:...I would never have expected the two of you to join us playing Sevens, to be honest.
+
+Remilia0a:Why not? Dabbling in commoner games is a decent way to pass the time on occasion.
+
+Rumia0a:You seem pretty excited about it to me.
+
+Reimu4a:Sheesh. Must be nice just sitting around complaining.
+
+Reimu2b:It's way worse for the person stuck with hosting duties every single time you all visit.
+
+Keine0a:Sorry about that. I originally came to thank you for resolving the incident, but I ended up engrossed in the games.
+
+Keine0a:But at least I brought you that taiyaki you wanted so much, right?
+
+Reimu2b:Sure, but it wouldn't kill one of you people to help out around here a little.
+
+Reimu4a:Oh well, whatever. I'll go warm up the taiyaki.
+
+<hide=all>
+
+Nitori0a:Hello! Mind if I come in?
+
+</hide>
+
+Keine0a:...What's this?
+
+Nitori0a:Hey, everybody! How's it going?
+
+Alice0a:Good afternoon. The shrine seems rather lively today.
+
+Reimu0e:Oh hey, good timing. You two can help me out.
+
+Alice0a:...Huh? What do you mean?
+
+Daiyosei0b:Good afternoon, Alice... and Nitori!
+
+Cirno1a:You came to play too? Guess nobody around here's got anything better to do!
+
+Nitori0a:Well, you two seem to be doing just fine!
+
+Keine0a:I didn't expect a reunion so quickly after those farewells. It's barely been a week.
+
+Alice0a:At least everyone's gathered, right?
+
+Alice0a:Even the Child of Miare is here, not to mention...
+
+Alice1b:Even the Child of Miare is here, not to mention... ah.
+
+Yuka0b:Good of you to come, Alice. There's an empty spot right next to me.
+
+Alice0c:...This is all you, Nitori. I'm going to help Reimu.
+
+Nitori2a:Huh? What do you mean, all me? Alice?!
+
+Remilia0a:What brings you here? I hope it's nothing that will interrupt our game.
+
+Nitori2a:YIKES! The vampire!
+
+Nitori2b:Uh, I mean, hello Remilia! Nice weather we're having, huh?
+
+Keine0b:That was quite a quick about-face.
+
+Nitori0a:Look, I get a certain way around big-deal youkai, okay? And vampires technically count as oni.
+
+Akyu0a:So, what brings you here, Nitori?
+
+Nitori0a:...Oh yeah. Hey, is Marisa around? I heard she might be at the shrine.
+
+Daiyosei0a:Marisa...? I'm afraid I haven't seen her.
+
+Nitori0a:Seriously? Yeesh... I can't get good directions from anybody.
+
+Rumia0a:Weren't you not allowed to leave the mountain? How'd you get out?
+
+Keine0a:Now that you mention it... Has the unrest on the mountain abated?
+
+Nitori0a:Ah, yeah. There are still some disputes, but martial law's been lifted.
+
+Nitori0a:And now that I'm finally ungrounded, I decided to come pay a visit.
+
+Akyu0a:Keine told me a bit about the mysterious shrine maiden.
+
+Akyu0a:She seemed connected to the unrest. Have you learned anything new about that?
+
+Nitori0a:Nope, I'm afraid not. It's pretty much all top secret.
+
+Nitori0a:She's apparently been given freedom to enter and leave the mountain at will, so she's probably not sitting around.
+
+Keine0a:But I haven't heard anything about her from the villagers. I have no idea what's going on there.
+
+Keine3a:With such a glaring lack of information, Reimu could have entirely forgotten about it.
+
+Nitori0a:No way... Then again, it is Reimu.
+
+Daiyosei0b:Yay, I won!
+
+Rumia2a:Boo, I only lost because I had to pass more than three times.
+
+Nitori0a:Say, what are you playing?
+
+Daiyosei0a:We're playing Sevens. The maid brought along a pack of cards.
+
+Daiyosei0a:...Oh, who was next? Were you holding the 8 of spades, Cirno?
+
+Cirno0a:Nope. I only have the 9 and the queen.
+
+Keine0a:That was me. I'm keeping it, since I have other cards I can play.
+
+Yuka1a:...Were you the one holding the 6 of diamonds as well?
+
+Keine0a:That was also me. I wanted to get rid of all my clubs first.
+
+Remilia1b:Cease this cowardly playstyle. You're making me lose.
+
+Keine0b:Why would I? That's the idea in Sevens.
+
+Remilia0a:...
+
+Akyu3c:...Keine, you can be surprisingly insensitive at times.
+
+Reimu0g:Hey, the taiyaki's ready, everybody.
+
+Alice0a:It's hot. Be careful not to burn yourself.
+
+Nitori0a:Ooh, this is what I was waiting for! Thanks for the food! *munch munch*
+
+Reimu0f:Hey, we don't have any extras, so don't take more than your share.
+
+Sakuya0b:Mistress, this is the "taiyaki" confection that Meiling mentioned before.
+
+Remilia0a:Hmm, it's rather cute. Don't they use these fish to catch shrimp?
+
+Sakuya5c:...I believe it's the other way around.
+
+Remilia0a:Reimu, you didn't bring me a fork.
+
+Reimu4a:Why would you need one? You're supposed to eat taiyaki with your hands.
+
+Remilia0b:You expect me to hold a fish with my bare hands? Unbelievable.
+
+Remilia0a:Oh well. Sakuya, get some cutlery for me.
+
+Yuka0a:My, don't you want to take a peek into the shrine's kitchen while you're here? Perhaps you could find some delicious sacred wine.
+
+Remilia0a:That's a good idea, perhaps I will.
+
+Reimu4a:Hey, my house isn't your playground.
+
+Rumia0a:Boy, it's not easy being in charge of this place, huh? Anyway, I'll have another one. *nom*
+
+Reimu3a:It would be fine if it wasn't for YOU people coming in and...
+
+<Code=(map_shake,1,25,4)>
+
+Reimu1a:HEY! That's my taiyaki!
+
+Daiyosei2a:Eep! What's the matter, Reimu?
+
+Reimu1a:Rumia... Rumia ate my taiyaki!
+
+Rumia4a:Umm... Can I get away with an "oops" here?
+
+Reimu1a:No! And don't hand it back to me!
+
+Keine0b:...Honestly, all this fuss over a single taiyaki? It's good to see them so full of energy, but still.
+
+Akyu3a:Hehe, it's adorable.
+
+Keine0a:You seem to be enjoying yourself, Akyu.
+
+Akyu0b:...Yes. I consider myself blessed to be here with everyone today.
+
+Akyu3a:In fact, I'd like to visit again if I could.
+
+Keine3a:Reimu and the others are so noisy, I'd worry about your health.
+
+Akyu3a:Hehe, enjoyable things can't be bad for the body.
+
+Akyu0a:...For someone who reincarnates as I do, seeing humans and youkai so close together is a deeply moving sight.
+
+Akyu0b:I can't help but wish that I could be a part of this circle of friends and see more of this up close.
+
+Keine0a:...It's definitely a sight we never would have seen before the Great Barrier was raised.
+
+Keine0a:In a way... You could say that this spectacle came about because we have Reimu here.
+
+Akyu0a:It's true. And no matter how much she complains, she still looks out for the youkai.
+
+Keine0a:Maybe that's part of Reimu's charm. You won't find a gathering of youkai like this anywhere else in Gensokyo.
+
+Akyu0a:Yes. I'd love it if the Hakurei Shrine stayed like this—
+
+<hide=all>
+
+Sanae0a:Wow. It's just as awful as the rumors say.
+
+<Code=(sound_fadeout,BGM,60,0)>
+
+</hide>
+
+Akyu1a:!
+
+Nitori1a:Hm, that voice...
+
+<BGM=bgm_talk_kaikidan,0>
+
+Sanae0a:This is supposed to be a shrine. There's no place for noisemaking and messes here.
+
+Sanae0a:You still don't understand how to be a shrine maiden.
+
+Reimu1a:Hey, I remember you! You're, uh...
+
+Sanae0a:Sanae Kochiya. Hello again, Reimu Hakurei.
+
+Nitori2a:That's the blue shrine maiden... She must have come here from the mountain too!
+
+Akyu2b:...! Oh, this is her?
+
+Reimu0a:What do you want? You wouldn't come all the way here if you didn't have business with me, right?
+
+Sanae0a:That's right. You see, I've been hearing rumors about the Hakurei Shrine.
+
+Daiyosei0a:What rumors...?
+
+Sanae0a:As rumors would have it, the Hakurei Shrine Maiden is so friendly with youkai, it's discouraging the people from visiting.
+
+Sanae0a:And the scene in front of me only confirms it.
+
+Keine0b:This is hardly the first time the shrine's been a hangout spot for youkai. I see no reason to raise a fuss over it now.
+
+Akyu3d:Agreed. In terms of humans and youkai being friendly with each other, the human village is no different.
+
+Sanae0a:I'm aware of that. However, shrines are held to a higher standard.
+
+Sanae1a:A shrine houses a god. Allowing youkai within and discouraging humans from visiting defeats its entire purpose.
+
+Nitori2a:You're saying it's wrong for us to hang out at a shrine?
+
+Sanae0a:More specifically, it's wrong of the shrine maiden to permit you to do so. Discouraging followers is an act of blasphemy toward the enshrined god.
+
+Akyu1a:And what of it? True, there are many youkai here, but Reimu is doing perfectly well in her capacity as shrine maiden.
+
+Reimu4a:Yeah, what she said. My shrine's doing perfectly fine for what it is. How is this any of your business, anyway?
+
+Sanae0a:Of course it's my business. As a shrine maiden, it's only natural for me to worry about the future of our faith.
+
+Sanae0a:If you won't change your ways, then we're ready to take more drastic measures.
+
+Reimu4a:Oh yeah? What drastic measures are those?
+
+Sanae0a:I'll make you shut down the Hakurei Shrine.
+
+Nitori2a:What?!
+
+Alice1a:Shut down the Hakurei Shrine?!
+
+Keine2b:Now hold on. What authority do you have to make such demands?
+
+Sanae0a:Oh, we wouldn't tear it down, of course. Once it's shut down, we might rebrand it as a Moriya Shrine branch location.
+
+Nitori1b:So all you want is to take over the place!
+
+Alice0a:Was that your objective from the very beginning...?
+
+Akyu1a:The idea of the Hakurei Shrine shutting down is patently absurd to me.
+
+Sanae0a:I had a feeling we wouldn't come to an understanding right out the gate.
+
+Sanae1a:Reimu, let's discuss the matter further in private. Show your guests the door, if you would.
+
+Reimu4a:Okay, hold on. You're the one who barged in here making demands. Why should everybody else leave?
+
+Reimu1a:How about I show YOU the door instead? I say we settle this with a danmaku battle!
+
+<end>
+
+<ChatID:1>----------------------------------------
+//1PP
+
+<nomove>
+
+<Code=(update_view,304,400)>
+
+</nomove>
+
+Sanae0a:...You really want to do this with a danmaku battle? Did you forget our last fight?
+
+Reimu0a:I was just tired then. It'll be different this time.
+
+Reimu0a:I have no idea what you're thinking, trying to close down my shrine. Have I done something I should feel guilty about?
+
+Sanae0a:I see, so you intend to play innocent to the bitter end...
+
+Sanae0a:Heh.
+
+Reimu3b:What?
+
+Sanae0a:I've done my research on you, Reimu. I have incontrovertible evidence.
+
+Sanae6e:So I know EXACTLY what you've done!
+
+Keine2b:Reimu, doing something villainous? That's hard for me to imagine.
+
+Nitori2a:She seems really confident about that claim. Is Reimu hiding some dark secret?
+
+Reimu4a:...Stop beating around the bush. Whatever this evidence is, spit it out.
+
+Sanae0a:Since you're ready to face the music, I'll be happy to elaborate.
+
+Sanae0a:Reimu Hakurei, shrine maiden of the Hakurei Shrine. You...
+
+Daiyosei2b:*gulp*
+
+Sanae3c:You drank SAKE at the shrine the day before yesterday!
+
+Reimu0a:...
+
+Reimu0d:Huh?
+
+Keine0b:...I'm sorry, what?
+
+Alice0c:I'm not sure I heard that right.
+
+Sanae6a:Heh. I see you're stunned speechless now that I've got you dead to rights.
+
+Sanae6e:You know minors aren't supposed to drink alcohol! Especially not followers of Shinto!
+
+Reimu4a:Huh? I'm pretty sure everybody drinks.
+
+Sanae6e:...
+
+Sanae6a:...Wait, what?
+
+Sanae1a:Hold on. Are you telling me that you drink on a daily basis?
+
+Reimu0d:Well... Yeah? Everybody else here does too.
+
+Sanae3a:Everybody? Surely you're not including the little children over there in that claim, right?
+
+Rumia3a:Who, me? Yeah, I drink!
+
+Cirno1a:Same. All the fairies drink sake too, right Dai?
+
+Daiyosei0a:Yeah, I can't drink as much as everyone else, though...
+
+Sanae3a:Wh... You even let CHILDREN drink alcohol?
+
+Sanae5a:That's extremely unhealthy! How can you grown-ups stand by and let this happen?!
+
+Sanae5a:You there, the lady in the back! You're a grown-up, right? Isn't it an adult's responsibility to stop such behavior?
+
+Keine0b:I suppose I'm the lady in the back?
+
+Keine0a:I don't see the harm in a little sake, as long as it's consumed in moderation.
+
+Sanae1d:This is absurd... Even the adults have abandoned their supervisory responsibilities...
+
+Sanae3a:Aha, I get it. The decline in faith must be causing a decline in public morals. I didn't realize the situation was this dire.
+
+Reimu4a:...Um, hello? Sorry for interrupting your monologue, but can we get back to the topic at hand?
+
+Reimu4a:What was your point with any of that? Because I still have no idea.
+
+Sanae0a:...This only affirms my decision. Gensokyo's faith can't be left to a delinquent shrine maiden like you.
+
+Sanae1a:This danmaku battle will determine which of us is more suited to be the shrine maiden of Gensokyo. 
+
+Sanae1a:Once it's done, I'm shutting the Hakurei Shrine down for good!
+
+Reimu1a:Whatever you say. This suits me just fine anyway.
+
+Reimu1a:If it's a danmaku battle you want, then that's what you'll get!
+
+<end>
+
+<ChatID:2>----------------------------------------
+//1EP会話
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+<Code=(update_view,304,400)>
+
+</nomove>
+
+Remilia0a:Ahh, that was delicious. I'm nice and full now.
+
+Yuka0a:You can't possibly be full after eating a single taiyaki, can you?
+
+Sakuya0b:The mistress is a light eater.
+
+Keine0a:Ah, you three are back. A danmaku battle started while you were out.
+
+Remilia0a:A danmaku battle... Ah, there it is. So, who's the Reimu impostor?
+
+Alice0a:That's the other shrine maiden. Her origins are unknown, but she picked a fight with Reimu during the incident.
+
+Yuka0a:Oh, she did, did she? Who won?
+
+Keine0a:It was a draw last time, but I doubt that will happen again.
+
+Keine0a:The last match was right after a battle with Cirno, so our side was fatigued.
+
+Remilia0a:She's good enough to have resolved my incident, so I'd certainly expect no less.
+
+Sanae0a:You were the one behind the mist incident?
+
+<Code=(cursor_jump,304,352,0)>
+
+Remilia1a:Yes, that's right. What of it?
+
+Sanae0a:When I heard Reimu had bested you, I wondered what kind of being you were...
+
+Sanae0a:But I wasn't expecting a youkai child. And your friend there looks like a nice, harmless lady. It couldn't have been that much of a fight.
+
+<Code=(cursor_jump,304,352,0)>
+
+Remilia1b:...What?
+
+Yuka0b:...
+
+Nitori2a:BWHAAA?!
+
+Nitori2a:Did I hear that right? Did the blue shrine maiden actually just say that to those two?!
+
+Keine3a:Judging by appearances? She clearly doesn't know the youkai of Gensokyo very well.
+
+Alice0a:She just called Yuuka a nice, harmless lady...
+
+Yuka0a:*snrk* Hehehehe...
+
+Yuka1a:Hear that, Remilia? In her eyes, we're fodder youkai.
+
+Remilia1a:Heh heh heh heh heh... That's funny.
+
+Sanae0a:...?
+
+<Code=(cursor_jump,304,352,0)>
+
+Remilia0a:Hey, Reimu. Her business here is with you, right? Finish your fight and be quick about it.
+
+Remilia0a:Give her a light drubbing. That should suffice for a Gensokyo-style baptism.
+
+Reimu1a:Thanks for spelling out what I was already gonna do. You'd better stay out of this!
+
+<end>
+
+<ChatID:3>----------------------------------------
+//早苗さん初戦闘後（距離的に、2PPになる計算）
+
+Sanae1d:...?
+
+Sanae3a:(What's going on? My miracles feel weaker than usual.)
+
+Sanae3a:(I'm not building a lot of power, and my amulets seem to have less punch. Am I lacking in focus?)
+
+Reimu4a:Why are you fretting? Are you getting belated cold feet?
+
+Sanae1c:Certainly not. Let's pick back up where we left off.
+
+Sanae0b:...
+
+Sanae5e:(I'll be fine. Lady Yasaka and Lady Moriya are with me. There's nothing strange going on.)
+
+Sanae1a:(Just focus, Sanae.)
+
+<end>
+
+<ChatID:4>----------------------------------------
+//戦闘後、早苗さん一定HP以下（50％）
+
+Sanae2a:Rgh...
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Nitori0a:Look, Reimu has the upper hand!
+
+Alice0c:That's not surprising. Reimu's one of the best around when she's in top condition.
+
+Rumia5a:Get her, Reimu! Kill her dead!
+
+Cirno1a:Yeah, freeze her into a block of ice!
+
+</nomove>
+
+Sanae0a:You're very chummy with these youkai, aren't you?
+
+Reimu4a:Not really. Like I said before, they just turn up at the shrine. I don't invite 'em.
+
+Sanae0a:Whether you do or not is irrelevant. The fact of the matter is that it still discourages human visitors. You won't talk your way out of this.
+
+Reimu1a:I wasn't trying to. Now come on. We're not finished yet!
+
+Sanae0a:Of course we're not...
+
+Sanae0a:...
+
+Sanae0b:(Why is this happening? I can't build power, and my esoterica isn't working.)
+
+Sanae2a:(This has never happened before!)
+
+<end>
+
+<ChatID:5>----------------------------------------
+//上のイベントの後、早苗さんのHPが20～30％以下で戦闘
+
+Reimu1a:Fine, go ahead. We'll finish this once and for all!
+
+<pause>
+
+Sanae2a:Hrk...!
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Yuka0a:...And that's all she wrote.
+
+Remilia0a:Here I was expecting something after I heard she fought with Reimu.
+
+</nomove>
+
+Sanae1d:Why... Why must I lose?
+
+Sanae5e:I'm a wind priestess... A human miracle worker. I can't accept this.
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Keine0a:Alright, why don't you take a step back and tell us why you're doing all of this?
+
+Keine0a:If you did, maybe you and Reimu could come to an understanding—
+
+</nomove>
+
+Reimu4a:Forget that. I won, so I've got nothing to discuss with her.
+
+Reimu0d:As for you... Stop meddling with my shrine and get lost.
+
+Sanae5e:...No. I can't.
+
+Sanae5f:I came to make you shut the Hakurei Shrine down. I can't just turn around and leave.
+
+Reimu0d:You really don't know when to quit, huh. Okay, but just remember that whatever happens next, you asked for it!
+
+<nomove>
+
+<Code=(cursor_jump,144,496,1)>
+
+<hide=all>
+
+Suwako1b:That's enough!
+
+</hide>
+
+</nomove>
+
+<pause>
+
+<pause>
+
+Suwako0d:Sanae, stop fighting! We're going back to the mountain!
+
+Reimu0f:...?!
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Yuka0a:Oho...?
+
+</nomove>
+
+<Code=(icon_set_direction,Sanae_en,Suwako_en,0)>
+
+Sanae5e:Lady Moriya? What are you doing here?
+
+Suwako0a:Isn't it obvious? I came to check up on you since I was worried, and sure enough, you were about to do something reckless.
+
+Sanae5f:You were...worried about me?
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Akyu1a:Who might that be? A friend of the mysterious shrine maiden?
+
+Cirno1a:I dunno, but she's got a really cool hat!
+
+</nomove>
+
+Sanae5e:...I apologize for making you worry.
+
+Sanae0a:I'll wrap this up now. Just give me a few more moments and—
+
+Suwako1b:Settle down, dummy!
+
+Sanae3a:!
+
+Suwako1c:Surely you can tell you're having trouble mustering your full power.
+
+Suwako1d:We're low on faith. We don't have enough power left to work miracles.
+
+Sanae5e:Oh, no... Then what was all this even for...?
+
+Suwako0a:Look, Kanako just wrapped up talks with the head tengu.
+
+Sanae3a:!
+
+Suwako0a:Now we can set up shop on the mountain. We don't HAVE to act now. We can wait until we've built a decent base of faith first.
+
+Suwako0b:So keep that feeling close. Save it for after we've regained our power. As you are now, you can't take Reimu one-on-one.
+
+Sanae3b:...
+
+Sanae3b:Yes, Lady Moriya. I'll go back to the shrine if that's what you want.
+
+<Code=(demo_wait,12)>
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Akyu3e:Whew. She's finally let this go.
+
+Yuka0a:My, over so soon? Do we get to fight the one in the silly hat next?
+
+Remilia0b:Yuuka, her power...
+
+Yuka0b:Heh, I don't see the problem. It might spice things up a bit.
+
+</nomove>
+
+Reimu0a:...
+
+Reimu4a:Don't. I'm getting an odd feeling from the shortie.
+
+Suwako0a:...Mm. Smart choice.
+
+<Code=(icon_set_direction,Suwako_en,Reimu,0)>
+
+Suwako1b:Well, Hakurei Shrine Maiden—you certainly put Sanae through the wringer today.
+
+Suwako0b:Sanae will redeem herself, I guarantee you that. Consider your battle postponed until then.
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Nitori0a:Postponed? If she turns back up, she's just gonna get beaten again, right?
+
+</nomove>
+
+Suwako3b:Ahaha, bold words. That's fair though, considering the beating she just took.
+
+<Code=(demo_wait,10)>
+
+<Code=(icon_set_direction,Suwako_en,Sanae_en,0)>
+
+Suwako0b:...Sanae, remember those words well. It'll be your job to prove them wrong.
+
+Sanae3b:...I know, Lady Moriya. I'll be counting on your training.
+
+Sanae1a:I don't want to concede to Reimu!
+
+Suwako3a:Atta girl, that's the spirit. Okay, back to the mountain now!
+
+Suwako3b:See you around, everyone! I'll be looking forward to the next time we meet!
+
+<pause>
+
+Reimu4a:So, what was her deal?
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Akyu0a:She did have a strange air about her. We didn't even have time to ask her about herself...
+
+Keine1a:...At the very least, this was unquestionably Reimu's victory. They've probably given up on shuttering the shrine.
+
+Cirno0a:Well, that's done with. Now we can go back to playing Sevens...
+
+Cirno0a:Hm?
+
+</nomove>
+
+<pause>
+
+<nomove>
+
+<Code=(cursor_jump,304,352,0)>
+
+Keine2b:Rain in the evening is rare at this time of the year.
+
+</nomove>
+
+Reimu0a:Yeah, it is. The weather's been so good lately that I've been drying my laundry a ton...
+
+Reimu1a:Oh crud, my laundry!
+
+Reimu1a:Guys, help me bring my laundry in. It's going to rain soon!
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Nitori2a:Ugh, here we go with you bossing around youkai again.
+
+</nomove>
+
+Reimu1a:Come on, no complaints. Rumia, put up the cards. Daiyousei, get the dishes. Alice and Keine, help me out with the laundry.
+
+<nomove>
+
+<Code=(cursor_jump,304,352,1)>
+
+Rumia0a:Aww, really? Oh well, I don't mind.
+
+Daiyosei0a:Alright. Cirno, help me out.
+
+</nomove>
+
+Reimu4a:Sheesh, I can't get a moment's peace. I'm the only one in Gensokyo who never gets a day off...
+
+Reimu0a:...
+
+Reimu0a:Sanae Kochiya, the other shrine maiden... What a strange girl that was.
+
+<end>
+
+<ChatID:6>----------------------------------------
+//ADVB
+
+<MAP=2,FROM=博麗神社,TO=博麗神社,name=Hakurei Shrine,icon=0>
+
+<BG=*bg_talk_Shrine.png,fade=0,color=1,title=*bg_Shrine,bgm=bgm_talk_ningyo>
+
+Nitori0a:Whew, finally done.
+
+Keine0a:It's certainly a lot quicker with more hands to help. Even Yuuka lent a hand.
+
+Alice0a:Remilia went straight inside, though.
+
+Reimu2b:She was the one who made the biggest mess too... Though her maid made up for it.
+
+Remilia0a:Hmm, I thought the rain was coming soon? It's not been falling at all.
+
+Rumia0a:Speak of the devil!
+
+Reimu0a:Hey, don't you think it's bad manners to slack off while everyone else cleans up?
+
+Remilia0a:I resent that. Vampires and rain don't mix, you know.
+
+Keine0a:Oh right, vampires can't cross running water. And when rain hits the ground...
+
+Keine0a:...Wait.
+
+Akyu0a:What is it?
+
+Keine0a:Those rainclouds seem to have stopped before they got here. Take a look, it's only stormy over that way.
+
+Alice0a:You're right. They stopped near the lake. Remilia's house must be getting a downpour.
+
+Remilia1a:Huh? Are you suggesting stormclouds are focusing solely on the Scarlet Devil Mansion? Why, that's ridi...
+
+<Code=(map_shake,1,20,4)>
+
+Remilia1b:...!!
+
+<Code=(sound_fadeout,BGM,20,0)>
+
+Reimu3b:Whoa! Watch it with the wing-spreading! What's your problem?
+
+Sakuya0b:Is something the matter, Mistress?
+
+<BGM=bgm_talk_inishie,0>
+
+Remilia0b:Those rainclouds look familiar to me. They resemble the ones Patchy summons.
+
+Sakuya0b:Yes, I do recall her learning the ability to manipulate the weather around the Scarlet Devil Mansion...
+
+Sakuya1a:...Oh, no!
+
+Alice0a:Since it's raining, Remilia can't return to the mansion, can she?
+
+Reimu4a:Have you been cursed or something? Or maybe you've finally been chased out of your own home.
+
+Remilia0b:...No, it's the opposite. The rainclouds are there to keep something inside.
+
+Remilia1b:How did this happen?! That seal was ironclad.
+
+Remilia0b:And Patchy! Sealing her in with rain is all well and good, but how am I supposed to get in now?!
+
+Keine2b:Okay, what's going on? Did something bad happen?
+
+Remilia0b:Oh, it's far worse than bad. If she gets outside, it spells serious trouble!
+
+Alice0a:Who is this person you're talking about?
+
+Alice1b:If it's that serious, would you mind starting from the beginning? What is going on here?
+
+Remilia0b:I never told any of you before, but there's a dangerous youkai sealed in the Scarlet Devil Mansion's basement.
+
+Remilia0b:Now, it seems that seal has been broken. The rain is undoubtedly magic used to keep her inside.
+
+Nitori2a:If rain would keep her inside, that means that she's like you, right?
+
+Remilia6a:Yes, Flandre is a vampire.
+
+Remilia0b:She crushes everything and anything. She's like destruction incarnate. She absolutely must not be allowed outside.
+
+Keine2b:A vampire?! Wow, I had no idea there was another vampire besides you there.
+
+Remilia0b:As I just said, she's been sealed there for a very long time. It's only natural you wouldn't have known.
+
+Alice0a:...What isn't natural is how the seal suddenly came apart. Is there any possibility this is something else?
+
+Sakuya0b:It is rather abrupt. And even if it were true, why would it be now...?
+
+Remilia0b:There's only one way to get any definite answers to those questions. But I can't pass through that rain.
+
+Remilia0a:...Reimu, would you mind checking up on things for me?
+
+Reimu0d:Huh? Why should I?
+
+Remilia0a:Aren't you a specialist in youkai extermination? Then this would be just another job for you.
+
+Remilia0a:Furthermore, it would take someone good enough to defeat me to even have a prayer of matching up to her.
+
+Reimu2b:Hmm, even then...
+
+Keine0a:Think about it, Reimu. If that Flandre gets outside, you'll have to fight her anyway.
+
+Keine1a:Besides, we can't allow any chance of her getting into the human village.
+
+Alice0c:She can't leave the Scarlet Devil Mansion right now. She's a sitting duck.
+
+Reimu2b:Sheesh. Fine, twist my arm, why don't you?
+
+Reimu0f:So all I need to do is capture this Flandre person, right?
+
+Remilia0b:If you go in there with some limpwristed capture approach, you'll find yourself sorely outmatched.
+
+Remilia0b:She's a mad monster. Take her down with prejudice. Don't even consider anything else.
+
+Sakuya0b:...
+
+Reimu0a:...Alright. It sounds like I'll need all the help I can get. Okay, who's coming with me?
+
+Akyu0a:I wouldn't be of any assistance, so I'd prefer to stay here, if you don't mind.
+
+Keine1a:I'm going, of course. I can't ignore such a dangerous creature.
+
+Alice0a:...I'm coming too. It's better to go now than to get dragged into it later.
+
+Rumia0a:I guess I can tag along, sure.
+
+Nitori1b:If you're all going, then so am I!
+
+Cirno0a:Once again, everybody needs the power of the strongest on their side...
+
+Daiyosei3b:I'll go with Cirno!
+
+Reimu0a:Then it's settled. Remilia, once I resolve this, you owe me!
+
+Remilia0b:Certainly. Earn that favor by taking care of her.
+
+Nitori0a:Y'know, this is almost our whole group back together again. Minus Marisa and Youmu, of course.
+
+Alice0a:I doubt Youmu would be around, but Marisa popping up is a distinct possibility. There's no telling where she is or what she's doing.
+
+Reimu0b:Let's not hold our breath. Akyu, you take care of the shrine!
+
+Akyu3a:Will do. Be careful out there, everybody!
+
+<single>
+
+<nowindow>
+
+<Code=(demo_wait,30)>
+
+</nowindow>
+
+Yuka0a:A mad monster, hm...
+
+</single>
+
+Sakuya0b:You're not going, Lady Yuuka?
+
+Yuka0a:Who, me?
+
+Remilia0a:Now that you mention it, if you'd joined them, there'd be nothing left to chance.
+
+Yuka0a:Yeeaah, I'm not really feeling it right now.
+
+Yuka0b:Those girls don't have the chops to stand shoulder-to-shoulder with me just yet. I'd stick out like a sore thumb.
+
+Remilia0b:...Whatever you say. I'm heading to the Scarlet Devil Mansion as soon as the rain stops.
+
+Yuka0a:Fretting won't do you any good, you know. If you can't act anyway, why not trust this to them?
+
+Remilia0b:Don't voice your opinion in matters you know nothing about.
+
+Remilia0b:She must remain locked down there. That fact has always stood true, and it always will.
+
+Yuka0a:...
+
+Remilia0b:You're right that my hands are tied until the rain stops, though.
+
+Remilia0a:Fine, I'll pass the time here. Sakuya, bring out some tea.
+
+Sakuya0b:Alright. That will be tea for you, Lady Yuuka, and...
+
+Akyu0a:I'd like some too, as well as...
+
+Akyu3a:...
+
+Akyu4a:Huh? Am I talking to empty air?
+
+Yuka1a:Now then, how about a nice, pleasant chat?
+
+Remilia0b:I'm really not in the mood.
+
+Akyu2b:Umm... Oh dear, I just remembered some business back home. I should really be going...
+
+Akyu3c:Wait... I can't travel back to the village by myself.
+
+Yuka0b:What are you mumbling to yourself about, little one? Mm?
+
+Remilia1a:Sit down and talk about something interesting. And it had BETTER be suitably distracting.
+
+Akyu2b:Huh? Whaaa?!
+
+Akyu3c:Everyone, I pray for your success! And for your safe and preferably very fast return!
+
+<end>
+
+<ChatID:7>------------------------------
+//早苗さんvs.霊夢
+
+Reimu1a:Alright, let's do this. I'll make sure you'll never talk about shutting down my shrine again!
+
+Sanae1a:If you can't be reasoned with, so be it. I'll show through my danmaku that you can't handle the responsibility of the people's faith!
+
+<end>
+
+<ChatID:8>------------------------------
+//Genji event
+
+Reimu0e:Genji? Genjiii?
+
+Reimu0a:...Nope, not here. This weather would have been great for sunning himself, too.
+
+Sanae0a:Reimu, what are you doing? You're supposed to be fighting me, remember?
+
+Reimu0a:Oh, nothing much. I left Genji at this pond, and I haven't seen him for a while, so I was looking around for him.
+
+Reimu0f:He WAS pretty old. Maybe the pond wasn't very hospitable for him.
+
+Sanae3a:You left an old man at a pond?!
+
+Sanae1a:...Your misdeeds are far beyond what I ever imagined. I'm going to call down judgment upon you!
+
+Reimu3a:What are you even talking about?
+
+<end>
+
+<ChatID:9>------------------------------
+//ID5から分離
+
+Sanae2a:*huff, huff*
+
+Reimu2b:You know, I remember you putting up more of a fight than this.
+
+Reimu0c:Maybe you really did just catch me at a bad time before.
+
+Sanae5e:...I can't accept this.
+
+Sanae5f:I've upheld my wind priestess duties and responsibilities completely faithfully.
+
+Sanae1a:I can't lose to a shrine maiden who just wings it with no awareness of her duties!
+
+Reimu0a:Hey, I know my duties. That's why I exterminate youkai.
+
+Reimu1a:I don't know who you are, but if you interfere in incident resolutions, that doesn't make you much of a shrine maiden at all!
+
+Sanae5e:...
+
+Sanae5e:One more time. Please, I need you to work one more miracle.
+
+Sanae1a:The Moriya Shrine should be what upholds Gensokyo's faith. I'll prove it right now!
+
+<end>
+

@@ -1,0 +1,2522 @@
+﻿○共通第六十一話「びっくり?! 弾幕三番勝負
+
+========================================
+ChatID: Contents
+========================================
+ 0: ADVA
+ 1: 1PP-1
+ 2: 1PP-2
+ 3: 2PP
+ 4: first battle vs. Kogasa
+ 5: Kogasa spell 1 start
+ 6: Kogasa spell 2 start (til question)
+ 7: Kogasa spell 2 start (after question)
+ 8: Kogasa spell 3 start (til question)
+ 9: Kogasa spell 3 start (after question)
+10: clear (til question)
+11: clear (after question)
+12: ADVB
+13: lose
+14: omake (Taiyaki)
+15: omake (sanbondo)
+16: omake (nomiya)
+17: Utsuho first battle
+18-36: battle vs. Kogasa
+37: first use of FOD
+38: after first use of FOD
+
+<ChatID:0>---------------------------------------
+//ADVA
+
+<MAP=11,FROM=人間の里,TO=人間の里,name=Human Village,icon=3>
+
+<BG=*bg_talk_Village_Spring.png,fade=0,color=1,title=*bg_Village,bgm=bgm_talk_aoki>
+
+<SE=se_talk_walk_outdoor02s.ogg,wait=1>
+
+Sanae0a:Here we are, the human village.
+
+Utsuho0e:Wow, so this is the place...
+
+Tenshi3a:Huh, it's livelier than I expected. It might actually provide some meager entertainment.
+
+Marisa0d:I know it's you girls' first time here, but try not to wander off, okay?
+
+Minoriko3b:But they don't get this chance every day. I know I'D want to go have fun.
+
+Minoriko0a:Why don't we split up while we're investigating, and let them take a look around while we're at it?
+
+Utsuho3d:For real?! But... is it really okay...?
+
+Orin3a:Wouldn't the villagers be shocked to see us Underworlders just strut in like we own the place?
+
+Aya3a:Nah, not really. Lately there have been plenty of visitors coming and going in the village.
+
+Yamame0d:Apparently the current Hieda did a real thorough job letting people know about the Underworld.
+
+Yamame0b:You'll cause less of a fuss if you just act natural instead of being all weird about it.
+
+Yugi3e:Even I'm basically a regular at the bars around here.
+
+Parsee0d:I think you're fitting in a bit TOO well, Yuugi.
+
+Kanako2c:Anyway, we'd be better off not worrying needlessly and expanding the range of our search.
+
+Kanako0a:We'll handle this area, so why don't you have Sanae and Marisa show you around Main Street?
+
+Utsuho0a:Main Street? That sounds fun.
+
+Sunny1b:If we're gonna play, that's the best place in the village!
+
+Tenshi0a:In that case, I suppose I can have you show me what's so great about it.
+
+Hatate3d:I haven't been this far from home in a while either, so maybe I should join in.
+
+Shizuha2b:This isn't just a field trip though. Try to remember to look for Koishi.
+
+Iku0e:If the eldest daughter is going, I shall accompany—
+
+Tenshi4a:Vetoed. I don't need a babysitter chaperoning me and ruining the mood.
+
+Tenshi0c:Plus, aren't you getting along just swimmingly with those girls over there?
+
+Iku4c:That's not the issue...
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+<single>
+
+Momiji5a:And there they go.
+
+</single>
+
+Parsee0a:Well, at least splitting up the class for our little field trip is gonna shut her up for a while.
+
+Suwako0b:Was Tenshi like this in heaven too?
+
+Iku0c:She always had eyes on her, so she was at least a little better behaved.
+
+Iku4a:Showing poor manners in front of others would simply invite even more disdain.
+
+Kanako3b:So she sticks out even among a family known for being delinquents.
+
+Shizuha4a:Well, with that attitude it's no surprise they're calling her that.
+
+Iku4c:Please excuse her behavior.
+
+Yugi1a:But still, she does put a lot of effort into those lectures of hers.
+
+Yugi0a:You can tell she's really TRYING to live up to being a celestial, at least.
+
+Iku4b:That's true, she does seem to be rather fixated on that.
+
+Iku0a:Although she isn't especially good at it, as she hasn't been able to abandon her human emotions and desires.
+
+Yamame0d:But that's the sort of thing you can't do just by wanting to. Must be tough.
+
+Kisume4a:And she doesn't have any friends she can talk about it with either...
+
+Iku4a:Yes, you could say that no other celestial has been in her position.
+
+Parsee0a:...
+
+Iku0c:What is it?
+
+Parsee0a:I was just thinking that for someone who always acts uninterested, you've sure been watching her closely.
+
+Parsee0c:Why can't YOU be the person who understands her?
+
+Iku0e:What do you mean by that?
+
+Shizuha1c:You know, listen to her when she's feeling down, and cheer her on and all that.
+
+Yugi0a:Even just that could do her a lot of good.
+
+Iku0d:But that's impossible for me. I don't live in heaven.
+
+Iku4a:I mustn't involve myself too deeply in the Hinanawi family's private matters.
+
+Aya0b:So that's how it is? Of course, I do realize that everyone has their own circumstances, but still...
+
+Minoriko0a:Rules and etiquette aren't everything when people want to hang out together.
+
+Minoriko3a:If you're worried about someone, then go meddle your heart out!
+
+Parsee1a:And you still haven't told us what YOU think about all this.
+
+Iku0c:What I think...?
+
+<BG=bg_talk_Village_Spring.png,fade=1,color=1,title=bg_Village,bgm=bgm_talk_gag>
+
+Tenshi3c:...These fried dango aren't half bad. Two more to go, please.
+
+Tenshu0a:Thank you, come again!
+
+Utsuho5d:Thanks, mister!
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+LilyW0a:That shop was lovely.
+
+Sanae4a:There are other popular places to eat too. Should we visit them all in turn?
+
+Hatate3d:The world of sweets sure is vast here, isn't it? I need to cover all this in an article.
+
+Marisa0b:...
+
+Star1b:Huh? Are you full already Marisa?
+
+Marisa0b:No, that's not it. It's just... are we really gonna go around eating sweets forever?
+
+Marisa1b:There's gotta be a better way to gather intel.
+
+Utsuho5d:Here ya go Orin, you get half!
+
+Orin4d:Thanks- hey, you got some on your face again!
+
+Orin0a:You've gotta be careful when you're with company. You're a real handful sometimes, you know that...?
+
+Marisa1c:...Hello? Girls?
+
+Orin3a:Oh, sorry 'bout that. Got a little distracted there.
+
+Orin0a:But it's not like we're just walking around without a plan.
+
+Utsuho0e:Miss Satori was always making snacks for Miss Koishi.
+
+Utsuho0a:So we thought maybe Miss Koishi would be drawn to them.
+
+Marisa4c:Well, I mean, I can't argue with that, I guess...
+
+Tenshi6a:Moh inhohanry, hrets ho hry hat hand oher heer.
+
+Marisa1d:Don't talk with your mouth full.
+
+Luna3a:It's not like you to be the straight man all the time, Marisa.
+
+Marisa4c:Well, we need SOMEONE to keep this ship on course.
+
+Marisa0a:But anyway, I'll just leave the tour to Sanae. She seems pretty into it.
+
+Sanae0d:Yes, it's so much fun going around town with everyone!
+
+Utsuho0b:So, what are we trying next?
+
+Sanae3c:How about the taiyaki stand? I hear it's the most popular place in the village.
+
+Sunny5a:Oh, I know that one! We'd better hurry then, they always run out.
+
+<hide=all>
+
+LadyA0a:Oh nooo. Someone save uuus.
+
+</hide>
+
+Marisa0b:...Hm?
+
+Sanae1a:Was that... a call for help?
+
+Orin1d:Pretty laid back for a call for help, if you ask me...
+
+<hide=name>
+
+Kogasa0b:Boo!
+
+</hide>
+
+LadyA0a:My oh my!
+
+<hide=name>
+
+Kogasa2b:Bleeeeeh!
+
+</hide>
+
+LadyB0a:Oh my! I'm still in shock.
+
+<hide=name>
+
+Kogasa3d:So how about it, surprised?!
+
+</hide>
+
+LadyA0a:Thank you, Kogasa. Your little surprises always brighten my day.
+
+LadyB0a:And my daughter's little girl stopped crying ever since you took care of her, sweetie.
+
+Kogasa0a:Just leave it to me, ma'am. I'm used to dealing with kids.
+
+<single>
+
+Marisa1d:...Who's she? She looks like she's messing with those old ladies.
+
+</single>
+
+Orin1e:Hey, whatcha up to, lady?
+
+Kogasa3b:Hm? New customers?
+
+Tenshi0e:What are you talking about? Aren't you a youkai?
+
+Sanae0g:Oh! That characteristic umbrella! Are you the rumored bakegasa?
+
+Kogasa3d:Oh! You know me?
+
+Sanae4a:We've never met in person, but I've heard talk.
+
+Sanae0a:They say that lately there's been a karakasa-obake doing jobs around the human village.
+
+Kogasa1a:Yup, that's me! So I'm that famous now...?
+
+Sanae3c:So when I saw that eggplant-colored umbrella, I knew it was you right away.
+
+Hatate3b:Yeah... If it were raining and a friend offered me that umbrella, I might turn it down and take my chances with the rain.
+
+Kogasa0a:...
+
+Kogasa2a:*sniffle* Actually, that's why I was abandoned... And I even became a youkai just to spite them...
+
+Sanae1d:Oh no, um... Did we hit a sore spot?
+
+Orin4a:Life story aside, you seem pretty comfortable in this village.
+
+Kogasa1a:Okay, I'm over it now. I'm Kogasa Tatara. As you can see, I'm an umbrella-turned-youkai!
+
+Tenshi0e:We knew that. But what kind of jobs are there for a youkai here in the human village?
+
+LadyA0a:Kogasa puts on shows for us, and cradles our babies.
+
+Utsuho0a:But... why old ladies?
+
+Kogasa3b:C'mon, as a bakegasa I need to surprise people or I'll go hungry, and it just doesn't work on most people these days.
+
+Kogasa0c:But who'd have thought?! Both crying infants and melancholy grandmas just LOVE my surprises!
+
+Star4b:I don't think you're surprising them...
+
+Hatate6a:So if it doesn't work on adults, you target babies and the elderly? Where's your pride?
+
+Kogasa2b:Wow, rude...
+
+Orin0d:Anyway, let's get a move on, okay? I don't think she'll know anything about Miss Koishi.
+
+Tenshi3a:You're right. And we can't let those infamous taiyaki sell out either.
+
+Kogasa3a:Whoa there! We just met, can't you stick around just a little longer?
+
+Kogasa1a:Oh, I know! This is our first meeting, so I have a chance!
+
+Sanae1e:A chance? For what?
+
+Kogasa0a:Heh heh heh. You've all been treating me like some poor washed-up youkai, but are you sure about that?
+
+Kogasa0b:Once you see my danmaku, you could get so spooked it knocks your socks off!
+
+Marisa4c:That's nice. Look, uh, we're kinda busy right now.
+
+Kogasa2b:Liar! Weren't you just talking about taiyaki?!
+
+Kogasa0c:Just face me already! I challenge you to a danmaku match!
+
+<end>
+
+<ChatID:1>---------------------------------------
+//1PP（出撃前）
+
+Kogasa3d:C'mon girls, get out here already!
+
+Sunny3a:Wow, she's really into it now.
+
+Orin5a:Seriously? I can't believe we're getting dragged into a danmaku battle in the middle of town...
+
+<nomove>
+
+<Code=(cursor_jump,272,352,1)>
+
+Minoriko1a:Ooh, what's all this about?
+
+Yugi1b:You found Koishi? ...Eh, guess not.
+
+<Code=(cursor_jump,432,272,0)>
+
+Kanako4b:I see an unfamiliar youkai. Don't tell me you're having a danmaku battle?
+
+</nomove>
+
+Sanae5c:I'm afraid so. She really wanted some attention...
+
+<nomove>
+
+<Code=(cursor_jump,272,352,1)>
+
+Iku5b:What? She wanted attention?
+
+Parsee2a:What a pain. Can we just ditch her?
+
+<Code=(cursor_jump,288,336,0)>
+
+Yamame4a:You're one to talk.
+
+Kisume4a:But, is it really okay to do this in the middle of the market?
+
+</nomove>
+
+Kogasa3b:Hm, good point. Maybe we should take this outside somewhere...
+
+<nomove>
+
+<Code=(cursor_jump,528,336,1)>
+
+LadyA0a:Don't mind us, sweetie.
+
+</nomove>
+
+Kogasa3c:Huh...?
+
+<nomove>
+
+<Code=(cursor_jump,528,336,1)>
+
+LadyA0a:We all want to see you at your best too.
+
+LadyB0a:I can forget all about my aching hips when I'm watching you, Kogasa.
+
+</nomove>
+
+Kogasa0a:Ladies...!
+
+<nomove>
+
+<Code=(cursor_jump,432,272,1)>
+
+Momiji2a:Um, excuse me, I'm not entirely sure what's going on here...?
+
+<Code=(cursor_jump,272,352,0)>
+
+Minoriko3a:No clue here, but I guess those old ladies really love her?
+
+Shizuha1a:A new rival for popularity in the village?!
+
+<Code=(cursor_jump,432,272,0)>
+
+Kanako3a:I'd love to question your priorities here, but I can hardly turn down an opportunity to bask in the attention of the townsfolk, now, can I?
+
+Kanako0a:Prepare to sortie, everyone.
+
+</nomove>
+
+<end>
+
+<ChatID:2>---------------------------------------
+//1PP（出撃後）
+
+<nomove>
+
+<Code=(cursor_jump,320,320,1)>
+
+HumanA0a:Hey, what's all the racket?
+
+<Code=(cursor_jump,304,336,0)>
+
+HumanC0a:Is it a fire? A brawl?
+
+<Code=(cursor_jump,320,320,0)>
+
+HumanB0a:It's that shrine maiden from the mountain, and she's brought a bunch of youkai I've never seen before.
+
+</nomove>
+
+Aya0c:Ayayaya, we've only just started and there's already a crowd out of nowhere.
+
+Kisume4b:At this rate, we'll just cause a bigger and bigger disturbance...
+
+<nomove>
+
+<Code=(cursor_jump,272,352,1)>
+
+Tenshu0a:Who cares? We're fine with it!
+
+<Code=(cursor_jump,528,336,1)>
+
+LadyB0a:Go get 'em, Kogasa!
+
+<Code=(cursor_jump,320,320,1)>
+
+HumanA0a:Beat up all those youkai! And the humans with 'em too, while you're at it!
+
+</nomove>
+
+Star4a:...They're really fired up about this.
+
+Yamame1d:Even with us Underworld youkai, they're treating this like a festival or something...
+
+Suwako3b:Who can say no to a good festival? Let's give 'em their money's worth!
+
+Marisa0a:Okay, you said your name was Kogasa? If this is a formal challenge, then we need to set rules.
+
+Kogasa3c:Rules?
+
+Marisa0a:It'd be no contest if we just did this normally, and we have that whole crowd to please too.
+
+Kogasa3c:...I don't like the way you put that, but how about a best of three then?
+
+Kogasa0a:I'll use three spellcards, and if I surprise you with two of them, I win. If not, I lose.
+
+Kogasa0b:I call it, the Astonishing Danmaku Best of Three!
+
+Yugi3b:Hell yeah, I'm down!
+
+Parsee0d:Why are you so enthused about this? You always get like this whenever someone issues a challenge...
+
+Minoriko1a:But still, this is the perfect chance to make ourselves known the village.
+
+Tenshi1c:No, it's the perfect chance for ME to make MYSELF known to the terrestrials!
+
+Suwako1a:Listen, Sanae—in order to gather faith, you have to make yourself popular.
+
+Sanae3c:Yes, ma'am! I'll do my best!
+
+Aya7b:Sounds like we're getting a bit worked up over this ourselves.
+
+Marisa1a:Welp, we're ready. Let's get this started already!
+
+Kogasa1a:Hold on, I have to warm up first!
+
+Momiji6a:This doesn't seem very well thought out...
+
+<end>
+
+<ChatID:3>---------------------------------------
+//2PP（FOD習得）
+
+Star0a:Having a danmaku battle in front of humans? This is new.
+
+Luna1b:We use it for pranks, but that's different...
+
+Sunny0a:...Could this be our chance?!
+
+Luna1b:A chance? For what?
+
+Sunny1b:Y'know. If we show them even one super fancy danmaku, they'll HAVE to fear and respect us.
+
+Sunny1a:And then fairies will stand at the apex!
+
+Luna1a:Ooh! That's a great idea Sunny!
+
+Star1a:Yeah, who needs a flashy incident if flashy danmaku will do the trick!
+
+Marisa0b:Sorry to burst your bubble, but do you even have a move like that?
+
+Sunny1b:Heh heh heh. We've got one that even you've never seen, Marisa.
+
+Sunny1a:Time to show our trump card, our ultimate team-up move!
+
+<end>
+
+<ChatID:4>---------------------------------------
+//小傘初戦闘
+
+Hatate3d:Well, WE'RE warmed up at least!
+
+Orin0b:We're kinda in the middle of something, so can we get this started already?
+
+Kogasa3a:But I haven't even done anything yet! Can't you hang out with me just a bit longer?
+
+Orin5b:Oh geez, fiiine.
+
+Iku1a:There are a lot of expectations being placed on us too, so we'd better live up to them.
+
+Minoriko1a:Time to awaken to our entertainer's souls!
+
+Kogasa3d:I'll never lose when it comes to entertaining humans!
+
+Kogasa0b:Alright, here we go!
+
+<end>
+
+<ChatID:5>---------------------------------------
+//小傘通常撃破
+
+Kogasa2a:Oof, ouch...
+
+Suwako0a:Are you warmed up now?
+
+Kogasa3d:My joints are still a bit stiff, but if you're asking for a surprise then I'm good to go!
+
+Aya0a:Then allow me, Aya Shameimaru, to cover the outcome of this match.
+
+Aya1b:I'll be publishing a special edition as early as tomorrow, so look forward to it being distributed in—
+
+<nomove>
+
+<Code=(cursor_jump,528,336,1)>
+
+LadyA0a:Forget the advertising, just get started already!
+
+</nomove>
+
+Aya1b:...
+
+Sanae0g:Incidentally, how do we determine if we were surprised or not?
+
+Kogasa3c:Just tell me if it surprised you when the spellcard's done.
+
+Marisa0e:Not exactly technical standards.
+
+Utsuho5d:It's easy to get though. Just say what you think.
+
+Kisume0b:On the other hand, maybe it'd be better to tell her we were surprised to encourage her?
+
+Momiji0a:Wouldn't a closer contest be more exciting though?
+
+Kogasa2c:Geez, stop talking like I've already lost!
+
+Kogasa3a:You won't be able to ignore my danmaku THAT easily!
+
+Kogasa0b:Surprise, everyone!
+
+<end>
+
+<ChatID:6>---------------------------------------
+//小傘スペル１撃破（質問まで）
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Yugi0a:Guess that takes care of round one.
+
+Star0c:We broke the spell, so does that mean we won?
+
+Kogasa3d:Doesn't matter! You need to tell me if you were surprised!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Kogasa1a:Tee hee hee, you were so surprised you ran away!
+
+Star6a:We ran 'cause it hurts when you get hit! It has nothing to do with surprise.
+
+Kogasa1a:You really think so? C'mon, be honest. So, were you?!
+
+</Cond>
+
+Kanako0a:I say we nominate someone to answer for the group.
+
+Marisa0b:Hmm...
+
+<Question=|Answer yourself|Ask Sanae|Ask Orin|,face=Marisa0b>
+
+<end>
+
+<ChatID:6a>---------------------------------------
+//魔理沙に頼んだ場合（ver.2.8.0追加）
+
+Marisa0a:Okay, got it, I'll answer.
+
+Kogasa0b:So how about it, surprised?!
+
+<Question=|That was decent.|Not even close.|,face=Marisa4b>
+
+<end>
+
+<ChatID:6b>---------------------------------------
+//早苗さんに頼んだ場合（ver.2.8.0追加）
+
+Marisa0a:You're up, Sanae.
+
+Sanae0g:Umm, sure...
+
+Kogasa0b:So how about it, surprised?!
+
+Sanae0g:Umm....
+
+<Question=|I was surprised!|It was kinda...|,face=Sanae0c>
+
+<end>
+
+<ChatID:6c>---------------------------------------
+//お燐に頼んだ場合（ver.2.8.0追加）
+
+Marisa0a:You're up, Orin.
+
+Orin0b:Me? Sure, why not.
+
+Kogasa0b:So how about it, surprised?!
+
+Orin0d:Let me think...
+
+<Question=|That sure was something!|Nope, nice try.|,face=Orin5b>
+
+<end>
+
+<ChatID:7>---------------------------------------
+//小傘スペル１撃破（質問後）
+
+<Cond=(LOCAL_VAR,ObjControl,choice,==,0) && (LOCAL_MAP,ObjControl,tent_vnames,win1,==,1)>
+
+Marisa7c:That was decent. You can have the first point.
+
+Kogasa3d:Yay! I'm on a roll!
+
+Marisa0a:The form wasn't half-bad. Have you ever thought about performing at parties?
+
+Kogasa0b:Sounds good, you could totally invite me!
+
+<pause>
+
+Luna1b:Sounds like you're really into it, but are you really okay with being a sideshow?
+
+Kogasa3d:Not only were you surprised, you also think I'm useful! This is the best day ever!
+
+Sunny1c:Anyway, that was just round one. We won't lose next time!
+
+Kogasa1a:Tee hee hee, I've just gotta ride this wave all the way to victory.
+
+Kogasa0b:This next one is real popular with the kids and grannies. Prepare for a powering-up battle!
+
+Shizuha2b:She really sounds like a street performer, doesn't she?
+
+Kogasa0a:Here we go, Karakasa's...
+
+Kogasa0c:Surprising Flash!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,choice,==,0) && (LOCAL_MAP,ObjControl,tent_vnames,win1,==,0)>
+
+Marisa4c:Not even close. That was child's play.
+
+Kogasa2c:Ack, got me right from the word go!
+
+Marisa0a:You're lucky you're facing ME. If this were Reimu she'd have exterminated you without a second thought.
+
+Kogasa2b:Eeek! Scary! Is she really such a harsh critic?!
+
+<pause>
+
+Star0c:...Isn't it kinda like she's the one who's surprised?
+
+Luna1b:Plus, if this were Reimu, even if you scared her she'd exterminate you out of surprise.
+
+Sunny1b:Anyway, we got the first point!
+
+Kogasa3b:Mrrr. You win this one, but the fight's just getting started.
+
+Kogasa0b:This next one is real popular with the kids and grannies. Prepare for a powering-up battle!
+
+Shizuha2b:She really sounds like a street performer, doesn't she?
+
+Kogasa0a:Here we go, Karakasa's...
+
+Kogasa0c:Surprising Flash!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,choice,==,1) && (LOCAL_MAP,ObjControl,tent_vnames,win1,==,1)>
+
+Sanae4b:Gosh, what a surprise! What impressive danmaku!
+
+Kogasa3a:R-Really?!
+
+Sanae0a:I should learn from your example. Surprises are important for miracles too.
+
+Kogasa3a:You really believe that?!
+
+Sanae0f:I mean, it's not like I'm going to take it back...
+
+Kogasa3d:Alright! I was praised by a human! You're a good person!
+
+<pause>
+
+Momiji6a:I think she likes you.
+
+Sanae0g:...You think so? I just said what I was thinking.
+
+Sunny1c:Anyway, that was just round one. We won't lose next time!
+
+Kogasa3d:Tee hee hee, I've just gotta ride this wave all the way to victory.
+
+Kogasa0b:This next one is real popular with the kids and grannies. Prepare for a powering-up battle!
+
+Shizuha2b:She really sounds like a street performer, doesn't she?
+
+Kogasa0a:Here we go, Karakasa's...
+
+Kogasa0c:Surprising Flash!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,choice,==,1) && (LOCAL_MAP,ObjControl,tent_vnames,win1,==,0)>
+
+Sanae5c:Um, I'm not sure how to put this, but it was kinda...
+
+Kogasa2c:Nooo, I lost!
+
+Sanae0g:Personally, I kind of think bakegasa are a bit behind the times.
+
+Sanae0a:You should try being more modern. Maybe grow out your hair and come out of TVs or something?
+
+Kogasa3c:Modern...? And what's a teebee?
+
+Sanae4b:If you like, I could lend you an old broken-down one.
+
+Kogasa2a:I'm an umbrella! Don't go talking up other tools right in front of me!
+
+<pause>
+
+Aya0c:Oof, now she's all upset.
+
+Hatate4b:This one's on you, Sanae. You have to cheer her up.
+
+Sanae1d:I-I understand. She's quite delicate, isn't she?
+
+Sunny1b:Anyway, we got the first point!
+
+Kogasa3b:Mrrr. You win this one, but the fight's just getting started.
+
+Kogasa0b:This next one is real popular with the kids and grannies. Prepare for a powering-up battle!
+
+Shizuha2b:She really sounds like a street performer, doesn't she?
+
+Kogasa0a:Here we go, Karakasa's...
+
+Kogasa0c:Surprising Flash!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,choice,==,2) && (LOCAL_MAP,ObjControl,tent_vnames,win1,==,1)>
+
+Orin1a:That sure was something! Just goes to show the classic youkai are classics for a reason.
+
+Kogasa3c:R-Really?!
+
+Orin1a:I could swear my heart stopped for a second there. Your talent is the real deal, lady!
+
+Orin1e:Next time you'll be up on the big stage, scarin' the spit outta all these humans.
+
+Kogasa3d:Right?! I'm gonna do my best!
+
+<pause>
+
+Utsuho0e:Are you trying to cheer her up, Orin?
+
+Orin0a:Better smiling than frowning. Maybe I exaggerated a LITTLE.
+
+Sunny1c:Anyway, that was just round one. We won't lose next time!
+
+Kogasa1a:Tee hee hee, I've just gotta ride this wave all the way to victory.
+
+Kogasa0b:This next one is real popular with the kids and grannies. Prepare for a powering-up battle!
+
+Shizuha2b:She really sounds like a street performer, doesn't she?
+
+Kogasa0a:Here we go, Karakasa's...
+
+Kogasa0c:Surprising Flash!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,choice,==,2) && (LOCAL_MAP,ObjControl,tent_vnames,win1,==,0)>
+
+Orin1f:Nope, nice try. You didn't even make our hearts skip a beat.
+
+Kogasa2c:Ack, I just lost...!
+
+Orin1d:So this is the sorta thing that passes for entertainment on the surface? Gotta admit, I'm a little disappointed.
+
+Orin1f:I'm not trying to be mean here, but if you don't want to be bird food, you'd better not try that in the Underworld.
+
+Kogasa3b:I-I'll keep that in mind...
+
+<pause>
+
+Utsuho0d:And... now she's depressed.
+
+Orin6a:I was just giving it to her straight. That's my way of being nice.
+
+Sunny1b:Anyway, we got the first point!
+
+Kogasa3b:Mrrr. You win this one, but the fight's just getting started.
+
+Kogasa0b:This next one is real popular with the kids and grannies. Prepare for a powering-up battle!
+
+Shizuha2b:She really sounds like a street performer, doesn't she?
+
+Kogasa0a:Here we go, Karakasa's...
+
+Kogasa0c:Surprising Flash!
+
+</Cond>
+
+<end>
+
+<ChatID:8>---------------------------------------
+//小傘スペル２撃破（質問まで）
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Kogasa2b:Aaaah! It broke!
+
+Suwako3b:Even with just this little crew, what'd you expect?
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Kogasa2b:Aaaah! They got away!
+
+Suwako0d:Even with just this little crew, what'd you expect?
+
+</Cond>
+
+Marisa6a:C'mon, we've fought real aliens. The classics are a bit...
+
+Kogasa3a:Are you calling my danmaku old fashioned?! Lil ol' me?!
+
+Sanae1d:Um, are you trying to change your character now...?
+
+Kogasa3a:Anyway, if you were surprised, then I get the point.
+
+Kogasa0b:I just KNOW that one shocked you!
+
+Marisa0b:Hmm...
+
+<Question=|Have Iku answer|Have Utsuho answer|Have Parsee answer|,face=Marisa0b>
+
+<end>
+
+<ChatID:8a>---------------------------------------
+//衣玖に頼んだ場合（ver.2.8.0追加）
+
+Marisa0a:All on you, Iku.
+
+Iku0c:Wow, it's so...
+
+<Question=|It was nice, really.|I'll have to give a low score.|,face=Iku0b>
+
+<end>
+
+<ChatID:8b>---------------------------------------
+//空に頼んだ場合（ver.2.8.0追加）
+
+Marisa0a:You answer, Utsuho.
+
+Utsuho0e:Okay! Uhh...
+
+<Question=|Pretty!|Awkward!|,face=Utsuho5e>
+
+<end>
+
+<ChatID:8c>---------------------------------------
+//パルスィ頼んだ場合（ver.2.8.0追加）
+
+Marisa0a:Up to you, Parsee.
+
+Parsee0a:I'm supposed to answer this? Well, okay...
+
+<Question=|This burns me up inside, but...|Is this your idea of a joke?|,face=Parsee0a>
+
+<end>
+
+<ChatID:9>---------------------------------------
+//小傘スペル２撃破（質問後）
+
+<Cond=(LOCAL_VAR,ObjControl,choice,==,0) && (LOCAL_MAP,ObjControl,tent_vnames,win2,==,1)>
+
+Iku0b:It was nice, really.
+
+Kogasa3b:What's with that? Sounds like you're not being straight with me.
+
+Iku0b:The people of heaven are rarely exposed to such, ah, antics.
+
+Iku1a:So, in that sense, it was quite a novel experience for me.
+
+Kogasa1a:Alright! So my danmaku even surprises celestials!
+
+<pause>
+
+Yamame4a:...That wasn't much of a compliment, you know.
+
+Iku0c:Sorry, I meant to say that it was nice and cheerful, but... that just slipped out.
+
+Parsee0d:Then just praise her honestly, geez. Luckily for you, she's simple enough to be happy with that.
+
+Momiji0a:So the next one is the last, correct? We should probably be on our guard just in case.
+
+Kogasa3d:That's right, the next one is the most surprising danmaku yet!
+
+Kogasa3d:This one doesn't just work on babies and grandmas, even cats and dogs raise their hackles at this!
+
+Tenshi0e:None of your examples are exactly inspiring.
+
+Kogasa0b:When I'm serious, everyone's in for a surprise!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,choice,==,0) && (LOCAL_MAP,ObjControl,tent_vnames,win2,==,0)>
+
+Iku4a:I'll have to give a low score.
+
+Kogasa2b:Ouch, and you're saying it with such a straight face...
+
+Iku4a:If you want your performance to be acknowledged by Heaven, it'll have to be more refined.
+
+Iku1c:As it is now, they would just see your danmaku as a strange terrestrial umbrella dance. No one would give you a second thought.
+
+Kogasa2b:Okay, that's just mean!
+
+<pause>
+
+Parsee0a:Geez, you're ruthless. Why not try being a little more supportive?
+
+Iku1a:Please don't feel too down. We're not in Heaven, after all.
+
+Shizuha2b:That's not what they meant...
+
+Momiji0a:So the next one is the last, correct? We should probably be on our guard just in case.
+
+Kogasa2c:That's right, the next one is the most surprising danmaku yet!
+
+Kogasa3d:This one doesn't just work on babies and grandmas, even cats and dogs raise their hackles at this!
+
+Tenshi0e:None of your examples are exactly inspiring.
+
+Kogasa0b:When I'm serious, everyone's in for a surprise!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,choice,==,1) && (LOCAL_MAP,ObjControl,tent_vnames,win2,==,1)>
+
+Utsuho5d:Pretty!
+
+Kogasa3d:Yeah yeah, it was pretty, right?!
+
+Kogasa2b:Wait, were you surprised though? Were you not surprised?!
+
+Orin3a:Okuu, you idiot. Just say Yes or No.
+
+Utsuho3c:Unyu? Uh... Yes?
+
+Utsuho3d:I liked the part where it was all sparkly!
+
+Kogasa0b:Yay! That wasn't much of an answer, but the point is that I win and you lose!
+
+<pause>
+
+LilyW3d:Wasn't this supposed to be a contest about being surprised...?
+
+Kanako1a:Regardless, her danmaku really does seem well suited for entertaining children.
+
+Momiji0a:So the next one is the last, correct? We should probably be on our guard just in case.
+
+Kogasa3d:That's right, the next one is the most surprising danmaku yet!
+
+Kogasa3d:This one doesn't just work on babies and grandmas, even cats and dogs raise their hackles at this!
+
+Tenshi0e:None of your examples are exactly inspiring.
+
+Kogasa0b:When I'm serious, everyone's in for a surprise!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,choice,==,1) && (LOCAL_MAP,ObjControl,tent_vnames,win2,==,0)>
+
+Utsuho1c:Awkward!
+
+Kogasa2b:Huh? What does that mean?
+
+Orin5b:Okuu, just tell her yes or no.
+
+Utsuho5e:Okay then, no!
+
+Kogasa2b:S-So direct! Could you at least tell me what was wrong with it?
+
+Utsuho6c:Actually, what was it again?
+
+Kogasa2c:Wah! She doesn't even remember it!
+
+<pause>
+
+Kisume4b:Utsuho being such an airhead can be kinda cruel sometimes...
+
+Orin5b:She didn't mean anything by it...
+
+Momiji0a:So the next one is the last, correct? We should probably be on our guard just in case.
+
+Kogasa3d:That's right, the next one is the most surprising danmaku yet!
+
+Kogasa3d:This one doesn't just work on babies and grandmas, even cats and dogs raise their hackles at this!
+
+Tenshi0e:None of your examples are exactly inspiring.
+
+Kogasa0b:When I'm serious, everyone's in for a surprise!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,choice,==,2) && (LOCAL_MAP,ObjControl,tent_vnames,win2,==,1)>
+
+Parsee0d:This burns me up inside, but... You were really in your element.
+
+Parsee0d:A normal person would die of shame from all those flirty movements, but you just did it with no hesitation!
+
+Kogasa3a:Uh... How am I supposed to take that?
+
+Yugi2c:She's just jealous 'cause you surprised her. Probably.
+
+Kogasa0c:Alright! Then if there are no complaints, that's my win!
+
+<pause>
+
+Yugi1a:Is she bursting with spirit now? This fight is getting interesting!
+
+Parsee0d:...I get it now, so on the other side of cunning is a karakasa motif... How could I not have realized?!
+
+Yamame0c:You're still saying that stuff? Maybe it's about time you got your head examined?
+
+Momiji0a:So the next one is the last, correct? We should probably be on our guard just in case.
+
+Kogasa3d:That's right, the next one is the most surprising danmaku yet!
+
+Kogasa3d:This one doesn't just work on babies and grandmas, even cats and dogs raise their hackles at this!
+
+Tenshi0e:None of your examples are exactly inspiring.
+
+Kogasa0b:When I'm serious, everyone's in for a surprise!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,choice,==,2) && (LOCAL_MAP,ObjControl,tent_vnames,win2,==,0)>
+
+Parsee2a:...Is this your idea of a joke?
+
+Kogasa3a:Wait, a joke?
+
+Parsee2a:If you really wanted to scare someone you could've pounded a nail into 'em, or snuck up on us while we were sleeping or something.
+
+Parsee2a:But you chose to a stand on one leg, stick out your tongue and wink? Are you just messing around?!
+
+Kogasa2b:But... But I'm a karakasa... That's what we do...
+
+Parsee2a:Why does an old-fashioned umbrella like you have such slick performance instincts?! I'm so jealous!
+
+Kogasa2b:I have no idea how to respond to that...
+
+<pause>
+
+Kanako3b:She got depressed, but didn't it sound like Parsee was actually praising her?
+
+Aya0a:For all that she wasn't surprised, she still pounced on the slightest excuse to get jealous.
+
+Momiji0a:So the next one is the last, correct? We should probably be on our guard just in case.
+
+Kogasa3d:That's right, the next one is the most surprising danmaku yet!
+
+Kogasa3d:This one doesn't just work on babies and grandmas, even cats and dogs raise their hackles at this!
+
+Tenshi0e:None of your examples are exactly inspiring.
+
+Kogasa0b:When I'm serious, everyone's in for a surprise!
+
+</Cond>
+
+<end>
+
+<ChatID:10>---------------------------------------
+//小傘スペル３撃破（質問まで）
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Kogasa2c:Augh!! I knew that wouldn't work!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Kogasa3a:Aw... they got away.
+
+</Cond>
+
+Marisa4c:That was the third one, so you're satisfied, right?
+
+Kogasa2c:Yeah, no regrets...
+
+Kogasa0b:But we still have to settle this contest!
+
+Kanako1b:Very well, let's not leave any room for ambiguity.
+
+Kogasa0b:So that last spellcard, were you surprised? You had to be surprised, right?!
+
+Marisa0b:...
+
+<Question=|Take it away, Tenshi|Take it away, Lily|Take it away, Suwako|,face=Marisa0b>
+
+<end>
+
+<ChatID:10a>---------------------------------------
+//天子に頼んだ場合（ver.2.8.0追加）
+
+Marisa0a:What do you think, Tenshi?
+
+Tenshi0e:Well...
+
+<Question=|A worthy performance.|Go back to basics.|,face=Tenshi0c>
+
+<end>
+
+<ChatID:10b>---------------------------------------
+//リリーに頼んだ場合（ver.2.8.0追加）
+
+Marisa0a:On you, Lily.
+
+LilyW0d:Let's see...
+
+<Question=|What a surprise!|What a disappointment...|,face=LilyW5a>
+
+<end>
+
+<ChatID:10c>---------------------------------------
+//諏訪子に頼んだ場合（ver.2.8.0追加）
+
+Marisa0a:Up to you, Suwako.
+
+Suwako0d:Well, if you ask me...
+
+<Question=|I liked it!|You wanna get cursed?|,face=Suwako4b>
+
+<end>
+
+<ChatID:11>---------------------------------------
+//小傘スペル３撃破（質問後）
+
+<Cond=(LOCAL_VAR,ObjControl,choice,==,0) && (LOCAL_MAP,ObjControl,tent_vnames,win3,==,1)>
+
+Tenshi0b:A worthy performance. I quite enjoyed it.
+
+Kogasa3a:Really?! You looked mean, so I was sure you'd say you weren't surprised!
+
+Tenshi1c:Sandals and Buddhas are both carved from wood. Even an abandoned umbrella can make a good effort.
+
+Tenshi1a:I can see how hard you're trying, and I refuse to mock you for it.
+
+Kogasa3d:Wow, thank you!
+
+<pause>
+
+Hatate6a:So in the end of the end, she's gotten more chipper than ever.
+
+Sanae5d:Just seeing her so joyful is enough to make me smile too though.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,choice,==,0) && (LOCAL_MAP,ObjControl,tent_vnames,win3,==,0)>
+
+Tenshi2c:Not even close. You need to go back to basics.
+
+Kogasa2b:Destroyed! Couldn't you be a little nicer, since it's the last one?!
+
+Tenshi1e:That's a loser's attitude. Humans will start to look down on you for that, you know.
+
+Tenshi5a:"Those who share the same ambitions win." If you want to surprise people, then devote your entire being to it.
+
+Kogasa2c:*sniff* I'm sorry...
+
+<pause>
+
+Hatate6b:Aw geez, she's not just feeling down, she even apologized.
+
+Sanae3b:Even if this is a contest, I feel a bit sorry for her.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,choice,==,1) && (LOCAL_MAP,ObjControl,tent_vnames,win3,==,1)>
+
+LilyW0a:What a surprise! I felt the breath of spring there!
+
+Kogasa3d:I have NO idea what that's supposed to mean, but YES! YES!
+
+LilyW4d:I think even the frogs sleeping for the winter would've been shocked awake by that.
+
+LilyW1a:Kogasa, I'm making you an honorary spring waker-upper!
+
+Kogasa3d:I still have no idea what you're talking about, but I'm glad I got a good surprise out of it!
+
+<pause>
+
+Hatate6a:So in the end of the end, she's gotten more chipper than ever.
+
+Sanae5d:Just seeing her so joyful is enough to make me smile too though.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,choice,==,1) && (LOCAL_MAP,ObjControl,tent_vnames,win3,==,0)>
+
+LilyW5c:What a disappointment...
+
+Kogasa2b:Huh? What's with that gloomy look?!
+
+Kogasa2b:W-Was it that bad? I did the best I could...
+
+LilyW0b:Maybe so, but this chill is like sliding back into winter...
+
+LilyW1c:It's spring, so please try a little harder.
+
+Kogasa2b:I... I'm sorry...
+
+<pause>
+
+Hatate6b:Aw geez, she's not just feeling down, she even apologized.
+
+Sanae3b:Even if this is a contest, I feel a bit sorry for her.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,choice,==,2) && (LOCAL_MAP,ObjControl,tent_vnames,win3,==,1)>
+
+Suwako3b:I liked it! That was pretty neat.
+
+Kogasa3d:Really? I got to surprise a god?
+
+Suwako0a:As long as you have fun, right? That's what a festival's all about.
+
+Suwako3b:Next time, why not make that your offering to the gods?
+
+Kogasa0c:Yeah, that's how I'll get ahead!
+
+<pause>
+
+Hatate6a:So in the end of the end, she's gotten more chipper than ever.
+
+Sanae5d:Just seeing her so joyful is enough to make me smile too though.
+
+</Cond>
+
+<Cond=(LOCAL_VAR,ObjControl,choice,==,2) && (LOCAL_MAP,ObjControl,tent_vnames,win3,==,0)>
+
+Suwako1d:You wanna get cursed?
+
+Kogasa2b:Huh? Cursed?!
+
+Kogasa2b:A-Are you gonna curse me? But I meant it to be an offering...
+
+Suwako1b:Geez! Even Froggy would get mad at an offering like that!
+
+Suwako1e:I'd get it if you were offering yourself up as a sacrifice, but otherwise...
+
+Kogasa2b:I'm sorry! Please don't curse me!
+
+<pause>
+
+Hatate6b:Aw geez, she's not just feeling down, she even apologized.
+
+Sanae3b:Even if this is a contest, I feel a bit sorry for her.
+
+</Cond>
+
+Yamame0a:Anyway, we've reached a stopping point.
+
+<nomove>
+
+<Code=(cursor_jump,320,320,1)>
+
+HumanA0a:..Oh, is the danmaku over already?
+
+<Code=(cursor_jump,528,336,1)>
+
+LadyA0a:Good work out there Kogasa, sweetie. And all of you opponents too.
+
+</nomove>
+
+Kogasa3d:Thanks for cheering me on, ma'am!
+
+<nomove>
+
+<Code=(cursor_jump,528,336,1)>
+
+LadyB0a:No, I should be thanking you. We don't get to see that every day.
+
+<Code=(cursor_jump,320,320,1)>
+
+HumanB0a:We always hear about incident resolutions, but it never really hit home what that was all about. You've all been fighting like that all this time?
+
+<Code=(cursor_jump,272,352,0)>
+
+Tenshu0a:Even these Underworlders aren't as scary as I thought they'd be.
+
+</nomove>
+
+Kisume2b:Wow, you think? Thanks...
+
+<nomove>
+
+<Code=(cursor_jump,320,320,1)>
+
+HumanB0a:Well, we've gotta go. My mom'll kill me if I leave the store alone for too long.
+
+</nomove>
+
+<SE=se_talk_walk_outdoor02.ogg,wait=1>
+
+Aya0a:...Well then, I suppose we should tally up this best-of-three opinion battle and get a move on?
+
+<end>
+
+<ChatID:12>---------------------------------------
+//ADVB
+
+<MAP=11,FROM=人間の里,TO=人間の里,name=Human Village,icon=3>
+
+<BG=*bg_talk_Village_Spring.png,fade=0,color=1,title=*bg_Village,bgm=bgm_talk_ningyo>
+
+Orin0a:Good grief, I can't believe we had a danmaku battle smack dab in the middle of the village.
+
+Suwako3a:That was pretty fun. It's nice to get a chance to mix things up a bit.
+
+Aya1b:I'd say this Surprising Best of Three was an event worthy of an article.
+
+Kogasa3a:So... How did I do? Do you think I won...?
+
+Momiji5a:Why are you all fidgety now? Were you not keeping track of the points...?
+
+Hatate3c:I'm sure it just slipped her mind in the heat of battle.
+
+Aya0a:Well in that case, allow me to formally announce the results.
+
+Aya1a:The ultimate victor of the Shock or Smiles? Best of Three is...!
+
+<Code=(sound_load_se,se_talk_drumroll01L,1)>
+
+Kogasa3b:*th-thump, th-thump*
+
+Sunny5b:*squirm, squirm*
+
+Kogasa3c:*fidget, fidget*
+
+Tenshi1d:Must you drag it out...?
+
+<Code=(sound_load_se,se_talk_drumroll02,0)>
+
+<Cond=(CHECK_FLAG,C61_KOGASA0,==,1)>
+
+Aya2a:How cruel! 0-3, Kogasa's crushing defeat!
+
+<Code=(sound_load_jingle,jingle_gameover)>
+
+Kogasa2b:Nooo!
+
+Marisa7c:Well, I figured it'd go something like this.
+
+Iku3c:Isn't it actually more refreshing when the results are this clear-cut?
+
+Minoriko1a:If you're starting from zero, you have nothing to lose!
+
+Kogasa2a:*sniffle* If I'm a karakasa that can't surprise people, then what good am I...?
+
+Kogasa2c:C'mon, be surprised! Oogly-boogly-boo!
+
+Sanae2a:Okay, okay. Just don't cry, please!
+
+Shizuha4a:Maybe we should've given her at least one win...
+
+</Cond>
+
+<Cond=(CHECK_FLAG,C61_KOGASA1,==,1)>
+
+Aya1a:Alas, alas! Kogasa loses, 1-2!
+
+<SE=se_pichun_boss.ogg,wait=0>
+
+Kogasa2c:Waaah, I lost!
+
+Kanako0a:You did better than expected. I praise your efforts.
+
+Minoriko3b:I wasn't expecting much, but your reactions got pretty fun back there.
+
+Kogasa2a:Augh, if I'm a karakasa that can't surprise people, then what good am I...?
+
+Kogasa2c:C'mon, be surprised! Oogly-boogly-boo!
+
+Sanae2a:Okay, okay. Just cheer up, please!
+
+</Cond>
+
+<Cond=(CHECK_FLAG,C61_KOGASA2,==,1)>
+
+Aya1a:A surprise upset?! Kogasa wins, 2-1!
+
+<Code=(sound_load_jingle,jingle_levelup)>
+
+Kogasa3d:Hooray! I win!
+
+Luna1a:Are you kidding? We actually lost?
+
+Kogasa0c:A surprise homerun from the bottom of the 9th, with 2 outs and bases loaded!
+
+Marisa1d:I have no idea what any of that means, but it's kinda ticking me off seeing you so happy about this.
+
+Kogasa3d:Tee hee! Now no one can call me a failure of a karakasa!
+
+Kogasa0b:Boo! Take this! Boo!
+
+Sanae0d:Yes, yes, you gave us the boo-t.
+
+Suwako3b:Yup, it's going to her head, alright. Better than having her be depressed though.
+
+</Cond>
+
+<Cond=(CHECK_FLAG,C61_KOGASA3,==,1)>
+
+Aya3b:A shockingly dominant display! Kogasa wins across the board, 3-0!
+
+<SE=se_talk_fanfale01.ogg,wait=0>
+
+Kogasa3d:I did it! My time has come!
+
+Yugi3a:Splendid! The best part about a battle is not knowing who will emerge the victor.
+
+Kogasa2c:My long years of suffering, of struggling to do my best while being called a disappointment... It was all worth it for this...
+
+Kogasa0c:So? You're all seeing me in a new light now, right? Right?
+
+Minoriko3a:Welp, good work everyone!
+
+Iku3c:Harmony should be valued. But surely preserving the peace requires some refreshments?
+
+Utsuho1b:If only Miss Koishi were here too...
+
+Kogasa2b:Hey, are you listening? I just totally beat you!
+
+Kogasa0b:Boo! Take this! Boo!
+
+Sanae0d:Yes, yes, you gave us the boo-t.
+
+Suwako3b:Yup, it's going to her head, alright. Better than having her be depressed though.
+
+</Cond>
+
+Yamame3a:But still, I never thought we'd get dragged into... whatever that was. A spectacle? A farce?
+
+Marisa7c:But the villagers had fun with it, and it was an interesting experience, dontcha think?
+
+Marisa0a:Not too long ago, even just seeing you here would cause an uproar, but now you're blending in like it's no big deal.
+
+Orin4b:True. And if that whole thing hadn't happened, we wouldn't have known.
+
+Kogasa0b:There, see? Aren't you glad you fought me now?
+
+<Cond=(CHECK_FLAG,C61_KOGASA0,==,1) || (CHECK_FLAG,C61_KOGASA1,==,1)>
+
+Luna0a:Boy, she cheers up fast.
+
+</Cond>
+
+<Cond=(CHECK_FLAG,C61_KOGASA2,==,1) || (CHECK_FLAG,C61_KOGASA3,==,1)>
+
+Luna6a:Ah, I guess she's still all pumped up...
+
+</Cond>
+
+Suwako3b:But, well, I'm sure things got heated up quick because there were humans with a bunch of new youkai.
+
+Suwako0a:So, uh, what'd you say you do here in town?
+
+Kogasa3c:Mainly babysitting. But I also just hang out with people and... stuff?
+
+Kogasa0a:I just try out things that seem like they might make me useful.
+
+Kanako2c:Useful, huh? How human of you.
+
+Tenshi4a:But won't that make you lose something as a youkai?
+
+Tenshi4b:Karakasa are mainly supposed to threaten humans, but here you are buttering them up instead.
+
+Luna0b:You're right, she's not really how you picture them...
+
+Kogasa3c:I get what you're trying to say, but I think this is what fits me best. As a tsukumogami living in a tool.
+
+Parsee0a:As a tsukumogami?
+
+Kogasa3b:Humans these days aren't gonna be scared of someone like me—or even flinch, really—so I stopped focusing on that.
+
+Kogasa0a:If I've been a victim of casual human cruelty, then that just forces me to pay close attention to how people think of me.
+
+Kogasa1a:I'm a tool, but I'm not an OBJECT, so I like to think tsukumogami should be good at that.
+
+Sanae0a:So you're ignoring what people think karakasa are supposed to be, and finding things you can do for yourself? That's a wonderful approach.
+
+Tenshi0e:But is it really okay to just give up on it? Just like that?
+
+Tenshi1e:I'm not just talking about karakasa here. Isn't it... shameful to not live up to what you are?
+
+Orin4a:I don't think so. Even if things turn out badly, there's no shame in struggling.
+
+Aya0a:Not to mention that what Kogasa's looking for is a place to be herself, the tsukumogami. She hasn't given up anything.
+
+Aya1b:There's nothing wrong with setting high standards for yourself, but in the end you're still you. That's not a bad perspective to have.
+
+Tenshi0c:You're still you, hm...
+
+Iku4a:...
+
+Kogasa3c:Oh yeah, I've been meaning to ask. What's with the crowd? Why'd you all come to the village?
+
+Yamame1b:They didn't tell you? We're looking for a youkai who ran away from home.
+
+Yamame1d:She looks like a girl. Young. Uh, she's got a hat.
+
+Yugi1g:We don't have much to go on, so I don't think we'll find her that easily but...
+
+Kogasa3b:A runaway girl? I might know something about that.
+
+Orin1b:...!
+
+Utsuho1b:Really?! This better not be a prank to surprise us.
+
+Kogasa3a:I know, I know. One of the kids of a customer told me he plays with her sometimes.
+
+Kogasa3b:She wears nice clothes, but they're getting dirty, and she seems lonely...
+
+Kogasa0a:Also, something about how she's there before you know it and gone before you know it.
+
+Orin3a:...That's definitely Miss Koishi. What's she doing in a place like this?
+
+Yugi2a:So, where is she now?
+
+Kogasa3b:I don't know where she lives or anything, but they told me that they see her a lot on the north edge of town.
+
+Minoriko0b:North of here is... toward the mountain.
+
+Sunny5a:Now that we know, we all just have to search and I think we can find her!
+
+Orin5a:If this is true, then I'd like to go right away, but...
+
+Kanako0c:It's already twilight. Let's meet up with the others tomorrow, as agreed.
+
+Kanako0a:You and Okuu should report this to Satori first.
+
+Utsuho3d:Okay, I will!
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+Marisa0a:So I guess we're done for today? Be ready for tomorrow.
+
+</single>
+
+Hatate3d:Okay. Akyu's house again, right?
+
+Kogasa1a:Oh good, I'm glad I could offer something useful for you!
+
+Kogasa0b:But are you really gonna be okay by yourselves? Don't you need a guide when you're looking for someone? I happen to be free tomorrow...
+
+Momiji6a:...So what do we do? She's getting all fidgety again.
+
+Sanae0a:Alright, Kogasa—could you please help us tomorrow?
+
+Kogasa3d:Really?! Someone needs me?!
+
+Kogasa0b:Okay, so I'll see you here tomorrow, Sanae!
+
+Luna6b:It's rare to see people so eager to do things...
+
+Iku0e:Now then, shall we get headed back to Heaven, Eldest Daughter?
+
+Iku0a:I know you haven't settled everything, but you can always come back to the surface some other time.
+
+Tenshi0d:...
+
+Tenshi0e:True... but I'll be coming back tomorrow.
+
+Iku5a:What...?
+
+Sunny0c:What, your spirits haven't been lifted enough yet?
+
+Tenshi0c:No, that's not why. I just want to see this thing I've gotten wrapped up in through to the end.
+
+Marisa0d:Well, we don't mind, but won't they get mad if you leave Heaven for too long?
+
+Tenshi0b:I don't care. Going back with things half-finished will leave a bad taste in my mouth.
+
+Tenshi3c:No matter what I do, I'm still me. Didn't you just say that?
+
+Aya0b:I did, but...
+
+Hatate3c:Well, the more the merrier, right?
+
+Luna3a:Oh yeah, we never got any of that famous taiyaki.
+
+Tenshi3d:You're right! There might some still left, let's hurry!
+
+<SE=se_talk_run.ogg,wait=1>
+
+<single>
+
+Iku0a:...
+
+</single>
+
+Kanako0d:Well, this is a surprise. She used to be so fixated on acting like a celestial.
+
+Iku3a:Indeed. Perhaps being around you all made her realize something.
+
+Yugi0c:We know SHE's coming back tomorrow, but what about you?
+
+Iku0a:Depending on what orders they give me, I may be coming back to pick her up again.
+
+Iku4b:Although it's a bit of a shame, after seeing how lively she was today.
+
+Shizuha0a:If that's how you feel about it, you could always continue keeping her company on a regular basis.
+
+Parsee0b:Yeah. If the idea of taking her home makes you feel bad, then just think of it as keeping an eye on her.
+
+Parsee1a:Sympathy is contagious, you know.
+
+Iku0e:Sympathy...? I've never once thought of it like that.
+
+Yugi0a:Well, whatever you feel, show up if you can.
+
+Yugi3c:Maybe having you around will help calm her down. She's a feisty one.
+
+Iku3a:...I'll take it into consideration.
+
+<end>
+
+<ChatID:13>---------------------------------------
+//全滅
+
+Marisa2a:We actually lost?!
+
+Kogasa2b:I actually won?!
+
+Sanae1d:You don't have to act so genuinely shocked...
+
+Kogasa3a:But now the victor of the Surprise Battle is still undecided... Feels bad to leave it like that.
+
+Kogasa0c:Alright! Let's do this again!
+
+<end>
+
+<ChatID:14>---------------------------------------
+//おまけ会話（たい焼き屋）
+
+Tenshi5a:Wait, it says taiyaki on this sign. Does that mean this is...?
+
+Sanae4b:Right, it's the most popular place in town I mentioned earlier.
+
+Marisa0a:This brings back memories. I came here a long time ago, but they were sold out and I couldn't get any.
+
+Hatate3d:Well, you know what they say: "He who controls the taiyaki, controls the sweets."
+
+Sanae4a:Reimu said she wanted to eat them too. Maybe we could buy some for her?
+
+Tenshi0b:Why not? I'll pick out the freshest ones and buy them.
+
+Hatate3b:How about you take your time with that AFTER we win the battle?
+
+<end>
+
+<ChatID:15>---------------------------------------
+//おまけ会話（山本堂）
+
+Shizuha0a:Is this a general store?
+
+Utsuho3b:Looks like they've got all kinds of stuff here. Like all those round, shiny disc things...
+
+Utsuho0e:I think they have something written on them... Can you read that, Orin?
+
+Orin0b:Fantasy... something something. "Beni"...? Or maybe "Kurenai". Not sure how to pronounce that, but it's written "Scarlet".
+
+Star0a:And it looks like there are others labeled "Mystic" "Eternity" and "Dream".
+
+Sunny0a:What are these anyway? Sounds kinda familiar though.
+
+Sanae5d:When games that have been out for over a decade are considered old, it's no wonder these would pass into fantasy.
+
+<end>
+
+<ChatID:16>---------------------------------------
+//おまけ会話（飲み屋）
+
+Kanako2b:Sure enough, where there's food, there's sake.
+
+Yugi1a:Tengu! Let's drink til we drop!
+
+Momiji2a:Ugh, starting in the middle of the afternoon...?!
+
+Aya5b:So much for getting any interviews out of them today...
+
+Parsee0a:Stop that, Yuugi. Look at how you're making these two tense up.
+
+Parsee0a:And anyway, if we're gonna do that, you could at least choose a better place. Somewhere quiet with no one around, and a nice atmosphere...
+
+Iku0e:Are you sure you're not talking about her taking YOU somewhere?
+
+Parsee2a:Oh, shut up! Who asked you?!
+
+Suwako3b:But this is a nice place. It's got both humans and youkai casually mingling.
+
+Kisume3b:You heard that, Yamame. Wanna try coming here with everyone some time?
+
+Yamame0a:That doesn't sound so bad.
+
+<end>
+
+<ChatID:17>---------------------------------------
+//空初戦闘
+
+Utsuho0a:My first battle in front of the villagers, huh...
+
+Utsuho0e:There are a lot of buildings and people around, so I've gotta be careful not to scare them...
+
+Sunny0a:Yeah, your danmaku is real flashy, so you gotta be extra careful.
+
+Orin0a:Don't worry, even if you remove your limiter, your cooling systems will kick in when you start getting too hot.
+
+Utsuho0a:But after that I'll have to fight without Lord Yatagarasu.
+
+Luna0a:Without Yatagarasu? You mean...?
+
+Utsuho0b:Alright! It's time for the ultimate energy to fight for peace once again!
+
+<Cond=(GLOBAL_VAR,is_NG0,==,0)>
+
+<TIPS=HEAT>
+
+</Cond>
+
+<end>
+
+<ChatID:18>---------------------------------------
+//小傘vs.魔理沙
+
+Kogasa0b:Recoil in surprise from my danmaku, human!
+
+Marisa1d:We're kinda busy here. Maybe later?
+
+Kogasa2a:*sniffle* I just wanna surprise people...
+
+Marisa0a:Not that I'm not interested. I'm curious about tsukumogami. Mind if I ask about your old owner or anything?
+
+Kogasa3c:I dunno... I mean, I guess that's a pretty normal thing to talk about...
+
+Kogasa3c:But wait, why that?
+
+Marisa6a:I may not look it, but I own a lot of stuff. I was thinking I should be ready for the junk around my house to become tsukumogami.
+
+<end>
+
+<ChatID:19>---------------------------------------
+//小傘vs.早苗
+
+Sanae0a:I've never seen a youkai who works in the village before.
+
+Sanae0a:I often come here on business as well, so I hope we can get along.
+
+Kogasa2b:A-A request from the shrine maiden?! But the rumors say that you exterminate first and ask later!
+
+Sanae5c:That's... probably referring to Reimu. The Moriya Shrine is quite friendly to youkai, actually.
+
+Kogasa3d:Oh, okay then. So that means if I threaten you, you have to be scared for me, right?
+
+Kogasa0b:Heh heh heh... Oogly-boogly-boo!
+
+Sanae1d:Huh? Um... how was this supposed to go again...?
+
+Sanae2b:Eep. A g-g-g-ghooost.
+
+Kogasa0b:Suuurpriiise!
+
+Sanae2c:Oh nooo. Someone save meee.
+
+Sanae1e:...This is harder than it looks.
+
+Kogasa3d:Ah ha ha! This is fun! One more time!
+
+Sanae1a:I can't keep this up...!
+
+<end>
+
+<ChatID:20>---------------------------------------
+//小傘vs.三月精
+
+Sunny1a:Since she's a classic youkai, maybe we can get some kind of hint for a prank.
+
+Star1b:Yeah, like when we did noppera-bo?
+
+Luna0a:We did Oiwa-san too.
+
+Kogasa3d:That sounds fun, you three. How'd those work out for you?
+
+Luna6b:Pretty well... No, wait, wasn't it awful?!
+
+Sunny3a:There's a human shrine maiden who'll kick you back for surprising her, so, uh, watch out.
+
+Kogasa2b:Yikes, humans are scary...
+
+<end>
+
+<ChatID:21>---------------------------------------
+//小傘vs.秋姉妹①
+
+Shizuha2b:Seems like this kid is pretty well-known in the village.
+
+Minoriko1b:We'd be in in trouble if she stole all our popularity. Now that it's come to this...
+
+Kogasa3c:Ooh, you're competing with me?
+
+Minoriko3b:Yes, that's right. Presenting... an umbrella the likes of which you've never seen before!
+
+Kogasa3c:An umbrella?
+
+Shizuha1b:First we... Open! The! Umbrella! Then we place a ball on top, and...
+
+Minoriko1a:I gave it a twirl! Now the ball's spinning!
+
+Kogasa3d:Cool! I never knew you could do an umbrella trick like that!
+
+Minoriko1a:It's not over yet! Spin more! Spin more than you've ever spun before!
+
+Kogasa3d:This is awesome! You gotta teach me how to do this!
+
+Kanako3b:...Why are they challenging her in performance?
+
+Suwako3b:Who cares, it's fun. Maybe we should invite them to our New Year's party.
+
+<end>
+
+<ChatID:22>---------------------------------------
+//小傘vs.秋姉妹②
+
+Shizuha2b:If you're an umbrella tsukumogami, then you used to be an umbrella, right?
+
+Kogasa2a:Yeah, until my owner threw me away...
+
+Minoriko1b:What a waste! We would've made good use of you!
+
+Kogasa3d:Really?! I'd be useful to people as an umbrella?
+
+Shizuha1b:You bet! See, look here.
+
+Minoriko0a:Stick it in the field, and you can keep the crows away.
+
+Kogasa3a:That's just a scarecrow! But maybe even that wouldn't be so bad, if I were useful...
+
+<end>
+
+<ChatID:23>---------------------------------------
+//小傘vs.勇儀
+
+Yugi0a:This Surprise Battle is a great idea! An oni would never have come up with it.
+
+Yugi0a:I mean, a test of strength or a shouting contest, sure. But not something like this.
+
+Kogasa3c:Tests of strength I can understand, but shouting contests...?
+
+Yugi1a:Whoever shouts the loudest wins. You compare by counting how many trees you knock over.
+
+Kogasa2b:You knock over trees just by yelling?! No way!
+
+<end>
+
+<ChatID:24>---------------------------------------
+//小傘vs.パルスィ
+
+Parsee0a:This is a waste of time; she's no match for us. Let's just get back to looking for Koishi.
+
+Kogasa0b:Bleeeh!
+
+Parsee2a:Eek?!
+
+Kogasa0c:So how about it, surprised?!
+
+Parsee5a:Wh-what are you doing?! Don't just make weird noises all of a sudden!
+
+Parsee2a:She acts like an airhead, but managed to find the perfect opening... Fine, I'll let you have this Surprise Battle or whatever else!
+
+<end>
+
+<ChatID:25>---------------------------------------
+//小傘vs.ヤマメ
+
+Yamame0d:A karakasa-obake, a youkai that lives to surprise people...
+
+Yamame0a:Not to brag, but I'm pretty confident in scaring people myself.
+
+Kogasa3d:Liar! You're no match for—
+
+Yamame5f:You sure about that, after seeing these eight legs?!
+
+Kogasa2b:Gyaaah!
+
+Yamame5b:It took work to get here, but I'm finally the idol of the Underworld. Just keep that in mind if you're aiming to be popular in the village.
+
+Kogasa2c:But... I don't have eight legs...
+
+<end>
+
+<ChatID:26>---------------------------------------
+//小傘vs.キスメ
+
+Kisume0a:So you live to surprise people, Kogasa?
+
+Kisume3d:As a tsurube-otoshi, I can kinda relate.
+
+Kogasa3d:Oh? So how do you do it?
+
+Kisume1d:I pop out of a well and throw old bones at 'em.
+
+Kogasa2b:Eugh!
+
+Kisume1a:Just kidding! That was a bit of an exaggeration.
+
+Kogasa2b:W-Was that really a joke? I think I've heard a rumor like that before...
+
+<end>
+
+<ChatID:27>---------------------------------------
+//小傘vs.お燐
+
+Orin0b:You're a strange one, but you sure are popular in the village.
+
+Orin0d:I wonder if watching you mess around like this would cheer Miss Satori up... Eh, probably not.
+
+Kogasa0b:I dunno, can't hurt to try. Should I go surprise her?
+
+Orin0a:Don't bother. Anyway, she can read your mind so how would you surprise her?
+
+Kogasa3c:But when I'm surprising people I don't think anything?!
+
+Orin0b:If you're not thinking, then you're the one being surprised!
+
+<end>
+
+<ChatID:28>---------------------------------------
+//小傘vs.空
+
+Utsuho0b:A surprise battle, huh? Does that mean I can surprise you too?
+
+Kogasa3d:That's fine with me, but I'm not expecting much from an amateur.
+
+Utsuho3d:Don't be so sure. Bleeeh!
+
+Kogasa0b:Oogly-boogly-boo!
+
+Utsuho3d:Ha-hee-hoo-heh-hoh!
+
+Kogasa0c:Sally sells seashells!
+
+Utsuho1a:One, two, three, shoot!
+
+Kogasa2c:Ack, I lost with rock!
+
+Utsuho5e:Yay, I won! Did you see me, Orin?
+
+Orin3a:Yeah, but I'm still not sure what game you were actually playing...
+
+<end>
+
+<ChatID:29>---------------------------------------
+//小傘vs.衣玖
+
+Kogasa0a:You look mature, but that just makes it worth surprising you!
+
+Kogasa0b:Oogly-boogly-boo!
+
+Iku0b:Hm, yes, I see.
+
+Kogasa2b:What's with that reaction?!
+
+Iku0c:Oh, excuse me, I looked away for a second. Would you mind repeating that?
+
+Kogasa0b:Okay. Oogly-boogy-boo!
+
+Iku0b:Hm, yes, I see.
+
+Kogasa2b:What do you see?! Are you even paying attention?!
+
+<end>
+
+<ChatID:30>---------------------------------------
+//小傘vs.天子
+
+Tenshi0b:We've gathered the attention of the humans. This is where I'll make my Celestial dignity known, and...
+
+<nomove>
+
+<Code=(cursor_jump,528,336,1)>
+
+LadyA0a:Good luck, Kogasa! And you too, little missy!
+
+</nomove>
+
+Tenshi1b:L-Little missy?! Who do you think I am?!
+
+Kogasa3d:If they're suddenly cheering you on, they must think you're approachable.
+
+Kogasa2a:When I first got here, people thought I was a creep at first...
+
+Tenshi0d:I could do without being "approachable" to them. I'm a celestial—they should be looking upon me in awe.
+
+<end>
+
+<ChatID:31>---------------------------------------
+//小傘vs.椛
+
+Momiji5a:I can't believe we're being turned into a sideshow...
+
+Kogasa3d:Ooh, your sword and shield!
+
+Momiji3a:What about them?
+
+Kogasa3d:I may not look it, but I'm an expert at smithing.
+
+Kogasa0b:I'm far better than any human blacksmith.
+
+Momiji3c:Is that true? I suppose standing on one leg is associated with the bellows...
+
+Kogasa0c:You bet it is! You'll be shocked by how good I am! I'll reforge that blade for you sometime!
+
+Momiji1b:Hmm, can I trust you? I can't afford to risk letting this Gansaiga be reduced to metal scraps...
+
+<end>
+
+<ChatID:32>---------------------------------------
+//小傘vs.文
+
+Aya0a:I've heard of you, Kogasa. Actually, I'd been thinking of interviewing you.
+
+Kogasa3d:An interview? Sure thing!
+
+Aya0a:So, I hear that you work as a babysitter in in the village. How did that start?
+
+Kogasa3d:I dunno why, but apparently babysitters in the Outside World fly through the sky with an umbrella, so I got the idea from that.
+
+Aya0c:I see. I was sure there was some connection between nannies and parasols.
+
+Aya0b:But flying babysitters? So there are magic-users in the Outside World too.
+
+<end>
+
+<ChatID:33>---------------------------------------
+//小傘vs.神奈子
+
+Kanako0d:You're a weak youkai, but you seem to be popular among the humans.
+
+Kanako3a:So when gathering faith, charm is important too?
+
+Kogasa3d:Yeah, exactly. These days you've gotta come across as approachable.
+
+Kogasa0b:So, you wanna work together to get the hang of it?
+
+Kanako3c:Hmm, should I pass that on to Sanae? I'd rather she not be TOO influenced though...
+
+<end>
+
+<ChatID:34>---------------------------------------
+//小傘vs.諏訪子
+
+Suwako0a:I heard you were a karakasa-obake, but I smell iron on you too.
+
+Kogasa3d:What? You can tell?! Actually, I'm kinda a blacksmith too.
+
+Suwako1a:In that case, could you forge me some metal rings? I've got some pesky vines I wanna cut to ribbons.
+
+Kanako3c:...What are talking about, Suwako?
+
+<end>
+
+<ChatID:35>---------------------------------------
+//小傘vs.リリー
+
+LilyW1a:You're popular in the village, but I wouldn't lose in spring!
+
+Kogasa1a:What're you implying? I work all year round!
+
+LilyW5c:...You're right. I'm just a no-good fairy who's only good for spring...
+
+Kogasa2b:Wait, huh?! That's not what I meant!
+
+LilyW5c:No, it's fine... I'm just feeling the winter today.
+
+LilyW5a:I guess even with a change of clothes, I have to change my attitude too...
+
+<end>
+
+<ChatID:36>---------------------------------------
+//小傘vs.はたて
+
+Kogasa2a:*sob* *sob*
+
+Hatate0c:Wait, hold on. Why'd you start crying when you saw me?
+
+Kogasa2c:C'mon, didn't you just say I looked like an eggplant? And that you wouldn't use me even if I was offered by a friend...?
+
+Hatate1c:The eggplant thing was Sanae. Though it's true it's not exactly a trendy color...
+
+Kogasa2c:Waaah, I knew it!
+
+Hatate0c:Geez, just stop crying, okay? There's been a big boom for traditional Japanese stuff these days, so you'll be fine. Probably.
+
+<end>
+
+<ChatID:37>---------------------------------------
+//FOD初使用
+
+Sunny1a:You ready Luna? Star?
+
+Star1a:Totally!
+
+Luna6a:One sec, my slipper just...
+
+<Code=(cursor_jump,320,320,1)>
+
+HumanA0a:Ooh, what's this about?
+
+<Code=(cursor_jump,528,336,1)>
+
+LadyA0a:Are they putting on a show over there too?
+
+Sunny1b:Tee hee hee, this is great, they're looking at us.
+
+Star6b:Let's turn this around with the power of fairy potential.
+
+Sunny1a:Shining sunlight!
+
+Luna1a:Quiet moonlight!
+
+Star1a:Falling starlight!
+
+Luna1a:Three lights become one!
+
+Sunny1a:Here we go! The ultimate final co-op attack!
+
+<end>
+
+<ChatID:38>---------------------------------------
+//FOD初使用後
+
+Aya0c:Ohoh. What was THAT?
+
+Momiji3c:A powerful rushing attack with three lights all together...!
+
+Kogasa2b:Eeep! That was cool!
+
+Hatate0c:Come on, you're not the one that's supposed to be surprised here.
+
+Marisa1d:I can't believe those three had it in 'em.
+
+Kanako0b:The three natures they possess—in other words the sun, the moon, and the stars—represent the foundation of nature itself.
+
+Kanako0a:By controlling those three things, they possess a particulalry great amount of symbolic power, even for fairies.
+
+Suwako1a:But it's only because they're perfectly in sync that they can use that special move.
+
+Sunny1b:Heh heh heh. Now we're winning both the danmaku battle AND the surprise battle!
+
+Luna0a:All that training to step on the pedal at the same time really paid off.
+
+Minoriko2a:Gah... I feel like they just got one up on us on the whole nature thing.
+
+Minoriko1b:Shizuha, Lily! Can't we do some kind of Season Alliance combo thing?! We've gotta keep up!
+
+Shizuha3a:You're right, we'll need even BETTER party tricks!
+
+LilyW3d:Uh, shouldn't we be practicing danmaku instead?
+
+Yugi0a:You've got moves that basically occupy the spot between entertainment and danmaku anyway, right?
+
+<end>
+
+<ChatID:39>---------------------------------------
+//リリー
+
+LilyW0c:Say, I'd like to drop by this clothier later.
+
+Luna0a:Sure, but why?
+
+LilyW0a:I want to make some new clothes, so I ordered cloth.
+
+LilyW1d:I just feel like a costume change!
+
+Shizuha0a:What...?
+
+Minoriko4a:Between getting depressed in winter and getting hyped up in spring, you sure know how to stay busy.
+
+<end>
+
+<ChatID:40>----------------------------------------
+//小傘vs.メーコ
+
+Meko0e:A surprise battle, huh? I've got nerves of steel though.
+
+Kogasa0c:Boo!
+
+Meko0b:WAH!
+
+Kogasa1a:Yay, I got you!
+
+Meko1b:Th-That was cheating! And I steeled my nerves and everything...
+
+Meko1d:Well, two can play at that game! Bleeeh!
+
+Kogasa2a:Dohya?!
+
+Meko0e:Heh heh, now we're tied.
+
+Kogasa0b:Abwoo!
+
+Meko2a:Hawawa!
+
+Makura0f:...Mehko seems to be having fun.
+
+<end>
+
+<ChatID:41>----------------------------------------
+//小傘vs.まくら
+
+Makura0g:Look at this audience...
+
+Makura0f:They may not acknowledge it, but they won't calm down at this rate.
+
+Kogasa0c:And while you're not looking... Boo!
+
+Makura0a:...
+
+Kogasa2b:You didn't even raise an eyebrow!
+
+Makura4b:O-Oh! I'm sorry, I was thinking about something else.
+
+Kogasa3d:Oh, okay, that's fine. It happens.
+
+Kogasa0c:And so, bleeeh!
+
+Makura0a:...
+
+Makura2b:Ah, excuse me! I'm so nervous..
+
+Kogasa0a:...
+
+<end>
+
+<ChatID:42>----------------------------------------
+//小傘vs.小傘
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Kogasa0c:Boo!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Kogasa2b:Uwah! Me?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Kogasa1a:How about it? Your doppelganger suddenly popping out of nowhere has got to be surprising!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Kogasa3d:Just what I'd expect from me! That's a pretty surprising technique.
+
+Kogasa2b:Wait, why's there another me here?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Kogasa1a:Alright, got a twofer!
+
+</nomove>
+
+<end>
+
+<ChatID:43>----------------------------------------
+//小傘vs.神綺
+
+Kogasa0c:Thbthbth!
+
+Shinki2a:Eeek! What's going on?!
+
+Kogasa3d:It's a surprise match. Did I getcha?
+
+Shinki1c:I'll have you know that surprising people is my specialty.
+
+Shinki0d:...Peekaboo!
+
+Kogasa3b:?
+
+Shinki5a:Huh? What? Is that not what we're doing?
+
+<end>
+
+<ChatID:44>----------------------------------------
+//小傘vs.依姫
+
+Kogasa0b:Boo!
+
+Yorihime0a:...
+
+Kogasa2b:Is that supposed to be your surprised face?!
+
+Yorihime0a:Er, no, I was just so dumbfounded that I was at a loss for words.
+
+Yorihime1a:A youkai like you running rampant in the village is part of what makes the Earth so charming.
+
+Kogasa2c:I don't want you to praise me, I want you to be surprised!
+
+<end>
+
+<ChatID:45>----------------------------------------
+//小傘vs.幽香
+
+Kogasa0b:Boo!
+
+Yuka0e:...
+
+Kogasa2b:What's that face supposed to mean?!
+
+Yuka0e:I was just wondering if you'd keep up your performance even with no reaction from the audience.
+
+Kogasa0b:Course I will! Bleeeh!
+
+Yuka0e:...
+
+Kogasa1a:It's a ghost!
+
+Yuka0e:...
+
+Kogasa0c:Boo-bleeeh!
+
+Yuka0e:...
+
+Kogasa2c:C'mon, be at least a little surprised!
+
+<end>
+
+<ChatID:46>----------------------------------------
+//小傘vs.魅魔
+
+Kogasa0b:...Peekaboo!
+
+Mima0c:...
+
+Kogasa1a:Alright! Did I surprise you?!
+
+Mima0b:More dumbfounded than surprised.
+
+Mima2b:Gensokyo sure is a peaceful place, with youkai like enjoying your freedom.
+
+Kogasa2b:Aren't you supposed to be rating me?!
+
+<end>
+
+<ChatID:47>----------------------------------------
+//小傘vs.映姫
+
+Kogasa0b:Wahoo! Surprised?
+
+Eiki0b:No.
+
+Kogasa1a:Wow, shut down!
+
+Eiki5a:It's my duty to put things in black and white. From what I've seen, your performance is—
+
+Kogasa2b:St-Stop! You already shut me down, you don't have to disassemble me too!
+
+<end>
+
+<ChatID:48>----------------------------------------
+//小傘vs.豊姫
+
+Kogasa0c:Boo! Surprised?
+
+Toyohime0b:...
+
+Kogasa3d:Ooh, you're so shocked you can't even speak?!
+
+Kogasa1a:Then I'll go for an even bigger one next!
+
+Toyohime0b:...
+
+Kogasa3c:Here I go, you ready? Here it comes!
+
+Toyohime0b:...
+
+Kogasa2c:Why're you just smiling without a word! It's getting kinda nerve-wracking!
+
+<end>
+
+<ChatID:49>----------------------------------------
+//小傘vs.レイセン
+
+Kogasa3c:Boo-a-boo-boo!
+
+Reisen2c:Aw, geez...
+
+Kogasa2b:Now THAT'S a surprising reaction!
+
+Reisen3e:I mean, if this is supposed to be your specialty, then...
+
+Reisen2c:Well, let's just say if you did this at a party on the moon, you might even get executed.
+
+Kogasa2b:The death penalty?!
+
+Reisen0d:Kidding! C'mon, not even we would do that.
+
+Kogasa2b:Y-You sure scared me for a sec, there!
+
+<end>
+
+<ChatID:50>----------------------------------------
+//小傘vs.メディスン
+
+Kogasa0b:................Peekaboo!
+
+Medicine2b:What is she doing? Do you know, Sue?
+
+Kogasa2c:C'mon, this is a really crowdpleaser for little kids! Did I strike out?
+
+Medicine1a:Ha, it's cuz you're treating me like a baby. Maybe you can't tell, but—
+
+Kogasa2b:Bwah!
+
+Medicine2a:Eeek?!
+
+Kogasa1a:Heh heh, sudden loud noises work on everyone, young and old!
+
+Medicine1b:O-Of course they do! But I won't forget this!
+
+<end>
+
+<ChatID:51>----------------------------------------
+//小傘vs.夢子
+
+Kogasa1a:You seem like the cool and collected type, but I don't back down from a challenge!
+
+Kogasa0c:Bleeeh!
+
+Yumeko1g:Two points.
+
+Kogasa2b:You're rating me on a scale?!
+
+Kogasa1a:But actually, two was the highest score!
+
+Yumeko4b:Unfortunately, no. Come to think of it, even back then it was better than this.
+
+<end>
+
+<ChatID:52>----------------------------------------
+//小傘vs.非想天則
+
+Kogasa0c:Thbthbth!
+
+Tensoku0a:...!
+
+Kogasa2b:Wait, you're huuuge!
+
+Kogasa3b:What the heck, why I am the one who's surprised?
+
+Tensoku0a:...
+
+Kogasa1a:Hmm... You look kinda happy? You seem like a tsukumogami too, so I think we'll get along just fine!
+
+<end>

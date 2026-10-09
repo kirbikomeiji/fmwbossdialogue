@@ -1,0 +1,1308 @@
+﻿○共通第六話「湖上の交錯（前編）
+
+========================================
+ChatID:内容
+========================================
+ 0: ADVA-1 (Reimu)
+ 1: ADVA-2 (Marisa)
+ 2: ADVA-3
+ 3: 1PP
+ 4: 1EP
+ 5: 2PP
+ 6: 3PP
+ 7: Daiyosei pursuade I
+ 8: Cirno spell start
+ 9: clear
+10: extra
+11: extra
+12: extra
+13-20: battle vs. Cirno
+21: Daiyosei first battle
+22-29: omake chat
+
+<ChatID:0>----------------------------------------
+//ADVA（霊夢）
+
+<MAP=1,FROM=湖への道,TO=霧の湖,name=Misty Lake,icon=0>
+
+<BG=*bg_talk_Lake.png,fade=1,color=1,title=*bg_Lake,bgm=bgm_talk_aoki>
+
+Keine4a:It's getting more difficult to see. It's hard to tell which way we're going.
+
+Youmu0a:The suspicious mist is getting thicker, but it seems that normal mist is mixing with it too.
+
+Reimu0e:Well, yeah. This IS the Misty Lake.
+
+Youmu0a:The Misty Lake?
+
+Reimu0e:Yeah, it's a gloomy place that's always shrouded in mist.
+
+Reimu0a:It's humid, and humans tend to avoid it, so it's like a hangout spot for fairies.
+
+Rumia0a:Humans would normally be close to wherever there's water. What a weird place.
+
+Keine0a:This is an exception. Well, a bigger reason would be because it's close to Youkai Mountain.
+
+Youmu0a:Youkai Mountain? That name's familiar to me.
+
+Reimu4a:That place is trouble, so I prefer to stay away from it.
+
+Keine0a:Mm... The mountain of youkai is quite an insular and unfriendly place.
+
+Youmu2b:What do you mean, insular?
+
+Keine0c:Youkai Mountain has a unique society that's different from most others.
+
+Keine0a:Each youkai has a position and a duty. They have clearly defined laws and rigid hierarchical relationships.
+
+Keine4a:That might be why they dislike others trespassing into their territory, and why information from within never leaves the premises.
+
+Keine0a:It's been even more apparent since the oni left Gensokyo and the tengu took over running the mountain.
+
+Youmu0a:The tengu... The newspaper reporter earlier was one of them, wasn't she?
+
+Keine0a:Yes. That girl didn't seem like she was on duty, but there's no doubt that she's also plotting something.
+
+Keine0b:Especially regarding...
+
+Reimu0a:...That other shrine maiden.
+
+Youmu0a:She did seem to be hiding something there.
+
+Youmu3a:Maybe her circumstances were so drastic that she had to.
+
+Keine3b:With how she ran when we asked, there isn't anything we can do but speculate.
+
+Keine3a:For that matter, Gensokyo only has one shrine maiden, so I have no idea who this other one could even be.
+
+Youmu0a:Could Youkai Mountain possibly be trying to establish their own shrine maiden to take Reimu's place...?
+
+Rumia0a:If it's to take Reimu's place, then will it be a blue and white shrine maiden?
+
+Reimu4a:You guys are getting way too into asking questions without answers.
+
+Reimu4a:Speculation won't get us anywhere. No one knows what youkai are thinking.
+
+Keine0b:Sure, but this is your problem.
+
+Keine0a:If a replacement shrine maiden really does pop up, someone could steal your spotlight.
+
+Reimu0c:Nope, not in a million years. I'm the only shrine maiden around here.
+
+Reimu0b:And even if there was another shrine maiden around, there's no reason to get all pensive about it.
+
+Youmu0a:Why is that?
+
+Reimu4a:If anyone shows up, I'll just beat 'em up. End of story.
+
+Youmu0a:Haha... You know, that sounds oddly dependable.
+
+Keine0a:It certainly wouldn't be easy for anyone to supplant Reimu from her duties.
+
+Reimu0b:Yeah, there you go. So let's get going.
+
+Youmu0a:Right. It's gotten colder now that we're closer to the lake...
+
+<SE=se_talk_fly01.ogg,wait=1>
+
+Youmu2a:Brrr!
+
+Rumia0a:Huh, you're kinda soft for a half-ghost.
+
+Youmu0a:Look, the me standing here right now is the human half, okay?
+
+Keine0c:Even so, this coldness in summer is still unnatural.
+
+Keine0b:Perhaps someone who can manipulate the cold is somewhere nearby...
+
+<end>
+
+<ChatID:1>-------------------------------------------------
+//ADVA（魔理沙）
+
+<MAP=1,FROM=湖への道,TO=湖への道,name=Near the Misty Lake,icon=2>
+
+<BG=*bg_talk_Road.png,fade=1,color=1,title=*bg_Road,bgm=bgm_talk_aoki>
+
+Nitori4b:*sniff sniff*
+
+Nitori0a:I can smell water nearby. We must be near the lake.
+
+Alice2c:You kappa have good noses. I can't see much through this thickening mist myself.
+
+Nitori1a:That's because we're really particular about water. We can tell where the water's from through a single sniff.
+
+Nitori4c:This smell reminds me of Youkai Mountain, though. I wonder what everybody back there is up to.
+
+Marisa0e:You homesick?
+
+Nitori1a:The water here flows from Youkai Mountain. It feels as relaxing as my own home.
+
+Alice0d:I can understand the feeling. The smell of your home is special to you.
+
+Alice0d:Opening the door to be greeted by the ever-familiar scent and the usual people waiting for you... Just that alone gives off a warm feeling.
+
+Nitori1a:The usual people...? Who are you living with?
+
+Alice4c:Well, these little ones are with me now.
+
+Shanghai0a:Shanghai.
+
+Marisa0c:Guess I just don't identify very much with that.
+
+Marisa0a:...It's starting to get real cold. Are we at the lake yet?
+
+Daiyosei5d:I believe you're feeling cold because we're approaching the lake.
+
+Daiyosei0a:The sunlight hasn't been able to shine through recently, and I'm sure Cirno is nearby...
+
+Marisa0e:Oh, so this Cirno girl is cold?
+
+Daiyosei0b:Cirno is an ice fairy.
+
+Marisa1b:An ice fairy? That's pretty grandiose for a fairy.
+
+Marisa0a:If you came up with such a frigid nickname for her, she must be pretty icy.
+
+Nitori2a:Wow, is that any way to talk about someone? That's just cold, Marisa.
+
+Alice0b:...The more normal conclusion to draw from that would be that she has a special power.
+
+Daiyosei0c:Yes, Cirno has the ability to manipulate cold.
+
+Daiyosei0b:It's an amazing power that can create icicles in summer, and freeze frogs alive.
+
+Nitori1d:Huh, sounds like she'd be good for air-conditioning... Wait, frogs?
+
+Marisa4c:Sounds like she's strong, but using her power that way...
+
+Daiyosei3b:Oh, but when you have her freeze some honey into a popsicle as a summertime snack...
+
+Marisa0c:Hm, that sounds kinda good, actually.
+
+Nitori1a:If you're gonna do that, you should freeze the honey around a cucumber! That'd be amazingly tasty.
+
+Marisa0d:It really is an amazing power for a fairy though.
+
+Marisa0a:Nature giving them a power that lets it be cold in summer seems kinda unbalanced.
+
+Alice2c:There are fairies who can make themselves disappear, so it's certainly not unbelievable.
+
+Alice0a:Maybe it's like an extreme manifestation of nature's power. A mutation, as it were.
+
+Nitori3e:But if she has so much power, then she's probably the leader of all the fairies, right?
+
+Daiyosei0b:I don't know if I'd call her a leader, but she's certainly got a lot of energy.
+
+Nitori1d:Ahh, so she's like the leader of a pack of kids.
+
+Daiyosei0a:But even so, I think she's doing much better compared to how she was before.
+
+Daiyosei0b:Cirno isn't very good at listening to others, but she always means well.
+
+Marisa0e:I dunno, she still plays pranks.
+
+<SE=se_wind01-3.ogg,wait=1>
+
+Marisa2a:Brr, so cold.
+
+Daiyosei1a:This chill... Cirno must really be nearby.
+
+Alice0d:That's good. It was worth it for us to come here at least.
+
+Marisa4b:I could never befriend someone who's so cold in the summer.
+
+Alice2c:Humans must have it tough. Youkai like us have no problems dealing with temperature differences like this.
+
+Nitori4c:Yeah. I wanna take a dip when we reach the lake, it's been a while.
+
+Marisa1d:Quit it, just thinking about it is making me shiver.
+
+Marisa2d:Argh, I can't stand this anymore. I'm gonna use my mini-hakkero as a space heater.
+
+Alice4a:Don't waste your magic reserves like that. We're supposed to be resolving an incident, you know.
+
+Marisa1c:Shaddup. I've got a delicate constitution, unlike you guys.
+
+Daiyosei5d:The forest has opened up, everyone. We'll emerge at the lake shortly.
+
+<Code=(demo_wait,15)>
+
+<single>
+
+Yousei10a:...
+
+Yousei11a:Oh no, I have to tell everyone!
+
+</single>
+
+<end>
+
+<ChatID:2>----------------------------------------
+//ADVA  チルノ会話シーン
+
+<MAP=1,FROM=霧の湖,TO=霧の湖,name=Misty Lake,icon=5>
+
+<BG=*bg_talk_Lake.png,fade=1,color=1,title=*bg_Lake,bgm=bgm_talk_ningyo>
+
+<hide=name>
+
+Cirno2a:That's enough! You can come out already, I've had enough!
+
+Cirno4c:...Geez, where did Dai go?
+
+Cirno0b:My hiding spot must've been so perfect that she can't find me.
+
+Cirno0a:Or maybe she wore herself out looking for me and went to take an afternoon nap.
+
+</hide>
+
+Yousei10a:Hey, hey, Cirno.
+
+Cirno2c:What? Did you find Dai?
+
+Yousei10a:Ah, no, but...
+
+Yousei10a:Um, are we gonna keep playing hide-and-seek? We've been searching for a while now. It might be time to stop...
+
+Yousei10a:And well, there are other fairies who want to go back home for their naps...
+
+Cirno2b:You want to leave Dai alone and go home? That's messed up.
+
+Yousei12a:N-No, that's not it...
+
+Yousei10a:But the other fairy who was it already left... Maybe Daiyousei already went back home too...?
+
+Cirno1b:Dai's nothing like that fairy!
+
+Cirno0a:She'll always keep searching for me until she's found me.
+
+Yousei10a:A-Ah... Yeah, she would.
+
+<update>
+
+Yousei10a:(...Hey, Daiyousei is supposed to be it, right? Why's Cirno looking for her?)
+
+Yousei10a:(Are you stupid? She's searching for her because she's missing.)
+
+</update>
+
+Cirno3b:Alright, time to resume Operation Find Dai!
+
+Cirno0a:...Hm?
+
+Yousei20a:Hey, hey, everyone! I've found Daiyousei!
+
+<update>
+
+Yousei10a:!
+
+Yousei11a:Yay, we can take our naps now!
+
+</update>
+
+Cirno3b:Ohh, good job! Where is she?
+
+Yousei20a:Erm, well...
+
+Cirno0a:?
+
+Cirno0b:What is it? Just spit it out.
+
+Yousei20a:...Daiyousei was flying here, surrounded by humans.
+
+Yousei10a:What?!
+
+Cirno2b:!!
+
+Yousei20a:There was a magician all in black that looks like she's up to no good, and a creepy doll-like lady...
+
+Yousei22a:Daiyousei's been captured by humans. What should we do? She's going to be eaten now...
+
+Cirno4a:So Dai was kidnapped by evil magicians. That's why she was late in coming back...
+
+Yousei10a:Everyone, the humans are coming! They'll be here any second!
+
+Yousei20a:They're coming to capture us now! What are we going to do?!
+
+Cirno2b:...Alright. Everybody, come with me!
+
+Cirno1a:I'm gonna save Dai!
+
+<end>
+
+<ChatID:3>----------------------------------------
+//1PP
+
+Marisa0c:Well, we're at the lake.
+
+Daiyosei0b:Thank you for getting me here safely.
+
+Alice0d:No, thank you for bringing us here.
+
+Nitori1a:Try not to let kedama surround you from now on, okay?
+
+Daiyosei0b:Yes, thank you so much.
+
+<pause>
+
+Cirno2b:I've found you, Dai!
+
+Daiyosei2c:!
+
+Marisa0d:Whoa, these fairies just popped out.
+
+Nitori0a:Oh yeah, lots of fairies are supposed to live around here, huh.
+
+Nitori3e:Hey Daiyousei, is the friend you were looking for in that group?
+
+Daiyosei0c:...Yes, the one on the island is Cirno. It seems she really was looking for me.
+
+Marisa0c:Ohh, bingo.
+
+Alice0d:Good that we found her without incident. Go to her and ease her worries.
+
+Daiyosei0b:I'll do just that. Thank you so much, everyone.
+
+Daiyosei5e:I'm here, Cirno. Sorry for making you wai...
+
+Cirno1a:You all better give back Dai!!
+
+Daiyosei0b:...
+
+Daiyosei4a:...Huh?
+
+Marisa0e:Wha?
+
+Marisa0d:Hey, what are you saying? We were just escorting Daiyousei to...
+
+Cirno1a:Shaddap, evil magician! I know you kidnapped Dai to eat her!
+
+Cirno1a:Leave Dai here and get outta the Misty Lake right now!
+
+Marisa1a:Wha... Evil magician?
+
+Marisa1a:Hey! You're calling the hero of the forest an evil kidnapper? Whaddaya think you're doing?
+
+Nitori1a:*snrk* An evil magician huh...
+
+Alice0b:Well, with how she dresses, it's partly understandable.
+
+Alice0a:However, fairy, you've misunderstood. As Marisa said, we brought Daiyousei here to...
+
+Yousei11a:Be careful, everyone. That's the creepy doll-girl!
+
+Yousei21a:That weirdo over there is carrying a huge backpack too. She must be packing fairies in there!
+
+Alice1a:Wha.... Creepy doll-girl...?
+
+Nitori2a:Wait, am I the weirdo here?
+
+Cirno1b:It's just as I heard. I knew you were an evil group from the start!
+
+Daiyosei1a:P-Please wait. Cirno, this is a misunderstanding.
+
+Marisa4c:Yeah, don't you know how to listen to others? If ya keep saying stupid things, we aren't gonna return Daiyousei either.
+
+Alice1a:You idiot, if you say something like that...
+
+Cirno2b:!!
+
+Cirno1a:I knew it, you evil magician! You're holding Dai hostage and trying to eat us all!
+
+Cirno1a:Everyone, we'll work together to beat 'em up!
+
+Yousei11a:YEAH!
+
+Alice4a:...See, I told you so.
+
+Nitori2a:...Marisa, you weren't doing that on purpose, were you?
+
+Marisa0a:Aww, c'mon. Can't anybody take a joke?
+
+Daiyosei1a:It's not like that, Cirno. Please calm down and listen to me!
+
+Cirno2b:Just wait there, Dai. I'm gonna save you!
+
+Nitori2a:It's hopeless, we aren't getting through to her.
+
+Alice4a:It seems so. Daiyousei, do you think you can persuade your friend?
+
+Alice0a:I don't particularly want to fight, but if it ends up as a danmaku battle, we're going to have to knock them about a bit.
+
+Daiyosei1a:...Alright, I'll try.
+
+Daiyosei3b:She seems agitated though, so I don't know if she'll listen...
+
+Cirno1a:Alright, let's do this. Prepare yourselves, you evil group!
+
+<Cond=(GLOBAL_VAR,is_NG0,==,0)>
+
+<TIPS=LAND>
+
+</Cond>
+
+<end>
+
+<ChatID:4>--------------------------------------------------
+//1EP、妖精たちの会話
+
+Yousei10a:There's only three of them, but they seem kinda strong.
+
+Yousei20a:Hey, I know that magician.
+
+Yousei20a:According to the trio, she uses light magic violently on anyone and everyone.
+
+Yousei20a:They also said she nearly bottled them up.
+
+Yousei10a:She did what?!
+
+Yousei20a:That doll-girl is really creepy because she talks to her dolls by herself as if it's totally normal.
+
+Yousei10a:Hey, should we really fight against those kinds of people...?
+
+Yousei10a:Maybe we should just go back home without the others.
+
+Cirno0a:Hey you two, are you thinking of ditching Dai?
+
+Cirno0a:Just try it, I'll use my power and freeze you solid.
+
+Yousei12a:Eep! I-It was a joke, of course!
+
+Yousei20a:Yeah, we wouldn't do something like that!
+
+Cirno0a:Hmph, that's better.
+
+Daiyosei3b:(She's so agitated, she's using her power even for this...)
+
+Daiyosei0a:(I need to talk her down.)
+
+<end>
+
+<ChatID:5>--------------------------------------------------
+//2PP、霊夢たち増援
+
+Reimu1a:I can see much better now!
+
+Youmu0a:I see danmaku lights. Is someone fighting?
+
+Keine0a:So it seems. And I can see who it is.
+
+Marisa0a:Oh, Reimu. And that teacher from before.
+
+Marisa0a:Hm, and two more people I don't recognize too.
+
+Reimu0f:Oh, so it's you, Marisa. What are you doing out here?
+
+Marisa0a:Investigating the incident. I came here 'cuz I thought the lake was suspicious.
+
+Marisa0a:Seems like I was one step ahead of ya.
+
+Reimu2b:Hmm... Not bad, for you anyway.
+
+Keine0a:Who are all these people? It looks like you're already in a fight.
+
+Marisa0a:Ahh, it's a long story...
+
+Cirno1a:So the evil syndicate brings in its evil cohorts!
+
+Cirno1a:No matter how many baddies you keep calling, I'll freeze them all like frogs!
+
+Youmu0a:Huh? Evil syndicate...?
+
+Reimu4a:I've got no idea what's going on and I don't wanna hear it. Can I just exterminate these guys and call it good?
+
+Daiyosei2a:Wait... Please wait! Cirno means well!
+
+Reimu2b:What do you mean? ...Wait, aren't you a fairy?
+
+Nitori1a:This fairy's on our side. She got lost, and we helped her out.
+
+Keine0a:I see. What started this danmaku battle, then?
+
+Nitori0a:That blue-haired fairy is a friend of our fairy here.
+
+Nitori0a:She's under the mistaken impression that we kidnapped her, so she attacked us.
+
+Youmu0a:Ahh... I understand the situation now.
+
+Marisa0a:She called me an evil magician. Is that messed up or what?
+
+Keine3a:(...With how you dress, that's honestly somewhat understandable.)
+
+Nitori0a:Anyway, Daiyousei's going to her to talk to her, so try not to hurt her too much.
+
+Reimu0f:...I see. I'll try to show a bit of mercy then.
+
+Rumia0a:Reimu, showing mercy? Did I eat something bad?
+
+Reimu1a:You be quiet!
+
+Reimu0a:Regardless, it's a danmaku battle. If someone hits me, I hit back, and if someone gets in my way, I blow 'em away.
+
+Reimu4a:Daiyousei, right? If you want to protect that fairy, make sure to persuade her not to fight.
+
+Daiyosei2a:R-Right!
+
+Marisa0a:Hah, Reimu's the same as ever. She'd always been the type to throw beans at even a crying oni.
+
+Alice0c:Daiyousei, we'll protect you, so don't worry about that.
+
+Alice0a:But what Reimu said is also the truth. We have to defeat the ones attacking us.
+
+Nitori0a:Yeah, you have to be the one to protect your friends, Daiyousei!
+
+Daiyosei0a:(I have to stop Cirno myself. I've gotta give this my best...)
+
+Daiyosei1a:Right! I'll do my best!
+
+<end>
+
+<ChatID:6>--------------------------------------------------
+//3PP
+
+Youmu0a:Marisa, right? I've heard much about you.
+
+Marisa0a:I don't recognize you. You're an ally of Reimu's, I take it?
+
+Youmu0a:Yes. I'm Youmu Konpaku, and I'm resolving the incident together with her. That youkai over there is Rumia.
+
+Marisa0a:Hmm... If you're with Reimu, does that mean she's got some dirt on you or something?
+
+Reimu0d:Rude. No, they just joined me along the way.
+
+Rumia0a:I got dragged along, though.
+
+Rumia0a:Hey, with this magician's group here, is it cool if I go home now?
+
+Marisa0a:What are you saying? If you can fight, you're helping us out.
+
+Marisa0a:Youkai have no human rights. You gotta be human for those.
+
+Rumia2b:She's just as messed up as Reimu!
+
+<end>
+
+<ChatID:7>--------------------------------------------------
+//大妖精、説得
+
+Daiyosei1a:Cirno!
+
+Cirno0a:Dai!
+
+Daiyosei0a:Whew, I've finally gotten to you. I wasn't able to find you at all. I even searched as far as the Forest of Magic.
+
+Cirno0a:Huh, you went that far?
+
+Cirno0a:I was hiding around the Bamboo Forest of the Lost. I figured no "it" would find me there. Genius, I know.
+
+Daiyosei0b:Ahaha... When you said we'd play near the lake, I thought we'd stay by it.
+
+Cirno0a:Anyways, it's good that you got away from them safely.
+
+Cirno0a:Did they do anything bad to you? You were really scared, right?
+
+Daiyosei0a:No, it wasn't anything like that at all. In fact, Marisa and the rest saved me from...
+
+Cirno1a:Just keep watching, Dai! I'll freeze all those evildoers who treated you badly!
+
+Daiyosei2a:...!
+
+Daiyosei3b:Cirno, wait! You've got it wrong!
+
+Cirno1a:You all are gonna regret making me your enemy!
+
+<pause>
+
+Marisa0a:Okay, she's not even TRYING to listen.
+
+Keine3a:Good grief, children really become a bother when they get like that.
+
+Keine0a:We might need to punish her a little to make her understand.
+
+Daiyosei2a:No... Everyone, please wait!
+
+Daiyosei2a:Cirno's really mad right now, but I'm sure she'll listen when she calms down!
+
+Reimu0e:So you're saying we can convince her if we tire her out?
+
+Alice0a:That's fairly normal for children. Then let's keep her company until she loses steam.
+
+Alice0c:After that, it's up to you to talk her down, Daiyousei.
+
+Marisa0a:I can't imagine she'll listen, but she's your friend. You gotta do something.
+
+Daiyosei0a:...
+
+Daiyosei0a:I understand. I'll try again.
+
+Daiyosei1a:I'll make sure she listens to me this time!
+
+<end>
+
+<ChatID:8>--------------------------------------------------
+//チルノ撃墜
+
+Cirno0a:You all are better than I thought.
+
+Daiyosei2c:Cirno, are you okay?!
+
+Daiyosei0a:Hey, please listen to what we're saying. Then you won't need to fight Marisa's group.
+
+Cirno0a:Heheheh, I'm fine, Dai. I'm the strongest, I won't be beaten by this.
+
+Cirno1a:I'll freeze all you evildoers who treated Dai so badly!
+
+Daiyosei3b:Cirno, you've misunderstood! It's not like that...!
+
+Cirno1a:It's time to activate the spellcard!
+
+<pause>
+
+Marisa0a:Okay, she's not even TRYING to listen.
+
+Keine3a:Good grief, children really become a bother when they get like that.
+
+Keine0a:We might need to punish her a little to make her understand.
+
+Daiyosei2a:No... Everyone, please wait!
+
+Daiyosei2a:Cirno's really mad right now, but I'm sure she'll listen when she calms down!
+
+Reimu0e:So you're saying we can convince her if we tire her out?
+
+Alice0a:That's fairly normal for children. Then let's keep her company until she loses steam.
+
+Alice0c:After that, it's up to you to talk her down, Daiyousei.
+
+Marisa0a:I can't imagine she'll listen, but she's your friend. You gotta do something.
+
+Daiyosei0a:...
+
+Daiyosei0a:I understand. I'll try again.
+
+Daiyosei1a:I'll make sure she listens to me this time!
+
+<end>
+
+<ChatID:9>--------------------------------------------------
+//チルノスペル１通過（クリア）
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,1)>
+
+Cirno2a:WAAAGH!
+
+Daiyosei2c:Cirno!!
+
+Alice1a:Cirno's danmaku has let up. If you want to persuade her, now's your chance!
+
+Marisa0a:Go give it a shot, Daiyousei!
+
+Daiyosei1a:...Right!
+
+</Cond>
+
+<Cond=(LOCAL_VAR,Char1,isSBreak,==,0)>
+
+Cirno0a:Hmph, you were all scared of my power, huh?
+
+Alice0a:...We weren't really trying to hold back. That fairy's quite strong.
+
+Marisa0a:But if we're gonna try to persuade her, now's as good a chance as ever.
+
+Marisa0a:Go give it a shot, Daiyousei!
+
+Daiyosei1a:...Right!
+
+</Cond>
+
+<Code=(icon_set_direction,All,Cirno_en,0)>
+
+<pause>
+
+<Code=(icon_set_direction,Daiyosei,Cirno_en,0)>
+
+<Code=(icon_set_direction,Cirno_en,Daiyosei,0)>
+
+<Cond=(CHECK_FLAG,C06_DAIYOSEI,==,1)>
+
+Daiyosei0a:Cirno, stop!
+
+Cirno0a:Dai?! Stay back, I'm using a spellcard! It's dangerous!
+
+Daiyosei0a:I know it's dangerous, but if I don't do something, you'll be beaten up by Marisa's group!
+
+Daiyosei0a:So please stop fighting. Let's go home together. Marisa and her group aren't evil.
+
+Cirno0a:That's a lie. Look at how they treated you!
+
+Cirno0a:I heard it all from the other fairies. I'm gonna freeze them all!
+
+Daiyosei1a:Augh, you're so stubborn!
+
+Cirno1a:What are you doing?! Let me go!
+
+Daiyosei2a:...C-Cold!
+
+Cirno6a:!
+
+Cirno6a:Ah... I'm sorry, Dai...
+
+Daiyosei2a:It's okay...
+
+Daiyosei0a:...
+
+Daiyosei0a:Cirno, you're not supposed to use your power over ice like this. Didn't you promise me?
+
+Cirno0a:But...
+
+Cirno0a:But they all bullied you. So I needed to teach them a lesson...
+
+Daiyosei0a:Um, Cirno, you've been misunderstanding things. Marisa and the others aren't bad people at all.
+
+Daiyosei0a:They saved me from a group of black kedama that attacked me.
+
+Cirno0a:...So they didn't kidnap you?
+
+Daiyosei0a:They didn't. They haven't attacked me even once, have they?
+
+Cirno0a:...
+
+Alice0a:...It seems she's finally getting it.
+
+Keine0a:It's always good to let children resolve their own disputes.
+
+Keine0a:It's better for them to resolve this peacefully without us needing to step in.
+
+Nitori1a:Ahh, friendship wins the day.
+
+Marisa0a:Geez, why are you guys so impressed by this?
+
+Youmu0a:Anyway, it's good that it all ended well.
+
+Reimu0a:Saves me the trouble of having to exterminate her. That means I can save more ofuda for later.
+
+Reimu0a:Now then, this ate up more time than I thought. Let's return to the investigation.
+
+</Cond>
+
+<Cond=(CHECK_FLAG,C06_DAIYOSEI,==,0)>
+
+Cirno0a:...Dai?
+
+Daiyosei0a:Cirno, are you okay? I'll heal you up.
+
+Cirno0a:Thank you Dai, I can keep on fighting now!
+
+Cirno1a:I'll make 'em cry for sure!
+
+Daiyosei0a:No. Stop fighting and listen to them instead.
+
+Cirno0a:Why? I'm the strongest, I'll be fine!
+
+Daiyosei0a:That's not it. You've misunderstood things.
+
+Daiyosei0a:So there's no need for you to fight Marisa's group at all.
+
+Cirno0a:...Huh?
+
+Cirno0a:I've misunderstood? Didn't that evil magician and her group kidnap you, Dai?
+
+Daiyosei0a:Um, that's wrong. Marisa's group was the one that saved me from an attack by a group of black kedama.
+
+Daiyosei0a:So you see, Marisa's group aren't bad people.
+
+Cirno0a:...So they didn't kidnap you?
+
+Daiyosei0a:Yeah. They haven't attacked me even once, have they?
+
+Cirno0a:...
+
+Alice0a:...It seems she's finally getting it.
+
+Youmu0a:Well, it wouldn't feel right to keep beating her up further.
+
+Keine0a:Perhaps this was for the best anyway. Children who won't stop crying sometimes need a little push in order to make them stop.
+
+Marisa0a:...By "push", you mean "headbutt", right?
+
+Nitori0a:Well, with how it looks now, we should be able to let Daiyousei handle the rest.
+
+Reimu0a:Right. Let's return to investigating the incident, then.
+
+</Cond>
+
+Marisa0a:So that's how it is, Daiyousei. We'll be heading on out.
+
+Keine0a:Even if it was a mistake, you should reflect on your actions, fairy. You were quite a bother to everyone.
+
+Reimu2b:...Can't you let passing fairies go without a lecture?
+
+Nitori0a:Take care of each other, okay? Especially you, the blue one. Don't make Daiyousei worry so much.
+
+Alice0a:Yes, you should be thankful to Daiyousei. It's because of her that you've made it out of this unharmed.
+
+Cirno0a:Bah. If you all did anything to Dai, I would've taught you all a real good lesson.
+
+Reimu4a:Yeah, yeah. Don't come crying to me if you get carried away and fall flat on your face again later.
+
+Cirno0a:...
+
+Keine0a:Now then, you said we should move on, but our next destination remains undecided. I say we get together and compare notes.
+
+Rumia0a:If we're gonna do that, then let's have some food. I'm hungry.
+
+<Code=(icon_set_direction,Daiyosei,Marisa,0)>
+
+Daiyosei0b:Thank you very much. Take care of yourself, Marisa. Everyone.
+
+<Code=(icon_set_direction,Cirno_en,FD_LEFT,0)>
+
+Cirno0a:Anyway, let's go back home, Dai...
+
+Cirno0a:...?
+
+<Code=(icon_set_direction,Daiyosei,Cirno_en,0)>
+
+Daiyosei2c:What's wrong, Cirno?
+
+Cirno0a:There's another human over there. She your friend too?
+
+Youmu2b:Huh? A human?
+
+Reimu4a:All the way out here? No way. Sure you're not seeing things?
+
+Cirno0a:No, I'm not! She was wearing clothes just like yours, even.
+
+Keine0a:Clothes like Reimu's? You mean shrine maiden attire?
+
+Marisa0a:C'mon, a shrine maiden other than her?
+
+Marisa1a:...No!
+
+<hide=all>
+
+Sanae3a:I finally found you.
+
+</hide>
+
+<pause>
+
+<Code=(icon_set_direction,All,Sanae_en,0)>
+
+Reimu0a:!
+
+Keine1a:That's a shrine maiden outfit! So she must be...
+
+Marisa0a:...I get it. I already half-guessed, but who woulda thought it was actually true.
+
+Youmu1a:Reimu, it's...
+
+Reimu0a:...The other shrine maiden.
+
+<hide=name>
+
+Sanae0a:I've heard of you, but this is our first time meeting face to face.
+
+</hide>
+
+Sanae0a:Pleased to make your acquaintance. My name is Sanae Kochiya. I am the wind priestess of the Moriya Shrine.
+
+Sanae0a:I've been hoping to meet you... Reimu Hakurei.
+
+<end>
+
+<ChatID:10>---------------------------------------------
+//予備枠
+
+<end>
+
+<ChatID:11>---------------------------------------------
+//予備枠
+
+<end>
+
+<ChatID:12>---------------------------------------------
+//予備枠
+
+<end>
+
+<ChatID:13>---------------------------------------------
+//チルノvs.霊夢
+
+Reimu4a:A fairy like you is trying to challenge me? You've certainly got confidence, if nothing else.
+
+Cirno0a:Bah, so what if you're that shrine's shrine maiden. Did you pee your drawers at the sight of a powerhouse like me?
+
+Reimu5c:Ahh, I couldn't hear you over all this noise. What were you saying?
+
+Reimu0g:Something about being powerless, was it?
+
+Cirno2a:I said powerhouse! POW-ER-HOUSE!
+
+Cirno1a:Grrr, how dare you make fun of me!
+
+<end>
+
+<ChatID:14>---------------------------------------------
+//チルノvs.魔理沙
+
+Cirno1a:So you've come, evil magician!
+
+Marisa0a:You're seriously stubborn. And you're trying to sound like some fairy tale hero.
+
+Cirno0a:Those who kidnap others have gotta be evil. I bet you've got poison apples on you too.
+
+Marisa0a:I've got poisonous mushrooms on me if that counts. Want a bite? They're pretty tasty.
+
+Cirno0a:Ooh, really? Maybe I'll take a nibble then...
+
+Cirno1a:...Wait, that was close! You were trying to kill me with poison!
+
+Cirno0a:I'm not falling for your tricks! I'll make sure you never get up again!
+
+<end>
+
+<ChatID:15>---------------------------------------------
+//チルノvs.慧音
+
+Keine0a:Looking at you reminds me of a troublemaker at the school.
+
+Keine0b:They've got energy for days, but they never listen to others.
+
+Cirno0a:Why would I listen to the words of a villain? Give Dai back right now!
+
+Keine1a:It's good to care for your friends, but how dare you call a teacher a villain?!
+
+Keine1a:Minus ten points! It's gonna be detention for you!
+
+<end>
+
+<ChatID:16>---------------------------------------------
+//チルノvs.にとり
+
+Nitori0a:Since she's Daiyousei's friend, I'd rather not fight her if possible, but...
+
+Cirno0a:What are you muttering about? Your excuses aren't gonna work on me.
+
+Nitori0a:If she were really her friend, I would've thought she'd realize not to cause Daiyousei so much trouble...
+
+Nitori0a:Well, I guess she's thinking of Daiyousei in her own way too.
+
+<end>
+
+<ChatID:17>---------------------------------------------
+//チルノvs.アリス
+
+Alice0a:You're Daiyousei's friend, aren't you? Why don't you listen to what she's saying?
+
+Alice0a:She's been worried about you the whole time since we've reached here.
+
+Cirno0a:Bah, Dai's always worrying about me. I keep telling her I'm always doing fine...
+
+Cirno0a:So I've gotta take you all out as fast as I can, so she can relax!
+
+Alice0c:...Dear me, words really don't get through to her. It's amazing that she even has friends.
+
+<end>
+
+<ChatID:18>---------------------------------------------
+//チルノvs.妖夢
+
+Cirno0a:I've been wondering for awhile, what's that thing floating behind you?
+
+Youmu0a:That's my ghost half. This is the human half.
+
+Cirno0a:Hmm, if I make a ghost real cold, will it get frozen?
+
+Youmu0a:Probably not. Ghosts are cold to begin with.
+
+Cirno0a:I see, change of plans then. I'll just freeze the human part!
+
+<end>
+
+<ChatID:19>---------------------------------------------
+//チルノvs.ルーミア
+
+Cirno0a:There you are, evildoer!
+
+Rumia0a:I'm not evil.
+
+Cirno0a:Liar! Are you calling yourself a good person then?!
+
+Rumia0a:No, I'm not really good either.
+
+Cirno0a:You're not evil, but not good...?
+
+Rumia3a:Maybe I'm not not evil after all.
+
+Cirno0a:So you're not not not not...
+
+Cirno0a:...
+
+Cirno1a:WHATEVER. You're not fooling me!
+
+<end>
+
+<ChatID:20>---------------------------------------------
+//大妖精vs.チルノ会話
+
+Daiyosei2a:Cirno, I'm sorry!
+
+Cirno2a:Huh? Dai? Why are you danmaku battling against me?!
+
+Daiyosei3b:You don't want to stop fighting, so Marisa and the rest are going to beat you up.
+
+Daiyosei1a:I have to stop that from happening!
+
+Cirno0a:Don't try to stop me, Dai. I'm gonna teach them a really good lesson!
+
+Cirno0a:Even you, Dai. If you try to stop me, I'll...
+
+Cirno0a:...
+
+Cirno2a:Ugh, I can't... I just don't have it in me to attack Dai...
+
+<end>
+
+
+<ChatID:21>---------------------------------------------
+//大妖精vs.妖精
+
+Yousei10a:Why is Daiyousei fighting us?!
+
+Daiyosei3b:I'm sorry, everyone... But I have to stop Cirno!
+
+Daiyosei1a:So please, get away from there!
+
+Yousei21a:This is bad... Dai's been cursed by that magician!
+
+Yousei11a:If we don't defeat her, then we'll never get that curse lifted. Let's make her wake up, everyone!
+
+Daiyosei1a:Geez... It's not like that at all!
+
+<end>
+
+<ChatID:22>-------------------------------------
+//霊夢
+
+Reimu0a:What's with this island of ice? Did that fairy make it?
+
+Reimu0a:Hmm... Since I'm here, maybe I'll have some shaved ice.
+
+Reimu0a:Shaved ice has to go with red bean paste. Ah, I think my shrine only has sugar though...
+
+Cirno0a:Hey, what are you doing at my secret base?! If you mess with it, you're gonna regret it!
+
+Reimu0a:Maybe I'll just settle for sugar water then? ...Nah, I'll just get Marisa to bring some red beans next time.
+
+<end>
+
+<ChatID:23>----------------------------------------
+//魔理沙
+
+Marisa0a:That's a huge block of ice floating there. Did that ice fairy make this?
+
+Marisa0a:It's a stroke of luck to get some ice in the summer though. I'll take a bit back with me and make some shaved ice outta it.
+
+Marisa0a:And of course, shaved ice has to go with milk. The light taste of ice combined with lotsa milk... Shaved ice is all about power!
+
+Cirno1a:Hey, what are you doing at my secret base?! If you mess with it, you're gonna regret it!
+
+Marisa0a:Sorry, but my spit's on the ice now. That means it's mine!
+
+<end>
+
+<ChatID:24>----------------------------------------
+//慧音
+
+Keine0b:How strange, there's a block of ice floating here. Did that ice fairy create it?
+
+Keine0a:However, ice is certainly precious in the summer. Since we're here, I should take some shaved ice.
+
+Keine0a:Shaved ice must go with green tea and red beans, with brown sugar syrup and soybean flour to top it off. I suppose I'll break off a piece.
+
+Cirno1a:Hey, what are you doing at my secret base?! If you mess with it, you're gonna regret it!
+
+Cirno0a:...Wait, you're going to headbutt that ice? You're gonna break your head on that.
+
+Keine3a:No, the one that will be broken will be the ice. Even if I smash it too hard, the tiny pieces will be perfect for shaved ice.
+
+<end>
+
+<ChatID:25>----------------------------------------
+//にとり
+
+Nitori0a:Ohh, there's a huge block of ice just floating around. That fairy must've made it.
+
+Nitori1a:It looks really pretty too. I'll take it back with me and make it into shaved ice.
+
+Nitori0a:The syrup will definitely be cucumber-flavored! It's gotta be cucumber shaved ice!
+
+Cirno1a:Hey, what are you doing at my secret base?! If you mess with it, you're gonna regret it!
+
+Cirno0a:Besides, cucumber shaved ice sounds horrible.
+
+Nitori2a:Hey! Did you just insult cucumbers?!
+
+Nitori1b:I'm gonna have to show you the light. I'll stuff cucumbers into your mouth until you realize how amazing they are!
+
+<end>
+
+<ChatID:26>----------------------------------------
+//アリス
+
+Alice0a:This large block of ice floating in the lake doesn't quite fit with the typical scenery of summer.
+
+Alice0a:It does give off a nice, cool feeling though. It looks good enough to bring back and turn into shaved ice.
+
+Alice0b:I wonder what I'll eat it with? I could make some fragrant syrup, but I can't make it too sweet...
+
+Alice3a:Maybe keeping it simple and have it with milk is the best option. What do you think, Shanghai? 
+
+Cirno1a:Hey, what are you doing at my secret base?! If you mess with it, you're gonna regret it!
+
+<nomove>
+
+Shanghai0a:Shanghai.
+
+</nomove>
+
+Alice3a:I see, you like it with strawberries, huh?
+
+<end>
+
+<ChatID:27>----------------------------------------
+//妖夢
+
+Youmu0a:Huh, a floating island of ice. Is this the work of that fairy?
+
+Youmu0a:With this much ice available, it shouldn't be an issue if I make some shaved ice, right?
+
+Youmu0a:If I'm the one eating it, strawberry flavor's the way to go. That never fails to lift my mood.
+
+Cirno1a:Hey, what are you doing at my secret base?! If you mess with it, you're gonna regret it!
+
+Cirno0a:And really? Strawberry flavor? What are you, five?
+
+Youmu2b:Erk, the fairy overheard me talking to myself?!
+
+Youmu1a:I retract my previous statement, shaved ice must always be melon-flavored! There, is that better?!
+
+<end>
+
+<ChatID:28>----------------------------------------
+//ルーミア
+
+Rumia0a:Ooh, lookie. Ice. What a rare sight in summer!
+
+Rumia3a:Since I'm here, I'll have some shaved ice. The flavor has to be...
+
+Cirno1a:Hey, what are you doing at my secret base?! If you mess with it, you're gonna regret it!
+
+Rumia4a:*crunch crunch*
+
+Cirno0a:...Hey, you're not even eating it shaved!
+
+<end>
+
+<ChatID:29>----------------------------------------
+//大妖精
+
+Daiyosei0a:Ah, it's our secret base. It still hasn't melted away even though we made it this morning.
+
+Daiyosei0b:Cirno made it for when we wanted to play, just the two of us. It's a bit cold standing on it barefoot though.
+
+Cirno0a:Hm, Dai's at our secret base. Does she want to play?
+
+Cirno0a:Dai, just wait a little longer! Once I get rid of this bunch, I'll play with you!
+
+Daiyosei2c:Whoops, this isn't the time for this. I need to stop Cirno!
+
+<Code=(options_words_add,Himitsukichi)>
+
+<end>
+
+<ChatID:30>----------------------------------------
+//1PPにチルノと戦闘（1回目）
+
+Cirno1a:Your attacks won't work!
+
+<end>
+
+<ChatID:31>----------------------------------------
+//1PPにチルノと戦闘（2回目）
+
+Cirno5b:It won't work, no matter what!
+
+<end>
+
+<ChatID:32>----------------------------------------
+//チルノvs.まくら
+
+Cirno0a:There you are, bad guy!
+
+Makura0a:I see you've possessed a fiery heart all this time.
+
+Makura0a:Although you're perhaps a little too unwilling to listen to reason, or rather—
+
+Cirno0a:Hey! Stop talking all complicated and stuff!
+
+Makura0a:Oh well. I suppose I'll leave the talking to Daiyousei.
+
+<end>
+
+<ChatID:33>----------------------------------------
+//チルノvs.メーコ
+
+Cirno0a:Time to get payback for Dai!
+
+Meko0b:...
+
+Cirno0a:What?
+
+Meko0b:I was just thinking you came across as smarter back then, somehow.
+
+Cirno0a:What're talking about?
+
+<end>
+
+<ChatID:34>----------------------------------------
+//チルノvs.チルノ
+
+<nomove>
+
+<Code=(cursor_jump_unit,Char0,0,0,1)>
+
+Cirno0a:Stop it, me!
+
+<Code=(cursor_jump_unit,Char1,0,0,0)>
+
+Cirno0a:You're... me?!
+
+<Code=(cursor_jump_unit,Char0,0,0,0)>
+
+Cirno0a:Hm, so if I stop, will you stop too?
+
+Cirno0a:Then I'll stop! *freezes*
+
+</nomove>
+
+<end>
+
+<ChatID:35>----------------------------------------
+//C06：チルノvs.非想天則
+
+Tensoku0a:...
+
+Cirno0b:Hm, you're a big guy...
+
+Cirno2c:You must be the legendary youkai Daidarabocchi!
+
+Tensoku0a:...?!
+
+Cirno5g:So if I tame you, I'll have nothing to be scared of!
+
+Cirno1b:Now eat my danmaku!
+
+<end>
