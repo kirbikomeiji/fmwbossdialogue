@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<script>
+    function showChapter(id) {
+        document.getElementById('chapter_header').innerHTML = "Chapter " + id;
+
+        document.querySelectorAll('.button2').forEach((button) => {
+            button.style.display = 'none';
+        });
+        document.querySelectorAll('.chapters').forEach((chapter) => {
+        if (chapter.id == id){
+            chapter.style.display = "inline-block";
+            chapter.querySelectorAll('.dialogue').forEach((dialogue) =>
+            {
+                document.querySelector(`#b_${dialogue.id}`).style.display = 'inline-block';
+            });
+        }
+        else
+            chapter.style.display = "none";
+        });
+        document.querySelectorAll('.dialogue').forEach((char) => {
+            char.style.display = "none";
+        });
+    }
+
+    function showChar(id) {
+        document.querySelectorAll('.dialogue').forEach((char) => {
+            if (char.id === id){
+                char.style.display = "inline-block";
+            } else
+                char.style.display = "none";
+        });
+    }
+
+
+</script>
+<style>
+
+    .button {
+        border: none;
+        color: white;
+        background-color: #4caf50;
+        padding: 16px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+    }
+    .button2 {
+        background-color: white;
+        color: black;
+        border: 2px solid #0497aa;
+        width: 3em;
+        height: 2em;
+        display: none;
+
+    }
+
+    .button2 img {
+        width: 100%;
+        height: 100%;
+        image-rendering: pixelated;
+    }
+
+    .button2:hover {
+        background-color: #04AA6D;
+        color: white;
+    }
+    .button1 {
+        background-color: white;
+        color: black;
+        border: 2px solid #04AA6D;
+        display: inline-block;
+    }
+
+    .button1:hover {
+        background-color: #04AA6D;
+        color: white;
+    }
+
+    .chapters {
+        display: none;
+    }
+
+    .dialogue {
+        display: none;
+        margin: 2em;
+        padding: 3em;
+        text-indent: 5em;
+    }
+
+</style>
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<h1>Reimu        <img src="https://tiermaker.com/images/media/template_images/2024/144352/eat-rocks-144352/1.png"></h1>
+<button class="button1" onclick="showChapter(1)">C01</button>
+<button class="button1" onclick="showChapter(2)">C02</button>
+<button class="button1" onclick="showChapter(3)">C03</button>
+<button class="button1" onclick="showChapter(4)">C04</button>
+<button class="button1" onclick="showChapter(5)">C05</button>
+<button class="button1" onclick="showChapter(6)">C06</button>
+<button class="button1" onclick="showChapter(7)">C07</button>
+<button class="button1" onclick="showChapter(8)">C08</button>
+<button class="button1" onclick="showChapter(9)">C09</button>
+<button class="button1" onclick="showChapter(10)">C10</button>
+<button class="button1" onclick="showChapter(11)">C11</button>
+<button class="button1" onclick="showChapter(12)">C12</button>
+<button class="button1" onclick="showChapter(13)">C13</button>
+<button class="button1" onclick="showChapter(14)">C14</button>
+<button class="button1" onclick="showChapter(15)">C15</button>
+<button class="button1" onclick="showChapter(16)">C16</button>
+<button class="button1" onclick="showChapter(17)">C17</button>
+<button class="button1" onclick="showChapter(18)">C18</button>
+<button class="button1" onclick="showChapter(19)">C19</button>
+<button class="button1" onclick="showChapter(20)">C20</button>
+<button class="button1" onclick="showChapter(21)">C21</button>
+<button class="button1" onclick="showChapter(22)">C22</button>
+<button class="button1" onclick="showChapter(23)">C23</button>
+<button class="button1" onclick="showChapter(24)">C24</button>
+<button class="button1" onclick="showChapter(25)">C25</button>
+<button class="button1" onclick="showChapter(26)">C26</button>
+<button class="button1" onclick="showChapter(27)">C27</button>
+<button class="button1" onclick="showChapter(28)">C28</button>
+<button class="button1" onclick="showChapter(29)">C29</button>
+<button class="button1" onclick="showChapter(30)">C30</button>
+<button class="button1" onclick="showChapter(31)">C31</button>
+<button class="button1" onclick="showChapter(32)">C32</button>
+<button class="button1" onclick="showChapter(33)">C33</button>
+<button class="button1" onclick="showChapter(34)">C34</button>
+<button class="button1" onclick="showChapter(35)">C35</button>
+<button class="button1" onclick="showChapter(36)">C36</button>
+<button class="button1" onclick="showChapter(37)">C37</button>
+<button class="button1" onclick="showChapter(38)">C38</button>
+<button class="button1" onclick="showChapter(39)">C39</button>
+<button class="button1" onclick="showChapter(40)">C40</button>
+<button class="button1" onclick="showChapter(41)">C41</button>
+<button class="button1" onclick="showChapter(42)">C42</button>
+<button class="button1" onclick="showChapter(43)">C43</button>
+<button class="button1" onclick="showChapter(44)">C44</button>
+<button class="button1" onclick="showChapter(45)">C45</button>
+<button class="button1" onclick="showChapter(46)">C46</button>
+<button class="button1" onclick="showChapter(47)">C47</button>
+<button class="button1" onclick="showChapter(48)">C48</button>
+<button class="button1" onclick="showChapter(49)">C49</button>
+<p></p>
+
+<div id="chapter_header"><h3>Chapter 1</h3></div>
+
+<div>
+    <button class="button2" id="b_reimu" onclick="showChar('reimu')" > <img src="https://tiermaker.com/images/media/template_images/2024/144352/eat-rocks-144352/1.png"></button>
+    <button class="button2" id="b_marisa" onclick="showChar('marisa')" > <img src="https://tiermaker.com/images/media/template_images/2024/144352/eat-rocks-144352/2.png"></button>
+    <button class="button2" id="b_rumia" ><a href="/rumia"><img src="https://tiermaker.com/images/media/template_images/2024/144352/eat-rocks-144352/3.png"></a></button>
+</div>
+
+<div class="chapters" id="1"> <br>
+    <div class="dialogue" id="reimu">
+        <div>reimu yapping or something</div>
+        <div>she keeps yapping</div>
+        <div>bla</div>
+    </div>
+
+    <div class="dialogue" id="marisa">
+        <div>marisa yapping ze</div>
+        <div>she sure yap</div>
+    </div>
+</div>
+
+
+<div class="chapters" id="2"> <br>
+    <div class="dialogue" id="rumia">
+        <div>reimu yapping or something</div>
+        <div>she keeps yapping</div>
+        <div>bla</div>
+    </div>
+</div>
+
+
+</body>
+</html>
