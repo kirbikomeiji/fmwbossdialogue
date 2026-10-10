@@ -1,6 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 <script>
+
+    function onInit() {
+
+        document.querySelectorAll('.button1').forEach((button) => {
+            if (document.getElementById(button.innerHTML) !== null)
+                button.style.display = 'inline-block';
+            else
+                button.style.display = 'none';
+        });
+        document.querySelectorAll('.chapters').forEach((dialogue) => {
+
+            document.querySelector(`#b_${dialogue.title.toLowerCase()}`).style.display = 'inline-block';
+        });
+    }
+    window.onload = onInit;
+
     function showChapter(id) {
         document.getElementById('chapter_header').innerHTML = "Chapter " + id;
 
@@ -8,24 +24,25 @@
             button.style.display = 'none';
         });
         document.querySelectorAll('.chapters').forEach((chapter) => {
-        if (chapter.id == id){
-            chapter.style.display = "inline-block";
-            chapter.querySelectorAll('.dialogue').forEach((dialogue) =>
-            {
-                document.querySelector(`#b_${dialogue.id}`).style.display = 'inline-block';
-            });
-        }
-        else
-            chapter.style.display = "none";
+            if (chapter.id === id) {
+                chapter.style.display = "inline-block";
+
+                chapter.querySelectorAll('.dialogue').forEach((dialogue) => {
+                    document.querySelector(`#b_${dialogue.title.toLowerCase()}`).style.display = 'inline-block';
+                });
+            } else
+                chapter.style.display = "none";
         });
         document.querySelectorAll('.dialogue').forEach((char) => {
             char.style.display = "none";
         });
     }
 
-    function showChar(id) {
+    function showchar(id) {
         document.querySelectorAll('.dialogue').forEach((char) => {
-            if (char.id === id){
+            console.log(id);
+
+            if (char.title === id) {
                 char.style.display = "inline-block";
             } else
                 char.style.display = "none";
@@ -49,8 +66,9 @@
         transition-duration: 0.4s;
         cursor: pointer;
 		border-radius: 5px;
-		
+
     }
+
     .button2 {
         background-color: white;
         color: black;
@@ -63,15 +81,16 @@
     }
 
     .button2 img {
-        width: 100%;
         height: 100%;
+        width: 100%;
+        aspect-ratio: 1;
         image-rendering: pixelated;
     }
 
     .button2:hover {
-        background-color: #04AA6D;
-        color: white;
+        border: 2px solid #71ff00;
     }
+
     .button1 {
         background-color: rgba(39, 160, 132, 0.84);
         color: black;
@@ -92,7 +111,7 @@
     }
 
     .dialogue {
-        display: none;
+        /*display: none;*/
         margin: 2em;
         padding: 3em;
         text-indent: 5em;
@@ -105,56 +124,133 @@
 </head>
 <body>
 
-<h1>Reimu        <img src="https://tiermaker.com/images/media/template_images/2024/144352/eat-rocks-144352/1.png"></h1>
-<button class="button1" onclick="showChapter(1)">C01</button>
-<button class="button1" onclick="showChapter(2)">C02</button>
-<button class="button1" onclick="showChapter(3)">C03</button>
-<button class="button1" onclick="showChapter(4)">C04</button>
-<button class="button1" onclick="showChapter(5)">C05</button>
-<button class="button1" onclick="showChapter(6)">C06</button>
-<button class="button1" onclick="showChapter(7)">C07</button>
-<button class="button1" onclick="showChapter(8)">C08</button>
-<button class="button1" onclick="showChapter(9)">C09</button>
-<button class="button1" onclick="showChapter(10)">C10</button>
-<button class="button1" onclick="showChapter(11)">C11</button>
-<button class="button1" onclick="showChapter(12)">C12</button>
-<button class="button1" onclick="showChapter(13)">C13</button>
-<button class="button1" onclick="showChapter(14)">C14</button>
-<button class="button1" onclick="showChapter(15)">C15</button>
-<button class="button1" onclick="showChapter(16)">C16</button>
-<button class="button1" onclick="showChapter(17)">C17</button>
-<button class="button1" onclick="showChapter(18)">C18</button>
-<button class="button1" onclick="showChapter(19)">C19</button>
-<button class="button1" onclick="showChapter(20)">C20</button>
-<button class="button1" onclick="showChapter(21)">C21</button>
-<button class="button1" onclick="showChapter(22)">C22</button>
-<button class="button1" onclick="showChapter(23)">C23</button>
-<button class="button1" onclick="showChapter(24)">C24</button>
-<button class="button1" onclick="showChapter(25)">C25</button>
-<button class="button1" onclick="showChapter(26)">C26</button>
-<button class="button1" onclick="showChapter(27)">C27</button>
-<button class="button1" onclick="showChapter(28)">C28</button>
-<button class="button1" onclick="showChapter(29)">C29</button>
-<button class="button1" onclick="showChapter(30)">C30</button>
-<button class="button1" onclick="showChapter(31)">C31</button>
-<button class="button1" onclick="showChapter(32)">C32</button>
-<button class="button1" onclick="showChapter(33)">C33</button>
-<button class="button1" onclick="showChapter(34)">C34</button>
-<button class="button1" onclick="showChapter(35)">C35</button>
-<button class="button1" onclick="showChapter(36)">C36</button>
-<button class="button1" onclick="showChapter(37)">C37</button>
-<button class="button1" onclick="showChapter(38)">C38</button>
-<button class="button1" onclick="showChapter(39)">C39</button>
-<button class="button1" onclick="showChapter(40)">C40</button>
-<button class="button1" onclick="showChapter(41)">C41</button>
-<button class="button1" onclick="showChapter(42)">C42</button>
-<button class="button1" onclick="showChapter(43)">C43</button>
-<button class="button1" onclick="showChapter(44)">C44</button>
-<button class="button1" onclick="showChapter(45)">C45</button>
-<button class="button1" onclick="showChapter(46)">C46</button>
-<button class="button1" onclick="showChapter(47)">C47</button>
-<button class="button1" onclick="showChapter(48)">C48</button>
-<button class="button1" onclick="showChapter(49)">C49</button>
+<h1>Youmu <img src="./dialogue/face_youmu0a.png"></h1>
+<div>
+    <button class="button1" onclick="showChapter('00Meko')">00Meko</button>
+    <button class="button1" onclick="showChapter('01EX')">01EX</button>
+    <button class="button1" onclick="showChapter('01Marisa')">01Marisa</button>
+    <button class="button1" onclick="showChapter('01Meko')">01Meko</button>
+    <button class="button1" onclick="showChapter('01OST')">01OST</button>
+    <button class="button1" onclick="showChapter('01Reimu')">01Reimu</button>
+    <button class="button1" onclick="showChapter('01Sakuya')">01Sakuya</button>
+    <button class="button1" onclick="showChapter('02EX')">02EX</button>
+    <button class="button1" onclick="showChapter('02Marisa')">02Marisa</button>
+    <button class="button1" onclick="showChapter('02Meko')">02Meko</button>
+    <button class="button1" onclick="showChapter('02OST')">02OST</button>
+    <button class="button1" onclick="showChapter('02Reimu')">02Reimu</button>
+    <button class="button1" onclick="showChapter('02Sakuya')">02Sakuya</button>
+    <button class="button1" onclick="showChapter('03Common')">03Common</button>
+    <button class="button1" onclick="showChapter('03Meko')">03Meko</button>
+    <button class="button1" onclick="showChapter('03OST')">03OST</button>
+    <button class="button1" onclick="showChapter('03Sakuya')">03Sakuya</button>
+    <button class="button1" onclick="showChapter('04Marisa')">04Marisa</button>
+    <button class="button1" onclick="showChapter('04Meko')">04Meko</button>
+    <button class="button1" onclick="showChapter('04Reimu')">04Reimu</button>
+    <button class="button1" onclick="showChapter('04Sakuya')">04Sakuya</button>
+    <button class="button1" onclick="showChapter('05Marisa')">05Marisa</button>
+    <button class="button1" onclick="showChapter('05Meko')">05Meko</button>
+    <button class="button1" onclick="showChapter('05Reimu')">05Reimu</button>
+    <button class="button1" onclick="showChapter('06Common')">06Common</button>
+    <button class="button1" onclick="showChapter('07Common')">07Common</button>
+    <button class="button1" onclick="showChapter('08Common')">08Common</button>
+    <button class="button1" onclick="showChapter('09Common')">09Common</button>
+    <button class="button1" onclick="showChapter('10Common')">10Common</button>
+    <button class="button1" onclick="showChapter('11Common')">11Common</button>
+    <button class="button1" onclick="showChapter('12Common')">12Common</button>
+    <button class="button1" onclick="showChapter('13Marisa')">13Marisa</button>
+    <button class="button1" onclick="showChapter('13Reimu')">13Reimu</button>
+    <button class="button1" onclick="showChapter('14Common')">14Common</button>
+    <button class="button1" onclick="showChapter('15Common')">15Common</button>
+    <button class="button1" onclick="showChapter('16Common')">16Common</button>
+    <button class="button1" onclick="showChapter('17Common')">17Common</button>
+    <button class="button1" onclick="showChapter('18Marisa')">18Marisa</button>
+    <button class="button1" onclick="showChapter('18Reimu')">18Reimu</button>
+    <button class="button1" onclick="showChapter('19Common')">19Common</button>
+    <button class="button1" onclick="showChapter('20Marisa')">20Marisa</button>
+    <button class="button1" onclick="showChapter('20Reimu')">20Reimu</button>
+    <button class="button1" onclick="showChapter('21Common')">21Common</button>
+    <button class="button1" onclick="showChapter('22Common')">22Common</button>
+    <button class="button1" onclick="showChapter('23Common')">23Common</button>
+    <button class="button1" onclick="showChapter('24Common')">24Common</button>
+    <button class="button1" onclick="showChapter('25Marisa')">25Marisa</button>
+    <button class="button1" onclick="showChapter('25Reimu')">25Reimu</button>
+    <button class="button1" onclick="showChapter('26Common')">26Common</button>
+    <button class="button1" onclick="showChapter('27Common')">27Common</button>
+    <button class="button1" onclick="showChapter('28Marisa')">28Marisa</button>
+    <button class="button1" onclick="showChapter('28Reimu')">28Reimu</button>
+    <button class="button1" onclick="showChapter('29Marisa')">29Marisa</button>
+    <button class="button1" onclick="showChapter('29Reimu')">29Reimu</button>
+    <button class="button1" onclick="showChapter('30Common')">30Common</button>
+    <button class="button1" onclick="showChapter('31Common')">31Common</button>
+    <button class="button1" onclick="showChapter('32Common')">32Common</button>
+    <button class="button1" onclick="showChapter('33Common')">33Common</button>
+    <button class="button1" onclick="showChapter('34Common')">34Common</button>
+    <button class="button1" onclick="showChapter('35Common')">35Common</button>
+    <button class="button1" onclick="showChapter('36Common')">36Common</button>
+    <button class="button1" onclick="showChapter('37Marisa')">37Marisa</button>
+    <button class="button1" onclick="showChapter('37Reimu')">37Reimu</button>
+    <button class="button1" onclick="showChapter('38Marisa')">38Marisa</button>
+    <button class="button1" onclick="showChapter('38Reimu')">38Reimu</button>
+    <button class="button1" onclick="showChapter('39Marisa')">39Marisa</button>
+    <button class="button1" onclick="showChapter('39Reimu')">39Reimu</button>
+    <button class="button1" onclick="showChapter('40Common')">40Common</button>
+    <button class="button1" onclick="showChapter('41Common')">41Common</button>
+    <button class="button1" onclick="showChapter('42Common')">42Common</button>
+    <button class="button1" onclick="showChapter('43Common')">43Common</button>
+    <button class="button1" onclick="showChapter('44Common')">44Common</button>
+    <button class="button1" onclick="showChapter('45Common')">45Common</button>
+    <button class="button1" onclick="showChapter('46Common')">46Common</button>
+    <button class="button1" onclick="showChapter('47Common')">47Common</button>
+    <button class="button1" onclick="showChapter('48Common')">48Common</button>
+    <button class="button1" onclick="showChapter('49Common')">49Common</button>
+    <button class="button1" onclick="showChapter('50Common')">50Common</button>
+    <button class="button1" onclick="showChapter('51Common')">51Common</button>
+    <button class="button1" onclick="showChapter('52Common')">52Common</button>
+    <button class="button1" onclick="showChapter('53Common')">53Common</button>
+    <button class="button1" onclick="showChapter('54Common')">54Common</button>
+    <button class="button1" onclick="showChapter('55Common')">55Common</button>
+    <button class="button1" onclick="showChapter('56Common')">56Common</button>
+    <button class="button1" onclick="showChapter('57Common')">57Common</button>
+    <button class="button1" onclick="showChapter('58Common')">58Common</button>
+    <button class="button1" onclick="showChapter('59Common')">59Common</button>
+    <button class="button1" onclick="showChapter('60Common')">60Common</button>
+    <button class="button1" onclick="showChapter('61Common')">61Common</button>
+    <button class="button1" onclick="showChapter('62Common')">62Common</button>
+    <button class="button1" onclick="showChapter('63Common')">63Common</button>
+    <button class="button1" onclick="showChapter('64Common')">64Common</button>
+    <button class="button1" onclick="showChapter('65Common')">65Common</button>
+    <button class="button1" onclick="showChapter('66Common')">66Common</button>
+    <button class="button1" onclick="showChapter('67Common')">67Common</button>
+    <button class="button1" onclick="showChapter('68Common')">68Common</button>
+    <button class="button1" onclick="showChapter('69Common')">69Common</button>
+    <button class="button1" onclick="showChapter('70Common')">70Common</button>
+    <button class="button1" onclick="showChapter('71Common')">71Common</button>
+    <button class="button1" onclick="showChapter('71CommonB')">71CommonB</button>
+    <button class="button1" onclick="showChapter('72Common')">72Common</button>
+    <button class="button1" onclick="showChapter('72CommonB')">72CommonB</button>
+    <button class="button1" onclick="showChapter('73Common')">73Common</button>
+    <button class="button1" onclick="showChapter('73CommonB')">73CommonB</button>
+    <button class="button1" onclick="showChapter('74Common')">74Common</button>
+    <button class="button1" onclick="showChapter('74CommonB')">74CommonB</button>
+    <button class="button1" onclick="showChapter('75Common')">75Common</button>
+    <button class="button1" onclick="showChapter('75CommonB')">75CommonB</button>
+    <button class="button1" onclick="showChapter('76Common')">76Common</button>
+    <button class="button1" onclick="showChapter('77Common')">77Common</button>
+    <button class="button1" onclick="showChapter('Ace')">Ace</button>
+    <button class="button1" onclick="showChapter('Battle_All')">Battle_All</button>
+    <button class="button1" onclick="showChapter('Chudan')">Chudan</button>
+    <button class="button1" onclick="showChapter('ED01')">ED01</button>
+    <button class="button1" onclick="showChapter('ED02')">ED02</button>
+    <button class="button1" onclick="showChapter('ED03')">ED03</button>
+    <button class="button1" onclick="showChapter('ED04')">ED04</button>
+    <button class="button1" onclick="showChapter('ED05')">ED05</button>
+    <button class="button1" onclick="showChapter('Omake')">Omake</button>
+    <button class="button1" onclick="showChapter('OP01')">OP01</button>
+    <button class="button1" onclick="showChapter('OP02')">OP02</button>
+    <button class="button1" onclick="showChapter('OP03')">OP03</button>
+    <button class="button1" onclick="showChapter('OP04')">OP04</button>
+    <button class="button1" onclick="showChapter('Telop')">Telop</button>
+</div>
 <p></p>
 
 <div id="chapter_header"><h3></h3></div>
@@ -162,32 +258,461 @@
 
 
 <div>
-    <button class="button2" id="b_reimu" onclick="showChar('reimu')" > <img src="https://tiermaker.com/images/media/template_images/2024/144352/eat-rocks-144352/1.png"></button>
-    <button class="button2" id="b_marisa" onclick="showChar('marisa')" > <img src="https://tiermaker.com/images/media/template_images/2024/144352/eat-rocks-144352/2.png"></button>
-    <button class="button2" id="b_rumia" ><a href="/rumia"><img src="https://tiermaker.com/images/media/template_images/2024/144352/eat-rocks-144352/3.png"></a></button>
+    <button class="button2" id="b_reimu" onclick="showchar('reimu')"><img src="./dialogue/face_reimu0a.png"></button>
+    <button class="button2" id="b_marisa" onclick="showchar('marisa')"><img src="./dialogue/face_marisa0a.png"></button>
+    <button class="button2" id="b_rumia" onclick="showchar('rumia')"><img src="./dialogue/face_rumia0a.png"></button>
+    <button class="button2" id="b_daiyosei" onclick="showchar('daiyosei')"><img src="./dialogue/face_daiyosei0a.png">
+    </button>
+    <button class="button2" id="b_cirno" onclick="showchar('cirno')"><img src="./dialogue/face_cirno0a.png"></button>
+    <button class="button2" id="b_meiling" onclick="showchar('meiling')"><img src="./dialogue/face_meiling0a.png">
+    </button>
+    <button class="button2" id="b_koakuma" onclick="showchar('koakuma')"><img src="./dialogue/face_koakuma0a.png">
+    </button>
+    <button class="button2" id="b_patchouli" onclick="showchar('patchouli')"><img src="./dialogue/face_patchouli0a.png">
+    </button>
+    <button class="button2" id="b_sakuya" onclick="showchar('sakuya')"><img src="./dialogue/face_sakuya0a.png"></button>
+    <button class="button2" id="b_remilia" onclick="showchar('remilia')"><img src="./dialogue/face_remilia0a.png">
+    </button>
+    <button class="button2" id="b_flan" onclick="showchar('flan')"><img src="./dialogue/face_flan0a.png"></button>
+    <button class="button2" id="b_letty" onclick="showchar('letty')"><img src="./dialogue/face_letty0a.png"></button>
+    <button class="button2" id="b_chen" onclick="showchar('chen')"><img src="./dialogue/face_chen0a.png"></button>
+    <button class="button2" id="b_alice" onclick="showchar('alice')"><img src="./dialogue/face_alice0a.png"></button>
+    <button class="button2" id="b_lilyw" onclick="showchar('lilyw')"><img src="./dialogue/face_lilyw0a.png"></button>
+    <button class="button2" id="b_lunasa" onclick="showchar('lunasa')"><img src="./dialogue/face_lunasa0a.png"></button>
+    <button class="button2" id="b_merlin" onclick="showchar('merlin')"><img src="./dialogue/face_merlin0a.png"></button>
+    <button class="button2" id="b_lyrica" onclick="showchar('lyrica')"><img src="./dialogue/face_lyrica0a.png"></button>
+    <button class="button2" id="b_youmu" onclick="showchar('youmu')"><img src="./dialogue/face_youmu0a.png"></button>
+    <button class="button2" id="b_yuyuko" onclick="showchar('yuyuko')"><img src="./dialogue/face_yuyuko0a.png"></button>
+    <button class="button2" id="b_ran" onclick="showchar('ran')"><img src="./dialogue/face_ran0a.png"></button>
+    <button class="button2" id="b_yukari" onclick="showchar('yukari')"><img src="./dialogue/face_yukari0a.png"></button>
+    <button class="button2" id="b_suika" onclick="showchar('suika')"><img src="./dialogue/face_suika0a.png"></button>
+    <button class="button2" id="b_wriggle" onclick="showchar('wriggle')"><img src="./dialogue/face_wriggle0a.png">
+    </button>
+    <button class="button2" id="b_mystia" onclick="showchar('mystia')"><img src="./dialogue/face_mystia0a.png"></button>
+    <button class="button2" id="b_keine" onclick="showchar('keine')"><img src="./dialogue/face_keine0a.png"></button>
+    <button class="button2" id="b_tewi" onclick="showchar('tewi')"><img src="./dialogue/face_tewi0a.png"></button>
+    <button class="button2" id="b_udonge" onclick="showchar('udonge')"><img src="./dialogue/face_udonge0a.png"></button>
+    <button class="button2" id="b_eirin" onclick="showchar('eirin')"><img src="./dialogue/face_eirin0a.png"></button>
+    <button class="button2" id="b_kaguya" onclick="showchar('kaguya')"><img src="./dialogue/face_kaguya0a.png"></button>
+    <button class="button2" id="b_mokou" onclick="showchar('mokou')"><img src="./dialogue/face_mokou0a.png"></button>
+    <button class="button2" id="b_aya" onclick="showchar('aya')"><img src="./dialogue/face_aya0a.png"></button>
+    <button class="button2" id="b_medicine" onclick="showchar('medicine')"><img src="./dialogue/face_medicine0a.png">
+    </button>
+    <button class="button2" id="b_komachi" onclick="showchar('komachi')"><img src="./dialogue/face_komachi0a.png">
+    </button>
+    <button class="button2" id="b_eiki" onclick="showchar('eiki')"><img src="./dialogue/face_eiki0a.png"></button>
+    <button class="button2" id="b_shizuha" onclick="showchar('shizuha')"><img src="./dialogue/face_shizuha0a.png">
+    </button>
+    <button class="button2" id="b_minoriko" onclick="showchar('minoriko')"><img src="./dialogue/face_minoriko0a.png">
+    </button>
+    <button class="button2" id="b_hina" onclick="showchar('hina')"><img src="./dialogue/face_hina0a.png"></button>
+    <button class="button2" id="b_nitori" onclick="showchar('nitori')"><img src="./dialogue/face_nitori0a.png"></button>
+    <button class="button2" id="b_momiji" onclick="showchar('momiji')"><img src="./dialogue/face_momiji0a.png"></button>
+    <button class="button2" id="b_sanae" onclick="showchar('sanae')"><img src="./dialogue/face_sanae0a.png"></button>
+    <button class="button2" id="b_kanako" onclick="showchar('kanako')"><img src="./dialogue/face_kanako0a.png"></button>
+    <button class="button2" id="b_suwako" onclick="showchar('suwako')"><img src="./dialogue/face_suwako0a.png"></button>
+    <button class="button2" id="b_tenshi" onclick="showchar('tenshi')"><img src="./dialogue/face_tenshi0a.png"></button>
+    <button class="button2" id="b_iku" onclick="showchar('iku')"><img src="./dialogue/face_iku0a.png"></button>
+    <button class="button2" id="b_kisume" onclick="showchar('kisume')"><img src="./dialogue/face_kisume0a.png"></button>
+    <button class="button2" id="b_yamame" onclick="showchar('yamame')"><img src="./dialogue/face_yamame0a.png"></button>
+    <button class="button2" id="b_parsee" onclick="showchar('parsee')"><img src="./dialogue/face_parsee0a.png"></button>
+    <button class="button2" id="b_yugi" onclick="showchar('yugi')"><img src="./dialogue/face_yugi0a.png"></button>
+    <button class="button2" id="b_satori" onclick="showchar('satori')"><img src="./dialogue/face_satori0a.png"></button>
+    <button class="button2" id="b_orin" onclick="showchar('orin')"><img src="./dialogue/face_orin0a.png"></button>
+    <button class="button2" id="b_utsuho" onclick="showchar('utsuho')"><img src="./dialogue/face_utsuho0a.png"></button>
+    <button class="button2" id="b_koishi" onclick="showchar('koishi')"><img src="./dialogue/face_koishi0a.png"></button>
+    <button class="button2" id="b_nazrin" onclick="showchar('nazrin')"><img src="./dialogue/face_nazrin0a.png"></button>
+    <button class="button2" id="b_kogasa" onclick="showchar('kogasa')"><img src="./dialogue/face_kogasa0a.png"></button>
+    <button class="button2" id="b_ichirin" onclick="showchar('ichirin')"><img src="./dialogue/face_ichirin0a.png">
+    </button>
+    <button class="button2" id="b_murasa" onclick="showchar('murasa')"><img src="./dialogue/face_murasa0a.png"></button>
+    <button class="button2" id="b_sho" onclick="showchar('sho')"><img src="./dialogue/face_sho0a.png"></button>
+    <button class="button2" id="b_byakuren" onclick="showchar('byakuren')"><img src="./dialogue/face_byakuren0a.png">
+    </button>
+    <button class="button2" id="b_nue" onclick="showchar('nue')"><img src="./dialogue/face_nue0a.png"></button>
+    <button class="button2" id="b_seirensen" onclick="showchar('seirensen')"><img src="./dialogue/face_korin3c.png">
+    </button>
+    <button class="button2" id="b_hatate" onclick="showchar('hatate')"><img src="./dialogue/face_hatate0a.png"></button>
+    <button class="button2" id="b_tensoku" onclick="showchar('tensoku')"><img src="./dialogue/face_tensoku0a.png">
+    </button>
+    <button class="button2" id="b_sunny" onclick="showchar('sunny')"><img src="./dialogue/face_sunny0a.png"></button>
+    <button class="button2" id="b_star" onclick="showchar('star')"><img src="./dialogue/face_star0a.png"></button>
+    <button class="button2" id="b_luna" onclick="showchar('luna')"><img src="./dialogue/face_luna0a.png"></button>
+    <button class="button2" id="b_akyu" onclick="showchar('akyu')"><img src="./dialogue/face_akyu0a.png"></button>
+    <button class="button2" id="b_korin" onclick="showchar('korin')"><img src="./dialogue/face_korin0a.png"></button>
+    <button class="button2" id="b_yorihime" onclick="showchar('yorihime')"><img src="./dialogue/face_yorihime0a.png">
+    </button>
+    <button class="button2" id="b_toyohime" onclick="showchar('toyohime')"><img src="./dialogue/face_toyohime0a.png">
+    </button>
+    <button class="button2" id="b_reisen" onclick="showchar('reisen')"><img src="./dialogue/face_reisen0a.png"></button>
+    <button class="button2" id="b_kosuzu" onclick="showchar('kosuzu')"><img src="./dialogue/face_kosuzu0a.png"></button>
+    <button class="button2" id="b_elliy" onclick="showchar('elliy')"><img src="./dialogue/face_elliy0a.png"></button>
+    <button class="button2" id="b_kurumi" onclick="showchar('kurumi')"><img src="./dialogue/face_kurumi0a.png"></button>
+    <button class="button2" id="b_yuka" onclick="showchar('yuka')"><img src="./dialogue/face_yuka0a.png"></button>
+    <button class="button2" id="b_mima" onclick="showchar('mima')"><img src="./dialogue/face_mima0a.png"></button>
+    <button class="button2" id="b_yumeko" onclick="showchar('yumeko')"><img src="./dialogue/face_yumeko0a.png"></button>
+    <button class="button2" id="b_shinki" onclick="showchar('shinki')"><img src="./dialogue/face_shinki0a.png"></button>
+    <button class="button2" id="b_meko" onclick="showchar('meko')"><img src="./dialogue/face_meko0a.png"></button>
+    <button class="button2" id="b_makura" onclick="showchar('makura')"><img src="./dialogue/face_makuras0a.png">
+    </button>
+
 </div>
 
-<div class="chapters" id="1"> <br>
-    <div class="dialogue" id="reimu">
-        <div>reimu yapping or something</div>
-        <div>she keeps yapping</div>
-        <div>bla</div>
-    </div>
 
-    <div class="dialogue" id="marisa">
-        <div>marisa yapping ze</div>
-        <div>she sure yap</div>
+<div class="chapters" id="02Reimu">
+    <div class="dialogue" title="rumia">
+        <div>"Youmu0a:I never imagined that I'd end up crossing swords with a youkai while running errands..."</div>
+        <div>"Rumia3a:I wonder if you'll be able to hit me with that sword when you're surrounded in darkness!"</div>
+        <div>"Youmu1a:Oh, I can. The cover of darkness doesn't make you incorporeal!"</div>
+    </div>
+</div>
+<div class="chapters" id="03Meko">
+    <div class="dialogue" title="yukari">
+        <div>"Youmu1c:I challenge you, Lady Yukari!"</div>
+        <div>"Yukari1a:By all means, show me everything you've got."</div>
+        <div>"Yukari0a:I do need to you grow up to be someone I can entrust Yuyuko to, after all."</div>
+        <div>"Youmu2b:What? You..."</div>
+        <div>"Youmu3a:...I appreciate the thought, but I could never understand her wisdom like you do."</div>
+        <div>"Yukari5a:And that's fine. If anything, Youki and I understood her all too well."</div>
+        <div>"Yukari0a:No matter how close people like us get to her, she'll never truly be free."</div>
+        <div>"Youmu0a:...?"</div>
+        <div>"Yukari1a:Perhaps I've said too much. Now, let's begin."</div>
+    </div>
+</div>
+<div class="chapters" id="04Reimu">
+    <div class="dialogue" title="rumia">
+        <div>"Rumia0c:Oh, you don't have any taiyaki today?"</div>
+        <div>"Youmu2b:Huh? Why are you bringing that up?"</div>
+        <div>"Rumia3a:They were delicious last time. I hope you'll get some for me again!"</div>
+        <div>"Youmu1a:So it was you! I was wondering why my bag felt a bit lighter."</div>
+        <div>"Rumia4a:Don't ask for them back. I already digested them."</div>
+        <div>"Youmu3a:...I wasn't going to anyway."</div>
+    </div>
+</div>
+<div class="chapters" id="27Common">
+    <div class="dialogue" title="reimu">
+        <div>"Youmu1a:Reimu, stay of this. Please."</div>
+        <div>"Reimu0a:Oh, I'll interfere all I want. My intuition's telling me you're being pretty shady."</div>
+        <div>"Youmu1a:...Ugh, you're really overstaying your welcome."</div>
+    </div>
+    <div class="dialogue" title="marisa">
+        <div>"Marisa1a:Hold it, Youmu!"</div>
+        <div>"Youmu1a:I will not! Marisa, please, leave me be!"</div>
+        <div>"Marisa2b:...Man, you're pretty slippery when we're on opposite sides!"</div>
+    </div>
+    <div class="dialogue" title="keineh">
+        <div>"Keine1a:Youmu, this is all some kind of misunderstanding, right?"</div>
+        <div>"Keine1a:An upstanding person like you couldn't possibly be complicit in an incident like this..."</div>
+        <div>"Youmu0a:...Unfortunately, I can't answer your questions."</div>
+        <div>"Keine2a:Why are you doing this, Youmu?!"</div>
+    </div>
+    <div class="dialogue" title="alice">
+        <div>"Alice1a:Youmu!"</div>
+        <div>"Youmu0a:Ah, Alice. I figured you'd be here, since Marisa is."</div>
+        <div>"Alice0a:Something tells me we won't have time for a leisurely chat."</div>
+        <div>"Alice1a:What is your goal, and why pursue it even to the point of fighting with us?"</div>
+        <div>"Youmu1a:If you're trying to appeal to my emotions, it won't work!"</div>
+    </div>
+    <div class="dialogue" title="nitori">
+        <div>"Nitori2a:What happened, Youmu? Why are you bullying fairies?!"</div>
+        <div>"Youmu0a:There's no need for us to talk. Nitori, please just go home."</div>
+        <div>"Nitori2a:I can't do that, I need to resolve this incident! Youmu, don't you want to too?"</div>
+    </div>
+    <div class="dialogue" title="sakuya">
+        <div>"Sakuya0a:We're both using bladed weapons. If we're not careful this could get ugly, you know."</div>
+        <div>"Youmu0a:I'm aware, yes. If you're afraid, you're welcome to back down."</div>
+        <div>"Sakuya0b:I see you've come prepared to fight, so I'll give you just that."</div>
+    </div>
+    <div class="dialogue" title="sanae">
+        <div>"Youmu0a:So when exactly did the notorious shrine maiden make friends with everyone else?"</div>
+        <div>"Sanae0b:I'm still kind of lost, actually. Why are you fighting them?"</div>
+        <div>"Sanae0a:If you're their friend, surely talking should be your first option!"</div>
+        <div>"Youmu0a:Unfortunately, talking isn't much of an option for me."</div>
+        <div>"Youmu1a:And it's even less of one when facing an old foe!"</div>
+        <div>"Sanae2a:I can't deny our past, but things are different now!"</div>
+    </div>
+    <div class="dialogue" title="aya">
+        <div>"Aya3a:The Netherworld's gardener cutting down random passersby? Quite the scoop."</div>
+        <div>"Youmu2b:You're that newspaper reporter...!"</div>
+        <div>"Aya3a:I don't have all the details at the moment, but isn't this oddly similar to a some other recent cases?"</div>
+        <div>"Aya6a:After we're done here, how about you and I sit down for a nice, long chat!"</div>
+    </div>
+    <div class="dialogue" title="momiji">
+        <div>"Momiji0a:I remember that swordsmanship."</div>
+        <div>"Youmu2b:You're that mountain tengu... Weren't you supposed to be enemies with that other shrine maiden?"</div>
+        <div>"Momiji4a:A lot's been happening on the mountain recently. Now I'm her bodyguard."</div>
+        <div>"Momiji1a:My shield and my fangs, both are to be put in service of my mission!"</div>
+    </div>
+    <div class="dialogue" title="makura">
+        <div>"Makura0g:It's only slight, but I can sense a trace of spring on you."</div>
+        <div>"Youmu2b:You saw through me in an instant!"</div>
+        <div>"Makura0f:I already knew the answer. You might consider that unfair though."</div>
+        <div>"Makura1c:Regardless, allow me to recover that paltry sum of spring."</div>
+    </div>
+    <div class="dialogue" title="meko">
+        <div>"Meko4c:You're fighting everyone else now, but aren't you of two minds about it?"</div>
+        <div>"Youmu1b:Why would I be?"</div>
+        <div>"Meko0g:You know, like Nitori..."</div>
+        <div>"Youmu1b:I have a duty to follow my mistress's orders. There is no room for hesitation."</div>
+        <div>"Youmu1c:Which is why I'll be talking your spring!"</div>
+        <div>"Meko1a:Wow, she's really serious!"</div>
+    </div>
+    <div class="dialogue" title="youmu">
+        <div>"Youmu3b:It hurts to think about what happens next."</div>
+        <div>"Youmu1b:Who are you?!"</div>
+        <div>"Youmu1b:I'll be taking back the spring, for your sake as well."</div>
+        <div>"Youmu1c:My name is Youmu Konpaku! I am Lady Yuyuko's guardian blade!"</div>
+        <div>"Youmu3a:Well... so am I."</div>
+    </div>
+    <div class="dialogue" title="yuyuko">
+        <div>"Yuyuko1a:You sure are working hard today, Youmu."</div>
+        <div>"Youmu2b:Lady Yuyuko! Why would you come all this way?"</div>
+        <div>"Youmu1b:I will bring back enough spring without fail, so feel free to relax and await my return."</div>
+        <div>"Yuyuko1b:Alright, I'm counting on you."</div>
+        <div>"Yuyuko3c:...Kidding. But how can I tell you to stop, when you're wearing such an eager expression?"</div>
+    </div>
+    <div class="dialogue" title="udonge">
+        <div>"Udonge4d:Even when playing at being a bandit, Youmu knows how to get things done."</div>
+        <div>"Youmu1a:Are you calling me a thief?!"</div>
+        <div>"Udonge6a:Well, the way you alway stick to your guns is part of your charm."</div>
+        <div>"Udonge1c:But don't blame anyone but yourself if you're defeated! You knew the risks!"</div>
+    </div>
+    <div class="dialogue" title="ran">
+        <div>"Ran6b:Hey there, Youmu."</div>
+        <div>"Youmu0c:It's been a while, Ran. What brings you here?"</div>
+        <div>"Ran6a:I'm on patrol under Lady Yukari's orders. Incidentally, you seem to be searching for spring?"</div>
+        <div>"Youmu1b:Lady Yuyuko's orders. I'll try not to be a bother."</div>
+        <div>"Ran4a:Hmm..."</div>
+    </div>
+    <div class="dialogue" title="yukari">
+        <div>"Yukari0c:I see you're in good health."</div>
+        <div>"Youmu2b:Lady Yukari? But I was told you rested through winter."</div>
+        <div>"Yukari0d:Today is an exception. But more importantly, how has Yuyuko been lately?"</div>
+        <div>"Youmu0d:She's been quite passionate about this one particular thing lately. Will you be visiting us at Hakugyokuro today?"</div>
+        <div>"Yukari1a:No thank you. I'd like a little time to prepare myself mentally."</div>
+        <div>"Youmu0b:Uh, I see..."</div>
+    </div>
+</div>
+<div class="chapters" id="32Common">
+    <div class="dialogue" title="reimu">
+        <div>"Youmu1a:I told you earlier, Reimu. I won't hold back, even against you!"</div>
+        <div>"Reimu0a:Yeah? Well, no complaints here."</div>
+        <div>"Reimu1a:If someone gets in my way, I'll beat them up and move on, no matter who they are!"</div>
+        <div>"Youmu1a:Very well. Then without further ado, allow me face you in earnest!"</div>
+    </div>
+    <div class="dialogue" title="marisa">
+        <div>"Marisa0b:I pegged you as pretty strait-laced last summer."</div>
+        <div>"Marisa0a:Never thought you had it in you to do something like steal spring."</div>
+        <div>"Youmu0a:If Lady Yuyuko wills it, I would turn my blade on even you, Marisa."</div>
+        <div>"Youmu1a:The gardener of Hakugyokuro asks you to face her in battle, fair and square!"</div>
+        <div>"Marisa1a:Don't expect me to pull any punches either!"</div>
+    </div>
+    <div class="dialogue" title="keineh">
+        <div>"Keine0b:I'd ask you to hear me out, but I suppose it would be useless."</div>
+        <div>"Youmu1a:My duty requires that I must fight you all."</div>
+        <div>"Youmu1a:I will show no mercy, Keine. Not even to you."</div>
+        <div>"Keine1a:I'm ready for that. I'll stop that sword of yours right in its tracks!"</div>
+    </div>
+    <div class="dialogue" title="alice">
+        <div>"Alice0b:And as usual, this turned into another fight."</div>
+        <div>"Youmu0a:You are all my enemies. Please do not even think about trying to persuade me."</div>
+        <div>"Alice0d:Well of course I thought about it, but you're far too stubborn."</div>
+        <div>"Alice0a:I knew this battle was inevitable."</div>
+    </div>
+    <div class="dialogue" title="nitori">
+        <div>"Nitori2a:I don't want to fight with you, Youmu, but..."</div>
+        <div>"Youmu0a:Yet I'm sure you've already thought long and hard about this, Nitori, and come to the same conclusion I have."</div>
+        <div>"Nitori3c:Sure, but I definitely don't want to let anything happen that I'd regret."</div>
+        <div>"Nitori1b:Let's see just how serious you are about this, Youmu!"</div>
+    </div>
+    <div class="dialogue" title="rumia">
+        <div>"Rumia0a:I wonder if you'll be able to hit me with that sword when you're surrounded in darkness!"</div>
+        <div>"Youmu0a:...You said that the first time we met, too."</div>
+        <div>"Youmu1a:You can hide your form, but your presence will still leak out."</div>
+        <div>"Rumia5a:So then in the deepest corners of the darkness, you can feel my presence..."</div>
+    </div>
+    <div class="dialogue" title="daiyosei">
+        <div>"Daiyosei2a:Youmu, please listen to us!"</div>
+        <div>"Youmu1a:Daiyousei, it's dangerous for you to take the front."</div>
+        <div>"Daiyosei3b:I know, but everyone else is giving it their best, so..."</div>
+        <div>"Youmu1a:...I must cut my way through, even against an opponent like you!"</div>
+    </div>
+    <div class="dialogue" title="cirno">
+        <div>"Youmu0a:Again, you aid Reimu's group."</div>
+        <div>"Cirno5b:Well, duh. I'm the strongest! They'd be a mess without me around!"</div>
+        <div>"Youmu0a:Having people like you on their team must be very reassuring."</div>
+        <div>"Youmu1a:But this is no place for a mere fairy!"</div>
+    </div>
+    <div class="dialogue" title="sakuya">
+        <div>"Sakuya0a:In the summer, you were one of the invaders. But now our positions have switched."</div>
+        <div>"Youmu0a:You were very fierce back then, but you seem composed now."</div>
+        <div>"Sakuya5b:If you ask me, I've changed ever so slightly for the better since back then."</div>
+        <div>"Sakuya6a:Perhaps you could also use some time flat on the ground. It might bring you back to your senses."</div>
+        <div>"Youmu1a:Try it if you can!"</div>
+    </div>
+    <div class="dialogue" title="meiling">
+        <div>"Meiling6a:You leave fewer openings than you used to... Your training is paying off."</div>
+        <div>"Youmu0a:When I have something I must protect, I can't afford to let myself stay weak."</div>
+        <div>"Youmu1a:Let's see if I can slash through the Guard of the Scarlet Devil Manor a second time!"</div>
+        <div>"Meiling1a:Right back at you―Let's see if you can!"</div>
+    </div>
+    <div class="dialogue" title="patchouli">
+        <div>"Youmu0a:I would have figured you'd never leave the mansion."</div>
+        <div>"Patchouli4d:I can't curl up and relax with a book when the temperature is so low."</div>
+        <div>"Patchouli4b:And when I try to turn on the heat, Sakuya gripes about how we should be conserving fuel. She doesn't complain when Remi does it..."</div>
+        <div>"Youmu3a:Just keep conserving and waiting, and I'll return spring soon."</div>
+        <div>"Patchouli6d:Let me tell you two things I hate: noisy people and needing to show restraint."</div>
+    </div>
+    <div class="dialogue" title="koakuma">
+        <div>"Youmu0a:Even you're here with Reimu, Koakuma?"</div>
+        <div>"Koakuma0a:I can't let you near Lady Patchouli when you're acting like this."</div>
+        <div>"Koakuma1a:I hope my danmaku can slow you down at least a little!"</div>
+    </div>
+    <div class="dialogue" title="elliy">
+        <div>"Elliy2a:Wait, wait, why do you feel way different from the last time we fought?!"</div>
+        <div>"Youmu0a:I keep up with my sword training, and so of course I wouldn't remain stagnant."</div>
+        <div>"Youmu1a:My blade is more deft now than it was then. Can you withstand it?"</div>
+        <div>"Elliy1a:That kinda puts me on the spot... But yeah, I think I can. With vigor and grit!"</div>
+    </div>
+    <div class="dialogue" title="kurumi">
+        <div>"Kurumi2a:Eek, I'm being assaulted by a blade!"</div>
+        <div>"Youmu2b:Assaulted? You really don't like swords, do you?"</div>
+        <div>"Kurumi4c:No, I can't even handle kitchen cutlery. I'm okay with safety scissors though."</div>
+        <div>"Kurumi3d:Also that means all I can do for cooking is throwing veggies in a pot."</div>
+        <div>"Youmu3a:So you're kind of a one-trick pony."</div>
+    </div>
+    <div class="dialogue" title="komachi">
+        <div>"Komachi0a:I never knew that the ghost princess had a servant like you around."</div>
+        <div>"Youmu2b:You've met Lady Yuyuko, then?"</div>
+        <div>"Komachi1c:A while ago, while on the job. And only once or twice."</div>
+        <div>"Komachi4a:As someone else who works with the cycle of reincarnation, I have to see this settled."</div>
+        <div>"Youmu1a:So you say, but don't think I'll just let you get by me!"</div>
+    </div>
+    <div class="dialogue" title="mokou">
+        <div>"Mokou3a:I don't get all sappy like the others here. I'll settle this, one way or another."</div>
+        <div>"Youmu1a:Train before you talk! Your posture is sloppy and full of openings!"</div>
+        <div>"Mokou1a:You think so? Come get a piece, then."</div>
+    </div>
+    <div class="dialogue" title="sunny">
+        <div>"Sunny4a:Y'know, this is the first time we've fought you, Youmu."</div>
+        <div>"Youmu0a:That's true, actually. When was the last time we met?"</div>
+        <div>"Star3d:I think it was when Kurumi was scavenging for food."</div>
+        <div>"Luna3c:No, it was when we went off on an adventure to Alice's house."</div>
+        <div>"Youmu3a:I don't remember either of those things. Was I even invited?"</div>
+    </div>
+    <div class="dialogue" title="luna"></div>
+    <div class="dialogue" title="star"></div>
+    <div class="dialogue" title="minoriko">
+        <div>"Minoriko4a:I hate violence. Just let us through already."</div>
+        <div>"Youmu0a:I drew my sword precisely because I can't let you do that."</div>
+        <div>"Youmu1a:You may be unarmed, but I will show no hesitation to strike."</div>
+        <div>"Minoriko1a:Bring it on, then! The divine power of the harvest gives at least as good as it gets!"</div>
+    </div>
+    <div class="dialogue" title="shizuha">
+        <div>"Youmu1a:Not another step closer!"</div>
+        <div>"Shizuha4a:Why are you so stubborn? Do you even realize how dangerous it is to disturb the cycle of the seasons?"</div>
+        <div>"Youmu3a:This isn't like that. Spring will be returned once we've―"</div>
+        <div>"Shizuha3a:Don't talk about this like you came over and asked to borrow somebody's pen!"</div>
+    </div>
+    <div class="dialogue" title="hina">
+        <div>"Hina0b:To think a blade as clear of purpose as yours would be wielded to revive the Saigyou Ayakashi..."</div>
+        <div>"Hina4b:I don't get it. Why would someone like you get involved with that cherry tree?"</div>
+        <div>"Youmu3a:I don't know what you're trying to imply."</div>
+        <div>"Hina1b:...Yes, talking has no point at the moment. We'll have to end the battle first."</div>
+    </div>
+    <div class="dialogue" title="sanae">
+        <div>"Sanae1a:Didn't we work together last summer, Youmu?! Why are you starting an incident?!"</div>
+        <div>"Youmu0a:I will gather the spring and cause the unblooming cherry tree to bloom. That is the duty I was entrusted with."</div>
+        <div>"Youmu1a:I have no interest in fighting for justice."</div>
+        <div>"Sanae2a:*sigh* It looks like she's not going to listen to me..."</div>
+        <div>"Sanae5b:Is it my fault that we're not getting through to each other?"</div>
+    </div>
+    <div class="dialogue" title="aya">
+        <div>"Aya0a:This is the first time I've been to the Netherworld, so I'd better make sure I get an interview..."</div>
+        <div>"Youmu0a:What a distasteful intruder. I will leave that camera of yours in pieces."</div>
+        <div>"Aya1a:Don't write checks you can't cash. When Gensokyo's fastest takes flight, I'll disappear right before your―"</div>
+        <div>"Youmu1a:I can still see you. When you've sharpened your mind, speed is but an illusion. To me, it's like you're standing still!"</div>
+        <div>"Aya3a:So you've reached a deepest levels of swordsmanship? I really need to get an interview with you now."</div>
+    </div>
+    <div class="dialogue" title="momiji">
+        <div>"Momiji5a:This is the third time we've fought..."</div>
+        <div>"Momiji0a:Let's settle this once and for all already."</div>
+        <div>"Youmu0a:I didn't think you were the type to bring personal feelings into a fight."</div>
+        <div>"Momiji0a:When I cross swords with someone, I automatically begin to think about them. Surely you're the same?"</div>
+        <div>"Momiji1a:There is no greater blessing than an opponent to test yourself on!"</div>
+    </div>
+    <div class="dialogue" title="letty">
+        <div>"Letty0a:You were complicit this incident without so much as a thought. How foolish can you be?"</div>
+        <div>"Youmu2a:This cold wave...! Why would a youkai who controls the cold ally with them?"</div>
+        <div>"Letty0a:The winter knows why. You've twisted and distorted it."</div>
+        <div>"Letty1b:If you can't see that for yourself, then I'll fight to make you see it."</div>
+    </div>
+    <div class="dialogue" title="lilyw">
+        <div>"LilyW2a:Stop gathering spring already!"</div>
+        <div>"Youmu2b:Whoa there! If you suddenly step forward like that, you'll get yourself hurt."</div>
+        <div>"Youmu0a:We'll return it when we're done, so please wait just a bit longer."</div>
+        <div>"LilyW0b:I can't. All of Gensokyo's sleeping life... Everyone is waiting for spring!"</div>
+        <div>"LilyW0a:So please, give back all of the spring you gathered!"</div>
+    </div>
+    <div class="dialogue" title="nazrin">
+        <div>"Youmu1a:Another unfamiliar face. But no matter how great the numbers you throw at me, I will not lose!"</div>
+        <div>"Nazrin0a:Refusing to back down, even in a situation like this? I suppose that's another way of showing loyalty to your master."</div>
+        <div>"Youmu0a:You think this is the time to chat? If you show an opening, I'll cut you down."</div>
+        <div>"Nazrin4b:Right back at ya. Personally, I think just attacking me would have been a better strategy than offering advice to your enemy."</div>
+        <div>"Nazrin3b:You're just like they said: real earnest. You kinda remind me a bit of my master, actually."</div>
+    </div>
+    <div class="dialogue" title="sho">
+        <div>"Sho0b:So you took up your sword to fight for on behalf of your master?"</div>
+        <div>"Youmu0a:Of course. I'd fight to the bitter end to fulfill Lady Yuyuko's wishes."</div>
+        <div>"Sho4b:Wielding your sword for the person at your side... Were that I could have done that."</div>
+        <div>"Sho1b:Nonetheless, for plunging Gensokyo into endless winter, you and your master are in the wrong!"</div>
+    </div>
+    <div class="dialogue" title="meko">
+        <div>"Meko1f:Return the spring, Youmu!"</div>
+        <div>"Meko1c:At this rate, we'll run out of food and everyone's tummies will be rumbling!"</div>
+        <div>"Youmu1a:I don't know who you are, but rest assured that it will be returned as soon as we've completed our objective!"</div>
+        <div>"Meko0g:But actually, that's not the only thing..."</div>
+        <div>"Meko1d:Fine, whatever! I'll stop you with danmaku!"</div>
+    </div>
+    <div class="dialogue" title="makura">
+        <div>"Makura0g:So you'd cross swords even with old friends, for the sake of your master."</div>
+        <div>"Youmu1a:My duty is to protect Lady Yuyuko! That takes priority over everything else!"</div>
+        <div>"Makura1c:That lack of hesitation is surely your greatest strength."</div>
+        <div>"Makura1a:However, this incident is far too dangerous. We SHALL pass."</div>
+    </div>
+    <div class="dialogue" title="youmu">
+        <div>"Youmu1b:It's a strange feeling, facing off against my former self."</div>
+        <div>"Youmu2b:Who are you?!"</div>
+        <div>"Youmu3b:Nothing I say will get through to me, as I was back then. I know that all too well."</div>
+        <div>"Youmu1c:Which is why I must stop you! And make you realize your mistakes!"</div>
+        <div>"Youmu1a:What are you saying, scoundrel?! I'll show no mercy to any who stand in my way!"</div>
+    </div>
+    <div class="dialogue" title="yuyuko">
+        <div>"Yuyuko1b:I can sense the presence of that cherry tree."</div>
+        <div>"Youmu0c:So you're here, Lady Yuyuko?"</div>
+        <div>"Youmu1b:Worry not, I won't let anyone stop me."</div>
+        <div>"Yuyuko1a:Good, I'm counting on you. If that tree doesn't bloom, then I won't get to see what'll happen next."</div>
+        <div>"Youmu2b:I... see?"</div>
+        <div>"Yuyuko3a:But are you sure you can manage it? I should give you a little test."</div>
+    </div>
+    <div class="dialogue" title="yukari">
+        <div>"Youmu0c:Lady Yukari! I see you've returned."</div>
+        <div>"Youmu4c:Lady Yuyuko has been quite bored, so I'm sure she'll appreciate the visit."</div>
+        <div>"Yukari2a:Bored, is she? Is that why she's gathering spring of all things, to make that cherry tree bloom?"</div>
+        <div>"Youmu0b:You're familiar with the Saigyou Ayakashi then?"</div>
+        <div>"Yukari4a:More than you or Yuyuko, I'm afraid."</div>
+        <div>"Youmu0d:In that case, would you like to go see it together?"</div>
+        <div>"Youmu4c:With all the spring I've brought, surely it will reach full bloom."</div>
+        <div>"Yukari4b:..."</div>
+        <div>"Youmu2b:Lady Yukari?"</div>
+        <div>"Yukari4a:What a loathsome tree. I'd hoped to never see it again."</div>
+        <div>"Yukari2c:At the very least, I'll be recovering that meager spring you possess."</div>
+        <div>"Youmu2b:You're going to get in my way...?!"</div>
     </div>
 </div>
 
 
-<div class="chapters" id="2"> <br>
-    <div class="dialogue" id="rumia">
-        <div>reimu yapping or something</div>
-        <div>she keeps yapping</div>
-        <div>bla</div>
-    </div>
-</div>
+
 
 
 </body>
