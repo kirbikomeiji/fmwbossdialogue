@@ -363,11 +363,11 @@ for char in chars:
             for line in file:
                 result = re.search(r"\/\/.*?([^\：]*)vs\.*(.*)" ,line)       
                 if (result and len(result.groups()) == 2) :
-                    if (result.groups()[0] in names and char in names[result.groups()[0]]) :
-                        if (result.groups()[1] in names):
-                            fights =  names[result.groups()[1]]
+                    if (result.groups()[1] in names and char in names[result.groups()[1]]) :
+                        if (result.groups()[0] in names):
+                            fights =  names[result.groups()[0]]
                         else:
-                            print(result.groups()[1])
+                            print(result.groups()[0])
                 elif ("<end>" in line):
                     fights = {}
                 else: 
