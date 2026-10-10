@@ -1,0 +1,50 @@
+
+.character_button {
+    background-color: white;
+    color: black;
+    border: 5px solid #0497aa;
+    width: 6em;
+    height: 6em;
+    display: none;
+    border-radius: 5px;
+}
+
+.character_button img {
+    height: 100%;
+    width: 100%;
+    aspect-ratio: 1;
+    image-rendering: pixelated;
+}
+
+.character_button:hover {
+    border: 2px solid #71ff00;
+}
+
+.chapter_button {
+    background-color: rgba(39, 160, 132, 0.84);
+    color: black;
+    border: 2px solid #116144;
+    display: none;
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+}
+
+.chapter_button:hover {
+    background-color: #04AA6D;
+    color: white;
+}
+
+.chapters {
+    display: none;
+}
+
+.dialogue {
+    display: none;
+    margin: 2em;
+    padding: 3em;
+    text-indent: 5em;
+}
+.line{
+    border: 1px #4caf50 solid;
+}
