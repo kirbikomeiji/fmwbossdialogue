@@ -151,7 +151,7 @@ names = {
     "神綺、夢子" : {"Shinki","Yumeko"},
     "ファイナルまくら" : {"Makura"},
     "レミリア、フラン、美鈴、咲夜、小悪魔、パチュリー" : {"Remilia","Flan","Meiling","Sakuya","Koakuma"},
-    "橙、藍、妖夢、ゆゆ様、紫、三姉妹、アリス" : {"Yuyuko","Chen","Youmu","Yuyuko","Ran","Lyrica","Merlin","Lunasa","Alice"},
+    "橙、藍、妖夢、ゆゆ様、紫、三姉妹、アリス" : {"Yukari","Chen","Youmu","Yuyuko","Ran","Lyrica","Merlin","Lunasa","Alice"},
     "永遠亭" : {"Kaguya","Eirin","Mokou","Udonge","Tewi","Yorihime","Toyohime","Reisen","Tewi","LilyW"},
     "守矢神社" : {"Shizuha","Minoriko","Hina","Nitori","Aya","Momiji","Sanae","Kanako","Suwako","Hatate"},
     "地霊殿" : {"Kisume","Yamame","Parsee","Yugi","Satori","Orin","Utsuho","Koishi"},
