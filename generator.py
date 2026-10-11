@@ -370,6 +370,7 @@ files = {"01Reimu",
 "03Meko",
 "04Meko",
 "05Meko",
+"Battle_All",
 }
 
 chars ={
@@ -464,15 +465,18 @@ for char in chars:
         with open("./chaptercontent/ChatList_"+ e +".txt", "r", encoding="utf-8") as file:
             chapter = e
             for line in file:
-                result = re.search(r"\/\/.*?([^\：]*)vs\.*(.*)" ,line)       
-                if (result and len(result.groups()) == 2) :
-                    if (result.groups()[1] in names and char in names[result.groups()[1]]) :
-                        if (result.groups()[0] in names):
-                            fights =  names[result.groups()[0]]
+                result = re.search(r"\/\/(.*?)([^\：]*)(?:vs\.*|・)(.*)" ,line)       
+                if (result and len(result.groups()) == 3) :
+                    if (len(result.groups()[0]) > 2 and result.groups()[0][:-1] in files) :
+                        chapter = result.groups()[0][:-1]
+                    if (result.groups()[2] in names and char in names[result.groups()[2]]) :
+                        if (result.groups()[1] in names):
+                            fights =  names[result.groups()[1]]
                         else:
-                            print(result.groups()[0])
+                            print(result.groups()[1])
                 elif ("<end>" in line):
                     fights = {}
+                    chapter = e
                 else: 
                     for fight in fights:
                         if chapter not in chapters :
