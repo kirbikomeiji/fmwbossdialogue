@@ -270,6 +270,8 @@ names = {
     "白うつほ" : {"Utsuho"},
     "ルーミア（要否は検討）" : {"Rumia"},
     "妖精" : {"Yousei"},
+    "慧音H" : {"KeineH"},
+    "空H" : {"UtsuhoH"},
 }
 
 files = {"01Reimu",
@@ -451,7 +453,6 @@ chars ={
 "Shinki",
 "Meko",
 "Makura",
-"KappaC"
 }
 
 
