@@ -1449,7 +1449,7 @@ Nitori2b:The surface is done for...
 <end>
 
 <ChatID:16>---------------------------------------
-//霊夢、魔理沙、にとり、早苗さん、アリス
+//空vs.霊夢、魔理沙、にとり、早苗さん、アリス
 
 <Cond=(GLOBAL_VAR,route,==,Reimu)>
 
@@ -1492,7 +1492,7 @@ Marisa2b:We'll push forward once again...!
 <end>
 
 <ChatID:17>---------------------------------------
-//レミリア、フラン、咲夜さん、美鈴、パチュリー、こぁ
+//空vs.レミリア、フラン、咲夜さん、美鈴、パチュリー、こぁ
 
 Koakuma4b:How are we supposed to go up against the SUN...?
 
@@ -1521,7 +1521,7 @@ Remilia1e:We'll tear that undesired fate to shreds ourselves.
 <end>
 
 <ChatID:18>---------------------------------------
-//エリー、くるみ、雛、小町
+//空vs.エリー、くるみ、雛、小町
 
 Kurumi4c:Sorry, Utsy. I know this must be hard for you...
 
@@ -1548,7 +1548,7 @@ Komachi3a:Let's go. We still need to deliver her ticket back to the Underworld.
 <end>
 
 <ChatID:19>---------------------------------------
-//神奈子、諏訪子、文、椛、はたて、（早苗さん）
+//空vs.神奈子、諏訪子、文、椛、はたて、（早苗さん）
 
 Momiji1b:...So all this heat is from burning Utsuho's lifeforce like a candle.
 
@@ -1579,7 +1579,7 @@ Kanako1b:Advance onward to Utsuho's position.
 <end>
 
 <ChatID:20>---------------------------------------
-//紫、ゆゆ様、藍、橙、妖夢、萃香
+//空vs.紫、ゆゆ様、藍、橙、妖夢、萃香
 
 UtsuhoH5b:...
 
@@ -1610,7 +1610,7 @@ Yukari0a:Amidst this devastation, we'll find a new hope.
 <end>
 
 <ChatID:21>---------------------------------------
-//星、ナズーリン、村紗、ぬえ、一輪、阿求
+//空vs.星、ナズーリン、村紗、ぬえ、一輪、阿求
 
 Akyu2b:The pressure's increasing... I'm sure we don't have much time left.
 
@@ -1637,7 +1637,7 @@ Sho1a:Yes, of course!
 <end>
 
 <ChatID:22>---------------------------------------
-//輝夜、永琳、妹紅、慧音、鈴仙、てゐ
+//空vs.輝夜、永琳、妹紅、慧音、鈴仙、てゐ
 
 Tewi2b:This girl's an idiot right to the very end. While all this is happening to her, she's STILL worried about other people.
 
@@ -1666,7 +1666,7 @@ Kaguya2d:These chains of life that support each other... I won't let them be ext
 <end>
 
 <ChatID:23>---------------------------------------
-//チルノ、大妖精、ルーミア、ミスティア、リグル
+//空vs.チルノ、大妖精、ルーミア、ミスティア、リグル
 
 Daiyosei3b:There's no way Utsuho wanted any of this.
 
@@ -1689,7 +1689,7 @@ Cirno2b:We've totally got this!
 <end>
 
 <ChatID:24>---------------------------------------
-//ルナサ、メルラン、リリカ
+//空vs.ルナサ、メルラン、リリカ
 
 Lyrica4a:Utsuho, you must have used the last of your strength to talk to us...
 
@@ -1714,7 +1714,7 @@ Lunasa1a:We're an ensemble!
 <end>
 
 <ChatID:25>---------------------------------------
-//サニー、ルナ、スター、リリー、レティ、穣子、静葉
+//空vs.サニー、ルナ、スター、リリー、レティ、穣子、静葉
 
 Luna4b:Yatagarasu's got so much power, and Utsuho's trying to suppress it all...
 
@@ -1739,7 +1739,7 @@ Minoriko1b:Let's bring our power together!
 <end>
 
 <ChatID:26>---------------------------------------
-//お燐、勇儀、パルスィ、ヤマメ、キスメ
+//空vs.お燐、勇儀、パルスィ、ヤマメ、キスメ
 
 UtsuhoH5b:...
 
