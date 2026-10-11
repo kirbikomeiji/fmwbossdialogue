@@ -373,7 +373,7 @@ files = {"01Reimu",
 }
 
 chars ={
-"Reimu",
+"Hakurei Reimu",
 "Marisa",
 "Rumia",
 "Daiyosei",

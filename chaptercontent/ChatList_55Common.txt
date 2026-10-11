@@ -1449,7 +1449,7 @@ Nitori2b:The surface is done for...
 <end>
 
 <ChatID:16>---------------------------------------
-//空vs.霊夢、魔理沙、にとり、早苗さん、アリス
+//空Hvs.霊夢、魔理沙、にとり、早苗さん、アリス
 
 <Cond=(GLOBAL_VAR,route,==,Reimu)>
 
@@ -1492,7 +1492,7 @@ Marisa2b:We'll push forward once again...!
 <end>
 
 <ChatID:17>---------------------------------------
-//空vs.レミリア、フラン、咲夜さん、美鈴、パチュリー、こぁ
+//空Hvs.レミリア、フラン、咲夜さん、美鈴、パチュリー、こぁ
 
 Koakuma4b:How are we supposed to go up against the SUN...?
 
@@ -1521,7 +1521,7 @@ Remilia1e:We'll tear that undesired fate to shreds ourselves.
 <end>
 
 <ChatID:18>---------------------------------------
-//空vs.エリー、くるみ、雛、小町
+//空Hvs.エリー、くるみ、雛、小町
 
 Kurumi4c:Sorry, Utsy. I know this must be hard for you...
 
@@ -1548,7 +1548,7 @@ Komachi3a:Let's go. We still need to deliver her ticket back to the Underworld.
 <end>
 
 <ChatID:19>---------------------------------------
-//空vs.神奈子、諏訪子、文、椛、はたて、（早苗さん）
+//空Hvs.神奈子、諏訪子、文、椛、はたて、（早苗さん）
 
 Momiji1b:...So all this heat is from burning Utsuho's lifeforce like a candle.
 
@@ -1579,7 +1579,7 @@ Kanako1b:Advance onward to Utsuho's position.
 <end>
 
 <ChatID:20>---------------------------------------
-//空vs.紫、ゆゆ様、藍、橙、妖夢、萃香
+//空Hvs.紫、ゆゆ様、藍、橙、妖夢、萃香
 
 UtsuhoH5b:...
 
@@ -1610,7 +1610,7 @@ Yukari0a:Amidst this devastation, we'll find a new hope.
 <end>
 
 <ChatID:21>---------------------------------------
-//空vs.星、ナズーリン、村紗、ぬえ、一輪、阿求
+//空Hvs.星、ナズーリン、村紗、ぬえ、一輪、阿求
 
 Akyu2b:The pressure's increasing... I'm sure we don't have much time left.
 
@@ -1637,7 +1637,7 @@ Sho1a:Yes, of course!
 <end>
 
 <ChatID:22>---------------------------------------
-//空vs.輝夜、永琳、妹紅、慧音、鈴仙、てゐ
+//空Hvs.輝夜、永琳、妹紅、慧音、鈴仙、てゐ
 
 Tewi2b:This girl's an idiot right to the very end. While all this is happening to her, she's STILL worried about other people.
 
@@ -1666,7 +1666,7 @@ Kaguya2d:These chains of life that support each other... I won't let them be ext
 <end>
 
 <ChatID:23>---------------------------------------
-//空vs.チルノ、大妖精、ルーミア、ミスティア、リグル
+//空Hvs.チルノ、大妖精、ルーミア、ミスティア、リグル
 
 Daiyosei3b:There's no way Utsuho wanted any of this.
 
@@ -1689,7 +1689,7 @@ Cirno2b:We've totally got this!
 <end>
 
 <ChatID:24>---------------------------------------
-//空vs.ルナサ、メルラン、リリカ
+//空Hvs.ルナサ、メルラン、リリカ
 
 Lyrica4a:Utsuho, you must have used the last of your strength to talk to us...
 
@@ -1714,7 +1714,7 @@ Lunasa1a:We're an ensemble!
 <end>
 
 <ChatID:25>---------------------------------------
-//空vs.サニー、ルナ、スター、リリー、レティ、穣子、静葉
+//空Hvs.サニー、ルナ、スター、リリー、レティ、穣子、静葉
 
 Luna4b:Yatagarasu's got so much power, and Utsuho's trying to suppress it all...
 
@@ -1739,7 +1739,7 @@ Minoriko1b:Let's bring our power together!
 <end>
 
 <ChatID:26>---------------------------------------
-//空vs.お燐、勇儀、パルスィ、ヤマメ、キスメ
+//空Hvs.お燐、勇儀、パルスィ、ヤマメ、キスメ
 
 UtsuhoH5b:...
 
@@ -1774,7 +1774,7 @@ Orin5a:So please, stay with us moving forward...
 <end>
 
 <ChatID:27>---------------------------------------
-//空vs.メーコ、まくら
+//空Hvs.メーコ、まくら
 
 Meko1d:Okuu!
 
@@ -1819,7 +1819,7 @@ Makura1b:And risk everything to save her!
 <end>
 
 <ChatID:28>---------------------------------------
-//空vs.メディ、幽香（両者を引き継いだ場合のみ）
+//空Hvs.メディ、幽香（両者を引き継いだ場合のみ）
 
 Medicine5c:Utsuho! Say something, Ustuho!
 
@@ -1860,7 +1860,7 @@ Yuka2b:Now Medi, let's send this burnt-out old sun back to the suzuran field.
 <end>
 
 <ChatID:29>----------------------------------------
-//空vs.依姫、豊姫（両者を引き継いだ場合のみ）
+//空Hvs.依姫、豊姫（両者を引き継いだ場合のみ）
 
 Yorihime0b:How can she be channeling this much of the flames of Yatagarasu?!
 
@@ -1883,7 +1883,7 @@ Yorihime3a:We won't pray for a miracle. We'll make it happen ourselves!
 <end>
 
 <ChatID:30>----------------------------------------
-//空vs.天子、衣玖（両者を引き継いだ場合のみ。当面封印）
+//空Hvs.天子、衣玖（両者を引き継いだ場合のみ。当面封印）
 
 Iku1b:...Utsuho's been fighting Yatagarasu's rampage to the very end.
 
@@ -1920,7 +1920,7 @@ Tenshi1b:Dammiiit!
 <end>
 
 <ChatID:31>----------------------------------------
-//空vs.神綺、夢子（両者を引き継いだ場合のみ）
+//空Hvs.神綺、夢子（両者を引き継いだ場合のみ）
 
 Yumeko5a:Not even Makai gets this hot!
 
@@ -1955,7 +1955,7 @@ Shinki0c:For Utsuho, for everyone's happiness, and so something like this never 
 <end>
 
 <ChatID:32>----------------------------------------
-//空vs.小傘（両者を引き継いだ場合のみ）
+//空Hvs.小傘（両者を引き継いだ場合のみ）
 
 Kogasa0a:Licky licky!
 
@@ -1974,7 +1974,7 @@ Kogasa0a:Even a sun god is no match for my pranks!
 <end>
 
 <ChatID:33>----------------------------------------
-//空vs.非想天則
+//空Hvs.非想天則
 
 Tensoku0a:...
 
@@ -1997,7 +1997,7 @@ Tensoku0a:...!
 <end>
 
 <ChatID:34>----------------------------------------
-//空vs.白蓮
+//空Hvs.白蓮
 
 Byakuren2d:We're coming for you, Utsuho!
 
@@ -2016,7 +2016,7 @@ Byakuren2b:Namusan!
 <end>
 
 <ChatID:35>----------------------------------------
-//空vs.魅魔
+//空Hvs.魅魔
 
 Mima1c:Tch, talk about heat!
 
@@ -2041,7 +2041,7 @@ Mima1g:Don't need to ask me twice!
 <end>
 
 <ChatID:36>----------------------------------------
-//空vs.さとり
+//空Hvs.さとり
 
 Satori3a:Okuu!
 
@@ -2056,7 +2056,7 @@ Satori3a:Because now even the despair I gave into before is no match for me.
 <end>
 
 <ChatID:37>----------------------------------------
-//空vs.こいし
+//空Hvs.こいし
 
 Koishi1a:Okuu. Hey, Okuu!
 
