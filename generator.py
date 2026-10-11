@@ -95,7 +95,6 @@ names = {
     "後鬼" : {"Goki"},
     "妖怪兎D" : {"UsagiD"},
     "大ナマズ" : {"Onamazu"},
-    "慧音" : {"KeineH"},
     "悪夢" : {"RemiliaN"},
     "悪夢" : {"FlanN"},
     "悪夢" : {"YuyukoN"},
