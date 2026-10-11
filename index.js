@@ -1,13 +1,13 @@
 function onInit() {
     document.querySelectorAll('.chapter_button').forEach((button) => {
-        if (document.getElementById(button.innerHTML) !== null)
+        if (document.getElementById(button.title) !== null)
             button.style.display = 'inline-block';
         else
             button.style.display = 'none';
     });
     document.querySelectorAll('.chapters').forEach((dialogue) => {
 
-        if(document.querySelector(`#b_${dialogue.title.toLowerCase()}`))
+        if (document.querySelector(`#b_${dialogue.title.toLowerCase()}`))
             document.querySelector(`#b_${dialogue.title.toLowerCase()}`).style.display = 'inline-block';
     });
     let path = window.location.pathname;
@@ -39,8 +39,6 @@ function showChapter(id) {
 
 function showchar(id) {
     document.querySelectorAll('.dialogue').forEach((char) => {
-        console.log(id);
-
         if (char.title === id) {
             char.style.display = "inline-block";
         } else

@@ -513,7 +513,7 @@ for char in chars:
                         text = line_parts[1]
                         if (len(line_parts) == 3):
                             text +=":"+ line_parts[2]
-                        outp += f'''<div class ="line"><img src="./dialogue/face_{line_parts[0]}.png"> {text}</div>'''
+                        outp += f'''<div class ="line"><img src="./dialogue/face_{line_parts[0]}.png"><div> {text}</div></div>'''
             outp += "</div>"
         outp += "</div>"
     outp += "</div> </body></html>"

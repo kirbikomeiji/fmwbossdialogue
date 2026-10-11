@@ -60,7 +60,6 @@ body {
 .dialogue {
     display: none;
     text-indent: 2em;
-    
 }
 .line{
     font-family: FOT-NewRodin Pro DB;
@@ -70,4 +69,17 @@ body {
     margin-top: 5px;
     padding: 30px 70px 30px 0px;
     border-radius: 5px;
+    display: table;
+}
+.line div{
+    display: table-cell;
+    align-content: center;
+    vertical-align: top;
+    text-align: left;
+    width: 100%;
+}
+
+.line img{
+    height: 6em;
+    display: table-cell;
 }
