@@ -451,7 +451,8 @@ chars ={
 "Yumeko",
 "Shinki",
 "Meko",
-"Makura"
+"Makura",
+"KappaC"
 }
 
 
