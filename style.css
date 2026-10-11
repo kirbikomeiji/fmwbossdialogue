@@ -4,14 +4,25 @@
 		src: url("./FOT-NewRodin Pro DB.otf");
 }
 
+body {
+        margin: 40px;
+		background-image: url("./miscimagefile/bg_talk_Village.png");
+		background-repeat: no-repeat;
+		background-position: right top;
+		background-attachment: fixed;
+        background-size: 1920px 1080px;
+		font-family: "Fot-NewRodin Pro B";
+    }
+
 .character_button {
-    background-color: white;
+    background-color: rgba(39, 160, 132, 0.84);
     color: black;
-    border: 5px solid #0497aa;
-    width: 6em;
-    height: 6em;
+    border: 5px solid #116144;
+    width: 120px;
+    height: 120px;
     display: none;
     border-radius: 5px;
+    padding: 15px;
 }
 
 .character_button img {
@@ -22,17 +33,18 @@
 }
 
 .character_button:hover {
-    border: 2px solid #71ff00;
+    border: 7px solid #71ff00;
 }
 
 .chapter_button {
     background-color: rgba(39, 160, 132, 0.84);
-    color: black;
+    color: white;
     border: 5px solid #116144;
     display: none;
     border-radius: 5px;
     width: 100px;
     height: 100px;
+    font-family: "Fot-NewRodin Pro DB";
 }
 
 .chapter_button:hover {
@@ -42,6 +54,7 @@
 
 .chapters {
     display: none;
+    padding: 30px 0px;
 }
 
 .dialogue {
