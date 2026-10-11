@@ -1,4 +1,9 @@
 
+@font-face {
+		font-family: "Fot-NewRodin Pro DB";
+		src: url("./FOT-NewRodin Pro DB.otf");
+}
+
 .character_button {
     background-color: white;
     color: black;
@@ -23,7 +28,7 @@
 .chapter_button {
     background-color: rgba(39, 160, 132, 0.84);
     color: black;
-    border: 2px solid #116144;
+    border: 5px solid #116144;
     display: none;
     border-radius: 5px;
     width: 100px;
@@ -41,10 +46,15 @@
 
 .dialogue {
     display: none;
-    margin: 2em;
-    padding: 3em;
-    text-indent: 5em;
+    text-indent: 2em;
+    
 }
 .line{
-    border: 1px #4caf50 solid;
+    font-family: FOT-NewRodin Pro DB;
+    color:white;
+    border: 5px #116144 solid;
+    background-color: rgba(39, 160, 132, 0.84);
+    margin-top: 5px;
+    padding: 30px 70px 30px 0px;
+    border-radius: 5px;
 }
