@@ -14,6 +14,17 @@ function onInit() {
     name =  path.substring(path.lastIndexOf('/') + 1, path.length - 5);
     name =  String(name[0]).toUpperCase() + String(name).slice(1);
     document.querySelector('#title').innerHTML = `${name} <img src="./dialogue/face_${name}0a.png">`;
+
+    var url = new URL(window.location.href);
+    var chapter = url.searchParams.get("chapter");
+    var character = url.searchParams.get("character");
+
+    if(chapter != null)
+    {
+        showChapter(chapter);
+        if (character != null)
+            showchar(character);
+    }
 }
 
 let chapter_names = {"01Reimu" : "Wonderful Shrine Maiden of Paradise",
@@ -122,6 +133,11 @@ let chapter_names = {"01Reimu" : "Wonderful Shrine Maiden of Paradise",
     "05Meko" : "One Step Beyond the End",}
 
 function showChapter(id) {
+    const url = new URL(window.location.href);
+    url.searchParams.set('chapter', id);
+    url.searchParams.delete('character');
+    window.history.replaceState(null, null, url);
+
     document.getElementById('chapter_header').innerHTML = "Chapter " + id;
     if (chapter_names[id])
         document.getElementById('chapter_header').innerHTML = chapter_names[id];
@@ -145,6 +161,9 @@ function showChapter(id) {
 }
 
 function showchar(id) {
+    const url = new URL(window.location.href);
+    url.searchParams.set('character', id);
+    window.history.replaceState(null, null, url);
     document.querySelectorAll('.dialogue').forEach((char) => {
         if (char.title === id) {
             char.style.display = "inline-block";
