@@ -10,6 +10,7 @@ function onInit() {
         if (document.querySelector(`#b_${dialogue.title.toLowerCase()}`))
             document.querySelector(`#b_${dialogue.title.toLowerCase()}`).style.display = 'inline-block';
     });
+
     let path = window.location.pathname;
     name = path.substring(path.lastIndexOf('/') + 1, path.length - 5);
     name = String(name[0]).toUpperCase() + String(name).slice(1);
@@ -133,7 +134,15 @@ let chapter_names = {
     "05Meko": "One Step Beyond the End",
 }
 
-function showChapter(id) {
+function showChapter(id, button) {
+    document.querySelectorAll('.chapter_button').forEach((button) => {
+        button.disabled = false;
+    });
+    document.querySelectorAll('.character_button').forEach((button) => {
+        button.disabled = false;
+    });
+
+    button.disabled = true;
     const url = new URL(window.location.href);
     url.searchParams.set('chapter', id);
     url.searchParams.delete('character');
@@ -161,7 +170,12 @@ function showChapter(id) {
     });
 }
 
-function showchar(id) {
+function showchar(id, button) {
+    document.querySelectorAll('.character_button').forEach((button) => {
+        button.disabled = false;
+    });
+
+    button.disabled = true;
     const url = new URL(window.location.href);
     url.searchParams.set('character', id);
     window.history.replaceState(null, null, url);

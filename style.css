@@ -3,6 +3,9 @@
 		font-family: "Fot-NewRodin Pro DB";
 		src: url("./FOT-NewRodin Pro DB.otf");
 }
+h1{
+    text-shadow: #000000 2px 1px 1px;
+}
 
 body {
         margin: 40px;
@@ -34,9 +37,13 @@ body {
 }
 
 .character_button:hover {
-    background-color: #04AA6D;
-    color: white;
+    border: 7px solid #71ff00;
 }
+
+.chapter_button:disabled {
+    border: 5px solid #000000;
+}
+
 
 .chapter_button {
     background-color: rgba(39, 160, 132, 0.84);
@@ -50,8 +57,12 @@ body {
 }
 
 .chapter_button:hover {
-    background-color: #10885c;
+    background-color: #04AA6D;
     color: white;
+}
+
+.character_button:disabled {
+    border: 5px solid #000000;
 }
 
 .chapters {
@@ -61,6 +72,7 @@ body {
 
 .dialogue {
     display: none;
+    text-indent: 2em;
 }
 .line{
     font-family: FOT-NewRodin Pro DB;
@@ -71,7 +83,8 @@ body {
     padding: 30px 70px 30px 0px;
     border-radius: 5px;
     display: table;
-    width: 40em;
+    text-shadow: #000000 2px 1px 1px;
+    width: 100%;
 }
 .line div{
     display: table-cell;
@@ -79,12 +92,10 @@ body {
     vertical-align: middle;
     text-align: left;
     width: 100%;
-    padding-left: 2em;
 }
 
 .line img{
     height: 6em;
     display: table-cell;
 	image-rendering: pixelated;
-    padding-left: 2em
 }
