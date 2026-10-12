@@ -11,7 +11,7 @@ body {
 		background-position: right top;
 		background-attachment: fixed;
         background-size: 1920px 1080px;
-		font-family: "Fot-NewRodin Pro B";
+		font-family: "FOT-NewRodin Pro DB";
     }
 
 .character_button {
@@ -74,7 +74,7 @@ body {
 .line div{
     display: table-cell;
     align-content: center;
-    vertical-align: top;
+    vertical-align: middle;
     text-align: left;
     width: 100%;
 }
@@ -82,4 +82,5 @@ body {
 .line img{
     height: 6em;
     display: table-cell;
+	image-rendering: pixelated;
 }
