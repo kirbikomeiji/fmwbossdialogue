@@ -1109,7 +1109,7 @@ Keine1a:We don't have time to deal with them. Focus on the task at hand.
 <end>
 
 <ChatID:18>----------------------------------------
-//エリーvs.まくら
+//%エリーvs.まくら
 
 Elliy0b:I've never seen you around. What's your name?
 
@@ -1124,7 +1124,7 @@ Makura0h:Sure, I'd love to study your danmaku too, Elly.
 <end>
 
 <ChatID:19>----------------------------------------
-//エリーvs.メーコ
+//%エリーvs.メーコ
 
 Elliy0b:Oh, you're...
 
@@ -1139,7 +1139,7 @@ Elliy4a:(This is what I mean by a head full of fluff...)
 <end>
 
 <ChatID:20>----------------------------------------
-//エリーvs.エリー（M04流用）
+//%エリーvs.エリー（M04流用）
 
 <nomove>
 
@@ -1166,7 +1166,7 @@ Elliy5a:Yeah, you too!
 <end>
 
 <ChatID:21>----------------------------------------
-//エリーvs.幽香（M04流用）
+//%エリーvs.幽香（M04流用）
 
 Elliy1b:Eh? Yuuka?!
 
@@ -1179,7 +1179,7 @@ Elliy2b:That's my Yuuka! Even my hallucination's merciless!
 <end>
 
 <ChatID:22>----------------------------------------
-//エリーvs.くるみ（M04流用）
+//%エリーvs.くるみ（M04流用）
 
 Elliy0a:Oh, it's Kurumi. What're you doing here?
 
@@ -1192,7 +1192,7 @@ Kurumi6a:'Kaaay! ...Whoops, I answered automatically.
 <end>
 
 <ChatID:23>----------------------------------------
-//R05：エリーvs.非想天則
+//%R05：エリーvs.非想天則
 
 Elliy1a:Sheesh, how could everyone forget me?
 

@@ -490,7 +490,7 @@ Sunny1c:Who cares about dolls? Let's find some cooler stuff!
 <end>
 
 <ChatID:4>----------------------------------------------
-//魔理沙vsアリス
+//アリスvs.魔理沙
 
 Alice0c:I never took you for the type of human to coerce youkai.
 
@@ -503,7 +503,7 @@ Alice1a:Do you have time to indulge in distractions?!
 <end>
 
 <ChatID:5>----------------------------------------------
-//にとりvsアリス
+//アリスvs.
 
 Nitori1d:Hey, I already told you earlier, Marisa is innocent!
 
@@ -726,7 +726,7 @@ Sunny1a:Alright! Fairy army, charge!
 
 
 <ChatID:10>----------------------------------------------
-//サニーvs魔理沙
+//サニーvs.魔理沙
 
 Marisa1c:You might wanna say your prayers.
 
@@ -1183,7 +1183,7 @@ Alice4a:I get the feeling I'll see a lot more embarrassing memories before this 
 <end>
 
 <ChatID:28>----------------------------------------
-//アリスvs.アリス★発生しない
+//%アリスvs.アリス★発生しない
 
 <nomove>
 
@@ -1214,7 +1214,7 @@ Alice1b:Hold on, what do you mean?!
 <end>
 
 <ChatID:29>----------------------------------------
-//アリスvs.神綺
+//%アリスvs.神綺
 
 Shinki0c:Whoops. And here I am.
 
@@ -1229,7 +1229,7 @@ Shinki2a:Ugh... I'm glad you have so much faith in me, but I'm not sure how to f
 <end>
 
 <ChatID:30>----------------------------------------
-//アリスvs.夢子
+//%アリスvs.夢子
 
 Yumeko4a:Taken in by these fairies? I know you're good natured, but please don't overdo it.
 
@@ -1246,7 +1246,7 @@ Alice4a:We don't get this chance often, so I wish I could've at least prepated f
 <end>
 
 <ChatID:31>----------------------------------------
-//アリスvs.メディ
+//%アリスvs.メディ
 
 Medicine1a:Getting tricked by fairies like that? What a scatterbrain, right Sue?
 
@@ -1259,7 +1259,7 @@ Alice1b:So what's going on here? How do you know me?
 <end>
 
 <ChatID:32>----------------------------------------
-//M02：アリスvs.非想天則
+//%アリスvs.非想天則
 
 Tensoku0a:...
 

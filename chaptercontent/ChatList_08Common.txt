@@ -940,7 +940,7 @@ Remilia1a:The knights are all lined up on the board. Now for them to amuse me...
 <end>
 
 <ChatID:10>----------------------------------------
-//霊夢
+//美鈴vs.霊夢
 
 Reimu2b:It's on the tip of my tongue... What was it? I can't remember...
 
@@ -953,7 +953,7 @@ Reimu1a:I hope you're ready for this!
 <end>
 
 <ChatID:11>----------------------------------------
-//魔理沙
+//美鈴vs.魔理沙
 
 Marisa0a:Hello, ordinary lady.
 
@@ -966,7 +966,7 @@ Meiling0a:Who taught you any of these ideas?
 <end>
 
 <ChatID:12>----------------------------------------
-//慧音vs美鈴
+//美鈴vs.慧音
 
 Keine2a:A gatekeeper that protects the enemy's stronghold... You certainly look tough.
 
@@ -983,7 +983,7 @@ Youmu2b:Um, nothing! I was just thinking about how both of them are pretty bulky
 <end>
 
 <ChatID:13>----------------------------------------
-//にとり
+//美鈴vs.にとり
 
 Meiling1a:Behold my techniques!
 
@@ -998,7 +998,7 @@ Nitori1b:That's because I train myself in technology. Behold my awesome weapons!
 <end>
 
 <ChatID:14>----------------------------------------
-//アリス
+//美鈴vs.アリス
 
 Meiling0a:Challenging me to a brawl with those slender arms is just silly.
 
@@ -1013,7 +1013,7 @@ Alice0b:(...What a pain. These confident sturdy types are the worst possible mat
 <end>
 
 <ChatID:15>----------------------------------------
-//妖夢
+//美鈴vs.妖夢
 
 Meiling0a:I'm guessing you don't expect your weapon to give you any special advantage over me.
 
@@ -1030,7 +1030,7 @@ Meiling7b:A PANDA?!
 <end>
 
 <ChatID:16>----------------------------------------
-//ルーミア
+//美鈴vs.ルーミア
 
 Rumia0a:You look like you'd hurt a lot if I let you hit me.
 
@@ -1043,7 +1043,7 @@ Meiling1a:That's arrogant of you. As long as you give off that eerie presence, m
 <end>
 
 <ChatID:17>----------------------------------------
-//大妖精vs美鈴
+//美鈴vs.大妖精
 
 Meiling0a:I'd really rather not go all out against a fairy like you...
 
@@ -1058,7 +1058,7 @@ Meiling0a:(Ah, a long-suffering fairy. I can kind of identify with that.)
 <end>
 
 <ChatID:18>----------------------------------------
-//チルノvs美鈴
+//美鈴vs.チルノ
 
 Cirno1a:Mm!
 
@@ -1075,7 +1075,7 @@ Meiling7b:Wait, what?!
 <end>
 
 <ChatID:19>----------------------------------------
-//霊夢
+//エリーvs.霊夢
 
 Elliy1a:We meet again, Hakurei Shrine Maiden!
 
@@ -1092,7 +1092,7 @@ Elliy1a:Geez, quit it with the bad jokes. I have my floor tiles this time, so I'
 <end>
 
 <ChatID:20>----------------------------------------
-//魔理沙
+//エリーvs.魔理沙
 
 Marisa0a:I never would've thought you'd switch jobs to work here. What happened to your last one? Laid off?
 
@@ -1109,7 +1109,7 @@ Marisa0a:This mansion leaks out scarlet mist instead of smoke from cooking. If t
 <end>
 
 <ChatID:21>----------------------------------------
-//慧音
+//エリーvs.慧音
 
 Keine0a:It's not surprising you were connected to this mist.
 
@@ -1124,7 +1124,7 @@ Elliy1a:Then there's no other choice, I'll defeat all of you to remove the evide
 <end>
 
 <ChatID:22>----------------------------------------
-//にとり
+//エリーvs.にとり
 
 Nitori1a:You know, you two seem like hard-luck characters.
 
@@ -1139,7 +1139,7 @@ Elliy1a:Don't make snap judgments about people based on their appearance. We're 
 <end>
 
 <ChatID:23>----------------------------------------
-//アリス
+//エリーvs.アリス
 
 Alice0a:Did you summon those familiars yourself?
 
@@ -1154,7 +1154,7 @@ Elliy1a:Fine, you like these tiles so much? You can have them! Study them all yo
 <end>
 
 <ChatID:24>----------------------------------------
-//妖夢
+//エリーvs.妖夢
 
 Elliy1a:There you are, bowlcut swordswoman!
 
@@ -1171,7 +1171,7 @@ Youmu1a:I could say the same, once I get in close. I won't be letting my guard d
 <end>
 
 <ChatID:25>----------------------------------------
-//ルーミア
+//エリーvs.ルーミア
 
 Rumia0a:You make floor tiles fly? That's a neat trick.
 
@@ -1184,7 +1184,7 @@ Elliy2a:Oof, kids say the darnedest things... Have some thought when you're spea
 <end>
 
 <ChatID:26>----------------------------------------
-//大妖精
+//エリーvs.大妖精
 
 Elliy0a:There weren't fairies like you around the last time I fought them.
 
@@ -1197,7 +1197,7 @@ Daiyosei2c:(...Ah, so she lost in the end.)
 <end>
 
 <ChatID:27>----------------------------------------
-//チルノ
+//エリーvs.チルノ
 
 Cirno0a:Ohh, your hairstyle's pretty neat.
 
@@ -1216,7 +1216,7 @@ Elliy1a:I didn't "make" my hair! Clearly fairies don't get what's so charming ab
 <end>
 
 <ChatID:28>----------------------------------------
-//大妖精
+//エリーvs.大妖精
 
 Daiyosei0a:Ah... That uniform is kind of cute.
 
@@ -1386,7 +1386,7 @@ Elliy0a:...Alright. Be careful, Meiling.
 <end>
 
 <ChatID:33>----------------------------------------
-//美鈴vs.まくら
+//%美鈴vs.まくら
 
 Meiling1a:You shall not pass!
 
@@ -1399,7 +1399,7 @@ Meiling1e:The power of dreams?! True, I'm weak to mental attacks...
 <end>
 
 <ChatID:34>----------------------------------------
-//美鈴vs.メーコ
+//%美鈴vs.メーコ
 
 Meko0c:Heh heh heh...
 
@@ -1412,7 +1412,7 @@ Meiling7a:Gah, my natural enemy!
 <end>
 
 <ChatID:35>----------------------------------------
-//美鈴vs.美鈴
+//%美鈴vs.美鈴
 
 <nomove>
 
@@ -1443,7 +1443,7 @@ Meiling3b:(...Good question. I just suddenly got into a weird mood.)
 <end>
 
 <ChatID:36>----------------------------------------
-//エリーvs.まくら
+//%エリーvs.まくら
 
 Elliy1a:Here she is! The futon youkai!
 
@@ -1458,7 +1458,7 @@ Elliy5c:Wha...?
 <end>
 
 <ChatID:37>----------------------------------------
-//エリーvs.メーコ
+//%エリーvs.メーコ
 
 Elliy0b:Oh, I haven't seen you before.
 
@@ -1473,7 +1473,7 @@ Meko1b:Those sound kinda cool, actually...
 <end>
 
 <ChatID:38>----------------------------------------
-//エリーvs.エリー
+//%エリーvs.エリー
 
 <nomove>
 
@@ -1496,7 +1496,7 @@ Elliy5a:Yes, one we can never atone for.
 <end>
 
 <ChatID:39>----------------------------------------
-//エリーvs.くるみ
+//%エリーvs.くるみ
 
 Kurumi3b:Found you, Elly!
 
@@ -1511,7 +1511,7 @@ Elliy1a:Just get inside! Or else no snacks!
 <end>
 
 <ChatID:40>----------------------------------------
-//美鈴vs.咲夜さん
+//%美鈴vs.咲夜さん
 
 Sakuya1c:Are you doing your job properly, Meiling?
 
@@ -1528,7 +1528,7 @@ Sakuya5c:(...Was that a little mean of me?)
 <end>
 
 <ChatID:41>----------------------------------------
-//美鈴vs.パチュリー
+//%美鈴vs.パチュリー
 
 Patchouli0c:So this is how the tile familiars were being used.
 
@@ -1545,7 +1545,7 @@ Patchouli4e:(Good grief. I suppose I was like that back then.)
 <end>
 
 <ChatID:42>----------------------------------------
-//美鈴vs.レミリア
+//%美鈴vs.レミリア
 
 Remilia3d:I see you're really doing your job. How admirable.
 
@@ -1564,7 +1564,7 @@ Meiling2a:Eh?!
 <end>
 
 <ChatID:43>----------------------------------------
-//美鈴vs.フラン
+//%美鈴vs.フラン
 
 Flan3f:Meiling! Let's play!
 
@@ -1581,7 +1581,7 @@ Flan3f:Tee hee hee, we're gonna play horsie!
 <end>
 
 <ChatID:44>----------------------------------------
-//美鈴vs.非想天則
+//%美鈴vs.非想天則
 
 Meiling1a:Come at me! No matter the opponent, I, Hong Meiling...
 

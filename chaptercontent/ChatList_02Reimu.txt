@@ -502,7 +502,7 @@ Reimu1a:I don't really care about the wall, but I'm up for some youkai extermina
 <end>
 
 <ChatID:2>-----------------------------------------------
-//霊夢vsルーミア
+//ルーミアvs.霊夢
 
 Rumia0a:I think you look the tastiest. Those other two aren't nearly as lean.
 
@@ -513,7 +513,7 @@ Reimu0a:Anyway, I didn't expect to find a youkai here. It's finally starting to 
 <end>
 
 <ChatID:3>-----------------------------------------------
-//慧音vsルーミア
+//ルーミアvs.慧音
 
 Keine0a:The power to control darkness sounds pretty powerful, but it seems like you'd bump into things a lot.
 
@@ -522,7 +522,7 @@ Rumia1a:You just don't get it. Bumping into things is a trademark feature of dar
 <end>
 
 <ChatID:4>-----------------------------------------------
-//妖夢vsルーミア
+//ルーミアvs.妖夢
 
 Youmu0a:I never imagined that I'd end up crossing swords with a youkai while running errands...
 
@@ -684,7 +684,7 @@ Reimu0b:Yeah, so leave the youkai extermination to me!
 <end>
 
 <ChatID:12>-------------------------------------
-//メーコvs.ルーミア
+//%ルーミアvs.メーコ
 
 Meko7b:Heh heh heh...
 
@@ -701,7 +701,7 @@ Meko5c:Hey, stop! Don't eat him!
 <end>
 
 <ChatID:13>-------------------------------------
-//まくらvs.ルーミア
+//%ルーミアvs.まくら
 
 Makura0f:Did you eat the Hieda manor...?
 
@@ -714,7 +714,7 @@ Makura3c:A threatening way of life like that is truly beautiful.
 <end>
 
 <ChatID:14>-------------------------------------
-//ルーミアvs.ルーミア
+//%ルーミアvs.ルーミア
 
 <nomove>
 
@@ -741,7 +741,7 @@ Rumia0a:I really get you, me.
 <end>
 
 <ChatID:15>-------------------------------------
-//神綺vs.ルーミア
+//%ルーミアvs.神綺
 
 Shinki0c:Akyu has such a lovely Japanese-style manor.
 
@@ -754,7 +754,7 @@ Rumia3a:Oh, really?
 <end>
 
 <ChatID:16>-------------------------------------
-//依姫vs.ルーミア（要否は検討）
+//%ルーミアvs.依姫
 
 Yorihime0b:Wasn't there a rule about youkai not attacking the village?
 
@@ -765,7 +765,7 @@ Yorihime0a:How barabaric. Is that what everyday life is like in Gensokyo?
 <end>
 
 <ChatID:17>-------------------------------------
-//豊姫vs.ルーミア（要否は検討）
+//%ルーミアvs.豊姫
 
 Toyohime0a:Being near the village is bothersome in so many ways.
 
@@ -776,7 +776,7 @@ Toyohime0b:I have to adjust my fan's power output, for one. Can't very well go d
 <end>
 
 <ChatID:18>-------------------------------------
-//鈴仙vs.ルーミア（要否は検討）
+//%ルーミアvs.鈴仙
 
 Udonge0a:You ran into a wall and... bit it? And you never get any less crazy...
 
@@ -787,7 +787,7 @@ Udonge0a:Just talking to myself. Even in darkness, I'll find your wavelength!
 <end>
 
 <ChatID:19>-------------------------------------
-//早苗さんvs.ルーミア（要否は検討）
+//%ルーミアvs.早苗さん
 
 Sanae0a:Right, this is how Reimu and Keine felt when I first met them.
 
@@ -800,7 +800,7 @@ Sanae0a:N-Nothing.
 <end>
 
 <ChatID:20>-------------------------------------
-//ゆゆ様vs.ルーミア（要否は検討）
+//%ルーミアvs.ゆゆ様
 
 Yuyuko0a:Oh right, I'd asked Youmu to investigate something.
 
@@ -811,7 +811,7 @@ Yuyuko0a:I mean my gardener over there. Her immature side is just as cute back t
 <end>
 
 <ChatID:21>----------------------------------------
-//R02：ルーミアvs.非想天則
+//%ルーミアvs.非想天則
 
 Tensoku0a:...
 

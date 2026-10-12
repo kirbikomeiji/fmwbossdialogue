@@ -752,7 +752,7 @@ Korin4b:Now go, Marisa. I'll be watching you from afar.
 <end>
 
 <ChatID:7>----------------------------------------
-//エリーvs.まくら
+//%エリーvs.まくら
 
 Elliy0b:I've never seen you around. What's your name?
 
@@ -767,7 +767,7 @@ Makura3c:Sure, I'd love to study your danmaku too, Elly.
 <end>
 
 <ChatID:8>----------------------------------------
-//エリーvs.メーコ
+//%エリーvs.メーコ
 
 Elliy1b:Oh, you're...
 
@@ -782,7 +782,7 @@ Elliy4a:(This is what I mean by a head full of fluff...)
 <end>
 
 <ChatID:9>----------------------------------------
-//エリーvs.エリー（M04流用）
+//%エリーvs.エリー（M04流用）
 
 <nomove>
 
@@ -809,7 +809,7 @@ Elliy5a:Yeah, you too!
 <end>
 
 <ChatID:10>----------------------------------------
-//エリーvs.幽香（M04流用）
+//%エリーvs.幽香（M04流用）
 
 Elliy1b:Eh? Yuuka?!
 
@@ -822,7 +822,7 @@ Elliy2b:That's my Yuuka! Even my hallucination's merciless!
 <end>
 
 <ChatID:11>----------------------------------------
-//エリーvs.くるみ（M04流用）
+//%エリーvs.くるみ（M04流用）
 
 Elliy0a:Oh, it's Kurumi. What're you doing here?
 

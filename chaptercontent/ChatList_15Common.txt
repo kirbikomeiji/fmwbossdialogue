@@ -974,7 +974,7 @@ Kurumi5b:We've gotta be a little helpful and stop you!
 <end>
 
 <ChatID:21>----------------------------------------
-//フランvs.まくら
+//%フランvs.まくら
 
 Makura1b:What destructive power!
 
@@ -993,7 +993,7 @@ Flan1d:Tee hee, nightmarish? Nice! Then I'll show you too!
 <end>
 
 <ChatID:22>----------------------------------------
-//フランvs.メーコ
+//%フランvs.メーコ
 
 Flan1a:Ooh, found a good toy!
 
@@ -1010,7 +1010,7 @@ Meko2a:Again, neither!
 <end>
 
 <ChatID:23>----------------------------------------
-//フランvs.フラン
+//%フランvs.フラン
 
 <nomove>
 
@@ -1045,7 +1045,7 @@ Flan1e:I don't need you! I'll destroy you and make you disappear!
 <end>
 
 <ChatID:24>----------------------------------------
-//フランvs.レミリア
+//%フランvs.レミリア
 
 Remilia5a:Flan...
 
@@ -1064,7 +1064,7 @@ Remilia1d:(My inescapable past... No, I should be thankful to this dream journey
 <end>
 
 <ChatID:25>----------------------------------------
-//フランvs.こいし
+//%フランvs.こいし
 
 Koishi6c:Let's play together, Flan! I'll help you get out of here.
 
@@ -1081,7 +1081,7 @@ Flan1c:What's with you...?
 <end>
 
 <ChatID:26>----------------------------------------
-//パチュリーvs.フラン
+//%パチュリーvs.フラン
 
 Patchouli0c:Flan.
 
@@ -1100,14 +1100,14 @@ Flan1c:Gross. If you wanna play that much, let's play until you break!
 <end>
 
 <ChatID:27>----------------------------------------
-//フランvs.小悪魔
+//%フランvs.小悪魔
 
 Flan0a:「vs. Koakuma
 
 <end>
 
 <ChatID:28>----------------------------------------
-//C15：フランvs.非想天則
+//%C15：フランvs.非想天則
 
 Flan0c:What is this, a big doll?
 
