@@ -489,18 +489,25 @@ for char in chars:
                             chapters[chapter][fight] = []
                         chapters[chapter][fight].append(line)
 
-    outp = '''<!DOCTYPE html>
+    outp = f'''<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
+    <meta property="og:site_name" content="Fantasy Maiden Wars Dialogue">
+    <meta property="og:title" content={char.capitalize()}/>
+    <meta property="og:image" content="https://kirbikomeiji.github.io/fmwbossdialogue/dialogue/face_{char.capitalize()}0a.png">
+    <meta property="og:description" content="View all dialogue initiated by {char.capitalize()}.">
+    <meta name="theme-color" content="#abfff7">
+    <meta name="twitter:card" content="summary_large_image">
+
     <title>Title</title>
     <link rel="stylesheet" href="style.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script>
-        $(function(){
+        $(function(){{
             $("#includedContent").load("DialogueSelector.html");
-        });
+        }});
     </script>
     <script src="index.js"> </script>
 </head>
