@@ -34,7 +34,8 @@ body {
 }
 
 .character_button:hover {
-    border: 7px solid #71ff00;
+    background-color: #04AA6D;
+    color: white;
 }
 
 .chapter_button {
@@ -49,7 +50,7 @@ body {
 }
 
 .chapter_button:hover {
-    background-color: #04AA6D;
+    background-color: #10885c;
     color: white;
 }
 
@@ -60,7 +61,6 @@ body {
 
 .dialogue {
     display: none;
-    text-indent: 2em;
 }
 .line{
     font-family: FOT-NewRodin Pro DB;
@@ -71,6 +71,7 @@ body {
     padding: 30px 70px 30px 0px;
     border-radius: 5px;
     display: table;
+    width: 40em;
 }
 .line div{
     display: table-cell;
@@ -78,10 +79,12 @@ body {
     vertical-align: middle;
     text-align: left;
     width: 100%;
+    padding-left: 2em;
 }
 
 .line img{
     height: 6em;
     display: table-cell;
 	image-rendering: pixelated;
+    padding-left: 2em
 }
