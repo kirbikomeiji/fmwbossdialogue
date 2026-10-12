@@ -726,7 +726,7 @@ Sunny1a:Alright! Fairy army, charge!
 
 
 <ChatID:10>----------------------------------------------
-//魔理沙vsサニー
+//サニーvs魔理沙
 
 Marisa1c:You might wanna say your prayers.
 
@@ -738,7 +738,7 @@ Marisa1a:I don't care what kind of power a fairy's got. My light magic will take
 
 
 <ChatID:11>----------------------------------------------
-//魔理沙vsルナ
+//ルナvs.魔理沙
 
 Marisa1a:There you are!
 
@@ -754,7 +754,7 @@ Luna2a:Aieee!
 
 
 <ChatID:12>----------------------------------------------
-//魔理沙vsスター
+//スターvs.魔理沙
 
 Star4a:If I apologize, will you let me go?
 
@@ -770,7 +770,7 @@ Star4a:So you're not going to let me get away, huh...
 
 
 <ChatID:13>----------------------------------------------
-//アリスvsサニー
+//サニーvs.アリス
 
 Alice1c:Now then, will you return the pajamas and pillow you're carrying on your back?
 
@@ -784,7 +784,7 @@ Alice1a:Shut up and give them back!
 
 
 <ChatID:14>----------------------------------------------
-//アリスvsルナ
+//ルナvs.アリス
 
 Alice2b:I smell my coffee. You're carrying it, aren't you? That's an unusual thing for a fairy to like.
 
@@ -798,7 +798,7 @@ Luna2a:Aieee!
 
 
 <ChatID:15>----------------------------------------------
-//アリスvsスター
+//スターvsアリス
 
 Alice1c:What do you think you're doing with my plant pot?
 
@@ -812,7 +812,7 @@ Star4a:Oops, that's my cover blown.
 
 
 <ChatID:16>----------------------------------------------
-//にとりvsサニー
+//サニーvs.にとり
 
 Sunny1c:It's time for a danmaku battle!
 
@@ -824,7 +824,7 @@ Sunny1a:Those who laugh at fairies will soon be the ones crying!
 
 
 <ChatID:17>----------------------------------------------
-//にとりvsルナ
+//ルナvs.にとり
 
 Nitori1c:There's no sound around you, huh? In broader terms, does that mean your ability can control the density waves in the atmosphere?
 
@@ -838,7 +838,7 @@ Luna2a:Aieee!
 
 
 <ChatID:18>----------------------------------------------
-//にとりvsスター
+//スターvs.にとり
 
 Nitori1d:Marisa and Alice got into a fight because of you all. You owe them an apology before you leave.
 
@@ -1148,7 +1148,7 @@ Nitori1a:And I'll back you up with my Extending Arm!
 <end>
 
 <ChatID:25>----------------------------------------
-//まくらvs.アリス
+//アリスvs.まくら
 
 Makura1a:Alice Margatroid... And to think you've been by Marisa's side ever since.
 
@@ -1159,7 +1159,7 @@ Makura1c:I've said too much. I look forward to learning how you've supported eve
 <end>
 
 <ChatID:26>----------------------------------------
-//メーコvs.アリス
+//アリスvs.メーコ
 
 Meko4c:So even you've fought against Marisa, Alice?
 
@@ -1214,7 +1214,7 @@ Alice1b:Hold on, what do you mean?!
 <end>
 
 <ChatID:29>----------------------------------------
-//神綺vs.アリス
+//アリスvs.神綺
 
 Shinki0c:Whoops. And here I am.
 
@@ -1229,7 +1229,7 @@ Shinki2a:Ugh... I'm glad you have so much faith in me, but I'm not sure how to f
 <end>
 
 <ChatID:30>----------------------------------------
-//夢子vs.アリス
+//アリスvs.夢子
 
 Yumeko4a:Taken in by these fairies? I know you're good natured, but please don't overdo it.
 
@@ -1246,7 +1246,7 @@ Alice4a:We don't get this chance often, so I wish I could've at least prepated f
 <end>
 
 <ChatID:31>----------------------------------------
-//メディvs.アリス
+//アリスvs.メディ
 
 Medicine1a:Getting tricked by fairies like that? What a scatterbrain, right Sue?
 
