@@ -1,18 +1,14 @@
 function onInit() {
-    document.querySelectorAll('.chapter_button').forEach((button) => {
-        if (document.getElementById(button.title) !== null)
-            button.style.display = 'inline-block';
-        else
-            button.style.display = 'none';
-    });
-    document.querySelectorAll('.chapters').forEach((dialogue) => {
-
-        if (document.querySelector(`#b_${dialogue.title.toLowerCase()}`))
-            document.querySelector(`#b_${dialogue.title.toLowerCase()}`).style.display = 'inline-block';
-    });
+    // document.querySelectorAll('.chapter_button').forEach((button) => {
+    //     if (document.getElementById(button.title) !== null)
+    //         button.style.display = 'inline-block';
+    //     else
+    //         button.style.display = 'none';
+    // });
+    showChapterButtons()
 
     let path = window.location.pathname;
-    name = path.substring(path.lastIndexOf('/') + 1, path.length - 5);
+    let name = path.substring(path.lastIndexOf('/') + 1, path.length - 5);
     name = String(name[0]).toUpperCase() + String(name).slice(1);
     document.querySelector('#title').innerHTML = `${name} <img src="./dialogue/face_${name}0a.png">`;
 
@@ -25,6 +21,28 @@ function onInit() {
         if (character != null)
             showchar(character);
     }
+}
+function showChapterButtons()
+{
+    document.querySelectorAll('.chapter_button').forEach((chapter) => {
+        chapter.style.display = 'none';
+    })
+
+    let show_ng = document.querySelector('#ng-toggle').checked;
+     document.querySelectorAll('.chapter_button').forEach((button) => {
+         let chapter =document.getElementById(button.title);
+         if (chapter)
+         {
+             let has_chapter = false;
+             chapter.querySelectorAll('.dialogue').forEach((dialogue) => {
+                 if (show_ng || dialogue.getAttribute("data-ng") == null) {
+                     has_chapter = true;
+                 }
+             });
+             if (has_chapter)
+                button.style.display = 'inline-block';
+         }
+     });
 }
 
 let chapter_names = {
@@ -134,15 +152,15 @@ let chapter_names = {
     "05Meko": "One Step Beyond the End",
 }
 
-function showChapter(id, button) {
+function showChapter(id, this_button) {
     document.querySelectorAll('.chapter_button').forEach((button) => {
         button.disabled = false;
     });
     document.querySelectorAll('.character_button').forEach((button) => {
         button.disabled = false;
     });
-
-    button.disabled = true;
+    if (this_button)
+        this_button.disabled = true;
     const url = new URL(window.location.href);
     url.searchParams.set('chapter', id);
     url.searchParams.delete('character');
@@ -155,12 +173,16 @@ function showChapter(id, button) {
     document.querySelectorAll('.character_button').forEach((button) => {
         button.style.display = 'none';
     });
+    let show_ng = document.querySelector('#ng-toggle').checked;
     document.querySelectorAll('.chapters').forEach((chapter) => {
+
         if (chapter.id === id) {
             chapter.style.display = "inline-block";
 
             chapter.querySelectorAll('.dialogue').forEach((dialogue) => {
-                document.querySelector(`#b_${dialogue.title.toLowerCase()}`).style.display = 'inline-block';
+                if (show_ng || dialogue.getAttribute("data-ng") == null) {
+                    document.querySelector(`#b_${dialogue.title.toLowerCase()}`).style.display = 'inline-block';
+                }
             });
         } else
             chapter.style.display = "none";
@@ -170,12 +192,13 @@ function showChapter(id, button) {
     });
 }
 
-function showchar(id, button) {
+function showchar(id, this_button) {
     document.querySelectorAll('.character_button').forEach((button) => {
         button.disabled = false;
     });
 
-    button.disabled = true;
+    if (this_button)
+       this_button.disabled = true;
     const url = new URL(window.location.href);
     url.searchParams.set('character', id);
     window.history.replaceState(null, null, url);
@@ -186,4 +209,24 @@ function showchar(id, button) {
             char.style.display = "none";
     });
 }
+function toggleNG(button)
+{
+    document.querySelectorAll('.box').forEach((dialogue) => {
+        let ng = dialogue.getAttribute("data-ng");
+        if (ng)
+        {
+            if (button.checked)
+                dialogue.style.display = 'inline-block';
+            else
+                dialogue.style.display = 'none';
+        }
+    });
+    const url = new URL(window.location.href);
+    const chapter = url.searchParams.get("chapter");
 
+    if (chapter != null) {
+        showChapter(chapter);
+    }
+
+    showChapterButtons();
+}

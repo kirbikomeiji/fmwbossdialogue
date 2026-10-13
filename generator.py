@@ -469,6 +469,9 @@ for char in chars:
         with open("./chaptercontent/ChatList_"+ e +".txt", "r", encoding="utf-8") as file:
             chapter = e
             for line in file:
+                if (len(line) > 4 and line[0:3] == "//%"):
+                    line = line.replace("//%", "//")
+                    ngp = True
                 result = re.search(r"\/\/(.*?)([^\：]*)(?:vs\.*|・)(.*)" ,line)       
                 if (result and len(result.groups()) == 3) :
                     if (len(result.groups()[0]) > 2 and result.groups()[0][:-1] in files) :
@@ -477,16 +480,19 @@ for char in chars:
                         if (result.groups()[1] in names):
                             fights =  names[result.groups()[1]]
                         else:
-                            print(result.groups()[1])
+                            print(e + result.groups()[1])
                 elif ("<end>" in line):
                     fights = {}
                     chapter = e
+                    ngp = False
                 else: 
                     for fight in fights:
                         if chapter not in chapters :
                             chapters[chapter] = {}
                         if fight not in chapters[chapter]:
                             chapters[chapter][fight] = []
+                            if (ngp):
+                                chapters[chapter][fight].append("ng")
                         chapters[chapter][fight].append(line)
 
     outp = f'''<!DOCTYPE html>
@@ -518,8 +524,13 @@ for char in chars:
     for chapter_name, chapter in chapters.items():
         outp += f'''<div class="chapters" id="{chapter_name}"> '''
         for fight_name, fight in chapter.items():
-            outp += f'''<div class="dialogue" title="{fight_name.lower()}">'''
+            if (len(fight) != 0 and fight[0] == "ng"):
+                outp += f'''<div class="dialogue" data-ng=1 title="{fight_name.lower()}">'''
+            else:
+                outp += f'''<div class="dialogue" title="{fight_name.lower()}">'''
             for line in fight:
+                if(line == "ng"):
+                    continue
                 if(len(line) > 3 and line[0] != "<"):
                     line_parts = (line.strip()).split(":")
                     if len(line_parts) == 1:
