@@ -13,10 +13,16 @@ body {
 		background-repeat: no-repeat;
 		background-position: right top;
 		background-attachment: fixed;
-        background-size: 1920px 1080px;
+        background-size: cover;
 		font-family: "FOT-NewRodin Pro DB";
-		color: white
+		color: white;
+        text-shadow: #000000 2px 1px 1px;
     }
+
+p {
+    text-shadow: black 6px 4px 4px;
+    font-size: 2em;
+}
 
 .character_button {
     background-color: rgba(39, 160, 132, 0.84);
@@ -62,23 +68,21 @@ body {
 }
 
 .character_button:disabled {
-    border: 5px solid #000000;
+    border: 5px solid #04AA6D;
 }
 
 .chapters {
     display: none;
     padding: 30px 0px;
-
+}
 
 #chapter_header {
     font-size: 1.5em;
     text-shadow: black 2px 1px 1px;
 }
-}
 
 .dialogue {
     display: none;
-    text-indent: 2em;
 }
 .line{
     font-family: FOT-NewRodin Pro DB;
@@ -89,8 +93,8 @@ body {
     padding: 30px 70px 30px 0px;
     border-radius: 5px;
     display: table;
-    text-shadow: #000000 2px 1px 1px;
-    width: 100%;
+    width: 80%;
+
 }
 .line div{
     display: table-cell;
@@ -103,15 +107,18 @@ body {
 .line img{
     height: 6em;
     display: table-cell;
+    padding-left: 1em;
+    padding-right: 1em;
 	image-rendering: pixelated;
 }
 
 /* The switch - the box around the slider */
 .switch {
-    position: relative;
+    position: absolute;
     display: inline-block;
-    width: 60px;
-    height: 34px;
+    width: 3em;
+    height: 3em;
+    right: 1em;
 }
 
 /* Hide default HTML checkbox */
@@ -129,44 +136,29 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #ccc;
-    -webkit-transition: .4s;
-    transition: .4s;
-}
-
-.slider:before {
-    position: absolute;
-    content: "";
-    height: 26px;
-    width: 26px;
-    left: 4px;
-    bottom: 4px;
-    background-color: white;
-    -webkit-transition: .4s;
-    transition: .4s;
+    background-color: rgba(39, 160, 132, 0.84);
+    background-image: url("./menu/unit_Reimu_0.png");
+    background-size: 2em;
+    background-position: center;
+    background-repeat: no-repeat;
+    image-rendering: pixelated;
+    border: 2px solid #116144;
+    padding: 1.2em;
 }
 
 input:checked + .slider {
-    background-color: #2196F3;
+    background-color: #04AA6D;
+    background-image: url("./menu/unit_Meko_0.png");
+    background-repeat: no-repeat;
+    border: 2px solid #116144;
 }
 
 input:focus + .slider {
     box-shadow: 0 0 1px #2196F3;
 }
 
-input:checked + .slider:before {
-    -webkit-transform: translateX(26px);
-    -ms-transform: translateX(26px);
-    transform: translateX(26px);
-}
-
-/* Rounded sliders */
-.slider.round {
-    border-radius: 34px;
-}
-
-.slider.round:before {
-    border-radius: 50%;
+a{
+    color:#ffffaa;
 }
 
 [data-ng] {

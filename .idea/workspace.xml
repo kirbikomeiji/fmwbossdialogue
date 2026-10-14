@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ad749d8-c775-4725-800a-a531e4db345a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/chaptercontent/ChatList_56Common.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chaptercontent/ChatList_56Common.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chaptercontent/ChatList_57Common.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chaptercontent/ChatList_57Common.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chaptercontent/ChatList_58Common.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chaptercontent/ChatList_58Common.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chaptercontent/ChatList_59Common.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chaptercontent/ChatList_59Common.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chaptercontent/ChatList_60Common.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chaptercontent/ChatList_60Common.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chaptercontent/ChatList_61Common.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chaptercontent/ChatList_61Common.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3KgzMrKappDIW5VUJ8iRdTxSEs7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.index.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Kirbi/Documents/GitHub/fmwbossdialogue"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/fmwbossdialogue/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.10968.77" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ad749d8-c775-4725-800a-a531e4db345a" name="Changes" comment="" />
+      <created>1791993956889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791993956889</updated>
+      <workItem from="1791993957616" duration="7835000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

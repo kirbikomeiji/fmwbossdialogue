@@ -16,8 +16,9 @@
 		background-repeat: no-repeat;
 		background-position: right top;
 		background-attachment: fixed;
-        background-size: 1920px 1080px;
+        background-size: cover;
 		font-family: "Fot-NewRodin Pro DB";
+        max-width: 300em
     }
     img {
         image-rendering: pixelated;             /* STOP SMOOTHING, GIVE ME SPEED  */
@@ -42,20 +43,26 @@
         color: #fff;
         border-radius: 10px;
         padding: 1em;
+        border: 7px solid #116144;
     }
     .box img {
         width: 8em;
         height: 7em;
         object-fit: contain;
         overflow: hidden;
+        aspect-ratio: 1;
     }
 
 </style>
 <head>
-
+    <label class="switch">
+        <input type="checkbox" onclick="toggleNG(this)">
+        <span class="slider round"></span>
+    </label>
     <meta charset="UTF-8">
     <title>FMW Boss Dialogue</title>
 	<P>This is a website for fans to read various boss dialogues within Fantasy Maiden Wars. Click a character to bring up a list of chapters that they speak to the stage's boss in, and click an applicable character to view the dialogue!</P>
+    <P>Click the Reimu button on the top right to toggle NG+!</P>
     <meta property="og:site_name" content="Fantasy Maiden Wars Dialogue">
     <meta property="og:title" content="Fantasy Maiden Wars Dialogue">
     <meta property="og:description" content="This is a website for fans to read various boss dialogues within Fantasy Maiden Wars">
@@ -64,13 +71,10 @@
     <meta property="og:image:height" content="200">
     <meta name="theme-color" content="#abfff7">
     <meta name="twitter:card" content="summary_large_image">
+
+
 </head>
 <body>
-
-<label class="switch">
-    <input type="checkbox" onclick="toggleNG(this)">
-    <span class="slider round"></span>
-</label>
 
 
 <div class="wrapper">
@@ -159,6 +163,6 @@
 
 
 </div>
-
+<p>shoddily made by <a href="https://bsky.app/profile/kirbikomeiji.bsky.social">kirbikomeiji</a> and <a href="https://archiveofourown.org/users/YoStrix/">StellaEngineer</a></p>
 </body>
 </html>

@@ -1815,7 +1815,7 @@ Kappa1a:Okay, here we go everyone! Let's fire a volley to commemorate the bazaar
 <end>
 
 <ChatID:68>----------------------------------------
-//天子vs.メーコ
+//%天子vs.メーコ
 
 Meko1c:A kappa bazaar on a big river, huh...
 
@@ -1834,7 +1834,7 @@ Tenshi1b:C'mon, pay attention to me already!
 <end>
 
 <ChatID:69>----------------------------------------
-//天子vs.まくら
+//%天子vs.まくら
 
 Makura1c:Provoking Gensokyo like this is a little...
 
@@ -1853,7 +1853,7 @@ Tenshi1b:"The grass knows to bend in a strong gale." The more you resist, the gr
 <end>
 
 <ChatID:70>----------------------------------------
-//天子vs.天子
+//%天子vs.天子
 
 <nomove>
 
@@ -1900,7 +1900,7 @@ Tenshi1b:"You're looking at the ceiling through your skull!" Broaden your horizo
 <end>
 
 <ChatID:71>----------------------------------------
-//天子vs.依姫
+//%天子vs.依姫
 
 Yorihime0a:...So this is you from a little earlier.
 
@@ -1919,7 +1919,7 @@ Yorihime1b:You're not even worth my time! Come at me head on!
 <end>
 
 <ChatID:72>----------------------------------------
-//天子vs.豊姫
+//%天子vs.豊姫
 
 Toyohime2c:So you're a celestial? Huh...
 
@@ -1947,7 +1947,7 @@ Toyohime0b:It's not like I have a duty to, so maybe I'll join in!
 <end>
 
 <ChatID:74>----------------------------------------
-//C57：天子vs.非想天則
+//%C57：天子vs.非想天則
 
 Tensoku0a:...
 

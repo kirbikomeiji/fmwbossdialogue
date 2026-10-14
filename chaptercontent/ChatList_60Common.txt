@@ -1289,7 +1289,7 @@ Yuka0c:Oh, not at all. But I'm sure you'd shine even brighter on a larger stage.
 <end>
 
 <ChatID:46>----------------------------------------
-//メディスンvs.メーコ
+//%メディスンvs.メーコ
 
 Medicine0d:You look kinda animal-ly...
 
@@ -1304,7 +1304,7 @@ Meko1b:Hey, putting people to sleep is MY power! We'll race to see who falls asl
 <end>
 
 <ChatID:47>----------------------------------------
-//メディスンvs.まくら
+//%メディスンvs.まくら
 
 Makura0h:What a beautiful yet lonely field of suzuran.
 
@@ -1323,7 +1323,7 @@ Medicine1b:If you like Sue so much, then you can go to sleep here!
 <end>
 
 <ChatID:48>----------------------------------------
-//メディスンvs.メディスン
+//%メディスンvs.メディスン
 
 <nomove>
 
@@ -1350,7 +1350,7 @@ Medicine3c:Oh, but why don't you go and see for yourself?
 <end>
 
 <ChatID:49>----------------------------------------
-//メディスンvs.神綺
+//%メディスンvs.神綺
 
 Shinki5a:Medi!
 
@@ -1373,7 +1373,7 @@ Medicine1c:...Seriously, who are you?!
 <end>
 
 <ChatID:50>----------------------------------------
-//メディスンvs.夢子
+//%メディスンvs.夢子
 
 Yumeko5c:...So this is how she used to act. That's surprising.
 
@@ -1394,7 +1394,7 @@ Medicine0c:Hmph! I just have to put you to sleep with the others!
 <end>
 
 <ChatID:51>----------------------------------------
-//メディスンvs.幽香
+//%メディスンvs.幽香
 
 <nomove>
 
@@ -1431,7 +1431,7 @@ Yuka0d:With how you are now, how about we enjoy your danmaku together?
 <end>
 
 <ChatID:52>----------------------------------------
-//メディスンvs.非想天則
+//%メディスンvs.非想天則
 
 Tensoku0a:...
 
@@ -1448,7 +1448,7 @@ Tensoku0a:...!
 <end>
 
 <ChatID:53>----------------------------------------
-//幽香vs.まくら
+//%幽香vs.まくら
 
 Makura1c:Yuuka Kazami...
 
@@ -1467,7 +1467,7 @@ Makura2a:...As unruly as ever.
 <end>
 
 <ChatID:54>----------------------------------------
-//幽香vs.メーコ
+//%幽香vs.メーコ
 
 Yuka2d:Oh, it's you. Up to more mischief?
 
