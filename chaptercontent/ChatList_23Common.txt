@@ -1399,7 +1399,7 @@ Nitori2a:Y-Yes, ma'am! ...Wait, I can't talk like that now!
 <end>
 
 <ChatID:48>----------------------------------------
-//神奈子vs.まくら
+//%神奈子vs.まくら
 
 Makura0e:Restoring your divine power through the salvation of faith... This is the method you've attempted.
 
@@ -1424,7 +1424,7 @@ Makura1a:A mountain dream that chases the new. Allow me to ascertain its form.
 <end>
 
 <ChatID:49>----------------------------------------
-//神奈子vs.メーコ
+//%神奈子vs.メーコ
 
 Kanako1a:So these sorts of minor youkai exist as well... Truly a chaotic flock.
 
@@ -1439,7 +1439,7 @@ Kanako1a:So you can accomplish nothing through your own effort. You are exactly 
 <end>
 
 <ChatID:50>----------------------------------------
-//神奈子vs.神奈子
+//%神奈子vs.神奈子
 
 <nomove>
 
@@ -1478,7 +1478,7 @@ Kanako1c:I would say the same to you. For the future of the Moriya faith, you wi
 <end>
 
 <ChatID:51>----------------------------------------
-//諏訪子vs.まくら
+//%諏訪子vs.まくら
 
 Makura0c:You give off a slightly different aura from Kanako.
 
@@ -1499,7 +1499,7 @@ Suwako1a:That's enough chit-chat. If you wanna know more, then you have to play 
 <end>
 
 <ChatID:52>----------------------------------------
-//諏訪子vs.メーコ
+//%諏訪子vs.メーコ
 
 Meko4c:You're from the same shrine as Kanako, but you couldn't be more different, huh?
 
@@ -1516,7 +1516,7 @@ Meko5a:Eek! And now the terror is way more describable!
 <end>
 
 <ChatID:53>----------------------------------------
-//諏訪子vs.諏訪子
+//%諏訪子vs.諏訪子
 
 <nomove>
 
@@ -1543,7 +1543,7 @@ Suwako3b:Ha ha, yup, exactly! You got me down to a tee!
 <end>
 
 <ChatID:54>----------------------------------------
-//神奈子vs.早苗
+//%神奈子vs.早苗
 
 Kanako2a:Sanae? What brings you here?
 
@@ -1560,7 +1560,7 @@ Sanae0c:(Right... Back then, all I wanted was to be by her side too.)
 <end>
 
 <ChatID:55>----------------------------------------
-//諏訪子vs.早苗
+//%諏訪子vs.早苗
 
 Suwako0a:Oh hey, it's Sanae. Didn't you lose to Hakurei?
 
@@ -1579,7 +1579,7 @@ Suwako3b:Let's do it, let's do it! That's a shrine maiden's job, isn't it?
 <end>
 
 <ChatID:56>----------------------------------------
-//神奈子vs.神綺
+//%神奈子vs.神綺
 
 Shinki5a:Whoa, how dignified.
 
@@ -1596,7 +1596,7 @@ Shinki0c:I'm a little different, maybe. I want every living being to be happy.
 <end>
 
 <ChatID:57>----------------------------------------
-//C23：神奈子vs.非想天則
+//%C23：神奈子vs.非想天則
 
 Tensoku0a:...
 
@@ -1613,7 +1613,7 @@ Kanako1a:Submit, and become my servant.
 <end>
 
 <ChatID:58>----------------------------------------
-//C23：諏訪子vs.非想天則
+//%C23：諏訪子vs.非想天則
 
 Tensoku0a:...
 

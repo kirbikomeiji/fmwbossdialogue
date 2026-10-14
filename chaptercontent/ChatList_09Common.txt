@@ -748,7 +748,7 @@ Patchouli0a:How much longer should I keep indulging Remi's game?
 <end>
 
 <ChatID:9>--------------------------------------------------
-//霊夢vsパチュリー
+//パチュリーvs.霊夢
 
 Patchouli0a:You, in the red and white!
 
@@ -767,7 +767,7 @@ Patchouli0a:...Make that ten years.
 <end>
 
 <ChatID:10>--------------------------------------------------
-//魔理沙vsパチュリー
+//パチュリーvs.魔理沙
 
 Patchouli0a:Your magic imitates stars, I see.
 
@@ -1213,7 +1213,7 @@ Alice0a:Next, the red stone will stop its danmaku, and the black stone will acti
 <end>
 
 <ChatID:42>--------------------------------------------------
-//小悪魔vs.まくら
+//%小悪魔vs.まくら
 
 Makura0h:What a magnificent library. I'd love to drop by to browse sometime.
 
@@ -1226,7 +1226,7 @@ Koakuma2b:Work's been hard enough ever since she made that hole in the wall. I w
 <end>
 
 <ChatID:43>--------------------------------------------------
-//パチュリーvs.まくら
+//%パチュリーvs.まくら
 
 Makura0h:This place is full of the scent of magic and knowledge. How cozy.
 
@@ -1239,7 +1239,7 @@ Makura3a:I'd love to borrow a book, if possible. One that wouldn't put me to sle
 <end>
 
 <ChatID:44>--------------------------------------------------
-//小悪魔vs.メーコ
+//%小悪魔vs.メーコ
 
 Meko4c:You have to keep all these books in order? Sounds tough.
 
@@ -1252,7 +1252,7 @@ Meko4b:I know exactly what you mean! I can do anything, if it's for Lady Makura!
 <end>
 
 <ChatID:45>--------------------------------------------------
-//パチュリーvs.メーコ
+//%パチュリーvs.メーコ
 
 Meko0g:All these books look so difficult...
 
@@ -1267,7 +1267,7 @@ Patchouli4a:So we're reduced to discussing mere literacy?
 <end>
 
 <ChatID:46>--------------------------------------------------
-//パチュリーvs.パチュリー
+//%パチュリーvs.パチュリー
 
 <nomove>
 
@@ -1292,7 +1292,7 @@ Patchouli4a:Something along those lines. Now where was that book on doppelganger
 <end>
 
 <ChatID:47>--------------------------------------------------
-//くるみvs.くるみ
+//%くるみvs.くるみ
 
 <nomove>
 
@@ -1321,7 +1321,7 @@ Kurumi3a:Yeah, I thought so too!
 <end>
 
 <ChatID:48>--------------------------------------------------
-//小悪魔vs.くるみ
+//%小悪魔vs.くるみ
 
 <nomove>
 
@@ -1346,7 +1346,7 @@ Kurumi6d:Wah! She didn't understand!
 <end>
 
 <ChatID:49>--------------------------------------------------
-//エリーvs.くるみ
+//%エリーvs.くるみ
 
 Kurumi0c:Huh? Elly?!
 
@@ -1361,7 +1361,7 @@ Elliy2b:Gah, nothing hurts worse than that "I don't get it" reaction!
 <end>
 
 <ChatID:50>--------------------------------------------------
-//小悪魔vs.小悪魔
+//%小悪魔vs.小悪魔
 
 <nomove>
 
@@ -1390,7 +1390,7 @@ Koakuma1b:In which case you're a valuable experiment! I have to capture you!
 <end>
 
 <ChatID:51>--------------------------------------------------
-//小悪魔vs.神綺
+//%小悪魔vs.神綺
 
 Shinki1c:...I knew it. These stones are from Makai.
 
@@ -1409,7 +1409,7 @@ Koakuma1a:Then I'll just have to capture you and make you talk!
 <end>
 
 <ChatID:52>--------------------------------------------------
-//パチュリーvs.レミリア
+//%パチュリーvs.レミリア
 
 Remilia1e:Hmm, you've been up to something interesting.
 
@@ -1424,7 +1424,7 @@ Patchouli1a:Indeed. I thought you'd be extra frustrated if I spoiled the masterm
 <end>
 
 <ChatID:53>--------------------------------------------------
-//パチュリーvs.美鈴
+//%パチュリーvs.美鈴
 
 Patchouli0c:Meiling? What happened to the gate?
 
@@ -1441,7 +1441,7 @@ Patchouli1c:Spare me your excuses. The application of a little magic should cool
 <end>
 
 <ChatID:54>--------------------------------------------------
-//パチュリーvs.フラン
+//%パチュリーvs.フラン
 
 Flan3f:Patchouli! Let's play!
 
@@ -1462,7 +1462,7 @@ Patchouli4f:You want books...? What is even going on anymore?
 <end>
 
 <ChatID:55>--------------------------------------------------
-//パチュリーvs.咲夜さん
+//%パチュリーvs.咲夜さん
 
 Patchouli1d:What are you doing here, Sakuya?
 
@@ -1477,7 +1477,7 @@ Sakuya6a:My only means of clearing your doubts is to show off some sleight of ha
 <end>
 
 <ChatID:56>--------------------------------------------------
-//パチュリーvs.幽香
+//%パチュリーvs.幽香
 
 Yuka0b:Good evening.
 
@@ -1492,7 +1492,7 @@ Patchouli4b:Oh dear, Remi certainly invited a troublesome guest.
 <end>
 
 <ChatID:57>--------------------------------------------------
-//パチュリーvs.神綺
+//%パチュリーvs.神綺
 
 Shinki0a:That's my Alice, seeing through the trick of the magic stones.
 
@@ -1507,7 +1507,7 @@ Patchouli4a:Again, why are YOU proud of that?
 <end>
 
 <ChatID:58>--------------------------------------------------
-//パチュリーvs.夢子
+//%パチュリーvs.夢子
 
 Yumeko5a:These stones are from Makai, aren't they?
 
@@ -1520,7 +1520,7 @@ Yumeko4a:To think the objects of Makai are being circulated without permission. 
 <end>
 
 <ChatID:59>--------------------------------------------------
-//パチュリーvs.魅魔
+//%パチュリーvs.魅魔
 
 Mima0c:I see, so you're still researching the movements of elemental spirits?
 
@@ -1537,7 +1537,7 @@ Patchouli1c:I have no idea what you're talking about, but you are undeniably skl
 <end>
 
 <ChatID:60>--------------------------------------------------
-//パチュリーvs.非想天則
+//%パチュリーvs.非想天則
 
 Patchouli5a:An enourmous puppet?! Sure this isn't the work of that puppeteer?
 
@@ -1550,7 +1550,7 @@ Patchouli1b:No use overthinking it. I'll capture it as I fight them off, then re
 <end>
 
 <ChatID:61>----------------------------------------
-//くるみvs.非想天則
+//%くるみvs.非想天則
 
 Tensoku0a:...
 
@@ -1563,7 +1563,7 @@ Kurumi1c:And Elly made so much fun of me for believing in it! I'll capture it an
 <end>
 
 <ChatID:62>----------------------------------------
-//小悪魔vs.非想天則
+//%小悪魔vs.非想天則
 
 Tensoku0a:...
 

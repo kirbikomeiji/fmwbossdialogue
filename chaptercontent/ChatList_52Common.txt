@@ -1856,7 +1856,7 @@ Marisa0a:So I guess we gotta use the bridge so they don't see us from the Old Ca
 <end>
 
 <ChatID:68>----------------------------------------
-//パルスィvs.まくら
+//%パルスィvs.まくら
 
 Makura3a:So this is the first encounter between Parsee and the others.
 
@@ -1879,7 +1879,7 @@ Makura0f:...It's actually a little reassuring to know you've always been like th
 <end>
 
 <ChatID:69>----------------------------------------
-//パルスィvs.メーコ
+//%パルスィvs.メーコ
 
 Parsee1b:...I'm jealous of that fluffy hair you've got.
 
@@ -1896,7 +1896,7 @@ Parsee2a:Hmph, I hate people who go around flaunting how positive they are!
 <end>
 
 <ChatID:70>----------------------------------------
-//勇儀vs.まくら
+//%勇儀vs.まくら
 
 Yugi1a:Hey you, the one in the blanket! Wanna drink?
 
@@ -1917,7 +1917,7 @@ Makura6b:That's not what I meant...
 <end>
 
 <ChatID:71>----------------------------------------
-//勇儀vs.メーコ
+//%勇儀vs.メーコ
 
 Meko1a:Yuugi the Strong, of the Four Devas...
 
@@ -1934,7 +1934,7 @@ Meko2c:Sheesh, I don't have much of a choice at this point!
 <end>
 
 <ChatID:73>----------------------------------------
-//勇儀vs.パルスィ
+//%勇儀vs.パルスィ
 
 <nomove>
 
@@ -1969,7 +1969,7 @@ Parsee5a:I wish you'd treat me like that when we're NOT fighting...
 <end>
 
 <ChatID:74>----------------------------------------
-//パルスィvs.勇儀
+//%パルスィvs.勇儀
 
 <nomove>
 
@@ -2000,7 +2000,7 @@ Yugi3b:Haha, that's more like it. Now let's have a fun one!
 <end>
 
 <ChatID:75>----------------------------------------
-//勇儀vs.勇儀
+//%勇儀vs.勇儀
 
 <nomove>
 
@@ -2025,7 +2025,7 @@ Yugi1f:You know it! Then let's settle this!
 <end>
 
 <ChatID:76>----------------------------------------
-//パルスィvs.パルスィ
+//%パルスィvs.パルスィ
 
 <nomove>
 
@@ -2063,7 +2063,7 @@ Parsee2a:Now I'm jealous that you can be jealous of even me!
 <end>
 
 <ChatID:78>----------------------------------------
-//C52：パルスィvs.非想天則
+//%C52：パルスィvs.非想天則
 
 Tensoku0a:...
 
@@ -2080,7 +2080,7 @@ Parsee0d:Aw hell, I'm so jealous! Jealous of your very existence!
 <end>
 
 <ChatID:79>----------------------------------------
-//C52：勇儀vs.非想天則
+//%C52：勇儀vs.非想天則
 
 Yugi1c:Hey, big dude, wanna have a showndown?!
 

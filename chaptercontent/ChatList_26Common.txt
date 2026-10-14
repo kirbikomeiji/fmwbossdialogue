@@ -934,7 +934,7 @@ Letty1a:...I'm going to bury you under a snowdrift.
 <end>
 
 <ChatID:29>----------------------------------------
-//レティvs.まくら
+//%レティvs.まくら
 
 Makura4a:It's so cold...
 
@@ -947,7 +947,7 @@ Letty4a:Sure, the winter's stronger, but please dress properly for the season in
 <end>
 
 <ChatID:30>----------------------------------------
-//レティvs.メーコ
+//%レティvs.メーコ
 
 Meko1f:I'm just dandy with a little cold!
 
@@ -960,7 +960,7 @@ Letty4a:...I didn't ask.
 <end>
 
 <ChatID:31>----------------------------------------
-//レティvs.レティ
+//%レティvs.レティ
 
 <nomove>
 
@@ -985,7 +985,7 @@ Letty0c:Why don't you check for yourself with danmaku?
 <end>
 
 <ChatID:32>----------------------------------------
-//C26：レティvs.非想天則
+//%C26：レティvs.非想天則
 
 Tensoku0a:...
 

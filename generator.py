@@ -272,6 +272,8 @@ names = {
     "妖精" : {"Yousei"},
     "慧音H" : {"KeineH"},
     "空H" : {"UtsuhoH"},
+    "神奈子" : {"Kanako"},
+    "諏訪子様" : {"Suwako"}, 
 }
 
 files = {"01Reimu",

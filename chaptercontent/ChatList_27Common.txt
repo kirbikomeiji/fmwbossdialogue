@@ -750,7 +750,7 @@ Youmu1a:Then you leave me no choice. I must gather the spring from this area and
 <end>
 
 <ChatID:19>---------------------------------------
-//妖夢vs.まくら
+//%妖夢vs.まくら
 
 Makura0g:It's only slight, but I can sense a trace of spring on you.
 
@@ -763,7 +763,7 @@ Makura1c:Regardless, allow me to recover that paltry sum of spring.
 <end>
 
 <ChatID:20>---------------------------------------
-//妖夢vs.メーコ
+//%妖夢vs.メーコ
 
 Meko4c:You're fighting everyone else now, but aren't you of two minds about it?
 
@@ -780,7 +780,7 @@ Meko1a:Wow, she's really serious!
 <end>
 
 <ChatID:21>---------------------------------------
-//妖夢vs.妖夢
+//%妖夢vs.妖夢
 
 <nomove>
 
@@ -807,7 +807,7 @@ Youmu3a:Well... so am I.
 <end>
 
 <ChatID:22>---------------------------------------
-//妖夢vs.幽々子
+//%妖夢vs.幽々子
 
 Yuyuko1a:You sure are working hard today, Youmu.
 
@@ -822,7 +822,7 @@ Yuyuko3c:...Kidding. But how can I tell you to stop, when you're wearing such an
 <end>
 
 <ChatID:23>---------------------------------------
-//妖夢vs.鈴仙
+//%妖夢vs.鈴仙
 
 Udonge4d:Even when playing at being a bandit, Youmu knows how to get things done.
 
@@ -835,7 +835,7 @@ Udonge1c:But don't blame anyone but yourself if you're defeated! You knew the ri
 <end>
 
 <ChatID:24>---------------------------------------
-//妖夢vs.藍
+//%妖夢vs.藍
 
 Ran6b:Hey there, Youmu.
 
@@ -850,7 +850,7 @@ Ran4a:Hmm...
 <end>
 
 <ChatID:25>---------------------------------------
-//妖夢vs.紫
+//%妖夢vs.紫
 
 Yukari0c:I see you're in good health.
 
@@ -867,7 +867,7 @@ Youmu0b:Uh, I see...
 <end>
 
 <ChatID:26>----------------------------------------
-//C27：妖夢vs.非想天則
+//%C27：妖夢vs.非想天則
 
 Tensoku0a:...
 

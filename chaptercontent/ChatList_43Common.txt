@@ -2411,7 +2411,7 @@ Yuka0c:I'd be glad to keep you company, Alice.
 <end>
 
 <ChatID:74>----------------------------------------
-//輝夜vs.メーコ
+//%輝夜vs.メーコ
 
 Kaguya1a:Oh, what a rare youkai.
 
@@ -2434,7 +2434,7 @@ Kaguya0a:Toys, you say? Fascinating. My interest in you is growing by the second
 <end>
 
 <ChatID:75>----------------------------------------
-//輝夜vs.まくら
+//%輝夜vs.まくら
 
 Kaguya2d:It seems you control the power of dreams. I've heard of such youkai.
 
@@ -2462,18 +2462,8 @@ Makura1a:Nothing you need to know. Let's focus on the fight.
 
 <end>
 
-<ChatID:76>----------------------------------------
-//永琳vs.依姫
-
-<end>
-
-<ChatID:77>----------------------------------------
-//永琳vs.豊姫
-
-<end>
-
 <ChatID:78>----------------------------------------
-//永琳vs.まくら
+//%永琳vs.まくら
 
 Makura1c:So you'll resort to any means to achieve your objective.
 
@@ -2490,7 +2480,7 @@ Eirin5b:Are you done yet? I'll erase you along with your tedious ramblings.
 <end>
 
 <ChatID:79>----------------------------------------
-//輝夜vs.輝夜
+//%輝夜vs.輝夜
 
 <nomove>
 
@@ -2515,7 +2505,7 @@ Kaguya1a:I'll play along with this game of danmaku, so please, entertain me more
 <end>
 
 <ChatID:80>----------------------------------------
-//輝夜vs.依姫
+//%輝夜vs.依姫
 
 Yorihime0c:It's been quite some time, Princess Kaguya.
 
@@ -2542,7 +2532,7 @@ Yorihime0a:I simply wish to know you, as a personal wish. At least allow me to f
 <end>
 
 <ChatID:81>----------------------------------------
-//輝夜vs.豊姫
+//%輝夜vs.豊姫
 
 Kaguya2e:As I recall, aren't you...?
 
@@ -2575,7 +2565,7 @@ Toyohime0b:These bullets contain a thousand years of my feelings. You definitely
 <end>
 
 <ChatID:82>----------------------------------------
-//輝夜vs.永琳
+//%輝夜vs.永琳
 
 Kaguya2e:Oh, Eirin. What sort of joke is this?
 
@@ -2594,7 +2584,7 @@ Eirin0c:I never did. But that's precisely why I wanted to come back and hear you
 <end>
 
 <ChatID:83>----------------------------------------
-//C43： 輝夜vs.非想天則
+//%C43： 輝夜vs.非想天則
 
 Tensoku0a:...
 

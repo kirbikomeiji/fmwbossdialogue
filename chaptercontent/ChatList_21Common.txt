@@ -1502,7 +1502,7 @@ Cirno2b:Hey, that's cheating! Healing is no fair!
 <end>
 
 <ChatID:53>----------------------------------------
-//椛vs.まくら
+//%椛vs.まくら
 
 Makura0h:I think trying to regain your honor by challenging us is a splendid thing.
 
@@ -1519,7 +1519,7 @@ Momiji1b:What are you on about?
 <end>
 
 <ChatID:54>----------------------------------------
-//椛vs.メーコ
+//%椛vs.メーコ
 
 Momiji3c:Haven't you learned not to challenge a wolf yet?
 
@@ -1532,7 +1532,7 @@ Momiji1b:Interesting. Then try it if you can!
 <end>
 
 <ChatID:55>----------------------------------------
-//椛vs.椛
+//%椛vs.椛
 
 <nomove>
 
@@ -1551,7 +1551,7 @@ Momiji3c:You're right. Which is why I'll never lose to you!
 <end>
 
 <ChatID:56>----------------------------------------
-//椛vs.早苗さん
+//%椛vs.早苗さん
 
 Sanae1a:Momiji!
 
@@ -1572,7 +1572,7 @@ Sanae2b:Ack, I got careless!
 <end>
 
 <ChatID:57>----------------------------------------
-//椛vs.諏訪子
+//%椛vs.諏訪子
 
 Suwako3b:Heya, Momiji.
 
@@ -1591,7 +1591,7 @@ Suwako3b:Eh, don't worry your pretty little head over it. Just play along with m
 <end>
 
 <ChatID:58>----------------------------------------
-//文vs.まくら
+//%文vs.まくら
 
 Aya1b:Those sleepy eyes of yours will never keep up with me!
 
@@ -1604,7 +1604,7 @@ Makura1a:I don't mind. Feel free to enter the embrace of my dream.
 <end>
 
 <ChatID:59>----------------------------------------
-//文vs.メーコ
+//%文vs.メーコ
 
 Meko0b:I can't see her at all!
 
@@ -1619,7 +1619,7 @@ Aya5b:You're just shutting your eyes... Don't tell me you're just an idiot?
 <end>
 
 <ChatID:60>----------------------------------------
-//文vs.文
+//%文vs.文
 
 <nomove>
 
@@ -1646,7 +1646,7 @@ Aya1a:I see, so that takes priority then?
 <end>
 
 <ChatID:61>----------------------------------------
-//文vs.神奈子
+//%文vs.神奈子
 
 Aya0c:Lady Yasaka, what are you doing down here?
 
@@ -1663,7 +1663,7 @@ Aya0b:Well, alright...
 <end>
 
 <ChatID:62>----------------------------------------
-//文vs.椛
+//%文vs.椛
 
 <nomove>
 
@@ -1688,7 +1688,7 @@ Momiji3c:I'm a wolf!
 <end>
 
 <ChatID:63>----------------------------------------
-//文vs.早苗さん
+//%文vs.早苗さん
 
 Aya0c:Lady Kochiya? What business might you have here?
 
@@ -1703,7 +1703,7 @@ Sanae5c:So that's how you thought of me?! I guess I can't help it, back then...
 <end>
 
 <ChatID:64>----------------------------------------
-//文vs.はたて
+//%文vs.はたて
 
 Aya0c:Hatate? Why are you here?
 
@@ -1720,7 +1720,7 @@ Hatate3b:Fair enough. Can't you just overlook it since it's my first trip to gat
 <end>
 
 <ChatID:65>----------------------------------------
-//文vs.萃香
+//%文vs.萃香
 
 Suika3b:Yo, how you doing?
 
@@ -1735,7 +1735,7 @@ Aya5a:Sounds like I won't have time to think about it!
 <end>
 
 <ChatID:66>----------------------------------------
-//文vs.勇儀
+//%文vs.勇儀
 
 Yugi3a:Been a while since I visited the mountain!
 
@@ -1752,7 +1752,7 @@ Yugi1f:Oh, so you do get it!
 <end>
 
 <ChatID:67>----------------------------------------
-//C21：椛vs.非想天則
+//%C21：椛vs.非想天則
 
 Tensoku0a:...
 
@@ -1765,7 +1765,7 @@ Momiji3c:Still, this isn't the time to worry about that. It won't matter once we
 <end>
 
 <ChatID:68>----------------------------------------
-//C21：文vs.非想天則
+//%C21：文vs.非想天則
 
 Tensoku0a:...
 

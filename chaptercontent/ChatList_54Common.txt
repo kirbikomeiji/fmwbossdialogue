@@ -1866,7 +1866,7 @@ Nazrin6b:You're just a vessel for someone else's power... although I'll admit it
 <end>
 
 <ChatID:57>----------------------------------------
-//空vs.まくら
+//%空vs.まくら
 
 Makura1b:Are you seriously considering conquering the surface?
 
@@ -1891,7 +1891,7 @@ Makura1c:(For now, I should focus on getting her to settle down.)
 <end>
 
 <ChatID:58>----------------------------------------
-//空vs.メーコ
+//%空vs.メーコ
 
 Meko1b:Utsuho, if you use your power like that, then—
 
@@ -1914,7 +1914,7 @@ Meko1d:I'm talking about the future! But to get you there, I'll have to beat you
 <end>
 
 <ChatID:59>----------------------------------------
-//空vs.空
+//%空vs.空
 
 <nomove>
 
@@ -1943,7 +1943,7 @@ Utsuho4c:And I'm gonna stop you before you make anymore trouble for Miss Satori!
 <end>
 
 <ChatID:60>----------------------------------------
-//空vs.お燐
+//%空vs.お燐
 
 Utsuho0e:Did you come to cheer me on, Orin?
 
@@ -1966,7 +1966,7 @@ Utsuho2d:B-But I...!
 <end>
 
 <ChatID:61>----------------------------------------
-//空vs.さとり
+//%空vs.さとり
 
 Satori0a:Okuu, I hear you obtained the power of the sun for us.
 
@@ -1987,7 +1987,7 @@ Satori0a:(But if I'm to restrain her, it won't be through words but through danm
 <end>
 
 <ChatID:62>----------------------------------------
-//空vs.こいし
+//%空vs.こいし
 
 Utsuho0a:Oh, you came all the way down here, Miss Koishi?
 
@@ -2009,7 +2009,7 @@ Koishi0a:Even without the real sun, being warm feels so good. I never knew that,
 <end>
 
 <ChatID:64>----------------------------------------
-//C54：空vs.非想天則
+//%C54：空vs.非想天則
 
 Tensoku0a:...
 

@@ -2492,7 +2492,7 @@ Reimu1a:Fine, I hear you loud and clear. But we won't back down either, and we'r
 <end>
 
 <ChatID:70>----------------------------------------
-//慧音Hvs.メーコ
+//%慧音Hvs.メーコ
 
 Meko0g:How can Keine be our enemy now?
 
@@ -2511,7 +2511,7 @@ KeineH3b:Thank you. And forgive me.
 <end>
 
 <ChatID:71>----------------------------------------
-//慧音Hvs.まくら
+//%慧音Hvs.まくら
 
 Makura2b:Keine. For an ally to humanity like yourself to do something like this is...
 
@@ -2528,7 +2528,7 @@ KeineH1a:In this particular case, our battle is unavoidable!
 <end>
 
 <ChatID:72>----------------------------------------
-//慧音Hvs.慧音
+//%慧音Hvs.慧音
 
 <nomove>
 
@@ -2557,7 +2557,7 @@ Keine1a:That's enough questions. I'm not the one you should be talking to.
 <end>
 
 <ChatID:73>----------------------------------------
-//慧音Hvs.妹紅
+//%慧音Hvs.妹紅
 
 KeineH2b:Mokou?! Why are you with Reimu?!
 
@@ -2580,7 +2580,7 @@ Mokou2a:(Just wait a bit longer, for the dream me to change.)
 <end>
 
 <ChatID:74>----------------------------------------
-//妹紅vs.メーコ
+//%妹紅vs.メーコ
 
 Meko0g:Fighting as a matter of principle...
 
@@ -2597,7 +2597,7 @@ Meko1f:You'll just make Keine worried! And then you'll wish you hadn't!
 <end>
 
 <ChatID:75>----------------------------------------
-//妹紅vs.まくら
+//%妹紅vs.まくら
 
 Makura1c:The reason your path diverges from the others...
 
@@ -2618,7 +2618,7 @@ Makura2a:...So this is the burden you carry. I wonder if there's anything I can 
 <end>
 
 <ChatID:76>----------------------------------------
-//妹紅vs.妹紅
+//%妹紅vs.妹紅
 
 <nomove>
 
@@ -2649,7 +2649,7 @@ Mokou3d:I'll just let everyone else say it for me. In the meantime, how 'bout we
 <end>
 
 <ChatID:77>----------------------------------------
-//妹紅vs.輝夜
+//%妹紅vs.輝夜
 
 Mokou1c:Wait, Kaguya?!
 
@@ -2666,7 +2666,7 @@ Mokou3e:Do you ever get sick of ticking me off? Cause I do. I'm ending this here
 <end>
 
 <ChatID:78>----------------------------------------
-//妹紅vs.永琳
+//%妹紅vs.永琳
 
 Mokou1c:Well, look who's here. Eirin Yagokoro!
 
@@ -2683,7 +2683,7 @@ Eirin5e:...You're an unwelcome pest buzzing around Kaguya. I will kill you and k
 <end>
 
 <ChatID:79>----------------------------------------
-//妹紅vs.鈴仙
+//%妹紅vs.鈴仙
 
 Mokou0a:Kaguya's servant, huh? What do you want?
 
@@ -2700,7 +2700,7 @@ Mokou0a:Tch, what a pain!
 <end>
 
 <ChatID:80>----------------------------------------
-//妹紅vs.てゐ
+//%妹紅vs.てゐ
 
 Mokou0a:Hm? Aren't you...?
 
@@ -2729,7 +2729,7 @@ Tewi0a:This is why you martial arts types are so—!
 <end>
 
 <ChatID:83>----------------------------------------
-//C41：慧音Hvs.非想天則
+//%C41：慧音Hvs.非想天則
 
 Tensoku0a:...
 
@@ -2744,7 +2744,7 @@ KeineH1a:I'll apologize for this next morning!
 <end>
 
 <ChatID:84>----------------------------------------
-//C41：vs.非想天則
+//%C41：vs.非想天則
 
 Tensoku0a:...
 

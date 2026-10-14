@@ -1205,7 +1205,7 @@ Yuka1a:Heh heh heh. Come with all your might. Marisa... This is ever so much fun
 <end>
 
 <ChatID:32>----------------------------------------
-//咲夜さんvs.まくら
+//%咲夜さんvs.まくら
 
 Makura0a:Controlling spacetime? That power surpasses humanity.
 
@@ -1218,7 +1218,7 @@ Sakuya0b:I'll make you regret lumping me in with them.
 <end>
 
 <ChatID:33>----------------------------------------
-//咲夜さんvs.メーコ
+//%咲夜さんvs.メーコ
 
 Sakuya5c:You brought a whole flock of sheep? Who do you think has to clean this mess?
 
@@ -1231,7 +1231,7 @@ Sakuya0b:What a nonsensical excuse. I'll gather them all up and release them out
 <end>
 
 <ChatID:34>----------------------------------------
-//咲夜さんvs.咲夜さん
+//%咲夜さんvs.咲夜さん
 
 <nomove>
 
@@ -1262,7 +1262,7 @@ Sakuya5c:I see you're quite the comedian, then.
 <end>
 
 <ChatID:35>----------------------------------------
-//幽香vs.まくら
+//%幽香vs.まくら
 
 Yuka2c:Oh? What are you doing here?
 
@@ -1277,7 +1277,7 @@ Yuka0b:How cryptic of you. But I don't mind. I never trusted you in the first pl
 <end>
 
 <ChatID:36>----------------------------------------
-//幽香vs.メーコ
+//%幽香vs.メーコ
 
 Yuka2d:Oh, you're the one who was with her...
 
@@ -1290,7 +1290,7 @@ Yuka0b:But if you wish to play, I'm game.
 <end>
 
 <ChatID:37>----------------------------------------
-//幽香vs.幽香
+//%幽香vs.幽香
 
 <nomove>
 
@@ -1313,7 +1313,7 @@ Yuka0a:We're flowers growing from the same roots. Just another fine thing.
 <end>
 
 <ChatID:38>----------------------------------------
-//幽香vs.紫
+//%幽香vs.紫
 
 Yuka2d:To think I'd run into the Youkai Sage here.
 
@@ -1328,7 +1328,7 @@ Yukari1a:You're so sharp in the strangest ways...
 <end>
 
 <ChatID:39>----------------------------------------
-//幽香vs.エリー
+//%幽香vs.エリー
 
 <nomove>
 
@@ -1353,7 +1353,7 @@ Elliy2a:Gah, is this your way of being possessive? If so, then I'll end up accep
 <end>
 
 <ChatID:40>----------------------------------------
-//幽香vs.くるみ
+//%幽香vs.くるみ
 
 <nomove>
 
@@ -1374,7 +1374,7 @@ Yuka3f:If you were going to do so, you shouldn't have left my side. Don't blame 
 <end>
 
 <ChatID:41>----------------------------------------
-//エリーvs.エリー
+//%エリーvs.エリー
 
 <nomove>
 
@@ -1397,7 +1397,7 @@ Elliy1a:I'm playing around with Yuuka! And no matter how pretty you are, stay ou
 <end>
 
 <ChatID:42>----------------------------------------
-//くるみvs.くるみ
+//%くるみvs.くるみ
 
 <nomove>
 
@@ -1428,7 +1428,7 @@ Kurumi3d:Wow, it's just like Batta Man!
 <end>
 
 <ChatID:43>----------------------------------------
-//咲夜さんvs.レミリア
+//%咲夜さんvs.レミリア
 
 Remilia1e:Seems you're putting in an adequate effort.
 
@@ -1449,7 +1449,7 @@ Remilia1a:Hey now, stop spacing out and let's start!
 <end>
 
 <ChatID:44>----------------------------------------
-//咲夜さんvs.フラン
+//%咲夜さんvs.フラン
 
 Flan3e:Sakuya, let's play!
 
@@ -1468,7 +1468,7 @@ Flan3b:Tee-hee. Go ahead and try.
 <end>
 
 <ChatID:45>----------------------------------------
-//咲夜さんvs.夢子
+//%咲夜さんvs.夢子
 
 Sakuya5b:A maid? Were you hoping to be hired by the Scarlet Devil Mansion?
 
@@ -1481,7 +1481,7 @@ Sakuya0b:Then I suppose you're an intruder. Excuse me while I repel you.
 <end>
 
 <ChatID:46>----------------------------------------
-//咲夜さんvs.美鈴
+//%咲夜さんvs.美鈴
 
 Sakuya5b:Meiling. It was your failure that allowed these humans to trespass.
 
@@ -1496,7 +1496,7 @@ Meiling2a:What'd I expect?! Fine, whatever, I'm ready!
 <end>
 
 <ChatID:47>----------------------------------------
-//咲夜さんvs.パチュリー
+//%咲夜さんvs.パチュリー
 
 Sakuya1b:Lady Patchouli. I'd heard you were defeated earlier. Can I take it you are unharmed?
 
@@ -1511,7 +1511,7 @@ Patchouli0b:Then why don't you show me how you fight against a group?
 <end>
 
 <ChatID:48>----------------------------------------
-//咲夜さんvs.小悪魔
+//%咲夜さんvs.小悪魔
 
 Sakuya1b:Oh, you were unharmed. Is Lady Patchouli alright?
 
@@ -1528,7 +1528,7 @@ Sakuya5a:...You're acting oddly. I should take you to see a doctor after I take 
 <end>
 
 <ChatID:49>----------------------------------------
-//幽香vs.神綺
+//%幽香vs.神綺
 
 Shinki2b:Yuuka Kazami!
 
@@ -1547,7 +1547,7 @@ Yuka1a:How about I help you deal with your Empty Nest Syndrome by ending you her
 <end>
 
 <ChatID:50>----------------------------------------
-//幽香vs.夢子
+//%幽香vs.夢子
 
 Yumeko5c:A guest, is it? Are you sure you're not stalking a newcomer?
 
@@ -1562,7 +1562,7 @@ Yuka1a:Ooh, what a scary older sister. But if you're picking a fight, I'm game.
 <end>
 
 <ChatID:51>----------------------------------------
-//C10：幽香vs.非想天則
+//%C10：幽香vs.非想天則
 
 Tensoku0a:...
 

@@ -1323,7 +1323,7 @@ Keine2a:Rgh, she's got such incredibly long range. If only I could reach that fa
 <end>
 
 <ChatID:21>----------------------------------------
-//レミリアvs.まくら
+//%レミリアvs.まくら
 
 Makura3a:What violent yet pure pressure, befitting the mastermind of an incident.
 
@@ -1336,7 +1336,7 @@ Makura1a:A scarlet dream that heralds the beginning. Allow me to ascertain your 
 <end>
 
 <ChatID:22>----------------------------------------
-//レミリアvs.メーコ
+//%レミリアvs.メーコ
 
 Meko0b:What power... is this charisma?!
 
@@ -1349,7 +1349,7 @@ Remilia1a:For a youkai, you say some odd things. But I'll simply crush all who o
 <end>
 
 <ChatID:23>----------------------------------------
-//レミリアvs.レミリア
+//%レミリアvs.レミリア
 
 <nomove>
 
@@ -1376,7 +1376,7 @@ Remilia1b:Interesting! We'll let fate decide which of us is the victor!
 <end>
 
 <ChatID:24>----------------------------------------
-//レミリアvs.フラン
+//%レミリアvs.フラン
 
 Flan0f:Ooh, so you've been playing like this, Remi?
 
@@ -1395,7 +1395,7 @@ Remilia2a:Ugh, this must be some sort of illusion!
 <end>
 
 <ChatID:25>----------------------------------------
-//レミリアvs.咲夜さん
+//%レミリアvs.咲夜さん
 
 Remilia0e:Oh, Sakuya. Weren't you supposed to be fighting off the intruders?
 
@@ -1414,7 +1414,7 @@ Sakuya1c:Thank you, Mistress.
 <end>
 
 <ChatID:26>----------------------------------------
-//レミリアvs.美鈴
+//%レミリアvs.美鈴
 
 <nomove>
 
@@ -1445,7 +1445,7 @@ Meiling1a:Y-Yes ma'am!
 <end>
 
 <ChatID:27>----------------------------------------
-//レミリアvs.パチュリー
+//%レミリアvs.パチュリー
 
 <nomove>
 
@@ -1468,7 +1468,7 @@ Patchouli1a:Why don't we go with that? I'd like to show you my Sun and Moon Sign
 <end>
 
 <ChatID:28>----------------------------------------
-//レミリアvs.幽香
+//%レミリアvs.幽香
 
 Remilia1c:Oh, Yuuka? What do you what?
 
@@ -1483,7 +1483,7 @@ Yuka0d:Yes, that's the spirit. Please keep me company.
 <end>
 
 <ChatID:29>----------------------------------------
-//レミリアvs.神綺
+//%レミリアvs.神綺
 
 Remilia1c:Hmph. You've got pretty devil-like wings.
 
@@ -1496,22 +1496,7 @@ Remilia1b:Let's settle who will control Gensokyo, gods or devils!
 <end>
 
 <ChatID:30>----------------------------------------
-//レミリアvs.小悪魔（未作成）
-
-<end>
-
-<ChatID:31>----------------------------------------
-//C11：美鈴vs.非想天則
-
-Meiling1d:I hope this giant isn't what I think it is...
-
-Meiling1a:Are you a shadow of Taisui Xingjun, the symbol of evil omens?!
-
-Tensoku0a:...?!
-
-Meiling4a:You may look a little cool, but you'll never fool me.
-
-Meiling1a:Monster of calamities, you will never escape Hong Meiling!
+//%レミリアvs.小悪魔（未作成）
 
 <end>
 

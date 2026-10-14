@@ -2273,7 +2273,7 @@ Reimu0g:Well, you're the boss. Got it.
 <end>
 
 <ChatID:60>----------------------------------------
-//永琳vs.メーコ
+//%永琳vs.メーコ
 
 Eirin0d:You reek of soil and stupidity. Truly, a youkai of Earth.
 
@@ -2292,7 +2292,7 @@ Eirin0b:I wonder, do you truly believe that's possible?
 <end>
 
 <ChatID:61>----------------------------------------
-//永琳vs.まくら
+//%永琳vs.まくら
 
 Eirin0e:What a surprise. I didn't think there were any baku left on Earth.
 
@@ -2315,7 +2315,7 @@ Makura1a:I'm not so down on my luck that I'd entrust my sleep to a stranger.
 <end>
 
 <ChatID:62>----------------------------------------
-//永琳vs.永琳
+//%永琳vs.永琳
 
 <nomove>
 
@@ -2348,7 +2348,7 @@ Eirin0c:But even so, if it's for Kaguya's sake, I must see this through.
 <end>
 
 <ChatID:63>----------------------------------------
-//永琳vs.輝夜
+//%永琳vs.輝夜
 
 Eirin2a:Princess?! Why are you with the Earthlings? How?
 
@@ -2367,7 +2367,7 @@ Kaguya1b:Yes, yes, there's no need to worry. All I can do here is exchange words
 <end>
 
 <ChatID:64>----------------------------------------
-//永琳vs.依姫
+//%永琳vs.依姫
 
 Eirin1b:Are you... Yorihime?!
 
@@ -2396,7 +2396,7 @@ Yorihime5b:...Yes, Lady Yagokoro.
 <end>
 
 <ChatID:65>----------------------------------------
-//永琳vs.豊姫
+//%永琳vs.豊姫
 
 Toyohime0b:It's been far too long, Lady Yogokoro.
 
@@ -2425,7 +2425,7 @@ Toyohime5a:Right...
 <end>
 
 <ChatID:66>----------------------------------------
-//永琳vs.鈴仙
+//%永琳vs.鈴仙
 
 <nomove>
 
@@ -2456,7 +2456,7 @@ Udonge2c:Eeek! O-Of course!
 <end>
 
 <ChatID:67>----------------------------------------
-//永琳vs.てゐ
+//%永琳vs.てゐ
 
 <nomove>
 
@@ -2483,7 +2483,7 @@ Tewi4a:(Phew... I don't wanna even think about becoming her enemy.)
 <end>
 
 <ChatID:68>----------------------------------------
-//永琳vs.レイセン
+//%永琳vs.レイセン
 
 Eirin0e:Oh? Now where did you get that weapon?
 
@@ -2496,7 +2496,7 @@ Reisen2a:Gah... Fine, whatever, if it's come to this then it's do or die!
 <end>
 
 <ChatID:69>----------------------------------------
-//永琳vs.神綺
+//%永琳vs.神綺
 
 Eirin0e:That's no ordinary power I feel from you. You're no ordinary Earthling, are you?
 
@@ -2513,7 +2513,7 @@ Shinki0e:I'll be ending this scheme of yours, for the sake of your own futures.
 <end>
 
 <ChatID:70>----------------------------------------
-//鈴仙vs.まくら
+//%鈴仙vs.まくら
 
 Makura0d:So you're here after abandoning your old comrades and home.
 
@@ -2530,7 +2530,7 @@ Udonge3a:What, and now you're sweet-talking me?!
 <end>
 
 <ChatID:71>----------------------------------------
-//C42：永琳vs.非想天則
+//%C42：永琳vs.非想天則
 
 Tensoku0a:...
 
@@ -2543,7 +2543,7 @@ Eirin0b:So this is the limit of their imagination then.
 <end>
 
 <ChatID:72>----------------------------------------
-//C42：鈴仙vs.非想天則
+//%C42：鈴仙vs.非想天則
 
 Tensoku0a:...
 
@@ -2560,7 +2560,7 @@ Udonge1b:I'm not letting that happen! I have to destroy it!
 <end>
 
 <ChatID:73>----------------------------------------
-//C42：てゐvs.非想天則
+//%C42：てゐvs.非想天則
 
 Tensoku0a:...
 
