@@ -227,6 +227,7 @@ let full_names = {
     "Elliy" : "Elly",
     "Kurumi" : "Kurumi",
     "Akyu" : "Hieda no Akyu",
+    "Kosuzu" : "Motori Kosuzu",
     "Mima" : "Mima",
     "Suika" : "Suika Ibuki",
     "Reisen" : "Reysen",
