@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ad749d8-c775-4725-800a-a531e4db345a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/chaptercontent/ChatList_56Common.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chaptercontent/ChatList_56Common.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaptercontent/ChatList_57Common.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chaptercontent/ChatList_57Common.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaptercontent/ChatList_58Common.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chaptercontent/ChatList_58Common.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaptercontent/ChatList_59Common.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chaptercontent/ChatList_59Common.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaptercontent/ChatList_60Common.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chaptercontent/ChatList_60Common.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaptercontent/ChatList_61Common.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chaptercontent/ChatList_61Common.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1791993956889</updated>
-      <workItem from="1791993957616" duration="7835000" />
+      <workItem from="1791993957616" duration="9040000" />
     </task>
     <servers />
   </component>
