@@ -965,7 +965,7 @@ Meko0a:Yay! Thanks!
 
 <Code=(cursor_jump_unit,Char1,0,0,1)>
 
-Minoriko0c:Huh? You're—!
+%Minoriko0c:Huh? You're—!
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -975,7 +975,7 @@ Minoriko0a:Actually... I'm your little sister!
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Minoriko1a:No way?! So we're the three Aki sisters then?!
+%Minoriko1a:No way?! So we're the three Aki sisters then?!
 
 </nomove>
 

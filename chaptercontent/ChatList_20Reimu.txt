@@ -931,7 +931,7 @@ Meko2b:Are you betraying me, Macenas?!
 
 <Code=(cursor_jump_unit,Char1,0,0,1)>
 
-Hina0c:Oh dear, you're...
+%Hina0c:Oh dear, you're...
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -939,9 +939,9 @@ Hina3a:Would you accept it if I said I was your duplicate?
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Hina0c:Well, at the very least we seem cut from the same cloth.
+%Hina0c:Well, at the very least we seem cut from the same cloth.
 
-Hina0a:No matter how close you get, you can't avoid my precious hands-on experience.
+%Hina0a:No matter how close you get, you can't avoid my precious hands-on experience.
 
 </nomove>
 

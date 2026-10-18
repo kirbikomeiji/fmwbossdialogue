@@ -1538,9 +1538,9 @@ Momiji1b:Interesting. Then try it if you can!
 
 <Code=(cursor_jump_unit,Char1,0,0,1)>
 
-Momiji0b:It's not just your appearance, you even smell like me!
+%Momiji0b:It's not just your appearance, you even smell like me!
 
-Momiji1b:But my swordsmanship can't possibly be imitated!
+%Momiji1b:But my swordsmanship can't possibly be imitated!
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1625,7 +1625,7 @@ Aya5b:You're just shutting your eyes... Don't tell me you're just an idiot?
 
 <Code=(cursor_jump_unit,Char1,0,0,1)>
 
-Aya0c:Someone who looks just like me? I guess kooky stuff happens from time to time.
+%Aya0c:Someone who looks just like me? I guess kooky stuff happens from time to time.
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1633,9 +1633,9 @@ Aya3b:How's this for a scoop? "Anomalous Doppelgangers Appear!"
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Aya5a:Unfortunately, I can't work on that story right now.
+%Aya5a:Unfortunately, I can't work on that story right now.
 
-Aya4a:Because I still need to make these intruders regret their life choices!
+%Aya4a:Because I still need to make these intruders regret their life choices!
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 

@@ -920,7 +920,7 @@ Nitori2b:Sh-Shut up! When I say I'll do something, I do it!
 
 <Code=(cursor_jump_unit,Char1,0,0,1)>
 
-Nitori2a:Huh? Me?!
+%Nitori2a:Huh? Me?!
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -928,9 +928,9 @@ Nitori4b:Sorry, my bad. I'm sure you're confused, but if you'll let me explainâ€
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Nitori1a:No need, I think I get it!
+%Nitori1a:No need, I think I get it!
 
-Nitori4c:Could it be that we're the same person from parallel universes?
+%Nitori4c:Could it be that we're the same person from parallel universes?
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 

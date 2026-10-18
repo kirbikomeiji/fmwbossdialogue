@@ -1302,9 +1302,9 @@ Kurumi3a:Hello, I'm Kurumi!
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Kurumi3b:Hello, I'm Kurumi!
+%Kurumi3b:Hello, I'm Kurumi!
 
-Kurumi6a:Wait, it's me?!
+%Kurumi6a:Wait, it's me?!
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1314,7 +1314,7 @@ Kurumi0a:We both look and sound the same, it's like a mirror.
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Kurumi3a:Yeah, I thought so too!
+%Kurumi3a:Yeah, I thought so too!
 
 </nomove>
 
@@ -1367,7 +1367,7 @@ Elliy2b:Gah, nothing hurts worse than that "I don't get it" reaction!
 
 <Code=(cursor_jump_unit,Char1,0,0,1)>
 
-Koakuma1a:Huh, me?!
+%Koakuma1a:Huh, me?!
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1375,7 +1375,7 @@ Koakuma4a:You'd think so, wouldn't you?
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Koakuma1c:Or maybe there's been a sudden breakthrough in Lady Patchouli's secret research?
+%Koakuma1c:Or maybe there's been a sudden breakthrough in Lady Patchouli's secret research?
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1383,7 +1383,7 @@ Koakuma5b:Oh, that sounds plausible.
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Koakuma1b:In which case you're a valuable experiment! I have to capture you!
+%Koakuma1b:In which case you're a valuable experiment! I have to capture you!
 
 </nomove>
 

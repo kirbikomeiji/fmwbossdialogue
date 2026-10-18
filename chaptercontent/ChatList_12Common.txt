@@ -1703,7 +1703,7 @@ Sunny4c:She's not listening.
 
 <Code=(cursor_jump_unit,Char1,0,0,1)>
 
-Sunny1c:Gah, who're you?!
+%Sunny1c:Gah, who're you?!
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1715,7 +1715,7 @@ Sunny5a:Too bad! I'm actually Luna changing how I look with light!
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Sunny4a:Huh. But I'm the only one who controls light?
+%Sunny4a:Huh. But I'm the only one who controls light?
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1763,7 +1763,7 @@ Luna2a:Stop messing around, Sunny!
 
 <Code=(cursor_jump_unit,Char1,0,0,1)>
 
-Star6a:Huh?! You're...
+%Star6a:Huh?! You're...
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1773,7 +1773,7 @@ Star3c:Oh, I know. I've heard tanuki have been showing up around here. You're tr
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Star4a:Not sure how to feel about being told that by myself...
+%Star4a:Not sure how to feel about being told that by myself...
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1790,7 +1790,7 @@ Star1c:Oh, okay...
 
 <Code=(cursor_jump_unit,Char1,0,0,1)>
 
-Cirno2c:Eh? Me?!
+%Cirno2c:Eh? Me?!
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1798,7 +1798,7 @@ Cirno3a:I'm me!
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Cirno2b:No, I'm me!
+%Cirno2b:No, I'm me!
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1817,7 +1817,7 @@ Cirno4c:Ugh, this getting messy...
 
 <Code=(cursor_jump_unit,Char1,0,0,1)>
 
-Rumia4a:I wanna eat more fresh meat.
+%Rumia4a:I wanna eat more fresh meat.
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1825,7 +1825,7 @@ Rumia3a:I just ate some!
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Rumia0a:Whoa, lucky...
+%Rumia0a:Whoa, lucky...
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1833,7 +1833,7 @@ Rumia5a:The kitchen stuff is fine, but if you want the deep, red stuff, you gott
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Rumia4a:...So, who are you anyway?
+%Rumia4a:...So, who are you anyway?
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 

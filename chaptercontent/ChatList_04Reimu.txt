@@ -1109,7 +1109,7 @@ Rumia3a:You're one to talk!
 
 <Code=(cursor_jump_unit,Char1,0,0,1)>
 
-Rumia0a:Huh? I'm over there?
+%Rumia0a:Huh? I'm over there?
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1117,7 +1117,7 @@ Rumia0a:Didn't we already meet before?
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Rumia4a:Sounds kinda familiar...?
+%Rumia4a:Sounds kinda familiar...?
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1127,7 +1127,7 @@ Rumia3a:It'll be fun, but also awful, so I hope you're ready!
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Rumia2a:Aww...
+%Rumia2a:Aww...
 
 </nomove>
 

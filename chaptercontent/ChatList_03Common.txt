@@ -1453,7 +1453,7 @@ Sakuya1d:Your time belongs to me!
 
 <Code=(cursor_jump_unit,Char1,0,0,1)>
 
-Sakuya1b:You're—?!
+%Sakuya1b:You're—?!
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1461,9 +1461,9 @@ Sakuya0a:Would you believe me if I claimed to be from a different timeline?
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Sakuya1a:You're saying you crossed through time? If so, then you must really be...
+%Sakuya1a:You're saying you crossed through time? If so, then you must really be...
 
-Sakuya2a:No use thinking about it. I'll have to deal with you before it creates a paradox.
+S%akuya2a:No use thinking about it. I'll have to deal with you before it creates a paradox.
 
 </nomove>
 
@@ -1524,7 +1524,7 @@ Sakuya1b:...Understood. I'll do my utmost not to reveal your identity.
 
 Flan0f:Sakuya!
 
-Sakuya3a:The younger mistress?! No, impossible...
+%Sakuya3a:The younger mistress?! No, impossible...
 
 Flan1b:Tee hee. What a funny reaction! I never went out back then, so everything's so fun!
 

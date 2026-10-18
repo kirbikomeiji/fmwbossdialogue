@@ -1081,7 +1081,7 @@ Sanae3b:...I'll never forget this moment.
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Sanae0g:Are you... me?
+%Sanae0g:Are you... me?
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1089,7 +1089,7 @@ Sanae1e:I won't say much. But allow me to witness you settling things with Reimu
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Sanae1c:I will not hear this from an illusion, or whatever you are!
+%Sanae1c:I will not hear this from an illusion, or whatever you are!
 
 </nomove>
 
@@ -1108,7 +1108,7 @@ Sanae0c:When I see it like this, I can really feel just how anxious and desperat
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Sanae1c:You talk big for an illusion! I've decided to fight to the end, by myself if I have to!
+%Sanae1c:You talk big for an illusion! I've decided to fight to the end, by myself if I have to!
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 

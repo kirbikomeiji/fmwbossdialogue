@@ -1278,7 +1278,7 @@ Cirno0a:Stop it, me!
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Cirno0a:You're... me?!
+%Cirno0a:You're... me?!
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 

@@ -1016,9 +1016,9 @@ Meko2a:Again, neither!
 
 <Code=(cursor_jump_unit,Char1,0,0,1)>
 
-Flan2d:Oh? When did I make this clone?
+%Flan2d:Oh? When did I make this clone?
 
-Flan1b:Whatever. Let's go play outside!
+%Flan1b:Whatever. Let's go play outside!
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1026,9 +1026,9 @@ Flan4b:No. Remi said I couldn't.
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Flan0c:Remi said—
+%Flan0c:Remi said—
 
-Flan1c:Hey, you're just my clone! Why are you acting like you know her better?
+%Flan1c:Hey, you're just my clone! Why are you acting like you know her better?
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1036,9 +1036,9 @@ Flan3d:Cuz I do, duh! Should I tell you all about her?
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Flan1c:Hmph, from someone like you?!
+%Flan1c:Hmph, from someone like you?!
 
-Flan1e:I don't need you! I'll destroy you and make you disappear!
+%Flan1e:I don't need you! I'll destroy you and make you disappear!
 
 </nomove>
 

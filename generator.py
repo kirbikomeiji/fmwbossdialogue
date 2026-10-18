@@ -542,7 +542,11 @@ for char in chars:
                         text = line_parts[1]
                         if (len(line_parts) == 3):
                             text +=":"+ line_parts[2]
-                        outp += f'''<div class ="line"><img src="./dialogue/face_{line_parts[0]}.png"><div> {text}</div></div>'''
+                        flip = ""
+                        if line_parts[0][0] == '%':
+                            flip = '''class="flip"'''
+                            line_parts[0] = line_parts[0].replace("%", '')
+                        outp += f'''<div class ="line"><img {flip} src="./dialogue/face_{line_parts[0]}.png"><div> {text}</div></div>'''
             outp += "</div>"
         outp += "</div>"
     outp += "</div> </body></html>"

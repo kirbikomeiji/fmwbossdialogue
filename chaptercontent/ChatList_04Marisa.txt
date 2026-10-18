@@ -792,7 +792,7 @@ Elliy3b:Ooh, found a pretty girl!
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Elliy1a:So just who are you, Pretty?!
+%Elliy1a:So just who are you, Pretty?!
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -802,7 +802,7 @@ Elliy3b:You're so pretty!
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Elliy5a:Yeah, you too!
+%Elliy5a:Yeah, you too!
 
 </nomove>
 

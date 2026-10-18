@@ -1296,9 +1296,9 @@ Lunasa3a:Does it matter? I always listen to their sound first.
 
 <Code=(cursor_jump_unit,Char1,0,0,1)>
 
-Merlin1a:Wow, someone's cosplaying me?! I'm touched to meet such a passionate fan!
+%Merlin1a:Wow, someone's cosplaying me?! I'm touched to meet such a passionate fan!
 
-Merlin3b:Your height and build are just perfect too! Can I touch your costume?
+%Merlin3b:Your height and build are just perfect too! Can I touch your costume?
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1306,7 +1306,7 @@ Merlin2b:Bzzt! Touching's a no-no!
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Merlin1c:You talk just like me too! We should perform together some time!
+%Merlin1c:You talk just like me too! We should perform together some time!
 
 </nomove>
 

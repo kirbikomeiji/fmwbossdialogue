@@ -1820,9 +1820,9 @@ Minoriko3b:Listen to this, I'm—
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Minoriko1b:No need to say it, I can tell. You're my little sister.
+%Minoriko1b:No need to say it, I can tell. You're my little sister.
 
-Minoriko2a:So what's your name?
+%Minoriko2a:So what's your name?
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 

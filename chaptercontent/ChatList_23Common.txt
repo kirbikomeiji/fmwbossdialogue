@@ -1445,7 +1445,7 @@ Kanako1a:So you can accomplish nothing through your own effort. You are exactly 
 
 <Code=(cursor_jump_unit,Char1,0,0,1)>
 
-Kanako0a:Oh? Now this is an interesting match-up.
+%Kanako0a:Oh? Now this is an interesting match-up.
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1455,7 +1455,7 @@ Kanako1a:But you are yet immature. You fail to hide your desperation.
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Kanako2a:Desperation, you say?
+%Kanako2a:Desperation, you say?
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1465,9 +1465,9 @@ Kanako1a:Which is why you would use any method to preserve your divine existence
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Kanako3a:Hm. Whether you're a fragment of me enshrined elsewhere or what have you, you speak well.
+%Kanako3a:Hm. Whether you're a fragment of me enshrined elsewhere or what have you, you speak well.
 
-Kanako1b:If you know our situation so well, then return to your origin and lend me your power.
+%Kanako1b:If you know our situation so well, then return to your origin and lend me your power.
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1522,7 +1522,7 @@ Meko5a:Eek! And now the terror is way more describable!
 
 <Code=(cursor_jump_unit,Char1,0,0,1)>
 
-Suwako0d:Oh, what's up with this?
+%Suwako0d:Oh, what's up with this?
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1530,9 +1530,9 @@ Suwako3b:Ha ha, what do you think?
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Suwako1a:A copycat, maybe? If so, I gotta admire the guts.
+%Suwako1a:A copycat, maybe? If so, I gotta admire the guts.
 
-Suwako1e:But do you know what'll happen next?
+%Suwako1e:But do you know what'll happen next?
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 

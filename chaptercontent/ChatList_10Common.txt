@@ -1237,7 +1237,7 @@ Sakuya0b:What a nonsensical excuse. I'll gather them all up and release them out
 
 <Code=(cursor_jump_unit,Char1,0,0,1)>
 
-Sakuya1d:Who are you, to intrude upon my world?
+%Sakuya1d:Who are you, to intrude upon my world?
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1247,7 +1247,7 @@ Sakuya5b:But I can do what you cannot.
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Sakuya1d:And what can't I do?
+%Sakuya1d:And what can't I do?
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1255,7 +1255,7 @@ Sakuya0a:Precognition. After this, you'll lose to us.
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Sakuya5c:I see you're quite the comedian, then.
+%Sakuya5c:I see you're quite the comedian, then.
 
 </nomove>
 
@@ -1300,7 +1300,7 @@ Yuka0b:Good evening.
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Yuka2d:Oh... did I forget to erase one of my clones?
+%Yuka2d:Oh... did I forget to erase one of my clones?
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1386,7 +1386,7 @@ Elliy1a:Not! It's just playing around with Yuuka!
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Elliy1b:You, that pretty girl over there, what did you just say?!
+%Elliy1b:You, that pretty girl over there, what did you just say?!
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1403,7 +1403,7 @@ Elliy1a:I'm playing around with Yuuka! And no matter how pretty you are, stay ou
 
 <Code=(cursor_jump_unit,Char1,0,0,1)>
 
-Kurumi3b:I'm Kurumi!
+%Kurumi3b:I'm Kurumi!
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1413,7 +1413,7 @@ Kurumi3d:(...No. I have to trick her a little.)
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Kurumi0b:What?
+%Kurumi0b:What?
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1421,7 +1421,7 @@ Kurumi3b:I'm Kurumi No. 2! Nice to meet you, No. 1!
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Kurumi3d:Wow, it's just like Batta Man!
+%Kurumi3d:Wow, it's just like Batta Man!
 
 </nomove>
 

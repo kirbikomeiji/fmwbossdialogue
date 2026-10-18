@@ -1361,7 +1361,7 @@ Remilia0e:But a vampire's true nature goes beyond just this.
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Remilia1b:Huh? What are you saying?
+%Remilia1b:Huh? What are you saying?
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1369,7 +1369,7 @@ Remilia1c:I'm saying I'm the true Queen of the Night, the sole devil who can dye
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Remilia1b:Interesting! We'll let fate decide which of us is the victor!
+%Remilia1b:Interesting! We'll let fate decide which of us is the victor!
 
 </nomove>
 

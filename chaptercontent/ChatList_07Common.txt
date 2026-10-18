@@ -1356,7 +1356,7 @@ Sanae1c:...Must you be so cryptic? I don't have time for this!
 
 <Code=(cursor_jump_unit,Char1,0,0,1)>
 
-Momiji1a:How dare you take my appearance, scoundrel!
+%Momiji1a:How dare you take my appearance, scoundrel!
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1366,7 +1366,7 @@ Momiji5a:But are you really so confident you can fight us off when you're so out
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Momiji1b:Of course I am. Never underestimate a tengu!
+%Momiji1b:Of course I am. Never underestimate a tengu!
 
 </nomove>
 

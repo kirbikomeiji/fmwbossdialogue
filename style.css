@@ -8,7 +8,7 @@ h1{
 }
 
 body {
-        margin: 40px;
+        padding: 2em;
 		background-image: url("./miscimagefile/bg_talk_Village.png");
 		background-repeat: no-repeat;
 		background-position: right top;
@@ -118,13 +118,19 @@ p {
 	image-rendering: pixelated;
 }
 
+
+.line .flip{
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
 /* The switch - the box around the slider */
 .switch {
     position: absolute;
     display: inline-block;
     width: 3em;
     height: 3em;
-    right: 1em;
+    right: 2em;
 }
 
 /* Hide default HTML checkbox */

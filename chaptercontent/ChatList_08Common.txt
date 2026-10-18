@@ -1479,7 +1479,7 @@ Meko1b:Those sound kinda cool, actually...
 
 <Code=(cursor_jump_unit,Char1,0,0,1)>
 
-Elliy1a:Even pretty girls like you can't pass!
+%Elliy1a:Even pretty girls like you can't pass!
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -1489,7 +1489,7 @@ Elliy4b:Is being so pretty a sin?
 
 <Code=(cursor_jump_unit,Char1,0,0,0)>
 
-Elliy5a:Yes, one we can never atone for.
+%Elliy5a:Yes, one we can never atone for.
 
 </nomove>
 
