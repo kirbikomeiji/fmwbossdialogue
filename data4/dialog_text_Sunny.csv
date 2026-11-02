@@ -1,0 +1,164 @@
+ID,LineID,face,dialog
+0,0,Sunny0a,We fairies are strong!
+1,0,Sunny0a,I've been practicing!
+2,0,Sunny0a,Here I come!
+3,0,Sunny0a,That was a big mistake!
+4,0,Sunny0a,It's all or nothing! I like the odds!
+5,0,Sunny0a,You asked for it!
+6,0,Sunny0a,Oh/ you'll pay for that!
+7,0,Sunny1a,Who said this has to be one-on-one?
+8,0,Sunny1a,We came up with the whole team-up attack" thing! Honest!
+9,0,Sunny1a,I'm coming for you!
+10,0,Sunny1a,Hold still!
+11,0,Sunny1a,Get outta my way!
+12,0,Sunny1a,Hyaaa!
+13,0,Sunny1a,Let's light you up!
+14,0,Sunny1a,Focus light into danmaku!
+15,0,Sunny1a,There!
+16,0,Sunny1a,Don't move now!
+17,0,Sunny0a,Okay/ it's time for that"!
+17,1,Sunny1a,Star/ Luna! Let's do it!
+17,2,Luna1a,Alright!
+17,3,Star0a,Together/ as always!
+17,4,Sunny1a,Ready? Now!
+18,0,Sunny0a,Let's use our formation attack!
+18,1,Sunny0a,Ready/ girls? Star/ count down from three!
+18,2,Star0a,Okay. Three/ two/ one...
+18,3,Luna2a,Hat-CHOO!
+18,4,Sunny1a,Lunaaa! Oh/ whatever! Now!
+19,0,Sunny0a,C'mere/ girls!
+19,1,Sunny0a,We're using the L Formation Attack!
+19,2,Luna1a,Alright. They won't think the Three Fairies of Light are so dumb after this!
+19,3,Star0a,Ready when you are/ Sunny.
+19,4,Sunny1a,Okay!\n　Three/ two/ one... GO!
+20,0,Sunny0a,Time for our special move!
+20,1,Sunny1a,You ready/ girls?
+20,2,Luna0a,We're attacking together/ right?
+20,3,Star0a,Ready when you are/ Sunny.
+20,4,Sunny1a,Here goes! Ka-BLOOM!
+21,0,Sunny0a,C'mon/ we practiced for this!
+21,1,Sunny0a,Here we go!
+21,2,Luna1a,Light!
+21,3,Star1a,Fairy!
+21,4,Sunny1a,Formation Attack! Woo-hoo!
+22,0,Sunny0a,C'mon/ we practiced for this!
+22,1,Sunny0a,Alright! It's L-F-A time!
+22,2,Luna1a,L for... Light!
+22,3,Star1a,F for... Fairy!
+22,4,Sunny0a,A for... Argh/ I forgot!
+23,0,Sunny0a,Here comes our super special attack!
+23,1,Sunny1a,It's L-F-A time! Let's go!
+23,2,Luna1a,Light fairies!
+23,3,Star0a,Formation!
+23,4,Sunny1a,Attaaack!
+24,0,Sunny0a,We might need a plan for this one...
+25,0,Sunny0a,I can't keep running forever!
+26,0,Sunny1a,Do I scare you THAT much? Come closer!
+27,0,Sunny0a,Sorry. You made for a nice shield. Tee-hee!
+28,0,Sunny1a,I'm stealing the spotlight!
+29,0,Sunny1a,I'll do something too!
+30,0,Sunny0a,Lemme handle it!
+31,0,Sunny0a,I'll show you what fairies can do!
+32,0,Sunny0a,Look! I'm helping!
+33,0,Sunny0a,I'd better land a hit. I don't wanna look dumb.
+34,0,Sunny0a,Let's show 'em some teamwork!
+35,0,Sunny0a,I'd better land a hit. I don't wanna look dumb.
+36,0,Sunny0a,I'll blind 'em with my light!
+37,0,Sunny0a,Time to show off my fairy spirit!
+38,0,Sunny0a,This is the power of teamwork!
+39,0,Sunny1a,You know what we need? More sunlight!
+40,0,Sunny0a,I'll avenge you/ Luna!
+41,0,Sunny0a,Sorry Luna/ this one's mine!
+42,0,Sunny0a,Your fearless leader has arrived!\n　I'll take it from here!
+43,0,Sunny0a,Stay back/ Luna!
+44,0,Sunny0a,Lunaaa! You're such a klutz!
+45,0,Sunny0a,The Sun and the Moon shine bright in the sky!
+46,0,Sunny0a,I can't have you take all the credit/ Luna!
+47,0,Sunny0a,Make it count/ Luna!
+48,0,Sunny0a,Let's do this/ Luna!
+49,0,Sunny0a,When we both use our powers together/ we're unstoppable!
+50,0,Sunny0a,Don't forget to use your ability/ Luna!
+51,0,Sunny0a,Let's show 'em some proper fairy teamwork!
+52,0,Sunny0a,Luna! Let's show 'em our fairy spirit!
+53,0,Sunny0a,The Sun and the Moon shine bright in the sky!
+54,0,Sunny1a,Let's show 'em the power of our teamwork/ Luna!
+55,0,Sunny0a,You okay there/ Star?\n　...Guess not.
+56,0,Sunny0a,Your fearless leader has arrived!\n　I'll take it from here!
+57,0,Sunny3a,Sorry Star/ this one's mine!\n　...Please don't get mad.
+58,0,Sunny0a,Stay back/ Star!
+59,0,Sunny0a,This isn't like you/ Star!
+60,0,Sunny0a,Let's show 'em some proper fairy teamwork!
+61,0,Sunny0a,You better attack too/ Star!
+62,0,Sunny0a,The Sun and every other Star shine bright in the sky!
+63,0,Sunny0a,If this works out/ I'm taking all credit!
+64,0,Sunny0a,Let's do this/ Star!
+65,0,Sunny0a,I'll help you out/ Star!
+66,0,Sunny0a,Star/ point me to the enemy!
+67,0,Sunny0a,Star! Let's show 'em our fairy spirit!
+68,0,Sunny0a,I can't have you take all the credit/ Star!
+69,0,Sunny0a,The Sun and every other Star shine bright in the sky!
+70,0,Sunny0a,I'll make 'em pay for that/ Cirno!
+71,0,Sunny0a,Tsk tsk tsk. You have to much to learn/ Cirno!
+72,0,Sunny0a,I'll finish 'em off. That's what a REAL leader does!
+73,0,Sunny0a,Fall back/ Cirno!
+74,0,Sunny0a,Cirnooo! You're always so reckless!
+75,0,Sunny0a,Let's do this/ Cirno!
+76,0,Sunny0a,First-one-to-hit-wins!
+77,0,Sunny0a,The spotlight is yours this time/ Cirno!
+78,0,Sunny0a,By the way/ the fairy leader is me!
+79,0,Sunny0a,Let's show 'em some true fairy might!
+80,0,Sunny0a,Time for some teamwork/ Cirno!
+81,0,Sunny0a,Cirno! Let's show 'em our fairy spirit!
+82,0,Sunny0a,Cirno! Let's see who the REAL fairy leader is!
+83,0,Sunny1a,The illusion of sound and light!
+84,0,Sunny1a,We leaders gotta stick together!
+85,0,Sunny1a,Let me help/ Lunasa!
+86,0,Sunny1a,Let me help/ Merlin!
+87,0,Sunny1a,Let's combine our solar powers!
+88,0,Sunny1a,The illusion of sound and light!
+89,0,Sunny1a,The illusion of sound and light!
+90,0,Sunny1a,The strongest powers come in small packages!
+91,0,Sunny1a,Let me help/ Lyrica!
+92,0,Sunny1a,Just grit and bear it/ right? Heheheh!
+93,0,Sunny1a,You can't beat my fairy spirit!
+94,0,Sunny1a,I'm invincible!
+95,0,Sunny2a,T-Time out! Time out!
+96,0,Sunny2a,Ooof...
+97,0,Sunny2a,Hey/ that hurts!
+98,0,Sunny2a,Fairies never lose heart!
+99,0,Sunny2a,Wait—Waaah!
+100,0,Sunny2a,T-Time to show my brightest smile!
+101,0,Sunny2a,Aww man... This isn't looking good...
+102,0,Sunny0a,Heheheh.\n　Guess I'm too fast for you!
+103,0,Sunny0a,Heheheh. Too bad/ you missed!
+104,0,Sunny0a,Whoa there!\n　That almost got me!
+105,0,Sunny0a,Whew! Way too close for comfort!
+106,0,Sunny0a,Wow! Now this is exciting!
+107,0,Sunny0a,We fairies are all about danmaku!
+108,0,Sunny0a,Sunny Barrier!
+109,0,Sunny0a,What are you waiting for?\n　Oh well. My turn!
+110,0,Sunny2a,H-Heeelp!
+111,0,Sunny0a,Lights out for me...
+112,0,Sunny2a,I-I'm not retreating! I'm advancing backwards!
+113,0,Sunny2a,Awww man! I messed up!
+114,0,Sunny0a,I won't lose to you/ Dai!
+115,0,Sunny0a,I won't lose/ Dai!
+116,0,Sunny0a,Let's do this thing/ Rumia!
+117,0,Sunny0a,I won't lose/ Rumia!
+118,0,Sunny0a,There can be only one fairy leader/ and that's me!
+119,0,Sunny0a,Cirno! The strongest is ME!
+120,0,Sunny0a,Is that really the god of the sun?\n　Something feels real wrong about it...
+121,0,Sunny0a,Are we REALLY sure fighting is going to make this god weaker...?
+122,0,Sunny0a,C'mere/ girls!
+122,1,Sunny0a,We're using the L Formation Attack!
+122,2,Luna1a,Alright. They won't think the Three Fairies of Light are so dumb after this!
+122,3,Star0a,Ready when you are/ Sunny.
+122,4,Sunny1a,Okay!\n　Three/ two/ one... GO!
+123,0,Sunny0a,Wait. Is that... the light of the Sun?
+124,0,Sunny2a,In that case—SUNNY BARRIER!
+125,0,Sunny0a,I don't really get it/ but it sounds like I did something really awesome!
+126,0,Luna1a,We're up next!
+126,1,Sunny0a,The Sun/ the Moon/ and the stars up above...
+126,2,Luna1a,Together we are the Three Fairies of Light!
+126,3,Star0a,Today/ we shine brighter than ever.
+126,4,Sunny1a,NOOOW!!!

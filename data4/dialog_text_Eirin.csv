@@ -1,0 +1,270 @@
+ID,LineID,face,dialog
+0,0,Eirin0a,Well then/ allow me to start off this battle.
+1,0,Eirin0a,Such an irksome attack deserves a proper recompense.
+2,0,Eirin0a,I will not accept any complaining about being counterattacked.
+3,0,Eirin0a,It won't be that simple to escape.
+4,0,Eirin0a,Was that supposed to be withdrawing to a safe distance?
+5,0,Eirin0a,There's no medicine to treat stupidity.
+6,0,Eirin0a,Your fate is already sealed.
+7,0,Eirin0a,People of the Moon/ I choose to fight on the surface.
+8,0,Eirin0a,You won't be given a single shred of mercy.
+9,0,Eirin0a,If you were left unchecked/ you might harm the princess.
+10,0,Eirin0a,Our resolve to fight is not mere pretense.
+11,0,Eirin0a,If you behave/ this can all be over.
+12,0,Eirin0a,The price of failing to bring me down will be quite steep.
+13,0,Eirin0a,Even if we were to hit one another...
+14,0,Eirin0a,I'll defeat this enemy/ for the princess.
+15,0,Eirin0a,My calculations forecast that they will be the first to fall.
+16,0,Eirin1a,You won't escape this.
+17,0,Eirin1a,At this distance...
+18,0,Eirin1a,Aim at their vital points...
+19,0,Eirin1a,There's my target.
+20,0,Eirin0a,They say the dose makes the poison...
+20,1,Eirin0a,They say the dose makes the poison...
+20,2,Eirin1b,Try this dosage.
+21,0,Eirin0a,I'll end this in one shot.
+21,1,Eirin1a,One shot/ one kill.
+21,2,Eirin1b,Rising Game!
+22,0,Eirin0a,Your end will be a quiet one/ I imagine.
+22,1,Eirin0a,Your end will be a quiet one/ I imagine.
+22,2,Eirin1b,Now hasten to it.
+23,0,Eirin0a,Allow me to impart a valuable lesson...
+23,1,Eirin0a,Allow me to impart a valuable lesson...
+23,2,Eirin1b,That which rises
+24,0,Eirin0a,The wisdom of the moon is unfathomable to the likes of you.
+24,1,Eirin1b,Burst forth!
+25,0,Eirin0a,It seems it has become necessary to demonstrate my power.
+25,1,Eirin1b,Now/ kneel before me.
+26,0,Eirin0a,I will show you your future.
+26,1,Eirin1b,Your fate is destruction!
+27,0,Eirin0a,There is no future for you.
+27,1,Eirin1b,Flee in terror!
+28,0,Eirin4b,Let's finish this matter.
+28,1,Eirin5b,In a spacetime/ where the canopy of the heavens is closed and the moon hidden...
+28,2,Eirin5e,I will consign you to oblivion alongside this sky...
+28,3,Eirin4a,So there is no need for you to feel lonely.
+29,0,Eirin4b,I will show you the mysteries of my art.
+29,1,Eirin5b,To close the canopy of the heavens/ to overturn the very cosmos...
+29,2,Eirin5e,This is the essence of Astronomical Entombing!
+29,3,Eirin4a,Remain there unto eternity.
+30,0,Eirin1b,I will consign you to oblivion with this technique.
+30,1,Eirin5a,Controlling the night/ I reveal a phantasmal moon...
+30,2,Eirin5e,This is the false night/ which has no full moon...
+30,3,Eirin4a,And there will be no new dawn for you.
+31,0,Eirin0a,This is necessary for the moment.
+32,0,Eirin0a,I'll lull my enemy into a false sense of security...
+33,0,Eirin0a,I'm a doctor/ not a warrior.
+34,0,Eirin0a,I'm aghast... how could someone like myself end up in this position?
+35,0,Eirin0a,I'll make sure to give you a careful examination later.
+36,0,Eirin0a,I won't let this chance elude me.
+37,0,Eirin0a,Let's treat this problem at its source.
+38,0,Eirin0a,I've set things up for you.
+39,0,Eirin0a,If you're losing your focus/ I can prescribe you some restoratives.
+40,0,Eirin0a,I suppose this counts as preventative medicine.
+41,0,Eirin0a,Are you not feeling well?
+42,0,Eirin1a,I'll let loose the first shot.
+43,0,Eirin1a,According to my calculations/ we should aim at this one.
+44,0,Eirin1a,Do tell if you become injured.
+45,0,Eirin1a,Make certain you bring them down!
+46,0,Eirin1a,Please handle pursuing them.
+47,0,Eirin1a,Switch places with me should you feel the need.
+48,0,Eirin1a,I have them contained/ it's up to you to make it work.
+49,0,Eirin1a,I have every expectation you'll succeed.
+50,0,Eirin1a,The two of us together can certainly handle this.
+51,0,Eirin1a,We have reached the pinnacle of the surface's arts/ haven't we?
+52,0,Eirin1a,The plan is prepared/ all that's left is to execute it.
+53,0,Eirin2a,My goodness/ Kaguya...
+54,0,Eirin0a,Did you get bored and quit halfway through?
+55,0,Eirin0a,... Goodness but you are a handful.
+56,0,Eirin0a,My lady/ please leave the remainder to me.
+57,0,Eirin0a,Princess/ perhaps you needn't show their attacks such contempt?
+58,0,Eirin0a,How dare you show such impudence to the princess!
+59,0,Eirin0a,... Goodness but you are a handful.
+60,0,Eirin1a,I'll let loose the first shot/ my lady.
+61,0,Eirin1a,My lady/ may I suggest we aim at the target over there?
+62,0,Eirin1a,My lady/ please don't push too far ahead.
+63,0,Eirin1a,Allow me to assist you/ my lady.
+64,0,Eirin1a,Princess/ please retire behind me before you become hurt.
+65,0,Eirin1a,Please/ my lady/ by all means go right on ahead.
+66,0,Eirin0a,My lady/ I'll take this chance to completely crush them.
+67,0,Eirin0a,My lady/ please trust in my plan.
+68,0,Eirin1a,My lady/ please try not to let things get too out of hand...
+69,0,Eirin0a,Udonge/ I will capitalise on the mettle you showed there.
+70,0,Eirin0a,Concentrate on your next shot.
+71,0,Eirin0a,This is for the princess/ so get it right next time!
+72,0,Eirin0a,Udonge/ your job isn't to think/ it's to do.
+73,0,Eirin0a,Udonge/ put some more effort into this.
+74,0,Eirin0a,Missing your chance to escape... that's atypical for you/ Udonge.
+75,0,Eirin0a,Udonge/ give a battle the whole of your attention!
+76,0,Eirin1a,Udonge/ surely you can manage this.
+77,0,Eirin1a,Udonge/ aim for the target over there.
+78,0,Eirin1a,Udonge/ I'll let loose the first shot.
+79,0,Eirin1a,Udonge/ I'm entrusting this to you.
+80,0,Eirin1a,Udonge/ make certain you bring them down!
+81,0,Eirin1a,Carry out your duties as one of the princess's followers.
+82,0,Eirin1a,Udonge/ follow my plan.
+83,0,Eirin0a,Udonge/ let's completely and utterly crush them.
+84,0,Eirin1a,Udonge/ we'll bring victory for the princess.
+85,0,Eirin0a,Tewi/ I'll make good on the debt I owe.
+86,0,Eirin0a,Tewi/ leave the remainder to me.
+87,0,Eirin0a,This is for the princess/ so get it right next time!
+88,0,Eirin0a,Not making a clean get-away... that's atypical for you/ Tewi.
+89,0,Eirin0a,Tewi/ I'm keeping my eyes on you.
+90,0,Eirin1a,Tewi/ I'm entrusting this to you.
+91,0,Eirin1a,Carry out your duties as one of the princess's followers.
+92,0,Eirin1a,Tewi/ I have them contained.
+93,0,Eirin1a,Tewi/ aim for the target over there.
+94,0,Eirin1a,Tewi/ I'll let loose the first shot.
+95,0,Eirin1a,Tewi/ if you would?
+96,0,Eirin1a,Tewi/ follow my plan.
+97,0,Eirin1a,Tewi/ we'll bring victory to the princess.
+98,0,Eirin0a,Tewi/ let's completely and utterly crush them.
+99,0,Eirin0a,Were that you would direct such loyalty towards your commanders.
+100,0,Eirin0a,Reysen/ you haven't finished what you started.
+101,0,Eirin0a,Reysen/ leave the remainder to me.
+102,0,Eirin0a,You'll get scolded by Yorihime for this level of performance.
+103,0,Eirin0a,You need more training.
+104,0,Eirin0a,Reysen/ carry out your duties.
+105,0,Eirin0a,Reysen/ I'll let loose the first shot.
+106,0,Eirin0a,Reysen/ aim for the target over there.
+107,0,Eirin0a,Reysen/ I have them contained.
+108,0,Eirin0a,Show me that you're worthy of your name.
+109,0,Eirin0a,Reysen/ show your commanders what you're capable of.
+110,0,Eirin0a,Reysen/ follow my plan.
+111,0,Eirin0a,Reysen/ let's completely and utterly crush them.
+112,0,Eirin2a,Yorihime... how could this happen?
+113,0,Eirin0a,Yorihime/ I'm surprised you failed to cut them down.
+114,0,Eirin0a,Yorihime/ switch with me.
+115,0,Eirin0a,Yorihime/ take care not to overdo it.
+116,0,Eirin0a,Yorihime/ be careful.
+117,0,Eirin1a,Yorihime/ you understand my aims/ yes?
+118,0,Eirin1a,Yorihime/ take care not to overdo things.
+119,0,Eirin1a,Yorihime/ I'll let loose the first shot.
+120,0,Eirin0a,Yorihime/ fight alongside me.
+121,0,Eirin1a,Yorihime/ we'll carry this out together.
+122,0,Eirin0a,Yorihime/ this is Earthling danmaku.
+123,0,Eirin0a,Yorihime/ show me your strength.
+124,0,Eirin0a,Yorihime/ let's carry out my plan.
+125,0,Eirin2a,Toyohime... how could this happen?
+126,0,Eirin0a,Toyohime/ I'm the more experienced of us.
+127,0,Eirin0a,Toyohime/ leave the remainder to me
+128,0,Eirin0a,Toyohime/ take care not to overdo it.
+129,0,Eirin0a,Toyohime/ take my position back there.
+130,0,Eirin1a,Toyohime/ take care not to overdo it.
+131,0,Eirin1a,Toyohime/ let's fight alongside one another.
+132,0,Eirin1a,Toyohime/ I'll let loose the first shot.
+133,0,Eirin1a,Toyohime/ you understand my aims/ yes?
+134,0,Eirin1a,Toyohime/ I do wonder if it's ideal for you to get so close.
+135,0,Eirin0a,Toyohime/ show me the strength of the moon.
+136,0,Eirin0a,Toyohime/ this is Earthling danmaku.
+137,0,Eirin0a,Toyohime/ you understand my plans.
+138,0,Eirin0a,Mokou/ I'll make good on the debt I owe.
+139,0,Eirin0a,Oh/ Mokou/ are you finally weakening in your old age?
+140,0,Eirin0a,Mokou/ stop slacking off and bring them down!
+141,0,Eirin0a,Surely you're not taking hits on purpose/ Mokou?
+142,0,Eirin0a,I won't turn my back on you/ Mokou.
+143,0,Eirin0a,Don't worry/ Mokou/ I've no intent of stopping your antics this time.
+144,0,Eirin0a,Mokou/ aim for the target over there.
+145,0,Eirin0a,Mokou/ I'll let loose the first shot.
+146,0,Eirin0a,Mokou/ you should be able to handle this with ease.
+147,0,Eirin0a,I admit I'm surprised to find myself fighting side-by-side with you.
+148,0,Eirin0a,Mokou/ show me what your flames can do.
+149,0,Eirin0a,Mokou/ let's completely and utterly crush them.
+150,0,Eirin0a,Mokou/ follow my plan.
+151,0,Eirin2a,Medicine/ take better care of yourself.
+152,0,Eirin0a,Medicine/ that's enough for now.
+153,0,Eirin0a,Medicine/ leave the remainder to me.
+154,0,Eirin0a,Medicine/ don't let yourself grow careless.
+155,0,Eirin0a,Medicine/ take care not to overdo it.
+156,0,Eirin0a,The dose makes the poison.
+157,0,Eirin0a,Medicine/ do as you please with them.
+158,0,Eirin0a,Medicine/ aim for the target over there.
+159,0,Eirin0a,Medicine/ take care. Don't push yourself too hard.
+160,0,Eirin0a,Medicine/ I'll let loose the first shot.
+161,0,Eirin0a,Medicine/ you can give them as full a dose as you like.
+162,0,Eirin0a,Medicine/ let's completely and utterly crush them.
+163,0,Eirin0a,Medicine/ carry out my plan.
+164,0,Eirin0a,I'll be honest with you: you're out of your depth.
+165,0,Eirin0a,Is that really your full power?
+166,0,Eirin0a,An attack like that isn't going to defeat me.
+167,0,Eirin0a,I think it best if you stopped antagonising me before it's too late.
+168,0,Eirin0a,That attack.... If anything it makes me feel pity.
+169,0,Eirin2a,Ugh/ just doing whatever you please―
+170,0,Eirin2a,I can't believe this way of doing things is―
+171,0,Eirin2a,You're quite difficult to fathom...
+172,0,Eirin2a,I'm soon approaching my limit...
+173,0,Eirin2a,Is this their true strength?
+174,0,Eirin2a,Perhaps I've been too prideful...
+175,0,Eirin2a,I misjudged their movements?!
+176,0,Eirin2a,So you're able to face me on an even footing.
+177,0,Eirin2a,This might be dangerous to face alone...
+178,0,Eirin2a,You're heading towards an early grave!
+179,0,Eirin2a,I don't want to get hurt.
+180,0,Eirin2a,It exceeded my predictions?!
+181,0,Eirin0a,Mild injuries won't be a problem.
+182,0,Eirin2a,You will regret harming me.
+183,0,Eirin2a,You're an opponent I shouldn't underestimate.
+184,0,Eirin2a,What insolence!
+185,0,Eirin2a,I suppose I should re-evaluate you.
+186,0,Eirin0a,You can't touch me.
+187,0,Eirin0a,Perhaps that was just a probing attack.
+188,0,Eirin0a,Well/ that was quite the foolish move.
+189,0,Eirin0a,What you were going for there is just baffling to me.
+190,0,Eirin0a,This attack is exactly as I calculated.
+191,0,Eirin0a,I understand exactly what you're doing.
+192,0,Eirin0a,There's no medicine to treat stupidity.
+193,0,Eirin0a,You've shown some decent aim.
+194,0,Eirin0a,That's it? Don't make me laugh.
+195,0,Eirin0a,What part of It's hopeless" don't you understand?
+196,0,Eirin0a,I predicted that attack in full.
+197,0,Eirin0a,That was a very well-aimed miss.
+198,0,Eirin0a,I'll blunt this attack.
+199,0,Eirin0a,This is another power of lunar knowledge.
+200,0,Eirin0a,You fell right into my trap.
+201,0,Eirin0a,Are you truly that foolish?
+202,0,Eirin0a,Perhaps you didn't notice how I guided you to this spot.
+203,0,Eirin0a,You've fallen completely for one of my plans.
+204,0,Eirin0a,Your movement there is also part of my plans.
+205,0,Eirin2a,How could I lose?
+206,0,Eirin2a,This physician failed to heal herself...
+207,0,Eirin0a,My apologies/ I seem to have been a little negligent.
+208,0,Eirin0a,I let you see me embarrass myself there. I'll be back on the ship to provide treatment.
+209,0,Eirin0a,Perhaps the brute-force approach will get through to a rampaging Yatagarasu...
+210,0,Eirin0a,Resist all you like/ I cannot allow the surface to be burned.
+211,0,Eirin0a,Those who live in Heaven are pompous/ just like this.
+212,0,Eirin0a,Causing an incident to stave off boredom? I'd best not let you become a bad influence on Kaguya.
+213,0,Eirin0a,I'll catch you first/ and think of how we'll deal with you afterwards later.
+214,0,Eirin0a,I'm quite tired of your troublesome abilities. Let's sew this up nicely.
+215,0,Eirin0a,I'm quite interested in a youkai who can manipulate poison.
+216,0,Eirin0a,Be more careful in how you handle poisons.
+217,0,Eirin0a,I can already tell that you're going to be quite unpleasant to deal with.
+218,0,Eirin0a,Surely there's none here who would be disturbed by this.
+219,0,Eirin0a,I wonder how much of our power you were able to reproduce.
+220,0,Eirin0a,To steal another's shape is the height of disrespect.
+221,0,Eirin0a,Oh dear. There was a time when Kaguya was like this/ but...
+222,0,Eirin0a,I wonder if it copied even the efficacy of Lunarian weaponry...
+223,0,Eirin0a,I don't want to see my students turn out like this.
+224,0,Eirin0a,Oh/ how dare you steal my precious student's shape.
+225,0,Eirin0a,I highly doubt you could duplicate her strength of spirit.
+226,0,Eirin0a,I'm here to settle the score.
+227,0,Eirin0a,It seems like you're trying to stall us...
+228,0,Eirin0a,I'm telling you this for your own good: You shouldn't continue this 
+229,0,Eirin0a,I can sense a different kind of power flowing into her...
+230,0,Eirin2a,As a doctor I'd advise against continuing this/ for your own health.
+231,0,Eirin0a,The dreamspirit fountain... What a fitting place to bring the curtains to a close.
+232,0,Eirin0a,I have some more questions I'd like you to answer about your ideals.
+233,0,Eirin0a,I'll bring your ideals crashing back to earth with my danmaku.
+234,0,Eirin0a,The dreamspirit fountain... I'd suspected the curtains would be brought to a close here.
+235,0,Eirin0a,I'll bring your delusions crashing back to earth with my danmaku.
+236,0,Eirin0a,I too will strive for Makura's sake.
+237,0,Eirin0a,I do feel rather sorry about this/ but...
+238,0,Eirin0a,This too is a way to fulfill your duties.
+239,0,Eirin0a,I didn't expect to see how my pupils had developed this way.
+240,0,Eirin0a,I do feel rather sorry about this/ but...
+241,0,Eirin0a,I didn't expect to see how my pupils had developed this way.
+242,0,Eirin0a,This too is a way to fulfill your duties.
+243,0,Eirin0a,Udonge/ show me how you've grown.
+244,0,Eirin0a,Can you guard the princess properly?
+245,0,Eirin0a,Toyohime/ show me how far you've come.
+246,0,Eirin0a,This sort of cultural interchange is fine to foster too.
+247,0,Eirin0a,Well then/ I'm returning to Eientei.

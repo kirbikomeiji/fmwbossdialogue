@@ -1,0 +1,221 @@
+ID,LineID,face,dialog
+0,0,Yamame0a,Let's see what these surface dwellers are really about.
+1,0,Yamame0a,Sorry/ but you'll have to keep me company for a bit/
+2,0,Yamame0a,Hold up/ I've got a GREAT present for you!
+3,0,Yamame0a,Time for a little payback.
+4,0,Yamame0a,Hey now/ let me have some fun too!
+5,0,Yamame0a,You've flown straight into my web/ little fly!
+6,0,Yamame0a,Let me show you how we do things underground!
+7,0,Yamame0a,No where to hide!
+8,0,Yamame0a,You're about to witness the terror of a tsuchigumo!
+9,0,Yamame0a,Out of my way!
+10,0,Yamame0a,Undergrounders like us are known for our power.\n　Care for a demonstration?
+11,0,Yamame0a,You gotta do/ what you gotta do.
+12,0,Yamame1a,I'll bring the web to you!
+13,0,Yamame1a,I'll tangle you right up!
+14,0,Yamame1a,I don't let my prey escape!
+15,0,Yamame1a,There you are!
+16,0,Yamame1a,Capture Web!
+17,0,Yamame1a,Escape this if you can!
+17,1,Yamame1a,Gotcha!
+18,0,Yamame1a,There's no escaping this miasma!
+18,1,Yamame1a,Take this!
+19,0,Yamame1a,Breathe in/ the miasma of disorder!
+19,1,Yamame1a,Fall ill/ and perish!
+20,0,Yamame1a,See if you can escape the threads of pestilence!
+20,1,Yamame1a,Uryaaah!
+21,0,Yamame1a,This thread is merciless!
+21,1,Yamame1a,Eat it!
+21,2,Yamame1a,Now I'LL take a bite.
+22,0,Yamame1a,Let's go for a swing!
+22,1,Yamame1a,Tenderize the meat first...
+22,2,Yamame1a,Then bottom's up!
+23,0,Yamame1a,I'll gobble you right up!
+23,1,Yamame1a,Swing/ swing!
+23,2,Yamame1a,Dinner time.
+24,0,Yamame0a,Let's go/ Kisume!
+24,1,Kisume0a,Sure thing! Wait/ where'd you...
+24,2,Kisume0a,Sure thing! Wait/ where'd you...\n　Wah!
+24,3,Yamame0a,Souls of the damned/ full burn!
+24,4,Kisume0a,Spin! Me! Round!
+24,5,Yamame1a,Bucket Cannon...!
+24,6,Kisume0a,Attaaa—
+24,7,Kisume0a,Attaaa—WHY'S THIS SO FAAAAST?!
+24,8,Kisume2a,Ouch!
+24,9,Kisume0a,Fine then...
+24,10,Kisume2a,Fine then... FIRE!
+24,11,Kisume0a,Please don't drop me!
+24,12,Yamame0a,Nice improv/ Kisume.
+25,0,Yamame0a,Ready when you are/ Kisume!
+25,1,Kisume0a,Yep/ I'm read—
+25,2,Kisume0a,Yep/ I'm read—Hyah!
+25,3,Yamame0a,Up you go!
+25,4,Kisume0a,Woohoo!
+25,5,Yamame1a,This one blow will knock you...!
+25,6,Kisume0a,Straight to hell—
+25,7,Kisume0a,Straight to hell—WHY'M I GOING TOOO?!
+25,8,Kisume2a,Ouch!
+25,9,Kisume0a,How about...
+25,10,Kisume1a,Liftoff!
+25,11,Kisume0a,Nice catch/ Yamame!
+25,12,Yamame0a,S'what trust exercises are all about.
+26,0,Yamame0a,Clench those teeth/ Kisume!
+26,1,Kisume0a,You got it/ coach!
+26,2,Kisume0a,You got it/ coach!\n　Whoa!
+26,3,Yamame0a,I'll bet it all on this pitch!
+26,4,Kisume0a,We're heading for finals!
+26,5,Yamame1a,This is our legendary...!
+26,6,Kisume0a,First! Pitch!
+26,7,Kisume0a,First! Pitch!\n　WHAT EVEN IS THIS JOOOOKE?!
+26,8,Kisume2a,ACHOO!
+26,9,Kisume0a,But even so...
+26,10,Kisume2a,But even so... I won't falter!
+26,11,Yamame0a,How was that/ my magic ball?
+26,12,Kisume0a,...You're a pretty wild pitcher/ Yamame.
+27,0,Yamame0a,I'm pretty good at waiting/ you know.
+28,0,Yamame0a,I wouldn't say I could do this ALL day/ but...
+29,0,Yamame0a,Pretty rude way to fight a spider...
+30,0,Yamame0a,C'mon/ come a little closer...
+31,0,Yamame0a,Even us Underworlders know how to pay back a debt.
+32,0,Yamame0a,I'm always ready to help.
+33,0,Yamame0a,Leave the leftovers to me!
+34,0,Yamame0a,Gotta let others have their fun first sometimes.
+35,0,Yamame0a,I'll infect that one.
+36,0,Yamame0a,I won't let you have your way!
+37,0,Yamame0a,I was just in the mood/ don't overthink it.
+38,0,Yamame0a,My threads will stop them!
+39,0,Yamame1a,I'm no diversion/ I'm the whole damn show!
+40,0,Yamame1a,I'll pin them down!
+41,0,Yamame1a,Leave the setup to me!
+42,0,Yamame1a,We're in this together!
+43,0,Yamame1a,Take care of them for me!
+44,0,Yamame1a,Keep your distance if you don't want webs in your mouth!
+45,0,Yamame1a,I'll web them right up!
+46,0,Yamame1a,Come on partner/ I'm counting on you here!
+47,0,Yamame1a,Let's have some fun with this!
+48,0,Yamame1a,Let's team up and take them down!
+49,0,Yamame2a,You'll regret beating up Kisume!
+50,0,Yamame0a,You did great/ Kisume.
+51,0,Yamame0a,Kisume/ leave the rest to me.
+52,0,Yamame0a,Don't let your guard down just because your bucket's sturdy!
+53,0,Yamame0a,You've got a lot of blind spots in there/ huh...
+54,0,Yamame1a,Here's a get-well present/ Kisume!
+55,0,Yamame1a,I'll pin them down/ Kisume!
+56,0,Yamame1a,Let's do this/ Kisume!
+57,0,Yamame1a,Let's work together on this/ Kisume!
+58,0,Yamame1a,Let's show them the power of the Underworld/ Kisume!
+59,0,Yamame1a,Come on Kisume/ I'm counting on you here!
+60,0,Yamame1a,Let's have some fun with this/ Kisume!
+61,0,Yamame1a,Kisume/ let's team up and take them down!
+62,0,Yamame2a,Parsee... I'll pay them back double for you!
+63,0,Yamame0a,I'll lend you a hand/ Parsee!
+64,0,Yamame0a,I'll finish them off/ Parsee!
+65,0,Yamame0a,Stop being jealous and focus!
+66,0,Yamame0a,Where's your head at/ Parsee?!
+67,0,Yamame1a,Here's a get-well present/ Parsee!
+68,0,Yamame1a,I'll pin them down/ Parsee!
+69,0,Yamame1a,Let's do this/ Parsee!
+70,0,Yamame1a,Let's work together on this/ Parsee!
+71,0,Yamame1a,Let's show them the power of the Underworld/ Parsee!
+72,0,Yamame1a,Come on Parsee/ I'm counting on you here!
+73,0,Yamame1a,Let's have some fun with this/ Parsee!
+74,0,Yamame1a,Parsee/ let's team up and take them down!
+75,0,Yamame2a,Yuugi... I'll pay them back double for you!
+76,0,Yamame0a,It's unlike you to not finish your plate.
+77,0,Yamame0a,You don't mind if I finish them off/ do you?
+78,0,Yamame0a,I suppose even you need help sometimes.
+79,0,Yamame0a,You're being a bit TOO fair/ I think.
+80,0,Yamame1a,Here's a get-well present/ Yuugi!
+81,0,Yamame1a,I'll pin them down/ Yuugi!
+82,0,Yamame1a,Let's do this/ Yuugi!
+83,0,Yamame1a,Let's work together on this/ Yuugi!
+84,0,Yamame1a,Let's show them the power of the Underworld/ Yuugi!
+85,0,Yamame0a,Come on Yuugi/ I'm counting on you here!
+86,0,Yamame0a,Let's have some fun with this/ Yuugi!
+87,0,Yamame0a,Yuugi/ let's team up and take them down!
+88,0,Yamame0a,What's the Queen of Insects doing/ sacrificing herself like that?!
+89,0,Yamame0a,Listen/ you wanna say we're in the same class?\n　Then do a better job next time.
+90,0,Yamame0a,Ugh/ fine. I'll help out.
+91,0,Yamame0a,You are SUCH a pain in my ass...
+92,0,Yamame0a,Quit dawdling!
+93,0,Yamame0a,Can't believe I'm stuck with you...
+94,0,Yamame0a,Listen/ you wanna say we're in the same class?\n　Then you'd better do a good job with this!
+95,0,Yamame1a,You'd better not mess this up!
+96,0,Yamame1a,I'm bothering to help you/ so you'd better finish the job!
+97,0,Yamame1a,Show me what your buddies" can do/ Wriggle.
+98,0,Yamame1a,Let's show them what we're capable of/ Wriggle!
+99,0,Yamame1a,Let's take them down/ Wriggle!
+100,0,Yamame1a,Wriggle/ follow my lead!
+101,0,Yamame0a,My webs make great padding!
+102,0,Yamame0a,I don't even have to take this seriously!
+103,0,Yamame0a,Just gotta make it through this...
+104,0,Yamame0a,Not making this very tough for me.
+105,0,Yamame0a,What a joke.
+106,0,Yamame0a,Lukewarm at best.
+107,0,Yamame0a,You're barely even worth my time.
+108,0,Yamame2a,Not much left in the tank...
+109,0,Yamame2a,Crap! They're way stronger than I expected...
+110,0,Yamame2a,You're gonna regret not finishing me off!
+111,0,Yamame2a,Just down to luck/ now...
+112,0,Yamame2a,You're gonna have a bad time!
+113,0,Yamame2a,I see... So that's how it is.
+114,0,Yamame2a,Damn/ they're fast!
+115,0,Yamame2a,Agh/ they got me...
+116,0,Yamame0a,I'll use my webs!
+117,0,Yamame0a,The battle's far from over!
+118,0,Yamame2a,You're no joke...
+119,0,Yamame0a,Don't stick too close/ or you'll get tangled up.
+120,0,Yamame2a,You'll regret messing with me!
+121,0,Yamame2a,This one's for real...
+122,0,Yamame2a,I won't go down without a fight!
+123,0,Yamame0a,For your sake/ I hope you were holding back.
+124,0,Yamame0a,Yawn.
+125,0,Yamame0a,Try again next time/ kiddo!
+126,0,Yamame0a,Not even close!
+127,0,Yamame0a,What's wrong? Limbs feeling heavy?
+128,0,Yamame0a,Accuracy alone won't cut it!
+129,0,Yamame0a,Aaand there we have it.
+130,0,Yamame0a,Spiders are quicker than you'd think.
+131,0,Yamame2a,Cutting it kinda close there!
+132,0,Yamame0a,Gotten your eyes checked recently?
+133,0,Yamame0a,Not gonna work!
+134,0,Yamame0a,Nope!
+135,0,Yamame0a,So you've come into my parlor!
+136,0,Yamame0a,Caught me a big one!
+137,0,Yamame2a,Guess I let my guard down...
+138,0,Yamame2a,Didn't think I'd be losing like this...
+139,0,Yamame0a,They got me...\n　But they don't know how vengeful I can be.
+140,0,Yamame0a,Crap/ I really screwed this up.\n　Sorry guys/ but I'm taking a breather.
+141,0,Yamame2a,Who'd've thought she'd go so far...
+142,0,Yamame0a,Trust me/ we'd LOVE to hear what you're up to!
+143,0,Yamame0a,Didn't think we'd be implicated in an incident...
+144,0,Yamame0a,Didn't think we'd be implicated in an incident...
+145,0,Yamame0a,Well well/ you've certainly got some heat on you now.
+146,0,Yamame0a,Never thought THIS was how I'd visit the surface...
+147,0,Yamame0a,As a fellow Underworlder/ we've gotta fix our own problems!
+148,0,Yamame0a,C'mere Wriggle. Let's see how tough you really are...
+149,0,Yamame0a,I suppose you've got the pick of the litter up here on the surface.
+150,0,Yamame0a,Let's see what you've got.
+151,0,Yamame0a,Kids on the surface get up to some wild stuff...
+152,0,Yamame0a,You'd best avoid my webs if you wanna keep that pep in your step.
+153,0,Yamame0a,I feel for you/ getting caught up in all this.
+154,0,Yamame0a,Pompous jerks like you are my favorite type of prey.
+155,0,Yamame0a,I don't have time for your crap.
+156,0,Yamame0a,Don't think you can escape a spider's clutches!
+157,0,Yamame0a,I REALLY don't give a crap what your deal is.
+158,0,Yamame0a,Kind of a roundabout way to get your attention/ but here goes...
+159,0,Yamame0a,Hey Koishi! Float your way over here for a bit!
+160,0,Yamame0a,Is this supposed to intimidate me somehow?
+161,0,Yamame0a,I wonder if nightmares can get sick.
+162,0,Yamame1a,I'm gonna wrap you up and throw you in a river!
+163,0,Yamame0a,Hell of a stunt you're pulling here.
+164,0,Yamame0a,So that's what you forced inside of you/ huh?
+165,0,Yamame2a,Ugh/ I can barely stand to look at you.
+166,0,Yamame0a,You come at me/ you'd best not miss.
+167,0,Yamame1a,My diseases are FAR worse than any nightmare you can cook up!
+168,0,Yamame1a,So you CAN learn. Will wonders never cease!
+169,0,Yamame1a,I've got some webs with your name on them!
+170,0,Yamame0a,If you wanna do this/ then let's do it.
+171,0,Yamame1a,My diseases are FAR worse than any nightmare you can cook up!
+172,0,Yamame1a,How many times do we have to teach you this lesson/ old baku?!
+173,0,Yamame1a,I've got some webs with your name on them!

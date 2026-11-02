@@ -1,0 +1,475 @@
+ID,LineID,face,dialog
+0,0,Keine1a,Sometimes you have to fight!
+1,0,Keine0a,Initiating combat!
+2,0,Keine0a,Okay/ it's time to teach you a lesson!
+3,0,Keine0a,I'm going to straighten things out right away!
+4,0,Keine0a,Don't assume I'll let you get away with this!
+5,0,Keine0a,I'd wanted to settle this without a big fuss...
+6,0,Keine0a,I didn't want to resort to these kinds of methods...
+7,0,Keine0a,Don't assume I'm just some ordinary teacher!
+8,0,Keine0a,Conflict is a historical inevitability/ but I don't have to like it...
+9,0,Keine1a,I fight so that the human village can stay peaceful!
+10,0,Keine0a,All the same/ I still won't back down!
+11,0,Keine1a,I'm not going to cut you any slack!
+12,0,Keine1a,That's too much mischief out of you! I'm ending this here!
+13,0,Keine2a,Give it up!
+14,0,Keine1a,I have just one more shot!
+15,0,Keine1a,Be good and surrender!
+16,0,Keine1a,Prepare yourself!
+17,0,Keine1a,I'll take you head-on!
+18,0,Keine1a,You rascal!
+19,0,Keine1a,Don't get too carried away!
+20,0,Keine1a,In this situation/ you should hide!
+21,0,Keine1a,It's too late to apologize!
+21,1,Keine1a,You...
+21,2,Keine1a,Yooou...
+21,3,Keine1a,YOOUU...
+21,4,Keine1a,YOOUUU NEED TO BE TAUGHT A LESSON!
+21,5,Keine1a,This is what happens to kids who don't mind their manners.
+22,0,Keine1a,Sit down properly! Back straight!
+22,1,Keine1a,You...
+22,2,Keine1a,Yooou...
+22,3,Keine1a,YOOUU...
+22,4,Keine1a,YOOUUU NEED TO BE TAUGHT A LESSON!
+22,5,Keine1a,I want you to write an apology note/ and copy it 20 times.
+23,0,Keine1a,Grit your teeth and bear it!
+23,1,Keine1a,You...
+23,2,Keine1a,Yooou...
+23,3,Keine1a,YOOUU...
+23,4,Keine1a,YOOUUU NEED TO BE TAUGHT A LESSON!
+23,5,Keine1a,Go report to detention!
+24,0,Keine0a,This is my spellcard!
+24,1,Keine1a,Let's go!\n Light Sign: Amaterasu!
+25,0,Keine0a,Light Sign: Amaterasu!
+25,1,Keine1a,Illuminate this transient world!
+26,0,Keine0a,You're at my ideal range!
+26,1,Keine1a,Light Sign: Amaterasu!
+27,0,Keine0a,Is dodging really the best I can do for now...
+28,0,Keine0a,I'll drag the fight out like this...
+29,0,Keine0a,If all I need to do is evade/ I'll manage.
+30,0,Keine0a,It wouldn't reach them from here...
+31,0,Keine1a,You little sneak! Come over here right now!
+32,0,Keine0a,I'm at my wit's end...
+33,0,Keine0a,Hm/ beyond my maximum range/ huh...
+34,0,Keine1a,I'll settle this score with you later!
+35,0,Keine1a,I won't let your sacrifice go to waste!
+36,0,Keine1a,I won't let up the attack!
+37,0,Keine0a,You did a really good job. Next it's my turn!
+38,0,Keine0a,I'm going next! You should pull back!
+39,0,Keine1a,This is your final warning!
+40,0,Keine0a,As if I'd let this chance get away!
+41,0,Keine0a,You have me at your side!
+42,0,Keine0a,I'll take this one!
+43,0,Keine1a,This won't turn out like you planned!
+44,0,Keine1a,Take this more seriously!
+45,0,Keine0a,I've got you covered/ don't worry.
+46,0,Keine1a,Okay/ time for simultaneous attacks!
+47,0,Keine1a,Don't go charging on in thoughtlessly!
+48,0,Keine1a,Let no one say I was a coward!
+49,0,Keine0a,I'm your partner/ you can count on me.
+50,0,Keine1a,Don't think I'm just here to supervise a field trip!
+51,0,Keine1a,You should take advantage of the opportunity my attack creates.
+52,0,Keine0a,I'll follow your instructions right now.
+53,0,Keine1a,As a teacher/ I need to take the lead when fighting!
+54,0,Keine1a,I'll slow them down for you!
+55,0,Keine1a,Let's both give it our best shots!
+56,0,Keine1a,For Gensokyo's history!
+57,0,Keine1a,Now is the time for unity!
+58,0,Keine2a,Reimu! Don't worry/ I'll settle the score with them...
+59,0,Keine0a,Reimu/ you can count on me to handle this.
+60,0,Keine0a,I won't overlook an opportunity Reimu makes for me!
+61,0,Keine0a,Reimu/ I'll take this for you!
+62,0,Keine0a,Reimu/ you're being too rash!
+63,0,Keine0a,Reimu/ you can rely on me!
+64,0,Keine0a,Reimu/ you're being too rash!
+65,0,Keine0a,It's not like you to show them a weakpoint!
+66,0,Keine0a,Watch and learn/ and don't get distracted now!
+67,0,Keine1a,Reimu/ let's take them together!
+68,0,Keine0a,Are we aiming for them based on your intuition/ Reimu?
+69,0,Keine1a,Reimu and I will protect the human village!
+70,0,Keine1a,I'm counting on you/ Reimu!
+71,0,Keine1a,I'll restrict their movements! You'll handle the main attack/ Reimu!
+72,0,Keine1a,Of course you know what a moment of opportunity this is/ Reimu!
+73,0,Keine1a,Reimu and I will give them their last warning!
+74,0,Keine1a,We'll make this go down in Gensokyo's history!
+75,0,Keine2a,Marisa! Oh/ you've really done it now...
+76,0,Keine0a,Now that's the flashiness I expect out of you! You attracted the enemy's attention!
+77,0,Keine0a,Marisa/ you can count on me for the rest!
+78,0,Keine1a,Protecting humans is my job!
+79,0,Keine0a,Don't get overconfident/ Marisa!
+80,0,Keine1a,Marisa/ don't go charging on in too far!
+81,0,Keine1a,Marisa/ let's take them together!
+82,0,Keine1a,Marisa/ remember―everything in moderation/ even fun.
+83,0,Keine1a,Marisa and I will protect the human village!
+84,0,Keine1a,I trust in you/ Marisa.
+85,0,Keine1a,Marisa/ I'll restrict their movements!
+86,0,Keine1a,We'll make this go down in your history!
+87,0,Keine1a,Marisa/ I'm depending on you to be as flashy as always!
+88,0,Keine1a,When Marisa gets serious/ I feel the need to as well!
+89,0,Keine1a,Alice! Don't worry/ I'll settle the score with them...
+90,0,Keine1a,Alice/ you can count on me for the rest!
+91,0,Keine1a,I won't overlook an opportunity Alice creates for me!
+92,0,Keine1a,Alice/ I'll take this one!
+93,0,Keine1a,Alice/ the enemy's getting close!
+94,0,Keine0a,I'm counting on you to pick our targets/ Alice.
+95,0,Keine0a,Alice/ let's take them together!
+96,0,Keine1a,I'm counting on you/ Alice!
+97,0,Keine1a,Alice and I will protect the human village!
+98,0,Keine1a,I have faith in Alice's judgment.
+99,0,Keine1a,Alice/ I'll restrict their movements!
+100,0,Keine1a,Alice/ it's time for a simultaneous attack!
+101,0,Keine1a,Alice/ let's finish this here!
+102,0,Keine1a,Of course you know what a moment of opportunity this is/ Alice!
+103,0,Keine1a,Alice and I will give them their final warning!
+104,0,Keine2a,Sanae! Oh/ you've really done it now...
+105,0,Keine0a,Sanae's danmaku sure attracts a lot of attention.
+106,0,Keine0a,Sanae/ you can count on me for the rest!
+107,0,Keine1a,Protecting humans is my job!
+108,0,Keine0a,Sanae/ you let your guard down!
+109,0,Keine1a,Sanae and I will protect the human village!
+110,0,Keine1a,Sanae/ let's take them together!
+111,0,Keine0a,I'm always glad to see an eager student.
+112,0,Keine1a,I'll help you collect some faith!
+113,0,Keine1a,You can do it/ Sanae!
+114,0,Keine1a,Sanae/ I'll restrict their movements!
+115,0,Keine1a,I'll combine my power with the power of Sanae's faith!
+116,0,Keine1a,We'll make this go down in the history of faith!
+117,0,Keine1a,Sanae and I will give them their final warning!
+118,0,Keine1a,Youmu! Don't worry/ I'll settle the score with them...
+119,0,Keine0a,Youmu/ your follow-through's just a little...
+120,0,Keine1a,Youmu/ you can count on me for the rest!
+121,0,Keine1a,Youmu/ aren't they a little inside your guard?
+122,0,Keine1a,Youmu/ I'll take this one!
+123,0,Keine0a,I'm counting on you to pick our targets/ Youmu.
+124,0,Keine0a,Youmu/ let's take them together!
+125,0,Keine0a,I'm always glad to see an eager student.
+126,0,Keine1a,You can do it/ Youmu!
+127,0,Keine1a,Youmu and I will protect the human village!
+128,0,Keine1a,Youmu/ I'll restrict their movements!
+129,0,Keine1a,Youmu/ it's time to bring this drama to a close!
+130,0,Keine1a,We'll make this go down in the history of swordsmanship!
+131,0,Keine1a,Youmu and I will give them their final warning!
+132,0,Keine1a,Mokou! Don't worry/ I'll settle the score with them...
+133,0,Keine0a,Mokou/ you can count on me for the rest!
+134,0,Keine0a,I won't overlook an opportunity Mokou creates for me!
+135,0,Keine0a,Mokou/ you can rely on me!
+136,0,Keine0a,Mokou/ you're being too rash!
+137,0,Keine1a,Mokou/ let's take them together!
+138,0,Keine1a,Mokou and I will protect the human village!
+139,0,Keine1a,When it comes to combat/ I'll follow Mokou's instructions!
+140,0,Keine1a,I'm counting on you/ Mokou!
+141,0,Keine1a,Mokou/ I'll restrict their movements!
+142,0,Keine1a,We'll make this go down in the history of combustion!
+143,0,Keine1a,Mokou/ it's time to show them our history!
+144,0,Keine1a,Mokou and I will give them their final warning!
+145,0,Keine0a,It's good to respect every attack/ no matter how weak.
+146,0,Keine0a,Well/ you did hit me/ and trying is what counts!
+147,0,Keine0a,Were you really giving it your all/ to just hit me?
+148,0,Keine0a,Did you hold back on me?
+149,0,Keine0a,That was full of sound and fury/ but signified nothing.
+150,0,Keine2a,I'm being a bad role model for my students like this...
+151,0,Keine2a,For the sake of humankind/ I won't let myself lose!
+152,0,Keine2a,I won't give in to despair/ even at the end!
+153,0,Keine2a,There has to be some kind of opening I can use...
+154,0,Keine2a,I'm not through fighting yet!
+155,0,Keine2a,Now it's the critical moment...
+156,0,Keine2a,I'd best prepare myself for the worst...
+157,0,Keine2a,Protecting myself was the right answer after all...
+158,0,Keine2a,There's no other answer than to endure it!
+159,0,Keine2a,I need to reconsider...
+160,0,Keine2a,I let my guard down...
+161,0,Keine2a,So you have some real skill!
+162,0,Keine2a,Are they actually stronger than me?
+163,0,Keine2a,Ugh/ I ended up in the middle of a bombardment...
+164,0,Keine2a,Ow! What do you think you're doing?!
+165,0,Keine2a,I wasn't vigilant enough...
+166,0,Keine0a,You only hit the barrier!
+167,0,Keine0a,With this/ I'll pull through...
+168,0,Keine1a,Mirror!
+169,0,Keine1a,I'll stop this blow!
+170,0,Keine1a,Come on/ hit me harder!
+171,0,Keine2a,You think this will break me?!
+172,0,Keine2a,That's nothing! You've still got a ways to go!
+173,0,Keine2a,Keep steady... Check the current situation on the battlefield...
+174,0,Keine0a,You won't earn a passing grade with that kind of work!
+175,0,Keine0a,Careful/ that's dangerous!
+176,0,Keine0a,I need to avoid a direct hit.
+177,0,Keine1a,Your danmaku doesn't make the cut!
+178,0,Keine1a,If I take it slow and focus/ this isn't too hard!
+179,0,Keine0a,There's another hole in my skirt...
+180,0,Keine1a,You have to aim better than that!
+181,0,Keine1a,You're going with that?!
+182,0,Keine1a,Come on/ keep blasting away!
+183,0,Keine0a,Almost/ but not quite.
+184,0,Keine0a,I can see everything you're trying to do!
+185,0,Keine1a,That's not enough to change the course of history!
+186,0,Keine1a,It's pointless!
+187,0,Keine1a,That attack won't move me even an inch!
+188,0,Keine0a,You need to be better prepared next time!
+189,0,Keine1a,I saw what you were trying for!
+190,0,Keine1a,Start over! You need to go back to basics!
+191,0,Keine1a,Right where I figured!
+192,0,Keine0a,It's not even in question.
+193,0,Keine1a,If you won't come here/ then I'll have to come to you!
+194,0,Keine1a,I'll make your attack... not have happened!
+195,0,Keine1a,I can read you perfectly... Here you come!
+196,0,Keine2a,Shoot! I can't hold on any longer!
+197,0,Keine2a,So this is the end...
+198,0,Keine2a,If only I had the power of the full moon...
+199,0,Keine0a,I can't fight anymore.\n Sorry/ I'm depending on you for the rest!
+200,0,Keine0a,Sorry/ but I need to retreat.\n I have no doubt that you can do this!
+201,0,Keine0a,Naughty kids get scolded/ you know that/ right?
+202,0,Keine0a,You need to calm down!
+203,0,Keine1a,I won't listen to any excuses!
+204,0,Keine0a,Okay/ it's time to teach you a lesson!
+205,0,Keine0a,Naughty kids get scolded/ you know that/ right?
+206,0,Keine0a,You have my sympathies/ but I can't cut you any slack.
+207,0,Keine0a,Go on/ go home!
+208,0,Keine0a,A counter-attack/ if I may!
+209,0,Keine1a,Here's what I do to youkai who might attack the village!
+210,0,Keine0a,I won't let you make anymore trouble!
+211,0,Keine1a,I fight so that the human village can stay peaceful!
+212,0,Keine2a,That's a youkai for you...
+213,0,Keine2a,A youkai resisting us―you're a dangerous one.
+214,0,Keine1a,You didn't think far enough ahead!
+215,0,Keine0a,What a simplistic attack.
+216,0,Keine0a,If you won't listen to us/ then it has to be this way!
+217,0,Keine0a,You're really spoiling for a fight!
+218,0,Keine2a,Shoot! I just can't predict her movements!
+219,0,Keine2a,I have no choice but to take this hit.
+220,0,Keine0a,You don't intend to let us by? In that case...
+221,0,Keine1a,What a miscreant of a youkai!
+222,0,Keine2a,I can't let myself fall here/ for Akyu's sake!
+223,0,Keine0a,Naughty kids get scolded/ you know that/ right?
+224,0,Keine0a,You need to calm down!
+225,0,Keine1a,If you're going to do something/ do it properly!
+226,0,Keine0a,I'd like to settle things more reasonably/ but...
+227,0,Keine0a,I hadn't intended to go stir up trouble with mountain youkai...
+228,0,Keine0a,I'd like to settle things more reasonably/ but...
+229,0,Keine1a,My opponent might be a human/ but I won't hold back just because of that!
+230,0,Keine1a,We'll pass through by force if that's what it takes!
+231,0,Keine0a,We have duties we can't relinquish as well!
+232,0,Keine1a,I'll knock down that gate!
+233,0,Keine0a,Tell us about this mist!
+234,0,Keine0a,Once I trap you within my range/ it's checkmate!
+235,0,Keine1a,You're a human!\n Why are you with them?!
+236,0,Keine1a,My opponent might be a human/ but I won't hold back just because of that!
+237,0,Keine0a,I don't know who you are/ but I'm not letting you off lightly!
+238,0,Keine0a,Massive youkai aura or not/ I won't be cowed!
+239,0,Keine1a,You're the culprit behind this incident!\n Prepare yourself!
+240,0,Keine1a,I'll clear away this mist/ you can count on it!
+241,0,Keine2a,Ugh! I'm not even in the same league as her...
+242,0,Keine2a,So this is the power of a vampire!\n It's even more than I heard...
+243,0,Keine1a,I'll smash through even this devilish castle!
+244,0,Keine0a,You came back for another round so quickly...\n You're in surprisingly good health.
+245,0,Keine1a,You might be quite tough/ but this is where it all ends!
+246,0,Keine0a,You're playing tricks with the fairies?\n Inexcusable.
+247,0,Keine0a,Okay/ it's time to teach you a lesson!
+248,0,Keine0a,You mischievous fairies are going to get punished!
+249,0,Keine0a,Don't waste food! There are starving people out there!
+250,0,Keine0a,I'm glad that you're enjoying yourselves/ but you're causing a racket.
+251,0,Keine0a,I feel a little awkward doing this/ but needs must!
+252,0,Keine0a,Once I trap you within my range/ it's checkmate!
+253,0,Keine0a,We just aren't getting through to you at all...
+254,0,Keine0a,I suppose I can't afford to hold back.
+255,0,Keine2a,You look exactly like a child/ but your power shows otherwise.
+256,0,Keine2a,I'd expect no less from Remilia's little sister...
+257,0,Keine1a,I'm being a bit heavy-handed here/ please forgive me...
+258,0,Keine0a,It's good to get a bit of exercise now and then.
+259,0,Keine0a,For goodness' sake/ you just don't change/ do you?!
+260,0,Keine1a,I'm going to knock some manners into you!
+261,0,Keine1a,They're not so fast that I can't catch up with them...\n Now's my chance!
+262,0,Keine0a,Sorry/ but we have some urgent business to attend to!
+263,0,Keine0a,Let us through!
+264,0,Keine0a,I need to do something before they call for reinforcements...
+265,0,Keine0a,Sorry/ but we have some urgent business to attend to!
+266,0,Keine0a,Fighting with a god feels more than a little awkward/ but nonetheless!
+267,0,Keine0a,Having come this far/ there's no way we can go back!
+268,0,Keine0a,Sometimes you have to fight!
+269,0,Keine0a,Having come this far/ there's no way we can go back!
+270,0,Keine1a,We have business with Moriya Shrine/ not you!
+271,0,Keine1a,Sanae Kochiya/ let's settle this!
+272,0,Keine1a,Sometimes you have to fight!
+273,0,Keine1a,The god of Moriya Shrine...\n This must be the final battle!
+274,0,Keine1a,What awe-inspiring pressure...\n But I can't let myself crack under it!
+275,0,Keine1a,I'm not going to hold back against a god!
+275,1,Keine1a,You...
+275,2,Keine1a,Yooou...
+275,3,Keine1a,YOOUU...
+275,4,Keine1a,YOOUUU NEED TO BE TAUGHT A LESSON!
+275,5,Keine1a,Now do you understand our determination?!
+276,0,Keine1a,The gods of Moriya Shrine...\n THIS must be the final battle!
+277,0,Keine1a,She has a way of throwing me off/ but...
+278,0,Keine1a,I'm not going to hold back against a god!
+278,1,Keine1a,You...
+278,2,Keine1a,Yooou...
+278,3,Keine1a,YOOUU...
+278,4,Keine1a,YOOUUU NEED TO BE TAUGHT A LESSON!
+278,5,Keine1a,Now do you understand our determination?!
+279,0,Keine0a,An oni is a truly fearsome opponent/ but...
+280,0,Keine0a,This level of power has been recorded for oni before/ but still...
+281,0,Keine1a,When fighting an oni I won't hold back!
+281,1,Keine1a,You...
+281,2,Keine1a,Yooou...
+281,3,Keine1a,YOOUU...
+281,4,Keine1a,YOOUUU NEED TO BE TAUGHT A LESSON!
+281,5,Keine1a,You need to rethink how much you're drinking!
+282,0,Keine0a,You're up to something/ winter youkai!
+283,0,Keine0a,For the sake of the human village/ I can't let myself lose!
+284,0,Keine1a,I'll smash through all the winter you've clad yourself in!
+284,1,Keine1a,You...
+284,2,Keine1a,Yooou...
+284,3,Keine1a,YOOUU...
+284,4,Keine1a,YOOUUU NEED TO BE TAUGHT A LESSON!
+284,5,Keine1a,Now/ give back our winter.
+285,0,Keine0a,Oof. You're dead-set on fighting us/ aren't you?
+286,0,Keine0a,There's nothing I can do about this for now but fight back!
+287,0,Keine2a,Youmu/ listen to us when we talk to you!
+288,0,Keine2a,Youmu/ what in the world are you doing?!
+289,0,Keine1a,I'm being a bit heavy-handed here/ please forgive me...
+289,1,Keine1a,You...
+289,2,Keine1a,Yooou...
+289,3,Keine1a,YOOUU...
+289,4,Keine1a,YOOUUU NEED TO BE TAUGHT A LESSON!
+289,5,Keine1a,Are you willing to talk now?
+290,0,Keine0a,It's unfortunate/ but I don't have time right now to listen to a performance!
+291,0,Keine0a,You'll tell us what you know!
+292,0,Keine1a,I'll smash through all of this cacophony!
+292,1,Keine1a,You...
+292,2,Keine1a,Yooou...
+292,3,Keine1a,YOOUU...
+292,4,Keine1a,YOOUUU NEED TO BE TAUGHT A LESSON!
+292,5,Keine1a,Now isn't the time for music!
+293,0,Keine0a,Settle down a little!
+294,0,Keine0a,It's okay to be a little mischievous/ but...
+295,0,Keine0a,It's unfortunate/ but I don't have time right now to listen to a performance!
+296,0,Keine0a,Ugh/ you're a disconcerting opponent to fight.
+297,0,Keine1a,I'll smash through all of this cacophony!
+297,1,Keine1a,You...
+297,2,Keine1a,Yooou...
+297,3,Keine1a,YOOUU...
+297,4,Keine1a,YOOUUU NEED TO BE TAUGHT A LESSON!
+297,5,Keine1a,Now isn't the time for music!
+298,0,Keine0a,It's unfortunate/ but I don't have time right now to listen to a performance!
+299,0,Keine0a,You'll tell us what you know!
+300,0,Keine1a,I'll smash through all of this cacophony!
+300,1,Keine1a,You...
+300,2,Keine1a,Yooou...
+300,3,Keine1a,YOOUU...
+300,4,Keine1a,YOOUUU NEED TO BE TAUGHT A LESSON!
+300,5,Keine1a,Now isn't the time for music!
+301,0,Keine0a,It's unfortunate/ but I don't have time right now to listen to a performance!
+302,0,Keine0a,Ugh/ you're disconcerting opponents to fight.
+303,0,Keine1a,I'll smash through all of this cacophony!
+303,1,Keine1a,You...
+303,2,Keine1a,Yooou...
+303,3,Keine1a,YOOUU...
+303,4,Keine1a,YOOUUU NEED TO BE TAUGHT A LESSON!
+303,5,Keine1a,Now isn't the time for music!
+304,0,Keine0a,If you're someone I can't win against with force alone...
+305,0,Keine0a,You seem like someone we could talk this out with/ but...
+306,0,Keine1a,I won't hold back/ even against a guardian!
+306,1,Keine1a,You...
+306,2,Keine1a,Yooou...
+306,3,Keine1a,YOOUU...
+306,4,Keine1a,YOOUUU NEED TO BE TAUGHT A LESSON!
+306,5,Keine1a,Go along now/ out of the way.
+307,0,Keine0a,Youmu/ if that is your decision/ then this is how it'll be!
+308,0,Keine0a,If this is the case/ I don't need to hold back either!
+309,0,Keine2a,Oof/ I'm still just no match for her in a sword fight...
+310,0,Keine2a,For the sake of humankind/ I won't let myself lose!
+311,0,Keine1a,Now grit your teeth and bear this!
+311,1,Keine1a,You...
+311,2,Keine1a,Yooou...
+311,3,Keine1a,YOOUU...
+311,4,Keine1a,YOOUUU NEED TO BE TAUGHT A LESSON!
+311,5,Keine1a,Act more carefully next time!
+312,0,Keine1a,Have no doubt/ I'll prevent the revival of the Saigyou Ayakashi!
+313,0,Keine1a,The Saigyou Ayakashi...\n This threatens the safety of the village!
+314,0,Keine1a,I'll smash through all your flawed ideas!
+314,1,Keine1a,You...
+314,2,Keine1a,Yooou...
+314,3,Keine1a,YOOUU...
+314,4,Keine1a,YOOUUU NEED TO BE TAUGHT A LESSON!
+314,5,Keine1a,Saigyou Ayakashi! Give back our spring and return to the earth!
+315,0,Keine0a,This is our answer!
+316,0,Keine0a,Never thought we'd end up fighting like this.
+317,0,Keine2a,Such strength! Is her power inexhaustible?
+318,0,Keine2a,Just what I'd expect from Yukari Yakumo...
+319,0,Keine1a,I'll smash through all your boundaries!
+319,1,Keine1a,You...
+319,2,Keine1a,Yooou...
+319,3,Keine1a,YOOUU...
+319,4,Keine1a,YOOUUU NEED TO BE TAUGHT A LESSON!
+319,5,Keine1a,Why don't you cool your head a little?
+320,0,Keine0a,Rumia aside/ it's past bedtime for the rest of you!
+321,0,Keine0a,If you're playing around like that/ then you're already done with your homework/ right?
+322,0,Keine2a,Good grief/ you're just full of energy...
+323,0,Keine2a,If you act too naughty/ I'll get mad!
+324,0,Keine0a,Utsuho/ we're here to rescue you!
+325,0,Keine0a,For there to be peace in the human village/ I need to suppress Yatagarasu!
+326,0,Keine0a,Remember not to get into too much trouble/ kids!
+327,0,Keine0a,Haven't I always told you/ Don't go off with strange adults"?
+328,0,Keine0a,You don't seem outright suspicious/ but...
+329,0,Keine0a,Everyone has been showing you warm hospitality so far/ but the battlefield will be different.
+330,0,Keine0a,What in the world are you thinking/ plotting to cause an incident at a time like this!
+331,0,Keine0a,Celestial or not/ if you keep carrying on like this/ you'll need to get punished.
+332,0,Keine1a,Now that we finally have a lead/ I'm not letting it get away!
+333,0,Keine1a,I'll stand in the way of your plans/ no matter what!
+334,0,Keine1a,If you threaten the humans/ you'll have to answer to me!
+335,0,Keine1a,I'll capture you and have you explain yourself!
+336,0,Keine0a,I'm going to consider this a chance to re-examine myself.
+337,0,Keine1a,You thought this could make me waver?
+338,0,Keine1a,Mehko/ your ambitions end here!
+339,0,Keine2a,It's madness to keep fighting us with that power!
+340,0,Keine1a,We're not going to hold back!
+341,0,Keine2a,... Do you really still mean to fight?
+342,0,Keine1a,I won't give in!
+343,0,Keine1a,You're going to regret laying hands on the humans!
+344,0,Keine1a,For the sake of the human village...\n I will oppose your dreams!
+345,0,Keine1a,I won't give in!
+346,0,Keine1a,You're going to regret laying a hand on Makura!
+347,0,Keine1a,To protect the progress Makura has made...\n I will oppose your dreams!
+348,0,Keine1a,Sometimes you have to fight!
+349,0,Keine0a,Initiating combat!
+350,0,Keine0a,Okay/ it's time to teach you a lesson!
+351,0,Keine0a,I'd wanted to settle this without a big fuss...
+352,0,Keine0a,I didn't want to resort to these kinds of methods...
+353,0,Keine0a,Don't assume I'm just some ordinary teacher!
+354,0,Keine0a,Conflict is a historical inevitability/ but I don't have to like it...
+355,0,Keine1a,I fight so that the human village can stay peaceful!
+356,0,Keine0a,All the same/ I still won't back down!
+357,0,Keine2a,Give it up!
+358,0,Keine1a,I have just one more shot!
+359,0,Keine2a,I'm being a bad role model for my students like this...
+360,0,Keine2a,For the sake of humankind/ I won't let myself lose!
+361,0,Keine2a,I won't give in to despair/ even at the end!
+362,0,Keine2a,I'm not through fighting yet!
+363,0,Keine2a,Now it's the critical moment...
+364,0,Keine2a,I'd best prepare myself for the worst...
+365,0,Keine2a,Protecting myself was the right answer after all...
+366,0,Keine2a,There's no other answer than to endure it!
+367,0,Keine2a,I let my guard down...
+368,0,Keine2a,So you have some real skill!
+369,0,Keine2a,Are they actually stronger than me?
+370,0,Keine2a,Ugh/ I ended up in the middle of a bombardment...
+371,0,Keine2a,Ow! What do you think you're doing?!
+372,0,Keine2a,I wasn't vigilant enough...
+373,0,Keine0a,You only hit the barrier!
+374,0,Keine0a,With this/ I'll pull through...
+375,0,Keine1a,Mirror!
+376,0,Keine1a,I'll stop this blow!
+377,0,Keine1a,Come on/ hit me harder!
+378,0,Keine2a,You think this will break me?!
+379,0,Keine2a,That's nothing! You've still got a ways to go!
+380,0,Keine2a,Keep steady... Check the current situation on the battlefield...
+381,0,Keine0a,Careful/ that's dangerous!
+382,0,Keine0a,I need to avoid a direct hit.
+383,0,Keine1a,Your danmaku doesn't make the cut!
+384,0,Keine1a,If I take it slow and focus/ this isn't too hard!
+385,0,Keine0a,There's another hole in my skirt...
+386,0,Keine1a,You have to aim better than that!
+387,0,Keine1a,You're going with that?!
+388,0,Keine1a,Come on/ keep blasting away!
+389,0,Keine0a,Almost/ but not quite.
+390,0,Keine0a,I can see everything you're trying to do!

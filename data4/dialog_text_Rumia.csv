@@ -1,0 +1,532 @@
+ID,LineID,face,dialog
+0,0,Rumia0a,I gotta pull my weight sometimes!
+1,0,Rumia0a,Can we get this over with?
+2,0,Rumia0a,I've got nothing against you/ but...
+3,0,Rumia0a,Let's get even.
+4,0,Rumia0a,My turn now!
+5,0,Rumia0a,I'm the only dine-and-dasher allowed around here.
+6,0,Rumia0a,Did you think you were getting away with that?
+7,0,Rumia0a,Thanks for dropping by! Here's a parting gift.
+8,0,Rumia0a,You're not getting away scot-free.
+9,0,Rumia0a,Kay/ let's right that wrong.
+10,0,Rumia0a,Now be nice/ and lemme beat you up.
+11,0,Rumia0a,You're aaall outta luck.
+12,0,Rumia0a,Hey. Hey. I'm attacking you now.
+13,0,Rumia0a,I can take a nibble if I catch you/ right?
+14,0,Rumia0a,Can I go? I can? I'm going.
+15,0,Rumia0a,I wonder what you taste like...
+16,0,Rumia0a,You look like you could use a bite.
+17,0,Rumia0a,If we get the W/ we're in the clear!
+18,0,Rumia0a,To be honest/ I'm just in this for the fun of it.
+19,0,Rumia0a,I'm sooo hungry!\n　Wait/ I know how to fix this...
+20,0,Rumia0a,Can't wait to take a nap after this...
+21,0,Rumia0a,Just gotta get through you/ and I can win!
+22,0,Rumia2a,It's a real dog-eat-dog world out there...
+23,0,Rumia0a,I wish I could run/ but I promised...
+24,0,Rumia0a,I've got more fight left in me!
+25,0,Rumia0a,Time to dig in!
+26,0,Rumia1a,Theeere you are!
+27,0,Rumia1a,Chaaarge!
+28,0,Rumia1a,Hiyaaah!
+29,0,Rumia0a,There you are...
+29,1,Rumia1a,There you are... Gotcha!
+30,0,Rumia0a,Well then...
+30,1,Rumia1a,Well then... Take that!
+31,0,Rumia0a,You can't ruuun...
+31,1,Rumia1a,You can't ruuun... or hide!
+32,0,Rumia0a,This one might work...
+32,1,Rumia1a,This one might work... Hah!
+33,0,Rumia0a,Time to dig in!
+34,0,Rumia1a,I'll attack from the darkness...!
+35,0,Rumia0a,It's all about power...!
+36,0,Rumia0a,There's nothing like living in darkness!
+37,0,Rumia0a,Bwooom!
+37,1,Rumia0a,Get in close/ and...
+37,2,Rumia1a,NOM!
+37,3,Rumia1a,Got something stuck in my teeth...
+37,4,Rumia0a,Thanks for the meal!
+38,0,Rumia0a,Darker than dark/ please...
+38,1,Rumia0a,And if you can't see me...
+38,2,Rumia1a,NOM!
+38,3,Rumia1a,Got something stuck in my teeth...
+38,4,Rumia0a,Thanks for the meal!
+39,0,Rumia0a,You can't escape the darkness...
+39,1,Rumia0a,Ahhh...
+39,2,Rumia1a,MM!
+39,3,Rumia0a,That was okay...
+39,4,Rumia0a,Thanks for the meal!
+40,0,Rumia0a,Alright/ let's go!
+40,1,Rumia0a,Let's dig in!
+40,2,Rumia0a,Thanks for the meal!
+41,0,Rumia0a,Can't see me? Great!
+41,1,Rumia0a,Carpet fiiire!
+41,2,Rumia0a,Whew/ I'm exhausted.
+42,0,Rumia0a,I'm here/ I'm there/ I'm everywhere!
+42,1,Rumia0a,Round and round I go!
+42,2,Rumia0a,Thanks for the meal!
+43,0,Rumia0a,Here's one to remember!
+43,1,Rumia0a,A sneaky surprise attack from dark depths!
+43,2,Rumia0a,That was awesome!
+44,0,Rumia0a,Wanna combine our powers?
+44,1,Rumia0a,What are we playing with today?
+44,2,Cirno0a,With darkness/ ice/ bugs/ and song!
+44,3,Wriggle0a,I'm ready!
+44,4,Mystia0a,This sounds like fun!
+44,5,Cirno1a,Spellcard!
+44,6,Wriggle1a,Do your thing/ boys!
+44,7,Mystia1a,FIRE!
+44,8,Rumia0a,Weee!
+44,9,Cirno1a,Here comes the ice!
+44,10,Wriggle1a,There you are!
+44,11,Mystia1b,Go! ♪ Go! ♪
+44,12,Rumia0a,Pitch dark!
+44,13,Rumia0a,Awesome!
+44,14,Wriggle0a,It's time to end this!
+44,15,Mystia0a,Sounds good!
+44,16,Cirno0a,I'm on it!
+44,17,Cirno1a,Nineball Special!
+44,18,Rumia1a,Spellcard!
+44,19,Mystia1a,Spellcard!
+44,20,Wriggle1a,Spellcard!
+45,0,Rumia0a,Come on over/ gang!
+45,1,Rumia0a,One!
+45,2,Cirno0a,Two!
+45,3,Wriggle0a,Three!
+45,4,Mystia0a,Four!
+45,5,Cirno1a,LET'S GOOO!
+45,6,Wriggle1a,Do your thing/ bug buddies!
+45,7,Mystia1a,FIRE!
+45,8,Rumia0a,Over there/ right?
+45,9,Cirno1a,Frozen Beam!
+45,10,Wriggle1a,End of the line!
+45,11,Mystia1b,You can do it! ♪
+45,12,Rumia0a,Turn on the dark!
+45,13,Rumia0a,Almost done!
+45,14,Wriggle0a,Time to finish this!
+45,15,Mystia0a,Sounds great!
+45,16,Cirno0a,I've got just the thing!
+45,17,Cirno1a,Nineball Special!
+45,18,Rumia1a,LET'S GOOO!
+45,19,Mystia1a,LET'S GOOO!
+45,20,Wriggle1a,LET'S GOOO!
+46,0,Rumia0a,Let's do that thing we talked about.
+46,1,Rumia0a,Is everyone ready?
+46,2,Cirno0a,Well/ duh!
+46,3,Wriggle0a,Just say the word!
+46,4,Mystia0a,I'm hyped!
+46,5,Cirno1a,Spellcard!
+46,6,Wriggle1a,Counting on you/ buddies!
+46,7,Mystia1a,FIRE!
+46,8,Rumia0a,Hiyaaah!
+46,9,Cirno1a,Freeze!
+46,10,Wriggle1a,Now!
+46,11,Mystia1b,I can fly! ♪ You can fly! ♪
+46,12,Rumia0a,Bwooom!
+46,13,Rumia0a,Are we done now?
+46,14,Wriggle0a,Almost!
+46,15,Mystia0a,The stage is yours/ Cirno!
+46,16,Cirno0a,How's this for a cool finisher?
+46,17,Cirno1a,Bio-Glacial Attaaack!
+46,18,Rumia1a,Spellcard!
+46,19,Mystia1a,Spellcard!
+46,20,Wriggle1a,Spellcard!
+47,0,Rumia0a,Gather round/ girls!
+47,1,Rumia0a,Cirno!
+47,2,Cirno0a,Dai!
+47,3,Daiyosei0a,Wriggle!
+47,4,Wriggle0a,Mystia!
+47,5,Mystia0a,And back to Rumia!
+47,6,Cirno1a,It's time to fight as one!
+47,7,Daiyosei1a,I will give you all power.
+47,8,Wriggle1a,Haaaah!
+47,9,Wriggle1a,Do your thing/ guys!
+47,10,Mystia1b,This song will get your blood pumping!
+47,11,Rumia0a,Weee!
+47,12,Cirno1a,Freeze!
+47,13,Wriggle1a,There you are!
+47,14,Mystia1b,Go! ♪ Go! ♪
+47,15,Rumia0a,Pitch dark!
+47,16,Cirno1a,Not done yet!
+47,17,Daiyosei2a,I-I'm helping!
+47,18,Rumia0a,Awesome!
+47,19,Wriggle0a,It's time to end this!
+47,20,Mystia0a,Sounds good!
+47,21,Daiyosei0a,All together now!
+47,22,Cirno0a,This will finish you!
+47,23,Cirno1a,The strongest ever attack in Gensokyo!
+47,24,Cirno1a,Final!
+47,25,Rumia0a,Final! Nineball!! SPECIAAAL!!!
+47,26,Mystia0a,Final! Nineball!! SPECIAAAL!!!
+47,27,Wriggle1a,Final! Nineball!! SPECIAAAL!!!
+48,0,Rumia0a,Roll call/ girls!
+48,1,Rumia0a,Cirno!
+48,2,Cirno0a,Dai!
+48,3,Daiyosei0a,Wriggle!
+48,4,Wriggle0a,Mystia!
+48,5,Mystia0a,And back to Rumia!
+48,6,Cirno1a,It's time to fight as one!
+48,7,Daiyosei1a,Give it your all/ friends!
+48,8,Mystia1b,I'm so fired up!
+48,9,Wriggle1a,Sic 'em/ boys!
+48,10,Mystia1b,I know just the song!
+48,11,Rumia0a,Here I go!
+48,12,Cirno1a,Frozen Beam!
+48,13,Wriggle1a,End of the line!
+48,14,Mystia1b,I can fly! ♪ You can fly! ♪
+48,15,Rumia0a,Turn on the dark!
+48,16,Cirno1a,Don't stop now!
+48,17,Daiyosei2a,I'll help!
+48,18,Rumia0a,That felt awesome!
+48,19,Wriggle0a,Let's finish this!
+48,20,Mystia0a,This is the song's climax!
+48,21,Daiyosei0a,We can do it/ together!
+48,22,Cirno0a,Here it comes...
+48,23,Cirno1a,The ultimate bio-glacial attack!
+48,24,Cirno1a,Final!
+48,25,Rumia0a,Final! Nineball!! SPECIAAAL!!!
+48,26,Mystia0a,Final! Nineball!! SPECIAAAL!!!
+48,27,Wriggle1a,Final! Nineball!! SPECIAAAL!!!
+49,0,Rumia0a,What's for dinner...?
+50,0,Rumia0a,Can't do much about this...
+51,0,Rumia0a,Huh? Where'd that come from...?
+52,0,Rumia0a,Can I reach...? Probably not...
+53,0,Rumia0a,Wow/ they're reeeally far away.
+54,0,Rumia0a,I'll take a bite for you too.
+55,0,Rumia0a,They really got ya good.
+56,0,Rumia0a,No leftovers/ kay?
+57,0,Rumia0a,Need my help?
+58,0,Rumia0a,I'm cool with your scraps.
+59,0,Rumia0a,Mine now!
+60,0,Rumia0a,You really gotta move those feet/ y'know.
+61,0,Rumia0a,You don't wanna get hit/ right?
+62,0,Rumia0a,Spacing out? I get it/ but you shouldn't!
+63,0,Rumia0a,Maybe you should retreat?
+64,0,Rumia0a,You okay? Need a snack?
+65,0,Rumia0a,I hope you're okay fighting in the dark.
+66,0,Rumia0a,I'll box them in for you!
+67,0,Rumia0a,I'm not really a team player/ but...
+68,0,Rumia0a,Let's split them in half.
+69,0,Rumia0a,If you need to slip away/ just lemme know.
+70,0,Rumia0a,This party really loves working youkai to the bone...
+71,0,Rumia0a,Instructions unclear/ I'm charging in!
+72,0,Rumia0a,Gosh/ I'm not a work-horse you know!
+73,0,Rumia0a,I was just thinking I needed a snack.
+74,0,Rumia0a,Oh yeah/ I'm really feeling it now!
+75,0,Rumia0a,You can't run from the both of us.
+76,0,Rumia0a,You're too nice sometimes/ Dai.
+77,0,Rumia0a,You might wanna duck back/ Dai.
+78,0,Rumia0a,You're such a light eater/ Dai!
+79,0,Rumia0a,You're always covering me/ so I gotta return the favor!
+80,0,Rumia0a,Don't worry Dai/ I'm watching out for you.
+81,0,Rumia0a,Hey Dai/ you okay?
+82,0,Rumia0a,Hey Dai/ let's split this one half-half.
+83,0,Rumia0a,I guess even Dai's gotta fight sometimes/ huh?
+84,0,Rumia0a,This one? No problemo/ Dai.
+85,0,Rumia0a,Lemme help/ Dai!
+86,0,Rumia0a,Don't push yourself too hard/ Dai.
+87,0,Rumia0a,You're really getting into it/ huh Dai?
+88,0,Rumia0a,You can't run from both Dai and me.
+89,0,Rumia0a,Great timing Dai! I was just thinking I needed a snack.
+90,0,Rumia0a,Gosh Cirno/ you're too jumpy sometimes.
+91,0,Rumia0a,I'm not big on frozen foods/ but I'll make do.
+92,0,Rumia0a,You're less forceful than usual.
+93,0,Rumia0a,So you're the 'strongest'/ huh?
+94,0,Rumia0a,You're as wide-open as usual.
+95,0,Rumia0a,Cirno/ you gotta keep your eyes peeled.
+96,0,Rumia0a,You're way too impatient/ Cirno.
+97,0,Rumia0a,Don't freeze me/ please!
+98,0,Rumia0a,Whoa/ slow down Cirno!
+99,0,Rumia0a,Hey Cirno/ let's split this one half-half.
+100,0,Rumia0a,Lemme help/ Cirno.
+101,0,Rumia0a,You can't run from both Cirno and me.
+102,0,Rumia0a,Great timing Cirno! I was just thinking I needed a snack.
+103,0,Rumia0a,I'm not big on frozen foods/ but I'll make do.
+104,0,Rumia0a,Your parents are gonna be so mad at me...
+105,0,Rumia0a,It's reeeally hard to keep up with you.
+106,0,Rumia0a,Finish your plate/ Chen.
+107,0,Rumia0a,There's lots of gaps in your defense/ Chen.
+108,0,Rumia0a,You're a little too reckless/ Chen.
+109,0,Rumia0a,Cat's have good night vision/ right?
+110,0,Rumia0a,That's our prey? Okie-doke.
+111,0,Rumia0a,Slooow down please.
+112,0,Rumia0a,Hey Chen/ let's split this one half-half.
+113,0,Rumia0a,Lemme help/ Chen.
+114,0,Rumia0a,Great timing Chen! I was just thinking I needed a snack.
+115,0,Rumia0a,You can't run from both Chen and me.
+116,0,Rumia0a,Cat's have good night vision/ right?
+117,0,Rumia0a,A bug's life is a short one...
+118,0,Rumia0a,I can make it night time/ if you want.
+119,0,Rumia0a,You gotta push harder than that!
+120,0,Rumia0a,Watch out for mosquito coils!
+121,0,Rumia0a,Your lights are cool and all/ but you're basically telling people where to aim.
+122,0,Rumia0a,You don't gotta rush so much/ Wriggle.
+123,0,Rumia0a,Hey Wriggle/ let's split this one half-half.
+124,0,Rumia0a,I know some of your buddies like the dark/ but keep them outta my bubble please.
+125,0,Rumia0a,I don't like bugs bugging me/ but I'll manage...
+126,0,Rumia0a,Lemme help/ Wriggle.
+127,0,Rumia0a,You can't run from both Wriggle and me.
+128,0,Rumia0a,A night time bug special.
+129,0,Rumia0a,Great timing Wriggle! I was just thinking I needed a snack.
+130,0,Rumia0a,Talk about living life in the fast lane.
+131,0,Rumia0a,I'm pretty nocturnal myself.
+132,0,Rumia0a,If you can't blind 'em/ then I can!
+133,0,Rumia0a,You're pretty easy to hit/ huh Mystia?
+134,0,Rumia0a,Guess she's too focused on singing...
+135,0,Rumia0a,I'm pretty nocturnal myself.
+136,0,Rumia0a,If you can't blind 'em/ then I can!
+137,0,Rumia0a,Hey Mystia/ let's split this one half-half.
+138,0,Rumia0a,You gotta quit shouting in my ear.
+139,0,Rumia0a,Lemme help/ Mystia.
+140,0,Rumia0a,Great timing Mystia! I was just thinking I needed a snack.
+141,0,Rumia0a,You can't run from both Mystia and me.
+142,0,Rumia0a,Lights out for you!
+143,0,Rumia0a,I guess that's teachers for you...
+144,0,Rumia0a,Can't screw up/ or she'll scold me a bunch later.
+145,0,Rumia0a,I'm putting in all this work/ and I still gotta do homework?
+146,0,Rumia0a,Are you getting hungry/ Keine?
+147,0,Rumia0a,You're letting your guard down/ teach.
+148,0,Rumia0a,This one? You're the boss.
+149,0,Rumia0a,I'm putting in all this work/ and I still gotta do homework?
+150,0,Rumia0a,Teacher/ can we please slow down...?
+151,0,Rumia0a,Can't screw up/ or she'll scold me a bunch later.
+152,0,Rumia0a,Lemme help/ Keine.
+153,0,Rumia0a,Getting scolded by Keine/ eh? I know what that's like...
+154,0,Rumia0a,Great timing Keine! I was just thinking I needed a snack.
+155,0,Rumia0a,It pays to be a teacher's pet sometimes!
+156,0,Rumia0a,You went totally overboard/ Sunny...
+157,0,Rumia0a,Scooch over/ Sunny.
+158,0,Rumia0a,I'll help you out/ Sunny.
+159,0,Rumia0a,Keep that camo up/ Sunny.
+160,0,Rumia0a,Getting distracted/ Sunny?
+161,0,Rumia0a,Can't get too close/ or I'll blot out her sunlight...
+162,0,Rumia0a,Sunny/ hold up!
+163,0,Rumia0a,Sunny's always so hasty...
+164,0,Rumia0a,Hey Sunny/ let's split this one half-half.
+165,0,Rumia0a,I'll help you out/ Sunny.
+166,0,Rumia0a,Great timing Sunny! I was just thinking I needed a snack.
+167,0,Rumia0a,You can't run from both Sunny and me.
+168,0,Rumia0a,I'll make sure not to block your shine.
+169,0,Rumia0a,Oh Luna/ you really did it this time...
+170,0,Rumia0a,I'll help you out/ Luna.
+171,0,Rumia0a,Can you move over/ Luna? I don't wanna hit you.
+172,0,Rumia0a,Figures I'd need to cover for Luna.
+173,0,Rumia0a,Gosh Luna/ you gotta pick up the pace.
+174,0,Rumia0a,Watch out Luna. I'm a tripping hazard.
+175,0,Rumia0a,Hey Luna/ think you can hit this one?
+176,0,Rumia0a,Okay Luna/ just fly straight ahead/ okay?
+177,0,Rumia0a,Hey Luna/ let's split this one half-half.
+178,0,Rumia0a,I'll help you out/ Luna.
+179,0,Rumia0a,Great timing Luna! I was just thinking I needed a snack.
+180,0,Rumia0a,You can't run from both Luna and me.
+181,0,Rumia0a,You're at your best in the dark/ right?
+182,0,Rumia0a,That's not like you at all/ Star...
+183,0,Rumia0a,Scooch over/ Star.
+184,0,Rumia0a,You're okay with me lending a hand/ right Star?
+185,0,Rumia0a,Honestly/ I'm surprised you haven't already fled.
+186,0,Rumia0a,Wait/ huh? When'd you even get behind me...?
+187,0,Rumia0a,I'm shocked you're actually heading out.
+188,0,Rumia0a,If Star says it's a safe bet/ it probably is.
+189,0,Rumia0a,I'll help you out/ Star.
+190,0,Rumia0a,Hey Star/ let's split this one half-half.
+191,0,Rumia0a,Wait a second... You're just trying to sneak me in front/ aren't you?
+192,0,Rumia0a,Great timing Luna! I was just thinking I needed a snack.
+193,0,Rumia0a,You can't run from both Luna and me.
+194,0,Rumia0a,Stars twinkle best at night/ right?
+195,0,Rumia0a,Is this that Mutually Assured Destruction" thing?
+196,0,Rumia0a,I'll mix it up with you all too.
+197,0,Rumia0a,Don't get too close/ or I'll snuff out the lights.
+198,0,Rumia0a,We can handle this if we split it four ways.
+199,0,Rumia0a,I'll help out/ gang.
+200,0,Rumia0a,I'll help you three out.
+201,0,Rumia0a,Stay behind me/ gang.
+202,0,Rumia0a,Hey Sunny/ did you forget to hide the other two?
+203,0,Rumia0a,Can't you three handle this yourselves?
+204,0,Rumia0a,I don't mind you playing around/ but don't drag me into it.
+205,0,Rumia0a,That's not gonna work.
+206,0,Rumia0a,Do you think you're getting anywhere with this?
+207,0,Rumia0a,I'm getting fairly hungry.
+208,0,Rumia0a,Can't wait to get this over with!
+209,0,Rumia0a,Don't worry/ you got this! Definitely.
+210,0,Rumia0a,I'm fine even without dodging.
+211,0,Rumia2a,Ouch! You're for real/ huh?
+212,0,Rumia2a,Oof/ I'm kinda light-headed now.
+213,0,Rumia2a,H—Help meee!
+214,0,Rumia2a,No more ouchies please.
+215,0,Rumia2a,That could've been reeeal bad...
+216,0,Rumia2a,Wah?! You meanie...
+217,0,Rumia2a,I can't keep fighting much longer...
+218,0,Rumia0a,You're really annoying...
+219,0,Rumia2a,Ouch... That one's on me.
+220,0,Rumia2a,I never did get this whole dodging thing.
+221,0,Rumia2a,Maaan/ I really thought I dodged that one...
+222,0,Rumia2a,Patience is key...
+223,0,Rumia0a,I can take it!
+224,0,Rumia2a,Whoa there...
+225,0,Rumia2a,I can't go out like this!
+226,0,Rumia2a,You're such a pain!
+227,0,Rumia2a,This is getting kinda tough/ maybe...
+228,0,Rumia2a,Ooh/ now I'm REAL mad!
+229,0,Rumia2a,OUCH! That really smarts...
+230,0,Rumia2a,What the heck?
+231,0,Rumia2a,Ack/ I had to blink!
+232,0,Rumia2a,Ugh... My everything stings...
+233,0,Rumia0a,Not much of a night hawk/ huh?
+234,0,Rumia0a,I had a feeling...
+235,0,Rumia0a,You're totally see-through!
+236,0,Rumia0a,Heh. Good job/ me.
+237,0,Rumia0a,C'mon/ even I could dodge that one.
+238,0,Rumia0a,Under cover of darkness/ I can handle that much.
+239,0,Rumia0a,Wait... Were you trying to hit me?
+240,0,Rumia0a,Grazing's a lot of fun!
+241,0,Rumia0a,Almost got buried alive...
+242,0,Rumia0a,Close one...
+243,0,Rumia0a,I'm good? I'm good.
+244,0,Rumia0a,That tickled.
+245,0,Rumia0a,Pretty good post-lunch workout.
+246,0,Rumia0a,Getting hit? No thanks.
+247,0,Rumia0a,Gwah! That was really close...
+248,0,Rumia0a,Dark Hand/ Finale!
+249,0,Rumia0a,I'm right at home in the darkness!
+250,0,Rumia0a,Snug as a bug in my blanket of darkness!
+251,0,Rumia0a,Oh nooooo... Wait/ what?
+252,0,Rumia0a,Slashy slash.
+253,0,Rumia0a,Bored now. Let's fight.
+254,0,Rumia0a,You picked the wrong blob of darkness to trip over.
+255,0,Rumia0a,Death to dilly dalliers!
+256,0,Rumia2a,They got meeee!
+257,0,Rumia2a,Huh? I'm feeling kinda off...
+258,0,Rumia2a,I give!
+259,0,Rumia0a,I'm heading back. Lemme know when we're having lunch.
+260,0,Rumia0a,I'm so hungry/ I feel faint...\n I gotta head back first for a snack.
+261,0,Rumia0a,So... Do you eat them from the top/ or the bottom?
+262,0,Rumia0a,Need a shoulder to cry on?
+263,0,Rumia0a,I've got nothing against you/ but...
+264,0,Rumia0a,Found the safe spot!
+265,0,Rumia0a,Let's gooo!
+266,0,Rumia0a,My turn now!
+267,0,Rumia0a,Let's gooo!
+268,0,Rumia0a,Kay/ let's right that wrong.
+269,0,Rumia0a,You're blocking the way/ door-blocker.
+270,0,Rumia0a,So... Do you eat them from the top/ or the bottom?
+271,0,Rumia0a,What's so interesting about books anyway?
+272,0,Rumia0a,I wonder what devils taste like...
+273,0,Rumia0a,I wonder what devils taste like...
+274,0,Rumia0a,Don't worry about dinner/ you'll do.
+275,0,Rumia0a,So... Do you eat them from the top/ or the bottom?
+276,0,Rumia0a,I wonder what vampires taste like...
+277,0,Rumia0a,How'd things come to this...?
+278,0,Rumia0a,I've seen you before/ right?
+279,0,Rumia0a,You look like you could use a bite.
+280,0,Rumia0a,Did you think you were getting away with that?
+281,0,Rumia0a,Mmm/ this smell is irresistable.
+282,0,Rumia0a,You smell pretty nice too.
+283,0,Rumia0a,Can you not come close/ please?
+284,0,Rumia0a,I thought we told you to move.
+285,0,Rumia0a,I saw you before/ right?
+286,0,Rumia0a,Doesn't matter if you've gotten stronger/ the same thing's gonna happen.
+287,0,Rumia0a,I wonder what a god tastes like...
+288,0,Rumia0a,You look like you'd give me a tummy-ache.
+289,0,Rumia0a,So like/ why're we even fighting?
+290,0,Rumia0a,That power... Are you Cirno's big sister?
+291,0,Rumia0a,Why were we fighting again...?
+292,0,Rumia0a,I keep getting dragged into this stuff/ huh.
+293,0,Rumia0a,That thing in your hand... doesn't look edible.
+294,0,Rumia0a,Playing music seems pretty fun.
+295,0,Rumia0a,Playing music seems pretty fun.
+296,0,Rumia0a,I'm ready to head back home/ honestly.
+297,0,Rumia0a,Everyone's waiting for you to talk/ y'know.
+298,0,Rumia0a,I wonder what ghosts taste like...
+299,0,Rumia0a,I don't really plan my life out. I'm just winging it.
+300,0,Rumia0a,I gotta pull my weight sometimes!
+301,0,Rumia0a,I've got nothing against you/ but...
+302,0,Rumia0a,To be honest/ I'm just in this for the fun of it.
+303,0,Rumia0a,I'd like to enjoy some lamb chops/ but now's not really the time.
+304,0,Rumia0a,You don't look very tasty right now.
+305,0,Rumia2a,Oh boy/ this is gonna be tough to do.
+306,0,Rumia0a,That outfit looks pretty cozy.
+307,0,Rumia0a,So/ you're the one who made all those dreams?
+308,0,Rumia0a,Looks like we're at the finale/ so I'm spreading darkness to my heart's content!
+309,0,Rumia0a,That outfit looks pretty cozy.
+310,0,Rumia0a,You're hard to tell apart from Makura...
+311,0,Rumia0a,Looks like we're at the finale/ so I'm spreading darkness to my heart's content!
+312,0,Rumia0a,You smell like darkness.
+313,0,Rumia0a,You smell like dog fur.
+314,0,Rumia0a,You smell like needles and thread.
+315,0,Rumia0a,You smell like sunlight.
+316,0,Rumia0a,You smell like you've got stolen snacks.
+317,0,Rumia0a,You smell like you just tripped.
+318,0,Rumia0a,You smell like rusted iron.
+319,0,Rumia0a,You smell like butter.
+320,0,Rumia0a,You smell like ice.
+321,0,Rumia0a,You smell like a school uniform.
+322,0,Rumia0a,You smell like pork buns.
+323,0,Rumia0a,You smell like books.
+324,0,Rumia0a,You smell like shampoo.
+325,0,Rumia0a,You smell like you tripped into a lake.
+326,0,Rumia0a,You smell like sunflowers.
+327,0,Rumia0a,You smell like blood.
+328,0,Rumia0a,You smell like you're lonely.
+329,0,Rumia0a,You don't smell like anything.
+330,0,Rumia0a,You smell like half-baked potatoes.
+331,0,Rumia0a,You smell like dry leaves.
+332,0,Rumia0a,You smell like bad luck.
+333,0,Rumia0a,You smell like oil.
+334,0,Rumia0a,You smell like the wind.
+335,0,Rumia0a,You smell like a snake.
+336,0,Rumia0a,You smell like a frog.
+337,0,Rumia0a,You smell like an outlaw.
+338,0,Rumia0a,You smell like a rat.
+339,0,Rumia0a,You smell like winter.
+340,0,Rumia0a,You smell like iron.
+341,0,Rumia0a,You smell like sheep guts.
+342,0,Rumia0a,You smell like a fox/ but... like nine of them?
+343,0,Rumia0a,You smell like catnip.
+344,0,Rumia0a,You smell like you'd give me a tummy ache.
+345,0,Rumia0a,You smell like a bucket.
+346,0,Rumia0a,You smell like brass.
+347,0,Rumia0a,You smell like ivory.
+348,0,Rumia0a,You three smell really noisy.
+349,0,Rumia0a,You smell like cherry blossoms.
+350,0,Rumia0a,You smell like a schemer.
+351,0,Rumia0a,You smell really yummy.
+352,0,Rumia0a,You smell like a smell out of space.
+353,0,Rumia0a,You smell reeeally fishy.
+354,0,Rumia0a,You smell like a stillwater pond.
+355,0,Rumia0a,You smell like happiness.
+356,0,Rumia0a,You smell like magic.
+357,0,Rumia0a,You smell like damp wood.
+358,0,Rumia0a,You smell like stars.
+359,0,Rumia0a,You smell like spring.
+360,0,Rumia0a,You smell like pranks
+361,0,Rumia0a,You smell like a shut-in.
+362,0,Rumia0a,You smell like common sense.
+363,0,Rumia0a,This boat smells like gratitude.
+364,0,Rumia0a,You smell like danmaku.
+365,0,Rumia0a,You smell like a rising super-star.
+366,0,Rumia0a,You smell like healing.
+367,0,Rumia0a,You smell like chalk.
+368,0,Rumia0a,You smell like fresh books.
+369,0,Rumia0a,You smell like you live in a shack.
+370,0,Rumia0a,You smell like bamboo.
+371,0,Rumia0a,You smell like nostalgia.
+372,0,Rumia0a,You don't smell like you're lonely anymore.
+373,0,Rumia0a,You smell like corpses.
+374,0,Rumia0a,You smell like a crow.
+375,0,Rumia0a,You smell like lots of gods.
+376,0,Rumia0a,You smell like a ruffian.
+377,0,Rumia0a,You smell like a bridge troll.
+378,0,Rumia0a,You smell like an armchair.
+379,0,Rumia0a,You smell like the sun.
+380,0,Rumia0a,You smell like a black hole.
+381,0,Rumia0a,You smell like clouds.
+382,0,Rumia0a,You smell like peaches.
+383,0,Rumia0a,You smell like poison.
+384,0,Rumia0a,You smell like a dry umbrella.
+385,0,Rumia0a,You smell like justice.
+386,0,Rumia0a,You smell like... who was I talking to?
+387,0,Rumia0a,You smell like steel.
+388,0,Rumia0a,You smell kind of familiar.
+389,0,Rumia0a,You smell like wool.
+390,0,Rumia0a,You smell like the smell I smell in my dreams.
+391,0,Rumia0a,You smell like the lunar sea.
+392,0,Rumia0a,You smell like mushrooms.

@@ -1,0 +1,203 @@
+ID,LineID,face,dialog
+0,0,Shinki0a,I won't just stay on the back foot forever!
+1,0,Shinki0a,Some things need to be fought for.
+2,0,Shinki0a,I can't afford to back down.
+3,0,Shinki0a,If I'm going to fight/ I'll at least make it painless...
+4,0,Shinki0a,It's my turn to attack.
+5,0,Shinki0a,If you're prepared/ then here I come.
+6,0,Shinki0a,For everyone who lives in Gensokyo...
+7,0,Shinki2a,I'll really have to give this my all...
+8,0,Shinki2a,I haven't lost just yet...
+9,0,Shinki1a,Light!
+10,0,Shinki1a,Stay still.
+11,0,Shinki1a,I hope this makes them leave!
+12,0,Shinki1a,Take this!
+13,0,Shinki1a,Want a peek at a god's power?
+14,0,Shinki1a,You're done having your way here.
+15,0,Shinki1a,I have to do something...
+16,0,Shinki1a,The benediction of Makai's god...
+16,1,Shinki1a,be upon all living creatures.
+16,2,Shinki1a,Come/ everyone...
+17,0,Shinki1a,May repose and guidance...
+17,1,Shinki1a,be with all lost souls.
+17,2,Shinki1a,Now go/ all of you.
+18,0,Shinki1a,It's time.
+18,1,Shinki1a,Open your eyes...
+18,2,Shinki1a,And lend me your strength.
+19,0,Shinki1a,With the power of my magic...
+19,1,Shinki1a,The chains of life spin/ unbroken...
+19,2,Shinki1b,Ain Soph Aur.
+19,3,Shinki1b,They are at once providence and strength...
+19,4,Shinki1b,...and give birth to all things.
+20,0,Shinki1a,All that is to be born shall be...
+20,1,Shinki1a,...and so life continues its eternal/ unbroken chain.
+20,2,Shinki1b,From nothingness to infinity...
+20,3,Shinki1b,...do I deliver it to you.
+20,4,Shinki1b,There's nothing to worry about.
+21,0,Shinki1a,A reading.
+21,1,Shinki1a,...I am the creator of Makai.
+21,2,Shinki1b,If you would say destruction and regeneration are the essence of creation...
+21,3,Shinki1b,Then may even destruction be in peace...
+21,4,Shinki1b,...and give birth to all things.
+22,0,Shinki0e,If you hear this prayer...
+22,1,Shinki0e,Then to all those who live in this world...
+22,2,Shinki1a,Your momentary repose...
+22,3,Shinki0b,Your pain/ your suffering...
+22,4,Shinki0b,Entrust them to me.
+22,5,Shinki0c,And/ for now/ rest.
+23,0,Shinki0e,I will expend my entire being...
+23,1,Shinki0e,...to do whatever I can...
+23,2,Shinki1a,for all you who live for the present.
+23,3,Shinki0b,You are not alone.
+23,4,Shinki0b,For now/ entrust it all to me...
+23,5,Shinki0c,...and sleep well.
+24,0,Shinki0e,for all you who live for the present.
+24,1,Shinki0e,May repose and guidance...
+24,2,Shinki1a,Your repose/ your rest...
+24,3,Shinki0b,Your hesitation...
+24,4,Shinki0b,Your suffering...
+24,5,Shinki0c,...For now/ consign them all to oblivion.
+25,0,Shinki0a,I'm pretty good at playing the waiting game.
+26,0,Shinki0a,Oh... Well.
+27,0,Shinki2a,I lost sight of them?!
+28,0,Shinki0a,That was supposed to be my role/ not yours...
+29,0,Shinki0a,Oh/ whatever am I going to do with you?
+30,0,Shinki0a,You can leave it to me!
+31,0,Shinki0a,I won't let you through.
+32,0,Shinki0a,I will protect you.
+33,0,Shinki1a,A god's protection is with you.
+34,0,Shinki1a,Stay close/ alright?
+35,0,Shinki1a,I'm right here with you!
+36,0,Shinki1a,There's nothing to fear.
+37,0,Shinki1a,I'm watching over you!
+38,0,Shinki1a,I'll give you a hand!
+39,0,Shinki0a,I'm giving it all I have too!
+40,0,Shinki0a,Let's get in sync with each other!
+41,0,Shinki0a,We can do this together!
+42,0,Shinki0a,How dare you harm Alice like that!
+43,0,Shinki0a,You really opened them up/ Alice.
+44,0,Shinki0a,I can handle the rest/ Alice!
+45,0,Shinki0a,You're not laying a hand on my daughter.
+46,0,Shinki0a,Alice/ look ooout!
+47,0,Shinki1a,Mom is right here with you/ Alice.
+48,0,Shinki1a,I'll do as you say/ Alice!
+49,0,Shinki1a,Let's fight together/ Alice!
+50,0,Shinki1a,How are things looking over there/ Alice?
+51,0,Shinki1a,I'll help you/ Alice!
+52,0,Shinki0a,I've been waiting for this moment for so long!
+53,0,Shinki0a,We're in perfect sync/ Alice!
+54,0,Shinki0a,We can do this together/ Alice!
+55,0,Shinki2a,How dare you harm Yumeko like that!
+56,0,Shinki0a,You really opened them up/ Yumeko.
+57,0,Shinki0a,I can handle the rest/ Yumeko!
+58,0,Shinki0a,You're not laying a hand on my daughter.
+59,0,Shinki0a,Yumeko/ look ooout!
+60,0,Shinki1a,I'll do as you say/ Yumeko!
+61,0,Shinki1a,Do the best you can/ Yumeko!
+62,0,Shinki1a,Let's press forwards/ Yumeko.
+63,0,Shinki1a,You know what to do/ right/ Yumeko?
+64,0,Shinki1a,I'll help you/ Yumeko!
+65,0,Shinki0a,We're in perfect sync/ Yumeko!
+66,0,Shinki0a,I'll give it everything I have too/ Yumeko!
+67,0,Shinki0a,We can do this together/ Yumeko!
+68,0,Shinki2a,How dare you hurt Medi like that!
+69,0,Shinki0a,I can handle the rest/ Medi!
+70,0,Shinki0a,You really did a good job/ Medi!
+71,0,Shinki0a,Medi/ look ooout!
+72,0,Shinki0a,I won't let you hurt Medi!
+73,0,Shinki0a,Medi/ how are things over here?
+74,0,Shinki0a,Let's fight together/ Medi!
+75,0,Shinki0a,There's nothing to be afraid of/ Medi.
+76,0,Shinki0a,I'll be with you/ Medi.
+77,0,Shinki0a,Where do you want to go/ Medi?
+78,0,Shinki0a,We're in perfect sync/ Medi!
+79,0,Shinki0a,Let's combine our strength/ Medi!
+80,0,Shinki0a,We can do this together/ Medi!
+81,0,Shinki2a,How dare you hurt Byakuren like that!
+82,0,Shinki0a,Leave the rest to me/ Byakuren.
+83,0,Shinki0a,Byakuren created an opening/ and I won't waste it.
+84,0,Shinki0a,Byakuren/ look ooout!
+85,0,Shinki0a,I won't let you hurt Byakuren!
+86,0,Shinki0a,I'll do as you say/ Byakuren!
+87,0,Shinki0a,I never thought I'd be able to fight alongside Byakuren!
+88,0,Shinki0a,Byakuren/ how are things over here?
+89,0,Shinki0a,I'll help you/ Byakuren!
+90,0,Shinki0a,Let's fight together/ Byakuren!
+91,0,Shinki0a,Let's muster everything we have/ Byakuren!
+92,0,Shinki0a,The two of us are in perfect sync/ Byakuren!
+93,0,Shinki0a,We can do this together/ Byakuren!
+94,0,Shinki2a,So even you have some humanity/ Yuuka...
+95,0,Shinki0a,Just leave the rest to me/ okay?
+96,0,Shinki0a,So even you miss chances to finish them off sometimes.
+97,0,Shinki0a,I know you're a fighter/ but don't go out too far!
+98,0,Shinki0a,I won't just sit back and watch this.
+99,0,Shinki0a,I'll be watching to make sure you don't go too far.
+100,0,Shinki0a,No scary magic/ please.
+101,0,Shinki0a,Now you're dragging me into your awful schemes...
+102,0,Shinki0a,No going off on your own!
+103,0,Shinki0a,I just have to do what you say/ right? Ugh.
+104,0,Shinki0a,Perfect sync...doesn't seem like an option here.
+105,0,Shinki0a,Let's give it everything...but not too much/ on your part.
+106,0,Shinki0a,Okay/ fine. Let's both get serious.
+107,0,Shinki2a,So even you have some humanity/ Mima...
+108,0,Shinki0a,Just leave the rest to me/ okay?
+109,0,Shinki0a,So even you miss chances to finish them off sometimes.
+110,0,Shinki0a,I know you're a fighter/ but don't go out too far!
+111,0,Shinki0a,I won't just sit back and watch this.
+112,0,Shinki0a,I'll be watching to make sure you don't go too far.
+113,0,Shinki0a,No scary magic/ please.
+114,0,Shinki0a,Now you're dragging me into your awful schemes...
+115,0,Shinki0a,No going off on your own!
+116,0,Shinki0a,I just have to do what you say/ right? Ugh.
+117,0,Shinki0a,Perfect sync...doesn't seem like an option here.
+118,0,Shinki0a,Let's give it everything...but not too much/ on your part.
+119,0,Shinki0a,Okay/ fine. Let's both get serious.
+120,0,Shinki2a,This is getting more and more difficult...
+121,0,Shinki2a,Are they driving me back?
+122,0,Shinki2a,Could you stop bothering me?
+123,0,Shinki2a,I can't let myself fall here.
+124,0,Shinki2a,Hey! That hurt/ you know!
+125,0,Shinki2a,I can't lose focus!
+126,0,Shinki2a,Whoopsies. What should I do?
+127,0,Shinki2a,Yumeko is going to get angry with me now...
+128,0,Shinki2a,They found an opening?
+129,0,Shinki2a,Ouch!
+130,0,Shinki0a,This is nothing!
+131,0,Shinki0a,I can sense your resolve.
+132,0,Shinki0a,I'm not going to lose!
+133,0,Shinki0a,I can handle a wound like this...
+134,0,Shinki0a,You're really trying your best/ aren't you?
+135,0,Shinki0a,Hey/ I did a good job!
+136,0,Shinki0a,I can't exactly let you win/ can I?
+137,0,Shinki0a,Be careful of stray bullets/ okay?
+138,0,Shinki0a,I can tell where you're moving.
+139,0,Shinki0a,I didn't even flinch!
+140,0,Shinki0a,Hmm? Is that it?
+141,0,Shinki0a,No need to try—it won't work.
+142,0,Shinki0a,It will take more than that for me to let you through.
+143,0,Shinki0a,I am still a god/ you know.
+144,0,Shinki0a,You'll need to try harder than that to reach me!
+145,0,Shinki0a,Mmph!
+146,0,Shinki0a,Oh/ I knew you'd be coming from that direction.
+147,0,Shinki0a,I can't believe they fought me off...
+148,0,Shinki2a,B-But whyyy?!
+149,0,Shinki0a,Let's leave the fighting at that/ okay?
+150,0,Shinki0a,That one hurt... I don't want anyone to keep going if things get too dangerous!
+151,0,Shinki0a,What a terrible aura...
+152,0,Shinki0a,This just goes to show what good children they all really are.
+153,0,Shinki0a,I have everyone else to thank that Byakuren didn't end up like this.
+154,0,Shinki0a,I don't want to see Byakuren like this...
+155,0,Shinki0a,I will never back down against scoundrels like you!
+156,0,Shinki0a,I didn't think you would try to bar our way so persistently...
+157,0,Shinki0a,Mehko/ please don't force yourself. For everyone's sake.
+158,0,Shinki0a,If there's no choice but to fight/ then...
+159,0,Shinki0a,I guess this shows how determined you are...
+160,0,Shinki2a,Please/ stop! Nobody will benefit from this!
+161,0,Shinki0a,If there's no choice but to fight/ then I will never falter.
+162,0,Shinki0a,You're very powerful/ yes/ but...
+163,0,Shinki0a,For peace in Gensokyo/ I will devote all my strength...
+164,0,Shinki0a,If there's no choice but to fight/ then I will never falter.
+165,0,Shinki0a,You're very powerful/ yes/ but...
+166,0,Shinki0a,For Makura/ I will devote all my strength...
+167,0,Shinki0a,How dare you interrupt Alice's party!
+168,0,Shinki0a,You're far too at-home in Alice's house!

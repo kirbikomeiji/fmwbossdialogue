@@ -1,0 +1,236 @@
+ID,LineID,face,dialog
+0,0,Chen0a,You're my prey now!
+1,0,Chen0a,My turn/ my turn!
+2,0,Chen0a,Now I'm chasing you!
+3,0,Chen0a,You won't get away unscratched!
+4,0,Chen0a,I'll pounce/ then scratch you out!
+5,0,Chen0a,Here's some payback!
+6,0,Chen0a,Miss Ran and Miss Yukari are probably watching...
+7,0,Chen0a,I'll keep going until I need a cat-nap!
+8,0,Chen0a,Bet you can't follow these moves!
+9,0,Chen0a,I'm gonna get you!
+10,0,Chen0a,I can fight too!
+11,0,Chen0a,I'm gonna show off my cool side!
+12,0,Chen0a,Miss Ran/ I can help too!
+13,0,Chen0a,I can be good enough! I think!
+14,0,Chen0a,I'm a full-grown youjuu/ watch out!
+15,0,Chen0a,You can't just be a scaredy-cat all the time!
+16,0,Chen0a,I gotta show them how amazing Miss Ran's shiki can be!
+17,0,Chen0a,I'll show you that I can keep up!
+18,0,Chen0a,I'm Miss Ran's shiki... I can do this!
+19,0,Chen0a,This might be my last life...
+20,0,Chen0a,I can still fight... gotta keep going!
+21,0,Chen1a,Caught you!
+22,0,Chen1a,Yaaah!
+23,0,Chen1a,I'll pounce!
+24,0,Chen1a,Meow!
+25,0,Chen1a,Faster/ faster!
+26,0,Chen1a,Let's try this!
+27,0,Chen1a,I'll put some youkai power in it!
+28,0,Chen1a,Let's go!
+29,0,Chen1a,If you're a real bakeneko/ you gotta be able to do this!
+29,1,Chen1a,Everybody/ follow me!
+29,2,Chen1a,I'll pounce!
+29,3,Chen1a,And then/ run away!
+29,4,Chen2a,Waah/ I messed up...
+30,0,Chen1a,Okay/ everybody come here!
+30,1,Chen1a,With me! Charge!
+30,2,Chen1a,Get 'em!
+30,3,Chen1a,I got clawed too...
+30,4,Chen2a,The prey was over there...
+31,0,Chen1a,Everyone/ let's all pounce at once!
+31,1,Chen1a,Even if you're a runt or a kid/ you gotta keep up!
+31,2,Chen1a,I'll pounce!
+31,3,Chen1a,I got clawed too...
+31,4,Chen2a,The prey was over there...
+32,0,Chen0a,Miss Ran/ please help!
+32,1,Ran0a,Chen/ do just as I say/ okay?
+32,2,Chen0a,Yes/ Miss Ran!
+32,3,Ran0a,Possession! Shikigami Chen!
+32,4,Ran0a,With our simultaneous attacks/ we cannot miss!
+32,5,Chen0a,Got it!
+32,6,Ran1a,Synchronized!
+32,7,Chen1a,Leaping!
+32,8,Ran1a,Attack!
+32,9,Chen1a,Youkai Domination!
+32,10,Chen2a,Owie...
+32,11,Ran0a,Hmm. I suppose the shiki was a little weak...
+33,0,Chen0a,If I had some help from Miss Ran...
+33,1,Ran0a,Chen/ do it exactly like we practiced.
+33,2,Chen0a,I- I'll do my best!
+33,3,Ran0a,Begin Pattern: CHEN!
+33,4,Ran0a,Constantly Clashing Combination...
+33,5,Ran0a,Engage!
+33,6,Ran1a,One!
+33,7,Chen1a,Two!
+33,8,Ran1a,Three!
+33,9,Chen1a,Complete!
+33,10,Chen2a,M-Miss Ran/ I'm sooorry!
+33,11,Ran0a,You're just so unreliable/ Chen...
+34,0,Chen0a,I'm a Shikigami too!
+34,1,Ran0a,You need to match my timing perfectly.
+34,2,Chen0a,Of course!
+34,3,Ran0a,Shikigami: CHEN/ activate!
+34,4,Ran0a,Synchronization confirmation... 95%!
+34,5,Chen0a,99%/ time to jump!
+34,6,Ran1a,Attack!
+34,7,Chen1a,Hit!
+34,8,Chen1a,And one more!
+34,9,Ran0a,Pattern Complete. Good job/ Chen!
+34,10,Chen2a,M-Miss Ran/ I'm sooorry!
+34,11,Ran0a,You're just so unreliable/ Chen...
+35,0,Chen0a,I'll get some help from Miss Ran!
+35,1,Ran0a,Okay/ Chen/ this time we'll have you take the lead.
+35,2,Chen0a,Um/ Miss Ran/ I'm not so sure I should-
+35,3,Ran0a,Let's begin! Pattern: CHEEEEN!
+35,4,Chen0a,Consistently Colliding... umm... uhh...
+35,5,Chen0a,Wait for me/ Miss Ran!
+35,6,Ran0a,One!
+35,7,Chen0a,Two!
+35,8,Ran0a,Three!
+35,9,Chen0a,Take this!
+35,10,Chen2a,M-Miss Ran/ I'm sooorry!
+35,11,Ran0a,You're just so unreliable/ Chen...
+36,0,Chen0a,If all you have to do is dodge/ it's real simple!
+37,0,Chen0a,I'll get you for this later.
+38,0,Chen0a,Attacking from that far away is unfair!
+39,0,Chen0a,Huh/ where'd they go?
+40,0,Chen2a,You- you won't get away with this!
+41,0,Chen0a,I'll get them!
+42,0,Chen0a,And then/ another attack!
+43,0,Chen0a,Watch out!
+44,0,Chen0a,Don't space out like that!
+45,0,Chen0a,Miss Ran always says to listen to your partner's orders/ so...
+46,0,Chen1a,Got it/ you can count on me!
+47,0,Chen1a,Hooray/ I'm up first!
+48,0,Chen1a,I've gotta show them what I can do!
+49,0,Chen1a,I won't get in your way!
+50,0,Chen1a,That one's our enemy!
+51,0,Chen1a,You can leave it to me!
+52,0,Chen1a,Make sure not to hit me!
+53,0,Chen1a,I'll fight them too!
+54,0,Chen1a,I'll show you how much I can try!
+55,0,Chen1a,If we're gonna race/ don't worry/ I'll win!
+56,0,Chen1a,I'm Miss Ran's shiki... I can do this!
+57,0,Chen2a,M-Miss Yuyuko! I'm sorry!
+58,0,Chen1a,Miss Yuyuko/ I'm doing my best too!
+59,0,Chen1a,Miss Yuyuko/ I'll help out!
+60,0,Chen1a,Watch out/ Miss Yuyuko!
+61,0,Chen1a,I'll protect you/ Miss Yuyuko!
+62,0,Chen1a,I'll try really hard/ Miss Yuyuko!
+63,0,Chen1a,Over there/ Miss Yuyuko!
+64,0,Chen1a,Okay! Leave it up to me!
+65,0,Chen1a,Miss Yuyuko/ I'll fight with you!
+66,0,Chen1a,You can leave the running parts up to me!
+67,0,Chen1a,When I'm with Miss Yuyuko/ no one can beat us!
+68,0,Chen1a,I'll show Miss Yuyuko how much I'm trying!
+69,0,Chen1a,Miss Yuyuko/ I'll get them!
+70,0,Chen2a,I can't give up/ for Miss Ran's sake...
+71,0,Chen2a,Miss Raaaan!
+72,0,Chen0a,Miss Ran/ I'll help out too!
+73,0,Chen0a,Miss Ran/ watch this!
+74,0,Chen0a,Miss Ran/ I can help too!
+75,0,Chen0a,I'll protect you/ Miss Ran!
+76,0,Chen0a,Miss Ran/ watch out!
+77,0,Chen1a,I'll give it a try/ Miss Ran!
+78,0,Chen1a,When I'm with Miss Ran/ no one can beat us!
+79,0,Chen1a,I hope I don't mess up in front of Miss Ran...
+80,0,Chen1a,Miss Ran/ I'll fight with you!
+81,0,Chen1a,I'll fight with you!
+82,0,Chen1a,Miss Ran/ that one's our next target/ right?
+83,0,Chen1a,I'll show Miss Ran how much I'm trying!
+84,0,Chen1a,Miss Ran/ let's get them!
+85,0,Chen1a,When I'm with Miss Ran/ no one can beat us!
+86,0,Chen2a,I can't give up/ for Miss Yukari's sake...
+87,0,Chen0a,Miss Yukari/ I'll help out!
+88,0,Chen0a,Miss Yukari/ I'm doing my best too!
+89,0,Chen0a,I'll protect you/ Miss Yukari!
+90,0,Chen0a,Miss Yukari/ watch out!
+91,0,Chen1a,Sure/ Miss Yukari!
+92,0,Chen1a,Miss Yukari/ that one's our next target/ right?
+93,0,Chen1a,You can leave the running parts up to me!
+94,0,Chen1a,Over there/ Miss Yukari!
+95,0,Chen1a,Whatever you say/ Miss Yukari!
+96,0,Chen1a,I'll do my best/ Miss Yukari!
+97,0,Chen1a,I'll show Miss Yukari how much I'm trying!
+98,0,Chen1a,Miss Yukari/ I'll get them!
+99,0,Chen1a,When I'm with Miss Yukari/ no one can beat us!
+100,0,Chen0a,I'll run on ahead!
+101,0,Chen0a,I'll fight them too!
+102,0,Chen0a,I'm going on ahead!
+103,0,Chen0a,If it's a race/ I'll always win!
+104,0,Chen0a,Stay Vigilant/ just like Miss Ran says!
+105,0,Chen0a,If I believe in myself/ I can do it!
+106,0,Chen0a,I'm proud of my agility/ you know!
+107,0,Chen0a,You're easy prey!
+108,0,Chen0a,You can't get me that easily!
+109,0,Chen0a,That's not working at all!
+110,0,Chen0a,Miss Ran/ they don't seem that tough at all!
+111,0,Chen2a,Wh-what should I do?
+112,0,Chen2a,If this keeps happening I might lose...
+113,0,Chen2a,Someone/ anyone/ help meeee!
+114,0,Chen2a,Miss Ran/ what should I do?!
+115,0,Chen2a,I might be in serious trouble...
+116,0,Chen2a,Hey/ c- calm down a little...
+117,0,Chen2a,Stop attacking meee!
+118,0,Chen2a,H- how'd things get like this?!
+119,0,Chen2a,I couldn't get away...
+120,0,Chen2a,They got me...
+121,0,Chen2a,They figured out where I was going?!
+122,0,Chen2a,I was ready for it and it STILL hurt...
+123,0,Chen2a,I- I knew stuff like this might happen!
+124,0,Chen2a,Th- these attacks are-
+125,0,Chen2a,Cut it out!
+126,0,Chen2a,Miss Ran/ they hurt me!
+127,0,Chen0a,Saw that coming!
+128,0,Chen0a,You completely missed!
+129,0,Chen0a,I can see right through that attack!
+130,0,Chen0a,You left plenty of room to dodge through there!
+131,0,Chen0a,A cat has a sixth sense for attacks like that!
+132,0,Chen0a,You can't lure me into that!
+133,0,Chen0a,Wonder if they weren't aiming at me...
+134,0,Chen0a,Hup!
+135,0,Chen0a,You've just gotta believe in yourself...!
+136,0,Chen0a,I felt that one coming!
+137,0,Chen0a,I've been training!
+138,0,Chen0a,Looks like you can't keep up with me!
+139,0,Chen0a,You can't fool me!
+140,0,Chen0a,This? This is easy-peasy!
+141,0,Chen0a,You can do it/ just try. \n It's just like Miss Ran said!
+142,0,Chen0a,You're making this a breeze!
+143,0,Chen0a,Somehow got away from it!
+144,0,Chen0a,Whoa!
+145,0,Chen0a,With this thing/\n I'll be fine no matter what!
+146,0,Chen0a,Mraow!
+147,0,Chen0a,If it's about nimbleness/ I'm second to none!
+148,0,Chen0a,Miss Ran/ If we're fighting I'm allowed to hit them first/ right?
+149,0,Chen2a,T- they got meeee...
+150,0,Chen2a,Oh noooo...
+151,0,Chen2a,Aaah!\n I can't fight anymore!
+152,0,Chen0a,Waaah/ even though I really really tried...
+153,0,Chen0a,Miss Ran/ Miss Yukari/ watch this!
+154,0,Chen0a,The real sun is nicer to nap in than this!
+155,0,Chen0a,Don't get in the way of the festival!
+156,0,Chen0a,You're so full of energy/\n but you're using it to do bad things?
+157,0,Chen1a,For Miss Ran and Miss Yukari!
+158,0,Chen1a,You're the one who's been bothering Miss Yukari!
+159,0,Chen0a,You're not supposed to do bad things!
+160,0,Chen0a,You're being a troublemaker!
+161,0,Chen0a,They're imposters!
+162,0,Chen0a,I won't let some fake beat me!
+163,0,Chen2a,It's Fake Miss Yukari...
+164,0,Chen2a,Fake Miss Ran is scary...
+165,0,Chen1a,Get out of the way!
+166,0,Chen0a,Cats don't usually get to catch sheep!
+167,0,Chen0a,This is kinda scary...
+168,0,Chen2a,Please stop!\n If you keep going like this/ you'll...
+169,0,Chen1a,Even against Makura/\n together/ Ran and I can face her!
+170,0,Chen1a,Against Makura/\n I've just got to run around even faster!
+171,0,Chen1a,If I fight like mad/ I bet I can beat even Makura!
+172,0,Chen1a,Even against you/ as long as I get to be with Miss Ran...
+173,0,Chen1a,Against Shitone/ I've just got to run around even faster!
+174,0,Chen1a,If I fight like mad/ I bet I can beat even Shitone!
+175,0,Chen0a,I'll try really hard/ Miss Ran!
+176,0,Chen0a,Against Miss Ran/\n I've really got to do my bestest!
+177,0,Chen0a,I'll try really hard/ Miss Yuyuko!
+178,0,Chen0a,Against Miss Yuyuko/\n I've really got to my bestest!

@@ -22,6 +22,24 @@ function onInit() {
             showchar(character);
     }
 }
+
+function showBattleDialogue() {
+    document.querySelector('#chapters_button').disabled = false;
+    document.querySelector('#bd_button').disabled = true;
+    document.querySelector('.chapter_wrapper').style.display = 'none';
+    showChapter('bd',null)
+}
+
+function unhideChapterWrapper()
+{
+    document.querySelector('#chapters_button').disabled = true;
+    document.querySelector('#bd_button').disabled = false;
+    document.querySelector('.chapter_wrapper').style.display = 'block';
+    showChapter('',null)
+
+}
+
+
 function showChapterButtons()
 {
     document.querySelectorAll('.chapter_button').forEach((chapter) => {
@@ -260,7 +278,10 @@ function showChapter(id, this_button) {
     url.searchParams.delete('character');
     window.history.replaceState(null, null, url);
 
-    document.getElementById('chapter_header').innerHTML = "Chapter " + id;
+    if (id === "")
+        document.getElementById('chapter_header').innerHTML = "";
+    else
+        document.getElementById('chapter_header').innerHTML = "Chapter " + id;
     if (chapter_names[id])
         document.getElementById('chapter_header').innerHTML = chapter_names[id];
 

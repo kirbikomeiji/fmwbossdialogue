@@ -1,0 +1,362 @@
+ID,LineID,face,dialog
+0,0,Daiyosei0a,I hope I can do it.
+1,0,Daiyosei0a,I'm a healer/ but...
+2,0,Daiyosei1a,I'm going to fight back!
+3,0,Daiyosei1a,I won't lose!
+4,0,Daiyosei0a,Can't we just talk this out?
+5,0,Daiyosei0a,This might be a good time to strike.
+6,0,Daiyosei1a,I can do this much/ at least.
+7,0,Daiyosei1a,I don't like fighting... But I won't back down!
+8,0,Daiyosei0a,They don't see me as a threat... In that case—!
+9,0,Daiyosei0a,I'll try my best!
+10,0,Daiyosei1a,I'll fight/ too!
+11,0,Daiyosei1a,We're almost there!
+12,0,Daiyosei0a,One more little push!
+13,0,Daiyosei1a,At this point/ even I can beat you!
+14,0,Daiyosei1a,Hyah!
+15,0,Daiyosei1a,H-Here I come!
+16,0,Daiyosei1a,P-Please hold still!
+17,0,Daiyosei2a,Hyah!
+18,0,Daiyosei1a,I'm sorry!
+19,0,Daiyosei1a,There!
+20,0,Daiyosei2a,I'll throw them!
+21,0,Daiyosei2a,Launching!
+22,0,Daiyosei2a,I hope they hit their mark!
+23,0,Daiyosei0a,How about these?
+24,0,Daiyosei1a,I've practiced my danmaku a lot!
+25,0,Daiyosei1a,This might hurt!
+26,0,Daiyosei1a,This is my burning danmaku!
+27,0,Daiyosei1a,I'll help!
+28,0,Daiyosei0a,Cirno/ I need your help!
+28,1,Cirno0a,Let's kick their sorry butts!
+28,2,Daiyosei0a,When I'm with you/ I can do my best!
+28,3,Cirno1a,Incoming!
+28,4,Daiyosei1a,Hyaaah!
+29,0,Daiyosei0a,I'm not alone!
+29,1,Cirno0a,You're not going anywhere!
+29,2,Daiyosei0a,We can do this together/ Cirno!
+29,3,Cirno1a,We fairies are invincible!
+29,4,Daiyosei1a,I'll help!
+30,0,Daiyosei0a,Cirno/ are you ready?
+30,1,Cirno0a,I was born ready!
+30,2,Daiyosei0a,We practiced this a lot!
+30,3,Cirno1a,Chill out!
+30,4,Daiyosei1a,B-Burn out!
+31,0,Daiyosei0a,Let's do this/ together!
+31,1,Rumia0a,Cirno!
+31,2,Cirno0a,Dai!
+31,3,Daiyosei0a,Wriggle!
+31,4,Wriggle0a,Mystia!
+31,5,Mystia0a,And back to Rumia!
+31,6,Cirno1a,It's time to fight as one!
+31,7,Daiyosei1a,I will give you all power.
+31,8,Wriggle1a,Haaaah!
+31,9,Wriggle1a,Do your thing/ guys!
+31,10,Mystia1b,This song will get your blood pumping!
+31,11,Rumia0a,Weee!
+31,12,Cirno1a,Chill out!
+31,13,Wriggle1a,There you are!
+31,14,Mystia1b,Go! ♪ Go! ♪
+31,15,Rumia0a,Pitch dark!
+31,16,Cirno1a,Not done yet!
+31,17,Daiyosei2a,I-I'm helping!
+31,18,Rumia0a,Awesome!
+31,19,Wriggle0a,It's time to end this!
+31,20,Mystia0a,Sounds good!
+31,21,Daiyosei0a,All together now!
+31,22,Cirno0a,This will finish you!
+31,23,Cirno1a,The strongest ever attack in Gensokyo!
+31,24,Cirno1a,Final!
+31,25,Rumia0a,Final! Nineball!! SPECIAAAL!!!
+31,26,Mystia0a,Final! Nineball!! SPECIAAAL!!!
+31,27,Wriggle1a,Final! Nineball!! SPECIAAAL!!!
+32,0,Daiyosei0a,Together/ we can win!
+32,1,Rumia0a,Cirno!
+32,2,Cirno0a,Dai!
+32,3,Daiyosei0a,Wriggle!
+32,4,Wriggle0a,Mystia!
+32,5,Mystia0a,And back to Rumia!
+32,6,Cirno1a,It's time to fight as one!
+32,7,Daiyosei1a,Give it your all/ friends!
+32,8,Mystia1b,I'm so fired up!
+32,9,Wriggle1a,Sic 'em/ boys!
+32,10,Mystia1b,I know just the song!
+32,11,Rumia0a,Here I go!
+32,12,Cirno1a,Frozen Beam!
+32,13,Wriggle1a,End of the line!
+32,14,Mystia1b,I can fly! ♪ You can fly! ♪
+32,15,Rumia0a,Turn on the dark!
+32,16,Cirno1a,Don't stop now!
+32,17,Daiyosei2a,I'll help!
+32,18,Rumia0a,That felt awesome!
+32,19,Wriggle0a,Let's finish this!
+32,20,Mystia0a,This is the song's climax!
+32,21,Daiyosei0a,We can do it/ together!
+32,22,Cirno0a,Here it comes...
+32,23,Cirno1a,The ultimate bio-glacial attack!
+32,24,Cirno1a,Final!
+32,25,Rumia0a,Final! Nineball!! SPECIAAAL!!!
+32,26,Mystia0a,Final! Nineball!! SPECIAAAL!!!
+32,27,Wriggle1a,Final! Nineball!! SPECIAAAL!!!
+33,0,Daiyosei2a,Forgive me...
+34,0,Daiyosei0a,I can't keep dodging forever...
+35,0,Daiyosei0a,That's all I can do for the time being.
+36,0,Daiyosei0a,I can't fight back from here...
+37,0,Daiyosei0a,They're so far away. That's not fair.
+38,0,Daiyosei0a,I can't reach them... What should I do?
+39,0,Daiyosei0a,It's a bit scary/ but I think I'll have to get closer...
+40,0,Daiyosei3a,I'm sorry you had to pay for my weakness...
+41,0,Daiyosei1a,Let me help!
+42,0,Daiyosei1a,I'll back you up!
+43,0,Daiyosei1a,I'll follow your lead!
+44,0,Daiyosei1a,One more push!
+45,0,Daiyosei1a,We're almost there!
+46,0,Daiyosei1a,I'm here for you!
+47,0,Daiyosei1a,You mustn't lose!
+48,0,Daiyosei1a,I'll save you!
+49,0,Daiyosei0a,I'll do my best to help!
+50,0,Daiyosei0a,Never give up!
+51,0,Daiyosei0a,I'll keep them busy!
+52,0,Daiyosei0a,I'll start shooting!
+53,0,Daiyosei0a,I'll try to distract them!
+54,0,Daiyosei1a,I'll lend you my power!
+55,0,Daiyosei1a,Let us fight together!
+56,0,Daiyosei3a,Forgive me/ Cirno...
+57,0,Daiyosei0a,I'll help you anyway I can!
+58,0,Daiyosei0a,Leave this to me/ Cirno!
+59,0,Daiyosei2a,Cirno! Watch out!
+60,0,Daiyosei0a,Cirno/ you're being too reckless!
+61,0,Daiyosei0a,Don't worry Cirno/ I'm right behind you!
+62,0,Daiyosei0a,I hope this helps you/ Cirno.
+63,0,Daiyosei0a,When I'm with you/ I can do anything!
+64,0,Daiyosei0a,Good luck/ Cirno!
+65,0,Daiyosei0a,I'm here for you/ Cirno!
+66,0,Daiyosei0a,Cirno/ I'll lend you my power!
+67,0,Daiyosei3a,Forgive me/ Rumia...
+68,0,Daiyosei0a,I'm right behind you/ Rumia!
+69,0,Daiyosei0a,I always fight for my friends!
+70,0,Daiyosei0a,Rumia/ please stay focused!
+71,0,Daiyosei0a,Rumia/ you... don't pay much attention to your surroundings/ do you?
+72,0,Daiyosei0a,Rumia! Let's fight together!
+73,0,Daiyosei0a,I want to help her.
+74,0,Daiyosei0a,Good luck/ Rumia!
+75,0,Daiyosei0a,Don't hit me by accident/ Rumia!
+76,0,Daiyosei0a,Let me help/ Rumia!
+77,0,Daiyosei0a,Rumia/ I'll lend you my power!
+78,0,Daiyosei0a,I'm here for you/ Rumia!
+79,0,Daiyosei3a,Forgive me/ Letty...
+80,0,Daiyosei0a,I'm right behind you/ Letty!
+81,0,Daiyosei0a,I always fight for my friends!
+82,0,Daiyosei2a,Stay back/ Letty!
+83,0,Daiyosei2a,Letty! Watch out!
+84,0,Daiyosei0a,I'll do my best/ Letty!
+85,0,Daiyosei0a,I'll keep them distracted/ Letty!
+86,0,Daiyosei0a,Good luck/ Letty!
+87,0,Daiyosei0a,Allow me to help/ Letty!
+88,0,Daiyosei0a,Letty/ I'll lend you my power!
+89,0,Daiyosei0a,I'm here for you/ Letty!
+90,0,Daiyosei3a,Forgive me/ Chen...
+91,0,Daiyosei0a,I always fight for my friends!
+92,0,Daiyosei0a,I'm right behind you/ Chen!
+93,0,Daiyosei2a,Stay back/ Chen!
+94,0,Daiyosei2a,Chen! Watch out!
+95,0,Daiyosei0a,I'll keep them distracted/ Chen!
+96,0,Daiyosei0a,Let's fight together/ Chen!
+97,0,Daiyosei0a,Good luck/ Chen!
+98,0,Daiyosei0a,Let me help/ Chen!
+99,0,Daiyosei0a,Chen/ I'll lend you my power!
+100,0,Daiyosei0a,I'm here for you/ Chen!
+101,0,Daiyosei3a,Forgive me/ Wriggle...
+102,0,Daiyosei0a,I'm right behind you/ Wriggle!
+103,0,Daiyosei0a,I always fight for my friends!
+104,0,Daiyosei2a,Stay back/ Wriggle!
+105,0,Daiyosei2a,Wriggle! Watch out!
+106,0,Daiyosei0a,I'll keep them distracted/ Wriggle!
+107,0,Daiyosei0a,Let's fight together/ Wriggle!
+108,0,Daiyosei0a,Good luck/ Wriggle!
+109,0,Daiyosei0a,Let me help/ Wriggle!
+110,0,Daiyosei0a,Wriggle/ I'll lend you my power!
+111,0,Daiyosei0a,I'm here for you/ Wriggle!
+112,0,Daiyosei3a,Forgive me/ Mystia...
+113,0,Daiyosei0a,I always fight for my friends!
+114,0,Daiyosei0a,I'm right behind you/ Mystia!
+115,0,Daiyosei2a,Stay back/ Mystia!
+116,0,Daiyosei2a,Mystia! Watch out!
+117,0,Daiyosei0a,I'll keep them distracted/ Mystia!
+118,0,Daiyosei0a,Let's fight together/ Mystia!
+119,0,Daiyosei0a,Good luck/ Mystia!
+120,0,Daiyosei0a,Let me help/ Mystia!
+121,0,Daiyosei0a,Mystia/ I'll lend you my power!
+122,0,Daiyosei0a,I'm here for you/ Mystia!
+123,0,Daiyosei3a,Forgive me/ Ms. Keine...
+124,0,Daiyosei0a,Allow me to help/ Ms. Keine!
+125,0,Daiyosei0a,I'll follow your lead/ Ms. Keine!
+126,0,Daiyosei2a,Please stay back/ Ms. Keine!
+127,0,Daiyosei2a,Ms. Keine! Watch out!
+128,0,Daiyosei0a,I'll do my best/ Ms. Keine!
+129,0,Daiyosei0a,I'll keep them distracted/ Ms. Keine!
+130,0,Daiyosei0a,Good luck/ Ms. Keine!
+131,0,Daiyosei0a,Allow me to help/ Ms. Keine!
+132,0,Daiyosei0a,Ms. Keine/ I'll lend you my power!
+133,0,Daiyosei0a,I'm here for you/ Ms. Keine!
+134,0,Daiyosei3a,Forgive me/ Nazrin...
+135,0,Daiyosei0a,I'll do what I can/ Nazrin!
+136,0,Daiyosei0a,I'm right behind you/ Nazrin!
+137,0,Daiyosei2a,Stay back/ Nazrin!
+138,0,Daiyosei2a,Nazrin! Watch out!
+139,0,Daiyosei0a,I'll keep them distracted/ Nazrin!
+140,0,Daiyosei0a,Good luck/ Nazrin!
+141,0,Daiyosei0a,Let me help/ Nazrin!
+142,0,Daiyosei0a,Nazrin/ I'll lend you my power!
+143,0,Daiyosei0a,I'm here for you/ Nazrin!
+144,0,Daiyosei3a,Forgive me/ Sunny...
+145,0,Daiyosei0a,I always fight for my friends!
+146,0,Daiyosei0a,I'm right behind you/ Sunny!
+147,0,Daiyosei2a,Stay back/ Sunny!
+148,0,Daiyosei2a,Sunny! Watch out!
+149,0,Daiyosei0a,I'll keep them distracted/ Sunny!
+150,0,Daiyosei0a,Let's fight together/ Sunny!
+151,0,Daiyosei0a,Good luck/ Sunny!
+152,0,Daiyosei0a,Let me help/ Sunny!
+153,0,Daiyosei0a,Sunny/ I'll lend you my power!
+154,0,Daiyosei0a,I'm here for you/ Sunny!
+155,0,Daiyosei3a,Forgive me/ Luna...
+156,0,Daiyosei0a,I always fight for my friends!
+157,0,Daiyosei0a,I'm right behind you/ Luna!
+158,0,Daiyosei0a,Stay back/ Luna!
+159,0,Daiyosei0a,Luna! Watch out!
+160,0,Daiyosei0a,I'll keep them distracted/ Luna!
+161,0,Daiyosei0a,Let's fight together/ Luna!
+162,0,Daiyosei0a,Good luck/ Luna!
+163,0,Daiyosei0a,Let me help/ Luna!
+164,0,Daiyosei0a,Luna/ I'll lend you my power!
+165,0,Daiyosei0a,I'm here for you/ Luna!
+166,0,Daiyosei3a,Forgive me/ Star...
+167,0,Daiyosei0a,I always fight for my friends!
+168,0,Daiyosei0a,I'm right behind you/ Star!
+169,0,Daiyosei2a,Stay back/ Star!
+170,0,Daiyosei2a,Star! Watch out!
+171,0,Daiyosei0a,I'll keep them distracted/ Star!
+172,0,Daiyosei0a,Let's fight together/ Star!
+173,0,Daiyosei0a,Good luck/ Star!
+174,0,Daiyosei0a,Let me help/ Star!
+175,0,Daiyosei0a,Star/ I'll lend you my power!
+176,0,Daiyosei0a,I'm here for you/ Star!
+177,0,Daiyosei3a,Forgive me/ girls...
+178,0,Daiyosei0a,I always fight for my friends!
+179,0,Daiyosei0a,I'm right behind you/ girls!
+180,0,Daiyosei2a,Girls! Watch out!
+181,0,Daiyosei0a,Were ALL of you distracted by something else...?
+182,0,Daiyosei2a,Marisa! Watch out!
+183,0,Daiyosei0a,What is this cute dolly doing here?
+184,0,Daiyosei1a,Leave the cute dolly alone!
+185,0,Daiyosei0a,I'm very alert right now!
+186,0,Daiyosei0a,Sometimes/ I have to give it my best!
+187,0,Daiyosei0a,I just need to stay very focused...
+188,0,Daiyosei2a,It's fine! I'm not hurt!
+189,0,Daiyosei2a,I'm still okay!
+190,0,Daiyosei2a,I-I can keep this up!
+191,0,Daiyosei3a,C-Cirno! H-Heeelp!
+192,0,Daiyosei3a,I-I can't keep this up...
+193,0,Daiyosei3a,Owww... *sniff*
+194,0,Daiyosei2a,Eeek!
+195,0,Daiyosei2a,Ahhh!
+196,0,Daiyosei2a,Eeek! S-Stay away from me!
+197,0,Daiyosei2a,Oof... I don't know if I can keep this up...
+198,0,Daiyosei2a,Th-That hurt...
+199,0,Daiyosei2a,I'm... I'm fine.
+200,0,Daiyosei2a,I-I can deal with this much!
+201,0,Daiyosei2a,Y-You haven't beaten me yet!
+202,0,Daiyosei2a,I need to bear with it...!
+203,0,Daiyosei0a,D-Did they miss?
+204,0,Daiyosei0a,I need to find a good place to hide...
+205,0,Daiyosei1a,I can see it!
+206,0,Daiyosei0a,Whew... Thank goodness.
+207,0,Daiyosei0a,Cirno! Cirno/ did you see? I dodged!
+208,0,Daiyosei0a,I'm doing pretty well today.
+209,0,Daiyosei0a,Being small has its perks.
+210,0,Daiyosei0a,All that training is finally paying off.
+211,0,Daiyosei2a,Ouch! That smarts!
+212,0,Daiyosei2a,I need to stay sharp...
+213,0,Daiyosei0a,This counts as dodging/ right...?
+214,0,Daiyosei0a,This is fine...
+215,0,Daiyosei0a,That was way too close for comfort...
+216,0,Daiyosei0a,D-Did it work?
+217,0,Daiyosei0a,Hyah!
+218,0,Daiyosei0a,I want to go first/ for once!
+219,0,Daiyosei0a,I'm sorry... They got me...
+220,0,Daiyosei2a,Eeek! Th-This is it...
+221,0,Daiyosei2a,I'm sorry/ Cirno...
+222,0,Daiyosei0a,You'll have to take it from here!
+223,0,Daiyosei0a,I guess it's time for a break.
+224,0,Daiyosei0a,I'm sorry/ everyone! I'll be cheering for you!
+225,0,Daiyosei2a,EEEK! C-Cirno...
+226,0,Daiyosei2a,Eeek! Th-This is it...
+227,0,Daiyosei2a,I'm sorry... They got me...
+228,0,Daiyosei0a,I'm sorry/ everyone! I'll be cheering for you!
+229,0,Daiyosei2a,EEEK! C-Cirno...
+230,0,Daiyosei0a,Y-You should know/ I taste terrible!
+231,0,Daiyosei0a,I-I-m scared! Someone/ help!
+232,0,Daiyosei2a,S-Stay away from me!
+233,0,Daiyosei1a,Let me through! Please!
+234,0,Daiyosei2a,I'm sorry/ but I can't stay here!
+235,0,Daiyosei0a,Why are you attacking me?
+236,0,Daiyosei0a,This is all a big misunderstanding!
+237,0,Daiyosei2a,Would you please listen to me?
+238,0,Daiyosei2a,I'm sorry/ Cirno!
+239,0,Daiyosei2a,I have to stop her before Marisa and her friends get serious!
+240,0,Daiyosei0a,That is a very big sickle...
+241,0,Daiyosei0a,Wow. She's so tall.
+242,0,Daiyosei0a,She's fighting to protect someone...\n　I understand that feeling.
+243,0,Daiyosei0a,Upon closer inspection/ I have to admit...\n　That maid outfit is really cute.
+244,0,Daiyosei0a,She seems calm/ but there's something about her...
+245,0,Daiyosei0a,She is supposed to be a devil/ but I have a feeling we could be friends.
+246,0,Daiyosei0a,Look/ it's a maid!
+247,0,Daiyosei0a,She looks grumpy. Is she upset about something?
+248,0,Daiyosei0a,I have a feeling... There's no way I could beat her.
+249,0,Daiyosei2a,She... She scares me.
+250,0,Daiyosei1a,I've come this far... I'll do my best!
+251,0,Daiyosei2a,Please/ stop! Don't push yourself so hard!
+252,0,Daiyosei0a,Miss maid? Are you alright?
+253,0,Daiyosei0a,I knew it. You're fighting for your friends/ aren't you?
+254,0,Daiyosei2a,I-I'm so scared... But I'm not going to cry!
+255,0,Daiyosei0a,Who IS behind that door...?
+256,0,Daiyosei0a,You can't lock someone up against their will/ no matter the reason.
+257,0,Daiyosei2a,Please/ listen to what Marisa has to say!
+258,0,Daiyosei0a,She must have felt very lonely...
+259,0,Daiyosei0a,Th-There are many other fun things we could be doing!
+260,0,Daiyosei0a,I would die of loneliness if I were locked in a room for so long...
+261,0,Daiyosei0a,Why are we fighting/ again?\n　...Sorry/ that was a silly question.
+262,0,Daiyosei0a,Suika is nice/ so I'm not scared!
+263,0,Daiyosei0a,We practiced together a lot/ so I know all your tricks!
+264,0,Daiyosei0a,I'm going to fight/ too!
+265,0,Daiyosei0a,What were you up to/ anyway?
+266,0,Daiyosei0a,I warned you about playing all those pranks on Akyu...
+267,0,Daiyosei2a,Losing now would be really pathetic...
+268,0,Daiyosei2a,Eep! Th-That danmaku is for real!
+269,0,Daiyosei0a,I know your danmaku like the back of my hand!
+270,0,Daiyosei0a,Oh/ are you holding back?
+271,0,Daiyosei0a,I wonder if I can beat their combined danmaku...
+272,0,Daiyosei0a,Don't forget that we practiced together!
+273,0,Daiyosei0a,I'm going to fight/ too!
+274,0,Daiyosei0a,I know it's not much/ but I'll do whatever I can!
+275,0,Daiyosei0a,We have to save Utsuho/ somehow!
+276,0,Daiyosei0a,What were you up to/ anyway?
+277,0,Daiyosei0a,We practiced together a lot/ so I know all your tricks!
+278,0,Daiyosei2a,Losing now would be really pathetic...
+279,0,Daiyosei2a,Eep! Th-That danmaku is for real!
+280,0,Daiyosei0a,I know your danmaku like the back of my hand!
+281,0,Daiyosei0a,Oh/ are you holding back?
+282,0,Daiyosei0a,Uhm... N-Nice to meet you.
+283,0,Daiyosei0a,She seems friendly enough/ but I'm scared of thunder...
+284,0,Daiyosei0a,Nothing scares me when I'm with my friends!
+285,0,Daiyosei0a,Where did these copies come from...?
+286,0,Daiyosei0a,Please/ Mehko! Let us through!
+287,0,Daiyosei0a,We understand your pain/ Mehko.
+288,0,Daiyosei2a,She's willing to go this far for her...
+289,0,Daiyosei0a,I'll fight you as well/ Makura!
+290,0,Daiyosei0a,Is this Makura's true power...?
+291,0,Daiyosei1a,I'm willing to give it all for the sake of Gensokyo!
+292,0,Daiyosei0a,I'll fight you as well/ Shitone!
+293,0,Daiyosei0a,Is this Shitone's true power...?
+294,0,Daiyosei1a,I'm willing to give it all for the sake of Gensokyo!

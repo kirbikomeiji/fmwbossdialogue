@@ -1,0 +1,640 @@
+ID,LineID,face,dialog
+0,0,Alice1a,You've forced my hand.
+1,0,Alice0c,I'll twist that back on you.
+2,0,Alice1a,I'll return that danmaku to sender.
+3,0,Alice1a,You'll get your comeuppance yet.
+4,0,Alice1c,You'll wish you never laid your hands on me.
+5,0,Alice0a,Ah/ a volunteer.
+6,0,Alice1a,Cease your senseless struggling!
+7,0,Alice0a,You're prepared to fight/ I trust.
+8,0,Alice1c,I'll end this quickly.
+9,0,Alice1a,Come along quietly!
+10,0,Alice0b,You're in dire need of a pummeling.
+11,0,Alice1a,Now/ give up!
+12,0,Alice0a,How shall I torment you?
+13,0,Alice0a,Your luck's run out.
+14,0,Alice0c,Don't push your luck!
+15,0,Alice1a,I haven't given up hope yet!
+16,0,Alice1a,I'll proceed calmly/ even now!
+17,0,Alice1a,I'm just getting started!
+18,0,Alice0c,You got further than I expected/ but it ends here.
+19,0,Alice1a,Commencing combat!
+20,0,Alice1a,Hah!
+21,0,Alice1a,There!
+22,0,Alice1a,Take this!
+23,0,Alice1a,Go forth/ my dolls!
+24,0,Alice0a,One versus many—I don't rate your odds.
+25,0,Alice0d,I can beat you with just my puppets.
+26,0,Alice2b,This many should suffice.
+27,0,Alice1a,Go forth!
+28,0,Alice4a,Thank you/ my friends...
+29,0,Alice1a,Accept them with grace!
+30,0,Alice1a,Don't blame me if you get burned!
+31,0,Alice1a,If there truly is no better option...!
+32,0,Alice1a,Do it/ Shanghai!
+32,1,Shanghai0a,SHANGHAAAI!
+33,0,Alice1a,Activating magic... Fire!
+33,1,Shanghai0a,SHANGHAAAI!
+34,0,Alice1a,Can you withstand this magical illumination?!
+34,1,Shanghai0a,SHANGHAAAI!
+35,0,Alice1a,Shanghai/ finish them with your laser!
+35,1,Shanghai0a,SHANGHAAAI!
+36,0,Alice0a,Let's do this concurrently.
+36,1,Alice2b,You need to match my rhythm here/ okay?
+36,2,Marisa7a,Aren't you the dexterous one here?\n　Why don't YOU match ME?
+36,3,Alice1b,Honestly/ why are you always so...\n　Ugh/ fine/ whatever.
+37,0,Alice0a,Let's consider this from a cost-performance perspective.
+37,1,Alice2b,Combo attacks are all about efficiency.\n　Understand?
+37,2,Marisa7d,Full throttle/ full blast!
+37,3,Alice4a,...Didn't even hear me/ did you?
+38,0,Alice2b,Lend me a hand/ Marisa.
+38,1,Marisa0e,You need my help? That's rare.
+38,2,Alice0c,I suppose. Don't miss the timing.
+38,3,Marisa1a,Gotcha. You can thank me later!
+39,0,Marisa0a,I could use a hand here/ Alice.
+39,1,Alice0b,In that case/ you can be the feet.
+39,2,Marisa0a,You wanna dive in/ huh...
+39,3,Marisa1a,You wanna dive in/ huh... no prob!
+39,4,Alice1a,I'll pin them down/ fly closer!
+39,5,Alice1a,Now/ finish it!
+39,6,Marisa1a,Leave it to me!
+40,0,Marisa0a,Join up/ Alice!
+40,1,Marisa7a,Head's up/ this one's gonna be FAST.
+40,2,Alice0d,Close and personal/ then? Got it.
+40,3,Marisa1a,Hop on!
+40,4,Alice1a,Pin them down/ dolls!
+40,5,Marisa7a,Closing the distance...
+40,6,Marisa1a,Now!
+41,0,Marisa0a,Time for a little joint action!
+41,1,Marisa1a,Alice/ we're doing this in one pass!
+41,2,Alice2b,Pass? What do you mean by...
+41,3,Alice2a,Kyah?!
+41,4,Alice4a,Goodness/ as brash as ever...
+41,5,Marisa7c,Sure/ but it's working/ right?
+41,6,Marisa1a,Now/ take this!
+42,0,Alice1a,Combined arms!
+43,0,Alice1c,One versus many—I don't rate your odds.
+44,0,Alice1a,Form ranks/ and advance!
+45,0,Alice1a,The fruits of my research!
+46,0,Alice2b,This many should suffice.
+47,0,Alice1a,If you're going to explode anyway...!
+48,0,Alice1a,This is how I conduct research!
+49,0,Alice1a,I know a thing or two about flashy explosives!
+50,0,Alice1a,Catalyzing two dolls...!
+51,0,Alice1a,Combat pattern GG/ set!
+51,1,Alice1c,I trust you're all prepared?
+51,2,Alice1a,First/ we hem them in!
+51,3,Alice1c,Piercing attack/ in 3/ 2/ 1...
+51,4,Alice1a,Piercing attack/ in 3/ 2/ 1... now!
+51,5,Alice1a,Slashing combination!
+51,6,Alice1c,All troops/ prepare for our final...
+51,7,Alice1a,Encircling attack!
+51,8,Alice0b,Sequence complete.\n　This is the essence of my string puppetry.
+52,0,Alice0d,Everyone/ gather round.
+52,1,Alice4c,Let's begin our rehearsal.
+52,2,Alice0a,We'll begin with some light steps...
+52,3,Alice0a,Once you've grasped the rhythm/ go for it!
+52,4,Alice0b,Sometimes you must be brave...
+52,5,Alice0c,Never hesitate to dance boldly!
+52,6,Alice0b,And if we all put our hearts into it...
+52,7,Alice1a,It WILL be beautiful.
+52,8,Alice0d,If that's all we can do/ then that's perfectly fine.
+53,0,Alice1a,I'll show you a flawless performance!
+53,1,Alice1c,Our show begins.
+53,2,Alice1a,Let's dance/ Shanghai.
+53,3,Alice1c,Act 1...!
+53,4,Alice1a,Act 2...!
+53,5,Alice1a,Dance/ Hourai!
+53,6,Alice1a,Act 3!
+53,7,Alice1a,Finale!
+53,8,Alice0b,I'll leave the final scene to you.
+54,0,Alice4a,My hands are tied.
+55,0,Alice1a,I'll remember this for later.
+56,0,Alice1c,Just buying time...
+57,0,Alice0b,If I just need to dodge/ I can.
+58,0,Alice4a,Even my dolls can't reach...
+59,0,Alice1c,Staying out of my range? Clever.
+60,0,Alice1c,Enjoy it while you still can.
+61,0,Alice1a,How DARE you!
+62,0,Alice0b,I'll take the good part.
+63,0,Alice1a,Don't complain/ now.
+64,0,Alice0a,Coordination is key to proper planning.
+65,0,Alice2b,You missed a spot.
+66,0,Alice0a,I'll hit them in the same spot.
+67,0,Alice1a,You've gone too far forward!
+68,0,Alice0c,You get one/ okay?\n　Next time/ protect yourself!
+69,0,Alice1a,Watch where you're going!
+70,0,Alice1a,I'll lay down my threads for you.
+71,0,Alice1c,Concentrate on defeating the enemy.
+72,0,Alice0a,I'm fine with this/ but don't push it.
+73,0,Alice0d,I believe targetting them would be most efficient.
+74,0,Alice1a,I'll try to create an opening!
+75,0,Alice2b,Don't lose your head in the violence.
+76,0,Alice0d,My preparations are complete.
+77,0,Alice0d,Attack as you will. I'll follow suit.
+78,0,Alice1a,My dolls will pin them down!
+79,0,Alice2b,Try not to hit my dolls.
+80,0,Alice1a,Let's make this an exciting climax!
+81,0,Alice1a,Our rhythms line up beautifully!
+82,0,Alice1a,Combinations are my specialty!
+83,0,Alice1a,How DARE you hurt Medi!
+84,0,Alice0d,Medi/ link up with me.
+85,0,Alice1a,Medi/ leave the rest to me!
+86,0,Alice1a,Medi/ look out!
+87,0,Alice2b,Be careful out there/ Medi.
+88,0,Alice1a,Follow my dolls/ Medi.
+89,0,Alice1a,Attack however you please/ Medi!
+90,0,Alice0d,Medi/ I'm with you.
+91,0,Alice1a,Let's get them/ Medi!
+92,0,Alice1a,Medi/ I'll pin them down!
+93,0,Alice1a,My dolls can match Medi's rhythm!
+94,0,Alice2b,Let's combine our firepower/ Medi!
+95,0,Alice1a,I'll live up to Medi's expectations!
+96,0,Alice4b,Mom/ no...
+97,0,Alice4a,Mom's too nice/ so I'll handle this.
+98,0,Alice1a,Mom/ leave the rest to me!
+99,0,Alice2b,Watch out for yourself too/ Mom!
+100,0,Alice1a,Mom/ look out!
+101,0,Alice0a,Make sure you follow through/ Mom
+102,0,Alice1a,Concentrate on defeating the enemy/ Mom!
+103,0,Alice1a,Let's target this one/ Mom!
+104,0,Alice2b,Don't overwork yourself/ Mom!
+105,0,Alice1a,I'm heading in first/ Mom!
+106,0,Alice1a,Let's fight together/ Mom.
+107,0,Alice1a,Let's combine our magic/ Mom!
+108,0,Alice2b,Don't overdo it/ Mom!
+109,0,Alice1a,You made a huge mistake/ targetting Yumeko!
+110,0,Alice1c,I can handle this much/ Yumeko.
+111,0,Alice1a,Let's work together on this/ Yumeko!
+112,0,Alice0a,Please/ take of yourself Yumeko.
+113,0,Alice1a,This isn't like you/ Yumeko!
+114,0,Alice1a,Yumeko/ I'll make an opening!
+115,0,Alice0b,Don't overwork yourself/ Yumeko.
+116,0,Alice1c,I doubt Yumeko needs the help/ but even so...
+117,0,Alice1a,I'll follow your lead/ Yumeko!
+118,0,Alice1a,I'll support you/ Yumeko!
+119,0,Alice1a,Let's combine our magic/ Yumeko!
+120,0,Alice1a,Don't overdo it/ Yumeko!
+121,0,Alice2b,I hope I can keep up with Yumeko...
+122,0,Alice1a,You made a huge mistake/ targetting Marisa!
+123,0,Alice0b,Marisa's endgame is as poor as ever.
+124,0,Alice2b,Marisa/ leave the rest to me!
+125,0,Alice2b,Marisa/ are you even trying to dodge?
+126,0,Alice1a,Watch where you're going/ Marisa!
+127,0,Alice0a,If your lasers singe my dolls/ I'll be VERY cross.
+128,0,Alice0d,Set the pace/ Marisa. I'll match you.
+129,0,Alice1a,Come on/ go for it!
+130,0,Alice1a,Marisa/ I'm taking the shot!
+131,0,Alice1a,Don't overwork yourself/ Marisa!
+132,0,Alice1a,Marisa/ I'll make an opening!
+133,0,Alice1c,Let's target this one/ Marisa!
+134,0,Alice1a,Just keep doing what you're doing/ Marisa!
+135,0,Alice1a,Time for the climax/ Marisa!
+136,0,Alice1a,Let's combine our magic/ Marisa!
+137,0,Alice1a,You made a huge mistake/ targetting Reimu!
+138,0,Alice0a,Reimu/ leave the rest to me.
+139,0,Alice1a,I'll try to match Reimu's pace!
+140,0,Alice2b,Don't over-rely on your intuition.
+141,0,Alice2b,Reimu/ did you let your guard down?
+142,0,Alice2b,This isn't like you/ Reimu.
+143,0,Alice1a,Quit flying so far ahead/ Reimu!
+144,0,Alice1a,I'm counting on your intuition again/ Reimu!
+145,0,Alice1a,I'll match Reimu's pace!
+146,0,Alice1a,Let's target this one/ Reimu!
+147,0,Alice1b,Don't overdo it/ Reimu!
+148,0,Alice1a,Reimu/ I'll make an opening!
+149,0,Alice0b,Remember Reimu/ right now we're a duet.
+150,0,Alice4a,Matching Reimu's pace is pretty tough...
+151,0,Alice1b,Hey/ don't go picking a direction on a hunch!
+152,0,Alice1a,Let's force their hand/ Reimu!
+153,0,Alice1a,Let's end this show/ Reimu!
+154,0,Alice1a,Reimu/ we're pairing up!
+155,0,Alice1a,You'll regret taking advantage of Nitori's kindness!
+156,0,Alice2b,Your weapons still need some polish.
+157,0,Alice0d,You weren't thorough enough/ Nitori.
+158,0,Alice1a,Nitori/ look out!
+159,0,Alice1a,Nitori/ watch where you're going!
+160,0,Alice0d,Set the pace/ Nitori. I'll match you.
+161,0,Alice0d,Let's do this efficiently/ Nitori!
+162,0,Alice1a,Nitori/ I'll make an opening!
+163,0,Alice0a,Swap with me if things get too dangerous/ Nitori.
+164,0,Alice2b,Don't hit my dolls/ Nitori!
+165,0,Alice1a,Time for the climax/ Nitori!
+166,0,Alice1a,I think I can match your weapons!
+167,0,Alice1a,Nitori/ we're pairing up!
+168,0,Alice1a,You underestimated our solidarity as witches!
+169,0,Alice0a,Patchouli/ I'll take care of any remaining foes.
+170,0,Alice1a,I'll take a crack it as well/ Patchouli!
+171,0,Alice2a,It's nice your so focused/ but still...!
+172,0,Alice1a,I'll follow up/ Patchouli!
+173,0,Alice0a,Focus on chanting/ I'll pin them down.
+174,0,Alice0d,As fellow witches/ let's cooperate.
+175,0,Alice2b,Try not to hit my dolls/ Patchouli.
+176,0,Alice1a,I'll match your timing/ Patchouli!
+177,0,Alice1a,We can do this efficiently/ Patchouli!
+178,0,Alice1a,Let's do this/ as fellow magicians!
+179,0,Alice0d,Let's combine our magic/ Patchouli!
+180,0,Alice1a,Time for the climax/ Patchouli!
+181,0,Alice1a,Patchouli/ we're pairing up!
+182,0,Alice1a,This one's for Keine!
+183,0,Alice2b,Keine/ can you scooch over?
+184,0,Alice1a,Leave the rest to me/ Keine!
+185,0,Alice1a,I'll follow up/ Keine!
+186,0,Alice1c,Careful/ Keine!
+187,0,Alice0a,I'll be watching and learning/ Keine.
+188,0,Alice1a,That's our target? Got it/ Keine.
+189,0,Alice1a,Keine/ follow me!
+190,0,Alice0d,Let's do this efficiently/ Keine!
+191,0,Alice1a,Keine/ I'll make an opening!
+192,0,Alice1a,Time for the climax/ Keine!
+193,0,Alice1a,Keep doing what you're doing/ Keine!
+194,0,Alice1a,Keine/ we're pairing up!
+195,0,Alice2a,What was THAT about/ Yuuka?
+196,0,Alice1c,Is this your way of telling me to fight?
+197,0,Alice1a,If Yuuka can't do it/ then I will.
+198,0,Alice1a,Yuuka/ look out!
+199,0,Alice1a,Could you at least PRETEND to care?!
+200,0,Alice1a,Yuuka/ I'll make an opening!
+201,0,Alice0a,I'll match your timing/ Yuuka.
+202,0,Alice1c,Let's do this efficiently/ Yuuka.
+203,0,Alice0c,You of all people can handle this/ right?
+204,0,Alice1a,Yuuka can handle the rest!
+205,0,Alice1a,I'm counting on you/ Yuuka!
+206,0,Alice1a,You know what I'm planning/ right Yuuka?
+207,0,Alice1a,Time for the climax/ Yuuka!
+208,0,Alice1a,Yuuka/ we're pairing up!
+209,0,Alice2a,I can't believe Elly did that for me...!
+210,0,Alice0c,I'll finish this mess/ Elly.
+211,0,Alice2b,You're fine with me stepping in/ right Elly?
+212,0,Alice0b,Not much of a gatekeeper/ are you?
+213,0,Alice0c,You're too distracted/ Elly!
+214,0,Alice1a,Elly/ follow me!
+215,0,Alice0a,You take the final blow/ Elly.
+216,0,Alice2b,If you're REALLY sure about this Elly/\n　I'll follow along.
+217,0,Alice0b,Take your credit/ or whatever it is you want.
+218,0,Alice1a,Don't get distracted now/ Ellu!
+219,0,Alice0c,No complaints/ right Elly?
+220,0,Alice1a,Keep it up/ Elly!
+221,0,Alice0c,Come on/ you're desperate for Yuuka's praise/ right?
+222,0,Alice1a,Time for the climax/ Elly!
+223,0,Alice1a,Elly/ we're pairing up!
+224,0,Alice2a,Kurumi! How'd it come to this...
+225,0,Alice1a,Leave the rest to me/ Kurumi!
+226,0,Alice1a,Well/ someone's got to look out for Kurumi!
+227,0,Alice1c,Kurumi/ I know you're trying hard/ but...
+228,0,Alice1a,Kurumi/ look out!
+229,0,Alice0d,Try to put what Yuuka taught you into practice.
+230,0,Alice1a,Kurumi/ I'm following your lead!
+231,0,Alice0b,I'll make sure Kurumi stays out of trouble.
+232,0,Alice1a,Kurumi/ follow me!
+233,0,Alice1a,Keep your eyes on the prize/ Kurumi!
+234,0,Alice0c,Come on/ you're desperate for Yuuka's praise/ right?
+235,0,Alice1a,Time for the climax/ Kurumi!
+236,0,Alice1a,Kurumi!/ we're pairing up!
+237,0,Alice1a,What are you doing to my dolls?!
+238,0,Alice1c,You did well/ Hourai.
+239,0,Alice1c,You did well/ Shanghai.
+240,0,Alice1a,Don't be so rough with my dolls!
+241,0,Alice0a,Seems my doll caught your attention.
+242,0,Alice0c,My dolls are my limbs.\n　I can even launch attacks from their space.
+243,0,Alice1c,I take good care of my dolls.
+244,0,Alice1a,I won't allow you to harm my dolls.
+245,0,Alice0b,Danmaku's all about brains.\n　That's just common sense.
+246,0,Alice0b,I saw right through that danmaku!
+247,0,Alice0b,I can't falter here!
+248,0,Alice0c,Ineffective/ I'd have to say.
+249,0,Alice1c,I can't be bothered with all the small fry.
+250,0,Alice0b,Oh dear/ you've dirtied my clothes.
+251,0,Alice0a,Even I can handle this much damage.
+252,0,Alice4a,Marisa's going to mock me/ at this rate.
+253,0,Alice2a,I misjudged your abilities...
+254,0,Alice1b,I'm being trifled with...?!
+255,0,Alice1c,I need a plan/ and fast...
+256,0,Alice2a,Just slow down/ and think...!
+257,0,Alice2a,I'm all out of options...?!
+258,0,Alice4a,I underestimated you...
+259,0,Alice2a,Hyah?!
+260,0,Alice1a,Don't get cocky!
+261,0,Alice2a,Ahh/ geez!
+262,0,Alice2b,Nearly had me there...
+263,0,Alice1c,I can't believe I'm forced to block...
+264,0,Alice1c,At least I reduced the damage.
+265,0,Alice0c,This much is nothing to write home about.
+266,0,Alice1a,Well/ at least my dolls are fine.
+267,0,Alice1c,I need to do more research.
+268,0,Alice4a,...Calm down/ and plan out your next moves.
+269,0,Alice0a,You could do with a little more precision.
+270,0,Alice2b,Even a fairy could dodge that.
+271,0,Alice0b,Danmaku's all about brains.\n　That's just common sense.
+272,0,Alice1a,This is how you avoid danmaku.
+273,0,Alice0a,I read the pattern.
+274,0,Alice0a,You can't beat me with just power.
+275,0,Alice0a,I can keep this up.
+276,0,Alice0b,Exactly as I calculated it.
+277,0,Alice0a,I'm familiar with this move.
+278,0,Alice0b,Too obvious.
+279,0,Alice2b,Nice try/ but no.
+280,0,Alice1c,I don't have time for your games.
+281,0,Alice0c,I think I'm a bit outside your league.
+282,0,Alice1c,Can't let my guard down just yet.
+283,0,Alice0c,Exactly according to plan.
+284,0,Alice1c,I'll be going first/ actually.
+285,0,Alice0b,If you know the mind of your opponent/ this much is simple.
+286,0,Alice1c,That won't work.
+287,0,Alice4c,Teehee/ this actually feels pretty nice.
+288,0,Alice0c,So/ what's next?
+289,0,Alice2a,Goodness/ they're strong. What a bother.
+290,0,Alice2a,I'll leave it at that for now...
+291,0,Alice4a,My dolls are practically falling apart.\n　Where's my sewing needle...
+292,0,Alice0a,Sorry/ I'm taking the rest of the day off.
+293,0,Alice2a,This is awful...
+294,0,Alice4a,My skills weren't up to the task..
+295,0,Alice2b,Sorry/ but I need to rest up.
+296,0,Alice4a,Their side just wanted it more/ I suppose.
+297,0,Alice1c,I'll shut that smooth-talking mouth of yours.
+298,0,Alice1a,You'll regret tricking me.
+299,0,Alice1a,You need to be punished!
+300,0,Alice1a,Return what you stole!
+301,0,Alice1a,You'll regret tricking me.
+302,0,Alice0a,I hope I don't break that cup...
+303,0,Alice1c,Rather shameless/ aren't you?
+304,0,Alice4a,I must've gotten rusty/ with all this bad weather.
+305,0,Alice1a,If you break anything/ you WILL pay for it.
+306,0,Alice1a,You need to be punished!
+307,0,Alice1a,If you break anything/ you WILL pay for it.
+308,0,Alice1b,Stop struggling!
+309,0,Alice1c,Please don't drop that...
+310,0,Alice1c,We'll have to rough you up a bit.
+311,0,Alice0b,Now that we've caught up/ your luck's run out.
+312,0,Alice2a,Quite the superhuman trick.
+313,0,Alice1c,You're quite skilled yourself...!
+314,0,Alice2a,You're quite skilled yourself...!
+315,0,Alice1c,You're strong/ but I can handle it.
+316,0,Alice0b,You're a dangerous woman/ aren't you?
+317,0,Alice0b,If you want to run/ I won't stop you.
+318,0,Alice0b,I won't be TOO violent with you.
+319,0,Alice0b,If you refuse to listen/ then you force my hand.
+320,0,Alice0a,I suppose we'll have to beat some sense into you.
+321,0,Alice1a,Behave yourself!
+322,0,Alice1a,You've forced my hand.
+323,0,Alice2a,...Pretty good/ for a fairy.
+324,0,Alice1c,Your ability's no joke/ I see.
+325,0,Alice0a,Is this some kind of advanced mindgame/ or what?
+326,0,Alice1c,Show me the power of the tengu.
+327,0,Alice1a,How shall I torment you?
+328,0,Alice1a,You've forced my hand.
+329,0,Alice2a,I'd expect nothing less from a tengu.
+330,0,Alice1a,Don't get cocky!
+331,0,Alice1c,I can't believe I'm forced to block...
+332,0,Alice1c,I can't let my guard down just yet.
+333,0,Alice1c,Think you can defend your gate from an army of dolls?
+334,0,Alice1c,She seems a little slow/ but you can never be too careful.
+335,0,Alice2a,Her strength's no joke...!
+336,0,Alice2a,If I get caught in her rhythm/ I'll lose...!
+337,0,Alice0a,You can't just rely on brute strength.
+338,0,Alice1c,I'll have to keep my distance from this one...
+339,0,Alice0a,I'll show you some of my techniques as well.
+340,0,Alice1a,Your magic is impressive/ but it's not enough!
+341,0,Alice2a,I'm at a disadvantage in a shoot-out...
+342,0,Alice1c,I'm surprised to meet a magician of such skill.
+343,0,Alice0c,Have all those books made you cross-eyed?
+344,0,Alice0a,This is worth it just to see more of your magic.
+345,0,Alice1a,I can't afford to hold back against you!
+346,0,Alice1a,Come along quietly!
+347,0,Alice1c,You've forced my hand.
+348,0,Alice4a,I could have done without seeing YOU again...
+349,0,Alice1c,I figured we'd wind up fighting you...
+350,0,Alice1a,Honestly/ why are you even here?
+351,0,Alice2a,So much for just watching...!
+352,0,Alice0c,Oh? Have you gotten even slower?
+353,0,Alice2a,As outlandish as ever...
+354,0,Alice1c,Now/ why don't we start exorcising this devil?
+355,0,Alice1a,Even a vampire can't keep going forever!
+356,0,Alice1a,Are my skills are enough to best a vampire?\n　Let's find out!
+357,0,Alice1a,I can't afford to let this chance slip by!
+358,0,Alice2a,As you'd expect from this mansion's master...\n　Her power's the real deal.
+359,0,Alice2a,Ow! You're not all talk/ I see!
+360,0,Alice1c,Even a single hit from her might take me out.
+361,0,Alice2a,I don't know if I can keep this up...!
+362,0,Alice1a,If it's the same magic as before/ we should be able to handle it.
+363,0,Alice1a,We don't have time for you right now!
+364,0,Alice0c,You really can't force these things.
+365,0,Alice0c,You weren't nearly this reckless before.
+366,0,Alice0a,Why're you on the fairies' side?
+367,0,Alice0d,I won't be TOO violent with you.
+368,0,Alice0a,You should play somewhere else.
+369,0,Alice0c,Think a little before you attack.
+370,0,Alice2b,Oh/ are you going easy on me?
+371,0,Alice0d,I won't be TOO violent with you.
+372,0,Alice1c,I suppose we'll have to beat some sense into you.
+373,0,Alice0c,Think a little before you attack.
+374,0,Alice2b,Oh/ are you going easy on me?
+375,0,Alice1c,I suppose we'll have to beat some sense into you.
+376,0,Alice0d,I won't be TOO violent with you.
+377,0,Alice0a,Will you three grow up already?\n　For goodness' sake.
+378,0,Alice2a,Not bad/ for a fairy.
+379,0,Alice1b,Any more of that and NOBODY will be laughing.
+380,0,Alice1a,I don't have time for your games.
+381,0,Alice0c,Too obvious.
+382,0,Alice1c,I can't say I appreciate how you took advantage of us.
+383,0,Alice1a,If that's how you feel/ then I won't hold back.
+384,0,Alice1a,I'll shoot right through her magic!
+385,0,Alice1a,Between the two of us/ not even that magician can compare.
+386,0,Alice2a,So this time she's serious...?
+387,0,Alice1c,Seems like you really want to drive us off.
+388,0,Alice1c,If we can't get her to behave/ then...
+389,0,Alice1a,You're full of openings!
+390,0,Alice2a,As you'd expect from her sister/\n　her power's off the charts.
+391,0,Alice1c,She's practically the embodiment of destruction.
+392,0,Alice2b,I'm in for more than just a little pain if she hits me.
+393,0,Alice2a,I shudder to imagine that hitting me...
+394,0,Alice0d,I won't be TOO violent with you.
+395,0,Alice0d,Fine/ I'll keep you occupied.
+396,0,Alice2a,I see you've improved/ Cirno.
+397,0,Alice2b,Oh? Have you been practicing?
+398,0,Alice2b,Oh/ are you going easy on me?
+399,0,Alice0c,You've got a long ways to go.
+400,0,Alice1a,See if you can handle my techniques!
+401,0,Alice0b,How shall I torment you?
+402,0,Alice0c,You're too careless.
+403,0,Alice0d,A danmaku fight with a god/ hm?\n　A rare experience/ indeed.
+404,0,Alice0a,Honestly/ I'm starting to feel bad about this...
+405,0,Alice2b,I hope this doesn't count as sinning.
+406,0,Alice2a,Oof/ they're throwing off my rhythm.
+407,0,Alice0a,So this danmaku represents autumn?\n　It's certainly... unique.
+408,0,Alice2b,You're not much of a fighter/ are you?
+409,0,Alice0c,That was... unique/ I suppose.
+410,0,Alice1c,I won't hold back in a fight.\n　That's just the way I am.
+411,0,Alice4b,Nitori... let's do this.
+412,0,Alice2a,I can't let you take me down...!
+413,0,Alice2a,Nice one/ Nitori...
+414,0,Alice1a,You can't stop us like that.
+415,0,Alice1c,You're wavering/ Nitori.
+416,0,Alice0b,I'm getting used to fighting tengu.
+417,0,Alice1a,If that's how you mountain youkai want to play it/ then fine!
+418,0,Alice1a,Please/ stay out of our way!
+419,0,Alice2c,She's gotten close... that's not good.
+420,0,Alice2a,Ngh/ her power's for real.
+421,0,Alice0b,Exactly as I calculated it.
+422,0,Alice0c,You're a little TOO precise.
+423,0,Alice1a,If I get a bead on her/ I think I can hit her.
+424,0,Alice1c,You're tougher than the other tengu/ that's for sure.
+425,0,Alice2a,I couldn't avoid it?!
+426,0,Alice1b,Ngh/ her power's for real.
+427,0,Alice0c,I think I'm a bit outside your league.
+428,0,Alice1c,I can read your moves.
+429,0,Alice1c,Step aside.
+430,0,Alice1a,She's even better than before...!
+431,0,Alice2a,Is this the power of a god...?!
+432,0,Alice2a,I misjudged your abilities...
+433,0,Alice1c,You can't stop us like that.
+434,0,Alice0c,Exactly as I calculated it.
+435,0,Alice1a,You'll regret messing with Reimu and the others.
+436,0,Alice1c,Are my skills are enough to best a god?\n　Let's find out!
+437,0,Alice2a,She makes all the other gods we've faced up til now look like jokes.
+438,0,Alice1c,Is this the power of a god...?!
+439,0,Alice2a,Ngh/ this pressure is intense...
+440,0,Alice0c,Exactly as I calculated it.
+441,0,Alice1c,Our ties to you all end here.
+442,0,Alice1c,Are my skills are enough to best a god?\n　Let's find out!
+443,0,Alice2b,She's far stronger than she looks...
+444,0,Alice2b,Is this the power of a god...?!
+445,0,Alice2a,This ominous aura...\n　If we linger too long/ we'll lose.
+446,0,Alice0c,Exactly as I calculated it.
+447,0,Alice1b,I won't turn down a rare opportunity.
+448,0,Alice1c,Are my skills are enough to best an oni?\n　Let's find out!
+449,0,Alice1a,She can read my moves?!
+450,0,Alice2a,Wha—what strength...!
+451,0,Alice1b,You're too straightforward.
+452,0,Alice0c,Too obvious.
+453,0,Alice2b,This is almost going TOO smoothly...
+454,0,Alice0b,Looks like we'll be heading home early today.
+455,0,Alice2b,She's faster than she looks...!
+456,0,Alice4a,Even I can't stand this cold...
+457,0,Alice1a,Decent aim/ but not decent enough!
+458,0,Alice0a,That might've frozen me solid/ if it actually hit.
+459,0,Alice1c,I'll have to rough you up a bit.
+460,0,Alice1a,Talk to us/ Youmu!
+461,0,Alice2a,I'd expect nothing less/ Youmu.
+462,0,Alice1c,Ngh/ what are you trying to accomplish?
+463,0,Alice0c,Exactly as I calculated it.
+464,0,Alice0a,Are you hesitating?
+465,0,Alice1c,Sorry/ but we're in a hurry here.
+466,0,Alice1b,We really don't have time for this...
+467,0,Alice2a,You're stronger than you look.
+468,0,Alice1a,Is this the power of an Underworld youkai...?!
+469,0,Alice2b,Are you having trouble aiming?
+470,0,Alice2b,I think I'm a bit outside your league.
+471,0,Alice1c,Sorry/ but we're in a hurry here.
+472,0,Alice1a,We really just want to go home.
+473,0,Alice2a,I can't afford to lose here...!
+474,0,Alice2a,Is this the power of an Underworld youkai...?!
+475,0,Alice0c,I'll try not to hit your instrument.
+476,0,Alice1c,Shall we see who has the faster hands?
+477,0,Alice1b,You're a bit too boisterous for my tastes.
+478,0,Alice0c,I'll try not to hit your instrument.
+479,0,Alice0c,I'll try not to hit your instrument.
+480,0,Alice1c,If you interfere with our investigation/\n　don't expect me to hold back.
+481,0,Alice1a,Shall we see who has the fastest hands?
+482,0,Alice0c,I'll try not to hit your instrument.
+483,0,Alice1a,Don't expect mercy if you get in our way.
+484,0,Alice0b,You're like an open book.
+485,0,Alice1a,I can follow your moves.
+486,0,Alice0c,I think I'm a bit outside your league.
+487,0,Alice2a,The first to show weakness loses...!
+488,0,Alice1c,I can't afford to be careless with her...
+489,0,Alice0c,You're a little TOO precise.
+490,0,Alice1c,As fast as you are/ if I can just get a sense of your timing...
+491,0,Alice1a,For the sake of our investigation/\n　you're going down.
+492,0,Alice1a,This time/ we'll make you listen to reason.
+493,0,Alice2a,Youmu's serious about this...!
+494,0,Alice1c,You've gotten even better/ Youmu.
+495,0,Alice1a,I've seen your moves before.
+496,0,Alice1a,Looks like you're not hesitating anymore/ Youmu.
+497,0,Alice1a,We'll solve the incident/ here and now...!
+498,0,Alice1c,This is a good opportunity to test my skills.
+499,0,Alice1a,One of the oldest great youkai...\n　Let's see if my skills are up to the test.
+500,0,Alice2a,This one's hard to deal with...
+501,0,Alice2b,Ngh/ I can't grasp her moves at all...!
+502,0,Alice2b,Is she even more skillful than me...?
+503,0,Alice4a,Can't you get drunk somewhere else?
+504,0,Alice4a,I'd prefer if you left the testing and training to Reimu and the others.
+505,0,Alice1b,Hey! Don't crush my dolls!
+506,0,Alice2b,This is how you celebrate...?
+507,0,Alice2a,I can't help but feel you're holding back...
+508,0,Alice0b,Strength alone won't cut it.
+509,0,Alice0a,Do you know who that rabbit was?
+510,0,Alice2b,Alright children/ run along home now.
+511,0,Alice2a,Ouch/ they've been practicing...
+512,0,Alice2a,That's one prank too far!
+513,0,Alice1b,You're much too headstrong.
+514,0,Alice0b,I can tell you've been practicing/ at least.
+515,0,Alice0d,Looks like you've gotten stronger too.
+516,0,Alice2b,I wonder if I can still follow your moves...
+517,0,Alice4a,I wish you'd just back down/ Keine...
+518,0,Alice4b,Do we really have to do this/ Keine?
+519,0,Alice2a,I'm putting my dolls through the wringer here...!
+520,0,Alice1a,With enough numbers/ even a god can be overwhelmed!
+521,0,Alice1a,I can't afford to get hit here!
+522,0,Alice1a,Her aim's pretty monotonous/ hm?\n　Then I have a chance!
+523,0,Alice0a,Don't go too far with your pranks/ okay?
+524,0,Alice2b,Since you all get along so well/\n　why don't you try cooperating more?
+525,0,Alice0a,It's a little unsettling seeing someone like you hanging out with them/ I must admit.
+526,0,Alice2b,I hope you yourself aren't a bad omen.
+527,0,Alice1a,You're not causing an incident on my watch.
+528,0,Alice0a,An incident caused by your ability would be far too dangerous.
+529,0,Alice1a,You're going to tell us everything you know!
+530,0,Alice1a,Don't expect to make my dolls fall asleep!
+531,0,Alice1a,I really don't want to hurt you...!
+532,0,Alice1a,We'll calm you down by force!
+533,0,Alice1a,What are you up to/ Yuuka?!
+534,0,Alice1c,I have no reason to fight you/ but...
+535,0,Alice2a,I'm sorry about this/ Yumeko...!
+536,0,Alice1a,Yumeko/ please step aside!
+537,0,Alice4a,I don't want to fight you Mom/\n　but I will if I have to...
+538,0,Alice2a,I understand how you feel Mom/ but even so...!
+539,0,Alice1a,I'll catch you soon enough/ Mehko!
+540,0,Alice1a,Don't expect to make my dolls fall asleep!
+541,0,Alice0c,Dolls these twisted belong in a third-rate show.
+542,0,Alice1a,You won't shake our resolve like this!
+543,0,Alice1a,Alright/ Yuuka.\n　I'll see this through to the end.
+544,0,Alice1a,Yuuka's finally going all-out/\n　so I'll bring out my best as well!
+545,0,Alice1a,Don't expect to make my dolls fall asleep!
+546,0,Alice1a,Get out of our way/ Mehko!
+547,0,Alice1c,I can't predict such unstable power...
+548,0,Alice4a,I'll have to capture you with a doll.
+549,0,Alice1a,Let's settle this/ Makura.
+550,0,Alice1a,This is the final battle.\n　My dolls will do their best/ too!
+551,0,Alice1a,Makura Muwatari/ I won't let you have your way with everyone's dreams!
+552,0,Alice1a,Ready?\n　This is the real final act.
+553,0,Alice1a,Let's settle this/ Shitone.
+554,0,Alice1a,Shitone! I won't let you have your way any longer!
+555,0,Alice1a,This is the final battle.\n　My dolls will do their best/ too!
+556,0,Alice1a,That's enough/ Marisa!
+557,0,Alice4a,So this is what Patchouli was talking about...
+558,0,Alice2b,You cause trouble anywhere you go/ don't you?
+559,0,Alice0a,I'll try to follow Reimu's moves!
+560,0,Alice0a,I'll try to read her danmaku!
+561,0,Alice0a,Take this at least somewhat seriously/ Marisa.
+562,0,Alice0a,How's your research been going lately?
+563,0,Alice0a,Keine always just goes along with this stuff...
+564,0,Alice0a,I can't let my guard down against Keine.
+565,0,Alice0a,Seems you need to be taught a lesson/ Yuuka.
+566,0,Alice0a,I'm going all-out today/ Yuuka!
+567,0,Alice0a,I'll follow up/ Mehko!
+568,0,Alice0a,You just needed a little bit extra/ Mehko.
+569,0,Alice0a,You're rushing too far ahead/ Mehko!
+570,0,Alice0a,Pay attention to your surroundings/ Mehko.
+571,0,Alice0a,I'll follow up/ Makura!
+572,0,Alice0a,You just needed a little bit extra/ Makura.
+573,0,Alice0a,Pay attention to your surroundings/ Makura.
+574,0,Alice0a,You're not falling asleep/ are you?
+575,0,Alice1a,I'll show you a flawless performance!
+575,1,Alice1c,Our show begins.
+575,2,Alice1a,Let's dance/ Shanghai.
+575,3,Alice1c,Act 1...!
+575,4,Alice1a,Act 2...!
+575,5,Alice1a,Dance/ Hourai!
+575,6,Alice1a,Act 3!
+575,7,Alice1a,Finale!
+575,8,Alice0b,I'll leave the final scene to you.

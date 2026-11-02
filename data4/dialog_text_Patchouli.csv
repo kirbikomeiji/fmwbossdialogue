@@ -1,0 +1,399 @@
+ID,LineID,face,dialog
+0,0,Patchouli0a,This kind of fighting isn't my forté...
+1,0,Patchouli0a,What a bother. This'll be enough/ right?
+2,0,Patchouli0a,The corner is the part that hurts.
+3,0,Patchouli0a,I don't intend this to take long.
+4,0,Patchouli0a,Allow me to return the favor.
+5,0,Patchouli0a,We're not done here yet.
+6,0,Patchouli0a,Allow me to demonstrate my magic.
+7,0,Patchouli0a,Careless movements may lead to your death.
+8,0,Patchouli0a,Let's see/ the most efficient way to take down this enemy would be...
+9,0,Patchouli0a,This is the kind of magic a real magician wields.
+10,0,Patchouli0a,Their movements are the same as I predicted...
+11,0,Patchouli0a,I didn't come here to chit-chat.
+12,0,Patchouli0a,I'd like to finish this up.
+13,0,Patchouli0a,It's best not to underestimate your opponents.
+14,0,Patchouli0a,Koakuma/ I'd like your assistance.
+15,0,Patchouli0a,Koakuma/ over here.
+16,0,Patchouli0a,This is my ultimate spell.
+17,0,Patchouli0a,I suppose I have to use this spell.
+18,0,Patchouli0a,Allow me to show you my greatest spell.
+19,0,Patchouli0a,The book might get damaged/ though...
+20,0,Patchouli0a,...It's fine/ this one already had a stain.
+21,0,Patchouli0a,Yah!
+22,0,Patchouli1a,Flame/ come forth.
+23,0,Patchouli1a,Spirits of Fire/ burn them!
+24,0,Patchouli1a,...Try not to burn my books.
+25,0,Patchouli1a,I suppose this can serve as a test for my spell's tracking.
+26,0,Patchouli1a,There are no blind spots in this spell.
+27,0,Patchouli1a,Omnidirectional Laser/ Firing.
+28,0,Patchouli1a,You won't be able to escape these lasers.
+29,0,Patchouli1a,For an isotropic spell/ direction is meaningless... which is to say/ it's nondirectional".
+30,0,Patchouli1a,...You've been rather irritating.
+31,0,Patchouli1a,Maybe this will cool your heels.
+32,0,Patchouli1a,Spirits of Water/ purify them!
+33,0,Patchouli1a,Perhaps this will quiet you.
+34,0,Patchouli1a,Spirits of Wood/ bolster the flame!
+34,1,Patchouli1a,Fire and Wood Sign: Royal Blaze.
+35,0,Patchouli1a,You won't get away from this.
+35,1,Patchouli1a,Spirits of Fire and Wood/ burn them to ashes!
+36,0,Patchouli1a,The might and spectacle of this spell is unquestionable.
+36,1,Patchouli1a,Forest Blaze.
+37,0,Patchouli1a,Burn bright...
+37,1,Patchouli1a,Fire and Wood Sign: Royal Blaze.
+38,0,Patchouli0a,Allow me to demonstrate one of my greatest spells.
+38,1,Patchouli0a,We're ready/ Koakuma?
+38,2,Koakuma0a,Yes/ Lady Patchouli!
+38,3,Koakuma0a,Establishing a Mana-boosting circle...
+38,4,Patchouli0a,Releasing Lunar Magic...
+38,5,Patchouli1a,Moon Sign: Silent Selene!
+39,0,Patchouli0a,If this hits/ you'll be in for it.
+39,1,Patchouli0a,Koakuma/ let's go.
+39,2,Koakuma0a,I'll handle the support role!
+39,3,Koakuma0a,I learned a spell for just this purpose...
+39,4,Patchouli0a,This is magic of the moon/ which returns all things to stillness.
+39,5,Patchouli1a,Moon Sign: Silent Selene!
+40,0,Patchouli0a,I didn't expect to have to ask for your help.
+40,1,Patchouli0a,Our target is that <EnRace>.
+40,2,Koakuma0a,Target acquisition complete!
+40,3,Koakuma0a,Elemental Field at maximal strength!
+40,4,Patchouli0a,Perhaps thou wilt find rest 'neath the quiet gaze of the moon...
+40,5,Patchouli1a,Moon Sign: Silent Selene!
+41,0,Patchouli0a,Beginning ultra-long range annihilation of the targets.
+41,1,Patchouli0a,Koakuma/ it's time.
+41,2,Koakuma0a,Of course/ I'll get that spell ready right away!
+41,3,Koakuma0a,With Lady Patchouli and I united as one...
+41,4,Patchouli0a,Don't get too caught up in the moment/ Koakuma.
+41,5,Patchouli0a,Silent Selene: Safety/ Release!
+42,0,Patchouli1a,O Solar Disk/ which sits in the heavens bestowing life...
+43,0,Patchouli1a,Position 445... Fire.
+44,0,Patchouli1a,Sun Sign: Royal Flare!
+45,0,Patchouli0a,O five-coloured stones which rule the five phases...
+45,1,Patchouli0a,Respond to my call and let your hidden wisdom now...
+45,2,Patchouli0a,Shine forth!
+45,3,Patchouli0a,Shine forth!
+45,4,Patchouli0a,Shine forth!
+45,5,Patchouli0a,Five Elements Sign...
+45,6,Patchouli1a,Philosopher's Stone!
+45,7,Patchouli0a,I had better record the results...
+46,0,Patchouli0a,O five-coloured stones which rule the five phases...
+46,1,Patchouli0a,Let your form serve as a locus/ binding into form the great spirits...
+46,2,Patchouli0a,Answer my call/ o manifold spirits!
+46,3,Patchouli0a,Answer my call/ o manifold spirits!
+46,4,Patchouli0a,Answer my call/ o manifold spirits!
+46,5,Patchouli0a,By the invocation of its name...
+46,6,Patchouli1a,Incantation Release: Philosopher's Stone!
+46,7,Patchouli0a,That went quite well/ actually.
+47,0,Patchouli0a,O five-coloured stones which rule the five phases...
+47,1,Patchouli0a,Reveal to us the power hidden within you...
+47,2,Patchouli0a,A power drawn in equal measure from each jewel...
+47,3,Patchouli0a,A power drawn in equal measure from each jewel...
+47,4,Patchouli0a,A power drawn in equal measure from each jewel...
+47,5,Patchouli0a,O source of flawless harmony...
+47,6,Patchouli1a,Shine forth/ Philosopher's Stone!
+47,7,Patchouli0a,That should do it.
+48,0,Patchouli0a,I think I'd best wait and see.
+49,0,Patchouli0a,I can't find a good angle...
+50,0,Patchouli0a,I can't believe I'm unable to counterattack...
+51,0,Patchouli0a,Fighting outside my range? I'm impressed.
+52,0,Patchouli0a,...Good job.
+53,0,Patchouli0a,Fall back. I'll add further insult to their injuries.
+54,0,Patchouli0a,I suppose in that case I'll have to take things at your pace.
+55,0,Patchouli0a,I won't let you withdraw cleanly.
+56,0,Patchouli0a,This sort of thing is my specialty.
+57,0,Patchouli0a,I hope you're not expecting too much from me.
+58,0,Patchouli0a,Retreat behind my barrier!
+59,0,Patchouli0a,I hope this satisfies you.
+60,0,Patchouli0a,...I guess I have to.
+61,0,Patchouli0a,I suppose I might as well add to their troubles.
+62,0,Patchouli0a,I'm aiming for that one.
+63,0,Patchouli0a,Picking them apart one-by-one is an effective tactic.
+64,0,Patchouli0a,If you keep lazing around/ you'll miss your shot.
+65,0,Patchouli0a,A fine choice/ in my opinion.
+66,0,Patchouli0a,That's an enemy we need to keep suppressed.
+67,0,Patchouli0a,Don't let yourself get lured too far away from me.
+68,0,Patchouli0a,Shoot them down―I'll provide supporting fire.
+69,0,Patchouli0a,Allow me to restrict their movements.
+70,0,Patchouli0a,We'll assuredly take them down now.
+71,0,Patchouli0a,My magical energy is peaking/ let's do this.
+72,0,Patchouli0a,Hybridizing one type of danmaku with another is my field of expertise.
+73,0,Patchouli0a,You're always so impulsive/ Kurumi...
+74,0,Patchouli0a,Kurumi/ let me add further insult to their injuries.
+75,0,Patchouli0a,Kurumi/ finish the job!
+76,0,Patchouli0a,Why am I having to protect you?!
+77,0,Patchouli0a,Just how foolish are you?
+78,0,Patchouli0a,Kurumi/ follow my lead.
+79,0,Patchouli0a,I'll provide you support―Show me what you can do.
+80,0,Patchouli0a,Come on/ you go in front.
+81,0,Patchouli0a,Kurumi/ aim for that target!
+82,0,Patchouli0a,I need to reserve some of my magic for later.
+83,0,Patchouli0a,Kurumi/ I'll harmonize my danmaku with yours.
+84,0,Patchouli0a,Kurumi/ boost my magic.
+85,0,Patchouli0a,Kurumi/ their defeat is now assured.
+86,0,Patchouli2a,You're too dedicated to your job...
+87,0,Patchouli0a,I know that's not your specialty/ Koakuma. You shouldn't push yourself too hard.
+88,0,Patchouli0a,Good job distracting them/ Koakuma.
+89,0,Patchouli0a,We're doing this backwards/ aren't we?
+90,0,Patchouli0a,Just how foolish are you?
+91,0,Patchouli0a,Koakuma/ follow my lead.
+92,0,Patchouli0a,Koakuma/ aim for that target!
+93,0,Patchouli0a,I don't like being out in front like this/ but I'd hate for Koakuma to get injured.
+94,0,Patchouli0a,Go on/ give it a try! I'll provide supporting fire for you.
+95,0,Patchouli0a,Don't push yourself too hard.
+96,0,Patchouli0a,Koakuma/ their defeat is now assured.
+97,0,Patchouli0a,Koakuma/ boost my magic.
+98,0,Patchouli0a,Koakuma/ remember not to push yourself too hard.
+99,0,Patchouli0a,Guarding someone who isn't even your employer... You really go above and beyond/ don't you?
+100,0,Patchouli0a,Meiling/ good job making an opening for me.
+101,0,Patchouli0a,Meiling/ please keep the target in place.
+102,0,Patchouli0a,This is going to take a lot out of me―you'd better remember you owe me.
+103,0,Patchouli0a,How exactly did I have to end up guarding you?
+104,0,Patchouli0a,Meiling/ follow my lead. We're doing this at my pace.
+105,0,Patchouli0a,Meiling/ you should find this easy once I make an opening for you.
+106,0,Patchouli0a,Come on/ you're supposed to be out in front!
+107,0,Patchouli0a,Meiling/ take them down.
+108,0,Patchouli0a,Meiling/ that's our target.
+109,0,Patchouli0a,Meiling/ I'll try to harmonize my danmaku with yours... somehow.
+110,0,Patchouli0a,We're more motivated than normal/ aren't we?
+111,0,Patchouli0a,I'll be firing at maximum power/ make sure it doesn't hit you.
+112,0,Patchouli0a,I have no idea how I'm going to explain this to Remi...
+113,0,Patchouli0a,Sakuya/ leave the rest to me.
+114,0,Patchouli0a,You did a great job herding them into my line of fire/ Sakuya.
+115,0,Patchouli0a,Retreat behind my barrier/ Sakuya!
+116,0,Patchouli0a,That's very unlike you/ Sakuya.
+117,0,Patchouli0a,Sakuya/ follow my lead. We're doing this at my pace.
+118,0,Patchouli0a,Sakuya/ I'll leave the decision of who we attack to you.
+119,0,Patchouli0a,Sakuya/ take them down.
+120,0,Patchouli0a,Don't vanish on me while you have time stopped/ okay?
+121,0,Patchouli0a,Sakuya/ that's our target.
+122,0,Patchouli0a,Sakuya/ let's give them one last push!
+123,0,Patchouli0a,Sakuya/ I'll harmonize my danmaku with yours.
+124,0,Patchouli0a,I'm fired up for this now/ Sakuya.
+125,0,Patchouli0a,I have no idea how I'm going to explain this to Remi...
+126,0,Patchouli0a,Thank you for distracting them/ Flan.
+127,0,Patchouli0a,Flan/ leave the rest to me.
+128,0,Patchouli0a,That was cutting it a bit close/ Flan.
+129,0,Patchouli0a,Try to pay more attention in battle/ Flan.
+130,0,Patchouli0a,Feel free to destroy them/ Flan.
+131,0,Patchouli0a,Flan/ I'm aiming at that one over there.
+132,0,Patchouli0a,Flan/ don't stray too far.
+133,0,Patchouli0a,There. Go have fun with them/ Flan!
+134,0,Patchouli0a,Flan/ don't cause too much of a ruckus.
+135,0,Patchouli0a,Both our levels of magic are surging!
+136,0,Patchouli0a,Flan/ their defeat is now assured.
+137,0,Patchouli0a,Go ahead/ Flan/ I won't tell you to settle down this time.
+138,0,Patchouli2a,Remi/ this is my fault...
+139,0,Patchouli0a,Remi/ the enemy is still up/ aren't they?
+140,0,Patchouli0a,Remi/ allow me to handle the rest.
+141,0,Patchouli0a,Remi/ that one looks like it might hurt.
+142,0,Patchouli0a,Remi/ you can't treat them with THAT much contempt.
+143,0,Patchouli0a,Remi/ please feel free to walk all over them.
+144,0,Patchouli0a,I know who your preferred target is/ Remi.
+145,0,Patchouli0a,It's exhausting keeping up with you/ Remi...
+146,0,Patchouli0a,Remi/ decide who we'll target.
+147,0,Patchouli0a,Remi/ remember not to be too headstrong.
+148,0,Patchouli0a,I suppose we should pull all the stops out/ Remi.
+149,0,Patchouli0a,Both our levels of magic are surging!
+150,0,Patchouli0a,Remi/ I'll harmonize my danmaku with yours.
+151,0,Patchouli0a,...Marisa/ that's a little too reckless/ even for you.
+152,0,Patchouli0a,Oh dear/ Marisa/ was your vaunted firepower a little lacking?
+153,0,Patchouli0a,Marisa/ I'll fire some followup shots.
+154,0,Patchouli0a,Marisa/ a magician needs to have a better sense for danger.
+155,0,Patchouli0a,This is what happens when you get tunnel vision/ Marisa.
+156,0,Patchouli0a,Marisa/ I'll keep their movement restricted.
+157,0,Patchouli0a,Marisa/ don't rush. There's sure to be a weak point in their defenses now.
+158,0,Patchouli0a,Getting dragged around behind you is exhausting...
+159,0,Patchouli0a,Marisa/ don't drag us too far forward...
+160,0,Patchouli0a,Marisa/ that's our target.
+161,0,Patchouli0a,Both our levels of magic are surging!
+162,0,Patchouli0a,Show me that firepower of yours.
+163,0,Patchouli0a,I think it'd be good if I showed you the epitome of danmaku harmonization.
+164,0,Patchouli2a,...Alice/ that was a little too reckless.
+165,0,Patchouli0a,You kept them pinned down nicely for me/ Alice.
+166,0,Patchouli0a,Allow me to fill in for your weaker points/ Alice.
+167,0,Patchouli0a,Next it's my turn/ Alice.
+168,0,Patchouli0a,I imagine that was a mistake on your part/ Alice?
+169,0,Patchouli0a,It's not like you to be so sloppy/ Alice.
+170,0,Patchouli0a,Alice/ remember to account for the support fire I'm giving you.
+171,0,Patchouli0a,Alice/ I'll leave our targeting up to your judgment.
+172,0,Patchouli0a,Alice/ I'll keep the enemy pinned down.
+173,0,Patchouli0a,Alice/ I'll follow your lead.
+174,0,Patchouli0a,You have a good head for this/ Alice.
+175,0,Patchouli0a,Both our levels of magic are surging!
+176,0,Patchouli0a,Alice/ their defeat is now assured.
+177,0,Patchouli0a,Alice/ let's harmonize our danmaku.
+178,0,Patchouli2a,...Nitori/ that was a little too reckless.
+179,0,Patchouli0a,Allow me to fill in for your weaker points/ Nitori.
+180,0,Patchouli0a,Nitori/ I'll take over here.
+181,0,Patchouli0a,Nitori/ you're carrying important gadgets of yours/ aren't you?
+182,0,Patchouli0a,You were distracted by something/ weren't you/ Nitori?
+183,0,Patchouli0a,Nitori/ tell me beforehand if you're going to dive under the water.
+184,0,Patchouli0a,Nitori/ I'll let you pick the target.
+185,0,Patchouli0a,You're not going to use anything that might cook off from this/ right?
+186,0,Patchouli0a,Nitori/ I'll keep the enemy pinned down.
+187,0,Patchouli0a,Nitori/ I'll follow your choice of targets.
+188,0,Patchouli0a,Nitori/ their defeat is now assured.
+189,0,Patchouli0a,Nitori/ show me your finest gadgets!
+190,0,Patchouli0a,Nitori/ let's combine our danmaku.
+191,0,Patchouli0a,Don't let this go to your head.
+192,0,Patchouli0a,My calculations were slightly off.
+193,0,Patchouli0a,Oh dear/ my clothes ended up rumpled...
+194,0,Patchouli0a,The odds stay in my favor.
+195,0,Patchouli2a,I'm being overwhelmed...
+196,0,Patchouli2a,There still has to be some method that'd work...
+197,0,Patchouli2a,I need to end this before they end me...
+198,0,Patchouli2a,You have to be kidding me...
+199,0,Patchouli2a,The situation can't be called favorable...
+200,0,Patchouli2a,I shouldn't have let their movements take me off guard...
+201,0,Patchouli2a,It won't be that simple.
+202,0,Patchouli0a,I don't like having to tough things out like this/ but...
+203,0,Patchouli0a,I suppose sometimes we just have to endure.
+204,0,Patchouli2a,I can't afford to do this often.
+205,0,Patchouli0a,You're the kind of opponent who might be able to defeat me.
+206,0,Patchouli0a,...That took a lot out of me.
+207,0,Patchouli0a,...I'll get you for that.
+208,0,Patchouli2a,If you damaged my book/ nothing will save you.
+209,0,Patchouli2a,How am I having trouble with someone like this?
+210,0,Patchouli0a,Dodging danmaku with the slightest possible movements goes something like this/ I think?
+211,0,Patchouli0a,If even I'm able to dodge this/ you must not be focusing enough.
+212,0,Patchouli0a,I can tell your heart's just not in it.
+213,0,Patchouli0a,That wasn't even in question.
+214,0,Patchouli0a,I want to make sure I get through this.
+215,0,Patchouli0a,Oh/ that went quite well.
+216,0,Patchouli0a,...That's not going to have any effect/ you know.
+217,0,Patchouli1a,There's not a chance that'd work.
+218,0,Patchouli1a,Perhaps you didn't realize that was futile until now.
+219,0,Patchouli1a,This is working just as I hypothesized.
+220,0,Patchouli1a,It's such a bother when they try to overwhelm you with sheer numbers...
+221,0,Patchouli1a,My magical barrier is flawless.
+222,0,Patchouli1a,An attack like that could never affect me.
+223,0,Patchouli0a,Parrying? There's no way I can do that...
+224,0,Patchouli0a,I would have preferred to have prevented the attack/ but...
+225,0,Patchouli0a,I'll be making the first move here.
+226,0,Patchouli2a,I wasn't up to it/ huh?
+227,0,Patchouli2a,Here's about where I run out of steam...
+228,0,Patchouli0a,I'm open-minded enough to admit when I'm defeated.
+229,0,Patchouli0a,That's about how this day has been going for me...
+230,0,Patchouli0a,I'm going to admit defeat. Please handle the rest for me.
+231,0,Patchouli0a,I lost? I must not have studied enough.
+232,0,Patchouli0a,The Mountain Shrine Maiden... let's see just how capable you are.
+233,0,Patchouli0a,You're the only human on that entire mountain of youkai/ huh.
+234,0,Patchouli2a,Your powers have noticably different characteristics than Reimu's.
+235,0,Patchouli2a,The other shrine maiden is stronger than I expected.
+236,0,Patchouli0a,Even against a deity/ my magic should...
+237,0,Patchouli0a,You have plenty of spirit energy to spare/ don't you? I'd best not let my guard down.
+238,0,Patchouli2a,What an amazing quantity of spiritual energy...
+239,0,Patchouli2a,So this is the power of a god? It's even stronger than what's written in my books.
+240,0,Patchouli0a,Even against a deity/ my magic should...
+241,0,Patchouli0a,I can sense endless reserves of power in you. I'd best not underestimate you based on your appearance.
+242,0,Patchouli2a,So this is the power of a god? It's even stronger than what's written in my books.
+243,0,Patchouli2a,What an amazing quantity of spiritual energy...
+244,0,Patchouli0a,Even against an oni/ my magic should...
+245,0,Patchouli0a,I don't have the first idea what kind of magic would work against you/ but...
+246,0,Patchouli2a,So you're strong/ then? That's a very easy-to-understand kind of power.
+247,0,Patchouli2a,I don't think I can stand up to you in a straight fight!
+248,0,Patchouli0a,I don't sense the kind of power in you necessary to draw out this winter/ but...
+249,0,Patchouli0a,I'd be pleased if we could finish this all up here...
+250,0,Patchouli2a,Brr/ it's cold. I want to go home soon.
+251,0,Patchouli2a,So you have the power of winter? What a bother to face you...
+252,0,Patchouli0a,I won't hold back against someone so suspicious.
+253,0,Patchouli0a,You need to relax more.
+254,0,Patchouli2a,Oof/ it's dangerous to make a careless move here.
+255,0,Patchouli2a,If you damaged my book/ nothing will save you.
+256,0,Patchouli0a,The most efficient way to exterminate a Tsurube-Otsohi is...
+257,0,Patchouli0a,Even against an Underworld youkai/ my magic should...
+258,0,Patchouli2a,Hey/ that hurts!
+259,0,Patchouli2a,I don't like it when people suddenly get close to me...
+260,0,Patchouli0a,The most efficient way to exterminate a Tsuchigumo is...
+261,0,Patchouli0a,Even against an Underworld youkai/ my magic should...
+262,0,Patchouli2a,It won't be that simple.
+263,0,Patchouli2a,I hope you don't make my asthma worse or something...
+264,0,Patchouli0a,You can embed magical energy within sound... what an interesting phenomenon.
+265,0,Patchouli0a,I wonder if that instrument will still make noise once I've broken it?
+266,0,Patchouli2a,There still has to be some method that'd work...
+267,0,Patchouli2a,It won't be that simple.
+268,0,Patchouli0a,I wonder if that instrument will still make noise once I've broken it?
+269,0,Patchouli0a,...You're being too loud.
+270,0,Patchouli2a,It won't be that simple.
+271,0,Patchouli2a,Hey/ that hurts!
+272,0,Patchouli0a,You can embed magical energy within sound... what an interesting phenomenon.
+273,0,Patchouli0a,...You're being too loud.
+274,0,Patchouli2a,There still has to be some method that'd work...
+275,0,Patchouli2a,Hey/ that hurts!
+276,0,Patchouli0a,They're emitting such intense waves of magic...
+277,0,Patchouli0a,Their three sounds are empowering each other... what a superb technique.
+278,0,Patchouli2a,Oof/ this noise is packed full of magic...
+279,0,Patchouli2a,I can't believe my magic could be exceeded/ even by three people at once...
+280,0,Patchouli0a,I can follow your movements just fine.
+281,0,Patchouli0a,The most efficient way to exterminate a Shikigami is...
+282,0,Patchouli2a,You're not an ideal opponent for me.
+283,0,Patchouli2a,It won't be that simple.
+284,0,Patchouli0a,The most efficient way to exterminate a Shikigami is...
+285,0,Patchouli0a,You might be a Youkai Fox/ but my magic should...
+286,0,Patchouli2a,There still has to be some method that'd work...
+287,0,Patchouli2a,I'm getting hunted down?!
+288,0,Patchouli0a,If we're going to fight/ I won't employ half-measures.
+289,0,Patchouli0a,I need to keep enough range between us...
+290,0,Patchouli2a,You're not an ideal opponent for me.
+291,0,Patchouli2a,Oof/ it's dangerous to make a careless move here.
+292,0,Patchouli0a,Now isn't the time for me to hold back.
+293,0,Patchouli0a,I'll bring back our spring/ so that I can go relax with a good book!
+294,0,Patchouli2a,That's more spirit power than I predicted...
+295,0,Patchouli2a,She's exceeding the limits of my magic?!
+296,0,Patchouli0a,Insisting on doing things at your own pace... You're a bother to fight.
+297,0,Patchouli0a,All there was left was to go home... stop getting in our way!
+298,0,Patchouli2a,What even is this absurd level of power coming from her?
+299,0,Patchouli2a,Even my magic couldn't protect me?!
+300,0,Patchouli0a,Flan/ settle down!
+301,0,Patchouli0a,Flan/ listen to your sister!
+302,0,Patchouli2a,Oof/ Flan's serious about this...
+303,0,Patchouli2a,Flan... I can't believe it ended up like this.
+304,0,Patchouli2a,Flan/ settle down!
+305,0,Patchouli0a,Stopping the Yatagarasu's flames? This is going to be a bother and a half...
+306,0,Patchouli0a,I don't have a spell that can win in a contest of firepower... Perhaps it's a matter of finding a weakpoint?
+307,0,Patchouli0a,I'd like you to serve as some spellcasting practice for me.
+308,0,Patchouli0a,I didn't leave the house for a danmaku battle today/ but...
+309,0,Patchouli0a,I'd like you to reconsider causing more earthquakes. My bookshelves might fall over.
+310,0,Patchouli0a,Electricity is a difficult power to deal with...
+311,0,Patchouli0a,It doesn't matter how tough you might be.
+312,0,Patchouli0a,There's hardly a chance of us overlooking an incident involving that item.
+313,0,Patchouli0a,We can inquire as to your true motives once we've defeated you.
+314,0,Patchouli0a,This long ago stopped being something we could let slide.
+315,0,Patchouli0a,What's your game/ Yuuka?
+316,0,Patchouli0a,You're not going to take this fight seriously/ then?
+317,0,Patchouli0a,Defeating you is step one.
+318,0,Patchouli0a,Perhaps now you'll start listening to us?
+319,0,Patchouli0a,A fake Remi... how unexpected.
+320,0,Patchouli0a,If you really are a vampire/ you'll have quite a few weaknesses.
+321,0,Patchouli0a,I'd make some rain to keep you shut in... but that wouldn't work here.
+322,0,Patchouli0a,I can't believe you'd steal Flan's shape.
+323,0,Patchouli0a,Now this must be you giving it your best.
+324,0,Patchouli0a,I'll face you in earnest/ Yuuka Kazami.
+325,0,Patchouli0a,Let us past to see Makura.
+326,0,Patchouli0a,You're employing a dangerous technique there.
+327,0,Patchouli0a,You need to be taught another lesson.
+328,0,Patchouli0a,Give it up and go back home to Makura.
+329,0,Patchouli0a,Dreams against my magic... shall we test which is the stronger?
+330,0,Patchouli0a,Let's see/ the most effective way to wake someone up is...
+331,0,Patchouli0a,I think it's time to give you a sense of all the knowledge we've acquired together.
+332,0,Patchouli0a,Dreams against my magic... shall we test which is the stronger?
+333,0,Patchouli0a,Let's see/ the most effective way to wake someone up is...
+334,0,Patchouli0a,I think it's time to give you a sense of all the knowledge we've acquired together.
+335,0,Patchouli1d,I won't allow anymore of this racket in my library.
+336,0,Patchouli0a,Let's see/ the most efficient way to take down this enemy would be...
+337,0,Patchouli0a,Careless movements may lead to your death.
+338,0,Patchouli4e,I'd prefer if you took this outside.
+339,0,Patchouli1d,I won't allow anymore of this racket in my library.
+340,0,Patchouli0a,You might be a considerably powerful youkai/ but...
+341,0,Patchouli4a,Sigh... how did I end up having to fight my own grimoires?
+342,0,Patchouli4c,These familiars took so much time and effort to make...
+343,0,Patchouli1d,Marisa/ give me back my books!
+344,0,Patchouli4e,You're always so disruptive!
+345,0,Patchouli1b,Did all of you mistake this library for a duelling ground?
+346,0,Patchouli0a,I know your weakpoints.
+347,0,Patchouli0a,You seem like an ideal target for test-firing my magic.
+348,0,Patchouli0a,Thanks for all your hard work.
+349,0,Patchouli0a,I don't mind at all if you give this your best.
+350,0,Patchouli0a,Remi's always in such a hurry.
+351,0,Patchouli0a,I can't believe you upset Alice. That's going to be a bother for me later...
+352,0,Patchouli0a,That's about how this day has been going for me...

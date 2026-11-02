@@ -1,5 +1,6 @@
 import re
 import os
+import csv
 
 names = {
     "霊夢" : {"Reimu"},
@@ -380,7 +381,7 @@ files = {"01Reimu",
 "Battle_All",
 }
 
-chars ={
+chars = {
 "Reimu",
 "Marisa",
 "Rumia",
@@ -463,6 +464,30 @@ chars ={
 "Makura",
 }
 
+generate_bd = True
+
+atk_type = {
+    11 : "^Support_Attack ",
+    12 : "^Support_Defend ",
+    13 : "^Assist_Attack ",
+    14 : "^FP_Front ",
+    15 : "^FP_Back ",
+    20 : "^Revenge "
+}
+
+def ReadLineNum(url, num):
+    outp = []
+    with open(url, newline='', encoding="utf8") as csvfile:
+        reader = csv.reader(csvfile, delimiter=',', quotechar='|')
+        for row in reader:
+            if (row[0] == str(num)):
+                row[-1] = row[-1].replace("/", "")
+                row[-1] = row[-1].replace("\\n　", "<br>")
+                outp.append(f"{row[-2].strip()} : {row[-1]}")
+    return outp
+
+def intersection(list_a, list_b):
+    return [ e for e in list_a if e in list_b ]
 
 for char in chars:
     chapters = {}
@@ -481,7 +506,7 @@ for char in chars:
                         chapter = result.groups()[0][:-1]
                     if (result.groups()[2] in names and char in names[result.groups()[2]]) :
                         if (result.groups()[1] in names):
-                            fights =  names[result.groups()[1]]
+                            fights = names[result.groups()[1]]
                         else:
                             print(e + result.groups()[1])
                 elif ("<end>" in line):
@@ -497,6 +522,45 @@ for char in chars:
                             if (ngp):
                                 chapters[chapter][fight].append("ng")
                         chapters[chapter][fight].append(line)
+    
+    if (generate_bd):
+        record = False
+        record_stop = False
+        #todo replace this, its just to skip the header
+        skip = True
+        chapters['bd'] = {} 
+        txtfile = f"./data4/dialog_text_{char}.csv"
+        metafile = f"./data4/dialog_meta_{char}.csv"
+        if (os.path.isfile(metafile)):
+            with open(metafile, newline='', encoding="utf8") as csvfile:
+                reader = csv.reader(csvfile, delimiter=',')
+                for row in reader:
+                    if (skip):
+                        skip = False
+                        continue 
+                    #revenge
+                    if (str(row[20]) == "1"):
+                        record = True
+                    fights = {}
+                    if (row[24]):
+                        record_stop = True
+                        fights = (intersection(row[24].split("|"), chars))
+                        if (len(fights) == 0):
+                            continue
+                    else:
+                        if (record and not record_stop): 
+                            fights = [char]
+                    
+                    nlines = ReadLineNum(txtfile, row[0])
+
+                    for fight in fights:
+                        if (fight not in chapters["bd"]):
+                            chapters["bd"][fight] = []
+                        for nline in nlines:
+                            chapters["bd"][fight].append(nline)
+                            
+            #print (chapters["bd"])
+
 
     outp = f'''<!DOCTYPE html>
 <html lang="en">
@@ -532,9 +596,9 @@ for char in chars:
             else:
                 outp += f'''<div class="dialogue" title="{fight_name.lower()}">'''
             for line in fight:
-                if(line == "ng"):
+                if (line == "ng"):
                     continue
-                if(len(line) > 3 and line[0] != "<"):
+                if ((len(line) > 3) and (line[0] != "<")):
                     line_parts = (line.strip()).split(":")
                     if len(line_parts) == 1:
                         outp += f'''<div class ="line"> {line.strip()}</div>'''
@@ -546,7 +610,7 @@ for char in chars:
                         if line_parts[0][0] == '%':
                             flip = '''class="flip"'''
                             line_parts[0] = line_parts[0].replace("%", '')
-                        outp += f'''<div class ="line"><img {flip} src="./dialogue/face_{line_parts[0]}.png"><div> {text}</div></div>'''
+                        outp += f'''<div class ="line"><img {flip} src="./dialogue/face_{line_parts[0].strip()}.png"><div> {text}</div></div>'''
             outp += "</div>"
         outp += "</div>"
     outp += "</div> </body></html>"

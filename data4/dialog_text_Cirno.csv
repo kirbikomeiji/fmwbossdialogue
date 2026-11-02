@@ -1,0 +1,604 @@
+ID,LineID,face,dialog
+0,0,Cirno0a,You're not going anywhere!
+1,0,Cirno0a,You asked for it!
+2,0,Cirno0a,Save your excuses for hell.
+3,0,Cirno1a,You attacked me! I saw you do it!
+4,0,Cirno0a,Okay/ my turn now!
+5,0,Cirno0a,I think someone's looking for a fight!
+6,0,Cirno0a,Hey/ where do you think you're going?
+7,0,Cirno0a,It's not too late to apologize!\n　...Now it is!
+8,0,Cirno0a,Quit teasing meee!
+9,0,Cirno0a,I got this!
+10,0,Cirno0a,When I'm done with you/ you'll be crying so hard!
+11,0,Cirno1a,Hold still! I hate it when my attacks miss!
+12,0,Cirno0a,Look away and you get hit!
+13,0,Cirno0a,This might hurt a lot!
+14,0,Cirno0a,Lemme show you my cool side!
+15,0,Cirno0a,Like moths slamming into ice!
+16,0,Cirno0a,Go home/ the big fairies are playing!
+17,0,Cirno0a,It's easy to win when you can use your head like me!
+18,0,Cirno0a,I'll make shaved ice out of you!
+19,0,Cirno0a,This is where I make my big comeback!
+20,0,Cirno0a,You haven't beaten me yet!
+21,0,Cirno0a,Okay/ time to get serious!
+22,0,Cirno0a,I'd better do something/ and fast!
+23,0,Cirno0a,I never give up!
+24,0,Cirno1a,It's all or nothing! Dibs on all"!
+25,0,Cirno0a,I'm not doing bad!\n　I'm just making it more fun for the audience!
+26,0,Cirno1a,Here I come!
+27,0,Cirno1a,Hyah!
+28,0,Cirno1a,Incoming!
+29,0,Cirno1a,Weee!
+30,0,Cirno1a,Chill out!
+31,0,Cirno1a,Freezer Beam!
+32,0,Cirno1a,Who said lasers have to be hot?
+33,0,Cirno1a,Check this out!
+34,0,Cirno1a,There you are!
+35,0,Cirno1a,Most icicles hurt a lot when they fall on you!
+36,0,Cirno0a,This attack has no blind spots!
+37,0,Cirno1a,I got some big icicles/ just for you!
+38,0,Cirno0a,Freeze/ or I'll shoot!\n　...Actually/ I'll shoot and freeze you!
+39,0,Cirno0a,Check this out! This is Cirno's super move!
+39,1,Cirno1a,Ice Sign: Perfect Freeze!
+39,2,Cirno1a,It's over! Cirno Kiiick!
+40,0,Cirno0a,I'll stop you with my Perfect Freeze!
+40,1,Cirno1a,Here's some freezing danmaku!
+40,2,Cirno1a,And that's how you break the ice!
+41,0,Cirno0a,I'm so strong/ I can even freeze danmaku!
+41,1,Cirno1a,Ice Sign: Perfect Freeze!
+41,2,Cirno1a,And that's how you break the ice!
+42,0,Cirno0a,I'm gonna freeze you like a frog!
+42,1,Cirno1a,It's over for you!\n　Ice Sign: Perfect Freeze!
+42,2,Cirno1a,Cirno! Craaash!
+43,0,Cirno0a,Ice powers set at coolest"!
+43,1,Cirno1a,Super move! Great Crusher!
+43,2,Cirno1a,GO!
+44,0,Cirno0a,Here's one big block of ice/ just for you!
+44,1,Cirno1a,I call it... Great Crusher!
+44,2,Cirno1a,Catch!
+45,0,Cirno1a,Great Crusheeer!
+45,1,Cirno1a,Heheheh! Pretty cool name/ huh?
+45,2,Cirno1a,Heheheh! Pretty cool name/ huh?
+46,0,Cirno0a,Dai/ come over here!
+46,1,Cirno0a,Let's kick their sorry butts!
+46,2,Daiyosei1a,When I'm with you/ I can do my best!
+46,3,Cirno1a,Incoming!
+46,4,Daiyosei1a,Hyaaah!
+47,0,Cirno0a,Let's do this/ Dai!
+47,1,Cirno0a,You're not going anywhere!
+47,2,Daiyosei0a,We can do this together/ Cirno!
+47,3,Cirno1a,We fairies are invincible!
+47,4,Daiyosei1a,I can fight/ too!
+48,0,Cirno0a,Dai! Let's do our thing!
+48,1,Cirno0a,Ready when you are!
+48,2,Daiyosei0a,We practiced this a lot!
+48,3,Cirno1a,Chill out!
+48,4,Daiyosei1a,B-Burn out!
+49,0,Cirno0a,Time to combine our powers!
+49,1,Rumia0a,What are we playing with today?
+49,2,Cirno0a,With darkness/ ice/ bugs/ and song!
+49,3,Wriggle0a,I'm ready!
+49,4,Mystia0a,This sounds like fun!
+49,5,Cirno1a,Spellcard!
+49,6,Wriggle1a,Do your thing/ boys!
+49,7,Mystia1a,FIRE!
+49,8,Rumia0a,Weee!
+49,9,Cirno1a,Here comes the ice!
+49,10,Wriggle1a,There you are!
+49,11,Mystia1b,Go! ♪ Go! ♪
+49,12,Rumia0a,Pitch dark!
+49,13,Rumia0a,Awesome!
+49,14,Wriggle0a,It's time to end this!
+49,15,Mystia0a,Sounds good!
+49,16,Cirno0a,I'm on it!
+49,17,Cirno1a,Nineball Special!
+49,18,Rumia1a,Spellcard!
+49,19,Mystia1a,Spellcard!
+49,20,Wriggle1a,Spellcard!
+50,0,Cirno0a,Girls/ head count!
+50,1,Rumia0a,One!
+50,2,Cirno0a,Two!
+50,3,Wriggle0a,Three!
+50,4,Mystia0a,Four!
+50,5,Cirno1a,LET'S GOOO!
+50,6,Wriggle1a,Do your thing/ bug buddies!
+50,7,Mystia1a,FIRE!
+50,8,Rumia0a,Over there/ right?
+50,9,Cirno1a,Frozen Beam!
+50,10,Wriggle1a,End of the line!
+50,11,Mystia1b,You can do it! ♪
+50,12,Rumia0a,Turn on the dark!
+50,13,Rumia0a,Almost done!
+50,14,Wriggle0a,Time to finish this!
+50,15,Mystia0a,Sounds great!
+50,16,Cirno0a,I've got just the thing!
+50,17,Cirno1a,Nineball Special!
+50,18,Rumia1a,LET'S GOOO!
+50,19,Mystia1a,LET'S GOOO!
+50,20,Wriggle1a,LET'S GOOO!
+51,0,Cirno0a,Alright girls/ let's do this!
+51,1,Rumia0a,Is everyone ready?
+51,2,Cirno0a,Well/ duh!
+51,3,Wriggle0a,Just say the word!
+51,4,Mystia0a,I'm hyped!
+51,5,Cirno1a,Spellcard!
+51,6,Wriggle1a,Counting on you/ buddies!
+51,7,Mystia1a,FIRE!
+51,8,Rumia0a,Hiyaaah!
+51,9,Cirno1a,Chill out!
+51,10,Wriggle1a,Now!
+51,11,Mystia1b,I can fly! ♪ You can fly! ♪
+51,12,Rumia0a,Bwooom!
+51,13,Rumia0a,Are we done now?
+51,14,Wriggle0a,Almost!
+51,15,Mystia0a,The stage is yours/ Cirno!
+51,16,Cirno0a,How's this for a cool finisher?
+51,17,Cirno1a,Bio-Glacial Attaaack!
+51,18,Rumia1a,Spellcard!
+51,19,Mystia1a,Spellcard!
+51,20,Wriggle1a,Spellcard!
+52,0,Cirno0a,Gather up/ girls!
+52,1,Rumia0a,Cirno!
+52,2,Cirno0a,Dai!
+52,3,Daiyosei0a,Wriggle!
+52,4,Wriggle0a,Mystia!
+52,5,Mystia0a,And back to Rumia!
+52,6,Cirno1a,It's time to fight as one!
+52,7,Daiyosei1a,I will give you all power.
+52,8,Wriggle1a,Haaaah!
+52,9,Wriggle1a,Do your thing/ guys!
+52,10,Mystia1b,This song will get your blood pumping!
+52,11,Rumia0a,Weee!
+52,12,Cirno1a,Chill out!
+52,13,Wriggle1a,There you are!
+52,14,Mystia1b,Go! ♪ Go! ♪
+52,15,Rumia0a,Pitch dark!
+52,16,Cirno1a,Not done yet!
+52,17,Daiyosei2a,I-I'm helping!
+52,18,Rumia0a,Awesome!
+52,19,Wriggle0a,It's time to end this!
+52,20,Mystia0a,Sounds good!
+52,21,Daiyosei0a,All together now!
+52,22,Cirno0a,This will finish you!
+52,23,Cirno1a,The strongest ever attack in Gensokyo!
+52,24,Cirno1a,Final!
+52,25,Rumia0a,Final! Nineball!! SPECIAAAL!!!
+52,26,Mystia0a,Final! Nineball!! SPECIAAAL!!!
+52,27,Wriggle1a,Final! Nineball!! SPECIAAAL!!!
+53,0,Cirno0a,Gather up/ girls!
+53,1,Rumia0a,Cirno!
+53,2,Cirno0a,Dai!
+53,3,Daiyosei0a,Wriggle!
+53,4,Wriggle0a,Mystia!
+53,5,Mystia0a,And back to Rumia!
+53,6,Cirno1a,It's time to fight as one!
+53,7,Daiyosei1a,I will give you all power.
+53,8,Wriggle1a,Haaaah!
+53,9,Wriggle1a,Do your thing/ guys!
+53,10,Mystia1b,This song will get your blood pumping!
+53,11,Rumia0a,Weee!
+53,12,Cirno1a,Chill out!
+53,13,Wriggle1a,There you are!
+53,14,Mystia1b,Go! ♪ Go! ♪
+53,15,Rumia0a,Pitch dark!
+53,16,Cirno1a,Not done yet!
+53,17,Daiyosei2a,I-I'm helping!
+53,18,Rumia0a,Awesome!
+53,19,Wriggle0a,It's time to end this!
+53,20,Mystia0a,Sounds good!
+53,21,Daiyosei0a,All together now!
+53,22,Cirno0a,This will finish you!
+53,23,Cirno1a,The strongest ever attack in Gensokyo!
+53,24,Cirno1a,Final!
+53,25,Rumia0a,Final! Nineball!! SPECIAAAL!!!
+53,26,Mystia0a,Final! Nineball!! SPECIAAAL!!!
+53,27,Wriggle1a,Final! Nineball!! SPECIAAAL!!!
+54,0,Cirno0a,Girls/ head count!
+54,1,Rumia0a,Cirno!
+54,2,Cirno0a,Dai!
+54,3,Daiyosei0a,Wriggle!
+54,4,Wriggle0a,Mystia!
+54,5,Mystia0a,And back to Rumia!
+54,6,Cirno1a,It's time to fight as one!
+54,7,Daiyosei1a,Give it your all/ friends!
+54,8,Mystia1b,I'm so fired up!
+54,9,Wriggle1a,Sic 'em/ boys!
+54,10,Mystia1b,I know just the song!
+54,11,Rumia0a,Here I go!
+54,12,Cirno1a,Frozen Beam!
+54,13,Wriggle1a,End of the line!
+54,14,Mystia1b,I can fly! ♪ You can fly! ♪
+54,15,Rumia0a,Turn on the dark!
+54,16,Cirno1a,Don't stop now!
+54,17,Daiyosei2a,I'll help!
+54,18,Rumia0a,That felt awesome!
+54,19,Wriggle0a,Let's finish this!
+54,20,Mystia0a,This is the song's climax!
+54,21,Daiyosei0a,We can do it/ together!
+54,22,Cirno0a,Here it comes...
+54,23,Cirno1a,The ultimate bio-glacial attack!
+54,24,Cirno1a,Final!
+54,25,Rumia0a,Final! Nineball!! SPECIAAAL!!!
+54,26,Mystia0a,Final! Nineball!! SPECIAAAL!!!
+54,27,Wriggle1a,Final! Nineball!! SPECIAAAL!!!
+55,0,Cirno0a,Alright/ I'll let you go THIS time!
+56,0,Cirno0a,Ugh! Will someone come and help me already?!
+57,0,Cirno0a,It goes without saying/ I'm NOT just running away!
+58,0,Cirno0a,Come on! It's not fair if I can't reach you!
+59,0,Cirno0a,Come here and fight like a fairy/ you coward!
+60,0,Cirno2a,Oh come on! This isn't cool/ you know?!
+61,0,Cirno0a,Wait. Are we playing hide-and-seek?
+62,0,Cirno0a,What's the fun in winning like this?!
+63,0,Cirno0a,This calls for revenge!
+64,0,Cirno0a,Your sacrifice won't be wasted...
+65,0,Cirno0a,And that's when Cirno showed up!
+66,0,Cirno0a,Oh! This looks good!
+67,0,Cirno0a,Alright/ I'll finish the job!
+68,0,Cirno0a,I'll take it from here!
+69,0,Cirno0a,Don't worry! Leave it to me!
+70,0,Cirno0a,I'll protect you!
+71,0,Cirno0a,First/ let's chill!
+72,0,Cirno0a,Don't mind me/ just stealin' the spotlight!
+73,0,Cirno0a,It's okay if I beat 'em first/ right?
+74,0,Cirno0a,Follow my lead!
+75,0,Cirno0a,So I just shoot over there? Okay.
+76,0,Cirno0a,I'm the strongest! I know what I'm doing!
+77,0,Cirno0a,And that's when Cirno showed up!
+78,0,Cirno0a,C'mon/ after me!
+79,0,Cirno0a,It's fine! I'm here to help!
+80,0,Cirno0a,We're so cool! Let's go!
+81,0,Cirno0a,Together/ we are the strongest!
+82,0,Cirno0a,Ice powers at maximum chill!
+83,0,Cirno2a,RUMIA!\n　...How dare you hurt my friends?!
+84,0,Cirno0a,I'll take it from here/ Rumia!
+85,0,Cirno0a,Step aside/ Rumia!\n　I can't see anything in your darkness!
+86,0,Cirno0a,Rumiaaa! Quit getting distracteeed!
+87,0,Cirno0a,At least TRY to be careful/ Rumia!
+88,0,Cirno1a,Hurry it up/ Rumia!\n　...Oh/ I'll just start!
+89,0,Cirno0a,Wait there! I can't see anything in your darkness!
+90,0,Cirno1a,Alright/ Rumia! Follow my lead!
+91,0,Cirno1a,Don't get distracted/ Rumia!
+92,0,Cirno1a,That's the target/ Rumia! Over there!
+93,0,Cirno1a,My ice and Rumia's darkness!
+94,0,Cirno1a,Let's show 'em what we can do/ Rumia!
+95,0,Cirno1a,Rumia and I are the strongest!
+96,0,Cirno2a,How dare you...\n　HOW DARE YOU HURT DAI?!
+97,0,Cirno0a,It's okay/ Dai.\n　I'll finish them off for you.
+98,0,Cirno0a,Great job/ Dai!\n　And now/ my turn!
+99,0,Cirno0a,I'll take it from here/ Dai!
+100,0,Cirno0a,I'm right behind you/ Dai!
+101,0,Cirno1a,Nobody bullies Dai when I'm around!
+102,0,Cirno1a,I'll keep you safe/ Dai!
+103,0,Cirno0a,Stay sharp/ Dai!
+104,0,Cirno0a,I'm right behind you/ Dai!
+105,0,Cirno0a,Be careful Dai/ you hear me?
+106,0,Cirno1a,Dai! Lemme help!
+107,0,Cirno1a,Don't worry/ Dai! I'm right here!
+108,0,Cirno0a,I'm right behind you/ Dai!
+109,0,Cirno1a,Don't worry/ Dai! I'm right here!
+110,0,Cirno0a,I'm here for you/ Dai!
+111,0,Cirno0a,Let's show 'em what we can do/ Dai!
+112,0,Cirno0a,The two of us really are the strongest/ Dai!
+113,0,Cirno2a,LETTY!\n　...How dare you hurt her?!
+114,0,Cirno0a,Are you cold? Well/ I'll make it even colder!
+115,0,Cirno0a,Letty! Letty! Check this out!
+116,0,Cirno0a,Letty! I wanna fight/ too!
+117,0,Cirno0a,Careful/ Letty!
+118,0,Cirno0a,Letty! Watch out!
+119,0,Cirno1a,Our coolness is off the charts!
+120,0,Cirno1a,We can do this together/ Letty!
+121,0,Cirno1a,There's no such thing as too much cold!
+122,0,Cirno1a,Mind if I go first/ Letty?
+123,0,Cirno1a,I'll pre-freeze 'em for you/ Letty!
+124,0,Cirno1a,We're gonna freeze you so hard/ your cold will have a cold!
+125,0,Cirno0a,Double ice power team-up!
+126,0,Cirno1a,Letty and I are the strongest!
+127,0,Cirno2a,CHEN!\n　...How dare you hurt my friends?!
+128,0,Cirno0a,Thanks for keeping 'em busy/ Chen!
+129,0,Cirno0a,I'll take it from here/ Chen!
+130,0,Cirno0a,Chen/ at least TRY to be careful!
+131,0,Cirno0a,Cheeen! Aren't cats supposed to be careful?!
+132,0,Cirno1a,Heads up/ Chen! Don't get hit by accident!
+133,0,Cirno1a,You ready/ Chen? I'll start!
+134,0,Cirno1a,Slow down a bit! I don't want to hit you!
+135,0,Cirno1a,Chen/ what was the plan again?\n　...Oh well.
+136,0,Cirno1a,Let's do this/ Chen!
+137,0,Cirno0a,Not all cats curl up under a kotatsu!
+138,0,Cirno0a,Let's show 'em what we can do/ Chen!
+139,0,Cirno1a,Chen and I are the strongest!
+140,0,Cirno2a,WRIGGLE!\n　...How dare you hurt my friends?!
+141,0,Cirno0a,Call off your bugs/ Wriggle!
+142,0,Cirno0a,Bugs move so funny.
+143,0,Cirno0a,Lemme take it from here/ Wriggle!
+144,0,Cirno0a,Wriggle! Watch out!
+145,0,Cirno0a,Wriggle! At least TRY to be careful!
+146,0,Cirno0a,Wriggle/ mind if I pick our next target? That one!
+147,0,Cirno0a,Don't get too close!\n　I don't want to freeze your buddies!
+148,0,Cirno1a,Okay Wriggle/ after me!
+149,0,Cirno1a,Follow my lead/ Wriggle!
+150,0,Cirno1a,Let's get 'em/ Wriggle!
+151,0,Cirno1a,Let's show 'em what we can do together/ Wriggle!
+152,0,Cirno0a,Wriggle and I are the strongest!
+153,0,Cirno0a,Careful now... I don't wanna deep-freeze her bugs.
+154,0,Cirno2a,MYSTIA!\n　...How dare you hurt my friends?!
+155,0,Cirno0a,Mystiaaa/ wait for meee!
+156,0,Cirno0a,Lemme take it from here/ Mystia!
+157,0,Cirno0a,Mystiaaa/ you're singing too much!
+158,0,Cirno0a,Mystia/ do you HAVE to close your eyes while singing?
+159,0,Cirno1a,Mystia! Don't skip and step straight into my beam!
+160,0,Cirno1a,Listen to Mystia's song!
+161,0,Cirno1a,Mystia/ follow my lead!
+162,0,Cirno1a,Mystia/ where are you flying off to?\n　...Oh well!
+163,0,Cirno1a,Mystia/ let's get 'em!
+164,0,Cirno1a,My ice and Mystia's song!
+165,0,Cirno1a,Let's show 'em what we can do/ Mystia!
+166,0,Cirno0a,Mystia and I are the strongest!
+167,0,Cirno2a,Keine?! No!
+168,0,Cirno0a,Lemme help/ Keine!
+169,0,Cirno0a,I always keep a cool head! I'm the coolest!
+170,0,Cirno0a,If danmaku was a lesson/ I'd be the most smartest!
+171,0,Cirno0a,Aren't teachers supposed to be careful?
+172,0,Cirno0a,Sometimes you're so careless/ Keine!
+173,0,Cirno1a,This is how you keep a head cool/ right?
+174,0,Cirno1a,Hurry up/ Keine! I'll start without you!
+175,0,Cirno1a,Why don't you grade my danmaku?\n　I bet I'd have a perfect score!
+176,0,Cirno1a,So I just shoot over there/ right Keine?
+177,0,Cirno1a,Let's get 'em/ Keine!
+178,0,Cirno1a,Perfect score danmaku coming right up!
+179,0,Cirno0a,Sometimes it's fun to let loose/ right Keine?
+180,0,Cirno0a,Keine and I are the strongest!
+181,0,Cirno2a,Sunny?!\n　...You'll pay for this!
+182,0,Cirno0a,Nothing beats a cold one after a sunny day!
+183,0,Cirno0a,I'll finish 'em up/ Sunny!
+184,0,Cirno0a,Sunnyyy! Are you using your powers upside down?!
+185,0,Cirno0a,We fairies gotta stick together/ Sunny!
+186,0,Cirno1a,Sunny? Can't we sneak up on them with your powers?
+187,0,Cirno1a,Follow my lead/ Sunny!
+188,0,Cirno1a,Stay there! I can't aim straight next to you!
+189,0,Cirno1a,Let's show 'em what we fairies can do!
+190,0,Cirno1a,Sunny! Let's get 'em!
+191,0,Cirno1a,Sunny and I are the strongest!
+192,0,Cirno1a,Now/ Sunny! Fairy Cross!
+193,0,Cirno1a,Sunny! Double Fairy Power/ go!
+194,0,Cirno2a,Luna?!\n　...You'll pay for this!
+195,0,Cirno0a,Lemme check... Alright/ Luna's out of the way.
+196,0,Cirno0a,I'll finish 'em up/ Luna!
+197,0,Cirno0a,Lunaaa/ what are you doiiiing?!
+198,0,Cirno0a,We fairies gotta stick together/ Luna!
+199,0,Cirno1a,Luna/ try not to trip into my beam!
+200,0,Cirno0a,Luna? Can't we sneak up on them with your powers?
+201,0,Cirno1a,Try to keep up/ Luna!
+202,0,Cirno1a,Let's show 'em what we fairies can do!
+203,0,Cirno1a,Luna! Let's get 'em!
+204,0,Cirno0a,Luna! Lemme help!
+205,0,Cirno0a,Now/ Luna! Fairy Cross!
+206,0,Cirno0a,Luna! Double Fairy Power/ go!
+207,0,Cirno0a,Lunaaa! We're way past sneaky time!
+208,0,Cirno2a,Star?!\n　...You'll pay for this!
+209,0,Cirno0a,Star/ step asi—Huh. She's already gone.
+210,0,Cirno0a,I'll finish 'em up/ Star!
+211,0,Cirno0a,You found one of 'em/ Star? Good work!
+212,0,Cirno0a,I thought you didn't like danger/ Star!
+213,0,Cirno0a,We fairies gotta stick together/ Star!
+214,0,Cirno1a,No running away now/ Star!
+215,0,Cirno1a,Star/ any hidden enemies around?
+216,0,Cirno1a,Don't go missing on me without warning!
+217,0,Cirno1a,Let's show 'em what we fairies can do!
+218,0,Cirno1a,Let's get 'em/ Star!
+219,0,Cirno1a,Star! Double Fairy Power/ go!
+220,0,Cirno1a,We got you now! Chaaarge!
+221,0,Cirno0a,Don't worry/ Star! I'm the strongest!
+222,0,Cirno2a,Girls?!\n　How dare you... How dare you hurt them?!
+223,0,Cirno0a,Seriously? You three couldn't get the job done?
+224,0,Cirno0a,Let's show 'em what we fairies can do!
+225,0,Cirno0a,We fairies gotta stick together!
+226,0,Cirno0a,Really/ girls? There's three of you!\n　That's like/ five eyes!
+227,0,Cirno2a,Iku?!\n　...You'll pay for this!
+228,0,Cirno0a,When it comes to danmaku/ I'm the teacher and you're the student!
+229,0,Cirno0a,Okay/ lemme show you how to danmaku better!
+230,0,Cirno0a,Don't just float around! That's dangerous!
+231,0,Cirno0a,We're prank buddies! I got your back!
+232,0,Cirno0a,You're way more chill than you let on/ you know?
+233,0,Cirno0a,It's fine! I'm here to help!
+234,0,Cirno0a,Mind if I steal some of your thunder?
+235,0,Cirno0a,Now watch and learn! This is danmaku!
+236,0,Cirno0a,When it comes to danmaku/ I'm the teacher and you're the student!
+237,0,Cirno0a,This is gonna be a real hailstorm!
+238,0,Cirno0a,Iku and I are the strongest!
+239,0,Cirno0a,My ice and Iku's lightning!
+240,0,Cirno1a,Did I just bump into something?
+241,0,Cirno1a,I'll show you what real persistence looks like!
+242,0,Cirno1a,Nothing can stop my restless heart!
+243,0,Cirno0a,This'll be a piece of cake!
+244,0,Cirno0a,I told you/ I'm the strongest!
+245,0,Cirno0a,I'm still doin' great!
+246,0,Cirno0a,Is this a tickle fight now?
+247,0,Cirno0a,I didn't come here to lose!
+248,0,Cirno0a,Heh heh heh. I basically already won.
+249,0,Cirno0a,Can you not? You're bothering me!
+250,0,Cirno0a,Boooriiing! Maybe I'm too strong!
+251,0,Cirno2a,What's going on? Why are you so tough?!
+252,0,Cirno2a,There's no way you're gonna beat me!
+253,0,Cirno2a,This... isn't going very well.
+254,0,Cirno2a,Cirno never gives up!
+255,0,Cirno2a,Urgh... Can't take much more of this...
+256,0,Cirno2a,I-I'm totally fine! I swear!
+257,0,Cirno2a,Wh-Why are you hitting me?!
+258,0,Cirno2a,Hey/ what gives?!
+259,0,Cirno2a,You hit me?! That's not fair!
+260,0,Cirno2a,Owww! What's wrong with you?!
+261,0,Cirno2a,Awww/ I was trying to dodge that one!
+262,0,Cirno2a,I messed up!
+263,0,Cirno2a,Awawawa!
+264,0,Cirno2a,It's not over until it's over!
+265,0,Cirno2a,Hey/ not bad!
+266,0,Cirno2a,No biggie!
+267,0,Cirno2a,Th-That didn't hurt. Not at all.
+268,0,Cirno2a,Th-That didn't work at all!
+269,0,Cirno2a,I won't let you beat me!
+270,0,Cirno2a,A normal fairy would be out of commission by now...
+271,0,Cirno0a,Can't touch me!
+272,0,Cirno0a,Good luck warming up with me around!
+273,0,Cirno0a,Try aiming next time!
+274,0,Cirno0a,Sometimes/ I'm amazed by my own talent...
+275,0,Cirno0a,Hahahah/ you suck!
+276,0,Cirno0a,Hahahah/ what was that supposed to be?
+277,0,Cirno0a,Just as I calculated. My math... is perfect!
+278,0,Cirno0a,Neener-neener!
+279,0,Cirno0a,Talk about a close graze/ huh?
+280,0,Cirno0a,Hey/ watch it!
+281,0,Cirno0a,Have you tried not sucking so much?
+282,0,Cirno0a,I'm pretty good at tag/ you know!
+283,0,Cirno0a,Aww/ too bad! You were so close!
+284,0,Cirno0a,Whew... I dodged that/ somehow.
+285,0,Cirno0a,Th-That was a close one.
+286,0,Cirno0a,Don't get too close or I'm gonna frostbite you!
+287,0,Cirno0a,Hahahah! I'm the strongest!
+288,0,Cirno0a,My ice is unbreakable!
+289,0,Cirno0a,I'm so cool/ I can even freeze danmaku!
+290,0,Cirno0a,Cirno Barrier!
+291,0,Cirno0a,Fairies are way stronger than you think!\n　Especially me!
+292,0,Cirno0a,I'm not your run-of-the-mill fairy!\n　I don't even know what a mill" is!
+293,0,Cirno0a,Wait/ is it my turn?\n　Whatever/ it's not like someone's keeping count!
+294,0,Cirno2a,I... lost? There's no way! I want a redo!
+295,0,Cirno2a,Th-That's it! I'm outta here!
+296,0,Cirno2a,There's gotta be a mistake!
+297,0,Cirno2a,I was/ like/ totally going easy on you!
+298,0,Cirno2a,I'm not giving up!
+299,0,Cirno2a,I... lost? There's no way! I want a redo!
+300,0,Cirno2a,Th-They got me?!
+301,0,Cirno2a,I'm not giving up! I'll come back after a nap!
+302,0,Cirno0a,My friends will beat you up and you'll be sorry!
+303,0,Cirno1a,I wasn't really paying attention/ but you're going down!
+304,0,Cirno0a,So long story short/ you're bad and I'm gonna freeze your butt!
+305,0,Cirno0a,So long story short/ you're bad and I'm gonna freeze your butt!
+306,0,Cirno1a,Hold still! I hate it when my attacks miss!
+307,0,Cirno0a,Okay/ my turn now!
+308,0,Cirno0a,Shut up and give me that cool badge on your hat!
+309,0,Cirno0a,I got this!
+310,0,Cirno0a,Okay/ my turn now!
+311,0,Cirno0a,Did you actually read all those big books?
+312,0,Cirno1a,What's with the pajamas? Books make you sleepy?
+313,0,Cirno0a,Okay/ MAYBE you're good at lots of things/ but I'm still better at freezing stuff!
+314,0,Cirno0a,You know/ this room looks kinda familiar...
+315,0,Cirno0a,Lemme show you why ice fairies are the STRONGEST!
+315,1,Cirno1a,It's over for you!\n　Ice Sign: Perfect Freeze!
+315,2,Cirno1a,And that's how you break the ice!
+316,0,Cirno0a,If you're too fast to see/ I'll just freeze EVERYTHING!
+316,1,Cirno1a,It's over for you!\n　Ice Sign: Perfect Freeze!
+316,2,Cirno1a,And that's how you break the ice!
+317,0,Cirno1a,Lemme tell you something: freezing flowers is one of my many specialties!
+318,0,Cirno1a,I don't know much about vampires/ but you can't be the strongest while I'm around!
+319,0,Cirno0a,I heard you were some kind of big deal/ but you're just a pipsqueak!
+320,0,Cirno0a,I bet frozen scarlet mist tastes like strawberry snow cones!
+320,1,Cirno1a,It's over for you!\n　Ice Sign: Perfect Freeze!
+320,2,Cirno1a,And that's how you break the ice!
+321,0,Cirno0a,So you're the little sister/ huh?\n　Being a pipsqueak must run in the family!
+322,0,Cirno0a,You've been stuck in here all this time? That's gotta be boring.
+323,0,Cirno0a,You've been stuck in here all this time? That's gotta be boring.
+324,0,Cirno0a,I have to admit... There's no fun in freezing fruits.
+325,0,Cirno0a,I love walking on frozen leaves! Crunch/ crunch!
+326,0,Cirno0a,So you're a god? You don't look like much.
+327,0,Cirno0a,I'm gonna beat you and show Sunny I'm the strongest!
+328,0,Cirno0a,So you're a god? You don't look like much.
+329,0,Cirno0a,Hey/ you look kinda familiar!
+330,0,Cirno0a,I can barely tell you girls apart.
+331,0,Cirno0a,Hmmm... Have we met?
+332,0,Cirno0a,You won't be moving so fast once I freeze you!
+333,0,Cirno0a,This is the miracle of Cirno freezing whatever!
+334,0,Cirno0a,Hey! I remember you! Kinda!
+335,0,Cirno0a,Wow. Those pillars are so cool.
+336,0,Cirno0a,Now THAT is one cool god.
+337,0,Cirno0a,I really/ REALLY want to freeze you.
+338,0,Cirno0a,For a god/ you look pretty weak!
+339,0,Cirno0a,[mispaste]
+340,0,Cirno0a,[mispaste]
+341,0,Cirno0a,Our powers are very similar/ aren't they?
+342,0,Cirno0a,A youkai of cold/ huh? I bet you have it rough/ too.
+343,0,Cirno0a,So basically you're the bad guy/ right?
+344,0,Cirno0a,You wanna fight? Then let's do it!
+345,0,Cirno0a,Quit hogging all the cherry blossoms!
+346,0,Cirno0a,So long story short/ you're bad and I'm gonna freeze your butt!
+347,0,Cirno0a,Once we beat you/ we can finally have some fun!
+348,0,Cirno0a,Quit using fancy words!\n　I don't get them/ and it's annoying!
+349,0,Cirno0a,New rule! In this game of tag/ I get to beat it"!
+350,0,Cirno0a,So you're an oni? Well/ I'm always it" when we play tag!
+351,0,Cirno0a,Just so you know/ I'm even stronger than last time!
+352,0,Cirno0a,Have you been playing pranks without me? Shame on you!
+353,0,Cirno2a,Hey! Watch it!
+354,0,Cirno2a,Oww! What's wrong with you?!
+355,0,Cirno0a,I know your danmaku as well as I know mine!
+356,0,Cirno0a,I could dodge your danmaku with my eyes closed!
+357,0,Cirno0a,I hope you're ready for your winter sleep!
+358,0,Cirno0a,Bugs don't like the cold/ do they?
+359,0,Cirno0a,It's time to end the Great Fairy Wars!
+360,0,Cirno0a,Three against one? Pretty bad odds... for you!
+361,0,Cirno0a,I don't care if I melt/ I'm gonna beat you for sure!
+362,0,Cirno0a,When I get REAL serious/ I might even cool down the sun!
+363,0,Cirno0a,What's with the floating stones?\n　Icicles are way cooler!
+364,0,Cirno0a,I won't listen to your fancy words!\n　...I don't understand them!
+365,0,Cirno0a,I'm gonna freeze you and catch you!
+366,0,Cirno0a,It's so obvious that you're the bad guy!
+367,0,Cirno1a,I'm gonna freeze you and catch you!
+368,0,Cirno1a,I knew you were the bad guy! I knew it!
+369,0,Cirno1a,You're not gonna beat us ever!
+370,0,Cirno1a,Nothing can scare us!\n　Together/ we're the STRONGEST!
+371,0,Cirno1a,You're gonna need a whole lot more wool!
+372,0,Cirno1a,I have to admit/ you pack some serious punch!
+373,0,Cirno1a,I get it/ okay? But we have our reasons to fight/ too!
+374,0,Cirno2a,Stop fighting already!\n　You don't have to go THIS far!
+375,0,Cirno1a,So you're the chief of the Dream World/ right?
+376,0,Cirno1a,I hope you brought some extra blankets!\n　This night's gonna be cold!
+377,0,Cirno1a,You need a cold shower to wake up!\n　And nothing's colder than ice!
+378,0,Cirno1a,Am I bothering you? Good!
+379,0,Cirno1a,I hope you brought some extra blankets!\n　This night's gonna be cold!
+380,0,Cirno1a,You need a cold shower to wake up!\n　And nothing's colder than ice!
+381,0,Cirno0a,Time to combine our powers!
+381,1,Rumia0a,What are we playing with today?
+381,2,Cirno0a,With darkness/ ice/ bugs/ and song!
+381,3,Wriggle0a,I'm ready!
+381,4,Mystia0a,This sounds like fun!
+381,5,Cirno1a,Spellcard!
+381,6,Wriggle1a,Do your thing/ boys!
+381,7,Mystia1a,FIRE!
+381,8,Rumia0a,Weee!
+381,9,Cirno1a,Here comes the ice!
+381,10,Wriggle1a,There you are!
+381,11,Mystia1b,Go! ♪ Go! ♪
+381,12,Rumia0a,Pitch dark!
+381,13,Rumia0a,Awesome!
+381,14,Wriggle0a,It's time to end this!
+381,15,Mystia0a,Sounds good!
+381,16,Cirno0a,I'm on it!
+381,17,Cirno1a,Nineball Special!
+381,18,Rumia1a,Spellcard!
+381,19,Mystia1a,Spellcard!
+381,20,Wriggle1a,Spellcard!
+382,0,Cirno0a,Gather up/ girls!
+382,1,Rumia0a,Cirno!
+382,2,Cirno0a,Dai!
+382,3,Daiyosei0a,Wriggle!
+382,4,Wriggle0a,Mystia!
+382,5,Mystia0a,And back to Rumia!
+382,6,Cirno1a,It's time to fight as one!
+382,7,Daiyosei1a,I will give you all power.
+382,8,Wriggle1a,Haaaah!
+382,9,Wriggle1a,Do your thing/ guys!
+382,10,Mystia1b,This song will get your blood pumping!
+382,11,Rumia0a,Weee!
+382,12,Cirno1a,Chill out!
+382,13,Wriggle1a,There you are!
+382,14,Mystia1b,Go! ♪ Go! ♪
+382,15,Rumia0a,Pitch dark!
+382,16,Cirno1a,Not done yet!
+382,17,Daiyosei2a,I-I'm helping!
+382,18,Rumia0a,Awesome!
+382,19,Wriggle0a,It's time to end this!
+382,20,Mystia0a,Sounds good!
+382,21,Daiyosei0a,All together now!
+382,22,Cirno0a,This will finish you!
+382,23,Cirno1a,The strongest ever attack in Gensokyo!
+382,24,Cirno1a,Final!
+382,25,Rumia0a,Final! Nineball!! SPECIAAAL!!!
+382,26,Mystia0a,Final! Nineball!! SPECIAAAL!!!
+382,27,Wriggle1a,Final! Nineball!! SPECIAAAL!!!

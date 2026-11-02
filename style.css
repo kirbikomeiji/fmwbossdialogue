@@ -67,11 +67,11 @@ p {
 }
 
 .chapter_wrapper {
-    display: grid;
     grid-template-columns: 6em 6em 6em 6em 6em 6em 6em 6em 6em;
     grid-gap: 10px;
     color: #abfff7;
     justify-content: center;
+    display: none;
 }
 .character_button:disabled {
     border: 5px solid #71ff00;

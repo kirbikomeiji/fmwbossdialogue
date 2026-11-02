@@ -1,0 +1,340 @@
+LineID,face,dialog
+0,0,ByakurenH0a,It would be good if you surrender before I have to get serious...
+1,0,ByakurenH0a,I will serve as your opponent for today.
+2,0,ByakurenH0a,If you intend to settle this with violence/ then―
+3,0,ByakurenH0a,Allow me to show you some resistance.
+4,0,ByakurenH0a,This humble servant of the Buddha shall give her utmost!
+5,0,ByakurenH0a,This fight will also serve as training.
+6,0,ByakurenH0a,I will walk the path my faith leads me down.
+7,0,ByakurenH0a,If you would let your guard down thinking me a mere human/ then suffer the consequences.
+8,0,ByakurenH0a,I will show you the results of my training!
+9,0,ByakurenH0a,I will use these powers for peace.
+10,0,ByakurenH0a,I must show them how Byakuren Hijiri fights!
+11,0,ByakurenH0a,I have resolved to fight on!
+12,0,ByakurenH0a,I sympathise with your circumstances/ but we too have righteous motives!
+13,0,ByakurenH2a,I am prepared to die a martyr's death...
+14,0,ByakurenH2a,So long as I still have will to fight...
+15,0,ByakurenH2a,I will find a way out of this deadly peril!
+16,0,ByakurenH2a,The circumstances may be adverse/ but I strive on.
+17,0,ByakurenH2a,We have a mission we must accomplish!
+18,0,ByakurenH1a,Here I go.
+18,1,ByakurenH1a,Haaaaa...
+18,2,ByakurenH1a,Hyah!
+19,0,ByakurenH1a,Let's make this an honest/ fair fight!
+19,1,ByakurenH1a,Haaaaa...
+19,2,ByakurenH1a,Hyah!
+20,0,ByakurenH1a,You're far too slow!
+20,1,ByakurenH1a,Take this and this and this and this―
+20,2,ByakurenH1a,Hyah!
+21,0,ByakurenH1a,This is the power I've cultivated...
+21,1,ByakurenH1a,Haaaaa...
+21,2,ByakurenH1a,It's time! Namusan!
+21,3,ByakurenH1a,Hyah!
+21,4,ByakurenH1a,Hah!
+21,5,ByakurenH1a,Haaaaa....
+21,6,ByakurenH1a,Haaaaa....
+21,7,ByakurenH1a,Karmic Retribution!
+21,8,ByakurenH1a,May all reap what they have sown!
+22,0,ByakurenH1a,If speech alone has not made the right course apparent to you/ then perhaps...
+22,1,ByakurenH1a,Haaaaa...
+22,2,ByakurenH1a,It's time! Namusan!
+22,3,ByakurenH1a,Hyah!
+22,4,ByakurenH1a,Hah!
+22,5,ByakurenH1a,Haaaaa....
+22,6,ByakurenH1a,Haah! Hyaaah! Haaah!
+22,7,ByakurenH1a,Those who turn a deaf ear to words of guidance...
+22,8,ByakurenH1a,...have little hope of salvation!
+23,0,ByakurenH1a,With the power I've gained from everyone's hopes...
+23,1,ByakurenH1a,Haaaaa...
+23,2,ByakurenH1a,It's time! Namusan!
+23,3,ByakurenH1a,Hyah!
+23,4,ByakurenH1a,Take this!
+23,5,ByakurenH1a,Haaaaa....
+23,6,ByakurenH1a,Haah! Hyaaah! Haaah!
+23,7,ByakurenH1a,Fist of Vairocana!
+23,8,ByakurenH1a,Face your judgment!
+24,0,ByakurenH0a,I find myself at a standstill...
+25,0,ByakurenH0a,I will not pursue you overly far.
+26,0,ByakurenH0a,There is no need to strain myself.
+27,0,ByakurenH0a,I suppose there's no helping it.
+28,0,ByakurenH0a,I suppose you could say I face a skilled opponent.
+29,0,ByakurenH0a,I suppose you could say this is a battle.
+30,0,ByakurenH2a,This all happened because of my imperfections...
+31,0,ByakurenH0a,The will to fight on resides in my heart as well!
+32,0,ByakurenH0a,I will not let the pace of attacks slacken!
+33,0,ByakurenH0a,It isn't over yet!
+34,0,ByakurenH0a,Please don't think ill of me over this.
+35,0,ByakurenH0a,I will be a shield for my allies.
+36,0,ByakurenH0a,I won't allow you past me.
+37,0,ByakurenH0a,I can't overlook this behavior!
+38,0,ByakurenH0a,I won't let you harm them!
+39,0,ByakurenH1a,I'm counting on you.
+40,0,ByakurenH1a,I will limit our opponents' movements.
+41,0,ByakurenH1a,I will serve as the vanguard!
+42,0,ByakurenH1a,I will strike before they can act!
+43,0,ByakurenH1a,You are not alone in your struggles.
+44,0,ByakurenH1a,I have waited until the moment was right to fight alongside you/ and it is now!
+45,0,ByakurenH1a,Let us shower them in attacks!
+46,0,ByakurenH0a,I've waited a millennium for this moment!
+47,0,ByakurenH0a,I will repay all the debts of gratitude I owe!
+48,0,ByakurenH0a,This is how the people of Gensokyo fight!
+49,0,ByakurenH2a,Nazrin... this is due to all my imperfections...
+50,0,ByakurenH0a,Nazrin/ you've set up quite the opportunity for me!
+51,0,ByakurenH0a,I will see your intent through/ Nazrin!
+52,0,ByakurenH0a,I will be a shield for Nazrin!
+53,0,ByakurenH0a,I won't let you harm Nazrin!
+54,0,ByakurenH1a,Nazrin/ you have good judgment.
+55,0,ByakurenH1a,Nazrin/ please follow me!
+56,0,ByakurenH1a,Nazrin/ I will lead the way!
+57,0,ByakurenH1a,Nazrin/ I will fight alongside you.
+58,0,ByakurenH1a,Nazrin/ I have waited until the moment is right!
+59,0,ByakurenH0a,Please allow me to share in your insight/ Nazrin!
+60,0,ByakurenH0a,Nazrin/ I too will strive for victory!
+61,0,ByakurenH0a,I will repay the debt of gratitude I owe to Nazrin!
+62,0,ByakurenH2a,Ichirin... this is all due to my imperfections...
+63,0,ByakurenH0a,I will see your intent through/ Ichirin!
+64,0,ByakurenH0a,I will make use of the opening Ichirin created!
+65,0,ByakurenH0a,Ichirin/ I'll follow that up!
+66,0,ByakurenH0a,Ichirin/ you musn't take your eyes off the battle.
+67,0,ByakurenH0a,I won't let you harm Ichirin!
+68,0,ByakurenH1a,Ichirin/ I will fight alongside you.
+69,0,ByakurenH1a,Ichirin/ I have waited until the moment is right!
+70,0,ByakurenH1a,Ichirin/ I will lead the way!
+71,0,ByakurenH1a,Ichirin/ please follow me!
+72,0,ByakurenH1a,Ichirin/ I am with you!
+73,0,ByakurenH0a,Ichirin/ I too will strive for victory!
+74,0,ByakurenH0a,Please allow me to share in your passion/ Ichirin!
+75,0,ByakurenH0a,I will repay the debt of gratitude I owe to Ichirin.
+76,0,ByakurenH2a,Murasa... this is all due to my imperfections...
+77,0,ByakurenH0a,I will make use of the opening Murasa created!
+78,0,ByakurenH0a,I will see your intent through/ Murasa!
+79,0,ByakurenH0a,Murasa/ you mustn't take your eyes off the battle.
+80,0,ByakurenH0a,I won't let you harm Murasa!
+81,0,ByakurenH1a,Murasa/ I will fight alongside you.
+82,0,ByakurenH1a,Murasa/ I will lead the way!
+83,0,ByakurenH1a,Murasa/ please follow me!
+84,0,ByakurenH1a,Murasa/ I have waited until the moment is right!
+85,0,ByakurenH1a,Murasa/ I am with you!
+86,0,ByakurenH0a,Murasa/ I too will strive for victory!
+87,0,ByakurenH0a,Please allow me to share in your loneliness/ Murasa!
+88,0,ByakurenH0a,I will repay the debt of gratitude I owe to Murasa.
+89,0,ByakurenH2a,Shou... this is all due to my imperfections...
+90,0,ByakurenH0a,I will see your intent through/ Shou!
+91,0,ByakurenH0a,I will make use of the opening Shou created!
+92,0,ByakurenH0a,Shou/ you mustn't take your eyes off the battle.
+93,0,ByakurenH0a,I won't let you harm Shou!
+94,0,ByakurenH1a,Shou/ please follow me!
+95,0,ByakurenH1a,Shou/ I will fight alongside you.
+96,0,ByakurenH1a,I will leave this up to your judgment/ Shou.
+97,0,ByakurenH1a,Shou/ I have waited until the moment is right!
+98,0,ByakurenH1a,Shou/ I will lead the way!
+99,0,ByakurenH0a,Shou/ I too will strive for victory!
+100,0,ByakurenH0a,Please allow me to share in your righteousness/ Shou!
+101,0,ByakurenH0a,I will repay the debt of gratitude I owe to Shou...
+102,0,ByakurenH2a,Nue... this is all due to my imperfections...
+103,0,ByakurenH0a,I will make use of the opening Nue created!
+104,0,ByakurenH0a,I will see your attack through/ Nue!
+105,0,ByakurenH0a,I will be a shield for Nue!
+106,0,ByakurenH0a,I can't let you harm Nue!
+107,0,ByakurenH1a,Nue/ I will lead the way!
+108,0,ByakurenH1a,I'll coordinate my movements with Nue's.
+109,0,ByakurenH1a,Nue/ I'm counting on you.
+110,0,ByakurenH1a,Nue/ I will fight alongside you.
+111,0,ByakurenH1a,Nue/ I have waited until the moment is right!
+112,0,ByakurenH0a,Please allow me to share in your dignity/ Nue!
+113,0,ByakurenH0a,Nue/ I too will strive for victory!
+114,0,ByakurenH0a,I will repay the debt of gratitude I owe to Nue...
+115,0,ByakurenH2a,The Palanquin Ship went as a sacrifice...
+116,0,ByakurenH0a,I will make use of the opportunity the Palanquin Ship provided!
+117,0,ByakurenH0a,I'll follow in the wake of the Palanquin Ship's bombardment.
+118,0,ByakurenH0a,I will be a shield for the Palanquin Ship!
+119,0,ByakurenH0a,I can't let you harm the Palanquin Ship!
+120,0,ByakurenH2a,Yumeko... this is all due to my imperfections...
+121,0,ByakurenH0a,I will make use of the opening Yumeko created!
+122,0,ByakurenH0a,I will see your attack through/ Yumeko!
+123,0,ByakurenH0a,I will be a shield for Yumeko!
+124,0,ByakurenH0a,I can't let you harm Yumeko!
+125,0,ByakurenH1a,Yumeko/ I'm counting on you.
+126,0,ByakurenH1a,I'll coordinate my movements with Yumeko's.
+127,0,ByakurenH1a,Yumeko/ I will follow your guidance.
+128,0,ByakurenH1a,Yumeko/ I will fight alongside you.
+129,0,ByakurenH1a,Yumeko/ I have waited until the moment is right.
+130,0,ByakurenH0a,Yumeko/ I too will strive for victory!
+131,0,ByakurenH0a,Please allow me to share in your strength/ Yumeko!
+132,0,ByakurenH0a,I will repay the debt of gratitude I owe to Yumeko!
+133,0,ByakurenH2a,Lady Shinki... this is all due to my imperfections...
+134,0,ByakurenH0a,I will make use of the opening Lady Shinki created!
+135,0,ByakurenH0a,I will see your attack through/ Lady Shinki!
+136,0,ByakurenH0a,I will be a shield for Lady Shinki!
+137,0,ByakurenH0a,I can't let you harm Lady Shinki!
+138,0,ByakurenH1a,I'll coordinate my movements with Lady Shinki's.
+139,0,ByakurenH1a,Lady Shinki/ I'm counting on you.
+140,0,ByakurenH1a,Lady Shinki/ I will follow your instructions.
+141,0,ByakurenH1a,Lady Shinki/ I will fight alongside you.
+142,0,ByakurenH1a,Lady Shinki/ I have waited until the moment is right.
+143,0,ByakurenH0a,Lady Shinki/ I too will strive for victory!
+144,0,ByakurenH0a,Please allow me to share in your warmth/ Lady Shinki!
+145,0,ByakurenH0a,I will repay the debt of gratitude I owe to Lady Shinki!
+146,0,ByakurenH2a,Mima... this is all due to my imperfections...
+147,0,ByakurenH0a,I will make use of the opening Mima created!
+148,0,ByakurenH0a,I will see your attack through/ Mima!
+149,0,ByakurenH0a,I will be a shield for Mima!
+150,0,ByakurenH0a,I can't let you harm Mima!
+151,0,ByakurenH1a,I'll coordinate my movements with Mima's.
+152,0,ByakurenH1a,Mima/ I'll follow your guidance.
+153,0,ByakurenH1a,Mima/ I'm counting on you.
+154,0,ByakurenH1a,Mima/ I will fight alongside you.
+155,0,ByakurenH1a,Mima/ I have waited until the moment is right!
+156,0,ByakurenH0a,Mima/ I too will strive for victory!
+157,0,ByakurenH0a,Please allow me to share in your strength/ Mima!
+158,0,ByakurenH0a,I will repay the debt of gratitude I owe to Mima!
+159,0,ByakurenH1a,If I follow the karmic cause-and-effect of this...
+160,0,ByakurenH1a,I understand what is in your heart.
+161,0,ByakurenH0b,I can see it in my mind's eye.
+162,0,ByakurenH0a,This is nothing to be frightened of.
+163,0,ByakurenH0a,This is exactly the kind of excitement I wished for.
+164,0,ByakurenH0a,Well/ I don't believe I will be able to provide an appropriate opponent for your/ ah/ skill level.
+165,0,ByakurenH0a,This fight is meaningless.
+166,0,ByakurenH2a,I will not give up hope!
+167,0,ByakurenH2a,I can't let myself be defeated before I use up all my strength...
+168,0,ByakurenH2a,I have reason to hope yet!
+169,0,ByakurenH2a,I must do something to put this battle right...
+170,0,ByakurenH2a,I have not lost just yet!
+171,0,ByakurenH2a,I've expended so much of my power...
+172,0,ByakurenH2a,My spirit will never be broken!
+173,0,ByakurenH2a,Your skill is unmistakable.
+174,0,ByakurenH2a,You are not the typical opponent I've faced.
+175,0,ByakurenH2a,I didn't expect it to come to this...
+176,0,ByakurenH2a,I'm falling behind/ huh.
+177,0,ByakurenH2a,Even in this state I couldn't evade it?
+178,0,ByakurenH0a,Did this at least let you find inner peace?
+179,0,ByakurenH2a,This doesn't even count as a wound!
+180,0,ByakurenH2a,I must clear my mind of worldly thoughts...
+181,0,ByakurenH2a,This pain is nothing!
+182,0,ByakurenH2a,Not a single step back!
+183,0,ByakurenH2a,I will not permit such outrages...
+184,0,ByakurenH2a,Should you insist on making further attacks...
+185,0,ByakurenH0a,What a refreshing breeze.
+186,0,ByakurenH0a,There's no way you can hit me.
+187,0,ByakurenH0a,Are there truly none who can match my swiftness?
+188,0,ByakurenH0a,That was perhaps a hair's breadth away.
+189,0,ByakurenH0a,If I follow the karmic cause-and-effect of this...
+190,0,ByakurenH0a,Even without my magic/ I can...
+191,0,ByakurenH0a,My apologies/ but that attack won't strike true.
+192,0,ByakurenH0a,If I can read their movements...
+193,0,ByakurenH0a,I can see through you.
+194,0,ByakurenH0a,Strength alone is not enough to defeat me.
+195,0,ByakurenH0a,I'm afraid that won't reach me at all.
+196,0,ByakurenH0a,This is the power of dharma.
+197,0,ByakurenH0a,Attacks with no feeling behind them won't suffice.
+198,0,ByakurenH0a,This is the manifest blessing of Maha-Karuna.
+199,0,ByakurenH0a,Prajna Paramita.
+200,0,ByakurenH0a,I see through you completely.
+201,0,ByakurenH0a,Still waters overcome the raging torrent...
+202,0,ByakurenH0a,You've been outpaced!
+203,0,ByakurenH0a,I'm sorry/ but you should know when to give up.
+204,0,ByakurenH2a,... How vexing.
+205,0,ByakurenH0a,... Well done.
+206,0,ByakurenH0a,It is clear that I was defeated. Now what remains is to consider why.
+207,0,ByakurenH0a,I fall without regrets. Now I will go pray for the success of those who remain!
+208,0,ByakurenH0a,Yumeko/ I beg your pardon.
+209,0,ByakurenH0a,Yumeko/ we absolutely must press onwards.
+210,0,ByakurenH1a,Lady Shinki/ I would see you stand up to me next!
+211,0,ByakurenH1a,For those who have been so devoted to me...
+212,0,ByakurenH1a,Stay there!
+213,0,ByakurenH0a,Mehko/ I would speak to you about your situation.
+214,0,ByakurenH0a,A side of everyone as yet unknown to me...
+215,0,ByakurenH0a,We will not lose to phantoms such as these!
+216,0,ByakurenH0a,... This is not enough to throw my heart into disarray. 
+217,0,ByakurenH0a,I suppose one could call this confronting one's own flaws.
+218,0,ByakurenH0a,I have no desire to see them like this...
+219,0,ByakurenH1a,So this is the darkness inside everyone? As sure as day follows night/ I will dispel it!
+220,0,ByakurenH1a,This may be somewhat rough/ but I will strike you back to your senses!
+221,0,ByakurenH1a,Stay there!
+222,0,ByakurenH0a,Even the patience of a saint can run out... though not quite yet.
+223,0,ByakurenH1a,If you keep at this/ you will be beyond salvation!
+224,0,ByakurenH0a,Mehko/ your ways and deeds are wrong!
+225,0,ByakurenH2a,Mehko/ please/ let's put this situation to rest.
+226,0,ByakurenH1a,Makura/ I will serve as your opponent for today!
+227,0,ByakurenH1a,I sympathise with you/ but we too have convictions we must fight for!
+228,0,ByakurenH1a,Makura/ I will resist your dreams to the last!
+229,0,ByakurenH1a,Shitone/ I will serve as your opponent for today!
+230,0,ByakurenH1a,I sympathise with you/ but we too have convictions we must fight for!
+231,0,Byakuren1c,Truly this fight may yet become a nightmare for you.
+232,0,ByakurenH1a,Shitone/ I will resist your dreams to the last!
+233,0,ByakurenH0a,Truly your nature means you are often kept in the dark.
+234,0,ByakurenH0a,Truly you strive with dogged determination.
+235,0,ByakurenH0a,Truly great modesty often hides great merit.
+236,0,ByakurenH0a,Truly your personality is as a ray of sunshine.
+237,0,ByakurenH0a,Truly your talent is a hidden gem.
+238,0,ByakurenH0a,Truly speech is silver and silence is golden.
+239,0,ByakurenH0a,Truly you are keenly devoted to your mistress.
+240,0,ByakurenH0a,Truly shallow brooks are noisy.
+241,0,ByakurenH0a,Truly you would never give a challenger the cold shoulder.
+242,0,ByakurenH0a,Truly your faith can move mountains.
+243,0,ByakurenH0a,Truly the brave may fall but never yield.
+244,0,ByakurenH0a,Truly you are a veritable library of knowledge.
+245,0,ByakurenH0a,Truly you are a pillar of support for others.
+246,0,ByakurenH0a,Truly the empty can rattles the most.
+247,0,ByakurenH0a,Truly you are a force of nature.
+248,0,ByakurenH0a,Truly this fight will be a dance with the devil.
+249,0,ByakurenH0a,Truly needs must when the devil drives.
+250,0,ByakurenH0a,Truly you will reap what you've sown.
+251,0,ByakurenH0a,Truly you are heading for a fall.
+252,0,ByakurenH0a,Truly none could call themselves misfortunate to know you.
+253,0,ByakurenH0a,Truly friendship is what will draw you out of your shell.
+254,0,ByakurenH0a,Truly the clever know that bad news travels fast and far.
+255,0,ByakurenH0a,Truly you will move heaven and earth to accomplish your plans.
+256,0,ByakurenH0a,Truly you are as slippery as a serpent.
+257,0,ByakurenH0a,Truly you know how to eat/ drink/ and make merry!
+258,0,ByakurenH0a,Truly you will find even the best laid plans of mice and men can go astray.
+259,0,ByakurenH0a,Truly/ by acting suspicious you have put yourself on thin ice.
+260,0,ByakurenH0a,Truly you devote your whole spirit to your duties.
+261,0,ByakurenH0a,Truly your music can tug at my heartstrings.
+262,0,ByakurenH0a,Truly you are clever enough to outfox your master's enemies.
+263,0,ByakurenH0a,Truly you are adorably bright eyed and bushy tailed.
+264,0,ByakurenH0a,Truly your visitorless realm is collecting cobwebs.
+265,0,ByakurenH0a,Truly you have an endless well of defenses.
+266,0,ByakurenH0a,Truly if you called your tunes excellent it would not be blowing your own horn.
+267,0,ByakurenH0a,Truly you are good at orchestrating others to do your work for you.
+268,0,ByakurenH0a,Truly the sum of your music is greater than its parts.
+269,0,ByakurenH0a,Truly your plans will dig your own grave.
+270,0,ByakurenH0a,Truly you seek to bridge the gap between youkai and human ways of life.
+271,0,ByakurenH0a,Truly your singing voice could move a statue to tears.
+272,0,ByakurenH0a,Truly your willfullness runs true to form.
+273,0,ByakurenH0a,Truly you go with the flow/ never seeking to make waves.
+274,0,ByakurenH0a,Truly when elephants battle ants perish.
+275,0,ByakurenH0a,Truly an actual lucky rabbit would never lose its foot.
+276,0,ByakurenH0a,Truly you stand on your own two feet.
+277,0,ByakurenH0a,Truly you sail carefree wherever the wind takes you.
+278,0,ByakurenH0a,Truly you have only one speed―full speed ahead.
+279,0,ByakurenH0a,Truly innocence can be more powerful than experience.
+280,0,ByakurenH0a,Truly three heads are better than one.
+281,0,ByakurenH0a,Truly your pictures are worth a thousand words.
+282,0,ByakurenH0a,Truly I am grateful to see our ship restored to its former glory.
+283,0,ByakurenH0a,Truly you have slipped the bonds of the earth and now dance through the skies.
+284,0,ByakurenH0a,Truly you have kept firm your faith and kept strict your practice.
+285,0,ByakurenH0a,Truly/ behind every good team there is a great fairy.
+286,0,ByakurenH0a,Truly a great teacher affects eternity.
+287,0,ByakurenH0a,Truly you will someday rise from the ashes of your sorrows.
+288,0,ByakurenH0a,Truly you love the moon so much that you would scorn all other light.
+289,0,ByakurenH0a,Truly your grandiose ambitions are lunacy.
+290,0,ByakurenH0a,Truly you need to know that after rain comes sunshine.
+291,0,ByakurenH0a,Truly the cat's out of the bag now.
+292,0,ByakurenH0a,Truly there is no one more naive and innocent under the sun.
+293,0,ByakurenH0a,Truly even your absurd power may be defeated once in a blue moon.
+294,0,ByakurenH0a,Truly you are as strong as the drink you carry.
+295,0,ByakurenH0a,Truly your jealousy would take you a bridge too far.
+296,0,ByakurenH0a,Truly your worries have you lost in deep thought.
+297,0,ByakurenH0a,Truly your danmaku is like the radiance of a thousand suns.
+298,0,ByakurenH0a,Truly we may be flying too close to the sun. Yet...
+299,0,ByakurenH0a,Truly you signal the calm before the storm.
+300,0,ByakurenH0a,Truly the prospect of an incident has you on cloud nine.
+301,0,ByakurenH0a,Truly there is a whole world ahead of you.
+302,0,ByakurenH0a,Truly/ I am blown away by the surprises you cause.
+303,0,ByakurenH0a,Truly you know that punishment is not for revenge.
+304,0,ByakurenH0a,Truly/ you remind me that emptiness itself is form. How interesting...
+305,0,ByakurenH0a,Truly you are a cut above the rest.
+306,0,ByakurenH0a,Truly your compassion is all-embracing.
+307,0,ByakurenH0a,Truly you are so brilliant as to make connections where others couldn't.
+308,0,ByakurenH0a,Truly you have only one speed―full speed ahead.

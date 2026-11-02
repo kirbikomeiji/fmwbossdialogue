@@ -1,0 +1,199 @@
+ID,LineID,face,dialog
+0,0,Medicine0a,You're nearby/ so you're going down!
+1,0,Medicine0a,Bring it on!
+2,0,Medicine0a,I can take you/ I think!
+3,0,Medicine0a,Get away from me!
+4,0,Medicine0a,The scent of the suzuran lured you in/ huh?
+5,0,Medicine0a,Payback time!
+6,0,Medicine0a,Go away!
+7,0,Medicine0a,Do you WANT to get poisoned?!
+8,0,Medicine0a,My poison will take you out!
+9,0,Medicine0a,Blame yourself for coming close!
+10,0,Medicine0a,I'll show you!
+11,0,Medicine0a,Lend me your strength/ Sue!
+12,0,Medicine0a,I'm gonna mess you up!
+13,0,Medicine0a,Time for me to get serious!
+14,0,Medicine0a,Come on Sue/ it's time to do or die!
+15,0,Medicine0a,I can still get a win/ I just gotta beat you first!
+16,0,Medicine0a,We gotta find some way to stop them...!
+17,0,Medicine0a,I'll serve you up some poison in return!
+18,0,Medicine1a,One/ two...!
+19,0,Medicine1a,Taste my poison...!
+20,0,Medicine1a,Take... this!
+21,0,Medicine1a,Here we... go!
+22,0,Medicine0a,There!
+23,0,Medicine0a,A clump of poison for you!
+24,0,Medicine0a,Take this!
+25,0,Medicine0a,Enjoy!
+26,0,Medicine0a,You'll see! You'll all see!
+26,1,Medicine1a,Take this! And this/ and this!
+26,2,Medicine0a,And here's the final touch.
+27,0,Medicine0a,You can just die to my poison!
+27,1,Medicine1a,Take this! And this/ and this!
+27,2,Medicine0a,Nighty night.
+28,0,Medicine0a,I'll fill the air with poison!
+28,1,Medicine1a,Here! There! Everywhere!
+28,2,Medicine0a,This ought to be enough.
+29,0,Medicine1a,Comparo/ comparo...
+29,1,Medicine1a,Poison/ gather round!
+29,2,Medicine0a,Oh/ you stopped moving.
+30,0,Medicine1a,Comparo/ comparo...
+30,1,Medicine1a,I'm BURSTING with poison!
+30,2,Medicine0a,Done already?
+31,0,Medicine1a,Comparo/ comparo...
+31,1,Medicine1a,Drown in poison!
+31,2,Medicine0a,I hope you're happy.
+32,0,Medicine0a,Hmph/ count your blessings!
+33,0,Medicine0a,You'll get what's coming to you/ just you wait!
+34,0,Medicine2a,You're mean!
+35,0,Medicine2a,I can't believe you're fighting like this!
+36,0,Medicine2a,There's gotta be SOMETHING I can do!
+37,0,Medicine2a,W—Where'd you go?!
+38,0,Medicine0a,You'll pay for that with your life!
+39,0,Medicine0a,It's my time to shine!
+40,0,Medicine0a,Alright/ here's my chance!
+41,0,Medicine0a,I'll finish them off!
+42,0,Medicine0a,Quit slacking off!
+43,0,Medicine0a,It's not like I WANT to be protecting you or anything!
+44,0,Medicine0a,Stay back/ unless you wanna get sick.
+45,0,Medicine0a,Can I lend you a hand?
+46,0,Medicine0a,I'll beat them up for you!
+47,0,Medicine1a,I'll do what I'm told/ for now.
+48,0,Medicine0a,This'll be easy.
+49,0,Medicine0a,So that's the strategy/ is it?
+50,0,Medicine0a,Fine/ I'll help you out!
+51,0,Medicine0a,Come on Sue/ let's pitch in our poison!
+52,0,Medicine0a,I bet the two of us can do amazing things together!
+53,0,Medicine0a,Sue/ we're going full power!
+54,0,Medicine0a,What the heck did you just do to Alice?!
+55,0,Medicine0a,Alice/ I'm here!
+56,0,Medicine0a,Alice/ I'll finish them off!
+57,0,Medicine0a,Alice/ look out!
+58,0,Medicine0a,I'll protect you/ Alice!
+59,0,Medicine1a,You're in Alice's way/ dummy!
+60,0,Medicine0a,Alice sure is smart!
+61,0,Medicine0a,I'll fight by your side/ Alice!
+62,0,Medicine0a,I'll match your dolls' movements!
+63,0,Medicine0a,I'll do whatever you need/ Alice!
+64,0,Medicine0a,Sue's in top form today/ Alice!
+65,0,Medicine0a,With Alice here/ we can do anything!
+66,0,Medicine0a,Come on Sue/ let's go all out for Alice!
+67,0,Medicine0a,What the heck did you just do to Hina?!
+68,0,Medicine0a,Hina/ I'm here!
+69,0,Medicine0a,Hina/ I'll finish them off!
+70,0,Medicine0a,Hina/ look out!
+71,0,Medicine0a,I'll protect you/ Hina!
+72,0,Medicine1a,I'll fight by your side/ Hina!
+73,0,Medicine1a,Let's show them the power of dolls!
+74,0,Medicine1a,Hina sure is smart!
+75,0,Medicine1a,You're in Hina's way/ dummy!
+76,0,Medicine0a,I'll do whatever you need/ Hina!
+77,0,Medicine0a,With Hina here/ we can do anything!
+78,0,Medicine0a,Sue's in top form today/ Hina!
+79,0,Medicine0a,Come on Sue/ let's go all out for Hina!
+80,0,Medicine0a,What the heck did you just do to Yuuka?!
+81,0,Medicine0a,Yuuka/ I'm here!
+82,0,Medicine0a,Yuuka/ I'll finish them off!
+83,0,Medicine0a,Yuuka/ look out!
+84,0,Medicine0a,I'll protect you/ Yuuka!
+85,0,Medicine0a,Yuuka sure is smart!
+86,0,Medicine0a,You're in Yuuka's way/ dummy!
+87,0,Medicine0a,I'll fight by your side/ Yuuka!
+88,0,Medicine0a,Gotta be careful/ I don't want to hurt Yuuka's flowers.
+89,0,Medicine0a,I'll do whatever you need/ Yuuka!
+90,0,Medicine0a,Sue's in top form today/ Yuuka!
+91,0,Medicine0a,With Yuuka here/ we can do anything!
+92,0,Medicine0a,Come on Sue/ let's go all out for Yuuka!
+93,0,Medicine2a,What the heck did you just do to Eirin?!
+94,0,Medicine0a,Eirin/ I'll finish them off!
+95,0,Medicine0a,Eirin/ I'm here!
+96,0,Medicine0a,I'll protect you/ Eirin!
+97,0,Medicine0a,Eirin/ look out!
+98,0,Medicine0a,You're getting a double-dose of Medicine!
+99,0,Medicine0a,Eirin sure is smart!
+100,0,Medicine0a,You're in Eirin's way/ dummy!
+101,0,Medicine0a,I'll fight by your side/ Eirin!
+102,0,Medicine0a,I'll do whatever you need/ Eirin!
+103,0,Medicine0a,Sue's in top form today/ Eirin!
+104,0,Medicine0a,With Eirin here/ we can do anything!
+105,0,Medicine0a,Come on Sue/ let's go all out for Eirin!
+106,0,Medicine0a,What the heck did you just do to Shinki?!
+107,0,Medicine0a,Shinki/ I'll finish them off!
+108,0,Medicine0a,Shinki/ I'm here!
+109,0,Medicine0a,Shinki/ look out!
+110,0,Medicine0a,I'll protect you/ Shinki!
+111,0,Medicine0a,Shinki/ let's go over here!
+112,0,Medicine0a,You're in Shinki's way/ dummy!
+113,0,Medicine0a,Shinki sure is... smart?
+114,0,Medicine0a,I'll fight by your side/ Shinki!
+115,0,Medicine0a,I'll do whatever you need/ Shinki!
+116,0,Medicine0a,Sue's in top form today/ Shinki!
+117,0,Medicine0a,With Shinki here/ we can do anything!
+118,0,Medicine0a,Come on Sue/ let's go all out for Shinki!
+119,0,Medicine0a,I can dodge that/ no problem!
+120,0,Medicine0a,I'm not afraid of something that can't hit me!
+121,0,Medicine0a,Fat chance!
+122,0,Medicine0a,You're not very strong/ are you?
+123,0,Medicine0a,Can you go annoy someone else?
+124,0,Medicine0a,Keep at it/ if you really wanna get sick.
+125,0,Medicine0a,You can try harder than that!
+126,0,Medicine2a,There's been some kind of mistake...!
+127,0,Medicine2a,I might really break this time!
+128,0,Medicine2a,I can't lose here...
+129,0,Medicine2a,T—This is a lot more damage than I expected!
+130,0,Medicine2a,Calm down! Keep calm/ Medicine...!
+131,0,Medicine2a,They're really strong...!
+132,0,Medicine2a,My luck's running out...!
+133,0,Medicine2a,Lucky shot...!
+134,0,Medicine2a,Is something wrong with my body...?
+135,0,Medicine2a,What the heck? How'd that hit me?!
+136,0,Medicine2a,No way I'm losing!
+137,0,Medicine2a,That freaking hurt/ you jerk!
+138,0,Medicine2a,You're not half-bad!
+139,0,Medicine2a,Gah/ how'd that hit me?!
+140,0,Medicine0a,Why are you even here?
+141,0,Medicine0a,I dodged it?! Woohoo!
+142,0,Medicine0a,Well/ obviously.
+143,0,Medicine0a,No chance!
+144,0,Medicine0a,Your aim sucks!
+145,0,Medicine0a,Feeling a little under the weather?
+146,0,Medicine2a,Can't quite dodge this one...!
+147,0,Medicine2a,Wah! Close one...
+148,0,Medicine0a,You can't hit me!
+149,0,Medicine0a,This is good practice.
+150,0,Medicine0a,I figured you'd try that.
+151,0,Medicine0a,I can handle that much/ no problem!
+152,0,Medicine0a,Keep at it/ if you really wanna get sick.
+153,0,Medicine0a,Keep it up/ Sue!
+154,0,Medicine0a,Hyah!
+155,0,Medicine0a,Yuuka always told me to fight poison with poison.
+156,0,Medicine0a,Sue/ they're coming right at us!
+157,0,Medicine2a,I need more practice...
+158,0,Medicine2a,My... My body's not responding to me...
+159,0,Medicine0a,Ugh/ it's gonna take so long to get this fixed.
+160,0,Medicine0a,You haven't seen the last of me/ jerks!
+161,0,Medicine0a,Quit bullying Eirin!
+162,0,Medicine0a,If you take even one STEP inside Eientei/ I'll poison the heck out of you!
+163,0,Medicine0a,They're similar/ yet somehow completely different...?
+164,0,Medicine0a,I guess this is how you could've turned out.
+165,0,Medicine0a,I'll show you my danmaku/ Yuuka!
+166,0,Medicine0a,I hope my poison doesn't make you faint/ Yuuka!
+167,0,Medicine0a,There you are/ evildoer!
+168,0,Medicine0a,My poison clouds are much prettier than that light.
+169,0,Medicine0a,I know what I usually say/ but you'll ACTUALLY get sick like that...
+170,0,Medicine0a,All I know is/ I'm gonna beat you up!
+171,0,Medicine0a,So/ YOU'RE the bad guy!
+172,0,Medicine0a,You're going down/ courtesy of me and Sue's poison!
+173,0,Medicine0a,All I know is/ I'm gonna beat you up!
+174,0,Medicine0a,So/ YOU'RE the bad guy!
+175,0,Medicine0a,You're going down/ courtesy of me and Sue's poison!
+176,0,Medicine0a,I'll do my best/ Yuuka!
+177,0,Medicine0a,I won't lose this time either/ Yuuka!
+178,0,Medicine0a,I'm here to help/ Mehko!
+179,0,Medicine0a,I'll beat them up for you/ Mehko!
+180,0,Medicine0a,Quit spacing out/ Mehko!
+181,0,Medicine0a,Need a hand/ Mehko?
+182,0,Medicine0a,I'm here to help/ Makura!
+183,0,Medicine0a,I'll beat them up for you/ Makura!
+184,0,Medicine0a,Quit spacing out/ Makura!
+185,0,Medicine0a,Need a hand/ Makura?

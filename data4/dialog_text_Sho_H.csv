@@ -1,0 +1,338 @@
+LineID,face,dialog
+0,0,Sho0a,W-Wait/ am I supposed to fight alone?
+1,0,Sho0a,Hopefully I won't just drag the others down...
+2,0,Sho0a,Can't we talk this out?
+3,0,Sho0a,I can fight too! I think!
+4,0,Sho0a,I just hope I haven't gotten too rusty...
+5,0,Sho0a,I should be able to slow them down/ at least...
+6,0,Sho0a,Please don't think badly of me for this!
+7,0,Sho0a,If I withdraw/ I'm in for a scolding...
+8,0,Sho0a,I mustn't run away. I mustn't run away...
+9,0,Sho2a,Ow. I couldn't dodge that after all...
+10,0,Sho2a,Was I being careless?
+11,0,Sho2a,Oww... That hurts...
+12,0,Sho2a,I can't get away?!
+13,0,Sho2a,I knew I wasn't cut out for this!
+14,0,Sho2a,I can block it/ at least!
+15,0,Sho2a,I-I'm only getting hit so I can find your weakness!
+16,0,Sho2a,If I can just keep stalling for time...
+17,0,Sho2a,W-Well/ if I can't run away/ then I'll try blocking!
+18,0,Sho0a,Are you going easy on me?
+19,0,Sho0a,I don't know how/ but I did it!
+20,0,Sho0a,I thought you might do that.
+21,0,Sho0a,I-I can dodge things too!
+22,0,Sho0a,Good! Now I can make my escape.
+23,0,Sho0a,I'll carve open a path!
+24,0,Sho0a,If I'm going to fight/ I'll put my all into it!
+25,0,Sho0a,I'll rid us of any disaster!
+26,0,Sho0a,You were the one who attacked me/ right?
+27,0,Sho0a,I'll fight if I have to!
+28,0,Sho0a,I fight for what I believe in!
+29,0,Sho0a,No more hesitation!
+30,0,Sho0a,I won't drag anyone else down!
+31,0,Sho0a,I have faith I have the strength to do this!
+32,0,Sho0a,I can fight too!
+33,0,Sho0a,Can't we talk this out?
+34,0,Sho0a,What do you seek to gain from this battle?
+35,0,Sho0a,For what I believe in!
+36,0,Sho0a,Out of the way!
+37,0,Sho0a,Please don't think badly of me for this!
+38,0,Sho0a,I have to believe this is still winnable!
+39,0,Sho0a,If I can just win here...well/ then I'll win!
+40,0,Sho0a,I have to be decisive now!
+41,0,Sho0a,From victory I will grasp pride!
+42,0,Sho0a,I'm prepared to take you down with me!
+43,0,Sho0a,Now's when I have to focus my mind...
+44,0,Sho0a,I'll never give up on this fight!
+45,0,Sho1a,Here I come!
+46,0,Sho1a,Um/ roooar!
+47,0,Sho1a,I've got you!
+48,0,Sho1a,As hard as I can!
+49,0,Sho1a,Take this!
+50,0,Sho1a,I'll use these vajra filled with Buddhist power!
+51,0,Sho1a,I'd never misplace these artifacts/ at least!
+52,0,Sho1a,Go/ vajra!
+53,0,Sho1a,If I'm not sure how to attack... I'll use these!
+54,0,Sho1a,I should still have my fangs...!
+54,1,Sho1a,Got you!
+54,2,Sho1a,Got you! Now to bite down!
+55,0,Sho1a,I see you!
+55,1,Sho1a,Got you!
+55,2,Sho1a,Got you! Giacobinid Meteor Thrust!!
+56,0,Sho1a,I'll use brute force...
+56,1,Sho1a,to push you back!
+56,2,Sho1a,to push you back!
+57,0,Sho1a,I can handle things at this range!
+57,1,Sho1a,Once I have you...
+57,2,Sho1a,Once I have you...you won't get away!
+58,0,Sho0a,Grant us your light/ o pagoda!
+58,1,Sho0a,And show us...
+58,2,Sho0a,...the path we must take!
+59,0,Sho0a,Shine/ pagoda!
+59,1,Sho0a,And bring light...
+59,2,Sho0a,...to the justice I believe in!
+60,0,Sho0a,This is the jeweled pagoda of Bishamonten!
+60,1,Sho0a,This is the jeweled pagoda of Bishamonten!
+60,2,Sho0a,Bear witness!
+61,0,Sho0a,Witness the pagoda's radiance...
+61,1,Sho0a,Witness the pagoda's radiance...
+61,2,Sho1a,...and prostrate yourselves before it!
+62,0,Sho0a,No more time for talking!
+62,1,Sho0a,This power is unquestionable! Unbreakable!
+62,2,Sho0a,Absolute Justice!
+62,3,Sho0a,...That was a good fight.
+63,0,Sho0a,Here and now/ I will unleash it all...
+63,1,Sho0a,The authority of justice! The pagoda's power!
+63,2,Sho0a,Haaahhh!
+63,3,Sho0a,...My heart will never again waver.
+64,0,Sho0a,This is my last resort!
+64,1,Sho0a,Lord Bishamonten's power is with us!
+64,2,Sho0a,Haaahhh!
+64,3,Sho0a,...No hesitation clouds my mind.
+65,0,Sho0a,I-I'll just wait for another turn.
+66,0,Sho0a,All I can do is dodge? I can't believe it...
+67,0,Sho0a,There's nothing I can do... I can't believe it...
+68,0,Sho0a,N-Nazrin/ find the enemy for me!
+69,0,Sho0a,Now I really can't lose!
+70,0,Sho0a,We'll win this together!
+71,0,Sho0a,It looks like you created an opening!
+72,0,Sho0a,Let's keep pushing them back!
+73,0,Sho0a,Leave it to me! I'll handle this somehow!
+74,0,Sho0a,Even I can be helpful sometimes!
+75,0,Sho0a,Whenever you're in danger/ I'll lend a hand!
+76,0,Sho0a,Staying close to you was a good plan!
+77,0,Sho0a,Let me handle defense while you focus on offense!
+78,0,Sho1a,I'll create an opening!
+79,0,Sho1a,If we cooperate/ we'll be able to do even better!
+80,0,Sho1a,I'll use an artifact!
+81,0,Sho1a,Please believe in yourself! You can do this!
+82,0,Sho1a,If things get dangerous/ I'll jump out in front!
+83,0,Sho1a,Cheering you from the sidelines won't do much!
+84,0,Sho1a,I'll draw their attention away!
+85,0,Sho0a,For what I believe in!
+86,0,Sho0a,If we cooperate/ we'll be able to do even better!
+87,0,Sho0a,I have faith that we can do this!
+88,0,Sho2a,Youmu! She did that for me...
+89,0,Sho0a,I'll fight too/ Youmu!
+90,0,Sho0a,My weapon is every bit as sharp as yours!
+91,0,Sho0a,You have no hesitation in your movements. I'll follow you!
+92,0,Sho0a,I won't let you get in Youmu's way!
+93,0,Sho0a,Youmu/ focus on attacking!
+94,0,Sho0a,I'll take this hit/ Youmu!
+95,0,Sho1a,Let's fight side by side/ Youmu!
+96,0,Sho1a,I know you can do this/ Youmu!
+97,0,Sho1a,I'll create an opening with my artifacts/ Youmu!
+98,0,Sho1a,If you need someone to cut through their ranks/ I'll come with you.
+99,0,Sho1a,Don't get yourself hurt/ Youmu!
+100,0,Sho1a,Neither of us has cause to waver/ Youmu!
+101,0,Sho1a,Let's have faith that we can accomplish this!
+102,0,Sho0a,My justice is with you/ Youmu!
+103,0,Sho2a,Ran! She did that for me...
+104,0,Sho0a,I'll fight too/ Ran!
+105,0,Sho0a,Seems like the fox doesn't need much help from this tiger...
+106,0,Sho0a,I just have to keep up with Ran's movements!
+107,0,Sho0a,You may not need any help from the likes of me/ but still!
+108,0,Sho0a,I'll take this hit/ Ran!
+109,0,Sho0a,Ran/ focus on attacking!
+110,0,Sho1a,I'll create an opening with my tools/ Ran!
+111,0,Sho1a,I'm not sure I'm good enough to lend you my power/ but...
+112,0,Sho1a,Let's fight side by side/ Ran!
+113,0,Sho1a,I'm sure Ran will be fine/ but still!
+114,0,Sho1a,Don't get yourself hurt/ Ran!
+115,0,Sho1a,Have faith in us/ Ran!
+116,0,Sho0a,My justice is with you/ Ran!
+117,0,Sho0a,I'll match you move for move/ Ran!
+118,0,Sho2a,Nazrin... I'll avenge you/ I promise!
+119,0,Sho0a,Time to look good in front of Nazrin!
+120,0,Sho0a,Please back down/ Nazrin!
+121,0,Sho0a,It's my turn to support you/ Nazrin!
+122,0,Sho0a,Don't push yourself too hard/ Nazrin.
+123,0,Sho0a,I won't let you lay a hand on Nazrin!
+124,0,Sho0a,It's my turn to support you/ Nazrin!
+125,0,Sho1a,I'll create an opening with my artifacts/ Nazrin!
+126,0,Sho1a,If Nazrin says you're an enemy/ then that's it! You are one!
+127,0,Sho1a,If I work with Nazrin/ there's nobody we can't beat!
+128,0,Sho1a,Don't get yourself hurt/ Nazrin!
+129,0,Sho1a,Nazrin/ if it gets dangerous/ switch with me!
+130,0,Sho1a,Let's have faith that we can accomplish this/ Nazrin!
+131,0,Sho1a,Watch me/ Nazrin!
+132,0,Sho1a,Nazrin/ justice is with us!
+133,0,Sho2a,Ichirin did that for me?!
+134,0,Sho0a,I'll follow up/ Ichirin!
+135,0,Sho0a,Ichirin/ Unzan/ I'll fight too!
+136,0,Sho0a,You're not getting in Ichirin's way!
+137,0,Sho0a,I'll take this hit/ Ichirin!
+138,0,Sho1a,I'll create an opening with my artifacts/ Ichirin!
+139,0,Sho1a,Ichirin/ Unzan/ I'll fight too!
+140,0,Sho1a,I know you can do this/ Ichirin!
+141,0,Sho1a,I'll make it easier for you two!
+142,0,Sho1a,I'll create an opening/ Ichirin!
+143,0,Sho1a,Have faith that you can do this/ Ichirin!
+144,0,Sho1a,Try not to let the blood rush to your head/ you two...
+145,0,Sho0a,Justice is with us/ Ichirin!
+146,0,Sho2a,Murasa did that for me?!
+147,0,Sho0a,I'll follow up/ Murasa!
+148,0,Sho0a,Let me help you/ Murasa!
+149,0,Sho0a,You're not getting in Murasa's way!
+150,0,Sho0a,I'll take this hit/ Murasa!
+151,0,Sho1a,I'll rush them too/ Murasa!
+152,0,Sho1a,I know you can do this/ Murasa!
+153,0,Sho1a,I'll create an opening with my artifacts/ Murasa!
+154,0,Sho1a,Let me help you/ Murasa!
+155,0,Sho1a,I'll create an opening/ Murasa!
+156,0,Sho1a,Have faith in us/ Murasa!
+157,0,Sho1a,Let's show them the full extent of our strength/ Murasa!
+158,0,Sho0a,Justice is with us/ Murasa!
+159,0,Sho2a,Hijiri did that for me?!
+160,0,Sho0a,Hijiri/ I'm standing by!
+161,0,Sho0a,I'll fight too/ Hijiri!
+162,0,Sho0a,You'll never hurt Hijiri!
+163,0,Sho0a,Please don't bully Hijiri/ okay?
+164,0,Sho0a,I'll protect Hijiri!
+165,0,Sho1a,Let's go/ Hijiri!
+166,0,Sho1a,I'll rush them first/ Hijiri!
+167,0,Sho1a,Let me make things easier for you/ Hijiri!
+168,0,Sho1a,I'll take the lead/ Hijiri!
+169,0,Sho1a,I'll create an opening/ Hijiri!
+170,0,Sho0a,Hijiri/ please light our path!
+171,0,Sho0a,We can do this together/ Hijiri!
+172,0,Sho0a,Hijiri/ justice is with us!
+173,0,Sho0a,No! I can't believe the Palanquin Ship sunk...
+174,0,Sho0a,I can't leave all the fighting to the Palanquin Ship!
+175,0,Sho0a,I'll handle this/ everyone!
+176,0,Sho0a,Pull the ship back! I'll handle it!
+177,0,Sho0a,I won't let you so much as scratch the Palanquin Ship!
+178,0,Sho0a,No! I can't believe the Palanquin Ship sunk...
+179,0,Sho0a,I can't leave all the fighting to the Palanquin Ship!
+180,0,Sho0a,I'll show you what I can do/ Murasa!
+181,0,Sho0a,Leave the rest to me/ Murasa!
+182,0,Sho0a,Leave the rest to me/ Murasa!
+183,0,Sho0a,Pull the ship back! I'll handle it!
+184,0,Sho0a,I won't let you so much as scratch the Palanquin Ship!
+185,0,Sho2a,You didn't need to go that far/ Nue!
+186,0,Sho0a,Leave the rest to me/ Nue!
+187,0,Sho0a,Let me help you too/ Nue!
+188,0,Sho0a,Please pull back/ Nue!
+189,0,Sho0a,It's a good thing I was close to Nue!
+190,0,Sho0a,Nue/ are you okay?
+191,0,Sho0a,I'll fight too/ Nue!
+192,0,Sho0a,I know I don't need to worry about Nue/ but still...
+193,0,Sho0a,Let me help you out/ Nue!
+194,0,Sho0a,Let's fight side by side/ Nue!
+195,0,Sho0a,I'll create an opening with my artifacts/ Nue!
+196,0,Sho0a,I have faith that we can accomplish this/ Nue!
+197,0,Sho0a,Lend me your power as a great youkai/ Nue!
+198,0,Sho0a,Nue/ I entrust you with my justice!
+199,0,Sho0a,You shall not pass!
+200,0,Sho0a,I will endure!
+201,0,Sho0a,No matter what hardships come my way/ I will face them!
+202,0,Sho0a,Please/ settle down and surrender.
+203,0,Sho0a,That won't even slow me down!
+204,0,Sho0a,Please be serious the next time you try.
+205,0,Sho0a,You're not taking pity on me/ are you?
+206,0,Sho0a,I seem to be doing pretty well today.
+207,0,Sho0a,Huh? Were you not being serious?
+208,0,Sho2a,I now know to never abandon hope!
+209,0,Sho2a,I've no strength left... Did I push myself too far?
+210,0,Sho2a,This fight isn't over yet!
+211,0,Sho2a,You'll never break my convictions!
+212,0,Sho2a,I have to find a way to turn the tables!
+213,0,Sho2a,I'm sorry! I'll do better next time!
+214,0,Sho2a,Ow. I need to learn from this mistake...
+215,0,Sho2a,Ow. You seem pretty skilled.
+216,0,Sho2a,I can't keep letting them hit me...
+217,0,Sho2a,I couldn't deal with the way they were moving...
+218,0,Sho2a,Was I being careless?
+219,0,Sho0a,I can block it/ at least!
+220,0,Sho0a,I'll push through this!
+221,0,Sho0a,I'll block this one!
+222,0,Sho2a,I-I'm only getting hit so I can find your weakness!
+223,0,Sho0a,I have to keep moving!
+224,0,Sho0a,That's not enough to make me falter!
+225,0,Sho2a,I won't cry out!
+226,0,Sho0a,Willpower will get me through this!
+227,0,Sho2a,Oh/ this isn't looking good for me...
+228,0,Sho0a,I'm always moving around too!
+229,0,Sho0a,Are you going easy on me?
+230,0,Sho0a,I don't know how/ but I did it!
+231,0,Sho0a,I see you!
+232,0,Sho0a,This is how I'll handle this!
+233,0,Sho0a,If I can just keep stalling for time...
+234,0,Sho0a,I think I got through it alright...
+235,0,Sho0a,It might not be this easy next time...
+236,0,Sho0a,I thought you might do that.
+237,0,Sho0a,No need to worry as long as I have this!
+238,0,Sho0a,What a handy tool this is!
+239,0,Sho0a,I don't know how/ but I did it!
+240,0,Sho0a,I can use my spear to block attacks!
+241,0,Sho0a,You have good aim... But I saw it coming!
+242,0,Sho0a,This is exactly what my spear is for!
+243,0,Sho0a,Sorry! I'm taking this chance to strike first!
+244,0,Sho0a,Bishamonten's protection is with me!
+245,0,Sho2a,I guess my skills just weren't enough...
+246,0,Sho2a,Maybe I was doomed from the start...
+247,0,Sho2a,This sorry display will mar Lord Bishamonten's dignity...
+248,0,Sho2a,I'm sorry. I'm just holding you all back.
+249,0,Sho0a,I'm trying my best too/ you know!
+250,0,Sho0a,I... I may not have her spirit/ but...
+251,0,Sho2a,You may be more determined than me/ but I still...
+252,0,Sho0a,Can I even do anything against her?
+253,0,Sho2a,Ow! I can't handle this...!
+254,0,Sho2a,Your swings have no hesitation at all/ do they...
+255,0,Sho0a,Running is the best answer when your opponent is stronger.
+256,0,Sho0a,I've got my hands full just dodging...
+257,0,Sho0a,Please/ listen to what Youmu is telling you!
+258,0,Sho0a,I can't let myself run away! Not now!
+259,0,Sho0a,If we have to fight/ then I'll do my best as I am now!
+260,0,Sho0a,I don't have any reason to fight you/ but...
+261,0,Sho2a,She's so powerful...
+262,0,Sho2a,I can't let myself run away! Not now!
+263,0,Sho0a,You don't need to show me any mercy!
+264,0,Sho0a,That went better than expected.
+265,0,Sho0a,I'm sorry if this hurts anyone!
+266,0,Sho0a,You shouldn't play crazy games like this! It's dangerous!
+267,0,Sho0a,Please/ Nue/ lay down your arms!
+268,0,Sho0a,Nue/ there's something we still have to do!
+269,0,Sho0a,If you talk it out with Murasa and the others/ I know they'll understand!
+270,0,Sho0a,Nue/ please/ stop this! You're putting yourself in danger!
+271,0,Sho0a,I can't afford to lose! Not with Utsuho's feelings on the line!
+272,0,Sho0a,For now/ I have to fight. Both for the surface and for the Underworld!
+273,0,Sho2a,You didn't need to go that far/ Nue!
+274,0,Sho0a,Nue/ I'm certain we can understand each other!
+275,0,Sho0a,Let me help you too/ Nue!
+276,0,Sho0a,Please pull back/ Nue!
+277,0,Sho0a,It's a good thing I was close to Nue!
+278,0,Sho0a,Nue/ are you okay?
+279,0,Sho0a,I'm sorry if this hurts anyone!
+280,0,Sho0a,You shouldn't play crazy games like this! It's dangerous!
+281,0,Sho0a,I hope no lightning strikes my spear...
+282,0,Sho0a,What a mysterious power. I'm not even sure I should fight seriously...
+283,0,Sho0a,She looks totally vulnerable at first/ but then!
+284,0,Sho0a,Don't use those artifacts like that! Can't you hear them crying?
+285,0,Sho0a,I won't tolerate anymore of your misdeeds!
+286,0,Sho0a,Please/ just listen to what we have to say!
+287,0,Sho0a,Nue/ please/ listen to us!
+288,0,Sho0a,Please talk this out with Murasa and the others/ just once!
+289,0,Sho0a,I understand this is only justice from my point of view!
+290,0,Sho0a,This is... It's all to save Hijiri!
+291,0,Sho0a,I won't lose to shadows like these!
+292,0,Sho0a,Shadows will never be able to break our justice!
+293,0,Sho0a,As long as we all keep the faith/ Hijiri will never lose her way!
+294,0,Sho0a,I will scatter Hijiri's shadow!
+295,0,Sho0a,For what I believe in!
+296,0,Sho0a,I will scatter my shadow!
+297,0,Sho0a,As their idol/ I will drive away everyone's fears and doubts!
+298,0,Sho0a,This sight will not make my justice waver!
+299,0,Sho0a,So that's what justice means to you/ Mehko.
+300,0,Sho0a,Is this truly what justice means to you/ Mehko?
+301,0,Sho0a,Is anyone going to be happy with what you're doing?!
+302,0,Sho2a,Mehko/ the fight's already over!
+303,0,Sho0a,Show me what justice means to you/ Makura!
+304,0,Sho0a,The glow of this dream is Makura's ideal...
+305,0,Sho0a,The time for hesitation is over. We'll let our ideals of justice do the talking!
+306,0,Sho0a,Shitone/ show me what justice means to you!
+307,0,Sho0a,The glow of this dream is Shitone's ideal...
+308,0,Sho0a,The time for hesitation is over. We'll let our ideals of justice do the talking!
+309,0,Sho0a,I'm right behind you/ Youmu!
+310,0,Sho1a,A two-pronged stance of sword and spear...
+310,1,Sho1a,This is it!

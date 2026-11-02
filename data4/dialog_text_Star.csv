@@ -1,0 +1,201 @@
+ID,LineID,face,dialog
+0,0,Star0a,Well/ let's see how this goes.
+1,0,Star0a,Maybe I can win if I strike first.
+2,0,Star0a,I was never much of a fighter.
+3,0,Star0a,I don't like to stand out...
+4,0,Star0a,Always fight back when someone attacks you.\n　That's the fairy way.
+5,0,Star0a,I should be able to strike back. Let's see...
+6,0,Star0a,I'm one of the weakest fairies around.\n　Do I get points for not giving up?
+7,0,Star0a,I can see you perfectly!
+8,0,Star0a,I help too/ sometimes!
+9,0,Star0a,This comes natural to us.
+10,0,Star0a,Time to test our special attack.
+11,0,Star1a,Here goes!
+12,0,Star1a,Weee!
+13,0,Star1a,Incoming!
+14,0,Star1a,There!
+15,0,Star1a,I hope this hits!
+16,0,Star1a,I know exactly where you are!
+17,0,Star0a,I'll just shoot in your general direction!
+18,0,Star0a,I can sense anything that moves.
+19,0,Star1a,It's hard to dodge when I spread them out like this/ don't you think?
+20,0,Star0a,Girls/ give me a hand.
+20,1,Sunny0a,Let's do this/ Luna/ Star!
+20,2,Luna1a,Alright!
+20,3,Star0a,Working together's our thing.
+20,4,Sunny1a,Ready? Now!
+21,0,Star0a,Please take it from here/ girls.
+21,1,Sunny0a,What do you mean/ take it from here"?\n　This won't work without you/ Star!
+21,2,Luna0a,Yeah. It's three-or-nothing.
+21,3,Star0a,Oh/ I guess that's true.\n　Well/ let's do it/ then.
+21,4,Sunny1a,Gotcha. Now!
+22,0,Star0a,Since we're here/ we might as well use our formation.
+22,1,Sunny0a,Sure. Star/ you do the honors.
+22,2,Star0a,Very well. I have to say the line/ right?
+22,3,Luna0a,That's right. Honestly/ I figured you'd hate that.
+22,4,Star0a,I don't mind that much—\n　...Oh. Sorry/ that's all the time we get.
+23,0,Star0a,Together/ we can do anything!
+23,1,Sunny0a,Okay Star/ you be the leader this time.
+23,2,Luna0a,We'll attack at the count of three.
+23,3,Star0a,I'll count. One/ two...
+23,4,Star1a,Three!
+24,0,Star0a,Together/ we can do anything!
+24,1,Sunny0a,Okay Star/ you be the leader this time.
+24,2,Luna0a,We'll attack at the count of three.
+24,3,Star0a,I'll count. One/ two...
+24,4,Star1a,Hiyaah!!
+25,0,Star0a,Together/ we can do anything!
+25,1,Sunny0a,Okay Star/ you be the leader again!
+25,2,Luna0a,We'll attack at the count of three.
+25,3,Star0a,Very well.\n　One-two-three-go!
+25,4,Luna0a,Huh?\n　Hey/ wait up!
+26,0,Star0a,Time to work together/ girls.
+26,1,Sunny0a,The L Formation Attack/ right?
+26,2,Luna0a,Yes. Let's show them what the Three Fairies of Light are made of!
+26,3,Star0a,Count us down/ Sunny.
+26,4,Sunny1a,Okay! Three/ two/ one... Go!
+27,0,Star0a,Let's get in formation.
+27,1,Sunny0a,Ready to fire whenever you are.
+27,2,Luna1a,We've been practicing every day for this!
+27,3,Star0a,Counting down. Three/ two/ one...
+27,4,Sunny1a,Light 'em up!
+28,0,Star0a,Let's do that/ girls.
+28,1,Sunny0a,That?\n　Oh/ you mean that"!
+28,2,Luna0a,You want to show them how close we are/ right?
+28,3,Star0a,You got it. We'll follow your lead/ Sunny.
+28,4,Sunny1a,Gotcha. Here goes!\n　Ka-BLOOM!
+29,0,Star0a,Together/ we can do anything!
+29,1,Sunny0a,Okay/ let's go for our usual formation.
+29,2,Star0a,Sure thing. Have fun/ girls.
+29,3,Luna0a,Staaar! You have to join/ too!
+29,4,Star1a,I know/ I know. Hyaaah!!
+30,0,Star0a,What if I just kept running and left altogether?
+31,0,Star0a,I can sense your presence/ you know?
+32,0,Star0a,What if I just kept running and left altogether?
+33,0,Star0a,Whoops. I didn't mean to use you as a shield.
+34,0,Star0a,There's the enemy!
+35,0,Star0a,There's more where that came from!
+36,0,Star0a,I guess I have to put in some effort once in a while.
+37,0,Star0a,Sure. Use the weak fairy as a shield.
+38,0,Star0a,I'll stay here and try to annoy them!
+39,0,Star0a,I love staying back. It's safe/ and it looks like I'm doing something.
+40,0,Star0a,They shouldn't be coming my way/ which is perfect.
+41,0,Star0a,They're approaching from that direction.\n　Better be careful!
+42,0,Star0a,I suggest we shoot that way and see how it goes.
+43,0,Star0a,I suppose I might as well fire some danmaku.
+44,0,Star0a,This is the perfect time to strike!
+45,0,Star0a,I'll assist you with my star powers!
+46,0,Star0a,Strike while the stars shine bright!
+47,0,Star1a,They got Sunny?!\n　I won't stand for this!
+48,0,Star1a,Mind if I jump in/ Sunny?
+49,0,Star1a,I'll follow your lead/ Sunny!
+50,0,Star0a,Oh/ Sunny. You're always so reckless.
+51,0,Star0a,Sunny! Are you okay?!
+52,0,Star0a,If I were the lead/ we'd probably take it easier...
+53,0,Star0a,Sunny/ it's time to show what we fairies are made of.
+54,0,Star0a,Sunny/ use your power well!
+55,0,Star0a,Sunny/ I found the enemy!
+56,0,Star0a,Sunny/ I sense a presence over there!
+57,0,Star0a,Go for it/ Sunny!
+58,0,Star0a,Come on Sunny/ you can do it!
+59,0,Star0a,The stars are always there to support the Sun!
+60,0,Star0a,This is as good as it gets! Now/ Sunny!
+61,0,Star0a,Together/ we are like one!
+62,0,Star1a,I'm so sorry/ Luna!
+63,0,Star0a,Mind if I jump in/ Luna?
+64,0,Star0a,With Luna's ability to mute sound/ I can sneak in and attack!
+65,0,Star0a,Oh/ Luna. You're always so careless.
+66,0,Star0a,Lunaaa! You're such a klutz!\n　...Wait/ isn't this Sunny's job?
+67,0,Star0a,If I were the lead/ we'd probably take it easier...
+68,0,Star0a,I think even the two of us could win this one/ Luna.
+69,0,Star0a,Luna/ use your power well!
+70,0,Star0a,I wonder if the two of us are actually making a difference.
+71,0,Star0a,Let's go/ Luna!
+72,0,Star0a,Luna/ I found the enemy!
+73,0,Star0a,Come on/ Luna/ you can do it!
+74,0,Star0a,The stars are there to support the moon!
+75,0,Star0a,This is as good as it gets! Now/ Luna!
+76,0,Star0a,Together/ we are like one!
+77,0,Star0a,I'm sorry/ Rumia!
+78,0,Star0a,Mind if I jump in/ Rumia?
+79,0,Star0a,Right behind you/ Rumia!
+80,0,Star0a,Oh/ Rumia. You're always so reckless.
+81,0,Star0a,Rumia! Are you okay?
+82,0,Star0a,Rumia/ I found the enemy!
+83,0,Star0a,Go for it/ Rumia!
+84,0,Star0a,Come on Rumia/ you can do it!
+85,0,Star0a,This is as good as it gets! Now/ Rumia!
+86,0,Star0a,I suppose I might as well fire some danmaku.
+87,0,Star0a,The stars are on your side/ Rumia!
+88,0,Star0a,Rumia's on a roll. I'll go with the flow!
+89,0,Star0a,Rumia! We fight together as one!
+90,0,Star0a,I'm so sorry/ Dai!
+91,0,Star0a,Initiating FFC—Feeble Fairy Combination!\n　...Just kidding.
+92,0,Star0a,I'm right behind you/ Dai!
+93,0,Star0a,Oh/ Dai... It's alright/ I'll help you.
+94,0,Star0a,Are you okay/ Dai?
+95,0,Star0a,Dai/ I found the enemy!
+96,0,Star0a,Let's do our best/ Dai!
+97,0,Star0a,Hopefully between the two of us we manage to hit something.
+98,0,Star0a,This is as good as it gets! Now/ Dai!
+99,0,Star0a,I suppose I might as well fire some danmaku.
+100,0,Star0a,The stars are on your side/ Dai!
+101,0,Star0a,Dai's on a roll. I'll go with the flow!
+102,0,Star0a,Dai! We fight together as one!
+103,0,Star0a,I'm sorry/ Cirno!
+104,0,Star0a,Mind if I jump in/ Cirno?
+105,0,Star0a,I'm right behind you/ Cirno!
+106,0,Star0a,Oh/ Cirno. You're always so reckless.
+107,0,Star0a,Cirno/ you okay?
+108,0,Star0a,Cirno/ I found the enemy!
+109,0,Star0a,Come on Cirno/ you can do it!
+110,0,Star0a,Cirno/ it's time to show what we fairies are made of.
+111,0,Star0a,This is as good as it gets! Now/ Cirno!
+112,0,Star0a,I suppose I might as well fire some danmaku.
+113,0,Star0a,The stars are on your side/ Cirno!
+114,0,Star0a,Cirno's on a roll. I'll go with the flow!
+115,0,Star0a,Cirno! We fight together as one!
+116,0,Star0a,M-Marisa?! Th-This can't be real!
+117,0,Star0a,Initiating FFC—Feeble Fairy Combination!\n　...Just kidding.
+118,0,Star0a,Mind if I help/ Alice?
+119,0,Star0a,I suppose I can help a shrine maiden once in a while.
+120,0,Star1a,The stars and the moon are always a good match!
+121,0,Star1a,I think some starlight would go well with your concert!
+122,0,Star1a,Allow me to help/ Lunasa!
+123,0,Star0a,Careful now. I don't want to mess up the performance.
+124,0,Star1a,I'll set the stage! Give this story a happy ending!
+125,0,Star1a,Allow me to help/ Merlin!
+126,0,Star0a,Is she going to sample these sounds too?
+127,0,Star1a,Allow me to assist/ Lyrica!
+128,0,Star1a,Let us combine our stellar powers!
+129,0,Star0a,Hey! That hurts!
+130,0,Star2a,Eeek!
+131,0,Star2a,I'll report you for fairy abuse!
+132,0,Star2a,I couldn't dodge it!
+133,0,Star2a,Why me?!
+134,0,Star2a,Owww! Would you stop that?!
+135,0,Star0a,That won't do.
+136,0,Star0a,I can't take it easy this time/ can I?
+137,0,Star0a,How about you give up and go home instead?
+138,0,Star0a,I can sense anything that moves. Anything.
+139,0,Star0a,Could you please attack someone else now?
+140,0,Star0a,This is not my first danmaku battle/ you know.
+141,0,Star0a,Heheheh. I think I'll put on some tea.
+142,0,Star0a,I knew exactly where you were coming from.
+143,0,Star0a,Seeing things coming is kind of my thing.
+144,0,Star2a,They got meee!
+145,0,Star2a,Th-This shouldn't have happened...
+146,0,Star0a,Well/ I guess I worked hard enough for today.
+147,0,Star0a,Well/ there you have it.\n　If you need me/ I'll be in the back/ having some tea.
+148,0,Star0a,Dai/ how about we go sit in a corner and just wait this out?
+149,0,Star0a,I'm ready to fight/ Dai.
+150,0,Star0a,Rumia/ how about we go sit in a corner and just wait this out?
+151,0,Star0a,I'm ready to fight/ Rumia.
+152,0,Star0a,Cirno/ how about we go sit in a corner and just wait this out?
+153,0,Star0a,I'm ready to fight/ Cirno.
+154,0,Star0a,I can't believe I'm actually trying to fight a god...
+155,0,Star0a,I know it won't amount to much/ but I'd regret forever not even trying.
+156,0,Star0a,You never learn/ do you?
+157,0,Star0a,I have to admit/ it IS a pretty good prank.
+158,0,Star0a,You never learn/ do you?
+159,0,Star0a,I have to admit/ it IS a pretty good prank.

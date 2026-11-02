@@ -1,0 +1,196 @@
+ID,LineID,face,dialog
+0,0,Korin0a,I'll show you the power of the Palanquin Ship!
+1,0,Korin0a,Let's try attacking them from here.
+2,0,Korin0a,It's time to fight. Are you ready?!
+2,1,Kosuzu0a,Uh oh/ I've gotta hold on to something...
+3,0,Akyu0a,Enemy ahead!
+4,0,Akyu0a,We'll soon make contact with the enemy.
+5,0,Kosuzu0a,Wait/ is there still more fighting to do?!
+5,1,Akyu0a,Naturally!
+6,0,Akyu0a,The autopilot is functioning normally. Executing maneuvers!
+7,0,Korin0a,Get the ship in position/ now!
+8,0,Korin0a,Sorry/ but we're not just going to sit here and take it!
+9,0,Korin0a,We'll have our say too!
+10,0,Akyu0a,They're within our firing range!
+11,0,Kosuzu0a,Looks like they're still near us!
+11,1,Korin0a,Then let's fire back!
+12,0,Akyu0a,At this distance we can catch up with them!
+13,0,Akyu1a,Mr. Kourindou/ the enemy is running away!
+13,1,Korin0a,Not if we don't let them!
+14,0,Korin1a,Machine guns/ full auto!
+15,0,Korin1a,This should be enough to hold them back!
+16,0,Akyu1a,Firing a spread of danmaku!
+17,0,Akyu1a,Please fire the machine guns!
+18,0,Korin1a,Auxiliary Spirit Cannons/ fire!
+19,0,Korin1a,Spirit Cannons/ fire a volley!
+20,0,Korin1a,Auxiliary Spirit Cannons/ make all guns ready!
+21,0,Korin1a,Firing the main gun/ keep out of the way!
+22,0,Korin1a,Now's our chance! Give them everything we've got!
+23,0,Akyu1a,The main armament is prepared to fire!
+24,0,Korin1a,Bring the buddhist reactor to full power!
+24,1,Akyu1a,Mr. Kourindou/ it's ready!
+24,2,Korin1a,Fire!
+25,0,Akyu1a,The main armament is ready now!
+25,1,Korin1a,Targeting complete/ good to fire!
+25,2,Korin1a,Fire!!!
+26,0,Korin1a,Prepare to fire the Spirit Cannon!
+26,1,Akyu1a,It's ready!
+26,2,Korin1a,Let's go!
+27,0,Korin1a,Captain Murasa left us this...
+27,1,Akyu1a,Firing the anchor!
+27,2,Korin1a,Now's the time! All guns/ fire at will!
+28,0,Akyu1a,Power output rising/ we're ascending!
+28,1,Korin1a,Drop anchor!
+28,2,Korin1a,All guns/ fire a volley!
+29,0,Korin1a,We'll secure the ship's hull in place/ then bombard them!
+29,1,Akyu1a,Dropping the anchor!
+29,2,Korin1a,Concentrated fire!
+30,0,Korin1a,Looks like we have no choice but to use it.
+30,1,Kosuzu2a,Firing the Heavy Buddhist Missile.\n Everyone nearby/ please take cover!
+30,2,Korin0a,Arming complete/ adjusting angle of fire...
+30,3,Akyu0a,I'll handle correcting the aim.\n Mr. Kourindou/ you have the trigger!
+30,4,Korin1a,Missile/ direct fire!
+30,5,Akyu0a,The target is completely silent...
+30,6,Korin0a,What awe-inspiring power...
+31,0,Korin1a,We're using the Heavy Buddhist Missile.\n Warn everyone nearby/ please.
+31,1,Kosuzu2a,Blast warning!\n Everyone/ please evacuate to a distance of 1000!
+31,2,Akyu0a,Trajectory calculations complete.
+31,3,Korin0a,With me pulling the trigger/ it can't fail!
+31,4,Korin1a,Ignition!
+31,5,Akyu0a,The target has been completely silenced!
+31,6,Korin0a,We probably shouldn't use this thing too much...
+32,0,Korin1a,Let's rise/ we can do some precision fire from above.
+32,1,Akyu1a,The target has entered our firing range!
+32,2,Korin0a,Sound the alarm!\n We're using the Heavy Buddhist Missile!
+32,3,kosuzu2a,Confirming our allies' withdrawal...\n Aim correction/ complete!
+32,4,Korin1a,Fire missiles!
+32,5,Akyu0a,Direct hit confirmed. Our allies are okay.
+32,6,Korin0a,Let's just get ourselves out of the fire.
+33,0,Korin0a,Get us back in position!
+34,0,Akyu0a,We can't attack while at this angle...
+35,0,Korin0a,We got taken for a ride/ so to speak...
+36,0,Korin0a,Wh- where'd that attack come from?!
+36,1,Akyu2a,Targeting systems show nothing in range!
+37,0,Korin0a,Kosuzu! What's the range to the enemy?!
+37,1,Kosuzu0a,... Looks far/ Mr. Kourindou!
+38,0,Korin0a,We're bound by duty to see this through/ now.
+39,0,Akyu0a,We've come to provide assistance.\n Please give us some room!
+40,0,Korin0a,Leave the rest up to us.
+41,0,Kosuzu0a,That was a good one!
+42,0,Akyu0a,Mr. Kourindou/ let's screen them with the Palanquin Ship.
+43,0,Korin0a,We'll protect our allies with the ship itself!
+44,0,Akyu1a,Murasa/ this isn't going to help you fulfill your ambition at all!
+45,0,Murasa0a,Palanquin Ship/ follow up after me!
+45,1,Korin0a,This is a nice position to be in.
+46,0,Murasa0a,Follow up with another attack from the ship!
+46,1,Akyu0a,We're on it/ Murasa.
+47,0,Korin0a,Murasa/ we came to check up on you.
+48,0,Korin0a,Murasa/ we'll handle it from here.
+49,0,Akyu0a,Murasa made a window of opportunity for us!
+50,0,Akyu1a,Murasa gave us a good chance!
+51,0,Murasa0a,Palanquin Ship/ come here!
+51,1,Korin0a,Good/ looks like we were in time.
+52,0,Murasa0a,Sorry/ Palanquin Ship―Protect me!
+52,1,Akyu0a,We're here to aid you/ Murasa.
+53,0,Korin0a,Taking care of the ship is fine/\n but you've got to take care of yourself too!
+54,0,Korin0a,Murasa/ we're here to rescue you!
+55,0,Akyu0a,It's actually quite novel to get to protect you/ Murasa.
+56,0,Akyu1a,Murasa/ watch out!
+57,0,Akyu1a,We'll fight on in Keine's stead!
+58,0,Akyu1a,Keine gave us a good chance!
+59,0,Akyu0a,Keine made a window of opportunity for us!
+60,0,Akyu0a,It's actually quite novel to get to protect you/ Keine.
+61,0,Akyu1a,We should come to Keine's aid!
+62,0,Akyu0a,Thank goodness...\n That attack's exactly the same as one in my knowledge.
+62,1,Korin0a,Brilliant as always/ Akyu.
+63,0,Akyu1a,Mr. Kourindou/ dodge upwards!
+63,1,Korin0a,Got it!
+64,0,Akyu1a,Mr. Kourindou/ they're coming in from starboard!
+64,1,Korin0a,Taking evasive action!
+65,0,Akyu1a,Mr. Kourindou/ port side!
+65,1,Korin0a,If I leave it up to the autopilot―
+66,0,Kosuzu0a,Mr. Kourindou/ dodge upwards!
+66,1,Korin0a,Taking evasive action!
+67,0,Kosuzu0a,Hard to port/ hey!
+67,1,Korin0a,P- please don't suddenly spin the wheel!
+68,0,Kosuzu0a,Hard to starboard/ hey!
+68,1,Korin0a,W- whoa! Well... it's all good...
+69,0,Akyu0a,There's nothing to worry about if it's like this.
+69,1,Korin0a,Yeah/ let's keep on fighting!
+70,0,Akyu0a,We've taken only superficial damage!
+71,0,Korin0a,Did we just take a hit?
+71,1,Akyu0a,Only a scratch.
+72,0,Korin0a,Looks like it's not a problem at all.
+72,1,Akyu0a,The Palanquin Ship sure is something/ isn't it?
+73,0,Akyu2a,Hull integrity is dropping!
+73,1,Korin0a,We're going to have to do some things manually now!
+74,0,Akyu2a,At this rate/ even the Palanquin Ship is going to―
+75,0,Akyu2a,We're losing power from the buddhist reactor!\n At this rate/ we're going to―
+76,0,Korin2a,Try to stabilize the hull!
+76,1,Akyu2a,I'm on it!
+77,0,Korin2a,Ugh/ and we were trusted with the ship...
+78,0,Korin0a,Help with damage control!
+78,1,Akyu1a,Understood/ sealing bulkheads!
+79,0,Akyu2a,W- wow/ we're really rocking back and forth...
+80,0,Akyu2a,A few more of those and we'll be in some trouble...
+81,0,Korin0a,We're borrowing this thing/ we better take care of it...
+82,0,Korin2a,We were hit?!
+83,0,Kosuzu1a,I- is this normal?!
+84,0,Akyu0a,We've taken fire/ but there are no problems with hull integrity!
+85,0,Akyu2a,Perhaps our battleplan was overly optimistic.
+86,0,Korin2a,Give me a damage report!
+86,1,Akyu1a,We've taken fire near the number three hatch!
+87,0,Korin2a,This is a good ship/ she'll be fine!
+88,0,Akyu2a,Our flank is currently grazing!
+89,0,Korin0a,We grazed it?!
+90,0,Kosuzu1a,Wh- Whoaaa!
+90,1,Akyu1a,Kosuzu/ keep your head down!
+91,0,Korin0a,I'm glad we have an autopilot mode...
+92,0,Korin0a,I'll speed up until we lose them!
+93,0,Korin0a,Bringing us about hard!
+94,0,Akyu1a,I have a contact incoming on radar/ please avoid it!
+95,0,Akyu0a,At least for now/ we're safe and sound.
+96,0,Akyu0a,This is the full power of Myouren's Flying Granary...
+97,0,Akyu0a,Barrier functioning normally...\n No damage reported!
+97,1,Korin0a,It really is amazingly powerful.
+98,0,Korin0a,As long as we've got this barrier!
+98,1,Akyu0a,Just what I'd expect from the Palanquin Ship.
+99,0,Korin0a,How's the barrier's uptime?
+99,1,Akyu0a,Operating flawlessly!
+100,0,Korin0a,It really is a superb artifact.
+101,0,Kosuzu3d,Wow!\n So this is what a 'barrier' is!
+102,0,Korin0a,Here we go!
+103,0,Akyu0a,Putting us ahead of the enemy. Ready!
+104,0,Korin0a,Just where I was aiming for.
+105,0,Akyu2a,Aww...
+106,0,Korin2a,Sorry/ this one is my fault...
+107,0,Korin2a,This isn't good! We can't take this much longer...
+108,0,Akyu2a,We- we're done for. The Palanquin Ship...
+109,0,Korin0a,Seems like we were good sparring partners.
+110,0,Akyu0a,Save that energy for visiting the Bazaar.
+111,0,Korin0a,That's Hakurei Shrine for you/ with us immediately running into some odd new youkai...
+112,0,Akyu0a,You seem well-mannered.\n Maybe I want to listen to you just a little...
+113,0,Korin0a,She's a celestial/ huh. Seems like she has a rather warped personality/ though. 
+114,0,Akyu0a,There's still not enough information about how you Celestials live in Heaven yet.
+115,0,Korin0a,Closing off her line of retreat...
+116,0,Akyu0a,You're actually a youkai that isn't within my knowledge.
+117,0,Akyu0a,Nue/ please listen to us!
+118,0,Korin0a,If you won't listen to reason/ we might need to get rough...
+119,0,Akyu1a,You won't get away with this/ Mehko!
+120,0,Korin0a,We'll get around her one way or another!
+121,0,Korin0a,Could this have been us?
+122,0,Akyu0a,I'm glad I don't have to write a Gensokyo Chronicle that reads like this.
+123,0,Korin0a,It's like they're pure evil thoughts made manifest.
+124,0,Akyu1a,Mehko/ please get out of our way!
+125,0,Korin0a,Her spirit levels aren't high/ but...
+126,0,Akyu1a,What you're doing is far too dangerous!
+127,0,Korin0a,Well/ I'd better make you give up a little sooner!
+128,0,Korin0a,If you're not going to go down/ then we also need to...
+129,0,Akyu1a,Mehko/ please/ let's stop this!
+130,0,Korin0a,We'll be taking back Gensokyo's dreams!
+131,0,Akyu0a,So this is what the dreamspirit fountain looks like...
+132,0,Akyu1a,I can't back down/ not when my beloved Gensokyo hangs in the balance!
+133,0,Korin0a,There's nothing to do but throw everything we've got at her!
+134,0,Korin0a,We'll be taking back the Dream World!
+135,0,Akyu1a,I can't back down/ not when my beloved Gensokyo hangs in the balance!
+136,0,Korin0a,There's nothing to do but throw everything we've got at her!

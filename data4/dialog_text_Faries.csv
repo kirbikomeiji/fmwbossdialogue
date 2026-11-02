@@ -1,0 +1,241 @@
+ID,LineID,face,dialog
+0,0,Sunny0a,Okay/ let's roll!
+0,1,Star0a,Ready when you are/ Sunny!
+1,0,Sunny0a,Uh-oh! I just remembered something terrible!
+1,1,Star0a,Did you forget to hide your snacks again?
+1,2,Sunny0a,Yeah! What if—\n　Ah! Save it for later! We gotta focus!
+2,0,Sunny1a,We can't just stand here/ we gotta do something!
+2,1,Star0a,Maybe we should look for a way out.
+2,2,Sunny0a,Yeah! What if—\n　Ah! Save it for later! We gotta focus!
+3,0,Sunny0a,Let's show 'em what we've got!
+3,1,Luna1a,Together/ the three of us can do anything!
+4,0,Sunny0a,Luna/ Star! You ready?
+4,1,Luna0a,One sec! My slipper almost fell off...
+5,0,Sunny0a,You're 100 years too early to beat us!
+5,1,Luna0a,A hundred years... That makes me thinking.\n　How old are we/ exactly?
+5,2,Star0a,Let's not open that can of worms...
+6,0,Luna0a,Lead the way/ Sunny.
+6,1,Sunny0a,Right on!
+6,2,Star0a,Let's make this quick.
+6,3,Sunny0a,This'll be so much fun.
+6,4,Sunny0a,Boo!
+6,5,Star0a,Take that!
+6,6,Luna0a,Aaand...\n　Wait/ we all missed!
+6,7,Luna0a,Look! I did something!
+7,0,Star0a,This calls for a little prank.
+7,1,Sunny0a,Sunny Barrier!
+7,2,Luna0a,It's a bit cramped in here...
+7,3,Star0a,They haven't caught us yet!
+7,4,Sunny0a,I'll go first!
+7,5,Star0a,I'll go second!
+7,6,Luna0a,And I—\n　...think they saw us coming!
+7,7,Luna0a,And I'll finish this!
+8,0,Sunny0a,Oh/ this is going to be great.
+8,1,Sunny0a,Girls/ gather 'round!
+8,2,Star0a,Let's not bump into anything.
+8,3,Luna0a,This is the perfect spot.
+8,4,Sunny0a,Peek-a-boo!
+8,5,Star0a,Did that scare you?
+8,6,Luna0a,This is... a failure!
+8,7,Luna0a,This is awesome!
+9,0,Sunny0a,Okay/ it's time for that"!
+9,1,Sunny1a,Star/ Luna! Let's do it!
+9,2,Luna1a,Alright!
+9,3,Star0a,Together/ as always!
+9,4,Sunny1a,Ready? Now!
+10,0,Sunny0a,C'mon/ we practiced for this!
+10,1,Sunny0a,Here we go!
+10,2,Luna1a,Light!
+10,3,Star1a,Fairy!
+10,4,Sunny1a,Attack! Woo-hoo!
+11,0,Sunny0a,C'mon/ we practiced for this!
+11,1,Sunny0a,Alright! It's L-F-A time!
+11,2,Luna1a,L is for... Light!
+11,3,Star1a,F is for... Fairy!
+11,4,Sunny0a,A is for... Argh/ I forgot!
+12,0,Star0a,Girls/ give me a hand.
+12,1,Sunny0a,Let's do this/ Luna/ Star!
+12,2,Luna1a,Alright!
+12,3,Star0a,Working together's our thing.
+12,4,Sunny1a,Ready? Now!
+13,0,Star0a,Together/ we can do anything!
+13,1,Sunny0a,Okay Star/ you be the leader this time.
+13,2,Luna0a,We'll attack at the count of three.
+13,3,Sunny0a,I'll count. One/ two...
+13,4,Star1a,Hiyaah!!
+14,0,Star0a,Let's do that/ girls.
+14,1,Sunny0a,That?\n　Oh/ you mean that"!
+14,2,Luna0a,You want to show them how close we are/ right?
+14,3,Star0a,You got it. We'll follow your lead/ Sunny.
+14,4,Sunny1a,Gotcha. Here goes!\n　Ka-BLOOM!
+15,0,Luna0a,Sunny/ Star! Get in formation!
+15,1,Sunny0a,Let's switch things up a bit.
+15,2,Star0a,How about we have Luna kick us off?
+15,3,Luna0a,Huh? You mean/ I have to say the thing?
+15,4,Luna1a,Ka... Ka-bloom.\n　Ugh/ it's so cringe!
+16,0,Luna1a,Girls/ give me a hand!
+16,1,Star0a,I think Luna should lead the attack this time.
+16,2,Sunny0a,Are you sure? You know how much of a klutz she is.
+16,3,Luna1a,...Well/ excuse me.
+16,4,Sunny1a,C'mon/ let's do this!
+17,0,Luna0a,You asked for it.
+17,1,Luna1a,Girls/ it's time for our LFA sequence.
+17,2,Sunny0a,L is for... Light!
+17,3,Star0a,A is for... Attack!
+17,4,Luna1a,Staaar! I have to say the A! You're supposed to—\n　Awww/ we're out of time!
+18,0,Sunny0a,Are you two ready/ girls?
+18,1,Luna0a,Fairy energy/ charged up!
+18,2,Star0a,Ready when you are!
+18,3,Sunny0a,Girls/ stand-by for fire!
+18,4,Sunny0a,Fire...
+18,5,Sunny0a,Fire... NOOOW!
+19,0,Sunny0a,I think it's time for the big guns.
+19,1,Luna0a,Is it really going to work?
+19,2,Star0a,Well/ we did practice a lot.
+19,3,Sunny0a,Let's show 'em what the three of us can do!
+19,4,Sunny0a,Fire...
+19,5,Sunny0a,Fire... NOOOW!
+20,0,Sunny0a,It's time for our super special attack!
+20,1,Luna0a,When there's only one of us/\n　nothing really seems right...
+20,2,Star0a,When there's only two of us/\n　it feels like something's missing...
+20,3,Sunny0a,But when the three of us are together/\n　that's when the magic happens!
+20,4,Sunny0a,Here... we...
+20,5,Sunny0a,Here... we... GOOO!
+21,0,Sunny0a,Girls/ it's time we settled this!
+21,1,Luna0a,My silent moonlight...
+21,2,Star1a,My brilliant starlight!
+21,3,Sunny0a,And to top it off/ my powerful sunlight!
+21,4,Sunny1a,Three Fairies...
+21,5,Sunny1a,Three Fairies... FIRE!
+22,0,Sunny0a,This is our ultimate attack!
+22,1,Sunny0a,Fairy!
+22,2,Luna0a,Over!
+22,3,Star0a,Driiive!
+22,4,Sunny1a,The power of three becomes one...
+22,5,Sunny1a,The power of three becomes one... NOW!
+22,6,Sunny1a,We did it!
+23,0,Sunny0a,We need to surpass our limits!
+23,1,Sunny0a,Luna!
+23,2,Luna0a,Star!
+23,3,Star0a,And Sunny!
+23,4,Sunny1a,Overdrive...
+23,5,Sunny1a,Overdrive... GO!
+23,6,Sunny1a,We are the Three Fairies of Light!
+24,0,Sunny0a,Shine like you've never shined before!
+24,1,Sunny0a,Sunlight!
+24,2,Luna0a,Moonlight!
+24,3,Star0a,Starlight!
+24,4,Sunny1a,Overdrive...
+24,5,Sunny1a,Overdrive... GO!
+24,6,Sunny1a,We are the Three Fairies of Light!
+25,0,Sunny0a,At least I'm good at dodging.
+26,0,Star0a,Not much we can do if they attack us from that far away/ can we?
+27,0,Sunny0a,Your sacrifice will not be in vain!
+27,1,Star1a,Sunny/ Luna! We're fighting back!
+28,0,Luna0a,Sunny/ they... They saved us.
+28,1,Sunny1a,Say no more. We're going to avenge them!
+29,0,Luna0a,Girls/ did you see that...?
+29,1,Star1a,This calls for revenge!
+30,0,Sunny1a,We won't waste your sacrifice!
+31,0,Sunny0a,We'll take it from here!
+32,0,Sunny0a,Time to steal some credit!
+33,0,Sunny0a,Triple backup/ coming right up!
+34,0,Sunny0a,We can handle this!
+35,0,Sunny0a,Three Fairies Guard!
+35,1,Star0a,Please don't use us like shields just because we can heal.
+36,0,Star0a,Why does Cirno have to be so reckless...?
+36,1,Sunny0a,Nobody gets to mess with her but us!\n　It's payback time!
+37,0,Sunny1a,This totally makes me the new leader/ right?
+37,1,Star0a,Sunny/ this really isn't the time.
+38,0,Sunny0a,You owe us one/ Cirno!
+39,0,Luna0a,Dai gave everything she had to protect us...!
+39,1,Sunny1a,She cares so much for us... We need to repay her kindness!
+40,0,Luna0a,Should we really be using our friends like shields...?
+40,1,Sunny1a,It'll be like/ so awkward later/ huh?
+41,0,Luna0a,Leave the risky stuff to us/ Dai!
+42,0,Star0a,We fairies have to stick together.
+43,0,Luna1a,Alice! She... She just saved us...
+43,1,Sunny1a,We can't just run away after this/ dang it!
+44,0,Sunny0a,Rumia never really focuses on one thing for more than a few seconds/ huh?
+44,1,Star0a,Then she won't mind if we steal her credit/ right?
+45,0,Sunny0a,Rumia never really focuses on one thing for more than a few seconds/ huh?
+45,1,Star0a,Then we'd better step in and help her.
+46,0,Sunny0a,Wait/ what?\n　Did Marisa just cover our butts?
+46,1,Star1a,We'd better pretend to work harder now/ or she'll never let us hear the end of it!
+47,0,Star0a,Sorry/ that's just how it works.
+48,0,Luna0a,Is this Sunny's true power?
+49,0,Sunny0a,You can't beat my fairy spirit!
+50,0,Sunny0a,We could do this all day!
+50,1,Star0a,Health is one of our strong points.
+51,0,Luna0a,We're still doing fine.
+51,1,Star0a,That's not a reason to get careless/ Luna.
+52,0,Sunny2a,Well/ we took that straight on...
+52,1,Star0a,Just get ready for the next one!
+53,0,Luna2a,Sorry/ we got hit...
+53,1,Sunny3a,Oh/ Luna. You're such a klutz.
+54,0,Sunny2a,Ooof...
+54,1,Luna1a,Sunnyyy! Get it together!
+55,0,Sunny3a,Classic Luna. You're such a klutz.
+55,1,Luna1a,...Well/ excuse me.
+56,0,Sunny0a,Okay/ so that's what happens when we get hit...
+56,1,Luna0a,I'd say we're better suited for giving rather than taking.
+57,0,Luna0a,I'm not exactly having a lot of fun here...
+57,1,Star0a,Come on girls/ keep your chin up.
+58,0,Star1a,Do you think we can pull through/ Sunny?
+58,1,Sunny0a,If nothing else comes our way/ maybe...
+59,0,Star1a,Girls/ are you holding up?
+59,1,Sunny3a,You seem to be doing perfectly fine for some reason...
+60,0,Luna0a,Girls/ did you see that? We dodged!
+60,1,Sunny0a,Yes/ Luna. We were there/ too.
+61,0,Star0a,We're alive... for now.
+61,1,Sunny0a,We'll make it/ somehow!
+62,0,Sunny0a,Triple graze action!
+62,1,Luna0a,You'd think one of us would have been hit.
+63,0,Sunny0a,We're doing great.
+63,1,Luna0a,We're alive... for now.
+64,0,Star0a,Great going.
+64,1,Luna0a,No thanks to me/ I bet...
+65,0,Sunny0a,I could do this with my eyes closed!
+65,1,Luna0a,Let's not test that/ please.
+66,0,Sunny0a,Sunny Barrier!
+66,1,Luna0a,Glad to have you on front/ Sunny.
+67,0,Sunny0a,Sunny Barrier!
+67,1,Star0a,You love it when it works.
+68,0,Sunny0a,Huh. Who knew you could just... slap 'em off?
+69,0,Luna0a,Why don't we just get a head start?
+70,0,Star0a,I don't think so! Here comes the counter!
+71,0,Sunny0a,Too slow! Our turn!
+72,0,Sunny2a,Well/ they caught us all at once.
+72,1,Luna2a,It wasn't supposed to end this way...
+73,0,Sunny2a,Awww/ I was so sure grouping up was the right idea...
+73,1,Star0a,That's just how the cookie crumbles sometimes. Let's go.
+74,0,Star0a,We hope you enjoyed this episode.
+74,1,Luna0a,See you next time.
+75,0,Luna0a,We're leaving the rest to you!
+76,0,Sunny0a,You'll pay for this/ I swear!
+77,0,Star0a,Welp. See you next episode...
+78,0,Sunny2a,Well/ they caught us all at once.
+78,1,Luna2a,It wasn't supposed to end this way...
+79,0,Star2a,Th-They got us!
+79,1,Sunny0a,At least we went down fighting!
+80,0,Luna0a,We're leaving the rest to you!
+81,0,Star0a,We'll cheer you on from the sidelines!
+82,0,Sunny0a,God or not/ we gotta fight!
+82,1,Star0a,Ready when you are/ Sunny!
+83,0,Sunny0a,You may be a god/ but there's only one of you!
+83,1,Luna1a,Together/ the three of us can do anything!
+84,0,Sunny0a,C'mon/ Dai! We're doing this!
+85,0,Luna0a,Those dangerous women are too tall.\n　We're the perfect size.
+86,0,Star0a,Sorry for the whole three-against-one" thing!
+87,0,Sunny0a,Let's do this thing/ Rumia!
+88,0,Luna0a,Those dangerous women are too tall.\n　We're the perfect size.
+89,0,Star0a,You're up against us/ Rumia.
+90,0,Sunny0a,We're the strongest/ Cirno!
+91,0,Luna0a,We can beat you any day/ Cirno!
+92,0,Star0a,You're up against us/ Cirno.
+93,0,Sunny0a,Let's do this thing/ Rumia!
+94,0,Luna0a,Can we make this quick? I want to see the bazaar.
+95,0,Star0a,You never learn/ do you?
+96,0,Sunny0a,We're the strongest/ Cirno!
+97,0,Luna0a,Can we make this quick? I want to see the bazaar.
+98,0,Star0a,You never learn/ do you?

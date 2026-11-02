@@ -1,0 +1,304 @@
+ID,LineID,face,dialog
+0,0,Murasa0a,I'll show you the power of the Palanquin Ship!
+1,0,Murasa0a,Beginning our attack run. Full speed ahead!
+1,1,Kosuzu0a,Uh oh/ I've gotta hold on to something...
+2,0,Akyu0a,We'll soon make contact with the enemy.
+2,1,Murasa0a,Roger that/ begin the attack.
+3,0,Kosuzu0a,Wait/ are we really going to fight?!
+3,1,Murasa0a,Course we are!
+4,0,Akyu0a,Enemy ahead!
+5,0,Korin0a,Let's try attacking them from here.
+6,0,Korin0a,I want to learn how to command from a professional.
+6,1,Murasa0a,Alright! Watch and learn!
+7,0,Kosuzu0a,Looks like they're still near us!
+7,1,Korin0a,Well then/ we've got to attack back!
+8,0,Murasa0a,The wind's back in our sails/ launch the counterattack!
+9,0,Murasa0a,Do unto others what they did to you/ that's the sailor's way!
+10,0,Akyu1a,Murasa/ there's not a soul around them!
+10,1,Murasa0a,Then let's start the counterattack! Bring the ship about!
+11,0,Akyu0a,At this distance we can catch up with them!
+12,0,Akyu0a,They're within our firing range!
+13,0,Korin0a,We don't want to let them get away now.
+13,1,Murasa0a,Yeah/ I'm on it!
+14,0,Korin0a,Skipper/ they're in firing range!
+14,1,Murasa0a,Fire at will!
+15,0,Murasa2b,We can weather storms even rougher than this!
+16,0,Murasa0a,As long as this ship can still sail/ we fight on!
+17,0,Akyu2a,We're losing propulsion!\n We're going to―
+17,1,Murasa0a,No/ we can still fight!
+18,0,Murasa1a,If we spread our fire/ some of them are bound to hit!
+19,0,Murasa1a,This will be plenty to keep the enemy in check!
+20,0,Korin1a,Machine guns/ full auto!
+21,0,Korin1a,This should be enough to hold them back!
+22,0,Akyu1a,Firing a spread of danmaku!
+23,0,Korin1a,Auxiliary Spirit Cannons/ firing!
+24,0,Korin1a,Spirit Cannons/ fire a volley!
+25,0,Murasa1a,Give 'em both barrels! Cancel that/ give 'em all the barrels!
+26,0,Murasa1a,Auxiliary Spirit Cannons/ fire!
+27,0,Murasa1a,Attack them with our Spirit Cannons!
+28,0,Murasa1a,Auxiliary Spirit Cannons/ make all guns ready!
+29,0,Murasa1a,Give them a full broadside!
+30,0,Korin1a,Auxiliary Spirit Cannons/ make all guns ready!
+31,0,Murasa1a,I'll just let this take its natural course!
+32,0,Murasa1a,The target is ahead! Fire!
+33,0,Korin1a,The main gun is firing/ keep out of the way!
+34,0,Korin1a,Firing the main gun/ keep out of the way!
+35,0,Korin1a,Now's our chance! Give them everything we've got!
+36,0,Akyu1a,The main armament is prepared to fire!
+37,0,Korin1a,Bring the buddhist reactor to full power!
+37,1,Akyu1a,Mr. Kourindou/ it's ready!
+37,2,Korin1a,Fire!
+38,0,Akyu1a,The main armament is ready now!
+38,1,Korin1a,Targeting complete/ good to fire!
+38,2,Korin1a,Fire!!!
+39,0,Korin1a,Prepare to fire the Spirit Cannon!
+39,1,Akyu1a,It's ready!
+39,2,Korin1a,Let's go!
+40,0,Murasa1a,Bring the buddhist reactor to full power!
+40,1,Akyu1a,Murasa/ everything's ready!
+40,2,Murasa1a,Sink down to the bottom!
+41,0,Murasa1a,Main battery/ prepare to fire!
+41,1,Korin1a,Targeting complete/ good to fire!
+41,2,Murasa1a,Fire!!!
+42,0,Korin1a,Concentrating all the ship's spiritual energy into the main battery!
+42,1,Murasa1a,Adjusting targeting... ready!
+42,2,Murasa1a,Hit them!
+43,0,Korin1a,Captain Murasa left us this...
+43,1,Akyu1a,Firing the anchor!
+43,2,Korin1a,Now's the time! All guns/ fire at will!
+44,0,Akyu1a,Power output rising/ we're ascending!
+44,1,Korin1a,Drop anchor!
+44,2,Korin1a,All batteries/ fire!
+45,0,Korin1a,We'll secure the ship's hull in place/ then bombard them!
+45,1,Akyu1a,Dropping the anchor!
+45,2,Korin1a,Concentrated fire!
+46,0,Murasa1a,Any ship that gets in our way will be sunk!
+46,1,Murasa1a,Eat this!
+46,2,Korin1a,Concentrated fire!
+47,0,Murasa1a,Power output rising/ we're ascending!
+47,1,Murasa1a,Sinking Anchor!
+47,2,Korin1a,Now's the time! All guns/ fire at will!
+48,0,Korin1a,Time to attack from above!
+48,1,Murasa1a,Fire the anchor!
+48,2,Murasa1a,We've hooked them! Fire!
+49,0,Korin1a,We'll secure the ship's hull in place/ then bombard them!
+49,1,Murasa1a,You won't dodge this anchor!
+49,2,Murasa1a,SINK!
+50,0,Murasa0a,Ram them with the Palanquin Ship!
+50,1,Murasa0a,All the way to starboard!
+50,2,Akyu1a,The enemy is directly ahead!
+50,3,Korin0a,Rerouting all power in the ship. Emergency vernier thrusters active!
+50,4,Murasa1a,Faster than ever before! Go!
+50,5,Korin0a,Oof/ this is way more acceleration than―
+50,6,Akyu1a,The targeting won't stay locked!
+50,7,Murasa1a,You can't rely on machines/ I'll do this by eye!
+50,8,Murasa1a,Shields/ maximum spread/ now!
+50,9,Murasa1a,Now's our chance! Fire all the cannons!
+50,10,Akyu1a,Withdrawing us from this airspace.
+51,0,Murasa0a,Time to use the ace we've kept up our sleeve!
+51,1,Murasa0a,Bring the vessel directly in line with the enemy!
+51,2,Akyu1a,Targeting confirmed!
+51,3,Korin0a,All power to the vernier thrusters!
+51,4,Murasa1a,Palanquin Ship... Charge!
+51,5,Korin0a,We can't keep up this acceleration for long.
+51,6,Akyu2a,There's a targeting acquisition failure!
+51,7,Murasa1a,I'll show you how we weather the stormiest of seas!
+51,8,Murasa1a,Go!!!
+51,9,Akyu1a,And then I press this button...
+51,10,Murasa0a,Bring us back under sail/ double quick!
+52,0,Murasa0a,We'll settle this with our ace in the hole!
+52,1,Murasa0a,Hard to port!
+52,2,Akyu1a,Distance to the target/ approximately five thousand!
+52,3,Korin0a,Verniers activated/ everything's up to you now!
+52,4,Murasa1a,Prepare for ramming speed!
+52,5,Korin0a,This level of acceleration isn't for a battleship!
+52,6,Akyu2a,The autopilot can't keep up!
+52,7,Murasa1a,All functions off/ I'll assume manual control!
+52,8,Murasa1a,Brace for impact! Maximum acceleration!
+52,9,Korin1a,Spirit Cannons/ FIRE!
+52,10,Murasa0a,Give me a status report on the vessel as soon as possible.
+53,0,Murasa0a,Get the crew back on their feet!
+54,0,Akyu0a,We can't attack while at this angle...
+55,0,Murasa0a,We've got to bring the ship about/ and quick.
+56,0,Murasa2b,Even my Palanquin Ship can't counterattack...
+57,0,Murasa2b,Do they have higher performance than we thought?
+58,0,Murasa2b,Kosuzu! What's the range to the enemy?!
+58,1,Kosuzu0a,... Looks far/ Skipper!
+59,0,Akyu2a,Targeting systems show nothing in range.\n We've been had.
+60,0,Korin0a,We can't fire back at this distance...
+60,1,Akyu0a,Then please take us to a position where we can.
+61,0,Korin0a,We need to think carefully about when we're staying too far from the enemy...
+62,0,Murasa0a,Getting revenge is a phantom's specialty!
+63,0,Murasa0a,Gangway/ gangway! Any one idling around is liable to get hit!
+64,0,Akyu0a,We've come to provide assistance. Please give us some room!
+65,0,Korin0a,Leave the rest up to us.
+66,0,Kosuzu0a,That was a good one!
+67,0,Murasa0a,Screen them with the Palanquin Ship!
+68,0,Akyu0a,Murasa/ let's screen them with the ship.
+69,0,Korin0a,Bring the ship in between the enemy and our allies!
+70,0,Murasa2a,... Ichirin/ thank you.
+71,0,Murasa0a,Ichirin/ don't overdo it.
+72,0,Murasa0a,Ichirin/ I'll handle it from here!
+73,0,Murasa0a,Hide behind the ship/ you two!
+74,0,Murasa0a,Ichirin/ don't go overboard!
+75,0,Murasa2b,... I can't let your feelings go to waste!
+76,0,Murasa0a,Shou/ you're not fighting alone out there!
+77,0,Murasa0a,Shou/ don't go in too deep!
+78,0,Murasa0a,You're too far ahead/ Shou!
+79,0,Murasa0a,Shou/ this is no time for idling!
+80,0,Murasa2b,Nazrin/ even you'd do that for the ship?
+81,0,Murasa0a,Nice job/ Nazrin/ you're making it easy for us!
+82,0,Murasa0a,Nazrin/ leave the rest to us!
+83,0,Murasa0a,Nazrin/ don't push yourself too hard!
+84,0,Murasa0a,Oops/ Nazrin's so small that we almost ran her over.
+85,0,Akyu1a,We'll fight on in Keine's stead!
+86,0,Akyu1a,Keine gave us a good chance!
+87,0,Akyu0a,Keine made a window of opportunity for us!
+88,0,Akyu0a,It's actually quite novel to get to protect you/ Keine.
+89,0,Akyu1a,We should come to Keine's aid!
+89,1,Murasa0a,I know already/ I know.\n We got there in time/ didn't we?
+90,0,Murasa1a,No matter how stormy the seas we will prevail!
+90,1,Akyu1a,P- please/ don't steer so wildly...
+91,0,Murasa1a,No matter how stormy the seas we will prevail!
+91,1,Kosuzu0a,Yeah! You can do it/ Murasa!
+92,0,Murasa1a,You'll never sink our hopes!
+92,1,Kosuzu0a,You're the best/ Murasa!
+93,0,Akyu0a,Thank goodness...\n That attack's exactly the same as one in my knowledge.
+93,1,Murasa0a,Thanks/ Akyupedia!
+94,0,Akyu1a,Murasa/ they're coming in from starboard!
+94,1,Murasa0a,Roger that!
+95,0,Akyu1a,Murasa/ port side!
+95,1,Murasa0a,As long as I know where they're attacking from/ I'm golden!
+96,0,Kosuzu0a,Murasa/ they're above us!
+96,1,Murasa0a,Yeah/ I got it!
+97,0,Kosuzu0a,Murasa/ dodge to the left!
+97,1,Murasa0a,Roger that!
+98,0,Murasa0a,That's my Palanquin Ship for you! Absolutely dauntless.
+99,0,Murasa2b,How dare you scratch my ship with such a boring―
+99,1,Akyu0a,There/ there. Please don't make a fuss.
+100,0,Akyu0a,There's nothing to worry about if it's like this.
+100,1,Murasa0a,Yep/ let's keep fighting!
+101,0,Akyu0a,We've taken only superficial damage!
+102,0,Korin0a,We did take a hit there...
+102,1,Murasa0a,Yeah/ but it's not significant at all!
+103,0,Korin0a,Looks like it's not a problem at all.
+103,1,Akyu0a,The Palanquin Ship sure is something/ isn't it?
+104,0,Murasa2b,This captain is prepared to go down with her ship...
+104,1,Korin0a,Please cut it out with the bad jokes/ okay?
+105,0,Murasa2b,I can't show my face to Hijiri after this...
+106,0,Murasa2b,We're still afloat! I'll show you just how tough this ship is!
+107,0,Akyu2a,At this rate/ even the Palanquin Ship is going to―
+108,0,Akyu2a,We're losing power from the buddhist reactor!\n At this rate/ we're going to―
+109,0,Korin0a,That's not good! We're losing hull integrity!
+109,1,Murasa0a,I'll do something about it!
+110,0,Korin0a,We've taken extensive damage!
+110,1,Akyu1a,Closing the bulkheads!
+111,0,Murasa2b,That's not good/ they really sunk their teeth into us...
+112,0,Murasa2b,I'll be darned/ even though the rudder works so well...
+113,0,Akyu2a,Aah!\n Can't we dodge around like everyone else?
+113,1,Murasa2b,We're a pretty sizeable vessel!
+114,0,Akyu2a,W- wow/ we're really rocking back and forth...
+115,0,Korin0a,Skipper/ we'll be in trouble if we take more hits like that!
+115,1,Murasa2b,You don't need to tell me/ I'm trying!
+116,0,Akyu2a,A few more of those and we'll be in some trouble...
+117,0,Murasa2b,All hands/ brace for impact!
+117,1,Akyu2a,I've already been bracing for a while now!
+118,0,Murasa2b,The Palanquin Ship's not gonna sink like this!
+119,0,Kosuzu0a,I- is this normal?!
+120,0,Murasa0a,I guess I just don't have enough training...
+120,1,Akyu0a,Even the sutras have a few misspellings.
+121,0,Murasa2b,This is nothing compared to when the sky's dark and the sea's roaring!
+122,0,Akyu0a,We've taken fire/ but there are no problems with hull integrity!
+123,0,Akyu2a,Perhaps our battleplan was overly optimistic.
+124,0,Korin2a,This is a good ship/ she'll be fine!
+125,0,Korin0a,That's some good helmsman-ing.
+125,1,Murasa0a,I'm not used to getting praise...
+126,0,Akyu2a,Our flank is currently grazing!
+127,0,Murasa0a,We'll sail right through this sea of danmaku!
+128,0,Murasa0a,We dodged it... wait/ no/ we grazed it?!
+129,0,Murasa0a,We had to go to flank speed/ but we shook them off!
+130,0,Murasa0a,We're coming about hard/ hold on to something!
+131,0,Akyu1a,I have a contact incoming on radar/ please avoid it!
+132,0,Akyu0a,Thank goodness...\n That attack's exactly the same as one in my knowledge.
+132,1,Murasa0a,Thanks/ Akyupedia!
+133,0,Kosuzu0a,Wh- whoaaa!
+133,1,Akyu0a,Kosuzu/ keep your head down!
+134,0,Akyu1a,Murasa/ dodge upwards!
+134,1,Murasa0a,Taking evasive action!
+135,0,Akyu1a,Murasa/ they're coming in from starboard!
+135,1,Murasa0a,Roger that!
+136,0,Akyu1a,Murasa/ port side!
+136,1,Murasa0a,As long as I know where they're attacking from/ I'm golden!
+137,0,Murasa0a,We were protected by the power of Hijiri's Buddhism!
+138,0,Murasa0a,This is the full power of Myouren's Flying Granary!
+139,0,Akyu0a,At least for now/ we're safe and sound.
+140,0,Akyu0a,Barrier functioning normally...\n No damage reported!
+140,1,Korin0a,It really is amazingly powerful.
+141,0,Korin0a,We're fine as long as we've got our barrier!
+141,1,Akyu0a,Yes/ the Palanquin Ship is built quite sturdily/ isn't it?
+142,0,Korin0a,How's the barrier's uptime?
+142,1,Akyu0a,Operating flawlessly!
+143,0,Kosuzu0a,Wow!\n So this is what a 'barrier' is!
+143,1,Murasa0a,Makes for smooth sailing/ huh?
+144,0,Murasa0a,I'll parry it... with my ship!
+145,0,Korin0a,Here goes nothing!
+146,0,Akyu0a,Putting us ahead of the enemy. Ready!
+147,0,Akyu0a,Targeting confirmed/ we can intercept them!
+148,0,Murasa0a,We're gonna give you a REAL warm welcome!
+149,0,Murasa0a,Seize the initiative―This I command!
+150,0,Akyu2a,Aww...
+151,0,Korin2a,Sorry/ this one is my fault...
+152,0,Murasa2a,I'm sorry/ Hijiri...\n I wasn't able to protect your place to come home to...
+153,0,Murasa2a,Our ride for Hijiri... sank...
+154,0,Korin2a,This isn't good! We can't take this much longer...
+155,0,Akyu2a,We- we're done for. The Palanquin Ship...
+156,0,Korin0a,She's a celestial/ huh. Seems like she has a rather warped personality/ though. 
+157,0,Akyu0a,There's still not enough information about how you Celestials live in Heaven yet.
+158,0,Murasa0a,Maybe this can end up being some good publicity for the Palanquin Ship?
+159,0,Korin0a,Closing off her line of retreat...
+160,0,Akyu0a,You're actually a youkai that isn't within my knowledge.
+161,0,Murasa0a,We'll stop you no matter what it takes!
+162,0,Akyu0a,Nue/ please listen to us!
+163,0,Korin0a,If you won't listen to reason/ we might need to get rough...
+164,0,Akyu0a,You won't get away with this/ Mehko!
+165,0,Murasa0a,We'll stop you no matter what it takes!
+166,0,Korin0a,We've got to face forwards!
+167,0,Murasa0a,Could this have been us?
+168,0,Akyu0a,I'm glad I don't have to write a Gensokyo Chronicle that reads like this.
+169,0,Korin0a,It's like they're pure evil thoughts made manifest.
+170,0,Murasa0a,I don't want to see Hijiri like this!
+171,0,Murasa0a,Phantom or not/ I won't stand for this!
+172,0,Murasa0a,I'm not the sort who'd shy away from these kind of phantoms!
+173,0,Murasa0a,If you've gotten that down in the dumps/ I'll have to slap you back to your senses!
+174,0,Murasa0a,Oh/ now this one hits a little close to home.
+175,0,Murasa0a,Like I'd ever get like this!
+176,0,Akyu1a,Mehko/ please get out of our way!
+177,0,Murasa0a,I'm getting real tired of you. Sink to the bottom already!
+178,0,Korin0a,Her spirit levels aren't high/ but...
+179,0,Akyu1a,What you're doing is far too dangerous!
+180,0,Murasa0a,Well/ I'd better make you give in a little faster!
+181,0,Murasa0a,If you won't go down/ then I guess I have no choice.
+182,0,Akyu1a,Mehko/ please/ let's stop this!
+183,0,Korin0a,We'll be taking back Gensokyo's dreams!
+184,0,Murasa0a,Your dreams are sunk/ right here/ right now!
+185,0,Akyu0a,So this is what the dreamspirit fountain looks like...
+186,0,Akyu1a,I can't back down/ not when my beloved Gensokyo hangs in the balance!
+187,0,Murasa0a,I have a duty!\n I'm bringing Hijiri back home to Gensokyo!
+188,0,Korin0a,I suppose this was inevitable. All that's left is to throw everything we have at you!
+189,0,Korin0a,We'll be taking back the Dream World!
+190,0,Murasa0a,Your dreams are sunk/ right here/ right now!
+191,0,Akyu1a,I can't back down/ not when my beloved Gensokyo hangs in the balance!
+192,0,Murasa0a,I have a duty!\n I'm bringing Hijiri back home to Gensokyo!
+193,0,Korin0a,I suppose this was inevitable. All that's left is to throw everything we have at you!
+194,0,Murasa0a,If we work together/ I'm sure we can manage!
+195,0,Murasa0a,Bring the buddhist reactor to maximum power!
+195,1,Murasa0a,Left full rudder... the target is ahead!
+195,2,Akyu1a,Target acquired/ directly ahead!
+195,3,Korin0a,Cutting power throughout the ship and rerouting it all into the boosters!
+195,4,Murasa1a,Faster than ever before! Go!
+195,5,Korin0a,Oof/ this is way more acceleration than―
+195,6,Akyu2a,The targeting won't stay locked!
+195,7,Murasa1a,Leave the steering to me! I'll do it by eye!
+195,8,Murasa1a,Now! Shields up!
+195,9,Murasa1a,Auxiliary Spirit Cannons/ make all guns ready!
+195,10,Akyu0a,The target is silent. Re-activating the ship's engines.

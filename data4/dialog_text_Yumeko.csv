@@ -1,0 +1,238 @@
+ID,LineID,face,dialog
+0,0,Yumeko0a,Do note that I bear no grudge against you in particular.
+1,0,Yumeko0a,May I have this battle?
+2,0,Yumeko0a,Perhaps you'll step out of my way?
+3,0,Yumeko0a,Allow me to measure your strength.
+4,0,Yumeko0a,It's your unlucky day.
+5,0,Yumeko0a,This is the consequence of your poor grasp of how to finish the job.
+6,0,Yumeko0a,I'm surprised you're still right there.
+7,0,Yumeko0a,If you intend to keep obstructing me/ I won't show you a shred of mercy.
+8,0,Yumeko0a,I'll bring you down right here.
+9,0,Yumeko0a,This was quite ill-advised of you.
+10,0,Yumeko0a,You're an opponent I can't leave be.
+11,0,Yumeko0a,If you're going to keep standing in my way/ then...
+12,0,Yumeko0a,Your guard is absurdly open/ you know?
+13,0,Yumeko0a,Allow me to demonstrate the strength of a maid of Lady Shinki's household.
+14,0,Yumeko0a,Let's finish this/ swiftly and efficiently.
+15,0,Yumeko0a,Even if we have to die on each other's blades!
+16,0,Yumeko0a,I will not give in!
+17,0,Yumeko0a,My blade is not yet broken!
+18,0,Yumeko0a,If I have no way out of this/ the proper move is...
+19,0,Yumeko0a,I see where you're going...
+19,1,Yumeko0a,There!
+20,0,Yumeko0a,How careless...
+20,1,Yumeko0a,You'll get hit like that!
+21,0,Yumeko0a,You won't...
+21,1,Yumeko0a,You won't... escape my aim!
+22,0,Yumeko0a,Executing my attack...
+22,1,Yumeko0a,Hah!
+23,0,Yumeko0a,Your positioning isn't half bad...
+23,1,Yumeko0a,Your positioning isn't half bad... for this!
+24,0,Yumeko0a,There's still far more blades to be had...
+24,1,Yumeko0a,Have some more!
+25,0,Yumeko0a,I can't treat you to the full course...
+25,1,Yumeko0a,I can't treat you to the full course... but I hope you'll find this to your liking!
+26,0,Yumeko0a,A maid's uniform...
+26,1,Yumeko0a,A maid's uniform... is filled with secrets!
+27,0,Yumeko0a,By all means...
+27,1,Yumeko0a,By all means... please/ take the whole thing.
+28,0,Yumeko0a,At this range...
+28,1,Yumeko0a,At this range... You're mine!
+29,0,Yumeko0a,I'll bring you to checkmate...
+29,1,Yumeko0a,I'll bring you to checkmate... right there!
+30,0,Yumeko0a,There's no way you can follow this.
+30,1,Yumeko0a,Have some more!
+31,0,Yumeko0a,You're too slow!
+31,1,Yumeko0a,I'll run you through!
+32,0,Yumeko0a,I'll finish you right here.
+32,1,Yumeko0a,I have you now!
+32,2,Yumeko0a,And another strike!
+33,0,Yumeko0a,Executing a continuous attack!
+33,1,Yumeko0a,You should fear it!
+33,2,Yumeko0a,And another strike!
+34,0,Yumeko0a,I'll settle this here.
+34,1,Yumeko0a,Your guard was open!
+34,2,Yumeko0a,And it still is!
+35,0,Yumeko0a,The firm solidity of my blade...
+35,1,Yumeko0a,You should fear it!
+35,2,Yumeko0a,And another strike!
+36,0,Yumeko0a,I will now carry out my role.
+36,1,Yumeko0a,I'll carve you to pieces!
+36,2,Yumeko0a,I'll carve you to pieces!
+36,3,Yumeko0a,Your guard is crumbling―in that case...
+36,4,Yumeko0a,Your guard is crumbling―in that case...
+36,5,Yumeko0a,I'll finish you off!
+36,6,Yumeko0a,I will not allow you near Lady Shinki!
+37,0,Yumeko0a,Allow me to show you my preferred style of battle.
+37,1,Yumeko0a,Allow me to show you my preferred style of battle.
+37,2,Yumeko0a,No matter how many blades I must break...
+37,3,Yumeko0a,No matter how many blades I must break...
+37,4,Yumeko0a,...You're mine!
+37,5,Yumeko0a,...You're mine!
+37,6,Yumeko0a,And in the end/ victory goes to me.
+38,0,Yumeko0a,I have more than enough blades for this.
+38,1,Yumeko0a,I'll cut my way through...
+38,2,Yumeko0a,I'll cut my way through...
+38,3,Yumeko0a,I'm not done yet!
+38,4,Yumeko0a,And now...
+38,5,Yumeko0a,It's over!
+38,6,Yumeko0a,Get out of our sight.
+39,0,Yumeko0a,I'll show you my sword dance.
+39,1,Yumeko0a,Entree...
+39,2,Yumeko0a,Entree... Grand Adage...
+39,3,Yumeko0a,Entree... Grand Adage... Coda!
+39,4,Yumeko0a,And now...
+39,5,Yumeko0a,Time for the curtain call.
+39,6,Yumeko0a,I worked up quite a sweat.
+40,0,Yumeko0a,To press the attack now would put myself in more peril than the enemy.
+41,0,Yumeko0a,One must occasionally cede ground to the enemy/ after all...
+42,0,Yumeko0a,That was clumsiness on my part.
+43,0,Yumeko0a,I see that you know how to fight.
+44,0,Yumeko2a,What―what have I done?!
+45,0,Yumeko0a,Allow me to make the deciding blow.
+46,0,Yumeko0a,You seem to be running behind schedule.
+47,0,Yumeko0a,I will handle this.
+48,0,Yumeko0a,We'll focus our attacks.
+49,0,Yumeko0a,I'll press them further.
+50,0,Yumeko0a,I still have more swords left.
+51,0,Yumeko0a,You throw them off balance/ and I will pierce them.
+52,0,Yumeko0a,This isn't over yet.
+53,0,Yumeko0a,Withdraw immediately!
+54,0,Yumeko0a,It's fine. I exist for this very purpose.
+55,0,Yumeko0a,I must keep damage to my allies to a minimum.
+56,0,Yumeko0a,I will be our shield!
+57,0,Yumeko0a,I will take this blow.
+58,0,Yumeko0a,I'll go out ahead.
+59,0,Yumeko0a,If we put our attacks on the same trajectory/ we should hit.
+60,0,Yumeko0a,I will follow your instructions.
+61,0,Yumeko0a,I will support you/ of course.
+62,0,Yumeko0a,Please don't let yourself dawdle.
+63,0,Yumeko0a,We'll focus our attacks.
+64,0,Yumeko0a,I entrust you with directing my sword.
+65,0,Yumeko0a,I'll put all my spirit into my swords!
+66,0,Yumeko0a,I'll show you moves befitting Lady Shinki's blade!
+67,0,Yumeko0a,Alice/ don't do something so stupid!
+68,0,Yumeko0a,You need to finish the job/ Alice.
+69,0,Yumeko0a,Attack them properly/ Alice.
+70,0,Yumeko0a,Alice/ you're not watching your surroundings.
+71,0,Yumeko0a,Alice/ dodge the next one!
+72,0,Yumeko0a,Out of the way/ Alice!
+73,0,Yumeko0a,Alice/ I'll go out ahead.
+74,0,Yumeko0a,Show me your way of fighting/ Alice.
+75,0,Yumeko0a,I'm leaving the final blow to you/ Alice.
+76,0,Yumeko0a,I'll provide assistance/ Alice.
+77,0,Yumeko0a,Alice/ follow after me.
+78,0,Yumeko0a,Alice/ I entrust you with directing my sword.
+79,0,Yumeko0a,Let's show them moves befitting Lady Shinki's blade!
+80,0,Yumeko0a,Alice... you're showing a lot of spirit.
+81,0,Yumeko0a,Lady Shinki?! Right in front of my eyes...
+82,0,Yumeko0a,Lady Shinki/ I will settle this matter.
+83,0,Yumeko0a,Lady Shinki/ please allow me to handle this.
+84,0,Yumeko0a,Lady Shinki/ I live to serve.
+85,0,Yumeko0a,I am here to protect you/ Lady Shinki.
+86,0,Yumeko0a,It will be as you ask/ Lady Shinki.
+87,0,Yumeko0a,Lady Shinki/ I'll go out ahead.
+88,0,Yumeko0a,Lady Shinki/ I will assist in your efforts.
+89,0,Yumeko0a,Lady Shinki/ please do not over-exert yourself.
+90,0,Yumeko0a,The preparatios are complete/ Lady Shinki.
+91,0,Yumeko0a,I will accomplish my most cherished dream...
+92,0,Yumeko0a,Please/ Lady Shinki/ by all means...
+93,0,Yumeko0a,I am Lady Shinki's blade.
+94,0,Yumeko2a,I can't believe Lady Byakuren would/ for me...
+95,0,Yumeko0a,Lady Byakuren/ please allow me to handle this.
+96,0,Yumeko0a,Lady Byakuren/ I will settle this matter.
+97,0,Yumeko0a,Lady Byakuren/ I will be your shield.
+98,0,Yumeko0a,I would never ignore you in such a time of crisis/ Lady Byakuren.
+99,0,Yumeko0a,Lady Byakuren/ I will assist in your efforts.
+100,0,Yumeko0a,Lady Byakuren/ I'll go out ahead.
+101,0,Yumeko0a,It will be as you ask/ Lady Byakuren.
+102,0,Yumeko0a,With steel sword and adamant body!
+103,0,Yumeko0a,Please/ Lady Byakuren/ by all means...
+104,0,Yumeko0a,Lady Byakuren/ I entrust you with directing my sword.
+105,0,Yumeko0a,Yuuka/ are you bothering to try?
+106,0,Yumeko0a,This isn't like you at all/ Yuuka.
+107,0,Yumeko0a,Withdraw. This too is one of my duties.
+108,0,Yumeko0a,If you're going to fight/ then fight in earnest!
+109,0,Yumeko0a,Show me how polished your skills can be.
+110,0,Yumeko0a,I do think highly of your spirit/ if nothing else.
+111,0,Yumeko0a,Vexing though it may be/ I entrust you with directing my sword.
+112,0,Yumeko0a,Mima/ are you bothering to try?
+113,0,Yumeko0a,This isn't like you at all/ Mima.
+114,0,Yumeko0a,Withdraw. This too is one of my duties.
+115,0,Yumeko0a,If you're going to fight/ then fight in earnest!
+116,0,Yumeko0a,Show me how polished your skills can be.
+117,0,Yumeko0a,I do think highly of your spirit/ if nothing else.
+118,0,Yumeko0a,Vexing though it may be/ I entrust you with directing my sword.
+119,0,Yumeko0a,I'll block out the pain...
+120,0,Yumeko0a,I'll stop this attack right here!
+121,0,Yumeko0a,I won't let you break my guard!
+122,0,Yumeko0a,Even if I must push myself somewhat/ I'll manage to keep away!
+123,0,Yumeko0a,I fully predicted your movements.
+124,0,Yumeko0a,There's not a chance this could hit me.
+125,0,Yumeko0a,Make a pointful attack next time.
+126,0,Yumeko0a,I must congratulate you on at least managing to hit me.
+127,0,Yumeko0a,An enemy who doesn't know their own place/ I see.
+128,0,Yumeko0a,This poses no problem for further combat.
+129,0,Yumeko0a,A decidedly effective attack.
+130,0,Yumeko0a,I'm getting overwhelmed?!
+131,0,Yumeko0a,They broke through my defenses?!
+132,0,Yumeko0a,I'm at my―no/ I can still fight on.
+133,0,Yumeko0a,They predicted my movements?!
+134,0,Yumeko0a,... So you have some capability at this after all.
+135,0,Yumeko0a,I will admit―it was a good attack.
+136,0,Yumeko0a,I do not believe that was negligence on my part...
+137,0,Yumeko0a,... You're good.
+138,0,Yumeko0a,It seems I underestimated you...
+139,0,Yumeko0a,Taking a little bit of fire is unavoidable.
+140,0,Yumeko0a,Even if you've managed to hit me―!
+141,0,Yumeko0a,By all means/ finish this/ if you can.
+142,0,Yumeko0a,Just this?!
+143,0,Yumeko0a,That won't stop me!
+144,0,Yumeko0a,You're lacking in precision.
+145,0,Yumeko0a,I'll let you in on how I did this: I can see right through you.
+146,0,Yumeko0a,Evasive action... successful.
+147,0,Yumeko0a,I read your attack the moment you took your stance.
+148,0,Yumeko0a,Your aim is insufficient for this.
+149,0,Yumeko0a,It's unacceptable to be too hasty.
+150,0,Yumeko0a,I have no desire to take a direct hit.
+151,0,Yumeko0a,In battle/ one must limit the damage one takes.
+152,0,Yumeko0a,Ah/ so it's like this...
+153,0,Yumeko0a,I cut my way through.
+154,0,Yumeko0a,As if that attack could manage it!
+155,0,Yumeko0a,Aim properly next time/ please.
+156,0,Yumeko0a,This doesn't even amount to a fight.
+157,0,Yumeko0a,You can't even touch me.
+158,0,Yumeko0a,Intercepting the enemy's attack!
+159,0,Yumeko0a,And you think you're fit to cross blades with me?!
+160,0,Yumeko0a,That won't even reach me.
+161,0,Yumeko0a,You were too slow in transitioning into your attack.
+162,0,Yumeko0a,Don't complain that this is poor etiquette/ alright?
+163,0,Yumeko2a,... Retreating.
+164,0,Yumeko2a,... How humiliating.
+165,0,Yumeko0a,I'm ashamed to say/ I'll be relying on you all to finish this.
+166,0,Yumeko0a,Like this/ I'm not fit to be Lady Shinki's blade...
+167,0,Yumeko0a,You don't give off any gravitas.
+168,0,Yumeko0a,Don't worry/ I intend to use every part of the sheep.
+169,0,Yumeko0a,You should know: In Makai/ there's always a bigger fish.
+170,0,Yumeko0a,I know how to deal with a large opponent.
+171,0,Yumeko0a,I've seen your movements before!
+172,0,Yumeko0a,I won't hold my blade back/ even against a familiar face.
+173,0,Yumeko0a,I do wonder if it's dangerous to get close to you...
+174,0,Yumeko0a,Lady Byakuren's nightmare... I suppose this counts as a rematch.
+175,0,Yumeko0a,I think I'll be a little harsher on you than usual.
+176,0,Yumeko0a,If I'm facing Yuuka Kazami/ I need not hold back at all.
+177,0,Yumeko0a,To challenge us so rashly is pure folly.
+178,0,Yumeko0a,Don't worry/ I intend to use every part of the sheep.
+179,0,Yumeko0a,You're not done using that power/ are you?
+180,0,Yumeko0a,If you're going to change your patterns―
+181,0,Yumeko0a,This has become a waste of my swords.
+182,0,Yumeko0a,I too wish to ascertain your power.
+183,0,Yumeko0a,I cannot allow myself to lose/ for Lady Shinki's sake.
+184,0,Yumeko0a,I know well from experience the power of dreams...
+185,0,Yumeko0a,A great/ onrushing torrent of dreams... but I'll show you how my blade can pierce through them!
+186,0,Yumeko0a,I too wish to ascertain your power.
+187,0,Yumeko0a,I cannot allow myself to lose/ for Lady Shinki's sake.
+188,0,Yumeko0a,I know well from experience the power of dreams...
+189,0,Yumeko0a,A great/ onrushing torrent of dreams... but I'll show you how my blade can pierce through them!
+190,0,Yumeko0a,Finally/ it is time to drive you out.
+191,0,Yumeko0a,I'll make sure you don't even think of coming near us for a while.

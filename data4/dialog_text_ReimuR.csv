@@ -1,0 +1,902 @@
+ID,LineID,face,dialog
+0,0,Reimu1a,I'll start with the pests in front of me!
+1,0,Reimu1a,You popped up at just the right time!
+2,0,Reimu1a,Just sit down already!
+3,0,Reimu0a,Sorry/ but I'm gonna crush you!
+4,0,Reimu0a,I'm rushing on ahead.
+5,0,Reimu0a,I'll make this easy for you!
+6,0,Reimu0a,Don't get cocky!
+7,0,Reimu0a,Shoot at me/ and I'll shoot back!
+8,0,Reimu0a,I'd appreciate it if you could go away/ please.
+9,0,Reimu0a,You picked a fight with the wrong girl!
+10,0,Reimu0a,I do NOT have the time for you people!
+11,0,Reimu0a,Don't think I'll let you get away with that!
+12,0,Reimu0a,Cheeky/ aren't you?
+13,0,Reimu0a,Don't you dare get in my way!
+14,0,Reimu0a,Coming from over there/ huh?
+15,0,Reimu0a,Let's finish this.
+16,0,Reimu0a,I've got you in my sights!
+17,0,Reimu1a,Come at me however you'd like!
+18,0,Reimu0a,Playtime's over!
+19,0,Reimu0a,Exorcizing youkai is my job!
+20,0,Reimu0a,When I say I'll do something/ I... usually do it!
+21,0,Reimu0a,I've got good eyesight/ you know!
+22,0,Reimu0a,Hope I can take care of these guys and go drink some tea soon...
+23,0,Reimu1a,Time to teach you a lesson!
+24,0,Reimu0a,You small fry are really getting carried away!
+25,0,Reimu0a,I can't afford to waste my time here!
+26,0,Reimu1a,Let's get this over with!
+27,0,Reimu1a,I'm not giving up just yet!
+28,0,Reimu1a,I can't afford to lose!
+29,0,Reimu1a,Things are looking kind of dicey here!
+30,0,Reimu1a,...You're going down!
+31,0,Reimu1a,Failing's not my style!
+32,0,Reimu1a,Not one step further!
+33,0,Reimu1a,Time to get serious!
+34,0,Reimu1a,You're wide open!
+35,0,Reimu1a,Not getting out of this one!
+36,0,Reimu1a,You stick out like a sore thumb!
+37,0,Reimu1a,I'll close the gap!
+38,0,Reimu1a,Eyes over here!
+39,0,Reimu1a,Try dodging this!
+40,0,Reimu1a,This one won't miss!
+41,0,Reimu1a,Try this on for size!
+42,0,Reimu1a,Even from this distance!
+43,0,Reimu1a,You're a bit too slow!
+44,0,Reimu1a,My amulets should reach!
+45,0,Reimu1a,My needles will seal you!
+45,1,Reimu1a,Right there!
+46,0,Reimu1a,I'll give these a try!
+46,1,Reimu1a,There!
+47,0,Reimu1a,A bit crude/ but they do the job!
+47,1,Reimu1a,There!
+48,0,Reimu1a,I've got a lot of practice with these!
+48,1,Reimu1a,Now!
+49,0,Reimu1a,Stepping up? Bad choice!
+49,1,Reimu1a,There!
+50,0,Reimu1a,Let's go with a brute-force approach!
+50,1,Reimu1a,Come forth/ Yin-Yang Kishin Orb!
+50,2,Reimu1a,Squash them flat!
+51,0,Reimu1a,I'll crush you all at once!
+51,1,Reimu1a,Come forth/ Kishin Orb!
+51,2,Reimu1a,Take that!
+52,0,Reimu1a,Let's go with this one!
+52,1,Reimu1a,Yin-Yang Kishin Orb!
+52,2,Reimu1a,Squash them flat!
+53,0,Reimu1a,How about this?
+53,1,Reimu1a,Think you can push THIS back?
+53,2,Reimu1a,Think you can push THIS back?\n　Give it a try!
+54,0,Reimu1a,This is one of my special weapons!
+54,1,Reimu1a,Yin-Yang Kishin Orb!
+54,2,Reimu1a,You're not running from this!
+55,0,Reimu1a,I'll seal you away!
+55,1,Reimu1a,You're in my sights!
+55,2,Reimu1a,And here's the finale!
+55,3,Reimu0a,Now apologize for making me waste my time on you.
+56,0,Reimu1a,I'll seal you right away!
+56,1,Reimu1a,Gotcha!
+56,2,Reimu1a,Take this!
+56,3,Reimu0a,That ought to wraps things up.
+57,0,Reimu1a,My weapons are getting a real workout today!
+57,1,Reimu1a,You're mine!
+57,2,Reimu1a,And here's the finale!
+57,3,Reimu0a,Whew. My weapons aren't the only ones getting a workout...
+58,0,Reimu1a,I'll show you what the Hakurei Shrine Maiden can really do.
+58,1,Reimu1a,Danmaku barrier!
+58,2,Reimu1a,Go!
+58,3,Reimu1a,And here's the finale!
+59,0,Reimu1a,I'll give you all the danmaku I've got!
+59,1,Reimu1a,Hakurei Danmaku Barrier!
+59,2,Reimu1a,Go!
+59,3,Reimu1a,And here's the finale!
+60,0,Reimu1a,Let's go/ danmaku barrier!
+60,1,Reimu1a,See if you can slip through this.
+60,2,Reimu1a,Go!
+60,3,Reimu1a,I said slip through it"/ not slip right into it"!
+61,0,Marisa0a,At this range/ we should be able to pull it off.
+61,1,Marisa0a,Reimu/ how about we finish 'em off in one go?
+61,2,Reimu1a,Sure. Just try not to slow me down.
+61,3,Marisa1a,Get in there/ Reimu!
+61,4,Reimu1a,Already on it!
+61,5,Marisa1a,Eat this!
+61,6,Reimu1a,One more!
+61,7,Marisa1a,And this one's for good measure!
+61,8,Marisa0a,That went really well/ huh?
+61,9,Reimu0a,...Annoyingly so.
+62,0,Reimu0a,Oh/ perfect timing/ Marisa.
+62,1,Reimu0a,I'll set it up. Give me a hand here.
+62,2,Marisa1a,And help you? Who do you think I am?
+62,3,Marisa1a,I'd rather finish 'em off myself!
+62,4,Reimu1a,Too bad for you that I was faster.
+62,5,Marisa1a,I got in way more shots!
+62,6,Reimu1a,Then allow me to finish them off!
+62,7,Marisa0a,Oh no you don't!
+62,8,Marisa0a,And the winner is...!
+62,9,Reimu0a,...Let's just call it a draw.
+63,0,Reimu1a,We'll settle this in one pass.
+63,1,Reimu1a,Marisa/ try to keep up with me.
+63,2,Marisa1a,How about YOU keep up with ME!
+63,3,Marisa1a,I'm going in!
+63,4,Reimu1a,An opening!
+63,5,Marisa1a,Not letting you off just yet!
+63,6,Reimu1a,And just to be sure...
+63,7,Marisa1a,Spellcard!
+63,8,Marisa0a,This is our...
+63,9,Reimu0a,...Poorly coordinated combo attack.
+64,0,Marisa0a,A red-and-white shrine maiden and a black-and-white magician...
+64,1,Marisa0a,So how about Trichromatic Lotus Butterfly?
+64,2,Reimu1a,Uh/ go ahead? I couldn't care less.
+64,3,Marisa1a,I'm mainly naming it after you/ y'know. You could stand to be a LITTLE grateful.
+64,4,Reimu1a,Yeah/ sure/ whatever. I'll leave this part to you.
+64,5,Marisa1a,Tch/ why am I the only one putting effort into this?
+64,6,Reimu0a,If you insist...
+64,7,Marisa0a,Wanna finish them off together?
+64,8,Marisa0a,I really am the only one giving this my all.
+64,9,Reimu0a,That's kind of your thing/ isn't it?
+65,0,Sanae1a,As fellow shrine maidens/ our methods should align well!
+65,1,Reimu1a,For advertising our shrines/ you mean?
+65,2,Reimu1a,For advertising our shrines/ you mean?
+65,3,Sanae1a,For good luck!
+65,4,Reimu1a,For avoiding disasters!
+65,5,Sanae1a,For blessed marriages!
+65,6,Reimu1a,For fortune in business!
+65,7,Sanae1a,For safety/ and security!
+65,8,Sanae0a,I think we sold them on it.
+65,9,Reimu0a,I just hope this turns a profit...
+66,0,Reimu1a,Sanae/ stick to me!
+66,1,Sanae0a,Wait/ stick? How close are we getting?!
+66,2,Sanae0a,Wait/ stick? How close are we getting?!
+66,3,Reimu1a,One!
+66,4,Sanae1a,Two!
+66,5,Reimu1a,Three!
+66,6,Reimu1a,Shrine power/ release!
+66,7,Sanae1a,FIIIIRE!
+66,8,Reimu0b,Yeah/ something like that.
+66,9,Sanae0a,I/ uh/ think I get it now.
+67,0,Reimu1a,Follow me/ Sanae!
+67,1,Reimu1a,Follow me/ Sanae!
+67,2,Sanae0a,If I call upon Lady Kanako's power/ this ought to work!
+67,3,Reimu1a,One!
+67,4,Sanae1a,Two!
+67,5,Reimu1a,Three!
+67,6,Reimu1a,Here's our chance!
+67,7,Sanae1a,My power's in your hands!
+67,8,Sanae0a,Nice one/ Reimu!
+67,9,Reimu0b,Uh/ didn't we both contribute here?
+68,0,Sanae1a,Lend me your power/ Reimu!
+68,1,Reimu0a,Sure. How're we doing this?
+68,2,Sanae0a,We'll do it in three steps. Like so!
+68,3,Sanae1a,One!
+68,4,Reimu1a,Two!
+68,5,Sanae1a,Three!
+68,6,Reimu1a,Two shrine maidens/ as one!
+68,7,Sanae1a,Take this/ please!
+68,8,Sanae0a,Thank you for your assistance/ Reimu.
+68,9,Reimu0b,Piece of cake.
+69,0,Sanae1a,Let's do this/ Reimu!
+69,1,Reimu0a,You've got the timing down/ right?
+69,2,Reimu0a,You've got the timing down/ right?
+69,3,Sanae1a,One!
+69,4,Reimu1a,Two!
+69,5,Sanae1a,Three!
+69,6,Reimu1a,You're not getting away!
+69,7,Sanae1a,FIIIIRE!
+69,8,Sanae0a,Goodness/ I'm glad that worked.
+69,9,Reimu0b,No way it wouldn't.
+70,0,Reimu5a,My danmaku will put an end to this.
+70,1,Reimu5a,...
+71,0,Reimu5a,This is danmaku that only I can use...
+71,1,Reimu5a,...
+72,0,Reimu5a,This here's my ultimate technique.
+72,1,Reimu5a,...
+73,0,Reimu1a,This time/ you're dealing with both of us!
+73,1,Reimu1a,Marisa/ follow my lead!
+73,2,Marisa1a,You stole my line/ Reimu!
+73,3,Reimu1a,Fine/ then it's a race!
+73,4,Reimu1a,I'm in the lead!
+73,5,Marisa0a,But I've got way more power!
+73,6,Reimu1a,You're not even close!
+73,7,Marisa1a,Try this on for size!
+73,8,Marisa1a,Try this on for size!
+73,9,Reimu1a,Outta my way!
+73,10,Reimu1a,Sky-Conquering... Wind God Kick!
+73,11,Reimu1a,And another one!
+73,12,Reimu1a,Omnidirectional Demon-Binding Circle!
+73,13,Marisa1a,Ball's in my court!
+73,14,Marisa1a,Orreries Sun!
+73,15,Marisa1a,And now/ Orreries...
+73,16,Marisa1a,UNIVEEEEERSE!!!
+73,17,Marisa0a,You're up/ Reimu!
+73,18,Reimu1a,Back at you/ Marisa!
+73,19,Reimu1a,Back at you/ Marisa!
+73,20,Reimu5b,My ultimate technique!
+73,21,Marisa0a,Mini-hakkero/ full throttle!
+73,22,Reimu5b,Natural Fantasy!
+73,23,Marisa1a,BLAZING STAR!
+73,24,Reimu1a,Spirit Sign!
+73,25,Marisa1a,Love Sign!
+73,26,Reimu1a,Fantasy...!
+73,27,Marisa1a,Master...
+73,28,Marisa1a,SPAAAAARK!!
+73,29,Reimu1a,Seal!
+73,30,Reimu1a,This is our attack...
+73,31,Marisa1a,With all of fantasy on the line!
+74,0,Reimu1a,Let's end this!
+74,1,Reimu1a,Reimu Hakurei!
+74,2,Marisa1a,And Marisa Kirisame!
+74,3,Reimu1a,Today/ you face BOTH of us!
+74,4,Reimu1a,Seal their movements!
+74,5,Marisa1a,Hell yeah/ pincer attack!
+74,6,Reimu1a,There!
+74,7,Marisa1a,My turn!
+74,8,Marisa1a,My turn!
+74,9,Reimu1a,Now!
+74,10,Reimu1a,Sky-Conquering... Wind God Kick!
+74,11,Reimu1a,And another one!
+74,12,Reimu1a,Omnidirectional Demon-Binding Circle!
+74,13,Marisa1a,Perfect/ Reimu!
+74,14,Marisa1a,Orreries Sun!
+74,15,Marisa1a,Let's go/ Orreries...!
+74,16,Marisa1a,UNIVEEEEERSE!!!
+74,17,Marisa0a,This is it!
+74,18,Reimu1a,Don't need to tell me twice!
+74,19,Reimu1a,Don't need to tell me twice!
+74,20,Reimu5b,This is my ultimate technique!
+74,21,Marisa0a,C'mon Mini-hakkero/ let's show 'em the stars!
+74,22,Reimu5b,Natural Fantasy!
+74,23,Marisa1a,BLAZING STAR!
+74,24,Reimu1a,Spirit Sign!
+74,25,Marisa1a,Love Sign!
+74,26,Reimu1a,Fantasy...!
+74,27,Marisa1a,Master...
+74,28,Marisa1a,SPAAAAARK!!
+74,29,Reimu1a,Seal!
+74,30,Reimu1a,This is our attack...
+74,31,Marisa1a,With all of fantasy on the line!
+75,0,Reimu1a,We're doing this together/ but...
+75,1,Reimu1a,I'm just gonna do my own thing/ Marisa!
+75,2,Marisa1a,Right back at ya/ Reimu!
+75,3,Reimu1a,Alright/ let's do this!
+75,4,Reimu1a,First come/ first served!
+75,5,Marisa0a,You're open!
+75,6,Reimu1a,There!
+75,7,Marisa1a,My turn!
+75,8,Reimu1a,Keep up the pressure!
+75,9,Reimu1a,Now!
+75,10,Reimu1a,Sky-Conquering... Wind God Kick!
+75,11,Reimu1a,And another one!
+75,12,Reimu1a,Omnidirectional Demon-Binding Circle!
+75,13,Marisa1a,Perfect/ Reimu!
+75,14,Marisa1a,Orreries Sun!
+75,15,Marisa1a,Orreries...!
+75,16,Marisa1a,UNIVEEEEERSE!!!
+75,17,Marisa0a,You're up/ Reimu!
+75,18,Reimu1a,Back at you/ Marisa!
+75,19,Reimu1a,Back at you/ Marisa!
+75,20,Reimu5b,This is my ultimate technique!
+75,21,Marisa0a,Mini-hakkero/ full throttle!
+75,22,Reimu5b,Natural Fantasy!
+75,23,Marisa1a,BLAZING STAR!
+75,24,Reimu1a,Spirit Sign!
+75,25,Marisa1a,Love Sign!
+75,26,Reimu1a,Fantasy...!
+75,27,Marisa1a,Master...
+75,28,Marisa1a,SPAAAAARK!!
+75,29,Reimu1a,Seal!
+75,30,Reimu1a,This is our attack...
+75,31,Marisa1a,With all of fantasy on the line!
+76,0,Reimu0a,The whole point of danmaku is to dodge it/ right?
+77,0,Reimu0a,I just have to focus on dodging/ for now...
+78,0,Reimu0a,This is kind of annoying... Actually/ scratch the kind of" part.
+79,0,Reimu1a,I'll let you get away with that/ for now!
+80,0,Reimu0a,Ugh/ this is depressing...
+81,0,Reimu0a,Talk about a mood-killer...
+82,0,Reimu0a,Can't reach them/ huh...
+83,0,Reimu2a,Gah/ of all the times to be out of range!
+84,0,Reimu0a,Er/ huh? Where'd they go?
+85,0,Reimu0a,You're good at fighting like a coward/ if nothing else.
+86,0,Reimu0a,Sorry about that. I'll pay back your share/ too.
+87,0,Reimu1a,Let's keep it going!
+88,0,Reimu0a,Don't think you can steal a beat on me!
+89,0,Reimu0a,Get down/ I'll handle this!
+90,0,Reimu0a,Better finish them off!
+91,0,Reimu0a,And while we're at it/ try this on for size!
+92,0,Reimu0a,I'll deal with the leftovers!
+93,0,Reimu0a,If you can't shoot them down/ then go take a break already!
+94,0,Reimu0a,It's not over yet!
+95,0,Reimu0a,I'll keep up the momentum!
+96,0,Reimu0a,My turn? My pleasure!
+97,0,Reimu0a,I'll follow it up with another!
+98,0,Reimu0a,Aren't you being a little TOO relaxed?
+99,0,Reimu0a,Try not to give me more work to do.
+100,0,Reimu0a,If you're not feeling up for it/ why don't you just go home?
+101,0,Reimu1a,Hey/ are you feeling alright?
+102,0,Reimu1a,I'll take charge if you take too long!
+103,0,Reimu1a,I'll give you an opening!
+104,0,Reimu1a,Handle it however you like!
+105,0,Reimu1a,Do your thing!
+106,0,Reimu1a,My instincts are saying to go after them!
+107,0,Reimu1a,Try not to slow me down!
+108,0,Reimu0a,This isn't really my kind of thing...
+109,0,Reimu1a,I'm going after them!
+110,0,Reimu1a,Don't expect me to just sit pretty back there!
+111,0,Reimu1a,Handle it however you like!
+112,0,Reimu1a,This is our danmaku!
+113,0,Reimu1a,We'll finish this in one move!
+114,0,Reimu2a,This isn't like you at all/ Marisa...
+115,0,Reimu0a,Fine then. Swap with me/ Marisa.
+116,0,Reimu0a,Are you pushing all the work onto me/ Marisa?!
+117,0,Reimu0a,It's my turn/ Marisa!
+118,0,Reimu1a,Don't think you can steal a beat on me/ Marisa!
+119,0,Reimu0a,Starting to lose steam there/ Marisa?
+120,0,Reimu0a,You're letting your guard down/ Marisa.
+121,0,Reimu1a,Quit flying so far ahead/ Marisa!
+122,0,Reimu1a,At this rate I'll be the one to shoot them down/ Marisa!
+123,0,Reimu0a,Hey/ Marisa. Come do your magic thing after this.
+124,0,Reimu1a,I'll lead them right to you!
+125,0,Reimu1a,Let's go/ Marisa!
+126,0,Reimu1a,Marisa! Let's finish them off all at once!
+127,0,Reimu1a,Let's show them our danmaku/ Marisa!
+128,0,Reimu1a,Your stars will guide the way!
+129,0,Reimu2a,Alice! Yeesh/ you're taking this way too seriously...
+130,0,Reimu1a,You fell a bit short/ but I'll take us to the goal!
+131,0,Reimu1a,Don't expect me to sit still/ Alice!
+132,0,Reimu1a,After Alice's done/ you're easy prey!
+133,0,Reimu0a,Don't let your guard down/ Alice!
+134,0,Reimu0a,This isn't like you/ Alice!
+135,0,Reimu0a,That's our target? Got it.
+136,0,Reimu1a,You're pretty nimble/ so you should be able to match my rhythm!
+137,0,Reimu1a,I'll take the first shot/ and so follow up after me/ Alice!
+138,0,Reimu0a,Keep dawdling and I'll shoot them down first!
+139,0,Reimu0a,I'll lend you a hand/ Alice.
+140,0,Reimu1a,With Alice here/ I think we can make this work!
+141,0,Reimu1a,Alice! Let's finish them off all at once!
+142,0,Reimu1a,Let's show them our danmaku/ Alice!
+143,0,Reimu2a,Who asked Yukari to go and so something like that...
+144,0,Reimu0a,I'll be quick to finish this one off/ Yukari.
+145,0,Reimu0a,You really need to finish your plate/ Yukari!
+146,0,Reimu0a,Try actually shooting them down next time!
+147,0,Reimu1a,Don't expect me to sit still/ Yukari!
+148,0,Reimu1a,What are you doing/ Yukari?!
+149,0,Reimu1a,Quit slacking off/ Yukari.
+150,0,Reimu1a,You better follow my lead/ Yukari!
+151,0,Reimu1a,Make sure to finish them off/ Yukari!
+152,0,Reimu0a,You want me to shoot them? Sure/ got it.
+153,0,Reimu1a,Yukari/ I'm taking the shot!
+154,0,Reimu0a,Here's the first term/ so you can solve for X.
+155,0,Reimu1a,We're doing this my way/ Yukari!
+156,0,Reimu1a,Yukari! Let's finish them off all at once!
+157,0,Reimu1a,Let's show them our danmaku/ Yukari!
+158,0,Reimu2a,Suika?! Did you really have to take it that seriously...?
+159,0,Reimu1a,I suppose you gathered" me and this enemy here/ huh?
+160,0,Reimu1a,Hey Suika/ you forgot to shoot them down!
+161,0,Reimu1a,Let me in on the fight/ Suika!
+162,0,Reimu1a,How high proof is that sake/ Suika?!
+163,0,Reimu0a,How did I wind up protecting Suika...?
+164,0,Reimu1a,I've got a good shot here/ Suika!
+165,0,Reimu0a,Finish them off with that ridiculous strength of yours.
+166,0,Reimu1a,Suika/ I'm taking the shot!
+167,0,Reimu1a,Suika/ you're kind of wobbling all over the place...
+168,0,Reimu1a,Hey/ you know we're in the middle of a battle/ right?!
+169,0,Reimu1a,I think you've had too much to drink/ Suika!
+170,0,Reimu1a,I'm counting on that ridiculous strength of yours/ Suika!
+171,0,Reimu1a,Let's show them our danmaku/ Suika!
+172,0,Reimu1a,Let's bowl right over them/ Suika!
+173,0,Reimu2a,Keine! Yeesh/ you're taking this way too seriously...
+174,0,Reimu0a,You're reliable/ but you didn't quite finish the job this time.
+175,0,Reimu0a,Leave the rest to me/ Keine!
+176,0,Reimu1a,I'll follow up/ Keine!
+177,0,Reimu1a,This is starting to look bad/ Keine!
+178,0,Reimu0a,How did I wind up protecting Keine...?
+179,0,Reimu0a,Be sure to finish the job/ Keine.
+180,0,Reimu0a,Ready to go/ Keine?
+181,0,Reimu0a,Hey Keine/ let's go for this one next.
+182,0,Reimu0a,Right/ sure/ whatever you say/ Miss Kamishirasawa.
+183,0,Reimu0a,I'll lend you a hand/ Keine.
+184,0,Reimu1a,I'll help with this one/ Keine!
+185,0,Reimu1a,I'm pretty good at doling out punishment myself!
+186,0,Reimu1a,Let's show them our danmaku/ Keine!
+187,0,Reimu1a,Keine! Let's finish them off all at once!
+188,0,Reimu2a,...You're not much of a journalist if you get shot down yourself.
+189,0,Reimu0a,You sure are good at messing everything up.
+190,0,Reimu1a,I'll keep up the momentum/ Aya!
+191,0,Reimu0a,Were you too busy fiddling with your camera to look where you were going?
+192,0,Reimu1a,Pay attention/ Aya!
+193,0,Reimu0a,You never get tired of this whole getting the scoop" thing/ do you?
+194,0,Reimu0a,Never a dull moment with you/ is there?
+195,0,Reimu1a,Let's get this over with/ Aya!
+196,0,Reimu1a,Aya/ I'm taking the shot!
+197,0,Reimu1a,If you keep darting around like that/ don't blame me if I hit you!
+198,0,Reimu1a,Aya's gonna leave me in the dust at this rate!
+199,0,Reimu1a,Aya! Let's finish them off all at once!
+200,0,Reimu1a,Just this once/ you can go as fast as you want!
+201,0,Reimu1a,Let's show them our danmaku/ Aya!
+202,0,Reimu2a,Sanae?! I let my guard down!
+203,0,Reimu1a,Try to actually finish the job next time/ Sanae!
+204,0,Reimu1a,I'll keep up the momentum/ Sanae!
+205,0,Reimu1a,Sanae/ they've got a bead on you!
+206,0,Reimu1a,Quit spacing out/ Sanae!
+207,0,Reimu1a,Don't miss your chance/ Sanae!
+208,0,Reimu0a,We can't afford to waste our time here/ Sanae!
+209,0,Reimu1a,Are we going after this one/ Sanae?
+210,0,Reimu1a,I'll set them up/ but you'll have to handle the finishing touches!
+211,0,Reimu0a,Sanae/ I'm taking the shot!
+212,0,Reimu1a,Let's show them our danmaku/ Sanae!
+213,0,Reimu0a,Sanae! Let's finish them off all at once!
+214,0,Reimu1a,Let's ride the wind together/ Sanae!
+215,0,Reimu1a,Saw that one coming.
+216,0,Reimu1a,Just have to trust my instincts!
+217,0,Reimu1a,As if that was ever gonna hit!
+218,0,Reimu0a,What/ is that all you got?
+219,0,Reimu0a,You're next.
+220,0,Reimu0a,Huh? What did that even do?
+221,0,Reimu0a,That didn't accomplish much.
+222,0,Reimu2a,Stop flailing around/ already!
+223,0,Reimu0a,Nothing to worry about.
+224,0,Reimu0a,About what you'd expect/ I suppose.
+225,0,Reimu0a,You could stand to turn up the heat a bit/ really.
+226,0,Reimu2a,Hardly a scratch!
+227,0,Reimu2a,Hmph. This is no big deal!
+228,0,Reimu0a,Are you even trying?
+229,0,Reimu2a,Ngh... I hope you're ready for comes next!
+230,0,Reimu2a,I couldn't completely avoid it...?!
+231,0,Reimu2a,I'm not giving up just yet!
+232,0,Reimu2a,You'll get what's coming to you some day!
+233,0,Reimu2a,This is a crappy pattern for me...
+234,0,Reimu2a,This is no laughing matter!
+235,0,Reimu2a,Gonna have to be careful around this one...
+236,0,Reimu2a,I can't lose here...!
+237,0,Reimu2a,Nasty turn of events...
+238,0,Reimu2a,Ngh/ anymore of this and I'm gonna lose...!
+239,0,Reimu2a,Wha/ how is this happening?!
+240,0,Reimu2a,Seems I'm on the back-foot here...
+241,0,Reimu2a,Can I throw in the towel already...?
+242,0,Reimu1a,Ugh! This sucks so much I could cry!
+243,0,Reimu2a,Ow/ ow/ ow...
+244,0,Reimu2a,Hey/ whoa!
+245,0,Reimu2a,What the heck are you doing?
+246,0,Reimu2a,Ngh/ you're better than I expected!
+247,0,Reimu2a,How did it come to this?!
+248,0,Reimu2a,You've done it now!
+249,0,Reimu2a,Darn it!
+250,0,Reimu2a,Ngh/ they're fast!
+251,0,Reimu2a,You're just BEGGING to get exterminated/ huh!
+252,0,Reimu2a,Don't get carried away!
+253,0,Reimu2a,How was that so hard to dodge?
+254,0,Reimu2a,...You're pretty good.
+255,0,Reimu2a,I can't dodge? Fine then...!
+256,0,Reimu2a,Can you give it a rest? Seriously.
+257,0,Reimu0a,Would you mind buzzing off/ already?
+258,0,Reimu2a,Hmm. Guess I pushed it a little too far/ huh.
+259,0,Reimu2a,I'm not backing down now!
+260,0,Reimu2a,Picking a fight/ are you?
+261,0,Reimu2a,Hmm/ not half-bad...
+262,0,Reimu2a,I won't take this lying down!
+263,0,Reimu2a,Oh boy/ here we go again...
+264,0,Reimu2a,Quit getting in my way!
+265,0,Reimu0a,You seem a little too weak to be picking fights.
+266,0,Reimu0a,You're WAY too slow!
+267,0,Reimu0a,You might wanna turn up the heat.
+268,0,Reimu0a,You made that way too obvious!
+269,0,Reimu0a,Bring your A-game next time.
+270,0,Reimu0a,You call that an attack? How dull.
+271,0,Reimu0a,I've seen that one before.
+272,0,Reimu0a,This is taking too long...
+273,0,Reimu0a,Did you seriously think that'd hit?
+274,0,Reimu1a,Wow/ dangerous.
+275,0,Reimu0a,I'm terribly sorry/ but that was well below par.
+276,0,Reimu0a,Not happening!
+277,0,Reimu0a,A crappy attack like that'll never hit me!
+278,0,Reimu0a,Oh/ are we playing bullet-tag? That's my specialty!
+279,0,Reimu0a,Was that supposed to be a joke?
+280,0,Reimu1a,Just don't get hit/ and it's no problem!
+281,0,Reimu1a,Just gotta move a smidge over... here!
+282,0,Reimu0a,Ngh/ and they're RIGHT there/ too...!
+283,0,Reimu0a,You guys are really getting on my nerves.
+284,0,Reimu0a,Whoa/ that was a close call.
+285,0,Reimu0a,Look forward to your payback.
+286,0,Reimu0a,Better than being hit/ at least.
+287,0,Reimu0a,Just about handled it...
+288,0,Reimu1a,For danmaku like this... there!
+289,0,Reimu0a,Wasting your time/ don't you think?
+290,0,Reimu0a,Would you mind buzzing off/ already?
+291,0,Reimu0a,An attack like that couldn't possibly stop me.
+292,0,Reimu0a,Hey/ I'm protagonist-ing here!
+293,0,Reimu1a,...I see it!
+294,0,Reimu0a,Things might've been looking bad/ if that had actually hit.
+295,0,Reimu0a,And she deftly dodges another one.
+296,0,Reimu0a,Was that supposed to be danmaku?
+297,0,Reimu1a,Gotcha!
+298,0,Reimu0a,You call that danmaku?
+299,0,Reimu0a,I'm actually blocking... What a strange feeling.
+300,0,Reimu1a,Not happening!
+301,0,Reimu1a,Knock it off!
+302,0,Reimu0a,It's like I told you. Bullet-tag is my specialty.
+303,0,Reimu1a,Somehow or another/ I figured you'd come from there.
+304,0,Reimu2a,What the! How'd that happen?
+305,0,Reimu2a,You've gotta be kidding me...
+306,0,Reimu2a,This HAS to be a mistake!
+307,0,Reimu2a,Wait/ what? How is the main character losing?!
+308,0,Reimu2a,...This sucks.
+309,0,Reimu2a,No way! Is this actually happening?!
+310,0,Reimu2a,...This sucks.
+311,0,Reimu0a,Maybe I've lost my touch...
+312,0,Reimu0a,Welp/ I'm gonna go home and drink some tea.
+313,0,Reimu0a,So it goes... Try to keep the evil-doing to a minimum while I'm gone/ okay?
+314,0,Reimu0a,I lost? Put another credit in/ and I'll do it right next time.
+315,0,Reimu2a,No way! Is this actually happening?!
+316,0,Reimu2a,This HAS to be a mistake!
+317,0,Reimu2a,Losing like THIS? Unacceptable!
+318,0,Reimu2a,My instincts failed me at the worst possible moment/ huh...
+319,0,Reimu0a,The youkai are all acting up!
+320,0,Reimu1a,Youkai are my enemy. And you're a youkai!
+321,0,Reimu1a,Your stupid little tricks won't work on me!
+322,0,Reimu2a,Youkai really are a step up from the other small fry.
+323,0,Reimu2a,I'm starting to get nervous/ here.
+324,0,Reimu0a,Simple attacks/ shot by a simpleton.
+325,0,Reimu0a,You SAY you're a youkai/ but you barely pass the bar.
+326,0,Reimu0a,Running away? Then I just gotta shoot you down first!
+327,0,Reimu1a,What's going on here? Cough it up!
+328,0,Reimu2a,If my clothes need mending/ you're footing the bill!
+329,0,Reimu2a,Maids are tough/ huh...
+330,0,Reimu0a,That's a pretty neat attack/ actually...
+331,0,Reimu1a,If you cut up my clothes/ you're gonna pay for it!
+332,0,Reimu0a,Can you leave? We're in a hurry here!
+333,0,Reimu0a,Why are youkai all like this...?
+334,0,Reimu2a,You don't know when to quit/ huh...
+335,0,Reimu2a,I don't have the time to mess around with you!
+336,0,Reimu0a,You don't know when to quit/ huh...
+337,0,Reimu0a,Can you get out of my way/ already?
+338,0,Reimu0a,You talk too much.
+339,0,Reimu1a,You're seriously annoying!
+340,0,Reimu2a,Youkai really are a step up from the other small fry.
+341,0,Reimu2a,You're just BEGGING to get exterminated/ huh!
+342,0,Reimu0a,Wasting your time/ don't you think?
+343,0,Reimu1a,Did you seriously think that'd hit?
+344,0,Reimu0a,Well/ as long as I don't shoot her down...
+345,0,Reimu1a,You're pretty cocky/ for a fairy!
+346,0,Reimu0a,Fine/ I'll play along.
+347,0,Reimu1a,I suppose I'll have to teach you at the school of hard knocks.
+348,0,Reimu2a,I'm starting to feel the burn/ here. Or uh/ the ice-burn/ in this case.
+349,0,Reimu2a,I can't underestimate her/ just because she's a fairy...
+350,0,Reimu0a,I might catch a cold/ at this rate.
+351,0,Reimu0a,Exorcizing youkai is my job!
+352,0,Reimu1a,What's going on here? Cough it up!
+353,0,Reimu2a,Tengu are pretty strong/ I see.
+354,0,Reimu2a,You've got a big mouth/ but not much else!
+355,0,Reimu0a,That other tengu was much faster than you.
+356,0,Reimu0a,Not such a big-shot after all/ are you?
+357,0,Reimu1a,Alright/ we've got them cornered!
+358,0,Reimu1a,I don't know whose shrine you're the maiden to/ and I don't care!
+359,0,Reimu0a,I haven't the foggiest what you're scheming/ but even so...
+360,0,Reimu1a,If you want to see it that badly/ then take a good look!
+360,1,Reimu1a,Spirit Sign Fantasy Seal!
+361,0,Reimu2a,No way... my Fantasy Seal didn't work?
+362,0,Reimu0a,I feel like I've seen you before...
+363,0,Reimu1a,We wouldn't have to do this if you just let us through the gate!
+364,0,Reimu2a,Ngh! Youkai pack a serious punch!
+365,0,Reimu2a,I can't deal with much more of this.
+366,0,Reimu0a,Brute force won't do you many favors.
+367,0,Reimu0a,Kung Fu's pretty cool/ I suppose/ but that's about it.
+368,0,Reimu0a,You talk too much.
+369,0,Reimu0a,We wouldn't have to do this if you just let us through the gate!
+370,0,Reimu0a,You are SO easy to hit!
+371,0,Reimu1a,If you all keep getting in my way/ I'll make you regret it!
+372,0,Reimu2a,This is completely different from Marisa's magic...
+373,0,Reimu2a,I couldn't dodge it...?!
+374,0,Reimu1a,Just gotta move a smidge over... here!
+375,0,Reimu0a,Just about handled it...
+376,0,Reimu1a,If you really insist/ then I won't hold back!
+377,0,Reimu0a,Aren't you a devil? How'd you end up as a lackey?
+378,0,Reimu1a,It's my job to exterminate youkai!
+379,0,Reimu0a,Why are youkai all like this...?
+380,0,Reimu0a,She's moving strangely/ but I can follow it!
+381,0,Reimu1a,You're not getting away this time!
+382,0,Reimu0a,This isn't going to go like last time.
+383,0,Reimu2a,If I let my guard down for a second/ she'll get me...
+384,0,Reimu2a,Maids are tough/ huh...
+385,0,Reimu1a,I don't know how your trick works/ but it's not gonna work!
+386,0,Reimu0a,I'd rather not get hit by those...
+387,0,Reimu0a,I'll deal with you!
+388,0,Reimu0a,Did you forget how scary I can be?
+389,0,Reimu2a,You're the same ever!
+390,0,Reimu0a,Was it always this easy?
+391,0,Reimu0a,I thought I dodged that...
+392,0,Reimu0a,You really love the sound of your own voice/ don't you?
+393,0,Reimu1a,You're seriously annoying!
+394,0,Reimu1a,You two never learn/ do you?
+395,0,Reimu1a,I'll defeat you/ and resolve the incident!
+396,0,Reimu1a,So you're the culprit!
+397,0,Reimu2a,She's fast...!
+398,0,Reimu2a,I can't shake her off...!
+399,0,Reimu2a,She actually managed to hit me...
+400,0,Reimu0a,You're fast/ sure/ but not much else.
+401,0,Reimu0a,She's seriously strong. I can't afford to take a hit.
+402,0,Reimu2a,Good thing that wasn't a direct hit...
+403,0,Reimu0a,My taiyaki...
+404,0,Reimu1a,Youkai are my enemy. And you're a youkai!
+405,0,Reimu0a,You really should've stayed down.
+406,0,Reimu0a,If you insist on getting in my way/ I won't hold back!
+407,0,Reimu2a,How can you keep fighting that hard...?
+408,0,Reimu0a,Are you really still at it?
+409,0,Reimu0a,I'll just kick your butt/ and get back to the party.
+410,0,Reimu0a,I don't have any food for you!
+411,0,Reimu2a,You're not half-bad...
+412,0,Reimu2a,Go home/ already!
+413,0,Reimu0a,Why are you even here?
+414,0,Reimu1a,Go home/ already!
+415,0,Reimu0a,I'll just kick your butt/ and get back to the party.
+416,0,Reimu0a,I wonder if you can keep the shrine cool...
+417,0,Reimu2a,Go home/ already!
+418,0,Reimu2a,This is little TOO cold/ actually.
+419,0,Reimu0a,This is little TOO cold/ actually.
+420,0,Reimu2a,Go home/ already!
+421,0,Reimu0a,I'll just kick your butt/ and get back to the party.
+422,0,Reimu0a,I wouldn't have to punish you if you could just learn to play nice.
+423,0,Reimu1a,You're pretty cocky/ for a fairy!
+424,0,Reimu0a,Do you really think a fairy has a chance against a shrine maiden?
+425,0,Reimu1a,I'm driving you out of here!
+426,0,Reimu0a,Don't think you can take all that back.
+427,0,Reimu1a,Your crappy moves won't work on me!
+428,0,Reimu0a,Sorry/ but I'm putting an end to this.
+429,0,Reimu0a,Were you this weak last time?
+430,0,Reimu0a,Boring. You're no match for me.
+431,0,Reimu0a,You call yourself a shrine maiden? Don't make me laugh.
+432,0,Reimu1a,Now go back to your own shrine!
+433,0,Reimu1a,Get out of my way!
+434,0,Reimu1a,I really don't care about your family matters!
+435,0,Reimu2a,Why didn't you use this before?
+436,0,Reimu2a,She's really serious this time...!
+437,0,Reimu0a,Time for the usual!
+438,0,Reimu1a,I'll make you behave with my danmaku!
+439,0,Reimu0a,This request has gotten real troublesome.
+440,0,Reimu2a,I'm really starting to regret agreeing to this...
+441,0,Reimu2a,If I don't stop her soon/ she might actually take me down.
+442,0,Reimu0a,I'm really starting to regret agreeing to this...
+443,0,Reimu0a,If I don't stop her soon/ she might actually take me down.
+444,0,Reimu0a,I'm already getting chilly with you here...
+445,0,Reimu0a,If you're pranking me/ you'd better be prepared to get punished.
+446,0,Reimu0a,I feel a little guilty/ bullying a god like this.
+447,0,Reimu0a,If you don't want to move/ then I'll make you!
+448,0,Reimu0a,Even if you dart all over the place/ I can follow you!
+449,0,Reimu1a,I'm in a real crappy mood right now!
+450,0,Reimu0a,I don't really want to go around messing with gods/ but...
+451,0,Reimu0a,I'm just going to make you step aside.
+452,0,Reimu1a,You guys are REALLY getting on my nerves!
+453,0,Reimu0a,You were there last time too/ right?
+454,0,Reimu1a,I don't care how fast you are!
+455,0,Reimu1a,I don't have to see you to know where to shoot!
+456,0,Reimu1a,Let's settle this/ Sanae.
+457,0,Reimu1a,Show me what your faith is all about.
+458,0,Reimu1a,So you're the god of this shrine? Then let's settle this!
+459,0,Reimu1a,Stop telling me how to do my job!
+460,0,Reimu1a,So you're the god of this shrine? Then let's settle this!
+461,0,Reimu0a,She looks weak/ but you can never tell for sure...
+462,0,Reimu0a,Whether you're an oni or not doesn't make a difference to me.
+463,0,Reimu0a,You've got a lot of nerve/ interrupting the party.
+464,0,Reimu0a,If you're gonna get in the way of our investigation/ then blame yourself for what happens next.
+465,0,Reimu0a,I doubt you have much to do with this incident/ but here we go anyway.
+466,0,Reimu0a,If you're that insistent/ then I'll show you no quarter.
+467,0,Reimu0a,Just tell us what's going on!
+468,0,Reimu1a,If you're gonna get in the way of our investigation/ then blame yourself for what happens next.
+469,0,Reimu1a,You three are too noisy!
+470,0,Reimu1a,No matter how fast you are/ it makes no difference!
+471,0,Reimu1a,If you don't want to move/ then I'll make you!
+472,0,Reimu0a,If you're gonna get in the way of our investigation/ then blame yourself for what happens next.
+473,0,Reimu0a,You'll get no mercy from me/ Youmu!
+474,0,Reimu0a,If you're gonna get in the way of our investigation/ then blame yourself for what happens next.
+475,0,Reimu1a,So you're the culprit!
+476,0,Reimu1a,I'll defeat you/ and resolve the incident!
+477,0,Reimu1a,If you don't want to move/ then I'll make you!
+478,0,Reimu0a,Nobody cares about you/ right now!
+479,0,Reimu1a,I'll show you my danmaku/ Yukari!
+480,0,Reimu0a,I didn't think I'd wind up fighting you...
+481,0,Reimu2a,How'd it come to this?
+482,0,Reimu2a,Her danmaku's no joke!
+483,0,Reimu1a,Straight down the middle/ right?
+484,0,Reimu1a,I see you!
+485,0,Reimu1a,I'm not falling for that one!
+486,0,Reimu1a,Behave yourself/ Suika!
+487,0,Reimu1a,Don't go knocking everything over!
+488,0,Reimu2a,Why are you and Yukari always like this?
+489,0,Reimu2a,You're as crazy strong as ever/ I see...
+490,0,Reimu0a,Seeing as we're here anyway/ a little punishment is in order.
+491,0,Reimu1a,Alright everyone/ pack up your things and head on home!
+492,0,Reimu1a,Can you all please grow up already?
+493,0,Reimu2a,Ngh/ you're better than I expected!
+494,0,Reimu2a,You're about to find out why you shouldn't have done that!
+495,0,Reimu2a,Your stupid pranks have gone too far!
+496,0,Reimu0a,Seems you're in good spirits!
+497,0,Reimu0a,You look more excited than usual.
+498,0,Reimu2a,She's as straightforward as ever/ but even harder to dodge!
+499,0,Reimu2a,Ngh/ have you been practicing?
+500,0,Reimu0a,As straightforward as ever!
+501,0,Reimu0a,So that's your new magic!
+502,0,Reimu1a,You call it a shooting star/ I call it danmaku!
+502,1,Reimu1a,You're in my sights!
+502,2,Reimu1a,And here's the finale!
+502,3,Reimu0a,I'm the one winning tonight's bout!
+503,0,Reimu1a,You call it a shooting star/ I call it danmaku!
+503,1,Reimu1a,Gotcha!
+503,2,Reimu1a,Take this!
+503,3,Reimu0a,I'm the one winning tonight's bout!
+504,0,Reimu1a,You call it a shooting star/ I call it danmaku!
+504,1,Reimu1a,You're mine!
+504,2,Reimu1a,And here's the finale!
+504,3,Reimu0a,I'm the one winning tonight's bout!
+505,0,Reimu0a,I'm giving it my all/ Keine!
+506,0,Reimu0a,I'll take you on/ Keine!
+507,0,Reimu0a,You know that won't be enough/ Keine!
+508,0,Reimu2a,You're taking this pretty seriously/ Keine!
+509,0,Reimu1a,Bring out all your toys. I'll seal them all!
+509,1,Reimu1a,You're in my sights!
+509,2,Reimu1a,And here's the finale!
+509,3,Reimu0a,And with that/ I'm taking our moon back!
+510,0,Reimu1a,Bring out all your toys. I'll seal them all!
+510,1,Reimu1a,Gotcha!
+510,2,Reimu1a,Take this!
+510,3,Reimu0a,And with that/ I'm taking our moon back!
+511,0,Reimu1a,Bring out all your toys. I'll seal them all!
+511,1,Reimu1a,You're mine!
+511,2,Reimu1a,And here's the finale!
+511,3,Reimu0a,And with that/ I'm taking our moon back!
+512,0,Reimu1a,We'll settle this in one pass.
+512,1,Reimu1a,Marisa/ try to keep up with me.
+512,2,Marisa1a,How about YOU keep up with ME!
+512,3,Marisa1a,I'm going in!
+512,4,Reimu1a,There's a gap right... there!
+512,5,Marisa1a,Not letting you off just yet!
+512,6,Reimu1a,And just to be sure...
+512,7,Marisa1a,Spellcard!
+512,8,Marisa0a,Now be a good little princess...
+512,9,Reimu0a,...And give us our moon back!
+513,0,Marisa0a,At this range/ we should be able to pull it off.
+513,1,Marisa0a,Reimu/ how about we finish 'em off in one go?
+513,2,Reimu1a,Sure. Just try not to slow me down.
+513,3,Marisa1a,Get in there/ Reimu!
+513,4,Reimu1a,Already on it!
+513,5,Marisa1a,Eat this!
+513,6,Reimu1a,One more!
+513,7,Marisa1a,And this one's for good measure!
+513,8,Marisa0a,Now be a good little princess...
+513,9,Reimu0a,...And give us our moon back!
+514,0,Marisa0a,A red-and-white shrine maiden and a black-and-white magician...
+514,1,Marisa0a,So how about Trichromatic Lotus Butterfly?
+514,2,Reimu1a,Uh/ go ahead? I couldn't care less.
+514,3,Marisa1a,I'm mainly naming it after you/ y'know. You could stand to be a LITTLE grateful.
+514,4,Reimu1a,Yeah/ sure/ whatever. I'll leave this part to you.
+514,5,Marisa1a,Tch/ why am I the only one putting effort into this?
+514,6,Reimu0a,If you insist...
+514,7,Marisa0a,Wanna finish them off together?
+514,8,Marisa0a,Now be a good little princess...
+514,9,Reimu0a,...And give us our moon back!
+515,0,Reimu0a,Oh/ perfect timing/ Marisa.
+515,1,Reimu0a,I'll set it up. Give me a hand here.
+515,2,Marisa1a,And help you? Who do you think I am?
+515,3,Marisa1a,I'd rather finish 'em off myself!
+515,4,Reimu1a,Too bad for you that I was faster.
+515,5,Marisa1a,I got in way more shots!
+515,6,Reimu1a,Then allow me to finish them off!
+515,7,Marisa0a,Oh no you don't!
+515,8,Marisa0a,Now be a good little princess...
+515,9,Reimu0a,...And give us our moon back!
+516,0,Reimu1a,I don't care how many gods you summon/ I'll take them ALL down!
+516,1,Reimu1a,Gotcha!
+516,2,Reimu1a,Take this!
+516,3,Reimu0a,This is what a shrine maiden from Earth is capable of!
+517,0,Reimu1a,If a youkai's running wild/ it's my job to exterminate them!
+518,0,Reimu0a,You're a real odd duck...
+519,0,Reimu2a,What an annoying power!
+520,0,Reimu2a,She'll blow me out of the sky/ if I'm not more careful...
+521,0,Reimu0a,Even just dodging these is tough.
+522,0,Reimu0a,I mean/ I dodged it/ but this is still REALLY hot.
+523,0,Reimu1a,I'll seal away your ambitions/ and you with them!
+523,1,Reimu1a,You're in my sights!
+523,2,Reimu1a,And here's the finale!
+523,3,Reimu0a,Now give up on conquering the surface!
+524,0,Reimu1a,I'll seal away your ambitions/ and you with them!
+524,1,Reimu1a,Gotcha!
+524,2,Reimu1a,Take this!
+524,3,Reimu0a,Now give up on conquering the surface!
+525,0,Reimu1a,I'll seal away your ambitions/ and you with them!
+525,1,Reimu1a,You're mine!
+525,2,Reimu1a,And here's the finale!
+525,3,Reimu0a,Now give up on conquering the surface!
+526,0,Reimu0a,God or not/ I can't afford to let your rampage continue!
+527,0,Reimu0a,I won't let you burn the surface or anything else!
+528,0,Reimu2a,We can't let her power go out of control!
+529,0,Reimu2a,I never would've thought things would get this dicey!
+530,0,Reimu2a,She's going to raze the surface at this rate!
+531,0,Reimu0a,If I get hit by THAT/ it's game over.
+532,0,Reimu1a,I'll seal away the power of the yatagarasu!
+532,1,Reimu1a,You're in my sights!
+532,2,Reimu1a,And here's the finale!
+532,3,Reimu0a,The rest depends on you/ Utsuho...
+533,0,Reimu1a,I'll seal away the power of the yatagarasu!
+533,1,Reimu1a,Gotcha!
+533,2,Reimu1a,Take this!
+533,3,Reimu0a,The rest depends on you/ Utsuho...
+534,0,Reimu1a,I'll seal away the power of the yatagarasu!
+534,1,Reimu1a,You're mine!
+534,2,Reimu1a,And here's the finale!
+534,3,Reimu0a,The rest depends on you/ Utsuho...
+535,0,Reimu0a,Can't you find somewhere else to play for once?
+536,0,Reimu0a,Hands off of my donations!
+537,0,Reimu0a,I don't know why you're even here/ but I'll take you on!
+538,0,Reimu0a,Oh yeah/ I've heard about electric eels
+539,0,Reimu1a,If you start an incident/ you're gonna regret it!
+540,0,Reimu0a,Feels like if I don't deal with her now/ she's gonna be a real pain...
+541,0,Reimu1a,I'm going to absolutely exterminate you!
+542,0,Reimu1a,I'll start by exterminating her!
+543,0,Reimu1a,I'll start by exterminating you!
+544,0,Reimu1a,We've finally caught the sheep by her tail!
+545,0,Reimu1a,You're nothing more than a cheap imitation!
+546,0,Reimu0a,This one's the imposter/ right...?
+547,0,Reimu0a,Nope. You don't have the right vibe at all.
+548,0,Reimu0a,If you can't match her menacing aura/ then you're nothing like her at all.
+549,0,Reimu0a,Your mood's just not right.
+550,0,Reimu1a,If nothing else/ you're a lot easier to catch than the real one.
+551,0,Reimu1a,Get out of my way/ or I'll exterminate you!
+552,0,Reimu1a,You want a fight that badly? Do us all a favor/ and get a life!
+553,0,Reimu1a,I'll start by exterminating you!
+554,0,Reimu1a,So you think that'll let you beat us/ do you?!
+555,0,Reimu1a,Fine. I've got time/ so show me what you've got!
+556,0,Reimu0a,You're still not giving up/ are you...
+557,0,Reimu1a,Your dream ends here!
+558,0,Reimu1a,I came here to resolve the incident/ and that's just what I'll do!
+559,0,Reimu1a,I'm going to exterminate you/ Makura!
+560,0,Reimu1a,This is my final barrier/ Makura Muwatari!
+561,0,Reimu1a,Your dream ends here!
+562,0,Reimu1a,I came here to resolve the incident/ and that's just what I'll do!
+563,0,Reimu1a,I'm going to exterminate you/ Shitone!
+564,0,Reimu1a,This is the end/ Shitone!
+565,0,Reimu0a,Let's try these new powers on for size!
+566,0,Reimu1a,Let's go with these/ first...
+566,1,Reimu1a,Take that!
+567,0,Reimu1a,I was waiting for this!
+568,0,Reimu1a,Let's take her out/ Sanae!
+568,1,Reimu1a,Let's take her out/ Sanae!
+568,2,Sanae1a,Agreed!
+568,3,Reimu1a,One!
+568,4,Sanae1a,Two!
+568,5,Reimu1a,Three!
+568,6,Reimu1a,You're going down/ Watatsuki no Yorihime!
+568,7,Sanae1a,Take this!
+568,8,Reimu1a,How do you like that!?
+568,9,Reimu1a,How do you like that!?
+569,0,Reimu5a,...
+570,0,Reimu1a,This danmaku will finish it!
+571,0,Reimu1a,With our spellcards!
+571,1,Reimu1a,I'm just gonna do my own thing/ Marisa!
+571,2,Marisa1a,Right back at ya/ Reimu!
+571,3,Reimu1a,Alright/ let's do this!
+571,4,Reimu1a,You're mine!
+571,5,Marisa1a,I'm not letting you have all the fun/ Reimu!
+571,6,Reimu1a,There!
+571,7,Marisa1a,My turn!
+571,8,Reimu1a,Keep up the pressure!
+571,9,Reimu1a,Now!
+571,10,Reimu1a,Sky-Conquering... Wind God Kick!
+571,11,Reimu1a,And another one!
+571,12,Reimu1a,Omnidirectional Demon-Binding Circle!
+571,13,Marisa1a,Perfect/ Reimu!
+571,14,Marisa1a,Orreries Sun!
+571,15,Marisa1a,Orreries...!
+571,16,Marisa1a,UNIVEEEEERSE!!!
+571,17,Marisa0a,Let's rock/ Reimu!
+571,18,Reimu1a,Yeah/ here we go...!
+571,19,Reimu1a,Yeah/ here we go...!
+571,20,Reimu5b,This is my ultimate technique!
+571,21,Marisa0a,Mini-hakkero/ full throttle!
+571,22,Reimu5b,Natural Fantasy!
+571,23,Marisa1a,BLAZING STAR!
+571,24,Reimu1a,Spirit Sign!
+571,25,Marisa1a,Love Sign!
+571,26,Reimu1a,Fantasy...!
+571,27,Marisa1a,Master...
+571,28,Marisa1a,SPAAAAARK!!
+571,29,Reimu1a,Seal!
+571,30,Reimu1a,This is our attack...
+571,31,Marisa1a,With all of fantasy on the line!
+572,0,Reimu5a,...
+573,0,Reimu5a,...

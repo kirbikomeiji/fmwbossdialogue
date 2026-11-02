@@ -720,7 +720,7 @@ Makura3c:A threatening way of life like that is truly beautiful.
 
 <Code=(cursor_jump_unit,Char1,0,0,1)>
 
-Rumia1a:Huh? It's me?
+%Rumia1a:Huh? It's me?
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
@@ -734,7 +734,7 @@ Rumia3a:But kinda fun too.
 
 <Code=(cursor_jump_unit,Char0,0,0,0)>
 
-Rumia0a:I really get you, me.
+%Rumia0a:I really get you, me.
 
 </nomove>
 

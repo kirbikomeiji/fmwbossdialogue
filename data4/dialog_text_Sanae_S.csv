@@ -1,0 +1,509 @@
+LineID,face,dialog
+0,0,Sanae1a,Sanae Kochiya/ heading out!
+1,0,Sanae0a,Lady Suwako once told me/ that the only ones who should shoot are those who expect to be shot.
+2,0,Sanae1a,Here's my counter attack!
+3,0,Sanae0a,This might hurt a bit!
+4,0,Sanae0a,I'll meet your challenge head on!
+5,0,Sanae1a,Just remember/ that you started this!
+6,0,Sanae0a,I'm sure it will please Lady Suwako greatly to gather faith in such a fashion.
+7,0,Sanae0a,I don't need a miracle to defeat you!
+8,0,Sanae0a,If we're doing this/ then I'll do it right...!
+9,0,Sanae0a,I'm not holding back!
+10,0,Sanae0a,Please watch me/ Lady Kanako!
+11,0,Sanae1a,We shouldn't be celebrating violence!
+12,0,Sanae0a,Backing down here would bring shame to the Moriya Shrine...
+13,0,Sanae1a,I won't lose heart just yet!
+14,0,Sanae0a,You're not some impossible foe.\n I can still win!
+15,0,Sanae1a,Until my last breath/ I'll keep fighting!
+16,0,Sanae0a,The game isn't over just yet!
+17,0,Sanae0a,It should be okay for me to use this.
+18,0,Sanae0a,Faith levels/ fully charged!
+19,0,Sanae0a,There aren't any oceans in Gensokyo/\n but I'll make do...
+20,0,Sanae0a,This miracle will be quite the spectacle!
+21,0,Sanae1a,Move aside!
+22,0,Sanae0a,Crash/ then smack!
+23,0,Sanae1a,I'll blow right past you!
+24,0,Sanae1a,You're going down!
+25,0,Sanae1a,I have you!
+26,0,Sanae1a,There!
+27,0,Sanae1a,Fly/ my amulets!
+28,0,Sanae1a,Strike them down/ please!
+29,0,Sanae1a,Shoooot!
+30,0,Sanae1a,I can wield Lady Suwako's power now!
+31,0,Sanae0a,With Lady Suwako's power...!
+32,0,Sanae0a,Faith Hula Hoop!
+33,0,Sanae1a,I'll use these metal rings!
+34,0,Sanae1a,Lady Suwako/ if you could/ please!
+35,0,Sanae0a,With Lady Moriya's power...!
+36,0,Sanae0a,Faith Hula Hoop!
+37,0,Sanae1a,I'll use these metal rings!
+38,0,Sanae1a,Lady Suwako/ if you could/ please!
+39,0,Sanae1a,This is God's pathway through the seas!
+39,1,Sanae1a,Now/ split!
+39,2,Sanae1a,There!
+40,0,Sanae1a,O Mother Sea/ resign thyself to the winds!
+40,1,Sanae1a,There!
+40,2,Sanae1a,Justice is served!
+41,0,Sanae1a,This is the miracle of Moses parting the seas!
+41,1,Sanae1a,Part in twain!
+41,2,Sanae1a,Hah!
+42,0,Sanae1a,As fellow shrine maidens/ our methods should align well!
+42,1,Reimu1a,For advertising our shrines/ you mean?
+42,2,Reimu1a,For advertising our shrines/ you mean?
+42,3,Sanae1a,For good luck!
+42,4,Reimu1a,For avoiding disasters!
+42,5,Sanae1a,For blessed marriages!
+42,6,Reimu1a,For fortune in business!
+42,7,Sanae1a,For safety/ and security!
+42,8,Sanae0a,I think we sold them on it.
+42,9,Reimu0a,I just hope this turns a profit...
+43,0,Reimu1a,Sanae/ stick to me!
+43,1,Sanae0a,Wait/ stick? How close are we getting?!
+43,2,Sanae0a,Wait/ stick? How close are we getting?!
+43,3,Reimu1a,One!
+43,4,Sanae1a,Two!
+43,5,Reimu1a,Three!
+43,6,Reimu1a,Shrine power/ release!
+43,7,Sanae1a,FIIIIRE!
+43,8,Reimu0b,Yeah/ something like that.
+43,9,Sanae0a,I/ uh/ think I get it now.
+44,0,Reimu1a,Follow me/ Sanae!
+44,1,Reimu1a,Follow me/ Sanae!
+44,2,Sanae0a,If I call upon my guiding winds/ this ought to work!
+44,3,Reimu1a,One!
+44,4,Sanae1a,Two!
+44,5,Reimu1a,Three!
+44,6,Reimu1a,Here's our chance!
+44,7,Sanae1a,My power's in your hands!
+44,8,Sanae0a,Nice one/ Reimu!
+44,9,Reimu0b,Uh/ didn't we both contribute here?
+45,0,Sanae1a,Lend me your power/ Reimu!
+45,1,Reimu0a,Sure. How're we doing this?
+45,2,Sanae0a,We'll do it in three steps. Like so!
+45,3,Reimu1a,One!
+45,4,Sanae1a,Two!
+45,5,Reimu1a,Three!
+45,6,Sanae1a,Twin Shrine Maiden Extension!
+45,7,Reimu0a,Fire.
+45,8,Sanae0a,Perfect!
+45,9,Reimu0a,More or less/ anyway.
+46,0,Sanae1a,Lend me your power/ Reimu!
+46,1,Reimu0a,Sure. How're we doing this?
+46,2,Sanae0a,We'll do it in three steps. Like so!
+46,3,Sanae1a,One!
+46,4,Reimu1a,Two!
+46,5,Sanae1a,Three!
+46,6,Reimu1a,Two shrine maidens/ as one!
+46,7,Sanae1a,Strike them down/ please!
+46,8,Sanae0a,Thank you for your assistance/ Reimu.
+46,9,Reimu0b,Piece of cake.
+47,0,Sanae1a,Let's do this/ Reimu!
+47,1,Reimu0a,You've got the timing down/ right?
+47,2,Reimu0a,You've got the timing down/ right?
+47,3,Sanae1a,One!
+47,4,Reimu1a,Two!
+47,5,Sanae1a,Three!
+47,6,Reimu1a,You're not getting away!
+47,7,Sanae1a,FIIIIRE!
+47,8,Sanae0a,Goodness/ I'm glad that worked.
+47,9,Reimu0b,No way it wouldn't.
+48,0,Sanae1a,Drawing upon Lady Sanako's power...
+48,1,Suwako0a,You ready/ Sanae?
+48,2,Sanae1a,Yes/ Lady Suwako!
+48,3,Sanae1a,Raising a water barrier!
+48,4,Sanae1a,Concentrating faith...!
+48,5,Suwako1a,Great wave/ come forth!
+48,6,Suwako1a,Great wave/ come forth!
+48,7,Sanae0a,Did we overdo it...?
+48,8,Suwako0a,Eh/ it is what it is.
+49,0,Sanae1a,Lady Suwako/ lend me your strength.
+49,1,Suwako0a,Sure/ that's easy enough.
+49,2,Sanae1a,Concentrating spirit...
+49,3,Sanae1a,Mother Ocean/ gather unto us...
+49,4,Sanae1a,Ready when you are!
+49,5,Suwako1a,Give 'em the works!
+49,6,Suwako1a,Give 'em the works!
+49,7,Sanae0a,Nicely done/ Lady Suwako.
+49,8,Suwako0a,Flattery will get you nowhere.
+50,0,Sanae1a,Drawing upon Lady Sanako's power...
+50,1,Suwako0a,You ready/ Sanae?
+50,2,Sanae1a,Yes/ Lady Moriya!
+50,3,Sanae1a,Raising a water barrier!
+50,4,Sanae1a,Concentrating faith...!
+50,5,Suwako1a,Great wave/ come forth!
+50,6,Suwako1a,Great wave/ come forth!
+50,7,Sanae0a,Did we overdo it...?
+50,8,Suwako0a,Eh/ it is what it is.
+51,0,Sanae1a,Lady Moriya/ lend me your strength.
+51,1,Suwako0a,Sure/ that's easy enough.
+51,2,Sanae1a,Concentrating spirit...
+51,3,Sanae1a,Mother Ocean/ gather unto us...
+51,4,Sanae1a,Ready when you are!
+51,5,Suwako1a,Give 'em the works!
+51,6,Suwako1a,Give 'em the works!
+51,7,Sanae0a,Nicely done/ Lady Moriya.
+51,8,Suwako0a,Flattery will get you nowhere.
+52,0,Sanae0a,If all I do is dodge/ I'll fall behind.
+53,0,Sanae0a,I'm glad that missed/ but I'd rather be shooting back...
+54,0,Sanae0a,My chance will come soon/ surely!
+55,0,Sanae0a,You just can't hit what you can't hit.
+56,0,Sanae0a,This is a little frustrating...
+57,0,Sanae0a,I wonder what those two would do in this situation...
+58,0,Sanae1a,This is terribly unfair of you!
+59,0,Sanae1a,I'll pay back this debt of gratitude!
+60,0,Sanae1a,Fighting to avenge someone is truly sad...\n But even so!
+61,0,Sanae0a,I'll follow up!
+62,0,Sanae0a,I think I can match your pace!
+63,0,Sanae0a,One more/ for good measure!
+64,0,Sanae0a,Support Attack!
+65,0,Sanae0a,I/ the Moriya Shrine's priestess of wind/\n shall lend you my aid!
+66,0,Sanae0a,I won't just sit idly while you take the hit!
+67,0,Sanae0a,Look out!
+68,0,Sanae0a,I'll defend you with my Faith Power!
+69,0,Sanae0a,I/ the Moriya Shrine's priestess of wind/\n shall lend you my aid!
+70,0,Sanae1a,If you're still getting ready/ I'll lead off!
+71,0,Sanae1a,I can keep up with you all!
+72,0,Sanae1a,I'll set them up/ you knock them out!
+73,0,Sanae1a,I'll help you out!
+74,0,Sanae1a,I'm here to help!
+75,0,Sanae1a,I'll be the wind in your sails!
+76,0,Sanae1a,No worries/ I'll take the lead!
+77,0,Sanae1a,Just follow my lead!
+78,0,Sanae1a,It's time for the climax!
+79,0,Sanae1a,My spirit power's on the rise!
+80,0,Sanae1a,We're bound to get new followers with this one!
+81,0,Sanae1a,Let's take them down with one big full-power attack!
+82,0,Sanae2a,Thank you/ Kogasa...
+83,0,Sanae1a,Kogasa/ leave the rest to me!
+84,0,Sanae1a,I'll support you/ Kogasa!
+85,0,Sanae1a,You're fluttering around too much!
+86,0,Sanae1a,Kogasa/ look out!
+87,0,Sanae1a,Don't worry Kogasa/ I'll take the lead!
+88,0,Sanae1a,Kogasa/ follow my lead!
+89,0,Sanae1a,You fly around awfully recklessly/ Kogasa.
+90,0,Sanae1a,I'll help you out/ Kogasa!
+91,0,Sanae1a,I'll be the wind in your sails/ Kogasa!
+92,0,Sanae1a,Let's team up and take them down/ Kogasa!
+93,0,Sanae1a,Alright Kogasa/ let's get fired up!
+94,0,Sanae1a,Make sure you don't get blown away/ Kogasa!
+95,0,Sanae2a,Reimu...\n Why go that far for me?
+96,0,Sanae0a,Sorry if this is a bother/ but I'll join you.
+97,0,Sanae0a,It's time for a shrine maiden combination!
+98,0,Sanae0a,I'll fight with you/ Reimu!
+99,0,Sanae1a,I'll keep the pace up/ Reimu!
+100,0,Sanae1a,Reimu/ look out!
+101,0,Sanae1a,I'll take the hit/ Reimu!
+102,0,Sanae1a,Reimu's good/ but I can keep up with her!
+103,0,Sanae1a,Let's team up/ Reimu!
+104,0,Sanae1a,I'll try to match Reimu's moves!
+105,0,Sanae1a,Let's go with a shrine maiden combination!
+106,0,Sanae1a,I'll help you out/ Reimu!
+107,0,Sanae1a,Reimu should be able to finish you off!
+108,0,Sanae1a,I've got your back/ Reimu!
+109,0,Sanae1a,Let's join forces and take them down/ Reimu!
+110,0,Sanae1a,I can keep up with you now/ Reimu!
+111,0,Sanae1a,I'll be the wind at your back/ Reimu!
+112,0,Sanae2a,Thank you/ Marisa...
+113,0,Sanae1a,I'll support you/ Marisa!
+114,0,Sanae1a,I'm right behind you/ Marisa!
+115,0,Sanae1a,Keep your eyes peeled/ Marisa!
+116,0,Sanae1a,Marisa/ look out!
+117,0,Sanae1a,Marisa should be able to finish you off!
+118,0,Sanae1a,Let's team up/ Marisa!
+119,0,Sanae1a,Marisa's good/ but I can keep up with her!
+120,0,Sanae1a,With our stars aligned/ let's do this!
+121,0,Sanae1a,I'll leave the rest to you/ Marisa.
+122,0,Sanae1a,Let's join forces and take them down/ Marisa!
+123,0,Sanae1a,I'll keep pace with you/ Marisa!
+124,0,Sanae1a,I'll be the wind at your back/ Marisa!
+125,0,Sanae0a,Let me give it a shot/ Sakuya.
+126,0,Sanae0a,It's a maid's life for me!\n　...Well/ maybe not.
+127,0,Sanae3a,You went so far for me/ Momiji...
+128,0,Sanae1a,I'll fight with you/ Momiji!
+129,0,Sanae0a,I'll help out/ Momiji!
+130,0,Sanae0a,I've got your back/ Momiji!
+131,0,Sanae1a,You're usually the one protecting me/ but I can return the favor!
+132,0,Sanae0a,We mountain-folk have to stick together/ right?
+133,0,Sanae3a,You went so far for me/ Miss Inubashiri...
+134,0,Sanae1a,I'll fight with you/ Miss Inubashiri!
+135,0,Sanae0a,I'll help out/ Miss Inubashiri!
+136,0,Sanae0a,I've got your back/ Miss Inubashiri!
+137,0,Sanae1a,You're usually the one protecting me/ but I can return the favor!
+138,0,Sanae1a,I'll trust in your eyes/ Momiji!
+139,0,Sanae1a,I'll help out/ Momiji!
+140,0,Sanae1a,I'll help out/ Momiji!
+141,0,Sanae1a,Just tell me where to aim/ Momiji!
+142,0,Sanae1a,I'm not just a charge you need to protect.\n　I'll fight too!
+143,0,Sanae1a,Let's team up/ Momiji!
+144,0,Sanae1a,I'll keep pace with you/ Momiji!
+145,0,Sanae1a,I'll be the wind at your back/ Momiji!
+146,0,Sanae0a,I'm so sorry about this Aya!
+147,0,Sanae0a,I'll fight with you/ Aya!
+148,0,Sanae0a,Aya sure is fast...
+149,0,Sanae1a,I'll follow your lead/ Aya!
+150,0,Sanae1a,Please stay vigilant/ Aya!
+151,0,Sanae0a,I'm so sorry about this Miss Shameimaru!
+152,0,Sanae0a,I'll fight with you/ Miss Shameimaru!
+153,0,Sanae0a,Miss Shameimaru sure is fast...
+154,0,Sanae1a,I'll follow your lead/ Miss Shameimaru!
+155,0,Sanae1a,Please stay vigilant/ Miss Shameimaru!
+156,0,Sanae1a,Why don't we go for this one/ Aya?
+157,0,Sanae1a,I'll ride your tailwind/ Aya!
+158,0,Sanae1a,No photographs/ please!
+159,0,Sanae1a,I'll help out/ Aya!
+160,0,Sanae1a,I'm going to fire at them/ so please wait for the airspace to be clear before you rush in!
+161,0,Sanae1a,Let's team up/ Aya!
+162,0,Sanae1a,I think I can keep up with you/ Aya!
+163,0,Sanae1a,I'll be the wind at your back/ Aya!
+164,0,Sanae2a,I'm so sorry about this/ Hatate...
+165,0,Sanae0a,I'll help out/ Hatate!
+166,0,Sanae0a,I'll fight with you/ Hatate!
+167,0,Sanae0a,I'll follow your lead/ Hatate!
+168,0,Sanae0a,Don't let your guard down/ Hatate!
+169,0,Sanae1a,Why don't we go for this one/ Hatate?
+170,0,Sanae1a,Make sure to snap a quick spirit photo/ Hatate!
+171,0,Sanae1a,I'll leave the rest to you/ Hatate.
+172,0,Sanae1a,I'll help out/ Hatate!
+173,0,Sanae1a,Please don't take my photo/ Hatate!
+174,0,Sanae1a,Let's team up/ Hatate!
+175,0,Sanae1a,I think I can keep up with you/ Hatate!
+176,0,Sanae1a,I'll be the wind at your back/ Hatate!
+177,0,Sanae2a,I don't think I can call myself your shrine maiden after this/ Lady Kanako...
+178,0,Sanae1a,I'll fight with you/ Lady Kanako!
+179,0,Sanae0a,With Lady Kanako guiding the way/ we can't lose!
+180,0,Sanae0a,A god and her shrine maiden/ fighting as one!
+181,0,Sanae0a,I'll take Lady Suwako's place!\n　...Um/ if that's okay with you/ anyway.
+182,0,Sanae0a,It's a shrine maiden's duty to lay down her life for her god!
+183,0,Sanae0a,Leave it to me!
+184,0,Sanae0a,You needn't trouble yourself with this/ Lady Kanako!
+185,0,Sanae0a,I'll take the hit/ Lady Kanako!
+186,0,Sanae2a,I don't think I can call myself your shrine maiden after this/ Lady Yasaka...
+187,0,Sanae1a,I'll fight with you/ Lady Yasaka!
+188,0,Sanae0a,With Lady Yasaka guiding the way/ we can't lose!
+189,0,Sanae0a,A god and her shrine maiden/ fighting as one!
+190,0,Sanae0a,It's a shrine maiden's duty to lay down her life for her god!
+191,0,Sanae0a,Leave it to me!
+192,0,Sanae0a,I'll take the hit/ Lady Yasaka!
+193,0,Sanae1a,Allow me to assist you/ Lady Kanako.
+194,0,Sanae1a,I'll assist you/ Lady Kanako!
+195,0,Sanae1a,A god and her shrine maiden/ fighting as one!
+196,0,Sanae1a,Lady Kanako/ leave this to me!
+197,0,Sanae1a,With Lady Kanako guiding the way/ we can't lose!
+198,0,Sanae1a,Let's show everyone the might of the Moriya Shrine!
+199,0,Sanae1a,O Wind/ guide me...!
+200,0,Sanae1a,With Lady Kanako here/ we can do anything!
+201,0,Sanae2a,I don't think I can call myself your shrine maiden after this/ Lady Suwako...
+202,0,Sanae0a,I'll fight with you/ Lady Suwako!
+203,0,Sanae0a,A god and her shrine maiden/ fighting as one!
+204,0,Sanae0a,I'll take Lady Kanako's place!\n　...Um/ if that's okay with you/ anyway.
+205,0,Sanae0a,It's a shrine maiden's duty to lay down her life for her god!
+206,0,Sanae0a,Leave it to me!
+207,0,Sanae0a,I won't let you lay even a single finger on Lady Suwako!
+208,0,Sanae0a,Look out/ Lady Suwako!
+209,0,Sanae0a,I'll take the hit/ Lady Suwako!
+210,0,Sanae0a,I'll defend you/ Lady Suwako!
+211,0,Sanae2a,I don't think I can call myself your shrine maiden after this/ Lady Moriya...
+212,0,Sanae0a,I'll fight with you/ Lady Moriya!
+213,0,Sanae0a,A god and her shrine maiden/ fighting as one!
+214,0,Sanae0a,It's a shrine maiden's duty to lay down her life for her god!
+215,0,Sanae0a,Leave it to me!
+216,0,Sanae0a,I'll take the hit/ Lady Moriya!
+217,0,Sanae0a,I'll defend you/ Lady Moriya!
+218,0,Sanae1a,Allow me to assist you/ Lady Suwako.
+219,0,Sanae1a,I'll assist you/ Lady Suwako!
+220,0,Sanae1a,A god and her shrine maiden/ fighting as one!
+221,0,Sanae1a,Lady Suwako/ leave this to me!
+222,0,Sanae1a,I'll show you just how hard I've trained/ Lady Suwako!
+223,0,Sanae1a,Let's show everyone the might of the Moriya Shrine!
+224,0,Sanae1a,Lady Suwako/ let's show them how it's done!
+225,0,Sanae1a,With Lady Suwako here/ we can do anything!
+226,0,Sanae0a,As fellow gods/ we should help each other out.
+227,0,Sanae1a,After losing a friend/ even I can lose my temper!
+228,0,Sanae0a,Zero percent chance to hit!
+229,0,Sanae0a,This is what being a shrine maiden is all about!
+230,0,Sanae0a,Now's our chance to win!
+231,0,Sanae0a,Shine maidens are tough!
+232,0,Sanae0a,Did you underestimate my defenses/ perhaps?
+233,0,Sanae0a,You can't put me in check like that!
+234,0,Sanae1a,This is nothing!
+235,0,Sanae2a,This won't do/ Sanae. Get your head in the game...
+236,0,Sanae2a,These attacks are getting awfully dangerous for me...
+237,0,Sanae2a,I wonder how Reimu would handle this...
+238,0,Sanae2a,At times like this/ I have to keep my composure...
+239,0,Sanae2a,Lady Moriya/ what should I do...?
+240,0,Sanae2a,Lady Suwako/ what should I do...?
+241,0,Sanae2a,This is looking bad...!
+242,0,Sanae2a,It's a miracle that I'm still alive...
+243,0,Sanae0a,It's getting tougher and tougher out there...
+244,0,Sanae2a,Ouch!
+245,0,Sanae0a,I SHOULD be able to dodge that...
+246,0,Sanae2a,That's not enough to put me down!
+247,0,Sanae2a,I let my guard down at just the wrong time!
+248,0,Sanae2a,Oh no/ they got me!
+249,0,Sanae2a,It's like I was dancing in the palm of their hand...
+250,0,Sanae2a,I need to pick up the pace...
+251,0,Sanae2a,That hit a bit harder than I hoped...
+252,0,Sanae2a,Lost a few faith points to that one...
+253,0,Sanae2a,Maybe I need more practice...
+254,0,Sanae2a,Gotta stay focused.\n Keep it together/ Sanae...
+255,0,Sanae2a,This/ is not good.
+256,0,Sanae2a,This is getting pretty tough...
+257,0,Sanae0a,I saw that one coming a mile away!
+258,0,Sanae0a,I'll give you points for style/ at least.
+259,0,Sanae1a,That won't hit me!
+260,0,Sanae0a,Perfect!
+261,0,Sanae0a,I keep my senses sharp!
+262,0,Sanae0a,That was a close one!
+263,0,Sanae0a,I hope this doesn't muck up my clothes...
+264,0,Sanae0a,All this friction is getting me thinking...\n　Maybe I should get a perm....
+265,0,Sanae0a,I avoided that/ but I can't relax just yet.
+266,0,Sanae0a,That might've been bad/ if it actually hit me.
+267,0,Sanae0a,An attack like that won't hit me!
+268,0,Sanae0a,This is going swimmingly!
+269,0,Sanae0a,Ole!
+270,0,Sanae1a,I'm over here!
+271,0,Sanae0a,I am saved by grace though my faith.
+272,0,Sanae0a,The power of faith is nothing to sneeze at!
+273,0,Sanae0a,BARRIEEER!\n ...Why did I yell that?
+274,0,Sanae0a,Faith Field/ full power!
+275,0,Sanae1a,I can handle that much!
+276,0,Sanae0a,Parry/ riposte!
+277,0,Sanae0a,All my training has paid off!
+278,0,Sanae1a,I'll take the first swing!
+279,0,Sanae1a,She who strikes first/ wins!
+280,0,Sanae2a,Mission failed...
+281,0,Sanae2a,I'm going to lose all my accumulated faith now...
+282,0,Sanae2a,Lady Yasaka/ Lady Moriya...\n　Please/ forgive me...
+283,0,Sanae2a,Lady Kanako/ Lady Suwako...\n　Please/ forgive me...
+284,0,Sanae0a,I suppose I didn't train hard enough...
+285,0,Sanae0a,Everyone/ I pray you can handle the rest.
+286,0,Sanae2a,Lady Kanako/ Lady Suwako...\n　Please/ forgive me...
+287,0,Sanae2a,I gave it my all/ but it wasn't enough...
+288,0,Sanae0a,I really lost...\n　I'm so disappointed in myself...
+289,0,Sanae0a,I've blundered/ and at such a critical time/ too...\n　I wish you all the best of luck.
+290,0,Sanae0a,Everyone seems to be enjoying this brawl...
+291,0,Sanae0a,I get it. Asking why we're fighting is just begging to be shot down.
+292,0,Sanae0a,I'd prefer to settle this with words...\n　But that's not happening/ is it?
+293,0,Sanae0a,Backing down here would bring shame to the Moriya Shrine...
+294,0,Sanae1a,I won't lose heart just yet!
+295,0,Sanae0a,You're not some impossible foe.\n I can still win!
+296,0,Sanae1a,Until my last breath/ I'll keep fighting!
+297,0,Sanae0a,The game isn't over just yet!
+298,0,Sanae0a,It should be okay for me to use this.
+299,0,Sanae0a,Faith levels/ fully charged!
+300,0,Sanae0a,There aren't any oceans in Gensokyo/\n but I'll make do...
+301,0,Sanae0a,This miracle will be quite the spectacle!
+302,0,Sanae1a,Please return what you've stolen!
+303,0,Sanae1a,We've got you now/ you thief!
+304,0,Sanae1a,Stealing is bad/ no matter what the reason!
+305,0,Sanae0a,Friends shouldn't be fighting like this...
+306,0,Sanae1a,I'd like to fight alongside you too/ some day!
+307,0,Sanae0a,Why practice playing in the middle of a snow field...?
+308,0,Sanae0a,Do you really know something about this winter...?
+309,0,Sanae0a,So... I guess catgirls are real.
+310,0,Sanae0a,I'm not really comfortable fighting children...
+311,0,Sanae0a,So you're the head of a string ensemble...
+312,0,Sanae0a,A leader/ and older sister to boot...\n　Makes me wish I had a sister/
+313,0,Sanae0a,Your hair is really fluffy...\n　I like your style.
+314,0,Sanae0a,You're the middle sister/ but you're also the biggest/ I see.
+315,0,Sanae0a,So you've got TWO big sisters/ huh?\n　Color me jealous...
+316,0,Sanae0a,You can play an instrument? That's so cool.
+317,0,Sanae0a,Is that your mother over there...?
+318,0,Sanae1a,She seems a lot stronger than last time...!
+319,0,Sanae0a,You're a nine-tailed fox/ right?\n　I read a manga about that once...
+320,0,Sanae0a,There are some really powerful youkai in Gensokyo...
+321,0,Sanae1a,We can't back down here!
+322,0,Sanae1a,Today/ we stand together as one!
+323,0,Sanae0a,Miss Inubashiri and Miss Shameimaru are here too...\n　We're all fighting together!
+324,0,Sanae0a,I've been in your position before/\n　so I know what it's like...
+325,0,Sanae1a,We have to solve this incident/\n　and you're not going to stop us!
+326,0,Sanae1a,I don't think anyone's happy/ fighting you like this!
+327,0,Sanae1a,We'll defeat you/ and take back our spring!
+328,0,Sanae0a,She might be pretty/ but we still have to beat her!
+329,0,Sanae1a,So many people are being hurt by this incident!
+330,0,Sanae0a,Sacrificing others/ for the sake of a single person...
+331,0,Sanae1a,I don't think it's right to go around bringing the dead back to life!
+332,0,Sanae0a,The administrator of Gensokyo...\n　I didn't think such a big-shot would show up here.
+333,0,Sanae0a,I can say now for certain/ that I've made my resolve.\n　I'll live here/ as a fully-fledged member of Gensokyo.
+334,0,Sanae0a,So this is what a Youkai Sage is capable of...
+335,0,Sanae0a,She's so strong...!
+336,0,Sanae0a,Not yet! I can keep fighting!
+337,0,Sanae0a,I'd like to test my strength as well/ Suika!
+338,0,Sanae0a,If you're too violent/ you might demolish the shrine.
+339,0,Sanae0a,So they're just sitting back and sipping tea/\n　while we duel with our danmaku...
+340,0,Sanae2a,Oni sure are strong...
+341,0,Sanae2a,As expected/ Suika's incredibly strong...
+342,0,Sanae0a,Yet another chance to polish my youkai extermination skills!
+343,0,Sanae0a,The nightlife here sure is dangerous.
+344,0,Sanae0a,It's not very safe to play at night!
+345,0,Sanae1a,If you're too naughty/ you won't like what happens next!
+346,0,Sanae2a,Ouchies...
+347,0,Sanae2a,You girls' idea of roughhousing is a bit too extreme for my tastes.
+348,0,Sanae0a,How're you so much faster than before...?!
+349,0,Sanae0a,You might've gotten your mid-season upgrade/\n　but I don't intend to lose!
+350,0,Sanae0a,We'll get to see just how far I've come/\n　Lady Kanako!
+351,0,Sanae0a,So/ Lady Kanako is my opponent here...
+352,0,Sanae2a,This is the weight of the divine power I've been borrowing...!
+353,0,Sanae2a,Lady Kanako's just as strong as I figured...!
+354,0,Sanae0a,I'll show you just how much I've grown!
+355,0,Sanae0a,You're just taking it easy on me/ I'm sure.
+356,0,Sanae0a,I look forward to a fair match with you/\n　Lady Suwako!
+357,0,Sanae0a,So/ Lady Suwako is my opponent here...
+358,0,Sanae2a,Lady Suwako's just as strong as I figured...!
+359,0,Sanae2a,You're a lot more serious than when we practice...!
+360,0,Sanae0a,I've gotten a lot better than before!
+361,0,Sanae0a,You're just taking it easy on me/ I'm sure.
+362,0,Sanae2a,I really don't want to fight you Keine!
+363,0,Sanae2a,I'd prefer not to fight you/ but if you insist...!
+364,0,Sanae2a,You're just as strong as I figured/ Keine...!
+365,0,Sanae2a,Keine's really serious about this!
+366,0,Sanae0a,I've been studying your moves for months!
+367,0,Sanae0a,I guess this is just as hard for you!
+368,0,Sanae0a,She's being influenced by a terrifying force...
+369,0,Sanae0a,Is it even safe to approach her...?
+370,0,Sanae2a,That's a lot of energy!\n　I can see what Lady Kanako was talking about...
+371,0,Sanae2a,So this is fusion power...!
+372,0,Sanae0a,I have hard time dealing with people that strong!
+373,0,Sanae0a,Getting hit by that would've been real bad...!
+374,0,Sanae0a,So this is the power they were trying to harness...
+375,0,Sanae0a,As a shrine maiden/ getting a rampaging god\n　to settle down is part of my job description!
+376,0,Sanae2a,Ack!\n　Her divine power is running wild...!
+377,0,Sanae2a,This the power of a runaway nuclear reaction?!
+378,0,Sanae0a,We just have to keep calling out to her...!
+379,0,Sanae0a,Don't let yourself be consumed by its power!
+380,0,Sanae0a,You won't need an allowance to enjoy the bazaar.
+381,0,Sanae0a,It's been a while since I was on this side of your danmaku.
+382,0,Sanae0a,They told me to be careful around electricity/\n　back when I was a kid...
+383,0,Sanae0a,As priestess of the wind/\n　I won't be cowed by lightning!
+384,0,Sanae0a,We spent a lot of time on this/ you know!
+385,0,Sanae0a,I can sense her holiness from here/ but I dunno...
+386,0,Sanae0a,After what you've done/ we WILL catch you!
+387,0,Sanae0a,You are NOT getting away with this!
+388,0,Sanae0a,It's my first time meeting a youkai like you.
+389,0,Sanae0a,I can see how hard you're trying/ but um...
+390,0,Sanae1a,A fake Lady Kanako?\n　You've got a lot of nerve!
+391,0,Sanae1a,As a shrine maiden/ I won't forgive this trespass!
+392,0,Sanae1a,Its just as strong as Lady Suwako?!
+393,0,Sanae1a,Actually facing Lady Suwako at her most serious...\n　As a foe/ she's terrifying!
+394,0,Sanae1a,Move aside/ Mehko!
+395,0,Sanae0a,To embody Makura's power like that...
+396,0,Sanae0a,The light of dreams is beatiful/\n　but it hurts to see it used like that...
+397,0,Sanae2a,Mehko/ please!\n　You don't have to fight anymore!
+398,0,Sanae1a,This is it/ Makura! The final battle!
+399,0,Sanae1a,For Gensokyo's sake/ I WILL defeat you!
+400,0,Sanae1a,O faith/ that dwells within my flesh...\n　Bask Makura in your radiance!
+401,0,Sanae1a,This is it/ Shitone! The final/ FINAL battle!
+402,0,Sanae1a,For Gensokyo's sake/ I WILL defeat you!
+403,0,Sanae1a,O faith/ that dwells within my flesh...\n　Bask Shitone in your radiance!
+404,0,Sanae0a,Let's duel/ Reimu!
+405,0,Sanae0a,This time/ I'll be the one coming out on top!
+406,0,Sanae0a,Let's duel/ Marisa!
+407,0,Sanae0a,Marisa's firepower is no joke...\n　I'll have to be careful.
+408,0,Sanae0a,Nice one/ Mehko!
+409,0,Sanae0a,Mehko/ leave the rest to me!
+410,0,Sanae0a,I'll follow your lead/ Mehko!
+411,0,Sanae0a,I won't let you harm Mehko!
+412,0,Sanae0a,Nice one/ Makura!
+413,0,Sanae0a,Makura/ leave the rest to me!
+414,0,Sanae0a,I'll follow your lead/ Makura!
+415,0,Sanae0a,I won't let you harm Makura!

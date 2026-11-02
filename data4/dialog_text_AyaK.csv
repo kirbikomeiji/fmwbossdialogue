@@ -1,0 +1,400 @@
+LineID,face,dialog
+0,0,Aya1a,If you insist...
+1,0,Aya0a,Enjoy.
+2,0,Aya0a,Persistent/ aren't we?
+3,0,Aya7b,I'll go easy on you.
+4,0,Aya1b,Allow me to return the favor.
+5,0,Aya4a,Let's make sure you regret that.
+6,0,Aya1b,Can you handle this?
+7,0,Aya0c,This is all just business/ I assure you.
+8,0,Aya0a,Well/ you at least LOOK imposing.
+9,0,Aya1a,Hup!
+10,0,Aya1b,Hah!
+11,0,Aya1b,Take that!
+12,0,Aya0a,None
+13,0,Aya7b,I'll let you off the hook.
+14,0,Aya5a,The winds are poor today.
+15,0,Aya4a,You've done it now!
+16,0,Aya0a,I'll back you up.
+17,0,Aya1b,I won't allow it.
+18,0,Aya0c,I hope you weren't expecting THAT to take me down.
+19,0,Aya7b,Was that supposed to intimidate me?
+20,0,Aya0a,That wouldn't even pass for page 3 news.
+21,0,Aya1b,That's about what I expected.
+22,0,Aya2b,Ouch. That's what I get for not paying attention.
+23,0,Aya0c,Hitting me is no mean feat.
+24,0,Aya4a,Don't start patting yourself on the back over a fluke.
+25,0,Aya2b,Ayaya/ I can't believe that hit me...
+26,0,Aya7b,Power levels are a cruel mistress.
+27,0,Aya0a,Don't lose heart/ now.
+28,0,Aya1b,Having trouble keeping up?
+29,0,Aya0c,A bit too slow/ wouldn't you say?
+30,0,Aya5a,This danmaku makes for a poor subject.
+31,0,Aya1a,No problem/ I'm used to danmaku like this.
+32,0,Aya0c,Are you taking this seriously?
+33,0,Aya7b,Ahh/ youth...
+34,0,Aya5a,I was expecting something more interesting.
+35,0,Aya0a,Not much of a warm-up.
+36,0,Aya7a,Wow/ scary.
+37,0,Aya1b,I'm sorry/ but no.
+38,0,Aya2b,Oops/ that was careless of me.
+39,0,Aya0c,I'll be sure to write a splendid article about all this.
+40,0,Aya0a,Bunbunmaru Newspaper heeere!
+41,0,Aya0a,I'll set the stage.
+42,0,Aya0c,If you're not worth writing about/ then you're not worth my time.
+43,0,Aya1b,Think you can handle this?
+44,0,Aya1a,I'm going to enjoy this.
+45,0,Aya0a,Let's start with some exercise.
+46,0,Aya0c,It's too late to back down now.
+47,0,Aya0a,If you're selling a fight/ then consider me sold.
+48,0,Aya5a,If you insist...
+49,0,Aya1a,Allow me to return the favor.
+50,0,Aya1b,Did you think you could escape a tengu's wrath?
+51,0,Aya1b,I'll gladly return the favor.
+52,0,Aya1a,Let's make sure you regret that.
+53,0,Aya7b,I owe a duty to my loyal readers.
+54,0,Aya0c,You can't run from the wind.
+55,0,Aya0b,You're interrupting my coverage/ you know.
+56,0,Aya1b,I'm getting fired up now!
+57,0,Aya0c,Let's dispense with the pretenses/ shall we?
+58,0,Aya0a,I certainly am warmed up now.
+59,0,Aya1b,Time to do or die...
+60,0,Aya0a,Time for some aggressive reporting!
+61,0,Aya1a,Crushing winds...
+61,1,Aya1a,Crushing winds... can you handle them?!
+62,0,Aya1a,Galeforce danmaku!
+62,1,Aya1b,There!
+63,0,Aya0c,How do you like this?
+63,1,Aya1a,Hah!
+64,0,Aya0a,At this distance...
+64,1,Aya1a,At this distance... hah!
+65,0,Aya0a,Too slow!
+65,1,Aya1b,There!
+66,0,Aya0a,None
+67,0,Aya0b,Dodging is usually much easier than this...
+68,0,Aya0c,Sorry/ I'm winding up my film right now.
+69,0,Aya0b,I'll let you off the hook.
+70,0,Aya5a,Might as well draft my article while I'm here...
+71,0,Aya5a,Come on/ where's the focus...\n　Tch/ this isn't working out.
+72,0,Aya0a,Lacking confidence/ are we?
+73,0,Aya0c,The winds are poor today.
+74,0,Aya4a,A proper tengu knows to repay a debt!
+75,0,Aya1a,I'm here too/ don't forget.
+76,0,Aya0a,Another blow/ while they're still feeling it!
+77,0,Aya1b,I'll clinch the win for us!
+78,0,Aya1b,I'll follow your lead!
+79,0,Aya0a,I'm quick on my feet!
+80,0,Aya0a,I'll be the tailwind!
+81,0,Aya0c,Don't get used to this.
+82,0,Aya0c,How'd it come to this...
+83,0,Aya0a,I'll overtake you if you're too slow.
+84,0,Aya1a,Let's finish this quickly!
+85,0,Aya1b,My wind shall clear the way!
+86,0,Aya1b,I won't let the subject escape!
+87,0,Aya0a,Pardon me/ but I'll be going first.
+88,0,Aya1b,I'll set up my camera ahead of you!
+89,0,Aya0a,Can we hurry this up?
+90,0,Aya7b,I'll steal all the credit if you're too slow!
+91,0,Aya1b,I'll lead the way!
+92,0,Aya1b,Let's ride this momentum all the way home!
+93,0,Aya1a,Let's settle this in a flash!
+94,0,Aya1b,Time for an explosive finale!
+95,0,Aya0c,Momiji?!\n　As diligent as ever/ aren't you...
+96,0,Aya2b,The puppy stole a beat on me?\n　I must be going senile!
+97,0,Aya0c,You never were very good at finishing the job.
+98,0,Aya1b,Leave the finishing touches to me/ Momiji.
+99,0,Aya0c,You're such a handful/ honestly.
+100,0,Aya0c,Finally learned to ask for help/ hmm?\n　Good girl.
+101,0,Aya1b,Don't let my help go to waste!
+102,0,Aya0c,Come on/ you're falling behind!
+103,0,Aya1b,Use those special eyes of yours to match my timing!
+104,0,Aya1a,Momiji/ I'll clear the path for you!
+105,0,Aya1b,I'll head in first/ Momiji!
+106,0,Aya1b,Momiji/ follow me!
+107,0,Aya1a,Let's settle this in a flash/ Momiji!
+108,0,Aya1a,This'll make a perfect picture/ Momiji!
+109,0,Aya1a,Catch up soon/ Momiji!
+110,0,Aya2b,Hatate had to protect me?\n　My age must be catching up to me...
+111,0,Aya0c,Hatate?! \n　I'll have to thank her for that later...
+112,0,Aya0a,I'll finish up the interview for you.
+113,0,Aya1b,Did you get the shot?\n　Then I'll finish the job!
+114,0,Aya0c,Like I said/ you're a terrible closer.
+115,0,Aya0a,Top-notch reporters have top-notch follow-up!
+116,0,Aya0a,What a troublesome little rival you are.
+117,0,Aya0c,Finally learned to ask for help/ hmm?\n　My little girl's all grown up...
+118,0,Aya1b,Top-notch reporters have top-notch follow-up!
+119,0,Aya1b,We need this interview/ roll the camera!
+120,0,Aya0c,I'll leave the photos to you/ Hatate!
+121,0,Aya0c,I'll leave you behind at this rate!
+122,0,Aya0a,Think you can keep up/ Hatate?
+123,0,Aya1b,I'll cede this one to you/ Hatate!
+124,0,Aya1b,I'll leave the photos to you/ Hatate!
+125,0,Aya1a,I'll head in first/ Hatate!
+126,0,Aya1b,Catch up soon/ Hatate!
+127,0,Aya1a,This'll make a perfect picture/ Hatate!
+128,0,Aya1b,Let's finish them off/ Hatate!
+129,0,Aya1a,Let's settle this in a flash/ Hatate!
+130,0,Aya5b,Reimu had to sacrifice herself for me...\n　I'll cleanse myself of this shame soon enough!
+131,0,Aya0a,If you caught Reimu's attention/ you must be worth writing about.
+132,0,Aya1b,I'm catching up/ Reimu!
+133,0,Aya7b,Keep this up/ and you won't like my next issue.
+134,0,Aya0c,You're vulnerable there/ Reimu.
+135,0,Aya0c,You shrine maidens sure are needy...
+136,0,Aya0c,Now's not the time to be taking it easy!
+137,0,Aya1b,We'll clean this up in a jiffy/ Reimu!
+138,0,Aya1b,Reimu/ I'll clear the path for you!
+139,0,Aya1a,Reimu/ I'll lead the way!
+140,0,Aya3b,If you've earned Reimu's ire/ you must be worth writing about.
+141,0,Aya0c,No solicitation/ right?
+142,0,Aya1b,My wind shall clear the way/ Reimu!
+143,0,Aya1a,Let's finish them off/ Reimu!
+144,0,Aya1b,Reimu/ I'll lead the way!
+145,0,Aya1a,Allow me to be your tailwind/ Reimu.
+146,0,Aya1a,Let's settle this in a flash/ Reimu!
+147,0,Aya1b,This'll make a perfect picture/ Reimu!
+148,0,Aya2b,Lady Kochiya?!\n　Well/ that's one god down the drain...
+149,0,Aya0a,I'll make sure to note that Lady Kochiya beat you in my article.
+150,0,Aya1b,I'll finish them off/ Lady Kochiya!
+151,0,Aya1a,I'll follow your lead/ Lady Kochiya.
+152,0,Aya0c,I'll protect you/ Lady Kochiya!
+153,0,Aya2b,Sanae?!\n　Well/ that's one god down the drain...
+154,0,Aya0a,I'll make sure to note that Sanae beat you in my article.
+155,0,Aya1b,I'll finish them off/ Sanae!
+156,0,Aya0a,Your defenses are lacking/ Sanae.
+157,0,Aya0c,You shrine maidens sure are needy...
+158,0,Aya0c,Please compose yourself/ Sanae.
+159,0,Aya0a,Lady Kanako requested I assist you.
+160,0,Aya0a,I'll take the first pass!\n　Sanae/ you rest up til the time's ready.
+161,0,Aya1b,Sanae/ I'll clear the path for you!
+162,0,Aya0a,No need to rush/ Sanae.
+163,0,Aya1a,Sanae/ I'll lead the way!
+164,0,Aya1b,Let's finish them off/ Sanae!
+165,0,Aya1a,Our winds blow as one/ Sanae!
+166,0,Aya4a,Using my superior as a shield?\n　I'm a disgrace of a tengu!
+167,0,Aya1b,Leave the supporting fire to me/ Lady Kanako!
+168,0,Aya0a,I apologise for my impertinence/ but I'll be supporting you now.
+169,0,Aya1a,I'll follow your lead/ Lady Kanako.
+170,0,Aya0a,You ARE our patron god/ after all.
+171,0,Aya1b,Let me set up my camera first/ Lady Kanako!
+172,0,Aya0c,I'm sure Lady Kanako doesn't need my help/ but...
+173,0,Aya0a,I'd be overjoyed if you gave me an interview/ Lady Kanako.
+174,0,Aya1b,Lady Kanako/ I'll clear the path for you!
+175,0,Aya0a,Please be aware that I'll be joining in on the attack.
+176,0,Aya1b,Lady Kanako/ I'll lead the way!
+177,0,Aya1b,I'll make this my best work yet/ Lady Kanako!
+178,0,Aya1a,You're about to see what our mountain has to offer!
+179,0,Aya4a,Using my superior as a shield?\n　I'm a disgrace of a tengu!
+180,0,Aya1b,Leave the supporting fire to me/ Lady Suwako!
+181,0,Aya0a,I apologise for my impertinence/ but I'll be supporting you now.
+182,0,Aya0a,I'll follow your lead/ Lady Suwako.
+183,0,Aya0a,You ARE our patron god/ after all.
+184,0,Aya0c,Let me set up my camera first/ Lady Suwako!
+185,0,Aya1b,I'm sure Lady Suwako doesn't need my help/ but...
+186,0,Aya1a,I'd be overjoyed if you gave me an interview/ Lady Suwako.
+187,0,Aya1b,Lady Suwako/ I'll clear the path for you!
+188,0,Aya0a,Please be aware that I'll be joining in on the attack.
+189,0,Aya1a,Lady Suwako/ I'll lead the way!
+190,0,Aya1a,I'll make this my best work yet/ Lady Suwako!
+191,0,Aya1a,You're about to see what our mountain has to offer!
+192,0,Aya4a,Using Suika as a shield?\n　I'm a disgrace of a tengu!
+193,0,Aya0a,I apologise for my impertinence/ but I'll be supporting you now.
+194,0,Aya1b,Leave the supporting fire to me/ Suika!
+195,0,Aya1a,We tengu are attentive hosts/ as you know.
+196,0,Aya1b,I would appreciate it if you responded in kind/ Suika!
+197,0,Aya1b,Let me set up my camera first/ Suika!
+198,0,Aya3b,A proper tengu is an attentive host!
+199,0,Aya0a,I'm sure Suika doesn't need my help/ but...
+200,0,Aya0a,It's only natural to have a drink while playing danmaku.
+201,0,Aya1b,Suika/ I'll clear the path for you!
+202,0,Aya0a,Please be aware that I'll be joining in on the attack.
+203,0,Aya1b,Suika/ I'll lead the way!
+204,0,Aya1b,I'll make this my best work yet/ Suika!
+205,0,Aya1b,Between a tengu and an oni/ I don't like your odds!
+206,0,Aya0a,I know all-too-well how oni handle things!
+207,0,Aya4a,Using an oni as a shield?\n　I'm a disgrace of a tengu!
+208,0,Aya0a,I apologise for my impertinence/ but I'll be supporting you.
+209,0,Aya1b,Leave the supporting fire to me/ Yuugi!
+210,0,Aya1a,We tengu are attentive hosts/ as you know.
+211,0,Aya1b,I would appreciate it if you responded in kind/ Yuugi!
+212,0,Aya1b,Let me set up my camera first/ Yuugi!
+213,0,Aya0a,It's only natural to have a drink while playing danmaku.
+214,0,Aya1a,A proper tengu is an attentive host!
+215,0,Aya0a,I'm sure Yuugi doesn't need my help/ but...
+216,0,Aya1b,Yuugi/ I'll clear the path for you!
+217,0,Aya0a,Please be aware that I'll be joining in on the attack.
+218,0,Aya1b,Yuugi/ I'll lead the way!
+219,0,Aya1b,I'll make this my best work yet/ Yuugi!
+220,0,Aya1b,Between a tengu and an oni/ I don't like your odds!
+221,0,Aya0a,I know all-too-well how oni do these things!
+222,0,Aya1b,I can shake that off!
+223,0,Aya1b,My speed can handle that!
+224,0,Aya0a,This would make for a great article...
+225,0,Aya0c,I hope you weren't expecting THAT to take me down.
+226,0,Aya0c,You must be desperate/ facing me like that.
+227,0,Aya0c,Was that supposed to intimidate me?
+228,0,Aya7b,You've certainly thrown down the gauntlet.
+229,0,Aya5a,That wouldn't even pass for page 3 news.
+230,0,Aya0c,That's about what I expected.
+231,0,Aya4a,They're really backing me into a corner here...
+232,0,Aya5b,Yeah/ this isn't going great.
+233,0,Aya1a,...Consider my interest piqued.
+234,0,Aya5a,Treating a member of the press like this?\n　Ahh/ how dreadful...
+235,0,Aya0a,How about we stop all this pointless fighting/ and go grab a bite to eat together?
+236,0,Aya2b,Ouch. That's what I get for not paying attention.
+237,0,Aya0c,Rude/ aren't you?
+238,0,Aya0c,Hitting me is no mean feat.
+239,0,Aya4a,Don't start patting yourself on the back over a fluke.
+240,0,Aya0b,Faster than I expected...
+241,0,Aya0c,They read my moves...?!\n　No no no/ must've been a fluke.
+242,0,Aya4a,You're fairly strong/ I must admit.
+243,0,Aya0c,This won't be enough to stop me!
+244,0,Aya0b,You're not all talk/ huh?
+245,0,Aya0c,Ayaya/ I can't believe that hit me...
+246,0,Aya5b,I hate getting hurt...
+247,0,Aya0c,If I can't dodge/ I'll have to block!
+248,0,Aya1a,I'm just buying time.
+249,0,Aya0c,Oh crap/ my camera!\n　...Whew/ safe.
+250,0,Aya1b,We reporters will not yield to violence!
+251,0,Aya1a,You can't possibly match a crow tengu's speed.
+252,0,Aya0a,Power levels are a cruel mistress.
+253,0,Aya1a,Don't lose heart/ now.
+254,0,Aya1a,Having trouble keeping up?
+255,0,Aya0c,A bit too slow/ wouldn't you say?
+256,0,Aya0a,I'm rather quick/ you know.
+257,0,Aya1b,I'd be a disgrace of a tengu if THAT hit me!
+258,0,Aya1a,What a twist.
+259,0,Aya1b,I'll shake you off with my speed!
+260,0,Aya5a,This danmaku makes for a poor subject.
+261,0,Aya1a,No problem/ I'm used to danmaku like this.
+262,0,Aya7b,Are you taking this seriously?
+263,0,Aya4a,You're boring me.
+264,0,Aya0c,Ahh/ youth...
+265,0,Aya5a,I was expecting something more interesting.
+266,0,Aya5a,Not much of a warm-up.
+267,0,Aya7a,Wow/ scary.
+268,0,Aya1a,Science truly is amazing.
+269,0,Aya3b,Convenient/ isn't it?
+270,0,Aya1a,Mind if I cut in?
+271,0,Aya0a,This is no ordinary fan.
+272,0,Aya1a,I won't give you the initiative.
+273,0,Aya0a,Of course I'm faster than you.
+274,0,Aya7b,You were so slow/ I got bored of waiting.
+275,0,Aya2b,Oops/ that was careless of me.
+276,0,Aya2b,I give/ I give.
+277,0,Aya0c,Tch/ what a blunder...!
+278,0,Aya0c,This isn't the end.\n　I'll return to challenge you once more.
+279,0,Aya0a,I'll admit it/ I lost.\n　I'll be a good girl and retreat.
+280,0,Aya0c,I'll spread word of this throughout Gensokyo.
+281,0,Aya2a,Most unexpected...
+282,0,Aya2b,Tch/ what a blunder...!
+283,0,Aya5b,Ugh/ I can already hear Hatate laughing at me...
+284,0,Aya0c,This isn't the end.\n　I'll return to challenge you once more.
+285,0,Aya0c,A good reporter will not yield to danmaku!\n　You haven't seen the last of me!
+286,0,Aya5a,I hate to admit defeat/ but I'll have to back down for now.
+287,0,Aya1a,I'd be happy to assist you/ if you sign up for my newspaper.
+288,0,Aya1a,I'd LOVE to hear what you're plotting.
+289,0,Aya1b,I smell a scoop coming from you!
+290,0,Aya0a,Sorry/ no favors.\n　I'm a professional/ after all.
+291,0,Aya0c,I wonder/ do top-notch artists have top-notch danmaku?
+292,0,Aya1a,I'll have to make some noise myself.
+293,0,Aya0c,I wonder/ do top-notch artists have top-notch danmaku?
+294,0,Aya0a,Sorry/ no favors.\n　I'm a professional/ after all.
+295,0,Aya0c,I wonder/ do top-notch artists have top-notch danmaku?
+296,0,Aya0a,Sorry/ no favors.\n　I'm a professional/ after all.
+297,0,Aya0c,I wonder/ do top-notch artists have top-notch danmaku?
+298,0,Aya1a,I'll have to make some noise myself.
+299,0,Aya0a,I'd LOVE to hear what you're plotting.
+300,0,Aya1a,I smell a scoop coming from you!
+301,0,Aya2b,Gah/ she caught me?!
+302,0,Aya0c,She matched my speed...?!
+303,0,Aya0c,Don't be afraid/ just dive in...!
+304,0,Aya0a,My brush could really be the end of me here!
+305,0,Aya2b,This isn't looking good...
+306,0,Aya0c,Gah/ she caught me?!
+307,0,Aya1b,I can out-speed anything/ even YOUR ability!
+308,0,Aya5a,It's a shame I don't have time to take a photo of this view...
+309,0,Aya0c,Your power's terrifying/ but your aim isn't!
+310,0,Aya1a,It's my duty to blaze a trail!
+311,0,Aya1a,Just have to see this through to the end...!
+312,0,Aya2b,I can't escape...?!
+313,0,Aya0c,Still flying... chalk that one up to luck.
+314,0,Aya1b,I can out-speed anything/ even YOUR ability!
+315,0,Aya0c,I doubt I can keep this up.
+316,0,Aya0c,Your power is great/ but your aim isn't!
+317,0,Aya5a,I'm veeery interested in the strange rabbit you just mentioned.
+318,0,Aya1a,If you're planning a prank/ please do give me a call.
+319,0,Aya0a,Care to give a quote about today's prank?
+320,0,Aya0c,Whoa/ that'll teach me for letting my guard down.
+321,0,Aya0c,Faster than I expected...
+322,0,Aya0a,This danmaku'll make a great photo.
+323,0,Aya0a,Can I take your photo?\n　It'll make for great advertising.
+324,0,Aya1a,Let's see whose winds come out on top!
+325,0,Aya0c,Lady Suwako/ can you please not curse me?
+326,0,Aya3b,Let's have some fun here!
+327,0,Aya1b,I won't back down/ even against Yuugi!
+328,0,Aya1b,Let's do this for real/ Yuugi!
+329,0,Aya2a,Gah/ Yuugi's no joke...!
+330,0,Aya5a,Oni are just as strong as I remember...
+331,0,Aya0c,No oni will ever catch me!
+332,0,Aya6a,Did you forget how fast tengu are?
+333,0,Aya0c,Coming to you live/ from inside the sun!
+334,0,Aya0c,Goodness/ this little crow's got quite the terrifying power on her hands...
+335,0,Aya5b,You celestials are such nuisances...
+336,0,Aya0c,A little trouble's all in good fun/ but this is pushing it.
+337,0,Aya4a,Don't think you're getting away with that!
+338,0,Aya0b,You have a lot to pay for what you've done.
+339,0,Aya0c,You're awfully bold/ causing an incident like this.
+340,0,Aya0c,I always knew that fluffball was suspicious!
+341,0,Aya0a,I might get some shocking photos if I get the angle just right.
+342,0,Aya5a,...I doubt you'd make for a good article.
+343,0,Aya1a,Losing confidence yet?
+344,0,Aya0c,It's too late to surrender now.
+345,0,Aya0c,Awfully gutsy/ for a sheep!
+346,0,Aya0c,You can't expect to beat us with borrowed power!
+347,0,Aya5b,I'd feel bad taking a photo of this...
+348,0,Aya1b,Coming to you live/ at the scene of the final battle!
+349,0,Aya0c,Overflowing dreams...\n　Talk about a rare sight.
+350,0,Aya1b,I can't afford to back down here!
+351,0,Aya1a,This photo will reflect the end of the incident...!
+352,0,Aya1b,Coming to you live/ at the scene of the final battle!
+353,0,Aya0c,Overflowing dreams...\n　I can't believe I got to see this again!
+354,0,Aya1b,I can't afford to back down here!
+355,0,Aya1a,This photo will reflect the end of the incident...!
+356,0,Aya1b,I smell a scoop coming from you!
+357,0,Aya1a,Nobody can match my speed!
+358,0,Aya0c,You seem like a tricky opponent.
+359,0,Aya0a,Think you can handle this?
+360,0,Aya7b,You can't run from the wind.
+361,0,Aya0a,I certainly am warmed up now.
+362,0,Aya1a,I'm getting fired up now!
+363,0,Aya0c,Let's dispense with the pretenses/ shall we?
+364,0,Aya1b,Time to do or die...
+365,0,Aya7b,I'll have to take this seriously.
+366,0,Aya0a,Time for some aggressive reporting!
+367,0,Aya0c,Was that supposed to intimidate me?
+368,0,Aya0c,You've certainly thrown down the gauntlet.
+369,0,Aya1a,That's about what I expected.
+370,0,Aya2a,They're really backing me into a corner here...
+371,0,Aya2b,Yeah/ this isn't going great.
+372,0,Aya1a,...Consider my interest piqued.
+373,0,Aya2b,Treating a member of the press like this?\n　Ahh/ how dreadful...
+374,0,Aya0c,How about we stop all this pointless fighting/ and go grab a bite to eat together?
+375,0,Aya2a,Faster than I expected...
+376,0,Aya0c,They read my moves...?!\n　No no no/ must've been a fluke.
+377,0,Aya0b,You're fairly strong/ I must admit.
+378,0,Aya0c,This won't be enough to stop me!
+379,0,Aya0c,You're not all talk/ huh?
+380,0,Aya2b,Ayaya/ I can't believe that hit me...
+381,0,Aya5a,I hate getting hurt...
+382,0,Aya0c,If I can't dodge/ I'll have to block!
+383,0,Aya1a,I'm just buying time.
+384,0,Aya0c,Oh crap/ my camera!\n　...Whew/ safe.
+385,0,Aya0c,We reporters will not yield to violence!
+386,0,Aya1a,You can't possibly match a crow tengu's speed.
+387,0,Aya0c,Having trouble keeping up?
+388,0,Aya0a,I'm rather quick/ you know.
+389,0,Aya1b,I'd be a disgrace of a tengu if THAT hit me!
+390,0,Aya1a,What a twist.
+391,0,Aya1b,I'll shake you off with my speed!
+392,0,Aya0a,No problem/ I'm used to danmaku like this.
+393,0,Aya7a,Wow/ scary.

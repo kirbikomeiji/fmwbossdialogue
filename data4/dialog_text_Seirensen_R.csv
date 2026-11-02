@@ -1,0 +1,146 @@
+ID,LineID,face,dialog
+0,0,Korin0a,I'll show you the power of the Palanquin Ship!
+1,0,Korin0a,Let's try attacking them from here.
+2,0,Korin0a,It's time to fight. Are you ready?!
+2,1,Kosuzu0a,Uh oh/ I've gotta hold on to something...
+3,0,Kosuzu0a,Are we going to fight more?!
+3,1,Korin0a,Yeah/ now let's get down to business!
+4,0,Korin0a,Get the ship in position/ now!
+5,0,Korin0a,Sorry/ but we're not just going to sit here and take it!
+6,0,Korin0a,Looks like they're still near us!
+7,0,Kosuzu0a,Looks like they're still near us!
+7,1,Korin0a,Then let's fire back!
+8,0,Kosuzu0a,Mr. Kourindou/ the enemy is running away!
+8,1,Korin0a,Not if we don't let them!
+9,0,Korin1a,Machine guns/ full auto!
+10,0,Korin1a,This should be enough to hold them back!
+11,0,Korin1a,Auxiliary Spirit Cannons/ fire!
+12,0,Korin1a,Spirit Cannons/ fire a volley!
+13,0,Korin1a,Auxiliary Spirit Cannons/ make all guns ready!
+14,0,Korin1a,Firing the main gun/ keep out of the way!
+15,0,Korin1a,Now's our chance! Give them everything we've got!
+16,0,Korin1a,Bring the buddhist reactor to full power!
+16,1,Kosuzu0a,Mr. Kourindou/ it looks ready!
+16,2,Korin1a,Fire!
+17,0,Kosuzu0a,The big one's ready to go!
+17,1,Korin1a,Targeting complete/ good to fire!
+17,2,Korin1a,Fire!!!
+18,0,Korin1a,Prepare to fire the Spirit Cannon!
+18,1,Kosuzu0a,It's ready!
+18,2,Korin1a,Let's go!
+19,0,Korin1a,Captain Murasa left us this...
+19,1,Kosuzu0a,Um/ it was... this switch?
+19,2,Korin1a,Now's the time! All guns/ fire at will!
+20,0,Kosuzu0a,Whoa/ we're flying even more than usual!
+20,1,Korin1a,Drop anchor!
+20,2,Korin1a,All guns/ fire a volley!
+21,0,Korin1a,We'll secure the ship's hull in place/ then bombard them!
+21,1,Kosuzu0a,The anchor is falling!
+21,2,Korin1a,Concentrated fire!
+22,0,Korin1a,Looks like we have no choice but to use it.
+22,1,Kosuzu2a,Firing the Heavy Buddhist Missile.\n Everyone nearby/ please take cover!
+22,2,Korin0a,Arming complete/ adjusting angle of fire...
+22,3,Kosuzu2a,I'll handle correcting the aim.\n Mr. Kourindou/ you have the trigger!
+22,4,Korin1a,Missiles/ horizontal fire!
+22,5,Kosuzu0a,The target is completely silent...
+22,6,Korin0a,What awe-inspiring power...
+23,0,Korin1a,We're using the Heavy Buddhist Missile.\n Warn everyone nearby/ please.
+23,1,Kosuzu0a,We're gonna use a real dangerous thing!\n Everybody on our side/ run away!
+23,2,Korin0a,The trajectory might be automatically calculated/ and yet...
+23,3,Korin0a,With me pulling the trigger/ it can't fail!
+23,4,Korin1a,Ignition!
+23,5,Kosuzu0a,Whoa/ this is something else!
+23,6,Korin0a,We probably shouldn't use this thing too much...
+24,0,Korin1a,Let's rise/ we can do some precision fire from above.
+24,1,Kosuzu0a,Please stop being so violent/ everyone!
+24,2,Korin0a,Sound the alarm!\n We're using the Heavy Buddhist Missile!
+24,3,Kosuzu0a,Um/ confirming no allies within the blast radius! Probably!
+24,4,Korin1a,Fire missiles!
+24,5,Kosuzu0a,...should we really be doing stuff like this?
+24,6,Korin0a,Let's just get ourselves out of the fire.
+25,0,Korin0a,Get us back in position!
+26,0,Korin0a,We got taken for a ride/ so to speak...
+27,0,Korin0a,Wh- where'd that attack come from?!
+28,0,Korin0a,Kosuzu! What's the range to the enemy?!
+28,1,Kosuzu0a,... Looks far/ Mr. Kourindou!
+29,0,Korin0a,We're bound by duty to see this through/ now.
+30,0,Korin0a,Leave the rest up to us.
+31,0,Kosuzu0a,That was a good one!
+32,0,Korin0a,We'll protect our allies with the ship itself!
+33,0,Kosuzu0a,Aaah! They got Murasa!
+34,0,Murasa0a,Palanquin Ship/ follow up after me!
+34,1,Korin0a,This is a nice position to be in.
+35,0,Korin0a,Murasa/ we came to check up on you.
+36,0,Korin0a,Murasa/ we'll handle it from here.
+37,0,Kosuzu3b,Murasa gave us a good chance!
+38,0,Murasa0a,Palanquin Ship/ come here!
+38,1,Korin0a,Good/ looks like we were in time.
+39,0,Murasa0a,Sorry/ Palanquin Ship―Protect me!
+40,0,Korin0a,Taking care of the ship is fine/\n but you've got to take care of yourself too!
+41,0,Korin0a,Murasa/ we're here to rescue you!
+42,0,Kosuzu0a,Mr. Kourindou/ dodge upwards!
+42,1,Korin0a,Taking evasive action!
+43,0,Kosuzu0a,And now a left! Wa-hey!
+43,1,Korin0a,P- please don't suddenly spin the wheel!
+44,0,Kosuzu0a,And now a right! Wa-hey!
+44,1,Korin0a,W- wow! Things turned out okay...
+45,0,Kosuzu0a,Huh. Wasn't that... like/ not a big deal?
+45,1,Korin0a,Yeah/ let's keep on fighting!
+46,0,Kosuzu0a,Nothing in particular to report/ Mr. Kourindou!
+47,0,Korin0a,Did we just take a hit?
+47,1,Kosuzu0a,Huh/ did we?
+48,0,Kosuzu0a,A whole bunch of things are rattling!
+48,1,Korin0a,We're going to have to do some things manually now!
+49,0,Korin2a,Try to stabilize the hull!
+49,1,Kosuzu0a,H-How? Should we lean in the opposite direction the ship's tilting in?
+50,0,Korin2a,Ugh/ and we were trusted with the ship...
+51,0,Korin0a,Help with damage control!
+51,1,Kosuzu0a,Okay! How do I do that/ though?!
+52,0,Korin0a,We're borrowing this thing/ we better take care of it...
+53,0,Korin2a,We were hit?!
+54,0,Kosuzu0a,I- is this normal?!
+55,0,Korin2a,Give me a damage report!
+55,1,Kosuzu0a,We got hit somewhere!
+56,0,Korin2a,This is a good ship/ she'll be fine!
+57,0,Korin0a,We grazed it?!
+58,0,Kosuzu0a,Wh- Whoaaa!
+59,0,Korin0a,I'm glad we have an autopilot mode...
+60,0,Korin0a,I'll speed up until we lose them!
+61,0,Korin0a,Bringing us about hard!
+62,0,Korin0a,As long as we've got this barrier!
+63,0,Korin0a,It really is a superb artifact.
+64,0,Kosuzu0a,Wow!\n So this is what a 'barrier' is!
+65,0,Korin0a,Here we go!
+66,0,Korin0a,Just where I was aiming for.
+67,0,Korin2a,Sorry/ this one is my fault...
+68,0,Korin2a,This isn't good! We can't take this much longer...
+69,0,Kosuzu1a,We- we're done for. The Palanquin Ship...
+70,0,Korin0a,Seems like we were good sparring partners.
+71,0,Kosuzu0a,We have to watch their danmaku closely...
+72,0,Korin0a,That's Hakurei Shrine for you/ with us immediately running into some odd new youkai...
+73,0,Kosuzu0a,You seem like a kind and gentle type/ but...
+74,0,Korin0a,She's a celestial/ huh. Seems like she has a rather warped personality/ though. 
+75,0,Kosuzu0a,You feel really approachable for somebody from Heaven...
+76,0,Korin0a,Closing off her line of retreat...
+77,0,Kosuzu0a,You're a youkai who isn't in any of my books...
+78,0,Kosuzu0a,Hey/ listen to what we're saying!
+79,0,Korin0a,If you won't listen to reason/ we might need to get rough...
+80,0,Kosuzu0a,You won't get away with this!
+81,0,Korin0a,We'll get around her one way or another!
+82,0,Korin0a,Could this have been us?
+83,0,Kosuzu0a,Eek! Everybody's so scary...
+84,0,Korin0a,It's like they're pure evil thoughts made manifest.
+85,0,Kosuzu0a,I'm in the right headspace for this!
+86,0,Korin0a,Her spirit levels aren't high/ but...
+87,0,Kosuzu0a,I- isn't this kinda... not super safe?
+88,0,Korin0a,Well/ I'd better make you give up a little sooner!
+89,0,Korin0a,If you're not going to go down/ then we also need to...
+90,0,Kosuzu0a,I don't want to have to watch anymore of this...
+91,0,Korin0a,We'll be taking back Gensokyo's dreams!
+92,0,Kosuzu0a,This is a heck of a sight. I never thought I'd see anything like it...
+93,0,Kosuzu0a,There's still more books to read!
+94,0,Korin0a,There's nothing to do but throw everything we've got at her!
+95,0,Korin0a,We'll be taking back the Dream World!
+96,0,Kosuzu0a,This is a heck of a sight. I never thought I'd see anything like it again...
+97,0,Kosuzu0a,There's still more books to read!
+98,0,Korin0a,There's nothing to do but throw everything we've got at her!

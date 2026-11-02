@@ -1,0 +1,335 @@
+ID,LineID,face,dialog
+0,0,Wriggle0a,Hey/ whoa/ HOLD up!\n　I'm not some mook you can afford to ignore!
+1,0,Wriggle0a,Is it just me/ or are you wide open?
+2,0,Wriggle0a,See if you can keep up with my bugs!
+3,0,Wriggle0a,Try ignoring THIS!
+4,0,Wriggle0a,Don't worry/ I'll deliver the pain straight to you!
+5,0,Wriggle0a,I think I've got a read on them...!
+6,0,Wriggle0a,For the sake of all crushed bugs everywhere/ I will defeat you!
+7,0,Wriggle0a,Insects can do more than just run away!
+8,0,Wriggle0a,You done? Then it's my turn!
+9,0,Wriggle0a,I don't take kindly to any hit-and-runners.
+10,0,Wriggle0a,I hope you're ready for this!
+11,0,Wriggle0a,Even a tenth of an inch bug has a half-inch soul!
+12,0,Wriggle0a,You're going down!
+13,0,Wriggle1a,My light's not going out just yet!
+14,0,Wriggle0a,Time to make my stand!
+15,0,Wriggle0a,I might lose soon/ but I'm taking you down with me!
+16,0,Wriggle0a,Even a tenth of an inch bug has a half-inch soul!
+17,0,Wriggle1a,Ah/ here's my chance!
+17,1,Wriggle1a,Hah!
+18,0,Wriggle1a,All at once now...
+18,1,Wriggle1a,There!
+19,0,Wriggle1a,You're mine!
+19,1,Wriggle1a,Taste my wings!
+20,0,Wriggle1a,I'm diving in!
+20,1,Wriggle1a,Hyah!
+21,0,Wriggle1a,Take this!
+22,0,Wriggle1a,These bad boys'll light up your night!
+23,0,Wriggle1a,By the light of the fireflies!
+24,0,Wriggle1a,There you are!
+25,0,Wriggle1a,Swarm 'em/ boys!
+25,1,Wriggle1a,You're not getting off so easy!
+26,0,Wriggle1a,Here's a free trial of our new bug-based attraction.\n　Enjoy!
+26,1,Wriggle1a,Keep your arms and legs inside the ride at all times!
+27,0,Wriggle1a,The next generation belongs to the insects!
+27,1,Wriggle1a,See for yourself!
+28,0,Wriggle1a,C'mon boys/ let's rock!
+28,1,Wriggle1a,Keep it going!
+29,0,Wriggle1a,Counting on you/ guys!
+29,1,Wriggle1a,Turn up the heat!
+30,0,Wriggle1a,I'll crank up the speed!
+30,1,Wriggle1a,Ultimate...!
+30,2,Wriggle1a,WRIGGLE KIIIIIIICK!
+31,0,Wriggle1a,You're wide open!
+31,1,Wriggle1a,Killer move...!
+31,2,Wriggle1a,WRIGGLE KIIIIIIICK!
+32,0,Wriggle1a,This'll take you down!
+32,1,Wriggle1a,Killer move...!
+32,2,Wriggle1a,WRIGGLE KIIIIIIICK!
+33,0,Wriggle1a,Bug youkai ultimate technique!
+33,1,Wriggle1a,Ultimate...!
+33,2,Wriggle1a,WRIGGLE KIIIIIIICK!
+34,0,Wriggle0a,Let's join forces!
+34,1,Rumia0a,What are we playing with today?
+34,2,Cirno0a,With darkness/ ice/ bugs/ and song!
+34,3,Wriggle0a,I'm ready!
+34,4,Mystia0a,This sounds like fun!
+34,5,Cirno1a,Spellcard!
+34,6,Wriggle1a,Do your thing/ boys!
+34,7,Mystia1a,FIRE!
+34,8,Rumia0a,Weee!
+34,9,Cirno1a,Here comes the ice!
+34,10,Wriggle1a,There you are!
+34,11,Mystia1b,Go! ♪ Go! ♪
+34,12,Rumia0a,Pitch dark!
+34,13,Rumia0a,Awesome!
+34,14,Wriggle0a,It's time to end this!
+34,15,Mystia0a,Sounds good!
+34,16,Cirno0a,I'm on it!
+34,17,Cirno1a,Nineball Special!
+34,18,Rumia1a,Spellcard!
+34,19,Mystia1a,Spellcard!
+34,20,Wriggle1a,Spellcard!
+35,0,Wriggle0a,Ready/ girls?!
+35,1,Rumia0a,One!
+35,2,Cirno0a,Two!
+35,3,Wriggle0a,Three!
+35,4,Mystia0a,Four!
+35,5,Cirno1a,LET'S GOOO!
+35,6,Wriggle1a,Do your thing/ bug buddies!
+35,7,Mystia1a,FIRE!
+35,8,Rumia0a,Over there/ right?
+35,9,Cirno1a,Frozen Beam!
+35,10,Wriggle1a,End of the line!
+35,11,Mystia1b,You can do it! ♪
+35,12,Rumia0a,Turn on the dark!
+35,13,Rumia0a,Almost done!
+35,14,Wriggle0a,Time to finish this!
+35,15,Mystia0a,Sounds great!
+35,16,Cirno0a,I've got just the thing!
+35,17,Cirno1a,Nineball Special!
+35,18,Rumia1a,LET'S GOOO!
+35,19,Mystia1a,LET'S GOOO!
+35,20,Wriggle1a,LET'S GOOO!
+36,0,Wriggle0a,We can DO this!
+36,1,Rumia0a,Is everyone ready?
+36,2,Cirno0a,Well/ duh!
+36,3,Wriggle0a,Just say the word!
+36,4,Mystia0a,I'm hyped!
+36,5,Cirno1a,Spellcard!
+36,6,Wriggle1a,Counting on you/ buddies!
+36,7,Mystia1a,FIRE!
+36,8,Rumia0a,Hiyaaah!
+36,9,Cirno1a,Freeze!
+36,10,Wriggle1a,Now!
+36,11,Mystia1b,I can fly! ♪ You can fly! ♪
+36,12,Rumia0a,Bwooom!
+36,13,Rumia0a,Are we done now?
+36,14,Wriggle0a,Almost!
+36,15,Mystia0a,The stage is yours/ Cirno!
+36,16,Cirno0a,How's this for a cool finisher?
+36,17,Cirno1a,Bio-Glacial Attaaack!
+36,18,Rumia1a,Spellcard!
+36,19,Mystia1a,Spellcard!
+36,20,Wriggle1a,Spellcard!
+37,0,Wriggle0a,Let's DO this thing/ girls!
+37,1,Rumia0a,Cirno!
+37,2,Cirno0a,Dai!
+37,3,Daiyosei0a,Wriggle!
+37,4,Wriggle0a,Mystia!
+37,5,Mystia0a,And back to Rumia!
+37,6,Cirno1a,It's time to fight as one!
+37,7,Daiyosei1a,I will give you all power.
+37,8,Wriggle1a,Haaaah!
+37,9,Wriggle1a,Do your thing/ guys!
+37,10,Mystia1b,This song will get your blood pumping!
+37,11,Rumia0a,Weee!
+37,12,Cirno1a,Freeze!
+37,13,Wriggle1a,There you are!
+37,14,Mystia1b,Go! ♪ Go! ♪
+37,15,Rumia0a,Pitch dark!
+37,16,Cirno1a,Not done yet!
+37,17,Daiyosei2a,I-I'm helping!
+37,18,Rumia0a,Awesome!
+37,19,Wriggle0a,It's time to end this!
+37,20,Mystia0a,Sounds good!
+37,21,Daiyosei0a,All together now!
+37,22,Cirno0a,This will finish you!
+37,23,Cirno1a,The strongest ever attack in Gensokyo!
+37,24,Cirno1a,Final!
+37,25,Rumia0a,Final! Nineball!! SPECIAAAL!!!
+37,26,Mystia0a,Final! Nineball!! SPECIAAAL!!!
+37,27,Wriggle1a,Final! Nineball!! SPECIAAAL!!!
+38,0,Wriggle0a,Let's join forces!
+38,1,Rumia0a,Cirno!
+38,2,Cirno0a,Dai!
+38,3,Daiyosei0a,Wriggle!
+38,4,Wriggle0a,Mystia!
+38,5,Mystia0a,And back to Rumia!
+38,6,Cirno1a,It's time to fight as one!
+38,7,Daiyosei1a,Give it your all/ friends!
+38,8,Mystia1b,I'm so fired up!
+38,9,Wriggle1a,Sic 'em/ boys!
+38,10,Mystia1b,I know just the song!
+38,11,Rumia0a,Here I go!
+38,12,Cirno1a,Frozen Beam!
+38,13,Wriggle1a,End of the line!
+38,14,Mystia1b,I can fly! ♪ You can fly! ♪
+38,15,Rumia0a,Turn on the dark!
+38,16,Cirno1a,Don't stop now!
+38,17,Daiyosei2a,I'll help!
+38,18,Rumia0a,That felt awesome!
+38,19,Wriggle0a,Let's finish this!
+38,20,Mystia0a,This is the song's climax!
+38,21,Daiyosei0a,We can do it/ together!
+38,22,Cirno0a,Here it comes...
+38,23,Cirno1a,The ultimate bio-glacial attack!
+38,24,Cirno1a,Final!
+38,25,Rumia0a,Final! Nineball!! SPECIAAAL!!!
+38,26,Mystia0a,Final! Nineball!! SPECIAAAL!!!
+38,27,Wriggle1a,Final! Nineball!! SPECIAAAL!!!
+39,0,Wriggle0a,I'll just see how this goes for now.
+40,0,Wriggle0a,I should be fine if I keep flying around.
+41,0,Wriggle2a,This is/ uh... pretty unfair.
+42,0,Wriggle2a,That's so lame...!
+43,0,Wriggle2a,Wha—Where'd that come from?
+44,0,Wriggle2a,This is unforgiveable!
+45,0,Wriggle0a,I'll zoom in for another one!
+46,0,Wriggle0a,I'll cover you/ real quick!
+47,0,Wriggle0a,Dunno if I'm the right pick for this...
+48,0,Wriggle0a,I can't bare to watch this anymore!
+49,0,Wriggle0a,Let's regroup while we still can!
+50,0,Wriggle1a,The enemy's over there!
+51,0,Wriggle1a,Watch out for bugs in your mouth!
+52,0,Wriggle1a,You're a friend of the insects!
+53,0,Wriggle1a,I'm sorry if you get stung a bit.
+54,0,Wriggle1a,By the light of the fireflies!
+55,0,Wriggle1a,I'm great at distractions!
+56,0,Wriggle1a,I'll release the bugs!
+57,0,Wriggle0a,Let's light up the night!
+58,0,Wriggle0a,Time for a combo attack!
+59,0,Wriggle0a,Let's get our last words in!
+60,0,Wriggle2a,Yamame... Why would you...
+61,0,Wriggle0a,I'll help out/ Yamame!
+62,0,Wriggle0a,I've got you covered/ Yamame!
+63,0,Wriggle0a,Let me deal with this/ Yamame!
+64,0,Wriggle0a,Yamame/ look out!
+65,0,Wriggle0a,Let's team up/ Yamame!
+66,0,Wriggle1a,Show me the power of the old bugs!
+67,0,Wriggle0a,I'll lend you my speed/ Yamame!
+68,0,Wriggle1a,My fireflies will light your way/ Yamame!
+69,0,Wriggle1a,I'll help/ Yamame!
+70,0,Wriggle0a,We make great teammates/ Yamame!
+71,0,Wriggle0a,Time for a combo attack/ Yamame!
+72,0,Wriggle0a,Let's get our last words in/ Yamame!
+73,0,Wriggle2a,Yamame... Why would you...
+74,0,Wriggle0a,I'll help out/ Yamame!
+75,0,Wriggle0a,I've got you covered/ Yamame!
+76,0,Wriggle0a,Let me deal with this/ Yamame!
+77,0,Wriggle0a,Yamame/ look out!
+78,0,Wriggle0a,Let's team up/ Yamame!
+79,0,Wriggle1a,Show me the power of the old bugs!
+80,0,Wriggle0a,We should make for great teammates...!
+81,0,Wriggle1a,I'll lend you my speed/ Yamame!
+82,0,Wriggle1a,My fireflies will light your way/ Yamame!
+83,0,Wriggle1a,I'll help/ Yamame!
+84,0,Wriggle0a,We should make great teammates/ Yamame!
+85,0,Wriggle0a,Let's do this thing/ Yamame!
+86,0,Wriggle2a,How dare you hurt Mystia!
+87,0,Wriggle0a,I'm right behind you/ Mystia!
+88,0,Wriggle0a,I'll get another shot in/ Mystia!
+89,0,Wriggle0a,Mystia/ get down!
+90,0,Wriggle0a,Let me deal with this/ Mystia!
+91,0,Wriggle1a,Mystia/ I'll lead the way!
+92,0,Wriggle1a,Mystia/ make sure you swap with me if things get scary out there!
+93,0,Wriggle1a,My bug buddies'll cover you/ Mystia!
+94,0,Wriggle1a,My fireflies will light your way/ Mystia!
+95,0,Wriggle1a,I'll lend you my speed/ Mystia!
+96,0,Wriggle0a,Let's do this thing/ Mystia!
+97,0,Wriggle0a,Let's light up the night/ Mystia!
+98,0,Wriggle0a,Let's get our last words in/ Mystia!
+99,0,Wriggle2a,How dare you hurt Cirno!
+100,0,Wriggle0a,I'm right behind you/ Cirno!
+101,0,Wriggle0a,I'll get another shot in/ Cirno!
+102,0,Wriggle0a,Cirno/ get down!
+103,0,Wriggle0a,Let me deal with this/ Cirno!
+104,0,Wriggle1a,Cirno/ make sure you swap with me if things get scary out there!
+105,0,Wriggle1a,Don't freeze my bugs/ Cirno!
+106,0,Wriggle1a,Cirno/ I'll lead the way!
+107,0,Wriggle1a,My fireflies will light your way/ Cirno!
+108,0,Wriggle1a,I'll lend you my speed/ Cirno!
+109,0,Wriggle0a,Let's do this thing/ Cirno!
+110,0,Wriggle0a,Let's light up the night/ Cirno!
+111,0,Wriggle0a,Let's get our last words in/ Cirno!
+112,0,Wriggle2a,How dare you hurt Rumia!
+113,0,Wriggle0a,I'm right behind you/ Rumia!
+114,0,Wriggle0a,I'll get another shot in/ Rumia!
+115,0,Wriggle0a,Rumia/ get down!
+116,0,Wriggle0a,Let me deal with this/ Rumia!
+117,0,Wriggle1a,Rumia/ make sure you swap with me if things get scary out there!
+118,0,Wriggle1a,Don't eat any of my bugs/ Rumia!
+119,0,Wriggle1a,Rumia/ I'll lead the way!
+120,0,Wriggle1a,My fireflies will light your way/ Rumia!
+121,0,Wriggle1a,I'll lend you my speed/ Rumia!
+122,0,Wriggle0a,Let's do this thing/ Rumia!
+123,0,Wriggle0a,Let's light up the night/ Rumia!
+124,0,Wriggle0a,Let's get our last words in/ Rumia!
+125,0,Wriggle2a,How dare you hurt Dai!
+126,0,Wriggle0a,I'm right behind you/ Dai!
+127,0,Wriggle0a,I'll get another shot in/ Dai!
+128,0,Wriggle0a,Dai/ get down!
+129,0,Wriggle0a,Let me deal with this/ Dai!
+130,0,Wriggle1a,Dai/ make sure you swap with me if things get scary out there!
+131,0,Wriggle1a,Dai/ I'll lead the way!
+132,0,Wriggle1a,My bug buddies'll cover you/ Dai!
+133,0,Wriggle1a,My fireflies will light your way/ Dai!
+134,0,Wriggle1a,I'll lend you my speed/ Dai!
+135,0,Wriggle0a,Let's do this thing/ Dai!
+136,0,Wriggle0a,Let's light up the night/ Dai!
+137,0,Wriggle0a,Let's get our last words in/ Dai!
+138,0,Wriggle0a,Float like a butterfly...!
+139,0,Wriggle0a,You had no chance!
+140,0,Wriggle0a,You fell for my feint!
+141,0,Wriggle0a,You're a bit weak for this/ don't you think?
+142,0,Wriggle0a,Don't you dare underestimate me!
+143,0,Wriggle0a,Not too bad/ thankfully...
+144,0,Wriggle0a,Are you just playing around?
+145,0,Wriggle2a,I've gotta get out of here...!
+146,0,Wriggle2a,Crap/ there's no way out...
+147,0,Wriggle2a,I'm... I'm not scared of you!
+148,0,Wriggle2a,Go on without me/ bug buddies...
+149,0,Wriggle2a,Urk/ right in the funny bone...
+150,0,Wriggle2a,I'm not fast enough?!
+151,0,Wriggle2a,Nooo...
+152,0,Wriggle2a,So that's the plan...!
+153,0,Wriggle2a,You're/ um/ pretty good!
+154,0,Wriggle2a,Dang it...
+155,0,Wriggle2a,I won't lose!
+156,0,Wriggle2a,They've got a read on me?!
+157,0,Wriggle2a,I've gotta handle this myself!
+158,0,Wriggle2a,I'll pay you back ten-fold!\n　...Or maybe just two-fold.
+159,0,Wriggle2a,A few hits here or there won't splatter me!
+160,0,Wriggle2a,C'mon Wriggle/ don't let this get to you...!
+161,0,Wriggle0a,Guess you misjudged the distance!
+162,0,Wriggle0a,Being hard to hit is what bugs are best at!
+163,0,Wriggle0a,What's wrong/ can't keep up with me?\n　...Heh/ of course you can't.
+164,0,Wriggle0a,I figured as much!
+165,0,Wriggle0a,Looks like your eyes can't follow my speed!
+166,0,Wriggle0a,Us bugs'll show you how it's done!
+167,0,Wriggle0a,You fell for my feint!
+168,0,Wriggle0a,If I buzz around like this/ I can't be hit!
+169,0,Wriggle0a,As long as I keep ready/ I can dodge it!
+170,0,Wriggle0a,I see right through you!
+171,0,Wriggle0a,Just takes a little focus!
+172,0,Wriggle0a,My antennae are on full alert!
+173,0,Wriggle0a,My Wriggle senses were tingling.
+174,0,Wriggle0a,I know I shouldn't be relaxing/ but... whew.
+175,0,Wriggle0a,Dang/ this is SUPER convenient!
+176,0,Wriggle0a,Hyah!
+177,0,Wriggle0a,You asked for it!
+178,0,Wriggle0a,Think I didn't see you coming?
+179,0,Wriggle2a,If only I was a little stronger...
+180,0,Wriggle2a,I'm still just a bug...
+181,0,Wriggle0a,Sorry gang/ I gotta let my bug buddies rest.
+182,0,Wriggle0a,Yeesh/ I did NOT think they were this tough...
+183,0,Wriggle0a,It's frustrating/ but... they got me.
+184,0,Wriggle0a,Yeesh/ I did NOT think they were this tough...
+185,0,Wriggle0a,This is serious business! I just hope my insects don't get caught in the crossfire....
+186,0,Wriggle0a,Quelling the power of a rampaging god is WAY above my pay grade/ but I'll see what I can do!
+187,0,Wriggle0a,So you're Iku's acquaintance/ huh? You certainly match her description...
+188,0,Wriggle0a,I wonder... do insects go to heaven?
+189,0,Wriggle0a,Even if I WAS sleepy/ I know some cicadas who can wake up anyone!
+190,0,Wriggle0a,I'm more than fast enough to herd this sheep!
+191,0,Wriggle0a,You're just a lowsy fake!
+192,0,Wriggle0a,You're strong/ but you're still just an imposter!
+193,0,Wriggle0a,Can... Can I not do this?
+194,0,Wriggle0a,Flowers and bugs are usually friends... right?
+195,0,Wriggle0a,I can't believe you're pushing yourself so far...
+196,0,Wriggle2a,Are you seriously STILL fighting?!
+197,0,Wriggle0a,The sound of my wings flapping will keep you awake!
+198,0,Wriggle0a,I came here/ as a representative of Gensokyo's insects!
+199,0,Wriggle0a,I'm pulling out all the stops!
+200,0,Wriggle0a,The sound of my wings flapping will keep you awake!
+201,0,Wriggle0a,I came here/ as a representative of Gensokyo's insects!
+202,0,Wriggle0a,I'm pulling out all the stops!

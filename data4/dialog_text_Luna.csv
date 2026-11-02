@@ -1,0 +1,199 @@
+ID,LineID,face,dialog
+0,0,Luna0a,This might work.
+1,0,Luna0a,This time/ I have back-up!
+2,0,Luna0a,I'll mute all sound and launch a sneak attack...
+3,0,Luna0a,I can't let Sunny hog all the glory!
+4,0,Luna0a,I guess I should attack back...
+5,0,Luna0a,Y-You won't beat me!
+6,0,Luna0a,I should have seen this coming...
+7,0,Luna0a,Maybe I can distract them with some danmaku and run away.
+8,0,Luna0a,I might be able to hit now!
+9,0,Luna0a,If we attack together/ maybe—!
+10,0,Luna0a,It's time for our special attack.
+11,0,Luna1a,Here I cooome.
+12,0,Luna1a,Uhmm... Haaah.
+13,0,Luna1a,It's make-or-break!
+14,0,Luna1a,I'm not going down without a fight.
+15,0,Luna1a,Haaah.
+16,0,Luna1a,Hyaaah.
+17,0,Luna1a,Do me a favor and get hit/ alright?
+18,0,Luna0a,These better hit.
+19,0,Luna1a,I'll get you!
+20,0,Luna1a,Hyah!
+21,0,Luna0a,Girls/ help me out!
+21,1,Sunny0a,Alright/ alright. Are you ready?
+21,2,Star0a,Ready when you are.
+21,3,Luna1a,The three of us together can do anything!
+21,4,Sunny1a,Let's do this. Now!
+22,0,Luna0a,Sunny/ Star! Help me out!
+22,1,Sunny0a,Okay! Let's use our formation attack.
+22,2,Star0a,Sunny/ you take point.\n　Luna/ you take point too.
+22,3,Luna0a,Somehow/ that doesn't seem right.
+22,4,Sunny1a,Oh/ who cares? Ka-BLOOM!
+23,0,Luna0a,Sunny/ Star! Get in formation!
+23,1,Sunny0a,Let's switch things up a bit.
+23,2,Star0a,How about we have Luna kick us off?
+23,3,Luna0a,Huh? You mean/ I have to say the thing?
+23,4,Luna1a,Ka... Ka-bloom.\n　Ugh/ it's so cringe!
+24,0,Luna0a,Sunny/ Star/ let's do that thing!
+24,1,Sunny0a,Hey/ that thing" has a proper name!
+24,2,Luna0a,Oh/ I just completely forgot about it.
+24,3,Star0a,Who cares what it's called/ as long as it works?
+24,4,Sunny1a,Attack names are cool/ though...\n　Oh well. Here we go!
+25,0,Luna1a,Girls/ give me a hand!
+25,1,Star0a,I think Luna should lead the attack this time.
+25,2,Sunny0a,Are you sure? You know how much of a klutz she is.
+25,3,Luna1a,...Well/ excuse me.
+25,4,Sunny1a,C'mon/ let's do this!
+26,0,Luna2a,Eeep! Girls/ I need help!
+26,1,Sunny0a,Oh/ Luna. You're such a klutz.
+26,2,Luna0a,Well/ excuse me—\n　Hold on/ this has nothing to do with my clumsiness!
+26,3,Star0a,Can we get a move on/ Sunny?
+26,4,Sunny1a,Right. Here goes nothin'!
+27,0,Luna0a,You asked for it.
+27,1,Luna1a,Girls/ it's time for our LFA sequence.
+27,2,Sunny0a,L is for... Light!
+27,3,Star0a,A is for... Attack!
+27,4,Luna1a,Staaar! I have to say the A! You're supposed to—\n　Awww/ we're out of time!
+28,0,Luna0a,You asked for it.
+28,1,Luna1a,Girls/ it's time for our LFA sequence.
+28,2,Sunny0a,L—Last night/ I hid...
+28,3,Star0a,F—From everyone/ and...
+28,4,Luna0a,A—Ate all the cookies in the jar.\n　Wait/ what's with the comedy routine?
+29,0,Luna0a,You asked for it.
+29,1,Luna1a,Girls/ time for our patented LFA sequence.
+29,2,Sunny0a,L—Light Fairies are three.
+29,3,Star0a,F—Four of them would be...
+29,4,Luna0a,A—A headache.\n　Wait/ that sounds wrong...
+30,0,Luna0a,How long can I keep this up?
+31,0,Luna0a,This'll work out in the end/ right...?
+32,0,Luna2a,This isn't working out!
+33,0,Luna0a,I don't even know where they are.\n　What am I supposed to do?
+34,0,Luna0a,You know... I'm starting to think that maybe/\n　just maybe... we should be running away.
+35,0,Luna0a,I guess I'll tag along.
+36,0,Luna0a,Let me help.
+37,0,Luna0a,W-Wait! Don't lead them my way!
+38,0,Luna0a,Err/ I guess I'm covering you?
+39,0,Luna0a,I hope I'm not in your way...
+40,0,Luna0a,Uhmm/ I'll try to keep up.
+41,0,Luna0a,Well/ I hope I can help.
+42,0,Luna0a,I'll stay here and shoot. That's helping/ right?
+43,0,Luna0a,Let me help!
+44,0,Luna0a,If we attack together/ I may even hit something!
+45,0,Luna0a,I'm so pumped right now/ I might even sneak in a good hit.
+46,0,Luna0a,My danmaku's no joke!
+47,0,Luna0a,I'll use my ability to help you!
+48,0,Luna0a,Rumia! You... You protected me?!
+49,0,Luna0a,I'll sneak in while Rumia keeps them busy!
+50,0,Luna0a,Let me help/ Rumia!
+51,0,Luna0a,Err... Why am I defending Rumia/ again?
+52,0,Luna0a,Rumia/ please stay focused!
+53,0,Luna0a,Let me help/ Rumia!
+54,0,Luna0a,Don't forget about your power/ Rumia!
+55,0,Luna0a,Let's go/ Rumia!
+56,0,Luna0a,I'm with you/ Rumia!
+57,0,Luna0a,I'll back you up. You finish the job/ Rumia!
+58,0,Luna0a,Rumia's doing her best! I won't let her down!
+59,0,Luna0a,Rumia! I'll use my ability to help you!
+60,0,Luna0a,Rumia! I'll use my best danmaku!
+61,0,Luna0a,Dai... I'm so sorry...
+62,0,Luna0a,I'll sneak in while Dai keeps them busy!
+63,0,Luna0a,Let me help/ Dai!
+64,0,Luna0a,Don't you dare hurt our Dai!
+65,0,Luna0a,Dai! Watch out!
+66,0,Luna0a,Together/ we can do this!
+67,0,Luna0a,We'll get them/ somehow!
+68,0,Luna0a,Let me help/ Dai!
+69,0,Luna0a,I'm with you/ Dai!
+70,0,Luna0a,Let's go/ Dai!
+71,0,Luna0a,Dai! Let's show them what we fairies can really do!
+72,0,Luna0a,Dai! I'll use my ability to help you!
+73,0,Luna0a,Dai! I'll use my best danmaku!
+74,0,Luna0a,Cirno?! You... You protected me?!
+75,0,Luna0a,I'll sneak in while Cirno keeps them busy!
+76,0,Luna0a,Cirno/ let me help!
+77,0,Luna0a,Oh/ Cirno. Always the reckless one.
+78,0,Luna0a,Cirno/ could you please focus once in a while?
+79,0,Luna0a,I'll try to keep up/ Cirno!
+80,0,Luna0a,Let's go/ Cirno!
+81,0,Luna0a,Cirno/ let me help!
+82,0,Luna0a,I'm with you/ Cirno!
+83,0,Luna0a,I'll back you up. You finish the job/ Cirno!
+84,0,Luna0a,Cirno's doing her best! I won't let her down!
+85,0,Luna0a,Cirno! Let's show them what we fairies can really do!
+86,0,Luna0a,Cirno! I'll use my best danmaku!
+87,0,Luna0a,Don't say I didn't warn you.
+88,0,Luna0a,Thanks for distracting them/ Sunny!
+89,0,Luna0a,Sunny/ let me help!
+90,0,Luna0a,Don't forget about your power/ Sunny!
+91,0,Luna0a,Sunnyyy! Stay focuseeed!
+92,0,Luna0a,I'd better stick close to her...
+93,0,Luna0a,I'll back you up. You'd better not miss/ Sunny!
+94,0,Luna0a,You won't be calling me a klutz this time!
+95,0,Luna0a,Let's go/ Sunny!
+96,0,Luna0a,I'm with you/ Sunny!
+97,0,Luna0a,Don't forget about your power/ Sunny!
+98,0,Luna0a,Sunny/ let me help!
+99,0,Luna0a,Sunny's doing her best! I won't let her down!
+100,0,Luna0a,Sunny! Let's show them what we fairies can really do!
+101,0,Luna0a,Sunny! I'll use my best danmaku!
+102,0,Luna0a,Uhm/ Star/ that doesn't look good—\n　...Aaand/ she's gone.
+103,0,Luna0a,I should be fine if I go after Star/ right?
+104,0,Luna0a,Star/ let me help!
+105,0,Luna0a,Staaar! You can't just stand there!
+106,0,Luna0a,Star? Why aren't you moving away from—\n　Wait/ it's coming THIS way?!
+107,0,Luna0a,Let's do this/ Star!
+108,0,Luna0a,You'd better fight too/ Star! Don't leave me hanging!
+109,0,Luna0a,Don't forget about your power/ Star!
+110,0,Luna0a,Moon and stars go pretty well together/ don't they?
+111,0,Luna0a,Please pick up my slack if I miss/ okay?
+112,0,Luna0a,I'm with you/ Star!
+113,0,Luna0a,Star/ let me help!
+114,0,Luna0a,Star's doing her best! I won't let her down!
+115,0,Luna0a,Star! Let's show them what we fairies can really do!
+116,0,Luna0a,Star! I'll use my best danmaku!
+117,0,Luna0a,Alice! Are you okay?
+118,0,Luna0a,You know... I think we got this backwards.
+119,0,Luna0a,Next time/ get Dai to protect you.
+120,0,Luna2a,This is straight-up fairy abuse!
+121,0,Luna1a,Let's combine our lunar powers!
+122,0,Luna1a,Let me assist you/ Lunasa!
+123,0,Luna1a,Focus/ Luna. Don't mute the Prismrivers' sound.
+124,0,Luna1a,She sure is cheerful/ but I won't be out-cheered!
+125,0,Luna1a,Let me assist you/ Merlin!
+126,0,Luna1a,Focus/ Luna. Don't mute the Prismrivers' sound.
+127,0,Luna1a,I'd better not mess up the performance of the main musician...
+128,0,Luna1a,Let me assist you/ Lyrica!
+129,0,Luna1a,Focus/ Luna. Don't mute the Prismrivers' sound.
+130,0,Luna2a,Oww...
+131,0,Luna2a,Ugh. I knew I'd end up getting hurt.
+132,0,Luna2a,Eeek!
+133,0,Luna2a,Did they sense my presence/ even without sound...?!
+134,0,Luna2a,Why is this happening?!
+135,0,Luna2a,But I muted all sound! How did you find me?!
+136,0,Luna2a,Yeah/ I figured you'd go for me...
+137,0,Luna2a,Owww! That hurt!
+138,0,Luna0a,Good thing I brought my helmet...
+139,0,Luna0a,D-Did it miss?
+140,0,Luna0a,I dodged now/ but who knows if I'll be so lucky next time...
+141,0,Luna0a,That was way too close for comfort.
+142,0,Luna0a,Hey/ watch it!
+143,0,Luna2a,There's no way I'm holding out for long...
+144,0,Luna0a,Eeek!\n　...Wait/ that didn't hurt.
+145,0,Luna0a,I'll mute all sound and attack before they're ready!
+146,0,Luna2a,Awww... I knew I couldn't do it...
+147,0,Luna2a,That's about what I expected...
+148,0,Luna2a,R-Run awaaay!
+149,0,Luna1a,This is all your fault/ Sunny!
+150,0,Luna0a,Those dangerous women are too tall.\n　We're the perfect size.
+151,0,Luna0a,I won't back down from a fight/ Dai!
+152,0,Luna0a,Those dangerous women are too tall.\n　We're the perfect size.
+153,0,Luna0a,I'm ready to fight/ Rumia!
+154,0,Luna0a,Those dangerous women are too tall.\n　We're the perfect size.
+155,0,Luna0a,We'll see who's the strongest fairy/ Cirno!
+156,0,Luna0a,How do you even fight a god?\n　Is this going to do anything?
+157,0,Luna0a,We need to keep fighting.\n　For Utsuho's sake.
+158,0,Luna0a,Can we make this quick? I want to see the bazaar.
+159,0,Luna0a,I guess this is the game you want to play today.
+160,0,Luna0a,Can we make this quick? I want to see the bazaar.
+161,0,Luna0a,I guess this is the game you want to play today.

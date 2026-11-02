@@ -1,0 +1,208 @@
+ID,LineID,face,dialog
+0,0,Murasa0a,I'll show you the power of the Palanquin Ship!
+1,0,Murasa0a,Beginning our attack run. Full speed ahead!
+1,1,Kosuzu0a,Uh oh/ I've gotta hold on to something...
+2,0,Ichirin0a,Enemy ahead!
+3,0,Akyu0a,We'll soon make contact with the enemy.
+3,1,Murasa0a,Roger that/ begin the attack.
+4,0,Unzan0a,......!
+4,1,Murasa0a,Unzan/ you're in the way/ I can't see!
+5,0,Kosuzu0a,Wait/ are we really going to fight?!
+5,1,Murasa0a,Course we are!
+6,0,Ichirin0a,Please make sure not to harm anyone near the enemy.
+6,1,Murasa0a,I know/ I know!
+7,0,Kosuzu0a,Looks like they're still near us!
+7,1,Ichirin0a,Well then/ we've got to attack back!
+8,0,Murasa0a,The wind's back in our sails/ launch the counterattack!
+9,0,Murasa0a,Do unto others what they did to you/ that's the sailor's way!
+10,0,Ichirin0a,They don't know when to quit/ here's our chance!
+11,0,Unzan0a,......!
+11,1,Ichirin0a,Don't let those scoundrels get away!/\n ...is what Unzan just said.
+12,0,Akyu1a,Murasa/ there's not a soul around them!
+12,1,Murasa0a,Then let's start the counterattack! Bring the ship about!
+13,0,Ichirin0a,Murasa/ don't let them get away!
+13,1,Murasa0a,That's the plan!
+14,0,Ichirin0a,We can't let this chance slip away!
+15,0,Murasa2b,We can weather storms even rougher than this!
+16,0,Murasa0a,As long as this ship can still sail/ we fight on!
+17,0,Akyu2a,We're losing propulsion!\n We're going to―
+17,1,Murasa0a,No/ we can still fight!
+18,0,Murasa2b,Now you've done it! I'll show you!
+18,1,Ichirin0a,Murasa/ calm down!
+19,0,Murasa1a,If we spread our fire/ some of them are bound to hit!
+20,0,Murasa1a,This will be plenty to keep the enemy in check!
+21,0,Ichirin1a,All guns/ remember not to waste your shots!
+22,0,Ichirin1a,Fire a spread of danmaku!
+23,0,Murasa1a,Give 'em both barrels! Cancel that/ give 'em all the barrels!
+24,0,Murasa1a,Auxiliary Spirit Cannons/ fire!
+25,0,Murasa1a,Attack them with our Spirit Cannons!
+26,0,Murasa1a,Auxiliary Spirit Cannons/ make all guns ready!
+27,0,Murasa1a,Give them a full broadside!
+28,0,Murasa1a,If you keep dawdling around/ you're gonna get hit!
+29,0,Murasa1a,I'll just let this take its natural course!
+30,0,Murasa1a,The target is ahead! Fire!
+31,0,Ichirin1a,Murasa/ please don't hit any of our allies!
+32,0,Ichirin1a,The main battery is ready!
+33,0,Murasa1a,Bring the buddhist reactor to full power!
+33,1,Ichirin1a,Everything's ready/ Murasa!
+33,2,Murasa1a,Sink down to the bottom!
+34,0,Murasa1a,Main battery/ prepare to fire!
+34,1,Ichirin1a,We have a good line of fire!
+34,2,Murasa1a,Fire!!!
+35,0,Ichirin1a,Concentrating all the ship's spiritual energy into the main battery!
+35,1,Murasa1a,Adjusting targeting... ready!
+35,2,Murasa1a,Hit them!
+36,0,Murasa1a,Any ship that gets in our way will be sunk!
+36,1,Murasa1a,Eat this!
+36,2,Ichirin1a,Continue to concentrate your fire!
+37,0,Murasa1a,Power output rising/ we're ascending!
+37,1,Murasa1a,Sinking Anchor!
+37,2,Ichirin1a,We can hit them right now! All guns/ fire at will!
+38,0,Ichirin1a,We'll attack from above!
+38,1,Murasa1a,Fire the anchor!
+38,2,Murasa1a,We've hooked them! Fire!
+39,0,Ichirin1a,We'll secure the ship's hull and then bombard them.
+39,1,Murasa1a,You won't dodge this anchor!
+39,2,Murasa1a,SINK!
+40,0,Murasa0a,Get the crew back on their feet!
+41,0,Murasa0a,We've got to bring the ship about/ and quick.
+42,0,Murasa2b,Even my Palanquin Ship can't counterattack...
+43,0,Murasa2b,Kosuzu! What's the range to the enemy?!
+43,1,Kosuzu0a,... Looks far/ Skipper!
+44,0,Murasa2b,Do they have higher performance than we thought?
+44,1,Akyu2a,Targeting systems show nothing in range.\n We've been had.
+45,0,Murasa0a,Getting revenge is a phantom's specialty!
+46,0,Kosuzu0a,That was cool!
+47,0,Ichirin0a,The Palanquin Ship will take over from here!
+48,0,Akyu0a,We've come to provide assistance.\n Please give us some room!
+49,0,Murasa0a,Gangway/ gangway! Any one idling around is liable to get hit!
+50,0,Unzan0a,.......
+50,1,Ichirin0a,Please/ listen to Unzan and move out of the way!
+51,0,Ichirin0a,We'll wedge ourselves between our allies and the enemy!
+52,0,Murasa0a,Screen them with the Palanquin Ship!
+53,0,Murasa0a,Whoa/ watch out!\n I thought we were gonna hit them...
+53,1,Ichirin0a,We've come to provide back-up.\n Please be careful!
+54,0,Murasa2b,... I can't let your feelings go to waste!
+55,0,Murasa0a,Shou/ you're not fighting alone out there!
+56,0,Ichirin0a,Shou/ don't stretch yourself too thin.
+57,0,Ichirin0a,You're too far ahead/ Shou!
+58,0,Murasa0a,Shou/ this is no time for idling!
+59,0,Murasa2b,Nazrin/ even you'd do that for the ship?
+60,0,Ichirin0a,Nazrin/ good job finding us a route!
+61,0,Murasa0a,Nazrin/ leave the rest to us!
+62,0,Ichirin0a,Nazrin/ don't push yourself too hard!
+63,0,Murasa0a,Oops/ Nazrin's so small that we almost ran her over.
+64,0,Ichirin0a,Don't overdo things/ Nue!
+65,0,Murasa0a,Nue/ thanks!
+66,0,Murasa0a,I won't let you hurt Nue!
+67,0,Ichirin0a,Nue/ watch out!
+68,0,Akyu1a,We'll fight on in Keine's stead!
+69,0,Ichirin0a,Keine gave us a good chance!
+70,0,Akyu0a,Keine made a window of opportunity for us!
+71,0,Akyu0a,It's actually quite novel to get to protect you/ Keine.
+72,0,Akyu1a,We should come to Keine's aid!
+72,1,Murasa0a,I know already/ I know.\n We got there in time/ didn't we?
+73,0,Ichirin1a,We won't flinch/ no matter what you throw at us!
+73,1,Murasa1a,Yeah/ I hope you've learned your lesson!
+74,0,Murasa1a,No matter how stormy the seas we will prevail!
+74,1,Akyu1a,P- please/ don't steer so wildly...
+75,0,Murasa1a,No matter how stormy the seas we will prevail!
+75,1,Kosuzu0a,Yeah! You can do it/ Murasa!
+76,0,Murasa1a,You'll never sink our hopes!
+76,1,Ichirin0a,Absolutely. This ship sails for Hijiri!
+77,0,Akyu0a,Thank goodness...\n That attack's exactly the same as one in my knowledge.
+77,1,Murasa0a,Thanks/ Akyupedia!
+78,0,Akyu1a,Murasa/ dodge upwards!
+78,1,Ichirin0a,Akyu/ you're real sharp sometimes.
+79,0,Akyu1a,Murasa/ they're coming in from starboard!
+79,1,Murasa0a,Roger that!
+80,0,Akyu1a,Murasa/ port side!
+80,1,Murasa0a,As long as I know where they're attacking from/ I'm golden!
+81,0,Kosuzu0a,Murasa/ they're above us!
+81,1,Murasa0a,Yeah/ I got it!
+82,0,Kosuzu0a,Murasa/ they're coming in from starboard!
+82,1,Ichirin0a,Thanks/ Kosuzu.
+83,0,Kosuzu0a,Murasa/ dodge to the left!
+83,1,Murasa0a,Roger that!
+84,0,Ichirin0a,Confirming whether we actually took any damage...
+85,0,Murasa0a,Huh/ did something just hit us right now?
+85,1,Ichirin0a,Who knows?\n If something did/ it was barely noticeable.
+86,0,Akyu0a,This is a pleasant voyage/ Skipper.
+86,1,Murasa0a,Glad to hear it/ just enjoy the scenery.
+87,0,Murasa0a,That's my Palanquin Ship for you! Absolutely dauntless.
+87,1,Ichirin0a,Don't be overconfident. Let's keep it careful.
+88,0,Murasa2b,How dare you scratch my Palanquin Ship with such a boring―
+88,1,Ichirin0a,Settle down/ settle down.
+89,0,Unzan0a,......!
+89,1,Ichirin0a,In such perilous times/ we must all band together!\n ...is what Unzan just said.
+90,0,Akyu2a,There's a problem with hull integrity... Unzan/ please!
+90,1,Unzan0a,......!
+91,0,Murasa2b,This captain is prepared to go down with her ship...
+91,1,Ichirin2a,Don't jinx us!
+92,0,Ichirin2a,At this rate/ even the Palanquin Ship is going to―
+93,0,Murasa2b,I can't show my face to Hijiri after this...
+94,0,Akyu2a,We're losing power from the buddhist reactor!\n At this rate/ we're going to―
+95,0,Ichirin2a,Close all the bulkheads! Protect the main shrine!
+96,0,Murasa2b,I knew it/ the rudder's just not good enough to keep up!
+96,1,Ichirin2a,Less excuses/ more preparing for the next one/ please.
+97,0,Ichirin2a,Hey!\n We can't take manymore hits like that!
+97,1,Murasa2b,You don't need to tell me/ I'm trying!
+98,0,Akyu2a,Aah!\n Can't we dodge around like everyone else?
+98,1,Murasa2b,We're a pretty sizeable vessel!
+99,0,Unzan0a,.......
+99,1,Akyu0a,I think he's trying to say...\n Be more careful!". Maybe.
+100,0,Unzan0a,.......
+100,1,Murasa2b,Don't look at me like that/ I'm gonna dodge the next one!
+101,0,Murasa2b,All hands/ brace for impact!
+101,1,Ichirin2a,I've already been bracing for a while now!
+102,0,Ichirin2a,Akyu/ damage report!
+102,1,Akyu1a,We've taken a hit on the number three hatch!
+103,0,Ichirin2a,Unzan/ when the time comes/ help keep us in the air!
+103,1,Unzan0a,......!
+104,0,Murasa2b,The Palanquin Ship's not gonna sink like this!
+105,0,Ichirin2a,If we're gonna get hit/ then make sure we take it on the thickest part of the armour belt!
+105,1,Murasa2b,Easier said than done/ Ichirin...
+106,0,Murasa0a,I guess I just don't have enough training...
+106,1,Ichirin0a,Even the sutras have a few misspellings.
+107,0,Kosuzu0a,I- is this normal?!
+108,0,Murasa2b,This is nothing compared to when the sky's dark and the sea's roaring!
+109,0,Akyu2a,Perhaps our battleplan was overly optimistic.
+110,0,Unzan0a,.......
+110,1,Ichirin0a,You did it/ Skipper/ good show!\n ...is what Unzan just said.
+111,0,Ichirin0a,Hah/ you can't even hit a target this big?
+111,1,Murasa0a,It's because we have such a skilled helmsman.
+112,0,Murasa0a,We'll sail right through this sea of danmaku!
+113,0,Murasa0a,We dodged it... wait/ no/ we grazed it?!
+114,0,Kosuzu0a,Wh- whoaaa!
+114,1,Akyu0a,Kosuzu/ keep your head down!
+115,0,Murasa0a,We had to go to flank speed/ but we shook them off!
+116,0,Murasa0a,We're coming about hard/ hold on to something!
+117,0,Akyu1a,I have a contact incoming on radar/ please avoid it!
+118,0,Akyu0a,Thank goodness...\n That attack's exactly the same as one in my knowledge.
+118,1,Murasa0a,Thanks/ Akyupedia!
+119,0,Akyu1a,Murasa/ dodge upwards!
+119,1,Ichirin0a,Akyu/ you're real sharp sometimes.
+120,0,Akyu1a,Murasa/ they're coming in from starboard!
+120,1,Murasa0a,Roger that!
+121,0,Akyu1a,Murasa/ port side!
+121,1,Murasa0a,As long as I know where they're attacking from/ I'm golden!
+122,0,Kosuzu0a,Wow!\n So this is what a 'barrier' is!
+122,1,Murasa0a,Makes for smooth sailing/ huh?
+123,0,Akyu0a,Barrier functioning normally...\n No damage reported!
+123,1,Murasa0a,Makes for smooth sailing/ huh?
+124,0,Murasa0a,We were protected by the power of Hijiri's Buddhism!
+124,1,Ichirin0a,Sure/ let's go with that.
+125,0,Murasa0a,I'll parry it... with my ship!
+125,1,Ichirin0a,That's a new one.
+126,0,Ichirin0a,Welcome aboard!
+126,1,Murasa0a,We're gonna give you a REAL warm welcome!
+127,0,Murasa0a,Seize the initiative―This I command!
+127,1,Ichirin0a,Don't get too carried away.
+128,0,Murasa2a,I'm sorry/ Hijiri...\n I wasn't able to protect your place to come home to...
+129,0,Murasa2a,I can't show my face to Hijiri after this...
+130,0,Murasa2a,Our ride for Hijiri... sank...
+131,0,Akyu1a,Murasa/ Utsuho is―
+131,1,Murasa0a,I know/ I know!\n I've got to suppress Yatagarasu's power!
+132,0,Murasa0a,Whatever it takes/ I need more power!
+132,1,Ichirin0a,Sure/ no problem.\n Let's show her how much we care in just one shot!
+133,0,Akyu2a,Aaaaaaaah!

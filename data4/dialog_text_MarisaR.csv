@@ -1,0 +1,879 @@
+ID,LineID,face,dialog
+0,0,Marisa0a,My magic's locked and loaded!
+1,0,Marisa0a,Move it or lose it.
+2,0,Marisa0a,Gun and run! Er/ wait...\n Run and gun? Yeah/ that!
+3,0,Marisa0a,Payback time!
+4,0,Marisa0a,The nail that sticks up gets hammered down!
+5,0,Marisa0a,This is self-defense!
+6,0,Marisa0a,I'll deal with you in a jiffy!
+7,0,Marisa0a,Did you really think I'd just let you go?
+8,0,Marisa1a,You forgot your change/ pal!
+9,0,Marisa0a,We'll settle this/ right here!
+10,0,Marisa0a,You should leave.
+11,0,Marisa0a,I'm a busy girl/ so shove off!
+12,0,Marisa0a,Doesn't matter who you are/ you're getting blasted all the same!
+13,0,Marisa0a,You'll be feeling this one in the morning!
+14,0,Marisa0a,I'm takin' you down!
+15,0,Marisa0a,It's time to put up/ or shut up!
+16,0,Marisa0a,This tension's got me all fired up!
+17,0,Marisa1a,Desperate times are where I shine!
+18,0,Marisa1a,I'm done holding back!
+19,0,Marisa0a,Sorry pal/ but you're going down!
+20,0,Marisa0a,I'll take you down in one shot!
+21,0,Marisa1a,You're about to see the power of humanity!
+22,0,Marisa0a,Sorry/ but you're done for!
+22,1,Marisa0a,There!!
+23,0,Marisa0a,Homing laser attack!
+23,1,Marisa1a,There!
+24,0,Marisa0a,Stream laser...
+24,1,Marisa1a,Now!
+25,0,Marisa0a,Right...
+25,1,Marisa1a,Right... there!
+26,0,Marisa0a,Gotcha in my sights...
+26,1,Marisa1a,Gotcha in my sights... Fire!
+27,0,Marisa0a,I can do this/ too!
+27,1,Marisa1a,Crafted these badboys by hand...
+27,2,Marisa1a,Enjoy!
+28,0,Marisa0a,This magic goes boom!
+28,1,Marisa1a,One here/ and one...
+28,2,Marisa1a,There!
+29,0,Marisa0a,Death from above!
+29,1,Marisa1a,Napalm/ coming in!
+29,2,Marisa1a,There!
+30,0,Marisa1a,Watch out folks/ this is dangerous stuff!
+30,1,Marisa1a,Here ya go!
+30,2,Marisa1a,Here ya go!
+31,0,Marisa1a,A lil surprise napalm!
+31,1,Marisa1a,Try...
+31,2,Marisa1a,Try... this on for size!
+32,0,Marisa0a,It's a Marisa sweep!
+32,1,Marisa0a,Non-Directional...
+32,2,Marisa1a,Laseeer!
+33,0,Marisa0a,This spell's hella convenient!
+33,1,Marisa1a,Non-Directional Laser!
+33,2,Marisa1a,Non-Directional Laser!
+34,0,Marisa0a,See if you can dodge THIS!
+34,1,Marisa0a,Firing in every direction...
+34,2,Marisa1a,Firing in every direction...\n　Go!
+35,0,Marisa0a,Omni-Directional Laser!
+35,1,Marisa0a,Here we...
+35,2,Marisa1a,Here we... GO!
+36,0,Marisa0a,I could use a hand here/ Alice.
+36,1,Alice0a,In that case/ you can be the feet.
+36,2,Marisa0a,You wanna dive in/ huh...
+36,3,Marisa1a,You wanna dive in/ huh... no prob!
+36,4,Alice1a,I'll pin them down/ fly closer!
+36,5,Alice1a,Now/ finish it!
+36,6,Marisa1a,Leave it to me!
+37,0,Marisa0a,Join up/ Alice!
+37,1,Marisa1a,Head's up/ this one's gonna be FAST.
+37,2,Alice0a,Close and personal/ then? Got it.
+37,3,Marisa1a,Hop on!
+37,4,Alice1a,Pin them down/ dolls!
+37,5,Marisa1a,Closing the distance...
+37,6,Marisa1a,Now!
+38,0,Marisa0a,Time for a little joint action!
+38,1,Marisa1a,Alice/ we're doing this in one pass!
+38,2,Alice0a,Pass? What do you mean by...
+38,3,Alice1a,Kyah?!
+38,4,Alice1a,Goodness/ as brash as ever...
+38,5,Marisa1a,Sure/ but it's working/ right?
+38,6,Marisa1a,Now/ take this!
+39,0,Marisa0a,At this range/ we should be able to pull it off.
+39,1,Marisa0a,Reimu/ how about we finish 'em off in one go?
+39,2,Reimu1a,Sure. Just try not to slow me down.
+39,3,Marisa1a,Get in there/ Reimu!
+39,4,Reimu1a,Already on it!
+39,5,Marisa1a,Eat this!
+39,6,Reimu1a,One more!
+39,7,Marisa1a,And this one's for good measure!
+39,8,Marisa0a,That went really well/ huh?
+39,9,Reimu0a,...Annoyingly so.
+40,0,Marisa0a,A red-and-white shrine maiden and a black-and-white magician...
+40,1,Marisa0a,So how about Trichromatic Lotus Butterfly?
+40,2,Reimu1a,Uh/ go ahead? I couldn't care less.
+40,3,Marisa1a,I'm mainly naming it after you/ y'know. You could stand to be a LITTLE grateful.
+40,4,Reimu1a,Yeah/ sure/ whatever. I'll leave this part to you.
+40,5,Marisa1a,Tch/ why am I the only one putting effort into this?
+40,6,Reimu0a,If you insist...
+40,7,Marisa0a,Wanna finish them off together?
+40,8,Marisa0a,I really am the only one giving this my all.
+40,9,Reimu0a,That's kind of your thing/ isn't it?
+41,0,Reimu0a,Oh/ perfect timing/ Marisa.
+41,1,Reimu0a,I'll set it up. Give me a hand here.
+41,2,Marisa1a,And help you? Who do you think I am?
+41,3,Marisa1a,I'd rather finish 'em off myself!
+41,4,Reimu1a,Too bad for you that I was faster.
+41,5,Marisa1a,I got in way more shots!
+41,6,Reimu1a,Then allow me to finish them off!
+41,7,Marisa0a,Oh no you don't!
+41,8,Marisa0a,And the winner is...!
+41,9,Reimu0a,...Let's just call it a draw.
+42,0,Reimu1a,We'll settle this in one pass.
+42,1,Reimu1a,Marisa/ try to keep up with me.
+42,2,Marisa1a,How about YOU keep up with ME!
+42,3,Marisa1a,I'm going in!
+42,4,Reimu1a,An opening!
+42,5,Marisa1a,Not letting you off just yet!
+42,6,Reimu1a,And just to be sure...
+42,7,Marisa1a,Spellcard!
+42,8,Marisa0a,This is our...
+42,9,Reimu0a,...Poorly coordinated combo attack.
+43,0,Marisa0a,I'll show you what my magicannon can do!
+43,1,Marisa1a,Final Spark...
+43,2,Marisa1a,FIIIIIRE!!
+43,3,Marisa1a,OOOOOH!!
+43,4,Marisa1a,MORE POWEEER!!
+44,0,Marisa0a,I'll show you what my magicannon can do!
+44,1,Marisa1a,Final Spark...
+44,2,Marisa1a,FIIIIIRE!!
+44,3,Marisa1a,OOOOOH!!
+44,4,Marisa1a,MORE POWEEER!!
+45,0,Marisa0a,Mini-hakkero/ full power!
+45,1,Marisa1a,Magicannon!
+45,2,Marisa1a,FINAL SPAAAAAARK!!
+45,3,Marisa1a,OOOOOH!!
+45,4,Marisa1a,TRANSFORM INTO LIIIGHT!
+46,0,Marisa0a,I'll finish you off!
+46,1,Marisa1a,Magicannon!
+46,2,Marisa1a,FINAL SPAAAAAARK!!
+46,3,Marisa1a,OOOOOH!!
+46,4,Marisa1a,DISAPEAAAR!
+47,0,Marisa1a,This is what my magic's all about!
+47,1,Marisa1a,Mini-hakkero/ let's rock!
+47,2,Marisa1a,Like the shooting stars I saw that night...
+47,3,Marisa1a,Burning brightly/ for a single moment!
+47,4,Marisa1a,Blazing Star!
+47,5,Marisa1a,HAAAAA!
+47,6,Marisa1a,THAT is my magic!
+48,0,Marisa1a,I'll serve you up something special!
+48,1,Marisa1a,Answer my call/ mini-hakkero!
+48,2,Marisa1a,Magic born from the stars I admired...
+48,3,Marisa1a,Like a shooting star...
+48,4,Marisa1a,Like a shooting star... Shine!
+48,5,Marisa1a,HAAAAA!
+48,6,Marisa1a,THAT is my magic!
+49,0,Marisa1a,Mini-hakkero/ it's star magic time!
+49,1,Marisa1a,Full throttle!
+49,2,Marisa1a,Blink/ and you'll miss it!
+49,3,Marisa1a,Fly through 'em...
+49,4,Marisa1a,Blazing Star!
+49,5,Marisa1a,HAAAAA!
+49,6,Marisa1a,That's the shooting star I saw!
+50,0,Marisa1a,Alright/ let's do this together!
+50,1,Reimu1a,Marisa/ follow my lead!
+50,2,Marisa1a,You stole my line/ Reimu!
+50,3,Reimu1a,Fine/ then it's a race!
+50,4,Reimu1a,I'm in the lead!
+50,5,Marisa0a,But I've got way more power!
+50,6,Reimu1a,You're not even close!
+50,7,Marisa1a,Try this on for size!
+50,8,Marisa1a,Try this on for size!
+50,9,Reimu1a,Outta my way!
+50,10,Reimu1a,Sky-Conquering... Wind God Kick!
+50,11,Reimu1a,And another one!
+50,12,Reimu1a,Omnidirectional Demon-Binding Circle!
+50,13,Marisa1a,Ball's in my court!
+50,14,Marisa1a,Orreries Sun!
+50,15,Marisa1a,And now/ Orreries...
+50,16,Marisa1a,UNIVEEEEERSE!!!
+50,17,Marisa0a,You're up/ Reimu!
+50,18,Reimu1a,Back at you/ Marisa!
+50,19,Reimu1a,Back at you/ Marisa!
+50,20,Reimu5b,My ultimate technique!
+50,21,Marisa0a,Mini-hakkero/ full throttle!
+50,22,Reimu5b,Natural Fantasy!
+50,23,Marisa1a,BLAZING STAR!
+50,24,Reimu1a,Spirit Sign!
+50,25,Marisa1a,Love Sign!
+50,26,Reimu1a,Fantasy...!
+50,27,Marisa1a,Master...
+50,28,Marisa1a,SPAAAAARK!!
+50,29,Reimu1a,Seal!
+50,30,Reimu1a,This is our attack...
+50,31,Marisa1a,With all of fantasy on the line!
+51,0,Marisa1a,You're getting a full-course meal of Spellcards!
+51,1,Reimu1a,Reimu Hakurei!
+51,2,Marisa1a,And Marisa Kirisame!
+51,3,Reimu1a,Today/ you face BOTH of us!
+51,4,Reimu1a,Seal their movements!
+51,5,Marisa1a,Hell yeah/ pincer attack!
+51,6,Reimu1a,There!!
+51,7,Marisa1a,My turn!
+51,8,Marisa1a,My turn!
+51,9,Reimu1a,Now!
+51,10,Reimu1a,Sky-Conquering... Wind God Kick!
+51,11,Reimu1a,And another one!
+51,12,Reimu1a,Omnidirectional Demon-Binding Circle!
+51,13,Marisa1a,Perfect/ Reimu!
+51,14,Marisa1a,Orreries Sun!
+51,15,Marisa1a,Let's go/ Orreries...!
+51,16,Marisa1a,UNIVEEEEERSE!!!
+51,17,Marisa0a,This is it!
+51,18,Reimu1a,Don't need to tell me twice!
+51,19,Reimu1a,Don't need to tell me twice!
+51,20,Reimu5b,This is my ultimate technique!
+51,21,Marisa0a,C'mon/ mini-hakkero/ let's show 'em the stars!
+51,22,Reimu5b,Natural Fantasy!
+51,23,Marisa1a,BLAZING STAR!
+51,24,Reimu1a,Spirit Sign!
+51,25,Marisa1a,Love Sign!
+51,26,Reimu1a,Fantasy...!
+51,27,Marisa1a,Master...
+51,28,Marisa1a,SPAAAAARK!!
+51,29,Reimu1a,Seal!
+51,30,Reimu1a,This is our attack...
+51,31,Marisa1a,With all of fantasy on the line!
+52,0,Marisa1a,Let's give it to 'em!
+52,1,Reimu1a,I'm just gonna do my own thing/ Marisa!
+52,2,Marisa1a,Right back at ya/ Reimu!
+52,3,Reimu1a,Alright/ let's do this!
+52,4,Reimu1a,First come/ first served!
+52,5,Marisa0a,You're open!
+52,6,Reimu1a,There!!
+52,7,Marisa1a,My turn!
+52,8,Reimu1a,Keep up the pressure!
+52,9,Reimu1a,Now!
+52,10,Reimu1a,Sky-Conquering... Wind God Kick!
+52,11,Reimu1a,And another one!
+52,12,Reimu1a,Omnidirectional Demon-Binding Circle!
+52,13,Marisa1a,Perfect/ Reimu!
+52,14,Marisa1a,Orreries Sun!
+52,15,Marisa1a,Orreries...!
+52,16,Marisa1a,UNIVEEEEERSE!!!
+52,17,Marisa0a,You're up/ Reimu!
+52,18,Reimu1a,Back at you/ Marisa!
+52,19,Reimu1a,Back at you/ Marisa!
+52,20,Reimu5b,This is my ultimate technique!
+52,21,Marisa0a,Mini-hakkero/ full throttle!
+52,22,Reimu5b,Natural Fantasy!
+52,23,Marisa1a,BLAZING STAR!
+52,24,Reimu1a,Spirit Sign!
+52,25,Marisa1a,Love Sign!
+52,26,Reimu1a,Fantasy...!
+52,27,Marisa1a,Master...
+52,28,Marisa1a,SPAAAAARK!!
+52,29,Reimu1a,Seal!
+52,30,Reimu1a,This is our attack...
+52,31,Marisa1a,With all of fantasy on the line!
+53,0,Marisa0a,I'm not running/ just so you know.
+54,0,Marisa0a,Fighting's not my thing/ see?
+55,0,Marisa0a,Crap/ I gotta get out of here.
+56,0,Marisa0a,How come you get to attack/ and I don't?
+57,0,Marisa0a,The heck? Fighting like that's no fair!
+58,0,Marisa0a,I'll catch up with you soon enough!
+59,0,Marisa0a,I can't get a clear shot from here...
+60,0,Marisa0a,Wait/ where'd they go?
+61,0,Marisa1a,Don't worry/ I'll avenge you.
+62,0,Marisa0a,Having fun over there? Lemme in on that.
+63,0,Marisa0a,To the winner go the spoils!
+64,0,Marisa0a,I'll take the best part!
+65,0,Marisa0a,The leading lady has arrived!
+66,0,Marisa0a,You're not the only one here/ y'know.
+67,0,Marisa0a,Hey dummy/ quit playing with fire.
+68,0,Marisa0a,Not making this easy for me/ here.
+69,0,Marisa1a,Right then/ I'll take care of this!
+70,0,Marisa1a,No problemo.
+71,0,Marisa1a,I'll run support!
+72,0,Marisa1a,Let's do this together!
+73,0,Marisa0a,Since I'm here/ I might as well take a few notes...
+74,0,Marisa1a,Aight/ I'll check out your danmaku too.
+75,0,Marisa1a,I'll distract 'em!
+76,0,Marisa0a,Best not fall behind!
+77,0,Marisa0a,Let's make a show of this!
+78,0,Marisa0a,Take a good look at our danmaku!
+79,0,Marisa0a,Let's make a show of this!
+80,0,Marisa0a,Let's settle this/ here and now!
+81,0,Marisa0a,Just so you know/ I've brought back-up.
+82,0,Marisa2b,Crap/ I relied on Nitori a bit too much.
+83,0,Marisa0a,Nitori/ you missed a spot.
+84,0,Marisa0a,I'll give you a hand/ Nitori.
+85,0,Marisa0a,Kinda careless/ aren't you?
+86,0,Marisa0a,Yo Nitori/ quit spacing out.
+87,0,Marisa1a,Nitori/ I'll go in first!
+88,0,Marisa1a,Be careful with those explosives!
+89,0,Marisa1a,Nitori/ let's do this!
+90,0,Marisa1a,I'll get you an opening/ Nitori!
+91,0,Marisa1a,I'm not used to having Nitori behind me.
+92,0,Marisa0a,Follow me/ Nitori!
+93,0,Marisa0a,Let's make a show of this/ Nitori!
+94,0,Marisa0a,My magic/ and Nitori's weapons!
+95,0,Marisa0a,Let's make a show of this/ Nitori!
+96,0,Marisa0a,Let's finish 'em off/ Nitori!
+97,0,Marisa0a,I've got Nitori on my side!
+98,0,Marisa0a,You really should've just used a doll for that.
+99,0,Marisa0a,Thanks for making this so easy for me.
+100,0,Marisa0a,This one's mine/ Alice!
+101,0,Marisa0a,Quit playing with your dolls/ Alice.
+102,0,Marisa0a,Hey now/ this ain't like you at all.
+103,0,Marisa1a,If you're too busy doing math puzzles/\n I'll steal the prize!
+104,0,Marisa1a,Focus on your dolls/ and I'll make an opening!
+105,0,Marisa1a,This one/ right Alice?!
+106,0,Marisa1a,You just need me to cause a ruckus/ yeah?
+107,0,Marisa1a,Let me take the lead next time/ Alice.
+108,0,Marisa0a,Follow my lead/ Alice!
+109,0,Marisa0a,Danmaku's all about power/ Alice!
+110,0,Marisa0a,My magic/ and Alice's dolls!
+111,0,Marisa0a,Let's make a show of this/ Alice!
+112,0,Marisa0a,Let's settle this/ here and now!
+113,0,Marisa0a,I've got Alice on my side!
+114,0,Marisa2b,Can't say I'm happy you did that!
+115,0,Marisa0a,Your magic's not NEARLY as strong as mine!
+116,0,Marisa0a,This one's mine/ Patchouli!
+117,0,Marisa0a,You're a real pain in my neck.
+118,0,Marisa0a,Hey Patchouli/ try dodging next time.
+119,0,Marisa1a,If you chant your spells too slowly/\n I'll steal the prize!
+120,0,Marisa1a,You want me to open them up?\n Sure/ I'll give it go.
+121,0,Marisa1a,God/ I hate how slow we're moving.
+122,0,Marisa0a,I'll help/ but only cuz your magic's good reference material.
+123,0,Marisa1a,Hey Patchouli/ you sure you don't want me taking the lead?
+124,0,Marisa0a,Follow my lead/ Patchouli!
+125,0,Marisa0a,Let's make a show of this/ Patchouli!
+126,0,Marisa0a,Me and Patchouli's magic will finish this!
+127,0,Marisa0a,Let's make a show of this/ Patchouli!
+128,0,Marisa0a,I'll show you my firepower too/ Patchouli!
+129,0,Marisa0a,I've got Patchouli on my side!
+130,0,Marisa0a,So I've got Reimu protecting me now?\n I'm counting my lucky stars here.
+131,0,Marisa0a,You've lost your touch.
+132,0,Marisa0a,This one's mine/ Reimu!
+133,0,Marisa0a,Hey now/ this ain't like you at all.
+134,0,Marisa0a,You've lost your touch.
+135,0,Marisa1a,This one? Say no more.
+136,0,Marisa1a,If you're too relaxed/ that gold star will be mine!
+137,0,Marisa1a,Reimu/ I'll cause a distraction!
+138,0,Marisa1a,Good thing your senses are so sharp/ cuz I'm about to make a mess!
+139,0,Marisa1a,After this is my turn/ Reimu!
+140,0,Marisa0a,Follow my lead/ Reimu!
+141,0,Marisa0a,Let's make a show of this/ Reimu!
+142,0,Marisa0a,My magic/ and Reimu's barriers!
+143,0,Marisa0a,Don't even think of starting without me/ Reimu!
+144,0,Marisa0a,Let's finish 'em off/ Reimu!
+145,0,Marisa0a,Reimu and I together can't be beat!
+146,0,Marisa2b,Yuuka?!\n What the heck was that about...?
+147,0,Marisa0a,This one's mine/ Yuuka!
+148,0,Marisa0a,I've got you beat on raw power/ Yuuka!
+149,0,Marisa2b,At least pretend to try/ Yuuka!
+150,0,Marisa2b,Hey/ quit playing around so much!
+151,0,Marisa1a,You'd better not hit me/ Yuuka!
+152,0,Marisa1a,You snooze you lose/ Yuuka!
+153,0,Marisa1a,Finish 'em off for me/ Yuuka!
+154,0,Marisa0a,I wanna fight more/ so put me out front.
+155,0,Marisa0a,Didn't think I'd ever have to help you...
+156,0,Marisa0a,Yuuka/ I'm heading in first!
+157,0,Marisa0a,Let's make a show of this/ Yuuka!
+158,0,Marisa0a,My magic/ and Yuuka's danmaku!
+159,0,Marisa0a,I won't fall behind/ Yuuka!
+160,0,Marisa0a,I'll show you my firepower too/ Yuuka!
+161,0,Marisa0a,Seriously/ how'd WE get paired up...?
+162,0,Marisa2a,I'm still not sure I'm ready/ but I'll do my best for you/ Lady Mima...
+163,0,Marisa0a,Check out my magic/ Lady Mima!
+164,0,Marisa0a,Leave the rest to me/ Lady Mima!
+165,0,Marisa0a,Lettin' your guard down/ Lady Mima?
+166,0,Marisa0a,Lady Mima/ look out!
+167,0,Marisa0a,I wanna fight more!\n　So put me out in front/ please.
+168,0,Marisa1a,I'll head in first/ Lady Mima!
+169,0,Marisa1a,Countin' on ya/ Lady Mima.
+170,0,Marisa1a,Show me what your magic can do/ Lady Mima!
+171,0,Marisa0a,I'll take the lead/ Lady Mima!
+172,0,Marisa0a,Let's make a show of this/ Lady Mima!
+173,0,Marisa0a,Me and Lady Mima's magic will finish this!
+174,0,Marisa0a,Let's make a show of this/ Lady Mima!
+175,0,Marisa0a,I'll support Lady Mima's magic with my own!
+176,0,Marisa0a,I've got Lady Mima on my side!
+177,0,Marisa2a,Lyrica! That's not like you at all!
+178,0,Marisa0a,I'll add stars aplenty!
+179,0,Marisa0a,A bit of friendliness is in order!
+180,0,Marisa0a,Lyrica/ don't fixate so hard on your performance!
+181,0,Marisa0a,I can see why your sisters worry about you.
+182,0,Marisa1a,Just need me to make cause a ruckus/ yeah?
+183,0,Marisa1a,Show me what your sound can do!
+184,0,Marisa1a,Let's do this/ Lyrica!
+185,0,Marisa0a,Follow my lead/ Lyrica!
+186,0,Marisa0a,Let's make a show of this/ Lyrica!
+187,0,Marisa0a,My magic/ and Lyrica's music!
+188,0,Marisa0a,Let's make a show of this/ Lyrica!
+189,0,Marisa0a,Let's finish 'em off/ Lyrica!
+190,0,Marisa0a,Let's call this our bond of friendship/ Lyrica!
+191,0,Marisa1a,Can't say I enjoy having a fairy for a shield.
+192,0,Marisa0a,Well/ you're a youkai/ so I guess being a shield suits you.
+193,0,Marisa0a,I guess every teacher has her limits/ huh?
+194,0,Marisa1a,No way you're breaking my guard!
+195,0,Marisa1a,I'll bust right through your danmaku!
+196,0,Marisa1a,I can handle this much...!
+197,0,Marisa1a,Alright/ I've got the pattern down!
+198,0,Marisa1a,I can handle any danmaku you throw at me!
+199,0,Marisa1a,Now THIS is how you dodge danmaku!
+200,0,Marisa0a,Huh?
+201,0,Marisa0a,No big deal at all.
+202,0,Marisa0a,What/ that's it?
+203,0,Marisa0a,I don't even HAVE to dodge this...\n Thankfully.
+204,0,Marisa2a,I can't handle much more of this...
+205,0,Marisa2a,Any more of this and I'm toast...!
+206,0,Marisa2a,I'm losing the plot here!
+207,0,Marisa2a,This is a bad sign...
+208,0,Marisa2a,Things are NOT looking good for me...
+209,0,Marisa2a,Tch! That one got me.
+210,0,Marisa2a,You're not half-bad!
+211,0,Marisa2a,Bwuh!?
+212,0,Marisa2a,Coulda sworn I dodged that one...
+213,0,Marisa0a,I'll reduce the damage!
+214,0,Marisa0a,Whoa! That was almost really bad.
+215,0,Marisa0a,That could've gone worse.
+216,0,Marisa2a,Knock it off!
+217,0,Marisa2a,It's not over yet!
+218,0,Marisa0a,Seen that one before.
+219,0,Marisa0a,I see right through you!
+220,0,Marisa0a,C'mon/ you can try a little harder than that!
+221,0,Marisa0a,Well/ at least I made it through...
+222,0,Marisa0a,Grazing is the best part of danmaku fights!
+223,0,Marisa0a,Can't be too careful when you're dealing with danmaku...
+224,0,Marisa0a,So-so.
+225,0,Marisa0a,I love the sound of grazing.
+226,0,Marisa0a,What'd you expect?
+227,0,Marisa0a,Hah! Catch me if you can!
+228,0,Marisa0a,Sorry pal/ but dodging danmaku's practically my job.
+229,0,Marisa0a,See that?
+230,0,Marisa0a,Were you even trying to hit?
+231,0,Marisa0a,I felt a chill go down my spine/ there...
+232,0,Marisa0a,No WAY you're hitting me!
+233,0,Marisa0a,Au pas/ camarade...
+234,0,Marisa0a,Dodging's boring/ so how about this!
+235,0,Marisa0a,Nice try.
+236,0,Marisa0a,No chance!
+237,0,Marisa0a,You're as slow as the speed of sound!
+238,0,Marisa0a,I've seen your moves before.
+239,0,Marisa2a,Yeah/ I'm done. I give up.
+240,0,Marisa2a,I'm getting sloppy...
+241,0,Marisa0a,Welp/ that's it for me.\n I'm gonna go take a nap.
+242,0,Marisa0a,Sorry/ but I can't keep going.\n I'll leave the rest to you guys.
+243,0,Marisa2a,Damn/ of all the times to lose...
+244,0,Marisa2a,I'm getting sloppy...
+245,0,Marisa0a,Sorry/ but I can't keep going.\n I'll leave the rest to you guys.
+246,0,Marisa0a,It sucks/ but I'll take the L and grow from it!
+247,0,Marisa0a,Trust me/ I'll give you a real earful!
+248,0,Marisa0a,A shrine maiden who isn't Reimu/ huh...
+249,0,Marisa0a,My magic can handle a tengu!
+250,0,Marisa0a,All this over someone going outside?\n Pretty harsh...
+251,0,Marisa2a,That's a tengu for you...
+252,0,Marisa2a,I figured you for some lackey/\n but you're pretty good!
+253,0,Marisa0a,Tengu aren't anything special.
+254,0,Marisa0a,Whoa! You're a dangerous one...
+255,0,Marisa0a,Fine then/ I'll convince you by force!
+256,0,Marisa1a,My danmaku will open your eyes!
+257,0,Marisa0a,I don't even NEED to exploit your weaknesses!
+258,0,Marisa0a,Let's see who's got the flashier magic!
+259,0,Marisa2a,Dang/ she's serious!
+260,0,Marisa2a,Gah/ Alice is seriously pissed...
+261,0,Marisa0a,That the best you've got?
+262,0,Marisa0a,Seriously/ can you chill?
+263,0,Marisa0a,I'd say you're full of openings/ but that's underselling it.
+264,0,Marisa0a,What kinda thief steals junk like that?
+265,0,Marisa0a,You're a crafty one/ but that ends here.
+266,0,Marisa0a,Without your tricks/ you're pretty much defenseless/ huh?
+267,0,Marisa0a,You're pretty clever/ for a fairy!
+268,0,Marisa0a,You've got an interesting power...
+269,0,Marisa2a,A fairy of light/ huh?
+270,0,Marisa0a,You've got promise.\n Wanna be my apprentice?
+271,0,Marisa2a,Dang/ I must be rusty.
+272,0,Marisa2a,How the heck?!
+273,0,Marisa2a,You're no ordinary fairy!
+274,0,Marisa0a,She's better than she looks...
+275,0,Marisa0a,A fairy of light's not gonna catch me off guard.
+276,0,Marisa0a,That's about what I'd expected from a fairy.
+277,0,Marisa0a,Regretting your decisions yet?
+278,0,Marisa0a,Sure/ keep piling up those crimes.
+279,0,Marisa0a,Your aim could use some work.
+280,0,Marisa0a,Sure/ keep piling up those crimes.
+281,0,Marisa0a,I'll catch her in an instant!
+282,0,Marisa0a,Don't blame me if your uniform gets torn up!
+283,0,Marisa0a,It's my turn to surprise you!
+284,0,Marisa0a,Good thing I'm not an aichmophobe.
+285,0,Marisa0a,Fancy trick/ but I can handle it.
+286,0,Marisa0a,Whoa! You're a dangerous one...
+287,0,Marisa0a,So/ you're why it's so cold around here!
+288,0,Marisa0a,Move aside/ evil magician coming through!
+289,0,Marisa0a,Man/ dealing with fairies is such a pain.
+290,0,Marisa2a,By fairy standards/ she's strong.
+291,0,Marisa2a,I'm gonna catch a cold...\n Actually/ I guess it's not THAT cold.
+292,0,Marisa0a,Your aim could use some work.
+293,0,Marisa0a,Wow/ chilly.
+294,0,Marisa0a,The heck?\n I could dodge this without even moving.
+295,0,Marisa0a,I'm not gonna hold back just cuz you're Nitori's friend!
+296,0,Marisa0a,You're gonna tell me all about that weird shrine maiden!
+297,0,Marisa0a,If you think you can out run ME/ you've got a lot to learn!
+298,0,Marisa0a,You wanna go? Then let's do this...!
+299,0,Marisa1a,I'm gonna blow straight through that gate!
+300,0,Marisa0a,Think you can handle my magic with your bare hands?
+301,0,Marisa0a,How many times do we have to teach you this lesson?
+302,0,Marisa0a,You never learn/ huh?
+303,0,Marisa0a,I didn't know there was a magician like you here in Gensokyo.
+304,0,Marisa0a,Holy crap/ this is a lot of books.\n These all yours?
+305,0,Marisa0a,Wanna see my magic?\n I'll give you a front-row seat!
+306,0,Marisa2a,Uwah!\n That's what I get for staring/ huh?
+307,0,Marisa2a,Maybe I can hold her books ransom if this turns pear-shaped.
+308,0,Marisa2a,Tch/ that's some serious magic...
+309,0,Marisa1a,It doesn't matter how impressive your magic is if it doesn't hit!
+310,0,Marisa0a,Maybe I can hold her books ransom if this turns pear-shaped.
+311,0,Marisa0a,Whoa/ cool spell.\n I gotta take notes.
+312,0,Marisa0a,I felt a chill go down my spine/ there...
+313,0,Marisa0a,Maybe I can hold her books ransom if this turns pear-shaped.
+314,0,Marisa0a,Couldn't quite dodge that one...
+315,0,Marisa0a,You don't look very tough.\n Sure you wanna do this?
+316,0,Marisa0a,Get outta here!
+317,0,Marisa0a,The nail that sticks up gets hammered down!
+318,0,Marisa0a,Gun and run! Er/ wait...\n Run and gun? Yeah/ that!
+319,0,Marisa0a,Hope you're ready to get wrecked.
+320,0,Marisa1a,We don't have time to deal with the hired help!
+321,0,Marisa1a,You're on/ Yuuka!
+322,0,Marisa0a,Game on!
+323,0,Marisa0a,I'll show you what my magic can do!
+324,0,Marisa0a,You holding back?
+325,0,Marisa2a,Ugh/ I couldn't avoid it...!
+326,0,Marisa0a,You and your boss sure have a lot of spare time.
+327,0,Marisa0a,How many times do we have to teach you this lesson?
+328,0,Marisa0a,This time/ you're going down!
+329,0,Marisa1a,Today/ my magic slays a vampire!
+330,0,Marisa1a,With my new power/ I'll solve the incident!
+331,0,Marisa1a,I've got a chance here!\n I can hit her!
+332,0,Marisa2a,So this is a vampire's strength...\n It's even worse than I expected.
+333,0,Marisa2a,Gotta pull myself together here/ or I'll be the loser...!
+334,0,Marisa1a,I can't afford to be taking hits here!
+335,0,Marisa0a,Even vampires can't keep up with MY speed!
+336,0,Marisa0a,You don't know when to quit...
+337,0,Marisa0a,You/ at least/ seem completely different.
+338,0,Marisa0a,You thieves again...
+339,0,Marisa0a,Seems like you're having fun.
+340,0,Marisa0a,Long time no see.
+341,0,Marisa0a,Sneaking into someone's house like that...\n It's outrageous/ I tell ya.
+342,0,Marisa0a,Want me to pack your portion away for later?
+343,0,Marisa0a,Daiyousei's gone for 5 minutes and you immediately get up to trouble/ huh?
+344,0,Marisa1a,I'm not here for you/ so move it!
+345,0,Marisa1a,If you wanna talk/ then tell me about Flan.
+346,0,Marisa0a,She might be hard to beat myself.\n In that case...!
+347,0,Marisa1a,Flan!\n Listen to me/ dang it!
+348,0,Marisa1a,I'll do what I gotta to stop you!
+349,0,Marisa2a,Don't you recognize me?!
+350,0,Marisa2a,Come on Flan...
+351,0,Marisa2a,Any more of this and I'm toast...!
+352,0,Marisa0a,I'll get some afternoon exercise in.
+353,0,Marisa0a,Sure/ I'll play with you.
+354,0,Marisa0a,Get outta here!
+355,0,Marisa0a,Since they're gods/ maybe they know where the mountain's shrine is...?
+356,0,Marisa0a,Trust me/ this is gonna go the same as last time!
+357,0,Marisa0a,You're not leaving me many choices here/ Nitori...!
+358,0,Marisa0a,Sorry/ but we NEED to pass through here!
+359,0,Marisa2a,Ngh/ I can't afford to lose here!
+360,0,Marisa2a,Not bad/ Nitori.
+361,0,Marisa0a,If you're having doubts/ then back down!
+362,0,Marisa0a,Whoa/ she was seriously gunning for me...
+363,0,Marisa0a,How many times does this make it/ now?
+364,0,Marisa0a,You seem stronger than last time we fought.\n But hey/ I'm stronger too.
+365,0,Marisa0a,Tch/ this girl's tough...
+366,0,Marisa0a,A contest of speed? You're on!
+367,0,Marisa0a,You're fast... but I'll shoot you down!
+368,0,Marisa0a,It's about time we settled things...
+369,0,Marisa0a,Your faith shtick doesn't mean a lick to me.
+370,0,Marisa0a,Your whole faith shtick doesn't mean a lick to me.
+371,0,Marisa0a,Keep your proselytizing to yourself!
+372,0,Marisa0a,A danmaku festival/ huh?\n You know your stuff.
+373,0,Marisa0a,This one's got a real dangerous aura...
+374,0,Marisa0a,My magic can handle an oni!
+375,0,Marisa0a,When it comes to power/ I'll never lose!
+376,0,Marisa0a,I'll solve THIS incident too!
+377,0,Marisa0a,You're prolonging winter just cuz you like it?\n Talk about childish.
+378,0,Marisa0a,You're being pretty rash/ don't you think?
+379,0,Marisa0a,If you refuse to listen/ I'll MAKE you.
+380,0,Marisa0a,You're an odd one/ aint'cha?
+381,0,Marisa0a,Alright you underground youkai/\n show me what you got.
+382,0,Marisa0a,Alright you underground youkai/\n show me what you got.
+383,0,Marisa0a,I'm already here/ so I might as well have some fun.
+384,0,Marisa0a,I'mma catch ya!
+385,0,Marisa0a,You can't out-speed me!
+386,0,Marisa0a,My magic can handle a kitsune!
+387,0,Marisa0a,You can't out-speed me!
+388,0,Marisa0a,For being a swordsman/ you're not very sharp.
+389,0,Marisa0a,Let's duel/ Youmu!
+390,0,Marisa0a,I'll solve THIS incident too!
+391,0,Marisa0a,Even against a strange youkai like you/ \n my magic will prevail!
+392,0,Marisa0a,Take a good look at my magic!
+393,0,Marisa0a,Danmaku lets us fight on even ground.\n Right?
+394,0,Marisa0a,I don't like being a sideshow for Kanako's group/\n but oh well...
+395,0,Marisa0a,Is this really the time to be playing around?
+396,0,Marisa2a,I don't wanna get shot down on a lark!
+397,0,Marisa2a,This wouldn't happen if I had my hakkero!
+398,0,Marisa0a,Even without my hakkero/ I've still got my speed!
+399,0,Marisa0a,I'm already used to your danmaku!
+400,0,Marisa0a,Better not let your guard down/ or you're gonna have a bad time.
+401,0,Marisa0a,Alright/ I'll play along!
+402,0,Marisa2a,Heh/ not bad...!
+403,0,Marisa2a,Bwuh?!\n Shows me for letting my guard down...
+404,0,Marisa0a,Even without my hakkero/ I've still got my speed!
+405,0,Marisa0a,You gotta practice more.
+406,0,Marisa0a,I gotta make sure I don't embarrass myself...
+407,0,Marisa0a,Lady Mima's here/ so let's do this!
+408,0,Marisa0a,Lady Mima's watching!
+409,0,Marisa0a,Check this out/ Lady Mima!
+410,0,Marisa0a,I'm a busy girl/ so quit wasting my time!
+411,0,Marisa0a,Doesn't matter who you are/ you're getting blasted all the same!
+412,0,Marisa0a,You'll be feeling this one in the morning!
+413,0,Marisa2a,Damn it...!
+414,0,Marisa0a,You got stronger just by updating your gear?\n No fair!
+415,0,Marisa0a,It's like you've gotten even more superhuman...
+416,0,Marisa2a,Gah...!\n Lemme see that one after we're done!
+417,0,Marisa2a,Her danmaku's relentless...!
+418,0,Marisa0a,Looks like I'm faster!
+419,0,Marisa0a,You've gotten quicker/ but I still know all your tricks!
+420,0,Marisa1a,I'll catch you up on what ya missed.
+420,1,Marisa1a,Let's do this thing/ mini-hakkero!
+420,2,Marisa1a,The starry night I saw with you...
+420,3,Marisa1a,Has become my magic!
+420,4,Marisa1a,Blazing Star!
+420,5,Marisa1a,HAAAAA!
+420,6,Marisa1a,This time/ I win!
+421,0,Marisa0a,Dang it Keine/ why are you doing this?!
+422,0,Marisa0a,Sorry Keine/ but we're not slowing down!
+423,0,Marisa2a,Keine's serious...!
+424,0,Marisa2a,I'm a lot faster than last time you saw me!
+425,0,Reimu1a,We'll settle this in one pass.
+425,1,Reimu1a,Marisa/ try to keep up with me.
+425,2,Marisa1a,How about YOU keep up with ME!
+425,3,Marisa1a,I'm going in!
+425,4,Reimu1a,An opening!
+425,5,Marisa1a,Not letting you off just yet!
+425,6,Reimu1a,And just to be sure...
+425,7,Marisa1a,Spellcard!
+425,8,Marisa0a,We're taking back...
+425,9,Reimu0a,Our moon!
+426,0,Marisa0a,At this range/ we should be able to pull it off.
+426,1,Marisa0a,Reimu/ how about we finish 'em off in one go?
+426,2,Reimu1a,Sure. Just try not to slow me down.
+426,3,Marisa1a,Get in there/ Reimu!
+426,4,Reimu1a,Already on it!
+426,5,Marisa1a,Eat this!
+426,6,Reimu1a,One more!
+426,7,Marisa1a,And this one's for good measure!
+426,8,Marisa0a,We're taking back...
+426,9,Reimu0a,Our moon!
+427,0,Marisa0a,A red-and-white shrine maiden and a black-and-white magician...
+427,1,Marisa0a,So how about Trichromatic Lotus Butterfly?
+427,2,Reimu1a,Uh/ go ahead? I couldn't care less.
+427,3,Marisa1a,I'm mainly naming it after you/ y'know. You could stand to be a LITTLE grateful.
+427,4,Reimu1a,Yeah/ sure/ whatever. I'll leave this part to you.
+427,5,Marisa1a,Tch/ why am I the only one putting effort into this?
+427,6,Reimu0a,If you insist...
+427,7,Marisa0a,Wanna finish them off together?
+427,8,Marisa0a,We're taking back...
+427,9,Reimu0a,Our moon!
+428,0,Reimu0a,Oh/ perfect timing/ Marisa.
+428,1,Reimu0a,I'll set it up. Give me a hand here.
+428,2,Marisa1a,And help you? Who do you think I am?
+428,3,Marisa1a,I'd rather finish 'em off myself!
+428,4,Reimu1a,Too bad for you that I was faster.
+428,5,Marisa1a,I got in way more shots!
+428,6,Reimu1a,Then allow me to finish them off!
+428,7,Marisa0a,Oh no you don't!
+428,8,Marisa0a,We're taking back...
+428,9,Reimu0a,Our moon!
+429,0,Marisa1a,This is what my magic's all about!
+429,1,Marisa1a,Mini-hakkero/ let's rock!
+429,2,Marisa1a,Like the shooting stars I saw that night...
+429,3,Marisa1a,Burning brightly/ for a single moment!
+429,4,Marisa1a,Blazing Star!
+429,5,Marisa1a,HAAAAA!
+429,6,Marisa1a,This is MY treasure!
+430,0,Marisa1a,I'll serve you up something special!
+430,1,Marisa1a,Answer my call/ mini-hakkero!
+430,2,Marisa1a,Magic born from the stars I admired...
+430,3,Marisa1a,Like a shooting star...
+430,4,Marisa1a,Like a shooting star... Shine!
+430,5,Marisa1a,HAAAAA!
+430,6,Marisa1a,This is MY treasure!
+431,0,Marisa1a,Mini-hakkero/ it's star magic time!
+431,1,Marisa1a,Full throttle!
+431,2,Marisa1a,Blink/ and you'll miss it!
+431,3,Marisa1a,Fly through 'em...
+431,4,Marisa1a,Blazing Star!
+431,5,Marisa1a,HAAAAA!
+431,6,Marisa1a,This is MY treasure!
+432,0,Marisa1a,I don't care if you're the moon's leader...
+432,1,Marisa1a,My magic will deal with ya!
+432,2,Marisa1a,There's all sorts of stars you wouldn't see from up here...
+432,3,Marisa1a,Here's one of them!
+432,4,Marisa1a,Blazing Star!
+432,5,Marisa1a,HAAAAA!
+432,6,Marisa1a,THAT is how we do things!
+433,0,Marisa0a,Her firepower's insane...\n I'm a little jealous.
+434,0,Marisa0a,Output's not everything/ y'know?
+435,0,Marisa2a,So this is nuclear fusion...\n The power's unreal!
+436,0,Marisa2a,She's even stronger than me?!
+437,0,Marisa0a,You're strong/ but your aim needs work!
+438,0,Marisa0a,I like the sun. Big fan/ actually.\n But uh/ you're a little TOO bright.
+439,0,Marisa1a,This is what my magic's all about!
+439,1,Marisa1a,Mini-hakkero/ let's rock!
+439,2,Marisa1a,Like the shooting stars I saw that night...
+439,3,Marisa1a,Burning brightly/ for a single moment!
+439,4,Marisa1a,Blazing Star!
+439,5,Marisa1a,HAAAAA!
+439,6,Marisa1a,Now/ give up on conquering the surface!
+440,0,Marisa1a,I'll serve you up something special!
+440,1,Marisa1a,Answer my call/ mini-hakkero!
+440,2,Marisa1a,Magic born from the stars I admired...
+440,3,Marisa1a,Like a shooting star...
+440,4,Marisa1a,Like a shooting star... Shine!
+440,5,Marisa1a,HAAAAA!
+440,6,Marisa1a,Now/ give up on conquering the surface!
+441,0,Marisa1a,Mini-hakkero/ it's star magic time!
+441,1,Marisa1a,Full throttle!
+441,2,Marisa1a,Blink/ and you'll miss it!
+441,3,Marisa1a,Fly through 'em...
+441,4,Marisa1a,Blazing Star!
+441,5,Marisa1a,HAAAAA!
+441,6,Marisa1a,Now/ give up on conquering the surface!
+442,0,Marisa0a,Her firepower's insane/ but...\n I can't say I'm jealous!
+443,0,Marisa0a,Sorry Utsuho/ but you'll just have to hold on!
+444,0,Marisa2a,Not like this...!
+445,0,Marisa2a,This kind of firepower just shouldn't exist...!
+446,0,Marisa2a,Guess it's hard to see a star with all this sunlight.
+447,0,Marisa0a,I'm not gonna lose to someone going on a rampage!
+448,0,Marisa1a,This is what my magic's all about!
+448,1,Marisa1a,Mini-hakkero/ let's rock!
+448,2,Marisa1a,Like the shooting stars I saw that night...
+448,3,Marisa1a,Burning brightly/ for a single moment!
+448,4,Marisa1a,Blazing Star!
+448,5,Marisa1a,HAAAAA!
+448,6,Marisa1a,Now/ give back Utsuho!
+449,0,Marisa1a,I'll serve you up something special!
+449,1,Marisa1a,Answer my call/ mini-hakkero!
+449,2,Marisa1a,Magic born from the stars I admired...
+449,3,Marisa1a,Like a shooting star...
+449,4,Marisa1a,Like a shooting star... Shine!
+449,5,Marisa1a,HAAAAA!
+449,6,Marisa1a,Now/ give back Utsuho!
+450,0,Marisa1a,Mini-hakkero/ it's star magic time!
+450,1,Marisa1a,Full throttle!
+450,2,Marisa1a,Blink/ and you'll miss it!
+450,3,Marisa1a,Fly through 'em...
+450,4,Marisa1a,Blazing Star!
+450,5,Marisa1a,HAAAAA!
+450,6,Marisa1a,Now/ give back Utsuho!
+451,0,Marisa0a,You girls'll make for a nice diversion.
+452,0,Marisa0a,You girls get along pretty well/ huh?
+453,0,Marisa0a,Never seen you around/ but I'll welcome you with my danmaku!
+454,0,Marisa0a,Slippery/ ain'tcha?\n Just the type I hate dealing with.
+455,0,Marisa0a,Running away from home?\n Not a good call/ trust me.
+456,0,Marisa0a,So you were serious about causing an incident?\n You really ARE a delinquent.
+457,0,Marisa1a,I dunno what you're up to/ but I WILL stop you!
+458,0,Marisa1a,No more running!
+459,0,Marisa0a,I'll teach you all about danmaku!
+460,0,Marisa0a,Here's how we do things on the surface!
+461,0,Marisa0a,I'll catch you for sure/ this time!
+462,0,Marisa0a,You're gonna tell me all about this incident!
+463,0,Marisa0a,A lousy illusion's not gonna faze me!
+464,0,Marisa1a,You've got the power/ but nothing else!
+465,0,Marisa0a,If it's just in terms of power/ I can outdo Lady Mima!
+466,0,Marisa0a,Hell yeah/ let's do this thing!
+467,0,Marisa1a,I'll give this everything I've got/ Yuuka!
+468,0,Marisa1a,You better take this seriously/ Yuuka!
+469,0,Marisa0a,We've got you cornered/ Mehko!
+470,0,Marisa1a,As your former owner/ I'm gonna have to teach you a lesson!
+471,0,Marisa1a,C'mon/ don't fight like that...!
+472,0,Marisa2a,Give it up Mehko/ the fight's already over!
+473,0,Marisa1a,Makura! This ends/ here and now!
+474,0,Marisa1a,Makura!\n Our danmaku will do the talking!
+475,0,Marisa1a,Even if you have the power of dreams/\n we will NOT lose!
+476,0,Marisa1a,This is my final spell/ Makura Muwatari!
+477,0,Marisa1a,Your selfishness ends here/ Shitone!
+478,0,Marisa1a,Shitone!\n Our danmaku will do the talking!
+479,0,Marisa1a,Even if you have the power of dreams/\n we will NOT lose!
+480,0,Marisa1a,This is my final spell/ Shitone!
+481,0,Marisa0a,My magic's locked and loaded!
+482,0,Marisa0a,Gun and run! Er/ wait...\n Run and gun? Yeah/ that!
+483,0,Marisa0a,The nail that sticks up gets hammered down!
+484,0,Marisa0a,This is self-defense!
+485,0,Marisa0a,Did you really think I'd just let you go?
+486,0,Marisa1a,You forgot your change/ pal!
+487,0,Marisa0a,We'll settle this/ right here!
+488,0,Marisa0a,Doesn't matter who you are/ you're getting blasted all the same!
+489,0,Marisa0a,You'll be feeling this one in the morning!
+490,0,Marisa0a,It's time to put up/ or shut up!
+491,0,Marisa0a,This tension's got me all fired up!
+492,0,Marisa1a,Desperate times are where I shine!
+493,0,Marisa1a,I'm done holding back!
+494,0,Marisa0a,Sorry pal/ but you're going down!
+495,0,Marisa2a,I can't handle much more of this...
+496,0,Marisa2a,Any more of this and I'm toast...!
+497,0,Marisa2a,This is a bad sign...
+498,0,Marisa2a,Things are NOT looking good for me...
+499,0,Marisa2a,Tch! That one got me.
+500,0,Marisa2a,You're not half-bad!
+501,0,Marisa2a,Coulda sworn I dodged that one...
+502,0,Marisa0a,I'll reduce the damage!
+503,0,Marisa0a,Whoa! That was almost really bad.
+504,0,Marisa0a,That could've gone worse.
+505,0,Marisa2a,Knock it off!
+506,0,Marisa2a,It's not over yet!
+507,0,Marisa0a,I see right through you!
+508,0,Marisa0a,C'mon/ you can try a little harder than that!
+509,0,Marisa0a,Well/ at least I made it through...
+510,0,Marisa0a,Grazing is the best part of danmaku fights!
+511,0,Marisa0a,Can't be too careful when you're dealing with danmaku...
+512,0,Marisa0a,So-so.
+513,0,Marisa0a,I love the sound of grazing.
+514,0,Marisa0a,What'd you expect?
+515,0,Marisa0a,Sorry pal/ but dodging danmaku's practically my job.
+516,0,Marisa0a,See that?
+517,0,Marisa0a,I felt a chill go down my spine/ there...
+518,0,Marisa0a,Not happening!
+519,0,Marisa0a,That's not gonna work!
+520,0,Marisa0a,No more day dreaming!
+521,0,Marisa0a,Let's try...
+521,1,Marisa0a,THIS!
+522,0,Marisa1a,This magic is MY magic/ and I won't throw it away!
+523,0,Marisa1a,This magic is MY magic/ and I won't throw it away!
+523,1,Marisa1a,Mini-hakkero/ full throttle!
+523,2,Marisa1a,Just like the shooting star I saw back then...
+523,3,Marisa1a,Stronger than anything else!
+523,4,Marisa1a,Blazing Star!
+523,5,Marisa1a,HAAAAA!
+523,6,Marisa1a,I will be a shooting star!
+524,0,Marisa0a,We've got her right where we want her!
+525,0,Marisa0a,Ready/ Alice?
+525,1,Marisa0a,Ready/ Alice?
+525,2,Alice0a,Yes/ let's do this!
+525,3,Alice0a,Yes/ let's do this!
+525,4,Alice1a,We're counting on you/ Shanghai!
+525,5,Alice1a,We're counting on you/ Shanghai!
+525,6,Marisa1a,Straight down the middle!
+526,0,Marisa1a,This danmaku will settle things!
+527,0,Marisa1a,Let's bust out the Spellcards...!
+527,1,Reimu1a,I'm just gonna do my own thing/ Marisa!
+527,2,Marisa1a,Right back at ya/ Reimu!
+527,3,Reimu1a,Alright/ let's do this!
+527,4,Reimu1a,First come/ first served!
+527,5,Marisa0a,You're open!
+527,6,Reimu1a,There!!
+527,7,Marisa1a,My turn!
+527,8,Reimu1a,Keep up the pressure!
+527,9,Reimu1a,Now!
+527,10,Reimu1a,Sky-Conquering... Wind God Kick!
+527,11,Reimu1a,And another one!
+527,12,Reimu1a,Omnidirectional Demon-Binding Circle!
+527,13,Marisa1a,Perfect/ Reimu!
+527,14,Marisa1a,Orreries Sun!
+527,15,Marisa1a,Orreries...!
+527,16,Marisa1a,UNIVEEEEERSE!!!
+527,17,Marisa0a,You're up/ Reimu!
+527,18,Reimu1a,Back at you/ Marisa!
+527,19,Reimu1a,Back at you/ Marisa!
+527,20,Reimu5b,This is my ultimate technique!
+527,21,Marisa0a,Mini-hakkero/ full throttle!
+527,22,Reimu5b,Natural Fantasy!
+527,23,Marisa1a,BLAZING STAR!
+527,24,Reimu1a,Spirit Sign!
+527,25,Marisa1a,Love Sign!
+527,26,Reimu1a,Fantasy...!
+527,27,Marisa1a,Master...
+527,28,Marisa1a,SPAAAAARK!!
+527,29,Reimu1a,Seal!
+527,30,Reimu1a,This is our attack...
+527,31,Marisa1a,With all of fantasy on the line!

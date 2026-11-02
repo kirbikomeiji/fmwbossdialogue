@@ -1,0 +1,334 @@
+ID,LineID,face,dialog
+0,0,Momiji0a,I'll cut my way through.
+1,0,Momiji0a,Face me!
+2,0,Momiji0a,I'll clear a path.
+3,0,Momiji1a,If you want a fight that badly/ you've got one!
+4,0,Momiji1a,This isn't over just yet!
+5,0,Momiji0a,This is what you'll get if you blunder in like that!
+6,0,Momiji0a,It's my move now.
+7,0,Momiji0a,I see you're brave enough to risk taking hits if necessary!
+8,0,Momiji0a,It's foolish to cross blades with a Tengu!
+9,0,Momiji0a,I'll cut my way through!
+10,0,Momiji0a,There's no time to lose!
+11,0,Momiji0a,I'll target this over here...
+12,0,Momiji0a,This is one of my aggressive moves!
+13,0,Momiji0a,I spotted a great chance right now!
+14,0,Momiji0a,I'll show you what a white wolf tengu can do!
+15,0,Momiji2a,If I falter here/ it's all over...
+16,0,Momiji1a,While I can still fight/ I intend to sink my teeth into it!
+17,0,Momiji1a,I'll figure out a way to carry out my mission/ no matter what!
+18,0,Momiji1a,I just need to fight my best fight!
+19,0,Momiji1a,I'll take you down/ even if I go down with you!
+20,0,Momiji0a,This is my ultimate technique!
+21,0,Momiji0a,I'll force my way through!
+22,0,Momiji0a,I'll show you it's mate in one!
+23,0,Momiji0a,It's time to show you the power of the tengu!
+24,0,Momiji0a,There's no hope of prevailing against a white wolf tengu!
+25,0,Momiji0a,It's time to clinch this victory!
+26,0,Momiji1a,Tohhh!
+27,0,Momiji1a,Prepare yourself!
+28,0,Momiji1a,This is just a warmup!
+29,0,Momiji1a,Got you!
+30,0,Momiji1a,I'll force my way past!
+31,0,Momiji1a,You're not getting away!
+32,0,Momiji1a,I never miss!
+33,0,Momiji1a,You can't evade me!
+34,0,Momiji0a,No-Shot!
+35,0,Momiji1a,Take this! No-Shot!
+36,0,Momiji0a,This is my ultimate technique...
+36,1,Momiji1a,Hyper No Slash!
+37,0,Momiji0a,This technique will finish this!
+37,1,Momiji1a,You're through!!
+38,0,Momiji0a,Let's speed things up!
+38,1,Momiji1a,Hyper... No Slash!
+39,0,Momiji0a,Prepare yourself!
+39,1,Momiji1a,Haaaaaah!
+40,0,Momiji1a,Feel the wrath of my fangs!
+40,1,Momiji1a,Raaaaaah!
+40,2,Momiji1a,Once I sink my teeth in...
+40,3,Momiji1a,Once I sink my teeth in...
+40,4,Momiji1a,I'll tear you to shreds!
+41,0,Momiji1a,Time to get right inside your guard!
+41,1,Momiji1a,Raaaaaah!
+41,2,Momiji1a,I'll cast aside my shield!
+41,3,Momiji1a,I'll cast aside my shield!
+41,4,Momiji1a,My whole body is my weapon!
+42,0,Momiji1a,This fight's really something to sink my teeth into!
+42,1,Momiji1a,Raaaaaah!
+42,2,Momiji1a,These are my fangs!
+42,3,Momiji1a,These are my fangs! Rabies...
+42,4,Momiji1a,These are my fangs! Rabies... BITE!
+43,0,Momiji1a,Howl/ Gansaiga!
+43,1,Momiji1a,Get in as close as I can...
+43,2,Momiji1a,Checkmate!
+43,3,Momiji1a,Rabies...
+43,4,Momiji1a,Rabies... BITE!
+44,0,Momiji0a,I'll show you the teamwork of the white wolf tengu!
+44,1,HTengu0a,Inubashiri/ I'll take the vanguard!
+44,2,HTengu1a,Take that!
+44,3,Momiji1a,I'll make you an opening!
+44,4,HTenguB1a,You're finished!
+44,5,Momiji1a,We will never falter!
+45,0,Momiji0a,Tengu squad/ let's break through them!
+45,1,Momiji1a,I'll leave the first strike to you. I'll handle the follow-up!
+45,2,HTenguB1a,I won't let Inubashiri get all the glory!
+45,3,Momiji1a,Nice timing!
+45,4,HTenguB1a,All at once now!
+45,5,Momiji1a,We will protect the peace on the mountain!
+46,0,Momiji1a,Time for a coordinated attack!
+46,1,HTengu0a,You know the formation we'll use/ Inubashiri.
+46,2,HTengu1a,We'll make use of these shields!
+46,3,Momiji1a,Once I can get in close...
+46,4,HTengu1a,This is your end!
+46,5,Momiji1a,Never underestimate the power of the tengu!
+47,0,Momiji0a,Another chance will come around sometime...
+48,0,Momiji0a,Now is the time for patience/ retribution comes later.
+49,0,Momiji2a,Grr/ I can't believe I can't reach them...
+50,0,Momiji0a,I'll show you soon how quickly the distance between us can shrink...
+51,0,Momiji1a,I'll repay my debt to you/ I promise.
+52,0,Momiji0a,Leave the rest to me!
+53,0,Momiji1a,I'm coming up from behind you/ please be careful!
+54,0,Momiji1a,Momiji Inubashiri is here to help!
+55,0,Momiji0a,I can't have anyone forgetting about the Shield of Youkai Mountain anytime soon.
+56,0,Momiji1a,Fall back/ we still have other options!
+57,0,Momiji0a,Taking hits is my job!
+58,0,Momiji0a,I will be your shield!
+59,0,Momiji0a,I'll handle this!
+60,0,Momiji1a,This is why I'm here.
+61,0,Momiji1a,You're too far forward!
+62,0,Momiji1a,I'll make an opening for you!
+63,0,Momiji1a,I'll test the enemy's strength for us.
+64,0,Momiji1a,I'll take point!
+65,0,Momiji0a,I'll provide assistance/ please follow me.
+66,0,Momiji0a,I think it'd be a good idea to fight that one.
+67,0,Momiji1a,I can see an opening!
+68,0,Momiji1a,Let's coordinate our attacks to deal with them!
+69,0,Momiji1a,We'll put them in checkmate with this!
+70,0,Momiji1a,I've spotted our best chance at victory!
+71,0,Momiji1a,Aya! How... HOW DARE YOU!
+72,0,Momiji1a,With two tengu/ we can handle anyone!
+73,0,Momiji1a,Aya/ I'll provide a follow-up!
+74,0,Momiji1a,Now's the best momentum to coordinate with Aya!
+75,0,Momiji0a,Aya/ are you taking this seriously?
+76,0,Momiji0a,How'd you almost get hit? That's really not like you/ Aya. 
+77,0,Momiji1a,I'm handing this off to you/ Aya!
+78,0,Momiji1a,I'm going on ahead/ please give me some support from behind.
+79,0,Momiji1a,With two tengu/ we can handle anyone!
+80,0,Momiji1a,I will be Aya's eyes and ears!
+81,0,Momiji0a,If you hit me with a wind blast from behind I am going to be annoyed.
+82,0,Momiji1a,With me together alongside Aya/ we can do this!
+83,0,Momiji1a,Aya/ I've spotted our best chance at victory!
+84,0,Momiji1a,Aya/ we'll put them in checkmate with this!
+85,0,Momiji1a,Let's show them the power of the tengu united!
+86,0,Momiji2a,Lady Kochiyaaa! That's actually my job!
+87,0,Momiji0a,Lady Kochiya/ allow me to handle this.
+88,0,Momiji0a,Lady Kochiya/ I'm here to support you.
+89,0,Momiji1a,I will be Lady Kochiya's shield!
+90,0,Momiji1a,I'll cover you/ Lady Kochiya!
+91,0,Momiji2a,Sanaaaae! That's still my job!
+92,0,Momiji0a,Sanae/ allow me to handle this.
+93,0,Momiji0a,Sanae/ I'm here to support you.
+94,0,Momiji1a,I will be Sanae's shield!
+95,0,Momiji1a,Sanae/ I'll cover you!
+96,0,Momiji0a,Let's attack that enemy. Are you ready?
+97,0,Momiji0a,Don't overdo it. If things get dangerous/ remember to retreat behind me.
+98,0,Momiji1a,I'll make an opening for you. Once I do/ please blast them!
+99,0,Momiji1a,Sanae/ let me help you!
+100,0,Momiji1a,Sanae/ I'll start this off!
+101,0,Momiji1a,I don't only stay in front of Sanae!
+102,0,Momiji1a,Sanae/ we'll put them in checkmate with this!
+103,0,Momiji1a,Sanae/ I've spotted our best chance for victory!
+104,0,Momiji1a,Sanae/ let's coordinate our attacks to deal with them!
+105,0,Momiji1a,How could I let Nitori be harmed on my watch...
+106,0,Momiji0a,Nitori/ I'll take over from here.
+107,0,Momiji0a,It's my turn/ Nitori.
+108,0,Momiji1a,Watch out/ Nitori!
+109,0,Momiji0a,You can get kind of careless/ Nitori...
+110,0,Momiji0a,Make sure you don't hit me with one of your weapons/ Nitori.
+111,0,Momiji1a,Nitori/ let me help you!
+112,0,Momiji1a,My spotting and Nitori firing makes a perfect team!
+113,0,Momiji0a,I'm going to take point on this. Don't do anything crazy/ okay?
+114,0,Momiji1a,Nitori/ let's go after that enemy over there.
+115,0,Momiji0a,I'll combine my attack with yours/ Nitori.
+116,0,Momiji1a,If I coordinate my attacks with Nitori's devices...
+117,0,Momiji1a,Nitori/ I've spotted our best chance at victory!
+118,0,Momiji1a,Nitori/ we'll put them in checkmate with this.
+119,0,Momiji0a,Marisa/ allow me to handle this.
+120,0,Momiji0a,I can't believe I'm helping Marisa/ of all people...
+121,0,Momiji0a,You must be off your game/ Marisa.
+122,0,Momiji0a,I can't believe I'm helping Marisa/ of all people...
+123,0,Momiji0a,Reimu/ allow me to handle this.
+124,0,Momiji0a,I would never have imagined I'd end up helping the Hakurei Shrine Maiden.
+125,0,Momiji0a,Reimu/ what's the matter with you?
+126,0,Momiji0a,I would never have imagined I'd end up helping the Hakurei Shrine Maiden.
+127,0,Momiji2a,Letting Suika serve as my shield... Can I really accept that?
+128,0,Momiji1a,Suika/ I'm diving in next!
+129,0,Momiji1a,Suika/ permission to assist/ please!
+130,0,Momiji1a,I'm sorry for my presumption/ but allow me to block for you!
+131,0,Momiji1a,I may be younger and less experienced/ but I can serve as a shield!
+132,0,Momiji1a,Suika/ my apologies for deciding on your behalf/ but here's our target!
+133,0,Momiji1a,Leave the scouting up to me!
+134,0,Momiji1a,Suika/ I'll make an opening for you!
+135,0,Momiji1a,Suika/ allow me to prepare the way for you.
+136,0,Momiji1a,Suika/ allow me to assist you!
+137,0,Momiji1a,Suika/ let's coordinate our attacks!
+138,0,Momiji1a,Suika and I can take on all comers!
+139,0,Momiji1a,Suika/ I believe I've spotted our best chance at victory!
+140,0,Momiji2a,Letting Yuugi serve as my shield... Can I really accept that?
+141,0,Momiji1a,Yuugi/ I'm diving in next!
+142,0,Momiji1a,Yuugi/ permission to assist/ please!
+143,0,Momiji1a,I'm sorry for my presumption/ but allow me to block for you!
+144,0,Momiji1a,I may be younger and less experienced/ but I can serve as a shield!
+145,0,Momiji1a,Yuugi/ my apologies for deciding on your behalf/ but here's our target!
+146,0,Momiji1a,Leave the scouting up to me!
+147,0,Momiji1a,Yuugi/ I'll make an opening for you!
+148,0,Momiji1a,Yuugi/ allow me to prepare the way for you.
+149,0,Momiji1a,Yuugi/ allow me to assist you!
+150,0,Momiji1a,Yuugi/ let's coordinate our attacks!
+151,0,Momiji1a,Yuugi and I can take on all comers!
+152,0,Momiji1a,Yuugi/ I believe I've spotted our best chance at victory!
+153,0,Momiji0a,I can't believe they can manage to hit Hatate...
+154,0,Momiji0a,Hatate/ watch out!
+155,0,Momiji0a,Are you alright/ Hatate?
+156,0,Momiji1a,I'll make an opening for your thoughtography!
+157,0,Momiji1a,I'm pretty used to helping with reporting!
+158,0,Momiji1a,Please finish them off/ Hatate!
+159,0,Momiji1a,Hatate/ I'm watching the perimeter!
+160,0,Momiji1a,Here I go/ Hatate!
+161,0,Momiji1a,Hatate/ I've spotted our best chance at victory!
+162,0,Momiji1a,Hatate/ we'll put them in checkmate with this!
+163,0,Momiji1a,Let's show them the power of the tengu united!
+164,0,Momiji2a,I can't believe I ended up using Lady Kanako as my shield...
+165,0,Momiji1a,Lady Kanako/ I'll make the next assault!
+166,0,Momiji1a,Lady Kanako/ I'll provide assistance!
+167,0,Momiji1a,I won't let you lay a finger on one of the mountain's gods!
+168,0,Momiji1a,Lady Kanako/ please leave the defending to me!
+169,0,Momiji1a,Lady Kanako/ I'll make an opening for you!
+170,0,Momiji1a,Lady Kanako/ I will serve as your vanguard!
+171,0,Momiji1a,Leave the scouting up to me!
+172,0,Momiji1a,Lady Kanako/ guide me!
+173,0,Momiji1a,Lady Kanako/ allow me to help!
+174,0,Momiji1a,Attacking as you ordered/ Lady Kanako!
+175,0,Momiji1a,Lady Kanako/ let's coordinate our attacks!
+176,0,Momiji1a,Lady Kanako/ I've spotted our best chance for victory.
+177,0,Momiji2a,I can't believe I ended up using Lady Suwako as my shield...
+178,0,Momiji1a,Lady Suwako/ I'll make the next attack!
+179,0,Momiji1a,Lady Suwako/ I'll provide assistance!
+180,0,Momiji1a,I won't let you lay a finger on one of the mountain's gods!
+181,0,Momiji1a,Lady Suwako/ please leave the defending to me!
+182,0,Momiji1a,Lady Suwako/ I'll make an opening for you!
+183,0,Momiji1a,Lady Suwako/ I will serve as your vanguard!
+184,0,Momiji1a,Leave the scouting up to me!
+185,0,Momiji1a,Lady Suwako/ guide me!
+186,0,Momiji1a,Lady Suwako/ allow me to help!
+187,0,Momiji1a,Lady Suwako/ I'll follow your every direction!
+188,0,Momiji1a,Lady Suwako/ let's coordinate our attacks!
+189,0,Momiji1a,Lady Suwako/ I've spotted our best chance for victory.
+190,0,Momiji0a,Well/ I have to admit/ you at least hit me. That's impressive.
+191,0,Momiji0a,Do you realize how badly you're outmatched?
+192,0,Momiji0a,Those attacks shall not pass!
+193,0,Momiji0a,You're barely worth my bark/ let alone my bite.
+194,0,Momiji0a,You're no match for me.
+195,0,Momiji2a,You'll regret that.
+196,0,Momiji2a,Not yet! My fangs can still bite!
+197,0,Momiji2a,Even when I'm this hard-pressed...
+198,0,Momiji2a,I won't break/ not from this!
+199,0,Momiji2a,My wounds aren't fatal yet!
+200,0,Momiji2a,Oof/ that was too much for me to handle alone...
+201,0,Momiji2a,They have me pinned...
+202,0,Momiji2a,I can't let it end here!
+203,0,Momiji2a,It's just a scratch!
+204,0,Momiji2a,Even my eyes couldn't follow it?!
+205,0,Momiji2a,Erk/ I lowered my guard...
+206,0,Momiji2a,You've got some skills/ at least.
+207,0,Momiji2a,I thought I'd dodged that...
+208,0,Momiji2a,I'm getting thrown off my stride?!
+209,0,Momiji2a,That was a clever move.
+210,0,Momiji2a,This shield isn't just for show!
+211,0,Momiji2a,Something like that can't pierce my shield.
+212,0,Momiji2a,I'll show you how I can endure!
+213,0,Momiji2a,You might be a cut above the rest of the rabble...
+214,0,Momiji2a,My resolve will never waver!
+215,0,Momiji2a,I will not cower from these attacks! I will not retreat!
+216,0,Momiji2a,This pain is nothing compared to my training!
+217,0,Momiji2a,You're pretty good.
+218,0,Momiji0a,What/ that's it? Don't make me laugh.
+219,0,Momiji0a,My vision can catch everything!
+220,0,Momiji0a,If I inspect the attack thoroughly...
+221,0,Momiji0a,Your danmaku is of no use.
+222,0,Momiji0a,Remember/ I'm a tengu. This much is easy.
+223,0,Momiji0a,Trying to hit me from a blind spot? Hah!
+224,0,Momiji0a,You won't hit anything attacking so haphazardly!
+225,0,Momiji0a,You won't hit!
+226,0,Momiji0a,I already saw this move long before it happened.
+227,0,Momiji0a,This kind of thing could make me slack off...
+228,0,Momiji0a,This thing's pretty useful.
+229,0,Momiji1a,You can't fool me!
+230,0,Momiji1a,Your endgame is weak!
+231,0,Momiji1a,I saw this coming!
+232,0,Momiji1a,Allow me to show you my riposte!
+233,0,Momiji1a,I saw this coming all along!
+234,0,Momiji1a,I can see right through you!
+235,0,Momiji2a,My mission was still incomplete...
+236,0,Momiji2a,How could I let myself fall at a time like this?!
+237,0,Momiji2a,Sometimes/ the best tactic is retreating...
+238,0,Momiji0a,I need to retreat. Everyone/ please be careful!
+239,0,Momiji0a,We got our rematch/ but the circumstances aren't at all what I expected...
+240,0,Momiji0a,I can't complain about the caliber of my opposition!
+241,0,Momiji2a,Ghh/ you really are good at this.
+242,0,Momiji2a,She's even faster than before?!
+243,0,Momiji0a,I've read the article about you.
+244,0,Momiji0a,Different though they may be/ we're both masters at our craft...
+245,0,Momiji0a,Nothing eludes my vision!
+246,0,Momiji0a,If I can see it/ I can hit it!
+247,0,Momiji0a,Your movements are simplistic.
+248,0,Momiji0a,Speed alone isn't enough!
+249,0,Momiji0a,I'll silence you all!
+250,0,Momiji0a,You can't rely on enthusiasm alone in battle!
+251,0,Momiji0a,Aya really knows a lot of people in Gensokyo/ huh.
+252,0,Momiji0a,While at first glance you look defenseless...
+253,0,Momiji0a,This is why I don't like dealing with the subjects of Aya's articles...
+254,0,Momiji0a,It's an emergency right now/ and yet you three are just happily playing your instruments.
+255,0,Momiji2a,Ugh/ I can't believe a tengu is having to face a youkai opponent outside of her weight class...
+256,0,Momiji2a,I wasn't able to follow her movements?!
+257,0,Momiji0a,I have been entrusted with a vital mission as well!
+258,0,Momiji0a,Words aren't my specialty. Let's continue the conversation with our blades.
+259,0,Momiji2a,It's like an entirely different woman is wielding the blade!
+260,0,Momiji2a,She's going to eke out a victory against me?!
+261,0,Momiji0a,I have been entrusted with leading the vanguard.
+262,0,Momiji0a,You're the one behind this incident. Prepare to face my blade!
+263,0,Momiji0a,Words aren't my specialty. Let's continue the conversation with our blades.
+264,0,Momiji0a,I will fulfill my mission unto my last breath!
+265,0,Momiji0a,I can't stop thinking about that youkai rabbit's technique...
+266,0,Momiji0a,Just to warn you/ I'm not the best at holding myself back.
+267,0,Momiji0a,I swear I've seen you occasionally even on Youkai Mountain.
+268,0,Momiji2a,I have my pride as a tengu! I will not lose/ no matter the contest!
+269,0,Momiji2a,It'd be dangerous to dismiss you all as insignificant among youkai.
+270,0,Momiji0a,Allow me to test my strength against you/ Lady Kanako.
+271,0,Momiji0a,I wanted to let you know/ Sanae's been doing great.
+272,0,Momiji0a,Allow me to test my strength against you/ Lady Suwako.
+273,0,Momiji0a,I wanted to let you know/ Sanae's been doing great.
+274,0,Momiji0a,I'm glad to see you've doing well/ Nitori.
+275,0,Momiji0a,Nitori/ how about we test each other's strengths and weaknesses?
+276,0,Momiji2a,How did I end up fighting an oni?!
+277,0,Momiji2a,This too is part of my mission.
+278,0,Momiji0a,No matter how strong you are/ there must be an opening in your defense somewhere!
+279,0,Momiji0a,The raging power of the sun... can I really defend against that? We'll find out.
+280,0,Momiji1a,No one's messing up Youkai Mountain on my watch!
+281,0,Momiji1a,How dare you ruin the big day!
+282,0,Momiji1a,Let me show you what happens when you pick a fight with Youkai Mountain!
+283,0,Momiji1a,There's no way I'm letting you mess up the kappa bazaar!
+284,0,Momiji1a,How dare you try to cause an incident!
+285,0,Momiji1a,I won't let you trouble Eientei any longer!
+286,0,Momiji1a,This kind of enemy demands my focus.
+287,0,Momiji1a,I'm thoroughly familiar with all of the group's movement patterns!
+288,0,Momiji1a,For your many misdeeds/ I bring punishment!
+289,0,Momiji1a,No matter how much of this new power you obtain/ it won't be enough!
+290,0,Momiji0a,No matter how strong it makes you/ to sacrifice yourself for this is...
+291,0,Momiji2a,My blade is not meant for beheading the already defeated/ and yet...
+292,0,Momiji1a,No matter the opponent/ I'll face them head on!
+293,0,Momiji1a,Accept the punishment for your many misdeeds!
+294,0,Momiji1a,This is our final test/ then! I'll trust everything to my skill with my sword and shield!
+295,0,Momiji1a,No matter the opponent/ I'll face them head on!
+296,0,Momiji1a,Accept the punishment for your misdeeds!
+297,0,Momiji1a,This is our final test/ then! I'll trust everything to my skill with my sword and shield!
