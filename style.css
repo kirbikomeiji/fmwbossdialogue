@@ -3,7 +3,7 @@
 		font-family: "Fot-NewRodin Pro DB";
 		src: url("./FOT-NewRodin Pro DB.otf");
 }
-h1{
+h1, h3{
     text-shadow: #000000 2px 1px 1px;
 }
 
@@ -85,6 +85,20 @@ p {
 #chapter_header {
     font-size: 1.5em;
     text-shadow: black 2px 1px 1px;
+    float: left;
+    width: 50%;
+}
+
+#img_assist{
+    float: left;
+    width: 50%;
+    display: none;
+}
+#img_left{
+
+}
+#img_right{
+    margin-left: -4em;
 }
 
 .dialogue {

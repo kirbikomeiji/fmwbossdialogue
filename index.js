@@ -15,6 +15,7 @@ function onInit() {
     var url = new URL(window.location.href);
     var chapter = url.searchParams.get("chapter");
     var character = url.searchParams.get("character");
+    document.querySelector('#img_left').src = `./sprites/${name}00.png`;
 
     if (chapter != null) {
         showChapter(chapter);
@@ -27,7 +28,8 @@ function showBattleDialogue() {
     document.querySelector('#chapters_button').disabled = false;
     document.querySelector('#bd_button').disabled = true;
     document.querySelector('.chapter_wrapper').style.display = 'none';
-    showChapter('bd',null)
+    showChapter('bd', null)
+    document.querySelector('#img_assist').style.display = 'block';
 }
 
 function unhideChapterWrapper()
@@ -35,8 +37,8 @@ function unhideChapterWrapper()
     document.querySelector('#chapters_button').disabled = true;
     document.querySelector('#bd_button').disabled = false;
     document.querySelector('.chapter_wrapper').style.display = 'block';
-    showChapter('',null)
-
+    showChapter('', null)
+    document.querySelector('#img_assist').style.display = 'none';
 }
 
 
@@ -280,6 +282,15 @@ function showChapter(id, this_button) {
 
     if (id === "")
         document.getElementById('chapter_header').innerHTML = "";
+    else if (id === "bd")
+    {
+        let path = window.location.pathname;
+        let name = path.substring(path.lastIndexOf('/') + 1, path.length - 5);
+        name = String(name[0]).toUpperCase() + String(name).slice(1);
+        var character = url.searchParams.get("character");
+
+        document.getElementById('chapter_header').innerHTML =  `Battle Dialogue`;
+    }
     else
         document.getElementById('chapter_header').innerHTML = "Chapter " + id;
     if (chapter_names[id])
@@ -308,6 +319,17 @@ function showChapter(id, this_button) {
 }
 
 function showchar(id, this_button) {
+    name = String(id[0]).toUpperCase() + String(id).slice(1);
+
+    let path = window.location.pathname;
+    let pagename = path.substring(path.lastIndexOf('/') + 1, path.length - 5);
+
+
+    if (id.toLowerCase() === pagename.toLowerCase())
+        name = "Yousei1"
+
+
+    document.querySelector('#img_right').src = `./sprites/${name}00.png`;
     document.querySelectorAll('.character_button').forEach((button) => {
         button.disabled = false;
     });

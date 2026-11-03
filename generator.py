@@ -3,279 +3,279 @@ import os
 import csv
 
 names = {
-    "霊夢" : {"Reimu"},
-    "魔理沙" : {"Marisa"},
-    "ルーミア" : {"Rumia"},
-    "大妖精" : {"Daiyosei"},
-    "チルノ" : {"Cirno"},
-    "美鈴" : {"Meiling"},
-    "小悪魔" : {"Koakuma"},
-    "パチュリー" : {"Patchouli"},
-    "咲夜" : {"Sakuya"},
-    "レミリア" : {"Remilia"},
-    "フラン" : {"Flan"},
-    "レティ" : {"Letty"},
-    "橙" : {"Chen"},
-    "アリス" : {"Alice"},
-    "上海" : {"Shanghai"},
-    "蓬莱" : {"Hourai"},
-    "リリー" : {"LilyW"},
-    "ルナサ" : {"Lunasa"},
-    "メルラン" : {"Merlin"},
-    "リリカ" : {"Lyrica"},
-    "三姉妹" : {"Prism"},
-    "妖夢" : {"Youmu"},
-    "幽々子" : {"Yuyuko"},
-    "藍" : {"Ran"},
-    "紫" : {"Yukari"},
-    "萃香" : {"Suika"},
-    "リグル" : {"Wriggle"},
-    "ミスティア" : {"Mystia"},
-    "慧音" : {"Keine"},
-    "てゐ" : {"Tewi"},
-    "鈴仙" : {"Udonge"},
-    "永琳" : {"Eirin"},
-    "輝夜" : {"Kaguya"},
-    "妹紅" : {"Mokou"},
-    "文" : {"Aya"},
-    "メディ" : {"Medicine"},
-    "小町" : {"Komachi"},
-    "映姫" : {"Eiki"},
-    "静葉" : {"Shizuha"},
-    "穣子" : {"Minoriko"},
-    "雛" : {"Hina"},
-    "にとり" : {"Nitori"},
-    "椛" : {"Momiji"},
-    "早苗" : {"Sanae"},
-    "神奈子" : {"Kanako"},
-    "諏訪子" : {"Suwako"},
-    "天子" : {"Tenshi"},
-    "衣玖" : {"Iku"},
-    "キスメ" : {"Kisume"},
-    "ヤマメ" : {"Yamame"},
-    "パルスィ" : {"Parsee"},
-    "勇儀" : {"Yugi"},
-    "さとり" : {"Satori"},
-    "お燐" : {"Orin"},
-    "お燐（猫）" : {"OrinC"},
-    "空" : {"Utsuho"},
-    "こいし" : {"Koishi"},
-    "ナズーリン" : {"Nazrin"},
-    "小傘" : {"Kogasa"},
-    "一輪" : {"Ichirin"},
-    "雲山" : {"Unzan"},
-    "村紗" : {"Murasa"},
-    "星" : {"Sho"},
-    "白蓮" : {"Byakuren"},
-    "ぬえ" : {"Nue"},
-    "聖輦船" : {"Seirensen"},
-    "はたて" : {"Hatate"},
-    "非想天則" : {"Tensoku"},
-    "サニー" : {"Sunny"},
-    "スター" : {"Star"},
-    "ルナ" : {"Luna"},
-    "三妖精" : {"Faries"},
-    "阿求" : {"Akyu"},
-    "霖之助" : {"Korin"},
-    "依姫" : {"Yorihime"},
-    "豊姫" : {"Toyohime"},
-    "レイセン" : {"Reisen"},
-    "小鈴" : {"Kosuzu"},
-    "エリー" : {"Elliy"},
-    "くるみ" : {"Kurumi"},
-    "幽香" : {"Yuka"},
-    "魅魔" : {"Mima"},
-    "夢子" : {"Yumeko"},
-    "神綺" : {"Shinki"},
-    "メーコ" : {"Meko"},
-    "まくら" : {"Makura"},
-    "天狗A" : {"KTenguA"},
-    "天狗B" : {"HTenguB"},
-    "河童C" : {"KappaC"},
-    "前鬼" : {"Zenki"},
-    "後鬼" : {"Goki"},
-    "妖怪兎D" : {"UsagiD"},
-    "大ナマズ" : {"Onamazu"},
-    "悪夢" : {"RemiliaN"},
-    "悪夢" : {"FlanN"},
-    "悪夢" : {"YuyukoN"},
-    "悪夢" : {"YukariN"},
-    "悪夢" : {"RanN"},
-    "悪夢" : {"KaguyaN"},
-    "悪夢" : {"EirinN"},
-    "悪夢" : {"MokouN"},
-    "悪夢" : {"KanakoN"},
-    "悪夢" : {"SuwakoN"},
-    "悪夢" : {"UtsuhoN"},
-    "悪夢" : {"KoishiN"},
-    "悪夢" : {"NazrinN"},
-    "悪夢" : {"IchirinN"},
-    "悪夢" : {"MurasaN"},
-    "悪夢" : {"ShoN"},
-    "悪夢" : {"ByakurenN"},
-    "悪夢" : {"NueN"},
-    "悪夢" : {"EikiN"},
-    "悪夢" : {"SuikaN"},
-    "悪夢" : {"TenshiN"},
-    "悪夢" : {"YorihimeN"},
-    "悪夢" : {"ToyohimeN"},
-    "悪夢" : {"MimaN"},
-    "咲夜さん" : {"Sakuya"},
-    "ゆゆ様" : {"Yuyuko"},
-    "霊夢R" : {"Reimu"},
-    "魔理沙R" : {"Marisa"},
-    "早苗さん" : {"Sanae"},
-    "みすちー" : {"Mystia"},
-    "プリバ" : {"Prism"},
-    "秋姉妹" : {"Shizuha","Minoriko"},
-    "かなすわ" : {"Kanako","Suwako"},
-    "マリアリ" : {"Marisa","Alice"},
-    "三月精" : {"Sunny","Luna","Star"},
-    "あやもみ" : {"Aya","Momiji"},
-    "えりくる" : {"Elliy","Kurumi"},
-    "大チル" : {"Daiyosei","Cirno"},
-    "霊夢、魔理沙、にとり、早苗さん、アリス" : {"Reimu","Marisa","Nitori","Sanae","Alice"},
-    "レミリア、フラン、咲夜さん、美鈴、パチュリー、こぁ" : {"Remilia","Flan","Meiling","Sakuya","Koakuma"},
-    "エリー、くるみ、雛、小町" : {"Elliy","Kurumi","Hina","Komachi"},
-    "神奈子、諏訪子、文、椛、はたて、（早苗さん）" : {"Kanako","Suwako","Aya","Momiji","Hatate"},
-    "紫、ゆゆ様、藍、橙、妖夢、萃香" : {"Yukari","Yuyuko","Ran","Chen","Youmu","Suika"},
-    "星、ナズーリン、村紗、ぬえ、一輪、阿求" : {"Sho","Nazrin","Murasa","Nue","Ichirin","Akyuu"},
-    "輝夜、永琳、妹紅、慧音、鈴仙、てゐ" : {"Kaguya","Eirin","Mokou","Keine","Udonge","Tewi"},
-    "チルノ、大妖精、ルーミア、ミスティア、リグル" : {"Cirno","Daiyosei","Rumia","Mystia","Wriggle"},
-    "ルナサ、メルラン、リリカ" : {"Lunasa","Merlin","Lyrica"},
-    "サニー、ルナ、スター、リリー、レティ、穣子、静葉" : {"Sunny","Luna","Star","LilyW","Letty","Shizuha","Minoriko"},
-    "お燐、勇儀、パルスィ、ヤマメ、キスメ" : {"Orin","Yugi","Parsee","Yamame","Kisume"},
-    "メーコ、まくら" : {"Meko","Makura"},
-    "メディ、幽香" : {"Medicine","Yuka"},
-    "依姫、豊姫" : {"Yorihime","Toyohime"},
-    "天子、衣玖" : {"Tenshi","Iku"},
-    "神綺、夢子" : {"Shinki","Yumeko"},
-    "ファイナルまくら" : {"Makura"},
-    "レミリア、フラン、美鈴、咲夜、小悪魔、パチュリー" : {"Remilia","Flan","Meiling","Sakuya","Koakuma"},
-    "橙、藍、妖夢、ゆゆ様、紫、三姉妹、アリス" : {"Yukari","Chen","Youmu","Yuyuko","Ran","Lyrica","Merlin","Lunasa","Alice"},
-    "永遠亭" : {"Kaguya","Eirin","Mokou","Udonge","Tewi","Yorihime","Toyohime","Reisen","Tewi","LilyW"},
-    "守矢神社" : {"Shizuha","Minoriko","Hina","Nitori","Aya","Momiji","Sanae","Kanako","Suwako","Hatate"},
-    "地霊殿" : {"Kisume","Yamame","Parsee","Yugi","Satori","Orin","Utsuho","Koishi"},
-    "ナズーリン、星、一輪、村紗、ぬえ、白蓮" : {"Nazrin","Sho","Ichirin","Murasa","Nue","Byakuren"},
-    "バカルテト＋三妖精＋レティ" : {"Cirno","Daiyosei","Rumia","Mystia","Wriggle","Sunny","Luna","Star","Letty"},
-    "花映塚＋萃夢想" : {"Suika","Tenshi","Iku","Komachi","Eiki","Medicine"},
-    "エリー、くるみ、神綺、夢子、魅魔" : {"Elliy","Kurumi","Shinki","Yumeko","Mima"},
-    "聖輦船" : {"Kosuzu","Korin","Akyu","Murasa","Ichirin"},
-    "めーまく" : {"Meko","Makura"},
-    "守矢神社" : {"Shizuha","Minoriko","Hina","Nitori","Aya","Momiji","Sanae","Kanako","Suwako","Hatate"},
-    "地霊殿" : {"Kisume","Yamame","Parsee","Yugi","Satori","Orin","Utsuho","Koishi"},
-    "ナズーリン、星、一輪、村紗、ぬえ、白蓮" : {"Nazrin","Sho","Ichirin","Murasa","Nue","Byakuren"},
-    "バカルテト＋三妖精＋レティ" : {"Cirno","Daiyosei","Rumia","Mystia","Wriggle","Sunny","Luna","Star","Letty"},
-    "花映塚＋萃夢想" : {"Suika","Tenshi","Iku","Komachi","Eiki","Medicine"},
-    "エリー、くるみ、神綺、夢子、魅魔" : {"Elliy","Kurumi","Shinki","Yumeko","Mima"},
-    "聖輦船" : {"Kosuzu","Korin","Akyu","Murasa","Ichirin"},
-    "めーまく" : {"Meko","Makura"},
-    "エリくる" : {"Elliy","Kurumi"},
-    "三月精②" : {"Sunny","Luna","Star"},
-    "三月精③" : {"Sunny","Luna","Star"},
-    "エリー（M04流用）" : {"Elliy"},
-    "幽香（M04流用）" : {"Yuka"},
-    "くるみ（M04流用）" : {"Kurumi"},
-    "エリー（M04流用）" : {"Elliy"},
-    "幽香（M04流用）" : {"Yuka"},
-    "くるみ（M04流用）" : {"Kurumi"},
-    "ルーミア（要否は検討）" : {"Rumia"},
-    "霊夢②" : {"Reimu"},
-    "メーコ（タケミナカタ後）" : {"Meko"},
-    "まくら（タケミナカタ後）" : {"Makura"},
-    "早苗さん（タケミナカタ前）" : {"Sanae"},
-    "早苗さん（タケミナカタ後）" : {"Sadnae"},
-    "椛（パチュリー増援後）" : {"Momiji"},
-    "文（パチュリー増援後）" : {"Aya"},
-    "チルノ会話" : {"Cirno"},
-    "妖精" : {"Yousei"},
-    "ルーミア（要否は検討）" : {"Rumia"},
-    "ルーミア（要否は検討）" : {"Rumia"},
-    "妖精" : {"Yousei"},
-    "レティ（C19）" : {"Letty"},
-    "レティ（C17）" : {"Letty"},
-    "リリー（C17）" : {"LilyW"},
-    "ルナサ（周回用）" : {"Lunasa"},
-    "メルラン（周回用）" : {"Merlin"},
-    "リリカ（周回用）" : {"Lyrica"},
-    "聖輦船★" : {"Seirensen"},
-    "はたて★" : {"Hatate"},
-    "秋姉妹①" : {"Shizuha","Minoriko"},
-    "秋姉妹②" : {"Shizuha","Minoriko"},
-    "メディスン" : {"Medicine"},
-    "穣子（没）" : {"Minoriko"},
-    "静葉（没）" : {"Shizuha"},
-    "前鬼または後鬼" : {"Zenki","Goki"},
-    "ルーミア（要否は検討）" : {"Rumia"},
-    "前鬼または後鬼" : {"Zenki","Roki"},
-    "妖精" : {"Yousei"},
-    "プリバ（リリカ）" : {"Prism"},
-    "三妖精②" : {"Sunny","Luna","Star"},
-    "レティ（C19）" : {"Letty"},
-    "レティ（C17）" : {"Letty"},
-    "リリー（C17）" : {"LilyW"},
-    "メルラン（不使用）" : {"Merlin"},
-    "リリカ（不使用）" : {"Lyrica"},
-    "静葉（不使用）" : {"Shizuha"},
-    "まくら（ファイナル前）" : {"Makura"},
-    "メーコ（ファイナル前）" : {"Meko"},
-    "めーまく（ファイナル後）" : {"Makura","Meko"},
-    "猫お燐" : {"Orin"},
-    "阿求52より分離" : {"Akyu"},
-    "メーコ（夢顕前）" : {"Meko"},
-    "まくら（夢顕前）" : {"Makura"},
-    "優曇華" : {"Udonge"},
-    "メディスン" : {"Medicine"},
-    "ヤマキス" : {"Yamame","Kisume"},
-    "バカルテト" : {"Cirno","Rumia","Wriggle","Mystia"},
-    "パチェこぁ" : {"Patchouli","Koakuma"},
-    "聖輦船（阿求）" : {"Seirensen","Akyu"},
-    "聖輦船（香霖）" : {"Seirensen","Murasa","Kosuzu"},
-    "聖輦船（阿求）" : {"Seirensen","Akyu","Kosuzu"},
-    "聖輦船（霖之助）" : {"Seirensen","Rinnosuke","Kosuzu"},
-    "幽々子（C42）" : {"Yuyuko"},
-    "非想天則（C03）" : {"Tensoku"},
-    "魔理沙１" : {"Marisa"},
-    "魔理沙２" : {"Marisa"},
-    "妖精" : {"Yousei"},
-    "イビルアイ" : {"EvilEye"},
-    "聖輦船★" : {"Seirensen"},
-    "はたて★" : {"Hatate"},
-    "メディ、幽香（両者を引き継いだ場合のみ）" : {"Medicine","Yuka"},
-    "依姫、豊姫（両者を引き継いだ場合のみ）" : {"Yorihime","Toyohime"},
-    "天子、衣玖（両者を引き継いだ場合のみ。当面封印）" : {"Tenshi","Iku"},
-    "神綺、夢子（両者を引き継いだ場合のみ）" : {"Shinki","Yumeko"},
-    "小傘（両者を引き継いだ場合のみ）" : {"Kogasa"},
-    "パチェこぁ" : {"Patchouli","Koakuma"},
-    "藍（R29から引用）" : {"Chen"},
-    "妖精" : {"Yousei"},
-    "前鬼または後鬼" : {"Zenki","Goki"},
-    "小悪魔（未作成）" : {"Koakuma"},
-    "霊夢（花鳥風月通過後）" : {"Reimu"},
-    "幽々子（花鳥風月通過後）" : {"Yuyuko"},
-    "優曇華" : {"Udonge"},
-    "メディスン" : {"Medicine"},
-    "フラン（R）" : {"Flan"},
-    "パチュリーあ" : {"Patchouli"},
-    "一輪（聖輦船2回目）" : {"Ichirin"},
-    "阿求（聖輦船3回目）" : {"Akyu"},
-    "文（風靡）" : {"Aya"},
-    "にとり（ポロロカ）" : {"Nitori"},
-    "紫（生と死）" : {"Ran"},
-    "幽々子（生と死）" : {"Yuyuko"},
-    "フラン（TTWN）" : {"Flan"},
-    "レミリア（没）" : {"Remilia"},
-    "前鬼または後鬼" : {"Zenki","Goki"},
-    "勇パル" : {"Yugi","Parsee"},
-    "ヤマキス" : {"Yamame","Kisume"},
-    "白うつほ" : {"Utsuho"},
-    "ルーミア（要否は検討）" : {"Rumia"},
-    "妖精" : {"Yousei"},
-    "慧音H" : {"KeineH"},
-    "空H" : {"UtsuhoH"},
-    "神奈子" : {"Kanako"},
-    "諏訪子様" : {"Suwako"}, 
-    "まくらH" : {"MakuraF"},
+	"霊夢" : {"Reimu"},
+	"魔理沙" : {"Marisa"},
+	"ルーミア" : {"Rumia"},
+	"大妖精" : {"Daiyosei"},
+	"チルノ" : {"Cirno"},
+	"美鈴" : {"Meiling"},
+	"小悪魔" : {"Koakuma"},
+	"パチュリー" : {"Patchouli"},
+	"咲夜" : {"Sakuya"},
+	"レミリア" : {"Remilia"},
+	"フラン" : {"Flan"},
+	"レティ" : {"Letty"},
+	"橙" : {"Chen"},
+	"アリス" : {"Alice"},
+	"上海" : {"Shanghai"},
+	"蓬莱" : {"Hourai"},
+	"リリー" : {"LilyW"},
+	"ルナサ" : {"Lunasa"},
+	"メルラン" : {"Merlin"},
+	"リリカ" : {"Lyrica"},
+	"三姉妹" : {"Prism"},
+	"妖夢" : {"Youmu"},
+	"幽々子" : {"Yuyuko"},
+	"藍" : {"Ran"},
+	"紫" : {"Yukari"},
+	"萃香" : {"Suika"},
+	"リグル" : {"Wriggle"},
+	"ミスティア" : {"Mystia"},
+	"慧音" : {"Keine"},
+	"てゐ" : {"Tewi"},
+	"鈴仙" : {"Udonge"},
+	"永琳" : {"Eirin"},
+	"輝夜" : {"Kaguya"},
+	"妹紅" : {"Mokou"},
+	"文" : {"Aya"},
+	"メディ" : {"Medicine"},
+	"小町" : {"Komachi"},
+	"映姫" : {"Eiki"},
+	"静葉" : {"Shizuha"},
+	"穣子" : {"Minoriko"},
+	"雛" : {"Hina"},
+	"にとり" : {"Nitori"},
+	"椛" : {"Momiji"},
+	"早苗" : {"Sanae"},
+	"神奈子" : {"Kanako"},
+	"諏訪子" : {"Suwako"},
+	"天子" : {"Tenshi"},
+	"衣玖" : {"Iku"},
+	"キスメ" : {"Kisume"},
+	"ヤマメ" : {"Yamame"},
+	"パルスィ" : {"Parsee"},
+	"勇儀" : {"Yugi"},
+	"さとり" : {"Satori"},
+	"お燐" : {"Orin"},
+	"お燐（猫）" : {"OrinC"},
+	"空" : {"Utsuho"},
+	"こいし" : {"Koishi"},
+	"ナズーリン" : {"Nazrin"},
+	"小傘" : {"Kogasa"},
+	"一輪" : {"Ichirin"},
+	"雲山" : {"Unzan"},
+	"村紗" : {"Murasa"},
+	"星" : {"Sho"},
+	"白蓮" : {"Byakuren"},
+	"ぬえ" : {"Nue"},
+	"聖輦船" : {"Seirensen"},
+	"はたて" : {"Hatate"},
+	"非想天則" : {"Tensoku"},
+	"サニー" : {"Sunny"},
+	"スター" : {"Star"},
+	"ルナ" : {"Luna"},
+	"三妖精" : {"Faries"},
+	"阿求" : {"Akyu"},
+	"霖之助" : {"Korin"},
+	"依姫" : {"Yorihime"},
+	"豊姫" : {"Toyohime"},
+	"レイセン" : {"Reisen"},
+	"小鈴" : {"Kosuzu"},
+	"エリー" : {"Elliy"},
+	"くるみ" : {"Kurumi"},
+	"幽香" : {"Yuka"},
+	"魅魔" : {"Mima"},
+	"夢子" : {"Yumeko"},
+	"神綺" : {"Shinki"},
+	"メーコ" : {"Meko"},
+	"まくら" : {"Makura"},
+	"天狗A" : {"KTenguA"},
+	"天狗B" : {"HTenguB"},
+	"河童C" : {"KappaC"},
+	"前鬼" : {"Zenki"},
+	"後鬼" : {"Goki"},
+	"妖怪兎D" : {"UsagiD"},
+	"大ナマズ" : {"Onamazu"},
+	"悪夢" : {"RemiliaN"},
+	"悪夢" : {"FlanN"},
+	"悪夢" : {"YuyukoN"},
+	"悪夢" : {"YukariN"},
+	"悪夢" : {"RanN"},
+	"悪夢" : {"KaguyaN"},
+	"悪夢" : {"EirinN"},
+	"悪夢" : {"MokouN"},
+	"悪夢" : {"KanakoN"},
+	"悪夢" : {"SuwakoN"},
+	"悪夢" : {"UtsuhoN"},
+	"悪夢" : {"KoishiN"},
+	"悪夢" : {"NazrinN"},
+	"悪夢" : {"IchirinN"},
+	"悪夢" : {"MurasaN"},
+	"悪夢" : {"ShoN"},
+	"悪夢" : {"ByakurenN"},
+	"悪夢" : {"NueN"},
+	"悪夢" : {"EikiN"},
+	"悪夢" : {"SuikaN"},
+	"悪夢" : {"TenshiN"},
+	"悪夢" : {"YorihimeN"},
+	"悪夢" : {"ToyohimeN"},
+	"悪夢" : {"MimaN"},
+	"咲夜さん" : {"Sakuya"},
+	"ゆゆ様" : {"Yuyuko"},
+	"霊夢R" : {"Reimu"},
+	"魔理沙R" : {"Marisa"},
+	"早苗さん" : {"Sanae"},
+	"みすちー" : {"Mystia"},
+	"プリバ" : {"Prism"},
+	"秋姉妹" : {"Shizuha","Minoriko"},
+	"かなすわ" : {"Kanako","Suwako"},
+	"マリアリ" : {"Marisa","Alice"},
+	"三月精" : {"Sunny","Luna","Star"},
+	"あやもみ" : {"Aya","Momiji"},
+	"えりくる" : {"Elliy","Kurumi"},
+	"大チル" : {"Daiyosei","Cirno"},
+	"霊夢、魔理沙、にとり、早苗さん、アリス" : {"Reimu","Marisa","Nitori","Sanae","Alice"},
+	"レミリア、フラン、咲夜さん、美鈴、パチュリー、こぁ" : {"Remilia","Flan","Meiling","Sakuya","Koakuma"},
+	"エリー、くるみ、雛、小町" : {"Elliy","Kurumi","Hina","Komachi"},
+	"神奈子、諏訪子、文、椛、はたて、（早苗さん）" : {"Kanako","Suwako","Aya","Momiji","Hatate"},
+	"紫、ゆゆ様、藍、橙、妖夢、萃香" : {"Yukari","Yuyuko","Ran","Chen","Youmu","Suika"},
+	"星、ナズーリン、村紗、ぬえ、一輪、阿求" : {"Sho","Nazrin","Murasa","Nue","Ichirin","Akyuu"},
+	"輝夜、永琳、妹紅、慧音、鈴仙、てゐ" : {"Kaguya","Eirin","Mokou","Keine","Udonge","Tewi"},
+	"チルノ、大妖精、ルーミア、ミスティア、リグル" : {"Cirno","Daiyosei","Rumia","Mystia","Wriggle"},
+	"ルナサ、メルラン、リリカ" : {"Lunasa","Merlin","Lyrica"},
+	"サニー、ルナ、スター、リリー、レティ、穣子、静葉" : {"Sunny","Luna","Star","LilyW","Letty","Shizuha","Minoriko"},
+	"お燐、勇儀、パルスィ、ヤマメ、キスメ" : {"Orin","Yugi","Parsee","Yamame","Kisume"},
+	"メーコ、まくら" : {"Meko","Makura"},
+	"メディ、幽香" : {"Medicine","Yuka"},
+	"依姫、豊姫" : {"Yorihime","Toyohime"},
+	"天子、衣玖" : {"Tenshi","Iku"},
+	"神綺、夢子" : {"Shinki","Yumeko"},
+	"ファイナルまくら" : {"Makura"},
+	"レミリア、フラン、美鈴、咲夜、小悪魔、パチュリー" : {"Remilia","Flan","Meiling","Sakuya","Koakuma"},
+	"橙、藍、妖夢、ゆゆ様、紫、三姉妹、アリス" : {"Yukari","Chen","Youmu","Yuyuko","Ran","Lyrica","Merlin","Lunasa","Alice"},
+	"永遠亭" : {"Kaguya","Eirin","Mokou","Udonge","Tewi","Yorihime","Toyohime","Reisen","Tewi","LilyW"},
+	"守矢神社" : {"Shizuha","Minoriko","Hina","Nitori","Aya","Momiji","Sanae","Kanako","Suwako","Hatate"},
+	"地霊殿" : {"Kisume","Yamame","Parsee","Yugi","Satori","Orin","Utsuho","Koishi"},
+	"ナズーリン、星、一輪、村紗、ぬえ、白蓮" : {"Nazrin","Sho","Ichirin","Murasa","Nue","Byakuren"},
+	"バカルテト＋三妖精＋レティ" : {"Cirno","Daiyosei","Rumia","Mystia","Wriggle","Sunny","Luna","Star","Letty"},
+	"花映塚＋萃夢想" : {"Suika","Tenshi","Iku","Komachi","Eiki","Medicine"},
+	"エリー、くるみ、神綺、夢子、魅魔" : {"Elliy","Kurumi","Shinki","Yumeko","Mima"},
+	"聖輦船" : {"Kosuzu","Korin","Akyu","Murasa","Ichirin"},
+	"めーまく" : {"Meko","Makura"},
+	"守矢神社" : {"Shizuha","Minoriko","Hina","Nitori","Aya","Momiji","Sanae","Kanako","Suwako","Hatate"},
+	"地霊殿" : {"Kisume","Yamame","Parsee","Yugi","Satori","Orin","Utsuho","Koishi"},
+	"ナズーリン、星、一輪、村紗、ぬえ、白蓮" : {"Nazrin","Sho","Ichirin","Murasa","Nue","Byakuren"},
+	"バカルテト＋三妖精＋レティ" : {"Cirno","Daiyosei","Rumia","Mystia","Wriggle","Sunny","Luna","Star","Letty"},
+	"花映塚＋萃夢想" : {"Suika","Tenshi","Iku","Komachi","Eiki","Medicine"},
+	"エリー、くるみ、神綺、夢子、魅魔" : {"Elliy","Kurumi","Shinki","Yumeko","Mima"},
+	"聖輦船" : {"Kosuzu","Korin","Akyu","Murasa","Ichirin"},
+	"めーまく" : {"Meko","Makura"},
+	"エリくる" : {"Elliy","Kurumi"},
+	"三月精②" : {"Sunny","Luna","Star"},
+	"三月精③" : {"Sunny","Luna","Star"},
+	"エリー（M04流用）" : {"Elliy"},
+	"幽香（M04流用）" : {"Yuka"},
+	"くるみ（M04流用）" : {"Kurumi"},
+	"エリー（M04流用）" : {"Elliy"},
+	"幽香（M04流用）" : {"Yuka"},
+	"くるみ（M04流用）" : {"Kurumi"},
+	"ルーミア（要否は検討）" : {"Rumia"},
+	"霊夢②" : {"Reimu"},
+	"メーコ（タケミナカタ後）" : {"Meko"},
+	"まくら（タケミナカタ後）" : {"Makura"},
+	"早苗さん（タケミナカタ前）" : {"Sanae"},
+	"早苗さん（タケミナカタ後）" : {"Sadnae"},
+	"椛（パチュリー増援後）" : {"Momiji"},
+	"文（パチュリー増援後）" : {"Aya"},
+	"チルノ会話" : {"Cirno"},
+	"妖精" : {"Yousei"},
+	"ルーミア（要否は検討）" : {"Rumia"},
+	"ルーミア（要否は検討）" : {"Rumia"},
+	"妖精" : {"Yousei"},
+	"レティ（C19）" : {"Letty"},
+	"レティ（C17）" : {"Letty"},
+	"リリー（C17）" : {"LilyW"},
+	"ルナサ（周回用）" : {"Lunasa"},
+	"メルラン（周回用）" : {"Merlin"},
+	"リリカ（周回用）" : {"Lyrica"},
+	"聖輦船★" : {"Seirensen"},
+	"はたて★" : {"Hatate"},
+	"秋姉妹①" : {"Shizuha","Minoriko"},
+	"秋姉妹②" : {"Shizuha","Minoriko"},
+	"メディスン" : {"Medicine"},
+	"穣子（没）" : {"Minoriko"},
+	"静葉（没）" : {"Shizuha"},
+	"前鬼または後鬼" : {"Zenki","Goki"},
+	"ルーミア（要否は検討）" : {"Rumia"},
+	"前鬼または後鬼" : {"Zenki","Roki"},
+	"妖精" : {"Yousei"},
+	"プリバ（リリカ）" : {"Prism"},
+	"三妖精②" : {"Sunny","Luna","Star"},
+	"レティ（C19）" : {"Letty"},
+	"レティ（C17）" : {"Letty"},
+	"リリー（C17）" : {"LilyW"},
+	"メルラン（不使用）" : {"Merlin"},
+	"リリカ（不使用）" : {"Lyrica"},
+	"静葉（不使用）" : {"Shizuha"},
+	"まくら（ファイナル前）" : {"Makura"},
+	"メーコ（ファイナル前）" : {"Meko"},
+	"めーまく（ファイナル後）" : {"Makura","Meko"},
+	"猫お燐" : {"Orin"},
+	"阿求52より分離" : {"Akyu"},
+	"メーコ（夢顕前）" : {"Meko"},
+	"まくら（夢顕前）" : {"Makura"},
+	"優曇華" : {"Udonge"},
+	"メディスン" : {"Medicine"},
+	"ヤマキス" : {"Yamame","Kisume"},
+	"バカルテト" : {"Cirno","Rumia","Wriggle","Mystia"},
+	"パチェこぁ" : {"Patchouli","Koakuma"},
+	"聖輦船（阿求）" : {"Seirensen","Akyu"},
+	"聖輦船（香霖）" : {"Seirensen","Murasa","Kosuzu"},
+	"聖輦船（阿求）" : {"Seirensen","Akyu","Kosuzu"},
+	"聖輦船（霖之助）" : {"Seirensen","Rinnosuke","Kosuzu"},
+	"幽々子（C42）" : {"Yuyuko"},
+	"非想天則（C03）" : {"Tensoku"},
+	"魔理沙１" : {"Marisa"},
+	"魔理沙２" : {"Marisa"},
+	"妖精" : {"Yousei"},
+	"イビルアイ" : {"EvilEye"},
+	"聖輦船★" : {"Seirensen"},
+	"はたて★" : {"Hatate"},
+	"メディ、幽香（両者を引き継いだ場合のみ）" : {"Medicine","Yuka"},
+	"依姫、豊姫（両者を引き継いだ場合のみ）" : {"Yorihime","Toyohime"},
+	"天子、衣玖（両者を引き継いだ場合のみ。当面封印）" : {"Tenshi","Iku"},
+	"神綺、夢子（両者を引き継いだ場合のみ）" : {"Shinki","Yumeko"},
+	"小傘（両者を引き継いだ場合のみ）" : {"Kogasa"},
+	"パチェこぁ" : {"Patchouli","Koakuma"},
+	"藍（R29から引用）" : {"Chen"},
+	"妖精" : {"Yousei"},
+	"前鬼または後鬼" : {"Zenki","Goki"},
+	"小悪魔（未作成）" : {"Koakuma"},
+	"霊夢（花鳥風月通過後）" : {"Reimu"},
+	"幽々子（花鳥風月通過後）" : {"Yuyuko"},
+	"優曇華" : {"Udonge"},
+	"メディスン" : {"Medicine"},
+	"フラン（R）" : {"Flan"},
+	"パチュリーあ" : {"Patchouli"},
+	"一輪（聖輦船2回目）" : {"Ichirin"},
+	"阿求（聖輦船3回目）" : {"Akyu"},
+	"文（風靡）" : {"Aya"},
+	"にとり（ポロロカ）" : {"Nitori"},
+	"紫（生と死）" : {"Ran"},
+	"幽々子（生と死）" : {"Yuyuko"},
+	"フラン（TTWN）" : {"Flan"},
+	"レミリア（没）" : {"Remilia"},
+	"前鬼または後鬼" : {"Zenki","Goki"},
+	"勇パル" : {"Yugi","Parsee"},
+	"ヤマキス" : {"Yamame","Kisume"},
+	"白うつほ" : {"Utsuho"},
+	"ルーミア（要否は検討）" : {"Rumia"},
+	"妖精" : {"Yousei"},
+	"慧音H" : {"KeineH"},
+	"空H" : {"UtsuhoH"},
+	"神奈子" : {"Kanako"},
+	"諏訪子様" : {"Suwako"}, 
+	"まくらH" : {"MakuraF"},
 }
 
 files = {"01Reimu",
@@ -467,154 +467,168 @@ chars = {
 generate_bd = True
 
 atk_type = {
-    11 : "^Support_Attack ",
-    12 : "^Support_Defend ",
-    13 : "^Assist_Attack ",
-    14 : "^FP_Front ",
-    15 : "^FP_Back ",
-    20 : "^Revenge "
+	11 : "Support Attack ",
+	12 : "Support Defend ",
+	13 : "Assist Attack ",
+	14 : "Full Power ",
+	#15 : "Full Power Back ",
+	20 : "Revenge "
 }
 
 def ReadLineNum(url, num):
-    outp = []
-    with open(url, newline='', encoding="utf8") as csvfile:
-        reader = csv.reader(csvfile, delimiter=',', quotechar='|')
-        for row in reader:
-            if (row[0] == str(num)):
-                row[-1] = row[-1].replace("/", "")
-                row[-1] = row[-1].replace("\\n　", "<br>")
-                outp.append(f"{row[-2].strip()} : {row[-1]}")
-    return outp
+	outp = []
+	with open(url, newline='', encoding="utf8") as csvfile:
+		reader = csv.reader(csvfile, delimiter=',', quotechar='|')
+		for row in reader:
+			if (row[0] == str(num)):
+				row[-1] = row[-1].replace("/", ",")
+				row[-1] = row[-1].replace("\\n　", "<br>")
+				outp.append(f"{row[-2].strip()} : {row[-1]}")
+	return outp
 
 def intersection(list_a, list_b):
-    return [ e for e in list_a if e in list_b ]
+	return [ e for e in list_a if e in list_b ]
 
 for char in chars:
-    chapters = {}
+	chapters = {}
 
-    for e in files:
-        fights = {}
-        with open("./chaptercontent/ChatList_"+ e +".txt", "r", encoding="utf-8") as file:
-            chapter = e
-            for line in file:
-                if (len(line) > 4 and line[0:3] == "//%"):
-                    line = line.replace("//%", "//")
-                    ngp = True
-                result = re.search(r"\/\/(.*?)([^\：]*)(?:vs\.*|・)(.*)" ,line)       
-                if (result and len(result.groups()) == 3) :
-                    if (len(result.groups()[0]) > 2 and result.groups()[0][:-1] in files) :
-                        chapter = result.groups()[0][:-1]
-                    if (result.groups()[2] in names and char in names[result.groups()[2]]) :
-                        if (result.groups()[1] in names):
-                            fights = names[result.groups()[1]]
-                        else:
-                            print(e + result.groups()[1])
-                elif ("<end>" in line):
-                    fights = {}
-                    chapter = e
-                    ngp = False
-                else: 
-                    for fight in fights:
-                        if chapter not in chapters :
-                            chapters[chapter] = {}
-                        if fight not in chapters[chapter]:
-                            chapters[chapter][fight] = []
-                            if (ngp):
-                                chapters[chapter][fight].append("ng")
-                        chapters[chapter][fight].append(line)
-    
-    if (generate_bd):
-        record = False
-        record_stop = False
-        #todo replace this, its just to skip the header
-        skip = True
-        chapters['bd'] = {} 
-        txtfile = f"./data4/dialog_text_{char}.csv"
-        metafile = f"./data4/dialog_meta_{char}.csv"
-        if (os.path.isfile(metafile)):
-            with open(metafile, newline='', encoding="utf8") as csvfile:
-                reader = csv.reader(csvfile, delimiter=',')
-                for row in reader:
-                    if (skip):
-                        skip = False
-                        continue 
-                    #revenge
-                    if (str(row[20]) == "1"):
-                        record = True
-                    fights = {}
-                    if (row[24]):
-                        record_stop = True
-                        fights = (intersection(row[24].split("|"), chars))
-                        if (len(fights) == 0):
-                            continue
-                    else:
-                        if (record and not record_stop): 
-                            fights = [char]
-                    
-                    nlines = ReadLineNum(txtfile, row[0])
+	for e in files:
+		fights = {}
+		with open("./chaptercontent/ChatList_"+ e +".txt", "r", encoding="utf-8") as file:
+			chapter = e
+			for line in file:
+				if (len(line) > 4 and line[0:3] == "//%"):
+					line = line.replace("//%", "//")
+					ngp = True
+				result = re.search(r"\/\/(.*?)([^\：]*)(?:vs\.*|・)(.*)" ,line)       
+				if (result and len(result.groups()) == 3) :
+					if (len(result.groups()[0]) > 2 and result.groups()[0][:-1] in files) :
+						chapter = result.groups()[0][:-1]
+					if (result.groups()[2] in names and char in names[result.groups()[2]]) :
+						if (result.groups()[1] in names):
+							fights = names[result.groups()[1]]
+						else:
+							print(e + result.groups()[1])
+				elif ("<end>" in line):
+					fights = {}
+					chapter = e
+					ngp = False
+				else: 
+					for fight in fights:
+						if chapter not in chapters :
+							chapters[chapter] = {}
+						if fight not in chapters[chapter]:
+							chapters[chapter][fight] = []
+							if (ngp):
+								chapters[chapter][fight].append("ng")
+						chapters[chapter][fight].append(line)
+	
+	if (generate_bd):
+		record = False
+		record_stop = False
+		#todo replace this, its just to skip the header
+		skip = True
+		chapters['bd'] = {} 
+		generic_id = 0
 
-                    for fight in fights:
-                        if (fight not in chapters["bd"]):
-                            chapters["bd"][fight] = []
-                        for nline in nlines:
-                            chapters["bd"][fight].append(nline)
-                            
-            #print (chapters["bd"])
+		txtfile = f"./data4/dialog_text_{char}.csv"
+		metafile = f"./data4/dialog_meta_{char}.csv"
+		if (os.path.isfile(metafile)):
+			with open(metafile, newline='', encoding="utf8") as csvfile:
+				reader = csv.reader(csvfile, delimiter=',')
+				for row in reader:
+					if (skip):
+						skip = False
+						continue 
+					#revenge
+					if (str(row[20]) == "1"):
+						record = True
+					fights = {}
+					if (row[24]):
+						record_stop = True
+						fights = (intersection(row[24].split("|"), chars))
+						if (len(fights) == 0):
+							continue
+					else:
+						if (record and not record_stop): 
+							fights = [char]
+					
+					nlines = ReadLineNum(txtfile, row[0])
+					lineheader = ""
+					for key, value in atk_type.items():
+						if str(row[key]) == "1":
+							if (lineheader is "") :
+								lineheader += value
+							else:
+								lineheader += "| " + value
+					if lineheader :
+						lineheader = "^" + lineheader
+						nlines.insert(0, lineheader)
+					for fight in fights :
+						if (fight not in chapters["bd"]):
+							chapters["bd"][fight] = []
+						for nline in nlines:
+							chapters["bd"][fight].append(nline)
+							
+			#print (chapters["bd"])
 
 
-    outp = f'''<!DOCTYPE html>
+	outp = f'''<!DOCTYPE html>
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta property="og:site_name" content="Fantasy Maiden Wars Dialogue">
-    <meta property="og:title" content={char.capitalize()}>
-    <meta property="og:image" content="https://kirbikomeiji.github.io/fmwbossdialogue/dialogue/face_{char.capitalize()}0a.png">
-    <meta property="og:description" content="View all dialogue initiated by {char.capitalize()}.">
-    <meta name="theme-color" content="#abfff7">
-    <meta name="twitter:card" content="summary_large_image">
+	<meta charset="UTF-8">
+	<meta property="og:site_name" content="Fantasy Maiden Wars Dialogue">
+	<meta property="og:title" content={char.capitalize()}>
+	<meta property="og:image" content="https://kirbikomeiji.github.io/fmwbossdialogue/dialogue/face_{char.capitalize()}0a.png">
+	<meta property="og:description" content="View all dialogue initiated by {char.capitalize()}.">
+	<meta name="theme-color" content="#abfff7">
+	<meta name="twitter:card" content="summary_large_image">
 
-    <title>Title</title>
-    <link rel="stylesheet" href="style.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-    <script>
-        $(function(){{
-            $("#includedContent").load("DialogueSelector.html");
-        }});
-    </script>
-    <script src="index.js"> </script>
+	<title>Title</title>
+	<link rel="stylesheet" href="style.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+	<script>
+		$(function(){{
+			$("#includedContent").load("DialogueSelector.html");
+		}});
+	</script>
+	<script src="index.js"> </script>
 </head>
 
 <body>
 <div id="includedContent"></div>'''
 
-    for chapter_name, chapter in chapters.items():
-        outp += f'''<div class="chapters" id="{chapter_name}"> '''
-        for fight_name, fight in chapter.items():
-            if (len(fight) != 0 and fight[0] == "ng"):
-                outp += f'''<div class="dialogue" data-ng=1 title="{fight_name.lower()}">'''
-            else:
-                outp += f'''<div class="dialogue" title="{fight_name.lower()}">'''
-            for line in fight:
-                if (line == "ng"):
-                    continue
-                if ((len(line) > 3) and (line[0] != "<")):
-                    line_parts = (line.strip()).split(":")
-                    if len(line_parts) == 1:
-                        outp += f'''<div class ="line"> {line.strip()}</div>'''
-                    else:
-                        text = line_parts[1]
-                        if (len(line_parts) == 3):
-                            text +=":"+ line_parts[2]
-                        flip = ""
-                        if line_parts[0][0] == '%':
-                            flip = '''class="flip"'''
-                            line_parts[0] = line_parts[0].replace("%", '')
-                        outp += f'''<div class ="line"><img {flip} src="./dialogue/face_{line_parts[0].strip()}.png"><div> {text}</div></div>'''
-            outp += "</div>"
-        outp += "</div>"
-    outp += "</div> </body></html>"
+	for chapter_name, chapter in chapters.items():
+		outp += f'''<div class="chapters" id="{chapter_name}"> '''
+		for fight_name, fight in chapter.items():
+			if (len(fight) != 0 and fight[0] == "ng"):
+				outp += f'''<div class="dialogue" data-ng=1 title="{fight_name.lower()}">'''
+			else:
+				outp += f'''<div class="dialogue" title="{fight_name.lower()}">'''
+			for line in fight:
+				if len(line) != 0 and line[0] == '^':
+					outp += f'''<h3>{line[1:]}</h3>'''
+					continue
+				if (line == "ng"):
+					continue
+				if ((len(line) > 3) and (line[0] != "<")):
+					line_parts = (line.strip()).split(":")
+					if len(line_parts) == 1:
+						outp += f'''<div class ="line"> {line.strip()}</div>'''
+					else:
+						text = line_parts[1]
+						if (len(line_parts) == 3):
+							text +=":"+ line_parts[2]
+						flip = ""
+						if line_parts[0][0] == '%':
+							flip = '''class="flip"'''
+							line_parts[0] = line_parts[0].replace("%", '')
+						outp += f'''<div class ="line"><img {flip} src="./dialogue/face_{line_parts[0].strip()}.png"><div> {text}</div></div>'''
+			outp += "</div>"
+		outp += "</div>"
+	outp += "</div> </body></html>"
 
-    with open(char + ".html", "w", encoding="utf-8") as f:
-        f.write(outp)
+	with open(char + ".html", "w", encoding="utf-8") as f:
+		f.write(outp)
 

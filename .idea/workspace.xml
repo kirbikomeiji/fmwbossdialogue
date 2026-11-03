@@ -1,8 +1,178 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7ad749d8-c775-4725-800a-a531e4db345a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akyu.html" beforeDir="false" afterPath="$PROJECT_DIR$/Akyu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alice.html" beforeDir="false" afterPath="$PROJECT_DIR$/Alice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aya.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aya.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Byakuren.html" beforeDir="false" afterPath="$PROJECT_DIR$/Byakuren.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chen.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cirno.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cirno.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daiyosei.html" beforeDir="false" afterPath="$PROJECT_DIR$/Daiyosei.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DialogueSelector.html" beforeDir="false" afterPath="$PROJECT_DIR$/DialogueSelector.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eiki.html" beforeDir="false" afterPath="$PROJECT_DIR$/Eiki.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eirin.html" beforeDir="false" afterPath="$PROJECT_DIR$/Eirin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elliy.html" beforeDir="false" afterPath="$PROJECT_DIR$/Elliy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flan.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hatate.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hatate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hina.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hina.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ichirin.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ichirin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iku.html" beforeDir="false" afterPath="$PROJECT_DIR$/Iku.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kaguya.html" beforeDir="false" afterPath="$PROJECT_DIR$/Kaguya.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kanako.html" beforeDir="false" afterPath="$PROJECT_DIR$/Kanako.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keine.html" beforeDir="false" afterPath="$PROJECT_DIR$/Keine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kisume.html" beforeDir="false" afterPath="$PROJECT_DIR$/Kisume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Koakuma.html" beforeDir="false" afterPath="$PROJECT_DIR$/Koakuma.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kogasa.html" beforeDir="false" afterPath="$PROJECT_DIR$/Kogasa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Koishi.html" beforeDir="false" afterPath="$PROJECT_DIR$/Koishi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Komachi.html" beforeDir="false" afterPath="$PROJECT_DIR$/Komachi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Korin.html" beforeDir="false" afterPath="$PROJECT_DIR$/Korin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kosuzu.html" beforeDir="false" afterPath="$PROJECT_DIR$/Kosuzu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kurumi.html" beforeDir="false" afterPath="$PROJECT_DIR$/Kurumi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letty.html" beforeDir="false" afterPath="$PROJECT_DIR$/Letty.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LilyW.html" beforeDir="false" afterPath="$PROJECT_DIR$/LilyW.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luna.html" beforeDir="false" afterPath="$PROJECT_DIR$/Luna.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lunasa.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lunasa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lyrica.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lyrica.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makura.html" beforeDir="false" afterPath="$PROJECT_DIR$/Makura.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Marisa.html" beforeDir="false" afterPath="$PROJECT_DIR$/Marisa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medicine.html" beforeDir="false" afterPath="$PROJECT_DIR$/Medicine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meiling.html" beforeDir="false" afterPath="$PROJECT_DIR$/Meiling.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meko.html" beforeDir="false" afterPath="$PROJECT_DIR$/Meko.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Merlin.html" beforeDir="false" afterPath="$PROJECT_DIR$/Merlin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mima.html" beforeDir="false" afterPath="$PROJECT_DIR$/Mima.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minoriko.html" beforeDir="false" afterPath="$PROJECT_DIR$/Minoriko.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mokou.html" beforeDir="false" afterPath="$PROJECT_DIR$/Mokou.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Momiji.html" beforeDir="false" afterPath="$PROJECT_DIR$/Momiji.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Murasa.html" beforeDir="false" afterPath="$PROJECT_DIR$/Murasa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mystia.html" beforeDir="false" afterPath="$PROJECT_DIR$/Mystia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nazrin.html" beforeDir="false" afterPath="$PROJECT_DIR$/Nazrin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nitori.html" beforeDir="false" afterPath="$PROJECT_DIR$/Nitori.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nue.html" beforeDir="false" afterPath="$PROJECT_DIR$/Nue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Orin.html" beforeDir="false" afterPath="$PROJECT_DIR$/Orin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parsee.html" beforeDir="false" afterPath="$PROJECT_DIR$/Parsee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patchouli.html" beforeDir="false" afterPath="$PROJECT_DIR$/Patchouli.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ran.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ran.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reimu.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reimu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reisen.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reisen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remilia.html" beforeDir="false" afterPath="$PROJECT_DIR$/Remilia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rumia.html" beforeDir="false" afterPath="$PROJECT_DIR$/Rumia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sakuya.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sakuya.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sanae.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sanae.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Satori.html" beforeDir="false" afterPath="$PROJECT_DIR$/Satori.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seirensen.html" beforeDir="false" afterPath="$PROJECT_DIR$/Seirensen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shinki.html" beforeDir="false" afterPath="$PROJECT_DIR$/Shinki.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shizuha.html" beforeDir="false" afterPath="$PROJECT_DIR$/Shizuha.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sho.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sho.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Star.html" beforeDir="false" afterPath="$PROJECT_DIR$/Star.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Suika.html" beforeDir="false" afterPath="$PROJECT_DIR$/Suika.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sunny.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sunny.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Suwako.html" beforeDir="false" afterPath="$PROJECT_DIR$/Suwako.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenshi.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tenshi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensoku.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tensoku.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tewi.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tewi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Toyohime.html" beforeDir="false" afterPath="$PROJECT_DIR$/Toyohime.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Udonge.html" beforeDir="false" afterPath="$PROJECT_DIR$/Udonge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utsuho.html" beforeDir="false" afterPath="$PROJECT_DIR$/Utsuho.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wriggle.html" beforeDir="false" afterPath="$PROJECT_DIR$/Wriggle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yamame.html" beforeDir="false" afterPath="$PROJECT_DIR$/Yamame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yorihime.html" beforeDir="false" afterPath="$PROJECT_DIR$/Yorihime.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Youmu.html" beforeDir="false" afterPath="$PROJECT_DIR$/Youmu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yugi.html" beforeDir="false" afterPath="$PROJECT_DIR$/Yugi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yuka.html" beforeDir="false" afterPath="$PROJECT_DIR$/Yuka.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yukari.html" beforeDir="false" afterPath="$PROJECT_DIR$/Yukari.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yumeko.html" beforeDir="false" afterPath="$PROJECT_DIR$/Yumeko.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yuyuko.html" beforeDir="false" afterPath="$PROJECT_DIR$/Yuyuko.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Akyu00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Akyu00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Alice00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Alice00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Aya00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Aya00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Byakuren00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Byakuren00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Chen00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Chen00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Cirno00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Cirno00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Daiyosei00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Daiyosei00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Eiki00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Eiki00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Eirin00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Eirin00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Elliy00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Elliy00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Faries00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Faries00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Flan00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Flan00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Hatate00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Hatate00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Hina00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Hina00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Ichirin00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Ichirin00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Iku00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Iku00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Kaguya00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Kaguya00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Kanako00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Kanako00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Keine00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Keine00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Kisume00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Kisume00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Koakuma00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Koakuma00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Kogasa00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Kogasa00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Koishi00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Koishi00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Komachi00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Komachi00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Kurumi00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Kurumi00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Letty00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Letty00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/LilyW00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/LilyW00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Luna00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Luna00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Lunasa00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Lunasa00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Lyrica00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Lyrica00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Makura00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Makura00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/MakuraF00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/MakuraF00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/MakuraS00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/MakuraS00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Marisa00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Marisa00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/MarisaR00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/MarisaR00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Medicine00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Medicine00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Meiling00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Meiling00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Meko00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Meko00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Merlin00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Merlin00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Mima00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Mima00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Minoriko00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Minoriko00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Mokou00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Mokou00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Momiji00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Momiji00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Murasa00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Murasa00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Mystia00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Mystia00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Nazrin00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Nazrin00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Nitori00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Nitori00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Nue00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Nue00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Orin00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Orin00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Parsee00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Parsee00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Patchouli00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Patchouli00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Prism00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Prism00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Ran00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Ran00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Reimu00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Reimu00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Reisen00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Reisen00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Remilia00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Remilia00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Rumia00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Rumia00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Sakuya00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Sakuya00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Sanae00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Sanae00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Satori00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Satori00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Seirensen00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Seirensen00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Shinki00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Shinki00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Shizuha00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Shizuha00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Sho00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Sho00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Star00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Star00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Suika00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Suika00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Sunny00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Sunny00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Suwako00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Suwako00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Tenshi00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Tenshi00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Tensoku00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Tensoku00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Tewi00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Tewi00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Toyohime00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Toyohime00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Udonge00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Udonge00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Utsuho00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Utsuho00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Wriggle00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Wriggle00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Yamame00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Yamame00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Yorihime00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Yorihime00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Youmu00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Youmu00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Yugi00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Yugi00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Yuka00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Yuka00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Yukari00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Yukari00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Yumeko00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Yumeko00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites for pairup lines/Yuyuko00.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Yuyuko00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,18 +191,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kirbi/Documents/GitHub/fmwbossdialogue&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.index.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "C:/Users/Kirbi/Documents/GitHub/fmwbossdialogue",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/fmwbossdialogue/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
