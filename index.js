@@ -319,7 +319,7 @@ function showChapter(id, this_button) {
 }
 
 function showchar(id, this_button) {
-    name = String(id[0]).toUpperCase() + String(id).slice(1);
+    name = id;
 
     let path = window.location.pathname;
     let pagename = path.substring(path.lastIndexOf('/') + 1, path.length - 5);
