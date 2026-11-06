@@ -15,7 +15,7 @@ function onInit() {
     var url = new URL(window.location.href);
     var chapter = url.searchParams.get("chapter");
     var character = url.searchParams.get("character");
-    document.querySelector('#img_left').src = `./sprites/${name}00.png`;
+    document.querySelector('#img_left').src = `./sprites/${name.toLowerCase()}00.png`;
 
     if (chapter != null) {
         showChapter(chapter);
@@ -329,7 +329,7 @@ function showchar(id, this_button) {
         name = "Yousei1"
 
 
-    document.querySelector('#img_right').src = `./sprites/${name}00.png`;
+    document.querySelector('#img_right').src = `./sprites/${name.toLowerCase()}00.png`;
     document.querySelectorAll('.character_button').forEach((button) => {
         button.disabled = false;
     });

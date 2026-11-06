@@ -480,7 +480,7 @@ def ReadLineNum(url, num):
 	with open(url, newline='', encoding="utf8") as csvfile:
 		reader = csv.reader(csvfile, delimiter=',', quotechar='|')
 		for row in reader:
-			if (row[0] == str(num)):
+			if row[0] == str(num):
 				row[-1] = row[-1].replace("/", ",")
 				row[-1] = row[-1].replace("\\n　", "<br>")
 				outp.append(f"{row[-2].strip()} : {row[-1]}")
@@ -497,19 +497,19 @@ for char in chars:
 		with open("./chaptercontent/ChatList_"+ e +".txt", "r", encoding="utf-8") as file:
 			chapter = e
 			for line in file:
-				if (len(line) > 4 and line[0:3] == "//%"):
+				if len(line) > 4 and line[0:3] == "//%":
 					line = line.replace("//%", "//")
 					ngp = True
 				result = re.search(r"\/\/(.*?)([^\：]*)(?:vs\.*|・)(.*)" ,line)       
-				if (result and len(result.groups()) == 3) :
-					if (len(result.groups()[0]) > 2 and result.groups()[0][:-1] in files) :
+				if result and len(result.groups()) == 3:
+					if len(result.groups()[0]) > 2 and result.groups()[0][:-1] in files:
 						chapter = result.groups()[0][:-1]
-					if (result.groups()[2] in names and char in names[result.groups()[2]]) :
-						if (result.groups()[1] in names):
+					if result.groups()[2] in names and char in names[result.groups()[2]]:
+						if result.groups()[1] in names:
 							fights = names[result.groups()[1]]
 						else:
 							print(e + result.groups()[1])
-				elif ("<end>" in line):
+				elif "<end>" in line:
 					fights = {}
 					chapter = e
 					ngp = False
@@ -523,7 +523,7 @@ for char in chars:
 								chapters[chapter][fight].append("ng")
 						chapters[chapter][fight].append(line)
 	
-	if (generate_bd):
+	if generate_bd:
 		record = False
 		record_stop = False
 		#todo replace this, its just to skip the header
@@ -533,7 +533,7 @@ for char in chars:
 
 		txtfile = f"./data4/dialog_text_{char}.csv"
 		metafile = f"./data4/dialog_meta_{char}.csv"
-		if (os.path.isfile(metafile)):
+		if os.path.isfile(metafile):
 			with open(metafile, newline='', encoding="utf8") as csvfile:
 				reader = csv.reader(csvfile, delimiter=',')
 				for row in reader:
@@ -541,23 +541,23 @@ for char in chars:
 						skip = False
 						continue 
 					#revenge
-					if (str(row[20]) == "1"):
+					if str(row[20]) == "1":
 						record = True
 					fights = {}
-					if (row[24]):
+					if row[24]:
 						record_stop = True
 						fights = (intersection(row[24].split("|"), chars))
-						if (len(fights) == 0):
+						if len(fights) == 0:
 							continue
 					else:
-						if (record and not record_stop): 
+						if record and not record_stop:
 							fights = [char]
 					
 					nlines = ReadLineNum(txtfile, row[0])
 					lineheader = ""
 					for key, value in atk_type.items():
 						if str(row[key]) == "1":
-							if (lineheader is "") :
+							if lineheader is "":
 								lineheader += value
 							else:
 								lineheader += "| " + value
@@ -565,7 +565,7 @@ for char in chars:
 						lineheader = "^" + lineheader
 						nlines.insert(0, lineheader)
 					for fight in fights :
-						if (fight not in chapters["bd"]):
+						if fight not in chapters["bd"]:
 							chapters["bd"][fight] = []
 						for nline in nlines:
 							chapters["bd"][fight].append(nline)
@@ -602,7 +602,7 @@ for char in chars:
 	for chapter_name, chapter in chapters.items():
 		outp += f'''<div class="chapters" id="{chapter_name}"> '''
 		for fight_name, fight in chapter.items():
-			if (len(fight) != 0 and fight[0] == "ng"):
+			if len(fight) != 0 and fight[0] == "ng":
 				outp += f'''<div class="dialogue" data-ng=1 title="{fight_name.lower()}">'''
 			else:
 				outp += f'''<div class="dialogue" title="{fight_name.lower()}">'''
@@ -610,15 +610,15 @@ for char in chars:
 				if len(line) != 0 and line[0] == '^':
 					outp += f'''<h3>{line[1:]}</h3>'''
 					continue
-				if (line == "ng"):
+				if line == "ng":
 					continue
-				if ((len(line) > 3) and (line[0] != "<")):
+				if (len(line) > 3) and (line[0] != "<"):
 					line_parts = (line.strip()).split(":")
 					if len(line_parts) == 1:
 						outp += f'''<div class ="line"> {line.strip()}</div>'''
 					else:
 						text = line_parts[1]
-						if (len(line_parts) == 3):
+						if len(line_parts) == 3:
 							text +=":"+ line_parts[2]
 						flip = ""
 						if line_parts[0][0] == '%':
