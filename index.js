@@ -326,7 +326,7 @@ function showchar(id, this_button) {
 
 
     if (id.toLowerCase() === pagename.toLowerCase())
-        name = "Yousei1"
+        name = "yousei1"
 
 
     document.querySelector('#img_right').src = `./sprites/${name.toLowerCase()}00.png`;
